@@ -5,7 +5,6 @@ description: "優雅な熱帯魚の女王エンゼルフィッシュ。口の噛
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","エンゼルフィッシュ (Angelfish / Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

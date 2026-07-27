@@ -5,7 +5,6 @@ description: "Guia de cuidados para a dócil Cobra-do-Milho (Corn Snake). Entend
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Cobra-do-Milho / Cobra-do-Milho-Americana (Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

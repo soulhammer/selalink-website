@@ -5,7 +5,6 @@ description: "好奇心旺盛で遊び好きな小型インコ、ホオミドリ
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ホオミドリアカウロコインコ / グリーンチークコニュア (Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "人見知りで大きな音に敏感なロシアンブルー。ス
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ロシアンブルー (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo el matemático Gottfried Wilhelm Leibniz consolidó
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4

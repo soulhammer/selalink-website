@@ -5,7 +5,6 @@ description: "探索无声电影时代的巨匠查理·卓别林在街头观察�
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4

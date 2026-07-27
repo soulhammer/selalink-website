@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","bread"]
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

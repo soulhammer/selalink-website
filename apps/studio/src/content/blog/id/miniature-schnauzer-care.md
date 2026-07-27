@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing Miniature Schnauzer yang cerdas. Pahami p
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Miniature Schnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

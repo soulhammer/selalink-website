@@ -5,7 +5,6 @@ description: "가마(로제트) 털이 특징인 아비시니안 기니피그 �
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","아비시니안 기니피그 (Abyssinian Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

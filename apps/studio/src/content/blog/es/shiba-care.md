@@ -5,7 +5,6 @@ description: "El Shiba Inu es muy independiente y sensible al tacto. Aprenda té
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

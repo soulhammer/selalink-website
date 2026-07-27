@@ -5,7 +5,6 @@ description: "介绍斯多葛派哲学家塞内加在睡前暗室中审视与反
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4

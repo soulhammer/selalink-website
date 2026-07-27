@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk keju berdasark
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","cheese"]
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

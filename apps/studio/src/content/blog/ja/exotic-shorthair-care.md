@@ -5,7 +5,6 @@ description: "愛くるしいぺちゃ顔が魅力のエキゾチックショー
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","エキゾチックショートヘア (Exotic Shorthair)"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

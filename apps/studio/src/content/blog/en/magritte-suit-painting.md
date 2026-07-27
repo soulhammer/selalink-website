@@ -5,7 +5,6 @@ description: "René Magritte, the surrealist painter who wore a neat suit every 
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "귀여운 안데스 소동물 데구(Degu). 꼬리 흔들기와 �
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","데구 (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

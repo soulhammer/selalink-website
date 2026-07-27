@@ -5,7 +5,6 @@ description: "诺贝尔文学奖获得者哲学家伯特兰·罗素。了解他�
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guia de cuidados para o nobre Doberman Pinscher. Interprete o 'Dob
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Doberman Pinscher"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "三国時代の蜀漢の丞相・諸葛亮が、複雑な情勢の
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4

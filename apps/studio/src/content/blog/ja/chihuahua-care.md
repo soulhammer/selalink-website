@@ -5,7 +5,6 @@ description: "勇敢で小さいけれどデリケートなチワワ。頭蓋骨
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","チワワ (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

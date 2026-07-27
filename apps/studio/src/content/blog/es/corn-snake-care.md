@@ -5,7 +5,6 @@ description: "Guía de cuidado para la dócil Serpiente del Maíz (Corn Snake). 
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Serpiente del Maíz / Culebra del Maíz (Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

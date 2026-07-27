@@ -5,7 +5,6 @@ description: "Explora por qué el premio Nobel Pablo Neruda escribió poesía ex
 pubDate: "2026-05-16"
 updatedDate: "2026-05-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/neruda_green_ink_flow.webp"
 app: "buildself"
 formatVersion: 4

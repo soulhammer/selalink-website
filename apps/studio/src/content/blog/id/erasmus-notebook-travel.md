@@ -5,7 +5,6 @@ description: "Pelajari bagaimana cendekiawan Renaisans Desiderius Erasmus menyus
 pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4

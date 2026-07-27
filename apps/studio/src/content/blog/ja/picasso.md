@@ -5,7 +5,6 @@ description: "キュビスムを創始した現代美術の巨匠。夜間に邪
 pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4

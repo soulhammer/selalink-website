@@ -5,7 +5,6 @@ description: "Guide de soins pour le vif Chat Abyssin (Abyssinian). Décryptez l
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chat Abyssin (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guide de soins pour le très intelligent Berger Australien (Aussie
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Berger Australien (Australian Shepherd / Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

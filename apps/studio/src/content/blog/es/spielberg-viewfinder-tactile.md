@@ -5,7 +5,6 @@ description: "Steven Spielberg, el director más exitoso de la historia del cine
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4

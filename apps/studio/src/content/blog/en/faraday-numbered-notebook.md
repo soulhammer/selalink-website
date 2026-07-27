@@ -5,7 +5,6 @@ description: "Discover how physicist Michael Faraday cataloged over 16,000 numbe
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

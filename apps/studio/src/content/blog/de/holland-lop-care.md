@@ -5,7 +5,6 @@ description: "Pflegeanleitung für Holland Lop Zwergwidder. Otitis vorbeugen, Bi
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Holland Lop / Zwergwidder (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

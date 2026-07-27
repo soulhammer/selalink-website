@@ -5,7 +5,6 @@ description: "Explore la pratique historique de l'astronome Carl Sagan chassant 
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 formatVersion: 4

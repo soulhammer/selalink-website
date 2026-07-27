@@ -5,7 +5,6 @@ description: "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁�
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4

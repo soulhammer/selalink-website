@@ -5,7 +5,6 @@ description: "Descubra cómo el explorador Cristóbal Colón mantuvo la serenida
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4

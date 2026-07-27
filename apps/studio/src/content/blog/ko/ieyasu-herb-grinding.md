@@ -5,7 +5,6 @@ description: "도쿠가와 이에야스의 정신 수양법. 매일 생약을 �
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "도쿠가와 이에야스", "생약 조제", "리듬 운동", "인내력", "마인드컨트롤"]
 heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4

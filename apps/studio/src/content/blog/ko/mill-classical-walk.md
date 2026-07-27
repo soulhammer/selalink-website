@@ -5,7 +5,6 @@ description: "자유론의 위대한 지성 존 스튜어트 밀. 매일 아침 
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["위인 습관", "존 스튜어트 밀", "산책 독서", "신경 가소성", "BDNF"]
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4

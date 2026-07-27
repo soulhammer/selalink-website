@@ -5,7 +5,6 @@ description: "Le Welsh Corgi, célèbre pour son derrière mignon et ses pattes 
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "SF小説の開拓者ジュール・ヴェルヌが毎朝5時に実
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Die Malerin Agnes Martin saß vor der Leinwand auf einem Stuhl und
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4

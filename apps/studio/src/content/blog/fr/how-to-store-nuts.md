@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

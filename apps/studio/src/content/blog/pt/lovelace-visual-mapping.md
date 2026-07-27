@@ -5,7 +5,6 @@ description: "Descubra como a primeira programadora do mundo, Ada Lovelace, visu
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lovelace_visual_mapping.webp"
 app: "buildself"
 formatVersion: 4

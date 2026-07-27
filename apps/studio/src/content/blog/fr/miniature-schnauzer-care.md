@@ -5,7 +5,6 @@ description: "Guide de soins pour le vif Schnauzer Miniature. Décryptez la post
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Schnauzer Miniature (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

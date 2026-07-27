@@ -5,7 +5,6 @@ description: "拥有圆滚滚身材与硕大嘴巴的大热两栖宠角蛙（Pac
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","角蛙 / 角花蟾 (Pacman Frog / Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

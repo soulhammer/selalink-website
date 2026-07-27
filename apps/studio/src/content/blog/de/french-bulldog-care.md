@@ -5,7 +5,6 @@ description: "Französische Bulldoggen neigen aufgrund ihres flachen Gesichts zu
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Französische Bulldogge (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

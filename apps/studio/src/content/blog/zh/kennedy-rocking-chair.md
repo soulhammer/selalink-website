@@ -5,7 +5,6 @@ description: "探索约翰·F·肯尼迪如何在冷战惊涛骇浪中忍受剧�
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

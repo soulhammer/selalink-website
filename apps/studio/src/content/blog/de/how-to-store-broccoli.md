@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","broccoli"]
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

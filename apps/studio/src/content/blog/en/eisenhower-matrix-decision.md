@@ -5,7 +5,6 @@ description: "President Eisenhower endured the immense weight of decision-making
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4

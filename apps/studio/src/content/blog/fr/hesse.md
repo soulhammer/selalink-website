@@ -5,7 +5,6 @@ description: "Découvrez comment le prix Nobel et écrivain pacifiste Hermann He
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

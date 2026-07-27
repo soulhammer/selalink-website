@@ -5,7 +5,6 @@ description: "Introducing the 'Mood Pillow', a focus signal used by Louisa May A
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

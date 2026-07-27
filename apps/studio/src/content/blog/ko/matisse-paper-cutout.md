@@ -5,7 +5,6 @@ description: "미술사의 최고 거장 앙리 마티스. 노년의 심각한 �
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "앙리 마티스", "컷아웃", "시각-촉각 자극", "통증 이완"]
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Beagle adalah anjing melacak aroma yang sangat ingin tahu dengan e
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Beagle"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Sebagai presiden besar AS yang wajahnya diukir di Gunung Rushmore,
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/theodore_roosevelt.webp"
 app: "buildself"
 formatVersion: 4

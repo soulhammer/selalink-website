@@ -5,7 +5,6 @@ description: "여성 패션의 혁명을 일군 전설적 디자이너 코코 �
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

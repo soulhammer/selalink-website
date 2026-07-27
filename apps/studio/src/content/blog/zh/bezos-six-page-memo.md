@@ -5,7 +5,6 @@ description: "探索杰夫·贝佐斯在亚马逊禁止PPT演示、要求在会�
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez la routine de simplification des choix pratiquée par B
 pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "首选伴侣爬宠豹纹守宫护理全攻略。解读摇尾警戒
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","豹纹守宫 (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

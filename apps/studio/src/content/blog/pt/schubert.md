@@ -5,7 +5,6 @@ description: "Como o Rei dos Lieder que deixou mais de 600 canções em seus cur
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

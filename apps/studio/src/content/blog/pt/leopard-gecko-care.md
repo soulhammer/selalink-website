@@ -5,7 +5,6 @@ description: "Guia completo de cuidados para o Gecko Leopardo. Interprete os mov
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gecko Leopardo (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

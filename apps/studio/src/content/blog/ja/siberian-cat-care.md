@@ -5,7 +5,6 @@ description: "豊かな三重毛（トリプルコート）を持つ大型猫サ
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","サイベリアン (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

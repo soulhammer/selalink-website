@@ -5,7 +5,6 @@ description: "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4

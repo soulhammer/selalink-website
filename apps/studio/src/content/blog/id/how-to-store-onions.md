@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang bombay 
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","onion"]
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

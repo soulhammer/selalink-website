@@ -111,7 +111,7 @@ const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
   image={heroImage}
   ogType="website"
   structuredData={structuredDataList}
-  keywords={post.data.tags.join(', ')}
+  keywords={post.data.tags?.join(', ')}
 >
   {/* Reading Progress Bar */}
   <div 

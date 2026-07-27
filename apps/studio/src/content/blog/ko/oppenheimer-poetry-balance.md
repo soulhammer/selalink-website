@@ -5,7 +5,6 @@ description: "맨해튼 프로젝트의 수장 오펜하이머. 극심한 중압
 pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Explore how Nobel laureate and nature-loving pacifist writer Herma
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

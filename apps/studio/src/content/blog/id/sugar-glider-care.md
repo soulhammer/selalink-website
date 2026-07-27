@@ -5,7 +5,6 @@ description: "Panduan perawatan Sugar Glider yang penyayang. Pahami suara crabbi
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Sugar Glider / Posum Layang (Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

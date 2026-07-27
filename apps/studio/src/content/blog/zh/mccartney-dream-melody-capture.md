@@ -5,7 +5,6 @@ description: "保罗·麦卡特尼在晨起瞬间从梦境记忆中打捞出披�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4

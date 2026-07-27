@@ -5,7 +5,6 @@ description: "热带观赏鱼之王七彩神仙鱼（Discus Fish）。解读体�
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","七彩神仙鱼 / 盘羊 (Discus Fish / Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

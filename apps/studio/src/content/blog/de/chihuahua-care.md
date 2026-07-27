@@ -5,7 +5,6 @@ description: "Der Chihuahua, der kleinste Krieger. Erfahren Sie, wie Sie seinen 
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Chihuahua (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

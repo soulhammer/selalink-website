@@ -5,7 +5,6 @@ description: "アメリカ文学の巨匠マーク・トウェイン。朝食後
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4

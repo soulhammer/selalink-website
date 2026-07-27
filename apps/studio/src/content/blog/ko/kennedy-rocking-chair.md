@@ -5,7 +5,6 @@ description: "냉전기 위기 속에서 극심한 척추 통증을 견디며 �
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: ["위인 습관", "존 F. 케네디", "스트레스 해소", "척추 건강", "휴식"]
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

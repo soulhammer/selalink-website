@@ -5,7 +5,6 @@ description: "印象派絵画の巨匠クロード・モネ。毎日午前3時30
 pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4

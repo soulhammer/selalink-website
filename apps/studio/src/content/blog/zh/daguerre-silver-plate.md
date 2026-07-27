@@ -5,7 +5,6 @@ description: "探索19世纪法国发明家路易·达盖尔通过银版化学�
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4

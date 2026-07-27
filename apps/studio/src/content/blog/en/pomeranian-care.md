@@ -5,7 +5,6 @@ description: "Pomeranians are highly prone to patellar luxation and tracheal col
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Pomeranian (Canis lupus familiaris)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

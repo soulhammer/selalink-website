@@ -5,7 +5,6 @@ description: "鮮やかな熱帯魚ネオンテトラ。ネオンラインの退
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ネオンテトラ (Neon Tetra / Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

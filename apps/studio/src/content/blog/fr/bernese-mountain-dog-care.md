@@ -5,7 +5,6 @@ description: "Guide de soins pour le doux géant Bouvier Bernois. Décryptez le 
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Bouvier Bernois (Bernese Mountain Dog)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

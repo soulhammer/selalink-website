@@ -5,7 +5,6 @@ description: "안아 올리면 인형처럼 힘을 빼는 사랑스러운 거대
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","렉돌 (Felis catus / Ragdoll)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

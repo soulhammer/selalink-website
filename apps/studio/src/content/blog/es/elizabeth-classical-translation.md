@@ -5,7 +5,6 @@ description: "La reina Isabel I cultivó una feroz racionalidad y lógica traduc
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez comment le géant de la littérature Charles Dickens co
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

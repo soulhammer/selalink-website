@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk daging ayam me
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

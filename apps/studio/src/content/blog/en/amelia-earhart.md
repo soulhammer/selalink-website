@@ -5,7 +5,6 @@ description: "The first female aviator to successfully cross the Atlantic solo, 
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

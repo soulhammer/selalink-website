@@ -5,7 +5,6 @@ description: "Care guide for the mysterious Mexican salamander, the Axolotl. Und
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Axolotl (Mexican Walking Fish)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Philosophie-Gigant Immanuel Kant durch seine
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4

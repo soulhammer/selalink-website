@@ -5,7 +5,6 @@ description: "Descubra cómo Sigmund Freud, el padre del psicoanálisis, restaur
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

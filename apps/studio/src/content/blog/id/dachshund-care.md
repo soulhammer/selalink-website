@@ -5,7 +5,6 @@ description: "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari ca
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

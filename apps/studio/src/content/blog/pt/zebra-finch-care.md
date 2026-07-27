@@ -5,7 +5,6 @@ description: "Guia de cuidados para o alegre Mandarim (Zebra Finch). Interprete 
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Mandarim / Diamante-Mandarim (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

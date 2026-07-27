@@ -5,7 +5,6 @@ description: "Tim Cook, der Chef von Apple, dem größten IT-Unternehmen der Wel
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

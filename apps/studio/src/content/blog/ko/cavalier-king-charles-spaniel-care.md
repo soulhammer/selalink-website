@@ -5,7 +5,6 @@ description: "우아하고 다정한 소형견 카발리에 킹 찰스 스패니
 pubDate: "2026-04-12"
 updatedDate: "2026-04-12"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","카발리에 킹 찰스 스패니얼 (Cavalier King Charles Spaniel)"]
 heroImage: "/images/blog/cavalier_king_charles_spaniel_care.webp"
 app: "petself"
 formatVersion: 4

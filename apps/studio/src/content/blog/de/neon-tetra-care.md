@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den schimmernden Neonsalmler (Neon Tetra). Ve
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Neonsalmler / Neon Tetra (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

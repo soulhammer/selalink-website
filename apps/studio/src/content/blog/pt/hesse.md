@@ -5,7 +5,6 @@ description: "Descubra como o Nobel e escritor pacifista Hermann Hesse lidava co
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

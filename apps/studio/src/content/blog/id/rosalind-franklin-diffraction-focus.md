@@ -5,7 +5,6 @@ description: "Rosalind Franklin melahirkan 'Foto 51', kunci struktur untai ganda
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4

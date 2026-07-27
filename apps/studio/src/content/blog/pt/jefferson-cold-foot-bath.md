@@ -5,7 +5,6 @@ description: "Descubra como Thomas Jefferson, autor principal da Declaração de
 pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Aprenda a controlar el apetito genético del Labrador Retriever, p
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"
 app: "petself"
 formatVersion: 4

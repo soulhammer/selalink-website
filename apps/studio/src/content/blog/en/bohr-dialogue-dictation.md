@@ -5,7 +5,6 @@ description: "Explore how quantum mechanics pioneer Niels Bohr authored complex 
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4

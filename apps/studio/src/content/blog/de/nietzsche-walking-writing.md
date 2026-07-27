@@ -5,7 +5,6 @@ description: "Erkunden Sie die historische Praxis des deutschen Philosophen Frie
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Soin du furet de Marshall enjoué. Apprenez à répondre à sa dan
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Furet de Marshall (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

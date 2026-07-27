@@ -5,7 +5,6 @@ description: "Pelajari bagaimana pahlawan wanita Prancis Joan of Arc mempertahan
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4

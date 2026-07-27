@@ -5,7 +5,6 @@ description: "探索现代集团创始人郑周永会长终生坚持的每天凌
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4

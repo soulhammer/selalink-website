@@ -5,7 +5,6 @@ description: "Guía de cuidado para el gigante gentil Boyero de Berna. Interpret
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Boyero de Berna / Bernés de la Montaña (Bernese Mountain Dog)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

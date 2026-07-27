@@ -5,7 +5,6 @@ description: "주머니유랑류 슈가글라이더(Sugar Glider). 크래빙(개
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","슈가글라이더 / 유칼립투스 주머니다람쥐 (Sugar Glider / Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

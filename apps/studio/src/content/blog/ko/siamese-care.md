@@ -5,7 +5,6 @@ description: "보호자에 대한 의존도가 높고 외로움을 많이 타는
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","샴 고양이 (Siamese)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

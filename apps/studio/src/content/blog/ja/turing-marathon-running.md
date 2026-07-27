@@ -5,7 +5,6 @@ description: "エニグマ暗号を解読したコンピュータ科学の父ア
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4

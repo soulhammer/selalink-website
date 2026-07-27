@@ -5,7 +5,6 @@ description: "条件反射の創始者イワン・パブロフの刺激遮断ル
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4

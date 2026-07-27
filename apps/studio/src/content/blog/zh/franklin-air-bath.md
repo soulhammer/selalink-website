@@ -5,7 +5,6 @@ description: "探索发明避雷针并缔造美国建国伟业的本杰明·富�
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","tofu"]
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

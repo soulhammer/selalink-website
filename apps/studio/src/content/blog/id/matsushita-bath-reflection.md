@@ -5,7 +5,6 @@ description: "Renungan mandi air hangat yang dipraktikkan setiap malam oleh Kono
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

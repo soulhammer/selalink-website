@@ -5,7 +5,6 @@ description: "아르헨티나의 대문호 호르헤 루이스 보르헤스가 �
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索古巴革命英雄切·格瓦拉在游击战极度高压的�
 pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4

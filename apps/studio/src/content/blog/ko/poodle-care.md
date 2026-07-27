@@ -5,7 +5,6 @@ description: "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. �
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","푸들 (Canis lupus familiaris / Poodle)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

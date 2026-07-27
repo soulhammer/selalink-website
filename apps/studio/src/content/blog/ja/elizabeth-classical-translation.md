@@ -5,7 +5,6 @@ description: "毎日朝ラテン語の古典を英語に翻訳し、強靭な理
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

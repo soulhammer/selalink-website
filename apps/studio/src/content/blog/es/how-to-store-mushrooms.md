@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","mushroom"]
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

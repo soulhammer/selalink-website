@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

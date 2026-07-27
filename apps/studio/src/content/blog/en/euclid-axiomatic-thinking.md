@@ -5,7 +5,6 @@ description: "Explore how ancient Greek mathematician Euclid solved complex dile
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "A gigante literária do século XX, Virginia Woolf. Explore a ciê
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

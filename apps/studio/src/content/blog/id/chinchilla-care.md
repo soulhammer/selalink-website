@@ -5,7 +5,6 @@ description: "Chinchilla memiliki gigi yang tumbuh terus-menerus dan peka terhad
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Chinchilla (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

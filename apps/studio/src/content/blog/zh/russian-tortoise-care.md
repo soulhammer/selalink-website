@@ -5,7 +5,6 @@ description: "极喜打洞的经典小型陆龟俄罗斯陆龟（Russian Tortois
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","俄罗斯陆龟 / 霍斯菲尔德陆龟 (Russian Tortoise / Agrionemys horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

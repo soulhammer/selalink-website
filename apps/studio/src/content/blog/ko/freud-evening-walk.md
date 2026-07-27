@@ -5,7 +5,6 @@ description: "정신분석학의 창시자 시그문트 프로이트. 고된 정
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

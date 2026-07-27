@@ -5,7 +5,6 @@ description: "Découvrez comment le héros de l'aviation Charles Lindbergh a acc
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4

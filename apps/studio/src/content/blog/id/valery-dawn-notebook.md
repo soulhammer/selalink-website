@@ -5,7 +5,6 @@ description: "Penyair Paul Valéry bangun jam 4 pagi setiap hari selama 51 tahun
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

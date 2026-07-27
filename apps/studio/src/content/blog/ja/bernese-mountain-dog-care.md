@@ -5,7 +5,6 @@ description: "優雅で穏やかな超大型作業犬バーニーズ・マウン
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","バーニーズ・マウンテン・ドッグ (Bernese Mountain Dog)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

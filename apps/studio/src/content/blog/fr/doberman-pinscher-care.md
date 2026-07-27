@@ -5,7 +5,6 @@ description: "Guide de soins pour le noble Dobermann. Décryptez le 'Dobie Lean'
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Dobermann (Doberman Pinscher)"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

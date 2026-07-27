@@ -5,7 +5,6 @@ description: "El genial compositor Felix Mendelssohn despertaba su inspiración 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4

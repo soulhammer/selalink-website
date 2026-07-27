@@ -5,7 +5,6 @@ description: "친칠라는 평생 자라는 이빨 때문에 부정교합이 오
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","친칠라 (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

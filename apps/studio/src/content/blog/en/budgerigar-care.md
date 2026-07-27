@@ -5,7 +5,6 @@ description: "Care guide for the colorful and intelligent Budgerigar (Budgie). P
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Budgerigar / Budgie"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

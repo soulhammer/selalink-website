@@ -5,7 +5,6 @@ description: "A world-renowned theoretical physicist who overcame ALS. Unable to
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

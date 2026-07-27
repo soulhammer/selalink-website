@@ -5,7 +5,6 @@ description: "堂々たる大自然の魅力を備えた大型爬虫類グリー
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","グリーンイグアナ (Green Iguana / Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

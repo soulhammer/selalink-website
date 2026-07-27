@@ -5,7 +5,6 @@ description: "Toegye Yi Hwang était de constitution fragile, mais a poursuivi s
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4

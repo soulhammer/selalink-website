@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den sanften Riesen Berner Sennenhund. Das Ber
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Berner Sennenhund (Bernese Mountain Dog)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

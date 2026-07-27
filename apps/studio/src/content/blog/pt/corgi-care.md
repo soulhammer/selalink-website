@@ -5,7 +5,6 @@ description: "O Welsh Corgi, famoso por seu traseiro fofo e patas curtas. Descub
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

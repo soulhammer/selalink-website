@@ -5,7 +5,6 @@ description: "나쓰메 소세키가 명작을 남긴 아침 집필 규칙. 영�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "나쓰메 소세키", "루틴", "집필 습관", "작동 흥분", "생산성"]
 heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4

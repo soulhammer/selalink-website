@@ -5,7 +5,6 @@ description: "인류를 전염병에서 구한 의사 에드워드 제너가 매
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4

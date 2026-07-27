@@ -5,7 +5,6 @@ description: "유전학의 위대한 개척자 그레고어 멘델. 수도원 �
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "그레고어 멘델", "데이터 트래킹", "작업 기억", "자기 관리"]
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Der Welsh Corgi, bekannt für seine süße Rückseite und kurzen B
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

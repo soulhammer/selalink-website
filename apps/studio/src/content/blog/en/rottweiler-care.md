@@ -5,7 +5,6 @@ description: "Care guide for the powerful and loyal Rottweiler. Interpret the Ro
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Rottweiler"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

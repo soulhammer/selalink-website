@@ -5,7 +5,6 @@ description: "Découvrez comment le prix Nobel Ernest Hemingway consignait son n
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4

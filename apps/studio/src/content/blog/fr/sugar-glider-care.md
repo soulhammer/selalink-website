@@ -5,7 +5,6 @@ description: "Guide de soins pour l'affectueux Pétaure du Sucre (Sugar Glider).
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Pétaure du Sucre (Sugar Glider / Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

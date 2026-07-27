@@ -5,7 +5,6 @@ description: "Panduan perawatan Parkit Australia (Budgie) yang cerdas dan berwar
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Parkit Australia / Budgie (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

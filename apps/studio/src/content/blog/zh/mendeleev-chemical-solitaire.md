@@ -5,7 +5,6 @@ description: "德米特里·门捷列夫通过将写有元素性质的卡片像�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "주 80 ~ 100시간 이상의 격무를 처리하기 위해 하루 
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: ["위인 습관", "일론 머스크", "생산성 향상", "시간 관리", "타임 블로킹"]
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

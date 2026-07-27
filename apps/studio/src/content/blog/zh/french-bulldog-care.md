@@ -5,7 +5,6 @@ description: "法斗因其短头颅骨骼特征，极易发生呼吸困难和中
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","法国斗牛犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

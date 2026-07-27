@@ -5,7 +5,6 @@ description: "极简主义设计传奇迪特·拉姆斯。介绍他在每天早�
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 formatVersion: 4

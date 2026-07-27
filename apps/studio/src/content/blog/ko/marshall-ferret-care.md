@@ -5,7 +5,6 @@ description: "장난기 많고 유연한 육식 소동물 마샬 페럿. 기쁨�
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","마샬 페럿 (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

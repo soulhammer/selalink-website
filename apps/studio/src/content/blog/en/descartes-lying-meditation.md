@@ -5,7 +5,6 @@ description: "Discover how mathematician and philosopher René Descartes spent h
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4

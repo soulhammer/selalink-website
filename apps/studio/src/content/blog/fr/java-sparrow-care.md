@@ -5,7 +5,6 @@ description: "Guide de soins pour l'adorable Moineau de Java (Java Sparrow). App
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Moineau de Java / Padda de Java (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

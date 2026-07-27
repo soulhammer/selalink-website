@@ -5,7 +5,6 @@ description: "12점 군용 야간 문자를 손가락 한 마디에 들어오는
 pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4

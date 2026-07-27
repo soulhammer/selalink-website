@@ -5,7 +5,6 @@ description: "Caring for the African Pygmy Hedgehog. Understand their unique sel
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","African Pygmy Hedgehog (Atelerix albiventris)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

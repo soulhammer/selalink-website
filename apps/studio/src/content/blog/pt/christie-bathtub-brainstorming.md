@@ -5,7 +5,6 @@ description: "Descubra como a Rainha do Crime Agatha Christie concebeu álibis i
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4

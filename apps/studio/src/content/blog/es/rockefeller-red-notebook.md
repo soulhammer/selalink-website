@@ -5,7 +5,6 @@ description: "John D. Rockefeller, considerado la persona más rica de la histor
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4

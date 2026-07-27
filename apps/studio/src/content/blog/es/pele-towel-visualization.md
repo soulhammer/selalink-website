@@ -5,7 +5,6 @@ description: "Descubra el secreto del Rey Pelé para superar la tensión y maxim
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4

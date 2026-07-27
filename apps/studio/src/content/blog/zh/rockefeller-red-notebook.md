@@ -5,7 +5,6 @@ description: "被视为世界史上首富的约翰·D·洛克菲勒。了解他�
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guia de cuidados para o icônico Sapo Pacman (Ceratophrys). Interp
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Sapo Pacman (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

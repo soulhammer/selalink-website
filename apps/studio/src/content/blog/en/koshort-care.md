@@ -5,7 +5,6 @@ description: "Korean Shorthair, with strong hunting instincts. Learn proper hydr
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Korean Shorthair (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

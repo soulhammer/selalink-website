@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die leuchtende Red Cherry Garnele (Neocaridin
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Rückenstrichgarnele / Red Cherry / Neocaridina (Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

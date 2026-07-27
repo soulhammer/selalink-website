@@ -5,7 +5,6 @@ description: "Guide de soins pour le joueur Conure à joues vertes (Green-cheeke
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Conure à joues vertes (Green-cheeked Conure / Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

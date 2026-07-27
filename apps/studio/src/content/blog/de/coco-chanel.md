@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie die Modepionierin Coco Chanel die Damenmode revo
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

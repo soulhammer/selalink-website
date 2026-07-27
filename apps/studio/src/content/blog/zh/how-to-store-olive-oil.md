@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解食用油/橄榄油的最�
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

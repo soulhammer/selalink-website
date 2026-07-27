@@ -5,7 +5,6 @@ description: "미국의 대표 사상가 랄프 왈도 에머슨. 낮의 산책 
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["사색", "휴식", "기록"]
 heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4

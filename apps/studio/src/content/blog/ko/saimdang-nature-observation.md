@@ -5,7 +5,6 @@ description: "조선 최고의 여류 예술가 신사임당의 자연 관찰을
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "신사임당", "자연 관찰", "창의성", "주의 회복", "뇌과학"]
 heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Legenda desain minimalis Dieter Rams. Pelajari kebiasaannya memban
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rams_morning_swim.webp"
 app: "buildself"
 formatVersion: 4

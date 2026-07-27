@@ -5,7 +5,6 @@ description: "화려하고 똑똑한 소형 앵무새 사랑앵무(Budgie). 테�
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","사랑앵무 / 잉꼬 (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

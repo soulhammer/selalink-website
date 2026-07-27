@@ -5,7 +5,6 @@ description: "소설가 조지 오웰은 매일 아침 여러 신문을 탐독�
 pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
-tags: ["매일 아침 뉴스를 ","Routine"]
 heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk tahu berdasark
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","tofu"]
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

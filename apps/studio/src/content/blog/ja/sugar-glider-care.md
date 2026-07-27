@@ -5,7 +5,6 @@ description: "愛らしい有袋類フクロモモンガ（シュガーグライ
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","フクロモモンガ / シュガーグライダー (Sugar Glider / Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Alfred Nobel, fundador dos Prêmios Nobel. Descubra sua rotina met
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

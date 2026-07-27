@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Ratu Mesir Cleopatra secara fasih menguasai set
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4

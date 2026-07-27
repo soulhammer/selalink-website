@@ -5,7 +5,6 @@ description: "Descubra como o gênio poético americano Emily Dickinson rabiscav
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4

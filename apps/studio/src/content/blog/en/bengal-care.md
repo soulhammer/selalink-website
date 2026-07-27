@@ -5,7 +5,6 @@ description: "Caring for the active and intelligent Bengal cat. Learn to underst
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Bengal Cat (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

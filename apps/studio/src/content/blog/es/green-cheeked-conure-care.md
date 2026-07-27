@@ -5,7 +5,6 @@ description: "Guía de cuidado para la juguetona Cotorra de Mejillas Verdes (Con
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Cotorra de Mejillas Verdes / Conure (Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

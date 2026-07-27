@@ -5,7 +5,6 @@ description: "Como el Rey de las Canciones que dejó más de 600 canciones en su
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

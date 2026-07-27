@@ -5,7 +5,6 @@ description: "Cristiano Ronaldo, one of the world's top footballers. Discover th
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4

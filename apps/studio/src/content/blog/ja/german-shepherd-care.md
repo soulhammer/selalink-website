@@ -5,7 +5,6 @@ description: "勇敢で忠実なジャーマン・シェパード。ボディラ
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ジャーマン・シェパード・ドッグ (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

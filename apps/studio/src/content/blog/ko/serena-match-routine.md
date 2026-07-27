@@ -5,7 +5,6 @@ description: "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["몰입", "의지력", "계획"]
 heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4

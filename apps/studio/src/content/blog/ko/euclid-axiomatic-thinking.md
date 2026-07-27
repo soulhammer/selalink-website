@@ -5,7 +5,6 @@ description: "고대 그리스의 대수학자 유클리드가 복잡한 난제�
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["의사결정", "본질", "집중", "생산성"]
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

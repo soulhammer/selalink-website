@@ -5,7 +5,6 @@ description: "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4

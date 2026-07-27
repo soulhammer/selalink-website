@@ -5,7 +5,6 @@ description: "견종 지능 순위 1위 보더콜리. 넘치는 에너지를 충
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","보더콜리 (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

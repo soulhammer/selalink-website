@@ -5,7 +5,6 @@ description: "천재 작곡가 펠릭스 멘델스존은 매일 아침 풍경을
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "愛くるしい大きな丸耳を持つ高知能ペット、ダン
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ダンボレート (Dumbo Rat / Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

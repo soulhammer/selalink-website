@@ -5,7 +5,6 @@ description: "축구 황제 펠레있 긴장 극복과 경기력 극대화 비�
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
-tags: ["위인 습관", "펠레", "이미지트레이닝", "시각화", "마인드컨트롤"]
 heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4

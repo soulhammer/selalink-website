@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","perilla-oil"]
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

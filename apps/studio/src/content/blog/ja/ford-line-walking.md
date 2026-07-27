@@ -5,7 +5,6 @@ description: "自動車生産のコンベアベルトシステムを発明した
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4

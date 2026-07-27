@@ -5,7 +5,6 @@ description: "『東方見聞録』の著者マルコ・ポーロ。24年間に�
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4

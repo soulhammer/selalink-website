@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk Pisang berdasa
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

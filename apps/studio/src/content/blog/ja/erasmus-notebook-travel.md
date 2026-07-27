@@ -5,7 +5,6 @@ description: "ルネサンスの代表的学者エラズマスが欧州を横断
 pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4

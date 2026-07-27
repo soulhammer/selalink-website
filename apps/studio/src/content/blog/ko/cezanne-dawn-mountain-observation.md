@@ -5,7 +5,6 @@ description: "매일 새벽 6시 생트빅투아르 산을 향해 걸으며 빛�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["사색", "휴식", "창의성"]
 heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4

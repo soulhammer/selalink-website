@@ -5,7 +5,6 @@ description: "深度剖析韩国野兽派画擘李仲燮如何在极度贫困战
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez comment le cofondateur d'Apple, Steve Jobs, préservait
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4

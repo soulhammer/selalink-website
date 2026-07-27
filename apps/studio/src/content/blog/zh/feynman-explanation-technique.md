@@ -5,7 +5,6 @@ description: "探索诺贝尔奖得主理查德·费曼将繁复的量子力学�
 pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4

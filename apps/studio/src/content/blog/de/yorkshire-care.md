@@ -5,7 +5,6 @@ description: "Erfahren Sie die Geheimnisse für ein seidiges Yorkie-Fell und ein
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

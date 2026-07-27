@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","squid"]
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "通过不断步行扩展思考的古希腊智慧化身苏格拉底
 pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Marco Polo, Autor von 'Die Wunder der Welt'. Entdecken Sie seine T
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4

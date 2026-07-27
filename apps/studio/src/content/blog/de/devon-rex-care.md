@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die elfengleiche Devon Rex mit softem Lockenf
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Devon Rex"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

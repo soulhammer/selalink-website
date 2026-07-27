@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Kaisar Romawi Marcus Aurelius menulis jurnal se
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

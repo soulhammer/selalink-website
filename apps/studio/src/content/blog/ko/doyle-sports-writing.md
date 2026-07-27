@@ -5,7 +5,6 @@ description: "의사이자 작가 아서 코난 도일이 왜 집필 전에 복�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위인 습관", "생산성"]
 heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "拥有蓝眼或异瞳的白毛土耳其安哥拉猫遗传性先天
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","土耳其安哥拉猫 (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

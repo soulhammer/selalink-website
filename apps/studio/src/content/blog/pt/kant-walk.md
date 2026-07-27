@@ -5,7 +5,6 @@ description: "Descubra como o gigante da filosofia moderna Immanuel Kant manteve
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4

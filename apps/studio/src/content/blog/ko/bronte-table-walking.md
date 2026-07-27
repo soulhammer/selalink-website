@@ -5,7 +5,6 @@ description: "'제인 에어'의 작가 샬롯 브론테가 매일 밤 자매들
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
 heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "高い知能ゆえに退屈しやすいプードル。知能的ス
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","プードル (Canis lupus familiaris / Poodle)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

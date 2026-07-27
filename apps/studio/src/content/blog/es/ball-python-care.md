@@ -5,7 +5,6 @@ description: "Guía de cuidado para la dócil Pitón Bola (Ball Python). Interpr
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pitón Bola / Pitón Real (Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

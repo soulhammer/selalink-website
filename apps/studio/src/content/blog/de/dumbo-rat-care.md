@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die hochintelligente Dumbo-Ratte mit tief sit
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Dumbo-Ratte (Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

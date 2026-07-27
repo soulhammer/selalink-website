@@ -5,7 +5,6 @@ description: "天文学者ヨハネス・ケプラーが惑星の楕円軌道を
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4

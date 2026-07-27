@@ -5,7 +5,6 @@ description: "毎晩眠りにつく前に1日の言動を3度振り返り省察�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4

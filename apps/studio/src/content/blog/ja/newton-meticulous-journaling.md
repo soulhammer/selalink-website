@@ -5,7 +5,6 @@ description: "人類最高の科学者アイザック・ニュートン。生涯
 pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/newton_meticulous_journaling.webp"
 app: "buildself"
 formatVersion: 4

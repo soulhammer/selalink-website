@@ -5,7 +5,6 @@ description: "Discover how Victor Hugo shaved half his hair and beard to prevent
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

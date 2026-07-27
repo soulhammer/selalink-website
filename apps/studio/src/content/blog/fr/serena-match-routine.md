@@ -5,7 +5,6 @@ description: "Serena Williams, qui respectait rigoureusement des routines d'avan
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "音楽史上最も精巧な技巧を誇ったピアニスト、フ
 pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4

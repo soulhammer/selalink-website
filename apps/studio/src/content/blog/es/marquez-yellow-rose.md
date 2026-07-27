@@ -5,7 +5,6 @@ description: "Por qué Gabriel García Márquez, autor de Cien años de soledad,
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4

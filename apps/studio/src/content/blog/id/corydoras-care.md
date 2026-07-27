@@ -5,7 +5,6 @@ description: "Panduan perawatan ikan dasar hias Corydoras Catfish. Pahami sinyal
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Corydoras / Ikan Corydoras (Corydoras Catfish)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

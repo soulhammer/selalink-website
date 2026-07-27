@@ -5,7 +5,6 @@ description: "Panduan perawatan Piton Bola (Ball Python). Pahami perilaku menggu
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Piton Bola / Sanca Bola (Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

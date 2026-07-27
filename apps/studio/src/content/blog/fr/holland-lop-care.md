@@ -5,7 +5,6 @@ description: "Guide complet pour le lapin Holland Lop. Prévenez les otites, dé
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Holland Lop / Lapin Bélier (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "온순한 비어디 드래곤 도마뱀 케어법. 머리를 흔�
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","비어디 드래곤 (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

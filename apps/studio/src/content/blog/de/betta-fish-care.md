@@ -5,7 +5,6 @@ description: "Pflegeanleitung für Siamesische Kampffische (Betta). Imponierverh
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Siamesischer Kampffisch (Betta splendens)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "軽快な鳴き声とゼブラ模様が魅力の小型観賞鳥キ
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","キンカチョウ / 錦花鳥 (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

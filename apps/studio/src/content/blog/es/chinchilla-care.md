@@ -5,7 +5,6 @@ description: "Las chinchillas tienen dientes de crecimiento continuo y son muy s
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Chinchilla (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

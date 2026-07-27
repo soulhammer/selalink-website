@@ -5,7 +5,6 @@ description: "Samoyeds are majestic sled dogs prone to hip dysplasia and skin in
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Samoyed (Canis lupus familiaris)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

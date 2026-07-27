@@ -226,12 +226,6 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
             hasAppPetSelf,
             `오류: 반려동물 포스트인 ${fileName}의 frontmatter에 'app: "petself"'가 지정되어 있지 않습니다.`
           ).toBe(true);
-
-          const hasTags = fmLines.some(line => line.trim().startsWith('tags:'));
-          expect(
-            hasTags,
-            `오류: 반려동물 포스트인 ${fileName}의 frontmatter에 'tags' 필드가 정의되어 있지 않습니다.`
-          ).toBe(true);
         }
 
         // ----------------------------------------------------

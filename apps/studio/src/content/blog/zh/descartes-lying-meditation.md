@@ -5,7 +5,6 @@ description: "探索现代哲学之父兼数学家勒内·笛卡尔每天清晨�
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4

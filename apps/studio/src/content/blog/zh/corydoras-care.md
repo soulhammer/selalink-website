@@ -5,7 +5,6 @@ description: "活跃在水族箱底层的可爱小型观赏鱼鼠鱼（Corydoras
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","鼠鱼 / 甲鲶 (Corydoras Catfish / Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

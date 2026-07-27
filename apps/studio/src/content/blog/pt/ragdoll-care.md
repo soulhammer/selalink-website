@@ -5,7 +5,6 @@ description: "Ragdolls, os gatos gigantes que relaxam como bonecos ao colo. Desc
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Ragdoll (Felis catus)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

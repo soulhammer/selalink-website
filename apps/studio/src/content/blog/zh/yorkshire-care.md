@@ -5,7 +5,6 @@ description: "专为约克夏梗犬设计的丝质被毛梳理秘诀与髌骨关
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","约克夏梗 (Yorkshire Terrier)"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

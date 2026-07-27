@@ -5,7 +5,6 @@ description: "눌린 얼굴과 순한 성격이 매력적인 엑조틱 숏헤어
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","엑조틱 숏헤어 (Exotic Shorthair)"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

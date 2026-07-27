@@ -5,7 +5,6 @@ description: "具有威严大自然魅力的著名大型爬宠绿鬣蜥（Green 
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","绿鬣蜥 (Green Iguana / Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

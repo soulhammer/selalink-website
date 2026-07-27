@@ -5,7 +5,6 @@ description: "终其一生通过抄写前辈作曲家的乐谱将数学规则内
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4

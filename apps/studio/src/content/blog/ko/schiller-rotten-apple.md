@@ -5,7 +5,6 @@ description: "독일의 대문호 프리드리히 실러는 서랍 속 썩은 �
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: ["서랍 속 썩은 사과","Routine"]
 heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4

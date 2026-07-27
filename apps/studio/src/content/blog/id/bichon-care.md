@@ -5,7 +5,6 @@ description: "Terkenal dengan tampilan bulat putihnya, Bichon sangat ramah. Temu
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Bichon Frise (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

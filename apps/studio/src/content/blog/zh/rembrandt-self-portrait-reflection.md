@@ -5,7 +5,6 @@ description: "伦勃朗·哈尔曼松·范·莱因一生绘制了80多幅自画�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4

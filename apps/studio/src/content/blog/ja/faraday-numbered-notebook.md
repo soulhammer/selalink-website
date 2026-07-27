@@ -5,7 +5,6 @@ description: "生涯16,000個を超える実験項目に番号を振って記録
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

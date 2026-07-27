@@ -5,7 +5,6 @@ description: "영리하고 언어 능력이 뛰어난 퀘이커 앵무(Quaker Pa
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","퀘이커 앵무 (Quaker Parrot / Monk Parakeet)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

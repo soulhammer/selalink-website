@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","beef"]
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

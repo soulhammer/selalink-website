@@ -5,7 +5,6 @@ description: "Pelajari rutinitas menulis yang dipraktikkan filsuf eksistensialis
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

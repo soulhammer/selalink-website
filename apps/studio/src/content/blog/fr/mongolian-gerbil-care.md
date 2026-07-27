@@ -5,7 +5,6 @@ description: "Guide de soins pour la curieuse Gerbille de Mongolie. Décryptez l
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Gerbille de Mongolie (Mongolian Gerbil / Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

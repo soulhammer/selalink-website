@@ -5,7 +5,6 @@ description: "世紀のボクサー、ムハメド・アリ。試合前の極度
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4

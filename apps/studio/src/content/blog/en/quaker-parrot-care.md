@@ -5,7 +5,6 @@ description: "Care guide for the intelligent Quaker Parrot (Monk Parakeet). Inte
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Quaker Parrot (Monk Parakeet / Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

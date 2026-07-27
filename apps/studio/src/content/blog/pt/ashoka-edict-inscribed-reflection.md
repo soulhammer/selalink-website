@@ -5,7 +5,6 @@ description: "Ashoka, o Grande do Império Maurya na Índia. Descubra sua rotina
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4

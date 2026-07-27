@@ -5,7 +5,6 @@ description: "Descubra cómo el macroeconomista John Maynard Keynes, que superó
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4

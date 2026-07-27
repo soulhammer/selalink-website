@@ -5,7 +5,6 @@ description: "Guia de cuidados para o curioso Gerbil da Mongólia (Esquilo da Mo
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gerbil da Mongólia / Esquilo da Mongólia (Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra como o naturalista Charles Darwin percorria seu caminho d
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储�
 pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","squid"]
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

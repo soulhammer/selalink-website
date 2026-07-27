@@ -5,7 +5,6 @@ description: "高智商智利小宠智利八齿鼠（Degu）。解读摇尾与�
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","智利八齿鼠 / 德古鼠 (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

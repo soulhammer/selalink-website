@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","strawberry"]
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

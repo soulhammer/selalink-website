@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing Shih Tzu yang penyayang. Pahami bersin te
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

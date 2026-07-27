@@ -5,7 +5,6 @@ description: "Guide de soins pour le poisson de fond Corydoras. Décryptez la re
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Corydoras (Corydoras Catfish)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

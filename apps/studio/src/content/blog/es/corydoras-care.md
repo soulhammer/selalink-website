@@ -5,7 +5,6 @@ description: "Guía de cuidado para el pez de fondo Corydora (Corydoras Catfish)
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Corydora (Corydoras Catfish / Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

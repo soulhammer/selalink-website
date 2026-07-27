@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","milk"]
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "バロック音楽の巨匠アントニオ・ヴィヴァルディ
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "马克斯·普朗克在结束物理学研究后通过在钢琴上�
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo el médico rural Edward Jenner inventó la vacuna c
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4

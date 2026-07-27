@@ -5,7 +5,6 @@ description: "Descubra como a lendária ensaísta americana Joan Didion dormia n
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4

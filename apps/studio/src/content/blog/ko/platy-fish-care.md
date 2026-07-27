@@ -5,7 +5,6 @@ description: "꼬리지느러미의 미키마우스 무늬가 귀여운 난태�
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","미키마우스 플래티 (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

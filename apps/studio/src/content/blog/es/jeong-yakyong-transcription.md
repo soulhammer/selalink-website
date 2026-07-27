@@ -5,7 +5,6 @@ description: "Descubra cómo Dasan Jeong Yak-yong, el gran erudito Silhak de Jos
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4

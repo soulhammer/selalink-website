@@ -5,7 +5,6 @@ description: "매일 똑같은 티셔츠와 청바지를 입는 단순한 유니
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["의사결정", "단순화", "생산성"]
 heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Ratu Elizabeth I mengasah rasionalitas dan kemampuan logis yang ta
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Explore o segredo fundamental do sucesso de Warren Buffett — ler
 pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4

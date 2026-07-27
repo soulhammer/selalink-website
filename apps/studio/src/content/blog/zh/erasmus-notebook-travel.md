@@ -5,7 +5,6 @@ description: "探索文艺复兴巨擘埃罗士谟如何在穿梭欧洲的马背
 pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4

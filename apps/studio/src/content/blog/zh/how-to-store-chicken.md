@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解鸡肉的最佳储存温度
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

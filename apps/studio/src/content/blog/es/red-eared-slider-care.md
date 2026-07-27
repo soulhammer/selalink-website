@@ -5,7 +5,6 @@ description: "Guía de cuidado para la tortuga semiacuática Galápago de Orejas
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Galápago de Orejas Rojas / Tortuga de Orejas Rojas (Trachemys scripta elegans)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

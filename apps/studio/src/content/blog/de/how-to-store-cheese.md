@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","cheese"]
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

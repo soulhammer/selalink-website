@@ -5,7 +5,6 @@ description: "Alfred Nobel, fondateur des Prix Nobel. Découvrez sa routine mét
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

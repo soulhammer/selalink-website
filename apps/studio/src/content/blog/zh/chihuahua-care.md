@@ -5,7 +5,6 @@ description: "勇敢娇小但也有脆弱一面的吉娃娃。介绍保护其颅
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","吉娃娃 (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

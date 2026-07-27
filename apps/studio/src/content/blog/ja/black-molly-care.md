@@ -5,7 +5,6 @@ description: "漆黒の美しい体色と活発な泳ぎが魅力の熱帯魚ブ
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ブラックモーリー (Black Molly / Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

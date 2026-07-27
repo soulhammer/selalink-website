@@ -5,7 +5,6 @@ description: "Découvrez comment le maître de la littérature argentine Jorge L
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4

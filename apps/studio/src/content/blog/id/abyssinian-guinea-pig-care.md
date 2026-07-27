@@ -5,7 +5,6 @@ description: "Perawatan esensial untuk marmut Abyssinian berbulu pusaran (rosett
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Marmut Abyssinian (Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

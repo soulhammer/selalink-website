@@ -5,7 +5,6 @@ description: "'피터 래빗'의 저자 비아트릭스 포터가 매일 아침 
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4

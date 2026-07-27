@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-01-07"
 updatedDate: "2026-01-07"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","green-onion"]
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guía de cuidado del Pez Betta de magníficas aletas. Comprenda la
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pez Betta (Betta splendens / Luchador de Siam)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

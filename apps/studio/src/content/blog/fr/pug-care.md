@@ -5,7 +5,6 @@ description: "Guide de soins pour le charmant Carlin. Décryptez le penchement d
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Carlin (Pug)"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

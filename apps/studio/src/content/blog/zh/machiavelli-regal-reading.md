@@ -5,7 +5,6 @@ description: "政治家尼科洛·马基雅维利即使流放乡间，每天傍�
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4

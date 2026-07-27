@@ -5,7 +5,6 @@ description: "극적인 인지적 도약을 이뤄낸 말콤 X. 감옥 안에서
 pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
-tags: ["위인 습관", "말콤 X", "필사 학습", "뇌 자극", "집중력"]
 heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4

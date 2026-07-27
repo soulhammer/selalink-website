@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Sigmund Freud, der Begründer der Psychoanalyse,
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

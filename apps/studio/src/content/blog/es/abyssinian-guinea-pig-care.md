@@ -5,7 +5,6 @@ description: "Cuidado esencial para la cobaya abisinia de pelo con rosetas. Apre
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Cobaya Abisinia"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

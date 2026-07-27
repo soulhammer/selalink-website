@@ -5,7 +5,6 @@ description: "Pelajari bagaimana penemu Prancis abad ke-19 Louis Daguerre mencip
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4

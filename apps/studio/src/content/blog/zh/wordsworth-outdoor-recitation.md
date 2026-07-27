@@ -5,7 +5,6 @@ description: "浪漫主义诗人威廉·华兹华斯在大自然中漫步，将�
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4

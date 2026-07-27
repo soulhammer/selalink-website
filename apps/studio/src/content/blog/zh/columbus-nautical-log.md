@@ -5,7 +5,6 @@ description: "探索越过未知大西洋的探险家哥伦布在风暴与恐惧
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4

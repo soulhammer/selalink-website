@@ -5,7 +5,6 @@ description: "Nobel laureate Toni Morrison reset her thoughts and entered writin
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4

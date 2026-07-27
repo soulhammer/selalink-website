@@ -5,7 +5,6 @@ description: "Care guide for the striking Gargoyle Gecko. Learn to decode color-
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Gargoyle Gecko (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

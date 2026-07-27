@@ -5,7 +5,6 @@ description: "Tim Cook, el líder de Apple, la empresa de TI más grande del mun
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

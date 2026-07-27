@@ -5,7 +5,6 @@ description: "Descubra os segredos de escovação para manter o pelo sedoso do Y
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

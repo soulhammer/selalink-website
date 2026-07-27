@@ -5,7 +5,6 @@ description: "31세의 짧은 생애 동안 600곡 이상의 가곡을 남긴 �
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

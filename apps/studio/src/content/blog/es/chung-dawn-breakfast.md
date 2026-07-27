@@ -5,7 +5,6 @@ description: "Descubra cómo el fundador del Grupo Hyundai, Ju-Yung Chung, mantu
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4

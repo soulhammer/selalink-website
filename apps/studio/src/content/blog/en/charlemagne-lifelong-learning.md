@@ -5,7 +5,6 @@ description: "Discover how Charlemagne, founder of Western Europe, kept wax tabl
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4

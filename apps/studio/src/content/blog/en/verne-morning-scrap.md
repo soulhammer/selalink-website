@@ -5,7 +5,6 @@ description: "Explore the index card clipping habit executed every morning at 5 
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4

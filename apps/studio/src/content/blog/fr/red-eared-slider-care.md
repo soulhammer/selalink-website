@@ -5,7 +5,6 @@ description: "Guide de soins pour la célèbre tortue semi-aquatique à tempes r
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Tortue à Tempes Rouges / Tortue de Floride (Trachemys scripta elegans)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

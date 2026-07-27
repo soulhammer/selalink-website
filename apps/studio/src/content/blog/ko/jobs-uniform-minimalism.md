@@ -5,7 +5,6 @@ description: "애플의 창업자 스티브 잡스. 항상 검은 터틀넥과 �
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Discover the 4 AM meditation routine of John Milton, who composed 
 pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

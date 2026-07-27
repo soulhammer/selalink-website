@@ -5,7 +5,6 @@ description: "영롱한 관상용 수초 새우 체리 새우(Cherry Shrimp / Ne
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","체리 새우 / 네오카리디나 (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

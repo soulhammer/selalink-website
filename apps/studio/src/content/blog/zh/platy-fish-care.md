@@ -5,7 +5,6 @@ description: "尾鳍带有可爱米老鼠图案的卵胎生观赏鱼米老鼠月
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","米老鼠月光鱼 (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

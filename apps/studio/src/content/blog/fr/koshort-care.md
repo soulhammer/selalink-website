@@ -5,7 +5,6 @@ description: "Le shorthair coréen, aux instincts de chasse développés. Appren
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Shorthair Coréen (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

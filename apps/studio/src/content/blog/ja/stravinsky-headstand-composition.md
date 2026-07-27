@@ -5,7 +5,6 @@ description: "作曲中にスランプに陥るたびに三転立（倒立）を
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guía para el leal Pastor Alemán. Interprete su lenguaje corporal
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pastor Alemán (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

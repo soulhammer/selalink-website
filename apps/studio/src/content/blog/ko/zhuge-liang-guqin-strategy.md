@@ -5,7 +5,6 @@ description: "삼국시대 촉한의 승상 제갈량이 복잡한 정세 속에
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4

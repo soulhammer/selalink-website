@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk wortel berdasa
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","carrot"]
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

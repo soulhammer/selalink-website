@@ -5,7 +5,6 @@ description: "The multitasking switching routine of sci-fi master Isaac Asimov, 
 pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4

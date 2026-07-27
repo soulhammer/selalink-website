@@ -5,7 +5,6 @@ description: "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위인 습관", "센노 리큐", "정원 청소", "동적 명상", "인지 노이즈", "마음챙김"]
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "愛くるしい垂れ耳のホーランドロップ。外耳炎予
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ホーランドロップ (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

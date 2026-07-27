@@ -5,7 +5,6 @@ description: "以结实身架和圆圆大脸而闻名的英国短毛猫。介绍
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","英国短毛猫 (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guía de cuidado para el afectuoso Petauro del Azúcar (Sugar Glid
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Petauro del Azúcar (Sugar Glider / Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

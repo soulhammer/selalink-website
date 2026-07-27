@@ -5,7 +5,6 @@ description: "抱起时像玩偶般全身放松的可爱大型长毛布偶猫。
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","布偶猫 (Felis catus / Ragdoll)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

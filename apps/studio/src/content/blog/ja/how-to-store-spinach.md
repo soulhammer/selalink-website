@@ -5,7 +5,6 @@ description: "公的安全基準に基づくほうれん草の最適な保存温
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

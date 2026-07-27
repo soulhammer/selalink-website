@@ -5,7 +5,6 @@ description: "Descubra cómo el conquistador Gengis Kan despejaba el ruido menta
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Charles Schulz fixed his daily meals and working environment compl
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guia de cuidados para o elegante Acará-Bandeira / Peixe-Anjo (Ang
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Acará-Bandeira / Peixe-Anjo (Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

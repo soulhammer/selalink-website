@@ -5,7 +5,6 @@ description: "Panduan perawatan kucing menggemaskan bagai peri Devon Rex yang be
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Devon Rex"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

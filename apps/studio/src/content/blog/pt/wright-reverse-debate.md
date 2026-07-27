@@ -5,7 +5,6 @@ description: "Os irmãos Wright inventaram o primeiro avião a motor. Descubra s
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "화려한 울음소리의 상징 카나리아(Canary). 갑작스�
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","카나리아 (Canary / Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

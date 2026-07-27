@@ -5,7 +5,6 @@ description: "여름마다 알프스 숲속 오두막에 자신을 격리하고 
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위인 습관", "구스타프 말러", "집중", "사색", "환경", "창의성"]
 heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "针对拥有旋转毛旋的阿比西尼亚天竺鼠（豚鼠）护
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","阿比西尼亚天竺鼠 (Abyssinian Guinea Pig)"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

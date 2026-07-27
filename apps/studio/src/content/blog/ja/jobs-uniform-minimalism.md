@@ -5,7 +5,6 @@ description: "アップルの創業者スティーブ・ジョブズ。常に黒
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4

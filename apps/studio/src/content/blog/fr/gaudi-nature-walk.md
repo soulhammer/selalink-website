@@ -5,7 +5,6 @@ description: "Découvrez comment l'architecte de génie Antoni Gaudí a transpos
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4

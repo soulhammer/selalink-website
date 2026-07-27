@@ -5,7 +5,6 @@ description: "Pelajari cara mengelola nafsu makan genetik Labrador Retriever, me
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"
 app: "petself"
 formatVersion: 4

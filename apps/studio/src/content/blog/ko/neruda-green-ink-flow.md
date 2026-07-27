@@ -5,7 +5,6 @@ description: "노벨문학상 수상자 파블로 네루다가 평생 오직 초
 pubDate: "2026-05-16"
 updatedDate: "2026-05-16"
 category: "BuildSelf"
-tags: ["창의력", "아이디어", "글쓰기", "영감"]
 heroImage: "/images/blog/neruda_green_ink_flow.webp"
 app: "buildself"
 formatVersion: 4

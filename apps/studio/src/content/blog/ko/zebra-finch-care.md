@@ -5,7 +5,6 @@ description: "경쾌한 울음소리와 얼룩말 무늬가 매력적인 소형 
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","금화조 (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

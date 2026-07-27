@@ -5,7 +5,6 @@ description: "The genius mathematician who designed computer architecture and ga
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "미국의 천재 시인 에밀리 디킨슨이 부엌에서 빵을
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
 heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "노벨문학상 수상자이자 숲과 자연을 사랑한 평화�
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

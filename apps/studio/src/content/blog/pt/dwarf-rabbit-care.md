@@ -5,7 +5,6 @@ description: "Cuidado da raça de coelho mais pequena, o anão de Holanda. Apren
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Coelho Anão de Holanda (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

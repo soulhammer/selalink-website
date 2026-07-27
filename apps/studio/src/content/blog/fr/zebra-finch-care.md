@@ -5,7 +5,6 @@ description: "Guide de soins pour le joyeux Diamant Mandarin. Décryptez le fré
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Diamant Mandarin (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

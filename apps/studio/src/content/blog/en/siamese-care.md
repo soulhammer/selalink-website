@@ -5,7 +5,6 @@ description: "Siamese cats are highly dependent on owners and prone to separatio
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Siamese"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

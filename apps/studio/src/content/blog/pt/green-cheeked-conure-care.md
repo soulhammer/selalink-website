@@ -5,7 +5,6 @@ description: "Guia de cuidados para o brincalhão Conure de Bochecha Verde (Gree
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Conure de Bochecha Verde / Tiriba (Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guide de soins pour la mystérieuse salamandre mexicaine, l'axolot
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Axolotl (Salamandre Mexicaine)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Cuidado del galápago almizclado común. Conozca el significado de
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4

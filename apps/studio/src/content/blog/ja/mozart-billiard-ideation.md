@@ -5,7 +5,6 @@ description: "楽想が浮かばない時にビリヤードを楽しみ無意識
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

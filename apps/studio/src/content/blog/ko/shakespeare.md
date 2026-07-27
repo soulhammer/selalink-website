@@ -5,7 +5,6 @@ description: "세계 문학사상 최고의 극작가 윌리엄 셰익스피어.
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "윌리엄 셰익스피어", "창의성", "계획"]
 heroImage: "/images/blog/shakespeare.webp"
 app: "buildself"
 formatVersion: 4

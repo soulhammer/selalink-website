@@ -5,7 +5,6 @@ description: "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan pe
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

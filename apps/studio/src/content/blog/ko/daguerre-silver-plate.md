@@ -5,7 +5,6 @@ description: "19세기 프랑스의 발명가 루이 다게르가 은판 화학 
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["찰나", "사진", "화학", "기록"]
 heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4

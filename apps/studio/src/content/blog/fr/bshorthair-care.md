@@ -5,7 +5,6 @@ description: "Le British Shorthair est aimé pour sa carrure trapue. Découvrez 
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","British Shorthair (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

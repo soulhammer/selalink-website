@@ -5,7 +5,6 @@ description: "探索推理小说之王阿加莎·克里斯蒂在热水浴缸里�
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4

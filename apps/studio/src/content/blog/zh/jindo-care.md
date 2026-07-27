@@ -5,7 +5,6 @@ description: "介绍珍岛犬的正确社会化训练方法，以及如何管理
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","珍岛犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "500권 이상의 저서를 남긴 SF 거장 아이작 아시모프
 pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
 heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4

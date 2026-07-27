@@ -5,7 +5,6 @@ description: "Os Beagles são cães de caça extremamente curiosos e enérgicos.
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Beagle"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

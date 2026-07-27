@@ -5,7 +5,6 @@ description: "Care guide for the pixie-like Devon Rex with a soft wavy coat. Int
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Devon Rex"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

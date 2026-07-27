@@ -5,7 +5,6 @@ description: "열대어의 왕 디스커스(Discus Fish). 체색 어두워짐 �
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","디스커스 (Discus Fish / Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

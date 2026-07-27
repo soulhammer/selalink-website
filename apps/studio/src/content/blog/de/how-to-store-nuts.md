@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

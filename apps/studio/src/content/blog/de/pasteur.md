@@ -5,7 +5,6 @@ description: "Erfahren Sie mehr über Louis Pasteur, den Vater der Pasteurisieru
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

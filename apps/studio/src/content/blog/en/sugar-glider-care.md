@@ -5,7 +5,6 @@ description: "Care guide for the affectionate Sugar Glider. Interpret crabbing s
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Sugar Glider (Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

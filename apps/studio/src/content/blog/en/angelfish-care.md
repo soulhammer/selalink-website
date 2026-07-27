@@ -5,7 +5,6 @@ description: "Care guide for the elegant Angelfish. Interpret jaw-locking fights
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Angelfish (Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

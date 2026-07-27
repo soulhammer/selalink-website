@@ -5,7 +5,6 @@ description: "勇敢忠诚的德国牧羊犬护理指南。解读其肢体语言
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","德国牧羊犬 (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

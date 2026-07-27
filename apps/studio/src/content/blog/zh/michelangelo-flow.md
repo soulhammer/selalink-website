@@ -5,7 +5,6 @@ description: "文艺复兴时期最高的大师米开朗基罗·博那罗蒂。�
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4

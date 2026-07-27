@@ -5,7 +5,6 @@ description: "Kucing Siamese sangat bergantung pada pemiliknya. Temukan tips ika
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Siamese"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

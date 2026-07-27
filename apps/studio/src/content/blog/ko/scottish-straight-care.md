@@ -5,7 +5,6 @@ description: "동글동글 귀여운 스코티시 스트레이트(Scottish Strai
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","스코티시 스트레이트 (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

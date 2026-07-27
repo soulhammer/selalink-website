@@ -5,7 +5,6 @@ description: "John Stuart Mill, pemikir besar di balik 'On Liberty'. Pelajari ke
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4

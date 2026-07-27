@@ -5,7 +5,6 @@ description: "사모예드는 빽빽한 이중모로 인한 피부 질환과 대
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","사모예드 (Canis lupus familiaris / Samoyed)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

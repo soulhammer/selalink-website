@@ -5,7 +5,6 @@ description: "Cuidado de la raza de conejo más pequeña, el enano de Holanda. A
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Conejo Enano de Holanda (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

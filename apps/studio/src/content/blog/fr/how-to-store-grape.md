@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","grape"]
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

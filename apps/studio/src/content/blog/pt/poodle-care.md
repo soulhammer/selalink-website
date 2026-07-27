@@ -5,7 +5,6 @@ description: "Descubra como aliviar o tédio em poodles inteligentes com jogos m
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

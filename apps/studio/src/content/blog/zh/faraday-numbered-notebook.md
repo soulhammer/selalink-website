@@ -5,7 +5,6 @@ description: "深度剖析物理学家迈克尔·法拉第终身编排超16,000�
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

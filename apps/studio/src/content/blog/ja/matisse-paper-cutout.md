@@ -5,7 +5,6 @@ description: "美術史の巨匠アンリ・マティス。晩年の深刻なが
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

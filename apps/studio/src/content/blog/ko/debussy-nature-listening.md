@@ -5,7 +5,6 @@ description: "인상주의 음악의 거장 클로드 드뷔시가 새벽 숲의
 pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4

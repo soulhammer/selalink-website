@@ -5,7 +5,6 @@ description: "Panduan perawatan Crested Gecko yang unik. Cegah MBD, jaga kelemba
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Crested Gecko (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
 app: "petself"
 formatVersion: 4

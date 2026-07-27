@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

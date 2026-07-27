@@ -5,7 +5,6 @@ description: "La primera aviadora en cruzar en solitario el Atlántico con éxit
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

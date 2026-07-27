@@ -5,7 +5,6 @@ description: "アフリカの密林の病院で毎夜バッハのオルガンを
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4

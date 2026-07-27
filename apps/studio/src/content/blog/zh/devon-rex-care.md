@@ -5,7 +5,6 @@ description: "拥有精灵般面容与柔软卷毛的德文卷毛猫（Devon Rex
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","德文卷毛猫 (Devon Rex)"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "戦争と経済危機のストレスの中でも、毎夜切手の
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4

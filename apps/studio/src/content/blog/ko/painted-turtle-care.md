@@ -5,7 +5,6 @@ description: "화려한 붉은색과 노란색 무늬가 매력적인 페인티�
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","페인티드 터틀 / 니시키가메 (Painted Turtle / Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

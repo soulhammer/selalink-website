@@ -5,7 +5,6 @@ description: "探索存在主义哲学先驱索伦·克尔凯郭尔如何在推�
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4

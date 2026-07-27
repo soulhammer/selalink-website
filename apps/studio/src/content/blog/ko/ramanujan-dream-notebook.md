@@ -5,7 +5,6 @@ description: "정수론과 무한급수의 천재 스리니바사 라마누잔. 
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/ramanujan_dream_notebook.webp"
 app: "buildself"
 formatVersion: 4

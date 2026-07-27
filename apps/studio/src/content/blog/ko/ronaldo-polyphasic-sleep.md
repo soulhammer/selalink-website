@@ -5,7 +5,6 @@ description: "세계 최고의 공격수 크리스티아누 호날두. 하루에
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4

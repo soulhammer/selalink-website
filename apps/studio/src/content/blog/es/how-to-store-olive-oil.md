@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

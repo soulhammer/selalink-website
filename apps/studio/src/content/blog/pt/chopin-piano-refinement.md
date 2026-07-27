@@ -5,7 +5,6 @@ description: "Descubra como o mestre romântico Frédéric Chopin tocava melodia
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "難しい量子力学を10歳の子どもでも理解できるよ�
 pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4

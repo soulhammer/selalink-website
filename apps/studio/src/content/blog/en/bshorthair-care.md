@@ -5,7 +5,6 @@ description: "British Shorthairs are loved for their chunky build. Discover a 3-
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","British Shorthair (Felis catus)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

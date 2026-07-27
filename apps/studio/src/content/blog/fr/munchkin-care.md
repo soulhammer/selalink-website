@@ -5,7 +5,6 @@ description: "Soins du chat Munchkin aux pattes courtes. Apprenez à détecter l
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chat Munchkin (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

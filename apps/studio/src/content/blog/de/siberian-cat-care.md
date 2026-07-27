@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die majestätische Sibirische Katze mit dreif
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Sibirische Katze (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

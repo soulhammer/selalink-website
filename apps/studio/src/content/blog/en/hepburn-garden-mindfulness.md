@@ -5,7 +5,6 @@ description: "Discover how Hollywood legend Audrey Hepburn preserved inner tranq
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4

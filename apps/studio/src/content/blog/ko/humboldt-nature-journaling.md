@@ -5,7 +5,6 @@ description: "근대 생태학과 지리학의 아버지 알렉산더 폰 훔볼
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4

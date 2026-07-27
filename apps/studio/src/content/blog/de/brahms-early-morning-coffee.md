@@ -5,7 +5,6 @@ description: "Entdecken Sie, wie der deutsche Klassikmeister Johannes Brahms jed
 pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4

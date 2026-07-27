@@ -5,7 +5,6 @@ description: "Discover how legendary film director Stanley Kubrick created maste
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4

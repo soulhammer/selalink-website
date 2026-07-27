@@ -5,7 +5,6 @@ description: "Discover how Lee Kuan Yew, founding Prime Minister of Singapore, m
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

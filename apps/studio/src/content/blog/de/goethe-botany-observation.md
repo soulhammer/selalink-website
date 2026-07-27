@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Johann Wolfgang von Goethe durch die morgendlich
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4

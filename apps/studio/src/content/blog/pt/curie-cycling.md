@@ -5,7 +5,6 @@ description: "Descubra como Marie Curie, a primeira mulher a ganhar um Prêmio N
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

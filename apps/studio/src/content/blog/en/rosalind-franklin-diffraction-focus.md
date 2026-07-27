@@ -5,7 +5,6 @@ description: "Rosalind Franklin created 'Photo 51', crucial to unlocking the DNA
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4

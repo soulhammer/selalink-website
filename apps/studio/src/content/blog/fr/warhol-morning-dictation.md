@@ -5,7 +5,6 @@ description: "Andy Warhol téléphonait chaque matin à son assistante pour dict
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

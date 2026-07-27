@@ -5,7 +5,6 @@ description: "Discover grooming secrets to keep your Yorkie's single coat silky 
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

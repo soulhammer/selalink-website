@@ -5,7 +5,6 @@ description: "Die Koreanisch Kurzhaar mit starkem Jagdinstinkt. Erfahren Sie meh
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Koreanisch Kurzhaar (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

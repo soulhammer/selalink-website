@@ -5,7 +5,6 @@ description: "Discover quantum physics titan Erwin Schrödinger's earplug habit.
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4

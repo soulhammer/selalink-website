@@ -5,7 +5,6 @@ description: "Découvrez comment Alexander Fleming, l'inventeur de la pénicilli
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4

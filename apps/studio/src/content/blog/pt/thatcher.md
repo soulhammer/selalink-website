@@ -5,7 +5,6 @@ description: "Como Primeira-Ministra britânica conhecida como a Dama de Ferro, 
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4

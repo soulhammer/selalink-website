@@ -5,7 +5,6 @@ description: "Beatrix Potter, penulis 'Peter Rabbit', mengamati struktur halus t
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4

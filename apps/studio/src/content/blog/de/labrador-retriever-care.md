@@ -5,7 +5,6 @@ description: "Lernen Sie, wie Sie den genetisch bedingten Appetit des Labrador R
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Labrador Retriever"]
 heroImage: "/images/blog/labrador_retriever_care.webp"
 app: "petself"
 formatVersion: 4

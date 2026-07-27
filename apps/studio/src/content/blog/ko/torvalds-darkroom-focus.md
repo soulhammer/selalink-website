@@ -5,7 +5,6 @@ description: "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 �
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

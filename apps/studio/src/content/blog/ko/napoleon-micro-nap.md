@@ -5,7 +5,6 @@ description: "치열한 격무 중 15분간의 낮잠으로 뇌의 에너지를 
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["위인 습관", "나폴레옹 보나파르트", "휴식", "낮잠", "생체 리듬"]
 heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4

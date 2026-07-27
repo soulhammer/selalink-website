@@ -5,7 +5,6 @@ description: "Care guide for the adorable livebearer Mickey Mouse Platy. Interpr
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Mickey Mouse Platy (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

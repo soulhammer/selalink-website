@@ -5,7 +5,6 @@ description: "尾ヒレのミッキーマウス模様が愛らしい卵胎生観
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ミッキーマウスプラティ (Mickey Mouse Platy / Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

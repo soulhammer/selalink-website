@@ -5,7 +5,6 @@ description: "El antiguo filósofo griego Platón era conocido por su apodo de l
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4

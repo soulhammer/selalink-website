@@ -5,7 +5,6 @@ description: "Care guide for the intelligent Chilean Degu. Interpret tail waggin
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

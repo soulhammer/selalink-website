@@ -5,7 +5,6 @@ description: "探索17世纪天才布莱士·帕斯卡通过高难度数学沉�
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4

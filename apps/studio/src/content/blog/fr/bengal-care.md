@@ -5,7 +5,6 @@ description: "Prendre soin du chat Bengal, actif et intelligent. Décryptez son 
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Bengal (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

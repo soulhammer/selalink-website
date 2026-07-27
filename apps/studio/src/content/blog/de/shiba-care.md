@@ -5,7 +5,6 @@ description: "Der Shiba Inu ist unabhängig und berührungsempfindlich. Lernen S
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

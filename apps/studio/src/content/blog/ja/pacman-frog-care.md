@@ -5,7 +5,6 @@ description: "まんまるな体と大きな口が魅力のツノガエル（パ
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","パックマンフロッグ / ツノガエル (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

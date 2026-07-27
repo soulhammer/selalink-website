@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk bayam berdasar
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

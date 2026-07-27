@@ -5,7 +5,6 @@ description: "Guía de cuidado para la activa y excavadora Tortuga Rusa (Russian
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Tortuga Rusa / de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

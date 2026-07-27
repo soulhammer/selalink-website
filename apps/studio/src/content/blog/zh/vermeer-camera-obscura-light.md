@@ -5,7 +5,6 @@ description: "光影大师约哈尼斯·维米尔通过暗箱（camera obscura�
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4

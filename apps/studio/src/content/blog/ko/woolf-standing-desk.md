@@ -5,7 +5,6 @@ description: "20세기 문학 거장 버지니아 울프. 화가였던 언니의
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "버지니아 울프", "스탠딩데스크", "집중력", "생산성"]
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

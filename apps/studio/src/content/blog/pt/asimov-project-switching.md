@@ -5,7 +5,6 @@ description: "A rotina de alternância multitarefa do mestre da ficção cientí
 pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4

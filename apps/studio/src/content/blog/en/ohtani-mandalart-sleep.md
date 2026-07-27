@@ -5,7 +5,6 @@ description: "Shohei Ohtani rewrites modern baseball history. Discover the neuro
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4

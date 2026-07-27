@@ -5,7 +5,6 @@ description: "미국 독립선언서의 주저자 토머스 제퍼슨이 60년�
 pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
 heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4

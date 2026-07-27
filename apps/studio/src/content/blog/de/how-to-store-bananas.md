@@ -5,7 +5,6 @@ description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit f√
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

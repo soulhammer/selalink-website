@@ -5,7 +5,6 @@ description: "Descubra como Martinho Lutero, sob a intensa pressão da Reforma P
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

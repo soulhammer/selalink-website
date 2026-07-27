@@ -5,7 +5,6 @@ description: "Descubra como o físico Michael Faraday catalogou mais de 16.000 e
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

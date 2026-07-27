@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","avocado"]
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

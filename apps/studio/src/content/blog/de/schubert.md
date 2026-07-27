@@ -5,7 +5,6 @@ description: "Als König der Lieder, der in seinen kurzen 31 Lebensjahren über 
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

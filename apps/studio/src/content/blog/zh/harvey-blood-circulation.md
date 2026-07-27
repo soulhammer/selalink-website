@@ -5,7 +5,6 @@ description: "探索17世纪英国医师威廉·哈维如何通过心搏输出�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4

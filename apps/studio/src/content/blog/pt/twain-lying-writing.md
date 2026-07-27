@@ -5,7 +5,6 @@ description: "Descubra o hábito único de escrita de Mark Twain, um gigante da 
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4

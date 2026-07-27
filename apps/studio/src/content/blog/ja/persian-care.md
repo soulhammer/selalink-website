@@ -5,7 +5,6 @@ description: "優雅な毛並みを持つペルシアン。特有の涙による
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ペルシアン猫 (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

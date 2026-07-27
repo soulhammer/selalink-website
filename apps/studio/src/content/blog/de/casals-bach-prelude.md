@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie der legendäre Cellist Pablo Casals über 80 Jah
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo Epicteto, el maestro estoico nacido en la esclavitu
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4

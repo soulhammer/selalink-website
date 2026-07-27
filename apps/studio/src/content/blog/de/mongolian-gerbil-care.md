@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die neugierige Mongolische Rennmaus (Mongolia
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Mongolische Rennmaus (Mongolian Gerbil / Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

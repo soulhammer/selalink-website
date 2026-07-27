@@ -5,7 +5,6 @@ description: "探索移动流水线先驱亨利·福特如何通过巡视工厂�
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4

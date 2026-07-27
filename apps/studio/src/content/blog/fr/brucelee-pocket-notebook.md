@@ -5,7 +5,6 @@ description: "Découvrez comment l'artiste martial et icône du cinéma du XXe s
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Welsh Corgi terkenal dengan bagian belakangnya yang lucu dan kakin
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

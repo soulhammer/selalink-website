@@ -5,7 +5,6 @@ description: "Entdecken Sie, wie Elon Musk 80–100-Stunden-Arbeitswochen bewäl
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

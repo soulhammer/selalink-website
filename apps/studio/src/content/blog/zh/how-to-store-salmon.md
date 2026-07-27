@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解三文鱼/鲑鱼的最佳�
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","salmon"]
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

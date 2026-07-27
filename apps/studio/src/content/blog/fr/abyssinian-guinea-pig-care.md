@@ -5,7 +5,6 @@ description: "Soins essentiels pour le cochon d'Inde abyssinien aux poils en ros
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Cochon d'Inde Abyssinien"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

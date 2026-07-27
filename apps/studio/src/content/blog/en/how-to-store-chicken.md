@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

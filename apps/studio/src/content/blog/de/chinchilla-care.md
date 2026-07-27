@@ -5,7 +5,6 @@ description: "Chinchillas haben ständig wachsende Zähne und reagieren empfindl
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Chinchilla (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

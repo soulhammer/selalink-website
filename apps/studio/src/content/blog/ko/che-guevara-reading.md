@@ -5,7 +5,6 @@ description: "쿠바 혁명의 영웅 체 게바라가 게릴라전이라는 극
 pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
 heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "聪明勇敢的迷你雪纳瑞（Miniature Schnauzer）护理指�
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","迷你雪纳瑞 (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

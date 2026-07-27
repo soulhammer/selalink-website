@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","tomato"]
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

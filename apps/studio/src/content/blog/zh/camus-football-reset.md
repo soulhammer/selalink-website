@@ -5,7 +5,6 @@ description: "探索法国诺贝尔文学奖得主兼哲学家阿尔贝·加缪�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4

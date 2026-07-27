@@ -5,7 +5,6 @@ description: "Descubra cómo Confucio, maestro del pensamiento oriental, afinaba
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4

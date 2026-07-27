@@ -5,7 +5,6 @@ description: "Explore how Rachel Carson, pioneer of the modern environmental mov
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4

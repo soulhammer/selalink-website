@@ -5,7 +5,6 @@ description: "纳尔逊·曼德拉在长达27年的监禁生涯中，坚持每�
 pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4

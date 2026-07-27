@@ -5,7 +5,6 @@ description: "Pelajari bagaimana novelis Gustave Flaubert, yang terobsesi dengan
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4

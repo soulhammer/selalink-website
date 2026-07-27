@@ -5,7 +5,6 @@ description: "Pflegeanleitung für Unzertrennliche (Lovebirds). PTFE-Gase vermei
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Unzertrennliche / Lovebird (Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

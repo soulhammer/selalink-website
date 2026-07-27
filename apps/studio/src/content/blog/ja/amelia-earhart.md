@@ -5,7 +5,6 @@ description: "大西洋単独横断に成功した初の女性飛行士で、毎
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

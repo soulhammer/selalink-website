@@ -5,7 +5,6 @@ description: "Soin du hérisson pygmée africain. Comprenez ses comportements un
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Hérisson Pygmée Africain (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

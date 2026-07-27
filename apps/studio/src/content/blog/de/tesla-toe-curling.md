@@ -5,7 +5,6 @@ description: "Genie und Erfinder Nikola Tesla krümmte jeden Abend im Bett seine
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 formatVersion: 4

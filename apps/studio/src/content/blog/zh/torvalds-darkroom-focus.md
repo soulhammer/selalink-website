@@ -5,7 +5,6 @@ description: "Linux 和 Git 的创始人林纳斯·托瓦兹。探讨他如何�
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "楽譜を描く前に午前5時に起きてサンタガタ農場�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

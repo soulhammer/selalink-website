@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Alexander Fleming, der Entdecker des Penicillins
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Henri Cartier-Bresson, maestro fotojurnalisme m
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4

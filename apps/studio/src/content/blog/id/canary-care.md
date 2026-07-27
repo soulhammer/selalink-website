@@ -5,7 +5,6 @@ description: "Panduan perawatan burung Kenari yang merdu. Pahami sinyal berhenti
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kenari (Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

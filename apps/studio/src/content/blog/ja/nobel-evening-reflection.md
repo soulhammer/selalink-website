@@ -5,7 +5,6 @@ description: "ノーベル賞創設者アルフレッド・ノーベル。昼間
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "世界的なベストセラー小説家村上春樹。彼の徹底
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

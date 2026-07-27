@@ -5,7 +5,6 @@ description: "사냥개 혈통으로 호기심과 운동량이 강한 비글. �
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","비글 (Beagle)"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

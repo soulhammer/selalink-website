@@ -5,7 +5,6 @@ description: "深度剖析缔造庞大帝国的征服者成吉思汗在面对重
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

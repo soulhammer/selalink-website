@@ -5,7 +5,6 @@ description: "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4

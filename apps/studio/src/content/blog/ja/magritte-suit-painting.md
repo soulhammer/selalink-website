@@ -5,7 +5,6 @@ description: "毎日スーツを端正に着こなし、居間のイーゼルの
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "俄罗斯伟大的作曲家彼得·伊里奇·柴可夫斯基为�
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4

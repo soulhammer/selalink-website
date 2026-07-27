@@ -5,7 +5,6 @@ description: "Aprenda jogos cognitivos e cuidados articulares para o ativo Borde
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

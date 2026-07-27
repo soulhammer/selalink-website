@@ -5,7 +5,6 @@ description: "Pelajari cara membersihkan sebum minyak kulit dan mengatur suhu tu
 pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Sphynx (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4

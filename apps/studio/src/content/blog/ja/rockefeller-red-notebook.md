@@ -5,7 +5,6 @@ description: "世界史上最高の富豪とされるジョン・D・ロック�
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4

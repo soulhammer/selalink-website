@@ -5,7 +5,6 @@ description: "La reine Élisabeth Ire cultivait une rationalité et une logique 
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "绚丽聪慧的虎皮鹦鹉（Budgie）护理指南。预防特氟
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Rembrandt van Rijn beobachtete seinen Alterungsprozess visuell zut
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4

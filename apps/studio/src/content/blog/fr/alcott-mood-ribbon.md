@@ -5,7 +5,6 @@ description: "Découvrez le 'Mood Pillow' (l'oreiller d'humeur), un signal d'imm
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

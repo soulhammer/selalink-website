@@ -5,7 +5,6 @@ description: "鮮やかな熱帯魚グッピー。ヒレ閉じや水面でのパ
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","グッピー (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

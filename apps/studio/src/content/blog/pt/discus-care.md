@@ -5,7 +5,6 @@ description: "Guia de cuidados para o Rei do Aquário, o Peixe Disco (Discus Fis
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Peixe Disco (Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

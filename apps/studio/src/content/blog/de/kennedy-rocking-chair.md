@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie John F. Kennedy die USA in den Krisen des Kalten
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

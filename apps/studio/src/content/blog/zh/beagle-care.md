@@ -5,7 +5,6 @@ description: "拥有猎犬血统、充满好奇心和运动量的比格犬。介
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","比格犬 (Beagle)"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

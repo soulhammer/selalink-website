@@ -5,7 +5,6 @@ description: "伊丽莎白一世女王每天清晨将拉丁语古典名著翻译
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

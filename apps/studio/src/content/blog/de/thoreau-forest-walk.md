@@ -5,7 +5,6 @@ description: "Vorgestellt wird die tägliche 4-stündige Spaziergangsroutine von
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

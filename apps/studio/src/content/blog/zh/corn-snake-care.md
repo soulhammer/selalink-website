@@ -5,7 +5,6 @@ description: "温和绚丽的入门宠物蛇玉米蛇（Corn Snake）护理指�
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","玉米蛇 (Corn Snake / Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

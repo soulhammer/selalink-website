@@ -5,7 +5,6 @@ description: "公的安全基準に基づくチーズの最適な保存温度、
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","cheese"]
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

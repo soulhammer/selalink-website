@@ -5,7 +5,6 @@ description: "Care guide for the docile Corn Snake. Interpret tail rattling and 
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Corn Snake (Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

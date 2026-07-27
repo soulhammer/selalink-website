@@ -5,7 +5,6 @@ description: "記憶が歪められる前に観察した事実を現場ですぐ
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4

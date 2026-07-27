@@ -5,7 +5,6 @@ description: "Descubra cómo la legendaria diseñadora Coco Chanel revolucionó 
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

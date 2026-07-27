@@ -5,7 +5,6 @@ description: "温顺鬃狮蜥的日常照顾方法。解读其头部的社交信
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","鬃狮蜥 (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

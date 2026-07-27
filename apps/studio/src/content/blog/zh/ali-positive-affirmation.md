@@ -5,7 +5,6 @@ description: "世纪顶尖拳手穆罕默德·阿里。为您介绍他在赛前�
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4

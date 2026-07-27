@@ -5,7 +5,6 @@ description: "Wolfgang Amadeus Mozart aktivierte sein unterbewusstes Gehirn (DMN
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

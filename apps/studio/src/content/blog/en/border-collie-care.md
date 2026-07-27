@@ -5,7 +5,6 @@ description: "Learn cognitive games and joint care tips for active Border Collie
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Border Collie"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

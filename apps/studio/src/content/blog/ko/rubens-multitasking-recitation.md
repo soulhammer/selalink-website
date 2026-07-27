@@ -5,7 +5,6 @@ description: "바로크 양식의 거장 루벤스는 그림을 그리면서 역
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Caring for the smallest rabbit breed, the Netherland Dwarf. Learn 
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Netherland Dwarf Rabbit (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

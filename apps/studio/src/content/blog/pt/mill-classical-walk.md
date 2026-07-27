@@ -5,7 +5,6 @@ description: "John Stuart Mill, o grande intelectual por trás de 'Sobre a Liber
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4

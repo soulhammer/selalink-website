@@ -5,7 +5,6 @@ description: "Discover how to relieve boredom in highly intelligent Poodles with
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Poodle (Canis lupus familiaris)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

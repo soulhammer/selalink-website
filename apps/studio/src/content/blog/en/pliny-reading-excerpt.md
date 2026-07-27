@@ -5,7 +5,6 @@ description: "Shares the note-taking secrets of Roman scholar Pliny the Elder, w
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

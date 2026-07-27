@@ -5,7 +5,6 @@ description: "Discover how Kim Koo, leader of the Provisional Government of the 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4

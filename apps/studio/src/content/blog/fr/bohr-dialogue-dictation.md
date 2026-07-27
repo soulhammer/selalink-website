@@ -5,7 +5,6 @@ description: "Découvrez comment Niels Bohr, géant de la mécanique quantique, 
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4

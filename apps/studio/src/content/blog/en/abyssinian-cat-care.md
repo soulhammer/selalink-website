@@ -5,7 +5,6 @@ description: "Care guide for the sleek Abyssinian. Interpret head-butting and pa
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Abyssinian (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

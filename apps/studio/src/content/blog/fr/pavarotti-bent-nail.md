@@ -5,7 +5,6 @@ description: "Explique l'effet apaisant neuroscientifique caché derrière la su
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4

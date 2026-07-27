@@ -5,7 +5,6 @@ description: "Explore como Henri Cartier-Bresson, mestre do fotojornalismo moder
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4

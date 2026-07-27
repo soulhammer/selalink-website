@@ -5,7 +5,6 @@ description: "Le poète romantique William Wordsworth arpentait la nature, ajust
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4

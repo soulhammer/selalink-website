@@ -5,7 +5,6 @@ description: "公的安全基準に基づくトマトの最適な保存温度、
 pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","tomato"]
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

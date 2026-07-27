@@ -5,7 +5,6 @@ description: "Comprehensive care guide for Betta Fish with magnificent flowing f
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Betta Fish (Betta splendens / Siamese Fighting Fish)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

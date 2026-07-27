@@ -5,7 +5,6 @@ description: "Guy de Maupassant, le maître de la nouvelle française. Une routi
 pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/maupassant_rowing_reset.webp"
 app: "buildself"
 formatVersion: 4

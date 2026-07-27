@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Joseons bedeutendster Silhak-Gelehrter, Dasan Je
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4

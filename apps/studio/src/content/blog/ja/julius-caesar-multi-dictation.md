@@ -5,7 +5,6 @@ description: "多忙な軍事・行政任務の中でも、複数の書記官に
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

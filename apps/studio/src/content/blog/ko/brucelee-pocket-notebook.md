@@ -5,7 +5,6 @@ description: "20세기 무술가이자 액션 스타 브루스 리(이소룡). �
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "이탈리아 최초의 여성 의사이자 교육학자 마리아 
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4

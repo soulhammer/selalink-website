@@ -5,7 +5,6 @@ description: "Henri Matisse, um dos maiores mestres da história da arte. Descub
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

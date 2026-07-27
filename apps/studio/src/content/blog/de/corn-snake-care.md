@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die friedliche Kornnatter (Corn Snake). Schwa
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Kornnatter (Corn Snake / Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

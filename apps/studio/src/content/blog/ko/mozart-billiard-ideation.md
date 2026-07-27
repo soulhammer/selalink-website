@@ -5,7 +5,6 @@ description: "악상이 떠오르지 않을 때 당구를 치며 무의식 뇌(D
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

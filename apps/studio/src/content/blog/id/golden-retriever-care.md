@@ -5,7 +5,6 @@ description: "Golden Retriever yang ramah dan cerdas. Temukan tips untuk mencega
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Golden Retriever (Canis lupus familiaris)"]
 heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4

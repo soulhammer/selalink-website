@@ -5,7 +5,6 @@ description: "Pelajari rutinitas menulis larut malam dan stimulasi kopi yang dip
 pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4

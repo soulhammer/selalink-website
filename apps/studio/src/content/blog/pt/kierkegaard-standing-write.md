@@ -5,7 +5,6 @@ description: "Descubra como o filósofo existencialista Søren Kierkegaard prese
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kierkegaard_standing_write.webp"
 app: "buildself"
 formatVersion: 4

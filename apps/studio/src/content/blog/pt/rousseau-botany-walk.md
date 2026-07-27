@@ -5,7 +5,6 @@ description: "Conheça a rotina de Jean-Jacques Rousseau de classificar e coleta
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

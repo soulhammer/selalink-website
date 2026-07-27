@@ -5,7 +5,6 @@ description: "公的安全基準に基づくキノコの最適な保存温度、
 pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","mushroom"]
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

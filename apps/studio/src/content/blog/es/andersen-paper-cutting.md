@@ -5,7 +5,6 @@ description: "El mundialmente famoso autor de cuentos de hadas Hans Christian An
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4

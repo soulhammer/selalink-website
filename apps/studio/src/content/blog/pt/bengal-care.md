@@ -5,7 +5,6 @@ description: "Cuidado do gato Bengal, ativo e inteligente. Aprenda a decifrar a 
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Bengal (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

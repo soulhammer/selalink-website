@@ -5,7 +5,6 @@ description: "범신론 철학자 스피노자가 대표작 『에티카』를 �
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["신체노동", "이완", "몰입", "근세"]
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

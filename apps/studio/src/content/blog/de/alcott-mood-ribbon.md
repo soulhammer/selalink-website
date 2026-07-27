@@ -5,7 +5,6 @@ description: "Wir stellen das 'Mood Pillow' (Stimmungskissen) vor, ein Fokus-Sig
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

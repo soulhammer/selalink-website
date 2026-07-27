@@ -5,7 +5,6 @@ description: "Rutinitas perilaku sangat presisi yang dijalankan tepat sebelum lo
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4

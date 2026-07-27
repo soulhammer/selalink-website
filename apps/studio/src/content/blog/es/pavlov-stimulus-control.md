@@ -5,7 +5,6 @@ description: "Descubra la rutina de bloqueo de estímulos del fundador del condi
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4

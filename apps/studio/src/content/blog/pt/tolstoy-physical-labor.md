@@ -5,7 +5,6 @@ description: "De onde o gigante literário Liev Tolstói tirava a energia para e
 pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4

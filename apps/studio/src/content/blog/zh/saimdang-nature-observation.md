@@ -5,7 +5,6 @@ description: "朝鲜时代伟大的女性艺术家申师任堂通过自然观察
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

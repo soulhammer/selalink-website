@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Maler Lee Jung-seob trotz extremer Armut sei
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4

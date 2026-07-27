@@ -5,7 +5,6 @@ description: "经济学家约瑟夫·熊彼特每天晚上在日记中评估学�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4

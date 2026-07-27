@@ -5,7 +5,6 @@ description: "털이 없는 스핑크스 고양이를 위한 피부 유분 및 �
 pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","스핑크스 (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4

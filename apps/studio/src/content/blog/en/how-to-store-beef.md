@@ -5,7 +5,6 @@ description: "Learn the best storage temperature, methods, and shelf life for be
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","beef"]
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

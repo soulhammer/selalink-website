@@ -5,7 +5,6 @@ description: "Marcel Proust, Autor des Meisterwerks 'Auf der Suche nach der verl
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4

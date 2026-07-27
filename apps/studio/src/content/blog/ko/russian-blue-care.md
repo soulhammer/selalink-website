@@ -5,7 +5,6 @@ description: "겁이 많고 낯선 소음에 민감한 러시안 블루. 스트�
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","러시안 블루 (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4

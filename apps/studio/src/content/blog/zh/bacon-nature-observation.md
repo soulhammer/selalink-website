@@ -5,7 +5,6 @@ description: "探索经验论大师弗兰西斯·培根每天早晨在花园散�
 pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

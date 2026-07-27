@@ -5,7 +5,6 @@ description: "Freundliche und intelligente Golden Retriever. Erfahren Sie Tipps 
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Golden Retriever (Canis lupus familiaris)"]
 heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4

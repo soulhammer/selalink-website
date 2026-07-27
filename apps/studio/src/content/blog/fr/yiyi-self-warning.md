@@ -5,7 +5,6 @@ description: "L'autodiscipline grâce au 'Jagyeongmun' établi à l'âge de 20 a
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4

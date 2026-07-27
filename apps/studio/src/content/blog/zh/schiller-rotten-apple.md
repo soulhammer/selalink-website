@@ -5,7 +5,6 @@ description: "德国伟大的文学家弗里德里希·席勒在抽屉里腐烂�
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4

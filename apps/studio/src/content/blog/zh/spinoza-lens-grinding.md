@@ -5,7 +5,6 @@ description: "探讨泛神论哲学家斯宾诺莎在撰写代表作《伦理学
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

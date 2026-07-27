@@ -5,7 +5,6 @@ description: "Aprenda métodos de socialização para o cão Jindo e cuidados co
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Cão Jindo (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

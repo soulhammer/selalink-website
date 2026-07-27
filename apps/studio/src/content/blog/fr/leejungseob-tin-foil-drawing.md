@@ -5,7 +5,6 @@ description: "Découvrez comment le peintre Lee Jung-seob a maintenu sa passion 
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4

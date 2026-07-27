@@ -5,7 +5,6 @@ description: "世界中で愛されるラブラドール・レトリバー。食
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ラブラドール・レトリバー (Labrador Retriever)"]
 heroImage: "/images/blog/labrador_retriever_care.webp"
 app: "petself"
 formatVersion: 4

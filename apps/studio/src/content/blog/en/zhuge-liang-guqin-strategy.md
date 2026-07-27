@@ -5,7 +5,6 @@ description: "Discover how Zhuge Liang, Prime Minister of Shu Han during the Thr
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4

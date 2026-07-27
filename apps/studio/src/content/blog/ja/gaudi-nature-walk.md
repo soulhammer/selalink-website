@@ -5,7 +5,6 @@ description: "天才建築家アントニ・ガウディ。毎日4kmずつバル
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4

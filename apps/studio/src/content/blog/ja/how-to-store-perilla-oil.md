@@ -5,7 +5,6 @@ description: "公的安全基準に基づくエゴマ油の最適な保存温度
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","perilla-oil"]
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

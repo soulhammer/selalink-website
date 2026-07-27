@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","blueberry"]
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

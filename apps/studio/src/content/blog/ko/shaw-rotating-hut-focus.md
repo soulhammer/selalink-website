@@ -5,7 +5,6 @@ description: "노벨상과 아카데미상을 휩쓴 극작가 버나드 쇼. �
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["집중", "생산성", "휴식"]
 heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 formatVersion: 4

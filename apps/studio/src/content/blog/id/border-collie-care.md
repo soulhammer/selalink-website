@@ -5,7 +5,6 @@ description: "Latih otak Border Collie dengan permainan kognitif dan perlindunga
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

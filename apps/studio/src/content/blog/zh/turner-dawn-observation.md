@@ -5,7 +5,6 @@ description: "“光之画家”特纳独创的色彩表现力源于他每天清
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4

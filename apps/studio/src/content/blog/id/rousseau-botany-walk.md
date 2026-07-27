@@ -5,7 +5,6 @@ description: "Pelajari rutinitas Jean-Jacques Rousseau dalam mengklasifikasikan 
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

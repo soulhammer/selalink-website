@@ -5,7 +5,6 @@ description: "Ragdolls, los gatos gigantes que se relajan como muñecos al carga
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Ragdoll (Felis catus)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

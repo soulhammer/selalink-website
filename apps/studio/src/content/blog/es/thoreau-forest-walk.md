@@ -5,7 +5,6 @@ description: "Presentamos la rutina diaria de caminata de 4 horas de Henry David
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

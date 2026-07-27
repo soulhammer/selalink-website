@@ -5,7 +5,6 @@ description: "朝鮮の救国英雄・李舜臣将軍。戦場の極度の重圧
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

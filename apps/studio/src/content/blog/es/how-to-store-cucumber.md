@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "La geneticista Barbara McClintock, ganadora del Premio Nobel, mant
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4

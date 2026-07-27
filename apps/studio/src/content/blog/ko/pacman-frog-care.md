@@ -5,7 +5,6 @@ description: "동그란 몸과 커다란 입이 매력적인 양서류 팩맨 �
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","팩맨 뿔개구리 (Pacman Frog / Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

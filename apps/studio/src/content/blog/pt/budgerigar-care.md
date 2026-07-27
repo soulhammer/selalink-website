@@ -5,7 +5,6 @@ description: "Guia de cuidados para o colorido e inteligente Periquito-Australia
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Periquito-Australiano (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

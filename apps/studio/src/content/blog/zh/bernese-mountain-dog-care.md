@@ -5,7 +5,6 @@ description: "性格温和高贵的大型工作犬伯恩山犬（Bernese Mountai
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","伯恩山犬 (Bernese Mountain Dog / Berner)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

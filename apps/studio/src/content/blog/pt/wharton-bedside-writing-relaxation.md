@@ -5,7 +5,6 @@ description: "Edith Wharton, a grande autora que se tornou a primeira mulher a v
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4

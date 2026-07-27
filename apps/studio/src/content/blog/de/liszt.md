@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Pianist Franz Liszt seine Präzision meister
 pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4

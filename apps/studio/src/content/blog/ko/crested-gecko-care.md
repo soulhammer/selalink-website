@@ -5,7 +5,6 @@ description: "속눈썹 도마뱀 크레스티드 게코(Crested Gecko). MBD(대
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
 app: "petself"
 formatVersion: 4

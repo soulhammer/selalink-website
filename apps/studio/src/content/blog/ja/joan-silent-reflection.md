@@ -5,7 +5,6 @@ description: "フランスの救国の聖女ジャンヌ・ダルク。百年戦
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4

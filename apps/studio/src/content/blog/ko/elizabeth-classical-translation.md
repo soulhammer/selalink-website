@@ -5,7 +5,6 @@ description: "매일 아침 라틴어 고전을 영어로 번역하며 강인한
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4

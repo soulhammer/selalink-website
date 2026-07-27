@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 브로콜리의 최적 
 pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","broccoli"]
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

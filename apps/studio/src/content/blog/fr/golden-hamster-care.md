@@ -5,7 +5,6 @@ description: "Prendre soin du hamster syrien (doré), solitaire et nocturne. Dé
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Hamster Syrien / Doré (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

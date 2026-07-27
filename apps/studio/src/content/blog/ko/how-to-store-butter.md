@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 버터의 최적 보관
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","butter"]
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

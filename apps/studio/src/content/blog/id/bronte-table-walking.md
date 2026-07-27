@@ -5,7 +5,6 @@ description: "Pelajari rutinitas Charlotte Brontë, penulis 'Jane Eyre', yang me
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4

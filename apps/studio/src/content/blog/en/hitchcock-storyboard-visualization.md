@@ -5,7 +5,6 @@ description: "Discover thriller master Alfred Hitchcock's pre-production visual 
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo Louis Braille simplificó la compleja escritura noc
 pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4

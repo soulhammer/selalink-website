@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","tomato"]
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guide de soins pour l'intelligent Rat Dumbo aux grandes oreilles b
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Rat Dumbo (Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

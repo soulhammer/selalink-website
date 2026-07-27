@@ -5,7 +5,6 @@ description: "Découvrez comment la célèbre peintre mexicaine Frida Kahlo a tr
 pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4

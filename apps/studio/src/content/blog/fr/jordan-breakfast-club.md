@@ -5,7 +5,6 @@ description: "Découvrez comment la légende du basket-ball Michael Jordan a dé
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4

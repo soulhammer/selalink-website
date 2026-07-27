@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk salmon berdasa
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","salmon"]
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

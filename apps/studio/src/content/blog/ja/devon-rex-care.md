@@ -5,7 +5,6 @@ description: "妖精のような容姿と柔らかいウェーブ毛を持つデ
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","デボンレックス (Devon Rex)"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

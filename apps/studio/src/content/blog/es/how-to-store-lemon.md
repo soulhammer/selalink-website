@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","lemon"]
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

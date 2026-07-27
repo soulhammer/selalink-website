@@ -5,7 +5,6 @@ description: "犬种智商排名第一的边境牧羊犬。学习满足其充沛
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","边境牧羊犬 (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

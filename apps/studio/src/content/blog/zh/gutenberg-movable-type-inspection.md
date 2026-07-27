@@ -5,7 +5,6 @@ description: "探索金属活字发明家古腾堡每天清晨如何通过手触
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4

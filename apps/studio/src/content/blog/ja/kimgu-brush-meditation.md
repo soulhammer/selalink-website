@@ -5,7 +5,6 @@ description: "大韓民国臨時政府を率いた白凡・金九の書道を通
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4

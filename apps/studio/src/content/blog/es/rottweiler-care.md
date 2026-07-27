@@ -5,7 +5,6 @@ description: "Guía de cuidado para el poderoso y leal Rottweiler. Interprete el
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Rottweiler"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

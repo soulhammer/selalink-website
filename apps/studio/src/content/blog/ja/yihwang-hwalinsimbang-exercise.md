@@ -5,7 +5,6 @@ description: "生涯病弱でありながら、毎朝の導引法と呼吸調節
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4

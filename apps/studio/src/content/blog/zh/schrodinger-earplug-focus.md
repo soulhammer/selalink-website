@@ -5,7 +5,6 @@ description: "介绍量子力学巨匠埃尔温·薛定谔的耳塞听觉阻隔�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4

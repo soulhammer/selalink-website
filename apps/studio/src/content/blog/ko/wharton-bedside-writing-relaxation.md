@@ -5,7 +5,6 @@ description: "여성 최초로 소설 분야 퓰리처상을 수상한 거장 �
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "휴식"]
 heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "접힌 귀가 사랑스러운 스코티시 폴드. 하지만 평�
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","스코티시 폴드 (Scottish Fold)"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

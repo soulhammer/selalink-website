@@ -5,7 +5,6 @@ description: "流刑地にあっても毎晩、宮廷衣裳に着替えて歴史
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4

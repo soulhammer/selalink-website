@@ -5,7 +5,6 @@ description: "Découvrez pourquoi le compositeur Joseph Haydn revêtait un costu
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4

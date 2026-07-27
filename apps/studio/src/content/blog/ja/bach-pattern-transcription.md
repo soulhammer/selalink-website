@@ -5,7 +5,6 @@ description: "生涯を通じて先輩作曲家たちの楽譜を書写し、数
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4

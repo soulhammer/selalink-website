@@ -5,7 +5,6 @@ description: "A Madre Teresa serviu a vida inteira nas favelas de Calcutá, Índ
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4

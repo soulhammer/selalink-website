@@ -5,7 +5,6 @@ description: "O inventor genial Nikola Tesla curvava os dedos dos pés na cama t
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 formatVersion: 4

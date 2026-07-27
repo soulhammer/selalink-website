@@ -5,7 +5,6 @@ description: "萨摩耶因其厚重的双层被毛易患皮肤病，同时面临
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","萨摩耶 (Canis lupus familiaris / Samoyed)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

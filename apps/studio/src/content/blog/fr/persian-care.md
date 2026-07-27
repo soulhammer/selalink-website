@@ -5,7 +5,6 @@ description: "Le Persan est connu pour son pelage élégant. Apprenez une routin
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chat Persan (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

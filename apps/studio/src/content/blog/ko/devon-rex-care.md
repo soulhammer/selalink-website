@@ -5,7 +5,6 @@ description: "요정 같은 외모와 부드러운 곱슬털을 지닌 데본 �
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","데본 렉스 (Devon Rex)"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

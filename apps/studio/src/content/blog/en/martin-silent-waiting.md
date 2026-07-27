@@ -5,7 +5,6 @@ description: "Agnes Martin, the painter who sat in a chair before her canvas wai
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4

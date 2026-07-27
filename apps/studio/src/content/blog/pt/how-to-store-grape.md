@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","grape"]
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

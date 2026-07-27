@@ -5,7 +5,6 @@ description: "フランスの実存主義哲学者ジャン＝ポール・サル
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

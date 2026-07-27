@@ -5,7 +5,6 @@ description: "El Chihuahua, el guerrero más pequeño. Descubra cómo proteger s
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Chihuahua (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "미국의 전설적인 작가 조앤 디디온. 풀리지 않는 �
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4

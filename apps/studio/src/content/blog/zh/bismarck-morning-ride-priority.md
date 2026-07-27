@@ -5,7 +5,6 @@ description: "探索统一德国的“铁血宰相”奥托·冯·俾斯麦将�
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4

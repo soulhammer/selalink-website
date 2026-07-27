@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","butter"]
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

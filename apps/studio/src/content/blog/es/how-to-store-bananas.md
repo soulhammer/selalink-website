@@ -5,7 +5,6 @@ description: "Descubra la mejor temperatura, métodos y duración para conservar
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

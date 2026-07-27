@@ -5,7 +5,6 @@ description: "探索现代短篇小说巨匠安东·切诃夫在候车室与咖�
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

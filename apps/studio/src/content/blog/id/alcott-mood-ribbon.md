@@ -5,7 +5,6 @@ description: "Memperkenalkan 'Mood Pillow' (bantal suasana hati), sinyal fokus y
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

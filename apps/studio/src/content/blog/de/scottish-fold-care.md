@@ -5,7 +5,6 @@ description: "Scottish Folds sind für ihre Faltohren geliebt, aber genetisch an
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

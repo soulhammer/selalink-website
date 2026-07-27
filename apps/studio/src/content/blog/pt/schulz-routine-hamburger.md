@@ -5,7 +5,6 @@ description: "Charles Schulz fixou suas refeições diárias e ambiente de traba
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4

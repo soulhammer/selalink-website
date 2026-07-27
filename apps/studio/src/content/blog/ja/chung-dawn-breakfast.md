@@ -5,7 +5,6 @@ description: "現代グループ創業者の鄭周永会長が生涯守り続け
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4

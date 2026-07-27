@@ -5,7 +5,6 @@ description: "Niccolò Machiavelli, negarawan yang berganti pakaian keagungan is
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4

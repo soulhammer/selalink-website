@@ -5,7 +5,6 @@ description: "Découvrez comment le savant du XVIIe siècle Robert Hooke a déco
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4

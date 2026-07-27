@@ -5,7 +5,6 @@ description: "Découvrez comment la créatrice légendaire Coco Chanel a révolu
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

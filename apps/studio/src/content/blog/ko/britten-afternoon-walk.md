@@ -5,7 +5,6 @@ description: "20세기 영국 음악의 거장 벤저민 브리튼이 매일 오
 pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["오후 해안가 산책으","Routine"]
 heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

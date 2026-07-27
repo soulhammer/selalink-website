@@ -5,7 +5,6 @@ description: "사자 같은 외모를 지닌 신사적인 거대 고양이 메�
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","메인쿤 (Felis catus / Maine Coon)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

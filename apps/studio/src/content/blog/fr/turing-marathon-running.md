@@ -5,7 +5,6 @@ description: "Alan Turing, le père de l'informatique qui a décrypté le code E
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4

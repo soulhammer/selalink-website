@@ -5,7 +5,6 @@ description: "アメリカ・モダニズム美術の母ジョージア・オキ
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4

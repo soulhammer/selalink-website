@@ -5,7 +5,6 @@ description: "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5�
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4

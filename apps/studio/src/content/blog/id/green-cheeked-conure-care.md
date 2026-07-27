@@ -5,7 +5,6 @@ description: "Panduan perawatan burung Green-cheeked Conure yang ceria. Pahami g
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Green-cheeked Conure / Serindit Pipi Hijau (Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

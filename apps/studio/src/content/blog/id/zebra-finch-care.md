@@ -5,7 +5,6 @@ description: "Panduan perawatan burung gembira Zebra Finch (Taeniopygia guttata)
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Burung Zebra Finch / Piwit Zebra (Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

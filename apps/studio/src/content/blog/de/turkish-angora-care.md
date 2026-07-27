@@ -5,7 +5,6 @@ description: "Weiße Türkisch Angoras mit blauen Augen oder ungleichen Augen ne
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Türkisch Angora (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

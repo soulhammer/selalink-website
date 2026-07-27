@@ -5,7 +5,6 @@ description: "可爱小型啮齿类侏儒仓鼠（Dwarf Hamster）护理指南�
 pubDate: "2026-03-20"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","侏儒仓鼠 (Dwarf Hamster)"]
 heroImage: "/images/blog/dwarf_hamster_care.webp"
 app: "petself"
 formatVersion: 4

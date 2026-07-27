@@ -5,7 +5,6 @@ description: "Pflegeanleitung für Leopardgeckos. Schwanzbewegungen verstehen, F
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Leopardgecko (Eublepharis macularius / Leopard Gecko)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

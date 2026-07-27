@@ -5,7 +5,6 @@ description: "Panduan lengkap merawat Leopard Gecko. Pahami gerak ekor pertahana
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Leopard Gecko (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

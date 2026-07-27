@@ -5,7 +5,6 @@ description: "Novelist George Orwell read multiple newspapers every morning, cli
 pubDate: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/orwell_newspaper_clipping.webp"
 app: "buildself"
 formatVersion: 4

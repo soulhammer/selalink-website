@@ -5,7 +5,6 @@ description: "Tim Cook, pemimpin Apple, perusahaan IT terbesar di dunia. Temukan
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Alan Turing, o pai da ciência da computação que decifrou o cód
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4

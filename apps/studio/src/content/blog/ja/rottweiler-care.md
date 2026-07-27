@@ -5,7 +5,6 @@ description: "たくましく忠実な超大型犬ロットワイラー（Rottwe
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ロットワイラー (Rottweiler)"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

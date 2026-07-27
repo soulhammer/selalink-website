@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk blueberry berd
 pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","blueberry"]
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

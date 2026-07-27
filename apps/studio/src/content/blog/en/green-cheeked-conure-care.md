@@ -5,7 +5,6 @@ description: "Care guide for the playful Green-cheeked Conure. Interpret head-nu
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Green-cheeked Conure (Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

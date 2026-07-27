@@ -5,7 +5,6 @@ description: "51년간 매일 새벽 4시에 일어나 자필 노트 『카이�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "폴 발레리", "기록", "아이디어", "집중"]
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

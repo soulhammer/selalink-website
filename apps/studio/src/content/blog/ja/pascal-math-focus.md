@@ -5,7 +5,6 @@ description: "17世紀の天才ブレーズ・パスカルが激しい歯痛と�
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Entdecken Sie die Schreibroutine, die die Existenzphilosophin und 
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

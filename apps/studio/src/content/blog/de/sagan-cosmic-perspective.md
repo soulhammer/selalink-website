@@ -5,7 +5,6 @@ description: "Behandelt die historische Praxis des Astronomen Carl Sagan, alltä
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 formatVersion: 4

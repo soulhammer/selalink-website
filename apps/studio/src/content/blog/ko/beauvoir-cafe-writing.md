@@ -5,7 +5,6 @@ description: "실존주의 사상가이자 소설가 시몬 드 보부아르가 
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["매일 같은 카페에서","Routine"]
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

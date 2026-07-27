@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der schottische Philosoph David Hume intellektue
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","butter"]
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

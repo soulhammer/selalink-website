@@ -5,7 +5,6 @@ description: "毎日午前6時にサント・ヴィクトワール山に向か�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4

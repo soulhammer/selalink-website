@@ -5,7 +5,6 @@ description: "Panduan perawatan Kura-kura Painted: pahami sinyal Solar Stretchin
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kura-kura Painted (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

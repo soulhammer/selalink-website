@@ -5,7 +5,6 @@ description: "Descubra cómo el filósofo francés Michel de Montaigne grabó 57
 pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4

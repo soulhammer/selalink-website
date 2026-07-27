@@ -5,7 +5,6 @@ description: "O mestre da luz Johannes Vermeer obteve serenidade emocional e ins
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4

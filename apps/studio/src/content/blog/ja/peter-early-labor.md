@@ -5,7 +5,6 @@ description: "自ら造船大工となった改革君主ピョートル大帝の
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4

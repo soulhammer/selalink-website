@@ -5,7 +5,6 @@ description: "Die morgendliche Schreibregel hinter den Meisterwerken von Natsume
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4

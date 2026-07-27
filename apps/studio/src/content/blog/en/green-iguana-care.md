@@ -5,7 +5,6 @@ description: "Care guide for the majestic Green Iguana. Interpret dewlap extensi
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Green Iguana (Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

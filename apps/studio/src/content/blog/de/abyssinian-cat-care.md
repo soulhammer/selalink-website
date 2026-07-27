@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die elegante Abessinierkatze (Abyssinian). Ko
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Abessinierkatze (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

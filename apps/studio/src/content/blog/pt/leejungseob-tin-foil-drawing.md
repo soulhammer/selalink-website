@@ -5,7 +5,6 @@ description: "Descubra como o pintor Lee Jung-seob manteve o foco artístico em 
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4

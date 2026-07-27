@@ -5,7 +5,6 @@ description: "Walt Disney verwandelte kreative Träume in ein riesiges Geschäft
 pubDate: "2026-04-16"
 updatedDate: "2026-04-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 formatVersion: 4

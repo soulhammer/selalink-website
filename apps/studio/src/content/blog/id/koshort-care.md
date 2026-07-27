@@ -5,7 +5,6 @@ description: "Korean Shorthair, dengan insting berburu yang kuat. Pelajari metod
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Korean Shorthair (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

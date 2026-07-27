@@ -5,7 +5,6 @@ description: "온순하고 화려한 뱀 콘스네이크(Corn Snake). 꼬리 떨
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","콘스네이크 / 옥수수뱀 (Corn Snake / Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

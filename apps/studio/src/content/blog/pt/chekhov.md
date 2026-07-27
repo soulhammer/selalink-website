@@ -5,7 +5,6 @@ description: "Descubra como Anton Tchekhov, mestre dos contos modernos, registra
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

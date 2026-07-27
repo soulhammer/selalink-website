@@ -5,7 +5,6 @@ description: "路德维希·维特根斯坦在探索分析哲学极限的同时�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

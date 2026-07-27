@@ -5,7 +5,6 @@ description: "量子力学の巨匠でありノーベル物理学賞受賞者の
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4

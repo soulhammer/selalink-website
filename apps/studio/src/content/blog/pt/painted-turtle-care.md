@@ -5,7 +5,6 @@ description: "Guia de cuidados da Tartaruga Pintada: entenda os sinais de Alonga
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Tartaruga Pintada (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

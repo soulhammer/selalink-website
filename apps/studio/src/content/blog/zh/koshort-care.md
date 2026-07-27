@@ -5,7 +5,6 @@ description: "拥有强健捕猎天性的中华田园猫。介绍预防猫下泌
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","中华田园猫 (Felis catus / 科绍特)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

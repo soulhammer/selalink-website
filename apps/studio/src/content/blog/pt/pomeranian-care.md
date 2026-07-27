@@ -5,7 +5,6 @@ description: "Os Spitz Alemães são propensos à luxação patelar e ao colapso
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Spitz Alemão / Lulu da Pomerânia (Canis lupus familiaris)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

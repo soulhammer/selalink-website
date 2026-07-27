@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","salmon"]
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

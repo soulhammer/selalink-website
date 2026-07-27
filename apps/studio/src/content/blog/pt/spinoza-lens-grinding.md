@@ -5,7 +5,6 @@ description: "Descubra como o filósofo panteísta Spinoza eliminou a sobrecarga
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

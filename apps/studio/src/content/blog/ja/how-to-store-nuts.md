@@ -5,7 +5,6 @@ description: "公的安全基準に基づくナッツの最適な保存温度、
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

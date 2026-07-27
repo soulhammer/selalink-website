@@ -5,7 +5,6 @@ description: "Guía de cuidado para el Hámster Enano. Interprete las orejas rep
 pubDate: "2026-03-20"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Hámster Enano (Dwarf Hamster)"]
 heroImage: "/images/blog/dwarf_hamster_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "El shorthair coreano, con fuertes instintos de caza. Conozca los m
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Shorthair Coreano (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

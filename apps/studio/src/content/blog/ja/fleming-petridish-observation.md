@@ -5,7 +5,6 @@ description: "ペニシリンの偉大な発見者アレクサンダー・フレ
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4

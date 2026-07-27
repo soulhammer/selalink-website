@@ -5,7 +5,6 @@ description: "악보를 그리기 전 새벽 5시에 일어나 산타가타 농�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["창의성", "휴식", "생산성"]
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

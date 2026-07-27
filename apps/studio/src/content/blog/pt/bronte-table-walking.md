@@ -5,7 +5,6 @@ description: "Explore a rotina de Charlotte Brontë, autora de 'Jane Eyre', que 
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4

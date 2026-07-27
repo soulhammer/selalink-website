@@ -5,7 +5,6 @@ description: "Descubra cómo la reina egipcia Cleopatra hablaba con fluidez al m
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4

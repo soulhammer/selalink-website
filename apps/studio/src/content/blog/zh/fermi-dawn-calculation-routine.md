@@ -5,7 +5,6 @@ description: "探索设计出人类首座人工核反应堆并荣获诺贝尔奖
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4

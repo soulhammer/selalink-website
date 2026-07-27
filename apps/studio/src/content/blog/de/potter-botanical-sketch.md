@@ -5,7 +5,6 @@ description: "Beatrix Potter, Autorin von 'Peter Hase', beobachtete jeden Morgen
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/potter_botanical_sketch.webp"
 app: "buildself"
 formatVersion: 4

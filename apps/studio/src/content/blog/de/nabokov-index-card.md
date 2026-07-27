@@ -5,7 +5,6 @@ description: "Der Autor Vladimir Nabokov hielt Romane in Fragmenten auf Karteika
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4

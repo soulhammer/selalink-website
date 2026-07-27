@@ -5,7 +5,6 @@ description: "A expressão de cor única do 'pintor da luz' J.M.W. Turner nasceu
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4

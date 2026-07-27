@@ -5,7 +5,6 @@ description: "Jean Piaget, el gran psicólogo infantil suizo. Descubra los princ
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/piaget_morning_writing.webp"
 app: "buildself"
 formatVersion: 4

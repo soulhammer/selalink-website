@@ -5,7 +5,6 @@ description: "大人気のマルチーズ。遺伝的に弱い膝蓋骨脱臼の
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","マルチーズ (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "作家弗拉基米尔·纳博科夫将小说切割成碎片记录�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4

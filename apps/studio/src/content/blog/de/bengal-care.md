@@ -5,7 +5,6 @@ description: "Pflege für die aktive und intelligente Bengalkatze. Lernen Sie, d
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Bengalkatze (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

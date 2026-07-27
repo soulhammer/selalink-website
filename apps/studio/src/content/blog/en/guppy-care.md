@@ -5,7 +5,6 @@ description: "Care guide for the vibrant freshwater Guppy. Understand clamped fi
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

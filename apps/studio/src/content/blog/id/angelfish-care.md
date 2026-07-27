@@ -5,7 +5,6 @@ description: "Panduan perawatan Ikan Manvis / Angelfish (Pterophyllum scalare) y
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ikan Manvis / Angelfish (Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

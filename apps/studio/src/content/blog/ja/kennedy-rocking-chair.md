@@ -5,7 +5,6 @@ description: "冷戦期の危機の中で極度の脊椎痛に耐えながらア
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

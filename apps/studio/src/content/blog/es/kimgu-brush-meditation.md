@@ -5,7 +5,6 @@ description: "Descubra cómo Kim Koo, líder del Gobierno Provisional de Corea, 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kimgu_brush_meditation.webp"
 app: "buildself"
 formatVersion: 4

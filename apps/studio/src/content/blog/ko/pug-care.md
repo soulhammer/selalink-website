@@ -5,7 +5,6 @@ description: "느긋하고 애교 넘치는 소형견 퍼그(Pug). 고개 갸웃
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","퍼그 (Pug)"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

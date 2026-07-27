@@ -5,7 +5,6 @@ description: "Globally bestselling novelist Haruki Murakami. Discover the neuros
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

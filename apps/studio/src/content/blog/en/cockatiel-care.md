@@ -5,7 +5,6 @@ description: "Comprehensive care guide for the crested Cockatiel. Learn to decod
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Cockatiel (Nymphicus hollandicus)"]
 heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4

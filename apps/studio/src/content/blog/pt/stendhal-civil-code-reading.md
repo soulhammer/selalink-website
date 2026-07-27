@@ -5,7 +5,6 @@ description: "Stendhal, um mestre da literatura realista que dissecou a psicolog
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4

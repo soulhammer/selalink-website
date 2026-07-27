@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

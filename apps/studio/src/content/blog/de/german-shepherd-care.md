@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den treuen Deutschen Schäferhund. Verstehen 
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Deutscher Schäferhund (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

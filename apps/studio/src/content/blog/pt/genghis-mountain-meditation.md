@@ -5,7 +5,6 @@ description: "Descubra como o conquistador Gengis Khan limpava o ruído mental a
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

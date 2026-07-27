@@ -5,7 +5,6 @@ description: "Descubra el secreto del astro del tenis Roger Federer para mantene
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4

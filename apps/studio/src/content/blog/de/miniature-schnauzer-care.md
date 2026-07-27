@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den klugen Zwergschnauzer (Miniature Schnauze
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Zwergschnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

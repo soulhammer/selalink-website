@@ -5,7 +5,6 @@ description: "Le musicien Igor Stravinsky faisait le poirier à chaque panne d'i
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4

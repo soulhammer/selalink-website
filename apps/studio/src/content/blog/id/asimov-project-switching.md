@@ -5,7 +5,6 @@ description: "Rutinitas beralih multitasking dari maestro fiksi ilmiah Isaac Asi
 pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4

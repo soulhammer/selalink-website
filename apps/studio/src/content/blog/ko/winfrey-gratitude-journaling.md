@@ -5,7 +5,6 @@ description: "세계에서 가장 영향력 있는 여성 리더 중 한 명인 
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4

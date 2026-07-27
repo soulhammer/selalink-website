@@ -5,7 +5,6 @@ description: "조선의 구국 영웅 이순신 장군. 전쟁터의 극한 중�
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["위인 습관", "이순신", "난중일기", "성찰일기", "글쓰기치료"]
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

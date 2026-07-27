@@ -5,7 +5,6 @@ description: "Découvrez comment la légendaire essayiste américaine Joan Didio
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4

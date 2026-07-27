@@ -5,7 +5,6 @@ description: "社会の隠された作動原理を経済学的に解剖したカ
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4

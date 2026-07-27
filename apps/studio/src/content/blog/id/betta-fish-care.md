@@ -5,7 +5,6 @@ description: "Panduan merawat Ikan Betta (Cupang) yang memiliki sirip megah. Pah
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ikan Betta (Betta splendens / Ikan Cupang)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo el genio de la arquitectura Antoni Gaudí trasladó
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4

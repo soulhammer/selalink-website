@@ -5,7 +5,6 @@ description: "조선 최고의 실학자 다산 정약용. 18년의 강진 유�
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4

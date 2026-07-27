@@ -5,7 +5,6 @@ description: "아프리카 밀림 병원에서 매일 밤 바흐의 오르간을
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4

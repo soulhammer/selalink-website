@@ -5,7 +5,6 @@ description: "北宋天才文人苏东坡在屡遭流放的磨难中，通过晨
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4

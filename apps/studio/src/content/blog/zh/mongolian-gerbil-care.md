@@ -5,7 +5,6 @@ description: "富有好奇心与强群居性的蒙古沙鼠（Mongolian Gerbil�
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","蒙古沙鼠 / 长爪沙鼠 (Mongolian Gerbil / Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

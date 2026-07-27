@@ -5,7 +5,6 @@ description: "Steven Spielberg, o diretor de maior sucesso na história do cinem
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4

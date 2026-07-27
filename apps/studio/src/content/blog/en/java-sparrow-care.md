@@ -5,7 +5,6 @@ description: "Care guide for the charming Java Sparrow. Learn to decode feather 
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Java Sparrow (Padda oryzivora / Lonchura oryzivora)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

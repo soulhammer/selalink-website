@@ -5,7 +5,6 @@ description: "Découvrez la routine de Louis Pasteur, le père de la pasteurisat
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

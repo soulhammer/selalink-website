@@ -5,7 +5,6 @@ description: "A rotina de '100 putts consecutivos com sucesso' realizada pela le
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4

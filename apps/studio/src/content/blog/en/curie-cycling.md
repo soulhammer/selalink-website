@@ -5,7 +5,6 @@ description: "Discover how Marie Curie, the first woman to win a Nobel Prize and
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

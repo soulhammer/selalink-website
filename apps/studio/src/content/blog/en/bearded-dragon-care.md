@@ -5,7 +5,6 @@ description: "Caring for the docile Bearded Dragon lizard. Learn how to interpre
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Bearded Dragon (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

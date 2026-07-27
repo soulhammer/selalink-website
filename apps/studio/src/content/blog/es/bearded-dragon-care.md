@@ -5,7 +5,6 @@ description: "Cuidados del dócil lagarto Dragón Barbudo. Aprenda a interpretar
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Dragón Barbudo (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

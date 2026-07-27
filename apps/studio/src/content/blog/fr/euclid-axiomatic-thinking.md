@@ -5,7 +5,6 @@ description: "Découvrez comment le mathématicien grec Euclide a résolu des di
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Mark Zuckerberg reduced decision fatigue by wearing the exact same
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4

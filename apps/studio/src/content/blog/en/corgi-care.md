@@ -5,7 +5,6 @@ description: "Welsh Corgis are famous for their cute backsides and short legs. D
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Pembroke Welsh Corgi (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

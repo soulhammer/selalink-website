@@ -5,7 +5,6 @@ description: "용맹하고 우아한 대형견 도베르만 핀셔(Doberman Pins
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","도베르만 핀셔 (Doberman Pinscher)"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

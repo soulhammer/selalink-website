@@ -5,7 +5,6 @@ description: "Guide de soins pour le docile Python Royal (Ball Python). Décrypt
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Python Royal / Python Boule (Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

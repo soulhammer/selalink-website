@@ -5,7 +5,6 @@ description: "Gatos Angorá Turco brancos com olhos azuis ou heterocromia têm a
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Angorá Turco (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

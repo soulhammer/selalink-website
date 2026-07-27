@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解卷心菜的最佳储存温
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","cabbage"]
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

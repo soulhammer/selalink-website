@@ -5,7 +5,6 @@ description: "Guide de soins pour le guppy coloré. Décryptez le pincement des 
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

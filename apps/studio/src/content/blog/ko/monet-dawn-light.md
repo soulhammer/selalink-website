@@ -5,7 +5,6 @@ description: "인상파 회화의 거장 클로드 모네. 매일 새벽 3시 30
 pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Auguste Rodin, the master of modern sculpture. Discover his unique
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rodin_sculpting_walk.webp"
 app: "buildself"
 formatVersion: 4

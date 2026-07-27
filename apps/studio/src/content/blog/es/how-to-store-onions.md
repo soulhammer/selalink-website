@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","onion"]
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

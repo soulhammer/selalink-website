@@ -5,7 +5,6 @@ description: "Die wissenschaftlichen Prinzipien und der praktische Leitfaden zu 
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索伟大的青霉素发现者亚历山大·弗莱明如何通�
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fleming_petridish_observation.webp"
 app: "buildself"
 formatVersion: 4

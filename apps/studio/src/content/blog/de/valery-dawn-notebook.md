@@ -5,7 +5,6 @@ description: "Der Dichter Paul Valéry stand 51 Jahre lang jeden Tag um 4 Uhr mo
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

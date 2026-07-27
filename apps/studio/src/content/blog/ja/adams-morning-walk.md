@@ -5,7 +5,6 @@ description: "第6代米大統領ジョン・クインシー・アダムズは�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

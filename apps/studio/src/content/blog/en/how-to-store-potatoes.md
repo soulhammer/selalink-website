@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","potato"]
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

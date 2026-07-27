@@ -5,7 +5,6 @@ description: "近代推理小説の始祖エドガー・アラン・ポーは、
 pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4

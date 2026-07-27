@@ -5,7 +5,6 @@ description: "オフィスごとに「THINK」の札を掲げ、1日15分静か�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4

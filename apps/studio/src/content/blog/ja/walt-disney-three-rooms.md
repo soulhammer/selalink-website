@@ -5,7 +5,6 @@ description: "創造的な空想を 巨大なビジネスとして実現させ�
 pubDate: "2026-04-16"
 updatedDate: "2026-04-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 formatVersion: 4

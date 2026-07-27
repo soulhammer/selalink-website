@@ -5,7 +5,6 @@ description: "朝鮮最高の賢者・栗谷李珥が20歳で確立した「自�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4

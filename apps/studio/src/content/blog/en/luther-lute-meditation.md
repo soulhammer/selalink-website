@@ -5,7 +5,6 @@ description: "Discover how Martin Luther, amidst the intense pressure of the Pro
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

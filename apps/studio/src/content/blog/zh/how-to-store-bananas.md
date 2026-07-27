@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解香蕉的最佳储存温度
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

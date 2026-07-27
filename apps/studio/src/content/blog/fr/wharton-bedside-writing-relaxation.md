@@ -5,7 +5,6 @@ description: "Edith Wharton, la grande auteure qui fut la première femme à rem
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4

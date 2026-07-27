@@ -5,7 +5,6 @@ description: "Marco Polo, autor de As Viagens de Marco Polo. Descubra sua rotina
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4

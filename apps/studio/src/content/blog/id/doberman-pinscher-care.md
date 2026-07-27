@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing gagah Doberman Pinscher. Pahami 'Dobie Le
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Doberman Pinscher"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

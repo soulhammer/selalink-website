@@ -5,7 +5,6 @@ description: "심각한 안질환 속에서도 침대에 누워 거대한 문학
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["위인 습관", "휴식"]
 heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4

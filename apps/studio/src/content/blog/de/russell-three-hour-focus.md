@@ -5,7 +5,6 @@ description: "Nobelpreisträger für Literatur und Philosoph Bertrand Russell. E
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4

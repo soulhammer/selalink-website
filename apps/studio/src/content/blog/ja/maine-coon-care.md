@@ -5,7 +5,6 @@ description: "ライオンのような外見を持つ紳士的な巨大猫メイ
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","メインクーン (Felis catus / Maine Coon)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

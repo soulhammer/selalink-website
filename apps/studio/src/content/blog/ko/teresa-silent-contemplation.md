@@ -5,7 +5,6 @@ description: "인도 캘커타의 빈민가에서 평생 봉사한 마더 테레
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4

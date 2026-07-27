@@ -5,7 +5,6 @@ description: "Panduan perawatan Raja Akuarium, Ikan Discus (Symphysodon). Pahami
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ikan Discus (Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

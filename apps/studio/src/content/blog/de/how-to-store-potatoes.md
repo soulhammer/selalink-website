@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","potato"]
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

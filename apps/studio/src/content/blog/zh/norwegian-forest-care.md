@@ -5,7 +5,6 @@ description: "大型猫种挪威森林猫护理指南。满足其攀爬本能，
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","挪威森林猫 (Felis catus / Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "'작은 아씨들'의 저자 루이자 메이 올컷의 몰입 신
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

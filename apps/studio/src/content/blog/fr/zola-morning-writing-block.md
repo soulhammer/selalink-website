@@ -5,7 +5,6 @@ description: "Les principes scientifiques et le guide pratique de la devise 'Nul
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4

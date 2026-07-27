@@ -5,7 +5,6 @@ description: "Chinchillas have continuously growing teeth and are highly sensiti
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Chinchilla (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

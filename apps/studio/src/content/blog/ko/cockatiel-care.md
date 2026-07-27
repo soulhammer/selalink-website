@@ -5,7 +5,6 @@ description: "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","왕관앵무 (Nymphicus hollandicus / Cockatiel)"]
 heroImage: "/images/blog/cockatiel_care.webp"
 app: "petself"
 formatVersion: 4

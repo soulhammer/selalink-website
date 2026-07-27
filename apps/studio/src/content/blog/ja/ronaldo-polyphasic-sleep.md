@@ -5,7 +5,6 @@ description: "世界最高のフォワード、クリスティアーノ・ロナ
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4

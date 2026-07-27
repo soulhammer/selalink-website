@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 토마토의 최적 보
 pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","tomato"]
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

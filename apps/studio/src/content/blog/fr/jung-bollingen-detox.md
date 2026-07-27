@@ -5,7 +5,6 @@ description: "Découvrez comment le pionnier de la psychologie analytique Carl J
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "British Shorthair dicintai karena perawakannya yang kekar. Temukan
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","British Shorthair (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

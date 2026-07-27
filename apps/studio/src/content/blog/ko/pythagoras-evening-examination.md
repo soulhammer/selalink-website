@@ -5,7 +5,6 @@ description: "매일 밤 잠들기 전 하루의 언행을 세 번 되짚어보�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["성찰", "사색", "휴식"]
 heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4

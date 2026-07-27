@@ -5,7 +5,6 @@ description: "동양 사상의 위대한 스승 공자가 난세와 14년 방랑
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
 heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4

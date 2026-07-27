@@ -5,7 +5,6 @@ description: "非洲迷你刺猬的护理。了解它们独特的涂刺泡沫行
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","非洲迷你刺猬 (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

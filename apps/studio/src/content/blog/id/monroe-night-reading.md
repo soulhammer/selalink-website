@@ -5,7 +5,6 @@ description: "Di balik citra publiknya sebagai simbol seks, Marilyn Monroe adala
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4

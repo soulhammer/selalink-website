@@ -5,7 +5,6 @@ description: "Marcel Proust, auteur du chef-d'œuvre « À la recherche du temps
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4

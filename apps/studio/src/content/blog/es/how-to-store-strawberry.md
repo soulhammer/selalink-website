@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","strawberry"]
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

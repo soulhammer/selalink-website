@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie Benjamin Britten, britischer Musik titan des 20.
 pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo Zhuge Liang, primer ministro de Shu Han durante los
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4

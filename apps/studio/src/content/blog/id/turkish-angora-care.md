@@ -5,7 +5,6 @@ description: "Turkish Angora putih dengan mata biru atau odd eyes secara genetis
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Turkish Angora"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

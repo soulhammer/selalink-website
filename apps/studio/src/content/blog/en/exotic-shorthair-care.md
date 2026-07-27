@@ -5,7 +5,6 @@ description: "Care guide for the adorable Exotic Shorthair. Interpret bunting an
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Exotic Shorthair"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

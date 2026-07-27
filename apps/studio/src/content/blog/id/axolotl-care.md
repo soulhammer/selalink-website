@@ -5,7 +5,6 @@ description: "Panduan perawatan salamander Meksiko yang unik, Axolotl. Pahami si
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Axolotl / Salamander Meksiko (Axolotl)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

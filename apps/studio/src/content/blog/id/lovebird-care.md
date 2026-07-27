@@ -5,7 +5,6 @@ description: "Panduan perawatan burung Lovebird (Agapornis) yang penyayang. Hind
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Lovebird / Burung Cinta (Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

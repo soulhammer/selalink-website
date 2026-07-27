@@ -5,7 +5,6 @@ description: "偉大な生物学者チャールズ・ダーウィンが砂利道
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

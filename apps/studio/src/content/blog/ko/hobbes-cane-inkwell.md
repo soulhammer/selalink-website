@@ -5,7 +5,6 @@ description: "사상가 토머스 홉스는 산책하며 떠오른 아이디어�
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["산책 지팡이에 잉크","Routine"]
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

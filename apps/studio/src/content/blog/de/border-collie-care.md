@@ -5,7 +5,6 @@ description: "Erfahren Sie alles über kognitive Spiele und Gelenkpflege für ak
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

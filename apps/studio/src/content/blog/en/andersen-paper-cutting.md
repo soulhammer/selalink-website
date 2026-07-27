@@ -5,7 +5,6 @@ description: "World-renowned fairy tale author Hans Christian Andersen. Discover
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4

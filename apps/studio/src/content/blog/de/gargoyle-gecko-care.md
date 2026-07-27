@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den faszinierenden Höcker-Kronengecko (Gargo
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Höcker-Kronengecko / Gargoyle Gecko (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

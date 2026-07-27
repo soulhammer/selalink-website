@@ -5,7 +5,6 @@ description: "Care guide for the adorable Ranchu Goldfish. Interpret surface air
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Ranchu Goldfish (Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4

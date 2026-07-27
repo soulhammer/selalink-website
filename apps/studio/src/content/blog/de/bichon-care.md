@@ -5,7 +5,6 @@ description: "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Bichon Frise (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

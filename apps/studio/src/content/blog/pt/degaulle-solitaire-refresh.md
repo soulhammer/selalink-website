@@ -5,7 +5,6 @@ description: "Descubra como o presidente francês Charles de Gaulle descontraía
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4

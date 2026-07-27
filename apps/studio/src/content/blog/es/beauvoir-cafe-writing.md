@@ -5,7 +5,6 @@ description: "Descubra la rutina de escritura que la filósofa existencialista y
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

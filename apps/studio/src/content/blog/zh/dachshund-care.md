@@ -5,7 +5,6 @@ description: "针对身长腿短的腊肠犬护理法。学习识别脊椎不适
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","腊肠犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

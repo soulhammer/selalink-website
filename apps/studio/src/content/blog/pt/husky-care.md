@@ -5,7 +5,6 @@ description: "Husky Siberiano, o cão de trenó. Aprenda a combater o calor e a 
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Husky Siberiano (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra la rutina de Louis Pasteur, el microbiólogo francés pad
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

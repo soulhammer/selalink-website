@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie Hyundai-Gründer Ju-Yung Chung lebenslang tägli
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4

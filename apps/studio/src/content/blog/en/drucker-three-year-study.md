@@ -5,7 +5,6 @@ description: "Discover how management guru Peter Drucker mastered a new academic
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "折耳造型十分可爱的苏格兰折耳猫，一生都易受遗
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","苏格兰折耳猫"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "뉴칼레도니아의 매력적인 도마뱀 가고일 게코(Garg
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","가고일 게코 (Gargoyle Gecko / Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

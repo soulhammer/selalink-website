@@ -5,7 +5,6 @@ description: "친근하고 영리한 골든 리트리버. 대형견의 취약점
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","골든 리트리버 (Canis lupus familiaris)"]
 heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4

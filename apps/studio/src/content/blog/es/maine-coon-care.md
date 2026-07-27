@@ -5,7 +5,6 @@ description: "Cuidados del gigante gentil Maine Coon de apariencia leonina. Desc
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Maine Coon (Felis catus)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

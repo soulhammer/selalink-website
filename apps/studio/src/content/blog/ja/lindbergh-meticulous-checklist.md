@@ -5,7 +5,6 @@ description: "大西洋単独飛行横断に成功した航空の英雄チャー
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lindbergh_meticulous_checklist.webp"
 app: "buildself"
 formatVersion: 4

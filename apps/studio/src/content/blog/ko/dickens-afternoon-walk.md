@@ -5,7 +5,6 @@ description: "영국의 대문호 찰스 디킨스가 소설 속 입체적인 �
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
 heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

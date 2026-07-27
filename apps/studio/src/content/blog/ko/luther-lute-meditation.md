@@ -5,7 +5,6 @@ description: "종교개혁의 거대한 중압감 속에서도 매일 아침 현
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["명상", "휴식", "마음"]
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

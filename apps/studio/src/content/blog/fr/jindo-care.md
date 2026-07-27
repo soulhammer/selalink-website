@@ -5,7 +5,6 @@ description: "Socialisation du Jindo et soins pour son double pelage. Réduisez 
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chien Jindo (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

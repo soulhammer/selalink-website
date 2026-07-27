@@ -5,7 +5,6 @@ description: "探索IBM创始人托马斯·沃森的思考法则，他在每个�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4

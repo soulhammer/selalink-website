@@ -5,7 +5,6 @@ description: "Discover why composer Joseph Haydn wore a formal suit and powdered
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4

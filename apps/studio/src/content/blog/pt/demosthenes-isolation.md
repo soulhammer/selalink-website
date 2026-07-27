@@ -5,7 +5,6 @@ description: "Descubra como Demóstenes, mestre orador da Grécia antiga, supero
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

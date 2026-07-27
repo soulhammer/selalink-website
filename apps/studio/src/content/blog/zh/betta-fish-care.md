@@ -5,7 +5,6 @@ description: "拥有华丽礼服般鳍条的斗鱼（Betta Fish）。解读展�
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","斗鱼 (Betta splendens / 暹罗斗鱼)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

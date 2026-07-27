@@ -5,7 +5,6 @@ description: "Panduan perawatan hewan kecil menggemaskan Gerbil Mongolia (Mongol
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Gerbil Mongolia / Mongolian Gerbil (Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

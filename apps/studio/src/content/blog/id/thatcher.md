@@ -5,7 +5,6 @@ description: "Sebagai Perdana Menteri Inggris yang dijuluki Wanita Besi, beliau 
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4

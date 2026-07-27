@@ -5,7 +5,6 @@ description: "神秘墨西哥蝾螈美西螈（Axolotl）护理指南。解读�
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","美西螈 / 六角恐龙 (Axolotl)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐�
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "르네 마그리트", "집중", "루틴", "창의성", "단순화"]
 heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4

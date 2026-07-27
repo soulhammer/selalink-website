@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den majestätischen Grünen Leguan (Green Igu
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Grüner Leguan (Green Iguana / Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

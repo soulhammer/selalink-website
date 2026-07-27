@@ -5,7 +5,6 @@ description: "월든 호숫가를 매일 4시간씩 걸으며 관찰하고 기�
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

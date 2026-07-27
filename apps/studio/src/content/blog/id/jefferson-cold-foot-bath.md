@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Thomas Jefferson, penulis utama Deklarasi Kemer
 pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4

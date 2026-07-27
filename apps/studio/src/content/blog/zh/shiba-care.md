@@ -5,7 +5,6 @@ description: "柴犬性格独立且对触碰较为敏感。介绍预防双层毛
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","柴犬 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

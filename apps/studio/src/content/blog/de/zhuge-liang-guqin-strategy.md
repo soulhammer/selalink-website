@@ -5,7 +5,6 @@ description: "Entdecken Sie, wie Zhuge Liang, Premierminister von Shu Han währe
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zhuge_liang_guqin_strategy.webp"
 app: "buildself"
 formatVersion: 4

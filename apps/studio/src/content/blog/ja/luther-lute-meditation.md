@@ -5,7 +5,6 @@ description: "宗教改革の巨大な重圧の中でも、毎朝弦楽器リュ
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

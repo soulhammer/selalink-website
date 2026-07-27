@@ -5,7 +5,6 @@ description: "温厚なフトアゴヒゲトカゲのケア方法。首振りの
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","フトアゴヒゲトカゲ (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

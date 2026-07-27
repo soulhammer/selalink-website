@@ -5,7 +5,6 @@ description: "Learn Painted Turtle care: decode Solar Stretching and Glass Surfi
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Painted Turtle (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

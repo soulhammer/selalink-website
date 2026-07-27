@@ -5,7 +5,6 @@ description: "Descubra como o Rei Sol Luís XIV governou a França dividindo rig
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

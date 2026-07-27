@@ -5,7 +5,6 @@ description: "Alexander Agung tidak pernah kehilangan keberanian di medan perang
 pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4

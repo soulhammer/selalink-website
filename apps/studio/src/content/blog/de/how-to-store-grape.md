@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","grape"]
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

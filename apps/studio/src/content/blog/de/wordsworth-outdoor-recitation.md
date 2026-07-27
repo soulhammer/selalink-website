@@ -5,7 +5,6 @@ description: "Der romantische Dichter William Wordsworth wanderte im Freien und 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4

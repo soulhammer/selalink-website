@@ -5,7 +5,6 @@ description: "프랑스의 노벨 문학상 수상 작가이자 철학자 알베
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4

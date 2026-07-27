@@ -5,7 +5,6 @@ description: "O grande compositor russo Pyotr Ilyich Tchaikovsky caminhava exata
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guía de cuidado para el elegante Pez Ángel (Angelfish). Interpre
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pez Ángel / Escalare (Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "The '100 consecutive successful putts' routine performed by golf l
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4

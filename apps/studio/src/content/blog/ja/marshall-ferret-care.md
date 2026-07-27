@@ -5,7 +5,6 @@ description: "遊び好きで体が柔らかいマーシャルフェレット。
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","マーシャルフェレット (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

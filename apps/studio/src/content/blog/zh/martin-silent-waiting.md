@@ -5,7 +5,6 @@ description: "画家阿格尼斯·马丁在开笔前会静坐在画布前的椅�
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4

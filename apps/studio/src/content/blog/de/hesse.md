@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Literaturnobelpreisträger und naturverbunde
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "사랑스러운 소형 앵무새 모란앵무(Lovebird). 테플론
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","모란앵무 (Lovebird / Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

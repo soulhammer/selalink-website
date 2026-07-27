@@ -5,7 +5,6 @@ description: "Ayrton Senna, the legendary Formula 1 champion, sat in his cockpit
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

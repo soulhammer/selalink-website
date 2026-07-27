@@ -5,7 +5,6 @@ description: "优雅的热带鱼之王神仙鱼（Angelfish）护理指南。解
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","神仙鱼 / 燕鱼 (Angelfish / Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

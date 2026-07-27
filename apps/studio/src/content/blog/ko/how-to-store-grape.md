@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 포도의 최적 보관
 pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","grape"]
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

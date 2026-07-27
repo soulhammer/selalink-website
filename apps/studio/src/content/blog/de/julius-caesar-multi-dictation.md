@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Julius Cäsar auf dem Pferd oder im Wagen mehrer
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

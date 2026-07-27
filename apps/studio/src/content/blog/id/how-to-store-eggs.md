@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk telur berdasar
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

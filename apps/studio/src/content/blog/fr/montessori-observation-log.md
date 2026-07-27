@@ -5,7 +5,6 @@ description: "Maria Montessori, première femme médecin d'Italie et éducatrice
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4

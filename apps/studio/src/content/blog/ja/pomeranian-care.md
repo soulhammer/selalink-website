@@ -5,7 +5,6 @@ description: "小型犬ポメラニアンの遺伝的弱点である膝蓋骨脱
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ポメラニアン (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

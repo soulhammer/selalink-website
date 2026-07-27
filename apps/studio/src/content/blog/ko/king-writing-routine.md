@@ -5,7 +5,6 @@ description: "세계에서 가장 성공한 작가 스티븐 킹의 집필 루�
 pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
 heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4

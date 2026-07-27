@@ -5,7 +5,6 @@ description: "抱き上げるとぬいぐるみのように力を抜く愛らし
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ラグドール (Felis catus / Ragdoll)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

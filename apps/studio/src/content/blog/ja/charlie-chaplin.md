@@ -5,7 +5,6 @@ description: "サイレント映画時代を支配した巨匠チャーリー・
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "哲学者セネカが就寝前に暗い部屋で一日を審判し
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4

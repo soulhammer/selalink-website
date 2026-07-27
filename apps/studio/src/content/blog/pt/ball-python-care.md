@@ -5,7 +5,6 @@ description: "Guia de cuidados para a dócil Pitón-Bola (Python regius). Entend
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Pitón-Bola / Pitão-Real (Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

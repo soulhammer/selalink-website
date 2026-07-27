@@ -5,7 +5,6 @@ description: "Panduan perawatan burung Gelatik Java (Java Sparrow). Pahami sinya
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Gelatik Java / Burung Gelatik (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflege für die majestätische Norwegische Waldkatze. Erfüllen Si
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Norwegische Waldkatze (Felis catus / Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

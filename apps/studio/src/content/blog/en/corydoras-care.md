@@ -5,7 +5,6 @@ description: "Care guide for the bottom-dwelling Corydoras Catfish. Interpret in
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Corydoras Catfish (Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "ハングルを創制した朝鮮最高の名君、世宗大王。
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sejong_dawn_reading.webp"
 app: "buildself"
 formatVersion: 4

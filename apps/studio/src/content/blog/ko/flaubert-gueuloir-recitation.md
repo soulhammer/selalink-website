@@ -5,7 +5,6 @@ description: "일물일어설을 지향하며 단어 하나도 허투루 쓰지 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
 heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4

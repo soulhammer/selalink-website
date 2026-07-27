@@ -5,7 +5,6 @@ description: "Siamesen sind sehr besitzerbezogen. Entdecken Sie Tipps zur emotio
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Siamese (Siamkatze)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

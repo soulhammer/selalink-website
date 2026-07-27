@@ -5,7 +5,6 @@ description: "Guía completa de cuidado para el conejo Holland Lop. Previene oti
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Conejo Holland Lop (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

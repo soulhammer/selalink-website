@@ -5,7 +5,6 @@ description: "French Bulldog rentan terhadap gangguan pernapasan dan heatstroke 
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","French Bulldog (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

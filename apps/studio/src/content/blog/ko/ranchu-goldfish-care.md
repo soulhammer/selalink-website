@@ -5,7 +5,6 @@ description: "동글동글 귀여운 관상용 금붕어 왕자 란츄(Ranchu Go
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","란츄 금붕어 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4

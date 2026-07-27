@@ -5,7 +5,6 @@ description: "An anecdote of Grand Tea Master Sen no Rikyu purifying his mind wh
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

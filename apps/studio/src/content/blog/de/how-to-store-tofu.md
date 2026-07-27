@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","tofu"]
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

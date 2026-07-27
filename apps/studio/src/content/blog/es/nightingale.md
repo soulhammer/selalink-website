@@ -5,7 +5,6 @@ description: "Fundadora de la enfermería moderna y estadística pionera que dia
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

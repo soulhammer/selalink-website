@@ -5,7 +5,6 @@ description: "Guía de cuidado para el alegre Diamante Cebra (Zebra Finch). Inte
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Diamante Cebra / Mandarín (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

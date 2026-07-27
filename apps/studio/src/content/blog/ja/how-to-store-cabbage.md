@@ -5,7 +5,6 @@ description: "公的安全基準に基づくキャベツの最適な保存温度
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","cabbage"]
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","carrot"]
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

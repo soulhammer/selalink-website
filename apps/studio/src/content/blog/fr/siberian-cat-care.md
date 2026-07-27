@@ -5,7 +5,6 @@ description: "Guide de soins pour le majestueux Chat Sibérien au pelage triple.
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chat Sibérien (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

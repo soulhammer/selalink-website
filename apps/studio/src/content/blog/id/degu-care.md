@@ -5,7 +5,6 @@ description: "Panduan perawatan Degu asal Cile yang cerdas. Pahami kibasan ekor,
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

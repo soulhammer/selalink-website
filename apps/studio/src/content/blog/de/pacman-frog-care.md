@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den kultigen Schmuckhornfrosch (Pacman-Frosch
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Schmuckhornfrosch / Pacman-Frosch (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

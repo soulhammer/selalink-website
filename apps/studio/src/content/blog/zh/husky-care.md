@@ -5,7 +5,6 @@ description: "适应西伯利亚严寒的雪橇犬西伯利亚哈士奇。介绍
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","西伯利亚哈士奇 (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4

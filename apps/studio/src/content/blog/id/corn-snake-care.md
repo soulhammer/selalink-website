@@ -5,7 +5,6 @@ description: "Panduan perawatan Ular Jagung (Corn Snake) yang jinak. Pahami geta
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ular Jagung / Corn Snake (Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

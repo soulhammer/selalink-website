@@ -5,7 +5,6 @@ description: "독립적이고 스킨십에 민감한 시바견. 이중모 털빠
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","시바견 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

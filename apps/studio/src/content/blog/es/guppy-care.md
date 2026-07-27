@@ -5,7 +5,6 @@ description: "Guía de cuidado para el vistoso pez Guppy. Interprete el repliegu
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

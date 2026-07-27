@@ -5,7 +5,6 @@ description: "毕达哥拉斯每晚睡前三次元想和反思当天的言行。
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "睫角守宫（Crested Gecko）护理指南。介绍骨骼代谢�
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","睫角守宫 (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
 app: "petself"
 formatVersion: 4

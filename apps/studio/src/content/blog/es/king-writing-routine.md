@@ -5,7 +5,6 @@ description: "Explore la legendaria rutina de escritura de Stephen King, uno de 
 pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4

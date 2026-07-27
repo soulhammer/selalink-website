@@ -5,7 +5,6 @@ description: "每年夏天隐居于阿尔卑斯山林小屋创作宏伟交响曲
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4

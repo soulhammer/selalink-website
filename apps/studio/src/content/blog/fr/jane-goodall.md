@@ -5,7 +5,6 @@ description: "Découvrez comment l'éthologue Jane Goodall a obtenu des avancée
 pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4

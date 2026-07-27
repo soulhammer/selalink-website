@@ -5,7 +5,6 @@ description: "Los Pomeranias son propensos a la luxación patelar y al colapso t
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pomerania (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

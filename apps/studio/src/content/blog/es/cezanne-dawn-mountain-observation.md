@@ -5,7 +5,6 @@ description: "Descubra cómo Paul Cézanne, padre del arte moderno, caminaba hac
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4

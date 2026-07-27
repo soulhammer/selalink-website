@@ -5,7 +5,6 @@ description: "法国存在主义哲学家让-保罗·萨特在喧闹的巴黎咖
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

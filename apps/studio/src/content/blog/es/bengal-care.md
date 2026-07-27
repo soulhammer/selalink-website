@@ -5,7 +5,6 @@ description: "Cuidado del gato Bengalí, activo e inteligente. Aprenda a entende
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gato Bengalí (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

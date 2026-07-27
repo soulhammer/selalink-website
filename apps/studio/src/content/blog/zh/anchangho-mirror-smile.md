@@ -5,7 +5,6 @@ description: "独立运动家岛山安昌浩所强调的“微笑”与“清洁
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4

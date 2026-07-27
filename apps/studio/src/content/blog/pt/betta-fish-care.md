@@ -5,7 +5,6 @@ description: "Cuidados com o Peixe Betta de nadadeiras exuberantes. Entenda as e
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Peixe Betta (Betta splendens / Peixe de Briga Siamês)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

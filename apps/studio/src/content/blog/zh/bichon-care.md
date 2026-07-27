@@ -5,7 +5,6 @@ description: "以“头盔圆头”发型闻名、性格友善的比熊犬。介
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","比熊犬 (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

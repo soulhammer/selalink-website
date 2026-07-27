@@ -5,7 +5,6 @@ description: "Discover how legendary fashion pioneer Coco Chanel revolutionised 
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

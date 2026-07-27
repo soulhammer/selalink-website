@@ -5,7 +5,6 @@ description: "シーザーの暗殺以降、独断の代わりにマイケナス
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4

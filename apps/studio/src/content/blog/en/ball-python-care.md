@@ -5,7 +5,6 @@ description: "Care guide for the gentle Ball Python. Interpret defensive balling
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Ball Python / Royal Python (Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

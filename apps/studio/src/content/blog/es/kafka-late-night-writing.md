@@ -5,7 +5,6 @@ description: "Descubra cómo el titán literario del siglo XX Franz Kafka compus
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4

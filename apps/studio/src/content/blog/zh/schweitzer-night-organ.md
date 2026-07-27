@@ -5,7 +5,6 @@ description: "史怀哲博士在非洲丛林医院里每天晚上弹奏巴赫的
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4

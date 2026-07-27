@@ -5,7 +5,6 @@ description: "마이크로소프트의 대약진을 이끈 빌 게이츠의 오�
 pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
 heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4

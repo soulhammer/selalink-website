@@ -5,7 +5,6 @@ description: "Los Bulldogs Franceses son propensos al distrés respiratorio y al
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Bulldog Francés (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "护理最常作为宠物饲养的半水生龟——密西西比泥
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4

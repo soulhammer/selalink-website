@@ -5,7 +5,6 @@ description: "深受大家喜爱的马尔济斯犬。介绍预防遗传性膝盖
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","马尔济斯犬 (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

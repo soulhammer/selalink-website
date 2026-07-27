@@ -5,7 +5,6 @@ description: "테니스 황제 로저 페더러. 40세가 넘는 나이까지 �
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4

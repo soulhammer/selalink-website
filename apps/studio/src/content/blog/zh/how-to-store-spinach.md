@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解菠菜的最佳储存温度
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

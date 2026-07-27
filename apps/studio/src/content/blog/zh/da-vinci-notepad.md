@@ -5,7 +5,6 @@ description: "探索文艺复兴巨匠列奥纳多·达·芬奇腰间系着皮�
 pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4

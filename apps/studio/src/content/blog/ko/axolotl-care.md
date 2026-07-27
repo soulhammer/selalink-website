@@ -5,7 +5,6 @@ description: "신비로운 멕시코 도롱뇽 우파루파(Axolotl). 깃털 아
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","우파루파 / 아홀로틀 (Axolotl)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "愛くるしい小型インコのコザクラインコ/ボタン�
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","コザクラインコ / ボタンインコ (Lovebird / Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

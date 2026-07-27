@@ -5,7 +5,6 @@ description: "Guia de cuidados para o colorido peixe Guppy. Entenda as nadadeira
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

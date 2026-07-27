@@ -5,7 +5,6 @@ description: "がっしりした体格と大きな顔が特徴のブリティッ
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ブリティッシュ・ショートヘア (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

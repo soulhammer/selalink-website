@@ -5,7 +5,6 @@ description: "完璧な考証と緻密な演出を誇った映画監督スタン
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4

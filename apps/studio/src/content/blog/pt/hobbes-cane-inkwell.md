@@ -5,7 +5,6 @@ description: "Descubra como o pensador Thomas Hobbes fixou um tinteiro em sua be
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

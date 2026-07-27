@@ -5,7 +5,6 @@ description: "Pelajari bagaimana peraih Nobel Sastra dan filsuf Prancis Albert C
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4

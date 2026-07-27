@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den eleganten Cavalier King Charles Spaniel. 
 pubDate: "2026-04-12"
 updatedDate: "2026-04-12"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Cavalier King Charles Spaniel"]
 heroImage: "/images/blog/cavalier_king_charles_spaniel_care.webp"
 app: "petself"
 formatVersion: 4

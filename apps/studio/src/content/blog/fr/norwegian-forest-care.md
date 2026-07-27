@@ -5,7 +5,6 @@ description: "Soin du majestueux chat Norvégien. Répondez à son besoin de gri
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Norvégien (Felis catus / Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

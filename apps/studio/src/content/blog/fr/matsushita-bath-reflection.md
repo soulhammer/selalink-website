@@ -5,7 +5,6 @@ description: "La méditation en bain chaud pratiquée chaque soir par Konosuke M
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

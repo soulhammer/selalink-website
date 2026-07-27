@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","beef"]
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

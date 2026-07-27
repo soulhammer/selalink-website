@@ -5,7 +5,6 @@ description: "神秘的なメキシコサラマンダーのウーパールーパ
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ウーパールーパー / アホロートル (Axolotl)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

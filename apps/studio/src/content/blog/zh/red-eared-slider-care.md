@@ -5,7 +5,6 @@ description: "代表性半水栖龟红耳龟（Red-Eared Slider）护理指南�
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","红耳龟 / 巴西龟 (Red-Eared Slider)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

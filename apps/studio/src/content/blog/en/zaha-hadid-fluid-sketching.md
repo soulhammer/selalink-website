@@ -5,7 +5,6 @@ description: "Pritzker Prize-winning architect Zaha Hadid. Introduces her brain-
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4

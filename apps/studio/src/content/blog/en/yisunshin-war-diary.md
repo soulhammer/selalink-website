@@ -5,7 +5,6 @@ description: "Admiral Yi Sun-sin, Joseon's national hero. Discover the cognitive
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

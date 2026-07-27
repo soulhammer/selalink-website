@@ -5,7 +5,6 @@ description: "Panduan perawatan ikan Neon Tetra yang indah. Pahami pemudaran gar
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Neon Tetra (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

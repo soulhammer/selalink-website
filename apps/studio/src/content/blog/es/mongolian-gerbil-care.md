@@ -5,7 +5,6 @@ description: "Guía de cuidado para el curioso Gerbo de Mongolia (Mongolian Gerb
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gerbo de Mongolia (Mongolian Gerbil / Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

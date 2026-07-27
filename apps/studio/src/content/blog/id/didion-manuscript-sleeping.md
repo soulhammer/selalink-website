@@ -5,7 +5,6 @@ description: "Pelajari bagaimana esaiis legendaris Amerika Joan Didion tidur di 
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4

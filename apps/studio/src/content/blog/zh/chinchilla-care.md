@@ -5,7 +5,6 @@ description: "龙猫具有终生生长的牙齿且对高温高湿极度敏感。
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","龙猫 (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

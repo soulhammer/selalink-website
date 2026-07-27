@@ -5,7 +5,6 @@ description: "세계 최대 IT 기업 애플(Apple)을 이끄는 수장 팀 쿠�
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

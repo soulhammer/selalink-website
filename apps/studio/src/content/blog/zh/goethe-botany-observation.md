@@ -5,7 +5,6 @@ description: "探索约翰·沃尔夫冈·冯·歌德每天清晨借助放大镜
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4

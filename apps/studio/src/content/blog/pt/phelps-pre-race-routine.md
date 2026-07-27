@@ -5,7 +5,6 @@ description: "A rotina comportamental ultraprecisa executada antes de cada prova
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "バロックの巨匠ルーベンスは絵を描きながら歴史
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4

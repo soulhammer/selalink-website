@@ -5,7 +5,6 @@ description: "Linus Torvalds, pencipta Linux dan Git. Membahas bagaimana dia men
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

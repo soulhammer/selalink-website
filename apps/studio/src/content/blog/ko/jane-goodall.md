@@ -5,7 +5,6 @@ description: "아프리카 곰베 정글에서 침팬지 무리와 함께 생활
 pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["위인 습관", "제인 구달", "사색", "성찰"]
 heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4

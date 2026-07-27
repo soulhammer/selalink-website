@@ -5,7 +5,6 @@ description: "探索近代哲学泰斗伊曼努尔·康德如何通过柯尼斯�
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4

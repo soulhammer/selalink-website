@@ -5,7 +5,6 @@ description: "Descubra como o astrônomo do século XVII Johannes Kepler compree
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4

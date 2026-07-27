@@ -120,18 +120,6 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
-  const langTagMap = {
-    ko: ["식재료보관", "신선보관", master.ingId || 'food'],
-    en: ["FoodStorage", "FreshStorage", master.ingId || 'food'],
-    zh: ["食材保存", "保鲜技巧", master.ingId || 'food'],
-    ja: ["食材保存", "鮮度保持", master.ingId || 'food'],
-    es: ["ConservacionAlimentos", "AlmacenamientoFresco", master.ingId || 'food'],
-    fr: ["ConservationAliments", "StockageFrais", master.ingId || 'food'],
-    de: ["Lebensmittellagerung", "Frischelagerung", master.ingId || 'food'],
-    pt: ["ConservacaoAlimentos", "ArmazenamentoFresco", master.ingId || 'food'],
-    id: ["PenyimpananMakanan", "PenyimpananSegar", master.ingId || 'food']
-  };
-  const tagsJson = JSON.stringify(langTagMap[lang] || langTagMap['en']);
   const guideTitle = locData.guideTitle || enData.guideTitle || (lang === 'ko' ? '과학적으로 검증된 보관 가이드' : 'Scientifically Proven Storage Guide');
 
   let markdown = `---
@@ -141,7 +129,6 @@ description: "${desc.replace(/"/g, '\\"')}"
 pubDate: "${pubDate}"
 updatedDate: "${updatedDate}"
 category: "FreshSnap"
-tags: ${tagsJson}
 heroImage: "${heroImage}"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "백열전구와 축음기의 발명가 토마스 에디슨이 난�
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
 heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4

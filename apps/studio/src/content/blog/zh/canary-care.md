@@ -5,7 +5,6 @@ description: "优雅金丝雀（Canary）护理指南。解读停止鸣唱与羽
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","金丝雀 / 芙蓉鸟 (Canary / Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

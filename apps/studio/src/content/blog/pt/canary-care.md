@@ -5,7 +5,6 @@ description: "Guia de cuidados para o melodioso Canário. Entenda a interrupçã
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Canário (Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

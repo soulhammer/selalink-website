@@ -5,7 +5,6 @@ description: "Découvrez comment l'héroïne française Jeanne d'Arc a préserv�
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4

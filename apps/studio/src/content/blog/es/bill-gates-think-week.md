@@ -5,7 +5,6 @@ description: "Descubra la rutina de lectura e aislamiento en una cabaña de Bill
 pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "John D. Rockefeller, der als reichste Person der Weltgeschichte gi
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4

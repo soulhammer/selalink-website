@@ -5,7 +5,6 @@ description: "拥有可爱大圆耳与极高智商的大耳花鼠（Dumbo Rat）
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","大耳花鼠 / 双耳大鼠 (Dumbo Rat / Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

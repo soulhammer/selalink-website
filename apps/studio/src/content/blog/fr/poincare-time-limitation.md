@@ -5,7 +5,6 @@ description: "La formule de succès d'Henri Poincaré consistant à limiter le t
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4

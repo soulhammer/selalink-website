@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den samtchwarzen tropischen Lebendgebärenden
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Black Molly (Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

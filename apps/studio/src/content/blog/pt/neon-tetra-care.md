@@ -5,7 +5,6 @@ description: "Guia de cuidados para o brilhante Tetra Neon. Entenda o desbotamen
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Tetra Neon (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

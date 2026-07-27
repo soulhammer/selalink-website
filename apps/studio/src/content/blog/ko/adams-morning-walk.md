@@ -5,7 +5,6 @@ description: "미국 제6대 대통령 존 퀸시 애덤스는 매일 5마일의
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

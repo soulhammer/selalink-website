@@ -5,7 +5,6 @@ description: "낭만파 음악의 거장 프레데리크 쇼팽이 건반 앞에
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위인 습관", "쇼팽", "완벽주의", "피아노작곡", "디테일퇴고"]
 heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Merawat kura-kura kasturi umum (semi-akuatik). Pelajari arti pereg
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4

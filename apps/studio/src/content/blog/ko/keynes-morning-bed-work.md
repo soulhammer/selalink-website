@@ -5,7 +5,6 @@ description: "대공황을 극복한 거시경제학자이자 기상 직후 2시
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["집중", "생산성", "성공습관"]
 heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4

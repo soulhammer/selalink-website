@@ -5,7 +5,6 @@ description: "Guia de cuidados para a misteriosa salamandra mexicana, o axolote 
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Axolote (Axolotl)"]
 heroImage: "/images/blog/axolotl_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "深入剖析罗斯福总统在战争与经济危机的高压下，
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra como George Washington, que acordava às 4h para inspecio
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "博美犬极易发生髌骨脱位和气管塌陷。介绍预防关
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","博美犬 (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Essential care for the rosette-coated Abyssinian guinea pig. Learn
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Abyssinian Guinea Pig"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

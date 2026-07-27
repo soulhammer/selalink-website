@@ -5,7 +5,6 @@ description: "Pelajari bagaimana maestro surealis Salvador Dalí duduk di kursi 
 pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4

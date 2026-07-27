@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解吐司/面包的最佳储�
 pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","bread"]
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

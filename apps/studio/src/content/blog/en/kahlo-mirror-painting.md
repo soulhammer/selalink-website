@@ -5,7 +5,6 @@ description: "Discover how legendary Mexican painter Frida Kahlo transformed phy
 pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4

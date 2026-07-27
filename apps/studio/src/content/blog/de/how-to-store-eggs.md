@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

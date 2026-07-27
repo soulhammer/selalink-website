@@ -5,7 +5,6 @@ description: "Panduan perawatan Kucing Abyssinian yang lincah. Pahami sundulan k
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Abyssinian (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

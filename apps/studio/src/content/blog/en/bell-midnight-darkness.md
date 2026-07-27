@@ -5,7 +5,6 @@ description: "Explore how Alexander Graham Bell, inventor of the telephone who r
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4

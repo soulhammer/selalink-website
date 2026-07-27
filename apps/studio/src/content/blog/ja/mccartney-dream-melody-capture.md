@@ -5,7 +5,6 @@ description: "ビートルズの名曲『Yesterday』を起床直後の夢の記
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4

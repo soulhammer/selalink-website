@@ -5,7 +5,6 @@ description: "20世紀の文学の巨匠ヴァージニア・ウルフ。画家�
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

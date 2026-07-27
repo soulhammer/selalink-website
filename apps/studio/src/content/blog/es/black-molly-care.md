@@ -5,7 +5,6 @@ description: "Guía de cuidado para el pez tropical ovovivíparo Molly Negro (Bl
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Molly Negro / Black Molly (Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

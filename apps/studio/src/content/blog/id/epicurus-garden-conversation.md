@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Epicurus membangun 'Taman' di luar Athena untuk
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4

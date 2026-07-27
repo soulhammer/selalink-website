@@ -5,7 +5,6 @@ description: "날렵하고 사교적인 아비시니안(Abyssinian). 헤드버�
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","아비시니안 (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

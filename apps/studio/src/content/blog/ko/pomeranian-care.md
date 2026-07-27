@@ -5,7 +5,6 @@ description: "소형견 포메라니안의 유전적 취약점인 슬개골 탈�
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","포메라니안 (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo la leyenda del baloncesto Michael Jordan superó su
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4

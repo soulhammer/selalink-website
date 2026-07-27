@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","garlic"]
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

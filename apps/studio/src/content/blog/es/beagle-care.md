@@ -5,7 +5,6 @@ description: "Los Beagle son sabuesos muy curiosos con una energía enorme. Cono
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Beagle"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

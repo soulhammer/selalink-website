@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Informatiker Donald Knuth am 1. Januar 1990 
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4

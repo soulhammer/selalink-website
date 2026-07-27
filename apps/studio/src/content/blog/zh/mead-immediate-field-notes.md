@@ -5,7 +5,6 @@ description: "人类学家玛格丽特·米德在记忆发生扭曲前，便在�
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4

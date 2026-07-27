@@ -5,7 +5,6 @@ description: "Samoyed rentan terhadap displasia pinggul dan infeksi kulit di bal
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Samoyed (Canis lupus familiaris)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

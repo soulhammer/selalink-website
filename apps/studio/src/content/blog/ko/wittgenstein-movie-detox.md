@@ -5,7 +5,6 @@ description: "분석철학의 한계에 도전하며 과열된 뇌를 리셋하�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위인 습관", "루트비히 비트겐슈타인", "이완", "휴식", "사색", "스트레스 해소"]
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez comment soulager l'ennui des caniches intelligents avec
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Caniche (Canis lupus familiaris / Poodle)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索法国救国圣女贞德如何在百年战争的惊涛骇浪
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "朝鮮最高の実学者・茶山（タサン）丁若鏞（チョ
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4

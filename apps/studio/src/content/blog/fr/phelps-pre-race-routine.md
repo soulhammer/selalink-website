@@ -5,7 +5,6 @@ description: "La routine comportementale ultra-précise exécutée juste avant l
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4

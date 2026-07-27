@@ -5,7 +5,6 @@ description: "第40代米国大統領ロナルド・レーガンは、禁煙と�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4

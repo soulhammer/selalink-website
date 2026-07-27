@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","cheese"]
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

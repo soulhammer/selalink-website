@@ -5,7 +5,6 @@ description: "Descubra cómo el empirista John Locke indexó sistemáticamente s
 pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4

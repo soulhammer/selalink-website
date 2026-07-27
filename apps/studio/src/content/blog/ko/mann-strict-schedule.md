@@ -5,7 +5,6 @@ description: "독일의 노벨 문학상 수상 작가 토마스 만은 매일 �
 pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
-tags: ["매일 오전 4시간 ","Routine"]
 heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4

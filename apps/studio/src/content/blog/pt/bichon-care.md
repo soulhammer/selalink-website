@@ -5,7 +5,6 @@ description: "Famoso por sua aparência de pompom de algodão, o Bichon Frisé �
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Bichon Frisé (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

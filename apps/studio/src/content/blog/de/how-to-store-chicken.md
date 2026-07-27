@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Malcolm X alcançou um salto cognitivo dramático. Descubra seu in
 pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4

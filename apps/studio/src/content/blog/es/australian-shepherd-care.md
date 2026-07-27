@@ -5,7 +5,6 @@ description: "Guía de cuidado para el altamente inteligente Pastor Australiano.
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pastor Australiano (Australian Shepherd / Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Chihuahuas, the smallest brave dogs. Discover tips to protect thei
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Chihuahua (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

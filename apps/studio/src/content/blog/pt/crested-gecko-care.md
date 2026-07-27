@@ -5,7 +5,6 @@ description: "Guia de cuidados para o Gecko-Cristado (Crested Gecko). Previna a 
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gecko-Cristado (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
 app: "petself"
 formatVersion: 4

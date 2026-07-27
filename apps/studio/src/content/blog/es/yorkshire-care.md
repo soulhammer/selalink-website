@@ -5,7 +5,6 @@ description: "Descubra los secretos de peinado para mantener el manto sedoso del
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

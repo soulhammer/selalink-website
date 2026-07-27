@@ -5,7 +5,6 @@ description: "현대 영화사상 가장 성공한 감독 스티븐 스필버그
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra como o erudito renascentista Erasmo redigiu 'O Elogio da 
 pubDate: "2026-06-11"
 updatedDate: "2026-06-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/erasmus_notebook_travel.webp"
 app: "buildself"
 formatVersion: 4

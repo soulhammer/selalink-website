@@ -5,7 +5,6 @@ description: "Guía de cuidado para el vistoso Tetra Neón. Interprete la pérdi
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Tetra Neón (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

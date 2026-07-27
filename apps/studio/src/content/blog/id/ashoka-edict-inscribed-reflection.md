@@ -5,7 +5,6 @@ description: "Ashoka Agung dari Kekaisaran Maurya di India. Pelajari rutinitas p
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4

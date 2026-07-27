@@ -5,7 +5,6 @@ description: "F1の伝説的チャンピオンであり、レース前にコッ�
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

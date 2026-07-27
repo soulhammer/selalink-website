@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang putih b
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","garlic"]
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

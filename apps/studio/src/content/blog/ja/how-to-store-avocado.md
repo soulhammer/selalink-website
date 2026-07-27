@@ -5,7 +5,6 @@ description: "公的安全基準に基づくアボカドの最適な保存温度
 pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","avocado"]
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

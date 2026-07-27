@@ -5,7 +5,6 @@ description: "探索跨越时代的伟大作曲家路德维希·凡·贝多芬�
 pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4

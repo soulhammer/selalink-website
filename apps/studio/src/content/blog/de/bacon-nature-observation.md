@@ -5,7 +5,6 @@ description: "Entdecken Sie, wie Francis Bacon, ein Meister des Empirismus, jede
 pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

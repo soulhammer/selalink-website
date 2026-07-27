@@ -5,7 +5,6 @@ description: "探索掀起女性时装革命的传奇设计师可可·香奈儿�
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

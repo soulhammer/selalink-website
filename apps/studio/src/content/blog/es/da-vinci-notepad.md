@@ -5,7 +5,6 @@ description: "Descubra cómo el polímata del Renacimiento Leonardo da Vinci lle
 pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4

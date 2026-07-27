@@ -5,7 +5,6 @@ description: "완벽한 고증과 치밀한 연출을 자랑했던 영화감독 
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
 heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4

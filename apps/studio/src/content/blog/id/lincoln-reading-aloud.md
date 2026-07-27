@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Presiden AS ke-16 Abraham Lincoln memaksimalkan
 pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4

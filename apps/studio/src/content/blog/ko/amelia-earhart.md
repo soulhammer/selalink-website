@@ -5,7 +5,6 @@ description: "대서양 단독 횡단에 성공한 최초의 여성 비행사로
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

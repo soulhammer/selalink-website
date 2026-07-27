@@ -5,7 +5,6 @@ description: "The power of 'smiling' and 'cleanliness' emphasized by independenc
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4

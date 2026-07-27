@@ -5,7 +5,6 @@ description: "Découvrez la pratique du philosophe allemand Friedrich Nietzsche 
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4

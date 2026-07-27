@@ -5,7 +5,6 @@ description: "探索20世纪武道家兼巨星李小龙将口袋手账随身至�
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "전 세계적인 베스트셀러 소설가 무라카미 하루키.
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력"]
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

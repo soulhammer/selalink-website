@@ -5,7 +5,6 @@ description: "Sir Isaac Newton, o supremo cientista da humanidade. Explore seu h
 pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/newton_meticulous_journaling.webp"
 app: "buildself"
 formatVersion: 4

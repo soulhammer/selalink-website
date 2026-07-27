@@ -5,7 +5,6 @@ description: "探索东方思想伟大导师孔子在乱世与长达14年的流�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4

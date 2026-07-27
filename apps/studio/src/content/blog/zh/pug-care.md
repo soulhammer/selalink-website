@@ -5,7 +5,6 @@ description: "性格温和滑稽的经典小型犬巴哥犬（Pugs）。解读�
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","巴哥犬 / 哈巴狗 (Pug)"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

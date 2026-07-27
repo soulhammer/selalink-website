@@ -5,7 +5,6 @@ description: "罗马皇帝奥古斯都于恺撒遇刺后，弃独断专行，彻
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4

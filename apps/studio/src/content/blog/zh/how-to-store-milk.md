@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解牛奶的最佳储存温度
 pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","milk"]
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

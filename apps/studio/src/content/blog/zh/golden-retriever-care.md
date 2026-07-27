@@ -5,7 +5,6 @@ description: "友好且聪明的金毛寻回犬。介绍预防大型犬易患的
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","金毛寻回猎犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4

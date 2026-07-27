@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","bread"]
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Care guide for the jet-black tropical livebearer Black Molly. Inte
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Black Molly (Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

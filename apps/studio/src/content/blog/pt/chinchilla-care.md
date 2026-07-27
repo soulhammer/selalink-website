@@ -5,7 +5,6 @@ description: "Chinchilas têm dentes de crescimento contínuo e são intolerante
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Chinchila (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

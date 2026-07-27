@@ -5,7 +5,6 @@ description: "朝鲜救国英雄李舜臣将军。介绍写反思日记（《乱
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

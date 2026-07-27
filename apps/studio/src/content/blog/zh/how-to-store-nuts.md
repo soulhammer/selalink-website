@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解坚果的最佳储存温度
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

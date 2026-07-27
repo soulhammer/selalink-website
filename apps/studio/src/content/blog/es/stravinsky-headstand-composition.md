@@ -5,7 +5,6 @@ description: "El músico Igor Stravinsky hacía el pino cada vez que sufría un 
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4

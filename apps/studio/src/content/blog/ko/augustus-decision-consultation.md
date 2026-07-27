@@ -5,7 +5,6 @@ description: "시저의 암살 이후 독단 대신 마이케나스, 아그리�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["의사결정", "단순화", "생산성"]
 heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4

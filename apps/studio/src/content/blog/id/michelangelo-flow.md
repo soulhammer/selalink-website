@@ -5,7 +5,6 @@ description: "Michelangelo Buonarroti, maestro tertinggi Renaisans. Pelajari keb
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4

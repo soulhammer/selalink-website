@@ -5,7 +5,6 @@ description: "Guia de cuidados para o inteligente Caturrita (Quaker Parrot / Per
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Caturrita / Periquito-Monge (Quaker Parrot / Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

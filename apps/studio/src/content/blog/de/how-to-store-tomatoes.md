@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-03-24"
 updatedDate: "2026-03-24"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","tomato"]
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

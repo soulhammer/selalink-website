@@ -5,7 +5,6 @@ description: "自伝的名作『失われた時を求めて』を執筆したプ
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "针对活泼且聪明的孟加拉猫（豹猫）护理。解读其
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","孟加拉猫 (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

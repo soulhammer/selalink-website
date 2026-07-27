@@ -5,7 +5,6 @@ description: "Raja Sejong yang Agung menciptakan Hangeul. Pelajari rutinitas akt
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sejong_dawn_reading.webp"
 app: "buildself"
 formatVersion: 4

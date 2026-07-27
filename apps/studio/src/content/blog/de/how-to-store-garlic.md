@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","garlic"]
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

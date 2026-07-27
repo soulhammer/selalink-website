@@ -5,7 +5,6 @@ description: "极具语言天赋与学习能力的中小型鹦鹉和尚鹦鹉（
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","和尚鹦鹉 / 奎克鹦鹉 (Quaker Parrot / Monk Parakeet)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

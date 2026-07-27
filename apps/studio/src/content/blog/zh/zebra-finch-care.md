@@ -5,7 +5,6 @@ description: "拥有欢快鸣叫与斑马条纹的大热观赏鸟斑胸草雀（
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","斑胸草雀 / 金花鸟 (Zebra Finch / Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

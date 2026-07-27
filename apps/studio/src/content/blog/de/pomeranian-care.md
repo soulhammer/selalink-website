@@ -5,7 +5,6 @@ description: "Zwergspitze sind anfällig für Patellaluxation und Trachealkollap
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Zwergspitz (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

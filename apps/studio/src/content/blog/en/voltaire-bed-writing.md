@@ -5,7 +5,6 @@ description: "Discover the morning bed-writing habit practiced lifelong by the g
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4

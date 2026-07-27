@@ -5,7 +5,6 @@ description: "Adam Smith disfrutaba de largas caminatas en inmersión profunda p
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4

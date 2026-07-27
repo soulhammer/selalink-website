@@ -5,7 +5,6 @@ description: "毎夜日記帳に学習や集中時間を評価し、成績（A�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4

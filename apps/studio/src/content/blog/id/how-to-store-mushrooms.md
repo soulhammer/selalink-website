@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk jamur berdasar
 pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","mushroom"]
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

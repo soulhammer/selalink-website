@@ -5,7 +5,6 @@ description: "다리가 짧은 먼치킨 고양이 케어법. 관절 이상 신�
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","먼치킨 고양이 (Felis catus / Munchkin Cat)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

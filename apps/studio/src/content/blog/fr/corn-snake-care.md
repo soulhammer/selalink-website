@@ -5,7 +5,6 @@ description: "Guide de soins pour le docile Serpent des Blés (Corn Snake). Déc
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Serpent des Blés (Corn Snake / Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

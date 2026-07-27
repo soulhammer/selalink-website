@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den kraftvollen und treuen Rottweiler. Den 'R
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Rottweiler"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den fröhlichen Zebrafinken. Schwanzwedeln un
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Zebrafink (Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

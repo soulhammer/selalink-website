@@ -5,7 +5,6 @@ description: "Célèbre pour son aspect de houppette blanche, le Bichon Frisé e
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Bichon Frisé (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

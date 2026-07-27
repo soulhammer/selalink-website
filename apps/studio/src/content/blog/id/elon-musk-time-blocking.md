@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Elon Musk mengelola 80-100 jam kerja seminggu d
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

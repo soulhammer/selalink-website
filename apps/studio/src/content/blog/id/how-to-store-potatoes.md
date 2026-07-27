@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk kentang berdas
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","potato"]
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

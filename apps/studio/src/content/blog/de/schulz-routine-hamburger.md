@@ -5,7 +5,6 @@ description: "Charles Schulz legte Mahlzeiten und Arbeitsumgebung vollständig f
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4

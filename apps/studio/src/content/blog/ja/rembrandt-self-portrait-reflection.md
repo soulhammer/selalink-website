@@ -5,7 +5,6 @@ description: "生涯で80点余りの自画像を描き自身の変化の過程�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4

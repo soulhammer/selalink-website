@@ -5,7 +5,6 @@ description: "비서에게 전화로 어제의 일과와 세세한 지출을 읊
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["기록", "기획", "생산성"]
 heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

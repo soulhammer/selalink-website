@@ -5,7 +5,6 @@ description: "Eleanor Roosevelt, one of America's most influential First Ladies.
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/roosevelt_my_day_column.webp"
 app: "buildself"
 formatVersion: 4

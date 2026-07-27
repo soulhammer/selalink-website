@@ -5,7 +5,6 @@ description: "Los Angoras Turcos blancos con ojos azules u ojos impares son gen√
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Angora Turco (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

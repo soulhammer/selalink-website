@@ -5,7 +5,6 @@ description: "Cuidado del erizo pigmeo africano. Comprenda sus comportamientos Ã
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Erizo Pigmeo Africano (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

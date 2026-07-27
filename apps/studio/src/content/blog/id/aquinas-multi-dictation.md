@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Thomas Aquinas, ahli teologi besar abad perteng
 pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "古代ローマ・ストア派哲学の巨匠エピクテトス。
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez comment le Roi-Soleil Louis XIV a gouverné la France e
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索享誉世界的电影大师黑泽明如何通过每日撰写
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kurosawa_page_writing.webp"
 app: "buildself"
 formatVersion: 4

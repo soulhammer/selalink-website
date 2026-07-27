@@ -5,7 +5,6 @@ description: "飼い主には従順ですが警戒心の強い珍島犬（チン
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","珍島犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

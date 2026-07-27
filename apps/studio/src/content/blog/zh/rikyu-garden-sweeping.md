@@ -5,7 +5,6 @@ description: "茶道宗师千利休通过扫地净化心灵的轶事。解释通
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

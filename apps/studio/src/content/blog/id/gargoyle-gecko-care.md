@@ -5,7 +5,6 @@ description: "Panduan perawatan Tokek Gargoyle (Gargoyle Gecko). Pelajari cara m
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Tokek Gargoyle (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

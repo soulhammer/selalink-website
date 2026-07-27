@@ -5,7 +5,6 @@ description: "フレンチ・ブルドッグは鼻が低いため呼吸困難や
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","フレンチ・ブルドッグ (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

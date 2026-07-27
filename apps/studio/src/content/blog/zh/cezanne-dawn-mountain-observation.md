@@ -5,7 +5,6 @@ description: "探索现代艺术之父保罗·塞尚每天清晨6点走向圣维
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4

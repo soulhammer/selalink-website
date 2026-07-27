@@ -5,7 +5,6 @@ description: "Discover how Sigmund Freud, the father of psychoanalysis, restored
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

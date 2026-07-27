@@ -5,7 +5,6 @@ description: "27年間の収監生活の中でも毎朝午前5時に自重トレ
 pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4

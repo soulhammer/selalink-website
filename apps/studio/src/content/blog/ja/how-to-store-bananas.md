@@ -5,7 +5,6 @@ description: "公的安全基準に基づくバナナの最適な保存温度、
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

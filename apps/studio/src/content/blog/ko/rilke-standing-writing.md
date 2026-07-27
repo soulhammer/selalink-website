@@ -5,7 +5,6 @@ description: "오스트리아의 문호 라이너 마리아 릴케가 서서 글
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4

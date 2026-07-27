@@ -5,7 +5,6 @@ description: "Giuseppe Verdi stand um 5 Uhr morgens auf dem Bauernhof Sant'Agata
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "非常に活発で知的なベンガル猫のケア。彼らの活
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ベンガル猫 (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

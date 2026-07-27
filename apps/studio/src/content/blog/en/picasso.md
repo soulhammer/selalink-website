@@ -5,7 +5,6 @@ description: "The master of modern art who co-founded Cubism, igniting creative 
 pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4

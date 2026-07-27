@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den farbenfrohen Guppy. Klemmen der Flossen u
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

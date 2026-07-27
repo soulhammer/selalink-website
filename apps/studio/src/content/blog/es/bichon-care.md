@@ -5,7 +5,6 @@ description: "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy a
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Bichón Frisé (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

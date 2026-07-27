@@ -5,7 +5,6 @@ description: "Caring for the popular Common Musk Turtle. Learn the meaning of ba
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Common Musk Turtle (Sternotherus odoratus)"]
 heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4

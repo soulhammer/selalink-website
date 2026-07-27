@@ -5,7 +5,6 @@ description: "深度剖析发明微积分的千古奇才莱布尼茨如何将浩
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4

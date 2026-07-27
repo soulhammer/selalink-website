@@ -5,7 +5,6 @@ description: "Descubra cómo George Washington, que se levantaba a las 4 AM para
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4

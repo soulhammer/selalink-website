@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","onion"]
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

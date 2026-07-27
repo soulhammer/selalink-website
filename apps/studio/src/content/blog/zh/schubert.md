@@ -5,7 +5,6 @@ description: "在短短31年生涯中留下了600多首歌曲的“歌曲之王�
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

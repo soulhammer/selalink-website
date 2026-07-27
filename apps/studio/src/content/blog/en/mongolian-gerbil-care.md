@@ -5,7 +5,6 @@ description: "Care guide for the curious Mongolian Gerbil. Interpret foot thumpi
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Mongolian Gerbil (Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

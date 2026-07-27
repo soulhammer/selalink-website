@@ -5,7 +5,6 @@ description: "호기심 많고 장난기 넘치는 소형 앵무새 그린칙 �
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","그린칙 코뉴어 (Green-cheeked Conure / Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

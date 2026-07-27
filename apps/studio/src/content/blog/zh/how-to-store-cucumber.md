@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解黄瓜的最佳储存温度
 pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

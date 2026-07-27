@@ -5,7 +5,6 @@ description: "보호자에게는 충직하지만 낯선 이에게는 경계심�
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","진돗개 (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

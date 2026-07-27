@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Ray Bradbury, bapak sains fiksi modern, menulis
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "조선 최고의 현자 율곡 이이가 20세에 수립한 '자�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "율곡 이이", "자율성", "자경문", "의지력", "자기계발"]
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4

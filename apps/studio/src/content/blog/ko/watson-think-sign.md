@@ -5,7 +5,6 @@ description: "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 �
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 왓슨", "사색", "의사결정", "단순화"]
 heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4

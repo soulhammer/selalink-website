@@ -5,7 +5,6 @@ description: "文豪列夫·托尔斯泰能够创作出《战争与和平》等�
 pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4

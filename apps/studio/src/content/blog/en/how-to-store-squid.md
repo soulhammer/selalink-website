@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","squid"]
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

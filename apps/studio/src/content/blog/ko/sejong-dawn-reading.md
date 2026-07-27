@@ -5,7 +5,6 @@ description: "한글을 창제한 조선의 최고 성군 세종대왕. 만성 �
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["위인 습관", "세종대왕", "독서", "공부", "아침독서"]
 heroImage: "/images/blog/sejong_dawn_reading.webp"
 app: "buildself"
 formatVersion: 4

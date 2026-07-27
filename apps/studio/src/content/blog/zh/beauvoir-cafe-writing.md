@@ -5,7 +5,6 @@ description: "探索存在主义哲学家兼小说家西蒙娜·德·波伏娃�
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "경영의 신 마쓰시타 고노스케가 매일 밤 실천한 �
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "마쓰시타 고노스케", "자기성찰", "이완", "의사결정", "부교감 신경"]
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

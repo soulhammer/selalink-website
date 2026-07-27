@@ -5,7 +5,6 @@ description: "위대한 생물학자 찰스 다윈이 자갈길을 걸으며 돌
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

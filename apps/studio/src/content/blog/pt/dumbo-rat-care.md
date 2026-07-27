@@ -5,7 +5,6 @@ description: "Guia de cuidados para o inteligente Rato Dumbo de orelhas grandes.
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Rato Dumbo (Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

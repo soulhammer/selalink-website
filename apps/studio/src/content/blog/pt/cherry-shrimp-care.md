@@ -5,7 +5,6 @@ description: "Guia de cuidados para o brilhante Camarão Red Cherry (Neocaridina
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Camarão Red Cherry / Neocaridina (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

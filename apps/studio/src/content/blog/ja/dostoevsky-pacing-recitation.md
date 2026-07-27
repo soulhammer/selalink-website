@@ -5,7 +5,6 @@ description: "『罪と罰』の著者ドストエフスキーが部屋の中を
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4

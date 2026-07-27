@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den edlen Dobermann Pinscher. Den 'Dobie Lean
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Dobermann Pinscher"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Panduan perawatan Ikan Platy Mickey Mouse (Xiphophorus maculatus) 
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ikan Platy Mickey Mouse (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "납작한 단두종 특성상 호흡 곤란과 열사병에 취약
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","프렌치 불독 (French Bulldog)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "French existentialist philosopher Jean-Paul Sartre wrote at a rese
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

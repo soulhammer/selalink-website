@@ -5,7 +5,6 @@ description: "Découvrez des jeux cognitifs et des conseils de soins articulaire
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

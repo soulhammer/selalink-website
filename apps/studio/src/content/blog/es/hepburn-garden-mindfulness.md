@@ -5,7 +5,6 @@ description: "Descubra cómo la leyenda de Hollywood Audrey Hepburn mantuvo su t
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die beliebte Rotwangen-Schmuckschildkröte. S
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Rotwangen-Schmuckschildkröte (Trachemys scripta elegans)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

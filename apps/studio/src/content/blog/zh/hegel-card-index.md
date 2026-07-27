@@ -5,7 +5,6 @@ description: "在黑格尔集大成德国唯心主义哲学背后，藏着数万
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4

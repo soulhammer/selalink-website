@@ -5,7 +5,6 @@ description: "現代野球の歴史を塗り替える大谷翔平。彼が高校
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4

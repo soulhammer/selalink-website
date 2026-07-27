@@ -5,7 +5,6 @@ description: "为了在脑海中构筑思想，亚当·斯密非常喜欢沉浸�
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4

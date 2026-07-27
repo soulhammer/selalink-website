@@ -5,7 +5,6 @@ description: "Pelajari mengapa sutradara Studio Ghibli Hayao Miyazaki memunguti 
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Merawat Ferret Marshall yang lincah dan jenaka. Pelajari cara mere
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ferret Marshall (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

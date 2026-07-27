@@ -5,7 +5,6 @@ description: "被毛のないスフィンクス猫のための皮膚の皮脂ケ
 pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","スフィンクス (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4

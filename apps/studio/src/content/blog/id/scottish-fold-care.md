@@ -5,7 +5,6 @@ description: "Terkenal dengan telinga terlipat yang menggemaskan, Scottish Fold 
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

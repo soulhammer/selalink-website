@@ -5,7 +5,6 @@ description: "好奇心旺盛で社会性の高いスナネズミ（モンゴリ
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","モンゴリアンジャービル / スナネズミ (Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

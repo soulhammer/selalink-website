@@ -5,7 +5,6 @@ description: "Maltese, anjing pendamping yang paling dicintai. Temukan tips untu
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Maltese (Canis lupus familiaris)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

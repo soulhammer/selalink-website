@@ -5,7 +5,6 @@ description: "El maestro barroco Antonio Vivaldi creó más de 500 conciertos, i
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

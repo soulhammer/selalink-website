@@ -5,7 +5,6 @@ description: "Fisikawan teoritis ternama dunia yang mengatasi ALS. Tanpa mampu m
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

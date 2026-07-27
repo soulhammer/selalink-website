@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing ras mungil menggemaskan Pug. Pahami mirin
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Pug"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

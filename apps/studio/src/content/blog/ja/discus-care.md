@@ -5,7 +5,6 @@ description: "熱帯魚の王様ディスカス（Discus Fish）。体色黒化�
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ディスカス (Discus Fish / Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

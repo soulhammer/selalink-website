@@ -5,7 +5,6 @@ description: "온순한 인기 파충류 볼파이톤(Ball Python). 공처럼 �
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","볼파이톤 / 공단구렁이 (Ball Python / Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

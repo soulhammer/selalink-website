@@ -5,7 +5,6 @@ description: "제인 오스틴은 방해 요소가 들어올 때 미리 감지�
 pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
 heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4

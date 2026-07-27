@@ -5,7 +5,6 @@ description: "Aprenda el cuidado de la Tortuga Pintada: interprete las señales 
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Tortuga Pintada (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "O renomado romancista Haruki Murakami. Descubra os princípios neu
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

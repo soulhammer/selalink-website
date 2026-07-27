@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 양파의 최적 보관
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","onion"]
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

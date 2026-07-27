@@ -5,7 +5,6 @@ description: "Care guide for the gentle giant Bernese Mountain Dog. Interpret th
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Bernese Mountain Dog (Berner)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

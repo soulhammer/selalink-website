@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die liebevolle Scottish Straight. Entpannte B
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Scottish Straight (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

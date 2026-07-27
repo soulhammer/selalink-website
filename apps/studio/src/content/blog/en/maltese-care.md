@@ -5,7 +5,6 @@ description: "Maltese, the most beloved companion dog. Discover tips to prevent 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Maltese (Canis lupus familiaris)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

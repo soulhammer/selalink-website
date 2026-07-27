@@ -5,7 +5,6 @@ description: "El sexto presidente de EE. UU., John Quincy Adams, mantenía una c
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

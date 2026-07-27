@@ -5,7 +5,6 @@ description: "Russian Blue secara alami pemalu dan sensitif terhadap kebisingan.
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Russian Blue (Felis catus)"]
 heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4

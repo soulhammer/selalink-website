@@ -5,7 +5,6 @@ description: "Care guide for the noble Doberman Pinscher. Interpret the Dobie Le
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Doberman Pinscher"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

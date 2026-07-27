@@ -5,7 +5,6 @@ description: "Guía de cuidado para el vivíparo Pez Platy Mickey Mouse (Xiphoph
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pez Platy Mickey Mouse (Xiphophorus maculatus)"]
 heroImage: "/images/blog/platy_fish_care.webp"
 app: "petself"
 formatVersion: 4

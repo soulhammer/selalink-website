@@ -5,7 +5,6 @@ description: "Descubra cómo el ícono del baloncesto Kobe Bryant iniciaba su pr
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4

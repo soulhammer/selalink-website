@@ -5,7 +5,6 @@ description: "프리츠커상 수상 건축가 자하 하디드. 격자형 관�
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4

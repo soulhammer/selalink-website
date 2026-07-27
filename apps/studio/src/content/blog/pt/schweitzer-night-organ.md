@@ -5,7 +5,6 @@ description: "Como o Dr. Albert Schweitzer superou o cansaço extremo em um hosp
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4

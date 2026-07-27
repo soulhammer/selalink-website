@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Helen Keller, die trotz Taubblindheit eine weltb
 pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4

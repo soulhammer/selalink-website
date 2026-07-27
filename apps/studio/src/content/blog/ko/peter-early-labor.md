@@ -5,7 +5,6 @@ description: "스스로 선박 목수가 되었던 개혁 군주 피터 대제�
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4

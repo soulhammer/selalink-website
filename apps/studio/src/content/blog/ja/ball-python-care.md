@@ -5,7 +5,6 @@ description: "温厚で人気の爬虫類ボールパイソン。ボール状に
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ボールパイソン / ニシキヘビ (Ball Python / Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

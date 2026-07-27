@@ -5,7 +5,6 @@ description: "ラテン語、エチオピア語など9つの言語を通訳な�
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4

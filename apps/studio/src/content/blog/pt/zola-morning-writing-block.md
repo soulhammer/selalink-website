@@ -5,7 +5,6 @@ description: "Os princípios científicos e o guia prático do lema 'Nulla dies 
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4

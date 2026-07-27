@@ -5,7 +5,6 @@ description: "徳川家康の精神修養法。毎日生薬を自ら薬研で摺
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4

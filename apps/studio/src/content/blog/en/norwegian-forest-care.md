@@ -5,7 +5,6 @@ description: "Caring for the majestic Norwegian Forest Cat. Learn how to fulfill
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Norwegian Forest Cat (Felis catus)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

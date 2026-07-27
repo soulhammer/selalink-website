@@ -5,7 +5,6 @@ description: "奥运历史上获得金牌最多的运动员迈克尔·菲尔普�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4

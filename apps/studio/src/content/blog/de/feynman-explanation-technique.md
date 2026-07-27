@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Nobelpreisträger Richard Feynman komplexe Q
 pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4

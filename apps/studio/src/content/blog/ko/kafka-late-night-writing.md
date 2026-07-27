@@ -5,7 +5,6 @@ description: "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 �
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
 heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4

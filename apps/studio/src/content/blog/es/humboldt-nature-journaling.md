@@ -5,7 +5,6 @@ description: "Descubra cómo Alexander von Humboldt, padre de la ecología moder
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4

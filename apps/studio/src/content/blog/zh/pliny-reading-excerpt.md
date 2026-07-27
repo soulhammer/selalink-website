@@ -5,7 +5,6 @@ description: "分享古罗马学者老普林尼的笔记秘诀，他甚至在用
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

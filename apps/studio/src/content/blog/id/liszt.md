@@ -5,7 +5,6 @@ description: "Pelajari bagaimana pianis legendaris Franz Liszt menguasai presisi
 pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4

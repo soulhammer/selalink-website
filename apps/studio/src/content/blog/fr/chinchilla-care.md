@@ -5,7 +5,6 @@ description: "Le chinchilla possède des dents à croissance continue et redoute
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Chinchilla (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

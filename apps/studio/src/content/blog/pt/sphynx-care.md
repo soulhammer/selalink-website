@@ -5,7 +5,6 @@ description: "Aprenda a higienizar o sebo cutâneo e controlar a temperatura cor
 pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gato Sphynx (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4

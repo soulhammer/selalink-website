@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

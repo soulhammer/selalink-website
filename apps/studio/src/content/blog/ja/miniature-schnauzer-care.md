@@ -5,7 +5,6 @@ description: "魅力的なヒゲを持つミニチュア・シュナウザー（
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ミニチュア・シュナウザー (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

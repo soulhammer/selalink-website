@@ -5,7 +5,6 @@ description: "拥有浓密三层被毛的大型猫西伯利亚猫（Siberian Cat
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","西伯利亚猫 (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

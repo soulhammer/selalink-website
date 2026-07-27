@@ -5,7 +5,6 @@ description: "Découvrez l'habitude d'écriture unique de Mark Twain, géant de 
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4

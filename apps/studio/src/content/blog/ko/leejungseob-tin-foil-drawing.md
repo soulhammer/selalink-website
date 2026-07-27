@@ -5,7 +5,6 @@ description: "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위인 습관", "이중섭", "은지화 드로잉", "몰입 루틴", "촉각 자극", "마인드풀니스"]
 heroImage: "/images/blog/leejungseob_tin_foil_drawing.webp"
 app: "buildself"
 formatVersion: 4

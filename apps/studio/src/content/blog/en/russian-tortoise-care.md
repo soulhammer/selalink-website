@@ -5,7 +5,6 @@ description: "Care guide for the active, burrowing Russian Tortoise. Interpret s
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Russian Tortoise (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

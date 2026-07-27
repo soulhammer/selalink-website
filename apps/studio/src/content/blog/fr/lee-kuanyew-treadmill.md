@@ -5,7 +5,6 @@ description: "Découvrez comment Lee Kuan Yew, Premier ministre fondateur de Sin
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

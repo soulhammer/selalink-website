@@ -5,7 +5,6 @@ description: "Guia de cuidados para o Hámster Anão. Entenda as orelhas encolhi
 pubDate: "2026-03-20"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Hámster Anão (Dwarf Hamster)"]
 heroImage: "/images/blog/dwarf_hamster_care.webp"
 app: "petself"
 formatVersion: 4

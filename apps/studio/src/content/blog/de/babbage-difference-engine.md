@@ -5,7 +5,6 @@ description: "Entdecken Sie die historischen Fakten über den Vater der Computer
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4

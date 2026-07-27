@@ -5,7 +5,6 @@ description: "毎晩ベッドに横になってつま先を曲げていた天才
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 formatVersion: 4

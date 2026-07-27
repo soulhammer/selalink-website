@@ -5,7 +5,6 @@ description: "拥有极高智商与爆敏捷度的大热牧羊犬澳大利亚牧
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","澳大利亚牧羊犬 / 澳牧 (Australian Shepherd / Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

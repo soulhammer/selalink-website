@@ -5,7 +5,6 @@ description: "Russian Blues are naturally shy and highly sensitive to noise. Lea
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Russian Blue (Felis catus)"]
 heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4

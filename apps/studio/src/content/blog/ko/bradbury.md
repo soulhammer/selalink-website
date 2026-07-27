@@ -5,7 +5,6 @@ description: "현대 공상과학(SF) 문학의 대부 레이 브래드버리가
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

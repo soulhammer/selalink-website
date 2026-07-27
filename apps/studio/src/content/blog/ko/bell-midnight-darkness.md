@@ -5,7 +5,6 @@ description: "전화기를 발명하여 인류 소통의 패러다임을 바꾼 
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/bell_midnight_darkness.webp"
 app: "buildself"
 formatVersion: 4

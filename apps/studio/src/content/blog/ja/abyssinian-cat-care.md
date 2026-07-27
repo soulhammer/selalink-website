@@ -5,7 +5,6 @@ description: "しなやかで活発なアビシニアン（Abyssinian）。ヘ�
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","アビシニアン (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

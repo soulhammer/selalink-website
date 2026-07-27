@@ -5,7 +5,6 @@ description: "Pendiri keperawatan modern dan statistikawan pelopor yang memetaka
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

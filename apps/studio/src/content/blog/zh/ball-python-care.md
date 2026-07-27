@@ -5,7 +5,6 @@ description: "温和的人气爬宠球蟒（Ball Python）护理指南。解读�
 pubDate: "2026-04-12"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","球蟒 (Ball Python / Python regius)"]
 heroImage: "/images/blog/ball_python_care.webp"
 app: "petself"
 formatVersion: 4

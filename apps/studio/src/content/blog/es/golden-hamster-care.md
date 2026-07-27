@@ -5,7 +5,6 @@ description: "Cuidado del hámster sirio (dorado), solitario y nocturno. Conozca
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Hámster Sirio / Dorado (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

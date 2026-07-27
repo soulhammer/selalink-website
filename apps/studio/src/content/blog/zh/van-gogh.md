@@ -5,7 +5,6 @@ description: "探索用强烈色彩燃烧情感的永恒画家文森特·梵高�
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4

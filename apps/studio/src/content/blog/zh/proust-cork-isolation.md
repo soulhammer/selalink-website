@@ -5,7 +5,6 @@ description: "撰写巨著《追忆似水年华》的普鲁斯特。介绍他在
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4

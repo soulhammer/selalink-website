@@ -5,7 +5,6 @@ description: "우아하고 야생미 넘치는 대형 파충류 그린 이구아
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","그린 이구아나 (Green Iguana / Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

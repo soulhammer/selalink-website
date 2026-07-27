@@ -5,7 +5,6 @@ description: "Pelajari bagaimana matematikawan dan filsuf René Descartes mengha
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4

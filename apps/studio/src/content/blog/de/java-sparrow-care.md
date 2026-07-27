@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den Reisfink (Java Sparrow). Erkennen Sie das
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Reisfink / Reinvogel (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Aprenda juegos cognitivos y consejos de cuidado articular para el 
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Border Collie (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "イタリア初の女性医師であり教育学者のマリア・
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4

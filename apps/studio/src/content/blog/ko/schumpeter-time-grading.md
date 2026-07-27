@@ -5,7 +5,6 @@ description: "매일 밤 자신의 일기장에 학습과 몰입 시간을 평�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "조지프 슘페터", "생산성", "시간 관리", "성찰", "계획"]
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4

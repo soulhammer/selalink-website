@@ -5,7 +5,6 @@ description: "칠흑 같은 몸색과 활발한 헤엄이 매력적인 열대어
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","블랙 몰리 (Black Molly / Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

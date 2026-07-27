@@ -5,7 +5,6 @@ description: "印象派绘画大师克劳德·莫奈每天凌晨3:30起床，凝
 pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4

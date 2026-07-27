@@ -5,7 +5,6 @@ description: "週80〜100時間以上の激務をこなすため、1日のスケ
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

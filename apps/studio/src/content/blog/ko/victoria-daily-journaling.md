@@ -5,7 +5,6 @@ description: "대영제국 전성기를 통치한 빅토리아 여왕이 평생 
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["기록", "성찰", "자기계발"]
 heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 formatVersion: 4

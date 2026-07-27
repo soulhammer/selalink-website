@@ -5,7 +5,6 @@ description: "17세기 영국의 천재 과학자 로버트 훅이 현미경 정
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["집중", "관찰", "연구", "세포"]
 heroImage: "/images/blog/hooke_microscopic_sketching.webp"
 app: "buildself"
 formatVersion: 4

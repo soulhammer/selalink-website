@@ -5,7 +5,6 @@ description: "Guia de cuidados para o gigante dócil Bouvier Bernês. Interprete
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Bouvier Bernês / Bernese Mountain Dog"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

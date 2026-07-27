@@ -5,7 +5,6 @@ description: "Guía de cuidado para el Rey del Acuario, el Pez Disco (Discus Fis
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pez Disco (Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

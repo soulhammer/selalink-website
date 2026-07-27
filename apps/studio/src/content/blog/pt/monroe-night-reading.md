@@ -5,7 +5,6 @@ description: "Por trás do símbolo sexual público, Marilyn Monroe era uma leit
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Kucing Persia dikenal dengan bulunya yang anggun. Pelajari rutinit
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Persia (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Nelson Mandela preservó su fuerza física y entereza mental pract
 pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4

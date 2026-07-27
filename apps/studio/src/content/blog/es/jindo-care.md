@@ -5,7 +5,6 @@ description: "Aprenda métodos de socialización para el perro Jindo y una rutin
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Perro Jindo (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

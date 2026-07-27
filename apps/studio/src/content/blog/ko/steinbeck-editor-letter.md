@@ -5,7 +5,6 @@ description: "소설 집필 시작의 막연한 저항감을 해소하기 위해
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "존 스타인벡", "리프레시", "창의성", "생산성"]
 heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4

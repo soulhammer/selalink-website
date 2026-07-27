@@ -5,7 +5,6 @@ description: "Panduan perawatan tikus menggemaskan Dumbo Rat yang memiliki telin
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Tikus Dumbo / Dumbo Rat (Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

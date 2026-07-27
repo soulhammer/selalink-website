@@ -5,7 +5,6 @@ description: "德国诺贝尔文学奖得主托马斯·曼每天早晨9点至1�
 pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4

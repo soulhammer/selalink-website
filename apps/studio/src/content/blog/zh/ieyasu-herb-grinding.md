@@ -5,7 +5,6 @@ description: "深度剖析德川家康的心智修养术。揭示每日亲手用
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4

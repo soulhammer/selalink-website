@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie der Stahlmagnat Andrew Carnegie seine schwerste 
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4

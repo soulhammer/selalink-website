@@ -5,7 +5,6 @@ description: "気高く勇敢な大型犬ドーベルマン・ピンシャー（
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ドーベルマン・ピンシャー (Doberman Pinscher)"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

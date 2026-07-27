@@ -5,7 +5,6 @@ description: "近代哲学の巨匠イマヌエル・カント。近隣住民が
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "ドイツのノーベル文学賞受賞作家トーマス・マン
 pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4

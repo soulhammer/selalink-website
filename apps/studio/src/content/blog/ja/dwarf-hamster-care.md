@@ -5,7 +5,6 @@ description: "愛らしい小型ペットのドワーフハムスター（Dwarf 
 pubDate: "2026-03-20"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ドワーフハムスター (Dwarf Hamster)"]
 heroImage: "/images/blog/dwarf_hamster_care.webp"
 app: "petself"
 formatVersion: 4

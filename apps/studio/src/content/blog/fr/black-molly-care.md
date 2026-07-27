@@ -5,7 +5,6 @@ description: "Guide de soins pour le pez tropical vivipare Molly Noir. Décrypte
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Molly Noir / Black Molly (Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

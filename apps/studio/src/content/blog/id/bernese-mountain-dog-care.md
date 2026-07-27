@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing raksasa yang lembut Bernese Mountain Dog.
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Bernese Mountain Dog (Berner)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

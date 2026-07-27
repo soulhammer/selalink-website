@@ -5,7 +5,6 @@ description: "探索推动微软实现跨越式飞跃的比尔·盖茨小屋隔�
 pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4

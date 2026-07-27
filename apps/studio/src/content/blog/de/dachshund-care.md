@@ -5,7 +5,6 @@ description: "Pflege für den Dackel mit langem Rücken und kurzen Beinen. Lerne
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Dackel / Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

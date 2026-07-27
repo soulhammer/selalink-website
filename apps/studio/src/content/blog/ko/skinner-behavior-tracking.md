@@ -5,7 +5,6 @@ description: "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "視覚と聴覚の障害を克服し、世界的作家であり人
 pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4

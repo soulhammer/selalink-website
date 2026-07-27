@@ -5,7 +5,6 @@ description: "Découvrez la célèbre routine d'écriture de Stephen King, l'un 
 pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4

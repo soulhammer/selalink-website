@@ -5,7 +5,6 @@ description: "Le chat Siamois est très dépendant de son maître. Découvrez de
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Siamois (Siamese)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

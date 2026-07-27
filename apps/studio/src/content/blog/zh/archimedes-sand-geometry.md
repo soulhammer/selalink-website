@@ -5,7 +5,6 @@ description: "为了将复杂的科学灵感具象化，阿基米德不断在沙
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Care guide for the mysterious Crested Gecko. Prevent MBD, maintain
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Crested Gecko / Eyelash Gecko (Crested Gecko)"]
 heroImage: "/images/blog/crested_gecko_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guia de cuidados para o adorável Pardal de Java (Java Sparrow). A
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Pardal de Java / Padda (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "分析哲学の限界に挑み、過熱した脳をリセットす
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

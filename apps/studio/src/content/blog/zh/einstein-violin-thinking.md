@@ -5,7 +5,6 @@ description: "探索改变物理学范式的阿尔伯特·爱因斯坦在研究�
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4

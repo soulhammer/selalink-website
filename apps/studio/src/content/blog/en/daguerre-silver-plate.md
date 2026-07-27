@@ -5,7 +5,6 @@ description: "Explore how 19th-century French inventor Louis Daguerre created th
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/daguerre_silver_plate.webp"
 app: "buildself"
 formatVersion: 4

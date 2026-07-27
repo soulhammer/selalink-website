@@ -5,7 +5,6 @@ description: "Panduan perawatan kucing menggemaskan Exotic Shorthair. Pahami ges
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Exotic Shorthair"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

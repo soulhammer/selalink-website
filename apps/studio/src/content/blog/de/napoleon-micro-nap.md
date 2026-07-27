@@ -5,7 +5,6 @@ description: "Stellt den wissenschaftlichen Napping-Mechanismus von Kaiser Napol
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4

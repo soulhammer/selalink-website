@@ -5,7 +5,6 @@ description: "活泼黏人的小型鹦鹉绿颊锥尾太阳鹦鹉（小太阳鹦
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","绿颊锥尾太阳鹦鹉 / 小太阳鹦鹉 (Green-cheeked Conure / Pyrrhura molinae)"]
 heroImage: "/images/blog/green_cheeked_conure_care.webp"
 app: "petself"
 formatVersion: 4

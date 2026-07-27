@@ -5,7 +5,6 @@ description: "사막의 파수꾼 몽골리안 저빌(Mongolian Gerbil). 뒷발 
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","몽골리안 저빌 (Mongolian Gerbil / Meriones unguiculatus)"]
 heroImage: "/images/blog/mongolian_gerbil_care.webp"
 app: "petself"
 formatVersion: 4

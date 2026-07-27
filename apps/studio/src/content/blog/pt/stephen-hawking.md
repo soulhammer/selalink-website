@@ -5,7 +5,6 @@ description: "Um físico teórico de renome mundial que superou a ELA. Incapaz d
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

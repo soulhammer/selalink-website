@@ -5,7 +5,6 @@ description: "Os Azuis Russos são tímidos e sensíveis ao ruído. Aprenda a cr
 pubDate: "2026-03-26"
 updatedDate: "2026-03-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Azul Russo (Felis catus / Russian Blue)"]
 heroImage: "/images/blog/russian_blue_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra como Otto von Bismarck, o 'Chanceler de Ferro' que unific
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4

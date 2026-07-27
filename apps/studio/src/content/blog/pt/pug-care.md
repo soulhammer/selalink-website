@@ -5,7 +5,6 @@ description: "Guia de cuidados para o adorável e afetuoso Pug. Interprete a inc
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Pug"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Discover how Albert Einstein, who revolutionized physics, used vio
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4

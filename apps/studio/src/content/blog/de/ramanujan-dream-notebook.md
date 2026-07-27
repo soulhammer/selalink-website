@@ -5,7 +5,6 @@ description: "Srinivasa Ramanujan, ein Genie der Zahlentheorie und unendlicher R
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ramanujan_dream_notebook.webp"
 app: "buildself"
 formatVersion: 4

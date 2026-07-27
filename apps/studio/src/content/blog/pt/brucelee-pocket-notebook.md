@@ -5,7 +5,6 @@ description: "Descubra como o marcialista e ícone do cinema do século XX Bruce
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/brucelee_pocket_notebook.webp"
 app: "buildself"
 formatVersion: 4

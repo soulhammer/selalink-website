@@ -5,7 +5,6 @@ description: "探索17世纪天文学家约翰内斯·开普勒如何通过亲�
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4

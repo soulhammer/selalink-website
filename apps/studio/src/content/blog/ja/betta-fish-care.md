@@ -5,7 +5,6 @@ description: "華やかなドレスのようなヒレを持つベタ（Betta Fis
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ベタ (Betta splendens / 闘魚)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "대표적인 반수생 거북 붉은귀거북(Red-Eared Slider). U
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","붉은귀거북 / 반수생 거북 (Red-Eared Slider)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

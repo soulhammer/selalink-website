@@ -5,7 +5,6 @@ description: "Le Samoyède est exposé à la dysplasie de la hanche et aux infec
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Samoyède (Canis lupus familiaris / Samoyed)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

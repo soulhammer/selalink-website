@@ -5,7 +5,6 @@ description: "诺贝尔奖获得者基因学家芭芭拉·麦克林托克在观�
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4

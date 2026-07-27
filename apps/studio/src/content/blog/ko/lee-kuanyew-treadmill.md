@@ -5,7 +5,6 @@ description: "싱가포르 건국의 성웅 리콴유 총리. 매일 퇴근 후 
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위인 습관", "리콴유", "유산소운동", "호흡명상", "자율신경계"]
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

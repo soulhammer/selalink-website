@@ -5,7 +5,6 @@ description: "『星の王子さま』の著者であり飛行士のサン＝テ
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

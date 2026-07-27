@@ -5,7 +5,6 @@ description: "용맹하고 충직한 초대형견 로트와일러(Rottweiler). �
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","로트와일러 (Rottweiler)"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

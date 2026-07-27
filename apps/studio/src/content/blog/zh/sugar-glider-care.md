@@ -5,7 +5,6 @@ description: "可爱有袋类蜜袋鼯（Sugar Glider）护理指南。解读Cra
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","蜜袋鼯 / 飞鼠 (Sugar Glider / Petaurus breviceps)"]
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4

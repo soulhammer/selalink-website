@@ -5,7 +5,6 @@ description: "可爱垂耳兔子荷兰垂耳兔（Holland Lop）护理指南。�
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","荷兰垂耳兔 (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra como Victor Hugo raspou metade do cabelo e da barba para 
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

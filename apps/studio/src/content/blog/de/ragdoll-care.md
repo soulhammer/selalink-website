@@ -5,7 +5,6 @@ description: "Ragdolls, die riesigen Katzen, die sich beim Halten wie Puppen ent
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Ragdoll (Felis catus)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

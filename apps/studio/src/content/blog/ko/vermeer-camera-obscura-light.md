@@ -5,7 +5,6 @@ description: "빛의 거장 요하네스 페르메이르가 카메라 옵스큐�
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/vermeer_camera_obscura_light.webp"
 app: "buildself"
 formatVersion: 4

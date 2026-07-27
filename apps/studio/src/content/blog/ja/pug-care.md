@@ -5,7 +5,6 @@ description: "愛嬌たっぷりの愛され小形犬パグ（Pug）。首かし
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","パグ (Pug)"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Ancient Greek philosopher Plato was called by his wrestling nickna
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4

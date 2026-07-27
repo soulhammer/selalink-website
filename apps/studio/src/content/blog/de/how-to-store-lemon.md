@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","lemon"]
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

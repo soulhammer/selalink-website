@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie Henri Cartier-Bresson, Meister des modernen Foto
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bresson_decisive_moment.webp"
 app: "buildself"
 formatVersion: 4

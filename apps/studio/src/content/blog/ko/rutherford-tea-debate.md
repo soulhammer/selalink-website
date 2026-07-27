@@ -5,7 +5,6 @@ description: "핵물리학의 아버지 러더퍼드. 매일 오후 4시 동료�
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/rutherford_tea_debate.webp"
 app: "buildself"
 formatVersion: 4

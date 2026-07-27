@@ -5,7 +5,6 @@ description: "丸い顔が愛らしいスコティッシュストレート（Sco
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","スコティッシュストレート (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

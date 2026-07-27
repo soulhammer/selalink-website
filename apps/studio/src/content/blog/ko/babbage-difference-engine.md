@@ -5,7 +5,6 @@ description: "19세기 컴퓨터의 아버지 찰스 배비지가 정밀 톱니�
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["논리", "모듈화", "컴퓨터", "기계"]
 heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4

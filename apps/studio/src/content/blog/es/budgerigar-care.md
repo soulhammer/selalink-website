@@ -5,7 +5,6 @@ description: "Guía de cuidado para el colorido e inteligente Perico Australiano
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Perico Australiano / Periquito (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

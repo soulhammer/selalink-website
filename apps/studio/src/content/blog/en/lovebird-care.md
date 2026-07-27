@@ -5,7 +5,6 @@ description: "Care guide for the affectionate Lovebird. Prevent PTFE fumes, inte
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Lovebird (Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

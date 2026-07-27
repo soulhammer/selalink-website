@@ -5,7 +5,6 @@ description: "公的安全基準に基づくイチゴの最適な保存温度、
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","strawberry"]
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

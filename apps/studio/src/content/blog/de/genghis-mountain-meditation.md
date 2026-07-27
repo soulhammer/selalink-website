@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der Eroberer Dschingis Khan vor entscheidenden S
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

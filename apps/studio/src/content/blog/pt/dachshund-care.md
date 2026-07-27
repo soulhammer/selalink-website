@@ -5,7 +5,6 @@ description: "Cuidado do cão de corpo longo e patas curtas, o Teckel (Dachshund
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Teckel / Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

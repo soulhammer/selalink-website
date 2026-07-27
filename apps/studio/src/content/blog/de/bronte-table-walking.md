@@ -5,7 +5,6 @@ description: "Erkunden Sie die Routine von Charlotte Brontë, Autorin von 'Jane 
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4

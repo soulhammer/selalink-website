@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk timun berdasar
 pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

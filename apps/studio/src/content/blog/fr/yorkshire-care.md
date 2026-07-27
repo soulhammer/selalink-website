@@ -5,7 +5,6 @@ description: "Découvrez les secrets de toilettage pour préserver le poil soyeu
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Yorkshire Terrier"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "아메리칸 쇼트헤어는 건강하고 튼튼하지만 비만�
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","아메리칸 쇼트헤어 (American Shorthair)"]
 heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

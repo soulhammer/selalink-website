@@ -5,7 +5,6 @@ description: "暹罗猫对家长的依赖度极高，易产生分离焦虑。为
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","暹罗猫 (Siamese)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

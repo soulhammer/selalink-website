@@ -5,7 +5,6 @@ description: "世界で最も小さなウサギであるネザーランドドワ
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ネザーランドドワーフ (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

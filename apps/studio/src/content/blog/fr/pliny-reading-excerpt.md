@@ -5,7 +5,6 @@ description: "Partage les secrets de prise de notes de l'érudit romain Pline l'
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

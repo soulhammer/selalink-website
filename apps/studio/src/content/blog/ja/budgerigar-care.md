@@ -5,7 +5,6 @@ description: "カラフルで賢いセキセイインコ。テフロン中毒の
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","セキセイインコ (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

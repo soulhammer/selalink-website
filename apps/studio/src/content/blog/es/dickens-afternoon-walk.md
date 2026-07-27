@@ -5,7 +5,6 @@ description: "Descubra cómo el gigante literario Charles Dickens diseñó perso
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

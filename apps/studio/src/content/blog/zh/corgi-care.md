@@ -5,7 +5,6 @@ description: "因可爱的背影和短腿而闻名的柯基犬。介绍一套预
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","威尔士柯基犬 (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

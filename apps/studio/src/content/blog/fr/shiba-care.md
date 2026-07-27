@@ -5,7 +5,6 @@ description: "Le Shiba Inu est très indépendant et sensible au toucher. Appren
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

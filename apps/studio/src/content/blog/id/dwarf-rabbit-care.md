@@ -5,7 +5,6 @@ description: "Merawat ras kelinci terkecil, Kerdil Netherland. Pelajari cara mer
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kelinci Kerdil Netherland (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

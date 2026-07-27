@@ -5,7 +5,6 @@ description: "Guía de cuidado para el ágil Gato Abisinio (Abyssinian). Interpr
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gato Abisinio (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

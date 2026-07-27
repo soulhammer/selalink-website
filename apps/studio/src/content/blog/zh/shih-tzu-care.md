@@ -5,7 +5,6 @@ description: "华丽可爱的西施犬（Shih Tzu）护理指南。解读反向�
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","西施犬 (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

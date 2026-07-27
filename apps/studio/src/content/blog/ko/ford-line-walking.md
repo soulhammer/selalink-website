@@ -5,7 +5,6 @@ description: "자동차 생산의 컨베이어 벨트 시스템을 발명한 헨
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4

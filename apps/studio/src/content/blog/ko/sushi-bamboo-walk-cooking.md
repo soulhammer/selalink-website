@@ -5,7 +5,6 @@ description: "북송의 천재 문인 소동파가 거듭된 유배지 시련 �
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4

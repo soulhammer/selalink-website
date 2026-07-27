@@ -5,7 +5,6 @@ description: "Guia de cuidados para o elfo de pelo ondulado Devon Rex. Interpret
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Devon Rex"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

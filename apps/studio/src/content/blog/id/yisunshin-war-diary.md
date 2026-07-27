@@ -5,7 +5,6 @@ description: "Laksamana Yi Sun-sin, pahlawan nasional Joseon. Temukan efek psiko
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

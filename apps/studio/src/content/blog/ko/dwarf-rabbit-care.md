@@ -5,7 +5,6 @@ description: "세상에서 가장 작은 토끼 품종인 네덜란드 드워프
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","네덜란드 드워프 토끼 (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

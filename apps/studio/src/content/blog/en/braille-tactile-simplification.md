@@ -5,7 +5,6 @@ description: "Discover how Louis Braille simplified the complex 12-dot military 
 pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4

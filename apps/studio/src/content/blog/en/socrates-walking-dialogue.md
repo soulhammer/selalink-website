@@ -5,7 +5,6 @@ description: "Socrates, the wisdom of ancient Greece who expanded thought throug
 pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4

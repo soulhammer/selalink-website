@@ -5,7 +5,6 @@ description: "근대 조각의 거장 오귀스트 로댕. 매일 아침 손에 
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/rodin_sculpting_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "戦争と国政運営という巨大な意思決定の重みに耐
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4

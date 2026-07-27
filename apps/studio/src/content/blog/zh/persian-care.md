@@ -5,7 +5,6 @@ description: "拥有优雅毛发的波斯猫。介绍一套预防因泪水引起
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","波斯猫 (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

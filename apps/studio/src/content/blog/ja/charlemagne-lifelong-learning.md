@@ -5,7 +5,6 @@ description: "西ヨーロッパの開拓者シャルルマーニュ大帝が文
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4

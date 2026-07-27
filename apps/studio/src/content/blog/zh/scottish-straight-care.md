@@ -5,7 +5,6 @@ description: "圆润可爱的苏格兰直耳猫（Scottish Straight）护理指�
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","苏格兰直耳猫 (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索全球顶尖投资者沃伦·巴菲特的核心成功秘诀�
 pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4

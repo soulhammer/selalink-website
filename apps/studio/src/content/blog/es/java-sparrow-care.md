@@ -5,7 +5,6 @@ description: "Guía de cuidado para el adorable Gorrión de Java (Java Sparrow).
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gorrión de Java / Calafate (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

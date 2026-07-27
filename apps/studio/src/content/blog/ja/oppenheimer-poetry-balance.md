@@ -5,7 +5,6 @@ description: "マンハッタン計画の指導者オッペンハイマー。極
 pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4

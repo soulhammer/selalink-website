@@ -5,7 +5,6 @@ description: "추리소설의 여왕 아가사 크리스티가 온수 욕조에�
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
 heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4

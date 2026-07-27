@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 두부의 최적 보관
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","tofu"]
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

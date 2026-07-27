@@ -5,7 +5,6 @@ description: "귀여운 주둥이와 바닥을 훑는 헤엄이 매력적인 소
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","코리도라스 (Corydoras Catfish / Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

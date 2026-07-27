@@ -5,7 +5,6 @@ description: "Descubra como Elon Musk gerencia semanas de 80 a 100 horas fracion
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

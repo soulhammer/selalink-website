@@ -5,7 +5,6 @@ description: "Découvrez comment Mahatma Gandhi, le grand leader de la paix en I
 pubDate: "2026-03-23"
 updatedDate: "2026-03-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gandhi_morning_meditation.webp"
 app: "buildself"
 formatVersion: 4

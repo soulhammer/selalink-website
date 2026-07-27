@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

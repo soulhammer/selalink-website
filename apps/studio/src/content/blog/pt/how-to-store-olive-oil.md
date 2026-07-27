@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

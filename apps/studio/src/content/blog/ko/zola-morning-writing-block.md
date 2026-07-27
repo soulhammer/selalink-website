@@ -5,7 +5,6 @@ description: "대문호 에밀 졸라가 30년 넘게 지켜온 'Nulla dies sine
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/zola_morning_writing_block.webp"
 app: "buildself"
 formatVersion: 4

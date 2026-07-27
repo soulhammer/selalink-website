@@ -5,7 +5,6 @@ description: "飼い主への依存度が高く寂しがり屋のシャム猫。
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","シャム猫 (Siamese)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

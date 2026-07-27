@@ -5,7 +5,6 @@ description: "朝鲜王朝杰出贤者栗谷李珥在20岁时确立的通过《�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4

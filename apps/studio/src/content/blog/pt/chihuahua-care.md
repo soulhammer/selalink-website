@@ -5,7 +5,6 @@ description: "O Chihuahua, o menor guerreiro. Descubra como proteger sua cabeça
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Chihuahua (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

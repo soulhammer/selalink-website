@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

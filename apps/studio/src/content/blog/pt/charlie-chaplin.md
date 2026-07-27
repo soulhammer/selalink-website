@@ -5,7 +5,6 @@ description: "Descubra como o ícone do cinema mudo Charlie Chaplin observava e 
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4

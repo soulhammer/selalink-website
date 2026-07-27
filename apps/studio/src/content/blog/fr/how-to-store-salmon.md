@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","salmon"]
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Indiens erster Premierminister Jawaharlal Nehru. Enthüllt die hir
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4

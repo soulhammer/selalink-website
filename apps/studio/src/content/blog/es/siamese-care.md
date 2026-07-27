@@ -5,7 +5,6 @@ description: "Los gatos siameses dependen mucho de sus dueños. Descubra consejo
 pubDate: "2026-02-19"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Siamés (Siamese)"]
 heroImage: "/images/blog/siamese_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索伟大生物学家查尔斯·达尔文漫步于碎石沙道�
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

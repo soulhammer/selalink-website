@@ -5,7 +5,6 @@ description: "探索现代管理学大师彼得·德鲁克贯穿一生践行的�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4

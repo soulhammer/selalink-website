@@ -5,7 +5,6 @@ description: "Descubra cómo el coreógrafo George Balanchine realizaba tareas d
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4

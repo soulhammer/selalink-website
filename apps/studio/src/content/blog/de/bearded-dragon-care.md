@@ -5,7 +5,6 @@ description: "Pflege für die zahme Bartagame. Lernen Sie das dominante Kopfnick
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Bartagame (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

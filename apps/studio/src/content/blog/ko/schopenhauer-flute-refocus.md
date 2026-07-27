@@ -5,7 +5,6 @@ description: "독일의 위대한 염세주의 철학자 아르투어 쇼펜하�
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4

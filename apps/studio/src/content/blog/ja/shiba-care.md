@@ -5,7 +5,6 @@ description: "独立心が強くスキンシップに敏感な柴犬。二重毛
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","柴犬 (Shiba Inu)"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

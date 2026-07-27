@@ -5,7 +5,6 @@ description: "Ragdolls, the giant fluffy cats that go limp like dolls when held.
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Ragdoll (Felis catus)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "귀여운 큰 귀와 높은 지능을 지닌 덤보 래트(Dumbo R
 pubDate: "2026-05-28"
 updatedDate: "2026-05-28"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","덤보 래트 (Dumbo Rat / Rattus norvegicus domestica)"]
 heroImage: "/images/blog/dumbo_rat_care.webp"
 app: "petself"
 formatVersion: 4

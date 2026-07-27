@@ -5,7 +5,6 @@ description: "끊임없이 걸으며 생각을 확장한 고대 그리스의 지
 pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
-tags: ["위인 습관", "소크라테스", "산책", "질문", "뇌과학"]
 heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4

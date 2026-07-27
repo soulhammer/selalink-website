@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Lee Byung-chul, pendiri Samsung, mempertajam ke
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4

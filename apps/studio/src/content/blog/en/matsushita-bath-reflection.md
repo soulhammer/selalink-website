@@ -5,7 +5,6 @@ description: "The hot bath contemplation practiced every night by Konosuke Matsu
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

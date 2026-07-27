@@ -5,7 +5,6 @@ description: "天才科学者アンリ・ポアンカレの成功方程式であ
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4

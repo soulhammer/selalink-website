@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak goreng 
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "최초의 동력 비행기를 발명한 라이트 형제. 난관�
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위인 습관", "라이트 형제", "의지력", "공부", "메타인지"]
 heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4

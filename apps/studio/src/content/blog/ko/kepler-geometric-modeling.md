@@ -5,7 +5,6 @@ description: "천문학자 요하네스 케플러가 행성의 타원 궤도를 
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "학습"]
 heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4

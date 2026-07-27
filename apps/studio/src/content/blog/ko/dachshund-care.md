@@ -5,7 +5,6 @@ description: "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 �
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","닥스훈트 (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

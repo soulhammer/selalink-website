@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解苏子油/紫苏油的最�
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","perilla-oil"]
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

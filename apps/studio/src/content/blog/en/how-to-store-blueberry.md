@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","blueberry"]
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

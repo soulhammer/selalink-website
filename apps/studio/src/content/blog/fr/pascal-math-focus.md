@@ -5,7 +5,6 @@ description: "Découvrez le fait historique du génie du XVIIe siècle Blaise Pa
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4

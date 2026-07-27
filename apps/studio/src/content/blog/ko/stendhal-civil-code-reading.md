@@ -5,7 +5,6 @@ description: "화려한 미사여구를 배제하고 인간 심리의 본질을 
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "의사결정"]
 heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Alexander von Humboldt, Vater der modernen Ökol
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/humboldt_nature_journaling.webp"
 app: "buildself"
 formatVersion: 4

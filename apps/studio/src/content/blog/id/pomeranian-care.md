@@ -5,7 +5,6 @@ description: "Pomeranian rentan terhadap luksasi patela dan kolaps trakea. Temuk
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Pomeranian (Canis lupus familiaris)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

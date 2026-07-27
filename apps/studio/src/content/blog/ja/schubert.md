@@ -5,7 +5,6 @@ description: "31年の短い生涯で600曲以上の歌曲を残した『歌曲�
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

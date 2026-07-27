@@ -5,7 +5,6 @@ description: "Découvrez comment le polymathe de la Renaissance Léonard de Vinc
 pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4

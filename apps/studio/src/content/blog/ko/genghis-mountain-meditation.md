@@ -5,7 +5,6 @@ description: "대제국을 건설한 정복자 칭기즈칸. 중대한 전쟁과
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

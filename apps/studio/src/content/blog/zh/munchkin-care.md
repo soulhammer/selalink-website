@@ -5,7 +5,6 @@ description: "短腿曼基康猫的护理方法。学习识别关节异常信号
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","曼基康猫 (Felis catus / Munchkin Cat)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

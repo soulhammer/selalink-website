@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang-kacanga
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

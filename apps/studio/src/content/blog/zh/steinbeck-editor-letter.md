@@ -5,7 +5,6 @@ description: "小说家约翰·斯坦贝克每天给编辑写信，以消除写�
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4

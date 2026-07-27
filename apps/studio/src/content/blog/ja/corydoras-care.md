@@ -5,7 +5,6 @@ description: "底層を元気に泳ぎ回る愛くるしい熱帯魚コリドラ
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","コリドラス (Corydoras Catfish / Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

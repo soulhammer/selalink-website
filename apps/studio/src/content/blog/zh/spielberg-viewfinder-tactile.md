@@ -5,7 +5,6 @@ description: "现代电影史上最成功的导演史蒂文·斯皮尔伯格。�
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spielberg_viewfinder_tactile.webp"
 app: "buildself"
 formatVersion: 4

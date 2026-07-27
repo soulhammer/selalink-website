@@ -5,7 +5,6 @@ description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["몰입", "사색", "창의성"]
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4

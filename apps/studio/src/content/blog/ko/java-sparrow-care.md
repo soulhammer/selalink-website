@@ -5,7 +5,6 @@ description: "사랑스러운 소형조 문조(Java Sparrow). 체온 저하를 �
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","문조 / 자바 스패로우 (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

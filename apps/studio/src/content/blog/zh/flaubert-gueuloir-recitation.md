@@ -5,7 +5,6 @@ description: "探索追寻“唯一恰当之词（Le mot juste）”、绝不苟
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4

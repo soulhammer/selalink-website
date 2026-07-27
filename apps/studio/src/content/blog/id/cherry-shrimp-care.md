@@ -5,7 +5,6 @@ description: "Panduan perawatan Udang Red Cherry (Neocaridina davidi) yang indah
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Udang Red Cherry / Neocaridina (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

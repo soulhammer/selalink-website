@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","bread"]
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

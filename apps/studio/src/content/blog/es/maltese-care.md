@@ -5,7 +5,6 @@ description: "El maltés, el perro de compañía más querido. Descubra consejos
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Maltés (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

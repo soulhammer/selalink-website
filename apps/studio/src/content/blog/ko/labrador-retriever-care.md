@@ -5,7 +5,6 @@ description: "세계적인 인기견 라브라도 리트리버. 식욕 조절 �
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","라브라도 리트리버 (Labrador Retriever)"]
 heroImage: "/images/blog/labrador_retriever_care.webp"
 app: "petself"
 formatVersion: 4

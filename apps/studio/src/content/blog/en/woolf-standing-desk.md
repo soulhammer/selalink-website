@@ -5,7 +5,6 @@ description: "20th-century literary giant Virginia Woolf. Explore the science of
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

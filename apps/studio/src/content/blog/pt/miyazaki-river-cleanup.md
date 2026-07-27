@@ -5,7 +5,6 @@ description: "Descubra por que o diretor do Studio Ghibli, Hayao Miyazaki, recol
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4

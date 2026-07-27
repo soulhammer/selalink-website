@@ -5,7 +5,6 @@ description: "기억이 왜곡되기 전 관찰한 사실을 현장에서 즉시
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["기록", "메모", "생산성"]
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4

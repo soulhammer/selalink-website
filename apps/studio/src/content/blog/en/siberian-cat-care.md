@@ -5,7 +5,6 @@ description: "Care guide for the majestic Siberian Cat with a dense triple coat.
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Siberian Cat"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

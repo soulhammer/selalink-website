@@ -5,7 +5,6 @@ description: "Ayrton Senna, el legendario campeón de Fórmula 1, se sentaba en 
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

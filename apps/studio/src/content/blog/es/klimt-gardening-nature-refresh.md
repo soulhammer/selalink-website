@@ -5,7 +5,6 @@ description: "Descubra cómo el maestro del estilo dorado Gustav Klimt restaurab
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4

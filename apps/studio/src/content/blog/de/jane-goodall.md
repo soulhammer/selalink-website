@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie die Verhaltensforscherin Jane Goodall durch wiss
 pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4

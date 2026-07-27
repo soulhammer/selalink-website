@@ -5,7 +5,6 @@ description: "Guide de soins pour le lutin Devon Rex au pelage ondulé. Décrypt
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Devon Rex"]
 heroImage: "/images/blog/devon_rex_care.webp"
 app: "petself"
 formatVersion: 4

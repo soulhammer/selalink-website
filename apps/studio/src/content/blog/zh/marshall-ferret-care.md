@@ -5,7 +5,6 @@ description: "护理活泼且身体柔软的肉食雪貂——马歇尔雪貂。
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","马歇尔雪貂 (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

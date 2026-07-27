@@ -5,7 +5,6 @@ description: "探索苹果公司联合创始人史蒂夫·乔布斯如何通过�
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4

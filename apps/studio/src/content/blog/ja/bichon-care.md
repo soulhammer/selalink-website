@@ -5,7 +5,6 @@ description: "アフロヘアーのような頭で人気のビション・フリ
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ビション・フリーゼ (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

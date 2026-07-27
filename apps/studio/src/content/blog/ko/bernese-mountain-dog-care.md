@@ -5,7 +5,6 @@ description: "우아하고 다정한 대형견 버니즈 마운틴 독(Bernese M
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","버니즈 마운틴 독 (Bernese Mountain Dog)"]
 heroImage: "/images/blog/bernese_mountain_dog_care.webp"
 app: "petself"
 formatVersion: 4

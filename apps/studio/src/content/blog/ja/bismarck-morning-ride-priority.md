@@ -5,7 +5,6 @@ description: "ドイツ統一を導いた「鉄血宰相」オットー・フォ
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bismarck_morning_ride_priority.webp"
 app: "buildself"
 formatVersion: 4

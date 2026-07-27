@@ -5,7 +5,6 @@ description: "Descubra como Galileu Galilei, pai da ciência moderna, formulou l
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den farbenfrohen und klugen Wellensittich. Ve
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Wellensittich (Budgerigar / Budgie)"]
 heroImage: "/images/blog/budgerigar_care.webp"
 app: "petself"
 formatVersion: 4

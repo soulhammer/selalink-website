@@ -5,7 +5,6 @@ description: "拥有乌黑靓丽体色与活泼游姿的热带观赏鱼黑玛丽
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","黑玛丽鱼 (Black Molly / Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索将人类从瘟疫中解救出来的医师爱德华·詹纳�
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jenner_observation_tracking_log.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Die Macht von 'Lächeln' und 'Sauberkeit', betont vom Unabhängigk
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4

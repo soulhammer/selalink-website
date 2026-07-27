@@ -5,7 +5,6 @@ description: "米国の伝説的な作家ジョーン・ディディオン。解
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/didion_manuscript_sleeping.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guía de cuidado para el encantador y afectuoso Pug. Interprete el
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Pug / Carlino"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

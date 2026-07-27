@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing gagah dan setia Rottweiler. Pahami 'Rotti
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Rottweiler"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

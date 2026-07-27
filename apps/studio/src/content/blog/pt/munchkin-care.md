@@ -5,7 +5,6 @@ description: "Cuidados com o gato Munchkin de patas curtas. Aprenda a detectar s
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gato Munchkin (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

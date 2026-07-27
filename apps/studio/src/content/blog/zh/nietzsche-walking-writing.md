@@ -5,7 +5,6 @@ description: "探讨德国伟大哲学家弗里德里希·尼采每天在瑞士�
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4

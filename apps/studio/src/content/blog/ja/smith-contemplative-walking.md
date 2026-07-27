@@ -5,7 +5,6 @@ description: "アイデアを頭の中で組み立てるため、完全に没頭
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4

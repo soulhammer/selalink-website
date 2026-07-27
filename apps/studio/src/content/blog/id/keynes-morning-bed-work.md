@@ -5,7 +5,6 @@ description: "Pelajari bagaimana makroekonom John Maynard Keynes, yang menaklukk
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4

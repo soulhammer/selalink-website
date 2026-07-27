@@ -5,7 +5,6 @@ description: "세계 역사상 최고의 부자로 꼽히는 존 D. 록펠러. �
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/rockefeller_red_notebook.webp"
 app: "buildself"
 formatVersion: 4

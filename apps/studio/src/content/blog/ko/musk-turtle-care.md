@@ -5,7 +5,6 @@ description: "가장 널리 키워지는 반수생 거북이 품종인 커먼 �
 pubDate: "2026-04-03"
 updatedDate: "2026-04-03"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)"]
 heroImage: "/images/blog/musk_turtle_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "포뮬러 원(F1)의 전설적인 챔피언이자, 경기 전 콕�
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["집중", "몰입", "성공습관"]
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

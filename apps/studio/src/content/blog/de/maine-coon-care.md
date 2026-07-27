@@ -5,7 +5,6 @@ description: "Pflege für den sanften Riesen Maine Coon mit löwenartigem Ausseh
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Maine Coon (Felis catus)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

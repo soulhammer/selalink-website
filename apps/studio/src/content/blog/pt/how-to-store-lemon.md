@@ -5,7 +5,6 @@ description: "Descubra a temperatura, método e tempo de conservação ideais pa
 pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
-tags: ["ConservacaoAlimentos","ArmazenamentoFresco","lemon"]
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

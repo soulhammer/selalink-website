@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","mushroom"]
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

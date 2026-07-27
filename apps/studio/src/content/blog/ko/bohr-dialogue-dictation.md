@@ -5,7 +5,6 @@ description: "양자역학의 거장 닐스 보어가 동료들과의 구술 토
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["학습", "창의성", "사색"]
 heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4

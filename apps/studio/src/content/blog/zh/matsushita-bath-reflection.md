@@ -5,7 +5,6 @@ description: "“经营之神”松下幸之助每天夜晚坚持的温水泡澡
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

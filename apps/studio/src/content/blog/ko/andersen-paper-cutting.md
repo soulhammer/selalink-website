@@ -5,7 +5,6 @@ description: "세계적인 동화 작가 한스 크리스티안 안데르센. �
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
 heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4

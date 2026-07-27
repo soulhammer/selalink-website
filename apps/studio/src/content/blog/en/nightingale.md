@@ -5,7 +5,6 @@ description: "Founder of modern nursing and a pioneering statistician who diagra
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "ワクチン開発と低温殺菌法の父であるフランスの
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "知能ランキング1位のボーダーコリー。有り余る�
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ボーダーコリー (Border Collie)"]
 heroImage: "/images/blog/border_collie_care.webp"
 app: "petself"
 formatVersion: 4

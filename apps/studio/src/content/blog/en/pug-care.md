@@ -5,7 +5,6 @@ description: "Care guide for the charming and affectionate Pug. Interpret head t
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Pug"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

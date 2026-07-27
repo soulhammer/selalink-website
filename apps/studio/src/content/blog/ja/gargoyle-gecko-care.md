@@ -5,7 +5,6 @@ description: "ニューカレドニアの魅力的なトカゲ・ガーゴイル
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ガーゴイルゲッコウ / ツノミカドヤモリ (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

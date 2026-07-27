@@ -5,7 +5,6 @@ description: "귀여운 처진 귀가 매력적인 홀랜드 롭(Holland Lop). �
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","홀랜드 롭 토끼 (Oryctolagus cuniculus / Holland Lop)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

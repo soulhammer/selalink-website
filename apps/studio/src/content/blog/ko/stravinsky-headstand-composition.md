@@ -5,7 +5,6 @@ description: "작곡 중 슬럼프가 올 때마다 물구나무를 섰던 음�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "이고르 스트라빈스키", "리프레시", "창의성", "집중"]
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4

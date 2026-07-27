@@ -5,7 +5,6 @@ description: "L'Angora Turc blanc aux yeux bleus ou vairons est génétiquement 
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Angora Turc (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "毎日朝、拡大鏡で植物を精密観察し自然のインス
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/goethe_botany_observation.webp"
 app: "buildself"
 formatVersion: 4

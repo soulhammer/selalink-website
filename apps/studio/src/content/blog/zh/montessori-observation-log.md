@@ -5,7 +5,6 @@ description: "意大利第一位女性医生兼教育学家玛利亚·蒙台梭�
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "フレンドリーで賢いゴールデンレトリバー。大腿
 pubDate: "2026-05-28"
 updatedDate: "2026-05-30"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ゴールデンレトリバー (Canis lupus familiaris)"]
 heroImage: "/images/blog/golden_retriever_care.webp"
 app: "petself"
 formatVersion: 4

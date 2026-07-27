@@ -5,7 +5,6 @@ description: "귀여운 소형 설치류 드워프 햄스터(Dwarf Hamster). 귀
 pubDate: "2026-03-20"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","드워프 햄스터 (Dwarf Hamster)"]
 heroImage: "/images/blog/dwarf_hamster_care.webp"
 app: "petself"
 formatVersion: 4

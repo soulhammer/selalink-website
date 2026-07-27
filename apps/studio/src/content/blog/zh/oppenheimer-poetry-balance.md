@@ -5,7 +5,6 @@ description: "曼哈顿计划负责人奥本海默。探索他在巨大压力下
 pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4

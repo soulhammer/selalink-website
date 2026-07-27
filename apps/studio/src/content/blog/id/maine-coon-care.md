@@ -5,7 +5,6 @@ description: "Merawat raksasa yang lembut Maine Coon yang berpenampilan seperti 
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Maine Coon (Felis catus)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

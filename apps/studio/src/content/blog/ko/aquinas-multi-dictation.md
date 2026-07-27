@@ -5,7 +5,6 @@ description: "중세의 위대한 신학자 토마스 아퀴나스가 동시에 
 pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["집중력", "구술대필", "작업기억", "중세"]
 heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

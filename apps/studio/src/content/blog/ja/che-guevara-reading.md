@@ -5,7 +5,6 @@ description: "キューバ革命の英雄チェ・ゲバラがゲリラ戦とい
 pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4

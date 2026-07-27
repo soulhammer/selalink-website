@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Demosthenes, orator ulung Yunani kuno, mengatas
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

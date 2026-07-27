@@ -5,7 +5,6 @@ description: "Panduan perawatan kura-kura darat aktif pembuat terowongan, Kura-k
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kura-kura Rusia / Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

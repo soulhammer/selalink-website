@@ -5,7 +5,6 @@ description: "知能が高く愛らしいアンデスの小動物デグー（Deg
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","デグー (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

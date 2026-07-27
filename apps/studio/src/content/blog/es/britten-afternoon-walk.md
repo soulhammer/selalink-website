@@ -5,7 +5,6 @@ description: "Descubra cómo Benjamin Britten, titan musical británico del sigl
 pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

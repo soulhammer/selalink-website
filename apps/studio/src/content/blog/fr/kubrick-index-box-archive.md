@@ -5,7 +5,6 @@ description: "Découvrez comment le réalisateur Stanley Kubrick a conçu des ch
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4

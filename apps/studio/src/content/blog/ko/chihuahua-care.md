@@ -5,7 +5,6 @@ description: "용감하고 작지만 약한 면을 가진 치와와. 두개골 �
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","치와와 (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

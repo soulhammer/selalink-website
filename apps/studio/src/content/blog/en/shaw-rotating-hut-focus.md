@@ -5,7 +5,6 @@ description: "Playwright Bernard Shaw won both the Nobel Prize and an Academy Aw
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 formatVersion: 4

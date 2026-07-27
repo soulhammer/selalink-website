@@ -5,7 +5,6 @@ description: "Guide de soins pour l'intelligent Conure Veuve (Quaker Parrot / Pe
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Conure Veuve / Perruche Souris (Quaker Parrot / Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

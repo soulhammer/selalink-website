@@ -5,7 +5,6 @@ description: "根据官方食品安全指南，了解葡萄的最佳储存温度
 pubDate: "2026-07-17"
 updatedDate: "2026-07-17"
 category: "FreshSnap"
-tags: ["食材保存","保鲜技巧","grape"]
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

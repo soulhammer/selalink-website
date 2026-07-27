@@ -5,7 +5,6 @@ description: "Découvrez comment l'empereur romain Marc Aurèle écrivait dans s
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

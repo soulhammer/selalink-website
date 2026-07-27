@@ -5,7 +5,6 @@ description: "Prendre soin du poisson Betta aux nageoires spectaculaires. Compre
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Poisson Betta (Betta splendens / Combattant du Siam)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

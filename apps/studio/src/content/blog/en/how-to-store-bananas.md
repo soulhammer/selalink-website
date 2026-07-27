@@ -5,7 +5,6 @@ description: "Learn the best storage temperature, methods, and duration for Bana
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

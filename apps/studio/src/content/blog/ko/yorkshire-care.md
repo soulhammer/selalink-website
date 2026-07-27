@@ -5,7 +5,6 @@ description: "비단결 같은 털을 자랑하는 요크셔테리어. 털 엉�
 pubDate: "2026-01-02"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","요크셔테리어 (Yorkshire Terrier)"]
 heroImage: "/images/blog/yorkshire_care.webp"
 app: "petself"
 formatVersion: 4

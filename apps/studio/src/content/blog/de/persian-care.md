@@ -5,7 +5,6 @@ description: "Perserkatzen sind für ihr elegantes Fell bekannt. Lernen Sie eine
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Perserkatze (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

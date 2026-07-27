@@ -5,7 +5,6 @@ description: "Los American Shorthair son gatos robustos pero propensos a la obes
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","American Shorthair"]
 heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

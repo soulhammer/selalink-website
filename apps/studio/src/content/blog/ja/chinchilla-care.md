@@ -5,7 +5,6 @@ description: "チンチラは一生伸び続ける歯による不正咬合のリ
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","チンチラ (Chinchilla lanigera)"]
 heroImage: "/images/blog/chinchilla_care.webp"
 app: "petself"
 formatVersion: 4

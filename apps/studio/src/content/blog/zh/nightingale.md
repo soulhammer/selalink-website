@@ -5,7 +5,6 @@ description: "现代护理学奠基人兼先驱统计学家，通过将军队卫
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

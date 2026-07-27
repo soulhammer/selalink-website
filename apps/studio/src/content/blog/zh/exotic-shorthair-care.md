@@ -5,7 +5,6 @@ description: "拥有扁平可爱面容的异国短毛猫（Exotic Shorthair/加�
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","异国短毛猫 (Exotic Shorthair / 加菲猫)"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

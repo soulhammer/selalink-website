@@ -5,7 +5,6 @@ description: "Découvrez la méthode de culture mentale de Tokugawa Ieyasu. Expl
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ieyasu_herb_grinding.webp"
 app: "buildself"
 formatVersion: 4

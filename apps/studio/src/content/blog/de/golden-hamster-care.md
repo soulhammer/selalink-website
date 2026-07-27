@@ -5,7 +5,6 @@ description: "Pflege für den solitären und nachtaktiven Goldhamster. Lernen Si
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Goldhamster (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

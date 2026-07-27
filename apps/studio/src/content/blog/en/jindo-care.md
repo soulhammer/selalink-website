@@ -5,7 +5,6 @@ description: "Learn Jindo dog socialization and grooming guidelines. Manage caut
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Jindo Dog (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

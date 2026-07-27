@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie Benjamin Franklin, Erfinder des Blitzableiters u
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4

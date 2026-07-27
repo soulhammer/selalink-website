@@ -5,7 +5,6 @@ description: "医師であり作家のアーサー・コナン・ドイルが、
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4

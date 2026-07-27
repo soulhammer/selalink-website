@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk alpukat berdas
 pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","avocado"]
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

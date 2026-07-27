@@ -5,7 +5,6 @@ description: "世界で最も成功した作家スティーブン・キングの
 pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4

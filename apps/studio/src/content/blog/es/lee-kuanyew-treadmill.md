@@ -5,7 +5,6 @@ description: "Descubra cómo Lee Kuan Yew, primer ministro fundador de Singapur,
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "야행성이며 단독 생활을 하는 골든 햄스터. 낮 수�
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","골든 햄스터 (Mesocricetus auratus)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

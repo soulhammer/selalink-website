@@ -5,7 +5,6 @@ description: "Guide de soins pour l'emblématique Grenouille Pacman (Ceratophrys
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Grenouille Pacman (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

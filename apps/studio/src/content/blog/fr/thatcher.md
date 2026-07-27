@@ -5,7 +5,6 @@ description: "En tant que Première ministre britannique connue sous le nom de D
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4

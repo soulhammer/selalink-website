@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","carrot"]
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

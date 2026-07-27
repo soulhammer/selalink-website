@@ -5,7 +5,6 @@ description: "探索法国伟人伏尔泰终身坚持的床边晨间写作习惯
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4

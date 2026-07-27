@@ -5,7 +5,6 @@ description: "황금빛 화풍의 거장 구스타프 클림트. 매일 아침 �
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/klimt_gardening_nature_refresh.webp"
 app: "buildself"
 formatVersion: 4

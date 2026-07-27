@@ -5,7 +5,6 @@ description: "O romancista John Steinbeck escrevia cartas diárias ao seu editor
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4

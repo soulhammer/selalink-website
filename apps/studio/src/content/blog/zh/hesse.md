@@ -5,7 +5,6 @@ description: "探索荣获诺贝尔文学奖、热爱森林与自然的和平主
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

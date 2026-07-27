@@ -5,7 +5,6 @@ description: "探索量子力学大师尼尔斯·玻尔如何通过与同伴的�
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bohr_dialogue_dictation.webp"
 app: "buildself"
 formatVersion: 4

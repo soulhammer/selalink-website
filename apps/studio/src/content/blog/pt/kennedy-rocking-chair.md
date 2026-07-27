@@ -5,7 +5,6 @@ description: "Descubra como John F. Kennedy liderou os EUA durante as crises da 
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

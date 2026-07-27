@@ -5,7 +5,6 @@ description: "Cara merawat kucing Hutan Norwegia yang anggun. Penuhi insting mem
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Hutan Norwegia (Felis catus / Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

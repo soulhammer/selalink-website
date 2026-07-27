@@ -5,7 +5,6 @@ description: "Cuidados essenciais para o porquinho-da-índia abissínio de pelo 
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Porquinho-da-índia Abissínio"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

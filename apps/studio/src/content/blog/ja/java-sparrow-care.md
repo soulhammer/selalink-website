@@ -5,7 +5,6 @@ description: "愛らしい小型鳥・文鳥（Java Sparrow）。体温低下を
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","文鳥 / ジャワスズメ (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

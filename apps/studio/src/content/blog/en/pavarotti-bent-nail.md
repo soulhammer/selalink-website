@@ -5,7 +5,6 @@ description: "Explains the neuroscientific calming effect behind world-famous te
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4

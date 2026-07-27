@@ -5,7 +5,6 @@ description: "探索在危机中挽救法国的英雄夏尔·戴高乐在繁重�
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4

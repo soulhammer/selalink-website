@@ -5,7 +5,6 @@ description: "探索维珍集团创始人理查德·布兰森爵士如何习惯�
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4

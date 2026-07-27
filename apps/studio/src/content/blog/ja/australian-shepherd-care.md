@@ -5,7 +5,6 @@ description: "極めて高い知性とエネルギーを持つ牧羊犬オース
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","オーストラリアン・シェパード (Australian Shepherd / Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

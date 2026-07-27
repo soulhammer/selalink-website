@@ -5,7 +5,6 @@ description: "로마의 석학 대 플리니우스가 밥 먹고 이동하는 �
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["독서", "필기", "메모", "고대"]
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

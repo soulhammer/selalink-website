@@ -5,7 +5,6 @@ description: "노벨상 수상 유전학자 바버라 매클린톡은 현미경�
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4

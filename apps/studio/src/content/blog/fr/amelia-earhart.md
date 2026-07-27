@@ -5,7 +5,6 @@ description: "Première aviatrice à réussir la traversée de l'Atlantique en s
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

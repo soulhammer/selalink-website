@@ -5,7 +5,6 @@ description: "땅 파기를 좋아하는 소형 육지거북 러시아/호스필
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","러시아/호스필드 육지거북 (Russian Tortoise / Agrionemys horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

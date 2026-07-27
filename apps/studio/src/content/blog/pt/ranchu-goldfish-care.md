@@ -5,7 +5,6 @@ description: "Guia de cuidados para o adorável Peixe Ranchu (Ranchu Goldfish). 
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Kinguio Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4

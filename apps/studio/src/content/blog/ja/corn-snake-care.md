@@ -5,7 +5,6 @@ description: "温厚で美しく人気のコーンスネーク（Corn Snake）�
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","コーンスネーク / ナメラ (Corn Snake / Pantherophis guttatus)"]
 heroImage: "/images/blog/corn_snake_care.webp"
 app: "petself"
 formatVersion: 4

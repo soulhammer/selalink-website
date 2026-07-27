@@ -5,7 +5,6 @@ description: "프랑스의 실존주의 철학자 장 폴 사르트르는 소란
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/sartre_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4

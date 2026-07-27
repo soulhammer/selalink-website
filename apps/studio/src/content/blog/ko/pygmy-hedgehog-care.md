@@ -5,7 +5,6 @@ description: "앙증맞은 가시를 가진 아프리칸 피그미 고슴도치.
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","아프리칸 피그미 고슴도치 (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

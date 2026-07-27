@@ -5,7 +5,6 @@ description: "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
-tags: ["위인 습관", "존 폰 노이만", "학습", "아이디어"]
 heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4

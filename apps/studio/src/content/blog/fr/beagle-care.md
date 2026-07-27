@@ -5,7 +5,6 @@ description: "Le Beagle est un chien de chasse curieux doté d'une énergie déb
 pubDate: "2026-02-28"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Beagle"]
 heroImage: "/images/blog/beagle_care.webp"
 app: "petself"
 formatVersion: 4

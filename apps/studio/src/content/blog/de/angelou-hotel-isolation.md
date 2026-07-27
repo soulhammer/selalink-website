@@ -5,7 +5,6 @@ description: "Die legendäre Dichterin und Aktivistin Maya Angelou schrieb aussc
 pubDate: "2026-03-21"
 updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4

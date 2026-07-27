@@ -5,7 +5,6 @@ description: "Caring for the long-backed, short-legged Dachshund. Learn to recog
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

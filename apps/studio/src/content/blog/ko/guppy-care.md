@@ -5,7 +5,6 @@ description: "화려한 알록달록 열대어 구피(Guppy). 지느러미 접�
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","구피 (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

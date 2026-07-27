@@ -5,7 +5,6 @@ description: "Explore how Ray Bradbury, godfather of modern science fiction, wro
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

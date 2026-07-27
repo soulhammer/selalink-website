@@ -5,7 +5,6 @@ description: "公的安全基準に基づく食用油/オリーブオイルの�
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","olive-oil"]
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "护理独居且夜行性的金仓鼠。了解涵盖白天安静环
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

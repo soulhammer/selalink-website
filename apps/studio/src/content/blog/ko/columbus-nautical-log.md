@@ -5,7 +5,6 @@ description: "미지의 대서양을 넘은 탐험가 콜럼버스가 폭풍과 
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4

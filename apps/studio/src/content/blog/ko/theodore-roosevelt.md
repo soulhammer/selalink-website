@@ -5,7 +5,6 @@ description: "러시모어 산에 얼굴이 새겨진 미국의 위대한 대통
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "BuildSelf"
-tags: ["위인 습관", "시어도어 루즈벨트", "생산성", "학습"]
 heroImage: "/images/blog/theodore_roosevelt.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie Nikolaus Kopernikus jahrzehntelang einen festen 
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4

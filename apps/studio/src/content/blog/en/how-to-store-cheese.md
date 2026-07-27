@@ -5,7 +5,6 @@ description: "Check the optimal storage temperature, method, and shelf life for 
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "FreshSnap"
-tags: ["FoodStorage","FreshStorage","cheese"]
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

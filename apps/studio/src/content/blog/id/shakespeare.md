@@ -5,7 +5,6 @@ description: "William Shakespeare, dramawan terbesar dalam sejarah sastra. Ia me
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/shakespeare.webp"
 app: "buildself"
 formatVersion: 4

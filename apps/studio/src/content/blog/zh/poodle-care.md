@@ -5,7 +5,6 @@ description: "了解如何通过智力游戏缓解高智商贵宾犬的无聊感
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","贵宾犬 (Canis lupus familiaris / Poodle)"]
 heroImage: "/images/blog/poodle_care.webp"
 app: "petself"
 formatVersion: 4

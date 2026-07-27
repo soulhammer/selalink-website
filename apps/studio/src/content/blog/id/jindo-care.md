@@ -5,7 +5,6 @@ description: "Cara melatih sosialisasi Jindo yang waspada terhadap orang asing d
 pubDate: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Anjing Jindo (Canis lupus familiaris)"]
 heroImage: "/images/blog/jindo_care.webp"
 app: "petself"
 formatVersion: 4

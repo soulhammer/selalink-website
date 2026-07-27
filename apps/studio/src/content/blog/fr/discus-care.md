@@ -5,7 +5,6 @@ description: "Guide de soins pour le Roi de l'Aquarium, le Poisson Discus. Décr
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Poisson Discus (Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

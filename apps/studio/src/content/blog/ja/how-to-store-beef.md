@@ -5,7 +5,6 @@ description: "公的安全基準に基づく牛肉の最適な保存温度、保
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","beef"]
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

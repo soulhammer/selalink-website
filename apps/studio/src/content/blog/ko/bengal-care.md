@@ -5,7 +5,6 @@ description: "활발하고 지능적인 벵갈 고양이 케어법. 벵갈의 �
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","벵갈 고양이 (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

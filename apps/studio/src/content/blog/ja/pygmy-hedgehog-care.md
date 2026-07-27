@@ -5,7 +5,6 @@ description: "可愛らしい棘を持つヨツユビハリネズミ。自分の
 pubDate: "2026-05-21"
 updatedDate: "2026-05-21"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ヨツユビハリネズミ (Atelerix albiventris / African Pygmy Hedgehog)"]
 heroImage: "/images/blog/pygmy_hedgehog_care.webp"
 app: "petself"
 formatVersion: 4

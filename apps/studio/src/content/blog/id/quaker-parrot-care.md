@@ -5,7 +5,6 @@ description: "Panduan perawatan burung pintar Quaker Parrot (Monk Parakeet). Pah
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Burung Parkit Quaker / Monk Parakeet (Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "O poeta Paul Valéry acordava às 4 da manhã todos os dias durant
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "華麗な修辞を排し、人間心理の本質を解剖するよ
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4

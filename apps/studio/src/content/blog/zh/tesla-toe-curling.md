@@ -5,7 +5,6 @@ description: "天才发明家尼古拉·特斯拉每晚躺在床上都会卷曲�
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 formatVersion: 4

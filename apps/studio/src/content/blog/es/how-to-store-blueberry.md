@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","blueberry"]
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

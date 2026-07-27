@@ -5,7 +5,6 @@ description: "拥有绚丽花纹的水龟锦龟（Painted Turtle）。解读晒�
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","锦龟 (Painted Turtle / Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

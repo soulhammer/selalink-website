@@ -5,7 +5,6 @@ description: "Bulldogs Franceses são propensos a desconforto respiratório e ch
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Bulldog Francês (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "深入剖析统治凡尔赛宫的“太阳王”路易十四如何
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

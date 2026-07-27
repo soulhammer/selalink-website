@@ -5,7 +5,6 @@ description: "근위축성 측색 경화증(ALS)을 극복한 세계적인 이�
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["위인 습관", "스티븐 호킹", "창의성", "학습"]
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

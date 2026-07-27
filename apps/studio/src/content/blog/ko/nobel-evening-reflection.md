@@ -5,7 +5,6 @@ description: "노벨상 창설자 알프레드 노벨. 낮 동안의 실험을 �
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "激務の合間に15分間の仮眠で脳のエナジーを迅速�
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4

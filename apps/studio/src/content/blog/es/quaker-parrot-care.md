@@ -5,7 +5,6 @@ description: "Guía de cuidado para la inteligente Cotorra Cotorra o Argentina (
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

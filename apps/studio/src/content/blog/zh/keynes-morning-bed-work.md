@@ -5,7 +5,6 @@ description: "探索破局大萧条的宏观经济学泰斗约翰·梅纳德·�
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4

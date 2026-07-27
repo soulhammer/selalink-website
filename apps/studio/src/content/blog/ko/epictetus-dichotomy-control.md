@@ -5,7 +5,6 @@ description: "고대 로마 스토아 철학의 거장 에픽테토스. 내 권�
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4

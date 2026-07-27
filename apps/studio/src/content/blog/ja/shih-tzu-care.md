@@ -5,7 +5,6 @@ description: "愛らしいシーズー（Shih Tzu）。逆くしゃみや目擦�
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","シーズー (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den charmanten Mops (Pug). Kopfschieflegen un
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Mops (Pug)"]
 heroImage: "/images/blog/pug_care.webp"
 app: "petself"
 formatVersion: 4

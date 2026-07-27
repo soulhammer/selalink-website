@@ -180,19 +180,6 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const tipBoxHtml = tipText ? renderTipBox(tipText) : '';
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
-  const langTagMap = {
-    ko: ["반려동물", "펫케어", pBreed],
-    en: ["PetCare", "PetHealth", pBreed],
-    zh: ["宠物护理", "宠物健康", pBreed],
-    ja: ["ペットケア", "ペット健康", pBreed],
-    es: ["CuidadoMascotas", "SaludMascotas", pBreed],
-    fr: ["SoinAnimaux", "SanteAnimaux", pBreed],
-    de: ["Haustierpflege", "Haustiergesundheit", pBreed],
-    pt: ["CuidadoPets", "SaudePets", pBreed],
-    id: ["PerawatanHewan", "KesehatanHewan", pBreed]
-  };
-  const tagsJson = JSON.stringify(langTagMap[lang] || langTagMap['en']);
-
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "${title.replace(/"/g, '\\"')}"
@@ -200,7 +187,6 @@ description: "${desc.replace(/"/g, '\\"')}"
 pubDate: "${pubDate}"
 updatedDate: "${updatedDate}"
 category: "FreshSelf"
-tags: ${tagsJson}
 heroImage: "${heroImage}"
 app: "petself"
 formatVersion: 4

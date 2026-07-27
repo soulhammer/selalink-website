@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den hochintelligenten Australian Shepherd (Au
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Australian Shepherd (Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

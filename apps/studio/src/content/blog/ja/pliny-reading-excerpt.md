@@ -5,7 +5,6 @@ description: "ローマの学者・大プリニウスが食事中や移動の瞬
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

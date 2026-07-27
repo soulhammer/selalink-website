@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 블루베리의 최적 
 pubDate: "2026-03-29"
 updatedDate: "2026-03-29"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","blueberry"]
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

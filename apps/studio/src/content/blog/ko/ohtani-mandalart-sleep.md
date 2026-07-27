@@ -5,7 +5,6 @@ description: "현대 야구의 역사를 새로 쓰는 오타니 쇼헤이. 그�
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위인 습관", "오타니 쇼헤이", "성장", "계획", "수면회복"]
 heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4

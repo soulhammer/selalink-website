@@ -5,7 +5,6 @@ description: "揭秘“球王”贝利克服紧张并发挥极致表现的秘诀
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4

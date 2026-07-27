@@ -5,7 +5,6 @@ description: "Pelajari kebiasaan kliping kartu informasi yang dilakukan setiap j
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4

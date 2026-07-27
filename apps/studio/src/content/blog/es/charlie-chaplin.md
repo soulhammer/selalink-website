@@ -5,7 +5,6 @@ description: "Descubra cómo la leyenda del cine mudo Charlie Chaplin observaba 
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4

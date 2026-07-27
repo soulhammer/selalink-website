@@ -5,7 +5,6 @@ description: "Guía de cuidado para el adorable Scottish Straight. Interprete la
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Scottish Straight (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

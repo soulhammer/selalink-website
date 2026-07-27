@@ -5,7 +5,6 @@ description: "『自由論』の知性、ジョン・スチュアート・ミル
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4

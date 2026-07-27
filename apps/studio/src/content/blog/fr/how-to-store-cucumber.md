@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-01-22"
 updatedDate: "2026-01-22"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","cucumber"]
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

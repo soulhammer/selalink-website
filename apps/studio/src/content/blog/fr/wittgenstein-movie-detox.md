@@ -5,7 +5,6 @@ description: "Ludwig Wittgenstein regardait des westerns au premier rang des cin
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

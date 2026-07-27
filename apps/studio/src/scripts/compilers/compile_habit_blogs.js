@@ -108,7 +108,6 @@ description: "${description.replace(/"/g, '\\"')}"
 pubDate: "${pubDate}"
 updatedDate: "${updatedDate}"
 category: "BuildSelf"
-tags: ${tags}
 heroImage: "${heroImage}"
 app: "buildself"
 formatVersion: 4

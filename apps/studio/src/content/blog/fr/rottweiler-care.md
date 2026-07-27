@@ -5,7 +5,6 @@ description: "Guide de soins pour le puissant et loyal Rottweiler. Décryptez le
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Rottweiler"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

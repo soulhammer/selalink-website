@@ -5,7 +5,6 @@ description: "Alfred Nobel, founder of the Nobel Prizes. Discover his evening me
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

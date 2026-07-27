@@ -5,7 +5,6 @@ description: "Los Scottish Folds son famosos por sus orejas caídas, pero son ge
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Scottish Fold"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

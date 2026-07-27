@@ -5,7 +5,6 @@ description: "귀양지에서도 매일 저녁이면 관복으로 갈아입고 �
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "니콜로 마키아벨리", "집중", "마인드셋", "독서"]
 heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4

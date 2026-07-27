@@ -5,7 +5,6 @@ description: "Persian cats are known for their elegant coat. Learn a 3-step rout
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Persian Cat (Felis catus)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

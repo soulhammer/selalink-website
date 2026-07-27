@@ -5,7 +5,6 @@ description: "Temukan kebiasaan verbalisasi emosional Vincent van Gogh, pelukis 
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4

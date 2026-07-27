@@ -5,7 +5,6 @@ description: "Descubra o método de reflexão do fundador da IBM, Thomas Watson,
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4

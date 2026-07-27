@@ -5,7 +5,6 @@ description: "선천적 신체 한계를 극복하고 고대 그리스 최고의
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

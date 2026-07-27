@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den bodenbewohnenden Panzerwels (Corydoras Ca
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Panzerwels (Corydoras Catfish / Corydoras)"]
 heroImage: "/images/blog/corydoras_care.webp"
 app: "petself"
 formatVersion: 4

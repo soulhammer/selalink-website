@@ -5,7 +5,6 @@ description: "高い知性とおしゃべり能力を持つオキナインコ（
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","オキナインコ (Quaker Parrot / Monk Parakeet / Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

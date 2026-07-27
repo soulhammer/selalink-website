@@ -5,7 +5,6 @@ description: "Guía de cuidado para el deslumbrante Gecko Gárgola (Gargoyle Gec
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gecko Gárgola (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

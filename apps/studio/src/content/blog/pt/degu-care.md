@@ -5,7 +5,6 @@ description: "Guia de cuidados para o inteligente Degu chileno. Entenda o abanar
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

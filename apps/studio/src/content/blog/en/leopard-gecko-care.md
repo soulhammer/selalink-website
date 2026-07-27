@@ -5,7 +5,6 @@ description: "Comprehensive care guide for Leopard Geckos. Learn to decode tail-
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Leopard Gecko (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

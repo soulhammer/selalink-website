@@ -5,7 +5,6 @@ description: "アマゾンでPPT発表を禁止し、会議開始後30分間静�
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4

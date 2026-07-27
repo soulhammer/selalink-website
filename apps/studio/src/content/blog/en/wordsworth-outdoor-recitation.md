@@ -5,7 +5,6 @@ description: "Romantic poet William Wordsworth walked outdoors, tuning sentence 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4

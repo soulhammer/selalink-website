@@ -5,7 +5,6 @@ description: "折れ耳が愛らしいスコティッシュフォールド。し
 pubDate: "2026-02-10"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","スコティッシュフォールド"]
 heroImage: "/images/blog/scottish_fold_care.webp"
 app: "petself"
 formatVersion: 4

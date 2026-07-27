@@ -5,7 +5,6 @@ description: "야생 식물을 분류 및 채집하며 사색하고 주머니 �
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

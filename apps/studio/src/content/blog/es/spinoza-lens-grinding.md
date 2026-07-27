@@ -5,7 +5,6 @@ description: "Descubra cómo el filósofo panteísta Spinoza eliminó la sobreca
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

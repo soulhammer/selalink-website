@@ -5,7 +5,6 @@ description: "다부진 뼈대와 큰 머리가 매력적인 브리티시 숏헤
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","브리티시 숏헤어 (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

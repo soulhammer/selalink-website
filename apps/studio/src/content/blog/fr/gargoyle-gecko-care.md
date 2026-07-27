@@ -5,7 +5,6 @@ description: "Guide de soins pour le fascinant Gecko Gargouille (Gargoyle Gecko)
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Gecko Gargouille (Rhacodactylus auriculatus)"]
 heroImage: "/images/blog/gargoyle_gecko_care.webp"
 app: "petself"
 formatVersion: 4

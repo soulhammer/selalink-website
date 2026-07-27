@@ -5,7 +5,6 @@ description: "물리학 연구 후 피아노 건반을 마음대로 두드리며
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["이완", "사색", "휴식"]
 heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4

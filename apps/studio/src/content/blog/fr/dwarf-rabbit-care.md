@@ -5,7 +5,6 @@ description: "Prendre soin de la plus petite race de lapin, le nain de couleur. 
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Lapin Nain de Couleur (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

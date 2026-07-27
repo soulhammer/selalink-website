@@ -5,7 +5,6 @@ description: "Découvrez l'habitude de fiches d'information exécutée chaque ma
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4

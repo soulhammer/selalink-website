@@ -5,7 +5,6 @@ description: "고대 그리스의 철학자 플라톤. 본명이 아닌 '넓은 
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4

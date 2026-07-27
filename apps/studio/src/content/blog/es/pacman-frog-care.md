@@ -5,7 +5,6 @@ description: "Guía de cuidado para la icónica Rana Pacman (Ceratophrys). Inter
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Rana Pacman (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

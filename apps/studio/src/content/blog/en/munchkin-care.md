@@ -5,7 +5,6 @@ description: "Caring for the short-legged Munchkin cat. Learn how to identify ea
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Munchkin Cat (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

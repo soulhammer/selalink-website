@@ -5,7 +5,6 @@ description: "American Shorthairs sind robuste Katzen, neigen aber zu Übergewic
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","American Shorthair"]
 heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

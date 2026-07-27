@@ -5,7 +5,6 @@ description: "Merawat kucing Bengal yang aktif dan cerdas. Pahami bahasa tubuh b
 pubDate: "2026-04-18"
 updatedDate: "2026-04-18"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Bengal (Prionailurus bengalensis × Felis catus)"]
 heroImage: "/images/blog/bengal_care.webp"
 app: "petself"
 formatVersion: 4

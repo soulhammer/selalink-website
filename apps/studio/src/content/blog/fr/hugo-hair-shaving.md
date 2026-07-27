@@ -5,7 +5,6 @@ description: "Découvrez comment Victor Hugo s'est rasé la moitié des cheveux 
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

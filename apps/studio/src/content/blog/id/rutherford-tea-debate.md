@@ -5,7 +5,6 @@ description: "Ernest Rutherford, bapak fisika nuklir. Pelajari bagaimana diskusi
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rutherford_tea_debate.webp"
 app: "buildself"
 formatVersion: 4

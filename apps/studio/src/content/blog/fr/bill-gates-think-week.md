@@ -5,7 +5,6 @@ description: "Découvrez la routine de lecture isolée en chalet de Bill Gates, 
 pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4

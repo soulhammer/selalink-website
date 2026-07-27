@@ -5,7 +5,6 @@ description: "Le poète Paul Valéry s'est levé à 4 heures du matin chaque jou
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

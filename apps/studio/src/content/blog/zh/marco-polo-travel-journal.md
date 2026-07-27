@@ -5,7 +5,6 @@ description: "《东方见闻录》作者马可·波罗。在长达24年的丝�
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4

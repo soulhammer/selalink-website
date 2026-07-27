@@ -5,7 +5,6 @@ description: "Aprenda la limpieza adecuada del sebo cutáneo y la regulación t�
 pubDate: "2026-03-04"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gato Sphynx (Sphynx Cat)"]
 heroImage: "/images/blog/sphynx_care.webp"
 app: "petself"
 formatVersion: 4

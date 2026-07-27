@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den liebevollen Shih Tzu. Rückwärtsniesen u
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

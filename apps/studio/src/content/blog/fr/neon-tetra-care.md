@@ -5,7 +5,6 @@ description: "Guide de soins pour le brillant Tétra Néon. Décryptez la perte 
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Tétra Néon (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

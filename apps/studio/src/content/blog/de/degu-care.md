@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den intelligenten chilenischen Degu. Schwanzw
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Degu (Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

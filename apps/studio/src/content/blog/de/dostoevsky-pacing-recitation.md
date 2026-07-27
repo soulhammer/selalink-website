@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie Fjodor Dostojewski im Zimmer umherging und Dialo
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4

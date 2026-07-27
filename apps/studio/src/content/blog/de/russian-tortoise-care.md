@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die grabebegeisterte Steppenschildkröte (Rus
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Steppenschildkröte / Russische Landschildkröte (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

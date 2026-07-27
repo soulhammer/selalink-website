@@ -5,7 +5,6 @@ description: "파란 눈 또는 오드아이 터키시 앙고라는 유전적 �
 pubDate: "2026-04-07"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","터키시 앙고라 (Turkish Angora)"]
 heroImage: "/images/blog/turkish_angora_care.webp"
 app: "petself"
 formatVersion: 4

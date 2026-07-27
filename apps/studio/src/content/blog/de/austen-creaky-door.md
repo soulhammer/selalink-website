@@ -5,7 +5,6 @@ description: "Jane Austen ließ eine knarrende Tür absichtlich unrepariert, um 
 pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4

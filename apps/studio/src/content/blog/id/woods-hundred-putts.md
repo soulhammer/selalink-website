@@ -5,7 +5,6 @@ description: "Rutinitas '100 putting berturut-turut berhasil' yang dilakukan leg
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4

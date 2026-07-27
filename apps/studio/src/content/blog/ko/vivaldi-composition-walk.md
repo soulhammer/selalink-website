@@ -5,7 +5,6 @@ description: "바로크 음악의 거장 안토니오 비발디. '사계' 등 50
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

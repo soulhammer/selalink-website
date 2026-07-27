@@ -5,7 +5,6 @@ description: "Discover how Roman Emperor Marcus Aurelius wrote in his journal ju
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

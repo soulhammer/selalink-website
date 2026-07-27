@@ -5,7 +5,6 @@ description: "미국 모더니즘 미술의 대모 조지아 오키프. 사막�
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
 heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4

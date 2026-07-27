@@ -5,7 +5,6 @@ description: "Guia de cuidados para o afetuoso Shih Tzu. Entenda o espirro inver
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

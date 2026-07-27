@@ -5,7 +5,6 @@ description: "Erfahren Sie, warum Mary Shelley, die Autorin von 'Frankenstein', 
 pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 formatVersion: 4

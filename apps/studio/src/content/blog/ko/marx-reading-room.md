@@ -5,7 +5,6 @@ description: "사회의 감춰진 작동 원리를 경제학적으로 해부했�
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: ["위인 습관", "카를 마르크스", "딥 리딩", "연합 피질", "초록 노트"]
 heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Maestro seni modern penggagas Kubisme, yang menyalakan percikan kr
 pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4

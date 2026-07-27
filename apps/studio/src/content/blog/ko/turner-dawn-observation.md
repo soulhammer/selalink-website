@@ -5,7 +5,6 @@ description: "빛의 화가 터너의 독창적인 색채 표현은 매일 아�
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "용맹하고 충성스러운 저먼 셰퍼드. 특유의 바디 �
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","저먼 셰퍼드 (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

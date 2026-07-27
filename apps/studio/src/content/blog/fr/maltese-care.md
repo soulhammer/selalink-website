@@ -5,7 +5,6 @@ description: "Le bichon maltais, le chien de compagnie le plus aimé. Découvrez
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Bichon maltais (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

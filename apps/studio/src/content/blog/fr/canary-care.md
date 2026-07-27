@@ -5,7 +5,6 @@ description: "Guide de soins pour le mélodieux Canari. Décryptez l'arrêt du c
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Canari (Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

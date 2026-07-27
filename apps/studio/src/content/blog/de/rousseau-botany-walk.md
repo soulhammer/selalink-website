@@ -5,7 +5,6 @@ description: "Lernen Sie Jean-Jacques Rousseaus Routine kennen, Wildpflanzen zu 
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

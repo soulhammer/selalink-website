@@ -5,7 +5,6 @@ description: "A regra de escrita matinal por trás das obras-primas de Natsume S
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Panduan perawatan Ikan Mas Ranchu (Ranchu Goldfish) yang menggemas
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ikan Mas Ranchu (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4

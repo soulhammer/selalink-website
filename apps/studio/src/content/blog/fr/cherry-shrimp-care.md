@@ -5,7 +5,6 @@ description: "Guide de soins pour la brillante Crevette Cerise (Neocaridina davi
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Crevette Cerise / Neocaridina (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

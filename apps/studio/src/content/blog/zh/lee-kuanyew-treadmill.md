@@ -5,7 +5,6 @@ description: "深度剖析新加坡缔造者李光耀总理如何借由每日下
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

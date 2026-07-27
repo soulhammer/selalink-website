@@ -5,7 +5,6 @@ description: "Pflegeanleitung für die niedliche Exotic Shorthair (Exotische Kur
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Exotic Shorthair (Exotische Kurzhaarkatze)"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

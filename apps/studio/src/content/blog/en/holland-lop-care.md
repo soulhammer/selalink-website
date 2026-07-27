@@ -5,7 +5,6 @@ description: "Comprehensive care guide for the floppy-eared Holland Lop Rabbit. 
 pubDate: "2026-07-15"
 updatedDate: "2026-07-15"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Holland Lop Rabbit (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/holland_lop_care.webp"
 app: "petself"
 formatVersion: 4

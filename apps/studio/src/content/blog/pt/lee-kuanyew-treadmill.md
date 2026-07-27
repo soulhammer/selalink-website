@@ -5,7 +5,6 @@ description: "Descubra como Lee Kuan Yew, primeiro-ministro fundador de Cingapur
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lee_kuanyew_treadmill.webp"
 app: "buildself"
 formatVersion: 4

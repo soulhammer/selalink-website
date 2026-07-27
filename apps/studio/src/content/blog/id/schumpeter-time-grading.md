@@ -5,7 +5,6 @@ description: "Ekonom Joseph Schumpeter menilai jam belajar dan fokus di buku cat
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4

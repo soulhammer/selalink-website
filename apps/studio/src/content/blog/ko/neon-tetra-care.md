@@ -5,7 +5,6 @@ description: "영롱한 열대어 네온 테트라(Neon Tetra). 네온 라인 �
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","네온 테트라 (Neon Tetra / Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

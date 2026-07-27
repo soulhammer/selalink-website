@@ -5,7 +5,6 @@ description: "시베리아 혹한을 버티는 늠름한 썰매견 시베리안 
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","시베리안 허스키 (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Siberian Huskies, the majestic sled dogs built for cold. Learn tip
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Siberian Husky (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4

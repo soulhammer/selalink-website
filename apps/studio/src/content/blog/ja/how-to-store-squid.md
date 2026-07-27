@@ -5,7 +5,6 @@ description: "公的安全基準に基づくイカの最適な保存温度、保
 pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","squid"]
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

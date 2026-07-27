@@ -5,7 +5,6 @@ description: "威猛高贵的威严大型犬杜宾犬（Doberman Pinscher）。�
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","杜宾犬 (Doberman Pinscher)"]
 heroImage: "/images/blog/doberman_pinscher_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Karl Marx dissected the hidden mechanics of society through econom
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4

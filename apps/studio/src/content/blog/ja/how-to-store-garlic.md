@@ -5,7 +5,6 @@ description: "公的安全基準に基づくにんにくの最適な保存温度
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","garlic"]
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "한국인들이 가장 사랑하는 강아지 말티즈. 유전적
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","말티즈 (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

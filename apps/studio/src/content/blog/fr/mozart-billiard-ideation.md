@@ -5,7 +5,6 @@ description: "Wolfgang Amadeus Mozart stimulait son cerveau inconscient (DMN) en
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

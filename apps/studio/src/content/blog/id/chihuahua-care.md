@@ -5,7 +5,6 @@ description: "Chihuahua, anjing berani terkecil. Temukan tips melindungi fontane
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Chihuahua (Canis lupus familiaris)"]
 heroImage: "/images/blog/chihuahua_care.webp"
 app: "petself"
 formatVersion: 4

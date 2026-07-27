@@ -5,7 +5,6 @@ description: "우아한 털을 지닌 페르시안 고양이. 단두종 특유�
 pubDate: "2026-06-05"
 updatedDate: "2026-06-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","페르시안 고양이 (Felis catus / Persian Cat)"]
 heroImage: "/images/blog/persian_care.webp"
 app: "petself"
 formatVersion: 4

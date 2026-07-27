@@ -5,7 +5,6 @@ description: "Découvrez la température, les méthodes et la durée optimales d
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","banana"]
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

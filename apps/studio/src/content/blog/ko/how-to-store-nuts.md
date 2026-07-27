@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 견과류의 최적 보
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","nuts"]
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

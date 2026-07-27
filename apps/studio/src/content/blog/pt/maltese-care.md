@@ -5,7 +5,6 @@ description: "O maltês, o cão mais amado. Descubra dicas para evitar a luxaç�
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Maltês (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

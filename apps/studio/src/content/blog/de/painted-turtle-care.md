@@ -5,7 +5,6 @@ description: "Erfahren Sie alles zur Pflege der Zierschildkröte: Deuten Sie Son
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Zierschildkröte (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "독일 클래식 음악의 거장 요하네스 브람스가 매일
 pubDate: "2026-06-13"
 updatedDate: "2026-06-13"
 category: "BuildSelf"
-tags: ["새벽 5시 커피와 ","Routine"]
 heroImage: "/images/blog/brahms_early_morning_coffee.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "深度剖析美国第16任总统亚伯拉罕·林肯如何借由�
 pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4

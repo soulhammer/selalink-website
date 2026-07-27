@@ -5,7 +5,6 @@ description: "Guide de soin de la Tortue Peinte : décodez l'étirement solar et
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Tortue Peinte (Chrysemys picta)"]
 heroImage: "/images/blog/painted_turtle_care.webp"
 app: "petself"
 formatVersion: 4

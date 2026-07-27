@@ -5,7 +5,6 @@ description: "뛰어난 지능과 에너지를 지닌 목양견 오스트레일�
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","오스트레일리안 셰퍼드 (Australian Shepherd / Aussie)"]
 heroImage: "/images/blog/australian_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo el premio Nobel y filósofo francés Albert Camus s
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4

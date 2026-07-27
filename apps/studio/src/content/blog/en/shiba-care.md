@@ -5,7 +5,6 @@ description: "Shiba Inus are highly independent and touch-sensitive. Learn prope
 pubDate: "2026-01-29"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Shiba Inu"]
 heroImage: "/images/blog/shiba_care.webp"
 app: "petself"
 formatVersion: 4

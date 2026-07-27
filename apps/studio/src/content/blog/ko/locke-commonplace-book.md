@@ -5,7 +5,6 @@ description: "경험론의 거장 존 로크는 방대한 기록을 체계적으
 pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["1분 안에 과거의 ","Routine"]
 heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4

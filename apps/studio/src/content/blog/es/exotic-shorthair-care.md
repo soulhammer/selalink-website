@@ -5,7 +5,6 @@ description: "Guía de cuidado para el adorable Exótico de Pelo Corto (Exotic S
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Exótico de Pelo Corto (Exotic Shorthair)"]
 heroImage: "/images/blog/exotic_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

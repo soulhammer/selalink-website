@@ -5,7 +5,6 @@ description: "探索现代科学之父伽利略·伽利略如何通过绘制摆�
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4

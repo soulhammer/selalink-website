@@ -5,7 +5,6 @@ description: "Ronald Reagan, the 40th President of the United States, ate jellyb
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4

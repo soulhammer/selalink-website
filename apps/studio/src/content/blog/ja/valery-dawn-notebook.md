@@ -5,7 +5,6 @@ description: "51年間毎日午前4時に起きて手書きノート『カイエ
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4

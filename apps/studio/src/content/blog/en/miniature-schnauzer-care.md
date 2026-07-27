@@ -5,7 +5,6 @@ description: "Care guide for the intelligent Miniature Schnauzer. Interpret pray
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Miniature Schnauzer (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Erfahren Sie, wie der altgriechische Mathematiker Euklid komplexe 
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

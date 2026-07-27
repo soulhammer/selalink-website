@@ -5,7 +5,6 @@ description: "Entdecken Sie, wie Louis Braille die komplexe 12-Punkte-Militärna
 pubDate: "2026-05-04"
 updatedDate: "2026-05-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/braille_tactile_simplification.webp"
 app: "buildself"
 formatVersion: 4

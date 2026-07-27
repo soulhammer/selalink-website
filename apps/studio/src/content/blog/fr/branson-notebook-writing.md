@@ -5,7 +5,6 @@ description: "Découvrez comment le fondateur du groupe Virgin, Sir Richard Bran
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4

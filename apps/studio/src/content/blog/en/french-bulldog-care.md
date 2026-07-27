@@ -5,7 +5,6 @@ description: "French Bulldogs are prone to respiratory distress and heatstroke d
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","French Bulldog (Canis lupus familiaris)"]
 heroImage: "/images/blog/french_bulldog_care.webp"
 app: "petself"
 formatVersion: 4

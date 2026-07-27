@@ -5,7 +5,6 @@ description: "17세기 천재 블레즈 파스칼이 극심한 치통과 두통�
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: ["집중", "몰입", "생산성", "스트레스 해소"]
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4

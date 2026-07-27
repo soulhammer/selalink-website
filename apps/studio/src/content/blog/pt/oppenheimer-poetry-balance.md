@@ -5,7 +5,6 @@ description: "J. Robert Oppenheimer, líder do Projeto Manhattan. Descubra como 
 pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4

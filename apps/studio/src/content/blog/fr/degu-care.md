@@ -5,7 +5,6 @@ description: "Guide de soins pour l'intelligent Dègue du Chili (Octodon). Décr
 pubDate: "2026-07-20"
 updatedDate: "2026-07-20"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Dègue du Chili / Octodon (Degu / Octodon degus)"]
 heroImage: "/images/blog/degu_care.webp"
 app: "petself"
 formatVersion: 4

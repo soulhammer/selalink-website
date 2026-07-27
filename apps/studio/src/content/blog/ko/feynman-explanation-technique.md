@@ -5,7 +5,6 @@ description: "어려운 양자역학을 10세 어린이도 이해할 수 있게 
 pubDate: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "BuildSelf"
-tags: ["위인 습관", "리처드 파인만", "공부법", "메타인지", "자기계발"]
 heroImage: "/images/blog/feynman_explanation_technique.webp"
 app: "buildself"
 formatVersion: 4

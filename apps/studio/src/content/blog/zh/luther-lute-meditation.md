@@ -5,7 +5,6 @@ description: "深入解析马丁·路德在宗教改革巨压之下，如何坚�
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

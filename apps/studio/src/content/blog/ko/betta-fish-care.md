@@ -5,7 +5,6 @@ description: "화려한 화관 지느러미를 가진 베타(Betta Fish). 플레
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","베타 피쉬 (Betta splendens / 샴 싸움고기)"]
 heroImage: "/images/blog/betta_fish_care.webp"
 app: "petself"
 formatVersion: 4

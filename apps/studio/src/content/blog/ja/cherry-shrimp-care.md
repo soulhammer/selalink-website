@@ -5,7 +5,6 @@ description: "鮮やかな観賞用エビ、チェリーシュリンプ（Neocar
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","チェリーシュリンプ / ネオカリディナ (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra cómo Gutenberg, inventor de los tipos móviles metálico
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4

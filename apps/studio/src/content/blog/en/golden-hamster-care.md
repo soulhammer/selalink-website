@@ -5,7 +5,6 @@ description: "Caring for the solitary and nocturnal Golden Hamster. Learn a 3-st
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Golden Hamster (Mesocricetus auratus / Syrian Hamster)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

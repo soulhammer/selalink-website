@@ -5,7 +5,6 @@ description: "Discover the physical brain awakening habit of Austrian poet Raine
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rilke_standing_writing.webp"
 app: "buildself"
 formatVersion: 4

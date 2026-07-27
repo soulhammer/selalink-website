@@ -5,7 +5,6 @@ description: "安迪·沃霍尔每天早晨给秘书打电话，口述昨天的�
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

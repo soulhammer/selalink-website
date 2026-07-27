@@ -5,7 +5,6 @@ description: "Cara merawat kucing Munchkin berkaki pendek. Pelajari cara mendete
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Munchkin (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

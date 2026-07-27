@@ -5,7 +5,6 @@ description: "우아한 열대어의 여왕 엔젤피쉬(Angelfish). 입 맞대�
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","엔젤피쉬 (Angelfish / Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

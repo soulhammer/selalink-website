@@ -5,7 +5,6 @@ description: "Alexander der Große verlor auf dem Schlachtfeld nie den Mut und b
 pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4

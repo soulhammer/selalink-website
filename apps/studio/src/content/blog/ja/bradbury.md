@@ -5,7 +5,6 @@ description: "現代SF文学の父レイ・ブラッドベリが毎朝無作為�
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

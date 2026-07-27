@@ -5,7 +5,6 @@ description: "O Almirante Yi Sun-sin, herói nacional de Joseon. Descubra os efe
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

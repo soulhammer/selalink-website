@@ -5,7 +5,6 @@ description: "ローマ皇帝マルクス・アウレリウスが日の出直前
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

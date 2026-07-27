@@ -5,7 +5,6 @@ description: "Pelajari bagaimana legenda bola basket Michael Jordan melampaui ba
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4

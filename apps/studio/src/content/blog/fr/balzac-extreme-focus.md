@@ -5,7 +5,6 @@ description: "Découvrez la routine d'écriture nocturne et de stimulation au ca
 pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4

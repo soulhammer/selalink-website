@@ -5,7 +5,6 @@ description: "Care guide for the iconic Pacman Frog. Interpret burrowing and ped
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Pacman Frog (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

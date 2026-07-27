@@ -5,7 +5,6 @@ description: "입문용 반려 파충류 1위 레오파드 게코. 꼬리 흔들
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","레오파드 게코 (Eublepharis macularius)"]
 heroImage: "/images/blog/leopard_gecko_care.webp"
 app: "petself"
 formatVersion: 4

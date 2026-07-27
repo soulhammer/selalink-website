@@ -5,7 +5,6 @@ description: "평생 80여 점의 자화상을 그리며 자신의 변화 과정
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["성찰", "창의성", "사색"]
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4

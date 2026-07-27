@@ -5,7 +5,6 @@ description: "代表的な半水棲カメであるミシシッピアカミミガ
 pubDate: "2026-02-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ミシシッピアカミミガメ / アカミミガメ (Red-Eared Slider)"]
 heroImage: "/images/blog/red_eared_slider_care.webp"
 app: "petself"
 formatVersion: 4

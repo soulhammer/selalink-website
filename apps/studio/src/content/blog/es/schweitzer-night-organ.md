@@ -5,7 +5,6 @@ description: "Cómo el Dr. Albert Schweitzer superó el agotamiento extremo en u
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4

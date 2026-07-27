@@ -5,7 +5,6 @@ description: "愛らしいお尻と短い脚が魅力のウェルシュ・コー
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ウェルシュ・コーギー (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

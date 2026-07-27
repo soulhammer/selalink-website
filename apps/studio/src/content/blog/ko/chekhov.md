@@ -5,7 +5,6 @@ description: "근대 단편소설의 거장 안톤 체호프가 대합실과 카
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "瑞士伟大的儿童心理学家让·皮亚杰。探索他精细�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/piaget_morning_writing.webp"
 app: "buildself"
 formatVersion: 4

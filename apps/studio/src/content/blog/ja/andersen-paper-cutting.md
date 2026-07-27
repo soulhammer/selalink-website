@@ -5,7 +5,6 @@ description: "世界的な童話作家ハンス・クリスチャン・アンデ
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4

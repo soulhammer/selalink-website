@@ -5,7 +5,6 @@ description: "Découvrez comment le génie poétique américain Emily Dickinson 
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4

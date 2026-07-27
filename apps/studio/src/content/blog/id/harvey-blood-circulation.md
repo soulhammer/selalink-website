@@ -5,7 +5,6 @@ description: "Pelajari bagaimana dokter abad ke-17 William Harvey mematahkan dog
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4

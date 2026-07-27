@@ -5,7 +5,6 @@ description: "Découvrez la température, la méthode et la durée de conservati
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["ConservationAliments","StockageFrais","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

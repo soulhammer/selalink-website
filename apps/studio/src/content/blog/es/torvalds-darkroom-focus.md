@@ -5,7 +5,6 @@ description: "Linus Torvalds, creador de Linux y Git. Explora cómo logró una h
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

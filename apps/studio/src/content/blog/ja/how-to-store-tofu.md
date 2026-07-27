@@ -5,7 +5,6 @@ description: "公的安全基準に基づく豆腐の最適な保存温度、保
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","tofu"]
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

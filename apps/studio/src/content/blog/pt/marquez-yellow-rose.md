@@ -5,7 +5,6 @@ description: "Por que Gabriel García Márquez, autor de Cém Anos de Solidão, 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marquez_yellow_rose.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Guia de cuidados para o peixe tropical vivíparo Molly Negro. Inte
 pubDate: "2026-07-24"
 updatedDate: "2026-07-24"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Molly Negro / Black Molly (Poecilia sphenops)"]
 heroImage: "/images/blog/black_molly_care.webp"
 app: "petself"
 formatVersion: 4

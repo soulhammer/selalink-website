@@ -5,7 +5,6 @@ description: "Mère Teresa a servi toute sa vie dans les bidonvilles de Kolkata.
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4

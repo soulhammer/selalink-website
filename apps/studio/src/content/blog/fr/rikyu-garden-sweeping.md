@@ -5,7 +5,6 @@ description: "Une anecdote du grand maître de thé Sen no Rikyu purifiant son e
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

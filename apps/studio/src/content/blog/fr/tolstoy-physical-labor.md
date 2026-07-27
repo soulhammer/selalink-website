@@ -5,7 +5,6 @@ description: "D'où le géant littéraire Léon Tolstoï tirait-il l'énergie d'
 pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4

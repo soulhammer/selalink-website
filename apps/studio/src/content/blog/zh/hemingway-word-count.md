@@ -5,7 +5,6 @@ description: "探索诺贝尔奖得主欧内斯特·海明威如何在墙面图�
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4

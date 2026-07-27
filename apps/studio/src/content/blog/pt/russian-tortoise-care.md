@@ -5,7 +5,6 @@ description: "Guia de cuidados para a ativa e escavadora Tartaruga-Russa (Tartar
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Tartaruga-Russa / Tartaruga de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

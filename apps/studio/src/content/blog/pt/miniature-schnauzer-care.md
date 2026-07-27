@@ -5,7 +5,6 @@ description: "Guia de cuidados para o inteligente Schnauzer Miniatura. Entenda a
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Schnauzer Miniatura (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

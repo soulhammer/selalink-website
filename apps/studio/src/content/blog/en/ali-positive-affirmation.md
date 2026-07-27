@@ -5,7 +5,6 @@ description: "Muhammad Ali, the greatest boxer of the century. Discover the neur
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4

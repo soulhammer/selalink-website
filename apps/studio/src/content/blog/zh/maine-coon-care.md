@@ -5,7 +5,6 @@ description: "外表像狮子般威风的温顺巨猫缅因猫。由于体重大
 pubDate: "2026-04-20"
 updatedDate: "2026-04-20"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","缅因猫 (Felis catus / Maine Coon)"]
 heroImage: "/images/blog/maine_coon_care.webp"
 app: "petself"
 formatVersion: 4

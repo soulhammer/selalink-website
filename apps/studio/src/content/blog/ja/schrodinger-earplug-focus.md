@@ -5,7 +5,6 @@ description: "物理学の巨匠エルヴィン・シュレーディンガーの
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4

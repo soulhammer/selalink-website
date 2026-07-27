@@ -5,7 +5,6 @@ description: "避雷針を発明しアメリカの建国を率いたベンジャ
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4

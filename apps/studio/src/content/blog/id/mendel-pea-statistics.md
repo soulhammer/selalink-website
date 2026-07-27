@@ -5,7 +5,6 @@ description: "Pelajari kisah Gregor Mendel, pelopor hebat genetika. Temukan kete
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

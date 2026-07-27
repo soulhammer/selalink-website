@@ -5,7 +5,6 @@ description: "Cara merawat kadal Bearded Dragon yang jinak. Pahami arti gerakan 
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Bearded Dragon (Pogona vitticeps)"]
 heroImage: "/images/blog/bearded_dragon_care.webp"
 app: "petself"
 formatVersion: 4

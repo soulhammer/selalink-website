@@ -5,7 +5,6 @@ description: "천재 건축가 안토니 가우디. 매일 4km씩 바르셀로�
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["위인 습관", "안토니 가우디", "창의성", "산책", "영감"]
 heroImage: "/images/blog/gaudi_nature_walk.webp"
 app: "buildself"
 formatVersion: 4

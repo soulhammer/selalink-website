@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den intelligenten Mönchsittich (Quaker Parro
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Mönchsittich / Quaker Parrot (Myiopsitta monachus)"]
 heroImage: "/images/blog/quaker_parrot_care.webp"
 app: "petself"
 formatVersion: 4

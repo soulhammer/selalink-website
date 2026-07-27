@@ -5,7 +5,6 @@ description: "胴長短足のダックスフントのケア。背骨への負担
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ダックスフント (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

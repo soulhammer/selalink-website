@@ -5,7 +5,6 @@ description: "遗传学的伟大开拓者格雷戈尔·孟德尔。探索他在�
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

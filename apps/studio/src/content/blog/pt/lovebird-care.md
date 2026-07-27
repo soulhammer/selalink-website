@@ -5,7 +5,6 @@ description: "Guia de cuidados para o afetuoso Agapornis (Lovebird). Evite gases
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Agapornis / Inseparável (Lovebird / Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

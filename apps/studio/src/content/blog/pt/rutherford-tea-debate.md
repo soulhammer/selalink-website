@@ -5,7 +5,6 @@ description: "Ernest Rutherford, o pai da física nuclear. Descubra como suas co
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rutherford_tea_debate.webp"
 app: "buildself"
 formatVersion: 4

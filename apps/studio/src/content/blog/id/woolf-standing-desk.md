@@ -5,7 +5,6 @@ description: "Raksasa sastra abad ke-20 Virginia Woolf. Pelajari ilmu fokus yang
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

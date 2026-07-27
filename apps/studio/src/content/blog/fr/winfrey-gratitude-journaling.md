@@ -5,7 +5,6 @@ description: "Oprah Winfrey, l'une des femmes les plus influentes au monde. Déc
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4

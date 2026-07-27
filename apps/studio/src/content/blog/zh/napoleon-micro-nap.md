@@ -5,7 +5,6 @@ description: "介绍拿破仑皇帝在繁重政务中通过15分钟午睡快速�
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/napoleon_micro_nap.webp"
 app: "buildself"
 formatVersion: 4

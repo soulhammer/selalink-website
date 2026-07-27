@@ -5,7 +5,6 @@ description: "Discover how Scottish philosopher David Hume combated intellectual
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4

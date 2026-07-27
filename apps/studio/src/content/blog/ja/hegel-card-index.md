@@ -5,7 +5,6 @@ description: "ドイツ観念論を完成させたヘーゲルの哲学の背後
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4

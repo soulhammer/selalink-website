@@ -5,7 +5,6 @@ description: "Descubra a rotina de meditação às 4 da manhã de John Milton, q
 pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

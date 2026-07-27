@@ -5,7 +5,6 @@ description: "威猛忠诚的大型护卫犬罗威纳犬（Rottweiler）。解�
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","罗威纳犬 (Rottweiler)"]
 heroImage: "/images/blog/rottweiler_care.webp"
 app: "petself"
 formatVersion: 4

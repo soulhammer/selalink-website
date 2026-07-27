@@ -5,7 +5,6 @@ description: "Guide de soins pour le doux Scottish Straight. Décryptez la postu
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Scottish Straight (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

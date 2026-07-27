@@ -5,7 +5,6 @@ description: "근대 추리 소설의 시조 에드거 앨런 포는 좁은 종�
 pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
-tags: ["원고를 두루마리로 ","Routine"]
 heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4

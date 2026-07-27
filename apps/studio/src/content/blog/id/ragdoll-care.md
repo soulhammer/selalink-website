@@ -5,7 +5,6 @@ description: "Ragdoll, kucing raksasa berbulu halus yang terkulai seperti boneka
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Ragdoll (Felis catus)"]
 heroImage: "/images/blog/ragdoll_care.webp"
 app: "petself"
 formatVersion: 4

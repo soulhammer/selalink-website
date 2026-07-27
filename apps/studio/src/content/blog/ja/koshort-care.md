@@ -5,7 +5,6 @@ description: "強靭な狩猟本能を持つコリアンショートヘア。特
 pubDate: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","コリアンショートヘア (Felis catus)"]
 heroImage: "/images/blog/koshort_care.webp"
 app: "petself"
 formatVersion: 4

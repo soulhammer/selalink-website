@@ -5,7 +5,6 @@ description: "探索《美国独立宣言》主要起草人托马斯·杰斐逊6
 pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4

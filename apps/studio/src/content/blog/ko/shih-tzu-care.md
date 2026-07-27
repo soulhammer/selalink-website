@@ -5,7 +5,6 @@ description: "사랑스러운 명품 견종 시츄(Shih Tzu). 역재채기 및 �
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","시츄 (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

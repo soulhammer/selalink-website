@@ -5,7 +5,6 @@ description: "Ludwig Wittgenstein enjoyed Western movies in the front row of cin
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

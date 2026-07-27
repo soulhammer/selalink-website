@@ -5,7 +5,6 @@ description: "Linus Torvalds, creator of Linux and Git. Explores how he achieved
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

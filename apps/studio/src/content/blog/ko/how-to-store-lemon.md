@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 레몬의 최적 보관
 pubDate: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","lemon"]
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

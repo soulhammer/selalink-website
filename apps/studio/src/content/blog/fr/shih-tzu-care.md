@@ -5,7 +5,6 @@ description: "Guide de soins pour le Shih Tzu. Décryptez l'éternuement invers�
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Shih Tzu (Shih Tzu)"]
 heroImage: "/images/blog/shih_tzu_care.webp"
 app: "petself"
 formatVersion: 4

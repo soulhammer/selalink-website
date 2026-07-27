@@ -5,7 +5,6 @@ description: "Descubra como o presidente Roosevelt aliviava a tensão mental cla
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "可爱小型观赏鸟文鸟（Java Sparrow）护理指南。解读
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","文鸟 / 禾雀 (Java Sparrow)"]
 heroImage: "/images/blog/java_sparrow_care.webp"
 app: "petself"
 formatVersion: 4

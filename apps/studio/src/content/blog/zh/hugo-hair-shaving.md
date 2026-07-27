@@ -5,7 +5,6 @@ description: "探索维克多·雨果如何在极陡峭的交稿期限前剃去�
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

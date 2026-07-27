@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 시금치의 최적 보
 pubDate: "2026-02-18"
 updatedDate: "2026-02-18"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","spinach"]
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

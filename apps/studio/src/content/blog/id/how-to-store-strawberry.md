@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk stroberi berda
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","strawberry"]
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

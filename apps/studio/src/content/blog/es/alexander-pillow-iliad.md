@@ -5,7 +5,6 @@ description: "Alejandro Magno nunca perdió el valor en el campo de batalla, gua
 pubDate: "2026-01-23"
 updatedDate: "2026-01-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/alexander_pillow_iliad.webp"
 app: "buildself"
 formatVersion: 4

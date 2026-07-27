@@ -5,7 +5,6 @@ description: "19세기 프랑스 사실주의 문학의 거장 오노레 드 발
 pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
 heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4

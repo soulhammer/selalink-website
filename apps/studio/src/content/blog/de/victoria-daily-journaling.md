@@ -5,7 +5,6 @@ description: "Erkunden Sie die Reflexionsgewohnheit von Königin Victoria, die d
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/victoria_daily_journaling.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Care guide for the adorable Scottish Straight. Interpret sprawled 
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Scottish Straight (Scottish Straight)"]
 heroImage: "/images/blog/scottish_straight_care.webp"
 app: "petself"
 formatVersion: 4

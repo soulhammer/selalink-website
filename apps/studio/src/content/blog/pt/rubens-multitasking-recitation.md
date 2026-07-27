@@ -5,7 +5,6 @@ description: "O mestre barroco Peter Paul Rubens estudava história e literatura
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4

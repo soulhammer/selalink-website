@@ -5,7 +5,6 @@ description: "Guide de soins pour le majestueux Iguane Vert (Green Iguana). Déc
 pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Iguane Vert (Green Iguana / Iguana iguana)"]
 heroImage: "/images/blog/green_iguana_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "서유럽의 개척자 샤를마뉴 대제가 글쓰기를 배우�
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
 heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4

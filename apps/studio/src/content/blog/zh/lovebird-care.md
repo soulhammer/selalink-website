@@ -5,7 +5,6 @@ description: "可爱小型鹦鹉情侣鹦鹉（Lovebird/牡丹鹦鹉）护理指
 pubDate: "2026-05-05"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","情侣鹦鹉 / 牡丹鹦鹉 (Lovebird / Agapornis)"]
 heroImage: "/images/blog/lovebird_care.webp"
 app: "petself"
 formatVersion: 4

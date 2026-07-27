@@ -5,7 +5,6 @@ description: "探索罗马皇帝马可·奥勒留如何在日出前撰写日记�
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "卡尔·马克思用经济学精细解剖社会的隐藏运行机�
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4

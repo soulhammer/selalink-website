@@ -5,7 +5,6 @@ description: "Pelajari bagaimana fisikawan peraih Nobel Enrico Fermi, pencipta r
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4

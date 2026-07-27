@@ -5,7 +5,6 @@ description: "풍성한 삼중모를 지닌 대형묘 사이베리안 고양이(
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","사이베리안 고양이 (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

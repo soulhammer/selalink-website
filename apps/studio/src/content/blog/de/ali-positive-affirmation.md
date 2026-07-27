@@ -5,7 +5,6 @@ description: "Muhammad Ali, der größte Boxer des Jahrhunderts. Entdecken Sie d
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4

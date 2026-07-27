@@ -5,7 +5,6 @@ description: "Ketahui suhu, metode, dan masa simpan terbaik untuk roti tawar ber
 pubDate: "2026-05-19"
 updatedDate: "2026-05-19"
 category: "FreshSnap"
-tags: ["PenyimpananMakanan","PenyimpananSegar","bread"]
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

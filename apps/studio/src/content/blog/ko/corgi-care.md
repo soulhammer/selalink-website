@@ -5,7 +5,6 @@ description: "귀여운 뒤태와 짧은 다리가 매력적인 웰시코기. �
 pubDate: "2026-04-12"
 updatedDate: "2026-04-14"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","웰시코기 (Canis lupus familiaris)"]
 heroImage: "/images/blog/corgi_care.webp"
 app: "petself"
 formatVersion: 4

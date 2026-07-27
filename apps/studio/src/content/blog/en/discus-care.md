@@ -5,7 +5,6 @@ description: "Care guide for the King of Aquariums, the Discus Fish. Interpret b
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Discus Fish (Symphysodon)"]
 heroImage: "/images/blog/discus_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Pflege für die kurzbeinige Munchkin-Katze. Lernen Sie, Anzeichen 
 pubDate: "2026-05-31"
 updatedDate: "2026-05-31"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Munchkin-Katze (Felis catus)"]
 heroImage: "/images/blog/munchkin_care.webp"
 app: "petself"
 formatVersion: 4

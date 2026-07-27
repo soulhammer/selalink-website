@@ -5,7 +5,6 @@ description: "探索计算机科学泰斗高德纳（Donald Knuth）如何自199
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Os British Shorthairs são amados por seu porte robusto. Descubra 
 pubDate: "2026-03-08"
 updatedDate: "2026-03-09"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","British Shorthair (British Shorthair)"]
 heroImage: "/images/blog/bshorthair_care.webp"
 app: "petself"
 formatVersion: 4

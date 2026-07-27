@@ -5,7 +5,6 @@ description: "绚丽热带鱼霓虹灯鱼（Neon Tetra）护理指南。解读�
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","霓虹灯鱼 / 红绿灯鱼 (Neon Tetra / Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

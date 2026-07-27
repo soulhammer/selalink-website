@@ -5,7 +5,6 @@ description: "Pflegeanleitung für den eleganten Skalar (Angelfish). Maulfassen 
 pubDate: "2026-06-18"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Skalar / Segelflosser (Pterophyllum scalare)"]
 heroImage: "/images/blog/angelfish_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Descubra os fatos históricos do pai dos computadores do século X
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4

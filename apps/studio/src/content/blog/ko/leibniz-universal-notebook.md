@@ -5,7 +5,6 @@ description: "미적분을 발견한 천재 학자이자, 모든 지식과 영�
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["기록", "창의성", "사색"]
 heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4

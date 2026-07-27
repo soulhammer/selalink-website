@@ -5,7 +5,6 @@ description: "Explore how Egyptian Queen Cleopatra fluently spoke at least nine 
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4

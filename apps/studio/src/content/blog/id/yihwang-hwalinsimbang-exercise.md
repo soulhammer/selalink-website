@@ -5,7 +5,6 @@ description: "Toegye Yi Hwang bertubuh lemah sepanjang hidupnya, namun terus men
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4

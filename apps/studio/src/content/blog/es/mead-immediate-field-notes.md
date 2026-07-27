@@ -5,7 +5,6 @@ description: "La antropóloga Margaret Mead anotaba inmediatamente las observaci
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4

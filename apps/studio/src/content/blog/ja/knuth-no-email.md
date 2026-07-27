@@ -5,7 +5,6 @@ description: "コンピュータサイエンスの巨作を完成させるため
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4

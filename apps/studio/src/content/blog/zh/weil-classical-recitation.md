@@ -5,7 +5,6 @@ description: "探索法国哲学家西蒙娜·韦伊为锻造专注力而坚持�
 pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/weil_classical_recitation.webp"
 app: "buildself"
 formatVersion: 4

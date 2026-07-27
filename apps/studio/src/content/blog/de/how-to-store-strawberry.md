@@ -5,7 +5,6 @@ description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "FreshSnap"
-tags: ["Lebensmittellagerung","Frischelagerung","strawberry"]
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

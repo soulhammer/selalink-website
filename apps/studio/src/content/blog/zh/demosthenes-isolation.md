@@ -5,7 +5,6 @@ description: "探索克服先天生理缺陷、跃升为古希腊顶尖演说家
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

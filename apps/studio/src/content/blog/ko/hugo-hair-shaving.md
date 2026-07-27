@@ -5,7 +5,6 @@ description: "빅토르 위고는 마감을 지키기 위해 머리와 수염 �
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Care guide for the cheerful Zebra Finch. Interpret tail wagging an
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Zebra Finch (Taeniopygia guttata)"]
 heroImage: "/images/blog/zebra_finch_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Paul McCartney, who salvaged The Beatles' classic 'Yesterday' from
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4

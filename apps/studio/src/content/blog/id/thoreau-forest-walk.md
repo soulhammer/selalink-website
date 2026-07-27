@@ -5,7 +5,6 @@ description: "Memperkenalkan rutinitas berjalan kaki 4 jam sehari Henry David Th
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "La fórmula de éxito de Henri Poincaré de limitar el trabajo con
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4

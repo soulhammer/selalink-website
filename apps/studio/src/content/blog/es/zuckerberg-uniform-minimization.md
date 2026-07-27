@@ -5,7 +5,6 @@ description: "Mark Zuckerberg redujo la fatiga de decisión vistiendo la misma c
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4

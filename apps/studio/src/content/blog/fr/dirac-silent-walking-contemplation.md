@@ -5,7 +5,6 @@ description: "Découvrez comment le pionnier de la mécanique quantique et prix 
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4

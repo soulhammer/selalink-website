@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 아보카도의 최적 
 pubDate: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","avocado"]
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

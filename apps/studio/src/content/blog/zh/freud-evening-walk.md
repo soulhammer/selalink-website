@@ -5,7 +5,6 @@ description: "探索精神分析学创始人西格蒙德·弗洛伊德如何在�
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

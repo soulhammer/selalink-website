@@ -5,7 +5,6 @@ description: "Samojeden neigen zu Hüftdysplasie und Hautinfektionen unter ihrem
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Samojede (Canis lupus familiaris / Samoyed)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

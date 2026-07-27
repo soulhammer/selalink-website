@@ -5,7 +5,6 @@ description: "Detrás de su faceta pública como símbolo sexual, Marilyn Monroe
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/monroe_night_reading.webp"
 app: "buildself"
 formatVersion: 4

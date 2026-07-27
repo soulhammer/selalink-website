@@ -5,7 +5,6 @@ description: "Famous for their white powder-puff look, Bichons are highly friend
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Bichon Frise"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

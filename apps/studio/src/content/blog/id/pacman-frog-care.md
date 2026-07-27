@@ -5,7 +5,6 @@ description: "Panduan perawatan anjing amfibi ikonis Katak Pacman (Ceratophrys).
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Katak Pacman / Pacman Frog (Ceratophrys)"]
 heroImage: "/images/blog/pacman_frog_care.webp"
 app: "petself"
 formatVersion: 4

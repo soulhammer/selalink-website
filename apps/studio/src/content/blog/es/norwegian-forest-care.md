@@ -5,7 +5,6 @@ description: "Cuidados del imponente gato Bosque de Noruega. Conozca cómo satis
 pubDate: "2026-04-08"
 updatedDate: "2026-04-08"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Gato Bosque de Noruega (Felis catus / Norwegian Forest Cat)"]
 heroImage: "/images/blog/norwegian_forest_care.webp"
 app: "petself"
 formatVersion: 4

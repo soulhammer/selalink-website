@@ -5,7 +5,6 @@ description: "遺伝学の偉大な開拓者グレゴール・メンデル。修
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

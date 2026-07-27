@@ -5,7 +5,6 @@ description: "丸い体が愛らしい観賞魚の王様、ランチュウ（Ran
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ランチュウ / 蘭鋳 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4

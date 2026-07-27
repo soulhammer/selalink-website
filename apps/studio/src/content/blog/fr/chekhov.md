@@ -5,7 +5,6 @@ description: "Découvrez comment Anton Tchekhov, maître de la nouvelle moderne,
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

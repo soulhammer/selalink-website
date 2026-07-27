@@ -5,7 +5,6 @@ description: "Panduan perawatan ikan Guppy yang berwarna-warni. Pahami sirip men
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Guppy"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

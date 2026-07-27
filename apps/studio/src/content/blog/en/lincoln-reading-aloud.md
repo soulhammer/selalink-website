@@ -5,7 +5,6 @@ description: "Discover how 16th US President Abraham Lincoln maximized memory an
 pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4

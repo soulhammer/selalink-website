@@ -5,7 +5,6 @@ description: "Cuidado del juguetón hurón de Marshall. Aprenda a responder a su
 pubDate: "2026-05-06"
 updatedDate: "2026-05-06"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Hurón de Marshall (Mustela putorius furo / Marshall Ferret)"]
 heroImage: "/images/blog/marshall_ferret_care.webp"
 app: "petself"
 formatVersion: 4

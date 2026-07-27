@@ -5,7 +5,6 @@ description: "美国短毛猫身体强健，但极易发生肥胖并具有肥大
 pubDate: "2026-03-02"
 updatedDate: "2026-03-02"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","美国短毛猫 (American Shorthair)"]
 heroImage: "/images/blog/american_shorthair_care.webp"
 app: "petself"
 formatVersion: 4

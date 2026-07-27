@@ -5,7 +5,6 @@ description: "介绍在双目失明的情况下仍创作出史诗巨作的约翰
 pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "매력적인 웅장한 수염의 미니어처 슈나우저(Miniatu
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","미니어처 슈나우저 (Miniature Schnauzer)"]
 heroImage: "/images/blog/miniature_schnauzer_care.webp"
 app: "petself"
 formatVersion: 4

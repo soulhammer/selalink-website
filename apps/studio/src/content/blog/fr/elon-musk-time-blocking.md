@@ -5,7 +5,6 @@ description: "Découvrez comment Elon Musk gère des semaines de 80 à 100 heure
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/elon_musk_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

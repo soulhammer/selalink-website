@@ -5,7 +5,6 @@ description: "探索美国文学巨匠马克·吐温独特的写作习惯——�
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4

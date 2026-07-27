@@ -5,7 +5,6 @@ description: "Raja Lagu yang meninggalkan lebih dari 600 lagu dalam 31 tahun usi
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

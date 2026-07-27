@@ -5,7 +5,6 @@ description: "Explore the writing routine of Antoine de Saint-Exupéry, author o
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

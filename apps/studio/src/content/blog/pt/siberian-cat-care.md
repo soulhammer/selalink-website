@@ -5,7 +5,6 @@ description: "Guia de cuidados para o majestoso Gato Siberiano de pelagem tripla
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["CuidadoPets","SaudePets","Gato Siberiano (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

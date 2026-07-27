@@ -5,7 +5,6 @@ description: "先天的身体的限界を克服し古代ギリシャ最高の雄
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

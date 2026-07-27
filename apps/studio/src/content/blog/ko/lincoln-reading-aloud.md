@@ -5,7 +5,6 @@ description: "눈과 귀를 동시에 사용하여 기억력을 극대화한 에
 pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
 heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Por trás da consolidação do Idealismo Alemão por G. W. F. Hege
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "揭示医师兼作家阿瑟·柯南·道尔为何坚持在写作�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4

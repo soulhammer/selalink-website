@@ -5,7 +5,6 @@ description: "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 �
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
 heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4

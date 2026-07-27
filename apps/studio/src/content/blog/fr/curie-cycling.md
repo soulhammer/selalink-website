@@ -5,7 +5,6 @@ description: "Découvrez comment Marie Curie, première femme à recevoir le pri
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

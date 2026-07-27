@@ -5,7 +5,6 @@ description: "诺贝尔奖创办人阿尔弗雷德·诺贝尔。探讨他每晚�
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

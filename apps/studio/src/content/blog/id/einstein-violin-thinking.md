@@ -5,7 +5,6 @@ description: "Pelajari bagaimana Albert Einstein, yang merevolusi fisika, memain
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4

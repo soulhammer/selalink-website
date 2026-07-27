@@ -5,7 +5,6 @@ description: "Essenzielle Pflege für das Abessinier-Meerschweinchen mit Wirbeln
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Abessinier-Meerschweinchen"]
 heroImage: "/images/blog/abyssinian_guinea_pig_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "夜行性で単独生活を好むゴールデンハムスター。
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)"]
 heroImage: "/images/blog/golden_hamster_care.webp"
 app: "petself"
 formatVersion: 4

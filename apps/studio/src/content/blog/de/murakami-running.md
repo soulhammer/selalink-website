@@ -5,7 +5,6 @@ description: "Der weltweite Bestsellerautor Haruki Murakami. Entdecken Sie die n
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

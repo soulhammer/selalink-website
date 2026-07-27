@@ -5,7 +5,6 @@ description: "美しい鳴き声で愛されるカナリア。歌をやめる行
 pubDate: "2026-01-15"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["ペットケア","ペット健康","カナリア (Canary / Serinus canaria domestica)"]
 heroImage: "/images/blog/canary_care.webp"
 app: "petself"
 formatVersion: 4

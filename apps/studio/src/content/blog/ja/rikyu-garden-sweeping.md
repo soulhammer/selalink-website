@@ -5,7 +5,6 @@ description: "茶道の巨匠・千利休が庭を掃きながら心を磨いた
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

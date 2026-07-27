@@ -5,7 +5,6 @@ description: "Descubra como Werner Heisenberg resolveu dilemas da mecânica quâ
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4

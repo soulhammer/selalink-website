@@ -5,7 +5,6 @@ description: "近代哲学の父であり数学者のルネ・デカルテが毎
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4

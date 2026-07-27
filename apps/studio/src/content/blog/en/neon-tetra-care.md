@@ -5,7 +5,6 @@ description: "Care guide for the vibrant Neon Tetra. Interpret color fading and 
 pubDate: "2026-02-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Neon Tetra (Paracheirodon innesi)"]
 heroImage: "/images/blog/neon_tetra_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "17세기 영국의 의사 윌리엄 하비가 심장 박동량의 
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["수치", "검증", "순환", "의학"]
 heroImage: "/images/blog/harvey_blood_circulation.webp"
 app: "buildself"
 formatVersion: 4

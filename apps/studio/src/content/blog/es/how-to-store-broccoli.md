@@ -5,7 +5,6 @@ description: "Descubra la temperatura, el método y la duración de conservació
 pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "FreshSnap"
-tags: ["ConservacionAlimentos","AlmacenamientoFresco","broccoli"]
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

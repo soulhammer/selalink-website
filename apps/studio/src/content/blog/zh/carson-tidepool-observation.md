@@ -5,7 +5,6 @@ description: "探索现代环保运动先驱蕾切尔·卡森在面对化工巨�
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4

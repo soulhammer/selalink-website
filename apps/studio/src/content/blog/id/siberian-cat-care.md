@@ -5,7 +5,6 @@ description: "Panduan perawatan kucing anggun Siberian Cat yang memiliki lapisan
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Kucing Siberian (Siberian Cat)"]
 heroImage: "/images/blog/siberian_cat_care.webp"
 app: "petself"
 formatVersion: 4

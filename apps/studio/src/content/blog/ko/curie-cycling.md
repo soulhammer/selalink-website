@@ -5,7 +5,6 @@ description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수�
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

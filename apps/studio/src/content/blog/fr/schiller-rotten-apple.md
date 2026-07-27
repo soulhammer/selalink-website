@@ -5,7 +5,6 @@ description: "Le géant de la littérature allemande Friedrich Schiller s'immerg
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4

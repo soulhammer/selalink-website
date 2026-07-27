@@ -5,7 +5,6 @@ description: "Prendre soin du Teckel au corps long et pattes courtes. Apprenez Ã
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Teckel / Dachshund (Canis lupus familiaris)"]
 heroImage: "/images/blog/dachshund_care.webp"
 app: "petself"
 formatVersion: 4

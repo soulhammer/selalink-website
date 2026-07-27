@@ -5,7 +5,6 @@ description: "D√©couvrez l'histoire de Gregor Mendel, le grand pionnier de la g√
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

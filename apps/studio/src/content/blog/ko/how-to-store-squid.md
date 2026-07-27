@@ -5,7 +5,6 @@ description: "공인된 안전 가이드라인에 따른 오징어의 최적 보
 pubDate: "2026-05-08"
 updatedDate: "2026-05-08"
 category: "FreshSnap"
-tags: ["식재료보관","신선보관","squid"]
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

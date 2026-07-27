@@ -5,7 +5,6 @@ description: "Dmitri Mendeleïev a conçu le Tableau périodique en organisant d
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4

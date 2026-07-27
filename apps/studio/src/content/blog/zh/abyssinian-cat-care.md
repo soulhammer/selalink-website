@@ -5,7 +5,6 @@ description: "灵动优雅的阿比西尼亚猫（Abyssinian）护理指南。�
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","阿比西尼亚猫 (Abyssinian)"]
 heroImage: "/images/blog/abyssinian_cat_care.webp"
 app: "petself"
 formatVersion: 4

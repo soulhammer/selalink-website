@@ -5,7 +5,6 @@ description: "护理世界上最小的兔子品种——荷兰侏儒兔。了解
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","荷兰侏儒兔 (Oryctolagus cuniculus)"]
 heroImage: "/images/blog/dwarf_rabbit_care.webp"
 app: "petself"
 formatVersion: 4

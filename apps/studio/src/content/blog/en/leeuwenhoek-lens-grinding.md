@@ -5,7 +5,6 @@ description: "Discover how Antonie van Leeuwenhoek, the Father of Microbiology, 
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

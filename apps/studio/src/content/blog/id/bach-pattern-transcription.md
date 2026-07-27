@@ -5,7 +5,6 @@ description: "Johann Sebastian Bach menginternalisasi aturan matematika sepanjan
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4

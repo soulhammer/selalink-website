@@ -5,7 +5,6 @@ description: "양자역학의 난제를 풀기 위해 바이에른 알프스를 
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["사색", "이완", "창의성"]
 heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4

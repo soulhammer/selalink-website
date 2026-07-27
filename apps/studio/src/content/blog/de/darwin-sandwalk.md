@@ -5,7 +5,6 @@ description: "Erkunden Sie, wie der Naturforscher Charles Darwin auf seinem Kies
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

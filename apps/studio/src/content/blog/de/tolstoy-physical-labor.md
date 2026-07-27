@@ -5,7 +5,6 @@ description: "Woher nahm der literarische Gigant Leo Tolstoi die Energie für mo
 pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Max Planck erfrischte seinen Geist nach Physikstudien durch freie 
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4

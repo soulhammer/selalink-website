@@ -5,7 +5,6 @@ description: "Siberian Husky, anjing penarik kereta salju yang tangguh. Pelajari
 pubDate: "2026-03-29"
 updatedDate: "2026-03-30"
 category: "FreshSelf"
-tags: ["PerawatanHewan","KesehatanHewan","Siberian Husky (Canis lupus familiaris)"]
 heroImage: "/images/blog/husky_care.webp"
 app: "petself"
 formatVersion: 4

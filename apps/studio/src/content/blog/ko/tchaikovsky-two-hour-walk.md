@@ -5,7 +5,6 @@ description: "러시아의 위대한 작곡가 표트르 일리치 차이콥스�
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: ["위인 습관", "차이코프스키", "걷기", "사색", "산책"]
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4

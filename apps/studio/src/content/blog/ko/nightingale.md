@@ -5,7 +5,6 @@ description: "현대 간호학의 설립자이자 선구적인 통계학자로, 
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: ["위인 습관", "플로렌스 나이팅게일", "기록", "계획"]
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

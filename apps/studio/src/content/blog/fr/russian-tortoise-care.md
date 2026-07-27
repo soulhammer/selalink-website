@@ -5,7 +5,6 @@ description: "Guide de soins pour l'active Tortue Russe (Tortue de Horsfield). D
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Tortue Russe / Tortue de Horsfield (Agrionemys horsfieldii / Testudo horsfieldii)"]
 heroImage: "/images/blog/russian_tortoise_care.webp"
 app: "petself"
 formatVersion: 4

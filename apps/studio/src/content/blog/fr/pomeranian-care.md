@@ -5,7 +5,6 @@ description: "Le Loulou de Poméranie est sujet à la luxation de la rotule et a
 pubDate: "2026-01-05"
 updatedDate: "2026-01-05"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Loulou de Poméranie (Canis lupus familiaris / Pomeranian)"]
 heroImage: "/images/blog/pomeranian_care.webp"
 app: "petself"
 formatVersion: 4

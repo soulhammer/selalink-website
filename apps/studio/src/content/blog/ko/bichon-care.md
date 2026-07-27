@@ -5,7 +5,6 @@ description: "하이바 헬멧 머리로 유명한 친근한 비숑 프리제. �
 pubDate: "2026-05-10"
 updatedDate: "2026-05-10"
 category: "FreshSelf"
-tags: ["반려동물","펫케어","비숑 프리제 (Bichon Frise)"]
 heroImage: "/images/blog/bichon_care.webp"
 app: "petself"
 formatVersion: 4

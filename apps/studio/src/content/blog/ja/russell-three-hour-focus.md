@@ -5,7 +5,6 @@ description: "ノーベル文学賞受賞の哲学社バートランド・ラッ
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索“钢铁大王”安德鲁·卡内基在前额叶资源最�
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4

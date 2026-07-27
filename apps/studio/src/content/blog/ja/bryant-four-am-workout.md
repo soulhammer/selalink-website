@@ -5,7 +5,6 @@ description: "毎日午前4時に最初の訓練を行ったバスケットボ�
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4

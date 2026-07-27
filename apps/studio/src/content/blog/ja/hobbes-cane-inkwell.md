@@ -5,7 +5,6 @@ description: "思想家トマス・ホッブズは散歩中に浮かんだアイ
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

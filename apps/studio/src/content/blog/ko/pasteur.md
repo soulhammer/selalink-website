@@ -5,7 +5,6 @@ description: "백신 개발과 저온 살균법의 아버지가 된 프랑스의
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: ["위인 습관", "루이 파스퇴르", "단순화", "분석"]
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

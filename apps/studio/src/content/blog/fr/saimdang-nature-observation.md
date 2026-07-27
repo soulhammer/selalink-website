@@ -5,7 +5,6 @@ description: "La méthode d'entraînement à la créativité de Shin Saimdang, a
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

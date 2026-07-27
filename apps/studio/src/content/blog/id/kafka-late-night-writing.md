@@ -5,7 +5,6 @@ description: "Pelajari bagaimana raksasa sastra abad ke-20 Franz Kafka merangkai
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4

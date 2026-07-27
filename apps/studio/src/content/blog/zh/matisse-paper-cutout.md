@@ -5,7 +5,6 @@ description: "艺术史巨匠亨利·马蒂斯。解析他在晚年经历重大�
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "探索浪漫派音乐巨匠弗雷德里克·萧邦在琴键前将�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/chopin_piano_refinement.webp"
 app: "buildself"
 formatVersion: 4

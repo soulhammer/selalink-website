@@ -5,7 +5,6 @@ description: "公的安全基準に基づく鶏肉の最適な保存温度、保
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","chicken"]
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Découvrez comment Ray Bradbury, le père de la science-fiction mo
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

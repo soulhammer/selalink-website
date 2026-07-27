@@ -5,7 +5,6 @@ description: "物理学の研究後、ピアノの鍵盤を自由に叩いて即
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/planck_piano_refresh.webp"
 app: "buildself"
 formatVersion: 4

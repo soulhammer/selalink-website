@@ -5,7 +5,6 @@ description: "独立運動家、島山・安昌浩が強調した「笑顔」と
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/anchangho_mirror_smile.webp"
 app: "buildself"
 formatVersion: 4

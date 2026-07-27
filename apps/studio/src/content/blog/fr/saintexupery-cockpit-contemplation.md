@@ -5,7 +5,6 @@ description: "Découvrez l'habitude d'écriture d'Antoine de Saint-Exupéry, aut
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "绚丽观赏虾樱花虾（Cherry Shrimp / 新米虾）护理指�
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","樱花虾 / 玫瑰虾 / 新米虾 (Cherry Shrimp / Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

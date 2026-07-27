@@ -5,7 +5,6 @@ description: "Raksasa sastra Jerman Friedrich Schiller mendalami penciptaan kary
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4

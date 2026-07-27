@@ -5,7 +5,6 @@ description: "掌舵全球最大IT企业苹果（Apple）的掌门人蒂姆·库
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

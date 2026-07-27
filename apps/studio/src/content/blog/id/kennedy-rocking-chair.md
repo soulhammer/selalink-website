@@ -5,7 +5,6 @@ description: "Pelajari bagaimana John F. Kennedy memimpin AS selama krisis Peran
 pubDate: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/kennedy_rocking_chair.webp"
 app: "buildself"
 formatVersion: 4

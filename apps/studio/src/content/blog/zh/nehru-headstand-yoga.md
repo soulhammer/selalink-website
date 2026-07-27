@@ -5,7 +5,6 @@ description: "印度首任总理贾瓦哈拉尔·尼赫鲁。揭示他在长达9
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4

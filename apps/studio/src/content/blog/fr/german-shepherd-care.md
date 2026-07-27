@@ -5,7 +5,6 @@ description: "Guide de soins pour le loyal Berger Allemand. Décryptez son langa
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "FreshSelf"
-tags: ["SoinAnimaux","SanteAnimaux","Berger Allemand (German Shepherd Dog)"]
 heroImage: "/images/blog/german_shepherd_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "Oprah Winfrey, uma das líderes mais influentes do mundo. Descubra
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4

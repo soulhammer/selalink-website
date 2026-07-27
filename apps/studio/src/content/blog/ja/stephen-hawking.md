@@ -5,7 +5,6 @@ description: "筋萎縮性側索硬化症（ALS）を克服した世界的な理
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

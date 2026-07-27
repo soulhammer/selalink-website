@@ -5,7 +5,6 @@ description: "Los Samoyedos son perros de trineo propensos a displasia de cadera
 pubDate: "2026-02-03"
 updatedDate: "2026-02-03"
 category: "FreshSelf"
-tags: ["CuidadoMascotas","SaludMascotas","Samoyedo (Canis lupus familiaris / Samoyed)"]
 heroImage: "/images/blog/samoyed_care.webp"
 app: "petself"
 formatVersion: 4

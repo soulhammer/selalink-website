@@ -5,7 +5,6 @@ description: "Der beliebte Malteser. Entdecken Sie Tipps zur Vorbeugung von Pate
 pubDate: "2026-01-20"
 updatedDate: "2026-01-22"
 category: "FreshSelf"
-tags: ["Haustierpflege","Haustiergesundheit","Malteser (Canis lupus familiaris / Maltese)"]
 heroImage: "/images/blog/maltese_care.webp"
 app: "petself"
 formatVersion: 4

@@ -5,7 +5,6 @@ description: "绚丽热带鱼孔雀鱼（Guppy）护理指南。解读夹鳍与�
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","孔雀鱼 (Guppy)"]
 heroImage: "/images/blog/guppy_care.webp"
 app: "petself"
 formatVersion: 4

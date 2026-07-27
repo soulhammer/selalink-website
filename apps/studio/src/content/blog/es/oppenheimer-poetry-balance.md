@@ -5,7 +5,6 @@ description: "J. Robert Oppenheimer, director del Proyecto Manhattan. Descubra c
 pubDate: "2026-03-08"
 updatedDate: "2026-03-08"
 category: "BuildSelf"
-tags: []
 heroImage: "/images/blog/oppenheimer_poetry_balance.webp"
 app: "buildself"
 formatVersion: 4

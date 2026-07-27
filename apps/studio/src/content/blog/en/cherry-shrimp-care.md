@@ -5,7 +5,6 @@ description: "Care guide for the vibrant Cherry Shrimp (Neocaridina davidi). Int
 pubDate: "2026-07-26"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
-tags: ["PetCare","PetHealth","Cherry Shrimp / Neocaridina (Neocaridina davidi)"]
 heroImage: "/images/blog/cherry_shrimp_care.webp"
 app: "petself"
 formatVersion: 4

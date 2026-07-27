@@ -5,7 +5,6 @@ description: "公的安全基準に基づく卵の最適な保存温度、保管
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "FreshSnap"
-tags: ["食材保存","鮮度保持","egg"]
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4

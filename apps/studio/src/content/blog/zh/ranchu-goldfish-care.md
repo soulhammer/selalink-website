@@ -5,7 +5,6 @@ description: "体型圆润的观赏金鱼之王兰寿金鱼（Ranchu Goldfish）
 pubDate: "2026-06-15"
 updatedDate: "2026-06-15"
 category: "FreshSelf"
-tags: ["宠物护理","宠物健康","兰寿金鱼 (Ranchu Goldfish / Carassius auratus)"]
 heroImage: "/images/blog/ranchu_goldfish_care.webp"
 app: "petself"
 formatVersion: 4
