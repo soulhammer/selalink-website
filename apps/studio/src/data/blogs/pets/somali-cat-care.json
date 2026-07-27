@@ -1,0 +1,459 @@
+{
+    "somali-cat-care": {
+        "pubDate": "2026-07-25",
+        "updatedDate": "2026-07-25",
+        "locales": {
+            "ko": {
+                "title": "소말리 고양이의 활력 신호 해석과 유전성 피루베이트 키나아제 결핍증(PKDef)·모볼 엉킴 예방을 위한 3단계 데일리 케어",
+                "description": "여우를 닮은 장모종 소말리 고양이(Somali Cat). PKDef(피루베이트 키나아제 결핍증) 빈혈 신호, 고활성 바디 랭귀지 해독, 촘촘한 세미 장모 모질 및 치아 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standard & Cornell Feline Health Center Research",
+                "profile": {
+                    "breed": "소말리 고양이 (Somali Cat)",
+                    "lifespan": "11 ~ 16년",
+                    "sleep_pattern": "12 ~ 14시간 (높은 캣타워나 창가 등 집안 전체를 관망할 수 있는 높은 명당 선호)",
+                    "temperament": "장난기 많음, 활발함, 똑똑함, 호기심 많음, 다정함"
+                },
+                "intro": "풍성한 꼬리와 우아한 틱트(Ticked) 코트로 '작은 여우'라는 별명을 가진 소말리 고양이(Somali Cat)는 아비시니안의 장모 유전자에서 탄생한 매우 아름답고 활발한 품종입니다. 호기심이 왕성하고 지능이 높아 '고양이계의 장난꾸러기'라 불릴 만큼 뛰어난 인지 능력과 운동 신경을 자랑합니다. 그러나 호기심 많은 성격 뒤에는 적혈구가 파괴되어 심각한 빈혈을 유발하는 유전 질환인 '피루베이트 키나아제 결핍증(PKDef)'과 진행성 망막 위축증(PRA)의 위험이 잠재되어 있습니다. 또한 털이 매우 부드럽고 촘촘한 세미 장모(Semi-longhair) 모질을 가지고 있어 관리가 소홀하면 헤어볼 구토와 털 엉킴이 쉽게 발생합니다. 오늘 PetSelf에서는 소말리의 활력 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.",
+                "whyTitle": "소말리 고양이의 바디 랭귀지: PKDef 빈혈 이상 신호와 수직 공간 자극 요구",
+                "whyDesc": "소말리는 활력이 넘치는 품종이므로 활동량 변화를 유심히 관찰해야 합니다. 우수한 운동 신경에도 불구하고 잇몸이 파리해지고 급격히 무기력해지는 **'PKDef 빈혈/빈맥 신호'**는 적혈구 파괴에 따른 긴급 위험 신호입니다. 반면 높은 곳에서 보호자를 내려다보며 꼬리를 크게 부풀리고 좌우로 흔드는 **'수직 호기심 및 사냥 흥분'** 신호는 에너지 해소가 필요한 건강한 바디 랭귀지입니다.",
+                "body_signals": [
+                    {
+                        "name": "잇몸 창백함 및 갑작스러운 무기력증 (PKDef Anemia Warning Signal)",
+                        "meaning": "유전성 피루베이트 키나아제 결핍증(PKDef)으로 인해 적혈구가 파괴되어 심각한 용혈성 빈혈이 발생한 응급 상태입니다.",
+                        "response": "즉시 잇몸과 눈 점막의 색을 확인하고, 활동을 중단시킨 후 24시간 동물병원으로 이송하여 혈액 검사 및 수혈 처치를 받아야 합니다."
+                    },
+                    {
+                        "name": "높은 명당에서 꼬리를 부풀리며 좌우로 흔듦 (Vertical High-Energy Excitement)",
+                        "meaning": "넘치는 에너지와 풍부한 호기심이 사냥 본능 및 높은 수직 공간 욕구와 결합되어 나타나는 흥분 상태입니다.",
+                        "response": "낚싯대나 레이저 토이를 활용해 안전하게 칼로리를 소모시키는 사냥 놀이 시간을 선사하여 욕구를 해소해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 구강 질환 체크와 정량 급식 및 PKDef 유전 검사 확인",
+                        "text": "치주염 발생률이 높은 품종이므로 잇몸 상태를 점검하고, 고단백 사료를 정량 공급하며 PKDef 유전자 변이 여부를 수의사와 확인합니다."
+                    },
+                    {
+                        "name": "낮: 높낮이가 다양한 수직 공간 제공 및 사냥 장난감 모니터링",
+                        "text": "뛰어내리기 좋아하는 특성을 반영하여 안정적인 캣타워와 캣폴을 설치하고, 뇌 자극을 위한 노즈워크 사냥 게임을 제공합니다."
+                    },
+                    {
+                        "name": "저녁: 세미 장모 속털 슬리커 빗질 및 헤어볼 영양 관리",
+                        "text": "실크 같은 세미 장모 코트를 핀 브러시와 슬리커로 매일 빗어주어 털 엉킴을 방지하고 헤어볼 제거 영양제를 정기적으로 급여합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "소말리 고양이에게 치명적인 PKDef(피루베이트 키나아제 결핍증)란 무엇인가요?",
+                        "answer": "적혈구 에너지를 생성하는 피루베이트 키나아제 효소가 부족해 적혈구가 일찍 파괴되는 유전성 용혈성 빈혈 질환입니다. 황달, 무기력, 잇몸 창백함이 나타나며, 부모묘의 유전자 검사를 확인하고 정기적인 혈액 검사로 상태를 관리해야 합니다."
+                    },
+                    {
+                        "question": "소말리 고양이의 높은 활동량과 털 관리는 어떻게 해줘야 하나요?",
+                        "answer": "소말리는 뛰어오르는 것을 매우 좋아하므로 높고 안정적인 캣타워와 수직 이동로가 필수적입니다. 또한 털이 부드러운 세미 장모이므로, 주 3회 이상 핀 브러시로 속털까지 빗어주어야 털 뭉침과 헤어볼 구토를 예방할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Somali Cat Energy & Health Care: A 3-Step Daily Routine for PKDef Anemia Prevention, High-Activity Management, and Semi-Longhair Coat Grooming",
+                "description": "The fox-like Somali Cat. Interpret PKDef anemia warning signs, high-energy body language, and learn a 3-step home care routine for semi-longhair coat and dental care.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standard & Cornell Feline Health Center Research",
+                "profile": {
+                    "breed": "Somali Cat",
+                    "lifespan": "11 - 16 Years",
+                    "sleep_pattern": "12 - 14 Hours (Prefers high cat trees or window perches with a full vantage view)",
+                    "temperament": "Playful, Active, Intelligent, Curious, Affectionate"
+                },
+                "intro": "Renowned for their plume tail and elegant ticked coat, the Somali Cat is a striking, energetic breed originating from the longhair gene of the Abyssinian. Brimming with curiosity and intelligence, they are often dubbed the 'clowns of the cat kingdom' for their agile athleticism and inquisitive nature. However, behind their playful demeanor lies a genetic risk for Pyruvate Kinase Deficiency (PKDef), a hereditary condition causing red blood cell destruction and severe anemia, alongside Progressive Retinal Atrophy (PRA). Additionally, their silky semi-longhair coat requires regular grooming to prevent hairballs and matting. Today, PetSelf decodes Somali health signals and outlines a 3-step daily care routine.",
+                "whyTitle": "Somali Cat Body Language: PKDef Anemia Warning Signs and Vertical Space High Energy",
+                "whyDesc": "Somalis are highly energetic cats, making sudden shifts in activity crucial to observe. Pale gums paired with sudden lethargy **'PKDef Anemia Warning Signal'** indicate critical red blood cell destruction requiring emergency care. Conversely, swishing a bushy tail from a high vantage point **'Vertical High-Energy Excitement'** represents healthy playfulness that needs positive outlets.",
+                "body_signals": [
+                    {
+                        "name": "Pale Gums & Sudden Lethargy (PKDef Anemia Warning Signal)",
+                        "meaning": "An emergency medical condition caused by Pyruvate Kinase Deficiency (PKDef), where red blood cells break down rapidly, triggering acute hemolytic anemia.",
+                        "response": "Check gum and mucous membrane colors immediately, stop physical exertion, and transport the cat to a 24-hour veterinary hospital for blood testing and transfusion support."
+                    },
+                    {
+                        "name": "Puffed Tail Swishing from a High Vantage Point (Vertical High-Energy Excitement)",
+                        "meaning": "An expressive state of high energy and natural curiosity combined with hunting instincts and a desire for high vertical territories.",
+                        "response": "Engage the cat in active play sessions using feather wands or laser toys to burn calories safely and satisfy their climbing motivation."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Oral Hygiene Check, Portioned Feeding & PKDef Genetic Verification",
+                        "text": "Inspect gums due to the breed's susceptibility to gingivitis, feed measured high-protein portions, and confirm PKDef genetic status with your vet."
+                    },
+                    {
+                        "name": "Afternoon: Vertical Territory Setup & Interactive Hunting Puzzles",
+                        "text": "Provide sturdy multi-level cat trees to accommodate their jumping instincts and introduce nosework puzzle feeders to stimulate their high intellect."
+                    },
+                    {
+                        "name": "Evening: Semi-Longhair Undercoat Brushing & Hairball Management",
+                        "text": "Gently brush their soft semi-long coat daily with slicker and pin brushes to prevent mats, and administer hairball control supplements as recommended."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is Pyruvate Kinase Deficiency (PKDef) in Somali cats?",
+                        "answer": "PKDef is an inherited hemolytic anemia caused by a lack of the pyruvate kinase enzyme essential for red blood cell energy. Symptoms include pale gums, lethargy, and jaundice. Genetic testing of parents and routine blood panels are vital for early monitoring."
+                    },
+                    {
+                        "question": "How should I handle a Somali cat's high activity level and coat care?",
+                        "answer": "Somalis love climbing, so stable, high cat trees and vertical wall shelves are essential. Because of their soft semi-longhair double coat, brush them at least 3 times a week with a pin brush to remove dead undercoat and prevent hairball vomiting."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ソマリ（Somali Cat）の活力サイン解読とPKDef（ピルビン酸キナーゼ欠損症）·毛玉絡まり予防の日常3段階ルーティン",
+                "description": "狐のような美しさを持つソマリ（Somali Cat）。PKDef（ピルビン酸キナーゼ欠損症）の貧血サイン、高活性なボディランゲージ、セミロング被毛と歯口ケアの3ステップを紹介します。",
+                "authority": "CFA（国際血統登録団体）品種標準およびコーネル大学猫健康センター研究データ",
+                "profile": {
+                    "breed": "ソマリ (Somali Cat)",
+                    "lifespan": "11 〜 16年",
+                    "sleep_pattern": "12 〜 14時間（キャットタワーや窓辺など部屋全体を見渡せる高い場所を好む）",
+                    "temperament": "おちゃめ、活発、賢い、好奇心旺盛、甘えん坊"
+                },
+                "intro": "ふさふさの尻尾と美しいティックド（Ticked）の被毛を持ち、「小さな狐」と称されるソマリ（Somali Cat）は、アビシニアンの長毛遺伝子から誕生した非常に魅力的で活発な猫種です。好奇心が旺盛で知能が高く、「猫界のお道化師」と呼ばれるほど抜群の運動神経と認知能力を誇ります。しかしその愛らしさの裏には、赤血球が破壊され深刻な貧血を引き起こす遺伝性疾患「ピルビン酸キナーゼ欠損症（PKDef）」や進行性網膜萎縮症（PRA）のリスクが潜んでいます。また、柔らかく密生したセミロングの毛質を持つため、手入れを怠ると毛玉吐きや毛の絡まりが生じやすくなります。本日PetSelfでは、ソマリの健康を守る3段階ケアルーティンを紹介します。",
+                "whyTitle": "ソマリのボディランゲージ：PKDef貧血警告サインと高い場所での運動欲求",
+                "whyDesc": "ソマリはエネルギーに満ちた猫種であるため、活動量の急激な変化に注意が必要です。高い運動能力を持つにもかかわらず歯茎が白っぽくなり急にぐったりする**「PKDef貧血サイン」**は、赤血球破壊による緊急警告です。一方、高い場所で尻尾を膨らませて左右に振る**「高所での好奇心・興奮サイン」**は、エネルギー発散を求める健康なボディランゲージです。",
+                "body_signals": [
+                    {
+                        "name": "歯茎の蒼白と突発的なぐったり感 (PKDef Anemia Warning Signal)",
+                        "meaning": "遺伝性ピルビン酸キナーゼ欠損症（PKDef）により赤血球が破壊され、重度の溶血性貧血を起こしている緊急状態です。",
+                        "response": "直ちに歯茎や粘膜の色を確認し、運動を控えさせて24時間救急動物病院へ搬送し、血液検査や輸血治療を受けてください。"
+                    },
+                    {
+                        "name": "高い場所で尻尾を膨らませて左右に振る (Vertical High-Energy Excitement)",
+                        "meaning": "あふれる活力と好奇心が狩猟本能や高所への欲求と結びついた活発な興奮状態です。",
+                        "response": "釣り竿やおもちゃを使って安全にカロリーを消費する遊び時間を設け、運動欲求を満たしてあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：口腔チェックと定量給餌＆PKDef遺伝子検査の確認",
+                        "text": "歯周病になりやすい傾向があるため歯茎の状態を確認し、高タンパクフードを定量で与え、PKDef遺伝子変異の有無を獣医師と確認します。"
+                    },
+                    {
+                        "name": "昼：高低差のあるキャットタワーの設置と知育おもちゃの活用",
+                        "text": "ジャンプ好きな特性に合わせて安定した高所環境を整え、頭脳を刺激するノーズワークやフードトイを与えます。"
+                    },
+                    {
+                        "name": "夜：セミロング被毛のブラッシングと毛玉ケア",
+                        "text": "シルクのようなセミロングの被毛をピンブラシやスリッカーで毎日優しくブラッシングし、毛玉除去サプリメントを定期給餌します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ソマリの注意すべき遺伝病「PKDef（ピルビン酸キナーゼ欠損症）」とは何ですか？",
+                        "answer": "赤血球のエネルギー生成に必要な酵素が不足し、赤血球が早く破壊されてしまう遺伝性の溶血性貧血です。貧血、黄疸、極度の疲労感が見られます。親猫の遺伝子検査を確認し、定期的な血液検査で状態を管理することが重要です。"
+                    },
+                    {
+                        "question": "ソマリの高い運動量と被毛のお手入れはどのようにすればよいですか？",
+                        "answer": "ソマリは高い場所へ飛び乗ることが大好きなので、安定したキャットタワーやウォールシェルフが必須です。また柔らかいダブルコートのセミロング毛のため、週3回以上ピンブラシでアンダーコートまでしっかりブラッシングして毛玉を防止しましょう。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "索马里猫活力信号解读与预防PKDef（丙酮酸激酶缺乏症）及毛发打结的3步日常护理",
+                "description": "像小狐狸一样的长毛索马里猫（Somali Cat）。解读PKDef贫血异常信号与高能肢体语言，提供半长毛梳理及口腔护理的3步骤日常流程。",
+                "authority": "CFA (国际爱猫者协会) 品种标准与康奈尔猫科健康中心研究数据",
+                "profile": {
+                    "breed": "索马里猫 (Somali Cat)",
+                    "lifespan": "11 ~ 16年",
+                    "sleep_pattern": "12 ~ 14小时（偏爱高耸的猫树或窗台等可俯瞰全屋的位置）",
+                    "temperament": "顽皮、活跃、聪明、好奇心强、黏人"
+                },
+                "intro": "拥有蓬松尾巴与优雅刺状斑纹（Ticked coat）的索马里猫（Somali Cat）是由阿比西尼亚猫的长毛基因演变而来的美丽品种，因外形酷似小狐狸而备受喜爱。它们好奇心强、智商极高，被称为“猫界的小小滑稽小丑”，拥有惊人的敏捷度。然而，在其活泼性格的背后，存在着“丙酮酸激酶缺乏症（PKDef）”这一导致红细胞破坏与严重贫血的遗传病风险，以及进行性视网膜萎缩症（PRA）。此外，其丝滑密实的半长毛（Semi-longhair）若缺乏护理，极易引发毛球症与打结。今天 PetSelf 将带您解读索马里猫的健康信号并分享3步日常护理流程。",
+                "whyTitle": "索马里猫的肢体语言：PKDef贫血警告信号与高处高能兴奋",
+                "whyDesc": "索马里猫属于高能量品种，需密切留意其活动量的异常变化。虽然平时极具运动天赋，但若出现牙龈苍白与突然瘫软无力**“PKDef贫血警告信号”**，代表红细胞破裂的紧急危险。相反，在猫树高处膨胀尾巴并左右摇摆**“高处高能兴奋”**，则是需要通过积极游戏来释放精力的健康肢体语言。",
+                "body_signals": [
+                    {
+                        "name": "牙龈苍白与突发性瘫软无力 (PKDef Anemia Warning Signal)",
+                        "meaning": "因遗传性丙酮酸激酶缺乏症（PKDef）导致红细胞大量破坏引起的严重溶血性贫血紧急状态。",
+                        "response": "立即检查牙龈与眼结膜颜色，停止剧烈运动，并迅速送往24小时宠物医院接受血液检查与输血治疗。"
+                    },
+                    {
+                        "name": "在高处炸毛膨胀尾巴并摇晃 (Vertical High-Energy Excitement)",
+                        "meaning": "精力充沛与强烈好奇心结合捕猎本能及对高处垂直空间渴望的兴奋表现。",
+                        "response": "使用逗猫棒或激光玩具引导其进行捕猎游戏，安全消耗热量并满足攀爬欲望。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：口腔健康检查、定时定量给食与PKDef基因排查",
+                        "text": "鉴于该品种易患牙周炎，每日检查牙龈，喂食高蛋白定量粮，并与兽医确认PKDef基因突变状况。"
+                    },
+                    {
+                        "name": "中午：搭建高低错落的垂直空间与互动捕猎游戏",
+                        "text": "顺应其热爱跳跃的天性，安装稳固的高耸猫树与猫爬架，并提供嗅闻藏食玩具刺激大脑。"
+                    },
+                    {
+                        "name": "晚上：半长毛底绒梳理与化毛营养护理",
+                        "text": "每日使用排梳与针梳梳理其柔软的半长毛以防打结，并定期喂食化毛膏或化毛营养品。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "什么是对索马里猫致命的PKDef（丙酮酸激酶缺乏症）？",
+                        "answer": "这是一种因缺乏维持红细胞能量的丙酮酸激酶，导致红细胞过早破裂的遗传性溶血性贫血。症状包括牙龈苍白、精神萎靡与黄疸。购买或领养时应确认亲本基因检测结果，并定期进行血液Panel筛查。"
+                    },
+                    {
+                        "question": "如何管理索马里猫的高活动量与毛发护理？",
+                        "answer": "索马里猫极度热爱攀爬跳跃，稳固的高耸猫树与墙面猫道是必备设施。由于其拥有柔软的双层半长毛，每周需至少使用针梳深入梳理底毛3次以上，以防止毛发缠结与吐毛球。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado de salud y energía del Gato Somalí: Rutina diaria de 3 pasos para la prevención de la anemia por PKDef, manejo de alta actividad y pelaje semilargo",
+                "description": "El Gato Somalí de aspecto zorruno. Interprete las señales de anemia por PKDef y lenguaje corporal activo, y conozca una rutina de 3 pasos para el pelaje semilargo y salud dental.",
+                "authority": "Estándar de raza de la Cat Fanciers' Association (CFA) e investigaciones del Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Gato Somalí (Somali Cat)",
+                    "lifespan": "11 ~ 16 años",
+                    "sleep_pattern": "12 ~ 14 horas (prefiere torres altas o repisas junto a la ventana para vigilar la casa)",
+                    "temperament": "Juguetón, Activo, Inteligente, Curioso, Afectuoso"
+                },
+                "intro": "Conocido por su cola frondosa y su elegante pelaje jaspeado (ticked), el Gato Somalí (Somali Cat) es una raza hermosa y llena de vitalidad derivada del gen de pelo largo del Abisinio. A menudo llamado el 'payaso del mundo felino', posee una gran inteligencia, curiosidad y agilidad física. Sin embargo, tras su naturaleza alegre se esconde el riesgo genético de la Deficiencia de Piruvato Kinasa (PKDef), una enfermedad hereditaria que destruye los glóbulos rojos provocando anemia grave, así como la Atrofia Progresiva de Retina (PRA). Además, su denso manto semilargo exige un cepillado constante para evitar bolas de pelo y nudos. Hoy, PetSelf presenta una rutina de cuidado en 3 pasos.",
+                "whyTitle": "Lenguaje corporal del Gato Somalí: Señales de alerta por PKDef y excitación en zonas altas",
+                "whyDesc": "El Somalí es un gato de gran energía, por lo que los cambios repentinos en su actividad son muy relevantes. Las encías pálidas y el letargo repentino **'Señal de alerta de anemia por PKDef'** representan una destrucción aguda de glóbulos rojos que requiere atención de urgencia. Por el contrario, ahuecar la cola y moverla de lado a lado en un punto elevado **'Excitación de alta energía en zona vertical'** refleja un estado de juego saludable que requiere canalizar su energía.",
+                "body_signals": [
+                    {
+                        "name": "Encías pálidas y letargo repentino (PKDef Anemia Warning Signal)",
+                        "meaning": "Emergencia médica causada por la Deficiencia de Piruvato Kinasa (PKDef), en la que los glóbulos rojos se destruyen rápidamente generando anemia hemolítica grave.",
+                        "response": "Examine las encías y mucosas de inmediato, detenga el ejercicio y traslade al gato a un hospital veterinario 24 horas para un perfil sanguíneo y transfusión."
+                    },
+                    {
+                        "name": "Cola ahuecada moviéndose desde un lugar alto (Vertical High-Energy Excitement)",
+                        "meaning": "Estado de excitación provocado por su alta energía, curiosidad natural e instinto cazador en espacios verticales.",
+                        "response": "Canalice esa energía mediante sesiones de juego interactivo con cañas o juguetes de persecución para quemar calorías de forma segura."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control dental, ración medida de alimento y verificación de PKDef",
+                        "text": "Inspeccione las encías por su propensión a la gingivitis, sirva raciones equilibradas de alimento alto en proteína y confirme el genotipo PKDef con su veterinario."
+                    },
+                    {
+                        "name": "Tarde: Configuración de territorio vertical y juegos de búsqueda",
+                        "text": "Instale rascadores y torres altas y estables para satisfacer su gusto por los saltos, y proporcione juguetes dispensadores para ejercitar su mente."
+                    },
+                    {
+                        "name": "Noche: Cepillado del pelaje semilargo y prevención de bolas de pelo",
+                        "text": "Cepille su suave manto semilargo diariamente con un cepillo de púas para eliminar el pelo muerto y administre suplementos para la eliminación de tricobezoares."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Qué es la Deficiencia de Piruvato Kinasa (PKDef) en el Gato Somalí?",
+                        "answer": "Es una enfermedad hereditaria en la que falta la enzima piruvato kinasa necesaria para la energía de los glóbulos rojos, provocando su destrucción prematura. Ocasiona anemia, ictericia y fatiga. Es vital revisar las pruebas genéticas de los progenitores y hacer análisis de sangre periódicos."
+                    },
+                    {
+                        "question": "¿Cómo manejar la gran actividad física y el cuidado del pelaje del Gato Somalí?",
+                        "answer": "Al Somalí le encanta trepar y saltar, por lo que las torres felinas altas y los estantes de pared son fundamentales. Para su manto semilargo, cepíllelo al menos 3 veces por semana con un cepillo de metálico de púas protegidas para llegar al subpelo y evitar bolas de pelo."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soin de la santé et de l'énergie du Chat Somali : Routine quotidienne en 3 étapes pour la prévention de l'anémie PKDef, la gestion de l'activité et le pelage mi-long",
+                "description": "Le Chat Somali au look de renard. Décryptez les signaux d'anémie PKDef, le langage corporel actif et découvrez une routine en 3 étapes pour son pelage mi-long et ses dents.",
+                "authority": "Normes de la Cat Fanciers' Association (CFA) et recherches du Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Somali (Somali Cat)",
+                    "lifespan": "11 ~ 16 ans",
+                    "sleep_pattern": "12 ~ 14 heures (préfère les arbres à chat haut perchés ou les rebords de fenêtre panorama)",
+                    "temperament": "Joueur, Actif, Intelligent, Curieux, Affectueux"
+                },
+                "intro": "Surnommé le 'petit renard' en raison de sa queue en panache et de sa robe tiquetée (ticked), le Chat Somali est une race somptueuse et vive issue du gène poil long de l'Abyssin. Qualifié de 'clown du monde félin', il possède une grande intelligence, une curiosité débordante et d'excellentes aptitudes athlétiques. Cependant, derrière cette joie de vivre se cache le risque génétique de la Déficience en Pyruvate Kinase (PKDef), une maladie héréditaire détruisant les globules rouges et provoquant une anémie sévère, ainsi que l'Atrophie Progressive de la Rétine (PRA). De plus, son pelage mi-long dense nécessite un brossage régulier pour éviter les nœuds et les boules de poils. Aujourd'hui, PetSelf vous présente sa routine en 3 étapes.",
+                "whyTitle": "Langage corporel du Somali : Alerte anémie PKDef et excitation dans les espaces en hauteur",
+                "whyDesc": "Le Somali étant un chat dynamique, toute baisse subite d'activité doit vous alerter. Des gencives pales accompagnées d'une léthargie soudaine **« Signal d'alerte anémie PKDef »** traduisent une destruction critique de globules rouges nécessitant une prise en charge d'urgence. À l'inverse, gonfler sa queue en la balançant du haut d'un perchoir **« Excitation dynamique en hauteur »** est une manifestation saine de son instinct de jeu.",
+                "body_signals": [
+                    {
+                        "name": "Gencives pâles et léthargie soudaine (PKDef Anemia Warning Signal)",
+                        "meaning": "Urgence médicale provoquée par la Déficience en Pyruvate Kinase (PKDef), où la destruction rapide des globules rouges entraîne une anémie hémolytique aiguë.",
+                        "response": "Inspectez immédiatement la couleur des gencives, stoppez tout effort et transportez le chat en urgence dans une clinique 24h/24 pour un bilan sanguin et une transfusion."
+                    },
+                    {
+                        "name": "Queue en panache balancée depuis un point élevé (Vertical High-Energy Excitement)",
+                        "meaning": "État d'excitation traduisant sa vitalité, sa curiosité naturelle et son besoin de stimulations physiques en hauteur.",
+                        "response": "Proposez-lui des séances de jeu interactives avec un plumet ou un pointeur laser pour brûler son énergie en toute sécurité."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle bucco-dentaire, rationnement strict & vérification du statut PKDef",
+                        "text": "Examinez les gencives en raison du risque de gingivite, donnez une ration mesurée riche en protéines et vérifiez le dépistage génétique PKDef avec votre vétérinaire."
+                    },
+                    {
+                        "name": "Après-midi : Aménagement de parcours en hauteur & jeux de chasse stimulants",
+                        "text": "Installez des arbres à chat élevés et stables pour répondre à son besoin de sauter et utilisez des puzzles alimentaires pour stimuler son intelligence."
+                    },
+                    {
+                        "name": "Soir : Brossage du pelage mi-long & prévention des boules de poils",
+                        "text": "Brossez quotidiennement son pelage mi-long avec une brosse carde et un peigne métallique pour éviter les nœuds et donnez régulièrement une pâte anti-boules de poils."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qu'est-ce que la Déficience en Pyruvate Kinase (PKDef) chez le Somali ?",
+                        "answer": "C'est une maladie génétique héréditaire où l'absence d'une enzyme essentielle entraîne la destruction prématurée des globules rouges, causant anémie, ictère et grande fatigue. Il est fondamental de vérifier les tests génétiques des parents et de procéder à des bilans sanguins réguliers."
+                    },
+                    {
+                        "question": "Comment gérer la grande activité et l'entretien du pelage du Somali ?",
+                        "answer": "Le Somali adorant sauter, des arbres à chat haut perchés et des étagères murales sont indispensables. Pour sa fourrure mi-longue très douce, un brossage approfondi 3 fois par semaine avec une brosse à picots est nécessaire pour retirer le sous-poil mort et éviter les vomissements de boules de poils."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Energie- und Gesundheitspflege der Somali-Katze: 3-Schritte-Tagesroutine zur PKDef-Anämie-Vorbeugung, Aktivitätssteuerung und Halblanghaar-Fellpflege",
+                "description": "Die fuchsähnliche Somali-Katze. Verstehen Sie PKDef-Anämiewarnzeichen, ihr aktives Verhalten und lernen Sie eine 3-Schritte-Routine für Fell- und Zahnpflege kennen.",
+                "authority": "CFA (Cat Fanciers' Association) Rassestandard & Studien des Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Somali-Katze (Somali Cat)",
+                    "lifespan": "11 ~ 16 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (bevorzugt hohe Kratzbäume oder Fensterplätze mit Raumüberblick)",
+                    "temperament": "Verspielt, Aktiv, Intelligent, Neugierig, Anhänglich"
+                },
+                "intro": "Mit ihrem buschigen Schwanz und dem eleganten getickten Fell wird die Somali-Katze oft als 'kleiner Fuchs' bezeichnet. Sie stammt von der Abessinier ab und besitzt deren Halblanghaar-Gen. Bekannt als 'Clown des Katzenreichs' besticht sie durch hohe Intelligenz, Bewegungsfreude und Neugier. Doch hinter ihrem aufgeweckten Wesen verbirgt sich das Risiko für die erbliche Pyruvatkinase-Defizienz (PKDef), die zu Blutarmut führt, sowie für Progressive Retinaatrophie (PRA). Zudem benötigt ihr dichtes Halblanghaarfell regelmäßige Pflege zur Vermeidung von Verfilzungen und Haarballen. Heute präsentiert PetSelf eine 3-Schritte-Routine für die Somali.",
+                "whyTitle": "Körpersprache der Somali: PKDef-Anämie-Warnsignale und Erregung auf hohen Plätzen",
+                "whyDesc": "Somalis sind sehr aktive Katzen, weshalb plötzliche Aktivitätsveränderungen ernst zu nehmen sind. Blasse Schleimhäute und abrupte Teilnahmslosigkeit **'PKDef-Anämie-Warnsignal'** deutet auf einen gefährlichen Abbau roter Blutkörperchen hin. Das Aufplustern und Hin- und Herbewegen des Schwanzes auf einem hohen Ausguck **'Erregung auf hohen Plätzen'** ist hingegen ein gesunder Ausdruck von Spieltrieb und Tatendrang.",
+                "body_signals": [
+                    {
+                        "name": "Blasses Zahnfleisch & plötzliche Apathie (PKDef Anemia Warning Signal)",
+                        "meaning": "Medizinischer Notfall durch Pyruvatkinase-Defizienz (PKDef), bei dem rote Blutkörperchen zerstört werden und eine schwere hämolytische Anämie entsteht.",
+                        "response": "Zahnfleischfarbe sofort kontrollieren, körperliche Belastung stoppen und die Katze umgehend in eine Notfall-Tierklinik zur Blutuntersuchung bringen."
+                    },
+                    {
+                        "name": "Buschiger Schwanz und Wedeln auf hohen Plätzen (Vertical High-Energy Excitement)",
+                        "meaning": "Ausdruck hoher Energie und Neugier, kombiniert mit Jagdtrieb und dem Verlangen nach erhöhten Aussichtspunkten.",
+                        "response": "Bieten Sie interaktive Spiele mit Federangeln an, um die Energie sicher abzubauen und den Klettertrieb zu befriedigen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Zahngesundheitscheck, portionierte Fütterung & PKDef-Gentest-Kontrolle",
+                        "text": "Zahnfleisch wegen Neigung zu Gingivitis prüfen, proteinreiches Futter abgemessen geben und den PKDef-Genstatus mit dem Tierarzt abklären."
+                    },
+                    {
+                        "name": "Mittag: Einrichtung vertikaler Kletterzonen & Intelligenzspiele",
+                        "text": "Hohe, stabile Kratzbäume bereitstellen, die dem Sprungbedürfnis entsprechen, und Fummelbretter zur geistigen Auslastung einsetzen."
+                    },
+                    {
+                        "name": "Abend: Kämmen des Halblanghaarfells & Haarballen-Prophylaxe",
+                        "text": "Das seidige Halblanghaarfell täglich mit einer Zupfbürste kämmen, um Knoten zu verhindern, und regelmäßig Anti-Haarballen-Pasten verabreichen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was ist die Pyruvatkinase-Defizienz (PKDef) bei der Somali-Katze?",
+                        "answer": "Es handelt sich um eine erblich bedingte Anämie, bei der durch Enzymmangel rote Blutkörperchen vorzeitig zerstört werden. Symptome sind blasses Zahnfleisch, Apathie und Gelbsucht. Gentests der Elterntiere und regelmäßige Blutbildkontrollen sind essenziell."
+                    },
+                    {
+                        "question": "Wie fordert man eine Somali-Katze richtig und pflegt ihr Fell?",
+                        "answer": "Da Somalis extrem gerne springen, sind hohe Kratzbäume und Wandparkours Pflicht. Für ihr weiches Halblanghaarfell ist mindestens dreimal pro Woche gründliches Bürsten mit einer Stiftbürste nötig, um Unterwolle zu entfernen und Erbrechen von Haarballen vorzubeugen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidado de saúde e energia do Gato Somali: Rotina diária de 3 passos para prevenção da anemia por PKDef, controle de alta atividade e pelagem semi-longa",
+                "description": "O Gato Somali com aparência de raposa. Interprete os sinais de anemia por PKDef e linguagem corporal ativa, e aprenda uma rotina em 3 passos para pelagem semi-longa e saúde bucal.",
+                "authority": "Padrão de raça da Cat Fanciers' Association (CFA) e pesquisas do Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Gato Somali (Somali Cat)",
+                    "lifespan": "11 ~ 16 anos",
+                    "sleep_pattern": "12 ~ 14 horas (prefere arranhadores altos ou janelas com vista panorâmica da casa)",
+                    "temperament": "Brincalhão, Ativo, Inteligente, Curioso, Afetuoso"
+                },
+                "intro": "Conhecido por sua cauda plumosa e pelagem ticked elegante, o Gato Somali é uma raça exuberante derivada do gênio de pelo longo do Abissínio. Apelidado de 'palhaço do mundo felino', possui inteligência brilhante, curiosidade e excelente agilidade. No entanto, por trás do seu temperamento brincalhão existe o risco genético de Deficiência de Piruvato Quinase (PKDef), uma doença hereditária que destrói os glóbulos vermelhos provocando anemia grave, além da Atrofia Progressiva da Retina (PRA). Sua densa pelagem semi-longa exige escovação regular para evitar nós e bolas de pelo. Hoje, o PetSelf apresenta uma rotina em 3 passos.",
+                "whyTitle": "Linguagem corporal do Gato Somali: Sinais de alerta por PKDef e empolgação em locais altos",
+                "whyDesc": "O Somali é um gato de alta energia, tornando vital observar mudanças bruscas de comportamento. Gengivas pálidas e prostração repentina **'Sinal de alerta de anemia por PKDef'** indicam destruição aguda de glóbulos vermelhos que requer emergência veterinária. Por outro lado, inflar a cauda e balançá-la em locais altos **'Empolgação de alta energia vertical'** reflete um comportamento saudável que precisa de estímulo adequado.",
+                "body_signals": [
+                    {
+                        "name": "Gengivas pálidas e prostração repentina (PKDef Anemia Warning Signal)",
+                        "meaning": "Emergência médica provocada pela Deficiência de Piruvato Quinase (PKDef), onde a destruição rápida de glóbulos vermelhos causa anemia hemolítica severa.",
+                        "response": "Verifique a cor das gengivas imediatamente, interrompa atividades físicas e leve o gato a um hospital veterinário 24 horas para exames de sangue e transfusão."
+                    },
+                    {
+                        "name": "Cauda inflada balançando de um ponto alto (Vertical High-Energy Excitement)",
+                        "meaning": "Estado de excitação saudável resultado de alta energia, curiosidade e instinto de caça em locais elevados.",
+                        "response": "Promova sessões de brincadeiras interativas com varinhas de penas para gastar energia com segurança e satisfazer o desejo de escalar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem bucal, alimentação pesada e verificação de PKDef",
+                        "text": "Examine as gengivas devido à predisposição a gengivites, sirva porções medidas de ração rica em proteínas e confirme o status de PKDef com o veterinário."
+                    },
+                    {
+                        "name": "Tarde: Estrutura de território vertical e brinquedos de caça",
+                        "text": "Instale arranhadores altos e estáveis para atender à sua paixão por saltos e ofereça brinquedos do tipo puzzle para exercitar a mente."
+                    },
+                    {
+                        "name": "Noite: Escovação da pelagem semi-longa e controle de bolas de pelo",
+                        "text": "Escove sua pelagem macia diariamente com rasqueadeira e pente de metal para evitar nós e forneça pastas para remoção de pelos ingeridos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O que é a Deficiência de Piruvato Quinase (PKDef) no Gato Somali?",
+                        "answer": "É uma doença genética hereditária na qual a falta de uma enzima essencial causa a destruição precoce dos glóbulos vermelhos, levando a anemia, icterícia e fraqueza. É essencial verificar os testes genéticos dos pais e realizar exames de sangue periódicos."
+                    },
+                    {
+                        "question": "Como lidar com a alta atividade e os cuidados com o pelo do Gato Somali?",
+                        "answer": "Como o Somali ama saltar, arranhadores altos e prateleiras de parede são indispensáveis. Para sua pelagem semi-longa, escove pelo menos 3 vezes por semana com escova de pinos para remover o subpelo e evitar o vômito de bolas de pelo."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Perawatan Kesehatan & Energi Kucing Somali: Rutinitas Harian 3 Langkah untuk Pencegahan Anemia PKDef, Manajemen Aktivitas Tinggi, dan Bulu Semi-Longhair",
+                "description": "Kucing Somali yang mirip rubah. Pahami sinyal anemia PKDef dan bahasa tubuh aktif, serta pelajari rutinitas harian 3 langkah untuk bulu semi-longhair dan kesehatan gigi.",
+                "authority": "Standar Ras Cat Fanciers' Association (CFA) & Penelitian Cornell Feline Health Center",
+                "profile": {
+                    "breed": "Kucing Somali (Somali Cat)",
+                    "lifespan": "11 ~ 16 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (menyukai pohon kucing tinggi atau ambang jendela dengan pemandangan luas)",
+                    "temperament": "Lincah, Aktif, Cerdas, Penasaran, Penyayang"
+                },
+                "intro": "Dikenal dengan ekornya yang mengembang lebat dan bulu ticked yang anggun, Kucing Somali adalah ras yang memikat dan energik yang berasal dari gen bulu panjang Abyssinian. Sering dijuluki 'badut dunia kucing', mereka memiliki kecerdasan luar biasa, rasa ingin tahu yang tinggi, dan kemampuan atletis. Namun, di balik sifat cerianya, terdapat risiko genetis Defisiensi Piruvat Kinase (PKDef) yang menghancurkan sel darah merah dan menyebabkan anemia parah, serta Atrofi Retina Progresif (PRA). Bulu semi-longhairnya yang lebat juga membutuhkan perawatan teratur agar tidak menggumpal. Hari ini, PetSelf membagikan 3 langkah rutinitas harian untuk Kucing Somali Anda.",
+                "whyTitle": "Bahasa Tubuh Kucing Somali: Peringatan Anemia PKDef dan Kegembiraan di Tempat Tinggi",
+                "whyDesc": "Kucing Somali sangat energik, sehingga perubahan aktivitas yang mendadak harus sangat diperhatikan. Gusi pucat yang disertai lemas mendadak **'Sinyal Peringatan Anemia PKDef'** menandakan penghancuran sel darah merah akut yang membutuhkan pertolongan darurat. Sebaliknya, mengibaskan ekor lebat dari tempat tinggi **'Kegembiraan Energi Tinggi Vertikal'** menandakan semangat bermain yang butuh penyaluran positif.",
+                "body_signals": [
+                    {
+                        "name": "Gusi Pucat & Lemas Mendadak (PKDef Anemia Warning Signal)",
+                        "meaning": "Kondisi darurat medis akibat Defisiensi Piruvat Kinase (PKDef), di mana sel darah merah hancur dengan cepat sehingga memicu anemia hemolitik berat.",
+                        "response": "Segera periksa warna gusi dan membran mata, hentikan aktivitas fisik, dan bawa kucing ke rumah sakit hewan 24 jam untuk pemeriksaan darah dan transfusi."
+                    },
+                    {
+                        "name": "Ekor Mengembang Mengibas dari Tempat Tinggi (Vertical High-Energy Excitement)",
+                        "meaning": "Ekspresi kegembiraan dan rasa ingin tahu tinggi yang berpadu dengan naluri berburu serta keinginan berada di ruang vertikal tinggi.",
+                        "response": "Ajak kucing bermain interaktif menggunakan tongkat bulu atau mainan berburu untuk membakar kalori secara aman dan memuaskan naluri memanjatnya."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Gigi, Pakan Terukur & Konfirmasi Status Genetik PKDef",
+                        "text": "Periksa gusi karena kecenderungan radang gusi (gingivitis), berikan pakan tinggi protein terukur, dan konfirmasikan status gen PKDef dengan dokter hewan."
+                    },
+                    {
+                        "name": "Siang: Penataan Area Vertikal & Mainan Berburu Interaktif",
+                        "text": "Sediakan pohon kucing yang kokoh dan tinggi untuk memuaskan naluri melompatnya serta berikan mainan puzzle makanan untuk melatih otaknya."
+                    },
+                    {
+                        "name": "Malam: Menyikat Bulu Semi-Longhair & Perawatan Anti-Hairball",
+                        "text": "Sikat bulu semi-longhair yang lembut setiap hari dengan sikat slicker untuk mencegah gumpalan dan berikan suplemen pengontrol hairball secara teratur."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa itu Defisiensi Piruvat Kinase (PKDef) pada Kucing Somali?",
+                        "answer": "PKDef adalah penyakit anemia hemolitik genetik akibat kurangnya enzim piruvat kinase yang penting untuk energi sel darah merah. Gejalanya meliputi gusi pucat, lemas, dan penyakit kuning. Tes genetik dari induk dan pemeriksaan darah rutin sangat penting."
+                    },
+                    {
+                        "question": "Bagaimana cara mengelola aktivitas tinggi dan perawatan bulu Kucing Somali?",
+                        "answer": "Kucing Somali sangat suka melompat, sehingga pohon kucing yang tinggi dan rak dinding sangat dibutuhkan. Untuk bulu semi-longhair yang lembut, sikat setidaknya 3 kali seminggu dengan sikat pin untuk membuang bulu halus mati dan mencegah muntah hairball."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/somali_cat_care.webp"
+    }
+}

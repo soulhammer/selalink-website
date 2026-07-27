@@ -1,315 +1,315 @@
 {
-  "wozniak-circuit-minimalism": {
-    "pubDate": "2026-07-27",
-    "updatedDate": "2026-07-27",
-    "heroImage": "/images/blog/wozniak_circuit_minimalism.webp",
-    "locales": {
-      "ko": {
-        "title": "덜어낼수록 강력해진다: 스티브 워즈니악의 회로 미니멀리즘과 뺄셈의 리팩토링",
-        "description": "애플의 공동 창립자 스티브 워즈니악이 최소한의 부품으로 최초의 개인용 컴퓨터(Apple I/II)를 설계한 '회로 미니멀리즘' 습관의 인지과학적 원리와 3단계 가이드를 소개합니다.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
-        "intro": "\"완벽함이란 더 이상 더할 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다.\" 💻\n\n스티브 잡스와 함께 애플(Apple)을 창립하고, 한 대의 본체에 키보드와 모니터를 직접 연결하는 최초의 개인용 컴퓨터 Apple I과 Apple II를 혼자서 완전히 설계해낸 전설적인 엔지니어 스티브 워즈니악(Steve Wozniak, 1950–).\n\n당시 다른 엔지니어들이 100개 이상의 칩을 사용해 구현하던 복잡한 기판을 워즈니악은 불과 40여 개의 칩만으로 작동하게 만들었습니다. 그 비결은 그가 매일 밤 홀로 실천했던 '회로 미니멀리즘 & 야간 몰입 스케치 습관(Minimalist Refactoring Routine)'에 있었습니다. 그는 퇴근 후 조용한 밤 시간을 활용해 이미 완성된 회로도를 펼쳐놓고, 불필요한 게이트나 칩, 코드 한 줄을 매일 덜어내는 심야 리팩토링을 거듭했습니다. 덧붙이기보다 덜어내기에 집착했던 이 정교한 습관 덕분에, 그의 컴퓨터는 고장률을 비약적으로 낮추고 전력 효율과 반응 속도를 극대화하며 컴퓨터 역사를 새로 썼습니다.\n\n오늘 포스트에서는 스티브 워즈니악이 실천했던 회로 미니멀리즘 습관의 인지과학적 작동 원리와 현대인들이 복잡한 업무와 시스템 속에서 극도의 본질을 남기기 위한 3단계 실행 가이드를 알아봅니다.",
-        "whyTitle": "뇌의 인지 과부하를 막는 '뺄셈적 사고(Subtractive Behavior)'와 인지 부하 이론",
-        "whyDesc": "인간의 뇌는 본능적으로 문제를 해결할 때 요소를 추가하려는 '더하기 편향(Additive Bias)'을 가지고 있습니다. 그러나 요소가 늘어날수록 시스템과 뇌의 <strong>작업 기억(Working Memory)</strong>에는 막대한 <strong>'외재적 인지 부하(Extraneous Cognitive Load)'</strong>가 누적됩니다. 스티브 워즈니악처럼 하루에 하나씩 요소를 제거하는 <strong>'뺄셈적 사고(Subtractive Behavior)'</strong>는 시스템의 구조적 복잡성을 줄여 에러 발생률을 낮추고, 뇌의 본질적 문제 해결 회로인 <strong>전두엽(Prefrontal Cortex)</strong>의 자원을 핵심 기능에만 집중하게 만듭니다.",
-        "cautionTitle": "무조건적인 삭제가 아닌 '필수 메커니즘'을 보존하며 덜어내는 수칙",
-        "cautionDesc": "미니멀리즘 리팩토링에서 가장 주의해야 할 점은 핵심 성능이나 기능을 훼손하면서까지 무분별하게 삭제하는 것입니다. 워즈니악처럼 전체 시스템이 작동하는 기본 원리(Core Protocol)를 완벽히 이해한 상태에서, 동일한 결과물을 낼 수 있는 가장 우회적이지 않은 단소한 경로를 찾아 덜어내야 비로소 진정한 최적화가 이뤄집니다.",
-        "steps": [
-          {
-            "title": "분석 대상 업무·코드·복잡 시스템의 시각적 지도화",
-            "desc": "자신이 진행 중인 프로젝트, 작성한 코드, 기획서, 일일 업무 루틴의 모든 구성 요소를 한눈에 보이도록 나열합니다."
-          },
-          {
-            "title": "매일 1가지 불필요한 요소/단계의 뺄셈 스케치 (Subtractive Refactoring)",
-            "desc": "시스템의 전체 작동에 영향을 주지 않으면서 생략할 수 있는 부품, 중복 단계, 수식, 문장 1가지를 매일 선정하여 제거합니다."
-          },
-          {
-            "title": "경량화된 시스템의 동작 테스트 및 인지적 여유 확보",
-            "desc": "요소가 제거된 간결한 시스템을 실제로 가동해 보며 작동 효율성, 오류 감소, 자신의 인지적 피로도 감소를 확인합니다."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "엔지니어나 프로그래머가 아닌 일반 직장인도 이 뺄셈 습관을 적용할 수 있나요?",
-            "answer": "네, 매우 강력하게 적용됩니다. 복잡한 보고서 양식 단축, 불필요한 회의 단계 제거, 일일 기획안의 복잡한 문구 덜어내기 등 업무 프로세스 전반에 적용하여 생산성을 비약적으로 높일 수 있습니다."
-          },
-          {
-            "question": "기존에 만들어둔 요소를 삭제할 때 불안감이 드는데 어떻게 극복해야 하나요?",
-            "answer": "삭제하기 전 기존 버전을 백업해 두는 '버전 관리(Versioning)' 방식을 활용하세요. 언제든 원복할 수 있는 안전장치를 마련해 두면 부담 없이 뺄셈 시도를 진행할 수 있습니다."
-          }
-        ]
-      },
-      "en": {
-        "title": "Powerful Through Subtraction: Steve Wozniak's Circuit Minimalism and Cognitive Refactoring",
-        "description": "Discover how Apple co-founder Steve Wozniak designed the Apple I & II using the fewest chips possible through his daily circuit minimalism routine. Learn a 3-step guide to subtractive design and cognitive load reduction.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
-        "intro": "\"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" 💻\n\nSteve Wozniak (1950–), the legendary engineer who co-founded Apple with Steve Jobs and single-handedly designed the Apple I and Apple II—the first personal computers connecting a keyboard and monitor directly to a mainboard. While contemporary engineers relied on over 100 chips to build primitive machines, Wozniak accomplished the same feats using barely 40.\n\nHis secret lay in his daily 'Minimalist Refactoring Routine'. During quiet late-night sessions at home or his desk at HP, Wozniak reviewed completed schematics and systematically challenged himself to remove a chip, gate, or line of code every single day. By obsessing over subtraction rather than addition, he dramatically minimized hardware failure rates, boosted power efficiency, and revolutionized computing history.\n\nIn today's post, we examine the cognitive neuroscience behind Steve Wozniak's circuit minimalism habit and present a 3-step practical guide to streamlining complex systems and eliminating cognitive overload.",
-        "whyTitle": "Breaking the Additive Bias: 'Subtractive Behavior' and Cognitive Load Theory",
-        "whyDesc": "The human brain possesses an innate 'Additive Bias', defaulting to adding new elements when solving problems. However, accumulation overloads the <strong>Working Memory</strong> with <strong>Extraneous Cognitive Load</strong>. Practicing <strong>'Subtractive Behavior'</strong>—removing one component daily like Wozniak—reduces system complexity, suppresses error rates, and frees up resources in the <strong>Prefrontal Cortex</strong> to focus exclusively on core objectives.",
-        "cautionTitle": "Rule: Preserve Core Protocols While Pruning Non-Essential Layers",
-        "cautionDesc": "The primary error in minimalist refactoring is mindless deletion that compromises essential functionality. Like Wozniak, first gain a complete architectural grasp of the core protocol, then identify the most direct, elegant path to achieve identical or superior results.",
-        "steps": [
-          {
-            "title": "Map Out All Elements of Your Target System or Workflow",
-            "desc": "Visually lay out every component, line of code, slide, or step in your current project or daily operational workflow."
-          },
-          {
-            "title": "Execute Daily Subtractive Refactoring (Eliminate 1 Element)",
-            "desc": "Identify and remove one redundant step, unnecessary metric, or verbose paragraph each day without harming overall functionality."
-          },
-          {
-            "title": "Verify Streamlined System Operations and Cognitive Relief",
-            "desc": "Run the simplified process to confirm enhanced operational speed, reduced error rates, and noticeable cognitive relief."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Is this subtractive routine effective for non-engineers or general business professionals?",
-            "answer": "Yes, immensely so. Trimming bloated report templates, eliminating redundant approval layers, or shortening email drafts reduces organizational friction and drastically increases productivity."
-          },
-          {
-            "question": "How can I overcome the anxiety of deleting elements I spent time creating?",
-            "answer": "Utilize a 'version control' approach. Keep a backup copy of your original work before pruning. Knowing you can revert anytime removes fear and enables bold subtractive optimization."
-          }
-        ]
-      },
-      "zh": {
-        "title": "越精简，越强大：史蒂夫·沃兹尼亚克的电路极简主义与减法重构",
-        "description": "探索苹果联合创始人史蒂夫·沃兹尼亚克如何通过每日电路极简习惯，以极少芯片独立设计出Apple I和Apple II。掌握基于减法思维与降低认知负荷的3步骤指南。",
-        "authority": "史蒂夫·沃兹尼亚克《iWoz》（2006年）、认知负荷理论（John Sweller）及减法设计科学",
-        "intro": "“完美并非始于无以复加，而是终于无以复减。” 💻\n\n作为与史蒂夫·乔布斯共同创立苹果公司（Apple）、并独立一手设计出首批将键盘与显示器直接连接的主板个人电脑（Apple I与Apple II）的传奇工程师，史蒂夫·沃兹尼亚克（Steve Wozniak，1950–）创造了工程史上的奇迹。当同时代的工程师依赖100多个芯片才能搭建出原始机型时，沃兹尼亚克仅用了约40个芯片便实现了更为卓越的性能。\n\n他的秘诀在于他坚持不懈的“极简重构习惯（Minimalist Refactoring Routine）”。在深夜静谧的时分，他会展开已完成的电路图，挑战自己每天削减掉一个芯片、逻辑门或一行代码。正是这种对“减法”近乎偏执的追求，使他的电脑故障率大幅降低、功耗与响应速度达到巅峰，重写了计算机的发展史。\n\n在今天的文章中，我们将深入解析史蒂夫·沃兹尼亚克电路极简习惯背后的认知神经科学原理，并分享现代人在繁复的工作与系统中提炼本质、消除认知过载的3步骤行动指南。",
-        "whyTitle": "打破加法偏误的“减法思维（Subtractive Behavior）”与认知负荷理论",
-        "whyDesc": "大脑在解决问题时天然存在“加法偏误（Additive Bias）”，倾向于不断叠加新要素。然而，要素的堆砌会向大脑<strong>工作记忆（Working Memory）</strong>注入大量的<strong>“外性认知负荷（Extraneous Cognitive Load）”</strong>。像沃兹尼亚克那样每日削减要素的<strong>“减法思维（Subtractive Behavior）”</strong>，能够降低系统的结构复杂度，减少出错率，并释放大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>的资源，使其专注于最核心的本质问题。",
-        "cautionTitle": "准则：在保障“核心机制”的前提下精准精简",
-        "cautionDesc": "极简重构中最忌讳的是损害核心功能盲目删减。须像沃兹尼亚克那样，在彻底透彻理解系统底层运行逻辑（Core Protocol）的基础上，寻找能实现相同甚至更优结果的最直接路径，方能达成真正的优化。",
-        "steps": [
-          {
-            "title": "可视化梳理目标系统或工作流的所有构成要素",
-            "desc": "将当前项目、代码、策划案或日常工作流程的每一个步骤与要素全面列出，使其一目了然。"
-          },
-          {
-            "title": "每日执行一次减法重构（精简1个要素/步骤）",
-            "desc": "每天挑选并移除一个冗余步骤、重复指标或繁琐语句，在不影响整体运转的前提下进行瘦身。"
-          },
-          {
-            "title": "验证精简系统的运转效率并释放认知空间",
-            "desc": "实际运行精简后的流程，确认系统运行速度的提升、故障率的降低以及个人认知疲劳感的明显消除。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "非工程师或非程序员的日常职场人也能应用这种减法习惯吗？",
-            "answer": "是的，效果极其显著。简化冗长的汇报PPT、删减不必要的审批节点、精简日常邮件与策划文案，均能大幅降低组织摩擦并成倍提升工作效率。"
-          },
-          {
-            "question": "删掉自己花时间做出的东西时感到焦虑不安，该如何克服？",
-            "answer": "采用‘版本控制（Versioning）’策略。在删减前保留一份原始备份。有了随时可以还原的安全网，你便能毫无负担地进行大胆的减法尝试。"
-          }
-        ]
-      },
-      "ja": {
-        "title": "削ぎ落とすほど強力になる：スティーブ・ウォズニアックの回路ミニマリズムと引き算のリファクタリング",
-        "description": "アップル共同創業者のスティーブ・ウォズニアックが最小限のパーツで個人用コンピュータ（Apple I/II）を設計した「回路ミニマリズム」の脳科学的原理と3ステップガイドをご紹介します。",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
-        "intro": "\"完璧さとは、これ以上付け加えるものがない状態ではなく、これ以上削るものがない状態のときに達成される。\" 💻\n\nスティーブ・ジョブズと共にアップル（Apple）を創業し、1台の基板にキーボードとモニターを直接接続する初の個人用コンピュータApple IおよびApple IIをたった一人で設計し上げた伝説のエンジニア、スティーブ・ウォズニアック（Steve Wozniak, 1950–）。\n\n当時のエンジニアたちが100個以上のチップを費やして構築していた複雑な基板を、ウォズニアックはわずか40個余りのチップだけで動作させました。その秘密は、彼が毎晩一人で実践していた「回路ミニマリズム＆夜間没頭スケッチ習慣（Minimalist Refactoring Routine）」にありました。彼は静かな夜の時間を活用して完成した回路図を広げ、不要なゲートやチップ、コード一行を毎日削ぎ落とすリファクタリングを重ねました。付け加えることより削ることに執着したこの習慣のおかげで、彼のコンピュータは故障率を極限まで下げ、電力効率と応答速度を極大化してコンピュータ史を塗り替えました。\n\n本日の記事では、スティーブ・ウォズニアックが実践した回路ミニマリズムの認知科学的作動原理と、現代人が複雑なシステムの中から本質を抽出するための3ステップ実践ガイドを解説します。",
-        "whyTitle": "脳の認知過負荷を防ぐ「引き算の思考（Subtractive Behavior）」と認知負荷理論",
-        "whyDesc": "人間の脳は問題解決時に要素を追加しようとする「足し算バイアス（Additive Bias）」を持っています。しかし要素が増えるほど、脳の<strong>作業記憶（Working Memory）</strong>には多大な<strong>「外在性認知負荷（Extraneous Cognitive Load）」</strong>が蓄積します。ウォズニアックのように毎日1つずつ要素を削減する<strong>「引き算の思考（Subtractive Behavior）」</strong>は、システムの複雑性を下げてエラー発生率を減少させ、脳の<strong>前頭葉（Prefrontal Cortex）</strong>の資源を核心的課題にのみ集中させます。",
-        "cautionTitle": "注意事項：無計画な削除ではなく「必須メカニズム」を保持しながら削るルール",
-        "cautionDesc": "リファクタリングで最も警戒すべきは、核心的な性能や機能を損なってまで無差別に削除することです。ウォズニアックのようにシステム全体が作動する基本プロトコルを完全に理解した上で、同じ結果を出せる最も単純な経路を探して削減することが真の最適化に繋がります。",
-        "steps": [
-          {
-            "title": "対象システム・業務・コードの視覚的マップ化",
-            "desc": "進行中のプロジェクト、作成したコード、企画書、日々の業務ルーティンの全構成要素を一覧できるように可視化します。"
-          },
-          {
-            "title": "毎日1つの不要要素/ステップの引き算リファクタリング",
-            "desc": "全体作動に影響を与えずに省略できるパーツ、重複ステップ、冗長な文章を毎日1つ選定して除去します。"
-          },
-          {
-            "title": "軽量化されたシステムの動作テストと認知余力の確保",
-            "desc": "要素が削減されたシンプルシステムを稼働させ、処理速度の向上、エラー減少、自身の疲労度軽減を確認します。"
-          }
-        ],
-        "faqs": [
-          {
-            "question": "エンジニアやプログラマーではない一般的な職種でもこの引き算習慣は活用できますか？",
-            "answer": "はい、非常に強力に活用できます。複雑な報告書フォーマットの短縮、不要な承認ステップの除去、毎日のメール文面の簡素化など、業務全体の生産性を劇的に高められます。"
-          },
-          {
-            "question": "作成した要素を削除することに不安を感じる場合はどう克服すればよいですか？",
-            "answer": "「バージョン管理（Versioning）」を導入してください。削る前のオリジナル版をバックアップしておけば、いつでも復元できる安心感を持って思い切った引き算に挑戦できます。"
-          }
-        ]
-      },
-      "es": {
-        "title": "Potente Mediante la Sustracción: El Minimalismo de Circuitos de Steve Wozniak y la Refactorización Cognitiva",
-        "description": "Descubra cómo el cofundador de Apple Steve Wozniak diseñó el Apple I y II usando la menor cantidad de chips mediante su rutina de minimalismo. Aprenda una guía de 3 pasos para la reducción de carga cognitiva.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
-        "intro": "\"La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar.\" 💻\n\nSteve Wozniak (1950–), el legendario ingeniero que cofundó Apple junto a Steve Jobs y diseñó en solitario el Apple I y el Apple II: los primeros ordenadores personales que conectaban teclado y monitor directamente a la placa. Mientras otros ingenieros usaban más de 100 chips para máquinas primitivas, Wozniak logró exactamente lo mismo utilizando apenas 40.\n\nSu secreto residía en su 'Rutina de Refactorización Minimalista (Minimalist Refactoring Routine)'. Por las noches, revisaba los esquemas completados y se desafiaba a eliminar un chip, una puerta lógica o una línea de código cada día. Obsesionarse con restar en lugar de sumar redujo drásticamente las fallas y revolucionó la informática.",
-        "whyTitle": "Romper el Sesgo Aditivo: 'Comportamiento Sustractivo' y Teoría de la Carga Cognitiva",
-        "whyDesc": "El cerebro humano posee un 'Sesgo Aditivo' innato que tiende a agregar elementos al resolver problemas. Sin embargo, acumular componentes sobrecarga la <strong>Memoria de Trabajo</strong> con <strong>Carga Cognitiva Extraña</strong>. Practicar el <strong>'Comportamiento Sustractivo (Subtractive Behavior)'</strong> reduce la complejidad del sistema y libera recursos en la <strong>Corteza Prefrontal</strong>.",
-        "cautionTitle": "Regla: Conserve los Protocolos Core Mientras Elimina Capas Innecesarias",
-        "cautionDesc": "El error común en la refactorización es la eliminación descuidada que compromete el funcionamiento. Como Wozniak, comprenda primero la arquitectura principal y busque el camino más directo para lograr el mismo resultado.",
-        "steps": [
-          {
-            "title": "Mapear Todos los Elementos del Sistema u Flujo de Trabajo",
-            "desc": "Despliegue visualmente cada componente, línea de código o paso de su proyecto o rutina diaria."
-          },
-          {
-            "title": "Ejecutar Refactorización Sustractiva Diaria (Eliminar 1 Elemento)",
-            "desc": "Identifique y elimine un paso redundante, métrica innecesaria o texto ambiguo cada día sin alterar la función principal."
-          },
-          {
-            "title": "Verificar la Operación del Sistema Simplificado y el Alivio Cognitivo",
-            "desc": "Ponga a prueba el proceso simplificado para confirmar una velocidad optimizada y una menor fatiga mental."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "¿Es efectiva esta rutina para profesionales fuera de la ingeniería?",
-            "answer": "Sí, enormemente. Simplificar informes, eliminar pasos burocráticos o recortar correos reduce la fricción organizacional y aumenta la productividad."
-          },
-          {
-            "question": "¿Cómo puedo superar la ansiedad de borrar algo que me costó trabajo crear?",
-            "answer": "Aplique el 'control de versiones'. Guarde una copia de respaldo antes de recortar. Saber que puede restaurar el archivo elimina el miedo y facilita la simplificación."
-          }
-        ]
-      },
-      "fr": {
-        "title": "Puissant par la soustraction : Le minimalisme de circuits de Steve Wozniak et la refactorisation cognitive",
-        "description": "Découvrez comment le cofondateur d'Apple Steve Wozniak a conçu l'Apple I et II en utilisant le moins de puces possible grâce à sa routine de minimalisme. Suivez ce guide en 3 étapes pour réduire la charge cognitive.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Théorie de la charge cognitive (John Sweller)* & *Sciences de la conception soustractive*",
-        "intro": "« La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » 💻\n\nSteve Wozniak (1950–), le génial ingénieur qui a cofondé Apple avec Steve Jobs et conçu seul l'Apple I et l'Apple II. Alors que les ingénieurs de son époque utilisaient plus de 100 puces pour fabriquer des ordinateurs rudimentaires, Wozniak réussissait le même exploit avec seulement 40 puces environ.\n\nSon secret résidait dans sa 'Routine de refactorisation minimaliste (Minimalist Refactoring Routine)'. Tard le soir, il étudiait ses schémas et se défiait de supprimer une puce ou une ligne de code chaque jour. En privilégiant la soustraction plutôt que l'addition, il a réduit les pannes et maximisé la vitesse.",
-        "whyTitle": "Briser le biais d'adjonction : Le « comportement soustractif » et la théorie de la charge cognitive",
-        "whyDesc": "L'esprit humain souffre d'un 'biais d'adjonction' en cherchant toujours à ajouter des éléments. Cependant, cette accumulation surcharge la <strong>mémoire de travail</strong> d'une <strong>charge cognitive inutile</strong>. Pratiquer le <strong>« comportement soustractif (Subtractive Behavior) »</strong> réduit la complexité et libère le <strong>Cortex Préfrontal</strong> pour les tâches essentielles.",
-        "cautionTitle": "Règle : Préserver le protocole essentiel tout en élaguant le superflu",
-        "cautionDesc": "L'erreur principale lors de la refactorisation est la suppression aveugle qui dégrade les fonctions clés. Comme Wozniak, maîtrisez d'abord la logique fondamentale pour trouver le chemin le plus direct et épuré.",
-        "steps": [
-          {
-            "title": "Cartographier tous les éléments du système ou du processus",
-            "desc": "Mettez à plat chaque composant, ligne de code ou étape de votre projet ou de votre routine quotidienne."
-          },
-          {
-            "title": "Exécuter une refactorisation soustractive quotidienne (Soustruire 1 élément)",
-            "desc": "Repérez et supprimez chaque jour une étape superflue, un indicateur inutile ou un paragraphe trop long."
-          },
-          {
-            "title": "Vérifier le fonctionnement du système épuré et le gain mental",
-            "desc": "Testez le processus simplifié pour constater l'accélération de l'exécution et la diminution de la fatigue cognitive."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Cette méthode est-elle utile pour les profils non techniques ?",
-            "answer": "Oui, absolument. Raccourcir des présentations, supprimer des validations inutiles ou épuré des e-mails diminue la friction quotidienne et booste l'efficacité."
-          },
-          {
-            "question": "Comment surmonter la crainte de supprimer du travail déjà accompli ?",
-            "answer": "Utilisez le 'gestionnaire de versions'. Conservez une sauvegarde avant d'élaguer. Savoir que vous pouvez faire marche arrière dissipe la peur de supprimer."
-          }
-        ]
-      },
-      "de": {
-        "title": "Stärker durch Subtraktion: Steve Wozniaks Schaltkreis-Minimalismus und kognitives Refactoring",
-        "description": "Erfahren Sie, wie Apple-Mitbegründer Steve Wozniak den Apple I & II mit extrem wenigen Chips entwarf. Entdecken Sie eine 3-Schritte-Anleitung zur kognitiven Entlastung durch reduktives Design.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Kognitive Belastungstheorie (John Sweller)* & *Subtraktive Designforschung*",
-        "intro": "\"Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann.\" 💻\n\nSteve Wozniak (1950–), der legendäre Ingenieur, der Apple zusammen mit Steve Jobs gründete und den Apple I sowie Apple II im Alleingang entwickelte. Während zeitgenössische Ingenieure über 100 Chips verbauten, schaffte Wozniak dieselbe Leistung mit knapp 40 Chips.\n\nSein Geheimnis war die 'Minimalistische Refactoring-Routine (Minimalist Refactoring Routine)'. In späten Nachtstunden überprüfte er Schaltpläne und entfernte täglich einen Chip oder eine Zeile Code. Der Fokus auf Subtraktion senkte Ausfallraten und steigerte die Effizienz drastisch.",
-        "whyTitle": "Den Additions-Bias durchbrechen: 'Subtraktives Verhalten' und Kognitive Belastungstheorie",
-        "whyDesc": "Das Gehirn neigt bei Problemlösungen zu einem 'Additions-Bias'. Zu viele Elemente überlasten jedoch das <strong>Arbeitsgedächtnis</strong> mit <strong>kognitiver Zusatzbelastung</strong>. Das Anwenden von <strong>'Subtraktivem Verhalten (Subtractive Behavior)'</strong> reduziert die Systemkomplexität und hält den <strong>präfrontalen Kortex</strong> für Wesentliches frei.",
-        "cautionTitle": "Regel: Kernfunktionen bewahren, während überflüssige Schichten entfernt werden",
-        "cautionDesc": "Der Hauptfehler ist unüberlegtes Löschen, das Kernfunktionen beschädigt. Verstehen Sie wie Wozniak zuerst die zugrundeliegende Logik, um den simpelsten Weg zum selben Ziel zu finden.",
-        "steps": [
-          {
-            "title": "Alle Elemente des Zielsystems oder Arbeitsablaufs visualisieren",
-            "desc": "Legen Sie alle Komponenten, Schritte, Zeilen oder Prozessstufen Ihres aktuellen Projekts offen auf."
-          },
-          {
-            "title": "Tägliches subtraktives Refactoring durchführen (1 Element entfernen)",
-            "desc": "Wählen und entfernen Sie täglich einen überflüssigen Schritt oder Textabschnitt, ohne die Gesamtfunktion zu beeinträchtigen."
-          },
-          {
-            "title": "Die Funktionsfähigkeit des schlanken Systems überprüfen",
-            "desc": "Testen Sie den vereinfachten Ablauf, um Geschwindigkeit, Fehlerminimierung und mentale Entlastung zu bestätigen."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Ist diese Routine auch für Nicht-Ingenieure im Büroalltag nützlich?",
-            "answer": "Ja, extrem. Das Einkürzen von Berichten, Streichen unnötiger Freigabeschritte oder Kürzen von Mails reduziert organisatorische Reibung drastisch."
-          },
-          {
-            "question": "Wie überwinde ich die Angst, bereits erstellte Inhalte zu löschen?",
-            "answer": "Nutzen Sie 'Versionskontrolle'. Speichern Sie vor dem Kürzen ein Backup. Das Wissen um die Wiederherstellbarkeit nimmt die Angst vor dem Löschen."
-          }
-        ]
-      },
-      "pt": {
-        "title": "Poderoso Pela Subtração: O Minimalismo de Circuitos de Steve Wozniak e a Refatoração Cognitiva",
-        "description": "Descubra como o cofundador da Apple Steve Wozniak projetou o Apple I e II usando o mínimo de chips possível por meio de sua rotina minimalista. Aprenda um guia de 3 passos para a redução de carga cognitiva.",
-        "authority": "Steve Wozniak, *iWoz* (2006) e *Teoria da Carga Cognitiva (John Sweller)* e *Ciência do Design Subtrativo*",
-        "intro": "\"A perfeição é alcançada não quando não há mais nada a adicionar, mas quando não há mais nada a retirar.\" 💻\n\nSteve Wozniak (1950–), o lendário engenheiro que cofundou a Apple com Steve Jobs e projetou sozinho o Apple I e o Apple II. Enquanto outros engenheiros usavam mais de 100 chips para máquinas primitivas, Wozniak alcançava o mesmo resultado usando cerca de 40.\n\nSeu segredo residia em sua 'Rotina de Refatoração Minimalista (Minimalist Refactoring Routine)'. Madrugada adentro, revisava esquemas e se desafiava a eliminar um chip ou linha de código a cada dia. Focar na subtração reduziu falhas e revolucionou a computação.",
-        "whyTitle": "Quebrando o Vício da Adição: 'Comportamento Subtrativo' e Carga Cognitiva",
-        "whyDesc": "O cérebro tende ao 'Vício da Adição' ao resolver problemas. No entanto, o excesso de elementos sobrecarrega a <strong>Memória de Trabalho</strong> com <strong>Carga Cognitiva Extrínseca</strong>. Praticar o <strong>'Comportamento Subtrativo (Subtractive Behavior)'</strong> reduz a complexidade e libera o <strong>Córtex Pré-frontal</strong> para o essencial.",
-        "cautionTitle": "Regra: Preserve os Protocolos Principais Enquanto Elimina Camadas Desnecessárias",
-        "cautionDesc": "O erro comum é a exclusão impensada que compromete a função. Como Wozniak, entenda a arquitetura principal e encontre o caminho mais direto para o mesmo objetivo.",
-        "steps": [
-          {
-            "title": "Mapear Todos os Elementos do Sistema ou Fluxo de Trabalho",
-            "desc": "Mapeie visualmente cada componente, etapa ou linha do seu projeto ou rotina diária."
-          },
-          {
-            "title": "Executar Refatoração Subtrativa Diária (Eliminar 1 Elemento)",
-            "desc": "Identifique e remova uma etapa redundante ou texto excessivo diariamente sem prejudicar o resultado final."
-          },
-          {
-            "title": "Verificar a Operação do Sistema Simplificado e o Alívio Cognitivo",
-            "desc": "Execute o processo simplificado para confirmar maior velocidade e menor cansaço mental."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Esta rotina subtrativa é útil fora da área técnica?",
-            "answer": "Sim, enormemente. Simplificar relatórios, cortar reuniões desnecessárias ou enxugar e-mails reduz a fricção diária e aumenta a produtividade."
-          },
-          {
-            "question": "Como superar o receio de deletar algo que demorei para criar?",
-            "answer": "Use o 'controle de versões'. Faça um backup do documento antes de cortar. Saber que pode restaurar tudo elimina o medo da exclusão."
-          }
-        ]
-      },
-      "id": {
-        "title": "Makin Perkasa Lewat Pengurangan: Minimalisme Rangkaian Steve Wozniak dan Refaktorisasi Kognitif",
-        "description": "Pelajari bagaimana pendiri Apple Steve Wozniak merancang Apple I dan II dengan chip seminim mungkin melalui rutinitas refaktorisasi. Temukan panduan 3 langkah untuk mengurangi beban kognitif.",
-        "authority": "Steve Wozniak, *iWoz* (2006) & *Teori Beban Kognitif (John Sweller)* & *Sains Desain Subtraktif*",
-        "intro": "\"Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi.\" 💻\n\nSteve Wozniak (1950–), insinyur legendaris yang mendirikan Apple bersama Steve Jobs dan merancang Apple I serta Apple II seorang diri. Ketika insinyur lain membutuhkan lebih dari 100 chip untuk membuat komputer sederhana, Wozniak mencapai hal serupa hanya dengan 40 chip.\n\nRahasia kehebatannya terletak pada 'Rutinitas Refaktorisasi Minimalis (Minimalist Refactoring Routine)'. Di larut malam, ia meneliti diagram rangkaian dan menantang dirinya mengurangi satu chip atau satu baris kode setiap hari. Fokus pada pengurangan menekan angka kerusakan dan merevolusi teknologi.",
-        "whyTitle": "Mematahkan Bias Adisi: 'Perilaku Subtraktif' dan Teori Beban Kognitif",
-        "whyDesc": "Otak memiliki 'Bias Adisi' alami yang selalu ingin menambahkan elemen saat menyelesaikan masalah. Namun penumpukan elemen membebani <strong>Working Memory</strong> dengan <strong>Beban Kognitif Ekstraneus</strong>. Menerapkan <strong>'Perilaku Subtraktif (Subtractive Behavior)'</strong> mengurangi kompleksitas sistem dan membebaskan <strong>Korteks Prefrontal</strong> untuk fokus pada fungsi inti.",
-        "cautionTitle": "Aturan: Pertahankan Protokol Utama Saat Memangkas Lapisan yang Tidak Perlu",
-        "cautionDesc": "Kesalahan utama dalam simplifikasi adalah penghapusan ceroboh yang merusak fungsi utama. Seperti Wozniak, pahami arsitektur utamanya terlebih dahulu sebelum menemukan jalur paling sederhana.",
-        "steps": [
-          {
-            "title": "Petakan Seluruh Elemen Sistem atau Alur Kerja Anda",
-            "desc": "Jabarkan setiap komponen, langkah, atau baris dalam proyek atau rutinitas harian Anda secara visual."
-          },
-          {
-            "title": "Lakukan Refaktorisasi Subtraktif Harian (Pangkas 1 Elemen)",
-            "desc": "Pilih dan hapus satu langkah berulang atau kalimat redundan setiap hari tanpa mengganggu fungsi utama."
-          },
-          {
-            "title": "Verifikasi Operasi Sistem yang Ringkas dan Kelegaan Kognitif",
-            "desc": "Jalankan proses yang telah disederhanakan untuk mengonfirmasi peningkatan kecepatan kerja dan penurunan kelelahan mental."
-          }
-        ],
-        "faqs": [
-          {
-            "question": "Apakah rutinitas pengurangan ini berguna untuk pekerjaan kantor non-teknis?",
-            "answer": "Ya, sangat berguna. Menyimpelean format laporan, memangkas birokrasi, atau mempersingkat email mengurangi gesekan kerja dan meningkatkan produktivitas."
-          },
-          {
-            "question": "Bagaimana cara mengatasi rasa cemas saat menghapus sesuatu yang telah buat?",
-            "answer": "Gunakan metode 'kontrol versi'. Simpan salinan cadangan sebelum memangkas. Mengetahui bahwa file asli dapat dipulihkan kapan saja akan menghilangkan rasa takut."
-          }
-        ]
-      }
+    "wozniak-circuit-minimalism": {
+        "pubDate": "2026-06-25",
+        "updatedDate": "2026-06-25",
+        "heroImage": "/images/blog/wozniak_circuit_minimalism.webp",
+        "locales": {
+            "ko": {
+                "title": "덜어낼수록 강력해진다: 스티브 워즈니악의 회로 미니멀리즘과 뺄셈의 리팩토링",
+                "description": "애플의 공동 창립자 스티브 워즈니악이 최소한의 부품으로 최초의 개인용 컴퓨터(Apple I/II)를 설계한 '회로 미니멀리즘' 습관의 인지과학적 원리와 3단계 가이드를 소개합니다.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
+                "intro": "\"완벽함이란 더 이상 더할 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다.\" 💻\n\n스티브 잡스와 함께 애플(Apple)을 창립하고, 한 대의 본체에 키보드와 모니터를 직접 연결하는 최초의 개인용 컴퓨터 Apple I과 Apple II를 혼자서 완전히 설계해낸 전설적인 엔지니어 스티브 워즈니악(Steve Wozniak, 1950–).\n\n당시 다른 엔지니어들이 100개 이상의 칩을 사용해 구현하던 복잡한 기판을 워즈니악은 불과 40여 개의 칩만으로 작동하게 만들었습니다. 그 비결은 그가 매일 밤 홀로 실천했던 '회로 미니멀리즘 & 야간 몰입 스케치 습관(Minimalist Refactoring Routine)'에 있었습니다. 그는 퇴근 후 조용한 밤 시간을 활용해 이미 완성된 회로도를 펼쳐놓고, 불필요한 게이트나 칩, 코드 한 줄을 매일 덜어내는 심야 리팩토링을 거듭했습니다. 덧붙이기보다 덜어내기에 집착했던 이 정교한 습관 덕분에, 그의 컴퓨터는 고장률을 비약적으로 낮추고 전력 효율과 반응 속도를 극대화하며 컴퓨터 역사를 새로 썼습니다.\n\n오늘 포스트에서는 스티브 워즈니악이 실천했던 회로 미니멀리즘 습관의 인지과학적 작동 원리와 현대인들이 복잡한 업무와 시스템 속에서 극도의 본질을 남기기 위한 3단계 실행 가이드를 알아봅니다.",
+                "whyTitle": "뇌의 인지 과부하를 막는 '뺄셈적 사고(Subtractive Behavior)'와 인지 부하 이론",
+                "whyDesc": "인간의 뇌는 본능적으로 문제를 해결할 때 요소를 추가하려는 '더하기 편향(Additive Bias)'을 가지고 있습니다. 그러나 요소가 늘어날수록 시스템과 뇌의 <strong>작업 기억(Working Memory)</strong>에는 막대한 <strong>'외재적 인지 부하(Extraneous Cognitive Load)'</strong>가 누적됩니다. 스티브 워즈니악처럼 하루에 하나씩 요소를 제거하는 <strong>'뺄셈적 사고(Subtractive Behavior)'</strong>는 시스템의 구조적 복잡성을 줄여 에러 발생률을 낮추고, 뇌의 본질적 문제 해결 회로인 <strong>전두엽(Prefrontal Cortex)</strong>의 자원을 핵심 기능에만 집중하게 만듭니다.",
+                "cautionTitle": "무조건적인 삭제가 아닌 '필수 메커니즘'을 보존하며 덜어내는 수칙",
+                "cautionDesc": "미니멀리즘 리팩토링에서 가장 주의해야 할 점은 핵심 성능이나 기능을 훼손하면서까지 무분별하게 삭제하는 것입니다. 워즈니악처럼 전체 시스템이 작동하는 기본 원리(Core Protocol)를 완벽히 이해한 상태에서, 동일한 결과물을 낼 수 있는 가장 우회적이지 않은 단소한 경로를 찾아 덜어내야 비로소 진정한 최적화가 이뤄집니다.",
+                "steps": [
+                    {
+                        "title": "분석 대상 업무·코드·복잡 시스템의 시각적 지도화",
+                        "desc": "자신이 진행 중인 프로젝트, 작성한 코드, 기획서, 일일 업무 루틴의 모든 구성 요소를 한눈에 보이도록 나열합니다."
+                    },
+                    {
+                        "title": "매일 1가지 불필요한 요소/단계의 뺄셈 스케치 (Subtractive Refactoring)",
+                        "desc": "시스템의 전체 작동에 영향을 주지 않으면서 생략할 수 있는 부품, 중복 단계, 수식, 문장 1가지를 매일 선정하여 제거합니다."
+                    },
+                    {
+                        "title": "경량화된 시스템의 동작 테스트 및 인지적 여유 확보",
+                        "desc": "요소가 제거된 간결한 시스템을 실제로 가동해 보며 작동 효율성, 오류 감소, 자신의 인지적 피로도 감소를 확인합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "엔지니어나 프로그래머가 아닌 일반 직장인도 이 뺄셈 습관을 적용할 수 있나요?",
+                        "answer": "네, 매우 강력하게 적용됩니다. 복잡한 보고서 양식 단축, 불필요한 회의 단계 제거, 일일 기획안의 복잡한 문구 덜어내기 등 업무 프로세스 전반에 적용하여 생산성을 비약적으로 높일 수 있습니다."
+                    },
+                    {
+                        "question": "기존에 만들어둔 요소를 삭제할 때 불안감이 드는데 어떻게 극복해야 하나요?",
+                        "answer": "삭제하기 전 기존 버전을 백업해 두는 '버전 관리(Versioning)' 방식을 활용하세요. 언제든 원복할 수 있는 안전장치를 마련해 두면 부담 없이 뺄셈 시도를 진행할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Powerful Through Subtraction: Steve Wozniak's Circuit Minimalism and Cognitive Refactoring",
+                "description": "Discover how Apple co-founder Steve Wozniak designed the Apple I & II using the fewest chips possible through his daily circuit minimalism routine. Learn a 3-step guide to subtractive design and cognitive load reduction.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
+                "intro": "\"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" 💻\n\nSteve Wozniak (1950–), the legendary engineer who co-founded Apple with Steve Jobs and single-handedly designed the Apple I and Apple II—the first personal computers connecting a keyboard and monitor directly to a mainboard. While contemporary engineers relied on over 100 chips to build primitive machines, Wozniak accomplished the same feats using barely 40.\n\nHis secret lay in his daily 'Minimalist Refactoring Routine'. During quiet late-night sessions at home or his desk at HP, Wozniak reviewed completed schematics and systematically challenged himself to remove a chip, gate, or line of code every single day. By obsessing over subtraction rather than addition, he dramatically minimized hardware failure rates, boosted power efficiency, and revolutionized computing history.\n\nIn today's post, we examine the cognitive neuroscience behind Steve Wozniak's circuit minimalism habit and present a 3-step practical guide to streamlining complex systems and eliminating cognitive overload.",
+                "whyTitle": "Breaking the Additive Bias: 'Subtractive Behavior' and Cognitive Load Theory",
+                "whyDesc": "The human brain possesses an innate 'Additive Bias', defaulting to adding new elements when solving problems. However, accumulation overloads the <strong>Working Memory</strong> with <strong>Extraneous Cognitive Load</strong>. Practicing <strong>'Subtractive Behavior'</strong>—removing one component daily like Wozniak—reduces system complexity, suppresses error rates, and frees up resources in the <strong>Prefrontal Cortex</strong> to focus exclusively on core objectives.",
+                "cautionTitle": "Rule: Preserve Core Protocols While Pruning Non-Essential Layers",
+                "cautionDesc": "The primary error in minimalist refactoring is mindless deletion that compromises essential functionality. Like Wozniak, first gain a complete architectural grasp of the core protocol, then identify the most direct, elegant path to achieve identical or superior results.",
+                "steps": [
+                    {
+                        "title": "Map Out All Elements of Your Target System or Workflow",
+                        "desc": "Visually lay out every component, line of code, slide, or step in your current project or daily operational workflow."
+                    },
+                    {
+                        "title": "Execute Daily Subtractive Refactoring (Eliminate 1 Element)",
+                        "desc": "Identify and remove one redundant step, unnecessary metric, or verbose paragraph each day without harming overall functionality."
+                    },
+                    {
+                        "title": "Verify Streamlined System Operations and Cognitive Relief",
+                        "desc": "Run the simplified process to confirm enhanced operational speed, reduced error rates, and noticeable cognitive relief."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is this subtractive routine effective for non-engineers or general business professionals?",
+                        "answer": "Yes, immensely so. Trimming bloated report templates, eliminating redundant approval layers, or shortening email drafts reduces organizational friction and drastically increases productivity."
+                    },
+                    {
+                        "question": "How can I overcome the anxiety of deleting elements I spent time creating?",
+                        "answer": "Utilize a 'version control' approach. Keep a backup copy of your original work before pruning. Knowing you can revert anytime removes fear and enables bold subtractive optimization."
+                    }
+                ]
+            },
+            "zh": {
+                "title": "越精简，越强大：史蒂夫·沃兹尼亚克的电路极简主义与减法重构",
+                "description": "探索苹果联合创始人史蒂夫·沃兹尼亚克如何通过每日电路极简习惯，以极少芯片独立设计出Apple I和Apple II。掌握基于减法思维与降低认知负荷的3步骤指南。",
+                "authority": "史蒂夫·沃兹尼亚克《iWoz》（2006年）、认知负荷理论（John Sweller）及减法设计科学",
+                "intro": "“完美并非始于无以复加，而是终于无以复减。” 💻\n\n作为与史蒂夫·乔布斯共同创立苹果公司（Apple）、并独立一手设计出首批将键盘与显示器直接连接的主板个人电脑（Apple I与Apple II）的传奇工程师，史蒂夫·沃兹尼亚克（Steve Wozniak，1950–）创造了工程史上的奇迹。当同时代的工程师依赖100多个芯片才能搭建出原始机型时，沃兹尼亚克仅用了约40个芯片便实现了更为卓越的性能。\n\n他的秘诀在于他坚持不懈的“极简重构习惯（Minimalist Refactoring Routine）”。在深夜静谧的时分，他会展开已完成的电路图，挑战自己每天削减掉一个芯片、逻辑门或一行代码。正是这种对“减法”近乎偏执的追求，使他的电脑故障率大幅降低、功耗与响应速度达到巅峰，重写了计算机的发展史。\n\n在今天的文章中，我们将深入解析史蒂夫·沃兹尼亚克电路极简习惯背后的认知神经科学原理，并分享现代人在繁复的工作与系统中提炼本质、消除认知过载的3步骤行动指南。",
+                "whyTitle": "打破加法偏误的“减法思维（Subtractive Behavior）”与认知负荷理论",
+                "whyDesc": "大脑在解决问题时天然存在“加法偏误（Additive Bias）”，倾向于不断叠加新要素。然而，要素的堆砌会向大脑<strong>工作记忆（Working Memory）</strong>注入大量的<strong>“外性认知负荷（Extraneous Cognitive Load）”</strong>。像沃兹尼亚克那样每日削减要素的<strong>“减法思维（Subtractive Behavior）”</strong>，能够降低系统的结构复杂度，减少出错率，并释放大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>的资源，使其专注于最核心的本质问题。",
+                "cautionTitle": "准则：在保障“核心机制”的前提下精准精简",
+                "cautionDesc": "极简重构中最忌讳的是损害核心功能盲目删减。须像沃兹尼亚克那样，在彻底透彻理解系统底层运行逻辑（Core Protocol）的基础上，寻找能实现相同甚至更优结果的最直接路径，方能达成真正的优化。",
+                "steps": [
+                    {
+                        "title": "可视化梳理目标系统或工作流的所有构成要素",
+                        "desc": "将当前项目、代码、策划案或日常工作流程的每一个步骤与要素全面列出，使其一目了然。"
+                    },
+                    {
+                        "title": "每日执行一次减法重构（精简1个要素/步骤）",
+                        "desc": "每天挑选并移除一个冗余步骤、重复指标或繁琐语句，在不影响整体运转的前提下进行瘦身。"
+                    },
+                    {
+                        "title": "验证精简系统的运转效率并释放认知空间",
+                        "desc": "实际运行精简后的流程，确认系统运行速度的提升、故障率的降低以及个人认知疲劳感的明显消除。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "非工程师或非程序员的日常职场人也能应用这种减法习惯吗？",
+                        "answer": "是的，效果极其显著。简化冗长的汇报PPT、删减不必要的审批节点、精简日常邮件与策划文案，均能大幅降低组织摩擦并成倍提升工作效率。"
+                    },
+                    {
+                        "question": "删掉自己花时间做出的东西时感到焦虑不安，该如何克服？",
+                        "answer": "采用‘版本控制（Versioning）’策略。在删减前保留一份原始备份。有了随时可以还原的安全网，你便能毫无负担地进行大胆的减法尝试。"
+                    }
+                ]
+            },
+            "ja": {
+                "title": "削ぎ落とすほど強力になる：スティーブ・ウォズニアックの回路ミニマリズムと引き算のリファクタリング",
+                "description": "アップル共同創業者のスティーブ・ウォズニアックが最小限のパーツで個人用コンピュータ（Apple I/II）を設計した「回路ミニマリズム」の脳科学的原理と3ステップガイドをご紹介します。",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
+                "intro": "\"完璧さとは、これ以上付け加えるものがない状態ではなく、これ以上削るものがない状態のときに達成される。\" 💻\n\nスティーブ・ジョブズと共にアップル（Apple）を創業し、1台の基板にキーボードとモニターを直接接続する初の個人用コンピュータApple IおよびApple IIをたった一人で設計し上げた伝説のエンジニア、スティーブ・ウォズニアック（Steve Wozniak, 1950–）。\n\n当時のエンジニアたちが100個以上のチップを費やして構築していた複雑な基板を、ウォズニアックはわずか40個余りのチップだけで動作させました。その秘密は、彼が毎晩一人で実践していた「回路ミニマリズム＆夜間没頭スケッチ習慣（Minimalist Refactoring Routine）」にありました。彼は静かな夜の時間を活用して完成した回路図を広げ、不要なゲートやチップ、コード一行を毎日削ぎ落とすリファクタリングを重ねました。付け加えることより削ることに執着したこの習慣のおかげで、彼のコンピュータは故障率を極限まで下げ、電力効率と応答速度を極大化してコンピュータ史を塗り替えました。\n\n本日の記事では、スティーブ・ウォズニアックが実践した回路ミニマリズムの認知科学的作動原理と、現代人が複雑なシステムの中から本質を抽出するための3ステップ実践ガイドを解説します。",
+                "whyTitle": "脳の認知過負荷を防ぐ「引き算の思考（Subtractive Behavior）」と認知負荷理論",
+                "whyDesc": "人間の脳は問題解決時に要素を追加しようとする「足し算バイアス（Additive Bias）」を持っています。しかし要素が増えるほど、脳の<strong>作業記憶（Working Memory）</strong>には多大な<strong>「外在性認知負荷（Extraneous Cognitive Load）」</strong>が蓄積します。ウォズニアックのように毎日1つずつ要素を削減する<strong>「引き算の思考（Subtractive Behavior）」</strong>は、システムの複雑性を下げてエラー発生率を減少させ、脳の<strong>前頭葉（Prefrontal Cortex）</strong>の資源を核心的課題にのみ集中させます。",
+                "cautionTitle": "注意事項：無計画な削除ではなく「必須メカニズム」を保持しながら削るルール",
+                "cautionDesc": "リファクタリングで最も警戒すべきは、核心的な性能や機能を損なってまで無差別に削除することです。ウォズニアックのようにシステム全体が作動する基本プロトコルを完全に理解した上で、同じ結果を出せる最も単純な経路を探して削減することが真の最適化に繋がります。",
+                "steps": [
+                    {
+                        "title": "対象システム・業務・コードの視覚的マップ化",
+                        "desc": "進行中のプロジェクト、作成したコード、企画書、日々の業務ルーティンの全構成要素を一覧できるように可視化します。"
+                    },
+                    {
+                        "title": "毎日1つの不要要素/ステップの引き算リファクタリング",
+                        "desc": "全体作動に影響を与えずに省略できるパーツ、重複ステップ、冗長な文章を毎日1つ選定して除去します。"
+                    },
+                    {
+                        "title": "軽量化されたシステムの動作テストと認知余力の確保",
+                        "desc": "要素が削減されたシンプルシステムを稼働させ、処理速度の向上、エラー減少、自身の疲労度軽減を確認します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "エンジニアやプログラマーではない一般的な職種でもこの引き算習慣は活用できますか？",
+                        "answer": "はい、非常に強力に活用できます。複雑な報告書フォーマットの短縮、不要な承認ステップの除去、毎日のメール文面の簡素化など、業務全体の生産性を劇的に高められます。"
+                    },
+                    {
+                        "question": "作成した要素を削除することに不安を感じる場合はどう克服すればよいですか？",
+                        "answer": "「バージョン管理（Versioning）」を導入してください。削る前のオリジナル版をバックアップしておけば、いつでも復元できる安心感を持って思い切った引き算に挑戦できます。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Potente Mediante la Sustracción: El Minimalismo de Circuitos de Steve Wozniak y la Refactorización Cognitiva",
+                "description": "Descubra cómo el cofundador de Apple Steve Wozniak diseñó el Apple I y II usando la menor cantidad de chips mediante su rutina de minimalismo. Aprenda una guía de 3 pasos para la reducción de carga cognitiva.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Cognitive Load Theory (John Sweller)* & *Subtractive Design Science*",
+                "intro": "\"La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar.\" 💻\n\nSteve Wozniak (1950–), el legendario ingeniero que cofundó Apple junto a Steve Jobs y diseñó en solitario el Apple I y el Apple II: los primeros ordenadores personales que conectaban teclado y monitor directamente a la placa. Mientras otros ingenieros usaban más de 100 chips para máquinas primitivas, Wozniak logró exactamente lo mismo utilizando apenas 40.\n\nSu secreto residía en su 'Rutina de Refactorización Minimalista (Minimalist Refactoring Routine)'. Por las noches, revisaba los esquemas completados y se desafiaba a eliminar un chip, una puerta lógica o una línea de código cada día. Obsesionarse con restar en lugar de sumar redujo drásticamente las fallas y revolucionó la informática.",
+                "whyTitle": "Romper el Sesgo Aditivo: 'Comportamiento Sustractivo' y Teoría de la Carga Cognitiva",
+                "whyDesc": "El cerebro humano posee un 'Sesgo Aditivo' innato que tiende a agregar elementos al resolver problemas. Sin embargo, acumular componentes sobrecarga la <strong>Memoria de Trabajo</strong> con <strong>Carga Cognitiva Extraña</strong>. Practicar el <strong>'Comportamiento Sustractivo (Subtractive Behavior)'</strong> reduce la complejidad del sistema y libera recursos en la <strong>Corteza Prefrontal</strong>.",
+                "cautionTitle": "Regla: Conserve los Protocolos Core Mientras Elimina Capas Innecesarias",
+                "cautionDesc": "El error común en la refactorización es la eliminación descuidada que compromete el funcionamiento. Como Wozniak, comprenda primero la arquitectura principal y busque el camino más directo para lograr el mismo resultado.",
+                "steps": [
+                    {
+                        "title": "Mapear Todos los Elementos del Sistema u Flujo de Trabajo",
+                        "desc": "Despliegue visualmente cada componente, línea de código o paso de su proyecto o rutina diaria."
+                    },
+                    {
+                        "title": "Ejecutar Refactorización Sustractiva Diaria (Eliminar 1 Elemento)",
+                        "desc": "Identifique y elimine un paso redundante, métrica innecesaria o texto ambiguo cada día sin alterar la función principal."
+                    },
+                    {
+                        "title": "Verificar la Operación del Sistema Simplificado y el Alivio Cognitivo",
+                        "desc": "Ponga a prueba el proceso simplificado para confirmar una velocidad optimizada y una menor fatiga mental."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es efectiva esta rutina para profesionales fuera de la ingeniería?",
+                        "answer": "Sí, enormemente. Simplificar informes, eliminar pasos burocráticos o recortar correos reduce la fricción organizacional y aumenta la productividad."
+                    },
+                    {
+                        "question": "¿Cómo puedo superar la ansiedad de borrar algo que me costó trabajo crear?",
+                        "answer": "Aplique el 'control de versiones'. Guarde una copia de respaldo antes de recortar. Saber que puede restaurar el archivo elimina el miedo y facilita la simplificación."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Puissant par la soustraction : Le minimalisme de circuits de Steve Wozniak et la refactorisation cognitive",
+                "description": "Découvrez comment le cofondateur d'Apple Steve Wozniak a conçu l'Apple I et II en utilisant le moins de puces possible grâce à sa routine de minimalisme. Suivez ce guide en 3 étapes pour réduire la charge cognitive.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Théorie de la charge cognitive (John Sweller)* & *Sciences de la conception soustractive*",
+                "intro": "« La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » 💻\n\nSteve Wozniak (1950–), le génial ingénieur qui a cofondé Apple avec Steve Jobs et conçu seul l'Apple I et l'Apple II. Alors que les ingénieurs de son époque utilisaient plus de 100 puces pour fabriquer des ordinateurs rudimentaires, Wozniak réussissait le même exploit avec seulement 40 puces environ.\n\nSon secret résidait dans sa 'Routine de refactorisation minimaliste (Minimalist Refactoring Routine)'. Tard le soir, il étudiait ses schémas et se défiait de supprimer une puce ou une ligne de code chaque jour. En privilégiant la soustraction plutôt que l'addition, il a réduit les pannes et maximisé la vitesse.",
+                "whyTitle": "Briser le biais d'adjonction : Le « comportement soustractif » et la théorie de la charge cognitive",
+                "whyDesc": "L'esprit humain souffre d'un 'biais d'adjonction' en cherchant toujours à ajouter des éléments. Cependant, cette accumulation surcharge la <strong>mémoire de travail</strong> d'une <strong>charge cognitive inutile</strong>. Pratiquer le <strong>« comportement soustractif (Subtractive Behavior) »</strong> réduit la complexité et libère le <strong>Cortex Préfrontal</strong> pour les tâches essentielles.",
+                "cautionTitle": "Règle : Préserver le protocole essentiel tout en élaguant le superflu",
+                "cautionDesc": "L'erreur principale lors de la refactorisation est la suppression aveugle qui dégrade les fonctions clés. Comme Wozniak, maîtrisez d'abord la logique fondamentale pour trouver le chemin le plus direct et épuré.",
+                "steps": [
+                    {
+                        "title": "Cartographier tous les éléments du système ou du processus",
+                        "desc": "Mettez à plat chaque composant, ligne de code ou étape de votre projet ou de votre routine quotidienne."
+                    },
+                    {
+                        "title": "Exécuter une refactorisation soustractive quotidienne (Soustruire 1 élément)",
+                        "desc": "Repérez et supprimez chaque jour une étape superflue, un indicateur inutile ou un paragraphe trop long."
+                    },
+                    {
+                        "title": "Vérifier le fonctionnement du système épuré et le gain mental",
+                        "desc": "Testez le processus simplifié pour constater l'accélération de l'exécution et la diminution de la fatigue cognitive."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Cette méthode est-elle utile pour les profils non techniques ?",
+                        "answer": "Oui, absolument. Raccourcir des présentations, supprimer des validations inutiles ou épuré des e-mails diminue la friction quotidienne et booste l'efficacité."
+                    },
+                    {
+                        "question": "Comment surmonter la crainte de supprimer du travail déjà accompli ?",
+                        "answer": "Utilisez le 'gestionnaire de versions'. Conservez une sauvegarde avant d'élaguer. Savoir que vous pouvez faire marche arrière dissipe la peur de supprimer."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Stärker durch Subtraktion: Steve Wozniaks Schaltkreis-Minimalismus und kognitives Refactoring",
+                "description": "Erfahren Sie, wie Apple-Mitbegründer Steve Wozniak den Apple I & II mit extrem wenigen Chips entwarf. Entdecken Sie eine 3-Schritte-Anleitung zur kognitiven Entlastung durch reduktives Design.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Kognitive Belastungstheorie (John Sweller)* & *Subtraktive Designforschung*",
+                "intro": "\"Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann.\" 💻\n\nSteve Wozniak (1950–), der legendäre Ingenieur, der Apple zusammen mit Steve Jobs gründete und den Apple I sowie Apple II im Alleingang entwickelte. Während zeitgenössische Ingenieure über 100 Chips verbauten, schaffte Wozniak dieselbe Leistung mit knapp 40 Chips.\n\nSein Geheimnis war die 'Minimalistische Refactoring-Routine (Minimalist Refactoring Routine)'. In späten Nachtstunden überprüfte er Schaltpläne und entfernte täglich einen Chip oder eine Zeile Code. Der Fokus auf Subtraktion senkte Ausfallraten und steigerte die Effizienz drastisch.",
+                "whyTitle": "Den Additions-Bias durchbrechen: 'Subtraktives Verhalten' und Kognitive Belastungstheorie",
+                "whyDesc": "Das Gehirn neigt bei Problemlösungen zu einem 'Additions-Bias'. Zu viele Elemente überlasten jedoch das <strong>Arbeitsgedächtnis</strong> mit <strong>kognitiver Zusatzbelastung</strong>. Das Anwenden von <strong>'Subtraktivem Verhalten (Subtractive Behavior)'</strong> reduziert die Systemkomplexität und hält den <strong>präfrontalen Kortex</strong> für Wesentliches frei.",
+                "cautionTitle": "Regel: Kernfunktionen bewahren, während überflüssige Schichten entfernt werden",
+                "cautionDesc": "Der Hauptfehler ist unüberlegtes Löschen, das Kernfunktionen beschädigt. Verstehen Sie wie Wozniak zuerst die zugrundeliegende Logik, um den simpelsten Weg zum selben Ziel zu finden.",
+                "steps": [
+                    {
+                        "title": "Alle Elemente des Zielsystems oder Arbeitsablaufs visualisieren",
+                        "desc": "Legen Sie alle Komponenten, Schritte, Zeilen oder Prozessstufen Ihres aktuellen Projekts offen auf."
+                    },
+                    {
+                        "title": "Tägliches subtraktives Refactoring durchführen (1 Element entfernen)",
+                        "desc": "Wählen und entfernen Sie täglich einen überflüssigen Schritt oder Textabschnitt, ohne die Gesamtfunktion zu beeinträchtigen."
+                    },
+                    {
+                        "title": "Die Funktionsfähigkeit des schlanken Systems überprüfen",
+                        "desc": "Testen Sie den vereinfachten Ablauf, um Geschwindigkeit, Fehlerminimierung und mentale Entlastung zu bestätigen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist diese Routine auch für Nicht-Ingenieure im Büroalltag nützlich?",
+                        "answer": "Ja, extrem. Das Einkürzen von Berichten, Streichen unnötiger Freigabeschritte oder Kürzen von Mails reduziert organisatorische Reibung drastisch."
+                    },
+                    {
+                        "question": "Wie überwinde ich die Angst, bereits erstellte Inhalte zu löschen?",
+                        "answer": "Nutzen Sie 'Versionskontrolle'. Speichern Sie vor dem Kürzen ein Backup. Das Wissen um die Wiederherstellbarkeit nimmt die Angst vor dem Löschen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Poderoso Pela Subtração: O Minimalismo de Circuitos de Steve Wozniak e a Refatoração Cognitiva",
+                "description": "Descubra como o cofundador da Apple Steve Wozniak projetou o Apple I e II usando o mínimo de chips possível por meio de sua rotina minimalista. Aprenda um guia de 3 passos para a redução de carga cognitiva.",
+                "authority": "Steve Wozniak, *iWoz* (2006) e *Teoria da Carga Cognitiva (John Sweller)* e *Ciência do Design Subtrativo*",
+                "intro": "\"A perfeição é alcançada não quando não há mais nada a adicionar, mas quando não há mais nada a retirar.\" 💻\n\nSteve Wozniak (1950–), o lendário engenheiro que cofundou a Apple com Steve Jobs e projetou sozinho o Apple I e o Apple II. Enquanto outros engenheiros usavam mais de 100 chips para máquinas primitivas, Wozniak alcançava o mesmo resultado usando cerca de 40.\n\nSeu segredo residia em sua 'Rotina de Refatoração Minimalista (Minimalist Refactoring Routine)'. Madrugada adentro, revisava esquemas e se desafiava a eliminar um chip ou linha de código a cada dia. Focar na subtração reduziu falhas e revolucionou a computação.",
+                "whyTitle": "Quebrando o Vício da Adição: 'Comportamento Subtrativo' e Carga Cognitiva",
+                "whyDesc": "O cérebro tende ao 'Vício da Adição' ao resolver problemas. No entanto, o excesso de elementos sobrecarrega a <strong>Memória de Trabalho</strong> com <strong>Carga Cognitiva Extrínseca</strong>. Praticar o <strong>'Comportamento Subtrativo (Subtractive Behavior)'</strong> reduz a complexidade e libera o <strong>Córtex Pré-frontal</strong> para o essencial.",
+                "cautionTitle": "Regra: Preserve os Protocolos Principais Enquanto Elimina Camadas Desnecessárias",
+                "cautionDesc": "O erro comum é a exclusão impensada que compromete a função. Como Wozniak, entenda a arquitetura principal e encontre o caminho mais direto para o mesmo objetivo.",
+                "steps": [
+                    {
+                        "title": "Mapear Todos os Elementos do Sistema ou Fluxo de Trabalho",
+                        "desc": "Mapeie visualmente cada componente, etapa ou linha do seu projeto ou rotina diária."
+                    },
+                    {
+                        "title": "Executar Refatoração Subtrativa Diária (Eliminar 1 Elemento)",
+                        "desc": "Identifique e remova uma etapa redundante ou texto excessivo diariamente sem prejudicar o resultado final."
+                    },
+                    {
+                        "title": "Verificar a Operação do Sistema Simplificado e o Alívio Cognitivo",
+                        "desc": "Execute o processo simplificado para confirmar maior velocidade e menor cansaço mental."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Esta rotina subtrativa é útil fora da área técnica?",
+                        "answer": "Sim, enormemente. Simplificar relatórios, cortar reuniões desnecessárias ou enxugar e-mails reduz a fricção diária e aumenta a produtividade."
+                    },
+                    {
+                        "question": "Como superar o receio de deletar algo que demorei para criar?",
+                        "answer": "Use o 'controle de versões'. Faça um backup do documento antes de cortar. Saber que pode restaurar tudo elimina o medo da exclusão."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Makin Perkasa Lewat Pengurangan: Minimalisme Rangkaian Steve Wozniak dan Refaktorisasi Kognitif",
+                "description": "Pelajari bagaimana pendiri Apple Steve Wozniak merancang Apple I dan II dengan chip seminim mungkin melalui rutinitas refaktorisasi. Temukan panduan 3 langkah untuk mengurangi beban kognitif.",
+                "authority": "Steve Wozniak, *iWoz* (2006) & *Teori Beban Kognitif (John Sweller)* & *Sains Desain Subtraktif*",
+                "intro": "\"Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi.\" 💻\n\nSteve Wozniak (1950–), insinyur legendaris yang mendirikan Apple bersama Steve Jobs dan merancang Apple I serta Apple II seorang diri. Ketika insinyur lain membutuhkan lebih dari 100 chip untuk membuat komputer sederhana, Wozniak mencapai hal serupa hanya dengan 40 chip.\n\nRahasia kehebatannya terletak pada 'Rutinitas Refaktorisasi Minimalis (Minimalist Refactoring Routine)'. Di larut malam, ia meneliti diagram rangkaian dan menantang dirinya mengurangi satu chip atau satu baris kode setiap hari. Fokus pada pengurangan menekan angka kerusakan dan merevolusi teknologi.",
+                "whyTitle": "Mematahkan Bias Adisi: 'Perilaku Subtraktif' dan Teori Beban Kognitif",
+                "whyDesc": "Otak memiliki 'Bias Adisi' alami yang selalu ingin menambahkan elemen saat menyelesaikan masalah. Namun penumpukan elemen membebani <strong>Working Memory</strong> dengan <strong>Beban Kognitif Ekstraneus</strong>. Menerapkan <strong>'Perilaku Subtraktif (Subtractive Behavior)'</strong> mengurangi kompleksitas sistem dan membebaskan <strong>Korteks Prefrontal</strong> untuk fokus pada fungsi inti.",
+                "cautionTitle": "Aturan: Pertahankan Protokol Utama Saat Memangkas Lapisan yang Tidak Perlu",
+                "cautionDesc": "Kesalahan utama dalam simplifikasi adalah penghapusan ceroboh yang merusak fungsi utama. Seperti Wozniak, pahami arsitektur utamanya terlebih dahulu sebelum menemukan jalur paling sederhana.",
+                "steps": [
+                    {
+                        "title": "Petakan Seluruh Elemen Sistem atau Alur Kerja Anda",
+                        "desc": "Jabarkan setiap komponen, langkah, atau baris dalam proyek atau rutinitas harian Anda secara visual."
+                    },
+                    {
+                        "title": "Lakukan Refaktorisasi Subtraktif Harian (Pangkas 1 Elemen)",
+                        "desc": "Pilih dan hapus satu langkah berulang atau kalimat redundan setiap hari tanpa mengganggu fungsi utama."
+                    },
+                    {
+                        "title": "Verifikasi Operasi Sistem yang Ringkas dan Kelegaan Kognitif",
+                        "desc": "Jalankan proses yang telah disederhanakan untuk mengonfirmasi peningkatan kecepatan kerja dan penurunan kelelahan mental."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah rutinitas pengurangan ini berguna untuk pekerjaan kantor non-teknis?",
+                        "answer": "Ya, sangat berguna. Menyimpelean format laporan, memangkas birokrasi, atau mempersingkat email mengurangi gesekan kerja dan meningkatkan produktivitas."
+                    },
+                    {
+                        "question": "Bagaimana cara mengatasi rasa cemas saat menghapus sesuatu yang telah buat?",
+                        "answer": "Gunakan metode 'kontrol versi'. Simpan salinan cadangan sebelum memangkas. Mengetahui bahwa file asli dapat dipulihkan kapan saja akan menghilangkan rasa takut."
+                    }
+                ]
+            }
+        }
     }
-  }
 }

@@ -1,0 +1,186 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "셔틀랜드 시프도그(셀티)의 민감성 신호 해석과 MDR1 유전 변이·이중모 엉킴 예방을 위한 3단계 데일리 케어"
+description: "충직하고 똑똑한 셔틀랜드 시프도그(Shetland Sheepdog/Sheltie). MDR1 약물 민감성, 짖음·경계 바디 랭귀지 해독, 빽빽한 이중모 및 관절 관리를 위한 3단계 홈케어 루틴을 소개합니다."
+pubDate: "2026-07-18"
+updatedDate: "2026-07-18"
+category: "FreshSelf"
+heroImage: "/images/blog/shetland_sheepdog_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research"
+steps:
+  - name: "셔틀랜드 시프도그의 바디 랭귀지: 약물 중독 이상 신호와 과자극 경계 짖음"
+    text: "셀티는 소리와 환경 변화에 매우 민감하게 반응합니다. 외부 자극에 대해 귀를 뒤로 밀착하고 입술을 핥으며 날카롭게 연속으로 짖는 '과자극 경계 짖음'은 극심한 스트레스 및 불안 신호입니다. 또한 구충제나 심장사상충 약 복용 후 몸을 비틀거리거나 침을 흘리고 둔해지는 'MDR1 약물 반응'은 즉각적인 응급 처치가 필요한 치명적인 신호입니다."
+  - name: "셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie)의 몸짓 언어와 바디 시그널"
+    text: "* 구충제 복용 후 비틀거림 및 과도한 침 흘림 (MDR1 Drug Toxicity Signal): MDR1 유전 변이로 인해 약물이 뇌혈관 장벽(BBB)을 통과하여 중추신경계 중독을 일으킬 때 나타나는 응급 상태입니다. (투여한 약물을 즉시 확인하고 투여를 중단한 뒤, 24시간 동물병원 응급실로 이송하여 약물 배출 및 진정·대응 처치를 받아야 합니다.)
+
+* 귀를 뒤로 밀착하고 날카롭게 연속 짖음 (Hyper-Reactivity / Alarm Barking): 작은 소리나 낯선 자극에 대해 심각한 경계와 과자극 스트레스를 느끼고 있음을 나타내는 바디 랭귀지입니다. (자극 원인을 즉시 차단하고 '기다려' 명령으로 시선을 보호자에게 돌린 후, 시각·청각적으로 안정된 공간으로 유도합니다.)"
+  - name: "셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie) 맞춤형 3단계 홈케어 루틴"
+    text: "* STEP 1. 아침: 정량 급식과 관절 보호 및 MDR1 위험 약물 사전 체크: 비만으로 인한 슬개골 및 고관절 부담을 줄이기 위해 칼로리 정량 공급을 준수하고, 구충제 및 처방약 투여 전 반드시 MDR1 변이 유무를 수의사와 확인합니다.
+
+* STEP 2. 낮: 목양 본능 해소를 위한 지능 퍼즐 및 소음 탈감작 훈련: 높은 지능을 충족시키는 노즈워크 퍼즐 게임과 외부 소음에 의연해지는 둔감화 훈련을 병행하여 스트레스성 헛짖음을 예방합니다.
+
+* STEP 3. 저녁: 이중모 죽은 털 제거 빗질 및 관절 모니터링: 풍성한 겉털과 빽빽한 속털을 슬리커 및 핀 브러시로 매일 빗어주어 털 엉킴과 핑거 피부염을 예방하고 보행 시 관절 상태를 점검합니다."
+faqs:
+  - question: "셀티에게 치명적인 MDR1 유전자 변이란 무엇인가요?"
+    answer: "약물을 뇌 밖으로 배출하는 P-당단백질(P-glycoprotein) 형성 유전에 변이가 생기는 현상입니다. 이 변이가 있는 셀티에게 이버멕틴(Ivermectin) 등의 특정 구충제나 로페라마이드 등을 투여하면 뇌로 약물이 쉽게 침투해 신경 마비나 사망에 이를 수 있습니다. 사전 유전자 검사와 수의사 상담이 필수적입니다."
+  - question: "셀티의 심한 헛짖음과 이중모 털 빠짐은 어떻게 관리해야 하나요?"
+    answer: "셀티는 목양견 출신으로 욕구가 해소되지 않으면 작은 소리에도 짖기 쉽습니다. 매일 산책과 뇌를 쓰는 지능 놀이로 에너지를 충분히 소비시켜야 합니다. 또한 빽빽한 이중모 구조이므로 언더코트 렉(속털 전용 빗)을 사용해 주 2 ~ 3회 이상 속털까지 깊이 빗어줘야 털 뭉침과 피부 질환을 방지할 수 있습니다."
+---
+
+풍성한 갈기와 우아한 외모를 자랑하는 셔틀랜드 시프도그(Shetland Sheepdog), 일명 '셀티(Sheltie)'는 목양견 출신답게 매우 뛰어난 지능과 높은 충성심을 가진 품종입니다. 그러나 감각이 매우 예리하고 소리에 민감하여 작은 자극에도 쉽게 반응하고 헛짖음이나 경계 행동을 보이기 쉽습니다. 또한 셀티 품종은 특정 구충제나 약물 복용 시 뇌로 약물이 침투해 중독 증상을 일으키는 'MDR1(유전자 변이)' 유전적 위험이 높으며, 풍성한 이중모(Double coat) 관리를 소홀히 하면 심각한 피부염과 털 엉킴이 발생합니다. 오늘 PetSelf에서는 셀티의 스트레스 및 약물 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      수의학적 & 행동학적 근거
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research에 기반하고 있습니다.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. 셔틀랜드 시프도그의 바디 랭귀지: 약물 중독 이상 신호와 과자극 경계 짖음
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">셔틀랜드 시프도그의 바디 랭귀지: 약물 중독 이상 신호와 과자극 경계 짖음</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    셀티는 소리와 환경 변화에 매우 민감하게 반응합니다. 외부 자극에 대해 귀를 뒤로 밀착하고 입술을 핥으며 날카롭게 연속으로 짖는 '과자극 경계 짖음'은 극심한 스트레스 및 불안 신호입니다. 또한 구충제나 심장사상충 약 복용 후 몸을 비틀거리거나 침을 흘리고 둔해지는 'MDR1 약물 반응'은 즉각적인 응급 처치가 필요한 치명적인 신호입니다.
+  </p>
+</div>
+
+---
+
+## 2. 셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie)의 몸짓 언어와 바디 시그널
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">구충제 복용 후 비틀거림 및 과도한 침 흘림 (MDR1 Drug Toxicity Signal)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 의미
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        MDR1 유전 변이로 인해 약물이 뇌혈관 장벽(BBB)을 통과하여 중추신경계 중독을 일으킬 때 나타나는 응급 상태입니다.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 대처법
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        투여한 약물을 즉시 확인하고 투여를 중단한 뒤, 24시간 동물병원 응급실로 이송하여 약물 배출 및 진정·대응 처치를 받아야 합니다.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">귀를 뒤로 밀착하고 날카롭게 연속 짖음 (Hyper-Reactivity / Alarm Barking)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 의미
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        작은 소리나 낯선 자극에 대해 심각한 경계와 과자극 스트레스를 느끼고 있음을 나타내는 바디 랭귀지입니다.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 대처법
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        자극 원인을 즉시 차단하고 '기다려' 명령으로 시선을 보호자에게 돌린 후, 시각·청각적으로 안정된 공간으로 유도합니다.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 3. 셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie) 맞춤형 3단계 홈케어 루틴
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">아침: 정량 급식과 관절 보호 및 MDR1 위험 약물 사전 체크</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    비만으로 인한 슬개골 및 고관절 부담을 줄이기 위해 칼로리 정량 공급을 준수하고, 구충제 및 처방약 투여 전 반드시 MDR1 변이 유무를 수의사와 확인합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">낮: 목양 본능 해소를 위한 지능 퍼즐 및 소음 탈감작 훈련</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    높은 지능을 충족시키는 노즈워크 퍼즐 게임과 외부 소음에 의연해지는 둔감화 훈련을 병행하여 스트레스성 헛짖음을 예방합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">저녁: 이중모 죽은 털 제거 빗질 및 관절 모니터링</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    풍성한 겉털과 빽빽한 속털을 슬리커 및 핀 브러시로 매일 빗어주어 털 엉킴과 핑거 피부염을 예방하고 보행 시 관절 상태를 점검합니다.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 자주 묻는 질문 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">셀티에게 치명적인 MDR1 유전자 변이란 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      약물을 뇌 밖으로 배출하는 P-당단백질(P-glycoprotein) 형성 유전에 변이가 생기는 현상입니다. 이 변이가 있는 셀티에게 이버멕틴(Ivermectin) 등의 특정 구충제나 로페라마이드 등을 투여하면 뇌로 약물이 쉽게 침투해 신경 마비나 사망에 이를 수 있습니다. 사전 유전자 검사와 수의사 상담이 필수적입니다.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">셀티의 심한 헛짖음과 이중모 털 빠짐은 어떻게 관리해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      셀티는 목양견 출신으로 욕구가 해소되지 않으면 작은 소리에도 짖기 쉽습니다. 매일 산책과 뇌를 쓰는 지능 놀이로 에너지를 충분히 소비시켜야 합니다. 또한 빽빽한 이중모 구조이므로 언더코트 렉(속털 전용 빗)을 사용해 주 2 ~ 3회 이상 속털까지 깊이 빗어줘야 털 뭉침과 피부 질환을 방지할 수 있습니다.
+    </p>
+  </details>
+</div>

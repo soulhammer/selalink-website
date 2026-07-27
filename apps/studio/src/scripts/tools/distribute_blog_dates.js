@@ -7,43 +7,76 @@ const __dirname = path.dirname(__filename);
 
 const studioRoot = path.join(__dirname, '../../..');
 
-const targetSlugs = [
-  'how-to-store-peanut-butter',
-  'how-to-store-pasta-sauce',
-  'how-to-store-canned-tuna',
-  'how-to-store-jam',
-  'how-to-store-zucchini',
-  'how-to-store-oysters',
-  'how-to-store-crab',
-  'how-to-store-chili-powder',
-  'how-to-store-condensed-milk',
-  'how-to-store-octopus'
+const habitTargets = [
+  'cervantes-street-paper-reading',
+  'dante-vernacular-collection',
+  'heo-jun-herbal-categorization',
+  'hippocrates-clinical-logging',
+  'jang-yeongsil-natural-flow-mapping',
+  'john-lennon-voice-recorder-capture',
+  'messi-prematch-ball-touch',
+  'michael-jackson-video-feedback',
+  'neil-armstrong-mental-simulation',
+  'raphael-master-sketching',
+  'schliemann-vocal-language-recitation',
+  'usain-bolt-breathing-smile',
+  'wozniak-circuit-minimalism',
+  'yuna-kim-just-do-it-routine'
 ];
 
-// 2026년 1월부터 2026년 7월 현재까지 균등 분산 (10개 날짜)
-const generatedDates = [
-  '2026-01-10',
-  '2026-01-31',
-  '2026-02-20',
-  '2026-03-13',
+const petTargets = [
+  'shetland-sheepdog-care',
+  'somali-cat-care'
+];
+
+// 2026년 1월부터 2026년 7월 현재까지 균등 분산 날짜 (총 16개)
+const dates = [
+  '2026-01-12',
+  '2026-01-25',
+  '2026-02-08',
+  '2026-02-22',
+  '2026-03-07',
+  '2026-03-20',
   '2026-04-03',
-  '2026-04-24',
+  '2026-04-17',
+  '2026-05-01',
   '2026-05-15',
-  '2026-06-05',
-  '2026-06-26',
-  '2026-07-17'
+  '2026-05-29',
+  '2026-06-12',
+  '2026-06-25',
+  '2026-07-08',
+  '2026-07-18',
+  '2026-07-25'
 ];
 
-console.log('🗓️ 신규 10개 식재료 블로그 분산 날짜 목록:', generatedDates);
+const items = [
+  ...habitTargets.map((slug, idx) => ({ slug, category: 'habits', targetDate: dates[idx] })),
+  ...petTargets.map((slug, idx) => ({ slug, category: 'pets', targetDate: dates[14 + idx] }))
+];
+
+console.log('🗓️ 신규 16개 블로그 분산 작업 시작...');
 
 const blogBaseDir = path.join(studioRoot, 'src/content/blog');
-const jsonDir = path.join(studioRoot, 'src/data/blogs/ingredients');
 const locales = ['ko', 'en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
 
-targetSlugs.forEach((slug, idx) => {
-  const targetDate = generatedDates[idx];
+items.forEach(({ slug, category, targetDate }) => {
+  // 1. JSON Master 파일 수정
+  const jsonPath = path.join(studioRoot, `src/data/blogs/${category}`, `${slug}.json`);
+  if (fs.existsSync(jsonPath)) {
+    let raw = fs.readFileSync(jsonPath, 'utf-8');
+    let data = JSON.parse(raw);
+    const topKey = Object.keys(data)[0];
+    if (topKey && data[topKey]) {
+      data[topKey].pubDate = targetDate;
+      data[topKey].updatedDate = targetDate;
+      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 4), 'utf-8');
+      console.log(`[JSON 완료] [${category}] ${slug}.json -> ${targetDate}`);
+    }
+  } else {
+    console.error(`JSON 파일 없음: ${jsonPath}`);
+  }
 
-  // 1. 모든 언어의 Markdown 파일 수정 (pubDate, updatedDate)
+  // 2. 모든 언어의 Markdown 파일 수정
   locales.forEach(lang => {
     const mdPath = path.join(blogBaseDir, lang, `${slug}.md`);
     if (fs.existsSync(mdPath)) {
@@ -54,23 +87,6 @@ targetSlugs.forEach((slug, idx) => {
       console.log(`[MD 완료] [${lang.toUpperCase()}] ${slug}.md -> ${targetDate}`);
     }
   });
-
-  // 2. JSON 파일 수정 (pubDate, updatedDate)
-  const jsonPath = path.join(jsonDir, `${slug}.json`);
-  if (fs.existsSync(jsonPath)) {
-    let raw = fs.readFileSync(jsonPath, 'utf-8');
-    let data = JSON.parse(raw);
-    const topKey = Object.keys(data)[0];
-    if (topKey && data[topKey]) {
-      data[topKey].pubDate = targetDate;
-      data[topKey].updatedDate = targetDate;
-      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 4), 'utf-8');
-      console.log(`[JSON 완료] ${slug}.json -> ${targetDate}`);
-    }
-  } else {
-    console.error(`JSON 파일 없음: ${jsonPath}`);
-  }
 });
 
-console.log('✨ 8개 식재료 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');
-
+console.log('✨ 신규 16개 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');
