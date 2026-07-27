@@ -132,6 +132,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     id: ["PenyimpananMakanan", "PenyimpananSegar", master.ingId || 'food']
   };
   const tagsJson = JSON.stringify(langTagMap[lang] || langTagMap['en']);
+  const guideTitle = locData.guideTitle || enData.guideTitle || (lang === 'ko' ? '과학적으로 검증된 보관 가이드' : 'Scientifically Proven Storage Guide');
 
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
@@ -153,7 +154,7 @@ ${intro}
 
 ---
 
-## 1. ${lang === 'ko' ? '올바른 보관법 3단계' : '3-Step Storage Method'}
+## 1. ${guideTitle}
 
 ${stepCardsHtml}
 
