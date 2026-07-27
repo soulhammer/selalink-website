@@ -3,9 +3,6 @@
         "pubDate": "2026-02-06",
         "updatedDate": "2026-02-06",
         "heroImage": "/images/blog/marquez_yellow_rose.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "노벨 작가의 책상 위 비밀: 마르케스의 노란 장미 창작 루틴",

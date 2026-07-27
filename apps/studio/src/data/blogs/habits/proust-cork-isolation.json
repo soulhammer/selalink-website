@@ -3,9 +3,6 @@
         "pubDate": "2026-01-29",
         "updatedDate": "2026-01-29",
         "heroImage": "/images/blog/proust_cork_isolation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "기억을 깨우는 고요의 방? 마르셀 프루스트의 코르크 감각 차단법",

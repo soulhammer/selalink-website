@@ -3,9 +3,6 @@
         "pubDate": "2026-01-20",
         "updatedDate": "2026-01-20",
         "heroImage": "/images/blog/mendelssohn_watercolor_sketch.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "색채로 빚어낸 멜로디? 펠릭스 멘델스존의 아침 수채화 루틴",

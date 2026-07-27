@@ -3,9 +3,6 @@
         "pubDate": "2026-03-18",
         "updatedDate": "2026-03-18",
         "heroImage": "/images/blog/kant_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "쾨니히스베르크의 시계: 임마누엘 칸트의 매일 오후 3시 30분 산책과 일주기 리듬 정밀화",

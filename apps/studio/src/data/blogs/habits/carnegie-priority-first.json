@@ -3,9 +3,6 @@
         "pubDate": "2026-05-07",
         "updatedDate": "2026-05-07",
         "heroImage": "/images/blog/carnegie_priority_first.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "가장 어려운 과제부터 아침에 처치한 거부: 앤드류 카네기의 우선순위 완결 루틴",

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Serat di Kerah dan Getaran Pupil Mata: Pengamatan Mikro dan Perhatian Selektif ala Anton Chekhov"
 description: "Pelajari bagaimana Anton Chekhov, maestro cerita pendek modern, mencatat secara teliti detail-detail mikro para pejalan kaki di ruang tunggu dan kafe, serta temukan prinsip neurosains dari Perhatian Selektif Mikro yang meningkatkan resolusi kognitif."
-pubDate: "2026-01-12"
-updatedDate: "2026-01-12"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/chekhov.webp"

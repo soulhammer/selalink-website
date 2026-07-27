@@ -3,9 +3,6 @@
         "pubDate": "2026-05-03",
         "updatedDate": "2026-05-03",
         "heroImage": "/images/blog/pasteur.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프",

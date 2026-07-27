@@ -3,9 +3,6 @@
         "pubDate": "2026-05-07",
         "updatedDate": "2026-05-07",
         "heroImage": "/images/blog/copernicus_observatory_tower.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "흔들리지 않는 관측 탑: 코페르니쿠스의 장소 고정 집중법과 공간 조건화",

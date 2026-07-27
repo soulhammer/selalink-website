@@ -3,9 +3,6 @@
         "pubDate": "2026-06-23",
         "updatedDate": "2026-06-23",
         "heroImage": "/images/blog/stephen_hawking.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "전신 마비 속에서도 우주 공간을 렌더링한 호킹의 뇌 속 가상 칠판 훈련",

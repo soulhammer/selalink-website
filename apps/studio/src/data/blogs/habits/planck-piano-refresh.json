@@ -3,9 +3,6 @@
         "pubDate": "2026-04-01",
         "updatedDate": "2026-04-01",
         "heroImage": "/images/blog/planck_piano_refresh.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관",

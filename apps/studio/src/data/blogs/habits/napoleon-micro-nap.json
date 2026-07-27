@@ -3,9 +3,6 @@
         "pubDate": "2026-06-02",
         "updatedDate": "2026-06-02",
         "heroImage": "/images/blog/napoleon_micro_nap.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "나폴레옹 보나파르트의 마이크로 낮잠 루틴",

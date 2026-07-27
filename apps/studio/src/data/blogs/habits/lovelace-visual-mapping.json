@@ -3,9 +3,6 @@
         "pubDate": "2026-02-01",
         "updatedDate": "2026-02-01",
         "heroImage": "/images/blog/lovelace_visual_mapping.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "수학 공식을 그림으로 그린 프로그래머: 에이다 러브레이스의 시각 도식화법과 이중 부호화 네트워크",

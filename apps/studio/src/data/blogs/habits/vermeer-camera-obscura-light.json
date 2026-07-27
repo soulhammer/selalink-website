@@ -3,9 +3,6 @@
         "pubDate": "2026-04-05",
         "updatedDate": "2026-04-05",
         "heroImage": "/images/blog/vermeer_camera_obscura_light.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "'진주 귀걸이를 한 소녀'의 거장? 페르메이르의 아침 창가 빛 관찰 루틴",

@@ -3,9 +3,6 @@
         "pubDate": "2026-04-21",
         "updatedDate": "2026-04-21",
         "heroImage": "/images/blog/van_gogh.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 밤 동생 테오에게 편지를 쓰며 절망을 정화한 반 고흐의 서간체 성찰",

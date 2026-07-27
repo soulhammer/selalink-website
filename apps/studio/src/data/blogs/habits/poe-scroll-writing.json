@@ -3,9 +3,6 @@
         "pubDate": "2026-01-03",
         "updatedDate": "2026-01-03",
         "heroImage": "/images/blog/poe_scroll_writing.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "원고를 두루마리로 이어 붙여 쓴 추리 소설가? 에드거 앨런 포의 초집중 필기법",

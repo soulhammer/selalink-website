@@ -3,9 +3,6 @@
         "pubDate": "2026-02-11",
         "updatedDate": "2026-02-11",
         "heroImage": "/images/blog/feynman_explanation_technique.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "노벨상 수상자의 초고속 학습법: 리처드 파인만의 가르치기 습관과 메타인지 극대화 루틴",

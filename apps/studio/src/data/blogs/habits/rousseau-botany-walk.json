@@ -3,9 +3,6 @@
         "pubDate": "2026-04-23",
         "updatedDate": "2026-04-23",
         "heroImage": "/images/blog/rousseau_botany_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴",

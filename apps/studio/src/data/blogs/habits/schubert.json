@@ -3,9 +3,6 @@
         "pubDate": "2026-07-08",
         "updatedDate": "2026-07-08",
         "heroImage": "/images/blog/schubert.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "기상 직후 안경을 쓴 채 작곡 오선지로 나아간 슈베르트의 즉각 집필 루틴",

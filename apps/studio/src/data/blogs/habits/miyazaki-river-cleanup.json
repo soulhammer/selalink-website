@@ -3,9 +3,6 @@
         "pubDate": "2026-02-24",
         "updatedDate": "2026-02-24",
         "heroImage": "/images/blog/miyazaki_river_cleanup.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "지브리 거장의 맑은 아침: 미야자키 하야오의 하천 청소 산책",

@@ -3,9 +3,6 @@
         "pubDate": "2026-04-25",
         "updatedDate": "2026-04-25",
         "heroImage": "/images/blog/schrodinger_earplug_focus.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법",

@@ -3,9 +3,6 @@
         "pubDate": "2026-05-20",
         "updatedDate": "2026-05-20",
         "heroImage": "/images/blog/rams_morning_swim.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "더 적게, 하지만 더 좋게? 디터 람스의 아침 수영과 관찰 루틴",

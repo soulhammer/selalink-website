@@ -3,9 +3,6 @@
         "pubDate": "2026-05-07",
         "updatedDate": "2026-05-07",
         "heroImage": "/images/blog/steinbeck_editor_letter.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴",

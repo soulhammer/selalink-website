@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bitte nicht stören, wenn das Kissen aufrecht steht: Louisa May Alcotts Fokus-Signal"
 description: "Wir stellen das 'Mood Pillow' (Stimmungskissen) vor, ein Fokus-Signal von Louisa May Alcott, der Autorin von 'Little Women'. Entdecken Sie eine 3-Schritte-Anleitung zur Reduzierung kognitiver Aufgabenwechselkosten durch das Blockieren von Ablenkungen."
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"

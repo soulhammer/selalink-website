@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ne pas déranger lorsque l'oreiller est redressé : Le signal d'immersion de Louisa May Alcott"
 description: "Découvrez le 'Mood Pillow' (l'oreiller d'humeur), un signal d'immersion utilisé par Louisa May Alcott, auteure des 'Quatre Filles du docteur March'. Suivez ce guide en 3 étapes pour réduire les coûts de conversion cognitive en bloquant les distractions environnantes."
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"

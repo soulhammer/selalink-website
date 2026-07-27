@@ -3,9 +3,6 @@
         "pubDate": "2026-05-26",
         "updatedDate": "2026-05-26",
         "heroImage": "/images/blog/asimov_project_switching.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "집필이 막히면 타자기를 바꾼다? 아이작 아시모프의 멀티태스킹 전환 루틴",

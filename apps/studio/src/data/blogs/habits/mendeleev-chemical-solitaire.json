@@ -3,9 +3,6 @@
         "pubDate": "2026-03-14",
         "updatedDate": "2026-03-14",
         "heroImage": "/images/blog/mendeleev_chemical_solitaire.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어",

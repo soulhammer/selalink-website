@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/hegel_card_index.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "철학적 사유의 보관소: 헤겔의 변증법적 카드 색인 기록법과 인지적 스캐폴딩 루틴",

@@ -3,9 +3,6 @@
         "pubDate": "2026-04-16",
         "updatedDate": "2026-04-16",
         "heroImage": "/images/blog/walt_disney_three_rooms.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "월트 디즈니의 '세 개의 방' 루틴: 상상하고, 실행하고, 비판하라",

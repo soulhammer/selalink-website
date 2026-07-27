@@ -3,9 +3,6 @@
         "pubDate": "2026-04-30",
         "updatedDate": "2026-04-30",
         "heroImage": "/images/blog/thoreau_forest_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 4시간씩 숲속을 걷다: 헨리 데이비드 소로의 자연 회복 산책 루틴",

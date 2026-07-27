@@ -3,9 +3,6 @@
         "pubDate": "2026-04-19",
         "updatedDate": "2026-04-19",
         "heroImage": "/images/blog/watson_think_sign.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "IBM을 만든 한 단어: 토마스 왓슨의 15분 침묵 사색 루틴",

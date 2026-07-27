@@ -3,9 +3,6 @@
         "pubDate": "2026-01-20",
         "updatedDate": "2026-01-20",
         "heroImage": "/images/blog/charlemagne_lifelong_learning.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "침대 머리맡의 필기판: 샤를마뉴의 수면 기억 통합 설계 루틴",

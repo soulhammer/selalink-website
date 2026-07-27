@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒无意识创造力的10词联想法：雷·布拉德伯里的发散性思维习惯"
 description: "探索现代科幻文学教父雷·布拉德伯里每天清晨写下10个无关联词汇并联想出微型故事的习惯，揭示刺激无意识联想链条以最大化提升发散性思维与创造力的神经科学原理。"
-pubDate: "2026-06-16"
-updatedDate: "2026-06-16"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/bradbury.webp"

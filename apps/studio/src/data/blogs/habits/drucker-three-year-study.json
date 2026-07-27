@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/drucker_three_year_study.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "3년마다 인생을 리셋하는 지적 모험: 피터 드러커의 다학제 공부 습관과 뇌 가소성",

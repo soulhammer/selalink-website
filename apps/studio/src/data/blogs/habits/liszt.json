@@ -3,9 +3,6 @@
         "pubDate": "2026-04-14",
         "updatedDate": "2026-04-14",
         "heroImage": "/images/blog/liszt.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "템포를 늦추어 1초에 한 건반을 무오류로 연주한 리스트의 소뇌 학습법과 미엘린 수초화",

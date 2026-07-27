@@ -3,9 +3,6 @@
         "pubDate": "2026-04-01",
         "updatedDate": "2026-04-01",
         "heroImage": "/images/blog/machiavelli_regal_reading.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "성현과의 대화: 마키아벨리의 격식 독서 루틴",

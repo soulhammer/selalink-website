@@ -3,9 +3,6 @@
         "pubDate": "2026-06-04",
         "updatedDate": "2026-06-04",
         "heroImage": "/images/blog/gutenberg_movable_type_inspection.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "인쇄 혁명의 거장: 구텐베르크의 아침 금속 활자 정밀 오차 검수 루틴과 ERN 오류 감지 메커니즘",

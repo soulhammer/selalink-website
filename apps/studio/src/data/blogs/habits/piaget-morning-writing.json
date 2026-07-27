@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/piaget_morning_writing.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "생각을 정밀하게 구조화하는 뇌 작동법? 장 피아제의 글쓰기와 사색 산책",

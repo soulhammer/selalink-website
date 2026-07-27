@@ -3,9 +3,6 @@
         "pubDate": "2026-02-21",
         "updatedDate": "2026-02-21",
         "heroImage": "/images/blog/euclid_axiomatic_thinking.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "유클리드의 공리적 사고: 제1원리 연쇄 논리로 복잡한 의사결정 마비를 깨는 법",

@@ -517,9 +517,6 @@
                 ]
             }
         },
-        "category": "CareSelf",
-        "app": "careself",
-        "formatVersion": 4,
         "heroImage": "/images/blog/leopard_gecko_care.webp"
     }
 }

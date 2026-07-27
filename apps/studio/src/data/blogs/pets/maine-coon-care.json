@@ -508,9 +508,6 @@
                 ]
             }
         },
-        "category": "CareSelf",
-        "app": "careself",
-        "formatVersion": 4,
         "heroImage": "/images/blog/maine_coon_care.webp"
     }
 }

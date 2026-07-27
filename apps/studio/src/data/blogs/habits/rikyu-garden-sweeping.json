@@ -3,9 +3,6 @@
         "pubDate": "2026-06-12",
         "updatedDate": "2026-06-12",
         "heroImage": "/images/blog/rikyu_garden_sweeping.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴",

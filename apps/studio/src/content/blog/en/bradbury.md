@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Unlocking Subconscious Creativity via 10-Word Association: Ray Bradbury's Divergent Thinking Routine"
 description: "Explore how Ray Bradbury, godfather of modern science fiction, wrote down 10 random disparate words every morning to weave micro-stories, and uncover the neuroscientific principles of stimulating subconscious associative chains to maximize divergent thinking."
-pubDate: "2026-06-16"
-updatedDate: "2026-06-16"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/bradbury.webp"

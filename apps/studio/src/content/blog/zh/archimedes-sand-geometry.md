@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "沉浸的极致：阿基米德的沙地几何草图习惯"
 description: "为了将复杂的科学灵感具象化，阿基米德不断在沙地或地面上绘制图形。探索动手的视觉草图如何减轻工作记忆的认知过载并诱导超沉浸状态。"
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"

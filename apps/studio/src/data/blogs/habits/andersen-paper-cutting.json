@@ -3,9 +3,6 @@
         "pubDate": "2026-05-07",
         "updatedDate": "2026-05-07",
         "heroImage": "/images/blog/andersen_paper_cutting.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "우울증을 치료하는 가위질? 안데르센의 종이 오리기 루틴",

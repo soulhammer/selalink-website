@@ -3,9 +3,6 @@
         "pubDate": "2026-02-08",
         "updatedDate": "2026-02-08",
         "heroImage": "/images/blog/hitchcock_storyboard_visualization.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "머릿속으로 백 프로 완성하라: 히치콕의 시각 스토리보드 루틴과 정신적 시뮬레이션",

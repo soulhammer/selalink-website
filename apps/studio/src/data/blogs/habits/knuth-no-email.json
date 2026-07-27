@@ -3,9 +3,6 @@
         "pubDate": "2026-05-07",
         "updatedDate": "2026-05-07",
         "heroImage": "/images/blog/knuth_no_email.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "오프라인 몰입: 도널드 너스의 이메일 단절 루틴과 컨텍스트 스위칭 차단",

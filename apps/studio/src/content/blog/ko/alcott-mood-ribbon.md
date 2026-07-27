@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "베개가 세워지면 방해 금지: 루이자 메이 올컷의 몰입 신호"
 description: "'작은 아씨들'의 저자 루이자 메이 올컷의 몰입 신호 '무드 필로우(기분 베개)'를 소개합니다. 주변 방해 요소를 차단하여 인지 전환 비용을 줄이는 3단계 가이드를 만나보세요."
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["루틴", "습관"]
 heroImage: "/images/blog/alcott_mood_ribbon.webp"

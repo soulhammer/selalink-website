@@ -3,9 +3,6 @@
         "pubDate": "2026-02-15",
         "updatedDate": "2026-02-15",
         "heroImage": "/images/blog/picasso.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "아이디어가 정체될 때 즉시 옆 화폭으로 스위칭한 피카소의 유연 몰입법",

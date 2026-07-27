@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jenius yang Bermain Biliar Saat Mengalami Kebuntuan Komposisi: Kebiasaan Aktivasi Mode Default Mozart"
 description: "Wolfgang Amadeus Mozart mengaktifkan otak bawah sadarnya (DMN) dengan bermain biliar setiap kali inspirasi musik terhenti. Pelajari rahasia ilmiah bagaimana istirahat kognitif menghasilkan terobosan kreatif dan rutinitas permainan visual-spasial 15 menit."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

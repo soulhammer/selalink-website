@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fuzz on a Collar and a Trembling Pupil: Anton Chekhov's Micro-Observation and Selective Attention"
 description: "Explore how Anton Chekhov, master of modern short stories, meticulously recorded microscopic details of passersby in railway waiting rooms and cafes, and discover the neuroscientific principles of Micro Selective Attention enhancing cognitive resolution."
-pubDate: "2026-01-12"
-updatedDate: "2026-01-12"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/chekhov.webp"

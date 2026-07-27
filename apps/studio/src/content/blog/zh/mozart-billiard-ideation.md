@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "灵感枯竭时打桌球的天才？莫扎特的默认模式网络激活习惯"
 description: "沃尔夫冈·阿玛多伊斯·莫扎特在构思乐曲受阻时通过打桌球来启动潜意识大脑（DMN）。本文介绍认知休息产生创意突破的科学奥秘以及15分钟时空游戏设计法。"
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

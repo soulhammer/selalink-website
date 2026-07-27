@@ -3,9 +3,6 @@
         "pubDate": "2026-04-01",
         "updatedDate": "2026-04-01",
         "heroImage": "/images/blog/woods_hundred_putts.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "100번 연속 성공할 때까지: 타이거 우즈의 4m 퍼팅 몰입법",

@@ -3,9 +3,6 @@
         "pubDate": "2026-04-19",
         "updatedDate": "2026-04-19",
         "heroImage": "/images/blog/schumpeter_time_grading.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "시간의 메타인지: 조지프 슘페터의 일일 성적표 루틴",

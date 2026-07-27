@@ -3,9 +3,6 @@
         "pubDate": "2026-03-03",
         "updatedDate": "2026-03-03",
         "heroImage": "/images/blog/cleopatra_multilingual_study.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "클레오파트라의 '다국어 학습': 통역관 없이 세상을 주도한 지적 대화 습관",

@@ -3,9 +3,6 @@
         "pubDate": "2026-06-02",
         "updatedDate": "2026-06-02",
         "heroImage": "/images/blog/emerson_walking_journal_integration.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "확산과 수렴의 이중주: 랄프 왈도 에머슨의 산책 메모와 야간 저널 습관",

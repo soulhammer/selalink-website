@@ -3,9 +3,6 @@
         "pubDate": "2026-03-10",
         "updatedDate": "2026-03-10",
         "heroImage": "/images/blog/montaigne_beam_inscription.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법",

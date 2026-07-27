@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "没頭の極致：アルキメデスの砂の幾何学スケッチ習慣"
 description: "複雑な科学的インスピレーションを視覚化するため、砂や床の上に絶えず図形を描いたアルキメデス。手を使う視覚スケッチが、作業記憶の認知オーバーロードをいかに減らし、超没頭状態を誘導するかを研究します。"
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"

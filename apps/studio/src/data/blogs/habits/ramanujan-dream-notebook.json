@@ -3,9 +3,6 @@
         "pubDate": "2026-01-15",
         "updatedDate": "2026-01-15",
         "heroImage": "/images/blog/ramanujan_dream_notebook.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "꿈속에서 수학 정리를 본 천재? 스리니바사 라마누잔의 기상 직후 메모 루틴",

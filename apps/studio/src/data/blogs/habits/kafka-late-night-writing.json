@@ -3,9 +3,6 @@
         "pubDate": "2026-04-01",
         "updatedDate": "2026-04-01",
         "heroImage": "/images/blog/kafka_late_night_writing.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "극도의 침묵 속에서 걸작을 낳다: 프란츠 카프카의 한밤중 집필 루틴과 전두엽 하향 조절",

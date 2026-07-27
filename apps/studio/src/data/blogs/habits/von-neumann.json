@@ -3,9 +3,6 @@
         "pubDate": "2026-06-28",
         "updatedDate": "2026-06-28",
         "heroImage": "/images/blog/von_neumann.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련",

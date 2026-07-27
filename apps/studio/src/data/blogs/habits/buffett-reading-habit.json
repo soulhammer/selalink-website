@@ -3,9 +3,6 @@
         "pubDate": "2026-06-10",
         "updatedDate": "2026-06-10",
         "heroImage": "/images/blog/buffett_reading_habit.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "지식의 복리 효과: 워런 버핏의 하루 500페이지 독서 습관과 인지 예비능",

@@ -3,9 +3,6 @@
         "pubDate": "2026-01-31",
         "updatedDate": "2026-01-31",
         "heroImage": "/images/blog/amelia_earhart.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "태풍 속 조종석에서도 계기판 수치에 몰입한 에어하트의 인지 통제 훈련",

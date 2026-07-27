@@ -3,9 +3,6 @@
         "pubDate": "2026-04-25",
         "updatedDate": "2026-04-25",
         "heroImage": "/images/blog/rembrandt_self_portrait_reflection.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "거울 속 나를 응시한 찰나: 렘브란트의 자화상 시각 성찰 습관",

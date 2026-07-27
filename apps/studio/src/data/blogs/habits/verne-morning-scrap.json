@@ -3,9 +3,6 @@
         "pubDate": "2026-06-02",
         "updatedDate": "2026-06-02",
         "heroImage": "/images/blog/verne_morning_scrap.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "새벽 5시의 지식 조각상: 쥘 베른의 디테일 설계용 스크랩 습관",

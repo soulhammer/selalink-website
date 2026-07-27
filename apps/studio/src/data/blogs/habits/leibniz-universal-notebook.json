@@ -3,9 +3,6 @@
         "pubDate": "2026-02-27",
         "updatedDate": "2026-02-27",
         "heroImage": "/images/blog/leibniz_universal_notebook.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "만능 지식의 단권화 수첩: 라이프니츠의 커먼플레이스 북 필기 습관과 시냅스 장기 강화(LTP)",

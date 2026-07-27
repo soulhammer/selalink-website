@@ -3,9 +3,6 @@
         "pubDate": "2026-04-06",
         "updatedDate": "2026-04-06",
         "heroImage": "/images/blog/cezanne_dawn_mountain_observation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "빛의 기하학을 감각하다: 폴 세잔의 아침 자연광 관찰과 SCN 각성 루틴",

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pelusa en el Cuello y el Temblor de una Pupila: La Microobservación y Atención Selectiva de Antón Chéjov"
 description: "Descubra cómo Antón Chéjov, maestro del relato corto moderno, registraba meticulosamente microdetalles de transeúntes en salas de espera y cafés, y explore los principios neurocientíficos de la Atención Selectiva Micro para mejorar la resolución cognitiva."
-pubDate: "2026-01-12"
-updatedDate: "2026-01-12"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/chekhov.webp"

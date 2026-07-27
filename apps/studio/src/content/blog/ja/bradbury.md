@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "無意識の創造性を呼び醒ます10単語連想法：レイ・ブラッドベリの拡散的思考ルーティン"
 description: "現代SF文学の父レイ・ブラッドベリが毎朝無作為な10個の異種単語を書き出し、超短編ストーリーを連想したルーティン。無意識の連鎖を刺激して拡散的思考と創造性を極大化する神経科学的原理を解き明かします。"
-pubDate: "2026-06-16"
-updatedDate: "2026-06-16"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/bradbury.webp"

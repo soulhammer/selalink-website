@@ -3,9 +3,6 @@
         "pubDate": "2026-05-25",
         "updatedDate": "2026-05-25",
         "heroImage": "/images/blog/magritte_suit_painting.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "옷차림의 심리학: 르네 마그리트의 정장 작업 루틴",

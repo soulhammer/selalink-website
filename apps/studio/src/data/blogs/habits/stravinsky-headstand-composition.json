@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/stravinsky_headstand_composition.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "거꾸로 서는 영감: 스트라빈스키의 물구나무 창의법",

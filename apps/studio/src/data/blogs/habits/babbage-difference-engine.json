@@ -3,9 +3,6 @@
         "pubDate": "2026-01-10",
         "updatedDate": "2026-01-10",
         "heroImage": "/images/blog/babbage_difference_engine.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "찰스 배비지의 차분기관 분해법: 기계적 톱니바퀴 모듈화로 오차와 실수를 0%로 만드는 법",

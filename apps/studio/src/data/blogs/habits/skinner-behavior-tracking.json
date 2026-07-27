@@ -3,9 +3,6 @@
         "pubDate": "2026-05-14",
         "updatedDate": "2026-05-14",
         "heroImage": "/images/blog/skinner_behavior_tracking.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "스스로를 디자인하다: 행동주의 거장 스키너의 시각 피드백 기록 습관",

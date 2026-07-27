@@ -3,9 +3,6 @@
         "pubDate": "2026-01-08",
         "updatedDate": "2026-01-08",
         "heroImage": "/images/blog/bill_gates_think_week.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "단절의 일주일: 빌 게이츠의 '생각 주간'과 무소음 딥워크",

@@ -3,9 +3,6 @@
         "pubDate": "2026-02-24",
         "updatedDate": "2026-02-24",
         "heroImage": "/images/blog/rosalind_franklin_diffraction_focus.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴",

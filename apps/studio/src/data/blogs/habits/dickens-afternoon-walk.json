@@ -3,9 +3,6 @@
         "pubDate": "2026-05-23",
         "updatedDate": "2026-05-23",
         "heroImage": "/images/blog/dickens_afternoon_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 오후 3시간씩 빠른 걸음으로 산책한 소설가: 찰스 디킨스의 아이디어 루틴과 DMN 활성화",

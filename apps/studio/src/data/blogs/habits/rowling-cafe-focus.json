@@ -3,9 +3,6 @@
         "pubDate": "2026-03-03",
         "updatedDate": "2026-03-03",
         "heroImage": "/images/blog/rowling_cafe_focus.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "카페 소음 속에서 마법을 쓴 작가? J.K. 롤링의 백색소음 몰입 루틴",

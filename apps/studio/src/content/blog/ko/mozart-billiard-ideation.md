@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "작곡이 막힐 때 당구를 친 천재? 모차르트의 디폴트 모드 활성 습관"
 description: "악상이 떠오르지 않을 때 당구를 치며 무의식 뇌(DMN)를 가동한 볼프강 아마데우스 모차르트. 인지 휴식이 창의적 돌파구를 만들어내는 과학적 비밀과 15분 시공간 놀이법을 소개합니다."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/augustus_decision_consultation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "천천히 서둘러 내린 황제의 결단: 아우구스투스의 다각도 조언 경청 습관",

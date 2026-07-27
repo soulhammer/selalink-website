@@ -517,9 +517,6 @@
                 ]
             }
         },
-        "category": "CareSelf",
-        "app": "careself",
-        "formatVersion": 4,
         "heroImage": "/images/blog/holland_lop_care.webp"
     }
 }

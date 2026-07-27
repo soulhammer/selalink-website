@@ -3,9 +3,6 @@
         "pubDate": "2026-04-05",
         "updatedDate": "2026-04-05",
         "heroImage": "/images/blog/zaha_hadid_fluid_sketching.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "직선의 틀을 깬 건축 거장: 자하 하디드의 유기적 곡선 스케치 루틴",

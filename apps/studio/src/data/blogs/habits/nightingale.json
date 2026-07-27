@@ -3,9 +3,6 @@
         "pubDate": "2026-03-20",
         "updatedDate": "2026-03-20",
         "heroImage": "/images/blog/nightingale.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 밤 어두운 병실 복도 4마일을 순찰한 나이팅게일의 정량 위생 진단 루틴",

@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das Billard spielte, wenn das Komponieren ins Stocken geriet: Mozarts Default-Mode-Aktivierungsgewohnheit"
 description: "Wolfgang Amadeus Mozart aktivierte sein unterbewusstes Gehirn (DMN) durch Billardspielen, wann immer die musikalische Inspiration ins Stocken geriet. Entdecken Sie das wissenschaftliche Geheimnis, wie kognitive Pause kreative Durchbrüche erzeugt, und ein 15-minütiges visuell-räumliches Spiel."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

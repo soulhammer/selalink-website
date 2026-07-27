@@ -3,9 +3,6 @@
         "pubDate": "2026-03-31",
         "updatedDate": "2026-03-31",
         "heroImage": "/images/blog/monet_dawn_light.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "새벽의 여명에서 예술을 빚은 빛의 거장: 클로드 모네의 시각 예열 루틴",

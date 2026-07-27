@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El genio que jugaba al billar cuando se atascaba al componer? El hábito de activación del modo por defecto de Mozart"
 description: "Wolfgang Amadeus Mozart activaba su cerebro subconsciente (DMN) jugando al billar cuando la inspiración musical se estancaba. Descubra el secreto científico de cómo el descanso cognitivo genera avances creativos y una rutina de juego visoespacial de 15 minutos."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

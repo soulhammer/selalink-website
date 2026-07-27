@@ -3,9 +3,6 @@
         "pubDate": "2026-05-14",
         "updatedDate": "2026-05-14",
         "heroImage": "/images/blog/fermi_dawn_calculation_routine.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "골든 아워의 절대 집중: 엔리코 페르미의 아침 2시간 고독 계산 습관과 인지 피크타임 몰입법",

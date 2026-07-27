@@ -3,9 +3,6 @@
         "pubDate": "2026-04-15",
         "updatedDate": "2026-04-15",
         "heroImage": "/images/blog/nobel_evening_reflection.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "355개 특허 발명가의 정리법? 알프레드 노벨의 저녁 일지 복기 루틴",

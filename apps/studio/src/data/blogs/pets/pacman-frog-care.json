@@ -510,9 +510,6 @@
                 ]
             }
         },
-        "category": "CareSelf",
-        "app": "careself",
-        "formatVersion": 4,
         "heroImage": "/images/blog/pacman_frog_care.webp"
     }
 }

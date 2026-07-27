@@ -3,9 +3,6 @@
         "pubDate": "2026-04-25",
         "updatedDate": "2026-04-25",
         "heroImage": "/images/blog/columbus_nautical_log.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "대항해 시대를 연 선장: 콜럼버스의 야간 항해일지 기록과 편도체 진정 루틴",

@@ -3,9 +3,6 @@
         "pubDate": "2026-03-06",
         "updatedDate": "2026-03-06",
         "heroImage": "/images/blog/socrates_walking_dialogue.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "맨발로 걸으며 질문을 던진 철학자: 소크라테스의 인지적 산책 습관",

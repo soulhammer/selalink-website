@@ -3,9 +3,6 @@
         "pubDate": "2026-01-25",
         "updatedDate": "2026-01-25",
         "heroImage": "/images/blog/mill_classical_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "걷는 뇌가 천재를 만든다? 존 스튜어트 밀의 산책 토론 루틴",

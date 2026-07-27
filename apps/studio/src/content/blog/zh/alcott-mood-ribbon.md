@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "当枕头竖起时请勿打扰：路易莎·梅·奥尔科特的专注信号"
 description: "介绍《小妇人》作者路易莎·梅·奥尔科特的专注信号“情绪枕头（Mood Pillow）”。通过排除周围干扰因素来降低认知转换成本的3步骤指南，敬请了解。"
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"

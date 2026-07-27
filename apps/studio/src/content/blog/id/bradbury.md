@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Membuka Kreativitas Bawah Sadar Melalui Asosiasi 10 Kata: Rutinitas Berpikir Divergen ala Ray Bradbury"
 description: "Pelajari bagaimana Ray Bradbury, bapak sains fiksi modern, menuliskan 10 kata acak yang berbeda setiap pagi untuk merangkai cerita mikro, dan temukan prinsip neurosains tentang merangsang rantai asosiasi bawah sadar untuk memaksimalkan pemikiran divergen."
-pubDate: "2026-06-16"
-updatedDate: "2026-06-16"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/bradbury.webp"

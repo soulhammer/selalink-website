@@ -3,9 +3,6 @@
         "pubDate": "2026-06-02",
         "updatedDate": "2026-06-02",
         "heroImage": "/images/blog/sartre_cafe_writing.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "카페 소음 속의 철학? 사르트르의 지정석 집중과 시간 분할 루틴",

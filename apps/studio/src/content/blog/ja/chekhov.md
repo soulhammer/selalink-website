@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "襟の毛玉と瞳の震え：アントン・チェーホフの微細観察と選択的注意力"
 description: "近代短編小説の巨匠アントン・チェーホフが待合室やカフェで通行人の微細なディテールを手帳に精密に記録した観察ルーティン。微細選択的注意力（Micro Selective Attention）が認知解像度を高め大脳皮質の覚醒を誘導する神経科学的原理を解き明かします。"
-pubDate: "2026-01-12"
-updatedDate: "2026-01-12"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/chekhov.webp"

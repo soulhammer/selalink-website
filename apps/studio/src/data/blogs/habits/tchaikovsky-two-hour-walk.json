@@ -3,9 +3,6 @@
         "pubDate": "2026-06-01",
         "updatedDate": "2026-06-01",
         "heroImage": "/images/blog/tchaikovsky_two_hour_walk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 2시간 산책의 영감: 차이콥스키의 창의적 보행 습관",

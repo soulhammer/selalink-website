@@ -3,9 +3,6 @@
         "pubDate": "2026-03-22",
         "updatedDate": "2026-03-22",
         "heroImage": "/images/blog/michelangelo_flow.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관",

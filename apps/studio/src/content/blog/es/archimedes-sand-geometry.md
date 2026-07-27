@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Cúspide de la Inmersión: El Hábito de Bocetos Geométricos en Arena de Arquímedes"
 description: "Arquímedes dibujaba continuamente figuras en la arena o en el suelo para visualizar complejas inspiraciones científicas. Investigue cómo los bocetos visuales manuales reducen la sobrecarga cognitiva en la memoria de trabajo e inducen un estado de hiperenfoque."
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"

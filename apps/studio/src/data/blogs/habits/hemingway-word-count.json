@@ -3,9 +3,6 @@
         "pubDate": "2026-02-05",
         "updatedDate": "2026-02-05",
         "heroImage": "/images/blog/hemingway_word_count.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 쓴 단어 수를 차트에 기록하며 스스로를 모니터링하기: 어네스트 헤밍웨이의 정량적 집필 차트와 도파민 보상 루틴",

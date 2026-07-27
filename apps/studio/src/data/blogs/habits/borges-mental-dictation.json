@@ -3,9 +3,6 @@
         "pubDate": "2026-06-21",
         "updatedDate": "2026-06-21",
         "heroImage": "/images/blog/borges_mental_dictation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "마음의 눈으로 그린 미로: 보르헤스의 시공간 작업 기억 시각화 루틴",

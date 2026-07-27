@@ -3,9 +3,6 @@
         "pubDate": "2026-03-13",
         "updatedDate": "2026-03-13",
         "heroImage": "/images/blog/orwell_newspaper_clipping.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 아침 뉴스를 가위로 자른 소설가? 조지 오웰의 지식 스키마 빌딩법",

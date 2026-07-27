@@ -3,9 +3,6 @@
         "pubDate": "2026-03-19",
         "updatedDate": "2026-03-19",
         "heroImage": "/images/blog/locke_commonplace_book.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "1분 안에 과거의 기록을 찾아낸 철학자: 존 로크의 커먼플레이스 북 색인법과 연상 기억 네트워크",

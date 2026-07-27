@@ -3,9 +3,6 @@
         "pubDate": "2026-03-27",
         "updatedDate": "2026-03-27",
         "heroImage": "/images/blog/austen_creaky_door.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "몰입을 지키는 환경 신호: 제인 오스틴의 삐걱거리는 문 습관",

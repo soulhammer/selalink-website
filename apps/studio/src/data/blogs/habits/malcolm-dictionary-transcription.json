@@ -3,9 +3,6 @@
         "pubDate": "2026-07-03",
         "updatedDate": "2026-07-03",
         "heroImage": "/images/blog/malcolm_dictionary_transcription.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "사전 통째로 베껴 쓰기? 말콤 X의 두뇌 재부팅 필사 루틴",

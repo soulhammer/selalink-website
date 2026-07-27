@@ -3,9 +3,6 @@
         "pubDate": "2026-06-12",
         "updatedDate": "2026-06-12",
         "heroImage": "/images/blog/martin_silent_waiting.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴",

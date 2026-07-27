@@ -3,9 +3,6 @@
         "pubDate": "2026-06-06",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/woolf_standing_desk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관",

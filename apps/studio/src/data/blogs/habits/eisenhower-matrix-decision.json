@@ -3,9 +3,6 @@
         "pubDate": "2026-01-01",
         "updatedDate": "2026-01-01",
         "heroImage": "/images/blog/eisenhower_matrix_decision.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "중요한 일에 집중하는 힘: 드와이트 아이젠하워의 우선순위 4분면 의사결정 습관",

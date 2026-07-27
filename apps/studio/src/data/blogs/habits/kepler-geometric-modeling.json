@@ -3,9 +3,6 @@
         "pubDate": "2026-06-24",
         "updatedDate": "2026-06-24",
         "heroImage": "/images/blog/kepler_geometric_modeling.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "수식 대신 입체 모형을 깎다: 요하네스 케플러의 '촉각적 공간 시각화' 루틴과 두정엽 자극",

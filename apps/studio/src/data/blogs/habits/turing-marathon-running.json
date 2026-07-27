@@ -3,9 +3,6 @@
         "pubDate": "2026-02-02",
         "updatedDate": "2026-02-02",
         "heroImage": "/images/blog/turing_marathon_running.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴",

@@ -3,9 +3,6 @@
         "pubDate": "2026-04-05",
         "updatedDate": "2026-04-05",
         "heroImage": "/images/blog/thatcher.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "새벽 2시 서류에 형광펜을 대며 정책 쟁점을 필터링한 대처의 정보 정화 습관",

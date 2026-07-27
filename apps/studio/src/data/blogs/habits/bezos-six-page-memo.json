@@ -3,9 +3,6 @@
         "pubDate": "2026-01-19",
         "updatedDate": "2026-01-19",
         "heroImage": "/images/blog/bezos_six_page_memo.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "침묵의 30분과 6페이지 메모: 제프 베조스의 아마존 회의법과 독서 신경학",

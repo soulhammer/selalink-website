@@ -3,9 +3,6 @@
         "pubDate": "2026-04-25",
         "updatedDate": "2026-04-25",
         "heroImage": "/images/blog/lindbergh_meticulous_checklist.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "인간의 인지적 실수를 완벽하게 제로로 만드는 법: 찰스 린드버그의 체크리스트 실행 루틴과 작업 기억 보호",

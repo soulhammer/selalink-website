@@ -3,9 +3,6 @@
         "pubDate": "2026-02-27",
         "updatedDate": "2026-02-27",
         "heroImage": "/images/blog/turner_dawn_observation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "빛을 뇌에 새기다? 터너의 새벽 해돋이 대조 감도 관찰법",

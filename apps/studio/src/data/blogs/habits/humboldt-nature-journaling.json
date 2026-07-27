@@ -3,9 +3,6 @@
         "pubDate": "2026-02-04",
         "updatedDate": "2026-02-04",
         "heroImage": "/images/blog/humboldt_nature_journaling.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "지구 전체를 유기체로 본 대탐험가: 알렉산더 폰 훔볼트의 현장 관찰 기록 루틴과 실시간 작업 기억 동기화",

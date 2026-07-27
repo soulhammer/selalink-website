@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui jouait au billard en cas de blocage créatif : L'habitude d'activation du mode par défaut de Mozart"
 description: "Wolfgang Amadeus Mozart stimulait son cerveau inconscient (DMN) en jouant au billard lorsque l'inspiration musicale s'essoufflait. Découvrez le secret scientifique selon lequel le repos cognitif engendre des percées créatives et une routine de jeu visuo-spatial de 15 minutes."
-pubDate: "2026-05-01"
-updatedDate: "2026-05-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"

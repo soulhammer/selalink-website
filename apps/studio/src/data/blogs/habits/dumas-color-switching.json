@@ -3,9 +3,6 @@
         "pubDate": "2026-06-07",
         "updatedDate": "2026-06-07",
         "heroImage": "/images/blog/dumas_color_switching.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "원고지 색을 장르별로 바꾼 천재: 알렉상드르 뒤마의 색상 리셋 루틴과 시각적 프라이밍",

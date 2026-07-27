@@ -3,9 +3,6 @@
         "pubDate": "2026-05-29",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/da_vinci_notepad.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "허리춤에 항상 수첩을 매달아 둔 천재: 레오나르도 다 빈치의 즉시 메모 습관과 작업 기억 외재화",

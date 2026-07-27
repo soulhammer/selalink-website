@@ -3,9 +3,6 @@
         "pubDate": "2026-06-21",
         "updatedDate": "2026-06-21",
         "heroImage": "/images/blog/chopin_piano_refinement.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "피아노 시인의 지독한 완벽주의: 쇼팽의 건반 위 반복 퇴고와 ACC 조율 루틴",

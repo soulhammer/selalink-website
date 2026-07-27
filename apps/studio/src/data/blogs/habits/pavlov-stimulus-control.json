@@ -3,9 +3,6 @@
         "pubDate": "2026-02-27",
         "updatedDate": "2026-02-27",
         "heroImage": "/images/blog/pavlov_stimulus_control.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "침묵의 타워: 노벨상 수상자 파블로프의 자극 통제 환경 설계법",

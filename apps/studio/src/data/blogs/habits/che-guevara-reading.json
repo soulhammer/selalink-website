@@ -3,9 +3,6 @@
         "pubDate": "2026-02-09",
         "updatedDate": "2026-02-09",
         "heroImage": "/images/blog/che_guevara_reading.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "밀림 속 참호에서도 책을 든 이유: 체 게바라의 몰입 독서와 인지 재구조화",

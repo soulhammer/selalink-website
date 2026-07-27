@@ -3,9 +3,6 @@
         "pubDate": "2026-06-26",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/murakami_running.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "매일 아침 10km를 달리는 작가: 무라카미 하루키의 기초 체력 루틴",

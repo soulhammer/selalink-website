@@ -4,9 +4,6 @@
         "pubDate": "2026-01-20",
         "updatedDate": "2026-01-20",
         "heroImage": "/images/blog/potato_storage_hack.webp",
-        "category": "FreshSnap",
-        "app": "freshsnap",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "감자 신선하게 보관하는 법: 과학적 보관 가이드",

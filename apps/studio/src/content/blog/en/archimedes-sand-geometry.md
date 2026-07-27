@@ -2,8 +2,8 @@
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Peak Immersion: Archimedes's Sand Geometry Sketching Habit"
 description: "Archimedes continuously drew geometric shapes on sand or the ground to visualize complex scientific inspirations. Explore how visual sketching with hands reduces cognitive overload on working memory and induces hyper-focus."
-pubDate: "2026-01-01"
-updatedDate: "2026-01-01"
+pubDate: "2026-01-20"
+updatedDate: "2026-01-20"
 category: "BuildSelf"
 tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"

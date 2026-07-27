@@ -3,9 +3,6 @@
         "pubDate": "2026-02-08",
         "updatedDate": "2026-02-08",
         "heroImage": "/images/blog/fleming_petridish_observation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "쓰레기통 속에서 건져 올린 인류의 구원: 알렉산더 플레밍의 실패 관찰법과 예외 발견 루틴",

@@ -3,9 +3,6 @@
         "pubDate": "2026-06-12",
         "updatedDate": "2026-06-12",
         "heroImage": "/images/blog/zuckerberg_uniform_minimization.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "결정 피로의 관리: 마크 저커버그의 단일 유니폼 습관",

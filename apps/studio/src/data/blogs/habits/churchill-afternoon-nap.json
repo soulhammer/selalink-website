@@ -3,9 +3,6 @@
         "pubDate": "2026-04-24",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/churchill_afternoon_nap.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "하루를 두 번으로 쪼개어 쓴 총리: 윈스턴 처칠의 오후 낮잠과 아데노신 청소 루틴",

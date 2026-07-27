@@ -3,9 +3,6 @@
         "pubDate": "2026-01-19",
         "updatedDate": "2026-01-19",
         "heroImage": "/images/blog/bohr_dialogue_dictation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "대화로 직조한 물리학: 닐스 보어의 구술 토론과 메타인지 집필법",

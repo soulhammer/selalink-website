@@ -3,9 +3,6 @@
         "pubDate": "2026-01-29",
         "updatedDate": "2026-01-29",
         "heroImage": "/images/blog/schweitzer_night_organ.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "노벨 평화상 수상자의 야간 리셋? 알베르트 슈바이처의 밤 오르간 루틴",

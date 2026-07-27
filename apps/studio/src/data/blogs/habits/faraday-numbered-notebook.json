@@ -3,9 +3,6 @@
         "pubDate": "2026-02-24",
         "updatedDate": "2026-02-24",
         "heroImage": "/images/blog/faraday_numbered_notebook.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "16,000개의 번호: 마이클 패러데이의 정밀 노트 정리법과 지식 외재화 루틴",

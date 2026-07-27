@@ -3,9 +3,6 @@
         "pubDate": "2026-03-14",
         "updatedDate": "2026-03-14",
         "heroImage": "/images/blog/harvey_blood_circulation.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "윌리엄 하비의 혈액 순환 정량 검증법: 객관적 수치 계산으로 맹목적 편견을 부수는 법",

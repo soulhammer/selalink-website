@@ -3,9 +3,6 @@
         "pubDate": "2026-06-30",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/torvalds_darkroom_focus.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴",

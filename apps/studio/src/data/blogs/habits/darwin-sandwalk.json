@@ -3,9 +3,6 @@
         "pubDate": "2026-06-14",
         "updatedDate": "2026-06-30",
         "heroImage": "/images/blog/darwin_sandwalk.webp",
-        "category": "BuildSelf",
-        "app": "buildself",
-        "formatVersion": 4,
         "locales": {
             "ko": {
                 "title": "걷기로 완성한 진화론: 찰스 다윈의 '샌드워크' 산책 습관과 인지적 부화",

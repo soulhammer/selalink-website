@@ -508,9 +508,6 @@
                 ]
             }
         },
-        "category": "CareSelf",
-        "app": "careself",
-        "formatVersion": 4,
         "heroImage": "/images/blog/abyssinian_guinea_pig_care.webp"
     }
 }
