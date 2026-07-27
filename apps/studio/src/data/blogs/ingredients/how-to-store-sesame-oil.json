@@ -1,0 +1,406 @@
+{
+    "how-to-store-sesame-oil": {
+        "ingId": "sesame-oil",
+        "pubDate": "2026-07-02",
+        "updatedDate": "2026-07-02",
+        "heroImage": "/images/blog/sesame_oil_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "참기름 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 참기름의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "고소한 향이 일품인 참기름을 오래 두고 쓰려고 냉장고에 넣었다가 하얗게 굳어버리거나 향이 날아가 버린 경험 다들 있으시죠? 🫗\n\n참기름은 들기름과 달리 리그난(세사몰, 세사몰린)이라는 강력한 천연 항산화 성분이 풍부하여 산패에 매우 강한 특징을 가지고 있습니다. 하지만 10℃ 이하의 찬 환경(냉장고)에 두면 하얗게 굳어 덩어리지며 고소한 아로마 오일 성분이 손상됩니다. 반대로 직사광선이나 가스레인지 주변의 열기에 노출되면 지질 산화가 빠르게 진행됩니다.\n\n오늘 FreshSnap에서는 식품 안전 전문가들이 권장하는 참기름의 고소한 향과 영양을 최대 1~2년 동안 오롯이 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "절대로 냉장고(냉장실)에 보관하지 마세요 ⚠️",
+                        "desc": "참기름은 10~15℃ 이하에서 응고(동결)되기 시작합니다. 냉장고에 넣으면 굳어서 사용하기 불편할 뿐만 아니라, 굳었다 녹는 과정에서 참기름 특유의 풍부한 향미 성분이 손실됩니다. 반드시 서늘한 상온에 보관하세요."
+                    },
+                    {
+                        "title": "투명한 병에 담아 햇빛이 드는 곳에 두지 마세요 ☀️",
+                        "desc": "자외선(UV)과 빛은 참기름의 지질 산화를 유발하는 핵심 원인입니다. 갈색 병을 사용하거나 신문지 및 은박지로 감싸 빛을 완전 차단해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "갈색 유리병 사용 및 은박지 감싸기 — 자외선 및 빛 완전 차단 🍾",
+                        "text": "빛을 차단하는 것이 참기름 산화 방지의 1순위입니다. 💡 보관 팁: 불투명한 갈색/어두운 유리병에 보관하고, 투명한 병이라면 은박지(알루미늄 호일)나 신문지로 병 전체를 감싸 빛을 차단해 주세요."
+                    },
+                    {
+                        "name": "15~25℃ 서늘하고 어두운 상온 보관하기 — 적정 상온 보관 (1~2년) 🌡️",
+                        "text": "참기름이 가장 안정적으로 향과 품질을 유지하는 온도는 15~25℃의 상온입니다. 💡 보관 팁: 가스레인지나 전자레인지 주변, 창가를 피해 온도가 일정하고 바람이 통하는 어두운 찬장 하단에 보관하세요."
+                    },
+                    {
+                        "name": "사용 후 즉시 마개 꼭 닫아 공기 차단하기 — 산소 접촉 방지 🔒",
+                        "text": "공기 중의 산소와 접촉하면 항산화 물질이 소모되면서 산패가 일어납니다. 💡 보관 팁: 참기름을 사용한 직후에는 입구에 묻은 기름을 깨끗이 닦아내고 뚜껑을 밀폐하여 산소 유입을 막아주세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "참기름과 들기름의 보관 방법은 왜 다른가요?",
+                        "answer": "들기름은 오메가-3(알파-리놀렌산) 함량이 60% 이상으로 높아 공기 중에서 매우 빠르게 산패되므로 반드시 냉장 보관(4℃ 이하)해야 합니다. 반면 참기름은 강력한 항산화 물질인 세사몰/리그난 성분이 들어있어 상온에서 산화에 견디며, 냉장 보관 시 굳어지므로 상온 보관이 올바릅니다."
+                    },
+                    {
+                        "question": "참기름 바닥에 침전물이 생겼는데 먹어도 되나요?",
+                        "answer": "바닥에 가라앉은 침전물은 참깨를 볶고 짜내는 과정에서 들어간 참깨의 고유 성분(단백질 및 섬유질)입니다. 변질된 것이 아니므로 안심하고 흔들어 드셔도 됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Sesame Oil Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for sesame oil based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever put sesame oil in the refrigerator to keep it fresh, only to find it frozen solid into a cloudy white mass with faded aroma? 🫗\n\nUnlike perilla oil, sesame oil contains powerful natural antioxidants called lignans (such as sesamol and sesamolin), making it highly resistant to lipid oxidation (rancidity). However, storing sesame oil in cold environments below 10°C (such as a refrigerator) causes it to solidify into white crystals, which impairs its rich aromatic oil compounds. Conversely, exposure to direct sunlight or heat near stovetops causes rapid oxidation.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide recommended by food safety experts to preserve the nutty aroma, rich flavor, and nutrients of your sesame oil for up to 1 to 2 years. 🛡️",
+                "whyTitle": "Why Store Sesame Oil This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store sesame oil in the refrigerator ⚠️",
+                        "desc": "Sesame oil begins to solidify (freeze) at temperatures below 10–15°C (50–59°F). Refrigerating it makes it hard and inconvenient to use, while repeated freezing and thawing destroys its rich aromatic compounds. Always store at cool room temperature."
+                    },
+                    {
+                        "title": "Do not keep in transparent bottles exposed to sunlight ☀️",
+                        "desc": "Ultraviolet (UV) rays and direct light are major triggers for lipid photo-oxidation. Use dark brown glass bottles or wrap clear bottles with aluminum foil or paper to completely block light."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Use dark brown glass bottles or wrap with aluminum foil — Complete UV & Light Protection 🍾",
+                        "text": "Blocking light is the single most important rule to prevent oil oxidation. 💡 Storage Tip: Keep sesame oil in dark brown glass bottles. If using a clear glass bottle, wrap the entire container with aluminum foil or newspaper to block light completely."
+                    },
+                    {
+                        "name": "Store in a cool, dark pantry at 15–25°C — Optimal Room Temperature Storage (1–2 Years) 🌡️",
+                        "text": "Sesame oil maintains its aroma and quality best at room temperatures between 15–25°C (59–77°F). 💡 Storage Tip: Store in a dark cabinet away from heat sources like stoves, ovens, or sunny windows."
+                    },
+                    {
+                        "name": "Seal tightly immediately after use — Prevent Oxygen Exposure 🔒",
+                        "text": "Exposure to atmospheric oxygen consumes natural antioxidants and triggers rancidity. 💡 Storage Tip: Wipe off any excess oil around the bottleneck after use and seal the cap tightly to prevent air intake."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do storage methods differ between sesame oil and perilla oil?",
+                        "answer": "Perilla oil contains over 60% omega-3 (alpha-linolenic acid), which oxidizes extremely fast in air, requiring constant refrigeration (below 4°C). In contrast, sesame oil contains natural antioxidants (lignans/sesamol) that resist oxidation at room temperature, while cold temperatures cause it to freeze and lose flavor. Therefore, room temperature storage is ideal for sesame oil."
+                    },
+                    {
+                        "question": "There is sediment at the bottom of my sesame oil bottle. Is it safe to consume?",
+                        "answer": "Yes. The sediment at the bottom consists of natural sesame solids (proteins and fibers) produced during roasting and pressing. It is not spoilage; you can safely shake the bottle and consume it."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ごま油を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくごま油の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "芳醇な香りのごま油を長持ちさせようと冷蔵庫に入れたら、白く固まって香りが飛んでしまった経験はありませんか？🫗\n\nごま油はえごま油とは異なり、「リグナン（セサモール、セサモリン）」という強力な天然抗酸化成分が豊富に含まれているため、酸化（酸敗）に非常に強い特徴を持っています。しかし、10℃以下の冷たい環境（冷蔵庫）に置くと白く固まり、香ばしいアロマ成分が損なわれます。逆に直射日光やコンロ周りの熱に晒されると酸化が急激に進みます。\n\n本日FreshSnapでは、食品安全機関や専門家が推奨する、ごま油の豊かな香りと栄養を1〜2年間しっかり守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "絶対に冷蔵庫（冷暗所を含む低温）で保存しないでください ⚠️",
+                        "desc": "ごま油は10〜15℃以下で凝固（凍結）し始めます。冷蔵庫に入れると固まって使いづらくなるだけでなく、固まったり溶けたりを繰り返すことでごま油特有の芳醇な風味が損なわれます。必ず涼しい常温で保存してください。"
+                    },
+                    {
+                        "title": "透明な瓶のまま日光の当たる場所に置かないでください ☀️",
+                        "desc": "紫外線や光はごま油の脂質酸化を引き起こす最大の要因です。茶色の遮光瓶を使用するか、アルミホイルや新聞紙で瓶全体を包んで光を完全に遮断してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "茶色の遮光ガラス瓶を使用しアルミホイルで包む — 紫外線と光の完全遮断 🍾",
+                        "text": "光を遮断することがごま油の酸化を防ぐ最優先事項です。💡保存のコツ：不透明な茶色のガラス瓶で保存し、透明な瓶の場合はアルミホイルや新聞紙で瓶全体を包んで光を遮ってください。"
+                    },
+                    {
+                        "name": "15〜25℃の涼しく暗い常温で保存する — 最適な常温保存 (1〜2年間) 🌡️",
+                        "text": "ごま油が最も安定して香りと品質を維持できる温度は15〜25℃の常温です。💡保存のコツ：コンロや電子レンジの周辺、窓際を避け、温度変化が少ない風通しの良い暗い棚の下段で保存してください。"
+                    },
+                    {
+                        "name": "使用後はすぐにフタをしっかり閉める — 空気の遮断 🔒",
+                        "text": "空気中の酸素と接触すると抗酸化物質が消費されて酸化が進みます。💡保存のコツ：ごま油を使った直後は注ぎ口に付いた油をきれいに拭き取り、フタをしっかり閉めて酸素の侵入を防ぎましょう。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ごま油とえごま油で保存方法が異なる理由は何ですか？",
+                        "answer": "えごま油はオメガ3（α-リノレン酸）が60%以上含まれており、空気中で非常に酸化しやすいため必ず冷蔵保存（4℃以下）が必要です。一方、ごま油はセサモールやリグナンなどの強い抗酸化物質を含んでいるため常温で酸化に耐えられ、冷蔵すると固まって風味が落ちるため常温保存が正解です。"
+                    },
+                    {
+                        "question": "ごま油の底に沈殿物が溜まっていますが、食べても大丈夫ですか？",
+                        "answer": "瓶の底に溜まる沈殿物は、ゴマを焙煎して絞る（圧搾する）過程で入るゴマ由来の天然成分（タンパク質や食物繊維）です。品質の劣化や変質ではないため、安心してお振りになってお召し上がりください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持芝麻油（香油）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解芝麻油的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否为了延长保质期而将香浓的芝麻油（香油）放入冰箱，结果发现它凝结成白色硬块，连香气也挥发变淡了？🫗\n\n与紫苏油不同，芝麻油富含名为“木脂素（芝麻林素、芝麻酚）”的强效天然抗氧化成分，具有极强的抗油脂酸败能力。然而，若将其置于10℃以下的冷凉环境（冰箱）中，油体会结晶凝固呈白色块状，导致其独特的芳香油脂成分受损。反之，若暴露于阳光直射或灶台高温下，则会加速油脂氧化。\n\n今天FreshSnap基于食品安全专家指南，为您带来3步科学芝麻油保存秘诀，帮您长久锁定芝麻油的醇香与营养达1~2年。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿存放在冰箱冷藏室中 ⚠️",
+                        "desc": "芝麻油在10~15℃以下就会开始凝固结晶。放入冰箱不仅会导致其变硬极难倒出，且在反复结冻与融化的过程中，芝麻油特有的浓郁香气成分会大量流失。请务必存放在阴凉常温处。"
+                    },
+                    {
+                        "title": "切勿装在透明瓶中置于阳光照射处 ☀️",
+                        "desc": "阳光与紫外线（UV）是引发油脂光氧化的核心元凶。请使用棕色遮光玻璃瓶，或用铝箔纸/报纸将瓶身包裹以彻底阻绝光线。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "使用棕色遮光玻璃瓶或包裹铝箔纸 — 彻底阻绝紫外线与光线 🍾",
+                        "text": "避光是防止芝麻油氧化的首要原则。💡储存小贴士：请存放在不透明的棕色玻璃瓶中；若是透明瓶，可用铝箔纸或报纸将整瓶包裹避光。"
+                    },
+                    {
+                        "name": "存放在15~25℃阴凉避光的常温处 — 适温常温保存 (1~2年) 🌡️",
+                        "text": "芝麻油保持香味与品质稳定的最佳温度为15~25℃的常温。💡储存小贴士：避开灶台、微波炉周边等热源及窗台，存放在温度稳定、通风良好的暗橱下层。"
+                    },
+                    {
+                        "name": "使用后立即拧紧瓶盖 — 阻绝氧气接触 🔒",
+                        "text": "接触空气中的氧气会消耗其天然抗氧化物质并引发酸败。💡储存小贴士：使用完芝麻油后，请擦净瓶口残油并紧闭瓶盖，防止空气进入。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么芝麻油和紫苏油的保存方法截然不同？",
+                        "answer": "紫苏油中的欧米伽-3（α-亚麻酸）含量高达60%以上，极易在空气中氧化酸败，因此必须全程冷藏（4℃以下）。而芝麻油含有强效抗氧化剂（芝麻酚和木脂素），在常温下即可有效抵抗氧化；冷藏反而会导致其结晶凝固并失去香味，因此常温保存才是正确的选择。"
+                    },
+                    {
+                        "question": "芝麻油瓶底出现了沉淀物，还能食用吗？",
+                        "answer": "瓶底的沉淀物是在炒籽和压榨过程中自然带入的芝麻本身成分（蛋白质及膳食纤维）。这并非变质，您可以放心摇匀后正常食用。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el aceite de sésamo fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el aceite de sésamo según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez guardó el aceite de sésamo en el refrigerador para prolongar su vida útil solo para descubrir que se congeló en una masa blanca turbia y perdió su aroma? 🫗\n\nA diferencia del aceite de perilla, el aceite de sésamo contiene potentes antioxidantes naturales llamados lignanos (como el sesamol y la sesamolina), lo que le otorga una alta resistencia a la oxidación. Sin embargo, conservarlo a temperaturas inferiores a 10 °C causa su solidificación en cristales blancos, dañando sus compuestos aromáticos. Por otro lado, exponerlo a la luz solar directa o al calor de la cocina acelera su deterioro.\n\nHoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por expertos en seguridad alimentaria para preservar el aroma y los nutrientes del aceite de sésamo hasta por 1 a 2 años. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde el aceite de sésamo en el refrigerador ⚠️",
+                        "desc": "El aceite de sésamo comienza a solidificarse (congelarse) por debajo de los 10–15 °C. Refrigerarlo lo vuelve duro e incómodo de usar, y los ciclos de congelación y descongelación destruyen sus delicados aceites aromáticos. Manténgalo siempre a temperatura ambiente fresca."
+                    },
+                    {
+                        "title": "No lo conserve en botellas transparentes expuestas al sol ☀️",
+                        "desc": "Los rayos ultravioleta (UV) y la luz directa desencadenan la fotooxidación de los lípidos. Utilice botellas de vidrio marrón oscuro o envuelva los frascos transparentes con papel de aluminio para bloquear la luz."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Utilice botellas de vidrio marrón o envuelva con papel de aluminio — Bloqueo total de luz y rayos UV 🍾",
+                        "text": "Bloquear la luz es la regla más importante para prevenir la oxidación del aceite. 💡 Consejo de almacenamiento: Guarde el aceite en botellas de vidrio opacas. Si usa una botella transparente, envuélvala por completo con papel de aluminio o periódico."
+                    },
+                    {
+                        "name": "Guarde en una alacena fresca y oscura a 15–25 °C — Almacenamiento óptimo a temperatura ambiente (1 a 2 años) 🌡️",
+                        "text": "El aceite de sésamo conserva mejor su aroma entre 15 y 25 °C. 💡 Consejo de almacenamiento: Guárdelo en un armario oscuro alejado de fuentes de calor como estufas, hornos o ventanas soleadas."
+                    },
+                    {
+                        "name": "Cierre herméticamente la tapa inmediatamente tras su uso — Evite el contacto con el oxígeno 🔒",
+                        "text": "La exposición al oxígeno consume los antioxidantes naturales y acelera la rancidez. 💡 Consejo de almacenamiento: Limpie el exceso de aceite del cuello de la botella después de usarlo y cierre bien el tapón."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué difiere la conservación entre el aceite de sésamo y el aceite de perilla?",
+                        "answer": "El aceite de perilla contiene más del 60% de omega-3, por lo que se oxida muy rápido en el aire y exige refrigeración (menos de 4 °C). El aceite de sésamo posee antioxidantes naturales (lignanos) que resisten la oxidación a temperatura ambiente, mientras que el frío del refrigerador lo congela y degrada su sabor. La temperatura ambiente es la adecuada para el sésamo."
+                    },
+                    {
+                        "question": "Hay sedimentos en el fondo de mi botella de aceite de sésamo. ¿Es seguro consumirlo?",
+                        "answer": "Sí. Los sedimentos del fondo son partículas naturales de las semillas de sésamo (proteínas y fibra) extraídas durante el tostado y prensado. No indican deterioro; puede agitar la botella con seguridad antes de usarla."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver l'huile de sésame fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'huile de sésame selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà placé de l'huile de sésame au réfrigérateur pour la conserver plus longtemps, avant de constater qu'elle s'était solidifiée en un bloc blanc et avait perdu son parfum ? 🫗\n\nContrairement à l'huile de périlla, l'huile de sésame est riche en antioxydants naturels puissants appelés lignanes (comme le sésamol et la sésamoline), ce qui lui confère une grande résistance à l'oxydation. Cependant, la conserver sous 10 °C (au réfrigérateur) la fait cristalliser et dégrade ses arômes. À l'inverse, l'exposer au soleil direct ou à la chaleur des plaques de cuisson accélère sa détérioration.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver l'arôme de noisette et les nutriments de votre huile de sésame pendant 1 à 2 ans. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez jamais l'huile de sésame au réfrigérateur ⚠️",
+                        "desc": "L'huile de sésame commence à se solidifier sous 10–15 °C. La mettre au frais la rend dure et difficile à utiliser, tandis que les cycles de solidification et liquéfaction détruisent ses arômes subtils. Conservez-la toujours à température ambiante."
+                    },
+                    {
+                        "title": "Évitez les bouteilles transparentes exposées à la lumière ☀️",
+                        "desc": "Les rayons UV et la lumière sont les causes majeures de la photo-oxydation des lipides. Utilisez des bouteilles en verre brun ou enveloppez les bouteilles claires dans du papier aluminium."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Utiliser une bouteille en verre teinté ou l'envelopper d'aluminium — Protection totale contre les UV et la lumière 🍾",
+                        "text": "Bloquer la lumière est la règle primordiale pour éviter l'oxydation de l'huile. 💡 Astuce de conservation : Conservez-la dans une bouteille en verre foncé. En cas de bouteille transparente, enveloppez-la complètement de papier aluminium ou de journal."
+                    },
+                    {
+                        "name": "Conserver dans un placard frais et sombre à 15–25 °C — Stockage optimal à température ambiante (1 à 2 ans) 🌡️",
+                        "text": "L'huile de sésame conserve idéalement son parfum entre 15 et 25 °C. 💡 Astuce de conservation : Rangez-la dans un placard sombre, à l'écart des plaques de cuisson, fours ou fenêtres ensoleillées."
+                    },
+                    {
+                        "name": "Refermer hermétiquement le bouchon après chaque usage — Prévenir l'exposition à l'oxygène 🔒",
+                        "text": "L'exposition à l'oxygène consomme les antioxydants naturels de l'huile et déclenche son rancissement. 💡 Astuce de conservation : Essuyez le goulot après chaque utilisation et verrouillez bien le bouchon."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les méthodes de conservation diffèrent-elles entre l'huile de sésame et l'huile de périlla ?",
+                        "answer": "L'huile de périlla contient plus de 60 % d'oméga-3, une graisse qui s'oxyde très rapidement à l'air et exige une réfrigération constante (sous 4 °C). En revanche, l'huile de sésame contient des lignanes antioxydantes qui la protègent à température ambiante, alors que le froid la fige et altère son goût. La température ambiante est donc la norme pour le sésame."
+                    },
+                    {
+                        "question": "Il y a un dépôt au fond de ma bouteille d'huile de sésame. Est-elle encore consommable ?",
+                        "answer": "Oui. Le dépôt au fond est constitué de micro-particules naturelles de sésame (protéines et fibres) issues du pressage après torréfaction. Ce n'est pas un signe d'altération ; vous pouvez secouer la bouteille et l'utiliser en toute sécurité."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Sesamöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Sesamöl basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie Sesamöl schon einmal in den Kühlschrank gestellt, um es länger haltbar zu machen, nur um festzustellen, dass es fest und weiß wurde und sein Aroma verlor? 🫗\n\nIm Gegensatz zu Perillaöl enthält Sesamöl wertvolle natürliche Antioxidantien namens Lignane (wie Sesamol und Sesamolin), die es äußerst widerstandsfähig gegen Fettoxidation machen. Eine Lagerung unter 10 °C im Kühlschrank führt jedoch zum Auskristallisieren und beschädigt die feinen Aromen. Wird es hingegen direktem Sonnenlicht oder Herdhitze ausgesetzt, oxidiert es schnell.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um das nussige Aroma und die Nährstoffe Ihres Sesamöls 1 bis 2 Jahre lang perfekt zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Sesamöl keinesfalls im Kühlschrank lagern ⚠️",
+                        "desc": "Sesamöl beginnt unter 10–15 °C fest zu werden (auszukristallisieren). Die Kühlung macht das Öl hart und unpraktisch in der Anwendung; zudem zerstört wiederholtes Erstarren und Verflüssigen die flüchtigen Aromastoffe. Immer bei kühler Raumtemperatur aufbewahren."
+                    },
+                    {
+                        "title": "Nicht in transparenten Flaschen am Sonnenlicht aufbewahren ☀️",
+                        "desc": "UV-Strahlung und Licht sind die Hauptursachen für Fotooxidation der Fette. Nutzen Sie braune Glasflaschen oder umwickeln Sie klare Flaschen komplett mit Alufolie."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Dunkelbraune Glasflaschen nutzen oder mit Alufolie umwickeln — Vollständiger Licht- & UV-Schutz 🍾",
+                        "text": "Lichtschutz ist die wichtigste Regel zur Verhinderung von Öl-Oxidation. 💡 Lagerungstipp: Bewahren Sie Sesamöl in dunklen Glasflaschen auf. Bei durchsichtigen Flaschen wickeln Sie die Flasche vollständig in Alufolie oder Zeitungspapier."
+                    },
+                    {
+                        "name": "Bei 15–25 °C kühl und dunkel lagern — Optimale Raumtemperaturlagerung (1–2 Jahre) 🌡️",
+                        "text": "Sesamöl behält sein Aroma bei Raumtemperaturen zwischen 15–25 °C am besten. 💡 Lagerungstipp: Bewahren Sie es in einem dunklen Küchenschrank fern von Herd, Backofen oder sonnigen Fenstern auf."
+                    },
+                    {
+                        "name": "Nach Gebrauch sofort fest verschließen — Sauerstoffkontakt verhindern 🔒",
+                        "text": "Kontakt mit Sauerstoff zehrt die natürlichen Antioxidantien auf und führt zum Ranzigwerden. 💡 Lagerungstipp: Wischen Sie den Flaschenhals nach dem Einschenken ab und verschließen Sie den Deckel fest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum unterscheidet sich die Lagerung von Sesamöl und Perillaöl?",
+                        "answer": "Perillaöl enthält über 60 % Omega-3-Fettsäuren, die an der Luft extrem schnell ranzig werden und zwingend Kühlung (unter 4 °C) erfordern. Sesamöl hingegen enthält natürliche Lignane, die es bei Raumtemperatur vor Oxidation schützen. Kälte lässt Sesamöl erstarren und nimmt ihm den Geschmack. Daher ist Raumtemperatur ideal."
+                    },
+                    {
+                        "question": "Am Flaschenboden meines Sesamöls hat sich Sediment gebildet. Ist es noch genießbar?",
+                        "answer": "Ja. Bei dem Bodensatz handelt es sich um natürliche Bestandteile der Sesamsamen (Proteine und Ballaststoffe), die beim Rösten und Pressen entstehen. Dies ist kein Zeichen von Verderb; Sie können die Flasche bedenkenlos schütteln und das Öl verwenden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar óleo de gergelim fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o óleo de gergelim com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já guardou óleo de gergelim na geladeira para durar mais e descobriu depois que ele congelou numa massa esbranquiçada e perdeu o aroma? 🫗\n\nAo contrário do óleo de perilla, o óleo de gergelim contém potentes antioxidantes naturais chamados lignanas (como sesamol e sesamolina), o que lhe confere alta resistência à oxidação. No entanto, guardá-lo abaixo de 10 °C na geladeira faz com que se cristalize, danificando seus óleos aromáticos. Por outro lado, expô-lo à luz solar ou ao calor do fogão acelera a deterioração.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter o aroma amendoado e os nutrientes do seu óleo de gergelim por 1 a 2 anos. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde o óleo de gergelim na geladeira ⚠️",
+                        "desc": "O óleo de gergelim começa a se solidificar abaixo de 10–15 °C. A refrigeração o deixa duro e difícil de usar, e os ciclos de congelamento e descongelamento destroem seus delicados compostos aromáticos. Guarde sempre em temperatura ambiente fresca."
+                    },
+                    {
+                        "title": "Não mantenha em garrafas transparentes expostas ao sol ☀️",
+                        "desc": "A luz solar e os raios UV são os principais causadores da foto-oxidação das gorduras. Utilize garrafas de vidro âmbar ou envolva recipientes transparentes com papel alumínio."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Use garrafas de vidro âmbar ou envolva em papel alumínio — Proteção total contra luz e raios UV 🍾",
+                        "text": "Bloquear a luz é a regra principal para conter a oxidação do óleo. 💡 Dica de conservação: Mantenha em garrafas de vidro escuro. Se a garrafa for transparente, envolva-a totalmente com papel alumínio ou jornal."
+                    },
+                    {
+                        "name": "Guarde em armário fresco e escuro a 15–25 °C — Armazenamento ideal em temperatura ambiente (1 a 2 anos) 🌡️",
+                        "text": "O óleo de gergelim preserva melhor o aroma entre 15 e 25 °C. 💡 Dica de conservação: Mantenha em um armário escuro e longe de fontes de calor como o fogão ou janelas."
+                    },
+                    {
+                        "name": "Feche a tampa hermeticamente logo após o uso — Evite o contato com o oxigênio 🔒",
+                        "text": "A exposição ao oxigênio consome os antioxidantes naturais e acelera a rancificação. 💡 Dica de conservação: Limpe o bico da garrafa após o uso e rosqueie a tampa com firmeza."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que a conservação é diferente entre o óleo de gergelim e o óleo de perilla?",
+                        "answer": "O óleo de perilla contém mais de 60% de ômega-3, oxidando muito rápido no ar e exigindo refrigeração constante (abaixo de 4 °C). Já o óleo de gergelim tem antioxidantes naturais (lignanas) que o protegem em temperatura ambiente; o frio da geladeira o congela e estraga seu sabor. A temperatura ambiente é a ideal."
+                    },
+                    {
+                        "question": "Há um sedimento no fundo da minha garrafa de óleo de gergelim. É seguro consumir?",
+                        "answer": "Sim. O sedimento no fundo é composto por partículas naturais das sementes de gergelim (proteínas e fibras) resultantes da torra e prensagem. Não indica deterioração; você pode agitar a garrafa com segurança antes de usar."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Minyak Wijen agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak wijen berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda menyimpan minyak wijen di kulkas agar lebih awet, lalu mendapatinya membeku menjadi gumpalan putih dan aromanya menghilang? 🫗\n\nBerbeda dengan minyak perilla, minyak wijen kaya akan antioksidan alami kuat yang disebut lignan (seperti sesamol dan sesamolin), menjadikannya sangat tahan terhadap oksidasi lemak (ketengikan). Namun, menyimpannya di tempat dingin di bawah 10°C (seperti kulkas) menyebabkan minyak mengkristal dan merusak senyawa aromanya. Sebaliknya, paparan sinar matahari langsung atau panas kompor akan mempercepat pembusukan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keselamatan pangan untuk menjaga aroma gurih dan nutrisi minyak wijen Anda selama 1 hingga 2 tahun. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan minyak wijen di dalam kulkas ⚠️",
+                        "desc": "Minyak wijen mulai membeku/padat pada suhu di bawah 10–15°C. Menyimpannya di kulkas membuatnya keras dan sulit dituang, serta proses pembekuan yang berulang-ulang akan merusak aroma khasnya. Selalu simpan pada suhu ruang yang sejuk."
+                    },
+                    {
+                        "title": "Jangan simpan dalam botol transparan yang terpapar sinar matahari ☀️",
+                        "desc": "Sinar ultraviolet (UV) dan cahaya matahari langsung adalah pemicu utama foto-oksidasi lemak. Gunakan botol kaca berwarna gelap/cokelat atau bungkus botol bening dengan aluminium foil."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gunakan botol kaca gelap atau bungkus dengan aluminium foil — Perlindungan Total dari Sinar UV & Cahaya 🍾",
+                        "text": "Menahan cahaya adalah aturan terpenting untuk mencegah oksidasi minyak. 💡 Tips Penyimpanan: Simpan minyak wijen dalam botol kaca gelap. Jika menggunakan botol kaca bening, bungkus seluruh botol dengan aluminium foil atau kertas koran."
+                    },
+                    {
+                        "name": "Simpan di lemari sejuk dan gelap pada suhu 15–25°C — Simpan Suhu Ruang Optimal (1–2 Tahun) 🌡️",
+                        "text": "Minyak wijen mempertahankan aroma dan kualitas terbaiknya pada suhu ruang antara 15–25°C. 💡 Tips Penyimpanan: Simpan di dalam lemari gelap yang jauh dari sumber panas seperti kompor, oven, atau jendela."
+                    },
+                    {
+                        "name": "Tutup rapat segera setelah digunakan — Cegah Paparan Oksigen 🔒",
+                        "text": "Paparan oksigen menguras antioksidan alami dan memicu ketengikan. 💡 Tips Penyimpanan: Bersihkan sisa minyak di leher botol setelah digunakan lalu tutup rapat botolnya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa cara penyimpanan minyak wijen dan minyak perilla berbeda?",
+                        "answer": "Minyak perilla mengandung lebih dari 60% omega-3 yang sangat cepat tengik di udara sehingga wajib disimpan di kulkas (di bawah 4°C). Sementara itu, minyak wijen mengandung antioksidan alami (lignan) yang tahan oksidasi pada suhu ruang. Suhu dingin justru membuat minyak wijen membeku dan kehilangan rasa khasnya, sehingga suhu ruang adalah pilihan yang tepat."
+                    },
+                    {
+                        "question": "Ada endapan di dasar botol minyak wijen saya. Apakah masih aman dikonsumsi?",
+                        "answer": "Aman. Endapan di dasar botol adalah komponen alami biji wijen (protein dan serat) dari proses sangrai dan pemerasan. Endapan ini bukan tanda kerusakan; Anda dapat mengocok botol dan menggunakannya dengan aman."
+                    }
+                ]
+            }
+        }
+    }
+}

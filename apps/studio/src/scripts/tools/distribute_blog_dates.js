@@ -8,55 +8,46 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const targetSlugs = [
-  'australian-shepherd-care',
-  'pug-care',
-  'bernese-mountain-dog-care',
-  'devon-rex-care',
-  'quaker-parrot-care',
-  'zebra-finch-care',
-  'mongolian-gerbil-care',
-  'russian-tortoise-care',
-  'corydoras-care',
-  'discus-fish-care'
+  'how-to-store-tea-leaves',
+  'how-to-store-oats',
+  'how-to-store-flour',
+  'how-to-store-sausages',
+  'how-to-store-pineapple',
+  'how-to-store-radish',
+  'how-to-store-pumpkin',
+  'how-to-store-sesame-oil'
 ];
 
-// 2026년 1월부터 2026년 7월 현재까지 균등 분산 (10개 날짜)
+// 2026년 1월부터 2026년 7월 현재까지 균등 분산 (8개 날짜)
 const generatedDates = [
-  '2026-01-15',
-  '2026-02-05',
-  '2026-02-25',
-  '2026-03-18',
-  '2026-04-10',
-  '2026-05-02',
-  '2026-05-24',
-  '2026-06-15',
-  '2026-07-06',
-  '2026-07-22'
+  '2026-01-22',
+  '2026-02-16',
+  '2026-03-09',
+  '2026-03-31',
+  '2026-04-20',
+  '2026-05-15',
+  '2026-06-08',
+  '2026-07-02'
 ];
 
-console.log('🗓️ 신규 10개 반려동물 블로그 분산 날짜 목록:', generatedDates);
+console.log('🗓️ 신규 8개 식재료 블로그 분산 날짜 목록:', generatedDates);
 
 const blogBaseDir = path.join(studioRoot, 'src/content/blog');
-const jsonDir = path.join(studioRoot, 'src/data/blogs/pets');
+const jsonDir = path.join(studioRoot, 'src/data/blogs/ingredients');
 const locales = ['ko', 'en', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'];
-
-const mdSlugMap = {
-  'discus-fish-care': 'discus-care'
-};
 
 targetSlugs.forEach((slug, idx) => {
   const targetDate = generatedDates[idx];
-  const mdSlug = mdSlugMap[slug] || slug;
 
   // 1. 모든 언어의 Markdown 파일 수정 (pubDate, updatedDate)
   locales.forEach(lang => {
-    const mdPath = path.join(blogBaseDir, lang, `${mdSlug}.md`);
+    const mdPath = path.join(blogBaseDir, lang, `${slug}.md`);
     if (fs.existsSync(mdPath)) {
       let content = fs.readFileSync(mdPath, 'utf-8');
       content = content.replace(/(pubDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
       content = content.replace(/(updatedDate:\s*")([^"]+)(")/, `$1${targetDate}$3`);
       fs.writeFileSync(mdPath, content, 'utf-8');
-      console.log(`[MD 완료] [${lang.toUpperCase()}] ${mdSlug}.md -> ${targetDate}`);
+      console.log(`[MD 완료] [${lang.toUpperCase()}] ${slug}.md -> ${targetDate}`);
     }
   });
 
@@ -77,4 +68,5 @@ targetSlugs.forEach((slug, idx) => {
   }
 });
 
-console.log('✨ 10개 반려동물 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');
+console.log('✨ 8개 식재료 블로그 2026년 1월~7월 날짜 분산 업데이트 완료!');
+
