@@ -31,14 +31,16 @@ faqs:
 
 今日の記事では、メンデルのエンドウ豆データ収集ルーティンに秘められた脳科学的原理と、現代人が作業記憶力を向上させ忍耐力を鍛えるためのセルフデータトラッキング実践法を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>グレゴール・メンデルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、グレゴール・メンデルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ faqs:
 
 自動化されたデジタルデータ分析ツールは便利ですが、脳が直接データを収集し分類する能動的な認知過程を省略してしまいます。メンデルのように毎日アナログ方式で自分だけのコア統計を手書きで追跡・記録することは、脳の情報フィルターを精巧に鍛え、忍耐力を構築する最高峰の認知トレーニングです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>手でグラフを描かなければなりませんか？Excelを使った方が便利ではありませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">手でグラフを描かなければなりませんか？Excelを使った方が便利ではありませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Excelやデータアプリは処理過程が自動化されているため、視覚的認知刺激が低くなります。直接定規を当てて手で線を描き数値の上下を描写する行為は、脳の下頭頂小葉領域をはるかに強力に刺激し、データの背景にある因果関係や meaningful なパターンを直感的に洞察する手助けをします。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>数値に大きな変化がなくても記録する必要がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">数値に大きな変化がなくても記録する必要がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、非常に重要です。数値の「平坦な維持」もまた、一貫性という素晴らしい状態を示すデータです。変化がない期間を記録すること自体で脳の衝動制御メカニズムが維持され、長期的に特異値が現れる瞬間（例：読書量が急激に低下した原因の発見など）において重要な対照群の役割を果たします。
     </p>
   </details>

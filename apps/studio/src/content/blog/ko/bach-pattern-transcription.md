@@ -27,14 +27,16 @@ faqs:
 
 오늘 포스트에서는 바흐의 필사 습관에 숨겨진 뇌과학적 원리와 지적 문제 해결력 및 학습력을 극대화하는 현대적 아날로그 필사 리추얼 설계법을 분석합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,17 +91,17 @@ faqs:
 
 모니터 화면을 보며 눈으로 읽거나 마우스로 드래그하는 정보는 뇌에 아주 얕게 흘러가 사라집니다. 뇌의 논리 회로를 강화하고 싶다면 단 10분만이라도 펜을 잡고 필사를 진행해 보세요. 바흐가 복잡한 푸가 패턴을 손끝으로 베껴 쓰며 바로크 음악의 완벽한 공식을 지배했던 것처럼, 당신의 뇌도 아날로그 필사를 거칠 때 어려운 지식을 완전히 소유하게 될 것입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>타이핑을 치는 타자 필사도 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">타이핑을 치는 타자 필사도 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       타이핑은 모든 글자에 대해 동일하게 버튼을 누르는 단순 동작의 반복이므로, 글자의 궤적을 손으로 그리고 펜 끝 압력을 조절하는 아날로그 손필사에 비해 두정엽 논리 영역의 자극도가 매우 낮습니다.
     </p>
   </details>

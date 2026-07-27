@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 베른의 새벽 지식 아카이빙 습관의 과학적 작동 원리와 현대인들이 복합적인 정보 습득과 활용을 위해 이를 어떻게 응용할 수 있는지 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>쥘 베른 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 쥘 베른 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 스크랩 루틴의 주된 함정은 단순히 지식을 스크랩하고 축적하는 데서 성취감을 느끼는 수집 강박(Collector's Fallacy)에 빠지는 것입니다. 카드를 만드는 것은 지식을 뇌에 깊이 결합하고 활용하기 위한 수단이어야 합니다. 요약은 오직 나만의 언어로 정제해야 하며, 정기적으로 카드 아카이브를 훑어보고 관련 지식들을 직접 작문이나 토론에 연결해 출력하는 시간을 반드시 병행해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>독일의 니클라스 루만 교수의 제텔카스텐(Zettelkasten) 메모법과 쥘 베른의 카드 스크랩은 무엇이 다른가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">독일의 니클라스 루만 교수의 제텔카스텐(Zettelkasten) 메모법과 쥘 베른의 카드 스크랩은 무엇이 다른가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       제텔카스텐은 카드 간의 영구적인 상호 번호 연결을 통해 사유의 그물망을 만드는 데 집중하지만, 쥘 베른의 카드는 대규모 과학·기술 백과사전적인 자료를 카테고리별로 정밀하게 축적하여 작품의 기술적 묘사와 개연성을 보강하는 데 초점을 둔 점에서 차이가 있습니다.
     </p>
   </details>

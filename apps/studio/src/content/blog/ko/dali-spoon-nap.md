@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 살바도르 달리의 '숟가락 낮잠' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 입면 몽상(Hypnagogia)의 시타파 회로를 활용해 문제 해결력과 창의적 집중력을 복원하는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>살바도르 달리 자서전 『달리, 자서전(The Secret Life of Salvador Dalí)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 살바도르 달리 자서전 『달리, 자서전(The Secret Life of Salvador Dalí)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 숟가락 소리에 깨어난 직후 몽롱한 기분에 빠져 머뭇거리면, 입면 몽상 상태에서 떠올랐던 환상적 잔상은 불과 몇 초 만에 기억 회로에서 빠르게 소멸합니다. 소리를 듣고 눈을 뜨자마자 머릿속 시각 잔상을 스케치북, 수첩, 혹은 스마트폰 메모 앱에 지연 없이 5초 이내에 직관적으로 적어 내려가는 단호한 순발력이 루틴의 핵심 성공 요인입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>살바도르 달리는 왜 하필 숟가락을 손에 쥐고 낮잠을 청했나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">살바도르 달리는 왜 하필 숟가락을 손에 쥐고 낮잠을 청했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       잠에 들어 근육의 긴장이 해제되는 '입면의 순간'을 물리적 낙하 소리로 변환하여 뇌를 기상시키기 위함이었습니다. 이를 통해 뇌가 깊은 NREM 3단계 서파 수면에 빠져 수면 관성을 겪는 것을 차단하고, 무의식적 입면 몽상(Hypnagogia)의 초현실적 아이디어만을 온전히 낚아챌 수 있었습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>사무실이나 도서관처럼 금속 낙하 소음을 내기 힘든 장소에서는 어떻게 응용하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">사무실이나 도서관처럼 금속 낙하 소음을 내기 힘든 장소에서는 어떻게 응용하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       금속 접시 바닥에 두꺼운 타월이나 쿠션을 깔아 소음을 무소음 둔탁음으로 흡수시키거나, 스마트폰의 '1분/2분 미니 타이머 알람'을 약한 진동으로 세팅하여 뇌가 깊은 수면으로 진입하기 직전 얕은 선잠 단계에서 살짝 깨어나도록 조율하는 방식으로 완벽히 대체 가능합니다.
     </p>
   </details>

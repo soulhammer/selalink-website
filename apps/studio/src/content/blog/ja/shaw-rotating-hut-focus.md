@@ -25,14 +25,16 @@ faqs:
 
 『ピグマリオン』や『人と超人』などで有名なノーベル文学賞受賞劇作家ジョージ・バーナード・ショー。ウィットに富んだ辛辣な言葉で世界中を感嘆させた彼ですが、いざ執筆となると身の毛立つほど執拗で厳格でした。彼は勤務時間中の他人の介入を徹底的に防ぐため、エイオット・セント・ローレンスにある庭の隅に自分専用の小さな木造小屋を自ら建設しました。この小屋は手動のギア装置を回すことで360度回転できる特殊なメカニズムを持っていました。バーナード・ショーは太陽の移動に合わせて小屋を回転させ、一日中豊かな自然光を浴び続けました。さらに秘書に「ロンドンに出張中だ」と伝えさせ、人々の追跡を逃れました。静的な孤立と自然光を結合させた彼の独創的な集中の秘訣を心理学的に解き明かします。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>バーナード・ショーの回転小屋での集中に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、バーナード・ショーの回転小屋での集中に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 物理的な遮断習慣を適用する際の注意点は、隔離された空間にスマートフォンやSNSの通知を持ち込むことです。外部からの物理的遮断が完成していても、手元に仮想の邪魔要素（スマホ通知）が残っていれば、脳は無意識の確認欲求に囚われ、マルチタスク状態に陥ります。したがって隔離ゾーンに入る際は、メインPCやスマホの通知を完全に無効化（お休みモード等）にすべきです。オフライン状態や単一の集中用プログラムだけを起動して作業する真のデジタルデトックスが伴ってこそ、回転小屋効果を十分に体感できます。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>自宅に部屋が一つしかなく、家族と同居していて物理的な隔離部屋を作れない場合はどうすればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">自宅に部屋が一つしかなく、家族と同居していて物理的な隔離部屋を作れない場合はどうすればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       物理的な部屋の分離が難しい場合は、ノイズキャンセリングヘッドホンを着用し、静かなホワイトノイズやモーツァルトの音楽を聴いて「仮想のサウンド壁」を立ててください。また、デスクの上に「邪魔禁止プレート」を置いたり、早朝の時間帯を活用して家族が起きる前に自分だけの2時間の隔離時間を先行確保する戦略が効果的です。
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、ドストエフスキーの「彷徨いと口述執筆」ルーティンに秘められた脳科学的作動原理を分析し、現代人が行き詰まった文章や企画案を紐解く3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 口頭朗読トレーニングは声を出して言葉を吐き出す過程であるため、他人の視線や監視が存在する開放型オフィスや公共の場所で実行する場合、大脳扁桃体が社会的評価不安（Social Evaluation Anxiety）を感じて極度の認知妨害が起こります。したがって、このトレーニングは他人の視線に拘束されず、ただ自分の声の響きにのみ100％集中できる自分だけの安全な専用個人空間（個人書斎、車内、ドアを閉めた会議室）で遂行してこそ完全な効果を得ることができます。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>声を出して話す代わりに囁いたり口の中で呑み込みながら読むことも同じ効果がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">声を出して話す代わりに囁いたり口の中で呑み込みながら読むことも同じ効果がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       いいえ。囁きや口の中での黙読は、声帯筋肉および発音器官の完全な収縮を引き起こせず、聴覚皮質へと流入する音エネルギーが微弱です。明確な発声で自分の声を空気中へと放ち耳で聞き返す「聴覚-運動フィードバック回路」が完成して初めて、ブローカ野とウェルニッケ野のシナジー活性化が起こります。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>彷徨いながら口述する間にすれ違う文章をスマートフォンの音声メモやSTTアプリで記録することは効果的ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">彷徨いながら口述する間にすれ違う文章をスマートフォンの音声メモやSTTアプリで記録することは効果的ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、現代技術を活用した最高のドストエフスキー的口述マッチング法です。彷徨いながら吐き出す言葉を音声メモやSTT（Speech-to-Text）アプリで自動変換しておけば、手で書くために歩行と発声の流れが断絶される現象を防ぎ、脳の認知負荷を減らして口述執筆効果を極大化できます。
     </p>
   </details>

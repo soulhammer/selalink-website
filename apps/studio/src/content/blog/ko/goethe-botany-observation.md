@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 괴테의 아침 관찰 산책 속에 깃든 환경심리학적 원리와 인지적 주의력을 회복하고 하루의 통찰력을 높이는 현대적 15분 아침 관찰법을 공유합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>요한 볼프강 폰 괴테 자서전 『시와 진실(Dichtung und Wahrheit)』 및 식물학 논문 『식물 변형론(Metamorphose der Pflanzen)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 요한 볼프강 폰 괴테 자서전 『시와 진실(Dichtung und Wahrheit)』 및 식물학 논문 『식물 변형론(Metamorphose der Pflanzen)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 모니터 속 문자나 인포그래픽은 뇌에 의도적 주의 집중을 강요하여 전두엽을 쉽게 방전시킵니다. 인위적 자극이 없는 자연물의 이파리, 잎맥, 씨앗 무늬 등의 프랙탈 구조를 15분간 관찰하는 것만으로도 뇌의 주의 회복 스위치가 켜집니다. 단, 디지털 화면을 보며 걷지 말고 자연 대상 자체에 주의를 가볍게 던져두어야 완전한 인지 리셋이 일어납니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>집에 있는 반려식물이나 화초를 관찰하는 것도 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">집에 있는 반려식물이나 화초를 관찰하는 것도 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 실내 화초나 반려식물의 잎맥과 나선형 패턴을 돋보기를 대듯 정밀 관찰하는 것도 비의도적 주의를 자극하여 전두엽 피로를 줄여줍니다. 다만 햇빛(자연광) 노출과 가벼운 보행이 동반되는 야외 관찰이 종합적인 인지력 및 신경 회복에 가장 효과적입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>괴테처럼 실제로 돋보기나 채집 봉투를 들고 다녀야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">괴테처럼 실제로 돋보기나 채집 봉투를 들고 다녀야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       실제 돋보기를 활용하면 미세 프랙탈 구조가 시각 피질을 더 강하게 자극하는 장점이 있지만, 필수 요소는 아닙니다. 맨눈으로 잎사귀나 꽃잎의 잎맥, 씨앗 나선 무늬를 세심하게 관찰하는 것만으로도 주의 회복 이론(ART)에 따른 대뇌 피질 회복 효과를 충분히 누릴 수 있습니다.
     </p>
   </details>

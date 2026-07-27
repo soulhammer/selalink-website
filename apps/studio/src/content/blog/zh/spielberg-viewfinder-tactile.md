@@ -29,14 +29,16 @@ faqs:
 
 在今天的文章中，我们将探讨斯皮尔伯格“模拟取景器与模型触觉刺激”常规习惯的脑科学源泉，以及现代人在日常工作中突破策划停滞期的实用方法。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>史蒂文·斯皮尔伯格的历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 史蒂文·斯皮尔伯格的历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 在使用便携玩具（Fidget Toy）刺激指尖时，如果工具过于繁复或包含复杂的机关，大脑反而会被工具本身的玩法吸引，从而导致认知分散现象。因此，为了达到刺激大脑的目的，使用形状简单、材质坚硬的冷金属模型或木质玩具，在减轻认知负荷方面要有利得多。此外，请将触摸时间限制在10分钟以内。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>用手指旋转指尖陀螺或普通圆珠笔也能达到相同的效果吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">用手指旋转指尖陀螺或普通圆珠笔也能达到相同的效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       单纯重复旋转陀螺或圆珠笔的动作被归类为一种无意识的习惯性运动，仅能刺激大脑的基底核回路，而引发顶叶进行高阶空间运算的体感皮质刺激（Haptic Feedback）强度非常低。因此，直接触摸具有清晰几何形态与轮廓的模拟模型玩具或方块，迫使大脑为了识别形态而协调指尖细胞的精细动作，能产生好得多的智力觉醒效果。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>没有光学取景器镜头时，日常生活中还有其他缩小视野的小技巧吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">没有光学取景器镜头时，日常生活中还有其他缩小视野的小技巧吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       即使没有斯皮尔伯格的取景器镜头，在纸卡中央打出一个手指节大小的方形小孔并透过它观察对象，或者闭上一只眼睛、用手指捏成圆圈（如OK手势）像望远镜一样贴近眼睛观察对象，也能起到完全相同的视觉重塑（Visual Framing）效果。过滤掉涌入大脑皮层视觉区的不必要认知噪声的物理原理是完全相同的。
     </p>
   </details>

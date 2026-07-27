@@ -27,14 +27,16 @@ faqs:
 
 Pythagoras, der altgriechische Philosoph und Meister der Mathematik und Geometrie, behauptete, dass alle Dinge im Universum aus Zahlen bestehen. Er leitete mit seinen Schülern eine mystische Gemeinschaft, die strenge Askese und die Harmonie der Seele anstrebte. Der wichtigste Verhaltenskodex in dieser Gemeinschaft war die abendliche Selbstreflexionsroutine, die jede Nacht durchgeführt wurde. Gemäß den ‚Goldenen Versen‘ der Pythagoreer befragten sie sich vor dem Einschlafen dreimal selbst: ‚Wo habe ich gefehlt?‘, ‚Welches Gute habe ich heute getan?‘ und ‚Welche Pflicht habe ich unerfüllt gelassen?‘. Wir analysieren Pythagoras' nächtliche Routine der Tagesprüfung zur Vollendung des Charakters.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historischer & Wissenschaftlicher Beleg
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Pythagoras' abendliche Selbstprüfung sowie kognitive neurowissenschaftliche Forschung</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Dieser Inhalt basiert auf Historische kritische Biografie und autobiografische Aufzeichnungen über Pythagoras' abendliche Selbstprüfung sowie kognitive neurowissenschaftliche Forschung.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ Schlaf ist eine entscheidende Phase, in der tagsüber im Hippocampus gespeichert
 
 Das größte Risiko der abendlichen Reflexion besteht darin, dass die Reflexion in Selbstbeschuldigung oder Grübeln (Rumination) abgleitet. Sich emotional in schlechte Ereignisse des Tages zu vertiefen und das Grübeln zu wiederholen, löst die Ausschüttung von Cortisol aus, einem Stresshormon, das tatsächlich zu Schlaflosigkeit führt. Wahren Sie bei der Reflexion ‚kognitive Distanz‘, indem Sie Ereignisse rein objektiv aus der Perspektive eines Dritten betrachten und sich anstelle von Selbstvorwürfen auf Verhaltensalternativen wie ‚Das werde ich beim nächsten Mal so verbessern‘ konzentrieren.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was ist, wenn ich den ganzen Tag so beschäftigt und müde bin, dass ich während der Reflexion einfach einschlafe?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Was ist, wenn ich den ganzen Tag so beschäftigt und müde bin, dass ich während der Reflexion einfach einschlafe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Bei Erschöpfung einzuschlafen ist natürlich. Das Sitzen am Schreibtisch und das kurze 5-minütige Aufschreiben wie beim Tagebuchführen anstelle des Liegens im Bett hilft jedoch, ein vorzeitiges Einschlafen und Schlafschwere zu verhindern.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Was sollte ich tun, wenn mich Selbstvorwürfe nachts wach halten?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Was sollte ich tun, wenn mich Selbstvorwürfe nachts wach halten?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Stoppen Sie die Selbstbefragung sofort, wenn emotionales Grübeln beginnt. Üben Sie stattdessen, die Reflexion zu beenden, nachdem Sie eine alternative Option notiert haben wie: ‚Was geschehen ist, kann nicht rückgängig gemacht werden, morgen werde ich nur eine Sache anders machen.‘
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构史蒂芬·金“清晨8点写作仪式”背后蕴含的大脑经典条件反射与自动沉浸机制，并分享一套助现代人在开展重磅工作时无需耗费意志力即可切入极精专注的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>史蒂芬·金自传《写作这回事（On Writing: A Memoir of the Craft，2000）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 史蒂芬·金自传《写作这回事（On Writing: A Memoir of the Craft，2000）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 灵感决非靠被动守株待兔去苦等，而是需要在固定的场域与节点、借由特定感官触点有意识去唤醒的高阶神经状态。切勿过度羁绊于脆弱的主观意志力，务必预先设计好成套的躯体与感官信号，确保身体落座的瞬间，大脑便能自发切入极精专注状态。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>史蒂芬·金为何严苛设定单日最低2,000词的具象硬性指标？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">史蒂芬·金为何严苛设定单日最低2,000词的具象硬性指标？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       因若妥协于心情或主观感悟，产出效率必将极其剧烈波动。锁死一套可量化的最低产出底线，能倒逼大脑执掌控制网络在既定时间内恒速运转，屏蔽情绪低谷与创作倦怠期。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>是否必须死板照搬史蒂芬·金服食维生素片或播放重金属摇滚乐等具体触点？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">是否必须死板照搬史蒂芬·金服食维生素片或播放重金属摇滚乐等具体触点？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝无必要。触点本身的特定载体并非关键，其硬核内核在于“绝对的连贯一致性”。挑选契合个人体感的感官刺激——如饮一杯绿茶、播放白噪音、或点亮某一特定台灯，并在切入专注前保持连贯复刻，便可斩获完全相同的神经条件反射效能。
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构罗斯福“集邮分类”习惯背后的脑科学原理，并为身处高压日常中的现代人提供一套安全收盘的模拟放松方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 许多人误以为躺在床上用手机刷短视频便是在休息，然而数字屏幕散发的蓝光与源源不断的高刺激信息流，会促使大脑持续处于高度兴奋状态，严重抑止褪黑素的分泌。欲保障高品质睡眠，睡前务必关停屏幕，将焦点转向调用手指触觉的实体模拟手作活动中。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>玩手机游戏或刷短视频流有助于达成认知放松吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">玩手机游戏或刷短视频流有助于达成认知放松吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全不能。数字屏幕产生的蓝光与高刺激算法推送不仅无法让大脑得到休息，反而会强行维持皮层的兴奋度，严重妨碍睡眠霍尔蒙褪黑素的正常分泌。欲达成真正的认知放松，必须选用不接触屏幕、依靠手指触觉的实体手作活动。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>若感到每晚固定挤出30分钟过于漫长或难以安排，该如何调整？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">若感到每晚固定挤出30分钟过于漫长或难以安排，该如何调整？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       哪怕仅抽出10分钟也同样行之有效。合上笔记本电脑，在草稿本上随意涂鸦，或在实体日记本上书写寥寥数行，只要能向大脑明确传递出“今日工作已圆满收盘”的安全信号，便足以成功触发副交感神经的放松机制。
     </p>
   </details>

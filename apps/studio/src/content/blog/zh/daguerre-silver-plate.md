@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析路易·达盖尔“银版感光与视觉定格”习惯背后的脑科学原理，并为无损捕捉闪光灵感、将其完美刻印于大脑与手账中的现代人提供3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>路易·达盖尔《银版摄影术的历史与技术（Historique et description des procédés du Daguerréotype）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 路易·达盖尔《银版摄影术的历史与技术（Historique et description des procédés du Daguerréotype）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 切忌包揽“待会儿再记”的拖延心态。闪光灵感会在数秒内从神经网络中迅速挥发，因此在灵感爆发的极其瞬间，将其如心理快照般定格于大脑框架中展开3秒清晰感光（Fixation），随后即刻转化为文字笔记或手写记录，这才是核心关键。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>常规随手记笔记与达盖尔3秒视觉感光定格法有何本质区别？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">常规随手记笔记与达盖尔3秒视觉感光定格法有何本质区别？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       常规笔记仅仅是被动收集词汇与字句；而达盖尔法是在书写前先在大脑内部展开3秒强效感光（曝光）。经历了这项前置步骤，日后即便只是扫视极简的短文速记，当时感光于枕叶的生动体感与三维立体情境也会被100%还原激活。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在步行或穿梭于途中无法即时手写或草图记录时该如何处理？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在步行或穿梭于途中无法即时手写或草图记录时该如何处理？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       即便是处于动态中，也请先展开3秒的大脑框架感光（Visual Fixation）将其刻印于枕叶，随后借助手机的“语音备忘录”功能快速录下核心关键词。只要完成了这置顶的3秒感光，即便是极为短暂的语音速记也足以实现完美的永久保存。
     </p>
   </details>

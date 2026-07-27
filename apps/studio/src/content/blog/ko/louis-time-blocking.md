@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 루이 14세의 '타임 블로킹' 루틴에 숨겨진 뇌과학적 이점을 살펴보고, 현대인을 위해 재구성한 3단계 시간 관리 실천 가이드를 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin, 1670)』 및 생시몽 백작 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 루이 14세 회고록 『왕세자를 위한 지침(Mémoires pour l'instruction du dauphin, 1670)』 및 생시몽 백작 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 시간 블로킹 루틴의 가장 큰 함정은 1분의 오차도 허용하지 않으려는 빽빽한 시간표 세우기입니다. 예상치 못한 외부 변수로 시간이 지연될 때 전체 스케줄을 포기하게 만드는 무리한 완벽주의를 경계하세요. 일정 사이에 10 ~ 15분의 <strong>완충 시간(Buffer Time)</strong>을 의도적으로 배치하여 뇌의 <strong>인지적 유연성(Cognitive Flexibility)</strong>을 확보하는 것이 루틴 지속의 핵심입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>돌발 업무나 긴급 연락이 빈번한 직업군에서도 타임 블로킹이 가능한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">돌발 업무나 긴급 연락이 빈번한 직업군에서도 타임 블로킹이 가능한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 완벽히 가능합니다! 하루 중 2 ~ 3회의 '긴급 대응 및 메시지 일괄 처리 블록'을 사전에 의도적으로 배정해두세요. 핵심 집중 블록 시간에는 방해 없이 딥 워크에 몰입하고, 대응 블록에서 돌발 업무를 일괄 처리(Batch Processing)함으로써 집중력의 분절을 효율적으로 차단할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>시간표대로 일정을 달성하지 못했을 때 심한 자책감이 드는데 어떻게 극복하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">시간표대로 일정을 달성하지 못했을 때 심한 자책감이 드는데 어떻게 극복하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       타임 블로킹은 엄격한 족쇄가 아니라 시간을 효율적으로 활용하기 위한 안내 지도입니다. 중요한 것은 완벽한 이행 여부보다 '해당 블록 동안 단일 과업에 몰입했는가'입니다. 일정이 어긋났을 때 계획을 비난하기보다 즉시 다음 블록의 과업으로 이행하는 인지적 유연성(Cognitive Flexibility)을 발휘해야 루틴을 오랫동안 유지할 수 있습니다.
     </p>
   </details>

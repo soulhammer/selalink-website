@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、白凡・金九が生涯修練してきた書道瞑想の中に宿る脳のリラックスと微細制御の関係を脳科学的に解明し、現代人が不安と分散した注意力をコントロールして高度の平静さを見つける3段階のアナログ・ルーティンを紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>金九自伝『白凡逸志（ペクポミルチ）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、金九自伝『白凡逸志（ペクポミルチ）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 心が乱れている時は、急いで回答を探そうと迷ったり文字の完成度に執着しないでください。筆先やペン先が紙に触れる瞬間の摩擦感と線を引く現在の動作自体に意識を固定することが、不安を鎮め澄み切った前頭前野の覚醒を取り戻す核心です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>書道がストレス解消と心の安定に役立つ脳科学的原理は何ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">書道がストレス解消と心の安定に役立つ脳科学的原理は何ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       筆先の微細な力と方向を調節する微細運動制御（Fine Motor Control）の過程で脳の体性感覚皮質と前頭前野が集中刺激され、不安と恐怖を引き起こす扁桃体の信号を物理的に抑制するからです。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>筆や書道用品がないのですが、万年筆や普通のペンでも同じ効果を得られますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">筆や書道用品がないのですが、万年筆や普通のペンでも同じ効果を得られますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、完璧に可能です！核心は特定の道具ではなく「微細な指先の力調節と速度の減」にあります。万年筆、ディップペン、あるいは鉛筆を握り、線の太さと紙の質感を自然に感じながら一文字ずつゆっくりと整えて書く等速筆記（Slow Writing）だけでも、同じ神経系安定効果を得ることができます。
     </p>
   </details>

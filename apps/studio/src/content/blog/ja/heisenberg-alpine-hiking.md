@@ -29,14 +29,16 @@ faqs:
 
 論理が詰まってこれ以上思考に進展がないたび、ハイゼンベルクはバイエルン・アルプス山脈の深い針葉樹林へと旅立ちました。彼は数日間のあいだ山の沈黙の中をハイキングし、静かに思索の固有速度を調律しました。1925年秋、北海の孤立した療養地ヘルゴラント島とアルプスの散策を経て、量子力学の最も決定的な突破口の数式が導き出された背景には、彼の登山思索ルーティンがありました。自然の森の道を歩くことが疲弊した脳を充電し、創造性を呼び覚ます認知科学的メカニズムを解き明かします。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 森林ハイキングを通じた思索を進める際、注意すべき最悪の妨害要因はスマートフォンでポッドキャストを聞いたりメールを確認することです。自然の中にいながらもデジタル画面に自発的注意力を継続して消耗するなら、脳の注意力回復とDMNの無意識的孵化は完全に遮断されます。スマートフォンを機内モードに切り替え、ただ自然の音と足取りの振動に完全に集中しなければなりません。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>都心に居住していてハイキングや登山に行くことが難しい場合はどのように代替しますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">都心に居住していてハイキングや登山に行くことが難しい場合はどのように代替しますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       都心の中の公園や街路樹の道を、スマートフォンなしで自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた視空間感覚の刺激と脳血流の活性化が核心です。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>ハイキング中に浮かんだアイデアを忘れずに記録するコツはありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">ハイキング中に浮かんだアイデアを忘れずに記録するコツはありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       ポケットに小さなメモ手帳とペンを携帯し、思い浮かんだら即座に核心単語だけを簡単に手書き記録するか、歩行の邪魔にならないよう音声メモ機能で low-friction に録音する方法をお勧めします。
     </p>
   </details>

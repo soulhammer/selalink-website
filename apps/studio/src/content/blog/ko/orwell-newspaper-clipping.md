@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 조지 오웰의 '가위질 스크랩' 루틴의 인지신경학적 작동 원리와 현대인들이 디지털 정보 과부하 속에서 이를 어떻게 강력한 지식 스키마로 승화시킬 수 있는지 설명합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 단순히 좋은 글이나 링크를 클릭 한 번으로 저장 폴더에 넣기만 하는 것은 뇌 과학적으로 지식을 소유했다고 착각하는 '수집가의 오류(Collector's Fallacy)'에 빠지게 만듭니다. 오직 직접 요약하거나 내 언어로 한 줄 평가를 덧붙여 뇌를 인지적으로 자극할 때에만 그 정보가 나만의 진짜 지식 스키마로 소화되어 활용될 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>조지 오웰의 스크랩북이 실제로 보관되어 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">조지 오웰의 스크랩북이 실제로 보관되어 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 조지 오웰이 수집한 기사들과 가위로 자른 스크랩북의 사본 및 그의 작업 관련 메모들은 런던 유니버시티 칼리지(UCL)의 조지 오웰 아카이브에 역사적 귀중 사료로 보존되어 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>디지털로 이 스크랩 루틴을 수행하려면 어떤 앱을 추천하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">디지털로 이 스크랩 루틴을 수행하려면 어떤 앱을 추천하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       텍스트의 캡처와 하이라이트가 간편하고 개인 의견 메모 추가가 즉각적으로 가능한 Notion(노션), Obsidian(옵시디언), Evernote(에버노트), 혹은 웹 스크랩 전용 앱인 Pocket(포켓)과 Raindrop.io를 추천합니다.
     </p>
   </details>

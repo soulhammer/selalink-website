@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 포드가 매일 아침 실천했던 '도식 흐름 스케치' 루틴의 생리학적 원리와 현대적 실천 방법을 분석해봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>헨리 포드 자서전 『내 삶과 사업(My Life and Work)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 헨리 포드 자서전 『내 삶과 사업(My Life and Work)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 아이디어를 메모할 때 스마트폰이나 아이패드 같은 디지털 터치 패드를 사용하면 끊임없는 알림과 인공 블루라이트가 뇌를 미세하게 분산시킬 수 있습니다. 특히 매끈한 유리 화면은 아날로그 마찰력이 없어 뇌의 체성감각 자극을 50% 이하로 떨어뜨립니다. 따라서 되도록 거친 종이 수첩에 연필로 눌러 그리며 손끝의 촉각 저항을 인지 피드백으로 활용할 때 뇌가 가장 선명하게 도식을 인지합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아이패드나 스마트폰 화면에 펜으로 그리는 것으로 대체해도 괜찮나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아이패드나 스마트폰 화면에 펜으로 그리는 것으로 대체해도 괜찮나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       디지털 화면은 화면 터치 감이 매끄러워 뇌의 손가락 끝 체성감각 마찰 피드백이 극도로 떨어지며, 잦은 알림 등으로 인해 주의가 분산되기 쉽습니다. 아날로그 종이가 주는 물리적인 펜 끝 저항력이 대뇌 피질을 자극하여 더 깊은 인지 오프로딩을 완성하기 때문에 가급적 실제 종이와 수첩을 사용하는 것을 추천합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>공장을 걷지 않고 자리에 가만히 앉아서 그리는 것도 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">공장을 걷지 않고 자리에 가만히 앉아서 그리는 것도 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       자리에 가만히 앉아 도식을 그리는 것도 인지 오프로딩 효과를 일부 주지만, 걷기나 시각 추적 활동을 결합할 때 효과가 대폭 상승합니다. 걷는 행위는 뇌의 혈류량을 즉시 증가시키고 심폐 활동을 자극하여 대뇌 각성을 활성화하며, 사물이나 기계의 움직임을 눈으로 따라가는 예열이 소뇌의 실행 망을 활성화하여 도식 구성 시의 논리 연산 능력을 극대화하기 때문입니다.
     </p>
   </details>

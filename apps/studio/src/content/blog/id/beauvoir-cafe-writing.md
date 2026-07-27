@@ -31,14 +31,16 @@ Setiap pagi pukul 10.00, Beauvoir berjalan menuju tempat favoritnya, Café de Fl
 
 Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik rutinitas 'menulis di kafe' Simone de Beauvoir dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk membangun 'Focus Zone' mereka sendiri di tengah gangguan yang tiada henti.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Secara neurosains, menghadapi lingkungan fisik yang sama persis setiap hari (mej
 
 Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibel atau percakapan orang lain yang terdengar jelas (Speech Noise) mengganggu lingkar fonologis (Phonological Loop) otak, menurunkan pemahaman bacaan dan kemampuan menulis logis. Pilihlah tempat dengan tingkat kebisingan yang tenang, atau jika suara percakapan menonjol, gunakan earphone noise-canceling untuk menghindari gangguan kognitif.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Mengapa Simone de Beauvoir memilih Café de Flore sebagai ruang menulisnya?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Mengapa Simone de Beauvoir memilih Café de Flore sebagai ruang menulisnya?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Selama cuaca dingin yang parah di Paris tahun 1940-an, Café de Flore menjaga pemanas ruangan tetap hangat dan menawarkan suasana ramah seniman di mana kaum intelektual dapat bertahan berjam-jam tanpa tekanan, menjadikannya ruang kreasi yang ideal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Ya, tentu saja. Anda dapat memicu efek pengalihan kognitif yang sama di rumah hanya dengan menyalakan lampu meja khusus di sudut tertentu, menggunakan cangkir khusus fokus, dan memutar trek white noise 50-60 dB.
     </p>
   </details>

@@ -29,14 +29,16 @@ Adams a maintained toute sa vie une routine physique rigoureuse : chaque matin a
 
 Dans l'article d'aujourd'hui, nous présentons la science de la libération du facteur neurotrophique dérivé du cerveau (BDNF) et du renforcement synaptique au cœur de la routine de marche rapide matinale et du journal de réflexion du soir de John Quincy Adams.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Analyse Historique des Biographies et Autobiographies de John Quincy Adams & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Analyse Historique des Biographies et Autobiographies de John Quincy Adams & Recherche en Neurosciences Cognitives (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ En rédigeant un journal ou des notes de lecture à la main le soir, alors que l
 
 Adams effectuait chaque jour une marche très rapide de 5 miles, mais cela reposait sur une endurance physique entraînée au fil du temps. Si un individu moderne commence soudainement une marche à haute intensité, cela peut solliciter excessivement les articulations du genou ou la colonne vertébrale. Commencer par 15 minutes de marche rapide légère adaptée à votre condition physique de base et augmenter progressivement la durée et la foulée est le meilleur moyen d'éviter les blessures.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Puis-je remplacer la marche matinale par de la course rapide sur un tapis roulant en intérieur ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Puis-je remplacer la marche matinale par de la course rapide sur un tapis roulant en intérieur ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Du point de vue de la libération de BDNF par l'exercice aérobique, cela reste efficace. Cependant, la marche en extérieur est fortement recommandée car le traitement des stimuli visuels extérieurs (lumière naturelle, changements de saison, sol irrégulier) stimule beaucoup plus le cortex visuel et les réseaux synaptiques préfrontaux liés à l'équilibre qu'un environnement intérieur fixe.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>L'effet sera-t-il le même si j'écris le journal de réflexion du soir dans une application de notes sur smartphone ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">L'effet sera-t-il le même si j'écris le journal de réflexion du soir dans une application de notes sur smartphone ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       L'écriture manuscrite directe est nettement plus efficace. En tenant un stylo pour écrire, les récepteurs sensoriels du bout des doigts stimulent avec précision le cortex somatosensoriel (Somatosensory Cortex) du cerveau, induisant la concentration et démultipliant l'effet d'ancrage dans les circuits cognitifs. La saisie sur un clavier de smartphone étant mécanique, le niveau de stimulation cérébrale est plus faible.
     </p>
   </details>

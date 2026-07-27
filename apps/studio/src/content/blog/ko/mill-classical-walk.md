@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 존 스튜어트 밀의 산책 토론이 가진 뇌과학적 원리와 현대인들이 기억력을 개선하고 뇌 세포를 활성화하기 위한 실천적인 아침 산책 독서 루틴을 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 스튜어트 밀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 존 스튜어트 밀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ faqs:
 
 현대인들은 매일 몇 시간씩 가만히 앉아 정보만 소비하므로 뇌의 BDNF 수준이 바닥을 쳐 새로운 지식을 소화하는 역량이 만성적으로 감소합니다. 독서와 신체 활동을 융합했던 밀의 습관처럼, 읽은 직후 스마트폰 연결을 완전히 차단한 채 걸으며 생각하는 산책 리추얼은 두뇌 지능을 유연하게 유지하고 사고력을 비약적으로 높이는 최고의 융합 인지법입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>오디오북을 들으면서 걷는 것도 동일한 효과가 나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">오디오북을 들으면서 걷는 것도 동일한 효과가 나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       오디오북을 듣는 것은 외부 정보 수동적 수용에 해당하므로, 뇌가 스스로 기억을 더듬어 정보를 끄집어내는 '능동적 인출(Active Retrieval)'과 자문자답 성찰의 기회를 차단합니다. 걷는 동안은 귀를 비우고 이미 읽은 내용을 능동적으로 머릿속에서 재가공하는 시간이 뇌 가소성을 활성화하는 데 훨씬 효과적입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>걷는 속도는 뇌 자극에 영향을 주나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">걷는 속도는 뇌 자극에 영향을 주나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 영향을 줍니다. 너무 느린 걸음보다는 숨이 살짝 차지 않는 선에서 가볍게 리듬을 타며 걷는 보통 속도(시속 4 ~ 5km)가 좋습니다. 이 정도의 가벼운 유산소 강도에서 BDNF 분비량과 뇌 혈류량이 이상적인 수준으로 올라가며, 지나치게 빠른 질주는 오히려 인지 자원을 운동 조절 영역으로 쏠리게 하므로 피해야 합니다.
     </p>
   </details>

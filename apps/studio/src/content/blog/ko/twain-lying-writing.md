@@ -27,14 +27,16 @@ faqs:
 
 트웨인은 매일 아침 풍성한 식사를 마친 뒤, 서재로 향하는 대신 침실로 돌아와 폭신한 베개 여러 개를 등에 대고 비스듬히 누웠습니다. 그리고 무릎 위에 두꺼운 판지를 얹은 채 펜으로 글을 썼습니다. 점심시간이 되어 가족들이 그를 부를 때까지, 그는 이 누운 자세를 완벽히 유지하며 온전히 글쓰기에만 집중했습니다. 트웨인은 신체의 극단적인 이완이 정신을 가장 자유롭게 해방하고 영감을 가져다주는 열쇠라고 믿었습니다. 오늘 포스트에서는 트웨인의 '침대 집필' 루틴의 생리학적 원리와 현대인들이 이완을 통해 창의성을 극대화하는 방법을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 침대 위에서 비스듬히 눕는 자세는 척추나 목에 큰 무리를 줄 수 있으므로, 여러 개의 단단한 베개를 등에 대어 척추가 구부러지지 않도록 단단히 지탱해 주어야 합니다. 또한, 침대가 주는 평온함이 자칫 스마트폰으로 SNS를 보거나 멍하게 시간을 보내는 도피처가 되지 않도록, 침대에 눕기 전 스마트폰은 완전히 손이 닿지 않는 곳에 치워 두세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>침대에서 작업하면 잠이 오거나 게을러지지 않나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">침대에서 작업하면 잠이 오거나 게을러지지 않나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그럴 수 있습니다. 따라서 이 루틴은 단순히 눕는 것이 아니라 베개를 통해 상체를 단단히 지지하여 '각성된 이완' 상태를 유지하는 것이 중요합니다. 또한, 스마트폰 등 방해 물질을 완전히 차단한 집중 작업 시간을 미리 설정해야 합니다.
     </p>
   </details>

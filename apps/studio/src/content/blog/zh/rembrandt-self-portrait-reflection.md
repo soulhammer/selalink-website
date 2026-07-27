@@ -27,14 +27,16 @@ faqs:
 
 伦勃朗·哈尔曼松·范·莱因是荷兰黄金时代的伟大大师，被称为“光影魔术师”。他年轻时享有极高的财富与声望，但在晚年却遭遇了破产以及至亲相继离世的惨痛遭遇。然而，他并没有向苦难屈服，而是源源不断地创作出传世杰作。其中的秘诀就在于他终生坚持的自画像视觉反省。伦勃朗一生留下了80多幅自画像，这是他每天通过镜子凝视并反思自身变化的印记——从青年时代傲慢的光彩到晚年孤寂的皱纹。本文探究伦勃朗站在镜前唤醒大脑自我参照认知回路、平复情绪波动的反省公式。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>伦勃朗自画像视觉反省历史评传及自传记录考证与认知神经科学研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 伦勃朗自画像视觉反省历史评传及自传记录考证与认知神经科学研究。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 进行镜中反省时最需提防的是对自身外貌缺点（皮肤问题、皱纹、对称性等）进行“评价与执着”。一旦开始评估面部细节缺点，大脑就会再次启动消极的情感过滤器并引发压力。应该像伦勃朗那样抛开外貌的容姿，将整个面部的光影、双眼的闪烁、表情的流转当成他人的画作一般，平淡且基于视觉事实去审视，才能获得完整的自我客观化效果。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>如果一直看着镜子感到心情怪异或沮丧，应该中断吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">如果一直看着镜子感到心情怪异或沮丧，应该中断吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的。如果情绪扭曲或抑郁感加重，说明可能陷入了自我批判循环，请立即停止。取而代之的是，通过观察肩线或手形来先确认身体接地（Earthing）感觉的训练进行迂回。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>进行镜中自我反省的最佳时间段是什么时候？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">进行镜中自我反省的最佳时间段是什么时候？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       在冲澡结束后站在浴室镜前进行3分钟的日常练习最为适宜。在身体放松、副交感神经占主导的状态下，大脑的防御机制会减弱，从而发生最真实、舒适的“与自己面对面”。
     </p>
   </details>

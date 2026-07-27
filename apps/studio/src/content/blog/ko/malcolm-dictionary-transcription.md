@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 말콤 X를 민중의 리더로 길러낸 사전 필사 루틴의 두뇌 활성화 메커니즘과 현대인을 위한 3단계 필사 학습 루틴을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>말콤 X 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 말콤 X 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 현대인들은 주로 자판이나 터치스크린을 사용하여 정보를 소비하므로 뇌의 물리적 자극을 극도로 결핍시키고 장기 기억으로의 전환율을 낮춥니다. 말콤 X의 습관처럼 하루 20분만이라도 스마트폰을 완전히 끄고 아날로그 펜을 쥔 채 좋은 글귀나 서적의 단어를 직접 종이에 꾹꾹 눌러쓰는 필사 리추얼은 주의력을 복원하고 지적 성장을 이끄는 최고의 인지 도구입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>컴퓨터나 태블릿 타이핑으로 필사를 해도 효과가 같나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">컴퓨터나 태블릿 타이핑으로 필사를 해도 효과가 같나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아니요, 효과가 다릅니다. 타이핑은 손가락 끝으로 가벼운 버튼만 반복적으로 누르기 때문에 뇌 운동 피질에 들어오는 감각 자극이 극히 단순화됩니다. 반면 펜으로 직접 선의 형태를 획마다 조율하며 글을 쓰는 행위는 뇌의 복잡한 연합 부위들을 전방위로 자극하므로, 타이핑보다 기억 각인 효과와 주의력 유지력 측면에서 비교할 수 없을 정도로 월등합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>글씨체 교정을 신경 쓰면서 적어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">글씨체 교정을 신경 쓰면서 적어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       반드시 아름다운 서체로 적을 필요는 없습니다. 뇌가 펜 끝의 촉각 압력과 획의 방향 제어에 깊이 집중하는 과정 자체가 훈련의 본질이므로, 본인이 읽을 수 있는 수준이라면 자연스럽게 흘려 쓰는 편이 주의력을 뇌로 공급하는 데 더 유리합니다. 글씨체 자체보다 손끝의 물리적 촉각 피드백에 온전히 주의를 쏟으십시오.
     </p>
   </details>

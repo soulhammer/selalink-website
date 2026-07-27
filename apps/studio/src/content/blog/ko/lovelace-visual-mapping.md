@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 에이다 러브레이스의 '시각적 도식화' 루틴이 뇌의 작업 기억 용량 한계를 극복하는 인지과학적 원리를 분석하고, 이를 현대 복잡한 기획과 시스템 설계에 적용하는 3단계 실천 가이드를 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에이다 러브레이스 저작 「해석기관 주석(Notes on the Analytical Engine, 1843)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 에이다 러브레이스 저작 「해석기관 주석(Notes on the Analytical Engine, 1843)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 복잡한 기획이나 코드 구조가 잘 풀리지 않을 때 나열식 텍스트나 수식 쓰기만을 고집하는 것은 뇌를 한정된 인지 채널에 가두는 행위입니다. 생각의 흐름이 막혔다면 즉시 글자 적기를 멈추고 넓은 종이 위에 화살표와 도형을 이용해 데이터와 개념 간의 유기적 관계망을 시각화하는 차원 전환을 실행하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>에이다 러브레이스의 시각 도식화법은 일반적인 마인드맵과 어떻게 다른가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">에이다 러브레이스의 시각 도식화법은 일반적인 마인드맵과 어떻게 다른가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       마인드맵은 단어의 자유로운 발상과 방사형 연상 확장에 초점을 맞추는 반면, 러브레이스의 시각 도식화는 시스템 내부의 제어 흐름(Loop 및 조건), 데이터 이동, 인과 관계 등 '작동 메커니즘의 구조적 논리'를 도식으로 설계하는 데 특화되어 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>UML이나 피그마 같은 복잡한 디지털 툴을 써야만 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">UML이나 피그마 같은 복잡한 디지털 툴을 써야만 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 디지털 소프트웨어의 조작법에 신경 쓰다 보면 뇌의 인지 자원이 낭비될 수 있습니다. 종이와 펜, 혹은 화이트보드 위에 손으로 직관적으로 슥슥 그려내는 아날로그 매핑 방식이 뇌의 이중 부호화를 활성화하고 생각을 정돈하는 데 훨씬 유용합니다.
     </p>
   </details>

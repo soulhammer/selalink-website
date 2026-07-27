@@ -25,14 +25,16 @@ faqs:
 
 "Ser mejor jugador hoy que ayer, ese es mi único objetivo." Cristiano Ronaldo, una leyenda viva del fútbol mundial, mantiene una velocidad explosiva y un físico elástico en las mejores ligas incluso cerca de los 40 años. Nacido en Madeira, Portugal, saltó a la fama mundial en el Manchester United y el Real Madrid, ganando cinco Balones de Oro. De toda su disciplina de autocuidado, su estrategia de sueño es especialmente única y científica. Ronaldo no duerme 8 horas continuas por la noche. En cambio, con la orientación del entrenador de sueño deportivo de élite Nick Littlehales, sigue el Ciclo de Sueño R90: toma cinco sesiones de sueño de 90 minutos a lo largo del día (7.5 horas en total). Tras entrenamientos o partidos intensos, se acuesta en una habitación con temperatura controlada y opaca total en posición fetal durante 90 minutos. Este enfoque acelerado favorece la eliminación de lactato y la reparación muscular a la vez que mantiene una respuesta cognitiva afilada. Este artículo desglosa la neurociencia y los beneficios fisiológicos de la rutina de Ronaldo y ofrece pasos prácticos de aplicación.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Cristiano Ronaldo e investigación en neurociencia cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Biografías históricas y registros autobiográficos de Cristiano Ronaldo e investigación en neurociencia cognitiva.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ El sueño polifásico de 90 minutos de Ronaldo respeta el ciclo natural del cere
 
 Para tener éxito con el sueño polifásico o las siestas cortas, el control ambiental debe ser total. Las filtraciones de luz o el ruido interrumpen la relajación profunda del cerebro. Para reducir el esfuerzo cardiovascular y mantener la columna alineada, duerma en posición fetal de lado con las rodillas flexionadas.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Necesito hacer este sueño polifásico durante el día si ya duermo bien por la noche?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Necesito hacer este sueño polifásico durante el día si ya duermo bien por la noche?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Para trabajadores de oficina de rutina normal, no es necesario repetir sesiones de 90 minutos durante el día. Sin embargo, si realiza entrenamientos físicos intensos o sufre falta de sueño por trabajo nocturno, aplicar temporalmente un ciclo de 90 o 30 minutos es excelente para reiniciar su cuerpo.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Al dormir en posición fetal, ¿qué lado es mejor?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Al dormir en posición fetal, ¿qué lado es mejor?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Según la medicina deportiva, se recomienda acostarse sobre el lado derecho. Como el corazón está ubicado hacia el lado izquierdo del pecho, dormir sobre el lado derecho reduce la presión cardíaca y favorece la circulación cardiopulmonar.
     </p>
   </details>

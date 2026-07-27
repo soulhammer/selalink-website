@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析克里斯托弗·哥伦布“夜间定量航海日志”习惯背后的脑科学原理，并为消除日常模糊焦虑、通过客观指标夺回前额叶掌控力的现代人提供3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>巴托洛梅·德拉斯·卡萨斯考证《哥伦布航海日记（The Diario of Christopher Columbus）》与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 巴托洛梅·德拉斯·卡萨斯考证《哥伦布航海日记（The Diario of Christopher Columbus）》与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 夜间航海日志习惯的核心，在于将主观情绪彻底降解为“客观数据”。若在睡前于手账上反复撰写诸如“今天太累太焦虑了”等主观抱怨与负面感叹，大脑会再度强效刺激杏仁核，放大负面脑波并加重失眠。请剔除一切情绪化描写，唯有严格记录经过量化的事实与指标——如“今日5项目标中完成4项”、“进度率达80%”、“明日开启的极优先任务1项”——前额叶皮层的控制电路方能被真正拉动。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在手机备忘录应用或数字日程表中记录，能否获得同等的平抑杏仁核效果？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在手机备忘录应用或数字日程表中记录，能否获得同等的平抑杏仁核效果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       无法达成同等效果。用手在纸上手写的物理触觉刺激，能同时拉动大脑运动皮层与体感皮层，从而更强效地启动前额叶皮层的认知控制力。此外，手机屏幕散发的蓝光会严重抑制褪黑素分泌并破坏睡眠结构，因此使用纸质手账至关重要。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在极度疲惫、感觉无法在睡前完整记录日志的日子里该如何应对？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在极度疲惫、感觉无法在睡前完整记录日志的日子里该如何应对？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       即便是仅手写下1行——如“今日完成：任务A”——也已完全足够。核心在于并非追求繁复的完美，而是维持不间断的每日记录链条，这一极简动作本身就能向大脑传递重新掌控局面的信号，从而抚平杏仁核的焦虑。
     </p>
   </details>

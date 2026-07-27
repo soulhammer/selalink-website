@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 이황 선생의 활인심방 수련이 주는 현대 생리학적 가치를 입증하고, 매일 아침 극도의 스트레스 속에서 각성을 개시하는 현대인들이 조용하고 차분하게 신체 온도를 올리며 최상의 몰입 준비 상태를 정립하는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>퇴계 이황 《활인심방》 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 퇴계 이황 《활인심방》 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 잠에서 깨어난 아침에는 몸의 척수 뼈와 근육 섬유가 매우 뻣뻣한 상태입니다. 이 상태에서 강한 충격이나 유연성을 과시하는 과도한 기계적 요가 동작을 억지로 시도하면 척추 신경 디스크 손상과 심각한 부상을 유발합니다. 따라서 아침 도인법은 반동 없이 부드럽게 관절을 여는 수준으로 제한하고, 고통이 느껴지지 않는 가동 범위 안에서 묵묵히 호흡에만 집중하며 시행해야 안전한 생리적 효과를 얻을 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>전체 활인심방 체조를 다 배우기 어려운데 필수 핵심 동작은 무엇인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">전체 활인심방 체조를 다 배우기 어려운데 필수 핵심 동작은 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       전체 동작을 수행하기 어렵다면 두 가지만 기억하십시오. 첫째는 아침 기상 시 손바닥을 비벼 열을 낸 뒤 얼굴을 마사지하는 것입니다. 둘째는 침대에 편안히 앉아 허리를 곧게 펴고, 코로 숨을 깊게 마신 뒤 입으로 약 10초에 걸쳐 길고 고요하게 내쉬는 심호흡(육자결의 기본 호흡)입니다. 이 두 가지만으로도 부교감신경의 기상 스파이크를 최적으로 유도할 수 있습니다.
     </p>
   </details>

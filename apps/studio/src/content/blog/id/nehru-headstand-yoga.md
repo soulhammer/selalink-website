@@ -31,14 +31,16 @@ Namun alih-alih menyerah, ia menyapa setiap pagi dengan meletakkan kepalanya di 
 
 Dalam postingan hari ini, kami mengungkap ilmu di balik peningkatan aliran darah otak yang tersembunyi di balik kebiasaan headstand Nehru—yang mengubah sel penjaranya menjadi tempat suci rehabilitasi fisik dan mental—dan menyajikan rutinitas penenangan gravitasi terbalik praktis untuk kehidupan modern.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Jawaharlal Nehru & penelitian ilmu saraf kognitif</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Verifikasi biografi historis & catatan autobiografi Jawaharlal Nehru & penelitian ilmu saraf kognitif.
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ Pose terbalik membalikkan arah gravitasi, secara sementara meningkatkan aliran o
 
 Meskipun headstand adalah teknik relaksasi otak yang efektif, gerakan yang dipaksakan tanpa latihan dapat memicu cedera cakram leher dan menenangkan sistem saraf otonom. Dilakukan dengan hati-hati dan disesuaikan dengan kondisi fisik seperti Nehru, teknik ini efektif meredakan kompresi cakram tulang belakang dan memasok energi jernih ke otak secara stabil.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah aman bagi orang yang mengalami nyeri leher atau masalah cakram tulang belakang untuk melakukan headstand?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Apakah aman bagi orang yang mengalami nyeri leher atau masalah cakram tulang belakang untuk melakukan headstand?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Tidak, orang yang menderita gangguan cakram leher atau tulang belakang harus menghindari headstand tradisional di mana kepala menopang berat badan secara langsung. Sebagai gantinya, Anda bisa mendapatkan efek aliran darah terbalik yang aman tanpa merusak cakram dengan berbaring telentang menempelkan pinggul ke dinding dan mengangkat kaki secara vertikal, atau meletakkan bantal di bawah pinggul sambil mengangkat kaki.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Kapan waktu paling tepat dalam sehari untuk melakukan headstand?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Kapan waktu paling tepat dalam sehari untuk melakukan headstand?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Pagi hari saat perut kosong atau tepat sebelum mulai bekerja adalah waktu yang paling ideal. Pose terbalik di pagi hari secara instan memasok oksigen ke sel-sel otak yang tertidur, menyegarkan pikiran dan mengusir rasa kantuk. Namun, hindari melakukannya dalam waktu setidaknya 2 jam setelah makan, karena posisi terbalik setelah makan dapat menyebabkan gangguan pencernaan.
     </p>
   </details>

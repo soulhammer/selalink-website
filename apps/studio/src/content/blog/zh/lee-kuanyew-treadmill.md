@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构李光耀总理“运动后20分钟冥想”习惯背后蕴含的神经学原理，并分享一套助现代人消除职业倦怠（Burnout）与重塑自律神经恒常性的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>李光耀自传《李光耀回忆录（The Singapore Story）》与新加坡国家档案馆考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 李光耀自传《李光耀回忆录（The Singapore Story）》与新加坡国家档案馆考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 李光耀式习惯的核心硬核所在，在于在运动完结后切勿先洗澡冲凉或转向其他杂务、而须当即切入沉静冥想中。唯有在心率处于剧烈觉醒状态的瞬间下沉平抑呼吸，大脑的自律神经系统切换机制方能以极强效能运转，拉动皮质醇（Cortisol）浓度的骤降。绝不可在跑步与冥想间留出漫长停顿间隙。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>能否在运动后先冲洗干净、而后在干爽状态下展开冥想？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">能否在运动后先冲洗干净、而后在干爽状态下展开冥想？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝不可以。拉动大脑自律神经系统协同对齐的生理学黄金窗口期，乃是“心率攀至巅峰状态的瞬间”。若在冲凉进程中心率已自发沉淀平复至日常均值，由交感神经向副交感神经剧烈切换所引发的皮质醇极速清扫与恒常性重塑效能将大幅衰减。务必在挥汗如雨的瞬间当即落座。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>若在冥想进程中脑海中频频破土涌现杂念，是否意味着本次冥想归于失败？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">若在冥想进程中脑海中频频破土涌现杂念，是否意味着本次冥想归于失败？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝并非如此。杂念的自发萌生乃是大脑极精自然的神经现象。冥想的本质决非强制抹杀一切思维，而在于“觉察到思绪漂移、并温和地将注意力拉回至呼吸节律中的注意力调控训练”。每当您觉察到杂念并拉回专注的微观瞬间，大脑前额叶皮层的专注“肌肉”便获得了一次强效锻造。
     </p>
   </details>

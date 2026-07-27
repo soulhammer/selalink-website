@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 존 로크가 지식을 관리하기 위해 집착적으로 고수했던 '색인 기록' 습관의 인지적 연결 원리를 분석하고, 이를 현대 디지털 정보 흐름에 맞게 적용하는 3단계 실천 가이드를 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 노트에 수많은 내용을 인덱스 없이 단순 복사하거나, 디지털 스크랩함에 무제한으로 보관하는 행위는 뇌에 지식이 습득되었다는 착각을 유발하여 망각(Forgetting)을 가속화합니다. 로크처럼 지식을 저장하는 순간 적절한 카테고리 태그를 매핑하는 인덱스 매핑(Index Mapping) 의식이 수반되어야만 뇌의 연상 구조망에 지식이 정착됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>존 로크의 커먼플레이스 북 색인 방법은 구체적으로 어떤 구조였나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">존 로크의 커먼플레이스 북 색인 방법은 구체적으로 어떤 구조였나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       노트 맨 앞 페이지에 알파벳 26자와 모음(a, e, i, o, u)을 결합한 격자표를 그린 뒤, 주제어의 첫 글자와 첫 모음(예: 'Epistola'는 E의 i 칸) 조합 위치에 해당 페이지 번호를 기입하여 신속한 교차 검색을 가능하게 만든 주소 지정 시스템이었습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>아날로그 노트를 쓰는 것이 현대의 디지털 방식보다 더 유익한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">아날로그 노트를 쓰는 것이 현대의 디지털 방식보다 더 유익한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아날로그 손글씨는 뇌의 체성감각 영역을 강하게 자극해 초기 부호화에 유리하며, 디지털 방식은 검색과 유기적 링크 연결에 뛰어납니다. 아날로그 수첩에 먼저 아이디어를 정리한 후 디지털 데이터베이스에 색인화해 저장하는 하이브리드 방식을 활용하는 것이 가장 이상적입니다.
     </p>
   </details>

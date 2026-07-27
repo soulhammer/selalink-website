@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构歌德“清晨观察散步”习惯背后的环境心理学原理，并分享一套助你修复认知注意力、拉满全天洞察力的现代15分钟晨间观察方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 屏幕上的文字与各类图表信息会强迫大脑进行定向集中，极易榨干前额叶能量。只需专注观照天然无雕琢的植物叶片、脉络或种子形貌等分形几何结构15分钟，便能开启大脑的注意力修复机制。切记：漫步途中绝勿翻看手机屏幕，须将注意力柔和置于自然本体之上，方能达成真正的认知重置。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>观照案头或家中养育的室内观叶植物/盆栽也具备等同疗效吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">观照案头或家中养育的室内观叶植物/盆栽也具备等同疗效吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全有效。如使用放大镜般对室内观叶植物的脉络与螺旋生长纹进行精细观测，同样能拉动“柔性吸引”并缓解前额叶疲劳。不过，若能将户外自然光照曝露与步行散步有机结合，对于整体神经与认知功能的修复效果将臻至最佳。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>必须如歌德那般在现实中随身携带放大镜与纸质采集袋吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">必须如歌德那般在现实中随身携带放大镜与纸质采集袋吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       配合物理放大镜固然能更强力地将微观分形几何投射于视觉皮层，但并非硬性要求。只需用裸眼审慎打量树叶细脉、花瓣形貌或种子的螺旋轨迹，在神经科学与“注意力恢复理论（ART）”层面便能获得完全充分的脑力修复效益。
     </p>
   </details>

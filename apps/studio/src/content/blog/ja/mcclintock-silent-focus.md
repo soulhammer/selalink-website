@@ -31,14 +31,16 @@ faqs:
 
 今日の記事では、バーバラ・マクリントック博士の静寂な没頭観察ルーティンに込められた注意力極大化と認知の柔軟性の科学を紹介し、現代人が騒音と雑念を遮断して深い没頭状態に入るための3段階の実行ガイドを提案します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>バーバラ・マクリントック歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、バーバラ・マクリントック歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ faqs:
 
 マクリントックのルーティンは、重要な仕事に極度に没頭すべき制限された時間（例：30分〜1時間）の間、沈黙を守る技法です。日常生活の中で終日他者と会話せず孤立することは、かえって脳の感情的疲労を誘発し認知機能に害を及ぼします。没頭が必要なタイムブロックの間だけ戦略的に無言を実行すべきです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>自習室のような既に静かな場所でも、この無言ルーティンを敢えて行う必要がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">自習室のような既に静かな場所でも、この無言ルーティンを敢えて行う必要がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、行うべきです。無言ルーティンの核心は単に外部環境を静かにすることに留まらず、スマートフォン通知の遮断と自らの沈黙宣言によって、脳が自発的に言語領域の作動を一時停止し、視覚情報受容領域の作動度を高めるよう「マインドセット」をチューニングする儀式だからです。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>無言中に口に出さず、頭の中で独り言を言うことは集中を妨げますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">無言中に口に出さず、頭の中で独り言を言うことは集中を妨げますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       妨げになります。頭の中の独り言も前頭葉の言語的作業空間（音韻ループ、Phonological Loop）を消費する認知行動です。したがって、頭の中で独り言が聴こえてきたら、それを抑圧するよりは呼吸を数える方法で脳の処理を他の非言語領域（呼吸数カウント、視覚的感知）へ分散させることが没頭にはるかに有益です。
     </p>
   </details>

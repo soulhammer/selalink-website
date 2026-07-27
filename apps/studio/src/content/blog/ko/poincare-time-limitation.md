@@ -23,14 +23,16 @@ faqs:
 
 "갑작스러운 영감은 항상 며칠간의 자발적인 노력 이후에 찾아오는 무의식적 작업의 명백한 징표입니다." 프랑스의 삼체문제 해결자이자 카오스 이론의 선구자이며, 현대 수학사상 가장 위대한 천재 중 한 명으로 꼽히는 앙리 푸앵카레(Henri Poincaré). 그는 놀랍게도 평생 하루에 딱 4시간만 책상 앞에 앉아 연구하는 엄격한 한계를 두었습니다. 그는 오전 10시부터 12시까지, 그리고 오후 5시부터 7시까지 오직 4시간만 깊게 일했고, 나머지 시간에는 산책을 하거나 사교 활동을 하며 뇌를 완전히 오프라인 상태로 쉬게 했습니다. 흥미롭게도 푸앵카레는 풀리지 않던 수학 난제(푸시안 함수)들의 핵심 공식이 연구실 책상이 아니라, 지질학 답사 여행 도중 쿠탕스(Coutances)에서 옴니버스(마차 버스) 발판에 올라타는 그 순간에 불현듯 완성된 형태로 머릿속에 번뜩이며 솟구쳤다고 회고했습니다. 그는 수일간의 치열한 전두엽 집중 뒤에 오는 완전한 휴식(인큐베이션 기간)만이 무의식의 뇌 신경망을 활성화해 유기적인 창의적 결합을 만들어낸다고 강조했습니다. 오늘 포스트에서는 천재 수학자 앙리 푸앵카레의 '4시간 집중 제한' 루틴에 숨겨진 뇌의 집중 모드와 분산 모드의 상호작용 원리를 밝히고, 현대인들이 창의적 문제 해결을 위해 이를 활용하는 3단계 실천 방안을 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 창의적인 생각은 억지로 쥐어짜 낼 때 나오는 것이 아닙니다. 뇌의 집중 한계 시간을 명확히 설정하고, 풀리지 않는 문제가 있다면 과감하게 자리에서 일어나 산책을 하며 뇌에 '분산 모드'의 휴식을 선사하세요. 무의식이 당신 대신 해답을 찾아 줄 것입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>앙리 푸앵카레는 왜 하루 4시간만 연구했나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">앙리 푸앵카레는 왜 하루 4시간만 연구했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       오랜 시간 억지로 집중하면 뇌의 인지적 시야가 협소해져 오히려 창의성이 떨어지므로, 4시간의 집중 모드가 끝나면 산책과 휴식을 통한 분산 모드를 활성화해 뇌의 무의식적 영감을 이끌어내기 위함이었습니다.
     </p>
   </details>

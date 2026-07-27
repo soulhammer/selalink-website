@@ -29,14 +29,16 @@ Setiap kali menghadapi kebuntuan kognitif saat merancang papan cerita (storyboar
 
 Dalam postingan hari ini, kita akan mempelajari akar sains saraf dari rutinitas 'viewfinder analog dan stimulasi taktil model' milik Spielberg, serta metode praktis bagi masyarakat modern untuk menerobos masa-masa kebuntuan ide dalam kehidupan sehari-hari.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Steven Spielberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Verifikasi biografi historis & catatan autobiografi Steven Spielberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ Umpan balik haptik yang canggih dari sentuhan halus pada kontur 3D rumit dari se
 
 Saat menyentuh alat fidget untuk merangsang ujung jari, jika alat tersebut terlalu mencolok atau memiliki mekanisme yang rumit, dispersi kognitif akan terjadi karena otak justru terpesona oleh kesenangan mengoperasikan alat itu sendiri. Oleh karena itu, untuk tujuan stimulasi otak, menggunakan bentuk-bentuk sederhana dan bahan yang kokoh seperti model logam dingin atau mainan kayu jauh lebih menguntungkan untuk pengalihan beban kognitif (cognitive offloading). Selain itu, batasi waktu menyentuh tidak lebih dari 10 menit.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah memutar fidget spinner atau pulpen biasa dengan jari memberikan efek yang sama?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Apakah memutar fidget spinner atau pulpen biasa dengan jari memberikan efek yang sama?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Tindakan memutar spinner atau pulpen secara berulang diklasifikasikan sebagai kebiasaan motorik bawah sadar yang hanya merangsang sirkuit ganglia basalis otak, dan menghasilkan intensitas stimulasi korteks somatosensorik (umpan balik haptik) yang sangat rendah untuk menginduksi komputasi spasial tingkat tinggi di lobus parietal. Oleh karena itu, menyentuh langsung mainan model analog atau kubus—di mana bentuk dan kontur geometris yang jelas memaksa otak mengoordinasikan gerakan halus ujung jari untuk mengenali bentuk—menghasilkan efek gugahan intelektual yang jauh lebih unggul.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Apakah ada tips lain untuk menyempitkan bidang pandang dalam kehidupan sehari-hari ketika tidak ada lensa viewfinder optik?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Apakah ada tips lain untuk menyempitkan bidang pandang dalam kehidupan sehari-hari ketika tidak ada lensa viewfinder optik?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Bahkan tanpa lensa viewfinder Spielberg, Anda bisa mendapatkan efek pembingkaian visual yang persis sama dengan membuat lubang persegi seukuran satu ruas jari di tengah kartu kertas dan melihat objek melaluinya, atau dengan memejamkan satu mata dan membuat lingkaran dengan jari (seperti tanda OK) yang ditempelkan ke mata seperti teropong. Prinsip menyaring kebisingan kognitif tak perlu yang masuk ke korteks visual otak secara fisik sepenuhnya identik.
     </p>
   </details>

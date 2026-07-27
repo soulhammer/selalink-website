@@ -31,14 +31,16 @@ faqs:
 
 本篇文章分析维特根斯坦的西部片排毒习惯如何消除大脑压力，并呈献阻断信息过载、恢复大脑巅峰状态的3步实操方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>路德维希·维特根斯坦历史传记与文献考证及认知神经科学研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 路德维希·维特根斯坦历史传记与文献考证及认知神经科学研究。
     </p>
   </div>
 </div>
@@ -89,17 +91,17 @@ faqs:
 
 选择用于大脑排毒的电影或媒体时，请避免需要高度思考的悬疑惊悚片、复杂文艺片或沉重悲剧。需要推理剧情或道德判断的媒体无法让大脑休息，反而会额外消耗情感与认知能量。应像维特根斯坦的西部片一样，选择善恶分明的轻动作片、爽片或自然纪录片等无需分析的直白媒体。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>下班后无限刷手机短视频或Reels也会产生类似维特根斯坦习惯的大脑重置效果吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">下班后无限刷手机短视频或Reels也会产生类似维特根斯坦习惯的大脑重置效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝非如此！短视频每隔数秒就会向大脑倾泻全新且不可预测的刺激。每切换一个视频，大脑都会过量分泌多巴胺并强迫重新解读情境，导致脑电波更加散乱。维特根斯坦习惯的核心在于“进入持续、缓和且直白的刺激中，从而关停认知分析能力”。频繁切换信息的短视频不仅不能让大脑休息，反而是一种加剧大脑疲劳的成瘾性刺激。
     </p>
   </details>

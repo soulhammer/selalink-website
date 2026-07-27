@@ -31,14 +31,16 @@ faqs:
 
 Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue joyeusement, le Beagle est un chien de courant historique. Bien que très amical et adaptable, il possède une curiosité naturelle insatiable et un besoin impérieux de suivre des pistes olfactives. Si cette énergie n'est pas évacuée, il peut développer une anxiété de séparation manifestée par des hurlements et des comportements destructeurs. De plus, ses oreilles pendantes retiennent l'humidité, favorisant les otites fongiques. Aujourd'hui, PetSelf décrypte ses signaux et vous livre une routine de soin en 3 étapes.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       Preuves Vétérinaires et Comportementales
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Standard officiel du Beagle de l'AKC et protocoles de comportement de pistage de l'IAABC</strong>.
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Standard officiel du Beagle de l'AKC et protocoles de comportement de pistage de l'IAABC.
     </p>
   </div>
 </div>
@@ -47,12 +49,12 @@ Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue j
 
 ## 1. Langage corporel du Beagle : Instinct de pistage et signification des hurlements
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Langage corporel du Beagle : Instinct de pistage et signification des hurlements</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Langage corporel du Beagle : Instinct de pistage et signification des hurlements</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Lorsqu'il est absorbé par une odeur, le Beagle colle son nez au sol et avance en ligne droite ('Ground-Tracking'), ignorant les bruits extérieurs pour libérer son énergie. En revanche, le 'hurlement' lorsqu'il est seul est l'expression d'un malaise dû à l'anxiété de séparation. Comprendre ces deux comportements est la clé d'un Beagle épanoui.
   </p>
 </div>
@@ -61,58 +63,94 @@ Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue j
 
 ## 2. Langage corporel et signaux comportementaux du Beagle
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pistage le nez au sol (Ground-Tracking)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Pistage le nez au sol (Ground-Tracking)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Un état d'excitation normal où le chien explore son environnement par l'odorat et dépense son énergie de chien de chasse.<br/>
-    <strong>• Reponse:</strong> Ne tirez pas sur la laisse ; laissez-lui le temps de flairer en toute sécurité pour répondre à ses besoins mentaux.
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Un état d'excitation normal où le chien explore son environnement par l'odorat et dépense son énergie de chien de chasse.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Ne tirez pas sur la laisse ; laissez-lui le temps de flairer en toute sécurité pour répondre à ses besoins mentaux.
+      </p>
+    </div>
+  </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Signal Corporel 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hurlement (Howling)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Hurlement (Howling)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Signification:</strong> Expression d'anxiété, de solitude, d'ennui ou d'énergie non dépensée cherchant à attirer l'attention.<br/>
-    <strong>• Reponse:</strong> Ne le grondez pas. Traitez la cause sous-jacente en augmentant l'exercice physique et en lui proposant des jeux de fouille en intérieur.
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Expression d'anxiété, de solitude, d'ennui ou d'énergie non dépensée cherchant à attirer l'attention.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Ne le grondez pas. Traitez la cause sous-jacente en augmentant l'exercice physique et en lui proposant des jeux de fouille en intérieur.
+      </p>
+    </div>
+  </div>
 </div>
 
 ---
 
 ## 3. Routine quotidienne en 3 étapes pour le soin du Beagle
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Matin : Jeu de recherche de friandises en intérieur</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Matin : Jeu de recherche de friandises en intérieur</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Après le petit-déjeuner, cachez des friandises dans des gobelets en carton ou dans la pièce pour stimuler son odorat et canaliser son énergie mentale dès le matin.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Après-midi : Promenade de pistage active de plus de 40 minutes</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Après-midi : Promenade de pistage active de plus de 40 minutes</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Assurez une promenade extérieure d'au moins 40 minutes par jour. Laissez-le flairer librement l'herbe et les pistes sans contrainte inutile.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Soir : Aération du conduit auditif et nettoyage bihebdomadaire</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Soir : Aération du conduit auditif et nettoyage bihebdomadaire</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Le soir, rabattez doucement ses oreilles vers l'arrière un moment pour faire circuler l'air, et nettoyez-les deux fois par semaine avec un nettoyant auriculaire adapté.
   </p>
 </div>
@@ -121,27 +159,27 @@ Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue j
 
 
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Comment empêcher mon Beagle de hurler en mon absence ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Comment empêcher mon Beagle de hurler en mon absence ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Les hurlements découlent de l'anxiété de solitude et d'un surplus d'énergie. Associer promenades quotidiennes axées sur le flair et jeux de recherche en intérieur le fatiguera intellectuellement, lui apportant sérénité et réduisant les hurlements.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Pourquoi les oreilles tombantes du Beagle s'infectent-elles si facilement ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Pourquoi les oreilles tombantes du Beagle s'infectent-elles si facilement ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Leurs oreilles lourdes empêchent la circulation de l'air dans le conduit auditif, créant un milieu chaud et humide idéal pour la prolifération de levures (Malassezia) et de bactéries. Une aération et un nettoyage réguliers sont indispensables.
     </p>
   </details>

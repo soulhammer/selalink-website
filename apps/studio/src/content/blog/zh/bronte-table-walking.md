@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析夏洛蒂·勃朗特“餐桌步行讨论”习惯背后的脑科学原理，并为打破策划僵局、提升群体智慧与洞察力的现代人提供3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>伊丽莎白·盖斯凯尔传记《夏洛蒂·勃朗特传（The Life of Charlotte Brontë）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 伊丽莎白·盖斯凯尔传记《夏洛蒂·勃朗特传（The Life of Charlotte Brontë）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 步行讨论习惯的核心，在于交换冷静且客观的批判，而非流于形式的寒暄与吹捧。若将旁人的指出误判为“对自己的人格攻击”，大脑就会启动杏仁核（Amygdala）防御机制，从而切断创造性的接受度。必须将“自我人格”与“策划想法”严加区分，把反馈视为厘清方案逻辑漏洞的客性中立信息数据，如此方能理顺这套自我校正机制。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在没有讨论伙伴的独立工作环境中，也能产生步行促进创造力的效果吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在没有讨论伙伴的独立工作环境中，也能产生步行促进创造力的效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，单纯的步行身体活动本身即可促进BDNF分泌并增加脑血流量，带来同等的认知激活效果（创造力提升约60%）。缺少伙伴时，可采用“对着镜子里的自己脱口阐述”或“设定虚拟批判者并自问自答踱步”的方式，这能极佳地模拟镜像神经元与元认知的刺激效果。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>听取批评性反馈会不会伤害情感并打击创作积极性？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">听取批评性反馈会不会伤害情感并打击创作积极性？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       当大脑将反馈误判为“对自己人格的攻击”时，杏仁核就会被激活并建立情绪防线。为规避这一点，必须将“自我人格”与“创作成果/策划方案”严格剥离。明确意识到批评绝非针对人格的审判，而仅仅是用于提升成果物客观完成度的中立数据时，大脑的接纳性回路方能顺畅运转。
     </p>
   </details>

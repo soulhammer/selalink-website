@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 J.K. 롤링의 '카페 백색소음' 루틴에 숨겨진 뇌과학적 원리와 현대인들이 창의력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ J.K. 롤링의 카페 몰입 루틴은 약 70dB(데시벨) 수준의 백색소�
 
 J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니라, 고독감과 스트레스를 상쇄하고 뇌에 가벼운 인지적 자극을 던져 창의적 회로를 부드럽게 윤활하는 아늑한 소음막이었습니다. 지나치게 좁고 적막한 방에서 생각이 정체될 때는 주저 없이 카페로 향하거나 백색소음을 방 안 가득 채워 보십시오.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>시끄러운 헤비메탈 음악이나 댄스곡을 들어도 동일한 효과가 나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">시끄러운 헤비메탈 음악이나 댄스곡을 들어도 동일한 효과가 나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 인위적으로 믹싱된 가사 음악이나 규칙성이 강하고 과도하게 큰 소음(85dB 이상)은 가벼운 자극을 넘어 전두엽의 작업 기억 영역에 직접적인 침범을 일으킵니다. 이는 뇌 피로를 촉진하고 집중에 심각한 해를 끼치므로, 가사가 없고 예측 불가능한 불규칙한 환경 소음(백색소음)이어야만 인지 장애 효과가 올바르게 작동합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>공부방에서 가만히 이어폰으로 백색소음을 듣는 것도 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">공부방에서 가만히 이어폰으로 백색소음을 듣는 것도 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네. 고독한 독서실에서 백색소음을 재생해 듣는 것도 뇌에 가벼운 주의력 차단 효과를 주어 좋습니다. 다만 가능하면 가끔은 물리적인 시각적 변화(카페의 개방감)를 결합하는 것이 뇌의 감각 다양성을 확보하여 창의성에 더 좋습니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、チャールズ・ダーウィンの「サンドウォーク」思索ルーティンに秘められた脳科学的作動原理を分析し、現代人が複雑な職場の課題や研究の難題を解決するためにこれをどのように応用できるか3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>チャールズ・ダーウィン自伝『The Autobiography of Charles Darwin』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、チャールズ・ダーウィン自伝『The Autobiography of Charles Darwin』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 思索散策中、脳が無意味な職場の心配や情緒的な雑念の渦に陥らないよう注意してください。ダーウィンのように石を蹴り飛ばす回数計算ルールのようなミニマルな物理的アンカー信号をセットし、スマートフォンの通知を全面遮断したまま足取りと風景の刺激にのみ注意を委ねてこそ、認知的孵化およびDMN稼働効果を完全に得ることができます。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>ダーウィンの「サンドウォーク（Sandwalk）」ルーティンとは正確に何ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">ダーウィンの「サンドウォーク（Sandwalk）」ルーティンとは正確に何ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       ダーウィンがロンドン近郊のダウン・ハウス自邸の周りに直接造成した思索専用の砂利・土の道で、毎日午前中に歩きながら石で周回数を数えて作業記憶の負荷を減らし、『種の起源』の難題を整理した思索ルーティンです。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>散策する間、継続して意図的に考えを絞り出さなければなりませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">散策する間、継続して意図的に考えを絞り出さなければなりませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       いいえ。考えを強制的に捕まえておくよりは、悩んでいるテーマ一つだけを心の中に軽く投げておいた後、歩く行為と周囲の感覚に集中する時、脳のデフォルト・モード・ネットワーク（DMN）が稼働し無意識的な認知的孵化（Cognitive Incubation）が最も活発に起こります。
     </p>
   </details>

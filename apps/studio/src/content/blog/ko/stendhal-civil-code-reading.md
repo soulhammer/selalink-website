@@ -25,14 +25,16 @@ faqs:
 
 프랑스 문학사에서 인간 내면의 허영과 사랑의 심리를 정교하게 포착한 19세기 사실주의 문학의 대가 스탕달(Stendhal, 본명 앙리 벨 Henri Beyle, 1783 ~ 1842). 그의 대표작 『적과 흑(Le Rouge et le Noir)』과 『파르마의 승원(La Chartreuse de Parme)』은 군더더기 없는 건조하고 투명한 문체로 오늘날까지 현대 소설의 바이블로 불립니다. 그가 살던 19세기 초반은 감정과 수식어가 흘러넘치는 낭만주의 문학이 풍미하던 시대였으나, 스탕달은 철저하게 수학처럼 정확하고 명료한 문장을 고집했습니다. 그가 매일 아침 펜을 들기 전 반드시 행했던 습관은 다름 아닌 나폴레옹 법전(프랑스 민법전, Code Civil)을 몇 페이지씩 읽는 것이었습니다. 건조하고 차가운 법률 텍스트로 뇌를 예열하여 문장의 감상적 거품을 걷어내고 이성적 사실 묘사에 집중했던 스탕달의 인지적 점화(Priming) 루틴을 상세히 파헤칩니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 이 습관을 적용할 때 주의할 점은 건조한 텍스트를 읽으면서 내용의 복잡한 이해관계에 너무 몰두하는 것입니다. 법전 조항을 읽으며 복잡한 판례 분석이나 법리 해석에 깊이 빠져들면 전두엽의 인지 자원이 글을 쓰기도 전에 고갈(Cognitive Depletion)될 위험이 있습니다. 이 루틴의 본질은 법률 지식 습득이 아니라 문장 구조의 건조함과 명료한 단어 조합의 규칙성을 시각적으로 인지하는 데 있습니다. 따라서 내용을 깊이 고민하지 않고 군더더기 없는 형태와 짧은 호흡 자체를 가볍게 스캔하듯 읽는 것이 중요합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       감성적이고 화려한 설득 문장을 써야 할 때는 법전 대신 자신이 닮고 싶은 매력적인 광고 카피나 감각적인 수필을 점화 텍스트로 사용하는 것이 좋습니다. 스탕달 습관의 핵심은 쓰고자 하는 결과물의 톤앤매너에 어울리는 최적의 텍스트로 뇌를 먼저 점화(Priming)시키는 데 있습니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ Son plus grand secret pour maîtriser son immense anxiété et acquérir un cour
 
 Dans l'article d'aujourd'hui, nous présentons les bases scientifiques de la routine de l'« Iliade sous l'oreiller » d'Alexandre et la manière dont les individus modernes, qui perdent facilement leurs objectifs de vue, peuvent utiliser leur subconscient pour forger leur volonté.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ L'Iliade qu'Alexandre le Grand lisait avant de s'endormir n'était pas un simple
 
 Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la critique — comme les réseaux sociaux ou les articles d'actualité — aligne votre subconscient sur des stimuli négatifs, perturbant le sommeil profond et vous faisant vous réveiller fatigué le matin. Placez intentionnellement près de votre lit des classiques nobles ou des livres qui élèvent votre valeur.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Lire des romans ou des bandes dessinées avant de s'endormir a-t-il le même effet que la routine de lecture classique de vision ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Lire des romans ou des bandes dessinées avant de s'endormir a-t-il le même effet que la routine de lecture classique de vision ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       La fiction légère offre également un effet de refroidissement qui soulage le stress cérébral, mais pour obtenir un effet de « motivation orientée sur les valeurs » qui aligne l'identité personnelle et stimule la volonté d'exécution comme la routine d'Alexandre, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies d'illustres personnages qui apportent une résonance et une réflexion intérieures.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Est-il possible de lire des livres sur une liseuse numérique en étant allongé ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Est-il possible de lire des livres sur une liseuse numérique en étant allongé ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Les écrans de liseuses ou de tablettes comportent un risque élevé de réprimer la sécrétion de mélatonine, car les émissions lumineuses amènent le cerveau à confondre la nuit et le jour. Pour des résultats optimaux dans l'alignement subconscient et un sommeil profond, il est recommandé de lire un livre papier physique en tournant directement les pages à la main sous une lumière douce autant que possible.
     </p>
   </details>

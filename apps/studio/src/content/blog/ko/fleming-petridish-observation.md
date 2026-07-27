@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 알렉산더 플레밍의 예외 발견 루틴이 어떻게 뇌의 인지 필터를 조절하여 창의성을 깨웠는지 분석하고, 일상에서 실패로부터 돌파구를 찾는 오류 성찰 법을 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알렉산더 플레밍 평전 및 안드레 모로아 『플레밍 평전(The Life of Sir Alexander Fleming)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 알렉산더 플레밍 평전 및 안드레 모로아 『플레밍 평전(The Life of Sir Alexander Fleming)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 현대인들은 업무나 공부 중 실패나 실수를 겪으면 인지적 스트레스를 받고 이를 빠르게 지우거나 잊어버리려고 합니다. 그러나 플레밍의 배양 접시가 증명하듯, 창의적인 영감과 혁신은 정제된 성공이 아니라 오히려 의도하지 않았던 오염과 실패의 흔적 속에 숨겨져 있습니다. 실패를 관찰하는 여유가 뇌의 진정한 천재성을 깨웁니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>실패를 분석하는 것이 오히려 정신적 좌절감을 크게 만들지 않을까요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">실패를 분석하는 것이 오히려 정신적 좌절감을 크게 만들지 않을까요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       오류를 덮어두려고만 할 때 뇌의 불쾌감과 불안은 더 오래 지속됩니다. 오히려 감정을 배제하고 사실 데이터 위주로 왜 실패했는지 꼼꼼하게 종이에 적으며 분석하면, 뇌는 상황에 대한 '통제력'을 확보했다고 판단하여 불안 수준을 낮추고 성취 동기를 자극합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>우연한 발견(세렌디피티)을 더 잘 포착할 수 있는 뇌 훈련법이 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">우연한 발견(세렌디피티)을 더 잘 포착할 수 있는 뇌 훈련법이 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       매일 자신이 실천하던 일상의 동선이나 절차를 아주 사소하게 바꾸어 보는 것이 큰 도움이 됩니다. 늘 가던 길이 아닌 곳으로 걷거나, 다른 장소에서 일해보는 등 일상에 의도적으로 미세 노이즈를 개입시키면, 뇌의 전두-두정엽 주의 네트워크가 활성화되어 낯선 연결을 포착하는 세렌디피티 능력이 자연스레 발달합니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ Bevor die rationalen Zensoren seines Präfrontalkortex jeden Morgen erwachten, p
 
 Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Ray Bradburys '10-Wörter-Zufallsassoziationsmethode' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um kreative Blockaden zu überwinden und divergentes Denken zu entfachen.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historischer & Wissenschaftlicher Beleg
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Ray Bradburys Essaysammlung *Zen in der Kunst des Schreibens (Zen in the Art of Writing)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Dieser Inhalt basiert auf Historische Überprüfung aus Ray Bradburys Essaysammlung *Zen in der Kunst des Schreibens (Zen in the Art of Writing)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Das erzwungene Verknüpfen unzusammenhängender Konzepte stimuliert stark die Ne
 
 Versuchen Sie bei der Durchführung dieser Routine nicht, sofort geschliffene Sätze oder ausgereifte Prosa zu verfassen. Sobald Sie sich um grammatikalische Perfektion oder Eleganz sorgen, greift die präfrontale Zensur ein und unterbricht unbewusste Assoziationsketten. Der Schlüssel liegt darin, vollkommen in den 'Assoziationsprozess selbst' einzutauchen – und ungleiche Konzepte im Geist zügig und zwingend zusammenzufügen.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Muss ich diese assoziative Schreibroutine jeden Morgen praktizieren?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Muss ich diese assoziative Schreibroutine jeden Morgen praktizieren?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Wortassoziationen direkt nach dem Aufwachen durchzuführen, wenn das Unterbewusstsein aktiv ist, ist neurowissenschaftlich am effektivsten. Es reicht jedoch aus, diese Übung 3 bis 4 Mal pro Woche zu praktizieren, um die Schaltkreise des divergenten Denkens zu trainieren und kreative Erkenntnisse freizusetzen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wie kann ich diese Routine ersetzen, wenn ich kein Papier oder Wortkarten zur Hand habe?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Wie kann ich diese Routine ersetzen, wenn ich kein Papier oder Wortkarten zur Hand habe?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Sie können genau denselben kognitiven Assoziationseffekt erzielen, indem Sie eine beliebige Buchseite aufschlagen und die ersten 3 Substantive auswählen, die Sie sehen, oder indem Sie einen Online-Zufallswortgenerator oder eine Smartphone-Notizen-App verwenden.
     </p>
   </details>

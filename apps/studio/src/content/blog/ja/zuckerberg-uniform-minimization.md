@@ -27,14 +27,16 @@ faqs:
 
 世界で30億人以上の人々をオンラインでつなぐ巨大ソーシャルメディア帝国Metaの創業者兼CEOであるマーク・ザッカーバーグ。日々めまぐるしく変化するテックビジネスの中心で、毎日何百億ドル規模のプロジェクトの方向性を決定する彼ですが、朝起きて出勤の準備をするルーティンは驚くほど単調です。ザッカーバーグのクローゼットには、全く同じグレーのTシャツ数十着とブルーのジーンズだけが並んでいます。2014年のタウンホールミーティングで、毎日同じ服を着続ける理由を尋ねられた際、彼は「人生の些細な決定を最小限に抑え、コミュニティに貢献するための本質的な決定だけにエネルギーを集中させたい」と答えました。このシンプルな習慣の裏に隠された脳科学的メカニズムと意思決定効率を極大化する仕組みを解き明かします。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>マーク・ザッカーバーグの単一ユニフォームに関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、マーク・ザッカーバーグの単一ユニフォームに関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 ユニフォーム化の習慣を取り入れる際に陥りがちな過ちは、服装の統一感そのものが与えるイメージや他人の目を意識してストレスを感じてしまうことです。ファッションスタイルや美的な完璧さにこだわり始めると、それが新たな心理的負担となって脳に作用し、決断疲れを軽減するどころかかえって増加させてしまいます。最も本質的なポイントは、服装を「自分の心にとって最も無難で全く気にならないシンプルなスタイル」にして、脳を外部の評価から完全に解放することです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>毎日同じ服を着る場合、重要なミーティングやフォーマルな場にはどう対応すればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">毎日同じ服を着る場合、重要なミーティングやフォーマルな場にはどう対応すればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       ザッカーバーグも公式なイベントや取締役会ではスーツを着用します。ユニフォーム化の本質は些細な決定を遮断することにあるため、フォーマルな場のためのスーツの組み合わせをあらかじめ決めておけば、迷わずに着用して決断疲れを防ぐことができます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Tシャツとジーンズ以外の衣類でユニフォームを構成しても問題ありませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Tシャツとジーンズ以外の衣類でユニフォームを構成しても問題ありませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       もちろんです。シャツとスラックス、ワンピースなど、ご自身にとって最も無難で快適であり、身なりに気を遣う必要のないシンプルな組み合わせを選び、複数購入すれば十分です。
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 코페르니쿠스의 '고정 관측 탑 집중법'에 담긴 뇌과학적 원리를 규명하고, 현대인이 산만함 속에서 자신만의 전용 작업 공간을 확보하여 1초 만에 최상의 몰입 상태로 진입하는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>니콜라우스 코페르니쿠스 『천구의 회전에 관하여(De revolutionibus orbium coelestium)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 니콜라우스 코페르니쿠스 『천구의 회전에 관하여(De revolutionibus orbium coelestium)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 고정 공간 루틴을 구축할 때 가장 피해야 할 것은 지정된 작업 공간에서 스마트폰 유튜브 시청, 게임, 수면 등 '딴짓'을 혼용하여 환경적 단서를 오염시키는 것입니다. 공부나 업무용 책상에서 휴식이나 오락을 즐기면, 장소와 인지 활성화 사이의 신경 연계(Neural Association)가 파괴되어 뇌가 해당 공간에 앉아도 몰입 상태를 판단하지 못합니다. 하나의 고정 장소에는 반드시 '단 하나의 핵심 지적 행동'만을 바인딩하고, 휴식할 때는 즉시 의자에서 일어나 다른 공간으로 이동해야 전두엽 예열 차단 효과가 상실되지 않습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>원룸이나 좁은 공간이라 공부/업무 공간을 물리적으로 완벽히 격리하기 힘들 때는 어떻게 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">원룸이나 좁은 공간이라 공부/업무 공간을 물리적으로 완벽히 격리하기 힘들 때는 어떻게 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       물리적 공간 격리가 어렵다면, 특정 자리에 앉았을 때만 켜는 '전용 스탠드 조명'을 세팅하거나, 오직 집중할 때만 펴서 깔아두는 '데스크 매트'를 활용해 보세요. 시각적·환경적 수용 신호를 단일화하는 것만으로도 동일한 전두엽 공간 조건화 효과를 발휘할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>지정된 책상에 앉아도 마음이 산만하고 5분 내에 작업에 들어가지 못하면 어떻게 대처해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">지정된 책상에 앉아도 마음이 산만하고 5분 내에 작업에 들어가지 못하면 어떻게 대처해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       자리에 앉아 억지로 견디며 딴짓을 하지 말고, 즉시 의자에서 일어나 전용 공간 밖으로 걸어나가세요. 3분간 가벼운 스트레칭이나 기분을 전환한 뒤, 다시 자리에 앉아 첫 1개의 작고 구체적인 세부 행동(예: 문서 제목 입력하기)만 수행하는 리셋 프로토콜을 가동하십시오.
     </p>
   </details>

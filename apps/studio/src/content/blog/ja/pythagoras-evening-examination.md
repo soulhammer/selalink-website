@@ -27,14 +27,16 @@ faqs:
 
 数学と幾何学の巨匠であり、宇宙の万物は数で構成されていると主張した古代ギリシャの哲学者ピタゴラス。彼は弟子たちと共に徹底した禁欲と魂の調和を追求した神秘主義共同体を率いました。この共同体で最も重要視されていた実践綱領こそ、毎夜行われる夜の自己省察の習慣でした。ピタゴラス学派の『黄金の詩』によると、彼らは眠りにつく前に1日の出来事を3度繰り返して自問しました。「私は何を間違えたか？」「今日私が実践した善は何か？」「行うべきであったのに行わなかったことは何か？」。1日を考察して人格の完成を図ったピタゴラスの夜のルーティンを分析します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ピタゴラスの夜の自己省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ピタゴラスの夜の自己省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 夜の省察の最大の危険は、省察が自責や後悔（Rumination）に変質してしまうことです。今日発生した悪い出来事に感情的に埋没し反芻を繰り返すと、ストレスホルモンであるコルチゾールが分泌され、かえって不眠を引き起こします。省察を行う際は、徹底的に第三者の立場から出来事だけを客観的に見つめる「認知的な距離置き（Cognitive Distance）」を維持すべきであり、自責の代わりに「次はこう改善しよう」という行動の代替案に集中する必要があります。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>1日中忙しく疲れていて、省察している途中でそのまま寝てしまうのですがどうすればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">1日中忙しく疲れていて、省察している途中でそのまま寝てしまうのですがどうすればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       疲れて寝てしまうのは自然な現象です。ただし、ベッドの上ではなく日記を書くようにデスクに座って5分間だけ短く記録する方式で行うことが、睡眠誘導や睡眠慣性を防ぐのに役立ちます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>自責の念で夜眠れない時はどうすればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">自責の念で夜眠れない時はどうすればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       感情的な反芻が始まったら自問を直ちに中断してください。代わりに「すでに起きたことは仕方がないので、明日1つだけ違う行動をしよう」と代替的な選択肢だけをメモして省察を終了する訓練が必要です。
     </p>
   </details>

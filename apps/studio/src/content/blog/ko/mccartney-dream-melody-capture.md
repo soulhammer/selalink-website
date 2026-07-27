@@ -27,14 +27,16 @@ faqs:
 
 인간의 뇌는 기상 직후 수면과 각성의 경계 지대에서 이성적 검열이 작동하지 않는 고도의 창의적 상태를 경험합니다. 오늘 포스트에서는 폴 매카트니의 반수면 영감 포착 루틴에 담긴 인지신경과학 원리를 분석하고, 현대인이 무의식의 찰나적 아이디어를 손실 없이 기록하여 창의적 자산으로 전환할 수 있는 3단계 실천 가이드를 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,17 +87,17 @@ faqs:
 
 이 영감 포착 습관을 실행할 때 가장 주의해야 할 행동은 잠에서 깨자마자 스마트폰으로 소셜 미디어를 확인하거나 뉴스 메일을 읽는 것입니다. 외부의 자극적이고 정리된 정보가 시각 피질과 작업 기억을 강제로 지배하면, 뇌는 순간적으로 고도의 인지 긴장 모드에 돌입하여 잠재의식의 옅은 신경 회로(꿈의 기억)를 완전히 포맷해 버립니다. 따라서 뇌가 자연스럽게 반수면 모드를 서서히 이행하도록 침실 안에는 아날로그 펜과 종이 노트만을 가까이 두는 것이 좋습니다. 기상 후 최소 3분간은 외부 미디어와의 접촉을 차단하고 뇌 속의 고유 데이터 유출에 집중해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아침에 깼을 때 꿈이 전혀 기억나지 않는 날이 대부분인데 어떻게 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아침에 깼을 때 꿈이 전혀 기억나지 않는 날이 대부분인데 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       꿈 자체가 기억나지 않아도 괜찮습니다. 기상 직후 뇌가 몽롱한 상태에서 백지에 '떠오르는 의식의 흐름(Stream of Consciousness)'을 아무 단어나 3줄 이상 무작위로 써 내려가십시오. 이 습관 또한 자아 검열을 끄고 무의식의 영역을 예열하여 낮 시간대의 창조적 유연성을 획기적으로 향상시킵니다.
     </p>
   </details>

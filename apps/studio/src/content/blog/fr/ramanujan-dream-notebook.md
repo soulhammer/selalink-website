@@ -29,14 +29,16 @@ Ramanujan rêvait fréquemment pendant son sommeil ou lorsqu'il se reposait sur 
 
 Cet article explore le mécanisme scientifique de la routine de 'notes intuitives au réveil' de Ramanujan et la manière dont les individus modernes peuvent l'appliquer dans la vie réelle pour résoudre des défis complexes.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Biographie critique historique et récits autobiographiques sur Srinivasa Ramanujan & recherche en neurosciences cognitives</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Biographie critique historique et récits autobiographiques sur Srinivasa Ramanujan & recherche en neurosciences cognitives.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ La plupart des gens modernes consultent les notifications de smartphone ou les e
 
 Consulter les notifications de messages, les actualités ou les réseaux sociaux dès l'ouverture des yeux force le cerveau dans un état d'ondes Beta à haute fréquence tendu. À cet instant, le cerveau commence à réagir passivement aux stimuli externes, faisant s'évaporer instantanément les idées et intuitions affinées par le subconscient pendant la nuit. Bloquez complètement l'accès aux médias numériques pendant au moins 5 à 10 minutes après le réveil et concentrez-vous sur votre propre intuition.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je faire si aucun rêve ni aucune inspiration matinale ne me vient à l'esprit ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Que dois-je faire si aucun rêve ni aucune inspiration matinale ne me vient à l'esprit ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Il n'est absolument pas nécessaire de forcer les idées. Le simple fait de noter un mot ou une humeur qui persiste dans votre esprit quand vous êtes encore engourdi, ou un seul problème que vous souhaitez résoudre aujourd'hui, renforce les circuits d'ondes Alpha et ouvre progressivement la porte de votre subconscient.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Est-il possible d'utiliser une application de notes ou un enregistrement vocal sur mon smartphone ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Est-il possible d'utiliser une application de notes ou un enregistrement vocal sur mon smartphone ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Dès que vous allumez votre smartphone, la lumière vive de l'écran et les nombreuses notifications risquent fortement de faire basculer rapidement vos ondes cérébrales en ondes Beta. Il est fortement recommandé d'utiliser un carnet en papier et un stylo pour minimiser la stimulation visuelle et les changements d'ondes cérébrales.
     </p>
   </details>

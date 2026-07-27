@@ -31,14 +31,16 @@ NBA 역사상 가장 위대한 선수 중 한 명이자 승부욕의 화신으�
 
 오늘 포스트에서는 코비 브라이언트의 새벽 4시 루틴에 담긴 생리학적·신경과학적 작동 원리를 규명하고, 현대인이 자신의 일주기 리듬을 지배하여 기상 직후부터 최상의 집중력과 신체 반응성을 발휘할 수 있는 3단계 실천 방안을 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>코비 브라이언트 자서전 『맘바 멘탈리티(The Mamba Mentality: How I Play)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 코비 브라이언트 자서전 『맘바 멘탈리티(The Mamba Mentality: How I Play)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ NBA 역사상 가장 위대한 선수 중 한 명이자 승부욕의 화신으�
 
 새벽 4시 기상은 수면 부족을 전제로 성립될 수 없습니다. 새벽 기상을 위해서는 전날 밤 9시 ~ 10시 사이에 취침하여 7 ~ 8시간의 필수 수면 시간을 확보하는 선행 조건이 필수적입니다. 수면을 줄인 상태에서의 새벽 루틴은 중추신경계 피로와 면역력 저하를 초과 유발합니다. 또한 새벽 직후에는 신체 관절, 인대, 혈관이 경직되어 있으므로 본 활동 시작 전 반드시 10분 이상의 관절 웜업과 동적 스트레칭을 이행해야 부상을 예방할 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>주말이나 휴일에도 새벽 4시 기상 시간을 똑같이 유지해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">주말이나 휴일에도 새벽 4시 기상 시간을 똑같이 유지해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       일주기 리듬의 완벽한 생리적 교정을 위해서는 주말과 평일의 기상 시간 오차를 최대 1시간 이내로 통제하는 것이 이상적입니다. 주말에 과도한 늦잠을 자게 되면 SCN의 생체 시계가 리셋되어 평일 새벽 기상의 피로감이 가중되므로 생체 일관성을 지키는 것이 유익합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>새벽 4시 운동 직후 지적 작업(업무, 독서)을 수행하면 두뇌 집중력에 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">새벽 4시 운동 직후 지적 작업(업무, 독서)을 수행하면 두뇌 집중력에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 강력한 시너지를 냅니다. 고강도 및 유산소 운동 직후 방출되는 뇌유래신경영양인자(BDNF)와 도파민, 노르에피네프린의 조합은 시냅스 가소성을 최상으로 끌어올리므로, 운동 후 1 ~ 2시간 동안 깊은 지적 작업이나 학습을 수행하면 인지 흡수율과 작업 기억력이 극대화됩니다.
     </p>
   </details>

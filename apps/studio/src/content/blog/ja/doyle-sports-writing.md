@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、アーサー・コナン・ドイルの「執筆前の高強度スポーツ」ルーティンに秘められた脳科学的原理を分析し、現代人が運動後に訪れる1時間の「認知ゴールデンタイム」を活用して、複雑な企画、プログラミング、分析課題を突破する3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>アーサー・コナン・ドイル自伝『Memories and Adventures（思い出と冒険）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、アーサー・コナン・ドイル自伝『Memories and Adventures（思い出と冒険）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 コナン・ドイルにとって高強度運動は小説の緻密な論理を紡ぎ出すための知的信号でした。運動直後、大脳血流量とBDNF濃度が極大化した1時間の「認知ゴールデンタイム」に、メールの返信、SNSの閲覧、簡単な手作業などの副次的な雑務を処理して脳のリソースを使い果たしてはなりません。運動後汗を流した直後はニュースやメッセンジャーを全面遮断し、最も頭が痛く難しい核心課題（開発設計、本質企画、原稿執筆）に即座に着席しなければなりません。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>コナン・ドイルは実際にレベルの高いクリケット選手でありボクサーだったのですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">コナン・ドイルは実際にレベルの高いクリケット選手でありボクサーだったのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、そうです。コナン・ドイルはイギリスのメリルボーン・クリケット・クラブ（MCC）のアマチュア1級選手として目覚ましい活躍を見せ、ボクシングの試合の審判としても採用されるほど精通したボクサーでした。このような卓越した身体感覚と実戦スポーツの経験は、後に小説の中でシャーロック・ホームズがバリツ（Baritsu）やボクシングに精通したキャラクターとして設定される生き生きとした考証の土台となりました。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>忙しい現代人がボクシングやクリケットのような高強度スポーツを行うのは難しいですが、宅トレでも同じ効果がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">忙しい現代人がボクシングやクリケットのような高強度スポーツを行うのは難しいですが、宅トレでも同じ効果がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、完全に同じです。ポイントはスポーツの種目ではなく「短時間の心拍数上昇と大脳血流促進」にあります。10〜15分間スクワット、バーピーテスト、早い階段昇降、あるいはタバタ式宅トレを通じて瞬間的に息が切れ心拍数を引き上げさえすれば、BDNF分泌と前頭葉覚醒効果が同じように発生します。
     </p>
   </details>

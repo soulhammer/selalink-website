@@ -29,14 +29,16 @@ Neuroscientifically, this ordinary household chore routine was a remarkable 'unc
 
 In today's post, we examine how George Balanchine's routine of simple motor tasks relaxes the brain's analytical regions, and present a 3-step practical guide for modern individuals to escape creative deadlocks and harness unconscious insights.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical Verification from George Balanchine's Biography *By George Balanchine* & Cognitive Neuroscience Research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical Verification from George Balanchine's Biography *By George Balanchine* & Cognitive Neuroscience Research.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ When we focus intensely to solve a problem, the brain's prefrontal cortex strong
 
 When clearing your mind using light chores or body movements, avoid activities that demand high attention or cognitive processing. For instance, attempting to cook a complex recipe or listening to financial news while cleaning constitutes 'multitasking', which prevents the brain from entering the DMN state and only increases cognitive fatigue. The key is to loosely rest your attention solely on the touch of your hands and the rhythmic motion of your body, allowing your mind to wander freely.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Besides household chores like ironing or washing dishes, does walking provide a similar DMN activation effect?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Besides household chores like ironing or washing dishes, does walking provide a similar DMN activation effect?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Yes, walking is also a wonderful tool for boosting creativity. However, when walking, the brain must continuously consume a certain level of visual and cognitive attention to navigate surroundings or avoid crowds. On the other hand, ironing or washing dishes involves limited, fully controlled physical actions within a familiar indoor environment, so prefrontal cognitive consumption is much lower than during a walk, offering a unique advantage in more stably inducing a quiet, meditative state (DMN activation).
     </p>
   </details>

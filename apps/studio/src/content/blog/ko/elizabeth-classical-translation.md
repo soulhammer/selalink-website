@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 엘리자베스 1세의 '고전 번역' 루틴 속에 얽힌 뇌과학적 원리와 바쁜 아침 논리적 사고력을 완전히 가동하는 현대적 낭독 및 번역 습관을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 엘리자베스 1세 번역 저작집 『Elizabeth I: Translations(Janel Mueller & Joshua Scodel)』 및 역사 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 인공지능 번역기나 사전 앱의 버튼 하나만으로 텍스트를 바로 확인하는 행동은 뇌의 전두엽 회로를 자극하지 않습니다. 속도가 조금 느리더라도 스스로 단어를 찾고 문장을 수작업으로 재구축하며 머리를 쥐어짜는 과정 속에서만 전두엽 시냅스의 연결이 비약적으로 성장합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">인공지능 번역기를 사용하여 텍스트를 바로 맞춰보는 것은 효과가 없나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 버튼 하나로 결과를 얻는 것은 뇌의 인지 연결망을 자극하지 못합니다. 다소 번거롭고 느리더라도 사전을 직접 뒤적이며 문장의 뼈대를 맞추는 '머리를 쓰는 저항 과정'을 거칠 때에만 전두엽 피질의 시냅스가 활발히 발달합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">그리스어와 라틴어 같은 고전어만 공부해야 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 영어, 중국어, 독일어 등 문장 구성의 논리 체계가 한국어와 다른 모든 종류의 현대 외국어 텍스트도 훌륭한 훈련 도구가 됩니다. 중요한 것은 일상적인 대화체가 아닌 밀도 높고 격식 있는 철학이나 칼럼 등의 텍스트를 정밀하게 직조하듯 번역해 내는 것입니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 클레오파트라의 '다국어 학습' 루틴에 담긴 뇌 가소성과 브로카·베르니케 영역의 인지 신경학적 원리를 규명하고, 현대인이 글로벌 환경에서 인지적 유연성과 설득력을 끌어올릴 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플루타르코스 평전 『영웅전(Parallel Lives)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 플루타르코스 평전 『영웅전(Parallel Lives)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 동영상 강의나 아카데믹 팟캐스트를 수동적으로 시청하기만 하는 가만히 앉아있는 학습법은 언어 뇌 영역의 신경망 연결성을 크게 강화하지 못합니다. 단순 시청은 수동적 청각 수용 영역만 건드릴 뿐입니다. 클레오파트라처럼 직접 낭독하여 조음 근육(입술, 혀)과 브로카 영역, 운동 피질을 자극하고, 번역기 없이 직접 문장을 구성하여 손으로 적는 '능동적 인출 및 출률(Active Output)'이 병행되어야 신경 가소성이 자극되어 장기 기억으로 고정됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>동영상 강의나 외국어 미디어를 단순히 가만히 시청하는 행동은 언어 뇌 영역을 강화하지 못하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">동영상 강의나 외국어 미디어를 단순히 가만히 시청하는 행동은 언어 뇌 영역을 강화하지 못하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 강화 효율이 매우 떨어집니다. 단순 수동적 시청은 베르니케 영역 중심의 수동적 청각 인지 회로만 자극할 뿐, 운동 피질과 브로카 영역의 발성 회로를 재구성하지 못합니다. 클레오파트라처럼 직접 성대와 구강 근육을 써서 낭독하고, 스스로 문장을 구성하여 손으로 적을 때만 시냅스 연결성이 비약적으로 증가합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>동시에 2개 이상의 외국어를 공부하는 것이 뇌에 인지 과부하를 유발하지 않나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">동시에 2개 이상의 외국어를 공부하는 것이 뇌에 인지 과부하를 유발하지 않나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       완전 입문 단계에서 동시에 진입하면 언어 간 간섭 현상이 발생할 수 있습니다. 그러나 기초 기틀이 잡힌 언어가 있다면, 두 언어의 문법 구조와 정체성을 번갈아 바꾸는 전환(Code-switching) 훈련 자체가 전전두엽 피질의 인지 제어 및 메타인지 능력을 비약적으로 발달시키는 최고의 뇌 트레이닝이 됩니다.
     </p>
   </details>

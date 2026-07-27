@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 이소룡이 평생 실천했던 '포켓 수첩 즉각 기록' 루틴의 뇌과학적 원리를 분석하고, 현대인이 일상의 스쳐 지나가는 생각들을 성장의 실질적 원동력으로 축적할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 리틀 평전 『이소룡 평전(Bruce Lee: Artist of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 존 리틀 평전 『이소룡 평전(Bruce Lee: Artist of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 포켓 수첩 메모의 제1법칙은 영감이 발상된 직후 5초 이내에 펜을 대는 신속함입니다. 수첩에 단락을 정갈하게 나눈다거나, 글씨체를 에쁘게 다듬으려 고민하지 마세요. 형식을 따지며 주저하는 순간 전두엽의 검열 필터가 가동되어 영감의 꼬리는 소실됩니다. 날려 쓴 몇 단어, 미완성된 낙서 형태의 문장이라도 생각의 불씨를 적어두는 것만으로도 나중에 거대한 지식 자산으로 재조합할 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>종이 수첩 대신 스마트폰 음성 녹음 기능으로 영감을 보존해도 동일한 효과가 나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">종이 수첩 대신 스마트폰 음성 녹음 기능으로 영감을 보존해도 동일한 효과가 나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 음성 녹음 역시 작업 기억을 빠르게 밖으로 추출해 내는 우수한 수단입니다. 단, 뇌가 나중에 메모를 재복기하고 시각적으로 구조화하기에는 텍스트 형태가 훨씬 유리하므로, 음성 녹음 앱의 자동 텍스트 변환(STT) 기능을 결합해 텍스트 데이터로 보존해 두는 것을 권장합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>메모를 적어두고 나중에 다시 찾아 읽어보지 않게 되는데 해결 방법이 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">메모를 적어두고 나중에 다시 찾아 읽어보지 않게 되는데 해결 방법이 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       메모의 진정한 가치는 기재 자체보다 '재복기하여 실질적 행동과 결합할 때' 폭발합니다. 매일 아침 특정 시간이나 업무 시작 직전 스마트폰 알림을 설정하고, 단 1분간 어제 적은 메모 페이지를 기계적으로 읽어보는 '1분 스캔 루틴'을 기존의 식사, 양치질 같은 행동 트리거에 결합해 보세요.
     </p>
   </details>

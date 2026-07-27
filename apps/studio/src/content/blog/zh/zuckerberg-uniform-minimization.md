@@ -27,14 +27,16 @@ faqs:
 
 作为连接全球超过30亿人口的巨型社交媒体帝国Meta的创始人兼首席执行官，马克·扎克伯格处于瞬息万变的科技商业环境中心，每天决定着数百亿美元规模项目的方向。然而，他早晨起床准备出门的例行程序却出奇地单调。扎克伯格的衣柜里只整齐地挂着几十件完全相同的灰色T恤和蓝色牛仔裤。在2014年的一场镇民大会（Town Hall）上，当被问及为何每天都穿同样的衣服时，他回答道：“我想把生活中的琐碎决定减少到最低限度，以便将精力全部集中在服务社区的最本质决策上。”本文揭示了这一简单习惯背后的大脑科学机制以及最大化决策效率的原理。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>扎克伯格单一制服历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 扎克伯格单一制服历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 在实行制服化习惯时容易犯的错误是过度在意服装一致性带来的形象或他人的眼光并为此感到压力。如果开始执着于时尚风格或审美方面的完美，这本身又会成为大脑新的心理负担，不仅无法消除决策疲劳，反而会加重疲劳。因此，最核心的要领在于将服装简化为“让自己感觉最舒适且完全无需操心的简单风格”，使大脑从外界评价中彻底解放出来。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>如果每天穿相同的衣服，遇到重要会议或正式场合该如何处理？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">如果每天穿相同的衣服，遇到重要会议或正式场合该如何处理？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       扎克伯格在出席正式活动或董事会时也会穿西装。制服化的核心在于消除琐碎的抉择，因此预先指定一套用于正式场合的正装组合，届时无需思考直接穿着，便能有效防止决策疲劳。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>可以用T恤和牛仔裤以外的其他服装来组成制服吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">可以用T恤和牛仔裤以外的其他服装来组成制服吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       当然可以。衬衫搭配西装裤、连衣裙等，只要选择最符合自己喜好、舒适且无需花费精力维护外表的最简组合并大量采购即可。
     </p>
   </details>

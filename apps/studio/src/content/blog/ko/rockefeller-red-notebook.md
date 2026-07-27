@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 록펠러가 실천했던 '실시간 아날로그 미세 기록' 루틴의 인지과학적 가치와 현대인을 위한 실천 가이드를 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 스마트폰의 메모장이나 가계부 앱에 기록할 경우, 폰을 켜는 순간 쏟아지는 수많은 소셜 미디어 알림이나 뉴스가 뇌를 인지적 스트레스에 다시 노출시킵니다. 또한 앱 기록은 미학적 느낌을 전달하기 어려워 뇌의 만족 중추를 자극하지 못합니다. 지갑 속에 쏙 들어가는 예쁜 빨간색 소형 수첩과 연필을 항시 소지하여, 앱을 켜지 않고 5초 이내에 수기로 적을 수 있는 물리적 흐름을 구성할 때 뇌가 가장 명확히 인지 오프로딩을 실현합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>스마트폰 가계부나 할 일 앱을 쓰는 것보다 아날로그 수첩이 더 나은가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">스마트폰 가계부나 할 일 앱을 쓰는 것보다 아날로그 수첩이 더 나은가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 스마트폰을 켜는 행위 자체는 뇌의 인지 스위치를 디지털 잡음(SNS, 메시지)에 노출시켜 즉각적으로 집중력을 분산시킵니다. 또한 수기로 꾹꾹 눌러 적을 때 손가락 체성감각 정보가 대뇌 피질에 훨씬 강하게 입력되어, '내가 통제하고 있다'는 인지적 자각이 2배 이상 높게 일어나기 때문에 행동 조율에 아날로그가 압도적으로 효율적입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>1센트나 1분 단위처럼 너무 하찮은 정보까지 매번 다 적어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">1센트나 1분 단위처럼 너무 하찮은 정보까지 매번 다 적어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       핵심은 금액의 크기나 행위의 가치가 아닙니다. 뇌의 즉각적인 인지 자각(Real-time Feedback)을 형성하는 훈련입니다. 아주 미세한 지출이나 낭비 일정마저 실시간으로 낚아채어 물리적으로 적어두는 행위가 반복되면, 뇌의 전두엽 억제 제어망이 견고해져 큰 규모의 선택이나 비즈니스 결정 순간에도 충동을 누르고 철저하게 이성을 유지하는 뇌 회로가 구축됩니다.
     </p>
   </details>

@@ -29,14 +29,16 @@ Enrico Fermi (1901–1954) war der Physik-Gigant, der 1938 den Nobelpreis erhiel
 
 Wie seine Frau Laura Fermi in ihren Memoiren *Atoms in the Family* beschrieb, befolgte Fermi eine eiserne Morgenroutine. Jeden Morgen um 5:30 Uhr stehend, schloss er sich vor dem Frühstück für zwei ungestörte Stunden in sein Arbeitszimmer ein, um mathematische Formeln abzuleiten und theoretische Probleme zu lösen. Im heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Enrico Fermis Routine.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historischer & Wissenschaftlicher Beleg
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Laura Fermis *Atoms in the Family: My Life with Enrico Fermi*, biografischen Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Dieser Inhalt basiert auf Historische Überprüfung aus Laura Fermis *Atoms in the Family: My Life with Enrico Fermi*, biografischen Archiven & Forschung der kognitiven Neurowissenschaften.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ Beim Aufwachen löst der Körper die <strong>'Cortisol-Aufwachreaktion (CAR)'</s
 
 Ein wichtiger Punkt ist das Vermeiden eines üppigen Frühstücks, das den Magen belastet. Das Essen von Kohlenhydraten oder Fetten leitet den Blutfluss in den Magen-Darm-Trakt und verringert die Sauerstoffversorgung des Gehirns. Dies führt zu Müdigkeit nach dem Essen (Postprandiale Somnolenz). Bleiben Sie während der 2-stündigen Arbeitsphase nüchtern und trinken Sie nur Wasser, ungesüßten Tee oder schwarzen Kaffee.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was kann ich tun, wenn es mir schwerfällt, 2 Stunden lang ununterbrochen konzentriert zu bleiben?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Was kann ich tun, wenn es mir schwerfällt, 2 Stunden lang ununterbrochen konzentriert zu bleiben?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Wenn 2 Stunden am Stück zu viel sind, nutzen Sie das '2-Set-Split'-Prinzip: 50 Minuten Fokussierung gefolgt von 10 Minuten Dehnen. Wichtig: Nutzen Sie die Pause nicht für Smartphones; trinken Sie Wasser oder bewegen Sie sich kurz, um den Denkfluss nicht zu unterbrechen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Können auch Nachtmenschen, denen Frühaufstehen schwerfällt, diese kognitive Goldene Stunde nutzen?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Können auch Nachtmenschen, denen Frühaufstehen schwerfällt, diese kognitive Goldene Stunde nutzen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Ja, absolut. Der Schlüssel liegt nicht in der Uhrzeit 5:30 Uhr, sondern darin, die kognitiven Ressourcen in den ersten 2 Stunden nach dem Aufstehen ohne digitale Ablenkungen auf die schwerste Aufgabe zu richten. Schalten Sie Benachrichtigungen nach dem Aufwachen aus, um denselben Effekt zu erzielen.
     </p>
   </details>

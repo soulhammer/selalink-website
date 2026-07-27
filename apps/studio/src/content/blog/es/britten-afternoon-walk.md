@@ -31,14 +31,16 @@ Britten mantenía un horario estricto: de 8 AM a 1 PM, dedicaba cinco horas inin
 
 En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina del 'paseo costero por la tarde' de Benjamin Britten y presentamos un plan de reinicio cerebral de 3 pasos para que las personas modernas que sufren de fatiga cognitiva restauren su atención y optimicen su rendimiento intelectual.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Humphrey Carpenter *Benjamin Britten: A Biography* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Verificación Histórica de la Biografía de Humphrey Carpenter *Benjamin Britten: A Biography* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Los cerebros dedicados a cálculos o creación intensos durante la mañana activ
 
 Tumbarse en la cama a ver vídeos cortos en el móvil cuando se siente fatiga no es 'descanso' neurológico. Aunque su cuerpo esté quieto, su corteza visual y sus vías de recompensa de dopamina consumen capacidad atencional al descodificar las imágenes, exacerbando el agotamiento prefrontal. El verdadero descanso científico que reinicia los recursos prefrontales exige cortar por completo la entrada digital y caminar al aire libre en la naturaleza, tal como practicaba Britten.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Qué características geográficas definían el camino costero de Aldeburgh por el que paseaba Britten?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Qué características geográficas definían el camino costero de Aldeburgh por el que paseaba Britten?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Ubicada en Suffolk, en la costa este de Inglaterra, Aldeburgh es una playa de guijarros lisos en lugar de arena. Las olas al rodar sobre los guijarros crean un sonido rítmico, mientras que el amplio horizonte ofrece liberación visual a la corteza prefrontal.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Caminar por entornos urbanos rodeados de rascacielos ofrece beneficios similares de restauración de la atención?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Caminar por entornos urbanos rodeados de rascacielos ofrece beneficios similares de restauración de la atención?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Pasear por la ciudad implica ruido de tráfico, semáforos y luces de neón que exigen atención dirigida, reduciendo los efectos restauradores. En entornos urbanos, es esencial buscar espacios verdes y tranquilos, como parques arbolados o senderos junto al río.
     </p>
   </details>

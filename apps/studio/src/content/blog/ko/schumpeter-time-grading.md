@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 조지프 슘페터의 일일 생산성 성적표 의식이 어떻게 인지 인과 관계를 명확하게 교정하는지 분석하고, 현대인들이 자신의 시간을 객관적으로 측정하여 자기 조절력을 최대로 끌어올리는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Schumpeter Time Grading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Schumpeter Time Grading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 스스로에게 매기는 일일 성적표가 가혹한 '자기 비하'나 '완벽주의 강박'으로 흐르지 않도록 경계해야 합니다. F 등급이나 낮은 점수를 연속해서 받았다고 해서 무력감(Learned Helplessness)에 빠져들거나 자책한다면 뇌의 스트레스 자극이 가중되어 도리어 실행력이 얼어붙게 됩니다. 등급 평가는 어디까지나 감정을 배제한 '데이터 축적' 활동으로 대해야 합니다. 점수가 낮은 원인을 냉정하게 분석하되, '다음 날 10%만 개선하겠다'는 성장 마인드셋(Growth Mindset)의 피드백 도구로 사용해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>스스로 등급을 속이거나 관대하게 채점하려 할 때는 어떻게 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">스스로 등급을 속이거나 관대하게 채점하려 할 때는 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그렇기 때문에 주관적 느낌이 아닌 '수치화된 객관적 기준(Rubric)'이 반드시 마련되어야 합니다. 예를 들어 '오늘 기분상 집중이 잘 되었다'가 아니라 '온라인 트래커가 측정한 딥워크 시간이 실제로 3시간을 넘었는가?'를 기준으로 등급을 결정해야 합니다. 기준을 계량화하고 데이터(앱 사용 시간, 작성한 문서 페이지 수 등)를 결합하여 피드백을 수집하면, 뇌는 스스로를 합리화하고 숨을 틈을 잃어버리고 냉정한 현실과 마주하게 됩니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析阿瑟·柯南·道尔“写作前高强度运动”习惯背后的脑科学原理，并为活用运动后到来的1小时“认知黄金期”破局复杂策划、编程与分析难题的现代人 provide 3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>阿瑟·柯南·道尔自传《回忆与冒险（Memories and Adventures）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 阿瑟·柯南·道尔自传《回忆与冒险（Memories and Adventures）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 对于柯南·道尔而言，高强度挥汗运动是为小说推演严密逻辑的前置智力信号。切无在运动后大血流量与BDNF浓度攀升至极其巅峰的1小时“认知黄金期”内，去处理诸如回复邮件、刷社交媒体或整理杂务等低价值琐事而掏空大脑资源。在运动洗漱完毕的极其瞬间，请彻底屏蔽新闻与社交推送，直奔最棘手、最烧脑的核心任务（架构设计、本质策划、重难代码编写）前落座展开决战。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>阿瑟·柯南·道尔在现实生活中是否真的算得上一位高水平的板球运动员兼拳击手？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">阿瑟·柯南·道尔在现实生活中是否真的算得上一位高水平的板球运动员兼拳击手？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，完全属实。柯南·道尔曾作为英国玛丽勒本板球俱乐部（MCC）的一级业余选手上场竞技，更是一位精通拳击、甚至曾担任职业锦标赛裁判的硬核拳手。正是这种顶尖的肉体运动直觉与亲操经验，为其在小说中将福尔摩斯塑造为精通巴律术（Baritsu）与职业拳击的文武双全侦探 provide 了生动逼真的考据依托。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>繁忙的现代人极难抽出时间开展击拳或板球等运动，通过居家健身（Home Workout）能否获得同等成效？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">繁忙的现代人极难抽出时间开展击拳或板球等运动，通过居家健身（Home Workout）能否获得同等成效？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，效果完全一致。生理触发的核心绝非运动项目本身，而在于“在短时间内拉高心率以重置大脑供血”。只需通过10-15分钟的徒手深蹲、波比跳、极速爬楼梯或Tabata居家间歇训练，达到微喘与心率飙升的阈值，就能触发完全相同的BDNF释放与前额叶皮层唤醒成效。
     </p>
   </details>

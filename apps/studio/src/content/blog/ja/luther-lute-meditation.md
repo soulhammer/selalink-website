@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、マルティン・ルターの朝のリュート演奏習慣に隠された神経学的原理を解明し、現代人が楽器を活用してメンタルを整える3段階の実践ガイドを紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>マルティン・ルター史料『卓上語録（Tischreden, 1566）』考証＆認知神経科学（Cognitive Neuroscience）および音楽療法学（Music Therapy）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、マルティン・ルター史料『卓上語録（Tischreden, 1566）』考証＆認知神経科学（Cognitive Neuroscience）および音楽療法学（Music Therapy）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 音楽瞑想ルーティンの最大の障害は、演奏スキル向上や正確性に執着することです。演奏法が難しいと感じたりミスを心配し始めると、脳に評価ストレスが加わり、感情中枢である<strong>扁桃体（Amygdala）</strong>をかえって刺激してしまいます。カリンバ、ウクレレ、タングドラムのように構造が単純で直感的な楽器を活用し、上手く弾こうとする執着を手放して音と振動そのものを楽しむ5分間の感覚換気に集中してください。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>扱える楽器が全くない初心者でもこのルーティンで効果を得られますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">扱える楽器が全くない初心者でもこのルーティンで効果を得られますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、完全に可能です！極意は精巧な音楽的技巧ではなく「指先の微細運動刺激と音の響きの認知」にあります。カリンバ、タングドラム、シンギングボウルのようにタッチが直感的な単純楽器で5分間音と振動に集中するだけで、同様の副交感神経刺激効果を得られます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>音楽を単に聴く音楽鑑賞だけで演奏ルーティンを代替することはできませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">音楽を単に聴く音楽鑑賞だけで演奏ルーティンを代替することはできませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       受動的な音楽鑑賞もリラックス効果がありますが、能動的に指を動かして音を直接操作し微細な振動を指先で感じる演奏行為が、体性感覚皮質と前頭前野注意集中ネットワークをはるかに強力に覚醒させます。
     </p>
   </details>

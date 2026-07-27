@@ -31,14 +31,16 @@ Por mais de trinta anos, Copérnico recusou-se a mudar seus instrumentos de obse
 
 No artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'torre de observação fixa' de Nicolau Copérnico e apresentamos um plano prático de 3 passos para as pessoas modernas eliminarem o atrito de transição e entrarem no Trabalho Profundo instantaneamente.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Base Histórica e Acadêmica
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Verificação Histórica de *Das Revoluções das Esferas Celestes (De revolutionibus orbium coelestium)* de Nicolau Copérnico e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este conteúdo baseia-se em Verificação Histórica de *Das Revoluções das Esferas Celestes (De revolutionibus orbium coelestium)* de Nicolau Copérnico e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Uma causa principal da ineficiência cognitiva é o 'Custo de Mudança de Contex
 
 O principal erro ao construir uma rotina de espaço fixo é contaminar os estímulos ambientais realizando atividades não relacionadas ao trabalho — como assistir a vídeos, jogar ou usar redes sociais — naquela mesa. Usar um espaço de trabalho dedicado para entretenimento destrói a associação neuronal entre o espaço e o foco executivo. Vincule estritamente 'uma única ação cognitiva principal' ao seu espaço. Ao fazer uma pausa, levante-se e mude de área.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Como posso aplicar esta rotina se morar em um estúdio pequeno e não puder isolar um espaço de trabalho?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Como posso aplicar esta rotina se morar em um estúdio pequeno e não puder isolar um espaço de trabalho?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Se o isolamento físico for impossível, crie estímulos sensoriais artificiais: use uma 'luminária de mesa dedicada' acesa apenas para o trabalho, ou estenda uma 'base de mesa' exclusiva para sessões de foco. Criar um sinal visual constante treina as redes pré-frontais de forma idêntica.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>O que devo fazer se me sentar na mesa designada, mas ficar distraído e não conseguir começar em 5 minutos?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">O que devo fazer se me sentar na mesa designada, mas ficar distraído e não conseguir começar em 5 minutos?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Não permaneça sentado envolvido em distrações. Levante-se imediatamente e saia da zona dedicada. Faça uma pausa de 3 minutos para se alongar, depois retorne à mesa para executar uma microtarefa (ex.: digitar o título de um documento) para reiniciar o foco.
     </p>
   </details>

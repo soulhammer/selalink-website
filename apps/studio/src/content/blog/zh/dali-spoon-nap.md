@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析萨尔瓦多·达利“匙羹午睡”习惯背后的脑科学原理，并为利用入眠幻觉（Hypnagogia）西塔波电路解锁问题解法与激发创造性专注力的现代人提供3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>萨尔瓦多·达利自传《达利的秘密生活（The Secret Life of Salvador Dalí）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 萨尔瓦多·达利自传《达利的秘密生活（The Secret Life of Salvador Dalí）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 若在听到撞击巨响醒来后沉溺于昏沉快感中犹豫迟滞，在入眠幻觉状态下产生的荒诞残像会在短短几秒内从记忆电路中迅速挥发。本项习惯最核心的成功要素在于坚决极速的反应力：一旦巨响传入耳畔、睁开双眼的瞬间，务必在5秒内毫不迟疑地将脑海中的视觉残像直觉化抄录于画册、手账或手机笔记应用中。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>萨尔瓦多·达利当年为何特意选择将金属匙羹握在手中进行午睡？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">萨尔瓦多·达利当年为何特意选择将金属匙羹握在手中进行午睡？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       目的在于将身体陷入睡眠、肌肉张力完全卸下的“入眠极其瞬间”，通过物理坠落音响转化为让大脑即刻苏醒的声音信号。借此能阻断大脑跌入深度非快动眼3阶段慢波睡眠、规避睡眠惯性，从而将纯粹的入眠幻觉（Hypnagogia）超现实灵感完整打捞。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在办公室或图书馆等不宜制造金属坠落噪音的环境中该如何应用？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在办公室或图书馆等不宜制造金属坠落噪音的环境中该如何应用？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       可在金属盘上垫上一块折叠的厚毛巾或垫子，将清脆的嘈杂声音吸收转化为静音的沉闷触感；或者将手机的“1分钟/2分钟微型定时闹钟”设定为微弱震动，调控大脑在陷入深度睡眠前的浅睡阶段被微微唤醒，以此实现完美的替代。
     </p>
   </details>

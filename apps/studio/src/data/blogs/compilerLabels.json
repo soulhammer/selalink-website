@@ -110,5 +110,27 @@
     "de": "Praktische 3-Schritte-Routine für den Alltag",
     "pt": "Rutina Prática de 3 Pasos para o Profissional Moderno",
     "id": "3 Langkah Rutinitas Praktis untuk Manusia Modern"
+  },
+  "petMeaningLabel": {
+    "ko": "행동 의미",
+    "en": "Meaning",
+    "ja": "行動の意味",
+    "zh": "行为含义",
+    "es": "Significado",
+    "fr": "Signification",
+    "de": "Bedeutung",
+    "pt": "Significado",
+    "id": "Arti Perilaku"
+  },
+  "petResponseLabel": {
+    "ko": "권장 대응",
+    "en": "Recommended Action",
+    "ja": "推奨される対応",
+    "zh": "建议应对",
+    "es": "Acción recomendada",
+    "fr": "Action recommandée",
+    "de": "Empfohlene Maßnahme",
+    "pt": "Ação recomendada",
+    "id": "Tindakan Disarankan"
   }
 }

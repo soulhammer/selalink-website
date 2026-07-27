@@ -33,14 +33,16 @@ faqs:
 
 本記事では、マグリットのスーツ作業ルーティンが衣類着用を通じて脳波と心理状態をどのようにコントロールするのかを分析し、即座にディープ・ワークモードへ切り替える3ステップ実践法を提示します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ルネ・マグリット伝記およびベルギー王立美術館（Royal Museums of Fine Arts of Belgium）アーカイブ考証＆認知神経科学・認知心理学研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ルネ・マグリット伝記およびベルギー王立美術館（Royal Museums of Fine Arts of Belgium）アーカイブ考証＆認知神経科学・認知心理学研究に基づいています。
     </p>
   </div>
 </div>
@@ -95,27 +97,27 @@ faqs:
 
 着衣認知効果を得ようとして身体を過度に締め付けたり痛みを引き起こす服を着ることは避けてください。身体的不快感は<strong>前頭前野（Prefrontal Cortex）</strong>に疲労信号を送り集中力を妨げます。清潔感を保ちつつ、長時間の没入に適したスラックスやシャツなど適切な服装バランスを構築することが本質です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在宅勤務の際に室内履きや専用の靴を履くことも着衣認知に役立ちますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在宅勤務の際に室内履きや専用の靴を履くことも着衣認知に役立ちますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、非常に優れた効果を発揮します！足の裏に伝わる固い質感と触覚刺激は<strong>体性感覚野（Somatosensory Cortex）</strong>に「屋外活動モード」という信号を送ります。これはソファやベッドに横になりたい欲求を抑え、作業ギアへ切り替える優れた身体的スイッチとなります。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>画家やクリエイターのようなクリエイティブな仕事でも端正に着こなすことが役立ちますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">画家やクリエイターのようなクリエイティブな仕事でも端正に着こなすことが役立ちますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、完全に役立ちます。無秩序で自由な服装が創造性を生むと思われがちですが、行動や服装が端正であるほど脳の前頭前野の認知リソースが節約され、無意識の深いアイデアや超現実的な連想を発掘する高次な思考に没入できるようになります。
     </p>
   </details>

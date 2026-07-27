@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 루트비히 비트겐슈타인의 서부극 디톡스 루틴이 뇌의 스트레스 상태를 어떻게 해제하는지 규명하고, 현대인들이 두뇌의 정보 과부하를 강제로 차단하고 최상의 뇌 상태를 회복하는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>루트비히 비트겐슈타인(Ludwig Wittgenstein) 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 루트비히 비트겐슈타인(Ludwig Wittgenstein) 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,17 +91,17 @@ faqs:
 
 뇌의 열을 식히기 위한 디톡스 영화나 매체 감상을 고를 때, 또 다른 인지 부하를 주는 난해한 스릴러나 예술 영화, 혹은 슬프고 무거운 주제의 스토리는 피해야 합니다. 줄거리를 해석하거나 도덕적 가치 판단을 해야 하는 매체는 뇌를 쉬게 하지 못하고 도리어 감정적, 인지적 에너지를 추가로 갉아먹습니다. 따라서 비트겐슈타인의 서부극처럼 단순 명쾌한 권선징악 구조나 가벼운 액션, 아름다운 자연 다큐멘터리처럼 뇌가 분석할 필요가 없는 단순 자극 매체를 골라야 올바른 휴식 효과를 볼 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>퇴근 후 스마트폰 쇼츠나 릴스를 끝없이 보는 행위도 비트겐슈타인의 루틴과 비슷한 뇌 리셋 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">퇴근 후 스마트폰 쇼츠나 릴스를 끝없이 보는 행위도 비트겐슈타인의 루틴과 비슷한 뇌 리셋 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그렇지 않습니다. 숏폼 비디오는 몇 초 간격으로 뇌에 완전히 새로운 정보와 깜짝 자극을 쏟아붓습니다. 뇌는 새로운 영상을 볼 때마다 도파민을 과도하게 분비하고, 상황을 재해석하는 데 바빠져 뇌파가 더욱 산만해집니다. 비트겐슈타인의 루틴 핵심은 '지속적이고 완만하며 단순한 자극 속으로 들어가 인지 처리 능력을 정지시키는 것'에 있습니다. 빠르게 정보가 전환되는 숏폼은 뇌를 쉬게 하는 것이 아니라 도리어 더 지치게 만드는 중독성 자극에 가깝습니다.
     </p>
   </details>

@@ -25,14 +25,16 @@ faqs:
 
 フランス文学史上、人間の見栄と愛の心理を最も精妙に捉えた19世紀写実主義文学の巨匠スタンダール（本名アンリ・ベール、1783〜1842）。彼の代表作『赤と黒』や『パルムの僧院』は、余計な飾りのない乾燥した透明な文体で、今日まで現代小説のバイブルと称されています。彼が活躍した19世紀初頭は感情と修辞があふれる浪漫主義文学が全盛の時代でしたが、スタンダールは数学のように正確で明瞭な文章を貫きました。彼が毎朝ペンを取る前に必ず行っていた習慣こそ、ナポレオン法典（フランス民法典）を数ページ読むことでした。乾燥した冷たい法律テキストで脳を予熱し、文章の感傷的な泡を取り除いて理知的な事実描写に集中したスタンダールの認知的プライミング（Priming）ルーティンを詳しく紐解きます。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 この習慣を適用する際の注意点は、乾燥したテキストを読みながら内容の複雑な利害関係に没頭しすぎないことです。法典の条項を読みながら複雑な判例分析や法理的解釈に深く入り込むと、前頭葉の認知資源が執筆前に枯渇（Cognitive Depletion）するリスクがあります。このルーティンの本質は法律知識の習得ではなく、文章構造の簡潔さと明瞭な単語の組み合わせの規則性を視覚的に認識することにあります。したがって、内容を深く悩まず、無駄のない形式と短いリズム自体を軽くスキャンするように読むことが重要です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>マーケティングコピーや感情的なエッセイを書く際にも法典を読むことが役に立ちますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">マーケティングコピーや感情的なエッセイを書く際にも法典を読むことが役に立ちますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       感情的で華やかな説得文章を書く必要がある時は、法典の代わりに自分が手本にしたい魅力的な広告コピーや感性的なエッセイをプライミングテキストとして使用するのが良いでしょう。スタンダールの習慣の核心は、書こうとする成果物のトーン＆マナーに合った最適なテキストで脳をあらかじめプライミング（Priming）させることにあります。
     </p>
   </details>

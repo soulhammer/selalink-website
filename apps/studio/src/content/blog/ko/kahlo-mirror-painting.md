@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 프리다 칼로가 행했던 '거울 자화상' 루틴의 임상심리학적 원리와 현대인들이 내면의 상처를 극복하고 회복탄력성(Resilience)을 회복하는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프리다 칼로 일기 및 평전 사료 『프리다 칼로의 일기(The Diary of Frida Kahlo)』 고증 & 임상심리학(Clinical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 프리다 칼로 일기 및 평전 사료 『프리다 칼로의 일기(The Diary of Frida Kahlo)』 고증 & 임상심리학(Clinical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 거울 응시 기법을 수행할 때 가장 주의해야 할 점은 자신의 신체적 단점을 찾아내거나 부정적인 가치 판단을 내리지 않는 것입니다. 거울 속 나를 바라보는 행위는 외모를 평가하는 시간이 아니라, 고통이나 피로를 겪고 있는 나 자신을 비판 없이 있는 그대로 인정하고 다독이는 따뜻한 관조의 시간이어야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>거울을 보면서 제 얼굴의 결점이나 주름만 보여서 오히려 스트레스를 받는데 어떻게 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">거울을 보면서 제 얼굴의 결점이나 주름만 보여서 오히려 스트레스를 받는데 어떻게 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아주 자연스러운 반응입니다. 거울 응시 초반에는 외모 평가 본능이 작동하기 쉽습니다. 이때는 얼굴 전체를 보려 하기보다 오직 '자신의 눈동자(동공)' 하나에만 초점을 맞추고 응시해 보세요. 외모적 형태가 아닌 나라는 존재의 중심과 눈을 맞춘다는 감각에 집중하는 것이 도움이 됩니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>그림을 직접 그리지 않고 거울을 응시하는 것만으로도 치유 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">그림을 직접 그리지 않고 거울을 응시하는 것만으로도 치유 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 완벽히 효과가 있습니다! 프리다 칼로에게 자화상 그리기는 거울 응시를 통한 자기 대면을 시각화하는 연장 도구였습니다. 그림을 그리지 않더라도 하루 5분간 거울 속 자신과 따뜻하게 눈을 맞추고 정서 상태를 확인하는 것만으로도 동일한 자기 수용과 회복탄력성 강화 효과를 얻을 수 있습니다.
     </p>
   </details>

@@ -27,14 +27,16 @@ faqs:
 
 Pitágoras, o antigo filósofo grego e mestre da matemática e da geometria, afirmava que todas as coisas no universo são compostas por números. Ele liderou uma comunidade mística com seus discípulos que buscava o ascetismo estrito e a harmonia da alma. O código de prática mais vital nesta comunidade era a rotina de autorreflexão noturna realizada todas as noites. De acordo com os 'Versos de Ouro' dos pitagóricos, eles se questionavam três vezes antes de adormecer: 'Onde eu errei?', 'Que bem eu fiz hoje?' e 'Que dever eu deixei de cumprir?'. Analisamos a rotina noturna de Pitágoras de examinar o dia para alcançar a perfeição do caráter.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Base Histórica e Acadêmica
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Biografia crítica histórica e registros autobiográficos sobre o autoexame noturno de Pitágoras e pesquisas em neurociência cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este conteúdo baseia-se em Biografia crítica histórica e registros autobiográficos sobre o autoexame noturno de Pitágoras e pesquisas em neurociência cognitiva.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ O sono é um período vital quando memórias de curto prazo armazenadas no hipoc
 
 O maior risco da reflexão noturna é permitir que ela se deteriore em autoculpabilização ou ruminação. Ficar emocionalmente imerso em maus acontecimentos do dia e repetir a ruminação desencadeia a secreção de cortisol, um hormônio do estresse que na verdade causa insônia. Ao realizar a reflexão, mantenha a 'Distância Cognitiva' observando os eventos objetivamente a partir da perspectiva de terceiros, focando em alternativas comportamentais como 'Aprimorarei dessa forma na próxima vez' em vez de se culpar.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>E se eu estiver tão ocupado e cansado o dia todo que acabar dormindo durante a reflexão?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">E se eu estiver tão ocupado e cansado o dia todo que acabar dormindo durante a reflexão?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Adormecer quando se está exausto é natural. No entanto, sentar-se à mesa e fazer um breve registro de 5 minutos, como quem escreve um diário, em vez de ficar na cama, ajuda a evitar a sonolência prematura e a inércia do sono.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>O que devo fazer se a autoculpabilização me mantiver acordado à noite?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">O que devo fazer se a autoculpabilização me mantiver acordado à noite?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Interrompa imediatamente o autoquestionamento se a ruminação emocional começar. Em vez disso, pratique concluir a reflexão após anotar uma opção alternativa como 'O que aconteceu não pode ser desfeito, amanhã farei apenas 1 coisa diferente'.
     </p>
   </details>

@@ -29,14 +29,16 @@ Cada vez que se enfrentaba a un bache cognitivo al elaborar guiones gráficos o 
 
 En el artículo de hoy, examinamos las raíces neurocientíficas de la rutina de 'visor analógico y estimulación táctil de modelos' de Spielberg, junto con métodos prácticos para que las personas modernas superen los cuellos de botella creativos en su vida diaria.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Steven Spielberg e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Verificación de biografías históricas y registros autobiográficos de Steven Spielberg e investigación en neurociencia cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ La sofisticada retroalimentación háptica obtenida al tocar finamente los compl
 
 Al tocar herramientas fidget para estimular las yemas de los dedos, si la herramienta es demasiado vistosa o contiene mecanismos complejos, se produce una dispersión cognitiva, ya que el cerebro se deslumbra con la diversión de operar la herramienta en sí. Por lo tanto, para fines de estimulación cerebral, utilizar formas simples y materiales sólidos, como modelos de metal frío o juguetes de madera, es mucho más ventajoso para la descarga cognitiva. Además, limite el tiempo de manipulación a no más de 10 minutos.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Girar un fidget spinner o un bolígrafo común con los dedos produce el mismo efecto?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Girar un fidget spinner o un bolígrafo común con los dedos produce el mismo efecto?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       El simple hecho de girar repetidamente un spinner o un bolígrafo se clasifica como un hábito motor inconsciente que solo estimula el circuito de los ganglios basales del cerebro y proporciona una intensidad de estimulación de la corteza somatosensorial (retroalimentación háptica) muy baja para inducir un cálculo espacial de alto nivel en el lóbulo parietal. Por lo tanto, tocar directamente juguetes o cubos de modelos analógicos, donde las formas y contornos geométricos claros obligan al cerebro a coordinar movimientos finos de las yemas de los dedos para reconocer las formas, produce efectos de excitación intelectual mucho más superiores.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Hay otros consejos para reducir el campo de visión en la vida cotidiana cuando no se dispone de una lente de visor óptico?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Hay otros consejos para reducir el campo de visión en la vida cotidiana cuando no se dispone de una lente de visor óptico?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Incluso sin la lente de visor de Spielberg, puede lograr exactamente el mismo efecto de encuadre visual haciendo un orificio cuadrado del tamaño de una falange en el centro de una tarjeta de papel y mirando los objetos a través de él, o cerrando un ojo y haciendo un círculo con los dedos (como el gesto de OK) pegado al ojo como un telescopio. El principio de filtrar el ruido cognitivo innecesario que se vierte en la corteza visual cerebral es físicamente idéntico.
     </p>
   </details>

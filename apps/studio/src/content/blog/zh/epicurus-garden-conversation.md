@@ -29,14 +29,16 @@ faqs:
 
 阿匹克路斯在雅典郊外置办了一处不分社会阶级与性别、向所有人敞开的社群——“庭院（Kepos）”，与少数挚友长居于此。每天下午，他们分食从田间采摘的蔬菜、清水与少许起司，在至真友情（Philia）中开展富有深邃精神交会的学术研讨。他曾言：“只要给我面包、水和一块小起司，我便能与宙斯争胜幸福。”在今天的文章中，我们将深度剖析阿匹克路斯“庭院进餐”习惯背后的脑科学原理。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 在展开社交对话时，人们常犯的错误在于过于依赖奢华豪宴与频频劝酒来营造人工的亢奋氛围。暴饮暴食与过量酒精固然能诱发多巴胺的暴涨，但随之而来的便是剧烈的多巴胺匮乏，加剧慢性焦虑。正如阿匹克路斯仅以面包与清水置案，维持简约消解了多巴胺受体的过载疲态，方能让大脑感悟到持久宁静的甜美（Ataraxia）。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>每次与朋友聊天总会滑向政治或经济辩论引发争吵，该如何应对？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">每次与朋友聊天总会滑向政治或经济辩论引发争吵，该如何应对？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       争论不休的话题会倒逼肾上腺素与皮质醇过量分泌，拉垮神经平稳。在聚会开始前提前拟定一条约定：“今天咱们聊聊近来的心路历程或读书心得，暂且放下时事焦点”，这乃是守护团体静心（Ataraxia）的终极盾牌。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>协调朋友每周线下聚餐难度极大，有其他替代方案吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">协调朋友每周线下聚餐难度极大，有其他替代方案吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝无必要每周面基。哪怕每月开展1次深度线下小聚，或每两周进行一次30分钟的安静语音通话分流内心感受，便足以有效拉动脑内的催产素通路并维持心理安全感。
     </p>
   </details>

@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 미국의 건국 아버지가 사랑했던 이 기상천외한 아침 루틴 속에 숨겨진 뇌과학적 원리와, 현대 바쁜 일상 속에서 안전하게 이를 실천하는 방법을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>벤자민 프랭클린 자서전 『프랭클린 자서전(The Autobiography of Benjamin Franklin)』 및 친필 서간집(Letters to M. Barbeu Dubourg) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 벤자민 프랭클린 자서전 『프랭클린 자서전(The Autobiography of Benjamin Franklin)』 및 친필 서간집(Letters to M. Barbeu Dubourg) 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 공기욕은 오한을 참아내는 극기 훈련이 아닙니다. 과도하게 강추위에 노출되면 급격한 혈관 수축으로 인한 혈압 상승이나 면역력 저하를 초래할 수 있습니다. 쾌적함을 느끼는 서늘한 온도 범위에서 10 ~ 15분 이내로 실행해야 자율신경계 리셋 효과를 안전하게 누릴 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>공기욕(Air Bath)이 정말 면역력 강화와 정신 각성에 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">공기욕(Air Bath)이 정말 면역력 강화와 정신 각성에 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 피부 저온 자극은 교감-부교감 신경계의 탄력성을 키우며, 자율신경계 리셋을 통해 뇌의 노르에피네프린 분비를 촉진함으로써 아침 피로감을 제거하고 전전두엽의 인지 각성을 돕습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>추운 겨울철에는 공기욕을 어떻게 실천해야 안전한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">추운 겨울철에는 공기욕을 어떻게 실천해야 안전한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       겨울철에는 나체로 오랫동안 외부에 노출되는 것은 위험합니다. 창문을 1 ~ 2분간 짧게 열어 실내 공기를 빠르게 순환시킨 뒤, 서늘해진 실내 공기 속에서 3 ~ 5분 정도 가볍게 피부 자극을 느끼는 미니 공기욕으로 진행하는 것이 안전합니다.
     </p>
   </details>

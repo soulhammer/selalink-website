@@ -29,14 +29,16 @@ Cook se despierta naturalmente cada mañana a las 3:45 AM. Durante la primera ho
 
 En la publicación de hoy, revelamos los principios neurocientíficos detrás de la rutina de 'control al amanecer' de Tim Cook y un método práctico de 3 pasos para los trabajadores modernos.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ La tranquila autonomía matutina a las 3:45 AM preserva el 100% de la glucosa y 
 
 Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para imitar a Tim Cook, se acumulará fatiga crónica en las células prefrontales, perjudicando el juicio. Recuerde que la esencia de levantarse temprano no es la hora en sí, sino 'dormir temprano y despertar temprano para tomar el control'.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Las personas nocturnas también deberían seguir esta rutina matutina?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Las personas nocturnas también deberían seguir esta rutina matutina?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Si su cronotipo de sueño es nocturno, no necesita forzarse a despertar a las 3:00–4:00 AM. La lección clave es 'asegurar 1 hora proactiva sin interrupciones', por lo que sustituirla por 1 hora tras el trabajo o en la noche produce el mismo efecto.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Tomar una siesta reconfortante de 15 a 20 minutos entre la 1:00 PM y las 3:00 PM, finalizar la ingesta de cafeína antes de las 11:00 AM y realizar estiramientos ligeros reducirá la fatiga prefrontal.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构李秉喆会长“晨间书法”习惯背后协同神经网络、助推理性决策的脑科学原理，并分享一套助现代人在应对繁忙都市日程前抹去心智噪点、切入深度专注的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>湖岩自传《湖岩自传》与三星集团档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 湖岩自传《湖岩自传》与三星集团档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 在展开书法冥想之际，若执念于字迹的美观雅致或艺术完成度，极易堕入挑剔研判与自我批判的内耗陷阱，大幅削弱神经松弛效能。此习惯绝非创作艺术臻品，而是一套将意识死锁于笔尖与手指微观力度控压中的“感官运动正念（Sensorimotor Mindfulness）”流程。无视笔画形状的歪斜，全情沉浸于笔锋划过纸面时的物理摩擦触感本身，乃是绝对核心。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>若居室中绝无传统文房四宝，有哪些日常文具可供替代复刻？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">若居室中绝无传统文房四宝，有哪些日常文具可供替代复刻？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       万年笔、蘸水笔（Dip Pen）、乃至厚质纸张搭配铅笔，均可完美替代。机制的核心全在于促使大脑实时觉察书写时纸面与笔尖传导的微观摩擦力（Friction）与指尖分寸控压。只要能输送清晰沙沙触觉反馈的书写工具，便可斩获完全相同的自律神经沉淀效能。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>为何相比于晚间或傍晚，在清晨醒来瞬间践行此书法习惯具备更高效能？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">为何相比于晚间或傍晚，在清晨醒来瞬间践行此书法习惯具备更高效能？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       因清晨醒来瞬间的大脑极其纯粹，尚未曝露于海量外界信息噪点与应激激素中。若在晨间头15分钟内，借由毛笔书法的精密微观运动控制启动大脑，自律神经系统便会在高度稳固的状态下开启前额叶皮层觉醒，奠定贯穿全天主导且从容冷静的理性基调。
     </p>
   </details>

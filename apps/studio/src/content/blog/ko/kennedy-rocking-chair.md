@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 존 F. 케네디의 흔들의자 루틴이 가진 뇌과학적 진정 메커니즘과 현대인들이 일상에서 척추 건강과 정신적 이완을 위해 이를 적용하는 3단계 방법을 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 F. 케네디 대통령 도서관(JFK Library) 및 제넷 트래블(Janet Travell) 주치의 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 정형외과학(Orthopedics) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 존 F. 케네디 대통령 도서관(JFK Library) 및 제넷 트래블(Janet Travell) 주치의 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 정형외과학(Orthopedics) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 현대인들이 겪는 목과 허리의 통증은 오랫동안 움직이지 않고 고정된 자세를 유지하는 '정적 부하(Static Load)'에서 비롯됩니다. 굳어 있는 신체는 그대로 정서적 경직과 스트레스로 직결됩니다. 케네디처럼 앉아 있는 동안 완만하고 부드러운 미세 움직임을 의도적으로 만들어 내는 것이 두뇌의 가동성과 신체의 유연성을 동시에 지키는 비결입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>일반 의자나 사무용 의자에서도 비슷한 이완 효과를 낼 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">일반 의자나 사무용 의자에서도 비슷한 이완 효과를 낼 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그렇습니다. 의자의 등받이 고정 잠금을 해제하고 부드럽게 틸팅 각도를 조절하며 가볍게 상체를 앞뒤로 흔들어 주는 것만으로도, 정적 부하를 예방하고 전정기관을 적당히 자극하여 부교감 신경을 활성화할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>몸을 흔드는 리듬의 빠르기는 어느 정도가 좋은가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">몸을 흔드는 리듬의 빠르기는 어느 정도가 좋은가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       가장 편안하게 이완을 유도하는 리듬은 약 0.5Hz에서 1Hz 사이입니다. 즉, 몸이 앞으로 갔다가 뒤로 오는 왕복 1회 동작을 약 1.5초에서 2초 정도에 완만하고 부드럽게 수행하는 속도가 뇌를 진정시키는 데 가장 이상적입니다.
     </p>
   </details>

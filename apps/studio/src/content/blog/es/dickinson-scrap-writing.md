@@ -31,14 +31,16 @@ Dickinson horneaba pan para su familia todas las noches. Mientras amasaba y el o
 
 En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'escritura en recortes' de Emily Dickinson y presentamos un plan práctico de 3 pasos para que las personas modernas capturen la creatividad fugaz.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Richard B. Sewall *La vida de Emily Dickinson (The Life of Emily Dickinson)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Verificación Histórica de la Biografía de Richard B. Sewall *La vida de Emily Dickinson (The Life of Emily Dickinson)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ La creatividad se sofoca cuando el cerebro fuerza la lógica compleja frente al 
 
 El núcleo absoluto para capturar chispas creativas es la 'conservación rápida en estado bruto', no la organización ordenada. Si retrasa el registro para buscar un diario bonito o abrir una aplicación, las señales creativas se evaporarán permanentemente. Ya sea en un recibo roto, un posavasos o el dorso de la mano, debe garabatear una palabra clave en el segundo exacto en que surge la inspiración.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿No es más rápido abrir una aplicación de notas en el móvil que buscar un papel y un lápiz?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿No es más rápido abrir una aplicación de notas en el móvil que buscar un papel y un lápiz?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Aunque la acción digital parezca más rápida, desbloquear una pantalla y ver notificaciones obliga al cerebro a procesar nuevos estímulos. Esto sobrescribe la frágil idea en su memoria de trabajo, haciendo que se evapore. Un lápiz físico y un trozo de papel no generan fricción cognitiva.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿No es mejor para la creatividad concentrarse al máximo y ejecutar las tareas domésticas meticulosamente?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿No es mejor para la creatividad concentrarse al máximo y ejecutar las tareas domésticas meticulosamente?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Desde la perspectiva de la creatividad, no. El Efecto de Incubación se maximiza cuando la corteza prefrontal suspende el juicio lógico y cae en un estado subconsciente. Por lo tanto, en lugar de abordar una receta compleja, realizar tareas rutinarias y automatizadas —como fregar— produce la mayor tasa de ideas novedosas.
     </p>
   </details>

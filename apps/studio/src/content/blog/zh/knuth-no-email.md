@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构高德纳“切断电邮”习惯背后阻断注意力切换成本的神经科学机制，并分享一套助现代知识型工作者逃离数字弹窗地狱、拉满脑力价值的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>高德纳官方声明《电子邮件与我（Email and I）》与斯坦福档案考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 高德纳官方声明《电子邮件与我（Email and I）》与斯坦福档案考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 如高德纳般彻底永久废弃电子邮件与即时通讯软件，在现代协作型组织中或许切合实际度较低。机制的核心绝非生硬一刀切，而在于遏制随时查阅的本能冲动、引入<strong>批量处理（Batch Processing）</strong>逻辑。在每日固定的1-2次集中统一回复窗口期之外彻底静音通知，捍卫大脑成块的连贯心流时间（Chunk of Focus）。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>如何就个人延迟查阅邮件的批处理时段向协作团队展开透明沟通、规避误解？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">如何就个人延迟查阅邮件的批处理时段向协作团队展开透明沟通、规避误解？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       在电子邮件自动回复器或即时通讯软件的个人状态栏中明确告示个人的工作节奏。附上一句温馨阐发：“为攻坚核心重磅项目，本人每日集中批量查阅邮件两次（11:00 与 16:00）。若遇极紧急事务，请直接拨打电话或联系紧急通道。”如此便可稳固团队预期，卸除沟通壁垒，精细建起认知保护屏障。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>高德纳作为泰斗方可决绝停用电邮，普通职场白领能否切合实际地等效复刻？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">高德纳作为泰斗方可决绝停用电邮，普通职场白领能否切合实际地等效复刻？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全可行！其神经科学底层机制对任何人均完全普适。无须彻底永久丢弃电邮，只需每日将短短1-2小时设定为“免打扰/静音”深度工作时间块，便足以极其显著地降解上下文切换损耗，捍卫宝贵的专注力。
     </p>
   </details>

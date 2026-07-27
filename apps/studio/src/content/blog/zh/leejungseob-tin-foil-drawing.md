@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构李仲燮在极度匮乏中破局并燃烧艺术创意的“银纸画”习惯背后的脑科学原理，并分享一套助现代人掌控情绪应激、切入纯粹创意心流的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>李仲燮传记与国立现代美术馆（MMCA）档案史料考证及认知神经科学（Cognitive Neuroscience）与艺术治疗学（Art Therapy）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 李仲燮传记与国立现代美术馆（MMCA）档案史料考证及认知神经科学（Cognitive Neuroscience）与艺术治疗学（Art Therapy）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 切勿以工具匮乏或环境差强人意为借口拖延行动，亦勿被动等候所谓的“完美准备”。即便是废弃的小块银纸或碎纸片，全情投入的触觉心流能量早已潜藏于您的体内。将心中的焦虑与噪点，完全托付给沿着指尖物理摩擦力蔓延舒展的线条中。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在银纸铝箔上刻画线条在科学原理上究竟如何平抚情绪压力？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在银纸铝箔上刻画线条在科学原理上究竟如何平抚情绪压力？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       因划刻金属箔纸表层时传导至大脑的独特物理摩擦感与声响，能饱满填充体感皮层反馈。这能于物理层面抑止杏仁核警报与无谓杂念反刍，将注意力死锁定格于当下眼前的视触觉感官中。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>若缺乏银纸铝箔与铁钉，使用普通纸张与圆珠笔能否等效替代？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">若缺乏银纸铝箔与铁钉，使用普通纸张与圆珠笔能否等效替代？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全可以！在卡纸或富具肌理感的高重纸张上，手持圆珠笔或蘸水笔施加较重笔压强行凹刻，纸张纤维凹陷会输出极清晰的指尖摩擦阻力感。机制的核心在于感受指尖传导的实体触觉反馈（Haptic Feedback），而非死磕于材料载体本身。
     </p>
   </details>

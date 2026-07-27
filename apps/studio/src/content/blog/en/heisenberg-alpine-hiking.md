@@ -31,14 +31,16 @@ Whenever his logical progress dead-ended, Heisenberg escaped into the pine fores
 
 In today's post, we dissect the cognitive neuroscience and environmental psychology behind Werner Heisenberg's 'Alpine hiking' routine and present a practical guide to trigger subconscious cognitive incubation.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical Verification from Werner Heisenberg's *Der Teil und das Ganze*, Bavarian Academy of Sciences Archives & Cognitive Neuroscience Research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical Verification from Werner Heisenberg's *Der Teil und das Ganze*, Bavarian Academy of Sciences Archives & Cognitive Neuroscience Research.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Prolonged focus on digital screens or numerical models drains prefrontal executi
 
 The single greatest obstacle during a contemplative forest hike is consuming digital content—listening to podcasts or checking email on a smartphone. Consuming screen information while outdoors continues to exhaust Directed Attention, completely blocking Attention Restoration and DMN Incubation. Switch your smartphone to Airplane Mode, immersing your awareness entirely in the ambient sounds of nature and the physical rhythm of your footsteps.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>How can I adapt this routine if I live in a dense city far from hiking trails?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">How can I adapt this routine if I live in a dense city far from hiking trails?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Substitute mountain trails with a 30-minute walk through an urban park, botanical garden, or tree-lined boulevard without your smartphone. Activating visuospatial sensory pathways and boosting cerebral perfusion via light walking remain the core mechanisms.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>What is the best way to capture ideas that surface during a hike without disrupting focus?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">What is the best way to capture ideas that surface during a hike without disrupting focus?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Carry a pocket notebook and pen to jot down key trigger words the moment an idea strikes. Alternatively, use a brief hands-free voice memo recorder so you can record insights instantly without interrupting your walking rhythm.
     </p>
   </details>

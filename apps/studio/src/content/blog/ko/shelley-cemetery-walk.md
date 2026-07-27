@@ -29,14 +29,16 @@ faqs:
 
 메리 셸리의 '공동묘지 산책' 루틴이 뇌에 선사하는 인지적 경외감과 심층적 상상력의 과학적 원리를 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>메리 셸리 자서전 및 문학사 기록 고증 & 환경심리학(Environmental Psychology) 경외감(Awe) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 메리 셸리 자서전 및 문학사 기록 고증 & 환경심리학(Environmental Psychology) 경외감(Awe) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,17 +91,17 @@ faqs:
 
 메리 셸리에게 공동묘지는 삶과 죽음을 성찰하는 안식처였습니다. 굳이 공동묘지가 아니더라도 일상의 간섭을 받지 않는 오래된 숲길이나 성당, 조용한 서원이나 도서관, 한적한 역사 유적지를 찾아보세요. 핵심은 세속적인 자극과 상업적 소음으로부터 완전히 분리된 공간을 뇌에 선사하는 것입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>왜 메리 셸리는 하필 어머니의 묘비를 찾았나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">왜 메리 셸리는 하필 어머니의 묘비를 찾았나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그녀의 어머니는 메리를 출산한 직후 세상을 떠났습니다. 어머니의 묘비는 메리가 어머니와 연결될 수 있는 유일한 물리적 장소였습니다. 그곳에 앉아 사색하며 탄생, 죽음, 정체성이라는 주제를 심층 탐구했고, 이는 소설 《프랑켄슈타인》의 핵심 주제가 되었습니다.
     </p>
   </details>

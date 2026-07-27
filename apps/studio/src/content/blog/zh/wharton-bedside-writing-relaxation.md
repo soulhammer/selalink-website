@@ -25,14 +25,16 @@ faqs:
 
 凭小说《纯真年代》（The Age of Innocence）成为首位荣获普利策奖的女性，伊迪丝·华顿在20世纪初美国文学史上屹立为独一无二的大师。她比任何人都更冷静细致地刻画上流社会繁复礼节背后的人性脆弱与虚伪。与她敏锐的作者视角不同，她每天清晨创作时选择的习惯却出奇地温暖而舒适。她直到临近正午的上午11点前绝不离开床榻，把心爱的狗狗放在被褥间，腿上垫着木板舒舒服服地靠着写作。本文将破译华顿通过让身体副交感神经彻底放松来诱发创作灵感的独特晨间习惯秘诀。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>伊迪丝·华顿历史传记与自传考证及认知神经科学研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 伊迪丝·华顿历史传记与自传考证及认知神经科学研究。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 在日常应用床头放松写作法时，易陷的误区是专注力散去直接转入再次入睡。若大脑过度放松产生慢波（Delta波）发困，将陷入毫无生产力的打盹状态。因此实操时应避免完全平躺，利用舒适靠枕将脊椎保持在45度至60度倾斜的半坐卧位（Semi-Fowler's Position）。房间温度保持微凉通畅，使身体柔和放松的同时，大脑感知维持在清晰觉醒的临界状态。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在床上工作会不会把卧室变成令人压抑的工作空间并引发失眠？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在床上工作会不会把卧室变成令人压抑的工作空间并引发失眠？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       这个界限至关重要。因此在床上必须彻底禁止分析性管理工作、日程协调、批判性邮件回复等“带压工作”。仅限于自己最喜欢的纯粹创意构思、初稿撰写、沉思日记等“愉悦放松的纯粹创作”，才能保护卧室的安全认知价值不被破坏。
     </p>
   </details>

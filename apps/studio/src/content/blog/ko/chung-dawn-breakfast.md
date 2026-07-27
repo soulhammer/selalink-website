@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 정주영 회장의 '새벽 기상, 가족 조식, 도보 출근' 루틴에 담긴 신경생리학적 원리를 규명하고, 현대인이 주도적으로 하루를 개시할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아산 정주영 자서전 『시련은 있어도 실패는 없다』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 아산 정주영 자서전 『시련은 있어도 실패는 없다』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 강박적인 새벽 기상이 성공을 담보하는 것은 아닙니다. 7 ~ 8시간의 필수 수면 총량이 보장되지 않은 상태에서 무리하게 기상 시간만 앞당기면 중추신경계 피로와 전전두엽 인지 기능 저하를 초래합니다. 기상 시간을 무조건 일찍 앞당기기 전에, 전날 저녁 취침 타임라인을 먼저 통제하여 충분한 수면 시간을 선제적으로 확보해야만 새벽 루틴의 생리학적 이점을 온전히 누릴 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>저녁형 인간(야행성)도 반드시 정주영 회장처럼 새벽 4시나 5시에 일어나야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">저녁형 인간(야행성)도 반드시 정주영 회장처럼 새벽 4시나 5시에 일어나야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 핵심은 '새벽 4시'라는 절대적 숫자가 아니라, 기상 후 스마트폰 정보 부하 차단, 아침 소통, 자연광 도보의 유기적 3단계 기제를 자신만의 기상 일정(예: 오전 6시 ~ 7시)에 맞춰 일관되게 적용하는 데 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>1인 가구라 아침에 식사를 함께 나눌 가족이 없을 때는 어떻게 적용하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">1인 가구라 아침에 식사를 함께 나눌 가족이 없을 때는 어떻게 적용하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       1인 가구의 경우, 아침 식사 중 차 한 잔을 마시며 거울 속 자신에게 긍정적인 말을 건네거나, 키우는 반려동물/식물과 교감하는 행동, 혹은 단골 카페의 바리스타와 다정한 안부 인사를 나누는 것만으로도 정서 안정과 옥시토신 분비 효과를 동일하게 얻을 수 있습니다.
     </p>
   </details>

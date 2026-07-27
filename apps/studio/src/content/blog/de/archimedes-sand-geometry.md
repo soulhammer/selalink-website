@@ -25,14 +25,16 @@ faqs:
 
 Archimedes, der Mathematiker und Physiker, der das Morgengrauen der antiken Wissenschaft mit geometrischen Figuren und Formeln erhellte. In jedem Moment weltverändernder Entdeckungen war er in ein bestimmtes Reflexionsritual vertieft. Er pflegte abstrakte Ideen, die ihm im Kopf herumgingen, sofort mit seinen Fingern oder spitzen Zweigen auf einer Sandfläche zu skizzieren. Selbst nach dem Baden und dem Einölen seines Körpers besaß er eine so extreme Visualisierungsgewohnheit, dass er seine eigene Haut als Leinwand nutzte, um geometrische Figuren zu zeichnen. Selbst im verzweifelten Moment, als Syrakus fiel und feindliche Soldaten einbrachen, war er so in die Lösung des geometrischen Dilemmas der im Sand gezeichneten Kreise vertieft, dass er die Klinge des Soldaten nicht bemerkte. Neurowissenschaftlich erforschen wir die Prinzipien, wie diese scheinbar geringfügige Skizzierbewegung das Gehirn entlastet und einen Zustand des Hyperfokus aufbaut.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historischer & Wissenschaftlicher Beleg
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Plutarchs *Life of Marcellus* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Dieser Inhalt basiert auf Historische Überprüfung aus Plutarchs *Life of Marcellus* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ Das menschliche Arbeitsgedächtnis hat strenge Grenzen bezüglich der Informatio
 
 Der wichtigste Punkt bei der Anwendung der Geometrieskizzen-Gewohnheit ist, nicht in Perfektionismus zu verfallen, der darauf abzielt, eine makellose und schöne Skizze zu zeichnen. Wenn man der Linienform oder Präzision zu viel Aufmerksamkeit schenkt, entsteht das Phänomen, dass kognitive Ressourcen des Gehirns an die Zeichenfertigkeit selbst verschwendet werden. Daher sollte das geometrische Skizzieren nur als Orientierungshilfe zur Ordnung von Informationen und zur Unterstützung der Konzentration genutzt werden, wobei das leichte Zeichnen auf dem Niveau einer unordentlichen, unvollständigen Skizze der Kern ist.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Können auch Personen, die überhaupt nicht zeichnen können, diese Gewohnheit nutzen?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Können auch Personen, die überhaupt nicht zeichnen können, diese Gewohnheit nutzen?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Ja, absolut. Archimedes' Skizziergewohnheit ist kein künstlerischer Zeichenakt, sondern eine kognitive Aufgabe, Denkstrukturen des Gehirns im äußeren Raum anzuordnen. Das bloße Zeichnen von Kreisen oder das Einrahmen von Text mit Quadraten und Verbinden durch Pfeile in Form von Kritzeleien entlastet das Arbeitsgedächtnis erheblich und zeigt eine deutliche Wirkung bei der Steigerung der Konzentration.
     </p>
   </details>

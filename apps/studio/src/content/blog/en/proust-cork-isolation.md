@@ -25,14 +25,16 @@ faqs:
 
 "In order to recall the past, one must flee from all the light and noise of the present world." Marcel Proust, the French novelist who revolutionized 20th-century literature and demonstrated unparalleled mastery of sensory description. Throughout his life, Proust suffered from severe chronic asthma and intense hyper-sensory noise sensitivity. Seeking refuge from the bustling Parisian streets, he transformed his bedroom at 102 Boulevard Haussmann into a soundproof fortress. Proust lined the entire bedroom walls with thick cork panels to completely block outside sounds. He drew heavy, layered curtains to block all daylight, writing his 7-volume literary monument 'In Search of Lost Time' (À la recherche du temps perdu) in bed illuminated only by dim candlelight. In this cocoon free of external distraction, a single delicate sensory cue—such as the aroma of a tea-soaked madeleine—could trigger an avalanche of vivid involuntary memories from deep within his subconscious. This post explores how Proust's cork sensory deprivation routine enhances memory recall and deep focus, and how modern individuals can adapt it to block out digital distractions.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical Biographies and Writings on Marcel Proust & Cognitive Neuroscience Research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical Biographies and Writings on Marcel Proust & Cognitive Neuroscience Research.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ By creating a physical cork soundproof room and dark environment like Proust, al
 
 The core of Proust's sensory control routine is enforcing an environment where distraction is impossible. In open environments like cafes or busy rooms, the brain continuously wastes energy processing background movements and noises. To achieve deep memory access, block incoming sensory inputs completely using noise-canceling headphones and dimmed lighting.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Does absolute noise cancellation cause psychological anxiety for some people?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Does absolute noise cancellation cause psychological anxiety for some people?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Depending on individual traits, complete silence can sometimes induce tinnitus or mild anxiety. In such cases, play subtle natural pink noise, like rainfall or wind. Meaning-free natural sounds relax the brain without burdening the thalamus.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Is working lying down in bed effective for focus?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Is working lying down in bed effective for focus?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Proust was forced to work in bed due to his debilitating asthma. For most people, the brain associates the bed with sleep, promoting drowsiness. For optimal focus, sit upright at an ergonomic desk and apply only his sensory-deprivation principles (dim lighting, sound isolation).
     </p>
   </details>

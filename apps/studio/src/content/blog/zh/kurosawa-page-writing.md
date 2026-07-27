@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构黑泽明导演“一日2页”习惯背后克制大脑阻力的神经科学原理，并分享一套助现代人在推演宏大计划时极小化大脑排斥感、拉满执行力的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>黑泽明自传《蛤蟆的油（Something Like an Autobiography）》与黑泽明档案考证及认知神经科学（Cognitive Neuroscience）与行为心理学（Behavioral Psychology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 黑泽明自传《蛤蟆的油（Something Like an Autobiography）》与黑泽明档案考证及认知神经科学（Cognitive Neuroscience）与行为心理学（Behavioral Psychology）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 若频频假想宏大项目的全貌体量，大脑必将承受严重的认知重压，极易导致尚未启动便破罐破摔放弃。务必将意识全情收拢定格于今天当下的单一微目标（如：撰写2页文案）中。相比于依赖脆弱的主观意志力，预设每日准点交出2页的物理规则，方是完满成就巨制的绝对本质。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>若单日硬性指标限定为区区2页，产出效能是否会过于缓慢沉闷？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">若单日硬性指标限定为区区2页，产出效能是否会过于缓慢沉闷？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝对并非如此。若初始目标摆设过于沉重，大脑常因启动阻力而无限期拖延，导致最终颗粒无收。以极小化目标每天为行动破冰解冻，坚持一年沉淀出的700余页体量，将蜕变为完稿2至3部电影剧本的惊人复利奇迹。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>除了写作之外，日常职场工作、软件开发或备考复习能否适用这套“2页”习惯？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">除了写作之外，日常职场工作、软件开发或备考复习能否适用这套“2页”习惯？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全普适！机制的核心决非死磕于字面上的“2页”具体数值，而在于将目标压缩至“大脑绝对觉察不到威胁极小微观单元”。无论是“撰写报告1个段落”、抑或“研读专业书2页”，极精微观切入均可斩获完全相同的平抚杏仁核应激与死锁执掌专注力效益。
     </p>
   </details>

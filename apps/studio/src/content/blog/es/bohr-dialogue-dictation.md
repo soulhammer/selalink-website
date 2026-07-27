@@ -31,14 +31,16 @@ Bohr utilizaba una rutina de contemplación singular para proyectar los complejo
 
 En la publicación de hoy, analizamos la ciencia cerebral de la 'escritura por dictado conversacional' de Niels Bohr y presentamos un plan práctico de 3 pasos para que las personas modernas concreten ideas ambiguas y activen la metacognición.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ El 'Lenguaje Interno (Inner Speech)' meramente mental suele ocultar saltos lógi
 
 La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas sin rumbo. Iniciar una discusión sin una pauta clara consume energía cognitiva y tiempo, desviando el objetivo de concretar ideas. Antes de hablar, declare explícitamente a su interlocutor la 'pregunta única y clara' que busca resolver, y establezca un bloque de tiempo enfocado de 15 a 20 minutos para mantener una tensión cognitiva constructiva.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Cómo puedo practicar esta rutina en un entorno solitario sin un compañero?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Cómo puedo practicar esta rutina en un entorno solitario sin un compañero?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Puede sustituirlo encendiendo la grabadora de voz o una aplicación de notas de voz por IA en su teléfono y hablando en voz alta como si le explicara a un oyente imaginario. El factor crucial no es la presencia física de un oyente, sino el proceso de estimulación cognitiva de convertir los pensamientos internos en lenguaje hablado externo para auditarlos nuevamente.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Cómo puedo convertir el contenido de la discusión oral en documentación escrita productiva?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Cómo puedo convertir el contenido de la discusión oral en documentación escrita productiva?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Recomendamos anotar de inmediato las intuiciones repentinas como palabras clave mientras habla, o utilizar herramientas de voz a texto (STT) para transcribir la sesión automáticamente, para luego reestructurar el texto preliminar en un esquema principal durante el trabajo profundo.
     </p>
   </details>

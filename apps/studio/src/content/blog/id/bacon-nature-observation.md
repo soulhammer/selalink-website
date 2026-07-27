@@ -29,14 +29,16 @@ Bacon adalah seorang pecinta taman yang gigih dan pengamat alam yang teliti. Set
 
 Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains tentang Teori Restorasi Perhatian (Attention Restoration) dan pemulaian ulang kelelahan otak yang terkandung dalam rutinitas 'jalan-jalan pengamatan taman pagi' Francis Bacon, serta menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk memulihkan perhatian dan menyegarkan otak dalam kehidupan sehari-hari.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Verifikasi Historis dari Esai Francis Bacon *Of Gardens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Verifikasi Historis dari Esai Francis Bacon *Of Gardens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ Tugas-tugas modern membutuhkan 'Perhatian Terarah (Directed Attention)' buatan, 
 
 Mengambil foto dengan smartphone, membalas pesan teks, atau mendengarkan podcast informatif saat berjalan terus menggunakan perhatian terarah otak. Untuk mendapatkan efek pemulihan perhatian, atur smartphone Anda ke mode hening dan isolasi secara total. Tenggelamkan diri Anda hanya dalam stimulasi sensorik luring (offline).
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah saya harus mempraktikkan kebiasaan ini setiap hari?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Apakah saya harus mempraktikkan kebiasaan ini setiap hari?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Ya, mempraktikkannya pada waktu yang tetap setiap hari memaksimalkan neuroplastisitas otak. Melakukan ini secara konsisten setiap hari pada waktu dan tempat yang tetap untuk memperkuat sirkuit neuroplastisitas (Neuroplasticity) otak adalah kunci sukses yang paling dapat diandalkan.
     </p>
   </details>

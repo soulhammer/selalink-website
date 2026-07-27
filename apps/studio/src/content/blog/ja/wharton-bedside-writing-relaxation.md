@@ -25,14 +25,16 @@ faqs:
 
 小説『エイジ・オブ・イノセンス（The Age of Innocence）』で女性として初めてピューリッツァー賞を獲得し、20世紀初頭のアメリカ文学史における不滅の巨匠として君臨したエス・ウォートン。上流社会の洗練された礼儀の裏に隠された人間の弱さと偽善を誰よりも冷徹かつ詳細に描いた小説家です。鋭い作家の眼光とは裏腹に、彼女が毎朝作品を執筆する際に選んだ習慣は妙なほど温かく安らぐものでした。彼女は正午近くの午前11時までベッドから絶対出ず、愛犬たちを布団の中に入れたまま、膝の上に板を載せて快適に寄りかかりながら文章を書きました。身体の副交感神経を完全にリラックスさせて創造的インスピレーションを誘導したウォートンの独創的な午前ルーティンの秘密を解明します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>エディス・ウォートン歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、エディス・ウォートン歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 ベッドの上のリラックス執筆法を日常に応用する際の落とし穴は、集中が解けてそのまま睡眠（二度寝）に陥ることです。脳が完全に弛緩してデルタ波が増え眠気が襲うと、生産性のない居眠り状態が続きます。そのため、完全に横になった姿勢を避け、クッション等を活用して背骨を45〜60度に起こした半坐位（Semi-Fowler's Position）を維持してください。部屋の温度はやや涼しく保ち、身体は弛緩させつつ脳の覚醒を鮮明に保つことが重要です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>ベッドで仕事をすると寝室が仕事のストレス空間に変わり、不眠症を引き起こしませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">ベッドで仕事をすると寝室が仕事のストレス空間に変わり、不眠症を引き起こしませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       その境界線は非常に重要です。そのためベッドの上では、分析的な管理業務、日程調整、批判的なメールの返信などの「ストレスの伴う業務」は一切遮断すべきです。自分が最も好きな純粋なアイディア構想や初稿の執筆、思索的な日記など「楽しくリラックスした純粋な創作」に限定してこそ、寝室の安全な認知的価値が損なわれません。
     </p>
   </details>

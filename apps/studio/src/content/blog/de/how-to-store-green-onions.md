@@ -29,13 +29,15 @@ Frühlingszwiebeln sind ein beliebtes Küchengemüse, aber ihr hoher Wassergehal
 
 Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Feuchtigkeit zu regulieren, Kraftverlust zu vermeiden und Ihre Frühlingszwiebeln über einen Monat lang knackig zu halten. 🛡️
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
       Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
@@ -45,32 +47,32 @@ Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeb
 
 ## 1. Wissenschaftlich geprüfter Lagerungsratgeber
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Raumtemperatur (5 Tage) 🌿</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Raumtemperatur (5 Tage) 🌿</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Wickeln Sie trockene, ungewaschene Frühlingszwiebeln locker in Zeitungspapier oder Einschlagpapier. 💡 Lagerungstipp: Stellen Sie sie mit den Wurzeln nach unten an einem kühlen, schattigen Ort (10–15 °C) aufrecht hin. Die aufrechte Lagerung entspricht der natürlichen Wuchsrichtung und zögert das Welken hinaus.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Gewaschene Zwiebeln trocknen und mit Küchenpapier aufrecht kühlen — Kühllagerung (14–21 Tage) 📦</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Gewaschene Zwiebeln trocknen und mit Küchenpapier aufrecht kühlen — Kühllagerung (14–21 Tage) 📦</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Gewaschene Frühlingszwiebeln müssen mit Küchenpapier vollkommen abgetrocknet werden. 💡 Lagerungstipp: Schneiden Sie grüne Blätter und weiße Stängel auseinander. Legen Sie Küchenpapier auf den Boden einer hohen Dose und lagern Sie die Zwiebeln mit den Wurzeln nach unten aufrecht im Gemüsefach (0–4 °C).
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hacken, Oberflächenfeuchtigkeit antrocknen lassen und einfrieren — Gefrierlagerung (180 Tage) ❄️</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Hacken, Oberflächenfeuchtigkeit antrocknen lassen und einfrieren — Gefrierlagerung (180 Tage) ❄️</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie sie vorab für das Gefrierfach. 💡 Lagerungstipp: Sofortiges Einfrieren gehackter Zwiebeln zerstört Zellwände und setzt Schleimstoffe frei. Lassen Sie gehackte Zwiebeln 10–15 Minuten bei Raumtemperatur antrocknen, bevor Sie sie in Gefrierbeuteln (-18 °C) einfrieren. Gefroren direkt verwenden.
   </p>
 </div>
@@ -79,47 +81,47 @@ Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeb
 
 ## 2. Wichtige Regeln und Warnhinweise zur Lagerung
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Frühlingszwiebeln niemals feucht luftdicht verschließen 💧</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Frühlingszwiebeln niemals feucht luftdicht verschließen 💧</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       Das Verlegen feuchter gewaschener Frühlingszwiebeln schließt Feuchtigkeit ein, was innerhalb eines Tages zu bakterieller Weichfäule und schleimigem Mucin führt. Vor dem Einpacken immer gründlich trocknen.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Grüne Blätter und weiße Stängel getrennt lagern 🧅</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Grüne Blätter und weiße Stängel getrennt lagern 🧅</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       Die hohlen grünen Blätter enthalten mehr Feuchtigkeit als die weißen Stängel und verfaulen daher viel schneller. Schneiden und trennen Sie beide Teile, um gegenseitigen Verderb zu verhindern.
     </p>
   </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Was ist der wissenschaftliche Grund dafür, Frühlingszwiebeln in Zeitungspapier aufrecht zu lagern?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Was ist der wissenschaftliche Grund dafür, Frühlingszwiebeln in Zeitungspapier aufrecht zu lagern?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Gemüse behält nach der Ernte seinen Wachstumsinstinkt (negativer Geotropismus). Werden Frühlingszwiebeln flach hingelegt, steigen Atmung und Zuckerverbrauch drastisch an, da die Pflanze versucht, sich aufzurichten. Das führt zu raschem Vergilben. Die aufrechte Lagerung schont die Nährstoffreserven und hält das Gemüse knackig.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wie kann man das Zusammenkleben und Schleimigwerden beim Einfrieren verhindern?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Wie kann man das Zusammenkleben und Schleimigwerden beim Einfrieren verhindern?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Beim Schneiden tritt aus den zerstörten Zellwänden ein pflanzlicher Schleimstoff (Mucin) aus. Wird das Gemüse sofort eingefroren, bildet das Wasser Eiskristalle, die den Schleim zu einem festen Klumpen verbinden. Wenn Sie die gehackten Zwiebeln 10–15 Minuten auf einem Brett antrocknen lassen, bevor Sie sie bei -18 °C einfrieren, bleiben die Stückchen rieselfähig.
     </p>
   </details>

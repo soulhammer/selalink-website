@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析保罗·狄拉克“静音漫步”习惯背后的脑科学原理，并为切断繁复数字与语言噪点、提炼高阶本质与直觉的现代人提供3步骤深度沉浸指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>格雷厄姆·法梅洛传记《怪人：保罗·狄拉克的隐秘生活（The Strangest Man: The Hidden Life of Paul Dirac）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 格雷厄姆·法梅洛传记《怪人：保罗·狄拉克的隐秘生活（The Strangest Man: The Hidden Life of Paul Dirac）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 在散步期间倾听播客、有声书、短视频原声或有声新闻，会强制大脑始终滞留于语法解析与有声解语模式中。这会延长左脑语言皮层的过载，并阻断切入静音沉思状态。若要贯彻狄拉克式习惯，请彻底让口舌与听觉语言电路下线休眠，仅接收脚步落地触感与风吟等非语言环境音，如此顶叶时空电路方能启动运转。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在噪音嘈杂的喧嚣市中心漫步，能否获得狄拉克静音散步的同等效果？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在噪音嘈杂的喧嚣市中心漫步，能否获得狄拉克静音散步的同等效果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全可以。决定性的核心并非环境的绝对屏息凝神，而在于“彻底阻断灌入双耳与口中的语言资讯（对话、播客或文本）”。即便置身于嘈杂的市中心，只要佩戴降噪耳机削减杂乱噪音、且绝不接纳任何语言有声媒体，同样能够获得同等的左脑松弛与顶叶激活效益。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在徒步期间突发绝妙灵感时，是否需要立即停下脚步手写记录？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在徒步期间突发绝妙灵感时，是否需要立即停下脚步手写记录？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       最好不要打断体感徒步的连贯沉浸节奏。若为了书写长篇大论而停下脚步，顶叶的时空运算电路与静音节律便会被切断。若迸发石破天惊的灵感，仅需在2秒内于微型手账或语音应用中极速摘录1个核心关键词，随后当即重返步伐与静音的节律中，待漫步完全收尾后再展开系统化的梳理。
     </p>
   </details>

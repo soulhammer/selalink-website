@@ -29,14 +29,16 @@ faqs:
 
 无论身处阿什拉姆（Sabarmati Ashram）修道院还是羁旅途中，甘地每天清晨4:00准时起身。一睁开眼，他便在寂静的缄默中展开长达1.5小时的深度冥想与祈祷（Prarthana），洗涤心智。随后，他每天均会抽出固定时间转动印度传统的“查尔卡（Charkha）”手摇纺车，纺出缕缕白棉线。这一举动既是对抗英国棉纺织品垄断、倡导自给自足（Swadeshi）的象征性运动，对于甘地本人而言，更是于外界翻云覆雨的大风大浪中守住内心静谧的最强心智修炼工具。在今天的文章中，我们将深度解构甘地“清晨纺车”习惯背后的脑科学原理，并分享一套助现代人同时达成松弛与高度沉浸的实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>马哈特玛·甘地自传《我体验真理的故事（An Autobiography: The Story of My Experiments with Truth）》与修道院档案考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 马哈特玛·甘地自传《我体验真理的故事（An Autobiography: The Story of My Experiments with Truth）》与修道院档案考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 对于现代人而言，购置一台正宗的印度传统查尔卡纺车几无可能。机制的核心不在于“纺车”这一特定物理道具，而在于“伴随指尖微观刺激的极简重复律动”。只需挑选一项调用手指精细触觉的10分钟重复仪式——如手写钢笔抄经/抄书、针织刺绣、传统茶道慢沏、乃至乐高积木拼搭，即可获取完全等同的神经科学益处。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>有哪些现代触觉动态冥想活动可以完美替代手摇纺车？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">有哪些现代触觉动态冥想活动可以完美替代手摇纺车？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       任何需要指尖精细控制的节律性手作均表现卓越。典型代表包括：万年笔手写抄录、沉静地进行针织/钩针、功夫茶/茶道慢沏、拼搭乐高或解谜拼图、以及手指鼓演奏等，在神经科学层面能触发完全相同的血清素释放通路。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在进行指尖律动手作期间，若频繁走神乱想或萌发杂念，该如何处理？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在进行指尖律动手作期间，若频繁走神乱想或萌发杂念，该如何处理？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝无必要因走神而自我苛责。只需不带评判地意识到杂念的存在，随后轻柔地将注意力拉回到“指尖触碰工具的材质质感与动作律动”上即可。这种不带情绪偏见重新拉回注意力的过程本身，乃是强健前额叶控制力的核心修炼。
     </p>
   </details>

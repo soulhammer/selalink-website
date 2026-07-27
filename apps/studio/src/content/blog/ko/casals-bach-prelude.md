@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 파블로 카살스의 '아침 바흐 연주 의식'에 담긴 음악 동조화(Musical Entrainment)의 뇌과학적 원리를 규명하고, 현대인이 기상 직후의 불안을 극복하고 완벽한 정서적 안정과 몰입 모드를 가동할 수 있는 3단계 아침 예열 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>파블로 카살스 자서전 『나의 기쁨과 슬픔(Joys and Sorrows)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 파블로 카살스 자서전 『나의 기쁨과 슬픔(Joys and Sorrows)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 아침 예열 음악 루틴을 구성할 때 가장 경계해야 할 것은 복잡하고 난해하거나 과도하게 빠른 비트, 혹은 불협화음이 강한 자극적인 음악을 선택하는 것입니다. 강렬한 록, 팝, 혹은 기교가 지나치게 화려한 고난도 피아노곡 연주는 뇌의 알파파 유도를 방해하고 오열하여 교감 신경계를 과도하게 자극, 기상 직후의 불안감과 인지 피로를 가중시킵니다. 바흐의 전주곡처럼 구조적으로 조화롭고 반복적이며 차분한 템포의 클래식이나 뉴에이지 음악을 선택해야 정서적 완충 효과가 발동합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>피아노나 첼로 같은 악기를 전혀 다루지 못하는 사람도 카살스의 아침 음악 루틴 효과를 누릴 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">피아노나 첼로 같은 악기를 전혀 다루지 못하는 사람도 카살스의 아침 음악 루틴 효과를 누릴 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 완벽히 동일한 인지 정화 효과를 누릴 수 있습니다. 직접 악기를 연주하는 것이 운동 피질을 추가로 자극하지만, 눈을 감고 소리의 진동과 결에 뇌를 맡기는 '능동적 경청(Active Listening)'만으로도 알파파 동조화가 충분히 일어납니다. 핵심은 음악을 단순히 배경음으로 흘려듣지 않고 10분간 소리의 미세한 변화에 온전히 주의를 쏟는 데 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>아침에 클래식 음악을 들을 때 헤드폰을 착용하는 것이 더 효과적인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">아침에 클래식 음악을 들을 때 헤드폰을 착용하는 것이 더 효과적인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 헤드폰이나 이어폰 착용은 외부 소음을 차단하는 오디오 격리(Acoustic Isolation) 환경을 만들어 주므로 뇌의 집중을 돕습니다. 또한 양쪽 귀로 들어오는 입체적인 음향 신호는 청각 피질의 수용 채널을 온전히 점유하여 무의식적 잡념의 침범을 차단하므로, 더 빠르게 알파파 동조화 상태에 진입하도록 만듭니다.
     </p>
   </details>

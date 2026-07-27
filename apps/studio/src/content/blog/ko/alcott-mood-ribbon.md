@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 올컷이 실천했던 집중 신호 루틴의 인지적 작동 원리와 현대인들이 몰입 환경 구축을 위해 이를 어떻게 응용할 수 있는지 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 집중 신호 표시물을 이용할 때 가장 중요한 것은 가족이나 동료들과의 사전 합의입니다. 사전 약속 없이 갑자기 불통의 문을 닫아걸면 타인에게 거부감을 줄 수 있습니다. '이 표시물이 노출된 1시간 동안만 긴급 연락을 보류해 달라'는 명확한 룰을 상호 간에 인지하고, 약속된 시간이 끝나면 즉시 표시물을 비활성화하여 소통 상태를 회복해야 긍정적인 루틴으로 자리 잡습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>소통에 방해된다고 주변 사람들이 이 신호 루틴을 싫어하면 어떻게 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">소통에 방해된다고 주변 사람들이 이 신호 루틴을 싫어하면 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       지나치게 긴 시간 동안 차단 신호를 켜두는 것은 피해야 합니다. 집중 시간을 최대 50분 ~ 1시간으로 제한하고, 그 외의 시간에는 언제든 대화가 가능하다는 점을 적극적으로 실천해 신뢰를 주는 것이 중요합니다.
     </p>
   </details>

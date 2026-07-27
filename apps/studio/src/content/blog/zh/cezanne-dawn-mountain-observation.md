@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析保罗·塞尚“晨间自然光观察与结构凝视”习惯背后的脑科学原理，并为消除日常认知疲劳、激发顶级专注力与感官敏锐度的现代人提供3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>亚历克斯·丹切夫传记《塞尚传（Cézanne: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 亚历克斯·丹切夫传记《塞尚传（Cézanne: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 在执行晨间观察习惯时，务必避免佩戴太阳镜或边看手机屏幕边步行。太阳镜片会阻挡ipRGCs接收特定的蓝光波段，从而抑制视交叉上核（SCN）重置生物节律的功能。此外，如果在步行时将视线投向手机屏幕的人工光线与浮躁文本，会导致视觉皮层陷入狭窄视域的“认知隧道效应（Cognitive Tunneling）”，使放松觉醒效果化为乌有。晨间观察时，务必保持裸眼、敞开开阔视野，让纯粹的自然光直接投射入眼。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>遇到阴雨天或空气质量不佳的大雾天，是否依然需要前往户外观察？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">遇到阴雨天或空气质量不佳的大雾天，是否依然需要前往户外观察？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       即便是在阴天，户外的光照强度平均仍可达1,000-2,000勒克斯（lux）以上，远高于常规室内照明（300-500勒克斯）。因此在阴雨天前往户外漫步，同样能够获得抑制褪黑素与唤醒大脑的效果。不过在空气污染极其严重的极恶劣天气下，可用站在阳台或大敞开的窗前凝视户外的“窗前观察法”来进行替代。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>非绘画专业的普通上班族或知识工作者，也能从塞尚的视觉观察习惯中获益吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">非绘画专业的普通上班族或知识工作者，也能从塞尚的视觉观察习惯中获益吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，能获得极佳的效果。通过晨间自然光暴露来校准生物节律，不论从事何种职业，都能清空前额叶皮层的认知疲劳，顺畅启动注意力执行功能。此外，精细观察物体轮廓与明暗对比的训练，能扩展大脑的时空工作记忆（Visuospatial Working Memory）容量，从而在撰写策划方案、进行数据分析以及多维破解复杂商业难题时提供强效的认知杠杆。
     </p>
   </details>

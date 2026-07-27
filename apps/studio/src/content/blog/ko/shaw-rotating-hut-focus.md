@@ -25,14 +25,16 @@ faqs:
 
 피그말리온, 인간과 초인 등으로 유명한 노벨문학상 극작가 조지 버나드 쇼. 그는 위트 있고 신랄한 언어로 전 세계를 감탄시켰지만, 정작 글을 쓸 때는 소름 끼칠 정도로 집요하고 엄격했습니다. 그는 일과 시간 동안 타인의 개입을 철저히 막기 위해 에이엇 세인트 로렌스에 위치한 정원 구석에 본인 전용의 작은 목조 오두막을 직접 건립했습니다. 이 오두막은 수동으로 기어 장치를 돌리면 360도 회전할 수 있는 특수한 메커니즘을 가졌습니다. 버나드 쇼는 태양이 이동함에 따라 오두막을 회전시켜 온종일 풍부한 자연광을 쬐었습니다. 또한 비서에게 런던으로 출장 갔다고 말하게 하여 사람들의 추적을 피했습니다. 정적인 고립과 자연광을 결합한 그의 독창적 집중 비결을 심리학적으로 풀어냅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Shaw Rotating Hut Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Shaw Rotating Hut Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 물리적 차단 습관을 적용할 때 주의할 점은, 고립된 공간에 스마트폰과 소셜 미디어(SNS) 알림을 그대로 들고 들어오는 것입니다. 밖에서 오는 물리적 차단이 완성되더라도 내 손안에 가상의 방해 요인(스마트폰 알림)이 살아있다면 뇌는 끊임없이 무의식적인 확인 욕구에 사로잡혀 동일한 다중 작업(Multi-tasking) 상태에 빠지게 됩니다. 따라서 고립 지대에 진입할 때는 메인 PC나 스마트폰의 알림을 완전히 비활성화(방해 금지 모드)해야 합니다. 오직 오프라인 상태나 단일 집중용 프로그램만을 켜둔 채 작업하는 진정한 의미의 디지털 디톡스가 병행되어야 고립 오두막 효과를 온전히 경험할 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>집에 방이 하나뿐이고 가족이 함께 있어 물리적인 고립실을 만들기 어렵다면 어떻게 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">집에 방이 하나뿐이고 가족이 함께 있어 물리적인 고립실을 만들기 어렵다면 어떻게 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       물리적 방 분리가 어렵다면 노이즈 캔슬링 헤드폰을 착용하고 잔잔한 백색소음이나 모차르트 음악을 들으며 '가상의 사운드 벽'을 세우십시오. 또한 책상 위에 '방해 금지 표시판'을 놓거나, 이른 새벽 시간대를 활용해 가족이 깨어나기 전 나만의 단독 2시간 고립을 선확보하는 전략이 효과적입니다.
     </p>
   </details>

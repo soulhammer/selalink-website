@@ -29,14 +29,16 @@ faqs:
 
 今日の記事では、アグネス・マーティンの椅子待機儀式が脳の情報処理過負荷をどのように制御するかを解明し、現代のナレッジワーカーが一日の開始前に脳のメモリ空間を完璧に洗浄し創造的直感を増幅させる3段階の実践プランをご提案します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>アグネス・マーティンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、アグネス・マーティンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 静寂待機中に脳を空っぽにしようと焦るあまり、逆効果として「雑念との戦争」に陥らないよう注意が必要です。浮かんでくる思考を無理に抑え込もう（Suppression）とすると、脳はかえってその思考に強く執着してしまいます。これを心理学では「リバウンド効果（Rebound Effect）」と呼びます。思考が浮かんだ時は無理に消そうとせず、流れる雲を眺めるように「ああ、こんな考えが浮かんでいるな」とドライに認め、再び呼吸の柔らかい流れへと注意の錨を戻すマインドフルネス（Mindfulness）の姿勢が必要です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>時間の少ない社会人は何時間も瞑想できませんが、マーティンのルーティンを現実的にどう短縮すればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">時間の少ない社会人は何時間も瞑想できませんが、マーティンのルーティンを現実的にどう短縮すればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       アグネス・マーティンのように何時間も瞑想する必要はありません。たった5分間だけでも作業を開始する前に「意図的な停止（Intentional Pause）」を持つことで十分です。出社直後PCの電源を入れる前、目を閉じて深呼吸を3回繰り返し、「今日自分が集中すべき最高の本質は何か？」と一回思い起こしてから仕事を始めるだけで、脳のノイズを画期的に清掃するメタ認知的チューニングを達成できます。
     </p>
   </details>

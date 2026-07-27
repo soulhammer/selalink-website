@@ -31,14 +31,16 @@ Buffett sangat percaya bahwa pengetahuan beroperasi di bawah hukum bunga bergand
 
 Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'membaca 500 halaman harian' Warren Buffett—menjelajahi neuroplastisitas dan cadangan kognitif—dan menyajikan panduan praktis 3 langkah bagi masyarakat modern untuk menggandakan pengetahuan mereka dalam kehidupan sehari-hari.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Alice Schroeder *The Snowball: Warren Buffett and the Business of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Verifikasi Historis dari Biografi Alice Schroeder *The Snowball: Warren Buffett and the Business of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Studi neurosains mengungkapkan bahwa membaca mendalam mempercepat mielinisasi di
 
 Inti dari rutinitas bunga berganda pengetahuan Buffett bukanlah pemindaian pasif yang bertujuan pada kecepatan. Membaca cepat tanpa refleksi kritis gagal merangsang pemetaan ulang saraf. Bahkan jika Anda hanya membaca 10 halaman, membaca mendalam yang mengevaluasi logika sebab-akibat secara kritis adalah hal yang paling utama. Lebih jauh lagi, daripada membaca secara berlebihan sesekali, mempertahankan kebiasaan harian menjauhkan gangguan digital untuk berfokus pada teks cetak selama bertahun-tahun adalah katalis mendasar yang memicu bunga berganda pengetahuan.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah ada cara realistis bagi profesional yang sibuk untuk mencapai volume harian 500 halaman ala Warren Buffett?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Apakah ada cara realistis bagi profesional yang sibuk untuk mencapai volume harian 500 halaman ala Warren Buffett?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Memulai dengan 500 halaman sekaligus tidaklah praktis. Volume Buffett dibangun di atas adaptasi neuroplastik bertahun-tahun. Tujuannya bukanlah jumlah halaman mutlak, melainkan konsistensi kebiasaan kognitif—membaca secara mendalam selama 20 hingga 30 halaman setiap hari. Mendedikasikan 30 menit tepat setelah bangun tidur atau selama perjalanan akan melipatgandakan daya kognitif intelektual yang masif setelah beberapa tahun.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Apakah e-book atau audiobook memberikan efek bunga berganda pengetahuan yang sama dengan buku kertas fisik?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Apakah e-book atau audiobook memberikan efek bunga berganda pengetahuan yang sama dengan buku kertas fisik?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       E-book pada pembaca E-Ink khusus adalah alternatif yang sangat baik untuk membaca mendalam berbasis teks. Namun, layar smartphone atau tablet berisiko mengalihkan perhatian prefrontal melalui notifikasi. Audiobook cenderung pada penerimaan pasif dan tidak melibatkan sirkuit pemrosesan analitis secara kuat seperti membaca mendalam. Untuk membangun skema intelektual yang kokoh, jadikan membaca mendalam berbasis teks sebagai media utama Anda sambil menggunakan audiobook sebagai pelengkap sekunder.
     </p>
   </details>

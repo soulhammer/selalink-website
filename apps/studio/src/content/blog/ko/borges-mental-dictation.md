@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 보르헤스를 불멸의 작가로 만든 '내면 구술 및 3D 공간 시각화' 루틴의 뇌과학적 원리를 분석하고, 현대 지식 노동자들이 작업 기억 용량과 집중력을 극대화할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에드윈 윌리엄슨 평전 『보르헤스 평전(Borges: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 에드윈 윌리엄슨 평전 『보르헤스 평전(Borges: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 보르헤스식 시각화 루틴의 핵심은 글자 스펠링이나 폰트를 눈앞에 그대로 복기하는 것이 아닙니다. 기획과 아이디어의 핵심 요소들이 서로 어떻게 연결되고 결합하는지 '3차원적인 뼈대 구조(마인드맵, 입체 오르가노그램, 미로 지형)'를 그리는 것입니다. 지호적인 문자 복기가 아닌 추상적인 인과 관계와 유기적 구조에 집중해야 시공간 작업 기억의 가소성 단련 효과를 온전히 얻을 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>머릿속으로 시각화를 하려고 하면 자꾸 이미지가 깨지고 흐려지는데 팁이 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">머릿속으로 시각화를 하려고 하면 자꾸 이미지가 깨지고 흐려지는데 팁이 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       매우 자연스러운 신경학적 현상입니다. 처음에는 세부적인 그림을 선명하게 그리려 하기보다 단순한 상자나 원 2 ~ 3개를 그리고 그 사이를 선으로 연결하는 아주 간단한 추상적 모형부터 시작하세요. 훈련이 거듭될수록 뇌의 시공간 작업 기억 해상도가 높아집니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>눈을 감고 3D 시각화를 하는 습관이 기획이나 코딩 등 실무에 실제로 도움이 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">눈을 감고 3D 시각화를 하는 습관이 기획이나 코딩 등 실무에 실제로 도움이 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 큰 도움이 됩니다. 숙련된 시스템 아키텍트나 기술 기획자들은 코드를 작성하거나 문서를 쓰기 전 전체 시스템 컴포넌트 간 유기적 데이터 흐름과 의존성을 머릿속 공간에서 먼저 모델링합니다. 머릿속 시각화 훈련은 복잡한 논리 구조를 왜곡 없이 유지·조합하는 전전두엽 작업 기억력을 비약적으로 발달시킵니다.
     </p>
   </details>

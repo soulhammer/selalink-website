@@ -29,14 +29,16 @@ faqs:
 
 기억의 주관적 왜곡과 사후 각색을 원천 봉쇄했던 미드의 즉각 기록 메커니즘은 현대 뇌과학의 '인지 오프로딩(Cognitive Offloading)'과 완벽히 일치합니다. 오늘 포스트에서는 마가렛 미드의 현장 메모 루틴 속에 담긴 작업 기억 보호와 편향 방지의 과학을 분석하고, 현대인이 왜곡 없는 데이터 수집과 객관적 인지 정리를 달성할 수 있는 3단계 실천 가이드를 제안합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마가렛 미드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 마가렛 미드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 즉각 기록 습관을 실천할 때 흔히 저지르는 실수는, 완벽한 문장이나 깔끔한 보고서 형태로 정돈하여 적으려 하는 것입니다. 기록 과정에서 철자나 문맥, 정리를 지나치게 의식하면 뇌는 다시 언어 문법 및 교정 필터를 돌리느라 찰나의 날것 데이터를 가공하고 변형해 버립니다. 즉각 메모 시에는 오직 날것의 키워드, 어조, 핵심 사실만 빠르게 휘갈겨 적어야 하며, 예쁜 문장으로 다듬는 일은 주말이나 퇴근 직전의 '정리 단계'로 완벽히 분리해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">수첩 대신 스마트폰 메모 앱을 사용해도 무방한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       가능합니다. 다만 스마트폰을 사용할 때는 다른 앱의 알림(메시지, SNS 등)에 주의를 빼앗기지 않도록 방해 금지 모드를 켜거나, 첫 화면에 바로 메모를 띄울 수 있는 위젯을 설정하여 기록 시간의 지연을 최소화해야 합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>녹음기를 켜두고 나중에 모아서 적는 방법은 어떤가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">녹음기를 켜두고 나중에 모아서 적는 방법은 어떤가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       전체 녹음은 기록 누락을 줄여주지만, 나중에 수 시간을 다시 들어야 해서 작업 기억에 과부하를 줍니다. 관찰이나 회의 중 결정적인 순간에 핵심 키워드 중심의 손 기록을 병행하는 것이 뇌 신경 활성 및 정보 구조화에 더 효과적입니다.
     </p>
   </details>

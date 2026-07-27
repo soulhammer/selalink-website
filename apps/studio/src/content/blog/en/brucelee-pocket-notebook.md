@@ -31,14 +31,16 @@ Bruce Lee carried a palm-sized black leather pocket notebook and pen everywhere�
 
 In today's post, we analyze the brain science underlying Bruce Lee's 'immediate pocket notebook recording' routine and present a 3-step practical action plan for modern individuals to capture fleeting daily thoughts and convert them into actionable growth fuel.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical Verification from John Little's Biography *Bruce Lee: Artist of Life* & Cognitive Neuroscience Research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical Verification from John Little's Biography *Bruce Lee: Artist of Life* & Cognitive Neuroscience Research.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Human brains process millions of sensory inputs daily, yet cognitive filters era
 
 The cardinal rule of pocket notebook recording is speed—touching pen to paper within 5 seconds of an emerging inspiration. Do not hesitate by attempting to format neatly, structure paragraphs, or refine penmanship. The moment you worry about formal organization, executive prefrontal filters intervene and the spark evaporates. Even a few scribbled words, bullet fragments, or unrefined phrases suffice to anchor the mental spark for later synthesis.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Does recording voice notes on a smartphone yield the same cognitive benefits as paper notebooks?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Does recording voice notes on a smartphone yield the same cognitive benefits as paper notebooks?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Yes, voice recording is an excellent method for rapidly offloading working memory. However, text-based formats are far superior for later visual scanning and prefrontal structuring. If using voice memos, we recommend pairing them with automated Speech-to-Text (STT) features to archive notes as searchable text data.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>I write down notes but often forget to review them later. How can I fix this?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">I write down notes but often forget to review them later. How can I fix this?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Note-taking achieves value when notes are re-audited and paired with real-world action. Set a recurring smartphone alarm or anchor a '1-minute scan routine' to existing habit triggers—such as right before morning coffee or work start—to mechanically review yesterday's notebook entries for just 60 seconds.
     </p>
   </details>

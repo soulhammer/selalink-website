@@ -31,14 +31,16 @@ faqs:
 
 육체적 불편함 속에서도 지적 몰입을 멈추지 않았던 그의 수첩 메모 습관은, 현대 뇌생리학과 인지 심리학 측면에서도 독창적인 생각의 연결고리를 설계하는 가장 과학적인 생각 포착 기법입니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 이동 시간 동안 소셜 미디어를 보거나 모바일 게임에 시각을 빼앗기는 행위는 뇌의 창의적 배양 기회를 완전히 박살 냅니다. 고자극 디지털 인풋은 알파파 상태를 즉시 무력화합니다. 모빌리티 사색을 활성화하려면 가끔 창밖의 흘러가는 풍경을 멍하니 쳐다보며 생각이 마음껏 떠돌아다니도록 놔두고, 수첩을 손에 쥔 채 대기하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10 ~ 20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 얼마든지 대체 가능합니다. 핵심은 매체의 종류가 아니라 '이동 중 고자극 콘텐츠(숏폼, SNS, 게임)의 유입을 차단하고 뇌에 사색할 여백을 주는 것'입니다. 화면 알림을 차단한 오프라인 메모 앱이나 음성 녹음 기능도 훌륭한 현대식 이동용 수첩이 됩니다.
     </p>
   </details>

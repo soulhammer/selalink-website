@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析大仲马“色彩切换”习惯背后的科学原理，并为在繁重多任务环境中提升认知专注力的现代人 provide 3步骤实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>大仲马自传《我的回忆录（Mes Mémoires）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 大仲马自传《我的回忆录（Mes Mémoires）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 对大仲马而言，有色纸张绝非装点风雅的玩物，而是一套在脑海中划定刚性认知界限、摧毁切换阻力的灵巧神经辅助工具。切无将任务分类过于碎片化并使用多于5种色彩，这会导致大脑无法对色彩与工作状态达成关联学习（Associative Learning），反而引发视觉彩噪与认知过载。将核心任务大类严加精简至3种或以下，并在相当长的时间战线里一致保持专属配色主题，如此方能构建起可靠的神经条件反射。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>相比于模拟纸笔，在数字应用（如Notion、平板手写软件、浏览器主题）中划分颜色是否具备相同的心理引发效果？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">相比于模拟纸笔，在数字应用（如Notion、平板手写软件、浏览器主题）中划分颜色是否具备相同的心理引发效果？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全具备同等效果。机制的核心并不取决于纸张质感，而在于“投向视觉皮层的色彩信号与特定认知状态间所构建的条件反射”。只需在平板手写软件中切换底纹背景色、在Notion工作区设定区分主题，或为Chrome界面匹配专属配色，前额叶皮层便能接收到完全相同的心理引发信号。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>将颜色细分成太多种并频繁转换，会不会适得其反引发大脑混乱与认知过载？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">将颜色细分成太多种并频繁转换，会不会适得其反引发大脑混乱与认知过载？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全正确。为了使大脑在色彩与特定的认知模式间达成有机的关联绑定，持续且一致的条件反射训练不可或缺。若呈乱麻般混用5种以上的颜色，大脑会将其判定为视觉噪点，从而导致心理引发机制彻底崩溃。务必将核心任务分类精简至2-3种或以下，并在相当长的时间内锁定专属代表色，如此方能将神经利益拉至最大。
     </p>
   </details>

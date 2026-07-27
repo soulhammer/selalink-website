@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、ポール・セザンヌの「朝の自然光観察および構造凝視」ルーティンに秘められた脳科学的作動原理を分析し、現代人が日常の認知疲労を解消し最上の集中力と感覚敏感度を誘導できる3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>アレックス・ダンチェフ伝記『Cézanne: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、アレックス・ダンチェフ伝記『Cézanne: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 朝の観察習慣を行う際、必ず避けなければならないのはサングラスを着用したり、スマートフォンの画面を見ながら歩くことです。サングラスのレンズは網膜のipRGCsへと流入する特定波長の青色光を遮断し、視交叉上核（SCN）の体内リズムリセット作用を阻害します。また歩行中スマートフォンの人工的な光と表面的なテキストに視線を奪われると、視覚皮質が狭い領域に閉じ込められる認知トンネリング（Cognitive Tunneling）現象が発生し、弛緩覚醒効果が完全に消失します。朝の観察時には裸眼で視野を広く開き、自然の光を直接受容しなければなりません。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>微小粒子状物質（PM2.5）が酷かったり雨が降って曇った日でも屋外に出て観察すべきですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">微小粒子状物質（PM2.5）が酷かったり雨が降って曇った日でも屋外に出て観察すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       曇りの日でも屋外の光量は平均1,000〜2,000ルクス（lux）以上で、一般的な室内照明（300〜500ルクス）よりはるかに明るいです。したがって、曇りの日でも外を歩くだけでメラトニン遮断と覚醒効果を十分に得ることができます。ただし、大気の状態が極端に悪い時は、屋外散歩の代わりにベランダや大きな窓のすぐ前に立って外を凝視する窓辺観察で代替してください。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>画家ではない一般の会社員や知的労働者も、セザンヌの視覚観察ルーティンの効果を得ることができますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">画家ではない一般の会社員や知的労働者も、セザンヌの視覚観察ルーティンの効果を得ることができますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、非常に大きな効果を得ることができます。朝の自然光露出を通じた体内時計の整列は、職種に関係なく前頭前野の認知疲労を洗い流し、注意の執行機能をスムーズに稼働させます。また物体の形態と明度を注意深く注視する観察訓練は、脳の時空間作業記憶（Visuospatial Working Memory）容量を増やし、企画書の作成、データ分析、複雑なビジネス問題を立体的に把握するのに強力な認知的利点を提供します。
     </p>
   </details>

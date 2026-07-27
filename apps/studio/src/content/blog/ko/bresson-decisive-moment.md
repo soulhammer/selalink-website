@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 앙리 카르티에 브레송의 '기하학적 조화 및 찰나 주시' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 일상의 매너리즘에서 벗어나 주의 집중력과 창의적 관찰력을 극대화할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앙리 카르티에 브레송 사진집 『결정적 순간(Images à la sauvette / The Decisive Moment)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 앙리 카르티에 브레송 사진집 『결정적 순간(Images à la sauvette / The Decisive Moment)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 이 관찰 훈련의 목적은 단순히 SNS 업로드용 사진을 많이 모으는 것이 아닙니다. 렌즈 너머의 기하학적 구도와 눈앞의 현실, 그리고 내면의 정신적 균형을 하나로 일치시키는 '지연된 주의력(Delayed Attention)' 훈련 그 자체에 목적이 있습니다. 무의미하게 연사 셔터를 연속으로 누르는 습관을 버리고, 시각적 요소들이 완전히 결합하는 찰나가 올 때까지 5초 이상 숨을 죽이고 기다리는 정적 고도의 집중 상태를 연습해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>시각 관찰 훈련을 할 때 프레임 안에 인물이 반드시 포함되어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">시각 관찰 훈련을 할 때 프레임 안에 인물이 반드시 포함되어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 건물 벽면에 드리운 전신주 그림자의 각도, 정갈한 책상 위 유리컵을 통과한 빛줄기 등 무생물이 만들어내는 기하학적 형태와 빛의 경계만으로도 똑같이 예리한 시각 피질 활성화 훈련이 가능합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>사진을 촬영한 뒤 필터로 보정하거나 트리밍(잘라내기)을 해도 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">사진을 촬영한 뒤 필터로 보정하거나 트리밍(잘라내기)을 해도 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       브레송은 인위적인 후보정과 트리밍을 극도로 배제했습니다. 셔터를 누르는 '현장 직관의 순간'에 완벽한 구도를 구성하려 노력할 때 뇌의 찰나적 인지 판단력이 최대로 단련되므로, 찍은 그대로 보존할 것을 강력히 권장합니다.
     </p>
   </details>

@@ -25,14 +25,16 @@ faqs:
 
 西洋哲学の巨大な礎 築き、イデア論を唱え、人類史上初の高等教育機関「アカデメイア」を設立した偉大な哲学者プラトン。本名をアリストクレス（Aristocles）といった彼は、アルゴスのアリストンからレスリングを学び、オリンピアやイストミアの競技会に出場するほどの優れたレスラーでした。「プラトン」という名前も、ギリシャ語で「広い肩」を意味するレスリングのニックネームに由来します。彼は生涯を通じて毎朝、知的討論を始める前に体にオリーブオイルを塗り、体育館（ギムナシオン）で激しいレスリングと筋力トレーニングを行いました。プラトンは、肉体が の物理的抵抗を経験して鍛えられて初めて、脳の神経系が高度の抽象的なイデアの世界を議論する準備が整うと考えていました。本記事では、プラトンの「高強度身体ウォーミングアップ」ルーティンの生理学的メカニズムと現代人のための15分ホームトレーニング応用方法を解説します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>プラトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、プラトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,27 +85,27 @@ faqs:
 
 朝起きてすぐ、体がほぐれていない状態で急に高強度運動を始めると、関節や靭帯に負担がかかる可能性があります。そのため、本格的な自重トレーニングを始める前に、軽いストレッチやその場歩きで関節をほぐしてください。また、運動終了後に15分以上休んでしまうと運動で得られた脳血流ピークの恩恵が失われるため、呼吸が整った直後（5分以内）に最も複雑な頭脳 me 作業に入ることが望ましいです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>関節が弱い人や抵抗運動の経験がない初心者でも可能ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">関節が弱い人や抵抗運動の経験がない初心者でも可能ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、無理に重いバーベルを持ち上げたり怪我のリスクが高い運動をしたりする必要はありません。自分の体力に合わせて壁を使ったプッシュアップ、スロースクワット、または軽いプランクなどで強度を下げて実践できます。脳血流を高めるための生理的 me 指標は「呼吸が上がり軽い汗が出る程度の強度」ですので、怪我のない安全な範囲で強度を調整してください。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>筋力運動の代わりに軽いジョギングやランニングなどの有酸素運動に代替してもいいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">筋力運動の代わりに軽いジョギングやランニングなどの有酸素運動に代替してもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       ジョギングなどの有酸素運動も脳血流の増加に良い影響を与えますが、脳神経成長因子であるBDNFの即座の大量分泌誘導においては、高強度の短い抵抗運動の方がより即効性のある大脳覚醒効果を示します。有酸素運動を活用する場合は、平地を歩く程度ではなく、軽い坂道スプリントやインターバルランニングのように短く激しく呼吸を追い込む区間を含めることがプラトンの認知準備効果に合致します。
     </p>
   </details>

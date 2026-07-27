@@ -25,14 +25,16 @@ faqs:
 
 도형과 수식으로 고대 과학의 새벽을 밝힌 수학자이자 물리학자 아르키메데스. 그는 세상을 바꾼 위대한 발견의 순간마다 특정한 사색 의식에 잠겨 있었습니다. 그는 머릿속에 맴도는 추상적인 아이디어를 손가락이나 뾰족한 가지로 모래판 위에 즉시 그려내곤 했습니다. 심지어 목욕 후에 몸에 기름을 바른 상태에서도 자신의 피부를 캔버스 삼아 기하학 도형을 그릴 만큼 극단적인 시각화 습관을 지니고 있었습니다. 시라쿠사가 함락되고 적군이 들이닥치는 절체절명의 순간에도 모래 위에 그린 원의 기하학적 난제를 푸느라 병사의 칼날을 눈치채지 못했을 정도였습니다. 뇌과학적으로 이 사소해 보이는 스케치 동작이 뇌의 부담을 덜고 초몰입 상태를 구축하는 원리를 탐구합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플루타르코스 『영웅전(Life of Marcellus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 플루타르코스 『영웅전(Life of Marcellus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 기하학 스케치 습관을 적용할 때 주의해야 할 점은 완벽하고 예쁜 스케치를 그리려는 완벽주의에 빠지는 것입니다. 선의 형태나 정밀도에 지나치게 신경을 쓰면 뇌의 인지 리소스가 그림 솜씨 자체에 낭비되는 주객전도 현상이 발생합니다. 따라서 기하학 스케치는 정보의 정돈과 뇌의 집중을 돕는 가이드용으로만 사용해야 하며, 지저분하고 완성되지 않은 낙서 수준으로 가볍게 그려나가는 것이 핵심입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>그림을 전혀 못 그리는 사람도 이 습관을 활용할 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">그림을 전혀 못 그리는 사람도 이 습관을 활용할 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그렇습니다. 아르키메데스의 스케치 습관은 예술적인 작화 행위가 아닌, 뇌의 생각 구조를 외부 공간에 배치하는 인지적인 작업입니다. 단순히 동그라미를 그리거나, 텍스트에 네모 상자를 치고 화살표로 연결하는 낙서 형태의 시각화만으로도 뇌의 작동 기억 부담을 크게 덜어주어 집중력 향상에 확실한 효과를 냅니다.
     </p>
   </details>

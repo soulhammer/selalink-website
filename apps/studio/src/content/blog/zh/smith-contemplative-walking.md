@@ -27,14 +27,16 @@ faqs:
 
 奠定现代经济学理论基础、阐明自由市场经济“看不见的手”的思想家亚当·斯密。在他深刻洞察力的背后，有着一项终生保持的独特习惯。每当斯密需要梳理复杂的思想体系时，他就会在花园或幽静的小路上漫无目的地踱步。有一天清晨他在花园散步，因极度沉浸于思考，竟完全忘记自己身穿睡袍（Nightgown），一连走了 15 英里（约 24 公里）一直走到隔壁小镇。直到听见教会的钟声响起，他才如梦初醒折返回家。今天我们将详细解构亚当·斯密通过沉思散步刺激大脑组装复杂因果关系并推演创造性思想的运作机制。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 沉思散步最大的陷阱是在行走时查看手机或听音乐、播客。当听觉或视觉刺激持续注入大脑时，大脑就无法切换至预设模式网络（DMN），而是重回刺激处理模式。因此，进行沉思散步时，务必摘下耳机，除了周围的自然声音外，不接纳任何人工刺激，这样才能实现真正的大脑整理与换气。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>沉思散步的合适距离或时长大概是多少？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">沉思散步的合适距离或时长大概是多少？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       无需像亚当·斯密那样步行 15 英里。促进大脑血液循环与激活预设模式网络（DMN）的临床建议时长为 20 到 40 分钟。相比于行走距离，保持完全切断数字刺激的专注状态更为核心。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>如果不方便出门，可以在室内的跑步机上散步吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">如果不方便出门，可以在室内的跑步机上散步吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全可以。不过在室内使用跑步机时，切记不要边看手机屏幕或电视。请将视线定格在墙壁的某一点或空旷处，彻底隔绝外部人工视觉刺激，只专注于双脚踩踏的节奏感，方能获得沉思散步的成效。
     </p>
   </details>

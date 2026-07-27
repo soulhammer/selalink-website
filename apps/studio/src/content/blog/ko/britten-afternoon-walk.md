@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 벤저민 브리튼이 매일 고수했던 '오후 해안가 산책' 루틴의 뇌과학적 작동 원리를 분석하고, 인지 피로와 정보 과부하에 시달리는 현대인이 주의력을 회복하고 작업 능률을 극대화할 수 있는 3단계 두뇌 리셋 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>험프리 카펜터 평전 『벤저민 브리튼 평전(Benjamin Britten: A Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 험프리 카펜터 평전 『벤저민 브리튼 평전(Benjamin Britten: A Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 피로를 느낄 때 침대에 누워 스마트폰 숏폼 비디오나 릴스를 시청하는 것은 뇌과학적으로 결코 '휴식'이 아닙니다. 비록 몸은 고정되어 있을지라도, 뇌의 시각 피질과 도파민 보상 회로는 계속해서 새로운 영상 신호를 해독하느라 막대한 주의력을 소모하여 전두엽 피로를 가중시킵니다. 브리튼처럼 시각적·디지털 정보 유입을 전면 차단한 채 자연 속에서 몸을 가볍게 움직이는 보행 산책만이 전전두엽 인지 자원을 완벽히 리셋하는 진정한 과학적 휴식입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>브리튼이 매일 산책했던 올드버러 해안길은 어떤 지형적 특성을 지닌 곳인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">브리튼이 매일 산책했던 올드버러 해안길은 어떤 지형적 특성을 지닌 곳인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       영국 동부 서퍽주에 위치한 올드버러 해안은 모래가 아닌 동글동글한 자갈(Shingle)로 이루어진 독특한 해변입니다. 파도가 칠 때마다 자갈들이 구르며 맑고 청량한 경쾌한 소리를 내며, 탁 트인 수평선이 전두엽의 시각적 해방감을 제공합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>자연 해안가가 없는 도심 속 빌딩 숲 산책도 주의 피로 회복 효과를 제공하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">자연 해안가가 없는 도심 속 빌딩 숲 산책도 주의 피로 회복 효과를 제공하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       도심 속 산책은 복잡한 교통 소음, 신호등, 네온사인 등 의도적 주의력을 자극하는 요소가 많아 회복 효과가 떨어집니다. 따라서 도심에서는 나무가 울창한 공원이나 개천 산책로, 화단과 물소리가 있는 보행자 전용 구역을 선택하는 것이 필수적입니다.
     </p>
   </details>

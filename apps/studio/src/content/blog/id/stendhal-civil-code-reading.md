@@ -25,14 +25,16 @@ faqs:
 
 Stendhal (nama asli Henri Beyle, 1783–1842) adalah maestro sastra realis Prancis abad ke-19 yang secara cermat menangkap kesombongan dan psikologi cinta. Karya besarnya, 'The Red and the Black' (Le Rouge et le Noir) dan 'The Charterhouse of Parma' (La Chartreuse de Parme), dipuji sebagai kitab tulisan fiksi modern berkat gaya bahasanya yang lugas dan jernih. Ketika sastra awal abad ke-19 didominasi oleh Romantisme emosional, Stendhal bersikeras pada kalimat yang presisi seperti matematika. Setiap pagi sebelum menulis, ia selalu membaca beberapa halaman Kode Napoleon (Hukum Perdata Prancis). Dengan memanaskan otaknya menggunakan teks hukum yang kering dan dingin, ia mengeliminasi bahasa emosional yang berlebihan.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Bukti Sejarah & Akademik
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Konten ini didasarkan pada <strong>Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ Menurut Efek Priming dalam ilmu kognitif, ketika otak terlebih dahulu terpapar i
 
 Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam analisis isi hukum yang rumit. Menganalisis yurisprudensi atau interpretasi hukum secara mendalam sebelum menulis berisiko menguras sumber daya kognitif prefrontal (Cognitive Depletion). Inti dari rutinitas ini bukanlah memperoleh pengetahuan hukum, melainkan mempersepsikan struktur kalimat yang padat dan lugas secara visual. Oleh karena itu, pindai bentuk kalimat tanpa hiasan ini secara ringan tanpa memikirkan isinya secara berlebihan.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Apakah membaca Kitab Hukum Perdata membantu saat menulis salinan pemasaran atau esai emosional?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Apakah membaca Kitab Hukum Perdata membantu saat menulis salinan pemasaran atau esai emosional?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Saat perlu menulis salinan persuasif atau emosional, lebih baik menggunakan salinan iklan yang menarik atau esai puitis sebagai teks priming daripada kitab hukum. Inti dari kebiasaan Stendhal adalah memicu otak terlebih dahulu dengan teks yang sesuai dengan nada dan gaya hasil kerja yang diinginkan.
     </p>
   </details>

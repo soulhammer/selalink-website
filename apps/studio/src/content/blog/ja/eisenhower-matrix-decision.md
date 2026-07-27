@@ -27,14 +27,16 @@ faqs:
 
 第二次世界大戦で連合国遠征軍最高司令官としてノルマンディー上陸作戦を指揮し、第34代米国大統領および初代NATO最高司令官を歴任したドワイト・D・アイゼンハワー（Dwight D. Eisenhower、1890–1969）。彼は人類史上最も複雑で広範な軍事作戦、冷戦下の外交交渉、全米高速道路網の構築などの決定を毎日下さなければならない人物でした。膨大な行政業務と戦略的課題の渦中で、彼が生涯維持したシンプルで強力な習慣がありました。それは毎朝執務室で白い紙に十字（+）を描き、4つの領域にタスクを分類することでした。彼は自問しました。「この仕事は本当に重要なのか？それとも単に緊急なだけか？」緊急性の罠から抜け出し、人生の本質的な重要性に脳の注意を集中させるアイゼンハワー・マトリックスの心理学的原理を解き明かします。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 優先順位分類の習慣を導入する際に陥りがちな過ちは、1日中第1領域（緊急かつ重要な仕事）だけに追われることです。第1領域だけに追われて1日を過ごすと、副腎皮質ホルモン（コルチゾール）が過剰分泌され、脳が慢性疲労とストレスに晒されます。核心は第2領域（緊急ではないが重要な仕事）である読書、企画、健康管理、人間関係の構築などに、毎日意図的に最低20%の認知資源をあらかじめ配分することです。第2領域のタスクが先行してこそ長期的な成長が可能となり、将来的に緊急の消火作業的な問題（第1領域）が発生する頻度を根本的に減らすことができます。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>会社の業務の特性上、すべての仕事が緊急に押し寄せてくるのですが、第2領域（重要だが緊急でない仕事）をどのように確保すればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">会社の業務の特性上、すべての仕事が緊急に押し寄せてくるのですが、第2領域（重要だが緊急でない仕事）をどのように確保すればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       すべての仕事が緊急に見えるなら、他人の締め切りが自分の重要度より優先されているからです。朝の最初の30分間はメールやメッセンジャーを開かず、ただ第2領域の企画や学習に没頭する「自分だけの妨害禁止ブロック」を強制的に設定してください。この小さな時間の確保が、長期的に事後収拾タスクを減らす触媒となります。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>何が「重要な仕事」で、何が「緊急な仕事」なのかを客観的に区分する基準は何ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">何が「重要な仕事」で、何が「緊急な仕事」なのかを客観的に区分する基準は何ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       「緊急な仕事」は他人のスケジュールや要請によって発生し、即座の反応を要求する課題（メール、メッセンジャーの通知、目の前の締め切り）です。一方、「重要な仕事」は他人の要求とは関係なく、自分の長期的な目標、能力強化、コアバリューを実現する課題です。「この仕事を処理しなかった場合、1年後の自分の人生に大きな影響を与えるか？」と自問してみれば明確に区分できます。
     </p>
   </details>

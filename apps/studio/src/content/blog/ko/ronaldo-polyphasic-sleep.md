@@ -25,14 +25,16 @@ faqs:
 
 "어제보다 오늘 더 나은 선수가 되는 것, 그것이 나의 유일한 목표다." 40대에 가까운 나이에도 세계 최정상급 리그에서 폭발적인 스피드와 탄력적인 피지컬을 유지하는 축구계의 살아있는 전설, 크리스티아누 호날두. 포르투갈 마데이라 출신의 그는 맨체스터 유나이티드와 레알 마드리드에서 세계적인 스타로 거듭나며 5회의 발롱도르를 수상했습니다. 그의 상상을 초월하는 자기관리 목록 중 가장 독특하고 과학적인 습관은 바로 그의 수면법입니다. 호날두는 밤에 한 번에 8시간을 통잠으로 자지 않습니다. 대신 엘리트 스포츠 수면 코치인 닉 리틀헤일스(Nick Littlehales)의 정밀 처방에 따라, 하루 24시간 동안 정확히 90분 단위로 나뉜 수면 주기(R90 Sleep Cycle)를 총 5번(총 7.5시간)에 걸쳐 나누어 자는 분할 수면을 고수합니다. 그는 고강도 훈련과 경기가 끝날 때마다, 온도가 완벽히 조절되고 완전히 암막이 보장된 침실에 누워 태아 자세로 90분간 깊은 잠에 몰입합니다. 이 분할 수면을 통해 호날두는 젖산이 축적된 근육 세포를 빠르게 재생시키며 경기장에서 최상의 인지 반응 속도를 유지합니다. 오늘 포스트에서는 호날두 수면 습관의 뇌과학적/신체적 메커니즘을 규명하고, 현대인을 위한 실용적인 분할 수면 적용 방법을 가이드합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 분할 수면이나 짧은 파워 냅을 성공시키기 위해선 환경적 차단이 완벽해야 합니다. 아주 미세한 빛이나 소음도 뇌의 깊은 이완을 방해합니다. 또한 심장의 부담을 최소화하고 척추를 일직선으로 정렬하기 위해, 오른쪽이나 왼쪽으로 누워 무릎을 가볍게 구부린 태아 자세(Fetal Position)로 수면을 취하는 것이 효율적입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>밤에 잠을 잘 자는데도 낮에 이 분할 수면을 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">밤에 잠을 잘 자는데도 낮에 이 분할 수면을 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       일반적인 사무직 현대인이라면 굳이 낮에 90분 수면을 반복할 필요는 없습니다. 다만 고강도 피지컬 트레이닝을 하거나, 야근으로 밤 수면이 부족했던 날 일시적으로 90분 혹은 30분 분할 수면을 적용해 신체를 리셋하는 용도로 사용하면 좋습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>태아 자세로 잘 때 양쪽 중 어느 방향으로 눕는 것이 좋나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">태아 자세로 잘 때 양쪽 중 어느 방향으로 눕는 것이 좋나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       역사적 및 스포츠 의학에 따르면, 심장이 상대적으로 흉부 왼쪽에 위치해 있으므로 왼쪽을 아래로 하면 심장 압박이 있을 수 있어 통상적으로 오른쪽을 바닥에 대고 눕는 것이 더 편안하며 심폐 순환에 유익하다고 조언합니다.
     </p>
   </details>

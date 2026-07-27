@@ -29,13 +29,15 @@ faqs:
 
 오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 곰팡이독소를 완벽 차단하고 견과류의 고소함과 바삭함을 6개월 이상 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       식품 안전 & 과학적 근거
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
       본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -45,32 +47,32 @@ faqs:
 
 ## 1. 과학적으로 검증된 보관 가이드
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">개봉 후 무조건 밀봉하여 냉장 및 냉동실 보관하기 — 냉장 (90일), 냉동 (180일) ❄️</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">개봉 후 무조건 밀봉하여 냉장 및 냉동실 보관하기 — 냉장 (90일), 냉동 (180일) ❄️</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     견과류는 온도가 높고 습한 상온에 두면 불포화지방산이 공기 중 산소와 결합해 찌든 내가 나고 아플라톡신 독소가 생성됩니다. 💡 보관 팁: 개봉한 견과류는 즉시 밀봉하여 냉장실(0 ~ 4℃)에 보관 시 3개월, 냉동실(-18℃ 이하) 보관 시 6개월 이상 변질 없이 안전하게 보관할 수 있습니다.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">불투명 밀폐 용기나 알루미늄 지퍼백에 소분 포장하기 — 빛과 산소 완벽 차단 📦</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">불투명 밀폐 용기나 알루미늄 지퍼백에 소분 포장하기 — 빛과 산소 완벽 차단 📦</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     자외선과 빛, 산소는 견과류 속 유지방의 산화를 촉진하는 주원인입니다. 💡 보관 팁: 투명한 용기보다는 빛을 차단하는 불투명 밀폐 용기나 알루미늄 지퍼백에 1회 먹을 분량씩 소분하여 담으세요. 이때 실리카겔(제습제)이나 산소흡수제를 함께 넣어주면 최적의 상태가 유지됩니다.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">습기가 없는 완전 건조 상태 유지하기 — 미개봉 실온 보관 (15일) ☀️</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">습기가 없는 완전 건조 상태 유지하기 — 미개봉 실온 보관 (15일) ☀️</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     견과류는 수분을 흡수하면 금세 눅눅해지고 아삭한 식감이 사라집니다. 💡 보관 팁: 개봉 전이더라도 습도가 높은 곳을 피해 서늘하고 건조한 그늘에 보관해야 합니다. 습기를 차단하는 밀폐력을 갖춘 포장 상태를 항상 유지하세요.
   </p>
 </div>
@@ -79,47 +81,47 @@ faqs:
 
 ## 2. 보관 시 필수 규칙 및 주의사항
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">쩐내가 나거나 눅눅해진 견과류는 절대 섭취하지 마세요 ⚠️</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">쩐내가 나거나 눅눅해진 견과류는 절대 섭취하지 마세요 ⚠️</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       견과류에서 묵은 기름내가 나거나 표면이 눅눅해졌다면 지방 산패와 아플라톡신 곰팡이 독소 생성이 진행된 상태입니다. 물로 씻거나 프라이팬에 볶아도 아플라톡신 독소는 파괴되지 않으므로 망설임 없이 전량 폐기해야 합니다.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">견과류 알맹이에 상처가 나지 않도록 주의하세요 🥜</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">견과류 알맹이에 상처가 나지 않도록 주의하세요 🥜</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       호두나 아몬드에 강한 충격이 가해져 상처가 나거나 가루가 생기면, 표면적이 넓어져 공기 중 산소와의 접촉이 극대화되고 산패 속도가 수십 배 빨라집니다. 포장 봉지를 세게 압박하지 않도록 주의하세요.
     </p>
   </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>견과류에서 쩐내(기름 찌든 냄새)가 나는데 물로 씻거나 볶아서 먹어도 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">견과류에서 쩐내(기름 찌든 냄새)가 나는데 물로 씻거나 볶아서 먹어도 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       절대 안 됩니다. 쩐내는 견과류의 불포화지방산이 산소와 결합해 산패되었음을 뜻하며, 이 과정에서 강력한 곰팡이독소인 '아플라톡신(Aflatoxin)'이 생성됩니다. 아플라톡신은 국제암연구소(IARC)가 지정한 1급 발암물질로 260℃ 이상의 고온으로 가열하거나 씻어도 절대 파괴되지 않으므로, 쩐내가 나는 즉시 전량 버려야 합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>견과류를 상온 식탁이나 찬장에 두고 먹는 것이 안 좋은 이유는 무엇인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">견과류를 상온 식탁이나 찬장에 두고 먹는 것이 안 좋은 이유는 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       견과류에 풍부한 불포화지방산은 열, 빛, 산소, 습도에 매우 민감합니다. 상온(15 ~ 25℃)에 투명 용기로 보관하면 빛과 온도 영향으로 단 며칠 만에 지방 산패가 시작되며 곰팡이가 번식하기 쉬운 상태가 됩니다. 밀폐하여 차갑고 어두운 냉장실이나 냉동실에 보관해야 안전합니다.
     </p>
   </details>

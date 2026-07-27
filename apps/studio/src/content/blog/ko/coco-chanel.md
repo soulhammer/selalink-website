@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 코코 샤넬의 '직접 대어보고 잘라내기' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 기획서, 비즈니스 프로세스, 혹은 일상 공간에서 군더더기를 제거해 핵심 가치만을 정제해 내는 3단계 미니멀리즘 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에드몽드 샤를 루 평전 『샤넬(Chanel and Her World)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 에드몽드 샤를 루 평전 『샤넬(Chanel and Her World)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 샤넬식 미니멀리즘 재단법의 핵심은 무조건 양을 줄이거나 파괴하는 극단적 삭제가 아닙니다. 본질적 기능과 미학을 가장 빛나게 도울 '핵심 뼈대'를 남기기 위해 인지 자원을 몰입하는 것이 본질입니다. 무작위로 요소를 잘라내다 본래의 기능이나 메시지까지 훼손하지 않도록, "이 요소를 제거해도 이 프로젝트의 본래 목적과 메시지가 명확히 전달되는가?"를 항상 질문하며 신중하게 정제해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>기획서나 업무에서 요소를 덜어낼 때 핵심 가치까지 훼손될까 두려운데 어떻게 구분하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">기획서나 업무에서 요소를 덜어낼 때 핵심 가치까지 훼손될까 두려운데 어떻게 구분하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       단 하나의 으뜸 목적만 남겨두고 질문해 보세요. "이 수식어, 표, 또는 단락이 빠져도 본 문서가 고객에게 해결해 주는 문제의 본질이 전달되는가?" 만약 여전히 전달된다면 그것은 본질을 포장하기 위한 장식입니다. 과감히 잘라낼 때 오히려 전달력과 직관성이 극대화됩니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>샤넬의 미니멀리즘 재단법을 개인의 일상 공간이나 정리 정돈에도 응용할 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">샤넬의 미니멀리즘 재단법을 개인의 일상 공간이나 정리 정돈에도 응용할 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 우수한 인지 복원 효과가 있습니다. 책상이나 옷장 정돈 시 '언젠가 쓰겠지'라며 쌓아둔 군더더기를 솎아내고, 실제 내가 매일 착용하고 사용하는 20%의 핵심 물건만 남기는 '공간 재단'을 실행해 보세요. 시각적 노이즈가 제거되면서 전전두엽의 인지 과부하가 대폭 감소합니다.
     </p>
   </details>

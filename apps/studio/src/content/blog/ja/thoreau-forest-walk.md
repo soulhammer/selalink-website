@@ -25,14 +25,16 @@ faqs:
 
 ウォールデン池のほとりで自然と一体となる生活を実践し、環境文学の名著『ウォールデン 森の生活』を執筆したアメリカの思想家・作家、ヘンリー・デイヴィッド・ソロー。彼が抱いた人生への深い思索と輝くインスピレーションの背景には、天候に関わらず毎日午後になると森の中を4時間歩いた散策の習慣がありました。彼は単に歩いただけでなく、自然を観察し歩行中に得られる脳の活性化を精力的に記録に活かしました。自然の中を歩くことが現代人の脳を癒やしアイディアを活性化する原理を探ります。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ヘンリー・デイヴィッド・ソローの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ヘンリー・デイヴィッド・ソローの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 ヘンリー・デイヴィッド・ソローにとって自然散策は、自然と孤独に対話する神聖な儀式でした。スマートフォン画面を見たりリアルタイムの通知に対応しながら歩くと、脳の注意力回復機能は働きません。歩いている間だけは機器やネットワークから遮断されたオフライン状態になり、周囲の植物や季節の変化に全身の感覚を開いてください。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>ソローは4時間歩きながらどのようにメモを執筆したのですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">ソローは4時間歩きながらどのようにメモを執筆したのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       彼はコートのポケットに手製の小さな革製メモ帳と鉛筆を入れて歩きました。インスピレーションが湧くと足を止め、木の下に立って植物の細部や浮かんだ文章を即座に記録しました。
     </p>
   </details>

@@ -25,14 +25,16 @@ faqs:
 
 월든 호숫가에서 자연과 일체되는 삶을 실천하고 환경 문학의 고전 《월든(Walden)》을 쓴 미국의 대표적 사상가이자 문학가, 헨리 데이비드 소로(Henry David Thoreau). 그가 가졌던 삶에 대한 깊은 사색과 빛나는 영감의 배경에는 날씨에 상관없이 매일 오후마다 숲속을 4시간 동안 걸었던 산책 습관이 있었습니다. 그는 단순히 걸었던 것이 아니라 자연을 관찰하고 걷기 중에 얻는 뇌의 활성화를 적극적으로 기록에 적용했습니다. 자연 속 걷기가 현대인의 뇌를 치유하고 아이디어를 활성화하는 원리를 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>헨리 데이비드 소로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 헨리 데이비드 소로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 헨리 데이비드 소로에게 자연 속 걷기는 자연과 고독하게 대화하는 신성한 의식이었습니다. 스마트폰 화면을 보거나 실시간 알림에 대응하며 걷는다면 뇌의 주의 회복 기능은 작동하지 않습니다. 걷는 동안만은 기기와 네트워크로부터 차단된 오프라인 상태가 되어 주변 식물과 계절의 변화에 내 온몸의 감각을 열어주세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>소로는 4시간 동안 걸으면서 어떻게 메모를 작성했나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">소로는 4시간 동안 걸으면서 어떻게 메모를 작성했나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그는 코트 주머니에 작은 수제 가죽 수첩과 연필을 넣고 걸었습니다. 영감이 떠오르면 걸음을 멈추고 나무 아래 서서 식물의 세부 사항이나 떠오른 문장을 즉시 기록했습니다.
     </p>
   </details>

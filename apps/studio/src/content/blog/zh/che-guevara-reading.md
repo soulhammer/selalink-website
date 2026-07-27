@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将分析切·格瓦拉“丛林深度阅读”习惯背后的脑科学原理，并为消除数字干扰、克服职场自我损耗以重塑情绪与智慧韧性的现代人提供3步骤沉浸式阅读实践方案。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>乔恩·李·安德森传记《切·格瓦拉传（Che Guevara: A Revolutionary Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 乔恩·李·安德森传记《切·格瓦拉传（Che Guevara: A Revolutionary Life）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 为了获得该阅读习惯对认知的保护重置效果，务必抛弃走马观花刷手机新闻或社交动态的“浅层快刷”模式。以视觉快刷为主的浅层信息消费，只会让大脑持续滞留于被动的浅层认知反应状态，无法拉动前额叶控制网络。即便仅阅读两页，也应努力厘清文字背后的前提假设，推演其概念深度，充分调动大脑的语言注意力网络（Linguistic Attention Network），如此方能筑牢抗击应激的神经防线。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>阅读小说或散文等文学类书籍，也能起到同等的激活前额叶认知控制网络效果吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">阅读小说或散文等文学类书籍，也能起到同等的激活前额叶认知控制网络效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，完全可以。但前提是文本需要具备一定的认知理解门槛。相较于文句平铺直叙的爆水娱乐性文本，只有阅读蕴含着角色复杂心理动机、道德抉择以及作者深邃人生哲理的文学经典或深度散文，迫使读者展开认知推演（如推断角色行为动机）时，前额叶认知控制网络方能被强效拉动。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>以此取代纸质书，使用平板电脑或E-Ink墨水屏阅读器进行阅读能获得同等的认知重置效果吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">以此取代纸质书，使用平板电脑或E-Ink墨水屏阅读器进行阅读能获得同等的认知重置效果吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，可以实现。但如果使用常规平板电脑，必须构建彻底关闭邮件与社交软件弹窗推送的绝绝对专注模式（勿扰模式）。鉴于纸质书提供的独特纸张香气与翻页触觉反馈最利于诱导大脑进入高阶沉浸状态，强烈推荐优先使用实体纸质书或断网状态下的E-Ink墨水屏阅读器。
     </p>
   </details>

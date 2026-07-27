@@ -31,14 +31,16 @@ Bruce Lee portait un carnet de poche en cuir noir de la taille d'une paume et un
 
 Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « capture immédiate au carnet de poche » de Bruce Lee et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes de saisir les pensées fugaces et de les convertir en moteur de développement.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Le cerveau humain traite des millions de données sensorielle chaque jour, mais 
 
 La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papier dans les 5 secondes suivant l'émergence d'une inspiration. Ne perdez pas de temps à structurer des paragraphes ou à appliquer votre écriture. Dès que vous vous souciez de la forme, le filtre préfrontal intervient et l'étincelle s'évapore. Quelques mots griffonnés ou des phrases incomplètes suffisent à fixer le fil de la pensée.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>L'enregistrement de notes vocales sur un smartphone procure-t-il les mêmes bénéfices qu'un carnet papier ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">L'enregistrement de notes vocales sur un smartphone procure-t-il les mêmes bénéfices qu'un carnet papier ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, l'enregistrement vocal est une excellente méthode pour décharger rapidement la mémoire de travail. Cependant, le format texte reste supérieur pour la révision visuelle et la structuration ultérieures. Si vous utilisez des notes vocales, nous recommandons de les associer à la transcription automatique (STT).
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       La prise de notes prend toute sa valeur lorsqu'elles sont réévaluées et combinées à l'action. Réglez une alarme quotidienne ou adossez une « routine de balayage d'une minute » à des habitudes existantes — comme juste avant le café du matin — pour relire les notes de la veille pendant 60 secondes.
     </p>
   </details>

@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 아그네스 마틴의 의자 대기 의식이 뇌의 정보 처리 과부하를 어떻게 제어하는지 규명하고, 현대 지식 근로자들이 일과 시작 전 뇌의 메모리 공간을 완벽하게 세척하여 창의적 직관을 증폭시키는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아그네스 마틴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 아그네스 마틴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 정적 대기 중 뇌를 비우기 위해 애쓰다가 역효과로 '잡념과의 전쟁'을 벌이는 함정에 빠지지 않도록 유의해야 합니다. 떠오르는 생각을 억지로 억누르려(Suppression) 하면 뇌는 도리어 그 생각에 더 강하게 집착하게 됩니다. 이를 심리학에서는 '리바운드 효과(Rebound Effect)'라고 부릅니다. 생각이 떠오를 때는 억지로 지우려 하지 말고, 흐르는 구름을 바라보듯 '아, 내가 이런 생각을 하고 있구나'라며 건조하게 인정하고 다시 호흡의 부드러운 흐름으로 주의의 닻을 돌려놓는 마음챙김(Mindfulness) 태도가 필요합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>시간이 부족한 직장인은 몇 시간씩 명상할 수 없는데, 마틴의 루틴을 현실적으로 어떻게 단축하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">시간이 부족한 직장인은 몇 시간씩 명상할 수 없는데, 마틴의 루틴을 현실적으로 어떻게 단축하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아그네스 마틴처럼 몇 시간씩 명상할 필요는 없습니다. 단 5분 동안만이라도 작업을 개시하기 전 '의도적 멈춤(Intentional Pause)'을 갖는 것으로 충분합니다. 출근 직후 PC 전원을 켜기 전, 눈을 감고 깊은 호흡을 3회 반복하며 '오늘 내가 집중해야 할 최고의 본질은 무엇인가?'만 단 한 번 상기하고 일을 시작하는 것만으로도 브레인 노이즈를 획기적으로 청소하는 메타인지적 튜닝을 달성할 수 있습니다.
     </p>
   </details>

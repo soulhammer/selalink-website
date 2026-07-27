@@ -31,14 +31,16 @@ faqs:
 
 原产于中南美洲热带雨林的绿鬣蜥（Green Iguana），凭其鲜艳的绿色肤色和威风凛凛的体型，是备受全球爬宠爱好者喜爱的代表性昼行性大型蜥蜴。成体体长可达 1.5 ~ 2 米，虽然看似温顺，但拥有极强的领地本能，且对因缺乏紫外线（UVB）与钙质引起的代谢性骨病（MBD）极度脆弱。此外，绿鬣蜥是严格的 100% 纯草食性（Strict Herbivore）爬行类，摄入动物性蛋白会导致致命的痛风与肾衰竭。今天 PetSelf 将带您准确解读绿鬣蜥肢体语言，并通过 3 步骤日常护理维护其健康。
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       兽医学与行为学依据
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>世界两栖爬行类兽医师协会 (ARAV) 与国际爬行动物保护基金会 (IRCF) 护理标准</strong>。
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 世界两栖爬行类兽医师协会 (ARAV) 与国际爬行动物保护基金会 (IRCF) 护理标准。
     </p>
   </div>
 </div>
@@ -47,12 +49,12 @@ faqs:
 
 ## 1. 绿鬣蜥肢体语言：喉扇张开 (Dewlap Extension)、点头 (Head Bobbing) 与甩尾警告 (Tail Whipping)
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">绿鬣蜥肢体语言：喉扇张开 (Dewlap Extension)、点头 (Head Bobbing) 与甩尾警告 (Tail Whipping)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">绿鬣蜥肢体语言：喉扇张开 (Dewlap Extension)、点头 (Head Bobbing) 与甩尾警告 (Tail Whipping)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     绿鬣蜥通过喉部皮扇（Dewlap）和头部动作清晰表达威严与领地警告。完全展开下巴下方鲜艳的皮扇“喉扇张开 (Dewlap Extension)”并配合有节奏地上下点头“点头 (Head Bobbing)”，是宣示领地主权与存在感的代表性行为。相反，侧向扁平化身体并灵活卷曲尾巴“甩尾警告 (Tail Whipping / Side Stance)”，则是受到逼近时即将发动猛烈尾巴抽打的紧急警告信号。
   </p>
 </div>
@@ -61,58 +63,94 @@ faqs:
 
 ## 2. 绿鬣蜥 (Green Iguana / Iguana iguana) 的肢体语言与行为信号
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">张开下巴下方的喉扇 (Dewlap)，并缓慢上下点头 (Dewlap Extension & Head Bobbing)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">肢体信号 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">张开下巴下方的喉扇 (Dewlap)，并缓慢上下点头 (Dewlap Extension & Head Bobbing)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 向主人或周围环境宣示领地主权、展示存在感与建立威严的代表性沟通姿态。<br/>
-    <strong>• 应对:</strong> 保持平静低调的姿势，避免做出可能被视为挑衅的突然动作。
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 含义
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        向主人或周围环境宣示领地主权、展示存在感与建立威严的代表性沟通姿态。
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 应对
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        保持平静低调的姿势，避免做出可能被视为挑衅的突然动作。
+      </p>
+    </div>
+  </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">肢体信号 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">侧向压扁身体，将尾巴向后弯曲蓄力 (Tail Whipping / Stiff Stance)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">肢体信号 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">侧向压扁身体，将尾巴向后弯曲蓄力 (Tail Whipping / Stiff Stance)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• 含义:</strong> 感到极度威胁或压迫时发出的最后防卫警告，预示即将进行猛烈的甩尾抽打。<br/>
-    <strong>• 应对:</strong> 切勿强行抓握，撤离刺激源，必要时使用毛巾保持安全距离。
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 含义
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        感到极度威胁或压迫时发出的最后防卫警告，预示即将进行猛烈的甩尾抽打。
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 应对
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        切勿强行抓握，撤离刺激源，必要时使用毛巾保持安全距离。
+      </p>
+    </div>
+  </div>
 </div>
 
 ---
 
 ## 3. 绿鬣蜥 (Green Iguana / Iguana iguana) 定制化 3 步家庭护理流程
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">早上：UVB 紫外线灯输出检查、晒背区温湿度确认与 100% 草食钙质蔬菜拼盘</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">早上：UVB 紫外线灯输出检查、晒背区温湿度确认与 100% 草食钙质蔬菜拼盘</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     检查晒背区（35°C ~ 38°C）与 UVB 衰减情况以防 MBD，投喂富含钙质的绿叶蔬菜（芥菜、芜菁叶、羽衣甘蓝，钙磷比 2:1）。
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">中午：维持高湿度环境（70 ~ 80%）的喷雾 (Misting) 与高大型笼舍攀爬活动</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">中午：维持高湿度环境（70 ~ 80%）的喷雾 (Misting) 与高大型笼舍攀爬活动</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     使用喷雾器维持高湿度以防脱皮不全及肾脏病变，并提供稳固的树枝攀爬设施以满足其树栖（Arboreal）习性。
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">晚上：清理排泄物（预防感染）、夜间保温控制 (24°C ~ 26°C) 与 10 ~ 12 小时完全黑暗睡眠</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">晚上：清理排泄物（预防感染）、夜间保温控制 (24°C ~ 26°C) 与 10 ~ 12 小时完全黑暗睡眠</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     清理尿酸与粪便以防细菌性皮肤炎，夜间使用陶瓷加热灯维持温度，并提供完全无光的黑暗睡眠环境。
   </p>
 </div>
@@ -121,27 +159,27 @@ faqs:
 
 
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>为什么高输出 UVB 紫外线灯和补钙对绿鬣蜥的生命至关重要？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">为什么高输出 UVB 紫外线灯和补钙对绿鬣蜥的生命至关重要？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绿鬣蜥必须通过皮肤照射 UVB 紫外线合成维生素 D3，才能吸收食物中的钙质。若缺乏 UVB 或钙质，会引发“代谢性骨病（MBD/Metabolic Bone Disease）”，导致骨质软化、橡皮软颚、骨折、抽搐甚至瘫痪死亡。每日高输出 UVB 照射与添加钙粉是绝对强制要求的。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>可以给绿鬣蜥喂食蟋蟀、面包虫等昆虫或肉类吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">可以给绿鬣蜥喂食蟋蟀、面包虫等昆虫或肉类吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝对不可以！绿鬣蜥生理上是 100% 严格的纯草食性（Strict Herbivore）动物。摄入动物蛋白、昆虫或普通宠物饲料，会导致过量尿酸在体内结晶堆积，引发严重内脏痛风、肾衰竭并导致猝死。必须严格喂食深色绿叶蔬菜与安全蔬果。
     </p>
   </details>

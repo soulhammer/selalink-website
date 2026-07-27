@@ -31,14 +31,16 @@ Lors de la rédaction d'architectures de systèmes d'exploitation complexes et d
 
 Dans l'article d'aujourd'hui, nous partageons une analyse en sciences cognitives montrant comment la routine de « chambre noire sans stimulation » de Linus Torvalds active les capacités d'attention sélective du cerveau, et proposons des conseils pratiques aux travailleurs du savoir modernes pour améliorer spectaculairement leur efficacité au travail.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Linus Torvalds et recherches en neurosciences cognitives</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Biographies historiques et récits autobiographiques de Linus Torvalds et recherches en neurosciences cognitives.
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ La routine de concentration en chambre noire de Linus Torvalds constituait une a
 
 Pour Linus Torvalds, la chambre noire de la buanderie était une forteresse cognitive bloquant les tentations extérieures et les petites stimulations à la source. Si votre domicile est source de distractions et que vous peinez à vous immerger profondément dans votre travail, essayez de désencombrer votre bureau de toute décoration visuelle et de réduire la luminosité ambiante avant de blâmer votre capacité de concentration. Vous ferez l'expérience d'une immersion remarquable.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Regarder un écran dans une pièce sombre abîme-t-il la vue ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Regarder un écran dans une pièce sombre abîme-t-il la vue ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Un contraste trop élevé dans l'obscurité totale provoque de la fatigue oculaire. Par conséquent, réduire la luminosité de l'écran pour l'adapter à l'environnement ou installer un rétroéclairage doux (comme des LED indirectes) derrière le moniteur prévient la fatigue du nerf optique tout en maintenant une forte immersion.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Que faire si je n'ai pas de buanderie ou de pièce isolée chez moi ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Que faire si je n'ai pas de buanderie ou de pièce isolée chez moi ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Il n'est pas nécessaire d'avoir une pièce isolée spécifique. Fermer la porte d'une chambre ordinaire, s'asseoir le dos au mur pour garder un champ de vision dégagé, ou installer une séparation physique pour éliminer tout stimulus visuel autre que votre écran dans un rayon de 1,5 mètre autour du bureau suffit amplement.
     </p>
   </details>

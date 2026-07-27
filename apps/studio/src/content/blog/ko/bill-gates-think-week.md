@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 빌 게이츠가 실천한 '생각 주간' 루틴의 뇌과학적 근거와, 무수한 알림과 디지털 정보 과부하에 시달리는 현대인이 주의력을 회복하고 생산성을 극대화하기 위한 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>월터 아이작슨 평전 『빌 게이츠 평전』 및 마이크로소프트 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 월터 아이작슨 평전 『빌 게이츠 평전』 및 마이크로소프트 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 생각 주간 루틴을 진행할 때 가장 경계해야 할 것은 디지털 단말기를 통한 정보 유입입니다. 노트북이나 태블릿으로 자료를 읽으면 이메일, 웹서핑, 메시지의 유혹에 쉽게 노출되어 뇌의 집중 신경망(Focus Network)이 무너집니다. 가급적 종이에 인쇄된 아날로그 문서나 실물 책을 준비하고, 필기 역시 백지 노트에 직접 자필로 작성하여 손의 미세 감각 자극과 고도의 몰입 상태를 유지하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>생각 주간을 가지려면 반드시 며칠씩 숲속 오두막으로 떠나야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">생각 주간을 가지려면 반드시 며칠씩 숲속 오두막으로 떠나야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 핵심은 장소가 아니라 '외부 정보의 유입 차단'과 '주의력 고립'입니다. 주말을 활용해 가까운 도서관이나 조용한 공간을 방문하거나, 단 하루만이라도 스마트폰을 완전히 금고나 다른 방에 두고 아날로그 책과 노트에만 집중하는 것으로도 강력한 뇌 리셋 효과를 경험할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>자료를 읽을 때 노트북이나 태블릿을 사용하면 안 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">자료를 읽을 때 노트북이나 태블릿을 사용하면 안 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       디지털 화면은 본질적으로 다양한 웹사이트, 이메일, 알림의 유혹에 바로 연결되는 통로입니다. 뇌의 집중 신경망(Focus Network)을 지속하려면 인쇄된 아날로그 종이를 보는 것이 가장 좋습니다. 부득이하게 기기를 써야 한다면 인터넷 연결과 와이파이가 완전히 차단된 전용 전자책 리더기(E-reader)나 오프라인 단말기를 사용할 것을 권장합니다.
     </p>
   </details>

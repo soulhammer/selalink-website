@@ -29,14 +29,16 @@ faqs:
 
 彼がこの膨大で深遠な思想的体系を築き上げることができた原動力は、彼の極めて規則的な「散歩記録結合ルーティン」にありました。エマーソンは昼の間、米国マサチューセッツ州コンコードのウォルデンの森を歩きながらコートのポケットの中の革手帳に浮かぶインスピレーションを鉛筆で捉え、毎晩キャンドルを灯した書斎でこれを「知識の貯蓄銀行（Savings Bank）」と呼んでいた巨大な革のダイアリーに書き写しながら論理的に拡張しました。脳の拡散的思考と収束的論理を精緻に織り上げた彼の認知的習慣を科学的に照らし出します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ラルフ・ワルド・エマーソンジャーナル集『エマーソン・ジャーナル（The Journals of Ralph Waldo Emerson）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ラルフ・ワルド・エマーソンジャーナル集『エマーソン・ジャーナル（The Journals of Ralph Waldo Emerson）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 この2段階の記録習慣を実行する際に避けるべきことは、昼に浮かんだ思考の断片をその日の夜に整理せず、数日放置しておくことです。人間の短期記憶は数日過ぎると記憶のインデックスが霞むため、過去に作成したメモを読み返しても、メモ作成当時に感じた微妙な認知的刺激や感覚的詳細を脳が復元できなくなります。このため、メモは単に解読不可能な文字の山へと硬化してしまいます。したがって、昼にポケット手帳に書いたメモは、必ず12時間以内である「当日夜」に日記帳へ昇格させて書き移す当日締め切りルールを遵守してこそ、完全な知識の蓄積が可能になります。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで してもよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで してもよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、スマートフォンを使う場合でも、外部通知が完全に遮断されたウィジェットやオフラインメモアプリを使うなら素晴らしい代替案になります。核心は情報の媒体ではなく、歩いている間は脳を「入力遮断および拡散モード」に維持することと、当日夜に「収束モード」を通じて大きなノートに統合移管する構造的周期を維持することです。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>夜に昼のメモを精製する時、すぐ文章として大きく拡張するのが難しいアイデアはどうすればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">夜に昼のメモを精製する時、すぐ文章として大きく拡張するのが難しいアイデアはどうすればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       すべてのメモをすぐ完璧な文章やエッセイに拡張する必要はありません。発展させにくい思考の断片はキーワード形態で整えた後、ジャーナルの「アイデアプール（Idea Pool）」カテゴリーに残しておけば、今後他の日の新しい経験やメモと結合し、思いがけない巨大な洞察へと完成します。
     </p>
   </details>

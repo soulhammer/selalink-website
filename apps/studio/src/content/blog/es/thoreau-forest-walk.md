@@ -25,14 +25,16 @@ faqs:
 
 Henry David Thoreau, el eminente pensador y escritor estadounidense que practicó una vida en armonía con la naturaleza a orillas de la laguna Walden y escribió el clásico de la literatura ambiental Walden. Detrás de sus profundas reflexiones sobre la vida y su brillante inspiración se encontraba el hábito de caminar por el bosque durante 4 horas todas las tardes, sin importar el clima. No caminaba simplemente; observaba la naturaleza y aplicaba activamente a sus escritos la activación cerebral obtenida al caminar. Descubra los principios de cómo caminar en la naturaleza sana el cerebro moderno y activa las ideas.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Henry David Thoreau e investigación en Neurociencia Cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Biografías históricas y registros autobiográficos de Henry David Thoreau e investigación en Neurociencia Cognitiva.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ Según la 'Teoría de Restauración de la Atención (ART)' de la ciencia cogniti
 
 Para Henry David Thoreau, caminar en la naturaleza era un ritual sagrado de diálogo en soledad con el mundo natural. Si camina mirando la pantalla del teléfono o respondiendo notificaciones en tiempo real, la función de restauración de atención del cerebro no funcionará. Durante la caminata, permanezca desconectado de dispositivos y redes, y abra todos sus sentidos a las plantas y a los cambios de estación.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Cómo tomaba notas Thoreau mientras caminaba durante 4 horas?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Cómo tomaba notas Thoreau mientras caminaba durante 4 horas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Caminaba con una pequeña libreta de cuero hecha a mano y un lápiz en el bolsillo de su abrigo. Cuando le surgía un pensamiento, se detenía bajo un árbol y registraba de inmediato los detalles de las plantas o las frases espontáneas.
     </p>
   </details>

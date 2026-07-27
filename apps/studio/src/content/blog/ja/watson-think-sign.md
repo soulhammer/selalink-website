@@ -29,14 +29,16 @@ faqs:
 
 本日の記事では、トーマス・ワトソンの「15分間無刺激思索ルーティン」の科学的原理と、現代人がメールの通知や騒音から離れて脳内の情報を整理し、賢明な突破口を確保するための3段階の実踐プランを提示します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>トーマス・ワトソンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、トーマス・ワトソンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 この思索訓練を成功させるには、目につきやすい物理的標識である<strong>「視覚的プロンプト（Visual Prompt）」</strong>がオフィス空間内になければなりません。文字が見えないと、私たちの脳は再び慣性に流され、メールを開いたりネットサーフィンをしたりする即座の反応行動を行ってしまうため、目の前に確実な札を置いて意識の流れを定期的に断ち切る制御装置を維持する必要があります。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>考えているだけだと余計な雑念に流れてしまいますが、どうすればよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">考えているだけだと余計な雑念に流れてしまいますが、どうすればよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       初期の脳トレーニング段階では自然な現象ですので、雑念が浮かんでも抑え込もうとせず、標識の「THINK」という文字を一度見つめ、本来の解決テーマへと静かに思考を戻してください。
     </p>
   </details>

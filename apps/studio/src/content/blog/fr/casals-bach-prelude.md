@@ -31,14 +31,16 @@ Chaque matin après une courte marche, Casals s'asseyait à son piano pour inter
 
 Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine du « Prélude de Bach matinal » de Pablo Casals — en explorant l'Entraînement Musical — et proposons un protocole matinal en 3 étapes permettant aux individus modernes de surmonter l'anxiété du réveil et de créer une stabilité émotionnelle.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Pablo Casals *Joies et peines (Joys and Sorrows: Reflections by Pablo Casals)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Vérification Historique issue de l'autobiographie de Pablo Casals *Joies et peines (Joys and Sorrows: Reflections by Pablo Casals)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Au réveil, le cerveau subit un pic de cortisol matinal — une impulsion biolog
 
 Lors de la conception d'une routine musicale matinale, évitez les genres trop complexes, dissonants ou au tempo trop rapide. Le rock puissant, la pop ou l'exécution de morceaux de grande virtuosité technique peuvent surstimuler le système sympathique, augmentant l'anxiété matinale. Pour obtenir l'effet régulateur, privilégiez une musique classique harmonieuse et régulière, comme les préludes de Bach.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Une personne ne jouant d'aucun instrument peut-elle bénéficier de la routine matinale de Casals ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Une personne ne jouant d'aucun instrument peut-elle bénéficier de la routine matinale de Casals ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, tout à fait. Bien que jouer d'un instrument sollicite en plus le cortex moteur, pratiquer l'« Écoute Active » — fermer les yeux et confier sa conscience aux textures sonores — induit un entraînement d'ondes alpha identique. La clé est de ne pas traiter la musique comme un fond sonore passif, mais de consacrer 10 minutes d'attention aux nuances auditives.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Est-il plus efficace de porter un casque pour écouter de la musique classique le matin ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Est-il plus efficace de porter un casque pour écouter de la musique classique le matin ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, porter un casque offre une isolation acoustique qui bloque les bruits ambiants, facilitant la concentration du cerveau. De plus, la diffusion de signaux stéréo directement aux deux oreilles occupe les canaux du cortex auditif, empêchant les pensées parasites d'interférer et accélérant l'entrée dans l'état d'ondes alpha.
     </p>
   </details>

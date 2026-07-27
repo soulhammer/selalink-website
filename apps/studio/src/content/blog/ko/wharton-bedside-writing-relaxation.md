@@ -25,14 +25,16 @@ faqs:
 
 소설 『순수의 시대(The Age of Innocence)』를 통해 여성 최초로 퓰리처상을 거머쥐며 20세기 초 미국 문학사의 독보적 거장으로 우뚝 선 에디스 워튼. 상류 사회의 정교한 예법 뒤에 숨겨진 인간의 나약함과 위선을 누구보다 냉철하고 세밀하게 묘사한 소설가입니다. 날카로운 작가적 시선과 달리 그녀가 매일 아침 작품을 집필할 때 선택했던 습관은 기묘할 만큼 포근하고 안락했습니다. 그녀는 정오에 가까운 아침 11시까지 침대에서 절대 나오지 않고, 아끼는 강아지들을 이불 속에 올려둔 채로 무릎 위에 널빤지를 얹고 편안하게 기대어 글을 썼습니다. 신체의 부교감신경을 완벽히 이완하여 창작적 영감을 유도했던 워튼의 독창적인 오전 루틴의 비밀을 규명합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에디스 워튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 에디스 워튼 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 침대 위 이완 집필법을 일상에 적용할 때 빠지기 쉬운 함정은 집중 상태가 풀려 그대로 수면(다시 잠들기) 상태로 빠지는 것입니다. 뇌가 완전히 이완되어 서파(델타파)가 늘어나 잠이 오기 시작하면, 창조적 몰입 대신 생산성이 전혀 없는 졸음 상태가 지속됩니다. 따라서 이 습관을 실천할 때는 완전히 누운 자세를 피하고, 푹신한 등 쿠션 등을 활용해 척추를 45도에서 60도 각도로 세워 기댄 반좌위(Semi-Fowler's Position) 자세를 지켜야 합니다. 또한 방안의 온도는 약간 서늘하게 유지하고 얼굴 주변에 찬바람을 통하게 하여 신체는 부드럽게 이완하되 뇌의 지각은 선명하게 깨어있는 임계 각성 상태를 지켜내야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>침대에서 일을 하면 침실이 일하는 스트레스 공간으로 변해 불면증을 유발하지 않을까요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">침대에서 일을 하면 침실이 일하는 스트레스 공간으로 변해 불면증을 유발하지 않을까요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그 경계는 매우 중요합니다. 따라서 침대 위에서는 분석적 관리 업무, 일정 조율, 비판적인 이메일 답장 등의 '스트레스성 업무'는 일절 차단해야 합니다. 오직 자신이 가장 좋아하는 순수 아이디어 구상이나 초고 집필, 사색적 일기 쓰기 등의 '즐겁고 이완된 순수 창작'으로만 한정해야 침실의 안전한 인지 가치가 훼손되지 않습니다.
     </p>
   </details>

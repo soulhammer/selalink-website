@@ -31,14 +31,16 @@ De nombreux télétravailleurs et étudiants commencent à étudier ou travaille
 
 Dans l'article d'aujourd'hui, nous interprétons les bienfaits cognitifs du décorum vestimentaire de Machiavel à travers les neurosciences et présentons un plan d'action en 3 étapes permettant aux individus modernes de créer leur propre interrupteur cognitif physique grâce à une tenue formelle, atteignant une immersion optimale en une seconde seulement dans des environnements intérieurs distractifs.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Preuves historiques issues de la correspondance de Niccolò Machiavel 『Lettres de Machiavel』 et recherches en neurosciences cognitives et psychologie cognitive</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Preuves historiques issues de la correspondance de Niccolò Machiavel 『Lettres de Machiavel』 et recherches en neurosciences cognitives et psychologie cognitive.
     </p>
   </div>
 </div>
@@ -93,27 +95,27 @@ Les subtils stimulis tactiles de vêtements propres meurent les vagabondages de 
 
 L'essentiel n'est pas de porter des vêtements chers ou stricts, mais de permettre au cerveau de reconnaître une identité de rôle distincte de 'mode travail et immersion' à travers la tenue. Des costumes trop serrés provoquant un inconfort physique épuisent les ressources cognitives ; il est donc le plus idéal de choisir une tenue correcte et confortable qui se distingue clairement des vêtements de repos tout en permettant de se concentrer facilement.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Est-ce vraiment efficace de porter des vêtements d'extérieur au lieu d'un pyjama en télétravail ou lors des études à la maison ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Est-ce vraiment efficace de porter des vêtements d'extérieur au lieu d'un pyjama en télétravail ou lors des études à la maison ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, les recherches en psychologie cognitive sur la cognition habillée (Enclothed Cognition) le prouvent fermement. Le simple fait de troquer un pyjama ou une tenue d'intérieur contre des vêtements soignés comme un pantalon ou une chemise incite le cerveau à faire basculer son mode symbolique d'un 'contexte de repos' vers un 'contexte de travail', réduisant la procrastination et diminuant spectaculairement le temps de mise en train pour une immersion profonde.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>S'il est difficile de se changer entièrement en costume ou en tenue d'extérieur, un seul article comme des lunettes ou une montre peut-il être efficace ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">S'il est difficile de se changer entièrement en costume ou en tenue d'extérieur, un seul article comme des lunettes ou une montre peut-il être efficace ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, tout à fait ! Tant que l'article est reconnu par le cerveau comme un 'signal de travail symbolique', des indices simples comme mettre des lunettes, porter une montre analogique dédiée au travail ou enfiler des chaussons d'intérieur propres peuvent induire le même effet de conditionnement. La clé réside dans le respect constant de votre propre règle symbolique : 'Porter cet article déclenche le mode d'immersion'.
     </p>
   </details>

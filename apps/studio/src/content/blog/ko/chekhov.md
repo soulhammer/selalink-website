@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 안톤 체호프의 '미세 디테일 관찰 및 포획' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 일상의 정보 과부하 속에서 사물의 본질과 타인의 비언어적 신호를 정확히 읽어내는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>E. H. 카 평전 『체호프 평전(Anton Chekhov: A Critical Study)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 E. H. 카 평전 『체호프 평전(Anton Chekhov: A Critical Study)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 미세 관찰 루틴을 수행할 때 가장 주의해야 할 것은 상대방이 지속적인 시선을 느껴 불쾌감이나 위협을 받지 않도록 관리하는 것입니다. 타인을 정면에서 뚫어지게 응시하는 행동은 사회적 마찰을 유발하고 대상을 경직시킵니다. 찰나의 순간에 지나가는 피사체의 특정 디테일(소매의 실밥, 신발의 오염, 손가락 끝의 떨림 등) 하나만을 은밀하고 신속하게 스캔하고, 시선을 자연스럽게 거두어 수첩이나 앱에 수기 기록하는 자제력이 핵심입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>상대방에게 불쾌감을 주지 않고 은밀하게 디테일을 관찰하는 노하우가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">상대방에게 불쾌감을 주지 않고 은밀하게 디테일을 관찰하는 노하우가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       얼굴이나 시선을 정면으로 응시하지 말고, 시야 주변부(Peripheral Vision)의 넓은 초점을 활용하거나, 상대가 겉옷을 벗거나 가방을 정리하는 등 몸의 동선이 바뀔 때 1초 내에 특정 부위(소매, 신발, 손끝)만 스캔한 뒤 시선을 즉시 자연스럽게 돌리는 시선 분산 기술이 유용합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>이렇게 수집한 미세 디테일 관찰 메모를 비즈니스나 실무에 어떻게 활용하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">이렇게 수집한 미세 디테일 관찰 메모를 비즈니스나 실무에 어떻게 활용하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       기획서 작성, 마케팅 페르소나 설정, 혹은 주요 고객 미팅 시 단순히 '30대 직장인'이 아닌 '미팅 중 펜 끝을 반복해서 다스리는 30대 기획자'처럼 현장감 넘치고 입체적인 인지적 묘사와 맥락 파악이 가능해집니다. 이는 기획의 정밀도와 고객 설득력을 비약적으로 높여 줍니다.
     </p>
   </details>

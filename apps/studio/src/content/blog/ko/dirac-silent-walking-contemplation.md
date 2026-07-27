@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 폴 디랙의 '침묵 속 정적 산책' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 복잡한 디지털 및 언어적 노이즈를 차단하여 고차원적 본질과 직관을 정제하는 3단계 몰입 가이드를 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>그레이엄 파멜로 평전 『스트레인지 맨(The Strangest Man: The Hidden Life of Paul Dirac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 그레이엄 파멜로 평전 『스트레인지 맨(The Strangest Man: The Hidden Life of Paul Dirac)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 산책을 하면서 팟캐스트, 오디오북, 숏폼 음성, 뉴스 등의 언어 미디어를 들으면 뇌는 여전히 언어 해석 및 구문 가공 모드에 머물게 됩니다. 이는 좌뇌 언어 피질의 과부하를 연장시키고 침묵의 사색 상태로 진입하는 것을 방해합니다. 디랙식 루틴을 위해서는 귀와 입을 완전히 쉬게 하고, 오직 물리적 발걸음과 바람 소리 같은 비언어적 자연음만 받아들여야 두정엽 시공간 회로가 가동됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>소음이 심한 도심 한복판에서 산책해도 디랙의 침묵 산책 효과가 나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">소음이 심한 도심 한복판에서 산책해도 디랙의 침묵 산책 효과가 나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 가능합니다. 핵심은 주변 환경의 완벽한 정적보다 '내 입과 귀로 들어오는 언어적 정보(대화, 텍스트, 아나운스)의 완전 차단'에 있습니다. 시끄러운 도심이라도 노이즈 캔슬링 헤드폰으로 유해 소음을 줄이고 언어 매체를 듣지 않은 채 홀로 걸으면 동일하게 좌뇌 이완과 두정엽 활성화 효과를 누릴 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>산책 도중 떠오른 기발한 생각을 잊지 않기 위해 바로 적어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">산책 도중 떠오른 기발한 생각을 잊지 않기 위해 바로 적어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       보행 몰입의 흐름을 깨지 않는 것이 좋습니다. 긴 문장을 적느라 멈춰 서면 두정엽 시공간 연산 회로와 침묵의 리듬이 단절됩니다. 잊기 쉬운 핵심 키워드 1개만 수첩이나 음성 앱에 2초 만에 단시간 메모하고, 곧바로 발걸음과 침묵의 리듬으로 복귀한 뒤 산책이 완전히 종료된 후 정식으로 정리하는 것이 좋습니다.
     </p>
   </details>

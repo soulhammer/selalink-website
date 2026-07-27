@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、コペルニクスの「固定観測塔集中法」に秘められた脳科学的原理を解明し、現代人が散漫さの中で自分だけの専用作業空間を確保し、1秒で最上の没頭状態へと進入する3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ニコラウス・コペルニクス『De revolutionibus orbium coelestium（天球の回転について）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ニコラウス・コペルニクス『De revolutionibus orbium coelestium（天球の回転について）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 固定空間ルーティンを構築する際、最も避けなければならないのは、指定された作業空間でスマートフォンのYouTube視聴、ゲーム、睡眠など「無駄な行動」を混用して環境的ヒントを汚染させることです。勉強や業務用のデスクで休息や娯楽を楽しむと、場所と認知活性化の間の神経連携（Neural Association）が破壊され、脳がその空間に座っても没頭状態を判断できなくなります。一つの固定場所には必ず「ただ一つの核心的知的行動」のみをバインディングし、休息する時は即座に椅子から立ち上がって別の空間へと移動してこそ、前頭葉のウォームアップ遮断効果が損なわれません。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>ワンルームや狭い空間で勉強/業務空間を物理的に完璧に隔離するのが難しい場合はどうしますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">ワンルームや狭い空間で勉強/業務空間を物理的に完璧に隔離するのが難しい場合はどうしますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       物理的な空間隔離が難しい場合は、特定の席に座った時だけ点ける「専用スタンド照明」をセットするか、ただ集中する時だけに広げて敷く「デスクマット」を活用してみてください。視覚的・環境的受容信号を単一化することだけでも、同様の前頭葉空間条件づけ効果を発揮することができます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>指定されたデスクに座っても心が散漫で5分以内に作業に入れない時はどのように対処すべきですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">指定されたデスクに座っても心が散漫で5分以内に作業に入れない時はどのように対処すべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       席に座って無理に耐えながら他のことをするのではなく、直ちに椅子から立ち上がって専用空間の外へと歩み出てください。3分間軽いストレッチや気分転換をした後、再び席に座って最初の1つの小さく具体的な詳細行動（例：文書のタイトルを入力する）のみを実行するリセットプロトコルを起動させてください。
     </p>
   </details>

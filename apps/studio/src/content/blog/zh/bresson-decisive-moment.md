@@ -29,14 +29,16 @@ faqs:
 
 布列松摒弃了笨重显眼的大型相机，用黑色胶带裹住便携徕卡（Leica）相机发光的镀铬部位以防引人注目，随后如幽灵般穿梭于街头巷尾。他绝不机械地滥拍，而是将一只眼睛贴紧取景框，屏息静候——直至街头行人的动态、阴影的角度以及建筑的线条构成的几何要素达到完美平衡的单一构图，即“决定性瞬间（The Decisive Moment）”的降临。这种高度专注与沉静等待的观察习惯，能屏蔽无意义的心理杂念，使其感官皮层与注意力控制回路实现高度精准的同步。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>亨利·卡蒂尔-布列松摄影集《决定性瞬间（Images à la sauvette / The Decisive Moment）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 亨利·卡蒂尔-布列松摄影集《决定性瞬间（Images à la sauvette / The Decisive Moment）》考证与认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 这项观察训练的目的绝非为社交媒体积攒大量精美照片，其核心在于训练“延时注意力（Delayed Attention）”——将镜头另一侧的几何架构、眼前的现实以及内心的专注融为一体。切忌无意义地连续按压快门连拍，而应练习保持高强度的静止专注，屏息企盼5秒以上，直至视觉要素彻底交融对齐再按下快门。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在进行视觉观察训练时，取景框内是否必须包含人物？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在进行视觉观察训练时，取景框内是否必须包含人物？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       并非如此。无论是建筑墙面上斜映的电线杆阴影角度，还是整洁书桌上穿透玻璃杯的束束光线，仅凭无生命物体营造出的几何形状与光影界限，便能起到完全相同的精细视觉皮层激活效果。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>拍摄完成后是否可以使用滤镜修图或进行二次裁剪（Trimming）？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">拍摄完成后是否可以使用滤镜修图或进行二次裁剪（Trimming）？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       布列松极度排斥人为的后修与二次裁剪。唯有迫使自己在按压快门的“现场直觉时刻”一举完成完美构图，大脑的瞬时认知判断力方能获得最大程度的锻炼，因此强烈建议保持未作修改的原图。
     </p>
   </details>

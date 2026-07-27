@@ -31,14 +31,16 @@ faqs:
 
 Often described as a 'pixie in a cat suit,' the Devon Rex is a beloved small-to-medium cat famed for its oversized ears, large expressive eyes, and soft, rippled wavy coat. Renowned for their dog-like devotion and habit of perching on their owners' shoulders, Devon Rexes are delightful companions. However, their delicate single coat makes them poorly insulated and highly sensitive to cold ambient temperatures. Furthermore, they are prone to oily skin secretions leading to Malassezia yeast dermatitis, and carry genetic risks for Devon Rex Myopathy (Spasticity) and Hypertrophic Cardiomyopathy (HCM). Today, PetSelf presents a 3-step daily care routine to decode your Devon Rex's body language and safeguard its health.
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       Veterinary & Behavioral Evidence
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>The International Cat Association (TICA) & Cat Fanciers' Association (CFA) Care Standards</strong>.
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on The International Cat Association (TICA) & Cat Fanciers' Association (CFA) Care Standards.
     </p>
   </div>
 </div>
@@ -47,12 +49,12 @@ Often described as a 'pixie in a cat suit,' the Devon Rex is a beloved small-to-
 
 ## 1. Devon Rex Body Language: Shoulder Riding and Tail Twitching (Overstimulation)
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Devon Rex Body Language: Shoulder Riding and Tail Twitching (Overstimulation)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Devon Rex Body Language: Shoulder Riding and Tail Twitching (Overstimulation)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Devon Rexes signal trust, warmth-seeking, and emotional saturation through physical positioning and tail expressions. Climbing onto an owner's shoulder and nuzzling their neck 'Shoulder Riding' is a signature display of absolute trust, affectionate bonding, and warmth seeking. Conversely, rapidly twitching the tip of their tail while flicking ears sideways 'Tail Twitching / Overstimulation' is an explicit signal that tactile or play stimulation has exceeded comfortable limits.
   </p>
 </div>
@@ -61,58 +63,94 @@ Often described as a 'pixie in a cat suit,' the Devon Rex is a beloved small-to-
 
 ## 2. Devon Rex's Body Language & Behavioral Signals
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Climbing onto Owner's Shoulder, Nuzzling Neck and Cheeks (Shoulder Riding / Cheeking)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Body Signal 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Climbing onto Owner's Shoulder, Nuzzling Neck and Cheeks (Shoulder Riding / Cheeking)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> A signature Devon Rex affection display demonstrating deep attachment, warmth sharing, and supreme trust.<br/>
-    <strong>• Response:</strong> Support their body safely, speak in a gentle tone, and enjoy the close physical bonding.
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Meaning
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        A signature Devon Rex affection display demonstrating deep attachment, warmth sharing, and supreme trust.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Response
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Support their body safely, speak in a gentle tone, and enjoy the close physical bonding.
+      </p>
+    </div>
+  </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Body Signal 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rapidly Twitching Tail Tip Side-to-Side with Sideways Ear Flicking (Tail Twitching / Overstimulation)</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Body Signal 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Rapidly Twitching Tail Tip Side-to-Side with Sideways Ear Flicking (Tail Twitching / Overstimulation)</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    <strong>• Meaning:</strong> Signals sensory overload from excessive handling or intense play, requiring emotional reset time.<br/>
-    <strong>• Response:</strong> Pause play or petting immediately, giving them quiet personal space to calm down.
-  </p>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Meaning
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Signals sensory overload from excessive handling or intense play, requiring emotional reset time.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Response
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Pause play or petting immediately, giving them quiet personal space to calm down.
+      </p>
+    </div>
+  </div>
 </div>
 
 ---
 
 ## 3. Customized 3-Step Home Care Routine for Devon Rex
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morning: Skin Fold & Ear Sebum Hygiene (Malassezia Prevention) & Hydrating Wet Food</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Morning: Skin Fold & Ear Sebum Hygiene (Malassezia Prevention) & Hydrating Wet Food</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Wipe oily skin folds, paws, and ear canals with warm damp cloths to prevent yeast dermatitis, feeding moisture-rich wet food for renal and cardiac health.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Afternoon: Climate Control for Warmth (22–25°C) & High-Vertical Cat Tree Exploration</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Afternoon: Climate Control for Warmth (22–25°C) & High-Vertical Cat Tree Exploration</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Maintain a warm room temperature (22–25°C) due to their low insulation single coat, engaging their high IQ with vertical climbing games.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evening: Soft Glove Grooming & Warm Sleeping Quarter Setup</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Evening: Soft Glove Grooming & Warm Sleeping Quarter Setup</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Use soft cotton gloves rather than stiff brushes to wipe loose fur without damaging delicate curls, providing heated beds or blankets for night rest.
   </p>
 </div>
@@ -121,27 +159,27 @@ Often described as a 'pixie in a cat suit,' the Devon Rex is a beloved small-to-
 
 
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Are Devon Rex cats completely hypoallergenic for people with cat allergies?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Are Devon Rex cats completely hypoallergenic for people with cat allergies?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Not completely! While Devon Rexes shed very little hair due to their soft single coat—reducing airborne dander—they still produce the Fel d 1 allergen protein in their saliva and sebaceous glands. People sensitive to Fel d 1 may still experience allergic reactions, so direct interaction before adoption is strongly advised.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>How should I manage Devon Rex Myopathy and Malassezia skin infections?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">How should I manage Devon Rex Myopathy and Malassezia skin infections?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Devon Rex Myopathy (Spasticity) is a hereditary muscle disorder causing head drop and gait abnormalities; ensure parental genetic clearance upon adoption. To control Malassezia yeast overgrowth caused by excess skin sebum, establish a routine of cleaning ears, toes, and facial skin folds with gentle, vet-approved wipes.
     </p>
   </details>

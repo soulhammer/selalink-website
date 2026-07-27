@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 폴 세잔의 '아침 자연광 관찰 및 구조 응시' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 일상의 인지 피로를 해소하고 최상의 집중력과 감각 민감도를 유도할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알렉스 댄체프 평전 『폴 세잔 평전(Cézanne: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 알렉스 댄체프 평전 『폴 세잔 평전(Cézanne: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 아침 관찰 습관을 수행할 때 반드시 피해야 할 것은 선글라스를 착용하거나 스마트폰 화면을 보며 걷는 것입니다. 선글라스 렌즈는 망막 ipRGCs로 유입되는 특정 파장의 청색광을 차단하여 시교차상핵(SCN)의 생체 리듬 리셋 작용을 저해합니다. 또한 걷는 도중 스마트폰의 인공적 빛과 피상적 텍스트에 시선을 빼앗기면 시각 피질이 좁은 영역에 갇히는 인지 터널링(Cognitive Tunneling) 현상이 발생하여 이완 각성 효과가 완전히 소실됩니다. 아침 관찰 시에는 맨눈으로 시야를 넓게 열어 자연의 빛을 직접 수용해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>미세먼지가 심하거나 비가 와서 흐린 날에도 야외로 나가 관찰해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">미세먼지가 심하거나 비가 와서 흐린 날에도 야외로 나가 관찰해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       흐린 날에도 야외 광량은 평균 1,000 ~ 2,000럭스(lux) 이상으로 일반 실내 조명(300 ~ 500럭스)보다 훨씬 밝습니다. 따라서 흐린 날에도 밖을 걷는 것만으로 멜라토닌 차단과 각성 효과를 충분히 얻을 수 있습니다. 단, 대기 질이 극도로 안 좋을 때는 야외 산책 대신 베란다나 창문 바로 앞에 서서 밖을 응시하는 창가 관찰로 대체하세요.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>화가가 아닌 일반 직장인이나 지식 노동자도 세잔의 시각 관찰 루틴 효과를 얻을 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">화가가 아닌 일반 직장인이나 지식 노동자도 세잔의 시각 관찰 루틴 효과를 얻을 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 큰 효과를 얻을 수 있습니다. 아침 자연광 노출을 통한 생체 시계 정렬은 직군과 상관없이 전전두엽의 인지 피로를 씻어내고 주의 집행 기능을 원활하게 가동시킵니다. 또한 사물의 형태와 명도를 유심히 주시하는 관찰 훈련은 뇌의 시공간 작업 기억(Visuospatial Working Memory) 용량을 늘려주어, 기획서 작성, 데이터 분석, 복잡한 비즈니스 문제를 입체적으로 파악하는 데 강력한 인지적 이점을 제공합니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 다산 정약용의 '초서 및 서신 교환' 루틴에 담긴 인지 심리학적 메커니즘과 현대인을 위한 지식 구조화 노하우를 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 초서 습관을 진행할 때 범하기 쉬운 오류는 '책의 내용을 그대로 기계처럼 베껴 쓰는 것'입니다. 뇌를 거치지 않고 글자만 그대로 베껴 적으면 단순한 유용한 노동에 그쳐 기억 부호화가 일어나지 않습니다. 문장을 완전히 이해하고, 자신의 인지 구조로 필터링한 핵심 요약과 자기만의 인사이트를 한 줄이라도 덧붙여야 진짜 지식으로 축적됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>수기 필기 대신 키보드로 타이핑하여 지식을 정리하는 것도 효과가 같나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">수기 필기 대신 키보드로 타이핑하여 지식을 정리하는 것도 효과가 같나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       아닙니다. 펜으로 종이에 직접 쓰면 뇌의 체성감각 피질이 강하게 자극되어 기억의 부호화 효율이 훨씬 높아집니다. 키보드 타이핑은 입력 속도는 빠르지만, 모든 자판의 누름 감각이 동일하여 인지적 촉각 자극이 부족합니다. 중요한 장기 기억 형성을 원한다면 수기 초서가 훨씬 강력합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>꼭 편지 형태가 아니더라도 남에게 설명해 주면 메타인지 효과가 일어나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">꼭 편지 형태가 아니더라도 남에게 설명해 주면 메타인지 효과가 일어나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 맞습니다. 학습 피율 이론에 따르면 남에게 설명해 주는 학습법은 인지 보존율을 90%까지 끌어올리는 가장 강력한 방법입니다. 편지나 이메일 쓰기뿐만 아니라, 거울 속 나 자신에게 설명하기, 동료나 친구에게 대화로 알려주기 모두 메타인지 자극에 훌륭한 효과를 발휘합니다.
     </p>
   </details>

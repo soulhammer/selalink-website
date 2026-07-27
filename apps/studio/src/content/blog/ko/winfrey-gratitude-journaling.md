@@ -29,14 +29,16 @@ faqs:
 
 오늘 포스트에서는 오프라 윈프리가 고수한 '아침 감사 일기' 루틴의 뇌과학적 작동 원리와 현대적인 실천 가이드를 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 감사 일기를 적을 때 단순히 '날씨가 좋아서 감사하다' 혹은 '일어날 수 있어 감사하다'처럼 막연하고 기계적인 템플릿 형태로 반복하면, 뇌는 이를 학습 자극으로 받아들이지 않고 도파민 분비가 중단됩니다. 핵심은 구체성입니다. '어제 건넨 농담에 친구가 크게 웃어주어 고마웠다'처럼 사건의 물리적인 소리와 풍경을 뇌에 연상할 수 있을 정도로 구체적으로 묘사하여 적어야 뇌의 긍정 가소성 회로가 각성하여 재배선됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아무리 생각해도 감사한 일이 도무지 떠오르지 않는 우울한 날에는 무엇을 적어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아무리 생각해도 감사한 일이 도무지 떠오르지 않는 우울한 날에는 무엇을 적어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       그런 날이 바로 이 루틴이 가장 강력하게 필요한 시점입니다. 거창한 것을 적으려 하지 말고, '어제 마신 차가 따뜻했다', '어제 사고 없이 무사히 귀가했다', 혹은 '오늘 아침 기상해 숨을 쉴 수 있다'처럼 생존과 직결된 극히 사소하고 당연한 신체적 물리적 상태를 적으세요. 뇌는 이러한 미세한 안전 지표를 물리적으로 적는 것만으로도 위기 상황에서 벗어나는 긍정 각성을 가동합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>스마트폰 일기 앱이나 SNS 포스팅으로 감사 기록을 남기는 것은 어떤가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">스마트폰 일기 앱이나 SNS 포스팅으로 감사 기록을 남기는 것은 어떤가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       스마트폰 앱이나 SNS에 글을 올리는 행위는 즉각적으로 타인의 반응(댓글, 좋아요 등)을 기대하게 만들어 뇌의 보상 중추를 왜곡된 도파민(불안 결합 도파민)에 노출시킵니다. 또한 화면이 미끄러워 촉각 자극이 미비합니다. 오직 종이에 펜으로 꾹꾹 눌러쓰는 아날로그 행위가 뇌를 디지털 비교로부터 온전히 차단하고 순수한 만족감과 집중력을 공급해 주기 때문에 실제 아날로그 수첩을 고수하는 것이 중요합니다.
     </p>
   </details>

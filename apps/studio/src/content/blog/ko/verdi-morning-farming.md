@@ -27,14 +27,16 @@ faqs:
 
 19세기 오페라의 거장이자 『라 트라비아타』, 『아이다』, 『리골레토』 등 세계 음악사를 뒤흔든 위대한 작곡가 주세페 베르디. 그는 전 세계의 극장이 그의 이름으로 도배되었을 때도 자신을 '단순한 농부'라 부르며 흙에 집착했습니다. 이탈리아 부세토에 넓은 '산타가타 농장'을 경영한 베르디는 매일 아침 새벽 5시에 일어나 가장 먼저 거친 작업복으로 갈아입었습니다. 직접 밭을 갈고 흙을 일구어 작물을 돌보는 등 2시간의 고된 육체 노동을 끝낸 뒤에야 비로소 피아노 앞에 앉았습니다. 음악적 영감의 절반은 악보 앞이 아닌 흙 속에서 피어났다고 외친 베르디의 신체 노동의 인지적 비밀을 상세히 분석합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Verdi Morning Farming 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Verdi Morning Farming 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 아침 육체 노동을 루틴으로 도입할 때 피해야 할 것은, 뇌가 과도하게 지칠 정도로 고강도 웨이트 트레이닝이나 소진성 신체 활동을 수행하는 것입니다. 젖산이 축적되고 신체에 피로가 강하게 오면 에너지가 소모되어 오전 작곡(혹은 창의적 업무) 시 전두엽으로 가야 할 에너지가 소실됩니다. 따라서 아침 노동은 화분 정돈, 흙 갈기, 가벼운 마당 가꾸기 등 심박수를 적절히 100회 내외로 유지하는 '가벼운 유산소성 신체 동작'으로 한정해야 뇌 활동에 이롭습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아침 체육관 운동(헬스)도 베르디의 농업과 유사한 창의적 뇌 자극 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아침 체육관 운동(헬스)도 베르디의 농업과 유사한 창의적 뇌 자극 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       유산소 및 가벼운 근육 활성화는 도움을 주지만, 인공 조명 아래 실내 헬스는 멜라토닌 억제 효과가 덜합니다. 자연광(햇빛) 아래에서의 활동과 흙, 자연물을 직접 만지는 자연 접촉(Earthing)이 동반되어야 베르디와 같은 강력한 신경 안정과 세로토닌 활성이 일어납니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>아침 육체 노동을 도입할 때 주의해야 할 점은 무엇인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">아침 육체 노동을 도입할 때 주의해야 할 점은 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       뇌가 소진될 정도로 과도하게 지치는 고강도 노동은 삼가야 합니다. 몸에 젖산이 축적되고 신체 피로가 강해지면 창의적 업무에 필요한 포도당과 전두엽 에너지가 소실되어 창의성에 해로울 수 있으므로, 15분 내외의 가벼운 활동으로 제한합니다.
     </p>
   </details>

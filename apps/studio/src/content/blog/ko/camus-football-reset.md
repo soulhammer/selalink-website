@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 알베르 카뮈가 고수한 스포츠 리셋 루틴의 뇌과학적 원리를 규명하고, 현대인이 번아웃과 지적 피로에서 벗어나 뇌에 신선한 에너지와 영감을 불어넣을 수 있는 3단계 동적 리셋 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>올리비에 토드 평전 『알베르 카뮈 평전(Albert Camus: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 올리비에 토드 평전 『알베르 카뮈 평전(Albert Camus: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 이 루틴의 목적은 전전두엽 인지 자원의 완전한 휴식과 새로 고침입니다. 만약 동호회 경기에 나아가 극단적인 승패 경쟁을 벌이거나, 과도하게 머리를 쓰며 복잡한 전략 수 싸움을 벌이는 스포츠에 집착하면 전전두엽은 쉬지 못하고 2차 인지 과부하를 겪게 됩니다. 승패 점수에 연연하기보다, 빠르게 움직이는 공에 몸을 던지고 반사 신경을 쓰는 단순하고 가벼운 신체 활동에 집중해야 전전두엽 오프라인 효과를 얻을 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>함께 축구나 스포츠를 즐길 상대가 없는 1인 환경에서는 어떻게 실천하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">함께 축구나 스포츠를 즐길 상대가 없는 1인 환경에서는 어떻게 실천하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       혼자서도 충분히 가능합니다. 콘크리트 벽에 테니스 공이나 스쿼시 공을 때린 뒤 튕겨 나오는 공을 반사적으로 잡아내는 벽치기 훈련, 복싱 샌드백 타격, 혹은 가상의 민첩성 래더 훈련만으로도 소뇌와 운동 피질을 완벽히 자극하여 전전두엽을 오프라인 상태로 전환할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>정신적 피로도가 극심한 날 고강도 신체 운동을 하면 오히려 피로가 누적되지 않나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">정신적 피로도가 극심한 날 고강도 신체 운동을 하면 오히려 피로가 누적되지 않나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       뇌의 인지 피로와 육체의 근육 피로는 생리적으로 다릅니다. 온종일 앉아 지적 작업을 수행해 쌓인 '뇌 피로' 상태는 전전두엽 대사 산물의 정체 때문이므로, 몸을 움직여 대뇌 혈류를 순환시키고 소뇌로 활성을 전환하는 '동적 휴식(Active Recovery)'을 취해야만 전전두엽의 뇌 피로가 즉각 해소됩니다.
     </p>
   </details>

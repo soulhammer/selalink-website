@@ -31,14 +31,16 @@ Inside his famous consultation room at Berggasse 19 in Vienna, Freud spent gruel
 
 In today's post, we unpack the brain science behind Sigmund Freud's 'brisk walking and unconscious journaling' routine and present a practical framework for modern mental reset.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical Verification from Sigmund Freud's *An Autobiographical Study*, Sigmund Freud Museum Archives (Vienna) & Cognitive Neuroscience Research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical Verification from Sigmund Freud's *An Autobiographical Study*, Sigmund Freud Museum Archives (Vienna) & Cognitive Neuroscience Research.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Alternating foot strikes at a rapid cadence provide alternating sensory and moto
 
 This evening routine is not an intense physical workout intended for heavy calorie burn. Sprinting or pushing to gasping exhaustion overstimulates the sympathetic nervous system and disrupts brainwave stabilization. Maintain a brisk walk where you can still hold a conversation but feel your breath quicken slightly. To safeguard sleep quality, complete your walk at least 3 hours before going to bed.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Does walking in the morning or afternoon deliver the exact same benefits as an evening walk?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Does walking in the morning or afternoon deliver the exact same benefits as an evening walk?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Yes. Bilateral stimulation and prefrontal activation occur regardless of the time of day. However, while a morning walk boosts arousal to wake up the brain, Freud's evening walk uniquely flushes out cognitive clutter and emotional tension accumulated from grueling clinical or work demands throughout the day. Choose the timing that aligns best with your personal stress patterns.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Can I type my unconscious journal into a smartphone app or keyboard instead of writing by hand?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Can I type my unconscious journal into a smartphone app or keyboard instead of writing by hand?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Typing on digital devices forces the brain back into structured, logical processing mode due to screen visuals and interface mechanics. Conversely, pressing a pen onto physical paper engages fine motor control in fingertips, stimulating the brain's Reticular Activating System (RAS) far more deeply. Handwriting creates a superior physiological environment to draw out suppressed subconscious thoughts intuitively.
     </p>
   </details>

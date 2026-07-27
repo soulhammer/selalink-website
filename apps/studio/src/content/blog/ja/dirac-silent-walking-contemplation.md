@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、ポール・ディラックの「沈黙の中の静寂散策」ルーティンに秘められた脳科学的作動原理を分析し、現代人が複雑なデジタルおよび言語的ノイズを遮断して高度な本質と直感を精製する3ステップの没頭ガイドを紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>グレアム・ファーメロ伝記『The Strangest Man: The Hidden Life of Paul Dirac』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、グレアム・ファーメロ伝記『The Strangest Man: The Hidden Life of Paul Dirac』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 散策をしながらポッドキャスト、オーディオブック、ショートフォーム音声、ニュースなどの言語メディアを聴くと、脳は依然として言語解釈および構文加工モードにとどまることになります。これは左脳言語皮質の過負荷を延長させ、沈黙の思索状態に入るのを妨げます。ディラック的ルーティンのためには耳と口を完全に休ませ、ただ物理的な足取りと風の音のような非言語的自然音のみを受け入れてこそ、頭頂葉視空間回路が稼働します。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>騒音が激しい都心の中央で散策してもディラックの沈黙散策効果が得られますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">騒音が激しい都心の中央で散策してもディラックの沈黙散策効果が得られますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、可能です。ポイントは周囲の環境の完璧な静寂よりも「自分の口と耳に入ってくる言語的情報（会話、テキスト、アナウンス）の完全遮断」にあります。騒々しい都心であってもノイズキャンセリングヘッドホンで有害な騒音を減らし言語メディアを聴かずに一人で歩けば、同様に左脳のリラックスと頭頂葉活性化の効果を享受できます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>散策の途中に浮かんだ素晴らしい考えを忘れないよう、すぐに書くべきですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">散策の途中に浮かんだ素晴らしい考えを忘れないよう、すぐに書くべきですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       歩行没頭の流れを壊さない方が良いです。長い文章を書くために立ち止まると、頭頂葉視空間演算回路と沈黙のリズムが断絶されます。忘れやすい核心キーワード1つだけを手帳や音声アプリに2秒で短時間メモし、直ちに足取りと沈黙のリズムへと復帰した後、散策が完全に終了した後に正式に整理するのが良いでしょう。
     </p>
   </details>

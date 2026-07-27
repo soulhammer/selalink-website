@@ -27,14 +27,16 @@ faqs:
 
 제2차 세계대전 연합군 최고사령관으로서 노르망디 상륙작전을 성공시키고 제34대 미국 대통령과 NATO 초대 최고사령관을 지낸 드와이트 D. 아이젠하워(Dwight D. Eisenhower, 1890–1969). 그는 군사 작전, 외교적 치열한 대립, 그리고 주간 고속도로망 구축 등 인류 역사상 가장 복잡하고 광범위한 결정을 매일 내려야 했던 인물입니다. 수많은 군사 작전과 외교 문제, 그리고 방대한 행정 업무 속에서 그가 평생 유지한 단순하고 강력한 습관이 있었습니다. 그것은 바로 매일 아침 집무실에서 빈 종이에 십자선(+)을 그려 네 개의 구역으로 업무를 나누는 것이었습니다. 그는 스스로에게 질문했습니다. '이 일은 정말 중요한가? 아니면 그저 긴급한 것인가?' 긴급함의 덫에서 벗어나 인생의 본질적인 중요성에 주의를 집중하게 만드는 아이젠하워 매트릭스의 심리학적 원리를 파헤칩니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>드와이트 D. 아이젠하워 자서전 『평화주의자(At Ease: Stories I Tell to Friends)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 드와이트 D. 아이젠하워 자서전 『평화주의자(At Ease: Stories I Tell to Friends)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 우선순위 분류 습관을 도입할 때 흔히 저지르는 실수는 1영역(긴급하고 중요한 일)에만 온종일 매달리는 것입니다. 1영역에만 쫓기며 하루를 보내면 부신 피질 호르몬(코르티솔)이 과다 분비되어 뇌가 만성 피로와 스트레스에 노출됩니다. 핵심은 2영역(긴급하지 않지만 중요한 일)인 독서, 기획, 건강 관리, 인간관계 구축 등에 매일 의도적으로 최소 20%의 인지 자원을 먼저 할당하는 것입니다. 2영역의 업무가 선행되어야 장기적인 성장이 가능하며, 미래에 긴급한 소방수식 문제(1영역)가 발생하는 빈도를 근본적으로 줄일 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>회사 업무 특성상 모든 일이 긴급하게 쏟아지는데 2영역(중요하지만 안 긴급한 일)을 어떻게 챙기나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">회사 업무 특성상 모든 일이 긴급하게 쏟아지는데 2영역(중요하지만 안 긴급한 일)을 어떻게 챙기나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       모든 일이 긴급해 보인다면, 타인의 마감기한이 나의 중요도보다 우선시되고 있기 때문입니다. 아침 첫 30분 동안 이메일과 메신저를 켜지 않고 오직 2영역의 기획이나 학습에 몰입하는 '나만의 방해 금지 블록'을 강제로 설정하십시오. 이 작은 시간 확보가 장기적으로 사후 수습 업무를 줄이는 촉매가 됩니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>무엇이 '중요한 일'이고 무엇이 '긴급한 일'인지 객관적으로 구분하는 기준은 무엇인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">무엇이 '중요한 일'이고 무엇이 '긴급한 일'인지 객관적으로 구분하는 기준은 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       '긴급한 일'은 타인의 일정과 요청에 의해 발생하며 즉각적인 반응을 요구하는 과제(메일, 메신저 알림, 당장의 마감)입니다. 반면 '중요한 일'은 타인의 요구와 상관없이 나의 장기적인 목표, 역량 강화, 핵심 가치를 실현하는 과제입니다. '이 일을 처리하지 않았을 때 1년 후 내 삶에 큰 영향을 미치는가?'를 질문해 보면 명확히 구분됩니다.
     </p>
   </details>

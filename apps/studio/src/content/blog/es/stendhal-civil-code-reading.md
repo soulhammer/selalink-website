@@ -25,14 +25,16 @@ faqs:
 
 Stendhal (nombre real Henri Beyle, 1783–1842) fue un maestro del realismo literario francés del siglo XIX que capturó con precisión la vanidad y la psicología del amor. Sus obras maestras, 'Rojo y negro' (Le Rouge et le Noir) y 'La cartuja de Parma' (La Chartreuse de Parme), son aclamadas como biblias de la narrativa moderna debido a su estilo sobrio y lúcido. Mientras que la literatura de principios del siglo XIX estaba dominada por el romanticismo emocional, Stendhal insistía en oraciones tan precisas como las matemáticas. Cada mañana, antes de tomar la pluma, leía varias páginas del Código Napoleónico (Código Civil francés). Al calentar su cerebro con textos legales secos y fríos, eliminaba la paja sentimental y se concentraba en descripciones racionales basadas en hechos.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva.
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ Según el Efecto de Cebado (Priming Effect) en ciencia cognitiva, cuando el cere
 
 Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos complejos o análisis legales. Analizar profundamente precedentes o interpretaciones jurídicas antes de escribir corre el riesgo de agotar los recursos cognitivos prefrontales (Agotamiento Cognitivo). La esencia de esta rutina no es adquirir conocimientos jurídicos, sino percibir visualmente la estructura concisa y las combinaciones claras de palabras. Por lo tanto, escanee de forma ligera las frases sin pensar demasiado en el texto en sí.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Leer el Código Civil ayuda cuando se redactan textos publicitarios u ensayos emocionales?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Leer el Código Civil ayuda cuando se redactan textos publicitarios u ensayos emocionales?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Cuando necesite escribir textos persuasivos o emocionales, es mejor usar como texto de cebado copys publicitarios atractivos o ensayos evocadores en lugar de códigos legales. El núcleo del hábito de Stendhal es cebar el cerebro con textos que coincidan con el tono deseado del resultado.
     </p>
   </details>

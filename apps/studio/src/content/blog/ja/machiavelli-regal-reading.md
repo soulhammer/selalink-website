@@ -31,14 +31,16 @@ faqs:
 
 本記事では、マキアヴェッリが実践した衣服の礼節が持つ知的効能を脳科学的に解釈し、現代人が散漫になりがちな室内環境において自分だけの物理的認知スイッチとなる格調高い衣装を整え、1秒で最適な没頭状態を達成する3段階の実践法を提示します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ニコロ・マキアヴェッリの書簡史料『マキアヴェッリ書簡集（Letters of Machiavelli）』の考証および認知神経科学（Cognitive Neuroscience）・認知心理学（Cognitive Psychology）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ニコロ・マキアヴェッリの書簡史料『マキアヴェッリ書簡集（Letters of Machiavelli）』の考証および認知神経科学（Cognitive Neuroscience）・認知心理学（Cognitive Psychology）研究に基づいています。
     </p>
   </div>
 </div>
@@ -93,27 +95,27 @@ faqs:
 
 単に高価で堅苦しい服を着る必要はなく、服装を通じて脳が「没頭・作業モード」という固有の役割アイデンティティを自覚することが本質です。身体を過度に締め付けたり痛みを生じさせる無理なスーツは認知リソースを奪うため、休息着と明確に区別されつつも快適に集中できる清潔感のある活動着レベルを設定するのが最も理想的です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在宅勤務や自宅学習の際、パジャマの代わりに外出着を着ることは本当に効果がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在宅勤務や自宅学習の際、パジャマの代わりに外出着を着ることは本当に効果がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、認知心理学の着衣認知（Enclothed Cognition）研究がこれを強力に立証しています。パジャマやホームウェアの代わりにスラックスやシャツなど整った服に着替える行動だけでも、脳は「休息文脈」から「作業文脈」へと象徴的モードを切り替え、先延ばし癖を減らし没頭初期のウォーミングアップ時間を劇的に短縮させます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>スーツや外出着全体に着替えるのが難しい場合、眼鏡や時計のような単一のアイテムだけでも効果を得られますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">スーツや外出着全体に着替えるのが難しい場合、眼鏡や時計のような単一のアイテムだけでも効果を得られますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、十分に可能です！脳に「象徴的な作業信号」として認識されるアイテムであれば、眼鏡をかける、集中専用のアナログ時計を着ける、清潔な室内スリッパを履くなどの単一の信号だけでも同様の条件付け効果を誘導できます。ポイントは「このアイテムを着用したら没頭モードに入る」という自分だけの象徴的ルールを一貫して堅持することにあります。
     </p>
   </details>

@@ -27,14 +27,16 @@ faqs:
 
 Rembrandt van Rijn, a master painter of the Dutch Golden Age often hailed as the 'Master of Light'. Although he enjoyed supreme wealth and fame in his youth, in his later years he faced severe hardship including bankruptcy and the successive deaths of loved ones. Yet he did not bow to trial, pouring out masterpieces. His secret lay in his lifelong habit of self-portrait visual reflection. Rembrandt left behind over 80 self-portraits during his lifetime, which were traces of daily reflection through the mirror—gazing at his own transformations from youthful arrogant glory to lonely old-age wrinkles. We explore Rembrandt's reflection formula of standing before a mirror to awaken the brain's self-referential cognitive circuits and steady emotional fluctuations.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historical & Academic Evidence
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This content is based on <strong>Historical critical biography and autobiographical records of Rembrandt Self Portrait Reflection & Cognitive Neuroscience research</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      This content is based on Historical critical biography and autobiographical records of Rembrandt Self Portrait Reflection & Cognitive Neuroscience research.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ Gazing deeply into one's own eyes in the mirror for more than 3 minutes strongly
 
 The item to guard against most when conducting mirror reflection is 'evaluating and obsessing' over physical flaws (skin trouble, wrinkles, symmetry, etc.). Starting to evaluate facial flaws activates the brain's negative emotional filter again, causing stress. Like Rembrandt, you must observe the light and shadow of the whole face, the sparkle in your eyes, and the flow of facial expressions in a matter-of-fact, visual fact-based manner—as if viewing another person's painting—to achieve true self-objectification.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Should I stop if I feel strange or depressed when looking at the mirror continuously?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Should I stop if I feel strange or depressed when looking at the mirror continuously?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Yes. If mood distortion or feelings of depression intensify, you may have fallen into a self-criticism loop, so stop immediately. Instead, detour to training that checks your body grounding (earthing) sensations first by looking at your shoulder line or hand shape rather than your pupils.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>When is the best time of day to do mirror self-reflection?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">When is the best time of day to do mirror self-reflection?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       A 3-minute routine in front of the bathroom mirror right after finishing a shower is best. In a parasympathetic-dominant state where the body is relaxed, the brain's defense mechanisms soften, making for the most truthful and comfortable self-confrontation.
     </p>
   </details>

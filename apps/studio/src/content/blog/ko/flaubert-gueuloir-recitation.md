@@ -29,14 +29,16 @@ faqs:
 
 프랑스 루앙 근교 크루아세(Croisset)의 저택 집필실에서 그가 문장의 최종 합격을 판정할 때 썼던 가장 기이하고 위대한 습관은, 밤마다 자신이 쓴 글을 가슴이 터질 듯 큰 소리로 질러대며 낭독하는 것이었습니다. 그는 이 혹독한 낭독 검증 장소를 'Gueuloir(포효실, '목청을 높여 소리 지르는 곳'이라는 뜻)'라 불렀습니다. 플로베르는 "내 문장들은 목청껏 소리 질러 읽어야 하는 문장들이다. 입으로 소리 내어 읽었을 때 호흡이 걸리거나 음악적 운율이 깨지는 문장은 결코 살아있는 문장이 아니다"라고 단언했습니다. 낭독을 통해 뇌의 모든 감각을 깨워 논리적, 예술적 완결성에 도달하는 플로베르의 언어 조율 비법을 과학적으로 규명합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>귀스타브 플로베르 서간집(Correspondance) 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 귀스타브 플로베르 서간집(Correspondance) 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 낭독 퇴고 습관을 가질 때 피해야 할 것은 너무 빠르게 대충 훑어 읽는 것입니다. 뇌가 이미 눈으로 익숙해진 글을 속독하듯이 낭독해버리면, 잘못된 단어 배열이나 어휘 오류를 대뇌가 무의식중에 상상으로 채워 정상 문장으로 오인하는 인지 왜곡이 일어납니다. 따라서 낭독할 때는 한 자 한 자 눈으로 손끝을 짚어가며 짚어 읽듯 느리게 발음해야 합니다. 특히 문장의 마침표와 쉼표를 과장되게 길게 쉬어가며 읽어야 문장 간의 호흡 길이와 운율적 완성도를 객관적인 지각 데이터로 뇌에 공급할 수 있습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>조용한 사무실이나 카페에서 작업할 때도 소리 내어 읽어야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">조용한 사무실이나 카페에서 작업할 때도 소리 내어 읽어야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       공공장소에서 크게 말하는 것은 곤란하므로, 그럴 때는 들릴락 말락 한 작은 속삭임(Sub-whisper)으로 웅얼거리며 입술과 혀의 물리적 운동을 가동하십시오. 입모양과 조음 기관을 직접 움직이는 것만으로도 단순 묵독에 비해 뇌의 운동 피질 자극을 이끌어내어 오류 감지 성능을 어느 정도 얻을 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>문학 작품이 아닌 비즈니스 기획서나 보고서에도 낭독 퇴고 습관이 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">문학 작품이 아닌 비즈니스 기획서나 보고서에도 낭독 퇴고 습관이 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 효과적입니다. 기획서나 보고서의 비문, 어색한 접속사, 과도하게 긴 문장 구조는 낭독할 때 숨이 막히거나 입에서 바로 걸려 넘어집니다. 낭독은 문서의 가독성과 설득력 있는 논리 흐름을 다듬는 가장 정밀한 필터 역할을 합니다.
     </p>
   </details>

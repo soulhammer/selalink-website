@@ -29,14 +29,16 @@ faqs:
 
 그의 아내 로라 페르미(Laura Fermi)가 회고록 『내 남편 엔리코 페르미』에서 증언했듯, 페르미가 평생 고수한 극도로 엄격한 시간 관리의 비밀은 바로 '아침 2시간의 고독 계산 습관'이었습니다. 그는 매일 새벽 5시 30분에 기상하여 출근과 아침 식사를 하기 전까지 2시간 동안 서재에 틀어박혀 누구의 방해도 받지 않은 채 오직 수식을 유도하고 독서와 연산을 수행했습니다. 뇌의 연산 능력이 가장 예리한 아침 골든 아워를 지켜낸 페르미의 시간 활용법을 신경과학적으로 분석합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>로라 페르미 『내 남편 엔리코 페르미(Atoms in the Family: My Life with Enrico Fermi)』 및 자서전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 로라 페르미 『내 남편 엔리코 페르미(Atoms in the Family: My Life with Enrico Fermi)』 및 자서전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 이 고독한 집중 세션을 유지할 때 주의할 점은 아침 식사를 지나치게 많이 하여 위장 장기를 과부하시키는 것입니다. 정량 이상의 탄수화물이나 고지방 식사는 위장 소화를 위해 체내 혈류를 위장관으로 집중시켜 뇌로 향하는 뇌혈류량과 산소 공급을 급감하게 만듭니다. 이로 인해 인지적 피크 타임에 식곤증과 나른함(Postprandial Somnolence)이 유발되어 연산 성능이 훼손됩니다. 따라서 아침 2시간의 격렬한 두뇌 노동이 끝나기 전에는 가벼운 물이나 시럽 없는 녹차, 블랙커피 등으로 소화 장기를 최소한으로 다독인 후 빈속(공복 상태)을 유지하며 연산에 집중하는 것이 두뇌 회전에 훨씬 이롭습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>2시간 내내 집중을 유지하기 어려워서 자꾸 딴생각이 나는데 집중 주기를 어떻게 조절하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">2시간 내내 집중을 유지하기 어려워서 자꾸 딴생각이 나는데 집중 주기를 어떻게 조절하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       처음부터 2시간 연속 몰입은 어려우므로, 50분 집중 후 10분 스트레칭을 수행하는 '2세트 분할 집중' 기법을 실천하십시오. 단, 10분 휴식 시간에도 절대 메신저를 켜지 않고 가벼운 물 마시기나 제자리걸음으로 뇌에 혈류를 돌린 후 즉각 2차 세션으로 복귀해야 흐름이 깨지지 않습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>새벽 기상이 어려운 저녁형 인간(올빼미족)도 이 인지적 골든 아워를 활용할 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">새벽 기상이 어려운 저녁형 인간(올빼미족)도 이 인지적 골든 아워를 활용할 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 가능합니다. 핵심은 '새벽'이라는 시각 그 자체보다 '기상 직후 방해 자극이 없는 2시간 동안 뇌의 인지 자원을 가장 복잡한 난제에 배치하는 것'입니다. 기상 후 첫 2시간 동안 스마트폰 메시지나 뉴스 같은 디지털 외부 자극을 철저히 차단하는 환경을 조성하면 동일한 몰입 효과를 누릴 수 있습니다.
     </p>
   </details>

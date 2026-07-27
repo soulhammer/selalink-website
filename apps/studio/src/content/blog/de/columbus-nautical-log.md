@@ -31,14 +31,16 @@ Sein Geheimnis war ein nächtliches Aufzeichnungsprotokoll. Jeden Abend maß Kol
 
 Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Christoph Kolumbus' Routine der 'nächtlichen quantitativen Protokollierung' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um alltägliche Ängste abzubauen und die präfrontale Kontrolle durch objektive Kennzahlen wiederherzustellen.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Historischer & Wissenschaftlicher Beleg
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Bartolomé de las Casas' *Schiffstagebuch des Christoph Kolumbus (The Diario of Christopher Columbus)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Dieser Inhalt basiert auf Historische Überprüfung aus Bartolomé de las Casas' *Schiffstagebuch des Christoph Kolumbus (The Diario of Christopher Columbus)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ Vage Ängste überstimulieren das Angstzentrum des limbischen Systems – die Am
 
 Das Fundament dieser Routine ist das Verwandeln subjektiver Gefühle in objektive Daten. Das Aufschreiben emotionaler Klagen wie 'Heute war alles zu viel' vor dem Schlafen aktiviert die Amygdala erneut und verschlechtert den Schlaf. Verzichten Sie auf Gefühlsausbrüche. Notieren Sie stattdessen quantitative Daten: '4 von 5 Zielen erreicht', 'Fortschritt: 80 %', 'Hauptaufgabe für morgen: 1 Punkt'.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Erzielt das Schreiben in eine Notiz-App auf dem Smartphone denselben Beruhigungseffekt auf die Amygdala?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Erzielt das Schreiben in eine Notiz-App auf dem Smartphone denselben Beruhigungseffekt auf die Amygdala?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Nein. Handschriftliches Schreiben liefert taktiles Feedback, das motorische und somatosensorische Areale aktiviert und die präfrontale Kontrolle stärkt. Zudem unterdrückt das blaue Licht von Smartphones Melatonin. Ein physisches Papiernotizbuch ist vorzuziehen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Was sollte ich an Tagen tun, an denen ich zu erschöpft bin, um ein vollständiges Logbuch zu schreiben?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Was sollte ich an Tagen tun, an denen ich zu erschöpft bin, um ein vollständiges Logbuch zu schreiben?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Es reicht völlig aus, eine einzige Zeile zu schreiben – wie 'Heute erledigt: Aufgabe A'. Das Ziel ist nicht Perfektion, sondern das Beibehalten der Aufzeichnungsschleife. Diese kleine Handlung signalisiert Kontrolle und beruhigt die Amygdala.
     </p>
   </details>

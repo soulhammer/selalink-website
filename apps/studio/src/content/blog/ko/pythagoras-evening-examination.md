@@ -27,14 +27,16 @@ faqs:
 
 수학과 기하학의 거장이자 우주의 만물이 수로 이루어져 있다고 주장한 고대 그리스의 철학자 피타고라스. 그는 제자들과 함께 철저한 금욕과 영혼의 조화를 추구했던 신비주의 공동체를 이끌었습니다. 이 공동체에서 가장 중요하게 여겨졌던 실천 강령은 바로 밤마다 행해지는 저녁 성찰 습관이었습니다. 피타고라스 학파의 《황금률》에 따르면, 그들은 잠들기 전 하루 동안의 일을 세 번 되뇌어 자문했습니다. '내가 무엇을 잘못했는가?', '내가 오늘 실천한 선은 무엇인가?', '해야 했으나 하지 못한 일은 무엇인가?'. 하루를 고찰하여 인격의 완성을 꾀했던 피타고라스의 밤의 루틴을 분석합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Pythagoras Evening Examination 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Pythagoras Evening Examination 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 저녁 성찰의 가장 큰 위험은 성찰이 자책이나 후회(Rumination)로 변질되는 것입니다. 오늘 발생한 나쁜 사건에 감정적으로 매몰되어 반추를 반복하면, 스트레스 호르몬인 코르티솔이 분비되어 되려 불면을 초래합니다. 성찰을 진행할 때는 철저히 제3자의 입장에서 사건만을 객관적으로 바라보는 '인지적 거리두기(Cognitive Distance)'를 유지해야 하며, 자책 대신 '다음에는 이렇게 개선하겠다'는 행동 대안에 집중해야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>하루 종일 너무 바쁘고 피곤해서 성찰하다가 그냥 자버리는데 어쩌죠?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">하루 종일 너무 바쁘고 피곤해서 성찰하다가 그냥 자버리는데 어쩌죠?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       피곤해서 잠드는 것은 자연스러운 현상입니다. 다만, 침대 위가 아닌 일기를 쓰듯이 책상에 앉아서 5분만 짧게 기록하는 방식으로 진행하는 것이 수면 유도와 수면 관성을 방지하는 데 도움을 줍니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>자책으로 밤잠을 설칠 때는 어떻게 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">자책으로 밤잠을 설칠 때는 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       감정 반추가 시작되면 자문을 즉시 중단하십시오. 그 대신 '이미 일어난 일은 어쩔 수 없으며, 내일 1가지만 다르게 하겠다'라고 대안적 선택지만 메모한 후 성찰을 끝마치는 훈련이 필요합니다.
     </p>
   </details>

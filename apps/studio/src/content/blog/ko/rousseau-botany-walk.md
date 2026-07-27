@@ -27,14 +27,16 @@ faqs:
 
 프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소(Jean-Jacques Rousseau). 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 가능합니다. 식물을 직접 채집하지 않더라도, 주변의 화단이나 정원에서 나뭇잎, 이끼, 작은 야생초들의 모양을 유심히 유기적으로 바라보는 행위만으로도 뇌의 주의력 회복망을 훌륭하게 자극할 수 있습니다.
     </p>
   </details>

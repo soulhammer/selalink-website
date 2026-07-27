@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将从神经科学角度解读马基雅维利衣着礼仪的认知功效，并为在分散与杂乱的室内环境中奋斗的现代人提供一套3步骤实操方案，通过配备专属的物理认知开关（正式服装），在1秒内进入最佳专注状态。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>考证自尼科洛·马基雅维利书信史料《马基雅维利书信集（Letters of Machiavelli）》及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 考证自尼科洛·马基雅维利书信史料《马基雅维利书信集（Letters of Machiavelli）》及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究。
     </p>
   </div>
 </div>
@@ -93,27 +95,27 @@ faqs:
 
 核心不在于穿着昂贵或严肃的服装，而在于让大脑通过衣着察觉到“专注与工作模式”的独特角色身份。过紧或引发身体不适的强求正装会消耗认知资源；因此，设定一套既能与休息服明确区分、又能舒适专注的整洁便服标准最为理想。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>居家办公或在家学习时，换掉睡衣穿上外出服真的有效吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">居家办公或在家学习时，换掉睡衣穿上外出服真的有效吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，认知心理学关于“着衣认知（Enclothed Cognition）”的研究有力地证明了这一点。仅需将睡衣或家居服换成休闲西裤、衬衫等整洁服装，大脑就会将其视为从“休息语境”切换至“工作语境”的象征模式，从而减少拖延，大幅缩短进入高度专注状态的预热时间。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在不方便彻底更换成整套正装或外出服时，仅靠眼镜或手表等单一物品也能起作用吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">在不方便彻底更换成整套正装或外出服时，仅靠眼镜或手表等单一物品也能起作用吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       是的，完全可以！只要该物品被大脑识别为“象征性工作信号”，仅凭佩戴眼镜、戴上专注专用指针手表或穿上干净整洁的室内鞋等单一暗示，就能诱导相同的心理条件反射效果。核心在于始终如一地坚持自己的象征性规则——“一旦佩戴此物品，即刻进入高度专注模式”。
     </p>
   </details>

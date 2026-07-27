@@ -27,14 +27,16 @@ faqs:
 
 德怀特·D·艾森豪威尔（Dwight D. Eisenhower，1890–1969）是第二次世界大战中指挥诺曼底登陆的盟军最高司令、北约首任最高司令以及美国第34任总统。在掌舵庞大军事行动、冷战外交对峙以及跨州高速公路网建设等人类历史上最复杂庞杂的决策日常中，他终身恪守着一项看似简约却无比强大的铁律：每天清晨在案头的一张白纸上划出一个巨大的十字（+），将所有待办事项归入四个象限。他反复叩问自己：“这项工作究竟是真正重要，还是仅仅紧迫？”在今天的文章中，我们将深度剖析艾森豪威尔矩阵背后的心理学与神经科学原理，带你打破“伪紧急”的枷锁，将核心注意力重新聚焦于决定长远成败的要事上。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>德怀特·D·艾森豪威尔自传《轻松谈往（At Ease: Stories I Tell to Friends）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 德怀特·D·艾森豪威尔自传《轻松谈往（At Ease: Stories I Tell to Friends）》考证及认知神经科学（Cognitive Neuroscience）研究。
     </p>
   </div>
 </div>
@@ -85,27 +87,27 @@ faqs:
 
 在使用优先级分类时，人们最常犯的错误便是通宵达旦地缠斗于第1象限（紧急且重要）。全天被第1象限驱赶着奔跑会导致肾上腺皮质激素（皮质醇）过量分泌，使大脑陷入慢性疲劳与高压。核心秘诀在于：每天务必主动将至少20%的认知资源优先划拨给第2象限（不紧急但重要）——如深度阅读、战略规划、健康管理与人际关怀。只有优先推进第2象限的工作，才能实现可持续的长效成长，并从根本上消减未来第1象限“紧急灭火”类危机的爆发频率。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>在工作中所有任务都显得无比紧急，究竟该如何守住第2象限（重要但不紧急）的事项？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">在工作中所有任务都显得无比紧急，究竟该如何守住第2象限（重要但不紧急）的事项？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       若感到一切均告紧急，意味着他人的截止期限正肆意凌驾于你自身的重要性之上。请强制设立一个“个人防打扰时光”，在清晨开工的前30分钟内绝不打开邮件与即时通讯软件，全神贯注于第2象限的规划或学习。锁定这一微小的时间阵地，将成为长远削减事后“补救清扫工作”的强效催化剂。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>区分“重要事项”与“紧急事项”的客观判定标准是什么？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">区分“重要事项”与“紧急事项”的客观判定标准是什么？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       “紧急事项”多由他人的日程与诉求所驱动，要求即刻做出被动响应（如新邮件、即时通讯弹窗、眼前临近的截止日）。而“重要事项”则与他人的索求无关，直接指向你本人的长远目标、能力塑造与核心价值。不妨扪心自问：“若不处理此事，一年后会对我的生活产生重大深远的影响吗？”答案显而易见。
     </p>
   </details>

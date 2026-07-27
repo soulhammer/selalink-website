@@ -27,14 +27,16 @@ faqs:
 
 유리 가루가 날리는 작업대 앞에 앉아 미세한 렌즈 표면을 문지르는 반복적인 물리적 손동작은, 주저작 『에티카(Ethica)』의 거대한 기하학적 증명으로 과부하에 걸렸던 그의 두뇌가 잠시 쉬어가며 평정을 되찾을 수 있는 최고의 휴식이었습니다. 지적인 고뇌와 연구의 피로가 극에 달했을 때 연마 도구와 유리를 손에 쥐었던 그의 렌즈 세공 습관은 현대 뇌생리학적으로도 두뇌 번아웃을 방지하는 탁월한 인지 제어 활동입니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Spinoza Lens Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 Spinoza Lens Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -85,17 +87,17 @@ faqs:
 
 이러한 이완 효과를 얻으려면 스마트폰이나 키보드를 다루는 일에서 완벽하게 벗어나야 합니다. 전자기기 조작은 뇌에 여전히 고도의 논리 연산을 요구하므로 인지 피로를 덜어주지 못합니다. 설거지, 아날로그 필사, 수공예 조립 등 오직 촉각적 정보와 시공간 제어만 필요한 단순 신체 활동을 선택하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>이 습관을 매일 실천해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">이 습관을 매일 실천해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매일 일정한 시간에 실천할 때 뇌의 신경 가소성이 극대화됩니다. 일정한 시각과 장소에서 지속적으로 실행하여 뇌의 신경 가소성(Neuroplasticity) 회로를 강화하는 것이 가장 확실한 성공 열쇠입니다.
     </p>
   </details>

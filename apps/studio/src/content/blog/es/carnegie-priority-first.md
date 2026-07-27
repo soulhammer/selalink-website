@@ -31,14 +31,16 @@ Al llegar a su escritorio cada mañana, Carnegie establecía de inmediato su lis
 
 En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'primero la tarea más pesada' de Andrew Carnegie —explorando cómo preserva la fuerza de voluntad limitada y previene el Agotamiento del Ego (Ego Depletion)— y presentamos una guía práctica de 3 pasos para que los trabajadores del conocimiento modernos maximicen su eficiencia.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Andrew Carnegie *Autobiografía de Andrew Carnegie (Autobiography of Andrew Carnegie)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Verificación Histórica de la Autobiografía de Andrew Carnegie *Autobiografía de Andrew Carnegie (Autobiography of Andrew Carnegie)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ La investigación neurocientífica y psicológica demuestra que los recursos cog
 
 Para los trabajadores del conocimiento de alto rendimiento, la fuerza de voluntad y la capacidad prefrontal son activos de alto valor que se deprecian a lo largo del día. Carnegie se negó a donar sus horas doradas a tareas menores como responder correos u organizar escritorios, invirtiéndolas en las decisiones comerciales de mayor impacto. Designe esa tarea abrumadora que más desea retrasar como su primer punto del día.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Cómo debo gestionar las comunicaciones urgentes o las solicitudes de respuesta inmediata durante el primer bloque matutino?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Cómo debo gestionar las comunicaciones urgentes o las solicitudes de respuesta inmediata durante el primer bloque matutino?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       A menos que enfrente una crisis organizativa grave, la mayoría de los mensajes 'aparentemente urgentes' pueden esperar de 1 a 2 horas sin consecuencias. Para proteger sus recursos prefrontales, defienda al menos un 'Bloque de Fortaleza Prefrontal' de 1 hora cada mañana.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Cómo aplico esta rutina si la tarea más difícil es demasiado masiva para completarla en un solo día?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Cómo aplico esta rutina si la tarea más difícil es demasiado masiva para completarla en un solo día?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Cuando un proyecto es masivo, el cerebro experimenta respuestas de amenaza y busca evasión antes de comenzar. En esos casos, divida el proyecto en 'subunidades ejecutables en 1 hora matutina' y aborde esa subunidad como su objetivo.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 알렉상드르 뒤마의 '색상 스위칭' 루틴이 지닌 과학적 작동 원리와 현대인들이 복잡한 멀티태스킹 환경 속에서 인지적 집중력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알렉상드르 뒤마 자서전 『회고록(Mes Mémoires)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 알렉상드르 뒤마 자서전 『회고록(Mes Mémoires)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 뒤마에게 색상 종이는 단순한 감상용 소품이 아니라, 뇌에 명확한 인지적 경계선을 그어주어 전환 장벽을 허무는 지능적인 신경 보조 도구였습니다. 카테고리를 지나치게 세분화하여 5개 이상의 색상을 사용하면 뇌가 색상과 작업 상태를 연합 학습(Associative Learning)하지 못해 오히려 인지 과부하가 발생합니다. 핵심 과업 영역을 최대 3개 이하의 대분류로 정해두고, 각 전용 색상 테마를 일정 기간 변함없이 일관되게 유지해야만 강력한 프라이밍 조건반사가 완성됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아날로그 종이나 필기구가 아닌 디지털 앱(노션, 필기 앱, 브라우저)에서도 동일한 프라이밍 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아날로그 종이나 필기구가 아닌 디지털 앱(노션, 필기 앱, 브라우저)에서도 동일한 프라이밍 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 완벽히 동일합니다. 핵심 메커니즘은 종이의 재질이 아니라 '시각 피질로 유입되는 색상 신호와 특정 인지 상태 간의 연합 조건화'에 있습니다. 필기 앱의 속지 배경색, 노션 워크스페이스 테마, 크롬 프로필 색상을 용도별로 완전히 다르게 세팅하는 것만으로도 전전두엽은 동일하게 프라이밍 신호를 수용합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>색상을 너무 세분화하여 자주 바꾸면 오히려 두뇌에 역효과나 인지 과부하가 나지 않나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">색상을 너무 세분화하여 자주 바꾸면 오히려 두뇌에 역효과나 인지 과부하가 나지 않나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 맞습니다. 뇌가 특정 색상과 인지 모드를 유기적으로 바인딩하려면 지속적이고 반복적인 연합 학습 과정이 필수적입니다. 5개 이상의 색상을 복잡하게 혼용하면 뇌는 시각적 노이즈로 인식하여 프라이밍 효과가 상실됩니다. 반드시 핵심 과업 영역을 2 ~ 3개 이하로 최소화하고 고유 색상을 일정 기간 고정하여 유지하는 것이 인지적 유익을 극대화하는 길입니다.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 레이첼 카슨의 조간대 관찰 습관에 담긴 주의 회복 이론(Attention Restoration Theory, ART)의 뇌과학적 원리를 규명하고, 현대인이 일상에서 디지털 피로를 씻어내고 인지적 유연성을 되찾을 수 있는 3단계 아웃도어 저널 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>레이첼 카슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 레이첼 카슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 야외로 나아가서도 스마트폰 카메라로 연속 촬영을 하거나, SNS 알림을 확인하고, 팟캐스트를 청취하는 행동은 뇌의 지향성 주의를 계속 사용하게 만듭니다. 이는 카슨이 경험했던 인지 복원 효과를 반감시킵니다. 자연 관찰 세션 동안에는 기기를 완벽히 격리하고, 바람, 흙, 미세 생명체의 디테일을 오롯이 눈과 손으로 감각하는 무자극 정적 상태를 유지해야 전전두엽 리셋 효과가 발동합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>거대한 자연 해안가나 숲이 아닌 집에 있는 실내 식물을 관찰해도 인지 복원 효과가 나나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">거대한 자연 해안가나 숲이 아닌 집에 있는 실내 식물을 관찰해도 인지 복원 효과가 나나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 충분한 효과가 있습니다. 비록 규모는 작더라도 화분 잎사귀의 미세 잎맥, 흙의 건조도, 줄기의 촉감을 유심히 살피며 저널을 적는 행위 역시 '부드러운 매료' 상태를 유도하여 전두엽을 휴식시키고 스트레스를 대폭 줄여줍니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>아웃도어 저널 수첩에 그림이나 스케치를 완벽하게 그릴 줄 몰라도 괜찮나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">아웃도어 저널 수첩에 그림이나 스케치를 완벽하게 그릴 줄 몰라도 괜찮나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 전혀 상관없습니다. 스케치는 관찰 대상을 정밀하게 시각화하기 위한 보조 도구일 뿐입니다. 그림을 전혀 그리지 못하더라도, 관찰한 대상의 색채, 질감, 형상, 변화를 2 ~ 3줄의 디테일한 언어적 단어로 서술하는 것만으로도 두뇌의 통합 인지 처리를 촉진하는 데 완벽합니다.
     </p>
   </details>

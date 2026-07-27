@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构林德伯格“检查单执行”习惯背后降解大脑工作记忆过载、规避失误的神经科学原理，并分享一套助现代人在撰写策划案、审核合同或进行重磅汇报前归零失误的3步骤实践指南。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>查尔斯·林德伯格普利策奖自传《圣路易斯精神（The Spirit of St. Louis，1953）》与航空档案考证及认知神经科学（Cognitive Neuroscience）与人因工程学（Human Factors Engineering）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 查尔斯·林德伯格普利策奖自传《圣路易斯精神（The Spirit of St. Louis，1953）》与航空档案考证及认知神经科学（Cognitive Neuroscience）与人因工程学（Human Factors Engineering）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 检查单的核心精髓全在于借助手指或鼠标光标逐行挑点列线展开一比一对照的物理感官同步。若仅靠双眼草草扫过并假想“已确认无误”，根本无法防御大脑的视错觉与自动化忽略缺陷。务必恪守以指尖压住条目逐一指差复诵确认（Pointing and Calling）的硬核习惯。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>检查单条目是否设立得越繁复微杂越佳？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">检查单条目是否设立得越繁复微杂越佳？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       绝对并非如此。若检查单篇幅过于臃肿冗长，大脑极易招致认知疲劳，反而会诱发跳读走过场的自动化恶性反应。在神经科学层面，将其严苛锁死于5-9项最易引发毁灭性坍塌的核心要点（契合米勒法则工作记忆组块上限），才是最完美的架构。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>将检查单深度植入何种类型的日常工作，能斩获至为卓绝的防错效益？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">将检查单深度植入何种类型的日常工作，能斩获至为卓绝的防错效益？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       此习惯在一切极度依赖步骤顺序精准度的任务中具备降维打击效益：如高频重复的日常流转业务、需对公众发布且漏错成本毁灭性的重磅项目上线发版前夕、关键法律合同审校、财务款项出纳、乃至商务出差行李打包等。
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 프로이트가 매일 실천했던 '속보와 무의식 기록' 루틴의 과학적 메커니즘과 현대인을 위한 실천법을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>시그문트 프로이트 자서전 『나의 생애와 정신분석(An Autobiographical Study)』 및 비엔나 프로이트 박물관(Sigmund Freud Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 시그문트 프로이트 자서전 『나의 생애와 정신분석(An Autobiographical Study)』 및 비엔나 프로이트 박물관(Sigmund Freud Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 이 저녁 루틴은 칼로리 소모를 목적으로 하는 격렬한 체력 훈련이 아닙니다. 따라서 숨이 턱 막힐 정도로 너무 강하게 달리는 것보다, 옆 사람과 대화는 가능하되 호흡이 가빠질 정도인 빠른 속보 상태를 유지하는 것이 뇌파 안정에 좋습니다. 또한 수면에 방해를 받지 않기 위해 취침 최소 3시간 이전에 마치는 것을 추천합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>저녁이 아닌 아침이나 오후에 산책을 해도 동일한 효과를 내나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">저녁이 아닌 아침이나 오후에 산책을 해도 동일한 효과를 내나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 하루 중 언제 걸어도 양측성 감각 자극과 전두엽 활성화 효과는 동일하게 발생합니다. 다만 아침 산책은 잠을 깨우는 각성 효과가 크고, 프로이트처럼 저녁에 걷는 것은 하루 동안 환자들과의 소통과 복잡한 업무로 인해 쌓인 인지적 쓰레기와 정서적 긴장을 즉시 리셋해주는 독특한 감정 이완의 혜택을 줍니다. 자신의 스트레스 형태에 맞춰 시간대를 선택하세요.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>무의식 일기를 스마트폰 메모장이나 키보드로 타이핑하면 안 되나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">무의식 일기를 스마트폰 메모장이나 키보드로 타이핑하면 안 되나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       타이핑을 통한 입력을 할 때는 화면의 시각 피드백이 단순해지며 기기를 보며 뇌가 즉시 논리 연산 모드로 돌아갑니다. 반면, 펜을 쥐고 직접 종이에 꾹꾹 눌러쓰는 행위는 손가락 끝의 미세한 근육 자극을 통해 뇌의 그물망 활성계(RAS)를 더 강하게 자극합니다. 이는 무의식의 억눌린 개념들을 보다 편안하고 직관적으로 끄집어내는 데 압도적으로 우수한 생리적 환경을 만듭니다.
     </p>
   </details>

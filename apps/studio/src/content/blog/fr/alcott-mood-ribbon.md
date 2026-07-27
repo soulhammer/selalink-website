@@ -29,14 +29,16 @@ Lorsqu'Alcott commençait à écrire ou avait besoin d'une concentration intense
 
 Dans l'article d'aujourd'hui, nous explorerons les principes de fonctionnement cognitif de la routine de signal de concentration pratiquée par Alcott et comment les individus modernes peuvent l'appliquer pour se créer un environnement immersif.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Recherche dans *Journal of Personality and Social Psychology*</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Recherche dans *Journal of Personality and Social Psychology*.
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ Lorsque votre flux est interrompu par un bruit externe ou la question de quelqu'
 
 Lorsqu'on utilise des indicateurs de signal de concentration, l'aspect le plus important est l'accord préalable avec la famille ou les collègues. Fermer soudainement la porte à la communication sans préavis peut susciter un sentiment de rejet chez les autres. Une routine positive s'installe lorsque des règles claires — telles que « Merci de différer les contacts non urgents uniquement pendant l'heure où cet indicateur est visible » — sont mutuellement intégrées, et que l'indicateur est immédiatement désactivé une fois le temps convenu écoulé pour restaurer la communication.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Que dois-je faire si mon entourage n'apprécie pas cette routine de signal sous prétexte qu'elle nuit à la communication ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Que dois-je faire si mon entourage n'apprécie pas cette routine de signal sous prétexte qu'elle nuit à la communication ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Il convient d'éviter de laisser le signal de blocage activé pendant des périodes excessivement longues. Il est essentiel de limiter la durée de concentration à un maximum de 50 minutes à 1 heure, et d'instaurer la confiance en démontrant activement que vous êtes disponible pour discuter en dehors de ces créneaux.
     </p>
   </details>

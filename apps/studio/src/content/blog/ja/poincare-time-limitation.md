@@ -23,14 +23,16 @@ faqs:
 
 「突然のひらめきは、常に数日間の自発的な努力の後に訪れる無意識の作業の明白な兆候です。」フランスの三体問題の解決者でありカオス理論の先駆者、現代数学史上最も偉大な天才の一人に数えられるアンリ・ポアンカレ（Henri Poincaré）。彼は驚くべきことに、生涯1日にたった4時間だけ机に向かって研究するという厳格な限界を設けていました。彼は午前10時から12時、利益午後5時から7時までのわずか4時間だけ深く働き、残りの時間は散歩や社交活動をして脳を完全にオフライン状態で休ませました。興味深いことに、ポアンカレは解けなかった数学の難題（フックス関数）の核心公式が研究室の机ではなく、地質調査旅行中にクータンス（Coutances）でオムニバス（乗合馬車）のステップに足をかけたその瞬間に、突然完成された形で頭の中に閃いたと回想しています。彼は数日間の熾烈な前頭葉の集中の後に訪れる完全な休息（インキュベーション期間）こそが、無意識の脳神経系を活性化させて有機的な創造的結合を生み出すと強調しました。本記事では、アンリ・ポアンカレの「4時間集中制限」ルーティンに隠された脳の集中モードと分散モードの相互作用原理を明かし、現代人が創造的問題解決のためにこれを活用する3ステップの実践方法を提案します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -83,17 +85,17 @@ faqs:
 
 合創造的な考えは無理に絞り出そうとするときに出るものではありません。脳の集中限界時間を明確に設定し、解けない問題があれば思い切って席を立って散歩をし、脳に「分散モード」の休息を与えてください。無意識があなたに代わって解答を見つけてくれるはずです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>アンリ・ポアンカレはなぜ1日4時間しか研究しなかったのですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">アンリ・ポアンカレはなぜ1日4時間しか研究しなかったのですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       長時間無理に集中すると脳の認知的視野が狭まり、かえって創造性が低下するためです。4時間の集中モードが終わった後は散歩や休息を通じた分散モードを活性化させ、脳の無意識のひらめきを引き出すためでした。
     </p>
   </details>

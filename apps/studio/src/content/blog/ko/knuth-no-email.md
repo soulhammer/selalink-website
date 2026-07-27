@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 도널드 너스의 이메일 단절 루틴이 두뇌의 주의 전환 비용을 어떻게 원천적으로 방지하는가 규명하고, 현대 지식 근로자들이 디지털 알림 지옥에서 벗어나 뇌의 최대 가치를 끄집어내는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 도널드 너스처럼 이메일과 실시간 메신저를 완전히 영구 차단하는 방식은 협업 조직에서 현실적으로 어려울 수 있습니다. 핵심은 아율 끊는 것이 아니라, 실시간 확인 본능을 억제하고 배치 처리(Batch Processing) 방식을 도입하는 것입니다. 매일 정해진 1 ~ 2회의 일괄 답장 타임윈도 외에는 알림을 차단하여 뇌의 연속 몰입 시간(Chunk of Focus)을 보호하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>협업 중인 동료들에게 이메일 확인이 늦어지는 제 일정을 오해 없이 어떻게 공유하고 소통해야 할까요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">협업 중인 동료들에게 이메일 확인이 늦어지는 제 일정을 오해 없이 어떻게 공유하고 소통해야 할까요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       이메일 자동 응답기나 메신저 프로필 상태창에 일정을 명시적으로 고지하세요. '현재 핵심 프로젝트 몰입을 위해 매일 2회(11시, 16시) 메일을 일괄 확인하고 있습니다. 긴급 연락은 전화나 비상 채널을 이용해 주세요'라는 메시지를 남기는 것만으로도 소통 부재에 대한 우려를 줄이고 인지적 보호벽을 구축할 수 있습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>너문는 세계적인 대가라 이메일을 끊을 수 있었던 것 같은데, 일반 직장인도 적용 가능한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">너문는 세계적인 대가라 이메일을 끊을 수 있었던 것 같은데, 일반 직장인도 적용 가능한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 완전히 동일한 원리로 적용할 수 있습니다. 메일을 영구 차단할 필요 없이 하루 1 ~ 2시간만이라도 '알림 끄기 모드'를 설정하고 딥 워크 블록으로 만드는 것만으로도 컨텍스트 스위칭 비용을 현격히 줄이고 주의력을 보호할 수 있습니다.
     </p>
   </details>

@@ -25,14 +25,16 @@ faqs:
 
 Platón, el gran filósofo que sentó las bases de la filosofía occidental, formuló la Teoría de las Ideas y fundó la Academia, la primera institución de educación superior del mundo occidental. Nacido como Aristocles, entrenó en lucha bajo la tutela de Aristón de Argos y compitió en prestigiosos juegos como los Juegos Ístmicos. El propio nombre 'Platón' proviene de la palabra griega 'platys', que significa 'hombros anchos'. A lo largo de su vida, cada mañana antes de entablar profundos debates filosóficos, se untaba aceite de oliva y realizaba intensos entrenamientos de lucha y fuerza en el gimnasio. Platón creía que solo cuando el cuerpo experimenta una alta resistencia física, el cerebro se prepara adecuadamente para contemplar la lógica abstracta y el mundo de las Ideas. Este artículo explora los mecanismos fisiológicos de la rutina de calentamiento de Platón y ofrece una guía moderna de 15 minutos de entrenamiento en casa.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fundamento Histórico y Académico
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este contenido se basa en <strong>Biografías históricas y escritos sobre Platón e investigación en neurociencia cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este contenido se basa en Biografías históricas y escritos sobre Platón e investigación en neurociencia cognitiva.
     </p>
   </div>
 </div>
@@ -83,27 +85,27 @@ Según la fisiología del ejercicio y la ciencia cognitiva modernas, el entrenam
 
 Comenzar un ejercicio de alta intensidad inmediatamente después de despertarse sin calentar puede sobrecargar las articulaciones y los ligamentos. Siempre caliente sus articulaciones con estiramientos suaves antes de realizar ejercicios con el peso corporal. Además, descansar más de 15 minutos después del ejercicio reduce los beneficios del pico de flujo sanguíneo cerebral, por lo que se recomienda pasar al trabajo mental complejo dentro de los 5 minutos posteriores a la recuperación de la respiración.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>¿Es apta esta rutina para principiantes con articulaciones débiles o sin experiencia en ejercicios de resistencia?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">¿Es apta esta rutina para principiantes con articulaciones débiles o sin experiencia en ejercicios de resistencia?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Sí, no es necesario levantar pesas pesadas ni hacer ejercicios de alto riesgo. Puede reducir la intensidad haciendo flexiones contra la pared, sentadillas lentas o planchas suaves. El indicador fisiológico para aumentar el flujo sanguíneo cerebral es 'respirar con dificultad y sudar ligeramente', así que adapte la intensidad de forma segura.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>¿Puedo sustituir el entrenamiento de fuerza con ejercicio aeróbico ligero como trotar o correr?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">¿Puedo sustituir el entrenamiento de fuerza con ejercicio aeróbico ligero como trotar o correr?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Aunque el ejercicio aeróbico mejora el flujo sanguíneo cerebral, el entrenamiento de resistencia breve e intenso provoca un aumento más inmediato de BDNF y activación cerebral. Si prefiere el ejercicio aeróbico, incluya intervalos intensos como carreras en cuesta o carreras de intervalos en lugar de caminatas suaves.
     </p>
   </details>

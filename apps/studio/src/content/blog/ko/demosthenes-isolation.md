@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 데모스테네스의 '반쪽 삭발 및 지하 동굴 격리' 루틴에 담긴 뇌과학적 원리를 분석하고, 현대인이 유혹과 주의 산만을 차단하여 최상의 집행 기능을 유지할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플루타르코스 평전 『영웅전(Parallel Lives)』 데모스테네스 편 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 플루타르코스 평전 『영웅전(Parallel Lives)』 데모스테네스 편 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 자신의 의지력만으로 미루기와 디지털 딴짓을 극복할 수 있다는 환상을 버려야 합니다. 인간의 자기통제력은 한정된 자원입니다. 데모스테네스처럼 딴짓을 하러 밖으로 나가거나 스마트폰을 켤 수 없도록 만드는 강제적이고 물리적인 배수진(Hard Commitment Device)을 작업 전에 선제적으로 세팅해야만 지속 가능한 고립 몰입이 가능해집니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>데모스테네스는 왜 하필 머리 반쪽을 삭발하고 동굴로 들어갔나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">데모스테네스는 왜 하필 머리 반쪽을 삭발하고 동굴로 들어갔나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       자신의 우스꽝스러운 외모 때문에 타인의 시선이 두려워 스스로 밖으로 나갈 수 없도록 물리적·사회적 배수진을 치기 위함이었습니다. 이를 통해 유혹을 참아내려는 의지력 에너지 소모를 없애고, 오직 동굴 속 발성과 웅변 수련에만 뇌의 모든 집행 자원을 고정시켰습니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>삭발을 하지 않고 현대인이 실생활에서 바로 적용할 수 있는 강제 이행 장치에는 무엇이 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">삭발을 하지 않고 현대인이 실생활에서 바로 적용할 수 있는 강제 이행 장치에는 무엇이 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       스마트폰을 타이머 시간 동안 절대 열리지 않는 '타임락(Time-Lock) 금고'에 물리적으로 가두기, PC에서 특정 작업 시간 동안 유해 사이트 접속을 완전 차단하는 애플리케이션 가동, 혹은 동료/SNS에 목표 미달성 시 벌금을 지급하는 공표 계약을 맺는 것 등이 훌륭한 현대식 강제 이행 장치입니다.
     </p>
   </details>

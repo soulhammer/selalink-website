@@ -29,13 +29,15 @@ faqs:
 
 오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
 
-<div class="my-8 p-6 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:border-emerald-500/20 dark:bg-emerald-950/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
       식품 안전 & 과학적 근거
     </h5>
-    <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
       본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
     </p>
   </div>
@@ -45,32 +47,32 @@ faqs:
 
 ## 1. 과학적으로 검증된 보관 가이드
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">키친타올이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">키친타올이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타올이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     오렌지가 가장 신선함을 오래 유지하는 온도는 4 ~ 8℃입니다. 💡 보관 팁: 종이로 감싼 오렌지를 구멍이 뚫린 비닐봉지나 밀폐 용기에 담아 냉장고 야채칸(신선실)에 보관하세요. 상온보다 호흡 작용이 둔화되어 3 ~ 4주 이상 아삭하고 상큼한 맛을 유지할 수 있습니다.
   </p>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
-  <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">장기 보관 시 껍질을 벗겨 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️</h4>
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">장기 보관 시 껍질을 벗겨 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️</h4>
   </div>
-  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     오렌지를 껍질째 통째로 냉동하면 과육 세포가 파괴되어 해동 후 식감이 무러집니다. 💡 보관 팁: 껍질을 벗기고 흰 속껍질과 씨를 정리한 뒤 과육만 소분하여 지퍼백에 넣고 냉동실(-18℃ 이하)에 보관하세요. 스무디나 주스용으로 2 ~ 3개월간 유용하게 활용할 수 있습니다.
   </p>
 </div>
@@ -79,47 +81,47 @@ faqs:
 
 ## 2. 보관 시 필수 규칙 및 주의사항
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">보관하기 전에 물로 씻지 마세요 💧</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">보관하기 전에 물로 씻지 마세요 💧</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타올로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요.
     </p>
   </div>
 </div>
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
-  <span class="text-xl">⚠️</span>
-  <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">곰팡이가 피거나 겉면이 무른 오렌지는 즉시 격리하세요 🍊</strong>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">곰팡이가 피거나 겉면이 무른 오렌지는 즉시 격리하세요 🍊</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       오렌지에 생기는 푸른곰팡이는 포자를 통해 공기 중으로 빠르게 전파됩니다. 곰팡이가 피기 시작한 오렌지는 즉시 골라내어 폐기해야 주변의 멀쩡한 오렌지를 지킬 수 있습니다.
     </p>
   </div>
 </div>
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>오렌지를 상온에 보관해도 괜찮나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">오렌지를 상온에 보관해도 괜찮나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타올로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       유통 과정에서 수분 증발을 막기 위해 칠하는 식용 천연 코팅제(식품첨가물)이거나 칼슘제일 가능성이 높습니다. 인체에 무해하지만 먹기 전 따뜻한 물에 베이킹소다나 식초를 풀어 깨끗이 씻어낸 후 섭취하는 것을 권장합니다.
     </p>
   </details>

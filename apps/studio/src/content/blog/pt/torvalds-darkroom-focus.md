@@ -31,14 +31,16 @@ Ao escrever arquiteturas de sistemas operacionais complexos e algoritmos do Git,
 
 No post de hoje, compartilhamos uma análise da ciência cognitiva sobre como a rotina de 'quarto escuro sem estímulos' de Linus Torvalds ativa a capacidade de atenção seletiva do cérebro, e fornecemos diretrizes práticas para que os trabalhadores do conhecimento modernos aumentem dramaticamente sua eficiência no trabalho.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Base Histórica e Acadêmica
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Linus Torvalds e pesquisas em Neurociência Cognitiva</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este conteúdo baseia-se em Biografias históricas e registros autobiográficos de Linus Torvalds e pesquisas em Neurociência Cognitiva.
     </p>
   </div>
 </div>
@@ -91,27 +93,27 @@ A rotina de foco no quarto escuro de Linus Torvalds foi uma implementação máx
 
 Para Linus Torvalds, o quarto escuro da lavanderia era uma fortaleza cognitiva que bloqueava tentações externas e pequenos estímulos na fonte. Se sua casa é cheia de distrações e você tem dificuldade para mergulhar fundo no trabalho, desperdiçando atenção, tente limpar a área da sua mesa de qualquer decoração visual e diminuir a iluminação ao redor antes de culpar a concentração do seu cérebro. Você experimentará uma imersão surpreendente.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Olhar para o monitor em um quarto escuro prejudica a visão?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Olhar para o monitor em um quarto escuro prejudica a visão?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Um contraste excessivamente alto na escuridão total causa fadiga ocular. Portanto, diminuir o brilho do monitor para combinar com o ambiente escuro ou instalar uma luz de fundo suave (como fitas de LED indiretas) atrás do monitor previne o cansaço do nervo óptico mantendo uma alta imersão.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>O que devo fazer se não tiver uma lavanderia ou um quarto isolado em casa?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">O que devo fazer se não tiver uma lavanderia ou um quarto isolado em casa?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Não precisa ser um quarto isolado especial. Basta fechar a porta de um quarto normal, sentar-se de costas para a parede para manter o campo visual tranquilo, ou instalar uma divisória física para que não haja estímulos cognitivos visuais além do monitor a 1,5 metro da mesa.
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 구스타프 말러의 작곡 오두막 루틴이 전두엽의 인지 피로를 어떻게 제어하는지 규명하고, 현대인이 중요 업무를 수행할 때 외부 차단을 통해 최고의 집중 효율을 발휘하는 3단계 실천 방안을 제시합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>구스타프 말러 작곡 오두막(Composition Hut) 역사적 기록 고증 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 구스타프 말러 작곡 오두막(Composition Hut) 역사적 기록 고증 및 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,17 +91,17 @@ faqs:
 
 완벽한 격리가 가져올 수 있는 부작용은 사회적 고립감과 이로 인한 사고의 정체입니다. 타인과의 소통 없이 너무 오랜 시간 고립되면 생각의 시야가 좁아지고 우울감을 유발할 수 있습니다. 따라서 격리 집필이나 몰입 작업은 하루 최대 3 ~ 4시간 정도로 제한하여 고도의 딥 워크(Deep Work) 시간으로 활용하고, 작업이 끝난 후에는 다시 일상적인 사회적 관계 및 대화로 돌아오는 정서적 균형(Integration)을 반드시 지켜야 합니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>개방형 사무실에서 근무하여 물리적으로 격리될 수 없는 직장인은 어떻게 해야 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">개방형 사무실에서 근무하여 물리적으로 격리될 수 없는 직장인은 어떻게 해야 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       이때는 '청각적 격리'와 '디지털 격리'를 결합해야 합니다. 노이즈 캔슬링 헤드폰을 착용하고 빗소리나 백색 소음을 듣는 것은 뇌에 물리적 벽을 두르는 것과 유사한 차단 효과를 줍니다. 동시에 메신저 상태를 '방해 금지'로 변경하고, 화면을 단일 작업 창으로 최대화하여 실행하는 것만으로도 훌륭한 '디지털 미니 오두막'을 완성할 수 있습니다.
     </p>
   </details>

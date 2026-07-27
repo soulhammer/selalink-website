@@ -29,14 +29,16 @@ faqs:
 
 전투와 질병, 정치적 배신 속에서도 그를 단단히 지탱해 주었던 이 아침 글쓰기 습관은 오늘날 현대 인지신경과학에서도 놀라운 정신 안정 및 스트레스 차단 효과를 보여줍니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마르쿠스 아우렐리우스 《자성록》 및 역사적 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 마르쿠스 아우렐리우스 《자성록》 및 역사적 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 타인에게 보여주기 위한 세련된 미사여구를 버려야 합니다. 철저히 자기 자신만을 위한 솔직한 글쓰기여야 합니다. 자신의 나약한 부분이나 실수에 대해 객관적으로 기록하되, 스스로를 '너'라고 칭하는 2인칭 문법을 사용하는 것을 추천합니다. 이러한 표현 방식은 물리적 인지 거리(Cognitive Distance)를 생성하여, 제3자의 시선에서 본인의 행동을 더 냉철하게 관찰할 수 있도록 돕습니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아침 바쁜 시간에 매일 일기를 쓰기 힘든 경우는 어떡하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">아침 바쁜 시간에 매일 일기를 쓰기 힘든 경우는 어떡하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       하루를 걸렀다고 자책할 필요는 전혀 없습니다. 자책하는 부정적 감정은 스토아 철학에서 지양하는 불필요한 고통입니다. 시간이 정 부족하다면 모바일 메모장에 '오늘 만날 고난에 흔들리지 말자'라는 단 한 줄만 남겨도 충분합니다. 중요한 것은 마음가짐의 일관성입니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>일반적인 감사 일기나 아침 일기와 다른 점은 무엇인가요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">일반적인 감사 일기나 아침 일기와 다른 점은 무엇인가요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       감사 일기가 긍정적인 상황의 수집에 치중한다면, 스토아 성찰 일기는 오히려 마주할 수 있는 부정적인 사건이나 스트레스를 미리 마주하고(부정적 시각화 - Premeditatio Malorum), 이에 흔들리지 않을 자신의 태도를 조율하는 '정신적 모의훈련'에 가깝습니다.
     </p>
   </details>

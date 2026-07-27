@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 클로드 드뷔시의 '새벽 자연 소리 경청' 루틴에 담긴 뇌과학적 작동 원리를 분석하고, 현대인이 청각적 과부하를 해소하고 감각적 몰입과 창의성을 회복할 수 있는 3단계 실천 방안을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프랑수아 레쥐르 평전 『드뷔시 평전(Claude Debussy)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 프랑수아 레쥐르 평전 『드뷔시 평전(Claude Debussy)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 자연 리스닝 루틴의 효과를 온전히 누리려면 음악, 팟캐스트, 뉴스 등 언어적·인공적 음향을 완전히 꺼두어야 합니다. 수동적으로 소리를 듣는 것에 그치지 않고, 바람 소리의 결, 물방울 소리의 고저, 나뭇잎 울림 등 자연음의 질감(Texture)과 파동을 5분간 미분하듯 정밀하게 분리해 내는 '능동적 감각 청취'를 수행해야 전두엽의 인지 과부하가 해소되고 알파파 전환이 달성됩니다.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>도심 한복판이라 자연 소리를 들을 공원이나 숲이 없을 때는 어떻게 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">도심 한복판이라 자연 소리를 들을 공원이나 숲이 없을 때는 어떻게 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       실제 야외 이동이 어렵다면, 새벽시간 창문을 열고 바람 소리나 정적에 집중하거나, 노이즈 취소 헤드폰으로 고품질 $1/f$ 핑크 노이즈(자연 비 소리, 숲 소리 음원)를 5분간 집중 청취하는 능동적 센서리 훈련으로 완벽히 대체 가능합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>새벽 시간이 아닌 낮이나 오후 업무 중에 실천해도 효과가 있나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">새벽 시간이 아닌 낮이나 오후 업무 중에 실천해도 효과가 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 매우 유효합니다. 업무 중 청각적 과부하와 머리의 팽팽한 긴장이 느껴질 때, 5분간 스마트폰과 업무 소음을 끄고 창밖이나 공원에서 자연 소리의 결을 미분하듯 듣는 청각 이완 훈련을 수행하면 전두엽 피로가 즉각 해소되고 인지 능률이 복원됩니다.
     </p>
   </details>

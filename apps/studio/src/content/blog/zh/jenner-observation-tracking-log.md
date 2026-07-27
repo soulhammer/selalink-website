@@ -31,14 +31,16 @@ faqs:
 
 在今天的文章中，我们将深度解构爱德华·詹纳医师“现场跟踪手记”习惯背后蕴含的长效数据累积与坚韧（Grit）的神经科学原理。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       历史与学术依据
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本内容基于 <strong>爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究</strong>。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 爱德华·詹纳之伟大，绝非仅在于收集迎合个人预设假设的数据，更在于将背离假设的例外反例一并坦诚罗列于手记中。须严防陷于确认偏误（Confirmation Bias），如实记录现场目击的客观事实与精准数据，大脑方能精准辨识毫无曲解的真理。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>若每天坚持填写观察手记，却迟迟抓取不到有意义的底向模式，该如何应对？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">若每天坚持填写观察手记，却迟迟抓取不到有意义的底向模式，该如何应对？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       即便是当下看不出规律的数据，也是剔除感官噪点极其宝贵的“滤噪”过程。一旦定量数据沉淀达1个月以上，前额叶皮层便会自动串联上下文脉络，自发显现出深具价值的底层模式。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>非乡村医师的普通现代职场白领，同样能实施此类现场调查与跟踪吗？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">非乡村医师的普通现代职场白领，同样能实施此类现场调查与跟踪吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       完全可以！用户真实评价、客服工单文本、Google Analytics数据指标、以及对内部团队成员微观反应的观照，正是现代知识型白领最为宏伟的“现场”。
     </p>
   </details>

@@ -31,14 +31,16 @@ faqs:
 
 오늘 포스트에서는 카프카가 고수했던 '한밤중의 집필' 루틴의 인지과학적 원리와 현대인들이 이를 집중력 강화에 적용하는 방법을 소개합니다.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       역사적 & 학술적 근거
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      본 콘텐츠는 막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 카프카처럼 늦은 밤에 무작정 깨어있는 행동은 만성 수면 부족과 건강 악화를 초래할 수 있습니다. 본 루틴의 핵심은 밤샘이 아니라, 단 1시간이라도 외부 소음과 시각적 자극이 완벽히 차단된 정적의 환경을 의도적으로 만드는 데 있습니다. 무리하게 밤을 새우기보다 소음 차단 헤드폰을 사용하거나 기상 직후 이른 아침 시간을 활용해 자신만의 정적 골든아워를 설계하세요.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>카프카처럼 밤늦게 일하는 것이 수면 주기를 깨뜨리지 않을까요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">카프카처럼 밤늦게 일하는 것이 수면 주기를 깨뜨리지 않을까요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       네, 무리한 밤샘은 건강을 해칠 수 있습니다. 이 루틴의 핵심은 '늦은 밤'이라는 시간대 자체보다 외부의 방해가 완전히 사라진 '극단적 정적의 1시간'을 확보하는 것입니다. 이를 위해 소음 차단 장치를 활용하거나 이른 아침 시간을 대신 활용하는 것을 권장합니다.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>밤시간이 아닌 낮에 이 카프카식 정적 몰입법을 실천하려면 어떻게 하나요?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">밤시간이 아닌 낮에 이 카프카식 정적 몰입법을 실천하려면 어떻게 하나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       낮 시간대에도 노이즈 캔슬링 귀마개나 헤드폰을 착용해 음향적 소음을 차단하고, 조명을 다소 어둡게 조율하거나 암막 커튼을 치는 방식으로 외부 시각 자극을 줄여 동일하게 뇌의 '정적 골든아워'를 의도적으로 만들어낼 수 있습니다.
     </p>
   </details>

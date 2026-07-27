@@ -29,14 +29,16 @@ Fiodor Dostoïevski (1821–1881) était le géant russe de la littérature mond
 
 Selon les mémoires de son épouse et sténographe, Anna Grigorievna, Dostoïevski ne restait jamais assis pour composer ses scènes majeures. Au contraire, il arpentait son cabinet de travail, déclamant les dialogues à voix haute comme sur scène. Ce n'est que lorsqu'un monologue lui semblait naturel qu'il le dictait à Anna. Associer le mouvement physique rythmé à la déclamation orale activait son cortex moteur et ses centres du langage.
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       Fondement Historique & Académique
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce contenu est basé sur <strong>Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience).
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ Marcher dans la pièce stimule le cortex moteur, augmentant le flux sanguin cér
 
 La déclamation orale impliquant la vocalisation, la pratiquer dans un open space déclenche una Anxiété d'Évaluation Sociale, stimulant l'amygdale et perturbant la concentration. Pour bénéficier de ses effets, effectuez cette routine dans un espace privé — un bureau fermé, una pièce isolée ou un véhicule.
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Chuchoter ou lire silencieusement procure-t-il les mêmes bénéfices cognitifs que de parler à voix haute ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Chuchoter ou lire silencieusement procure-t-il les mêmes bénéfices cognitifs que de parler à voix haute ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Non. Chuchoter ne sollicite pas pleinement les muscles articulateurs et génère un retour auditif insuffisant. Vous devez articuler clairement pour compléter la boucle de rétroaction audito-motrice qui coactive les aires de Broca et Wernicke.
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Est-il efficace d'enregistrer ses pensées déclamées à l'aide de mémos vocaux ou d'applications de dictée (STT) pendant la marche ?</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Est-il efficace d'enregistrer ses pensées déclamées à l'aide de mémos vocaux ou d'applications de dictée (STT) pendant la marche ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       Oui, c'est une excellente adaptation moderne de la routine de Dostoïevski. Capturer vos pensées déclamées via des applications de dictée évite que l'écriture manuscrite n'interrompe le rythme de la marche et de la parole.
     </p>
   </details>

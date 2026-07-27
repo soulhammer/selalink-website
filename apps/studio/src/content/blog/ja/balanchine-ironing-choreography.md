@@ -29,14 +29,16 @@ faqs:
 
 本日の記事では、ジョージ・バランシンの単純労働構想術が脳の分析領域をどのようにリラックスさせるのかを解明し、現代人がアイデアの膠着状態を脱出して脳の無意識的洞察を引き出す3ステップの実践方案を提示します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ジョージ・バランシン伝記『By George Balanchine』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ジョージ・バランシン伝記『By George Balanchine』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,17 +89,17 @@ faqs:
 
 軽い家事や身体の動きを活用して頭を冷やす時、注意を過剰に要求したり認知能力を使わなければならない行動は禁物です。例えばインスピレーションを得ようと複雑なレシピの料理を作ったり、掃除をしながら同時に経済ニュースを聞くなどの「マルチタスク」を行うと、脳は決してDMN状態に入れず認知疲労が増すだけです。ひたすら指先の感覚と身体の一定のリズムにだけ注意を大まかに向けておき、頭の中を放牧するゆるやかさがポイントです。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>アイロンがけや食器洗いのような家事の他に、散歩も同じようなDMN活性化効果を与えますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">アイロンがけや食器洗いのような家事の他に、散歩も同じようなDMN活性化効果を与えますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、散歩も素晴らしい創造性促進ツールです。ただし、散歩の際は脳が周囲の地理を探索したり人混みを避けるために、一定レベルの視覚的・認知的注意力を継続的に消費する必要があります。一方、アイロンがけや食器洗いは慣れ親しんだ室内環境で完全に統制された限定的な物理的行動のみを行うため、前頭葉の認知消費率が散歩よりはるかに低く、静かな瞑想状態（DMN起動）をより安定して誘導できる固有の長所があります。
     </p>
   </details>

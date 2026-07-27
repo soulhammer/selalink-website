@@ -31,14 +31,16 @@ faqs:
 
 身体的な不便さの中でも知的没頭を止めなかった彼のメモ習慣は、現代の脳生理学と認知心理学の側面からも独創的な思考の繋がりを設計する最も科学的な思考捉獲技法です。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 移動時間中にソーシャルメディアを見たりモバイルゲームに視覚を奪われる行為は、脳の創造的培養の機会を完全に打ち砕きます。高刺激なデジタルインプットはアルファ波状態を即座に無力化させます。モビリティ思索を活性化させるには、時々窓の外の流れる風景をぼんやりと眺め、思考が思いのままに彷徨うように放置し、手帳を手に握ったまま待機してください。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>乗り物に乗るたびに毎日手帳を書かなければなりませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">乗り物に乗るたびに毎日手帳を書かなければなりませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       毎日大げさな文章を書く必要はありません。公共交通機関や車で移動する10〜20分の時間中、スマートフォンの代わりに窓の外を眺めて思考に浸り、通り過ぎる断片一つをメモする me だけでも、脳のデフォルト・モード・ネットワーク（DMN）とアルファ波を活性化させるのに十分に効果的です。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>公共交通機関の中で手で手帳に文字を書くと揺れて難しいですが、スマートフォンのメモアプリや音声メモで代替してもよいですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">公共交通機関の中で手で手帳に文字を書くと揺れて難しいですが、スマートフォンのメモアプリや音声メモで代替してもよいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、いくらでも代替可能です。核心は媒体の種類ではなく「移動中の高刺激コンテンツ（ショート動画、SNS、ゲーム）の流入を遮断し、脳と思索する余白を与えること」にあります。画面通知を遮断したオフラインメモアプリや音声録音機能も、素晴らしい現代的移動用手帳になります。
     </p>
   </details>

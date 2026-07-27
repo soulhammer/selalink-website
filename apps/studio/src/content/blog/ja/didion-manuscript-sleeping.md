@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、夜の間に脳の認知構造を再整理するディディオンの「原稿同寝睡眠」ルーティンに秘められた脳科学的作動原理を分析し、現代人が解けない企画案や難題の解決策を睡眠時間を活用して釣り上げる3ステップの実践方案を紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>トレイシー・ドーハーティ伝記『The Last Love Song』および『The Paris Review』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、トレイシー・ドーハーティ伝記『The Last Love Song』および『The Paris Review』考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 就寝前にスマートフォンやタブレットの画面のブルーライトを浴びながら文書を検討すると、脳の視床下部が昼だと勘違いして睡眠ホルモンであるメラトニン（Melatonin）分泌を抑制し、レム睡眠および徐波睡眠の構造を深刻に破壊します。プライミングトレーニングを進める時は、必ず紙に印刷されたアナログ文書や手帳を5分間軽く見渡し、目を閉じた後心の中で課題を連想しながら睡眠に入ってこそ、レム睡眠統合効果が完全に作動します。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>寝る前に解けない悩みや企画を考えると不眠症になったり眠れなくなったりしませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">寝る前に解けない悩みや企画を考えると不眠症になったり眠れなくなったりしませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       無理に答えを探そうとストレスを受けて心配すると不眠症を引き起こす可能性があります。ポイントは能動的に悩むことではなく、童話を読んでいるかのように紙の文書を無心に眺め、「脳が寝ている間に勝手にアウトソーシング処理してくれるだろう」という気楽で受容的な心構えで意識のスイッチをオフにすることにあります。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>朝に目を覚ました時にすぐに奇想天外なアイデアや解決策が浮かばなければ失敗ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">朝に目を覚ました時にすぐに奇想天外なアイデアや解決策が浮かばなければ失敗ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       いいえ。目が覚めた直後にすぐ浮かばなくとも、朝のシャワーを浴びたり散策をしてコーヒーを飲むなど前頭前野がリラックスした状態になった時、無意識で演算された結果物が意識の表面へと突然押し上げられてくる場合が多いです。若干の認知的タイムラグが存在するため、気楽に待てば大丈夫です。
     </p>
   </details>

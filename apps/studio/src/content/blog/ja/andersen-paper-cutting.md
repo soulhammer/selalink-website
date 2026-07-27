@@ -31,14 +31,16 @@ faqs:
 
 本日の記事では、アンデルセンの「切り絵」ルーティンの精神医学的治療の利点と、現代人のために再構成した手作業没頭ルーティンをご紹介します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -89,27 +91,27 @@ faqs:
 
 ハサミ使いルーティンによる脳の休息効果を享受するためには、素晴らしい成果物を作らなければならないという強迫観念を捨てなければなりません。「綺麗な模様を完成させよう」と頭でデザインを設計し始めると、前頭葉の企画および制御領域がオーバーヒートし、DMN遮断効果を得にくくなります。アンデルセンが目を閉じて手が動くままにサクサクと切り抜いたように、ハサミが紙を切る際に出るサクサクという摩擦音と指先のアナログな振動だけに全注意を委ねることがリラックスへの第一歩です。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>芸術的センスがなく、ハサミ切りが苦手なのですが大丈夫ですか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">芸術的センスがなく、ハサミ切りが苦手なのですが大丈夫ですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       もちろんです。むしろ図案なしで無造作に切り抜く行為の方が、DMNを下げるのに効果的です。完成した模様がおかしかろうが歪んでいようが、脳は全く気にしません。重要なのは形態の精密さではなく、指先の筋肉の繊細な動きと聴覚刺激そのものです。失敗のない価値評価から解放された創作活動ですので、気楽にハサミ切りを楽しんでください。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>切った後にゴミが出ますが、片付けによってリラックスが妨げられませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">切った後にゴミが出ますが、片付けによってリラックスが妨げられませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       ゴミができることが心配なら、最初からデスクの上に小さなゴミ箱やトレーを置き、その上で切り抜きを行ってみてください。切られた紙が自然と一箇所に集まるようセッティングしておけば、ルーティンが終わった後に一度にまとめてゴミ箱に入れる軽い物理的行動（10秒）で終了でき、情緒的なリラックス状態を損ないません。
     </p>
   </details>

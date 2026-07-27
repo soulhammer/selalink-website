@@ -29,14 +29,16 @@ faqs:
 
 フランス・ルーアン近郊のクロワッセ（Croisset）の屋敷の執筆室で、彼が文章の最終合格を判定する際に使った最も奇怪で偉大な習慣は、毎夜自分が書いた文章を胸が張り裂けんばかりの大声で叫びながら朗読することでした。彼はこの過酷な朗読検証の場を「Gueuloir（咆哮室、喉を張り上げて大声を出す場所という意味）」と呼びました。フローベールは「私の文章は声を限りに叫んで読むべき文章だ。口で声に出して読んだ時に呼吸が詰まったり音楽的韻律が崩れる文章は、決して生きている文章ではない」と断言しました。朗読を通じて脳のすべての感覚を呼び覚まし、論理的・芸術的完結性に到達するフローベールの言語調律の秘密を科学的に解明します。
 
-<div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
-  <span class="text-2xl">🛡️</span>
-  <div>
-    <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-r from-indigo-500/10 via-indigo-500/5 to-transparent dark:border-indigo-500/30 dark:from-indigo-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-indigo-900 dark:text-indigo-200 font-extrabold m-0 tracking-tight">
       歴史的＆学術的根拠
     </h5>
-    <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      本コンテンツは、<strong>ギュスターヴ・フローベール書簡集（Correspondance）および評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
+    <p class="text-xs md:text-sm text-indigo-800/90 dark:text-indigo-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、ギュスターヴ・フローベール書簡集（Correspondance）および評伝考証＆認知神経科学（Cognitive Neuroscience）研究に基づいています。
     </p>
   </div>
 </div>
@@ -87,27 +89,27 @@ faqs:
 
 朗読推敲の習慣を持つ際に避けるべきことは、速すぎるスピードで大雑把に流し読みすることです。脳がすでに目で慣れ親しんだ文章を速読するように朗読してしまうと、間違った単語の配列や語彙のエラーを大脳が無意識のうちに想像で補い、正常な文章と誤認する認知歪曲が起こります。したがって朗読する時は、一字一字目で指先を追いながら指し示すようにゆっくりと発音しなければなりません。特に文章の句点（。）や読点（、）で大げさに長く息を整えて読むことで、文章間の呼吸の長さと韻律的完成度を客観的な知覚データとして脳に供給することができます。
 
-<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>静かなオフィスやカフェで作業する時も声に出して読まなければなりませんか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">静かなオフィスやカフェで作業する時も声に出して読まなければなりませんか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       公共の場所で大声を出すのは困難ですので、そのような時は聞こえるか聞こえないかほどの小さな囁き声（Sub-whisper）で呟き、唇と舌の物理的運動を稼働させてください。口の形と構音器官を直接動かすことだけでも、単純な黙読に比べて脳の運動皮質の刺激を引き出し、エラー検出性能をある程度得ることができます。
     </p>
   </details>
 
   <details class="group cursor-pointer">
-    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>文学作品ではないビジネス企画書や報告書にも朗読推敲の習慣は効果がありますか？</span>
-      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">文学作品ではないビジネス企画書や報告書にも朗読推敲の習慣は効果がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
-    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
       はい、非常に効果的です。企画書や報告書の不自然な文章、不自然な接続詞、過度に長い文章構造は、朗読する時に息が詰まったり口ですぐにつっかえたりします。朗読は文書の可読性と説得力のある論理のフローを整える最も精密なフィルターの役割を果たします。
     </p>
   </details>
