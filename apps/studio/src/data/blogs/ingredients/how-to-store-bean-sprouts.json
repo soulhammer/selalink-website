@@ -1,0 +1,406 @@
+{
+    "how-to-store-bean-sprouts": {
+        "ingId": "bean-sprouts",
+        "pubDate": "2026-05-21",
+        "updatedDate": "2026-05-21",
+        "heroImage": "/images/blog/bean_sprouts_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "콩나물·숙주 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 콩나물과 숙주의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+                "intro": "아삭한 식감이 매력적인 콩나물과 숙주, 사 오자마자 봉지째 냉장고에 넣어두었다가 며칠 못 가 잔뿌리가 검게 변하고 물러서 버려본 경험 있으시죠? 🌱\n\n콩나물과 숙주는 수분 함량이 90% 이상으로 매우 높고 수확 후에도 호흡 작용을 활발히 하는 나물류입니다. 특히 봉지 안에 수분이 고이고 공기가 차단되면 고온 다습한 유기물이 되어 박테리아 증식과 부패가 비약적으로 빨라집니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 콩나물과 숙주를 무르지 않고 아삭하게 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "구매 후 봉지째 방치하지 마세요 ⚠️",
+                        "desc": "비닐봉지 안에 콩나물을 그대로 두면 나물이 호흡하면서 배출한 수분이 갇혀 빠르게 갈변하고 무릅니다. 구매 즉시 봉지에서 꺼내어 정돈 후 보관해야 합니다."
+                    },
+                    {
+                        "title": "물에 담가 보관할 때 물을 매일 갈아주세요 💧",
+                        "desc": "물에 담가 보관하면 수분 증발과 갈변을 막을 수 있지만, 물을 교체하지 않으면 세균이 번식하여 미끈거리거나 악취가 날 수 있습니다. 최소 하루에 한 번 깨끗한 찬물로 갈아주어야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "상한 줄기 골라내고 살짝 씻기 — 부패 균주 차단 📦",
+                        "text": "검게 변하거나 물러진 줄기는 주변의 싱싱한 나물까지 빠르게 상하게 합니다. 💡 보관 팁: 짓무른 부분을 골라내고 흐르는 찬물에 살짝 씻어 이물질과 껍질을 제거해 주세요."
+                    },
+                    {
+                        "name": "밀폐 용기에 담아 잠길 정도로 물을 자작하게 채우기 — 수분 보존 & 갈변 방지 🌊",
+                        "text": "나물 전체가 공기에 노출되면 산화되어 수분이 날아가고 줄기가 질겨집니다. 💡 보관 팁: 밀폐 용기에 나물을 담고 콩나물/숙주가 완전히 잠길 정도로 깨끗한 찬물을 채워 뚜껑을 닫아주세요."
+                    },
+                    {
+                        "name": "3~5℃ 저온 냉장 보관 및 매일 물 갈아주기 — 냉장 보관 (7~10일) ❄️",
+                        "text": "온도가 낮을수록 나물의 호흡 작용이 억제되어 신선도가 오래 유지됩니다. 💡 보관 팁: 냉장고 신선실(3~5℃)에 보관하면서 매일 깨끗한 물로 갈아주면 최대 7~10일까지 아삭함을 유지할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "콩나물이나 숙주도 냉동 보관할 수 있나요?",
+                        "answer": "생나물 그대로 냉동하면 수분 결정이 세포벽을 파괴하여 해동 후 흐물흐물해집니다. 냉동 보관을 원할 경우 끓는 물에 소금을 살짝 넣고 10~20초간 살짝 데친(블랜칭) 후 찬물에 식혀 물기를 꼭 짜고 지퍼백에 담아 냉동(최대 1개월)하세요. 해동 없이 국이나 찌개에 바로 넣으면 좋습니다."
+                    },
+                    {
+                        "question": "물에 담가 보관한 콩나물/숙주는 영양소가 유출되지 않나요?",
+                        "answer": "물에 오래 담가두면 수용성 비타민(비타민 C 등)이 일부 유출될 수 있습니다. 따라서 3~4일 이내에 드실 분들은 물에 담그지 않고 씻지 않은 상태에서 키친타월로 감싸 밀폐 용기에 담아 보관하시는 것도 좋은 방법입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Bean Sprouts Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for bean sprouts based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought a bag of crisp soybean or mung bean sprouts, put them straight into the fridge, only to find the stems turning black, slimy, and spoiled a few days later? 🌱\n\nBean sprouts consist of over 90% water and remain highly active in respiration even after harvesting. When trapped inside a plastic bag, moisture gets locked in while oxygen is restricted, creating a humid environment that exponentially speeds up bacterial growth and decay.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to keep your bean sprouts firm, crisp, and fresh. 🛡️",
+                "whyTitle": "Why Store Bean Sprouts This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never leave sprouts sealed in their store bag ⚠️",
+                        "desc": "Leaving sprouts in their original plastic bag traps respiration moisture, causing rapid browning, mushiness, and bad odors. Remove them from the packaging immediately after purchase."
+                    },
+                    {
+                        "title": "Change the water daily when submerged 💧",
+                        "desc": "Submerging sprouts in water prevents dehydration and browning, but stagnant water breeds bacteria, making stems slimy. You must replace the water with fresh cold water at least once a day."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Sort damaged stems and rinse gently — Remove Decay Sources 📦",
+                        "text": "Blackened or mushy stems accelerate decay in surrounding healthy sprouts. 💡 Storage Tip: Pick out bruised stems, gently rinse under cold running water to remove loose hulls and debris."
+                    },
+                    {
+                        "name": "Submerge in cold water inside an airtight container — Moisture Preservation 🌊",
+                        "text": "Exposing sprouts to ambient air causes oxidation, moisture loss, and tough textures. 💡 Storage Tip: Place sprouts in a container and fill with clean cold water until entirely submerged, then seal with the lid."
+                    },
+                    {
+                        "name": "Refrigerate at 3–5°C and replace water daily — Cold Storage (7–10 Days) ❄️",
+                        "text": "Lower temperatures slow down cellular respiration and maintain crispness. 💡 Storage Tip: Store in the fridge crisper drawer (3–5°C) and change the water daily to keep them crisp for up to 7–10 days."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I freeze bean sprouts?",
+                        "answer": "Freezing raw sprouts creates ice crystals that rupture cell walls, making them limp and watery upon thawing. If you must freeze, blanch them in boiling salted water for 10–20 seconds, shock in ice water, squeeze dry, and freeze in Ziploc bags for up to 1 month. Add directly into soups without thawing."
+                    },
+                    {
+                        "question": "Does submerging bean sprouts in water leach out nutrients?",
+                        "answer": "Soaking sprouts in water over extended periods can cause slight loss of water-soluble vitamins like Vitamin C. If you plan to consume them within 3–4 days, wrapping unwashed sprouts in paper towels inside a sealed container without water is a great alternative."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "豆もやし・緑豆もやしを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくもやし（豆もやし・緑豆もやし）の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "シャキシャキとした食感が魅力の豆もやしや緑豆もやし、買ってきて袋のまま冷蔵庫に入れておいたら、数日でひげ根が黒く変色してパサパサ・ドロドロに傷んで捨ててしまった経験はありませんか？🌱\n\nもやしは水分が90%以上と非常に高く、収穫後も呼吸作用が活発な野菜です。特に袋の中に水分がこもり空気の流れが遮断されると、高温多湿な環境となり細菌の繁殖と腐敗が急速に進みます。\n\n本日FreshSnapでは、専門家が推奨するもやしのシャキシャキ感を損なわずに長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "購入後、袋のまま放置しないでください ⚠️",
+                        "desc": "ポリ袋の中にもやしをそのままにしておくと、自身が排出する呼吸水がこもって褐変し、ぬめりが発生します。買ってすぐに袋から取り出して整理することが大切です。"
+                    },
+                    {
+                        "title": "水に浸して保存する場合は毎日水を入れ替えてください 💧",
+                        "desc": "水に浸して保存すると乾燥や変色を防げますが、水をそのままにすると細菌が繁殖してぬめりや悪臭の原因になります。必ず1日1回清潔な冷水に取り替えてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "傷んだ茎を取り除き軽く洗う — 腐敗の原因を遮断 📦",
+                        "text": "黒く変色したり柔らかくなった茎は周囲の新鮮なもやしまで急速に傷ませます。💡保存のコツ：傷んだ部分を選別して取り除き、流水で軽く洗って豆の皮や汚れを落とします。"
+                    },
+                    {
+                        "name": "密閉容器に入れ全体が浸るまで水を張る — 水分保持＆褐変防止 🌊",
+                        "text": "空気に触れると酸化が進み、水分が抜けて食感が硬くなります。💡保存のコツ：保存容器にもやしを入れ、ひたひたに浸るまで清潔な冷水を注いで蓋を閉めます。"
+                    },
+                    {
+                        "name": "3〜5℃で冷蔵保存し毎日水を替える — 冷蔵保存 (7〜10日間) ❄️",
+                        "text": "低温で保存することで呼吸作用が抑えられ、鮮度が長持ちします。💡保存のコツ：冷蔵庫の野菜室（3〜5℃）で保存し、毎日水を取り替えることで最大7〜10日間シャキシャキ感を維持できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "もやしは冷凍保存できますか？",
+                        "answer": "生のもやしをそのまま冷凍すると氷の結晶が細胞壁を破壊し、解凍時に水っぽくシナシナになります。冷凍する場合は、塩を入れた熱湯で10〜20秒ほどサッと茹で（ブリーチング）、冷水にとって水気をしっかり絞ってから冷凍用ジッパーバッグで保存（約1ヶ月）してください。調理時は解凍せずそのままスープ等に入れます。"
+                    },
+                    {
+                        "question": "水に浸して保存すると栄養が流出しまいませんか？",
+                        "answer": "水に長く浸しておくとビタミンCなどの水溶性ビタミンが一部流出する可能性があります。3〜4日以内に使い切る場合は、洗わずにキッチンペーパーで包んで密閉容器に入れて冷蔵保存するのも良い方法です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持黄豆芽·绿豆芽新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解豆芽的最佳储存温度、方式和保质时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "口感爽脆的黄豆芽与绿豆芽，买回家连塑料袋一起放入冰箱，没过几天根部就发黑腐烂发臭？🌱\n\n豆芽含水量高达90%以上，且采摘后呼吸作用依然十分旺盛。如果焖在包装袋内，散发的水汽无法排出，极易形成高湿环境，导致细菌呈爆发式滋生与腐烂。\n\n今天FreshSnap基于权威专家指南，为您带来3步科学保存秘诀，帮您防止豆芽变软烂，长久保持爽脆口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "购买后切勿直接连同原袋保存 ⚠️",
+                        "desc": "留在原包装袋内会导致豆芽呼吸产生的水汽积聚，加速褐变、变软发黏并产生异味。购买后应立即拆封整理。"
+                    },
+                    {
+                        "title": "浸水保存时请务必每天换水 💧",
+                        "desc": "浸水保存可防止干瘪与褐变，但若不换水，水质恶化会导致细菌大量滋生、产生黏液和臭味。请务必每天更换一次干净冷水。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "挑出烂芽并轻柔清洗 — 阻断腐烂源 📦",
+                        "text": "变黑发软的豆芽会迅速传染周围健康豆芽。💡储存小贴士：挑出受损变质部分，用流动冷水冲洗掉豆皮与杂质。"
+                    },
+                    {
+                        "name": "放入保鲜盒并加水没过豆芽 — 锁水防干与防褐变 🌊",
+                        "text": "暴露于空气中会导致氧化失水，使豆芽纤维变硬。💡储存小贴士：将豆芽放入保鲜盒，倒入干净冷水至完全没过豆芽，盖紧盒盖。"
+                    },
+                    {
+                        "name": "3~5℃冷藏并每天更换清水 — 冷藏储存 (7~10天) ❄️",
+                        "text": "低温可抑制豆芽呼吸作用，延长保鲜期。💡储存小贴士：置于冰箱3~5℃保鲜抽屉，坚持每天换水，可维持爽脆口感达7~10天。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "豆芽可以冷冻保存吗？",
+                        "answer": "直接生冻会导致冰晶破坏细胞壁，解冻后软塌出水。如需冷冻，请在加盐的沸水中焯水10~20秒，捞出过冰水并彻底挤干水分，装入拉链袋冷冻（可保存1个月）。烹饪时无需解冻，直接下锅煮汤即可。"
+                    },
+                    {
+                        "question": "泡水保存会导致豆芽的营养成分流失吗？",
+                        "answer": "长时间泡水可能会导致部分水溶性维生素（如维生素C）流失。如果预计在3~4天内食用完毕，可以不泡水，将未清洗的豆芽用厨房纸巾包裹后放入密封盒冷藏保存。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los germinados de soja y judía mungo frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los germinados según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró una bolsa de germinados de soja o judía mungo, la guardó directamente en el refrigerador y descubrió a los pocos días que los tallos se volvían negros y pegajosos? 🌱\n\nLos germinados contienen más de un 90% de agua y mantienen una alta actividad respiratoria incluso tras la cosecha. Cuando quedan atrapados en bolsas de plástico, la humedad acumulada crea un ambiente propicio para el rápido crecimiento bacteriano.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos para mantener sus germinados firmes, crujientes y frescos por más tiempo. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca deje los germinados sellados en su bolsa original ⚠️",
+                        "desc": "Dejar los germinados en su bolsa de plástico atrapa la humedad respiratoria, provocando ablandamiento, descomposición y mal olor. Retire el empaque tras la compra."
+                    },
+                    {
+                        "title": "Cambie el agua diariamente si los conserva sumergidos 💧",
+                        "desc": "Sumergir los germinados en agua evita la deshidratación, pero el agua estancada acumula bacterias. Debe reemplazar el agua con agua limpia y fría al menos una vez al día."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Retire los tallos dañados y enjuague suavemente — Eliminar fuentes de descomposición 📦",
+                        "text": "Los tallos oscuros o blandos pudren rápidamente a los sanos. 💡 Consejo de almacenamiento: Seleccione los tallos dañados y lave suavemente con agua fría para retirar cáscaras sueltas."
+                    },
+                    {
+                        "name": "Sumerja en agua fría dentro de un recipiente hermético — Retención de humedad 🌊",
+                        "text": "La exposición al aire provoca oxidación y pérdida de textura crujiente. 💡 Consejo de almacenamiento: Coloque los germinados en un recipiente, llene con agua fría hasta cubrirlos por completo y tape herméticamente."
+                    },
+                    {
+                        "name": "Refrigere a 3–5 °C y cambie el agua a diario — Refrigeración (7 a 10 días) ❄️",
+                        "text": "Las bajas temperaturas reducen la respiración celular. 💡 Consejo de almacenamiento: Mantenga en el cajón de verduras (3–5 °C) y cambie el agua todos los días para conservarlos crujientes hasta por 10 días."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Se pueden congelar los germinados de soja o judía mungo?",
+                        "answer": "Congelarlos crudos rompe las paredes celulares, dejándolos flácidos. Si desea congelarlos, blanquéelos en agua hirviendo con sal durante 10-20 segundos, enfríelos en agua helada, escurra bien y congele en bolsas Ziploc hasta por 1 mes. Úselos directamente en sopas sin descongelar."
+                    },
+                    {
+                        "question": "¿Sumergir los germinados en agua reduce sus nutrientes?",
+                        "answer": "Dejarlos en agua durante mucho tiempo puede disolver pequeñas cantidades de vitaminas hidrosolubles (como vitamina C). Si los va a consumir en 3-4 días, puede envolverlos sin lavar en papel absorbente dentro de un recipiente cerrado sin agua."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les germes de soja et d'haricot mungo : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les germes de soja selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté un sachet de germes de soja ou de haricot mungo, pour constater quelques jours plus tard au réfrigérateur que les tiges devenaient noires, viscoses et inutilisables ? 🌱\n\nLes germes de soja sont composés à plus de 90 % d'eau et conservent une forte respiration cellulaire après la récolte. Enfermés dans un sachet en plastique, l'humidité s'accumule et l'oxygène s'épuise, créant un milieu favorable à la prolifération bactérienne rapide.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur et le croquant de vos germes de soja. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne laissez jamais les germes dans leur sachet d'origine ⚠️",
+                        "desc": "Laisser les germes dans leur plastique d'origine emprisonne l'humidité de respiration, provoquant un ramollissement et un gâtisme rapides. Sortez-les du Sachet dès l'achat."
+                    },
+                    {
+                        "title": "Changez l'eau quotidiennement lorsqu'ils sont immergés 💧",
+                        "desc": "Immerger les germes évite le dessèchement, mais une eau stagnante devient un nid à bactéries. Vous devez remplacer l'eau par de l'eau fraîche et propre chaque jour."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Trier les tiges abîmées et rincer délicatement — Éliminer les sources de pourriture 📦",
+                        "text": "Les tiges brunies gâtent rapidement les pousses saines. 💡 Astuce de conservation : Écartez les parties abîmées et rincez sous l'eau froide pour enlever les enveloppes de graines."
+                    },
+                    {
+                        "name": "Immerger dans l'eau froide en boîte hermétique — Maintien de l'hydratation 🌊",
+                        "text": "L'exposition à l'air ambiant entraîne l'oxydation et le ramollissement. 💡 Astuce de conservation : Placez les germes dans un récipient, recouvrez d'eau froide jusqu'à immersion complète et fermez le couvercle."
+                    },
+                    {
+                        "name": "Réfrigérer entre 3 et 5 °C et changer l'eau tous les jours — Stockage frais (7 à 10 jours) ❄️",
+                        "text": "Le froid ralentit la respiration cellulaire. 💡 Astuce de conservation : Conservez au bac à légumes (3–5 °C) et changez l'eau tous les jours pour préserver le croquant jusqu'à 10 jours."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on congeler les germes de soja ?",
+                        "answer": "Congeler des germes crus brise les cellules végétales, les rendant très molles à la décongélation. Pour les congeler, blanchissez-les 10 à 20 secondes dans l'eau bouillante salée, refroidissez dans l'eau glacée, égouttez bien et congelez en sachet (max 1 mois). Ajoutez-les directement dans vos soupes sans décongélation."
+                    },
+                    {
+                        "question": "L'immersion dans l'eau fait-elle perdre les vitamines des germes ?",
+                        "answer": "Laisser tremper les germes longtemps peut dissoudre une partie des vitamines hydrosolubles (comme la vitamine C). Si vous les consommez sous 3 à 4 jours, vous pouvez aussi les envelopper non lavés dans du papier absorbant en boîte hermétique sans eau."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Sojasprossen & Mungbohnensprossen richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Sprossen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal frische Soja- oder Mungbohnensprossen gekauft, sie in der Plastiktüte in den Kühlschrank gelegt und nach wenigen Tagen matschige, braune Sprossen vorgefunden? 🌱\n\nSprossen bestehen zu über 90 % aus Wasser und weisen auch nach der Ernte eine hohe Atmungsaktivität auf. In einer geschlossenen Plastiktüte staut sich die Feuchtigkeit, was zu einem feuchtwarmen Milieu führt und das Bakterienwachstum drastisch beschleunigt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Sprossen knackig und frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Sprossen niemals in der Verpackungstüte lassen ⚠️",
+                        "desc": "In der Plastiktüte staut sich das durch das Atmen abgegebene Wasser. Dies führt zu schneller Braunfärbung und Fäulnis. Entnehmen Sie die Sprossen sofort nach dem Kauf."
+                    },
+                    {
+                        "title": "Das Wasser bei Wasserlagerung täglich wechseln 💧",
+                        "desc": "Das Einlegen in Wasser schützt vor Austrocknung. Stehendes Wasser begünstigt jedoch Bakterienbildung und fauligen Geruch. Wechseln Sie das Wasser täglich gegen frisches, kaltes Wasser."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Beschädigte Stängel aussortieren und leicht waschen — Fäulnisursachen entfernen 📦",
+                        "text": "Braune oder matschige Stängel lassen gesunde Sprossen schnell verderben. 💡 Lagerungstipp: Beschädigte Teile aussortieren und unter kaltem Wasser abspülen."
+                    },
+                    {
+                        "name": "In einer Frischhaltedose komplett mit kaltem Wasser bedecken — Feuchtigkeitsschutz 🌊",
+                        "text": "Sauerstoffkontakt führt zu Oxidation und Zähigkeit. 💡 Lagerungstipp: Sprossen in eine Dose geben, vollständig mit frischem, kaltem Wasser bedecken und den Deckel schließen."
+                    },
+                    {
+                        "name": "Bei 3–5 °C kühlen und täglich das Wasser erneuern — Kühllagerung (7–10 Tage) ❄️",
+                        "text": "Kälte verlangsamt den Stoffwechsel der Sprossen. 💡 Lagerungstipp: Im Gemüsefach (3–5 °C) aufbewahren und täglich das Wasser wechseln, um die Knackigkeit bis zu 10 Tage zu erhalten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Sprossen einfrieren?",
+                        "answer": "Roh eingefrorene Sprossen werden nach dem Auftauen matschig, da Eiskristalle die Zellwände zerstören. Blanchieren Sie die Sprossen stattdessen 10–20 Sekunden in kochendem Salzwasser, schrecken Sie sie in Eiswasser ab, drücken Sie sie gut aus und frieren Sie sie im Ziploc-Beutel ein (bis zu 1 Monat). Unaufgetaut direkt in Suppen geben."
+                    },
+                    {
+                        "question": "Gehen durch das Wasserbad Nährstoffe verloren?",
+                        "answer": "Bei langer Wasserlagerung können wasserlösliche Vitamine (wie Vitamin C) leicht ausgewaschen werden. Bei kurzfristigem Verzehr innerhalb von 3–4 Tagen können Sie ungewaschene Sprossen alternativ in Küchenpapier gewickelt luftdicht im Kühlschrank lagern."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar brotos de feijão (soja e feijão-mungo) frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para brotos de feijão com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou brotos de feijão (moyashi), guardou o saco plástico direto na geladeira e descobriu dias depois que os hastes ficaram pretos e melados? 🌱\n\nOs brotos de feijão contêm mais de 90% de água e mantêm intensa respiração celular mesmo após a colheita. Quando mantidos no saco plástico original, a umidade fica presa, criando um ambiente favorável ao rápido crescimento de bactérias.\n\nHoje, o FreshSnap apresenta um guia em 3 etapas baseado em diretrizes de especialistas para manter seus brotos crocantes e frescos. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca deixe os brotos fechados no saco plástico de compra ⚠️",
+                        "desc": "A embalagem fechada retém a umidade da respiração do vegetal, causando escurecimento rápido e mau cheiro. Retire os brotos da embalagem assim que chegar em casa."
+                    },
+                    {
+                        "title": "Troque a água diariamente ao armazenar imerso 💧",
+                        "desc": "Submergir os brotos em água evita que ressequem, mas a água parada acumula bactérias e causa mofo/baba. Troque a água por água fria e limpa pelo menos uma vez ao dia."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe hastes danificadas e lave suavemente — Eliminar focos de deterioração 📦",
+                        "text": "Hastes escuras ou amolecidas estragam os brotos sadios. 💡 Dica de conservação: Retire as partes danificadas e lave em água corrente fria para remover cascas."
+                    },
+                    {
+                        "name": "Submerja em água fria dentro de um pote hermético — Conservação de umidade 🌊",
+                        "text": "O contato com o ar causa oxidação e perda da crocância. 💡 Dica de conservação: Coloque os brotos em um pote, cubra totalmente com água fria e feche a tampa."
+                    },
+                    {
+                        "name": "Refrigere de 3 a 5 °C e troque a água todos os dias — Refrigeração (7 a 10 dias) ❄️",
+                        "text": "O frio desacelera a deterioração do vegetal. 💡 Dica de conservação: Mantenha na gaveta de legumes (3 a 5 °C) e troque a água diariamente para manter a crocância por até 10 dias."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso congelar brotos de feijão?",
+                        "answer": "Congelar os brotos crus destrói as paredes celulares, deixando-os moles ao descongelar. Se precisar congelar, afervente (blanche) em água fervente com sal por 10 a 20 segundos, resfrie em água gelada, seque bem e congele em sacos Ziploc por até 1 mês. Adicione diretamente em sopas sem descongelar."
+                    },
+                    {
+                        "question": "Deixar os brotos imersos em água perde nutrientes?",
+                        "answer": "Deixar os brotos muito tempo na água pode dissolver uma pequena parte das vitaminas hidrossolúveis (como vitamina C). Se for consumir em 3 a 4 dias, envolver os brotos não lavados em papel-toalha dentro de um pote fechado sem água é uma ótima alternativa."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Tauge (Toge) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tauge berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli tauge (toge) yang renyah, menyimpannya langsung di dalam plastik di kulkas, lalu mendapatinya menghitam, berlendir, dan busuk beberapa hari kemudian? 🌱\n\nTauge memiliki kadar air di atas 90% dan memiliki laju respirasi yang sangat tinggi bahkan setelah dipanen. Jika terperangkap di dalam kantong plastik, kelembapan akan terkunci dan memicu perkembangan bakteri secara cepat.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga tauge Anda tetap putih, renyah, dan segar. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan biarkan tauge terbungkus dalam plastik kemasannya ⚠️",
+                        "desc": "Membiarkan tauge di dalam plastik akan mengunci air hasil respirasi yang menyebabkan tauge cepat kecokelatan, lembek, dan berbau. Segera keluarkan dari plastik setelah dibeli."
+                    },
+                    {
+                        "title": "Ganti air setiap hari jika disimpan dalam rendaman 💧",
+                        "desc": "Merendam tauge dalam air mencegah pembusukan dan perubahan warna, namun air yang tidak diganti akan menjadi sarang bakteri dan berlendir. Anda harus mengganti airnya dengan air dingin bersih minimal sekali sehari."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pisahkan batang yang rusak lalu cuci perlahan — Hilangkan Sumber Pembusukan 📦",
+                        "text": "Batang tauge yang menghitam atau lembek akan mempercepat pembusukan tauge lainnya. 💡 Tips Penyimpanan: Buang tauge yang rusak, lalu cuci lembut dengan air dingin untuk membuang kulit kacang."
+                    },
+                    {
+                        "name": "Rendam dalam air dingin di dalam wadah kedap udara — Menjaga Kelembapan 🌊",
+                        "text": "Terpapar udara akan menyebabkan tauge teroksidasi dan teksturnya menjadi ulet/layu. 💡 Tips Penyimpanan: Masukkan tauge ke dalam wadah, tuang air dingin bersih hingga terendam seluruhnya, lalu tutup rapat."
+                    },
+                    {
+                        "name": "Simpan pada suhu 3–5°C dan ganti airnya setiap hari — Penyimpanan Dingin (7–10 Hari) ❄️",
+                        "text": "Suhu dingin memperlambat respirasi seluler dan menjaga kerenyahan tauge. 💡 Tips Penyimpanan: Simpan di laci kulkas (3–5°C) dan ganti airnya setiap hari agar tauge tetap renyah hingga 10 hari."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah tauge bisa dibekukan di freezer?",
+                        "answer": "Membekukan tauge mentah akan merusak dinding selnya sehingga menjadi sangat layu dan berair saat dicairkan. Jika ingin membekukannya, rebus sebentar (blanching) dalam air mendidih bergaram selama 10–20 detik, bilas air es, peras hingga kering, lalu bekukan dalam kantong Ziploc (maksimal 1 bulan). Masukkan langsung ke dalam kuah sup tanpa dicairkan."
+                    },
+                    {
+                        "question": "Apakah merendam tauge dalam air akan menghilangkan nutrisinya?",
+                        "answer": "Merendam tauge dalam air terlalu lama dapat melarutkan sebagian kecil vitamin larut air seperti Vitamin C. Jika Anda berencana mengonsumsinya dalam 3–4 hari, Anda dapat membungkus tauge mentah tanpa dicuci dengan tisu dapur di dalam wadah kedap udara tanpa air."
+                    }
+                ]
+            }
+        }
+    }
+}

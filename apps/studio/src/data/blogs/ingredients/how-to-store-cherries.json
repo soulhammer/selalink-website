@@ -1,0 +1,406 @@
+{
+    "how-to-store-cherries": {
+        "ingId": "cherry",
+        "pubDate": "2026-02-26",
+        "updatedDate": "2026-02-26",
+        "heroImage": "/images/blog/cherry_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "체리 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 체리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "새콤달콤하고 탱글탱글한 맛으로 사랑받는 체리를 사 왔는데, 냉장고 안에서 금방 짓무르거나 곰팡이가 피어 버려본 경험 있으시죠? 🍒\n\n체리는 수확 후에는 더 이상 익지 않는 비후숙 과일이며, 온도와 습도 변화에 매우 예민하여 부패가 빠르게 진행되는 대표적인 식재료입니다. 특히 수분과 열기에 노출되면 체리 표면의 보호막이 파괴되고 곰팡이가 쉽게 번식합니다.\n\n오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 체리의 아삭한 식감과 달콤한 풍미를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "보관하기 전에 절대 물로 씻지 마세요 💧",
+                        "desc": "체리 표면에 물기가 남은 채로 보관하면 꼭지 부분과 껍질에 습기가 차서 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 씻는 것은 반드시 드시기 직전에 해야 합니다."
+                    },
+                    {
+                        "title": "체리 꼭지를 떼어내지 마세요 🍒",
+                        "desc": "체리 꼭지를 떼어내면 상처가 생겨 수분이 빠르게 증발하고 미생물이 침투할 수 있는 통로가 됩니다. 꼭지가 붙어있는 상태 그대로 보관해야 신선함이 오래 유지됩니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "상처 난 체리 골라내고 꼭지 유지하기 — 선별 & 꼭지 보호 📦",
+                        "text": "상처가 나거나 무른 체리는 주변의 싱싱한 체리까지 빠르게 부패시킵니다. 💡 보관 팁: 구멍이 나거나 무른 체리는 미리 골라내어 먼저 드시고, 싱싱한 체리는 꼭지를 떼지 않은 마른 상태 그대로 준비하세요."
+                    },
+                    {
+                        "name": "키친타월을 깔고 0~2℃ 저온 냉장 보관하기 — 수분 조절 & 냉장 보관 (7~10일) ❄️",
+                        "text": "체리는 수분에 취약하면서도 적정한 습도가 유지되어야 아삭함이 보존됩니다. 💡 보관 팁: 밀폐 용기 바닥에 키친타월을 깔아 체리를 겹치지 않게 담은 뒤, 뚜껑을 밀폐하지 않거나 숨구멍이 있는 용기에 담아 냉장고 신선실(0~2℃)에 보관하세요."
+                    },
+                    {
+                        "name": "씨를 빼고 밀봉하여 냉동 보관하기 — 장기 보관 (1년) 🧊",
+                        "text": "체리를 한 달 이상 장기 보관하고 싶다면 냉동 보관을 추천합니다. 💡 보관 팁: 드시기 직전처럼 물에 깨끗이 씻은 후 물기를 완벽히 제거하고 꼭지와 씨를 제거합니다. 쟁반에 체리를 겹치지 않게 올려 1차 급속 냉동한 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "체리 표면에 흰 가루 같은 것이 묻어있는데 먹어도 되나요?",
+                        "answer": "체리 표면의 흰 가루는 수분 증발을 막고 과일을 보호하기 위해 체리 자체에서 만들어내는 천연 보호막(과분, Bloom)입니다. 인체에 무해하며, 과분이 빽빽하게 분포해 있을수록 신선한 체리입니다."
+                    },
+                    {
+                        "question": "냉동했던 체리는 어떻게 먹는 것이 좋나요?",
+                        "answer": "냉동 체리는 완전히 해동하면 과육이 무르고 육즙이 흘러나오므로, 살짝 상온에서 5~10분간 자연 해동하여 아이스 체리로 드시거나 스무디, 베이킹, 잼 재료로 활용하시는 것이 가장 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Cherries Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for cherries based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought sweet, juicy cherries only to find them soft, moldy, or spoiled in the fridge within a few days? 🍒\n\nCherries are non-climacteric fruits that do not ripen further after harvesting and are extremely sensitive to temperature and humidity fluctuations. When exposed to heat or moisture, their protective natural coating breaks down, making them highly susceptible to mold and decay.\n\nToday, FreshSnap introduces a scientifically proven 3-step cherry storage guide recommended by agriculture and food safety experts to maximize crispness and flavor. 🛡️",
+                "whyTitle": "Why Store Cherries This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never wash cherries before storing 💧",
+                        "desc": "Storing wet cherries traps moisture around the stem and skin, creating an ideal environment for mold and bacteria to proliferate rapidly. Always wash cherries immediately before eating."
+                    },
+                    {
+                        "title": "Do not remove the stems 🍒",
+                        "desc": "Detaching the stem leaves a rupture on the fruit surface, accelerating moisture loss and creating an entry point for spoilage microbes. Keep stems attached to prolong freshness."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Sort damaged cherries and keep stems attached — Sorting & Stem Protection 📦",
+                        "text": "Bruised or soft cherries rapidly rot nearby healthy fruit. 💡 Storage Tip: Separate damaged cherries for immediate consumption, and store only firm, unwashed cherries with intact stems."
+                    },
+                    {
+                        "name": "Line with paper towels and refrigerate at 0–2°C — Moisture Control & Cold Storage (7–10 Days) ❄️",
+                        "text": "Cherries need moisture protection while maintaining proper ventilation to stay crisp. 💡 Storage Tip: Line a container with paper towels, place unwashed cherries in a single layer, and keep the lid loosely covered or ventilated in the crisper drawer (0–2°C)."
+                    },
+                    {
+                        "name": "Pit, seal, and freeze — Long-Term Storage (1 Year) 🧊",
+                        "text": "For storage beyond a month, freezing is the optimal solution. 💡 Storage Tip: Wash thoroughly, dry completely, and remove stems and pits. Flash freeze in a single layer on a tray before transferring to a freezer Ziploc bag below -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "There is a white powdery film on the cherries. Are they safe to eat?",
+                        "answer": "Yes! The white powdery substance is a natural protective coating called 'bloom' produced by the fruit to prevent moisture loss. It is non-toxic and a clear indicator of freshness."
+                    },
+                    {
+                        "question": "What is the best way to enjoy frozen cherries?",
+                        "answer": "Fully thawing frozen cherries makes them mushy due to cellular breakdown. It is best to thaw them slightly for 5–10 minutes as frozen snacks or blend them into smoothies, jams, and baked goods."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "チェリー（さくらんぼ）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくチェリーの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘酸っぱくてジューシーなチェリー（さくらんぼ）を買ってきたものの、冷蔵庫の中でぐしゃっと傷んだりカビが生えたりして捨ててしまった経験はありませんか？🍒\n\nチェリーは収穫後に熟成が進まない非追熟型の果物で、温度や湿度の変化に非常に敏感で傷みやすい繊細な食材です。特に水分や熱気に晒されると表面の天然保護膜が破壊され、カビや雑菌が繁殖しやすくなります。\n\n本日FreshSnapでは、専門家が推奨するチェリーのシャキッとした食感と甘みを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "保存する前に絶対に水で洗わないでください 💧",
+                        "desc": "水気が残った状態で保存すると、軸（軸の付け根）や皮に湿気がこもり、カビや細菌が繁殖する絶好の環境になってしまいます。洗うのは食べる直前にしてください。"
+                    },
+                    {
+                        "title": "軸（軸・柄）を摘み取らないでください 🍒",
+                        "desc": "軸を外すと実の表面に傷ができ、そこから水分が急速に蒸発して微生物が侵入する原因になります。軸がついたままの状態で保存することが長持ちのポイントです。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "傷んだチェリーを選別し軸を残す — 選別＆軸の保護 📦",
+                        "text": "傷がついたチェリーは周囲の正常なチェリーまで急速に傷ませてしまいます。💡保存のコツ：傷のあるものはあらかじめ取り除いて先に召し上がり、傷のないものを洗わずに軸付きのまま保存します。"
+                    },
+                    {
+                        "name": "キッチンペーパーを敷き0〜2℃で冷蔵保存する — 水分調節＆冷蔵保存 (7〜10日間) ❄️",
+                        "text": "チェリーは湿気に弱い反面、適切な湿度がないと食感が損なわれます。💡保存のコツ：保存容器の底にキッチンペーパーを敷き、チェリーが重ならないように並べたら、蓋を少しずらすか通気孔のある容器に入れて冷蔵庫の野菜室・チルド室（0〜2℃）で保存します。"
+                    },
+                    {
+                        "name": "種を取り除き密封して冷凍保存する — 長期保存 (1年間) 🧊",
+                        "text": "1ヶ月以上の長期保存には冷凍保存が最適です。💡保存のコツ：水できれいに洗い、水気を完全に拭き取ってから軸と種を取り除きます。バット等に重ならないよう並べて急速冷凍した後、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "チェリーの表面に白い粉のようなものがついていますが、食べられますか？",
+                        "answer": "表面の白い粉は「ブルーム（果粉）」と呼ばれる天然の保護膜で、果実の水分蒸発を防ぐためにチェリー自体が分泌するものです。体に害はなく、ブルームがまんべんなく付いているものほど新鮮な証拠です。"
+                    },
+                    {
+                        "question": "冷凍チェリーのおすすめの食べ方はありますか？",
+                        "answer": "完全に解凍すると水分が抜けて食感が損なわれるため、常温で5〜10分ほど軽く自然解凍してシャーベット感覚で食べるか、スムージーや製菓、ジャムの材料として活用するのがベストです。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持樱桃新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解樱桃的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否曾买回酸甜多汁的鲜艳樱桃，却发现没过几天就在冰箱里发霉变软？🍒\n\n樱桃属于采摘后不会继续成熟的非呼吸跃变型水果，对温度和湿度的变化极度敏感，是非常容易腐烂的食材。一旦暴露于湿气或热气中，其表面的天然保护层就会被破坏，导致霉菌迅速滋生。\n\n今天FreshSnap基于权威专家指南，为您带来3步科学保存秘诀，帮您延长樱桃爽脆口感与浓郁甜香。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "储存前切勿用水清洗 💧",
+                        "desc": "带水储存会导致水汽积聚在果梗及果皮周围，为霉菌和细菌的滋生提供绝佳环境。清洗请务必留在食用前进行。"
+                    },
+                    {
+                        "title": "请勿拔掉樱桃果梗 🍒",
+                        "desc": "拔掉果梗会在果实表面留下伤口，加速水分蒸发并为微生物侵入打开通道。保留果梗储存是保持新鲜的关键。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "挑出受损樱桃并保留果梗 — 筛选与果梗保护 📦",
+                        "text": "带磕碰或变软的樱桃会迅速导致周围健康果实腐烂。💡储存小贴士：提前挑出有破损的樱桃优先食用，仅保留干燥无损且带有果梗的优质樱桃进行储存。"
+                    },
+                    {
+                        "name": "铺垫厨房纸巾并置于0~2℃冷藏 — 湿度调节与冷藏 (7~10天) ❄️",
+                        "text": "樱桃既怕积水又需要适度保湿以维持爽脆。💡储存小贴士：在保鲜盒底部铺上一层厨房纸巾，平铺放入未清洗的樱桃，盖上留有通气孔的盖子，放入冰箱0~2℃保鲜抽屉。"
+                    },
+                    {
+                        "name": "去核密封后冷冻保存 — 长期保存 (1年) 🧊",
+                        "text": "如需保存1个月以上，建议采取冷冻保存。💡储存小贴士：食用前彻底洗净并擦干水分，去除果梗和果核。在托盘上单层铺开速冻后，装入冷冻拉链袋密封存入-18℃以下冷冻室。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "樱桃表面有一层白霜，还可以食用吗？",
+                        "answer": "完全可以！樱桃表面的白霜是果实自身分泌的天然保护膜（果粉 Bloom），用于防止水分蒸发，无毒无害。果粉越均匀完整，说明樱桃越新鲜。"
+                    },
+                    {
+                        "question": "冷冻樱桃应该怎么食用？",
+                        "answer": "冷冻樱桃完全解冻后果肉会变软塌陷并流失汁液。最佳食用方式是常温下微解冻5~10分钟作为冰镇水果食用，或直接用于制作果昔、烘焙和果酱。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las cerezas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las cerezas según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró cerezas dulces y jugosas, solo para descubrir que a los pocos días se ablandaban o se llenaban de moho en el refrigerador? 🍒\n\nLas cerezas son frutas no climatéricas que no maduran después de ser cosechadas y son extremadamente sensibles a los cambios de temperatura y humedad. Al exponerse al calor o a la humedad, la capa protectora de su piel se destruye, volviéndolas vulnerables al moho.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos para maximizar la frescura y la textura crujiente de sus cerezas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca lave las cerezas antes de guardarlas 💧",
+                        "desc": "Guardar las cerezas húmedas atrapa el agua en el tallo y la piel, creando el ambiente perfecto para la rápida multiplicación de mohos y bacterias. Lávelas justo antes de comer."
+                    },
+                    {
+                        "title": "No retire los tallos 🍒",
+                        "desc": "Quitar el tallo deja una herida en la superficie de la fruta, acelerando la pérdida de humedad y permitiendo la entrada de microorganismos. Mantenga los tallos intactos."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe las cerezas dañadas y mantenga los tallos — Selección y protección 📦",
+                        "text": "Las cerezas magulladas echan a perder rápidamente a las sanas. 💡 Consejo de almacenamiento: Separe las piezas dañadas para consumirlas primero y conserve solo cerezas firmes y secas con sus tallos."
+                    },
+                    {
+                        "name": "Coloque papel absorbente y refrigere a 0–2 °C — Control de humedad y refrigeración (7–10 días) ❄️",
+                        "text": "Las cerezas requieren un equilibrio adecuado de humedad sin encharcarse. 💡 Consejo de almacenamiento: Coloque papel absorbente en el fondo de un recipiente, distribuya las cerezas sin amontonar y mantenga el recipiente ventilado en el cajón de verduras (0–2 °C)."
+                    },
+                    {
+                        "name": "Deshuese, selle y congele — Conservación a largo plazo (1 año) 🧊",
+                        "text": "Para conservar más de un mes, la congelación es la mejor opción. 💡 Consejo de almacenamiento: Lave, seque bien, retire tallos y huesos. Congele en una bandeja individualmente antes de pasar a una bolsa Ziploc a menos de -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Hay una capa blanca en polvo sobre la superficie. ¿Es seguro comerlas?",
+                        "answer": "¡Sí! Esa fina capa blanca es una pátina natural protectora llamada 'pruina', producida por la propia fruta para evitar la deshidratación. Es inocua y demuestra gran frescura."
+                    },
+                    {
+                        "question": "¿Cuál es la mejor manera de consumir cerezas congeladas?",
+                        "answer": "Descongelar las cerezas por completo altera su estructura haciéndolas harinosas. Es mejor dejar reposar 5-10 minutos para comerlas semi-congeladas o incorporarlas en batidos y repostería."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les cerises fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les cerises selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté de magnifiques cerises douces et juteuses, pour constater qu'elles ramollissaient ou moisissaient au réfrigérateur après seulement quelques jours ? 🍒\n\nLa cerise est un fruit non climatérique qui ne mûrit plus après la cueillette et qui se montre extrêmement sensible aux variations de température et d'humidité. Lorsqu'elle est exposée à l'eau ou à la chaleur, sa fine pellicule protectrice se détériore, favorisant l'apparition de moisissures.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver le croquant et la douceur de vos cerises. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne lavez jamais les cerises avant de les stocker 💧",
+                        "desc": "Envelopper des cerises humides retient l'eau au niveau du pédoncule et de la peau, créant un milieu idéal pour le développement des moisissures. Ne lavez vos cerises qu'au moment de les déguster."
+                    },
+                    {
+                        "title": "Ne retirez pas les queues (pédoncules) 🍒",
+                        "desc": "Enlever la queue crée une lésion sur la peau, ce qui accélère la déshydratation et ouvre une voie d'entrée aux germes. Conservez les cerises avec leur queue intacte."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Trier les cerises abîmées et garder la queue — Tri & Protection 📦",
+                        "text": "Une cerise meurtrie ou amollie gâte rapidement ses voisines. 💡 Astuce de conservation : Écartez les cerises abîmées pour les consommer de suite, et ne stockez que des cerises fermes, sèches et munies de leur pédoncule."
+                    },
+                    {
+                        "name": "Tapisser de papier absorbant et réfrigérer à 0–2 °C — Contrôle de l'humidité (7 à 10 jours) ❄️",
+                        "text": "Les cerises ont besoin d'aération tout en conservant une humidité contrôlée. 💡 Astuce de conservation : Déposez du papier absorbant au fond d'une boîte, disposez les cerises sans les entasser et laissez le récipient légèrement ventilé dans le bac à légumes (0–2 °C)."
+                    },
+                    {
+                        "name": "Dénoyauter, sceller et congeler — Stockage longue durée (1 an) 🧊",
+                        "text": "Pour une conservation de plus d'un mois, optez pour la congélation. 💡 Astuce de conservation : Lavez, séchez parfaitement, puis retirez queues et noyaux. Congelez d'abord à plat sur un plateau avant de les transférer dans un sac congélation à -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Il y a une pellicule blanche sur les cerises. Sont-elles consommables ?",
+                        "answer": "Oui ! Cette fine pruine blanche est une protection naturelle sécrétée par le fruit pour lutter contre le dessèchement. Non toxique, elle garantit au contraire la fraîcheur de la cerise."
+                    },
+                    {
+                        "question": "Comment déguster au mieux des cerises congelées ?",
+                        "answer": "Une décongélation complète rend la chair molle. Dégustez-les légèrement décongelées après 5 à 10 minutes à température ambiante, ou incorporez-les directement dans vos smoothies et pâtisseries."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kirschen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kirschen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal süße, saftige Kirschen gekauft, nur um festzustellen, dass sie im Kühlschrank nach wenigen Tagen weich wurden oder Schimmel ansetzten? 🍒\n\nKirschen gehören zu den nicht-klimakterischen Früchten, die nach der Ernte nicht nachreifen. Sie reagieren extrem empfindlich auf Temperaturschwankungen und Feuchtigkeit. Bei Wärme oder Feuchtigkeit geht die natürliche Schutzschicht verloren, was Schimmelbefall begünstigt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und das Aroma Ihrer Kirschen lange zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Kirschen vor der Lagerung niemals waschen 💧",
+                        "desc": "Feuchtigkeit an Stiel und Schale bildet einen idealen Nährboden für Schimmelpilze und Bakterien. Waschen Sie Kirschen grundsätzlich erst direkt vor dem Verzehr."
+                    },
+                    {
+                        "title": "Die Stiele nicht entfernen 🍒",
+                        "desc": "Wird der Stiel abgerissen, entsteht eine kleine Wunde an der Frucht, wodurch Feuchtigkeit entweicht und Keime eindringen können. Lassen Sie die Stiele immer an der Frucht."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Beschädigte Kirschen aussortieren und Stiele belassen — Sortierung & Schutz 📦",
+                        "text": "Druckstellen oder weiche Kirschen lassen gesundes Obst schnell verderben. 💡 Lagerungstipp: Sortieren Sie beschädigte Früchte aus und lagern Sie nur feste, trockene Kirschen mit Stiel."
+                    },
+                    {
+                        "name": "Mit Küchenpapier auslegen und bei 0–2 °C kühlen — Kühlung & Feuchtekontrolle (7–10 Tage) ❄️",
+                        "text": "Kirschen brauchen eine gute Belüftung bei gleichzeitiger Feuchtigkeitsregulierung. 💡 Lagerungstipp: Legen Sie eine Dose mit Küchenpapier aus, geben Sie ungewaschene Kirschen locker hinein und bewahren Sie die Dose belüftet im Gemüsefach (0–2 °C) auf."
+                    },
+                    {
+                        "name": "Entsteinen, verpacken und einfrieren — Gefrierlagerung (1 Jahr) 🧊",
+                        "text": "Für eine Lagerung von über einem Monat empfiehlt sich das Einfrieren. 💡 Lagerungstipp: Gründlich waschen, komplett abtrocknen, Stiele und Steine entfernen. Erst auf einem Tablett einzeln schockgefrieren, dann in einen Gefrierbeutel bei unter -18 °C umfüllen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Auf den Kirschen befindet sich ein weißer Belag. Kann man sie noch essen?",
+                        "answer": "Ja! Der weiße Film ist eine natürliche Schutzschicht der Frucht (die sogenannte 'Duftigkeit' oder 'Pruina'), die das Austrocknen verhindert. Sie ist völlig unbedenklich und ein Zeichen von Frische."
+                    },
+                    {
+                        "question": "Wie genießt man gefrorene Kirschen am besten?",
+                        "answer": "Vollständig aufgetaute Kirschen werden durch die Zellschädigung matschig. Lassen Sie sie am besten 5–10 Minuten anrauen und genießen Sie sie als kühlen Snack oder verarbeiten Sie sie in Smoothies und Gebäck."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar cerejas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para cerejas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou cerejas doces e suculentas e ficou desapontado ao ver que elas amoleceram ou criaram mofo na geladeira em poucos dias? 🍒\n\nA cereja é uma fruta não climatérica que não amadurece após a colheita, sendo extremamente sensível a oscilações de temperatura e umidade. A exposição ao calor ou à água destrói sua cera protetora natural, facilitando o surgimento de fungos.\n\nHojes, o FreshSnap apresenta um guia prático em 3 etapas recomendado por especialistas para maximizar a crocância e o sabor das suas cerejas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca lave as cerejas antes de guardar 💧",
+                        "desc": "Guardar cerejas úmidas retém água na haste e na casca, criando o ambiente perfeito para a proliferação de mofo e bactérias. Lave as cerejas apenas no momento de consumir."
+                    },
+                    {
+                        "title": "Não remova os talos (hastes) 🍒",
+                        "desc": "Retirar o talo deixa uma abertura na fruta, acelerando a perda de umidade e permitindo a entrada de microrganismos. Mantenha os talos intactos."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Separe cerejas machucadas e mantenha os talos — Seleção e proteção 📦",
+                        "text": "Frutas machucadas estragam rapidamente as que estão sadias. 💡 Dica de conservação: Separe as cerejas danificadas para comer primeiro e guarde apenas as frutas firmes e secas com talo."
+                    },
+                    {
+                        "name": "Forre com papel-toalha e refrigere de 0 a 2 °C — Controle de umidade (7 a 10 dias) ❄️",
+                        "text": "As cerejas precisam de ventilação sem perder a firmeza. 💡 Dica de conservação: Forre um pote com papel-toalha, coloque as cerejas em uma única camada sem apertar e guarde na gaveta de legumes (0 a 2 °C) com o pote levemente entreaberto."
+                    },
+                    {
+                        "name": "Descaroce, sele e congele — Longo prazo (1 ano) 🧊",
+                        "text": "Para conservar por mais de um mês, o congelamento é a melhor opção. 💡 Dica de conservação: Lave, seque totalmente e remova talos e caroços. Congele primeiro em uma bandeja e depois transfira para um saco Ziploc a -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Há um pó branco na superfície da cereja. É seguro comer?",
+                        "answer": "Sim! Essa camada esbranquiçada é uma proteção natural chamada 'pruína', produzida pela própria fruta para evitar a perda de água. Ela é inofensiva e indica que a cereja está bem fresca."
+                    },
+                    {
+                        "question": "Qual é a melhor forma de consumir cerejas congeladas?",
+                        "answer": "Descongelar totalmente deixa a polpa mole e sem textura. O ideal é deixar descongelar por 5 a 10 minutos para comer como um snack gelado ou usar em smoothies, tortas e geleias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Ceri agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah ceri berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli buah ceri yang manis dan segar, lalu mendapatinya dengan cepat menjadi lembek atau berjamur di dalam kulkas? 🍒\n\nCeri adalah buah non-klimakterik yang tidak akan matang lagi setelah dipetik, serta sangat sensitif terhadap perubahan suhu dan kelembapan. Paparan air atau udara panas dapat merusak lapisan pelindung Alaminya, memicu pertumbuhan jamur dengan cepat.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga tekstur renyah dan rasa manis buah ceri Anda. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan sekali-kali mencuci ceri sebelum disimpan 💧",
+                        "desc": "Menyimpan ceri dalam kondisi basah akan mengunci kelembapan di sekitar tangkai dan kulit, menciptakan lingkungan ideal bagi jamur dan bakteri untuk berkembang pesat. Cucilah tepat sebelum dimakan."
+                    },
+                    {
+                        "title": "Jangan mencabut tangkai ceri 🍒",
+                        "desc": "Mencabut tangkai akan meninggalkan luka pada buah yang mempercepat penguapan air dan menjadi jalan masuk bagi mikroba pembusuk. Biarkan tangkainya tetap menempel."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Pisahkan ceri yang rusak dan biarkan tangkainya — Sortir & Perlindungan Tangkai 📦",
+                        "text": "Ceri yang memar dapat dengan cepat membusukkan ceri lain di sekitarnya. 💡 Tips Penyimpanan: Pisahkan ceri yang cacat untuk segera dikonsumsi, lalu simpan ceri yang padat dan kering bersama tangkainya."
+                    },
+                    {
+                        "name": "Alasi dengan tisu dapur dan simpan di suhu 0–2°C — Kontrol Kelembapan (7–10 Hari) ❄️",
+                        "text": "Ceri membutuhkan sirkulasi udara yang baik agar tetap renyah tanpa menjadi busuk akibat lembap. 💡 Tips Penyimpanan: Alasi wadah dengan tisu dapur, tata ceri tanpa ditumpuk, lalu simpan dengan wadah berlubang di laci kulkas (0–2°C)."
+                    },
+                    {
+                        "name": "Buang bijinya, segel, lalu bekukan — Simpan Jangka Panjang (1 Tahun) 🧊",
+                        "text": "Untuk penyimpanan lebih dari sebulan, pembekuan adalah cara terbaik. 💡 Tips Penyimpanan: Cuci bersih, keringkan sepenuhnya, lalu buang tangkai dan bijinya. Bekukan sebentar di atas nampan sebelum dimasukkan ke kantong Ziploc freezer di bawah -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ada lapisan putih seperti bedak di permukaan ceri, apakah aman dimakan?",
+                        "answer": "Ya! Lapisan putih halus tersebut adalah pelindung alami bernama 'bloom' yang dihasilkan oleh ceri untuk mencegah dehidrasi. Lapisan ini tidak berbahaya dan menandakan buah ceri masih sangat segar."
+                    },
+                    {
+                        "question": "Bagaimana cara terbaik menikmati ceri beku?",
+                        "answer": "Mencairkan ceri beku hingga tuntas akan membuat teksturnya lembek. Sebaiknya biarkan melunak selama 5–10 menit di suhu ruang untuk dinikmati sebagai es buah ceri, atau langsung diolah menjadi smoothie dan kue."
+                    }
+                ]
+            }
+        }
+    }
+}

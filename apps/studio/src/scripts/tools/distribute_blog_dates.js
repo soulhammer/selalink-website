@@ -8,30 +8,30 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const targetSlugs = [
-  'how-to-store-mayonnaise',
-  'how-to-store-soy-sauce',
-  'how-to-store-ketchup',
-  'how-to-store-coconut-oil',
-  'how-to-store-dried-seaweed',
-  'how-to-store-asparagus',
-  'how-to-store-kiwi',
-  'how-to-store-fresh-herbs',
-  'how-to-store-canned-ham',
-  'how-to-store-melon'
+  'how-to-store-lamb',
+  'how-to-store-vinegar',
+  'how-to-store-cherries',
+  'how-to-store-tangerines',
+  'how-to-store-clams',
+  'how-to-store-cream-cheese',
+  'how-to-store-bean-sprouts',
+  'how-to-store-anchovies',
+  'how-to-store-napa-cabbage',
+  'how-to-store-mustard'
 ];
 
 // 2026년 1월부터 2026년 7월 현재까지 균등 분산 (10개 날짜)
 const generatedDates = [
-  '2026-01-12',
-  '2026-02-02',
-  '2026-02-23',
-  '2026-03-16',
-  '2026-04-06',
-  '2026-04-27',
-  '2026-05-18',
-  '2026-06-08',
-  '2026-06-29',
-  '2026-07-20'
+  '2026-01-15',
+  '2026-02-05',
+  '2026-02-26',
+  '2026-03-19',
+  '2026-04-09',
+  '2026-04-30',
+  '2026-05-21',
+  '2026-06-11',
+  '2026-07-02',
+  '2026-07-23'
 ];
 
 console.log('🗓️ 신규 10개 식재료 블로그 분산 날짜 목록:', generatedDates);

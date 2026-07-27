@@ -1,0 +1,406 @@
+{
+    "how-to-store-mustard": {
+        "ingId": "mustard",
+        "pubDate": "2026-07-23",
+        "updatedDate": "2026-07-23",
+        "heroImage": "/images/blog/mustard_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "머스타드·겨자 소스 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 머스타드 소스의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+                "intro": "샌드위치나 소시지, 치킨 요리의 풍미를 한껏 끌어올려 주는 머스타드(겨자 소스), 개봉 후 식탁 위나 양념 찬장에 그냥 두고 오래 사용하신 적 있으시죠? 핫도그집처럼 상온에 두어도 되는지 궁금하셨을 텐데요. 🌭\n\n머스타드는 식초, 소금, 산성 성분이 첨가되어 자체적인 미생물 억제력이 높은 보존성이 뛰어난 소스입니다. 하지만 개봉 후 공기와 접촉하면 시니그린(Sinigrin) 등 특유의 톡 쏘는 알싸한 매운맛 성분과 향이 쉽게 휘발하며, 시간이 지남에 따라 색상이 짙게 변하고 기름과 수분이 분리되는 현상이 발생합니다.\n\n오늘 FreshSnap에서는 식품 안전 기관의 검증된 가이드라인을 바탕으로, 머스타드 소스의 알싸한 풍미와 선명한 색상을 변함없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "개봉 후 상온에 오랫동안 방치하지 마세요 ⚠️",
+                        "desc": "미개봉 상태의 머스타드는 상온 보관이 가능하지만, 개봉 후 상온에 오래 두면 알싸한 매운맛 성분(이소티오시아네이트)이 휘발하여 맛이 밋밋해지고 색상이 검붉게 변색됩니다."
+                    },
+                    {
+                        "title": "용기 입구 주변을 항상 깨끗이 닦아주세요 🧴",
+                        "desc": "용기 캡이나 입구 주변에 묻은 머스타드 잔여물이 공기 중에 노출되면 딱딱하게 굳어 곰팡이가 피거나 세균 오염의 통로가 될 수 있습니다. 사용 후에는 입구를 깨끗이 닦아 밀봉하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "개봉 전 직사광선 차단 및 서늘한 상온 보관하기 — 개봉 전 상온 보관 (15~25℃) 📦",
+                        "text": "미개봉 머스타드는 식초와 소금의 천연 보존 작용으로 상온에서 안전하게 보존됩니다. 💡 보관 팁: 직사광선과 가열 기구 주변을 피해 서늘하고 어두운 찬장에 보관해 주세요."
+                    },
+                    {
+                        "name": "사용 후 입구 세척 및 뚜껑 완전 밀봉하기 — 풍미 휘발 차단 🧴",
+                        "text": "공기와의 접촉을 줄여야 알싸한 매운 향과 기름 분리 현상을 막을 수 있습니다. 💡 보관 팁: 잔여물을 깨끗이 닦아낸 후 뚜껑을 꽉 닫아 공기 유입을 차단해 주세요."
+                    },
+                    {
+                        "name": "개봉 후 0~4℃ 저온 냉장 보관하기 — 개봉 후 냉장 보관 (1~2년) ❄️",
+                        "text": "개봉 후 냉장 보관을 하면 알싸한 풍미 수명을 최대 1년 이상 연장할 수 있습니다. 💡 보관 팁: 냉장고 문 선반이나 안쪽 선반(0~4℃)에 보관해 주세요. 일반 옐로우 머스타드는 개봉 후 냉장 보관 시 1~1.5년, 디종/홀그레인 머스타드는 1년 정도 최상의 품질이 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "머스타드를 짜낼 때 물(액체)이 먼저 나오는데 버려야 하나요?",
+                        "answer": "아닙니다. 시간이 지나면서 머스타드 입자와 식초/수분이 자연스럽게 층분리(수분 분리 현상)된 것입니다. 용기 뚜껑을 닫고 충분히 흔들어 섞어 주시거나, 튜브형 용기라면 가볍게 주물러서 사용하시면 정상적인 상태로 돌아옵니다."
+                    },
+                    {
+                        "question": "머스타드 소스도 냉동 보관할 수 있나요?",
+                        "answer": "권장하지 않습니다. 머스타드를 냉동하면 부드러운 유화 상태가 깨져 해동 후 기름과 수분, 식초가 완전히 분리되고 덩어리가 생겨 원래의 부드러운 질감을 되찾기 어렵습니다. 냉장 보관만으로도 충분히 오래 보존됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Store Mustard: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for mustard based on official safety guidelines.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "Have you ever kept a bottle of yellow, Dijon, or whole-grain mustard sitting out on your dining table or in a pantry cabinet long after opening it? 🌭\n\nThanks to its high acid content from vinegar and salt, mustard is a naturally self-preserving condiment with high resistance to microbial growth. However, once opened, exposure to oxygen rapidly dissipates its signature pungent flavor compounds (allyl isothiocyanate), causing the mustard to darken, lose its sharp kick, and separate into liquid and solids.\n\nToday, FreshSnap introduces a scientifically proven 3-step mustard storage guide based on safety guidelines from food safety authorities to help preserve its sharp kick and vibrant color. 🛡️",
+                "whyTitle": "Why Store Mustard This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not leave opened mustard at room temperature for long periods ⚠️",
+                        "desc": "While unopened mustard is shelf-stable, leaving opened mustard at room temperature accelerates the evaporation of volatile spicy compounds, resulting in a dull flavor and dark brown discoloration."
+                    },
+                    {
+                        "title": "Keep the bottle nozzle and cap clean 🧴",
+                        "desc": "Mustard residue left around the squeeze cap or rim dries into hard crusts when exposed to air, creating potential pathways for mold or bacterial contamination. Always wipe the spout clean after use."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store unopened bottles in a cool pantry away from heat — Pantry Storage (15–25°C) 📦",
+                        "text": "Unopened mustard maintains stability at room temperature thanks to natural preservatives like vinegar and salt. 💡 Storage Tip: Keep unopened bottles in a dark, cool cabinet away from direct sunlight."
+                    },
+                    {
+                        "name": "Wipe the nozzle and seal the cap tightly — Preserve Pungency & Flavor 🧴",
+                        "text": "Minimizing oxygen exposure stops the volatile sharp kick from evaporating and prevents liquid separation. 💡 Storage Tip: Wipe off excess sauce around the squeeze tip before snapping the lid shut."
+                    },
+                    {
+                        "name": "Refrigerate at 0–4°C after opening — Cold Storage (1–2 Years After Opening) ❄️",
+                        "text": "Refrigeration drastically slows down chemical oxidation and flavor loss. 💡 Storage Tip: Store opened mustard in the refrigerator door or shelf (0–4°C). Classic yellow mustard lasts 1–1.5 years in the fridge, while Dijon or whole-grain mustard maintains peak quality for up to 1 year."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Watery liquid came out first when squeezing the mustard bottle. Has it gone bad?",
+                        "answer": "No! This is a natural physical process called syneresis (liquid separation), where vinegar and water separate from the solid mustard solids over time. Simply shake the bottle thoroughly or knead squeeze pouches before use to restore consistency."
+                    },
+                    {
+                        "question": "Can you freeze mustard?",
+                        "answer": "Freezing mustard is not recommended. Freezing breaks the emulsion structure, causing extreme separation of oil, vinegar, and water upon thawing, leaving behind a lumpy, watery texture that cannot be re-emulsified easily."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "マスタード（芥子ソース）を長持ちさせる保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくマスタードの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+                "intro": "サンドイッチやソーセージの味を引き立てるマスタード（イエローマスタード・粒マスタード）、開封後に食卓や調味料棚に置いたまま長く使っていませんか？🌭\n\nマスタードはお酢や塩分、酸性成分が含まれているため、自重による細菌増殖が抑えられ保存性に優れた調味料です。しかし、開封後に空気に触れると、独特の辛味成分（イソチオシアネート）が揮発して辛さが抜け、時間が経つと色が濃くなったり油分と水分が分離しやすくなります。\n\n本日FreshSnapでは、食品安全機関のガイドラインに基づき、マスタードのツーンとした辛味と鮮やかな色合いを長く保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "開封後は常温で長期間放置しないでください ⚠️",
+                        "desc": "未開封のマスタードは常温保存が可能ですが、開封後に常温で放置すると揮発性の辛味成分が逃げて味がボヤけ、酸化によって色が黒っぽく変色します。"
+                    },
+                    {
+                        "title": "容器の注ぎ口の周りを常に清潔に拭き取ってください 🧴",
+                        "desc": "キャップや注ぎ口に付着したマスタードの残渣が空気に晒されると、固まって乾燥し、カビや雑菌が繁殖する原因になります。使用後は必ず綺麗に拭いて密閉してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "開封前は直射日光を避け涼しい常温で保管する — 開封前常温保存 (15〜25℃) 📦",
+                        "text": "未開封のマスタードはお酢と塩分の保全作用により常温で安全に保存できます。💡保存のコツ：直射日光やコンロ周囲の熱を避け、暗く涼しい戸棚に保管してください。"
+                    },
+                    {
+                        "name": "使用後は注ぎ口を拭きキャップをしっかり閉める — 辛味の蒸発防止 🧴",
+                        "text": "空気との接触を最小限に抑えることで辛味の蒸発と水分分離を防ぎます。💡保存のコツ：残ったソースを完全に拭き取り、蓋をしっかり閉めて空気の侵入を遮断します。"
+                    },
+                    {
+                        "name": "開封後は0〜4℃で冷蔵保存する — 開封後冷蔵保存 (1〜2年間) ❄️",
+                        "text": "開封後に冷蔵保存することで辛味と風味が長期間維持されます。💡保存のコツ：冷蔵庫のドアポケットや棚（0〜4℃）で保存します。イエローマスタードは開封後冷蔵で約1〜1.5年、ディジョンや粒マスタードは約1年間最高の品質が保たれます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "マスタードを絞った時、透明な水（液体）が先に出てきましたが捨てた方がいいですか？",
+                        "answer": "捨てる必要はありません。時間が経つにつれて水分（酢や水）と固形分が分離する「離水現象」と呼ばれる自然な物理現象です。キャップを閉めてしっかり振ってから使うか、チューブ容器なら軽く揉み込んでからお使いください。"
+                    },
+                    {
+                        "question": "マスタードソースは冷凍保存できますか？",
+                        "answer": "おすすめしません。マスタードを冷凍すると乳化状態が破壊され、解凍後に水分と油分が完全に分離してボソボソとしたダマ状になり、元の滑らかな質感が失われてしまいます。冷蔵保存で十分に長持ちします。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何妥善保存芥末酱（黄芥末·粒状芥末）：科学储存指南",
+                "description": "根据官方食品安全指南，了解芥末酱的最佳储存温度、方式和保质时长。",
+                "authority": "<strong>美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+                "intro": "为三明治、香肠或炸鸡提味不可或缺的芥末酱，开封后您是不是常常随手放在餐桌或调料柜里长期使用？🌭\n\n芥末酱由于添加了食醋、食盐等酸性成分，本身具备极强的高抑菌防腐能力。但开封后一旦接触空气，使其散发独特辛辣香气的成分（异硫氰酸酯）会快速挥发，导致口感变淡、颜色发暗，甚至出现水油分离现象。\n\n今天FreshSnap基于权威食品安全机构的指南，为您带来3步科学保存秘诀，帮您长期保持芥末酱的辛辣风味与鲜艳色泽。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "开封后切勿长时间置于常温下 ⚠️",
+                        "desc": "未开封的芥末酱可以在常温下保存，但开封后若长期放在常温下，挥发性的辛辣成分会逸散使风味变淡，且氧化会导致颜色变深变黑。"
+                    },
+                    {
+                        "title": "请时刻保持瓶口与挤压嘴干净 🧴",
+                        "desc": "残留于瓶盖或瓶口的芥末酱干涸结块后，易成为霉菌或细菌滋生的温床。每次使用完毕后请将瓶口擦拭干净并封严。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "开封前避光置于阴凉常温处 — 开封前常温保存 (15~25℃) 📦",
+                        "text": "未开封的芥末酱凭借醋和盐的防腐作用，在常温下非常稳定。💡储存小贴士：远离阳光直射与灶台热源，置于阴凉干燥的橱柜中。"
+                    },
+                    {
+                        "name": "使用后清洁瓶口并紧闭瓶盖 — 锁定辛辣风味 🧴",
+                        "text": "减少与氧气接触可有效阻止挥发性辛辣成分逸散及水分离析。💡储存小贴士：擦净挤压口残留的酱汁后，盖紧瓶盖扣紧封口。"
+                    },
+                    {
+                        "name": "开封后置于0~4℃冷藏 — 开封后冷藏保存 (1~2年) ❄️",
+                        "text": "开封后冷藏可极大减缓氧化速度并延长风味保质期。💡储存小贴士：放入冰箱门架或隔板（0~4℃）保存。传统黄芥末酱开封冷藏可保存1~1.5年，第戎芥末酱或粒状芥末酱可保持最佳品质约1年。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "挤芥末酱时先挤出了液体（水），需要扔掉吗？",
+                        "answer": "不需要。这是随时间推移，酱体内的水分/食醋与固体颗粒自然分层的“析水现象”，属于正常物理现象。盖紧瓶盖充分摇匀，或轻轻捏捏挤压软管即可恢复均匀质感。"
+                    },
+                    {
+                        "question": "芥末酱可以冷冻保存吗？",
+                        "answer": "不建议冷冻。冷冻会破坏芥末酱的乳化结构，解冻后水、油、醋会完全分离并产生结块，无法恢复原本顺滑细腻的质感。直接冷藏保存保质期已足够长。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo conservar la mostaza: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mostaza según las directrices oficiales de seguridad.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "¿Alguna vez dejó un bote de mostaza amarilla, Dijon o en grano sobre la mesa o en la despensa mucho tiempo después de haberlo abierto? 🌭\n\nGracias a su alto contenido de acidez del vinagre y la sal, la mostaza es un condimento autoconservante con gran resistencia a las bacterias. Sin embargo, una vez abierta, el contacto con el oxígeno disipa rápidamente sus compuestos picantes y volátiles, oscureciendo su color y separando los líquidos de los sólidos.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por autoridades de seguridad alimentaria para mantener el sabor intenso y el color brillante de su mostaza. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No deje la mostaza abierta a temperatura ambiente por mucho tiempo ⚠️",
+                        "desc": "Mientras que la mostaza cerrada es estable en despensa, dejarla abierta a temperatura ambiente acelera la evaporación de sus aceites esenciales picantes, perdiendo sabor y volviéndose marrón."
+                    },
+                    {
+                        "title": "Mantenga limpia la boquilla y la tapa del envase 🧴",
+                        "desc": "Los restos de mostaza en la boquilla se secan y forman costras que pueden convertirse en vías de contaminación por moho o bacterias. Limpie siempre el vertedor después de cada uso."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserve los botes cerrados en un lugar fresco y oscuro — Almacenamiento en despensa (15–25 °C) 📦",
+                        "text": "La mostaza cerrada se conserva perfectamente a temperatura ambiente gracias a la sal y el vinagre. 💡 Consejo de almacenamiento: Guárdela en un armario fresco alejado de la luz solar y del calor."
+                    },
+                    {
+                        "name": "Limpie la boquilla y cierre herméticamente — Conservar sabor y picor 🧴",
+                        "text": "Reducir la exposición al oxígeno evita que el toque picante se evapore y frena la separación de líquidos. 💡 Consejo de almacenamiento: Retire el exceso de salsa antes de cerrar bien la tapa."
+                    },
+                    {
+                        "name": "Refrigere a 0–4 °C tras abrir — Refrigeración (1 a 2 años tras abrir) ❄️",
+                        "text": "La refrigeración ralentiza significativamente la oxidación química y la pérdida de sabor. 💡 Consejo de almacenamiento: Guarde el bote abierto en la puerta o estante del refrigerador (0–4 °C). La mostaza amarilla dura de 1 a 1,5 años refrigerada, mientras que la Dijon o en grano mantiene su calidad hasta 1 año."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Salió un líquido acuoso antes de la mostaza al apretar el bote. ¿Se ha estropeado?",
+                        "answer": "¡No! Es un proceso físico natural llamado sinéresis (separación de fases), donde el líquido se separa de los sólidos con el tiempo. Cierre bien la tapa y agite el bote enérgicamente antes de usar para homogenizar la mezcla."
+                    },
+                    {
+                        "question": "¿Se puede congelar la mostaza?",
+                        "answer": "No se recomienda. Congelar la mostaza destruye la estructura de su emulsión, haciendo que el agua, el vinagre y los aceites se separen por completo al descongelar, dejando una textura grumosa y líquida imposible de recuperar."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la moutarde : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la moutarde selon les directives officielles de sécurité.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "Avez-vous déjà laissé un pot de moutarde forte, de Dijon ou à l'ancienne sur votre table ou dans votre placard bien longtemps après l'avoir ouvert ? 🌭\n\nGrâce à sa forte acidité apportée par le vinaigre et le sel, la moutarde est un condiment naturellement auto-conservateur très résistant aux bactéries. Cependant, après ouverture, l'exposition à l'oxygène dissipe rapidement ses molécules volatiles piquantes (isothiocyanate), entraînant un assombrissement de sa couleur et la séparation des liquides.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des autorités de sécurité alimentaire pour maintenir le piquant et la belle couleur de votre moutarde. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne laissez pas la moutarde ouverte à température ambiante trop longtemps ⚠️",
+                        "desc": "Si un pot fermé se conserve très bien en placard, laisser un pot ouvert à température ambiante accélère l'évaporation de son piquant et l'oxydation de sa couleur."
+                    },
+                    {
+                        "title": "Gardez le goulot et le bouchon toujours propres 🧴",
+                        "desc": "Les résidus de moutarde qui sèchent autour du bouchon forment des croûtes dures pouvant servir de porte d'entrée aux moisissures. Essuyez toujours le goulot après usage."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Garder les pots fermés dans un placard frais — Stockage en placard (15–25 °C) 📦",
+                        "text": "La moutarde non ouverte reste stable à température ambiante grâce au sel et au vinaigre. 💡 Astuce de conservation : Conservez les pots fermés dans un placard sombre, à l'abri de la lumière et du soleil."
+                    },
+                    {
+                        "name": "Essuyer le goulot et fermer hermétiquement — Préserver le piquant et la saveur 🧴",
+                        "text": "Limiter le contact avec l'air empêche l'évaporation des arômes piquants et la déphasage. 💡 Astuce de conservation : Nettoyez les coulures avant de refermer soigneusement le bouchon."
+                    },
+                    {
+                        "name": "Réfrigérer entre 0 et 4 °C après ouverture — Stockage frais (1 à 2 ans après ouverture) ❄️",
+                        "text": "La réfrigération ralentit considérablement l'oxydation et la perte de saveur. 💡 Astuce de conservation : Placez le pot ouvert au réfrigérateur (0–4 °C). La moutarde jaune douce se conserve 1 à 1,5 an au frais, tandis que la moutarde de Dijon ou à l'ancienne garde sa qualité optimale pendant 1 an."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Un liquide transparent est sorti avant la moutarde en pressant le flacon. Est-elle périmée ?",
+                        "answer": "Pas du tout ! Il s'agit d'un phénomène physique naturel appelé synérèse (déphasage), où l'eau et le vinaigre se séparent des matières solides avec le temps. Secouez vigoureusement le flacon fermé avant chaque utilisation pour réémulsionner la sauce."
+                    },
+                    {
+                        "question": "Peut-on congeler de la moutarde ?",
+                        "answer": "C'est déconseillé. La congélation détruit l'émulsion de la moutarde. À la décongélation, l'eau, l'huile et le vinaigre se séparent complètement, donnant une texture grumeleuse et liquide irrécupérable."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Senf richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Senf basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "Haben Sie ein Glas mittelscharfen Senf, Dijon-Senf oder körnigen Senf nach dem Öffnen schon einmal Wochen auf dem Esstisch oder im Küchenregal stehen lassen? 🌭\n\nDank seines hohen Säuregehalts durch Essig sowie Salz ist Senf ein von Natur aus haltbares Kondiment mit hoher Widerstandsfähigkeit gegen Mikroben. Nach dem Öffnen führt der Kontakt mit Sauerstoff jedoch zum schnellen Entweichen der flüchtigen Schärfestoffe (Isothiocyanate). Der Senf dunkelt nach, verliert seine Schärfe und setzt Wasser ab.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Schärfe und das Aroma Ihres Senfs lange zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Geöffneten Senf nicht lange bei Raumtemperatur stehen lassen ⚠️",
+                        "desc": "Ungeöffneter Senf ist im Vorratsschrank stabil. Nach dem Öffnen bei Raumtemperatur verdunsten jedoch die Schärfestoffe rasch, der Senf verliert seinen Kick und verfärbt sich dunkelbraun."
+                    },
+                    {
+                        "title": "Die Dosieröffnung und den Deckel stets sauber halten 🧴",
+                        "desc": "Antrocknende Senfreste an der Tube oder dem Glasrand bilden krustige Ränder, die Nährboden für Schimmelpilze sein können. Wischen Sie die Öffnung nach Gebrauch immer sauber ab."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnete Gläser/Tuben kühl und dunkel lagern — Vorratslagerung (15–25 °C) 📦",
+                        "text": "Ungeöffnet bleibt Senf durch die natürlichen Konservierungsmittel Essig und Salz bei Raumtemperatur stabil. 💡 Lagerungstipp: Vor Sonnenlicht und Herdhitze geschützt im Küchenschrank aufbewahren."
+                    },
+                    {
+                        "name": "Öffnung abwischen und luftdicht verschließen — Schärfe & Aroma sichern 🧴",
+                        "text": "Weniger Luftkontakt verhindert das Verfliegen der ätherischen Schärfe und wirkt der Phasentrennung entgegen. 💡 Lagerungstipp: Reste an der Öffnung entfernen und den Deckel fest zudrehen."
+                    },
+                    {
+                        "name": "Nach dem Öffnen bei 0–4 °C kühlen — Kühllagerung (1–2 Jahre nach Öffnung) ❄️",
+                        "text": "Die Kühlung verlangsamt die chemische Oxidation und den Geschmacksverlust drastisch. 💡 Lagerungstipp: Geöffneten Senf im Kühlschrank (0–4 °C) lagern. Klassischer Senf hält im Kühlschrank 1–1,5 Jahre, Dijon- oder Körnersenf etwa 1 Jahr bei bester Qualität."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Beim Ausdrücken kam zuerst wässrige Flüssigkeit heraus. Ist der Senf schlecht?",
+                        "answer": "Nein! Das ist ein natürlicher physikalischer Vorgang namens Synärese (Phasentrennung), bei dem sich Essig/Wasser mit der Zeit vom Feststoff absetzt. Verschließen Sie die Tube/Flasche und schütteln bzw. kneten Sie sie vor Gebrauch gut durch."
+                    },
+                    {
+                        "question": "Kann man Senf einfrieren?",
+                        "answer": "Davon wird abgeraten. Einfrieren zerstört die Emulsionsstruktur des Senfs. Beim Auftauen trennen sich Wasser, Öl und Essig vollständig voneinander, was zu einer klumpigen, wässrigen Textur führt."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar mostarda fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a mostarda com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "Você já deixou um frasco de mostarda amarela, Dijon ou em grãos na mesa de jantar ou no armário muito tempo depois de aberto? 🌭\n\nGraças ao alto teor de acidez vindo do vinagre e do sal, a mostarda é um condimento autoconservante altamente resistente a micróbios. No entanto, após aberta, a exposição ao oxigênio faz com que seus compostos picantes e voláteis evaporem rapidamente, escurecendo sua cor e separando o líquido dos sólidos.\n\nHoje, o FreshSnap apresenta um guia em 3 etapas baseado em diretrizes de autoridades de segurança alimentar para preservar a picância e a cor viva da sua mostarda. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não deixe a mostarda aberta em temperatura ambiente por muito tempo ⚠️",
+                        "desc": "Embora a mostarda fechada seja estável no armário, deixá-la aberta em temperatura ambiente acelera a evaporação de seus óleos picantes, fazendo-a perder o sabor e ficar escura."
+                    },
+                    {
+                        "title": "Mantenha o bico e a tampa do frasco sempre limpos 🧴",
+                        "desc": "Restos de mostarda acumulados no bico ressecam e formam crostas que podem se tornar portas de entrada para bactérias e mofo. Limpe o bico após cada uso."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Mantenha os frascos fechados em local fresco e escuro — Armário (15–25 °C) 📦",
+                        "text": "A mostarda fechada preserva-se perfeitamente em temperatura ambiente graças ao sal e ao vinagre. 💡 Dica de conservação: Guarde em um armário escuro e longe do calor do fogão."
+                    },
+                    {
+                        "name": "Limpe o bico e feche bem a tampa — Preservar a picância e o sabor 🧴",
+                        "text": "Evitar o contato com o ar previne que a picância volátil evapore e reduz a separação de água. 💡 Dica de conservação: Limpe o excesso de molho e feche a tampa com firmeza."
+                    },
+                    {
+                        "name": "Refrigere de 0 a 4 °C após aberto — Refrigeração (1 a 2 anos após aberto) ❄️",
+                        "text": "A refrigeração desacelera significativamente a oxidação e a perda de aroma. 💡 Dica de conservação: Guarde o frasco aberto na geladeira (0 a 4 °C). A mostarda amarela dura de 1 a 1,5 anos no frio, enquanto a Dijon ou em grãos mantém o sabor por até 1 ano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Saiu um líquido aquoso antes da mostarda ao apertar o frasco. Ela estragou?",
+                        "answer": "Não! Esse é um processo físico natural chamado sinérese (separação de fases), onde a água e o vinagre se separam dos sólidos com o tempo. Agite bem o frasco fechado antes de usar para misturar novamente."
+                    },
+                    {
+                        "question": "Pode-se congelar mostarda?",
+                        "answer": "Não é recomendado. O congelamento destrói a emulsão da mostarda, fazendo com que o óleo, a água e o vinagre se separem completamente ao descongelar, resultando em uma textura empelotada e líquida irrecuperável."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Saus Mustard agar Tetap Awet: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk saus mustard berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>FDA & MFDS & USDA</strong>",
+                "intro": "Pernahkah Anda meninggalkan botol saus mustard di atas meja makan atau lemari dapur dalam waktu lama setelah dibuka? 🌭\n\nBerkat kandungan asam yang tinggi dari cuka dan garam, mustard adalah kondimen yang memiliki daya awet alami dan tahan terhadap mikroba. Namun, setelah dibuka, paparan oksigen akan membuat senyawa pedas volatilnya (alil isotiosianat) menguap dengan cepat, menyebabkan warnanya menggelap, rasanya menjadi hambar, dan terjadi pemisahan cairan.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman otoritas keamanan pangan untuk menjaga rasa pedas khas dan warna cerah saus mustard Anda. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan biarkan mustard yang sudah dibuka di suhu ruang terlalu lama ⚠️",
+                        "desc": "Meskipun mustard yang belum dibuka tahan di suhu ruang, membiarkan mustard terbuka di suhu ruang akan mempercepat penguapan rasa pedasnya sehingga menjadi hambar dan warnanya berubah cokelat gelap."
+                    },
+                    {
+                        "title": "Jagalah kebersihan mulut botol dan tutupnya 🧴",
+                        "desc": "Sisa mustard yang mengering di sekitar mulut botol akan mengeras dan dapat menjadi celah masuknya jamur atau bakteri. Selalu lap mulut botol hingga bersih setelah digunakan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan botol yang belum dibuka di dapur sejuk — Simpan di Dapur (15–25°C) 📦",
+                        "text": "Mustard yang belum dibuka tetap stabil pada suhu ruang berkat bahan pengawet alami seperti cuka dan garam. 💡 Tips Penyimpanan: Simpan di dalam lemari yang gelap dan sejuk jauh dari sinar matahari."
+                    },
+                    {
+                        "name": "Lap mulut botol dan tutup rapat — Jaga Rasa Pedas & Aroma 🧴",
+                        "text": "Meminimalkan paparan oksigen mencegah penguapan rasa pedas dan pemisahan cairan. 💡 Tips Penyimpanan: Bersihkan sisa saus di ujung botol sebelum menutup rapat botolnya."
+                    },
+                    {
+                        "name": "Simpan di kulkas pada suhu 0–4°C setelah dibuka — Penyimpanan Dingin (1–2 Tahun Setelah Dibuka) ❄️",
+                        "text": "Pendinginan memperlambat oksidasi kimia dan penurunan kualitas rasa secara signifikan. 💡 Tips Penyimpanan: Simpan mustard yang sudah dibuka di rak kulkas (0–4°C). Mustard kuning klasik bertahan 1–1,5 tahun di kulkas, sedangkan Dijon atau mustard biji bertahan hingga 1 tahun."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa cairan bening keluar terlebih dahulu saat botol mustard ditekan?",
+                        "answer": "Itu bukan tanda kerusakan! Fenomena ini disebut sineresis (pemisahan cairan), yaitu proses alami di mana cuka/air terpisah dari padatan mustard seiring waktu. Cukup tutup rapat botol lalu kocok dengan kuat sebelum digunakan."
+                    },
+                    {
+                        "question": "Apakah saus mustard bisa dibekukan di freezer?",
+                        "answer": "Tidak disarankan. Membekukan mustard akan merusak struktur emulsinya. Saat dicairkan, minyak, air, dan cuka akan terpisah sepenuhnya sehingga teksturnya menjadi bergumpal dan berair yang tidak bisa menyatu kembali."
+                    }
+                ]
+            }
+        }
+    }
+}
