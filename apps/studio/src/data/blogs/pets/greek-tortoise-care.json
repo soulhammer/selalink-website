@@ -1,0 +1,459 @@
+{
+    "greek-tortoise-care": {
+        "pubDate": "2026-03-16",
+        "updatedDate": "2026-03-16",
+        "locales": {
+            "ko": {
+                "title": "그리스 육지거북 UVB 온수욕 케어와 피라미딩 예방: 요산 배출과 등갑 관리를 위한 3단계 데일리 루틴",
+                "description": "온순하고 매력적인 그리스 육지거북 케어법. 대사성 뼈 질환(MBD) 예방을 위한 UVB 조사, 요산 배출을 돕는 온수욕, 피라미딩 방지 3단계 루틴을 다룹니다.",
+                "authority": "세계애완거북협회 및 에키조틱 파충류 수의학 임상 가이드라인",
+                "profile": {
+                    "breed": "그리스 육지거북 (Greek Tortoise / Testudo graeca)",
+                    "lifespan": "30 ~ 50년",
+                    "sleep_pattern": "10 ~ 12시간 (주행성 - 바스킹 및 야간 매립 수면)",
+                    "temperament": "온순함, 느긋함, 조용함, 호기심 많음, 관상형"
+                },
+                "intro": "도톰하고 아름다운 모자이크 무늬 등갑과 온순한 성격을 지닌 그리스 육지거북은 대표적인 지중해 육지거북입니다. 햇볕을 좋아하는 주행성 파충류로, 칼슘 흡수를 위한 강력한 UVB 조사와 적정 온·습도 유지가 필수적입니다. 자칫 칼슘 결핍이나 수분 부족이 발생하면 등갑이 뾰족하게 솟아오르는 피라미딩(Pyramiding), 대사성 뼈 질환(MBD), 그리고 결석을 유발하는 요산 적체가 일어날 수 있습니다. 오늘 PetSelf에서는 그리스 육지거북의 건강 신호를 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "그리스 육지거북의 신체 시그널: 굳어버린 흰색 요산 덩어리 배출과 눈 감고 둔하게 웅크림",
+                "whyDesc": "그리스 육지거북이 **'배설 시 치약 형태가 아닌 딱딱하게 굳은 흰색 덩어리(요산 결석)를 배출하거나 배출에 고통을 느끼는 모습'**은 심각한 체내 수분 부족 신호입니다. 반면 **'일광욕 장소 밖에서 다리를 밀어 넣고 눈을 감은 채 계속 움직이지 않는 행동'**은 저체온증, MBD, 또는 호흡기 질환의 위험 경고입니다.",
+                "body_signals": [
+                    {
+                        "name": "딱딱한 흰색 결석 배출 및 배설 곤란 (Hard Urate Discharge)",
+                        "meaning": "체내 수분이 부족하여 체내 요산이 배출되지 못하고 방광 내에서 결석으로 굳어진 위험한 상태입니다.",
+                        "response": "즉시 30~35℃의 따뜻한 물로 15~20분간 온수욕을 실시하여 요산 배출을 유도하고, 수분 공급용 야채 채취와 사육장 습도를 체크합니다."
+                    },
+                    {
+                        "name": "눈을 감고 다리를 밀어 넣어 웅크림 (Lethargy & Closed Eyes)",
+                        "meaning": "사육장 온도가 너무 낮아 대사가 정지되었거나, UVB 부족으로 인한 MBD 또는 호흡기 감염 초기 증상입니다.",
+                        "response": "바스킹 존 온도를 32~35℃로 올리고 UVB 램프 수명을 점검하며, 콧물이나 거품이 없는지 수의사 검진을 받습니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 바스킹 램프·UVB 점등 및 온수욕(Soaking) 실시",
+                        "text": "미온수(30~35℃)로 15~20분간 온수욕을 시켜 체온을 올리고 수분 흡수 및 요산 배출을 촉진합니다."
+                    },
+                    {
+                        "name": "낮: 고섬유질·고칼슘 주식 야채 급여 및 온도 구배 점검",
+                        "text": "치커리, 청경채, 민들레 등 고섬유질 야채에 칼슘 파우더를 뿌려 급여하고 바스킹 존(32~35℃)과 쿨 존(22~26℃)을 유지합니다."
+                    },
+                    {
+                        "name": "저녁: 등갑 청결 점검 및 소등 후 야간 온도 유지",
+                        "text": "등갑에 묻은 오염물을 부드럽게 닦아주고 소등 후 야간 온도(20~22℃)를 유지하여 편안한 수면을 돕습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "그리스 육지거북에게 과일이나 고기(단백질)를 주어도 되나요?",
+                        "answer": "안 됩니다. 그리스 육지거북은 엄격한 초식성 동물입니다. 과일의 과당은 장내 세균총을 파괴해 설사를 유발하며, 과도한 단백질은 등갑 피라미딩과 신장 질환을 일으키므로 고섬유질·저단백 야채만 급여해야 합니다."
+                    },
+                    {
+                        "question": "피라미딩(Pyramiding) 현상이란 무엇이고 어떻게 예방하나요?",
+                        "answer": "등갑 마디가 뾰족하게 솟아오르는 기형 증상입니다. 단백질 과다 섭취, 칼슘 및 UVB 부족, 사육장 내 낮은 습도가 주원인입니다. 적절한 습도(40~60%) 유지, 미온수 온수욕, 칼슘제 급여, 충분한 UVB 조사가 예방의 핵심입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Greek Tortoise UVB Care and Hydration Soaking: A 3-Step Daily Routine for Shell Health and Urate Passage",
+                "description": "Essential care guide for the docile Greek Tortoise (Testudo graeca). Learn about UVB lighting, preventing pyramiding, warm water soaking for urate passage, and a 3-step routine.",
+                "authority": "World Turtle & Tortoise Association Standards & Exotic Reptile Clinical Guidelines",
+                "profile": {
+                    "breed": "Greek Tortoise (Testudo graeca)",
+                    "lifespan": "30 ~ 50 Years",
+                    "sleep_pattern": "10 ~ 12 Hours (Diurnal - Basking and Buried Sleep)",
+                    "temperament": "Calm, Docile, Quiet, Curious, Observational"
+                },
+                "intro": "Characterized by its mosaic-patterned carapace and gentle temperament, the Greek Tortoise (Testudo graeca) is a classic Mediterranean species. As diurnal reptiles, they require strong UVB lighting for calcium absorption and proper thermal gradients. Without adequate hydration, calcium, and UVB, they risk pyramiding, Metabolic Bone Disease (MBD), and painful bladder stones from accumulated urates. Today, PetSelf details a 3-step daily care routine for shell and renal health.",
+                "whyTitle": "Greek Tortoise Physical Signals: Hard White Urate Discharge and Sunken Eyes with Lethargy",
+                "whyDesc": "If a Greek Tortoise **'discharges hard, chalky white stones instead of soft toothpaste-like urates'**, it is suffering from severe dehydration. Conversely, **'withdrawing into its shell with closed eyes away from the basking area'** warns of hypothermia, MBD, or respiratory illness.",
+                "body_signals": [
+                    {
+                        "name": "Hard Chalky Urate Discharge",
+                        "meaning": "Indicates severe systemic dehydration where urates solidify into bladder stones inside the urinary system.",
+                        "response": "Soak in 30–35°C warm water for 15–20 minutes daily, offer hydrated greens, and adjust habitat humidity."
+                    },
+                    {
+                        "name": "Lethargy & Closed Eyes",
+                        "meaning": "Caused by inadequate basking temperatures, MBD from lack of UVB, or an early-stage respiratory infection.",
+                        "response": "Raise the basking spot to 32–35°C, replace aging UVB bulbs, and inspect for nasal discharge or bubbles."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Basking & UVB Light On with Warm Water Soaking",
+                        "text": "Soak the tortoise in 30–35°C warm water for 15–20 minutes to elevate metabolic rate, encourage hydration, and stimulate urate passage."
+                    },
+                    {
+                        "name": "Afternoon: High-Fiber Feeding & Thermal Gradient Check",
+                        "text": "Feed high-calcium, low-protein greens (endive, dandelion, collards) dusted with calcium, maintaining a basking zone (32–35°C) and cool zone (22–26°C)."
+                    },
+                    {
+                        "name": "Evening: Shell Cleaning & Nighttime Temperature Management",
+                        "text": "Wipe the carapace clean, turn off day lights, and maintain a night temperature of 20–22°C for restful sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I feed fruits or animal protein to a Greek Tortoise?",
+                        "answer": "No. Greek tortoises are strict herbivores. Sugars in fruit disrupt gut flora, causing diarrhea, while excess protein leads to pyramiding and kidney failure. Feed high-fiber, low-protein leafy greens only."
+                    },
+                    {
+                        "question": "What is pyramiding and how do I prevent it?",
+                        "answer": "Pyramiding is a shell deformity where scutes grow into unnatural conical pyramids. Caused by low humidity, excess protein, or insufficient calcium/UVB. Prevent it by maintaining 40–60% humidity, regular warm soaks, calcium supplementation, and strong UVB."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ギリシャリクガメのUVB＆温水浴ケア：甲羅のピラミッディング予防と尿酸排泄のための3ステップ日常ルーティン",
+                "description": "温和で愛らしいギリシャリクガメの飼育ガイド。MBD（代謝性骨疾患）を防ぐUVB照射、尿酸排泄を促す温水浴、ピラミッディング予防の3ステップケアを解説します。",
+                "authority": "世界爬虫類保護協会基準およびエキゾチック爬虫類臨床ガイドライン",
+                "profile": {
+                    "breed": "ギリシャリクガメ (Greek Tortoise / Testudo graeca)",
+                    "lifespan": "30 〜 50年",
+                    "sleep_pattern": "10 〜 12時間 (昼行性 - バスキングおよび潜り込み睡眠)",
+                    "temperament": "温和、おっとり、静か、好奇心旺盛、観賞型"
+                },
+                "intro": "モザイク模様の美しい甲羅とおとなしい性格を持つギリシャリクガメは、地中海リクガメの代表種です。日光浴を好む昼行性爬虫類であり、カルシウム吸収のための強力なUVB照射と適切な温度勾配が不可欠です。水分やカルシウム、UVBが不足すると、甲羅が山型に隆起するピラミッディングや代謝性骨疾患（MBD）、結石の原因となる尿酸の蓄積を引き起こします。今回はギリシャリクガメの健康を維持する3ステップ日常ルーティンをご紹介します。",
+                "whyTitle": "ギリシャリクガメのボディランゲージ：固い白色尿酸の排泄と目を閉じたうずくまり",
+                "whyDesc": "ギリシャリクガメが**「練り歯磨き状ではなく、固く固まった白い石のような尿酸を排出する」**場合、深刻な脱水症状を起こしています。一方**「バスキングスポットの外で足を引っ込め、目を閉じて動かない」**行動は、低体温症やMBD、呼吸器疾患の危険サインです。",
+                "body_signals": [
+                    {
+                        "name": "固い結石状尿酸の排泄 (Hard Urate Discharge)",
+                        "meaning": "体内の水分不足により尿酸が排出できず、膀胱内で結石化している危険な状態です。",
+                        "response": "30〜35℃のぬるま湯で15〜20分間温水浴をさせ、水分補給とケージ内の湿度を調整します。"
+                    },
+                    {
+                        "name": "目を閉じてうずくまる (Lethargy & Closed Eyes)",
+                        "meaning": "ケージ内の温度低下による代謝停止、UVB不足によるMBD、または呼吸器感染の疑いがあります。",
+                        "response": "バスキングスポットを32〜35℃に上げ、UVBライトを点検し、鼻水がないか確認します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ライト点灯と温水浴（ソーキング）の実施",
+                        "text": "30〜35℃のぬるま湯で15〜20分間温水浴をさせ、体温を上げて水分補給と尿酸排泄を促します。"
+                    },
+                    {
+                        "name": "昼：高繊維・高カルシウムの野草給与と温度勾配の確認",
+                        "text": "小松菜、チンゲンサイ、タンポポなどにカルシウムパウダーを振りかけて与え、バスキングゾーン（32〜35℃）とクールゾーン（22〜26℃）を維持します。"
+                    },
+                    {
+                        "name": "夜：甲羅の清掃と夜間保温",
+                        "text": "甲羅の汚れを拭き取り、消灯後は夜間温度（20〜22℃）を保って静かに休ませます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ギリシャリクガメに果物や肉（タンパク質）を与えてもいいですか？",
+                        "answer": "不可です。ギリシャリクガメは完全な草食性です。果物の糖分は腸内環境を破壊して下痢を引き起こし、過剰なタンパク質は甲羅の変形や腎臓病の原因となります。"
+                    },
+                    {
+                        "question": "ピラミッディングとは何ですか？予防法は？",
+                        "answer": "甲甲板がピラミッド状に隆起する骨変形障害です。低湿度、タンパク質の過剰、カルシウム・UVB不足が原因となります。適切な湿度（40〜60%）の維持、定期的な温水浴、UVB照射が予防の鍵です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "欧洲陆龟UVB照明与泡澡护理：预防隆背与促进尿酸排泄的日常3步护理流程",
+                "description": "针对温顺可爱的欧洲陆龟（Greek Tortoise/Testudo graeca）护理。介绍预防代谢性骨病（MBD）的UVB照射、温水泡澡排酸及3步日常护理流程。",
+                "authority": "世界陆龟协会标准与异宠爬行动物临床护理指南",
+                "profile": {
+                    "breed": "欧洲陆龟 (Greek Tortoise / Testudo graeca)",
+                    "lifespan": "30 ~ 50年",
+                    "sleep_pattern": "10 ~ 12小时 (昼行性 - 晒背与潜伏入睡)",
+                    "temperament": "温和、文静、安静、充满好奇、观赏型"
+                },
+                "intro": "欧洲陆龟因其浑圆且具有马赛克般精美花纹的龟甲和温和的性格，是地中海陆龟中最受欢迎的品种之一。作为喜光的昼行性爬行动物，它们需要充足的UVB照射以合成维生素D3，并依赖合理的温湿度梯度。若缺乏水分、钙质或UVB，极易导致龟甲隆起（隆背/Pyramiding）、代谢性骨病（MBD）及尿酸结石。今天 PetSelf 为您解析欧洲陆龟的健康信号并提供3步日常护理流程。",
+                "whyTitle": "欧洲陆龟的肢体语言：排出硬块状白色尿酸与闭眼缩头麻木",
+                "whyDesc": "当欧洲陆龟 **“排出的不是膏状尿酸，而是硬块状白色结石”** 时，这是身体严重缺水的危险信号。而 **“在晒背区外缩回四肢、闭眼一动不动”**，则提示低体温、MBD或呼吸道感染。",
+                "body_signals": [
+                    {
+                        "name": "排出硬块状结石尿酸 (Hard Urate Discharge)",
+                        "meaning": "体内水分不足导致尿酸无法顺利排出，在膀胱内凝结成结石的危险状态。",
+                        "response": "立即使用 30–35°C 温水泡澡 15–20 分钟以诱导排酸，并增加高水分野菜与调节湿度。"
+                    },
+                    {
+                        "name": "闭眼缩头与麻木 (Lethargy & Closed Eyes)",
+                        "meaning": "环境温度过低导致代谢停滞，或缺乏UVB引发MBD及呼吸道疾病。",
+                        "response": "将晒背区温度提升至 32–35°C，更换UVB灯管，排查是否有鼻涕或呼吸气泡。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：开启晒背灯与UVB并进行温水泡澡",
+                        "text": "在 30–35°C 温水中泡澡 15–20 分钟，提升代谢，促进饮水与尿酸顺利排出。"
+                    },
+                    {
+                        "name": "中午：喂食高纤维高钙野菜与温控排查",
+                        "text": "喂食蒲公英、油麦菜、菊苣等高纤维高钙野菜并添加钙粉，维持晒背区（32–35°C）与降温区（22–26°C）。"
+                    },
+                    {
+                        "name": "晚上：龟甲清洁与夜间保温",
+                        "text": "擦拭龟甲污垢，熄灯后将夜间温度维持在 20–22°C，确保其安心休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以给欧洲陆龟喂食水果或肉类（蛋白质）吗？",
+                        "answer": "绝对不可以。欧洲陆龟是严格的草食性动物。水果中的糖分会导致肠道菌群紊乱引发腹泻，过量蛋白质会引发隆背和肾脏衰竭。"
+                    },
+                    {
+                        "question": "什么是隆背（Pyramiding）？如何预防？",
+                        "answer": "隆背是指龟甲盾片呈金字塔状异常隆起的畸形现象。主要由湿度过低、蛋白质过高、缺乏钙质及UVB引起。保持 40–60% 湿度、定期泡澡、补充钙粉及照射UVB是预防核心。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado del UVB y baño de hidratación de la Tortuga Mora: Rutina diaria de 3 pasos para la salud del caparazón y la expulsión de uratos",
+                "description": "Guía de cuidado para la pacífica Tortuga Mora (Testudo graeca). Aprenda sobre iluminación UVB, prevención del piramidismo, baño templado para uratos y rutina de 3 pasos.",
+                "authority": "Estándares de la World Turtle & Tortoise Association y Directrices Clínicas de Reptiles Exóticos",
+                "profile": {
+                    "breed": "Tortuga Mora (Testudo graeca)",
+                    "lifespan": "30 ~ 50 años",
+                    "sleep_pattern": "10 ~ 12 horas (diurna: asoleamiento y entierro nocturno)",
+                    "temperament": "Tranquila, Dócil, Silenciosa, Curiosa, Observacional"
+                },
+                "intro": "Con su caparazón abombado decorado con motivos en mosaico y su carácter afable, la Tortuga Mora (Testudo graeca) es una especie mediterránea icónica. Como reptil diurno, requiere una luz UVB potente para la absorción de calcio y un correcto gradiente térmico. Sin hidratación adecuada, calcio y UVB, corre el riesgo de sufrir piramidismo, Enfermedad Ósea Metabólica (EMO) y cálculos renales por uratos acumulados. PetSelf presenta su rutina diaria de 3 pasos.",
+                "whyTitle": "Señales corporales de la Tortuga Mora: Expulsión de uratos duros y ojos cerrados con letargo",
+                "whyDesc": "Si una Tortuga Mora **'expulsa piedras de urato blancas y duras en lugar de una pasta suave'**, padece deshidratación severa. Por otro lado, **'permanecer retraída en el caparazón con los ojos cerrados fuera de la zona de calor'** es un aviso de hipotermia, EMO o enfermedad respiratoria.",
+                "body_signals": [
+                    {
+                        "name": "Expulsión de uratos duros calcificados",
+                        "meaning": "Indica deshidratación sistémica grave donde los uratos se petrifican en forma de cálculos vesicales.",
+                        "response": "Realice baños de agua templada (30–35 °C) durante 15–20 minutos al día y reajuste la humedad del terrario."
+                    },
+                    {
+                        "name": "Ojos cerrados y letargo prolongado",
+                        "meaning": "Causado por temperaturas deficientes de asoleamiento, EMO por falta de UVB o infección respiratoria.",
+                        "response": "Aumente el punto caliente a 32–35 °C, cambie la bombilla UVB y verifique si hay secreción nasal."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Encendido de UVB/asoleamiento y baño de agua templada",
+                        "text": "Bañe a la tortuga en agua a 30–35 °C durante 15–20 minutos para elevar su metabolismo, hidratarla y estimular la eliminación de uratos."
+                    },
+                    {
+                        "name": "Tarde: Alimentación rica en fibra y control del gradiente térmico",
+                        "text": "Ofrézcale hojas verdes ricas en calcio y fibra (diente de león, escarola) con calcio en polvo, manteniendo zonas caliente (32–35 °C) y fresca (22–26 °C)."
+                    },
+                    {
+                        "name": "Noche: Limpieza del caparazón y temperatura nocturna",
+                        "text": "Limpie suavemente el caparazón, apague las luces diurnas y mantenga la temperatura nocturna entre 20 y 22 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo dar fruta o proteína animal a una Tortuga Mora?",
+                        "answer": "No. La tortuga mora es estrictamente herbívora. El azúcar de la fruta altera su flora intestinal causando diarrea, mientras que el exceso de proteína genera piramidismo y fallos renales."
+                    },
+                    {
+                        "question": "¿Qué es el piramidismo y cómo se previene?",
+                        "answer": "Es una deformidad ósea donde los escudos del caparazón crecen en pirámide. Se debe a baja humedad, exceso de proteína o falta de calcio/UVB. Se previene con humedad del 40–60%, baños de agua templada, calcio y radiación UVB constante."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soins de la Tortue Grecque (UVB et Bains d'Hydratation) : Routine quotidienne en 3 étapes contre le pyramideur et les calculs d'urates",
+                "description": "Guide de soin essentiel pour la douce Tortue Grecque (Testudo graeca). Apprenez à gérer l'éclairage UVB, prévenir le pyramideur et favoriser l'évacuation des urates.",
+                "authority": "Normes de la World Turtle & Tortoise Association et Directives Cliniques des Reptiles Exotiques",
+                "profile": {
+                    "breed": "Tortue Grecque (Testudo graeca)",
+                    "lifespan": "30 ~ 50 ans",
+                    "sleep_pattern": "10 ~ 12 heures (diurne : point chaud et enfouissement nocturne)",
+                    "temperament": "Calme, Douce, Silencieuse, Curieuse, D'observation"
+                },
+                "intro": "Reconnaissable à sa carapace bombée aux motifs en mosaïque et à son tempérament paisible, la Tortue Grecque (Testudo graeca) est une espèce méditerranéenne emblématique. En tant que reptile diurne, elle a absolument besoin d'un éclairage UVB puissant pour assimiler le calcium et d'un gradient thermique adapté. Sans une hydratation régulière, du calcium et des UVB, elle s'expose au pyramideur, à la Maladie Osseuse Métabolique (MOM) et à de douloureux calculs urinaires. PetSelf vous présente une routine de soin en 3 étapes.",
+                "whyTitle": "Langage corporel de la Tortue Grecque : Évacuation d'urates durs et yeux clos avec prostration",
+                "whyDesc": "Si une Tortue Grecque **« évacue des cailloux d'urates blancs et durs au lieu d'une pâte fluide »**, elle souffre d'une déshydratation sévère. En revanche, **« rester prostrée la tête rentrée et les yeux fermés hors du point chaud »** constitue un signal d'alarme d'hypothermie, de MOM ou de maladie respiratoire.",
+                "body_signals": [
+                    {
+                        "name": "Évacuation d'urates durs calcifiés",
+                        "meaning": "Marque une déshydratation systémique où les urates se solidifient en calculs dans la vessie.",
+                        "response": "Baignez la tortue quotidiennement dans de l'eau tiède (30–35 °C) pendant 15–20 minutes et ajustez l'hygrométrie."
+                    },
+                    {
+                        "name": "Yeux clos et prostration prolongée",
+                        "meaning": "Provoqué par une température insuffisante sous la lampe, une MOM par manque d'UVB ou une pneumopathie.",
+                        "response": "Montez le point chaud à 32–35 °C, remplacez la lampe UVB et vérifiez l'absence d'écoulement nasal."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Allumage UVB/Point chaud et bain d'eau tiède (Soaking)",
+                        "text": "Laissez tremper la tortue 15–20 minutes dans de l'eau tiède (30–35 °C) pour activer son métabolisme, l'hydrater et favoriser la défécation."
+                    },
+                    {
+                        "name": "Midi : Distribution de mauvaises herbes et contrôle des zones thermiques",
+                        "text": "Nourrissez-la de feuillages riches en calcium (pissenlit, chicorée) saupoudrés de calcium, en maintenant le point chaud (32–35 °C) et le point frais (22–26 °C)."
+                    },
+                    {
+                        "name": "Soir : Nettoyage de la carapace et maintien de la température nocturne",
+                        "text": "Essuyez doucement la carapace, éteignez les lampes diurnes et conservez une température nocturne de 20 à 22 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on donner des fruits ou des protéines animales à une Tortue Grecque ?",
+                        "answer": "Non. La tortue grecque est strictement herbivore. Le sucre des fruits détruit sa flore intestinale et entraîne des diarrhées, tandis que les protéines provoquent le pyramideur et des insuffisances rénales."
+                    },
+                    {
+                        "question": "Qu'est-ce que le pyramideur et comment l'éviter ?",
+                        "answer": "C'est une déformation de la carapace dont les écailles poussent en cônes. Elle découle d'un air trop sec, d'un excès de protéines ou d'un manque de calcium/UVB. On la prévient avec une hygrométrie de 40 à 60 %, des bains réguliers, du calcium et des UVB."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Griechische Landschildkröte UVB- & Befeuchtungs-Pflege: Tägliche 3-Schritte-Routine für Panzergesundheit und Uratausscheidung",
+                "description": "Pflegeanleitung für die sanftmütige Griechische Landschildkröte (Testudo graeca). Erfahren Sie alles über UVB-Bestrahlung, Pyramidenbildung, Bäder zur Uratausscheidung und Haltung.",
+                "authority": "Standards der World Turtle & Tortoise Association & Klinische Standards der Exotenmedizin",
+                "profile": {
+                    "breed": "Griechische Landschildkröte (Testudo graeca)",
+                    "lifespan": "30 ~ 50 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Tagaktiv - Sonnenbaden und nächtliches Eingraben)",
+                    "temperament": "Ruhig, Sanftmütig, Leise, Neugierig, Beobachtungstier"
+                },
+                "intro": "Mit ihrem wunderschön gemusterten Rückenpanzer und ihrem ruhigen Wesen gehört die Griechische Landschildkröte (Testudo graeca) zu den beliebtesten europäischen Schildkröten. Als tagaktives Reptil benötigt sie intensivste UVB-Strahlung zur Kalziumaufnahme und ein ausgeprägtes Temperaturgefälle. Fehlen Flüssigkeit, Kalzium oder UVB, drohen Höckerbildung (Pyramidenwuchs), Metabolisches Knochensyndrom (MBD) und Harnsteine. PetSelf zeigt eine 3-Schritte-Routine für die Panzer- und Nierengesundheit.",
+                "whyTitle": "Körpersprache der Landschildkröte: Ausscheidung fester Uratsteine und Inaktivität mit geschlossenen Augen",
+                "whyDesc": "Scheidet eine Griechische Landschildkröte **'feste, kreideartige Steine statt geschmeidiger passteartiger Urate aus'**, leidet sie unter starker Dehydrierung. **'Einziehen der Gliedmaßen mit geschlossenen Augen abseits des Sonnenplatzes'** deutet dagegen auf Unterkühlung, MBD oder Infekte hin.",
+                "body_signals": [
+                    {
+                        "name": "Ausscheidung fester kalzifizierter Uratsteine",
+                        "meaning": "Anzeichen für schwere Dehydrierung, bei der sich Urate in der Blase zu Steinen verfestigen.",
+                        "response": "Baden Sie das Tier täglich 15–20 Minuten in 30–35 °C warmem Wasser und erhöhen Sie die Luftfeuchtigkeit."
+                    },
+                    {
+                        "name": "Geschlossene Augen & Apathie",
+                        "meaning": "Symptom zu niedriger Lokaltemperaturen, MBD durch UVB-Mangel oder einer Atemwegserkrankung.",
+                        "response": "Erhöhen Sie den Sonnenplatz auf 32–35 °C, ersetzen Sie verbrauchte UVB-Lampen und prüfen Sie die Nase auf Ausfluss."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Lampen einschalten & Warmwasserbad (Soaking)",
+                        "text": "Baden Sie die Schildkröte 15–20 Minuten in 30–35 °C warmem Wasser, um den Stoffwechsel anzuregen, Wasser aufzunehmen und Urate auszuscheiden."
+                    },
+                    {
+                        "name": "Mittag: Rohfaserreiche Fütterung & Temperaturkontrolle",
+                        "text": "Verfüttern Sie kalziumreiche Wildkräuter (Löwenzahn, Wegwarte) bestreut mit Kalziumpulver und sichern Sie Sonnenplatz (32–35 °C) und kühle Zone (22–26 °C)."
+                    },
+                    {
+                        "name": "Abend: Panzerreinigung & Nachtabsenkung",
+                        "text": "Wischen Sie den Panzer sanft sauber, schalten Sie Tageslichter aus und halten Sie die Nachttemperatur bei 20–22 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Darf man einer Griechischen Landschildkröte Obst oder Fleisch füttern?",
+                        "answer": "Nein. Sie ist ein reiner Pflanzenfresser. Fruchtzucker zerstört die Darmflora und führt zu Durchfall, während tierisches Eiweiß Pyramidenwuchs und Nierenschäden verursacht."
+                    },
+                    {
+                        "question": "Was ist Pyramidenwuchs (Höckerbildung) und wie beugt man vor?",
+                        "answer": "Eine Panzerdeformierung, bei der die Schilde steil kegelförmig wachsen. Ursachen sind zu trockene Haltung, Eiweißüberschuss und UVB-/Kalziummangel. Vorbeugung gelingt durch 40–60 % Luftfeuchtigkeit, Bäder, Kalzium und UVB."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidado do UVB e Banho de Hidratação da Tartaruga-Moura: Rotina diária de 3 passos para saúde da carapaça e eliminação de uratos",
+                "description": "Guia de cuidados para a dócil Tartaruga-Moura (Testudo graeca). Saiba como utilizar iluminação UVB, prevenir o piramidismo e promover a eliminação de uratos.",
+                "authority": "Padrões da World Turtle & Tortoise Association e Diretrizes Clínicas de Répteis Exóticos",
+                "profile": {
+                    "breed": "Tartaruga-Moura / Tartaruga-Grega (Testudo graeca)",
+                    "lifespan": "30 ~ 50 anos",
+                    "sleep_pattern": "10 ~ 12 horas (diurno: banhos de sol e enterramento noturno)",
+                    "temperament": "Calma, Dócil, Silenciosa, Curiosa, Observacional"
+                },
+                "intro": "Com uma carapaça curvada ornamentada com padrões em mosaico e uma personalidade afetuosa, a Tartaruga-Moura (Testudo graeca) é uma espécie mediterrânea emblemática. Sendo um réptil diurno, necessita de iluminação UVB forte para absorção de cálcio e um gradiente térmico adequado. Sem hidratação, cálcio e UVB apropriados, corre risco de piramidismo, Doença Óssea Metabólica (MBD) e cálculos renais. O PetSelf apresenta uma rotina de 3 passos para a sua saúde.",
+                "whyTitle": "Sinais corporais da Tartaruga-Moura: Expulsão de uratos duros e olhos fechados com prostração",
+                "whyDesc": "Se uma Tartaruga-Moura **'expelir pedras de urato brancas e duras em vez de uma pasta macia'**, sofre de desidratação severa. Por outro lado, **'permanecer recolhida na carapaça com os olhos fechados fora do ponto quente'** indica hipotermia, MBD ou doença respiratória.",
+                "body_signals": [
+                    {
+                        "name": "Expulsão de uratos duros calcificados",
+                        "meaning": "Indica desidratação sistêmica grave onde os uratos se petrificam na bexiga.",
+                        "response": "Dê banhos de água morna (30–35 °C) durante 15–20 minutos por dia e reajuste a humidade do recinto."
+                    },
+                    {
+                        "name": "Olhos fechados e prostração prolongada",
+                        "meaning": "Provocado por temperaturas insuficientes no ponto quente, MBD por falta de UVB ou infeção respiratória.",
+                        "response": "Aumente a zona de aquecimento para 32–35 °C, troque a lâmpada UVB e inspecione o focinho contra secreções."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Ligação do UVB/Aquecimento e banho de água morna",
+                        "text": "Banhe a tartaruga em água a 30–35 °C durante 15–20 minutos para elevar o metabolismo, hidratar e estimular a eliminação de uratos."
+                    },
+                    {
+                        "name": "Tarde: Alimentação rica em fibra e controle térmico",
+                        "text": "Ofereça folhas verdes ricas em cálcio e fibra polvilhadas com cálcio, mantendo o ponto quente (32–35 °C) e o ponto frio (22–26 °C)."
+                    },
+                    {
+                        "name": "Noite: Limpeza da carapaça e temperatura noturna",
+                        "text": "Limpe a carapaça com um pano úmido suave, desligue as luzes e mantenha a temperatura noturna entre 20 e 22 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso dar frutas ou proteína animal para uma Tartaruga-Moura?",
+                        "answer": "Não. A tartaruga-moura é estritamente herbívora. O açúcar da fruta desequilibra a flora intestinal provocando diarreia, enquanto a proteína em excesso causa piramidismo e falência renal."
+                    },
+                    {
+                        "question": "O que é o piramidismo e como prevenir?",
+                        "answer": "É uma deformação na qual os escudos da carapaça crescem em forma de pirâmide. Ocorre devido a baixa humidade, excesso de proteína ou falta de cálcio/UVB. Previne-se mantendo a humidade entre 40–60%, banhos mornos e boa iluminação UVB."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Kura-Kura Yunani (Greek Tortoise): Sinar UVB, Rendam Air Hangat, dan 3 Langkah Rutinitas Harian",
+                "description": "Panduan perawatan esensial untuk kura-kura Yunani (Testudo graeca). Pelajari pencahayaan UVB, pencegahan piramiding, rendam air hangat untuk pembentukan urat, dan rutinitas harian.",
+                "authority": "Standar World Turtle & Tortoise Association & Pedoman Klinis Reptil Eksotis",
+                "profile": {
+                    "breed": "Kura-Kura Yunani / Greek Tortoise (Testudo graeca)",
+                    "lifespan": "30 ~ 50 tahun",
+                    "sleep_pattern": "10 ~ 12 jam (diurnal - berjemur dan tidur mengubur diri saat malam)",
+                    "temperament": "Tenang, Penurut, Lembut, Ingin Tahu, Tipe Observasi"
+                },
+                "intro": "Memiliki tempurung membulat dengan pola mozaik yang indah serta sifat yang tenang, kura-kura Yunani (Testudo graeca) adalah salah satu jenis kura-kura darat Mediterania yang paling populer. Sebagai reptil diurnal, mereka membutuhkan pencahayaan UVB yang kuat untuk penyerapan kalsium serta gradien suhu yang tepat. Tanpa hidrasi yang cukup, kalsium, dan sinar UVB, tempurungnya rentan mengalami piramiding, Penyakit Tulang Metabolik (MBD), serta batu kandung kemih akibat penumpukan urat. Hari ini, PetSelf menyajikan 3 langkah rutinitas harian.",
+                "whyTitle": "Bahasa Tubuh Kura-Kura Yunani: Keluar Urat Putih Mengeras dan Membeku Lemas Sambil Memejamkan Mata",
+                "whyDesc": "Jika kura-kura Yunani **'mengeluarkan gumpalan urat putih yang keras seperti batu dan bukannya pasta lembut'**, ini adalah sinyal dehidrasi tubuh yang parah. Sementara itu, **'menarik kepala dan kaki sambil memejamkan mata di luar area berjemur'** menandakan hipotermia, MBD, atau penyakit saluran pernapasan.",
+                "body_signals": [
+                    {
+                        "name": "Keluarnya Urat Putih Mengeras Seperti Batu",
+                        "meaning": "Menandakan dehidrasi parah di mana urat mengeras menjadi batu kandung kemih di dalam organ ekskresi.",
+                        "response": "Rendam kura-kura dalam air hangat suhu 30–35 °C selama 15–20 menit setiap hari dan atur kelembapan kandang."
+                    },
+                    {
+                        "name": "Lemas & Memejamkan Mata Sambil Menarik Kaki",
+                        "meaning": "Gejala suhu area berjemur yang kurang, MBD akibat kurang sinar UVB, atau infeksi saluran pernapasan.",
+                        "response": "Naikkan suhu area berjemur menjadi 32–35 °C, ganti lampu UVB yang sudah tua, dan periksa hidung dari lendir."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Nyalakan Lampu Berjemur/UVB & Rendam Air Hangat (Soaking)",
+                        "text": "Rendam kura-kura dalam air hangat (30–35 °C) selama 15–20 menit untuk meningkatkan metabolisme, membantu hidrasi, dan merangsang pembuangan urat."
+                    },
+                    {
+                        "name": "Siang: Pemberian Sayur Kaya Serat/Kalsium & Cek Gradien Suhu",
+                        "text": "Berikan sayuran hijau kaya kalsium dan tinggi serat (daun dandelion, selada romain) yang ditaburi bubuk kalsium, serta jaga suhu area panas (32–35 °C) dan area dingin (22–26 °C)."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Tempurung & Pemeliharaan Suhu Malam Hari",
+                        "text": "Usap tempurung dengan lembut, matikan lampu siang, dan jaga suhu malam hari pada 20–22 °C agar kura-kura dapat tidur dengan nyaman."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah memberi buah-buahan atau protein hewani kepada kura-kura Yunani?",
+                        "answer": "Tidak boleh. Kura-kura Yunani adalah herbivora murni. Kandungan gula pada buah merusak mikroflora usus hingga memicu diare, sedangkan protein berlebih memicu kelainan piramiding dan kerusakan ginjal."
+                    },
+                    {
+                        "question": "Apa itu piramiding dan bagaimana cara mencegahnya?",
+                        "answer": "Piramiding adalah kelainan bentuk tempurung di mana kepingan sisik tumbuh menonjol seperti piramida. Disebabkan oleh kelembapan udara yang terlalu rendah, tinggi protein, atau kurang kalsium/UVB. Mencegahnya dilakukan dengan menjaga kelembapan 40–60%, rutin rendam air hangat, dan sinar UVB yang memadai."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/greek_tortoise_care.webp"
+    }
+}

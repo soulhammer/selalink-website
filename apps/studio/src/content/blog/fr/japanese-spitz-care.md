@@ -1,0 +1,186 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Soin de la luxation patellaire et du double pelage du Spitz Japonais : Routine quotidienne en 3 étapes pour protéger les articulations et limiter la mue"
+description: "Soins essentiels pour le Spitz Japonais au pelage blanc comme la neige. Apprenez à prévenir la luxation de la rotule, nettoyer les traces de larmes et entretenir sa fourrure."
+pubDate: "2026-04-08"
+updatedDate: "2026-04-08"
+category: "FreshSelf"
+heroImage: "/images/blog/japanese_spitz_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "Standard de la Fédération Cynologique Internationale (FCI) N° 262 et Directives d'Orthopédie Vétérinaire du Japan Kennel Club (JKC)"
+steps:
+  - name: "Langage corporel du Spitz Japonais : Démarche en sautillant (boiterie) et aboiements d'alerte"
+    text: "Si votre Spitz Japonais « se met soudain à marcher sur trois pattes ou à sautiller » pendant la course, il s'agit du signe caractéristique d'une rotule qui saute. Par ailleurs, des « aboiements stridents et répétés » face à des bruits extérieurs traduisent son instinct de garde naturel et sa grande vigilance."
+  - name: "Langage corporel et signaux comportementaux du Spitz Japonais"
+    text: "* Sautillement sur trois pattes (Boiterie intermittente): La rotule est sortie de son sillon articulaire, provoquant une gêne ou une douleur passagère qui incite le chien à lever la patte arrière. (Ne manipulez pas la patte brusquement. Consultez un vétérinaire pour établir le stade de la luxation (grades 1 à 4), posez des tapis antidérapants et donnez des compléments articulaires.)
+
+* Aboiement d'alerte strident (Sharp Alert Barking): Réaction de protection du territoire déclenchée par son ouïe fine lorsqu'il entend des bruits inhabituels ou des inconnus. (Pratiquez des exercices de désensibilisation sonore et occupez son esprit avec des jeux de fouille (nosework) pour l'apaiser.)"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Spitz Japonais"
+    text: "* STEP 1. Matin : Contrôle des rotules et brossage du sous-poil: Vérifiez l'absence de raideur articulaire au réveil. Brossez délicatement le sous-poil épais avec une brosse carde (slicker) dans le sens du poil pour éviter les nœuds.
+
+* STEP 2. Midi : Aménagement du sol antidérapant et promenade douce: Assurez-vous que les parquets sont recouverts de tapis antidérapants. Proposez une promenade de 30 à 40 minutes sur terrain plat pour dépenser son énergie sans brusquer ses genoux.
+
+* STEP 3. Soir : Nettoyage des traces de larmes et brossage de finition: Nettoyez le contour des yeux avec une lotion adaptée pour éviter l'oxydation du poil blanc, puis réalisez un brossage en profondeur pour éliminer la poussière."
+faqs:
+  - question: "Faut-il laver souvent le Spitz Japonais pour maintenir la blancheur de son poil ?"
+    answer: "Non. Le poil de couverture du Spitz Japonais possède une texture autonettoyante : la boue séchée s'élimine naturellement au brossage. Des bains trop fréquents assèchent sa peau. Un bain toutes les 3 à 4 semaines couplé à un brossage quotidien suffit amplement."
+  - question: "Comment prévenir la luxation de la rotule chez le Spitz Japonais ?"
+    answer: "Le contrôle du poids est capital pour ne pas surcharger les genoux. Il convient également de poser des tapis sur les sols glissants, d'éviter les sauts depuis le canapé ou la station debout sur les pattes arrière, et d'administrer des protecteurs articulaires."
+---
+
+Arborant une somptueuse fourrure double d'un blanc éclatant et un caractère vif et loyal, le Spitz Japonais est un compagnon très apprécié. Néanmoins, en tant que petit à moyen chien, il est sujet à la luxation de la rotule (luxation patellaire). De plus, son pelage blanc met en évidence les coulées larmoyantes sous les yeux, et son sous-poil dense nécessite un brossage régulier. PetSelf vous aide à décrypter les signaux physiques de votre Spitz et vous propose une routine en 3 étapes pour préserver ses articulations et sa beauté.
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Preuves Vétérinaires et Comportementales
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Standard de la Fédération Cynologique Internationale (FCI) N° 262 et Directives d'Orthopédie Vétérinaire du Japan Kennel Club (JKC).
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Langage corporel du Spitz Japonais : Démarche en sautillant (boiterie) et aboiements d'alerte
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Langage corporel du Spitz Japonais : Démarche en sautillant (boiterie) et aboiements d'alerte</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Si votre Spitz Japonais « se met soudain à marcher sur trois pattes ou à sautiller » pendant la course, il s'agit du signe caractéristique d'une rotule qui saute. Par ailleurs, des « aboiements stridents et répétés » face à des bruits extérieurs traduisent son instinct de garde naturel et sa grande vigilance.
+  </p>
+</div>
+
+---
+
+## 2. Langage corporel et signaux comportementaux du Spitz Japonais
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Sautillement sur trois pattes (Boiterie intermittente)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        La rotule est sortie de son sillon articulaire, provoquant une gêne ou une douleur passagère qui incite le chien à lever la patte arrière.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Ne manipulez pas la patte brusquement. Consultez un vétérinaire pour établir le stade de la luxation (grades 1 à 4), posez des tapis antidérapants et donnez des compléments articulaires.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Aboiement d'alerte strident (Sharp Alert Barking)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Réaction de protection du territoire déclenchée par son ouïe fine lorsqu'il entend des bruits inhabituels ou des inconnus.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Pratiquez des exercices de désensibilisation sonore et occupez son esprit avec des jeux de fouille (nosework) pour l'apaiser.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 3. Routine quotidienne en 3 étapes pour le soin du Spitz Japonais
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Matin : Contrôle des rotules et brossage du sous-poil</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Vérifiez l'absence de raideur articulaire au réveil. Brossez délicatement le sous-poil épais avec une brosse carde (slicker) dans le sens du poil pour éviter les nœuds.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Midi : Aménagement du sol antidérapant et promenade douce</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Assurez-vous que les parquets sont recouverts de tapis antidérapants. Proposez une promenade de 30 à 40 minutes sur terrain plat pour dépenser son énergie sans brusquer ses genoux.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Soir : Nettoyage des traces de larmes et brossage de finition</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Nettoyez le contour des yeux avec une lotion adaptée pour éviter l'oxydation du poil blanc, puis réalisez un brossage en profondeur pour éliminer la poussière.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Faut-il laver souvent le Spitz Japonais pour maintenir la blancheur de son poil ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Non. Le poil de couverture du Spitz Japonais possède une texture autonettoyante : la boue séchée s'élimine naturellement au brossage. Des bains trop fréquents assèchent sa peau. Un bain toutes les 3 à 4 semaines couplé à un brossage quotidien suffit amplement.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Comment prévenir la luxation de la rotule chez le Spitz Japonais ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Le contrôle du poids est capital pour ne pas surcharger les genoux. Il convient également de poser des tapis sur les sols glissants, d'éviter les sauts depuis le canapé ou la station debout sur les pattes arrière, et d'administrer des protecteurs articulaires.
+    </p>
+  </details>
+</div>

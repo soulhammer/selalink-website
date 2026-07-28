@@ -1,0 +1,459 @@
+{
+    "amano-shrimp-care": {
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "locales": {
+            "ko": {
+                "title": "야마토 새우 수질 케어와 탈피·탈출 방지: 이끼 제거와 구리 중독 예방 3단계 데일리 루틴",
+                "description": "수초 어항의 이끼 청소부 야마토 새우(아마노 새우) 케어법. 수질 오염 및 구리 중독 예방, 탈피 케어, 어항 이탈 방지 3단계 루틴을 다룹니다.",
+                "authority": "세계관상어협회(OATA) 담수 무척추동물 가이드라인 및 관상용 새우 사육 임상 표준",
+                "profile": {
+                    "breed": "야마토 새우 / 아마노 새우 (Amano Shrimp / Caridina multidentata)",
+                    "lifespan": "2 ~ 3년",
+                    "sleep_pattern": "24시간 (주로 야간에 활발한 이끼 섭식 활동)",
+                    "temperament": "온순함, 활발함, 평화로움, 바쁨, 무해함"
+                },
+                "intro": "수초 어항의 대표적인 이끼 제거반으로 유명한 야마토 새우(아마노 새우)는 투명한 몸과 옅은 점무늬를 가진 매력적인 담수 새우입니다. 실조류(붓이끼 제외)를 효자처럼 청소해 주지만, 중금속(특히 구리)과 질산염 수치, 갑작스러운 수질·수온 변화에 매우 민감합니다. 또한 어항 수질이 악화되면 어항 밖으로 튀어나오는 탈출 행동을 유발하며, 탈피 실패로 사망할 위험이 있습니다. 오늘 PetSelf에서는 야마토 새우의 수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "야마토 새우의 수질 시그널: 어항 벽면 수면 위 올라옴(수질 악화)과 붉고 하얗게 탁해지는 몸",
+                "whyDesc": "야마토 새우가 **'어항 여과기 출수구나 벽면을 타고 수면 위로 올라오거나 밖으로 나오려 하는 행동'**은 용존 산소 부족이나 질산염 폭발, 수질 오염의 극심한 위험 신호입니다. 반면 **'투명했던 몸이 하얗게 탁해지거나 붉게 변하며 움직임이 줄어드는 현상'**은 중금속 중독이나 수질 부작용으로 인한 탈피 실패 경고입니다.",
+                "body_signals": [
+                    {
+                        "name": "수면 위 올라옴 및 어항 벽 수영 (Surface Climbing)",
+                        "meaning": "어항 내부의 용존 산소가 급격히 떨어졌거나 질산염·아질산 수치가 치솟아 생존을 위협받는 수질 악화 상태입니다.",
+                        "response": "즉시 30% 내외의 환수(염소 및 중금속 제거제 필수 사용)를 진행하고 에어레이션을 강화하며 어항 덮개를 철저히 닫아 탈출을 막습니다."
+                    },
+                    {
+                        "name": "탁하고 불투명한 흰색 몸 변화 (White Opaque Body)",
+                        "meaning": "구리/이끼약 등 화학약품 중독, 쇼크, 또는 미네랄 부족으로 인한 탈피 부작용(탈피 사) 전조 증상입니다.",
+                        "response": "수초 영양제나 어류 약품 중 구리(Cu) 성분이 없는지 확인하고, 활성탄을 여과기에 투입해 약품을 흡착하며 스피루리나 및 칼슘 사료를 공급합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 어항 수온·여과기 점검 및 탈출 유무 확인",
+                        "text": "수온(22~26℃)을 확인하고, 야간 탈출 사고가 없었는지 어항 주변과 덮개 틈새, 여과기 출수구를 점검합니다."
+                    },
+                    {
+                        "name": "낮: 이끼 섭식 상태 및 허물(탈피 껍질) 관찰",
+                        "text": "새우들이 실조류를 활발히 파먹는지 확인하고, 벗어놓은 탈피 껍질은 칼슘 재섭취를 위해 1~2일간 어항 안에 그대로 둡니다."
+                    },
+                    {
+                        "name": "저녁: 수질 측정(질산염) & 침강성 침전 사료 소량 급여",
+                        "text": "이끼가 부족한 경우 새우 전용 침강성 펠릿이나 데친 시금치를 소량 급여하고, 질산염 수치가 높아지지 않도록 잔여물을 제거합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "야마토 새우가 환수나 약물 투여 후 갑자기 단체로 죽는 이유는 무엇인가요?",
+                        "answer": "새우는 무척추동물로 구리(Cu), 이끼 제거제, 아쿠아리움 의약품, 잔류 염소 및 삼투압 쇼크에 극도로 약합니다. 환수 시 수온과 pH를 동일하게 맞춘 물을 천천히 넣어주어야 하며, 구리 성분이 포함된 영양제나 약품 사용을 절대 금해야 합니다."
+                    },
+                    {
+                        "question": "야마토 새우는 일반 민수 어항에서 번식이 가능한가요?",
+                        "answer": "불가능합니다. 야마토 새우의 유충(조에아, Zoea)은 태어난 후 바닷물과 민물이 만나는 기수(Brackish water) 지역으로 이동해 자라는 특성이 있습니다. 일반 민수 어항에서는 부화하더라도 유충이 며칠 내로 사멸하므로 인공적인 기수 세팅이 필수입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Amano Shrimp Water Quality & Molting Care: A 3-Step Daily Routine for Algae Control and Copper Toxicity Prevention",
+                "description": "Essential care guide for Amano Shrimp (Caridina multidentata), the ultimate planted aquarium algae eaters. Learn about water sensitivity, copper toxicity, escape prevention, and a 3-step routine.",
+                "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines & Freshwater Invertebrate Clinical Standards",
+                "profile": {
+                    "breed": "Amano Shrimp (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 Years",
+                    "sleep_pattern": "24 Hours (Active Algae Grazers / Nocturnal Rest)",
+                    "temperament": "Peaceful, Active, Busy, Harmless, Alert"
+                },
+                "intro": "Renowned as the premier algae cleanup crew in planted aquariums, the Amano Shrimp (Caridina multidentata) is a translucent freshwater crustacean with dark lateral dots. While they tirelessly consume hair and thread algae, they are acutely sensitive to heavy metals (especially copper), elevated nitrates, and sudden shifts in water parameters or temperature. Poor water quality often triggers desperate tank escapes or fatal molting complications. Today, PetSelf details a 3-step daily routine to safeguard your Amano Shrimp.",
+                "whyTitle": "Amano Shrimp Water Signals: Surface Climbing (Poisoned Water Signal) and Opaque White Discoloration",
+                "whyDesc": "If Amano Shrimp **'climb up filter outlets or crawl near the water surface attempting to escape'**, it is a critical emergency signal of oxygen depletion, high nitrates, or chemical toxicity. Conversely, **'body color turning opaque milky white or reddish with lethargy'** warns of copper poisoning, osmotic shock, or impending molting failure.",
+                "body_signals": [
+                    {
+                        "name": "Surface Climbing & Frantic Glass Swimming",
+                        "meaning": "Indicates dangerous water parameter spikes (ammonia/nitrate), low dissolved oxygen, or toxins prompting escape behavior.",
+                        "response": "Perform an immediate 30% water change using conditioned water, boost aeration, and securely cover all tank gaps to prevent escape."
+                    },
+                    {
+                        "name": "Opaque White Body & Lethargy",
+                        "meaning": "A symptom of copper or medication poisoning, osmotic shock, or mineral deficiencies leading to failed molting.",
+                        "response": "Check fertilizers/medications for trace copper (Cu), add activated carbon to the filter to absorb toxins, and feed calcium-rich shrimp food."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temperature, Filtration & Tank Escape Check",
+                        "text": "Check water temperature (22–26°C / 72–78°F), verify filter operation, and inspect tank lids and surrounding areas for escapees."
+                    },
+                    {
+                        "name": "Afternoon: Algae Grazing Observation & Exoskeleton Care",
+                        "text": "Observe active algae grazing and leave shed exoskeletons in the tank for 1–2 days so shrimp can reabsorb vital calcium."
+                    },
+                    {
+                        "name": "Evening: Nitrate Parameter Check & Sinking Pellet Feeding",
+                        "text": "Supplement with a small amount of sinking shrimp pellets or blanched spinach if algae is scarce, removing uneaten food promptly."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do Amano Shrimp die suddenly after water changes or medication?",
+                        "answer": "As invertebrates, Amano Shrimp are extremely sensitive to copper (Cu), algicides, fish medications, chlorine, and osmotic shock. Always drip-drip conditioned water during water changes and ensure zero copper ingredients in aquarium additives."
+                    },
+                    {
+                        "question": "Can Amano Shrimp breed successfully in a freshwater aquarium?",
+                        "answer": "No. While females lay eggs in freshwater, the hatched larvae (zoea) require brackish water with specific salinity to survive and develop. In pure freshwater, the larvae will perish within a few days."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ヤマトヌマエビの水質＆脱皮ケア：コケ取りと銅中毒・脱走防止の3ステップ日常ルーティン",
+                "description": "水草水槽のコケ取り名人ヤマトヌマエビ（ヤマトエビ）の飼育ガイド。水質汚染・銅中毒の予防、脱皮トラブル、水槽からの脱走防止の3ステップを解説します。",
+                "authority": "日本観賞魚振興事業協同組合(JOFA)および淡水無脊椎動物臨床飼育標準",
+                "profile": {
+                    "breed": "ヤマトヌマエビ (Amano Shrimp / Caridina multidentata)",
+                    "lifespan": "2 〜 3年",
+                    "sleep_pattern": "24時間 (主に夜間に活発なツマツマ行動)",
+                    "temperament": "温厚、活発、平和、無害、警戒心あり"
+                },
+                "intro": "水草水槽のコケ（糸状藻類）を精力的に食べる掃除屋として有名なヤマトヌマエビ（アmanoシュリンプ）。透明な体に点々模様が入った愛らしい淡水エビですが、重金属（特に銅）や硝酸塩濃度、急激なpH・水温変化に極めて敏感です。水質が悪化すると水槽の外へ飛び出す脱走事故を起こしやすく、脱皮不全による死亡リスクも高まります。今回はヤマトヌマエビの健康シグナルと3ステップ日常ルーティンをご紹介します。",
+                "whyTitle": "ヤマトヌマエビのボディランゲージ：水面へのよじ登り（水質悪化）と白く濁る体色",
+                "whyDesc": "ヤマトヌマエビが**「フィルターの出水口やガラス面をよじ登り水面外へ出ようとする」**行動は、酸素不足や硝酸塩スパイク、水質汚染の緊急シグナルです。一方**「透明だった体が白く濁り、動きが鈍くなる」**現象は、銅中毒や水質ショック、脱皮不全の前兆です。",
+                "body_signals": [
+                    {
+                        "name": "水面へのよじ登り・激しいガラス面泳ぎ (Surface Climbing)",
+                        "meaning": "酸欠やアンモニア・硝酸塩の上昇、水質悪化により生存の危機を感じて水槽外へ脱走しようとしている状態です。",
+                        "response": "直ちにカルキ抜き・重金属無害化を行った水で30%程度の水換えを行い、エアレーションを強化しフタの隙間を塞ぎます。"
+                    },
+                    {
+                        "name": "体色の白い濁りと不活発 (White Opaque Body)",
+                        "meaning": "薬品・重金属（銅）中毒、水質ショック、ミネラル不足による脱皮不全の危険な前兆です。",
+                        "response": "水草用肥料や魚病薬に銅（Cu）が含まれていないか確認し、活性炭を投入して成分を吸着させ、エビ用カルシウムフードを与えます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温・フィルター点検と脱走チェック",
+                        "text": "水温（22〜26℃）を確認し、夜間の飛び出し事故がないか水槽周辺やフタの隙間、出水口をチェックします。"
+                    },
+                    {
+                        "name": "昼：ツマツマ（コケ食害）観察と抜け殻の確認",
+                        "text": "エビが糸状藻類を元気にツマツマしているか観察し、脱皮した抜け殻はカルシウム補給のため1〜2日は水槽内に残しておきます。"
+                    },
+                    {
+                        "name": "夜：硝酸塩の測定と沈降性エビ用フードの給与",
+                        "text": "コケが少ない場合はエビ用沈下性ペレットや茹でたほうれん草を少量給与し、残餌は水質悪化を防ぐため回収します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水換えや薬の投入後にヤマトヌマエビが突然死するのはなぜですか？",
+                        "answer": "無脊椎動物であるエビは、銅（Cu）成分、コケ取り剤、魚病薬、残留塩素、急激な水質・水温変化（水質ショック）に非常に弱いためです。水換え時は温度とpHを合わせた水をゆっくり注ぎ、銅を含む添加剤の使用は避けてください。"
+                    },
+                    {
+                        "question": "ヤマトヌマエビは普通の淡水水槽で繁殖できますか？",
+                        "answer": "繁殖できません。ヤマトヌマエビの幼生（ゾエア）は孵化後、海水と淡水が混ざる汽水域（Brackish water）へ下って成長する生態を持っています。淡水水槽では孵化しても幼生が数日以内に全滅するため、汽水環境の準備が必要です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "大和沼虾水质护理与蜕壳·防逃跑：藻类清理与防铜中毒的日常3步护理流程",
+                "description": "针对草缸除藻能手大和沼虾（大和藻虾/Caridina multidentata）的护理。介绍水质敏感度、防铜中毒、防止跳缸及3步日常护理流程。",
+                "authority": "观赏水族贸易协会 (OATA) 与淡水无脊椎动物临床护理标准",
+                "profile": {
+                    "breed": "大和沼虾 / 大和藻虾 (Amano Shrimp / Caridina multidentata)",
+                    "lifespan": "2 ~ 3年",
+                    "sleep_pattern": "24小时 (夜间啃食藻类最为活跃)",
+                    "temperament": "温和、活泼、忙碌、无害、警惕"
+                },
+                "intro": "作为水草缸中最负盛名的除藻工具虾，大和沼虾（大和藻虾）是一种身体通透且带有点状斑纹的淡水观赏虾。它们能高效清理丝状藻和绒毛藻，但对重金属（尤其是铜元素）、硝酸盐浓度以及水质水温的剧烈波动极度敏感。水质恶化会导致其剧烈跳缸逃跑，或因环境应激引发蜕壳失败死亡。今天 PetSelf 为您解析大和沼虾的水质警示信号，并提供3步日常护理流程。",
+                "whyTitle": "大和沼虾的水质信号：攀爬爬出水面（水质恶化）与身体变白发浑",
+                "whyDesc": "当大和沼虾出现 **“沿着出水口或缸壁疯狂爬出水面尝试逃跑”** 时，这是水体缺氧、硝酸盐过高或存在化学毒素的紧急警报。而 **“原本通透的身体变得发白浑浊、活动力下降”**，则提示铜中毒、渗透压休克或即将发生蜕壳障碍。",
+                "body_signals": [
+                    {
+                        "name": "爬出水面与疯狂游缸 (Surface Climbing)",
+                        "meaning": "水体中溶解氧急剧下降，或氨氮、硝酸盐严重超标，迫使极度不适的沼虾尝试逃离水体。",
+                        "response": "立即使用去除重金属和氯气的温水换水 30%，加强爆氧，并严格盖紧缸盖以防跳缸干死。"
+                    },
+                    {
+                        "name": "身体发白浑浊与麻木 (White Opaque Body)",
+                        "meaning": "受到铜/除藻剂等药剂毒害、水质休克或缺乏矿物质导致的蜕壳失败前兆。",
+                        "response": "排查水草肥料或鱼药中是否含有铜（Cu）成分，在过滤器中加入活性炭吸附毒素，并补充观赏虾钙质饲料。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温、过滤检查与防逃跑排查",
+                        "text": "检查水温（22–26°C），确认过滤器运转正常，排查缸盖缝隙及四周是否有逃跑跳缸的沼虾。"
+                    },
+                    {
+                        "name": "中午：啃食藻类状态观察与虾壳保留",
+                        "text": "观察其是否在积极啃食丝状藻；脱落的虾壳应在缸内保留 1–2 天，供其重新吃掉补充钙质。"
+                    },
+                    {
+                        "name": "晚上：硝酸盐水质检测与沉底虾粮喂食",
+                        "text": "若缸内藻类不足，可喂食少量沉底观赏虾小颗粒或烫熟的菠菜，及时清理残渣以防破坏水质。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么大和沼虾在换水或用药后会突然大量死亡？",
+                        "answer": "观赏虾作为无脊椎动物，对铜（Cu）元素、除藻剂、鱼药、余氯及水质水温剧变（渗透压休克）极其敏感。换水时须使用经过除氯除重金属的水并缓慢滴入，严禁使用含铜添加剂。"
+                    },
+                    {
+                        "question": "大和沼虾可以在普通淡水草缸中成功繁殖吗？",
+                        "answer": "不能。大和沼虾抱卵孵化出的幼体（溞状幼体，Zoea）必须在海水与淡水交汇的汽水（Brackish water）环境才能存活发育。在纯淡水缸中，幼体孵化后会在数天内死亡。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado de la calidad del agua y muda en la Gamba Amano: Rutina diaria de 3 pasos contra las algas y la toxicidad por cobre",
+                "description": "Guía de cuidado para la gamba Amano (Caridina multidentata), la mejor limpiadora de algas. Aprenda sobre sensibilidad al cobre, mudas, prevención de fugas y rutina de 3 pasos.",
+                "authority": "Guías de la Ornamental Aquatic Trade Association (OATA) y Estándares Clínicos de Invertebrados de Agua Dulce",
+                "profile": {
+                    "breed": "Gamba Amano / Camarón Amano (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 años",
+                    "sleep_pattern": "24 horas (pastoreo continuo de algas y descanso nocturno)",
+                    "temperament": "Pacífica, Activa, Trabajadora, Inofensiva, Alerta"
+                },
+                "intro": "Reconocida como la mejor limpiadora de algas en acuarios plantados, la gamba Amano (Caridina multidentata) es un crustáceo transparente con pequeños puntos oscuros. Aunque devora sin descanso algas filamentosas, es sumamente sensible a metales pesados (especialmente cobre), nitratos elevados y cambios bruscos de parámetros o temperatura. Un agua de mala calidad desencadena intentos desesperados de fuga o mudas mortales. PetSelf le presenta una rutina de 3 pasos para protegerlas.",
+                "whyTitle": "Señales de agua de la Gamba Amano: Trepar fuera del agua (señal de toxicidad) y color blanco opaco",
+                "whyDesc": "Si las gambas Amano **'trepan por la salida del filtro o suben a la superficie intentando escapar'**, es un aviso de emergencia de falta de oxígeno o toxicidad por nitratos. Por otro lado, **'un cuerpo blanco opaco o rojizo con letargo'** advierte de envenenamiento por cobre, shock osmótico o problemas de muda.",
+                "body_signals": [
+                    {
+                        "name": "Trepar fuera del agua y nado frenético (Surface Climbing)",
+                        "meaning": "Muestra de agotamiento de oxígeno o picos de nitratos y toxinas que incitan al animal a escapar del tanque.",
+                        "response": "Realice un cambio inmediato del 30% del agua acondicionada, aumente la aireación y tape las grietas de la tapa."
+                    },
+                    {
+                        "name": "Cuerpo blanco opaco y letargo",
+                        "meaning": "Síntoma de intoxicación por cobre/medicamentos, shock osmótico o falta de minerales que impide una muda correcta.",
+                        "response": "Verifique que fertilizantes o medicamentos no contengan cobre (Cu), ponga carbón activado en el filtro y proporcione calcio."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura, filtración y fugas",
+                        "text": "Verifique la temperatura (22–26 °C), el funcionamiento del filtro y examine la tapa por si hubiera intentos de fuga."
+                    },
+                    {
+                        "name": "Tarde: Observación del pastoreo de algas y restos de muda",
+                        "text": "Compruebe que pasten algas activamente y deje los exoesqueletos mudados 1 o 2 días en el acuario para aportar calcio."
+                    },
+                    {
+                        "name": "Noche: Control de nitratos y alimentación de pastillas de fondo",
+                        "text": "Si faltan algas, alimente con pequeñas pastillas de fondo para gambas o espinaca hervida, retirando los sobrantes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mueren de repente las gambas Amano tras un cambio de agua o medicamentos?",
+                        "answer": "Los invertebrados son extremadamente sensibles al cobre (Cu), antialgas, medicamentos de peces, cloro y shock osmótico. Rellene siempre con agua acondicionada a la misma temperatura y garantice que ningún aditivo contenga cobre."
+                    },
+                    {
+                        "question": "¿Pueden criar las gambas Amano en un acuario de agua dulce?",
+                        "answer": "No. Aunque las hembras pongan huevos, sus larvas (zoeas) necesitan agua salobre para sobrevivir y desarrollarse. En agua dulce pura, las larvas mueren a los pocos días de nacer."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soins de la Crevette Amano (Qualité de l'Eau et Mue) : Routine quotidienne en 3 étapes pour le contrôle des algues et la prévention du cuivre",
+                "description": "Guide de soin pour la crevette Amano (Caridina multidentata), la mangeuse d'algues ultime. Apprenez à gérer la sensibilité au cuivre, la mue et la prévention des fuites.",
+                "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Cliniques des Invertébrés d'Eau Douce",
+                "profile": {
+                    "breed": "Crevette Amano (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 ans",
+                    "sleep_pattern": "24 heures (pâturage d'algues continu et repos)",
+                    "temperament": "Paisible, Active, Infatigable, Inoffensive, Attentive"
+                },
+                "intro": "Célèbre pour son efficacité à nettoyer les algues filamenteuses dans les aquariums plantés, la crevette Amano (Caridina multidentata) est un crustacé d'eau douce translucide. Bien qu'infatigable, elle est extrêmement sensible aux métaux lourds (en particulier le cuivre), aux nitrates et aux variations brutales de température ou de pH. Une mauvaise qualité d'eau provoque des évasions désespérées hors du bac ou des mues mortelles. PetSelf vous détaille une routine quotidienne en 3 étapes.",
+                "whyTitle": "Langage de l'eau de la Crevette Amano : Escalade hors de l'eau (signal de toxicité) et corps blanc opaque",
+                "whyDesc": "Si les crevettes Amano **« grimpent le long des tuyaux ou sortent de l'eau pour s'échapper »**, c'est un signal d'urgence de manque d'oxygène ou de pic de nitrates. En revanche, **« un corps devenant blanc laiteux et opaque avec de la léthargie »** indique une intoxication au cuivre ou un échec de mue.",
+                "body_signals": [
+                    {
+                        "name": "Escalade hors de l'eau et nage frénétique",
+                        "meaning": "Indique un manque d'oxygène dissous, un pic de nitrates ou des toxines poussant les crevettes à fuir l'aquarium.",
+                        "response": "Effectuez immédiatement un changement d'eau de 30 % avec de l'eau conditionnée, augmentez l'aération et fermez bien le couvercle."
+                    },
+                    {
+                        "name": "Corps blanc opaque et léthargie",
+                        "meaning": "Symptôme d'intoxication au cuivre, de choc osmotique ou de manque de minéraux entraînant des mues fatales.",
+                        "response": "Vérifiez l'absence de cuivre (Cu) dans les engrais/médicaments, installez du charbon actif dans le filtre et donnez des aliments riches en calcium."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température, de la filtration et des fuites",
+                        "text": "Vérifiez la température de l'eau (22–26 °C), le bon fonctionnement du filtre et inspectez les abords du bac contre les fuites."
+                    },
+                    {
+                        "name": "Midi : Observation du pâturage d'algues et des exuvies",
+                        "text": "Observez le nettoyage des algues et laissez les anciennes mues (exuvies) 1 à 2 jours dans le bac pour réabsorber le calcium."
+                    },
+                    {
+                        "name": "Soir : Test des nitrates et alimentation pour crevettes",
+                        "text": "Si les algues viennent à manquer, donnez quelques granulés coulants pour crevettes ou des épinards poché, puis retirez l'excédent."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les crevettes Amano meurent-elles soudainement après un changement d'eau ou un traitement ?",
+                        "answer": "Les invertébrés sont ultra-sensibles au cuivre (Cu), aux anti-algues, aux traitements médicamenteux pour poissons, au chlore et aux chocs osmotiques. Utilisez toujours de l'eau traitée versée doucement et sans aucun composant à base de cuivre."
+                    },
+                    {
+                        "question": "Les crevettes Amano peuvent-elles se reproduire en aquarium d'eau douce ?",
+                        "answer": "Non. Bien que les femelles pondent des œufs, les larves (zoés) ont obligatoirement besoin d'eau saumâtre pour survivre et se développer. En eau douce pure, les larves meurent en quelques jours."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Amanogarnele Wasserqualität & Häutungspflege: Tägliche 3-Schritte-Routine für Algenkontrolle und Kupfer-Prävention",
+                "description": "Pflegeanleitung für die Amanogarnele (Caridina multidentata), den besten Algenfresser im Pflanzenaquarium. Erfahren Sie alles über Kupferschutz, Häutung und Ausbruchssicherheit.",
+                "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) & Klinische Standards für Süßwasser-Invertebraten",
+                "profile": {
+                    "breed": "Amanogarnele (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 Jahre",
+                    "sleep_pattern": "24 Stunden (Kontinuierliches Algengrasen und Ruhephasen)",
+                    "temperament": "Friedlich, Aktiv, Fleißig, Harmlos, Wachsam"
+                },
+                "intro": "Als bester Algenfresser in bepflanzten Aquarien ist die Amanogarnele (Caridina multidentata) eine transparente Garnele mit dunkler Punktierung. Obwohl sie Fadenalgen unermüdlich vertilgt, reagiert sie extrem empfindlich auf Schwermetalle (besonders Kupfer), hohe Nitratwerte und plötzliche Schwankungen der Wasserwerte. Schlechte Wasserqualität führt zu Fluchtversuchen aus dem Becken oder tödlichen Häutungsproblemen. PetSelf stellt eine tägliche 3-Schritte-Routine vor.",
+                "whyTitle": "Wassersignale der Amanogarnele: Klettern über die Wasseroberfläche (Vergiftungszeichen) & Milchig-weiße Verfärbung",
+                "whyDesc": "Klettern Amanogarnelen **'an Filterrohren oder Scheiben aus dem Wasser'**, ist dies ein Notfallsignal für Sauerstoffmangel, Nitratspitzen oder Giftstoffe. **'Eine milchig-weiße Trübung des Körpers mit Trägheit'** deutet dagegen auf Kupfervergiftung, Häutungsprobleme oder Schock hin.",
+                "body_signals": [
+                    {
+                        "name": "Klettern aus dem Wasser & Hektisches Schwimmen",
+                        "meaning": "Ein Zeichen für akuten Sauerstoffmangel oder gefährliche Nitratwerte, die das Tier zur Flucht aus dem Wasser treiben.",
+                        "response": "Führen Sie sofort einen 30%igen Wasserwechsel mit aufbereitetem Wasser durch, erhöhen Sie die Belüftung und schließen Sie die Abdeckung."
+                    },
+                    {
+                        "name": "Milchig-weiße Verfärbung & Trägheit",
+                        "meaning": "Vergiftungssymptom durch Kupfer/Medikamente, Häutungsprobleme oder Mineralstoffmangel.",
+                        "response": "Prüfen Sie Dünger/Medikamente auf Kupfer (Cu), setzen Sie Aktivkohle im Filter ein und füttern Sie kalziumreiches Garnelenfutter."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperatur, Filter & Ausbruchsschutz prüfen",
+                        "text": "Prüfen Sie die Wassertemperatur (22–26 °C), die Filterfunktion und kontrollieren Sie die Abdeckung auf Lücken."
+                    },
+                    {
+                        "name": "Mittag: Algengrasen beobachten & Exuvien (Häute) belassen",
+                        "text": "Beobachten Sie das fressende Garnelenteam und belassen Sie abgestreifte Häute 1–2 Tage im Becken zur Kalziumaufnahme."
+                    },
+                    {
+                        "name": "Abend: Nitrat-Test & Sinkfutter-Fütterung",
+                        "text": "Füttern Sie bei Algenmangel wenige absinkende Garnelen-Pellets oder blanchierten Spinat und entfernen Sie Futterreste."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sterben Amanogarnelen nach Wasserwechseln oder Medikamentengabe plötzlich?",
+                        "answer": "Wirbellose reagieren extrem empfindlich auf Kupfer (Cu), Algenmittel, Fischmedikamente, Chlor und Wasserwertschocks. Verwenden Sie stets gut temperiertes, aufbereitetes Wasser und absolut kupferfreie Zusätze."
+                    },
+                    {
+                        "question": "Können sich Amanogarnelen im Süßwasseraquarium vermehren?",
+                        "answer": "Nein. Die entlassenen Larven (Zoeae) benötigen zwingend Brackwasser mit bestimmter Salinität, um sich zu entwickeln. Im Süßwasser sterben die Larven innerhalb weniger Tage."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidado da Qualidade da Água e Ecdise do Camarão Amano: Rotina diária de 3 passos para controle de algas e prevenção de cobre",
+                "description": "Guia de cuidados para o camarão Amano (Caridina multidentata). Saiba como evitar toxicidade por cobre, problemas de ecdise (muda), fugas e manter a rotina de 3 passos.",
+                "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Clínicos de Invertebrados de Água Doce",
+                "profile": {
+                    "breed": "Camarão Amano (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 anos",
+                    "sleep_pattern": "24 horas (pastoreio contínuo de algas e descanso)",
+                    "temperament": "Pacífico, Ativo, Trabalhador, Inofensivo, Alerta"
+                },
+                "intro": "Famoso como o melhor limpador de algas em aquários plantados, o camarão Amano (Caridina multidentata) é um crustáceo transparente com pequenos pontos escuros. Embora consuma algas filamentosas incansavelmente, é extremamente sensível a metais pesados (especialmente cobre), nitratos elevados e variações bruscas de temperatura ou pH. Água de má qualidade provoca fugas desesperadas fora do aquário ou ecdises fatais. O PetSelf apresenta uma rotina de 3 passos para proteger os camarões.",
+                "whyTitle": "Sinais de água do Camarão Amano: Escalar para fora da água (sinal de toxicidade) e cor branca opaca",
+                "whyDesc": "Se os camarões Amano **'escalarem os tubos do filtro ou subirem à superfície tentando escapar'**, é um alerta crítico de falta de oxigênio ou toxicidade por nitratos. Já **'um corpo branco opaco ou avermelhado com apatia'** indica envenenamento por cobre, choque osmótico ou falha na muda.",
+                "body_signals": [
+                    {
+                        "name": "Escalar fora da água e nado frenético (Surface Climbing)",
+                        "meaning": "Esgotamento do oxigênio dissolvido ou picos de nitratos que impulsionam o animal a fugir do aquário.",
+                        "response": "Faça uma troca imediata de 30% da água condicionada, aumente a aeração e feche bem a tampa do aquário."
+                    },
+                    {
+                        "name": "Corpo branco opaco e apatia",
+                        "meaning": "Sintoma de intoxicação por cobre/medicamentos, choque osmótico ou falta de minerais impedindo a ecdise.",
+                        "response": "Verifique se fertilizantes ou remédios contêm cobre (Cu), adicione carvão ativado no filtro e forneça ração rica em cálcio."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem de temperatura, filtragem e fugas",
+                        "text": "Verifique a temperatura da água (22–26 °C), o funcionamento do filtro e inspecione as bordas do aquário contra fugas."
+                    },
+                    {
+                        "name": "Tarde: Observação do pastoreio e manutenção do exoesqueleto",
+                        "text": "Observe se estão limpando as algas e deixe as cascas da muda 1 ou 2 dias no aquário para reabsorção de cálcio."
+                    },
+                    {
+                        "name": "Noite: Teste de nitratos e alimentação de fundo",
+                        "text": "Se faltarem algas, ofereça peletes afundáveis para camarões ou espinafre aferventado, retirando sobras."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os camarões Amano morrem de repente após trocas de água ou medicamentos?",
+                        "answer": "Invertebrados são hiper-sensíveis ao cobre (Cu), algicidas, remédios para peixes, cloro e choque osmótico. Use sempre água condicionada adicionada lentamente e sem qualquer componente de cobre."
+                    },
+                    {
+                        "question": "Os camarões Amano podem reproduzir-se num aquário de água doce?",
+                        "answer": "Não. Embora as fêmeas fiquem ovadas, as larvas (zoé) necessitam obrigatoriamente de água salobra para sobreviver e desenvolver-se. Em água doce, as larvas morrem em poucos dias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Udang Amano: Kualitas Air, Eksdisis (Molting), dan 3 Langkah Rutinitas Harian Control Alga",
+                "description": "Panduan perawatan esensial untuk udang Amano (Caridina multidentata), pemakan alga terbaik. Pelajari sensitivitas racun tembaga, masalah molting, pencegahan kabur, dan rutinitas harian.",
+                "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) & Standar Klinis Invertebrata Air Tawar",
+                "profile": {
+                    "breed": "Udang Amano / Amano Shrimp (Caridina multidentata)",
+                    "lifespan": "2 ~ 3 tahun",
+                    "sleep_pattern": "24 jam (pola pemakan alga aktif & istirahat malam)",
+                    "temperament": "Damai, Aktif, Sibuk, Tidak Berbahaya, Waspada"
+                },
+                "intro": "Terkenal sebagai tim pembersih alga terbaik di akuarium aquascape, udang Amano (Caridina multidentata) adalah krustasea air tawar transparan dengan bintik-bintik gelap. Meskipun mereka tanpa lelah memakan alga benang, udang ini sangat sensitif terhadap logam berat (terutama tembaga), kadar nitrat tinggi, serta perubahan suhu atau parameter air yang mendadak. Kualitas air yang buruk dapat memicu aksi nekat kabur dari akuarium atau kegagalan ganti kulit (molting) yang mematikan. Hari ini, PetSelf menyajikan 3 langkah rutinitas harian untuk menjaga udang Amano.",
+                "whyTitle": "Bahasa Tubuh Udang Amano: Memanjat Keluar Air (Sinyal Racun Air) dan Warna Tubuh Memutih Keruh",
+                "whyDesc": "Jika udang Amano **'memanjat pipa filter atau merayap keluar permukaan air untuk kabur'**, ini adalah sinyal darurat kekurangan oksigen atau racun nitrat. Sementara itu, **'warna tubuh yang berubah memutih keruh disertai lemas'** menandakan keracunan tembaga, syok osmotik, atau kegagalan molting.",
+                "body_signals": [
+                    {
+                        "name": "Memanjat Keluar Air & Berenang Panik (Surface Climbing)",
+                        "meaning": "Tanda drastis turunnya oksigen terlarut atau tingginya kadar nitrat yang mendorong udang untuk melarikan diri dari air.",
+                        "response": "Segera lakukan pergantian air 30% dengan air yang sudah dideklorinasi, tingkatkan aerasi, dan tutup rapat celah akuarium."
+                    },
+                    {
+                        "name": "Tubuh Memutih Keruh & Lemas",
+                        "meaning": "Gejala keracunan tembaga/obat-obatan, syok osmotik, atau kurangnya kalsium yang memicu kematian saat molting.",
+                        "response": "Periksa apakah pupuk/obat mengandung tembaga (Cu), masukkan karbon aktif ke filter untuk menyerap racun, dan berikan pakan khusus kalsium."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Suhu Air, Filtrasi & Pencegahan Kabur",
+                        "text": "Periksa suhu air (22–26 °C), pastikan filter berjalan lancar, dan cek area sekitar akuarium dari risiko udang melompat."
+                    },
+                    {
+                        "name": "Siang: Pengamatan Pembersihan Alga & Cangkang Molting",
+                        "text": "Amati aktivitas udang saat memakan alga dan biarkan cangkang bekas molting di dalam air selama 1–2 hari agar kalsiumnya dimakan kembali."
+                    },
+                    {
+                        "name": "Malam: Tes Kadar Nitrat & Pemberian Pakan Tenggelam",
+                        "text": "Jika alga berkurang, berikan pelet tenggelam khusus udang atau bayam rebus dalam jumlah sedikit, lalu bersihkan sisanya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa udang Amano sering mati mendadak setelah kuras air atau diberi obat?",
+                        "answer": "Invertebrata sangat sensitif terhadap tembaga (Cu), obat alga, obat ikan, klorin, dan syok osmotik saat ganti air. Selalu gunakan air yang sudah diolah dan dituangkan secara perlahan, serta pastikan tidak ada kandungan tembaga pada aditif."
+                    },
+                    {
+                        "question": "Apakah udang Amano bisa berkembang biak di akuarium air tawar?",
+                        "answer": "Tidak bisa. Meskipun udang betina bertelur, larva (zoea) udang Amano membutuhkan air payau (brackish water) untuk dapat bertahan hidup dan berkembang. Di air tawar murni, larva akan mati dalam beberapa hari."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/amano_shrimp_care.webp"
+    }
+}

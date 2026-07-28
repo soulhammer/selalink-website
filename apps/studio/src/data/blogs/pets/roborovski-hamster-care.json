@@ -1,0 +1,459 @@
+{
+    "roborovski-hamster-care": {
+        "pubDate": "2026-05-18",
+        "updatedDate": "2026-05-18",
+        "locales": {
+            "ko": {
+                "title": "로보롭스키 햄스터 모질 관리와 스트레스 예방: 사막 모래목욕과 대형 쳇바퀴 3단계 데일리 루틴",
+                "description": "가장 작고 빠른 드워프 햄스터인 로보롭스키(사슴햄스터) 케어법. 모피 유분 관리를 위한 사막 모래목욕, 추락 방지, 3단계 홈케어 루틴을 다룹니다.",
+                "authority": "영국왕립동물학대방지협회(RSPCA) 소동물 케어 가이드라인 및 소동물 수의학 임상 표준",
+                "profile": {
+                    "breed": "로보롭스키 햄스터 / 사슴햄스터 (Roborovski Hamster)",
+                    "lifespan": "2 ~ 3년",
+                    "sleep_pattern": "12 ~ 14시간 (주로 야행성 및 박명성 수면)",
+                    "temperament": "매우 빠름, 겁이 많음, 활발함, 호기심 많음, 관상형"
+                },
+                "intro": "하얀 눈썹 모양의 무늬와 작고 날렵한 몸집을 가진 로보롭스키 햄스터(사슴햄스터)는 드워프 햄스터 중 가장 작은 품종입니다. 경이로운 속도와 호기심을 자랑하지만 경계심이 강해 손으로 잡는 핸들링보다는 관상에 적합합니다. 또한 피부에서 유분이 많이 분비되어 전용 사막 모래목욕이 필수적이며, 체구가 작아 높이가 높은 장난감에서의 추락 부상이나 넓은 살창 틈새 탈출에 유의해야 합니다. 오늘 PetSelf에서는 로보롭스키의 행동 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "로보롭스키 햄스터의 신체 시그널: 순간적인 얼음 행동(공포)과 구석 파헤치기",
+                "whyDesc": "로보롭스키가 **'움직임을 멈추고 꼼짝없이 몸을 단단히 굳히는 모습'**은 포식자나 위협을 느껴 극도의 공포를 느낄 때 나오는 방어 신호입니다. 반면 **'케이지 구석을 미친 듯이 파헤치거나 창살을 깨물려 하는 행동'**은 케이지 공간 부족이나 스트레스의 경고 표시입니다.",
+                "body_signals": [
+                    {
+                        "name": "순간적인 얼음 행동 (Freezing Response)",
+                        "meaning": "갑작스러운 소리, 큰 움직임, 손길에 놀라 포식자의 눈을 피하기 위해 본능적으로 몸을 완전히 고정하는 공포 반응입니다.",
+                        "response": "손을 대거나 움직이지 말고 조용히 관찰하며, 스스로 숨을 수 있도록 충분한 베딩과 은신처를 제공합니다."
+                    },
+                    {
+                        "name": "구석 파헤치기 및 탈출 시도 (Corner Digging & Escape Attempt)",
+                        "meaning": "사육 공간이 좁거나 은신처 부족으로 스트레스를 받아 영역을 벗어나려는 욕구입니다.",
+                        "response": "가로 120cm 이상의 넓은 단층 케이지를 제공하고, 15~20cm 이상의 깊은 베딩과 대형 쳇바퀴(21cm 이상)를 설치합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수면 상태 확인 및 먹이·급수대 점검",
+                        "text": "야행성 수면에 들어간 햄스터를 깨우지 않고 은신처 주변에서 먹이와 물이 충분한지 확인합니다."
+                    },
+                    {
+                        "name": "낮: 사막 모래목욕탕 오염 제거 및 쳇바퀴 안전 점검",
+                        "text": "모피 유분 제거용 사막 모래에 뭉친 찌꺼기를 스쿱으로 청소하고, 쳇바퀴 수평과 회전 상태를 점검합니다."
+                    },
+                    {
+                        "name": "저녁: 신선한 사료 급여 및 포레징(먹이 찾기) 유도",
+                        "text": "활동이 시작되는 저녁 시간에 드워프 전용 사료를 급여하고, 베딩 곳곳에 먹이를 뿌려 포레징 욕구를 충족시켜 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "로보롭스키 햄스터는 왜 핸들링이 어려운가요?",
+                        "answer": "로보롭스키는 야생 본능과 경계심이 매우 강하고 속도가 매우 빨라 억지로 잡으려 하면 극심한 스트레스를 받거나 손에서 튕겨 나가 추락 부상을 입을 수 있습니다. 무리한 교감보다는 숟가락이나 컵으로 이동시키며 관상 중심으로 케어하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "왜 물목욕 대신 사막 모래목욕을 시켜야 하나요?",
+                        "answer": "햄스터에게 물목욕을 시키면 체온이 급격히 떨어지고 피부 유분 보호막이 깨져 저체온증이나 피부병으로 사망할 수 있습니다. 햄스터 전용 사막 모래(무가공 모래)를 설치해 스스로 유분과 오염물질을 털어내게 해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Roborovski Hamster Coat Care & Stress Prevention: A 3-Step Daily Routine for Sand Baths and Large Wheels",
+                "description": "Essential care guide for the smallest and fastest dwarf hamster, the Roborovski. Learn about desert sand baths for oil control, fall prevention, and a 3-step homecare routine.",
+                "authority": "RSPCA Small Pet Care Guidelines & Exotic Veterinary Clinical Standards",
+                "profile": {
+                    "breed": "Roborovski Hamster",
+                    "lifespan": "2 ~ 3 Years",
+                    "sleep_pattern": "12 ~ 14 Hours (Nocturnal & Crepuscular Sleep)",
+                    "temperament": "Extremely Fast, Skittish, Active, Curious, Observational"
+                },
+                "intro": "Featuring white eyebrow marks and a tiny, swift body, the Roborovski hamster is the smallest of all dwarf hamsters. Known for incredible speed and curiosity, their high alertness makes them better suited as observational pets rather than handled pets. Due to oily skin, a dedicated desert sand bath is essential. Their tiny size also requires precautions against falls and bar-gap escapes. Today, PetSelf breaks down Roborovski signals and outlines a 3-step daily routine.",
+                "whyTitle": "Roborovski Physical Signals: Instant Freezing (Fear Response) and Corner Digging",
+                "whyDesc": "If a Roborovski **'freezes completely motionless'**, it is an instinctual defense mechanism triggered by fear. On the other hand, **'frenzied corner digging or bar gnawing'** signals stress from insufficient space or lack of enrichment.",
+                "body_signals": [
+                    {
+                        "name": "Instant Freezing Response",
+                        "meaning": "An instinctual panic reaction to sudden noises, large movements, or hands, freezing to evade predator detection.",
+                        "response": "Do not attempt to touch them; observe quietly and ensure deep bedding and multiple hides are available for retreat."
+                    },
+                    {
+                        "name": "Corner Digging & Escape Attempts",
+                        "meaning": "A sign of frustration or anxiety caused by cramped enclosure conditions or lack of adequate burrowing space.",
+                        "response": "Provide a spacious single-level enclosure (120cm+ length), deep bedding (15–20cm+), and a large solid-surface wheel (21cm+ diameter)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Sleep Status Inspection & Water/Food Check",
+                        "text": "Check food and water bowls without waking the sleeping hamster resting inside their hideout."
+                    },
+                    {
+                        "name": "Afternoon: Sand Bath Cleaning & Wheel Safety Check",
+                        "text": "Scoop out soiled clumps from the desert sand bath bath and ensure the exercise wheel turns smoothly without wobbling."
+                    },
+                    {
+                        "name": "Evening: Fresh Feeding & Scatter Foraging",
+                        "text": "Provide dwarf hamster mix as evening activity begins and scatter seeds throughout the bedding to encourage natural foraging."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why are Roborovski hamsters so difficult to handle?",
+                        "answer": "Roborovskis retain strong wild instincts, exceptional speed, and heightened wariness. Forcing physical handling causes severe stress or risk of fatal falls. Use a cup or scoop for transport and enjoy them primarily as observational pets."
+                    },
+                    {
+                        "question": "Why must Roborovski hamsters use sand baths instead of water baths?",
+                        "answer": "Water baths strip natural skin lipids, causing fatal hypothermia or severe dermatitis. A dedicated container filled with dust-free, untreated desert bath sand allows them to strip coat oils naturally."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ロボロフスキーハムスターの被毛ケア＆ストレス予防：砂浴びと大型回し車の3ステップ日常ルーティン",
+                "description": "最小・最速のドワーフハムスターであるロボロフスキー（ロボロフスキーハムスター）の飼育ガイド。皮脂管理のための砂浴び、転落防止、3ステップケアを解説します。",
+                "authority": "英国王立動物虐待防止協会（RSPCA）小動物飼育ガイドラインおよびエキゾチック獣医学臨床標準",
+                "profile": {
+                    "breed": "ロボロフスキーハムスター (Roborovski Hamster)",
+                    "lifespan": "2 〜 3年",
+                    "sleep_pattern": "12 〜 14時間 (主に夜行性・薄明薄暮性)",
+                    "temperament": "極めてすばしっこい、臆病、活発、好奇心旺盛、観賞型"
+                },
+                "intro": "白い眉毛のような模様と小柄で素早い体が特徴のロボロフスキーハムスターは、ドワーフハムスターの中で最も小型の品種です。驚異的なスピードと好奇心を持ちますが、警戒心が強いため手で抱っこするハンドリングよりも観賞に適しています。また皮膚から皮脂が多く分泌されるため専用の砂浴びが不可欠であり、高所からの転落やケージの隙間からの脱走に注意が必要です。今回は3ステップ日常ルーティンをご紹介します。",
+                "whyTitle": "ロボロフスキーのボディランゲージ：フリーズ行動（恐怖）と角掘り行動",
+                "whyDesc": "ロボロフスキーが**「動きを止めてカチコチに固まるフリーズ」**を見せる場合、極度の恐怖を感じた防衛シグナルです。一方**「ケージの角を猛烈に掘る・金網を噛む」**行動は、空間不足やストレスの警告サインです。",
+                "body_signals": [
+                    {
+                        "name": "瞬間的なフリーズ行動 (Freezing Response)",
+                        "meaning": "突然の音や大きな動きに驚き、天敵から身を隠すために本能的に体全体を固まらせる恐怖反応です。",
+                        "response": "手を触れずに静かに見守り、自分で隠れられるよう十分な床材と隠れ家を用意します。"
+                    },
+                    {
+                        "name": "ケージの角掘り＆脱走試み (Corner Digging)",
+                        "meaning": "飼育ケージが狭いことや隠れ家不足によりストレスを受け、外へ出ようとする行動です。",
+                        "response": "横幅120cm以上の広々としたケージを用意し、深さ15〜20cm以上の床材と大型回し車（直径21cm以上）を設置します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：睡眠状態の確認とごはん・水入れの点検",
+                        "text": "寝ているハムスターを起こさないよう注意しながら、隠れ家周辺のごはんや給水器の残量を確認します。"
+                    },
+                    {
+                        "name": "昼：砂浴び容器の清掃と回し車の safe 点検",
+                        "text": "皮脂除去用の浴び砂に固まった汚れをスプーンで取り除き、回し車がスムーズに回転するか確認します。"
+                    },
+                    {
+                        "name": "夜：新鮮なフードの給与とばら撒きフォージング",
+                        "text": "活動が始まる夜間にドワーフ専用フードを与え、床材の上にフードをばら撒いて探餌欲求を満たします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ロボロフスキーハムスターはなぜ手乗り（ハンドリング）が難しいのですか？",
+                        "answer": "野性味が強く非常にすばしっこいため、無理に捕まえようとするとパニックを起こして手から飛び降り、落下に繋がる危険があります。移動時はカップなどを使用し、観賞を中心に優しく見守る飼育が適しています。"
+                    },
+                    {
+                        "question": "なぜ水浴びではなく砂浴びをさせなければならないのですか？",
+                        "answer": "ハムスターを水で洗うと低体温症や重篤な皮膚炎を引き起こします。小動物用の加熱殺菌済み砂浴び用砂を常設し、自分で皮脂や汚れを落とさせることが必須です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "罗伯罗夫斯基仓鼠（老公公/老婆婆）毛发护理与压力预防：沙漠沙浴与大号跑轮3步日常护理流程",
+                "description": "针对体型最小、速度最快的侏儒仓鼠——罗伯罗夫斯基仓鼠（俗称老公公/老婆婆仓鼠）的护理。介绍去油沙漠沙浴、防摔落与3步日常护理流程。",
+                "authority": "英国皇家防止虐待动物协会 (RSPCA) 小型宠物护理指南与异宠兽医学临床标准",
+                "profile": {
+                    "breed": "罗伯罗夫斯基仓鼠 / 极速仓鼠 (Roborovski Hamster)",
+                    "lifespan": "2 ~ 3年",
+                    "sleep_pattern": "12 ~ 14小时 (主要为夜行性及晨昏性睡眠)",
+                    "temperament": "极速、胆小、活泼、充满好奇、观赏型"
+                },
+                "intro": "拥有标志性白眉毛和娇小敏捷体型的罗伯罗夫斯基仓鼠（国内常称为老公公/老婆婆仓鼠），是侏儒仓鼠中体型最小的一种。它们拥有惊人的移动速度与强烈的好奇心，但由于警惕性极高，相比上手互动更适合作为观赏型宠物。此外，其皮肤皮脂分泌旺盛，专属沙漠沙浴不可或缺；同时由于体型过于娇小，需严格防止从高处摔伤或从笼舍缝隙逃跑。今天 PetSelf 将为您解析其肢体警示信号，并提供3步日常护理流程。",
+                "whyTitle": "罗伯罗夫斯基仓鼠的肢体语言：瞬间僵直定格（恐惧）与疯狂挖墙角",
+                "whyDesc": "当罗伯罗夫斯基仓鼠突然 **“全身僵硬定格、一动不动”** 时，这是感受极大恐惧时的本能防御机制。而 **“疯狂刨掘笼舍角落或咬笼”**，则是空间不足或压力过大的警告信号。",
+                "body_signals": [
+                    {
+                        "name": "瞬间僵直定格 (Freezing Response)",
+                        "meaning": "因突如其来的声音、巨大动作或伸手惊吓，本能地完全装死定格以躲避捕食者视线。",
+                        "response": "切勿伸手抓掏，保持环境安静，确保笼内铺有厚垫料和足够的躲避窝供其藏身。"
+                    },
+                    {
+                        "name": "疯狂挖角与逃跑尝试 (Corner Digging)",
+                        "meaning": "笼舍居住空间狭小或缺乏安全性引发极度焦虑，急于逃离当前环境。",
+                        "response": "提供长度 120cm 以上的大号单层笼舍，铺设 15–20cm 以上的厚垫料，并配备直径 21cm 以上的大号无缝跑轮。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：睡眠状态确认与粮水检查",
+                        "text": "在不打扰其日间睡眠的前提下，检查食物碗和饮水器是否充足清洁。"
+                    },
+                    {
+                        "name": "中午：浴沙清洁与跑轮安全排查",
+                        "text": "用沙铲清理沙漠浴沙中的结块污物，排查跑轮旋转是否平稳无卡顿。"
+                    },
+                    {
+                        "name": "晚上：新鲜喂食与撒粮觅食诱导",
+                        "text": "夜间活动开始时喂食侏儒仓鼠专用合成粮，并将部分粮食撒在垫料上以激发其自然觅食天性。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么罗伯罗夫斯基仓鼠很难上手互动？",
+                        "answer": "它们保留着强烈的野生防卫本能，速度极快且极易受惊。强行抓握会导致其极度应激，甚至从手中弹跳摔伤。建议使用纸杯等工具辅助转移，以静静观赏为主。"
+                    },
+                    {
+                        "question": "为什么绝对不能用水给仓鼠洗澡，而必须用沙浴？",
+                        "answer": "水洗会破坏仓鼠皮肤油脂屏障，导致致命的失温或严重皮肤病。必须在笼内常备无尘天然沙漠浴沙，让其通过打滚自然带走毛发过多的油脂与污垢。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado del pelaje y prevención del estrés en el Hámster Roborovski: Rutina diaria de 3 pasos con baño de arena y rueda grande",
+                "description": "Guía de cuidado para el hámster enano más pequeño y rápido, el Roborovski. Aprenda sobre los baños de arena de desierto, prevención de caídas y rutina de 3 pasos.",
+                "authority": "Directrices de Cuidado de Pequeños Animales de la RSPCA y Estándares Clínicos de Veterinaria Exótica",
+                "profile": {
+                    "breed": "Hámster Roborovski",
+                    "lifespan": "2 ~ 3 años",
+                    "sleep_pattern": "12 ~ 14 horas (sueño nocturno y crepuscular)",
+                    "temperament": "Extremadamente Rápido, Asustadizo, Activo, Curioso, Observacional"
+                },
+                "intro": "Con sus características cejas blancas y su diminuto cuerpo, el hámster Roborovski es el más pequeño de los hámsteres enanos. Destaca por su asombrosa velocidad y curiosidad, pero su alta desconfianza lo convierte en una mascota ideal para la observación más que para la manipulación. Debido a la grasa de su piel, el baño con arena de desierto es indispensable. Además, su pequeño tamaño exige cautela frente a caídas o fugas entre barrotes. Hoy PetSelf presenta su rutina diaria de 3 pasos.",
+                "whyTitle": "Señales corporales del Hámster Roborovski: Paralización instantánea (miedo) y rascado de esquinas",
+                "whyDesc": "Si un Roborovski **'se queda completamente inmóvil'**, es una respuesta de congelación por miedo instintivo. Por otro lado, **'rascar frenéticamente las esquinas del recinto'** indica ansiedad provocada por falta de espacio o enriquecimiento.",
+                "body_signals": [
+                    {
+                        "name": "Paralización instantánea (Freezing Response)",
+                        "meaning": "Reacción de pánico ante ruidos repentinos o manos humanas, congelándose para pasar desapercibido.",
+                        "response": "No intente tocarlo; observe con calma y asegúrese de que disponga de sustrato profundo y refugios."
+                    },
+                    {
+                        "name": "Rascado de esquinas e intentos de fuga",
+                        "meaning": "Estrés acumulado por un recinto demasiado pequeño o falta de profundidad para excavar.",
+                        "response": "Proporcione un recinto amplio (mínimo 120 cm de largo), sustrato profundo (15–20 cm) y una rueda lisa grande (21 cm+)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Inspección de descanso y control de agua/comida",
+                        "text": "Revise el agua y el comedero sin despertar al hámster que descansa dentro de su madriguera."
+                    },
+                    {
+                        "name": "Tarde: Limpieza de la arena de desierto y revisión de la rueda",
+                        "text": "Retire los aglomerados sucios del recipiente de arena y verifique que la rueda gire sin atrancarse."
+                    },
+                    {
+                        "name": "Noche: Alimentación fresca y esparcimiento de comida",
+                        "text": "Ofrezca alimento para hámster enano al anochecer y esparza semillas por el sustrato para fomentar el forrajeo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué es tan difícil manipular a un hámster Roborovski?",
+                        "answer": "Conserva instintos salvajes muy acusados, gran velocidad y temor hacia los manipuladores. Forzar el contacto le genera estrés severo o riesgo de caídas mortales. Utilice un vaso para moverlo y disfrute de su observación."
+                    },
+                    {
+                        "question": "¿Por qué deben usarse baños de arena en lugar de agua?",
+                        "answer": "El agua altera la capa lipídica cutánea provocando hipotermia o dermatitis severas. Un recipiente con arena de desierto sin polvo le permite eliminar el exceso de grasa corporal de forma natural."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soins du Hamster Roborovski (Pelage et Gestion du Stress) : Routine quotidienne en 3 étapes pour le bain de sable et la grande roue",
+                "description": "Guide de soin pour le Roborovski, le plus petit et le plus rapide des hamsters nains. Apprenez tout sur les bains de sable du désert, la prévention des chutes et la routine en 3 étapes.",
+                "authority": "Directives de Soins des Petits Animaux de la RSPCA et Normes Vétérinaires pour Nouveaux Animaux de Compagnie (NAC)",
+                "profile": {
+                    "breed": "Hamster Roborovski",
+                    "lifespan": "2 ~ 3 ans",
+                    "sleep_pattern": "12 ~ 14 heures (sommeil nocturne et crépusculaire)",
+                    "temperament": "Extrêmement Rapide, Craintif, Actif, Curieux, D'observation"
+                },
+                "intro": "Caractérisé par ses marques blanches au-dessus des yeux et sa taille lilliputienne, le hamster Roborovski est le plus petit des hamsters nains. Réputé pour sa rapidité et sa curiosité, son tempérament très vif en fait un animal d'observation plutôt que de manipulation. En raison de sécrétions sébacées importantes, un bain de sable du désert est indispensable. Sa petite taille exige aussi d'éviter les chutes et fuites. PetSelf vous propose une routine de soin en 3 étapes.",
+                "whyTitle": "Langage corporel du Hamster Roborovski : Tétanie instantanée (peur) et grattage des angles",
+                "whyDesc": "Si un Roborovski **« se fige totalement sans bouger »**, il s'agit d'une réaction réflexe de peur face à un danger perçu. En revanche, **« gratter frénétiquement les coins de la cage »** témoigne d'un stress lié à un manque d'espace ou d'aménagements.",
+                "body_signals": [
+                    {
+                        "name": "Tétanie instantanée (Freezing Response)",
+                        "meaning": "Peur panique provoquée par un bruit soudain ou une main, se figeant pour échapper aux prédateurs.",
+                        "response": "Ne cherchez pas à le toucher ; observez-le calmement et assurez-vous qu'il dispose de litière épaisse et de cachettes."
+                    },
+                    {
+                        "name": "Grattage des coins et tentatives de fuite",
+                        "meaning": "Signe de détresse causé par un habitat trop étroit ou un manque de litière pour creuser.",
+                        "response": "Offrez une grande cage d'un seul niveau (120 cm minimum), une litière profonde (15-20 cm) et une grande roue pleine (21 cm+)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification du sommeil et contrôle de la nourriture",
+                        "text": "Examinez l'eau et la gamelle sans réveiller le hamster endormi au fond de sa maisonnette."
+                    },
+                    {
+                        "name": "Midi : Nettoyage du bac à sable et contrôle de la roue",
+                        "text": "Retirez les pâtés de sable souillés dans le bac à sable du désert et vérifiez le roulement fluide de la roue."
+                    },
+                    {
+                        "name": "Soir : Distribution de nourriture fraîche et recherche alimentaire",
+                        "text": "Nourrissez-le en soirée avec un mélange pour hamsters nains et éparpillez des graines dans la litière pour stimuler son instinct."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi le hamster Roborovski est-il si difficile à manipuler ?",
+                        "answer": "Il conserve un instinct sauvage prononcé, une vitesse fulgurante et une grande méfiance. Le manipuler de force génère un stress intense et des risques de chutes mortelles. Privilégiez un gobelet pour le déplacer et appréciez-le en observation."
+                    },
+                    {
+                        "question": "Pourquoi faut-il un bain de sable et non un bain d'eau ?",
+                        "answer": "L'eau détruit la barrière lipidique de sa peau, entraînant une hypothermie mortelle ou des dermatites. Un bac rempli de sable de bain du désert non traité lui permet d'éliminer naturellement le sébum."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Roborovski-Zwerghamster Fellpflege & Stressprävention: Tägliche 3-Schritte-Routine mit Sandbad und großem Laufrad",
+                "description": "Pflegeanleitung für den kleinsten und schnellsten Zwerghamster, den Roborovski. Erfahren Sie alles über Wüstensandbäder zur Talgkontrolle, Sturzprävention und Haltung.",
+                "authority": "RSPCA-Richtlinien für Kleintiere & Klinische Standards der Exotenmedizin",
+                "profile": {
+                    "breed": "Roborovski-Zwerghamster (Roborovski Hamster)",
+                    "lifespan": "2 ~ 3 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Hauptsächlich nacht- und dämmerungsaktiv)",
+                    "temperament": "Extrem schnell, Schreckhaft, Aktiv, Neugierig, Beobachtungstier"
+                },
+                "intro": "Mit seinen charakteristischen weißen 'Augenbrauen' und seinem winzigen, flinken Körper ist der Roborovski-Zwerghamster der kleinste aller Zwerghamster. Er ist bekannt für seine enorme Geschwindigkeit und Neugier, eignet sich aufgrund seiner Scheu jedoch eher als Beobachtungstier statt als Streicheltier. Da seine Haut viel Talg produziert, ist ein spezielles Wüstensandbad unverzichtbar. Zudem erfordert die geringe Größe Schutz vor Stürzen und Entweichen. PetSelf zeigt eine 3-Schritte-Routine.",
+                "whyTitle": "Körpersprache des Roborovski: Plötzliches Erstarren (Angst) und Scharren in den Ecken",
+                "whyDesc": "Erstarrt ein Roborovski **'plötzlich vollkommen reglos'**, ist dies ein reflexartiger Angstschutzmechanismus. **'Hektisches Scharren in den Gehegeecken'** deutet dagegen auf Stress durch Platzmangel oder fehlende Beschäftigung hin.",
+                "body_signals": [
+                    {
+                        "name": "Plötzliches Erstarren (Freezing Response)",
+                        "meaning": "Angstreaktion auf Geräusche oder plötzliche Bewegungen; das Tier erstarrt, um für Feinde unsichtbar zu wirken.",
+                        "response": "Nicht anfassen; beobachten Sie ruhig und stellen Sie sicher, dass ausreichend Einstreu und Verstecke vorhanden sind."
+                    },
+                    {
+                        "name": "Eckenscharren & Ausbruchsversuche",
+                        "meaning": "Ausdruck von Frustration und Anspannung durch ein zu kleines Gehege oder fehlende Grabmöglichkeiten.",
+                        "response": "Bieten Sie ein großes, einstöckiges Gehege (mind. 120 cm Länge), hohe Einstreu (15–20 cm) und ein großes Laufrad (mind. 21 cm Durchmesser)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Schlaf-Check & Futter-/Wasser-Kontrolle",
+                        "text": "Überprüfen Sie Futter und Wasser, ohne den schlafenden Hamster in seinem Häuschen zu wecken."
+                    },
+                    {
+                        "name": "Mittag: Sandbad-Reinigung & Laufrad-Sicherheitscheck",
+                        "text": "Sieben Sie verunreinigte Klumpen aus dem Wüstensandbad und prüfen Sie, ob das Laufrad leise und leicht dreht."
+                    },
+                    {
+                        "name": "Abend: Frische Fütterung & Futter-Verstreuen",
+                        "text": "Geben Sie abends Zwerghamsterfutter und verstreuen Sie Körner im Gehege, um den natürlichen Futtertrieb zu fördern."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist der Roborovski-Zwerghamster so schwer zu handhaben?",
+                        "answer": "Er besitzt flinke Reflexe, hohe Fluchtbereitschaft und ausgeprägte Scheu. Erzwungenes Aufnehmen verursacht enormen Stress und Sturzgefahr. Nutzen Sie ein Taxi (z.B. Erlebnisschüssel) zum Umsetzen und erfreuen Sie sich am Beobachten."
+                    },
+                    {
+                        "question": "Warum dürfen Hamster nur im Sand und nicht im Wasser baden?",
+                        "answer": "Wasser zerstört den Fettschutz der Haut und führt zu lebensgefährlicher Unterkühlung oder Hautpilz. Ein Sandbad mit staubfreiem Wüstensand ermöglicht dem Tier die natürliche Fellreinigung."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidado da Pelagem e Prevenção do Estresse no Hámster Roborovski: Rotina diária de 3 passos com banho de areia e roda grande",
+                "description": "Guia de cuidados para o menor e mais rápido hámster anão, o Roborovski. Saiba tudo sobre banhos de areia do deserto, prevenção de quedas e rotina diária.",
+                "authority": "Diretrizes de Cuidados de Pequenos Animais da RSPCA e Padrões Clínicos Veterinários de Exóticos",
+                "profile": {
+                    "breed": "Hámster Roborovski",
+                    "lifespan": "2 ~ 3 anos",
+                    "sleep_pattern": "12 ~ 14 horas (sono noturno e crepuscular)",
+                    "temperament": "Extremamente Rápido, Arisco, Ativo, Curioso, Observacional"
+                },
+                "intro": "Com suas sobrancelhas brancas características e um corpo minúsculo, o hámster Roborovski é o menor dos hámsteres anões. Conhecido por sua incrível velocidade e curiosidade, seu temperamento arisco o torna mais adequado para observação do que para manuseio. Devido à oleosidade da pele, o banho de areia do deserto é indispensável. Além disso, seu tamanho exige cuidados contra quedas e fugas. O PetSelf apresenta a sua rotina de 3 passos.",
+                "whyTitle": "Sinais corporais do Hámster Roborovski: Paralisação instantânea (medo) e escavar cantos",
+                "whyDesc": "Se um Roborovski **'ficar completamente imóvel e congelado'**, é uma resposta instintiva de pânico. Por outro lado, **'escavar freneticamente os cantos do alojamento'** sinaliza estresse por falta de espaço ou distrações.",
+                "body_signals": [
+                    {
+                        "name": "Paralisação instantânea (Freezing Response)",
+                        "meaning": "Reação de pânico diante de barulhos ou mãos humanas, congelando o corpo para não ser visto por predadores.",
+                        "response": "Não tente tocar nele; observe com calma e garanta que haja bastante substrato e cabanas para ele se esconder."
+                    },
+                    {
+                        "name": "Escavar cantos e tentativas de fuga",
+                        "meaning": "Sinal de ansiedade provocado por um recinto pequeno ou falta de profundidade para cavar.",
+                        "response": "Forneça um alojamento amplo de piso único (mínimo 120 cm de comprimento), substrato profundo (15–20 cm) e uma roda lisa grande (21 cm+)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Inspeção do sono e controle de água/comida",
+                        "text": "Verifique a água e o comedouro sem acordar o hámster que dorme dentro da sua toca."
+                    },
+                    {
+                        "name": "Tarde: Limpeza da areia do deserto e checagem da roda",
+                        "text": "Remova os detritos do recipiente de areia do deserto e certifique-se de que a roda gire perfeitamente."
+                    },
+                    {
+                        "name": "Noite: Alimentação fresca e espalhamento de comida",
+                        "text": "Ofereça ração para hámster anão ao anoitecer e espalhe sementes pelo substrato para incentivar o forrageamento."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o hámster Roborovski é tão difícil de manusear?",
+                        "answer": "Ele preserva instintos selvagens aflorados, extrema velocidade e receio do contato. Forçar o manuseio causa estresse grave e risco de quedas fatais. Use um copo para transportá-lo e aprecie a sua observação."
+                    },
+                    {
+                        "question": "Por que os hámsteres devem tomar banho de areia e não de água?",
+                        "answer": "A água destrói a camada lipídica protetora da pele, causando hipotermia ou dermatite grave. O recipiente com areia especial do deserto permite remover o excesso de óleo da pelagem naturalmente."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Hamster Roborovski: Perawatan Bulu & Pencegahan Stres melalui 3 Langkah Rutinitas Mandi Pasir dan Roda Besar",
+                "description": "Panduan perawatan esensial untuk hamster kerdil terkecil dan tercepat, Roborovski. Pelajari mandi pasir gurun untuk mengontrol minyak, pencegahan jatuh, dan 3 langkah rutinitas harian.",
+                "authority": "Pedoman Perawatan Hewan Kecil RSPCA & Standar Klinis Dokter Hewan Eksotis",
+                "profile": {
+                    "breed": "Hamster Roborovski",
+                    "lifespan": "2 ~ 3 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (pola tidur nokturnal & krepuskular)",
+                    "temperament": "Sangat Cepat, Penakut, Aktif, Ingin Tahu, Tipe Observasi"
+                },
+                "intro": "Memiliki ciri khas pola alis putih dan tubuh mungil yang lincah, hamster Roborovski adalah jenis hamster kerdil (dwarf) terkecil. Terkenal akan kecepatannya yang luar biasa dan rasa ingin tahu yang tinggi, sifatnya yang penakut membuat mereka lebih cocok sebagai hewan peliharaan untuk diamati daripada dipegang. Karena kulitnya menghasilkan minyak, mandi pasir gurun khusus sangat wajib disediakan. Hari ini, PetSelf menyajikan 3 langkah rutinitas harian untuk merawat hamster Roborovski.",
+                "whyTitle": "Bahasa Tubuh Hamster Roborovski: Tubuh Membeku Seketika (Rasa Takut) dan Menggali Sudut Kandang",
+                "whyDesc": "Jika Roborovski **'tiba-tiba diam mematung tanpa bergerak'**, ini adalah refleks pertahanan diri saat merasa sangat ketakutan. Sementara itu, **'kebiasaan menggali sudut kandang secara Panik'** menandakan stres akibat ukuran kandang yang terlalu sempit.",
+                "body_signals": [
+                    {
+                        "name": "Tubuh Membeku Seketika (Freezing Response)",
+                        "meaning": "Reaksi panik akibat suara mendadak atau gerakan tangan, membeku agar tidak terlihat oleh predator.",
+                        "response": "Jangan menyentuhnya; amati dengan tenang dan pastikan tersedia alas (bedding) yang tebal serta tempat bersembunyi."
+                    },
+                    {
+                        "name": "Menggali Sudut Kandang & Usaha Kabur",
+                        "meaning": "Tanda kecemasan akibat ruang gerak kandang yang sempit atau kurangnya kedalaman alas untuk menggali.",
+                        "response": "Sediakan kandang satu lantai yang luas (panjang minimal 120 cm), alas tebal (15–20 cm), dan roda lari tanpa celah berukuran besar (diameter 21 cm+)."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Status Tidur & Kontrol Makanan/Air",
+                        "text": "Periksa ketersediaan air dan pakan tanpa membangunkan hamster yang sedang tidur di dalam sarangnya."
+                    },
+                    {
+                        "name": "Siang: Pembersihan Pasir Gurun & Pemeriksaan Keamanan Roda Lari",
+                        "text": "Bersihkan gumpalan kotoran dari wadah pasir mandi gurun dan pastikan roda lari dapat berputar dengan lancar."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Segar & Menyebar Makanan (Foraging)",
+                        "text": "Berikan pakan khusus hamster kerdil pada malam hari dan sebarkan biji-bijian di atas alas kandang untuk memicu naluri lamanya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa hamster Roborovski sangat sulit dipegang (handing)?",
+                        "answer": "Roborovski memiliki naluri liar yang kuat, kecepatan luar biasa, dan rasa takut yang tinggi. Memaksa memegangnya dapat memicu stres berat atau risiko terjatuh. Gunakan cangkir saat memindahkannya dan nikmati dengan cara mengamatinya."
+                    },
+                    {
+                        "question": "Mengapa hamster wajib mandi pasir dan tidak boleh dimandikan dengan air?",
+                        "answer": "Air dapat merusak lapisan minyak alami kulit hamster, memicu hipotermia mematikan atau infeksi kulit berat. Wadah berisi pasir mandi gurun bebas debu memungkinkan mereka membersihkan minyak tubuh secara alami."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/roborovski_hamster_care.webp"
+    }
+}
