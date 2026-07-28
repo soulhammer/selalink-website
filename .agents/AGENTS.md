@@ -36,15 +36,15 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 ---
 
 ## 4. 반려동물 블로그 생성 규칙 및 이미지 가이드라인 (Pet Blog Content & Image Guidelines)
-*   **세부 품종/종류 단위 작성**: 사용자가 반려동물(개, 고양이, 소형 동물 등) 관련 블로그 포스트를 추가하도록 요청할 때, '강아지 전체 케어법', '고양이 전체 케어법'처럼 광범위한 대분류 동물 단위로 작성해서는 절대 안 됩니다.
-*   **정밀 타겟 품종 선정**: 반드시 세부 품종(견종, 묘종 및 구체적인 소형 동물의 세부 종류. 예: 골든 리트리버, 러시안 블루, 네덜란드 드워프 토끼, 골든 햄스터 등)을 특정하고 타겟하여 해당 품종의 구체적인 유전성 특성, 건강 수칙, 올바른 보살핌 방법을 분할해서 정밀하게 담은 포스트로 작성해야 합니다.
+*   **세부 품종/종류 단위 작성**: 사용자가 반려동물(개, 고양이, 소형 동물, 어류/갑각류 등) 관련 블로그 포스트를 추가하도록 요청할 때, '강아지 전체 케어법', '고양이 전체 케어법'처럼 광범위한 대분류 동물 단위로 작성해서는 절대 안 됩니다.
+*   **정밀 타겟 품종 선정**: 반드시 세부 품종(견종, 묘종 및 구체적인 소형 동물의 세부 종류. 예: 골든 리트리버, 러시안 블루, 네덜란드 드워프 토끼, 골든 햄스터, 체리새우 등)을 특정하고 타겟하여 해당 품종의 구체적인 유전성 특성, 건강 수칙, 올바른 보살핌 방법을 분할해서 정밀하게 담은 포스트로 작성해야 합니다.
 *   **이미지 스타일 및 컨셉 (Image Style & Concept)**:
-    *   위인 습관 블로그와 동일하게 실사 사진이나 조잡한 3D 모델 대신, 세련되고 현대적인 **모던 벡터 일러스트(Modern Vector Illustration)** 또는 **2.5D 플랫 일러스트(Flat Illustration with Soft Gradients)** 스타일로 생성합니다.
-    *   **배색 및 분위기(Color Palette)**: 어두운 인디고, 바이올렛, 슬레이트 그레이 등의 차분한 다크 모드 톤을 배경으로 깔고, 부드러운 조명(Soft lighting) 및 금색/앰버 컬러의 하이라이트 효과를 연출합니다.
-    *   **구도 및 피사체 (Centered Subject & Safe Margins)**: 해당 반려동물의 특성과 주요 케어 환경(예: 침대, 은신처, 수조, 사육장 등)을 아늑하게 묘사하고, 블로그 카드 및 헤더 썸네일 크롭 시 주인공이 잘리지 않도록 **피사체가 캔버스 중앙(Eye-level Center)에 위치하며 상하좌우 여유 마진**을 갖추도록 구도를 잡습니다.
+    *   **고품질 감성 실사 스튜디오 사진 (High-Quality Realistic Studio Photography)**: 기존 일러스트 스타일 대신, 해당 반려동물 품종 고유의 생생한 털/갑각 디테일과 귀여운 표정, 실제 케어 환경을 고급스럽게 담아내는 감성 실사 사진으로 생성합니다.
+    *   **배색 및 분위기(Color Palette)**: 어두운 딥 인디고, 다크 바이올렛, 슬레이트 그레이 등 차분하고 기품 있는 다크 톤 배경을 깔고, 부드러운 스튜디오 조명(Soft moody lighting) 및 금색/앰버 컬러의 하이라이트 효과를 조화시켜 웹사이트 UI 테마와의 일관성을 확보합니다.
+    *   **중앙 피사체 및 잘림 방지 (Centered Subject & Safe Margins)**: 블로그 카드 및 헤더 썸네일 크롭 시 주인공이 잘리지 않도록 **피사체(주인공 반려동물)가 캔버스 중앙(Eye-level Center)에 위치하고 상하좌우에 충분한 여유 마진(Safe Margins)**을 확보해야 합니다. (프롬프트에 `perfectly centered subject with ample safe margins on top and sides, eye-level composition` 명시)
     *   **기타 규칙**: 이미지 내 불필요한 텍스트(글자)는 절대 삽입하지 않습니다.
 *   **프롬프트 공식 예시**:
-    > "A stylized modern vector illustration of [반려동물 품종 이름] [상황/장소 묘사, 예: sitting comfortably in a cozy dark-toned room]. Perfectly centered subject with ample safe margins on top and sides, eye-level composition. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Dark purple and indigo color scheme with amber accents]. Minimalist and premium design style for a pet care blog post header. No text, high quality."
+    > "A professional studio photograph of a [반려동물 품종 이름] [상황/장소 묘사, 예: resting comfortably on a luxury dark velvet cushion / inside a crystal clear aquarium]. Perfectly centered subject with ample safe margins on top and sides, eye-level macro composition. Soft moody studio lighting with subtle warm amber highlights, deep dark indigo and slate grey background depth. High detail fur/shell texture, realistic and adorable expression. Premium magazine quality, no text, high quality."
 
 ---
 
@@ -84,10 +84,12 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 
 ## 9. 다크 모드 & 라이트 모드 테마 호환성 가이드라인 (Dark & Light Theme Compatibility Rule)
 *   **테마 양방향 시인성 보장**: 웹사이트가 다크 모드(Dark Mode)와 라이트 모드(Light Mode) 테마 전환을 모두 지원하므로, 생성되는 모든 블로그 대표 이미지(`heroImage`)는 두 테마의 카드 썸네일 및 상세 헤더 프레임 모두에서 어색함 없이 고급스럽고 또렷하게 노출되어야 합니다.
-*   **벡터 일러스트 (위인 습관 & 반려동물 카테고리)**:
+*   **위인 습관 카테고리 (2.5D 모던 벡터 일러스트)**:
     *   배경색은 완전한 순수 검정(Pure Black `#000000`) 대신 **깊이감 있는 딥 인디고, 다크 바이올렛, 슬레이트 그레이**를 기본 배경으로 채택합니다. 이를 통해 다크 모드 테마에서는 고급스럽게 융화되고, 라이트 모드 카드(밝은 톤 카드) 내에서는 모던한 액자형 프레임으로서 대비감(Contrast)을 훌륭하게 연출합니다.
     *   중심 피사체의 테두리와 디테일에는 부드러운 앰버/골드 하이라이트(Warm ambient glow & edge lighting)를 가미하여 어느 테마 배경에서 보더라도 피사체의 시인성과 부각 효과가 무너지지 않도록 조절합니다.
-*   **실사 사진 (FreshSnap 식재료 보관 카테고리)**:
+*   **반려동물 카테고리 (고품질 감성 실사 스튜디오 사진)**:
+    *   배경은 야외 생사진 대신 **딥 인디고 및 슬레이트 그레이 톤의 스튜디오 아늑한 조명**을 적용하여 다크 모드에서는 분위기 있게 배합되고 라이트 모드 카드 프레임에서는 대비감을 줄 수 있도록 구성합니다. 피사체가 항상 캔버스 중앙에 위치하며 상하좌우 안전 여백을 확보하도록 고정합니다.
+*   **FreshSnap 식재료 보관 카테고리 (밝은 주방 실사 사진)**:
     *   밝고 위생적인 주방 및 부드러운 자연광 스튜디오 톤을 유지하되, 다크 모드 뷰어에서 보았을 때 이미지만 너무 하얗게 떠서 눈에 피로를 주지 않도록 피사체 하단의 **자연스러운 그림자(Soft natural drop shadow)**와 과도한 노출(Overexposure) 없는 조화로운 톤 균형을 형성합니다.
 
 
