@@ -52,6 +52,7 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **스타일**: 벡터 일러스트 스타일 대신, **밝고 환하며 세련된 현대적인 주방(Bright, airy modern kitchen)을 배경으로 하는 고품질 실사 사진(High-quality realistic photo)** 스타일로 생성합니다.
 *   **구도 및 묘사**: 각 식재료가 신선하게 보관되고 있는 실제 행동 상태(예: 비닐 랩으로 밀봉된 모습, 키친타월에 싸인 모습, 전용 수납 용기나 바구니에 정리된 모습 등)가 중심 피사체로 선명하고 위생적으로 드러나야 합니다.
 *   **배색(Color Palette)**: 화이트, 원목, 연한 베이지 등 내추럴하고 밝은 색상의 주방 환경을 기본 톤으로 활용하며, 부드러운 자연광(Soft natural window light)과 아웃포커싱(Shallow depth of field)을 조화시켜 프리미엄 푸드 매거진 같은 느낌을 연출합니다.
+*   **용기 및 병류 무인쇄/라벨 제거 원칙 (Clean Unlabeled Container Rule)**: 오일, 소스, 유제품, 시럽 등 병(Bottle)이나 유리 용기(Jar)에 담긴 모습으로 식재료를 연출할 경우, 용기 표면에 어색한 백지 종이 스티커나 라벨(Blank Paper Label)을 그리는 것을 **엄격히 금지**합니다. 라벨 종이를 완전히 없앤 **매끄럽고 맑은 투명 스튜디오 유리 용기(Clean Unlabeled Glass Bottle/Jar)** 본연의 질감과 내용물의 투광 색감을 강조해야 하며, 프롬프트에 `completely clean unlabeled smooth glass surface, no paper labels, no stickers`를 명시합니다.
 *   **기타 규칙**: 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
 *   **프롬프트 공식**:
     > "A high-quality realistic photo of [식재료 상태 묘사] on a clean kitchen countertop. In the background, a bright, airy modern kitchen with soft natural window light, shallow depth of field. Professional food styling, clean and hygienic presentation. No text, high quality."

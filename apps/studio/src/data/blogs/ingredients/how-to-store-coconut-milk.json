@@ -1,0 +1,406 @@
+{
+    "how-to-store-coconut-milk": {
+        "ingId": "coconut-milk",
+        "pubDate": "2026-02-25",
+        "updatedDate": "2026-02-25",
+        "heroImage": "/images/blog/coconut_milk_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "코코넛 밀크 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 코코넛 밀크의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>",
+                "intro": "진하고 고소한 풍미로 다양한 요리에 쓰이는 코코넛 밀크, 한번 개봉하고 남은 것을 캔째 냉장고에 두었다가 금세 굳거나 금속 비린내가 나고 곰팡이가 생겨 버린 경험 있으시죠? 🥥\n\n코코넛 밀크는 식물성 지방 함량이 높아 상온 개봉 시 지방 산패와 세균 증식이 매우 빠르게 일어납니다. 특히 캔 용기를 개봉한 채 그대로 냉장 보관하면 캔 내부의 주석(Tin) 성분이 산소와 반응하여 음료로 용출되거나 금속 맛이 날 수 있으므로 올바른 용기 이동과 온도 관리가 필수적입니다.\n\n오늘 FreshSnap에서는 FDA와 USDA의 과학적 가이드라인에 기반하여, 코코넛 밀크의 층분리를 최소화하고 신선도를 안전하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "액상 식재료의 수분·지방 유화 특성과 캔 용기의 화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식중독 예방과 신선도 유지에 필수적입니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "개봉 후 캔 용기째 그대로 보관하지 마세요 🚫",
+                        "desc": "개봉된 캔을 공기에 노출시킨 채 냉장 보관하면 캔 내부의 금속(주석)이 산화되어 내용물로 녹아들고 쇠 맛이 나거나 내용물이 변질됩니다. 개봉 즉시 밀폐 가능한 유리나 식품용 플라스틱 용기에 옮겨 담아야 합니다."
+                    },
+                    {
+                        "title": "상온 개봉 방치 및 지방 분리를 부패로 오인하지 마세요 🥥",
+                        "desc": "코코넛 밀크의 하얀 지방층이 상단에 굳는 현상은 천연 코코넛 오일 성분 분리로 인한 자연스러운 현상입니다. 하지만 개봉 후 상온에 방치하면 수시간 내 세균이 폭발적으로 증식하므로, 개봉 즉시 냉장 보관하고 시큼한 냄새나 곰팡이가 생긴 경우 즉시 폐기하세요."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "개봉 즉시 밀폐 용기(유리/보관용기)로 옮기기 — 금속 산화 차단 🫙",
+                        "text": "캔 제품은 개봉하는 순간 공기와 접촉하여 내부 금속 산화가 시작됩니다. 💡 보관 팁: 남은 코코넛 밀크는 개봉 즉시 깨끗한 밀폐 유리병이나 BPA-Free 플라스틱 용기에 옮겨 담고 뚜껑을 완벽히 닫아주세요. 이렇게 하면 금속 성분 용출을 막고 냉장고 내부 냄새 흡수를 차단할 수 있습니다."
+                    },
+                    {
+                        "name": "4℃ 이하 냉장 보관하기 — 개봉 후 단기 보관 (4~6일) ❄️",
+                        "text": "개봉된 코코넛 밀크는 수분과 단백질, 지방이 풍부하여 미생물이 번식하기 좋은 환경입니다. 💡 보관 팁: 밀폐 용기에 담은 코코넛 밀크를 0~4℃의 냉장고 신선실에 보관하세요. 개봉 후 냉장 보관 기한은 4~6일이므로 가급적 빠르게 소비해야 합니다."
+                    },
+                    {
+                        "name": "얼음 트레이 이용 소분 냉동 보관하기 — 장기 보관 (2~3개월) 🧊",
+                        "text": "남은 양이 많다면 얼음 트레이(아이스 큐브)를 활용해 소분 냉동하는 것이 가장 효율적입니다. 💡 보관 팁: 코코넛 밀크를 얼음 트레이에 부어 얼린 뒤, 굳은 큐브를 냉동용 지퍼백에 담아 -18℃ 이하에서 보관하세요. 최대 2~3개월간 보관이 가능하며, 해동 시 지방과 수분이 분리될 수 있으므로 조리 시 젓거나 거품기로 잘 섞어 사용하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "코코넛 밀크를 냉장고에 두었더니 위는 굳고 아래는 물처럼 분리되었는데 버려야 하나요?",
+                        "answer": "버리지 않으셔도 됩니다. 이는 코코넛 밀크에 포함된 천연 포화지방(코코넛 오일)이 저온에서 굳어 상단으로 뜨고 수분층과 분리되는 지극히 자연스러운 현상입니다. 사용 전 용기를 흔들거나 따뜻하게 가열하여 잘 저어주면 다시 고른 유화 상태로 돌아옵니다."
+                    },
+                    {
+                        "question": "미개봉 코코넛 밀크 캔/팩은 어디에 보관해야 하나요?",
+                        "answer": "개봉하지 않은 캔이나 멸균 팩 포장의 코코넛 밀크는 직사광선이 비치지 않는 서늘하고 건조한 실온 팬트리(10~21℃)에 보관하시면 됩니다. 제품 표기 유통기한까지 신선하게 유지됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Coconut Milk Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for coconut milk based on official safety guidelines.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "Have you ever used rich, creamy coconut milk for a dish and left the remainder in the opened tin can inside the fridge, only to find it turning bad, acquiring a metallic taste, or growing mold? 🥥\n\nCoconut milk contains high levels of plant-based fats, making it prone to lipid oxidation and rapid bacterial multiplication at room temperature. Leaving opened cans directly in the refrigerator causes tin liners to react with oxygen, leaching metallic flavors into the liquid. Proper container transfer and temperature control are vital.\n\nToday, FreshSnap shares a scientifically proven 3-step coconut milk storage guide based on guidelines from the FDA and USDA to prevent separation and maintain peak safety and freshness. 🛡️",
+                "whyTitle": "Why Store Coconut Milk This Way? Scientific Facts",
+                "whyDesc": "Understanding liquid emulsion traits and the chemical behavior of tin cans is essential for preventing foodborne illness and preserving freshness.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store in the original tin can after opening 🚫",
+                        "desc": "Exposing opened cans to air inside the fridge oxidizes the metal liner, leaching tin into the liquid and imparting a harsh metallic flavor or causing spoilage. Always transfer remaining coconut milk to an airtight glass or food-grade plastic container immediately after opening."
+                    },
+                    {
+                        "title": "Do not mistake natural fat separation for spoilage 🥥",
+                        "desc": "A hardened white layer of fat forming at the top of chilled coconut milk is a natural separation of coconut oil solids. However, leaving open coconut milk at room temperature allows explosive bacterial growth within hours. Refrigerate immediately upon opening, and discard if you detect a sour smell or mold."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transfer to an airtight glass/plastic container immediately — Block Metal Oxidation 🫙",
+                        "text": "Once a metal can is opened, exposure to air initiates inner metal oxidation. 💡 Storage Tip: Pour unused coconut milk into a clean glass jar or BPA-free airtight container right away and seal tightly. This prevents metallic contamination and protects against fridge odor absorption."
+                    },
+                    {
+                        "name": "Refrigerate below 4°C — Short-Term Storage (4–6 Days) ❄️",
+                        "text": "Opened coconut milk is rich in moisture, proteins, and fats, creating a fertile ground for microbes. 💡 Storage Tip: Place the airtight container in the main fridge compartment or crisper at 0–4°C. Consume within 4–6 days of opening."
+                    },
+                    {
+                        "name": "Portion in ice cube trays and freeze — Long-Term Storage (2–3 Months) 🧊",
+                        "text": "Freezing in ice cube trays is the most efficient method for storing leftover coconut milk. 💡 Storage Tip: Pour coconut milk into ice cube trays, freeze solid, then transfer the frozen cubes into a freezer Ziploc bag below -18°C. Store for up to 2–3 months. Whisk or heat gently upon thawing to re-emulsify separated fat layers."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My refrigerated coconut milk separated into a thick top layer and watery bottom. Should I throw it out?",
+                        "answer": "No, do not throw it out! This is a completely natural separation where natural saturated fat (coconut oil) solidifies at low temperatures and floats to the top. Simply shake the container or warm and whisk the coconut milk before cooking to restore a smooth emulsion."
+                    },
+                    {
+                        "question": "Where should unopened canned or tetra-pak coconut milk be stored?",
+                        "answer": "Unopened cans or sterile tetra-paks should be stored in a cool, dry, dark pantry at room temperature (10–21°C / 50–70°F). They remain fresh until the printed expiration date."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ココナッツミルクを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくココナッツミルクの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>",
+                "intro": "濃厚でコクのある風味が魅力のココナッツミルクですが、使いきれずに缶のまま冷蔵庫に入れておいたら、金属臭がしたりカビが生えてしまった経験はありませんか？ 🥥\n\nココナッツミルクは植物性脂質が豊富に含まれているため、常温で開封・放置すると脂質の酸化や雑菌の繁殖が非常に早く進みます。特に開封した缶のまま冷蔵保存すると、缶の金属成分（スズ）が酸素と反応して汁に溶け出し、鉄くさくなったり品質が劣化する原因となります。\n\n本日FreshSnapでは、FDAやUSDAの科学的ガイドラインに基づき、ココナッツミルクの油水分離を最小限に抑え鮮度を safe に保つ3段階の保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "液体食材の乳化特性と缶容器の化学的性質を理解し、正しい保存方法を実践することは食中毒予防と鮮度維持において不可欠です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "開封後、缶のまま保存しないでください 🚫",
+                        "desc": "開封した缶を空気に触れさせたまま冷蔵保存すると、缶内部の金属（スズ）が酸化して内容物に溶け出し、金属性の嫌な臭いがついたり変質の原因になります。開封後はただちにガラス瓶や食品用プラスチック密閉容器に移し替えてください。"
+                    },
+                    {
+                        "title": "油脂の自然分離を傷みと誤解しないでください 🥥",
+                        "desc": "冷えると上面に白い固形油脂層ができるのは天然のココナッツオイル成分が固まる自然な現象です。ただし、開封後に常温放置すると数時間で雑菌が激増するため、開封後はすぐに冷蔵保存し酸っぱい臭いやカビがある場合は破棄してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "開封後すぐにガラス・プラスチック密閉容器へ移す — 金属酸化の遮断 🫙",
+                        "text": "缶製品は開封した瞬間から空気と触れ合い金属の酸化が始まります。💡保存のコツ：残ったココナッツミルクはすぐに清潔な密閉ガラス瓶やBPAフリーの保存容器に移し替え、フタをしっかり閉めてください。これにより金属成分の溶出と冷蔵庫内のにおい移りを防げます。"
+                    },
+                    {
+                        "name": "4℃以下で冷蔵保存する — 開封後の短期保存 (4〜6日間) ❄️",
+                        "text": "開封後のココナッツミルクは水分・タンパク質・脂質が豊富で微生物が繁殖しやすい環境です。💡保存のコツ：密閉容器に入れたココナッツミルクを0〜4℃の冷蔵庫で保存してください。開封後の冷蔵保存期間は4〜6日ですので、早めに使い切るようにしましょう。"
+                    },
+                    {
+                        "name": "製氷皿で小分け冷凍保存する — 長期保存 (2〜3ヶ月間) 🧊",
+                        "text": "残りが多く使い切れない場合は、製氷皿（アイスキューブ）を使って小分け冷凍するのが最も効率的です。💡保存のコツ：製氷皿に流し込んで凍らせた後、キューブを冷凍用ジッパーバッグに移して-18℃以下で保存します。最大2〜3ヶ月間保存でき、解凍時は油脂と水分が分離するため加熱時に泡立て器等によく混ぜてご使用ください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "冷蔵庫に入れておいたら上が固まって下が水のようになりました。捨てた方がいいですか？",
+                        "answer": "捨てる必要はありません。これはココナッツミルクに含まれる天然の飽和脂肪酸（ココナッツオイル）が低温で固まり、水層と分離する正常な現象です。使用前に容器をよく振るか、軽く温めて混ぜ合わせることで元の均一な液体に戻ります。"
+                    },
+                    {
+                        "question": "未開封のココナッツミルク缶やパックはどこに保存すべきですか？",
+                        "answer": "未開封の缶や常温保存用パックは、直射日光の当たらない涼しく乾燥したパントリーや冷暗所（10〜21℃）で保存してください。賞味期限まで品質が保たれます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持椰浆（椰奶）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解椰浆（椰奶）的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>",
+                "intro": "用椰浆做菜后，把剩下的直接连罐放在冰箱里，过不了几天就发霉变质或散发难闻的金属性异味，您遇到过这种情况吗？ 🥥\n\n椰浆富含植物性脂肪，在常温开封后极易发生脂肪酸败与细菌快速滋生。特别是将开封后的铁罐直接冷藏，罐内壁的锡等金属成分会与氧气反应溶出到椰浆中，产生铁锈味并破坏品质，因此及时更换容器和控制温度至关重要。\n\n今天 FreshSnap 将基于 FDA 和 USDA 的科学指南，为您介绍减少水油分离、安全保持椰浆新鲜度的 3 步储存秘诀。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解液体乳化食材的理化特性以及金属罐的化学反应机制，并采用正确的储存方法，对于预防食物中毒和保持新鲜度至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "开封后切勿直接连同铁罐保存 🚫",
+                        "desc": "开封后的铁罐暴露在空气中冷藏，罐内金属（锡）会发生氧化并溶入液体中，导致椰浆带有难闻的金属性味甚至变质。开封后必须立即转移至玻璃瓶或食品级塑料密封盒中。"
+                    },
+                    {
+                        "title": "请勿将天然水油分离误认为腐败变质 🥥",
+                        "desc": "冷藏后椰浆顶部凝固出一层白色油脂，属于天然椰子油成分冷凝分层的正常现象。但若开封后在常温下久置，细菌会在数小时内暴增，因此开封后须立即冷藏；若闻到酸臭味或发现发霉，请立即丢弃。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "开封后立即转入密封容器 — 阻断金属氧化 🫙",
+                        "text": "罐装产品一经开封，接触空气即开始发生内壁金属氧化。💡储存小贴士：将用剩的椰浆立即倒入干净的密封玻璃瓶或不含BPA的保鲜盒中并盖紧盖子。这样可以防止金属溶出并阻隔冰箱内的异味。"
+                    },
+                    {
+                        "name": "4℃以下冷藏保存 — 开封后短期储存 (4~6天) ❄️",
+                        "text": "开封后的椰浆富含水分、蛋白质和脂肪，极易滋生微生物。💡储存小贴士：将密封好的椰浆放入0~4℃的冰箱冷藏室保存。开封后冷藏保质期为4~6天，请尽快食用。"
+                    },
+                    {
+                        "name": "冰格分装冷冻 — 长期储存 (2~3个月) 🧊",
+                        "text": "若剩余较多，使用冰格分装冷冻是最有效的方法。💡储存小贴士：将椰浆倒入冰格中冻成冰块，然后取出装入冷冻拉链袋，在-18℃以下冷冻保存。可保存2~3个月。解冻后水油易分离，烹饪时用搅拌器充分搅拌均匀即可。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "椰浆冷藏后上面凝固成硬块，下面变成水，是坏了吗？",
+                        "answer": "没有坏！这是椰浆中所含天然饱和脂肪（椰子油）在低温下凝固并浮于上层的正常分层现象。使用前只需摇匀，或微微加热后搅拌即可恢复均匀的乳化状态。"
+                    },
+                    {
+                        "question": "未开封的罐装或无菌纸盒装椰浆应该存放在哪里？",
+                        "answer": "未开封的罐装或无菌复合纸盒装椰浆，存放在避光、阴凉干燥的常温储藏柜（10~21℃）即可。在产品标注的保质期内均可保持新鲜。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la leche de coco fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la leche de coco según las directrices oficiales de seguridad.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "¿Alguna vez usó leche de coco en una receta y dejó el sobrante en la lata dentro del refrigerador, solo para descubrir que se echaba a perder, tomaba un sabor metálico o le salía moho? 🥥\n\nLa leche de coco contiene un alto porcentaje de grasas vegetales, lo que la hace susceptible a la oxidación lipídica y a la rápida proliferación bacteriana a temperatura ambiente. Dejar latas abiertas en el refrigerador causa la oxidación del revestimiento de estaño, filtrando sabores metálicos al líquido. Transferirla a otro contenedor y controlar la temperatura son pasos esenciales.\n\nHoy, FreshSnap presenta una guía de conservación de leche de coco en 3 pasos respaldada por la FDA y el USDA para evitar la separación de fases y conservar su calidad de forma segura. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las propiedades de emulsión de los líquidos y la reacción química de las latas es fundamental para prevenir intoxicaciones alimentarias y mantener la frescura.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca la conserve en la lata metálica original tras abrirla 🚫",
+                        "desc": "Exponer la lata abierta al aire del refrigerador oxida el revestimiento metálico, liberando estaño en el líquido y alterando su sabor con notas metálicas. Traslade de inmediato la leche de coco sobrante a un frasco de vidrio o contenedor plástico hermético."
+                    },
+                    {
+                        "title": "No confunda la separación natural de grasa con descomposición 🥥",
+                        "desc": "La capa blanca y dura que se forma en la parte superior de la leche de coco refrigerada es grasa saturada natural sólida. Sin embargo, dejarla abierta a temperatura ambiente provoca un crecimiento bacteriano masivo en pocas horas. Refrigérela de inmediato y deséchela si percibe olor agrio o moho."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Traslade a un recipiente hermético inmediatamente — Evite la oxidación metálica 🫙",
+                        "text": "Una vez abierta la lata, el contacto con el aire inicia la oxidación del metal. 💡 Consejo de almacenamiento: Vierta la leche de coco en un frasco de vidrio limpio o contenedor libre de BPA y cierre bien. Esto evita la contaminación metálica y aísla de olores del refrigerador."
+                    },
+                    {
+                        "name": "Refrigere por debajo de 4 °C — Corto plazo (4 a 6 días) ❄️",
+                        "text": "La leche de coco abierta es rica en agua, proteínas y grasas, un ambiente óptimo para microbios. 💡 Consejo de almacenamiento: Guarde el recipiente hermético en el estante del refrigerador a 0–4 °C. Consúmala en un plazo de 4 a 6 días tras abrirla."
+                    },
+                    {
+                        "name": "Porcione en cubeteras de hielo y congele — Largo plazo (2 a 3 meses) 🧊",
+                        "text": "Congelar en cubeteras de hielo es el método más práctico para conservar el sobrante. 💡 Consejo de almacenamiento: Vierta la leche de coco en una cubetera, congele y transfiera los cubos a una bolsa Ziploc a -18 °C. Se conserva hasta por 2–3 meses. Al descongelar, mezcle o bata bien para volver a emulsionar la grasa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi leche de coco refrigerada se dividió en una capa dura arriba y líquida abajo. ¿Debo tirarla?",
+                        "answer": "¡No la tire! Es una separación completamente natural donde la grasa saturada del coco se solidifica con el frío y flota. Simplemente agite el envase o caliéntela ligeramente y bátala antes de cocinar para restaurar su textura cremosa uniforme."
+                    },
+                    {
+                        "question": "¿Dónde debo almacenar la leche de coco en lata o tetrapak sin abrir?",
+                        "answer": "Los envases sin abrir deben guardarse en una despensa fresca, seca y oscura a temperatura ambiente (10–21 °C). Mantienen su calidad hasta la fecha de caducidad impresa."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le lait de coco frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le lait de coco selon les directives officielles de sécurité.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "Avez-vous déjà utilisé du lait de coco en conserve et laissé le reste dans la boîte au réfrigérateur, pour constater qu'il prenait un goût métallique, tournait ou se couvrait de moisissure ? 🥥\n\nLe lait de coco est très riche en graisses végétales, ce qui le rend sensible à l'oxydation des lipides et à la prolifération bactérienne à température ambiante. Laisser une boîte en fer ouverte au frais entraîne l'oxydation de l'étain, qui se dissout dans le liquide et lui donne un goût métallique. Le transfert de récipient et le contrôle de la température sont primordiaux.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation du lait de coco en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa fraîcheur et sa sécurité. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre la structure d'émulsion des liquides et le comportement chimique des boîtes en conserve est essentiel pour prévenir les intoxications et maintenir la fraîcheur.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne le conservez jamais dans sa boîte en fer ouverte 🚫",
+                        "desc": "Laisser la boîte en métal ouverte au réfrigérateur fait oxyder la paroi intérieure, libérant de l'étain dans le lait de coco et altérant son goût. Transvasez immédiatement le reste dans un bocal en verre ou une boîte en plastique hermétique."
+                    },
+                    {
+                        "title": "Ne confondez pas la séparation naturelle du gras avec du pourrissement 🥥",
+                        "desc": "Une couche de graisse blanche et solide se formant au-dessus du lait de coco froid est un phénomène naturel de séparation de l'huile de coco. Cependant, laisser le produit ouvert à température ambiante favorise le développement bactérien en quelques heures. Réfrigérez immédiatement et jetez en cas d'odeur sûre ou de moisissure."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transférer dans un récipient hermétique immédiatement — Éviter l'oxydation métallique 🫙",
+                        "text": "Dès qu'une boîte en conserve est ouverte, le contact avec l'air déclenche l'oxydation du métal. 💡 Astuce de conservation : Versez le lait de coco inutilisé dans un bocal en verre propre ou une boîte sans BPA et fermez hermétiquement. Cela évite le goût métallique et isole des odeurs."
+                    },
+                    {
+                        "name": "Réfrigérer en dessous de 4 °C — Court terme (4 à 6 jours) ❄️",
+                        "text": "Le lait de coco ouvert contient de l'eau, des protéines et des graisses, créant un terrain propice aux microbes. 💡 Astuce de conservation : Placez le récipient hermétique au réfrigérateur entre 0 et 4 °C. Consommez-le dans les 4 à 6 jours suivant l'ouverture."
+                    },
+                    {
+                        "name": "Portionner dans des bacs à glaçons et congeler — Long terme (2 à 3 mois) 🧊",
+                        "text": "Congeler dans des bacs à glaçons est la méthode la plus pratique pour conserver les restes. 💡 Astuce de conservation : Versez le lait de coco dans un bac à glaçons, congelez, puis transférez les cubes dans un sac congélation à -18 °C. Se conserve jusqu'à 2–3 mois. Fouettez ou réchauffez légèrement au moment de l'utiliser pour ré-émulsionner."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon lait de coco au réfrigérateur s'est séparé en une couche solide au-dessus et liquide en dessous. Faut-il le jeter ?",
+                        "answer": "Non, ne le jetez pas ! C'est une séparation tout à fait naturelle : la matière grasse saturée (huile de coco) se solidifie au froid et flotte à la surface. Agitez le récipient ou réchauffez-le doucement en fouettant avant de cuisiner pour retrouver une consistance homogène."
+                    },
+                    {
+                        "question": "Où conserver les boîtes ou briques de lait de coco non ouvertes ?",
+                        "answer": "Les emballages non ouverts doivent être conservés dans un endroit frais, sec et sombre, à température ambiante (10 à 21 °C). Ils restent parfaitement consommables jusqu'à la date de péremption."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kokosmilch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kokosmilch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "Haben Sie schon einmal Kokosmilch zum Kochen verwendet und den Rest in der angebrochenen Konservendose im Kühlschrank aufbewahrt, nur um festzustellen, dass sie einen metallischen Geschmack annahm oder Schimmel ansetzte? 🥥\n\nKokosmilch hat einen hohen Gehalt an pflanzlichen Fetten, weshalb sie bei Raumtemperatur schnell oxidiert und Nährboden für Bakterien bietet. Bleibt die angebrochene Dose im Kühlschrank, reagiert das Zinn der Innenwand mit Sauerstoff und geht in die Flüssigkeit über. Das Umfüllen und die Temperaturkontrolle sind entscheidend.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um Fetttrennung zu minimieren und Frische sicherzustellen. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis von Emulsionseigenschaften flüssiger Lebensmittel und der chemischen Reaktionen von Konservendosen ist entscheidend, um Lebensmittelvergiftungen vorzubeugen.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Nach dem Öffnen niemals in der Originaldose aufbewahren 🚫",
+                        "desc": "Eine geöffnete Metalldose im Kühlschrank oxidiert an der Luft, wodurch Zinn in die Kokosmilch gelangt und einen metallischen Beigeschmack verursacht. Füllen Sie Reste sofort nach dem Öffnen in ein Glas oder einen BPA-freien Kunststoffbehälter um."
+                    },
+                    {
+                        "title": "Die natürliche Fettabscheidung nicht mit Verderb verwechseln 🥥",
+                        "desc": "Eine feste weiße Fettschicht, die sich oben auf gekühlter Kokosmilch bildet, ist eine natürliche Absetzung von Kokosöl. Bei Raumtemperatur vermehren sich Bakterien jedoch extrem schnell. Nach dem Öffnen sofort kühlen und bei saurem Geruch oder Schimmel entsorgen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Sofort in einen luftdichten Behälter umfüllen — Metalloxidation verhindern 🫙",
+                        "text": "Sobald eine Dose geöffnet wird, führt der Sauerstoffkontakt zur Oxidation des Dosenmetalls. 💡 Lagerungstipp: Gießen Sie unverbrauchte Kokosmilch sofort in ein sauberes Glas oder eine Dichtdose und verschließen Sie sie fest. Dies verhindert Metallgeschmack und Geruchsübertragung."
+                    },
+                    {
+                        "name": "Bei unter 4 °C kühlen — Kurzzeitlagerung (4–6 Tage) ❄️",
+                        "text": "Geöffnete Kokosmilch enthält reichlich Wasser, Eiweiß und Fett — ein idealer Nährboden für Mikroben. 💡 Lagerungstipp: Lagern Sie den luftdichten Behälter bei 0–4 °C im Kühlschrank. Nach dem Öffnen innerhalb von 4–6 Tagen verbrauchen."
+                    },
+                    {
+                        "name": "In Eiswürfelformen portionieren und einfrieren — Langzeitlagerung (2–3 Monate) 🧊",
+                        "text": "Das Einfrieren in Eiswürfelformen ist die praktischste Methode für Reste. 💡 Lagerungstipp: Füllen Sie Kokosmilch in Eiswürfelbehälter, lassen Sie sie durchfrieren und geben Sie die Würfel in Gefrierbeutel bei unter -18 °C. Bis zu 2–3 Monate haltbar. Nach dem Auftauen kurz erwärmen und verrühren, um das Fett wieder zu emulgieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meine gekühlte Kokosmilch hat sich in eine feste Schicht oben und flüssiges Wasser unten getrennt. Ist sie schlecht?",
+                        "answer": "Nein, auf keinen Fall! Das ist eine völlig natürliche Trennung: Das gesättigte Pflanzenfett (Kokosöl) wird bei Kälte fest und schwimmt oben. Vor der Verwendung einfach die Dose schütteln oder die Kokosmilch leicht erwärmen und verrühren."
+                    },
+                    {
+                        "question": "Wo sollte ungeöffnete Kokosmilch in Dosen oder Tetra-Paks gelagert werden?",
+                        "answer": "Ungeöffnete Packungen gehören an einen kühlen, trockenen und dunklen Ort bei Raumtemperatur (10–21 °C). Sie bleiben bis zum aufgedruckten Mindesthaltbarkeitsdatum frisch."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar leite de coco fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o leite de coco com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "Você já usou leite de coco em uma receita e deixou o restante na lata aberta dentro da geladeira, apenas para perceber que ele azedou, ganhou gosto metálico ou mofou? 🥥\n\nO leite de coco contém altos níveis de gordura vegetal, tornando-se suscetível à oxidação de lipídios e à rápida proliferação bacteriana à temperatura ambiente. Deixar a lata aberta na geladeira faz com que o estanho da lata reaja com o oxigênio, passando gosto metálico para o líquido. A transferência para outro recipiente e o controle de temperatura são fundamentais.\n\nHoje, o FreshSnap apresenta um guia de conservação do leite de coco em 3 etapas baseado em diretrizes da FDA e do USDA para evitar a separação de fases e manter a qualidade em segurança. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as propriedades de emulsão e as reações químicas das latas metálicas é essencial para prevenir intoxicações alimentares e manter o frescor.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde na lata metálica original após abrir 🚫",
+                        "desc": "Expor a lata aberta ao ar da geladeira oxida o revestimento interno de metal, liberando estanho no líquido e alterando o sabor com notas metálicas. Transfira o leite de coco restante para um pote de vidro ou recipiente plástico hermético imediatamente após abrir."
+                    },
+                    {
+                        "title": "Não confunda a separação natural da gordura com deterioração 🥥",
+                        "desc": "A camada branca e dura que se forma na parte superior do leite de coco gelado é a gordura saturada natural solidificada. Porém, deixá-lo aberto à temperatura ambiente provoca crescimento bacteriano em poucas horas. Refrigere imediatamente e descarte se notar odor azedo ou mofo."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Transfira para um recipiente hermético imediatamente — Evite oxidação metálica 🫙",
+                        "text": "Assim que a lata é aberta, o contato com o ar inicia a oxidação do metal. 💡 Dica de conservação: Despeje o leite de coco em um pote de vidro limpo ou pote livre de BPA e feche bem. Isso evita a contaminação metálica e isola contra odores da geladeira."
+                    },
+                    {
+                        "name": "Refrigere abaixo de 4 °C — Curto prazo (4 a 6 dias) ❄️",
+                        "text": "O leite de coco aberto é rico em água, proteínas e gorduras, um ambiente fértil para micróbios. 💡 Dica de conservação: Mantenha o pote hermético na geladeira entre 0 e 4 °C. Consuma em até 4 a 6 dias após a abertura."
+                    },
+                    {
+                        "name": "Porcione em formas de gelo e congele — Longo prazo (2 a 3 meses) 🧊",
+                        "text": "Congelar em formas de gelo é a maneira mais prática de guardar o restante. 💡 Dica de conservação: Coloque o leite de coco nas formas de gelo, congele e transfira os cubos para sacos Ziploc a -18 °C. Conserva-se por até 2 a 3 meses. Ao descongelar, mexe ou aqueça levemente para re-emulsionar a gordura."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu leite de coco refrigerado separou-se em uma camada dura em cima e líquida embaixo. Devo jogar fora?",
+                        "answer": "Não jogue fora! É uma separação totalmente natural: a gordura saturada do coco se solidifica no frio e flutua. Basta agitar a embalagem ou aquecer levemente e misturar com um fouet antes de cozinhar para recuperar a consistência cremosa."
+                    },
+                    {
+                        "question": "Onde devo guardar caixas ou latas de leite de coco fechadas?",
+                        "answer": "Embalagens fechadas devem ser mantidas em local fresco, seco e escuro, à temperatura ambiente (10 a 21 °C). Elas permanecem frescas até a data de validade impressa."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Santan/Santan Kelapa agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk santan berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>FDA & USDA & MFDS & RDA</strong>",
+                "intro": "Pernahkah Anda menggunakan santan gurih untuk memasak lalu menyimpan sisanya tetap di dalam kaleng kemasan di kulkas, hanya untuk mendapati baunya berubah, berasa logam, atau berjamur? 🥥\n\nSantan memiliki kandungan lemak nabati yang tinggi, menjadikannya rentan mengalami oksidasi lemak dan perkembangbiakan bakteri yang cepat pada suhu ruang. Membiarkan kaleng terbuka di kulkas menyebabkan lapisan timah reaktif dengan oksigen dan larut ke dalam santan. Memindahkan wadah dan mengontrol suhu adalah langkah krusial.\n\nHari ini, FreshSnap membagikan panduan penyimpanan santan 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk mencegah pemisahan lemak dan menjaga kesegaran santan secara aman. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami sifat emulsi cairan dan reaksi kimia pada kaleng kemasan sangat penting untuk mencegah keracunan makanan dan menjaga kesegaran.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan santan di dalam kaleng kemasan setelah dibuka 🚫",
+                        "desc": "Membiarkan kaleng terbuka di kulkas akan mengoksidasi logam kaleng, meresapkan rasa besi ke dalam santan dan mempercepat kerusakan. Segera pindahkan sisa santan ke dalam botol kaca atau wadah plastik kedap udara."
+                    },
+                    {
+                        "title": "Jangan mengira pemisahan lemak alami sebagai pembusukan 🥥",
+                        "desc": "Lapisan putih keras yang menggumpal di bagian atas santan dingin adalah pemisahan alami dari lemak minyak kelapa. Namun, membiarkan santan terbuka di suhu ruang akan memicu pertumbuhan bakteri dalam hitungan jam. Segera simpan di kulkas, dan buang jika berbau asam atau berjamur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Segera pindahkan ke wadah kedap udara — Cegah Oksidasi Logam 🫙",
+                        "text": "Saat kaleng dibuka, kontak dengan udara langsung memicu oksidasi logam kaleng. 💡 Tips Penyimpanan: Tuang sisa santan ke dalam wadah kaca atau wadah plastik bebas BPA yang bersih dan tutup rapat. Ini mencegah kontaminasi rasa logam dan bau kulkas."
+                    },
+                    {
+                        "name": "Simpan di kulkas di bawah suhu 4°C — Penyimpanan Jangka Pendek (4–6 Hari) ❄️",
+                        "text": "Santan yang sudah dibuka kaya akan air, protein, dan lemak, menjadi media ideal bagi mikroba. 💡 Tips Penyimpanan: Simpan wadah kedap udara di dalam kulkas pada suhu 0–4°C. Habiskan dalam waktu 4–6 hari setelah dibuka."
+                    },
+                    {
+                        "name": "Bagi dalam cetakan es batu dan bekukan — Penyimpanan Jangka Panjang (2–3 Bulan) 🧊",
+                        "text": "Membekukan dalam cetakan es batu adalah cara paling efisien untuk menyimpan sisa santan. 💡 Tips Penyimpanan: Tuang santan ke dalam cetakan es batu, bekukan, lalu pindahkan kubus santan ke kantong Ziploc freezer di bawah -18°C. Bertahan hingga 2–3 bulan. Saat dilelehkan, aduk atau hangatkan perlahan agar emulsi menyatu kembali."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Santan dingin saya terpisah menjadi lapisan mengeras di atas dan cairan di bawah. Haruskah dibuang?",
+                        "answer": "Jangan dibuang! Ini adalah pemisahan yang sangat alami di mana lemak jenuh alami (minyak kelapa) mengeras pada suhu dingin dan mengapung ke atas. Cukup kocok wadahnya atau hangatkan sedikit dan aduk hingga menyatu kembali sebelum digunakan."
+                    },
+                    {
+                        "question": "Di mana tempat terbaik menyimpan kemasan santan kaleng/kotak yang belum dibuka?",
+                        "answer": "Kemasan yang belum dibuka harus disimpan di tempat yang sejuk, kering, dan gelap pada suhu ruang (10–21°C). Santan akan tetap segar hingga tanggal kedaluwarsa yang tertera pada kemasan."
+                    }
+                ]
+            }
+        }
+    }
+}

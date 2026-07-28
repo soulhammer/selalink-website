@@ -1,0 +1,406 @@
+{
+    "how-to-store-mackerel": {
+        "ingId": "mackerel",
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "heroImage": "/images/blog/mackerel_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "고등어 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 고등어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>국립수산과학원(NIFS) & 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "대표적인 등푸른생선인 고등어를 사 와서 냉장고에 두었다가 며칠 지나지 않아 심한 비린내가 나거나 과육이 부스러진 경험 있으시죠? 🐟\n\n고등어는 오메가-3 불포화지방산이 풍부하지만, 자가분해 효소 활성이 매우 높고 지방 함량이 많아 산소와 만나는 순간 빠르게 산패됩니다. 특히 조금만 방치해도 히스티딘 성분이 독성 물질인 히스타민(Histamine)으로 변해 식중독을 유발하므로 보관 온도가 생명입니다.\n\n오늘 FreshSnap에서는 국립수산과학원(NIFS)과 USDA의 과학적 가이드라인을 바탕으로, 고등어의 비린내를 잡고 신선도를 완벽하게 유지하는 3단계 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "수산물의 고유한 생리적 특성과 부패 메커니즘을 이해하고 올바른 보관법을 적용하는 것은 식중독 예방과 신선도 유지에 필수적입니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "구매 즉시 내장과 피를 완전히 제거하세요 🐟",
+                        "desc": "고등어의 내장은 사망 직후부터 자가분해 효소에 의해 급격히 부패하며, 내부 세균이 살코기로 침투합니다. 특히 핏물은 지방 산패를 촉진하고 비린내 원인 물질인 트리메틸아민(TMA)을 방출하므로 흐르는 물에 내장막과 핏덩이를 완전히 긁어내고 깨끗이 세척해야 합니다."
+                    },
+                    {
+                        "title": "세척 후 물기를 완전히 제거하지 않으면 산패가 촉진됩니다 💧",
+                        "desc": "생선 표면에 수분이 남아있으면 세균 번식이 용이해지고 냉동 시 얼음 결정이 과육 조직을 파괴하여 해동 후 드립(육즙)이 유출됩니다. 세척 후 반드시 키친타월로 수분을 꼼꼼히 닦아내야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "내장 제거 및 핏물 손질하기 — 자가분해 및 비린내 차단 🔪",
+                        "text": "고등어 아가미와 내장을 제거하고, 척추 뼈 사이에 낀 피와 검은 막을 흐르는 물로 깨끗이 씻어내세요. 💡 보관 팁: 내장 주변은 부패가 가장 빠른 부위입니다. 손질 후 키친타월로 내부와 외부의 수분을 완벽하게 제거하는 것이 비린내와 세균 증식을 막는 첫걸음입니다."
+                    },
+                    {
+                        "name": "밀폐 랩핑 후 냉장 보관하기 — 단기 보관 (1~2일) ❄️",
+                        "text": "지방산이 산소와 반응하여 산패되는 것을 막기 위해 공기와의 접촉을 차단해야 합니다. 💡 보관 팁: 손질된 고등어 표면에 청주나 식초를 살짝 바르거나 소금을 뿌린 뒤, 식품용 랩으로 한 토막씩 빈틈없이 밀착 포장하세요. 0~2℃의 신선실이나 김치냉장고에 보관 시 1~2일간 신선하게 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "이중 밀봉 후 소분 냉동 보관하기 — 장기 보관 (1~3개월) 🧊",
+                        "text": "냉동 보관 시에도 공기 접촉 시 건조 현상(서리)과 지방 산패가 진행됩니다. 💡 보관 팁: 랩으로 1차 포장한 고등어를 냉동용 지퍼백이나 밀폐 용기에 담아 공기를 최대한 빼고 이중 밀봉하세요. -18℃ 이하에서 급속 냉동하면 최대 3개월까지 맛과 영양 손실 없이 보관할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "고등어 구울 때 비린내를 확실히 없애는 방법이 있나요?",
+                        "answer": "조리 전 쌀가루 물이나 우유에 10~15분간 담가두면 우유 단백질(카제인)과 쌀 전분이 비린내 원인 물질인 트리메틸아민(TMA)을 흡착하여 비린내를 효과적으로 줄여줍니다. 또한 조리 직전 레몬즙이나 식초를 살짝 바르는 것도 좋습니다."
+                    },
+                    {
+                        "question": "냉동된 고등어는 어떻게 해동해야 비린내가 안 나고 아삭한 식감이 유지되나요?",
+                        "answer": "가장 좋은 방법은 냉장고(0~4℃)에서 천천히 저온 해동하는 것입니다. 급할 경우 옅은 소금물(물 1L에 소금 2큰술)에 담가 해동하면 과육의 수분 손실(드립)을 막고 신선한 상태로 해동할 수 있습니다. 전자레인지 해동은 과육이 익고 비린내가 강해지므로 피해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Mackerel Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for mackerel based on official safety guidelines.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought fresh mackerel only to find it smelling heavily fishy or turning mushy within a couple of days in the fridge? 🐟\n\nMackerel is packed with healthy omega-3 fatty acids, but because of its high autolytic enzyme activity and rich fat content, it oxidizes and turns rancid quickly upon exposure to air. Furthermore, if left at room temperature, histidine rapidly converts into toxic histamine, causing food poisoning. Proper temperature control is critical.\n\nToday, FreshSnap shares a scientifically proven 3-step mackerel storage guide based on guidelines from NIFS and USDA to eliminate fishy odors and preserve peak freshness. 🛡️",
+                "whyTitle": "Why Store Mackerel This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological traits and spoilage mechanisms of seafood is essential for preventing foodborne illness and preserving freshness.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Remove viscera and blood immediately upon purchase 🐟",
+                        "desc": "Mackerel viscera decay rapidly right after death due to autolytic enzymes, letting bacteria invade the flesh. Blood accelerates lipid oxidation and releases Trimethylamine (TMA), the main cause of fishy odor. Scrape away blood clots and viscera under cold running water."
+                    },
+                    {
+                        "title": "Dry thoroughly after washing to prevent rapid oxidation 💧",
+                        "desc": "Residual surface moisture fosters bacterial growth and forms ice crystals during freezing, damaging cell tissue and leaking juices upon thawing. Always pat completely dry with paper towels after washing."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gut and clean blood clot — Stop Autolysis & Fishy Odor 🔪",
+                        "text": "Remove the gills and guts, and rinse away the blood and black belly membrane along the spine under running water. 💡 Storage Tip: Viscera spoil fastest. Patting the inside and outside completely dry with paper towels is the crucial first step to stopping bacteria and fishy odor."
+                    },
+                    {
+                        "name": "Tightly wrap and refrigerate — Short-Term Storage (1–2 Days) ❄️",
+                        "text": "To prevent fatty acids from reacting with oxygen and turning rancid, air exposure must be minimized. 💡 Storage Tip: Lightly brush the surface with cooking sake, vinegar, or salt, then wrap each piece tightly with plastic wrap without gaps. Store at 0–2°C in the fridge crisper or meat drawer for 1–2 days."
+                    },
+                    {
+                        "name": "Double seal and freeze in portions — Long-Term Storage (1–3 Months) 🧊",
+                        "text": "Even in the freezer, exposure to air causes freezer burn and fat oxidation. 💡 Storage Tip: Place wrap-sealed mackerel in a freezer Ziploc bag or airtight container, remove excess air, and double-seal. Rapidly freezing below -18°C maintains flavor and nutrients for up to 3 months."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How can I effectively reduce the fishy smell when cooking mackerel?",
+                        "answer": "Soaking mackerel in rice water or milk for 10–15 minutes before cooking lets milk proteins (casein) and rice starch absorb Trimethylamine (TMA), the odor-causing compound. Brushing with lemon juice or vinegar right before cooking also works well."
+                    },
+                    {
+                        "question": "What is the best way to thaw frozen mackerel without getting a fishy odor?",
+                        "answer": "Thawing slowly in the refrigerator (0–4°C) is ideal. For a quick method, submerge in mild saltwater (2 tbsp salt per 1L water) to prevent juice loss (drip) and preserve texture. Avoid microwave thawing as it cooks the edges and intensifies fishy smells."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "サバを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくサバの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>国立水産科学院(NIFS) & 農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "青魚の代表格であるサバを買って冷蔵庫に入れておいたら、数日で強い生臭さが出たり身が崩れたりした経験はありませんか？🐟\n\nサバはオメガ3系不飽和脂肪酸が豊富ですが、自己分解酵素の活性が非常に高く脂質も多いため、酸素に触れると急速に酸化・脂質劣化（脂の酸化）を起こします。特に放置するとヒスチジンが毒性物質のヒスタミンに変化し食中毒を引き起こすため、温度管理が生命線です。\n\n本日FreshSnapでは、国立水産科学院(NIFS)やUSDAの科学的ガイドラインに基づき、サバの生臭みを抑え鮮度を完璧に保つ3段階の保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "水産物固有の生理的特性と傷む仕組みを理解し、正しい保存方法を実践することは、食中毒予防と鮮度維持において不可欠です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "購入後すぐに内臓と血合いを fully 取り除いてください 🐟",
+                        "desc": "サバの内臓は死後直後から自己分解酵素により急速に腐敗し、内臓の細菌が身に侵入します。特に血合いは脂質の酸化を促進し生臭さの原因物質であるトリメチルアミン（TMA）を放出するため、流水で血塊と黒い膜をしっかり洗い流す必要があります。"
+                    },
+                    {
+                        "title": "洗った後に水分を完全に拭き取らないと酸化が進みます 💧",
+                        "desc": "表面に水分が残っていると雑菌が繁殖しやすくなり、冷凍時に氷の結晶が組織を破壊して解凍時のドリップ（旨味成分の流出）の原因になります。洗った後は必ずキッチンペーパーで水分をしっかり拭き取ってください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "内臓除去と血合いの処理 — 自己分解と生臭さの遮断 🔪",
+                        "text": "サバのエラと内臓を取り除き、背骨の周りにある血塊や黒い膜を流水できれいに洗い流します。💡保存のコツ：内臓周辺は最も傷みやすい部分です。処理後にキッチンペーパーで内部と外部の水分を完全に取り除くことが、生臭さと雑菌の繁殖を防ぐ第一歩です。"
+                    },
+                    {
+                        "name": "密閉ラップして冷蔵保存する — 短期保存 (1〜2日間) ❄️",
+                        "text": "脂肪酸が酸素と反応して酸化するのを防ぐため、空気との接触を遮断します。💡保存のコツ：処理したサバの表面に料理酒や酢を軽く塗るか塩を振り、食品用ラップで1切れずつ隙間なくぴったり包みます。0〜2℃のチルド室やパーシャル室で1〜2日間新鮮さを保てます。"
+                    },
+                    {
+                        "name": "二重密閉して小分け冷凍保存する — 長期保存 (1〜3ヶ月間) 🧊",
+                        "text": "冷凍保存中も空気に触れると冷凍ヤケや脂質の酸化が進行します。💡保存のコツ：ラップで包んだサバを冷凍用ジッパーバッグや密閉容器に入れ、できるだけ空気を抜いて二重密閉します。-18℃以下で急速冷凍すれば、最大3ヶ月間味と栄養を損なわずに保存できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "サバを焼くときに生臭さを確実になくす方法はありますか？",
+                        "answer": "調理前に米のとぎ汁や牛乳に10〜15分ほど浸しておくと、タンパク質（カゼイン）やデンプンが生臭みの原因物質トリメチルアミン（TMA）を吸着し、生臭さを効果的に抑えられます。また、調理直前にレモン汁や酢を軽くかけるのも効果的です。"
+                    },
+                    {
+                        "question": "冷凍サバはどのように解凍すれば生臭みが出ず美味しく食べられますか？",
+                        "answer": "冷蔵庫（0〜4℃）で時間をかけて低温解凍するのが最もおすすめです。急ぎの場合は、薄い塩水（水1Lに対して塩大さじ2）に浸して解凍すると、ドリップの流出を防ぎ食感を保ったまま解凍できます。電子レンジ解凍は加熱ムラが生じ生臭さが強くなるため避けてください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持青花鱼（鲭鱼）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解青花鱼（鲭鱼）的最佳储存温度、方式和保鲜时长。",
+                "authority": "<strong>韩国国立水产科学院(NIFS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "买回新鲜的青花鱼（鲭鱼）放在冰箱里，没过两天就散发出浓烈的腥味，甚至鱼肉变软变散，您遇到过这种情况吗？🐟\n\n青花鱼富含 Omega-3 不饱和脂肪酸，但由于其自身分解酶活性极高且油脂含量丰富，一接触空气就会迅速氧化变质。如果保存不当，鱼肉中的组氨酸还会快速转化为具有毒性的组胺（Histamine），引发食物中毒，因此温度控制是重中之重。\n\n今天 FreshSnap 将基于韩国国立水产科学院(NIFS)和 USDA 的科学指南，为您介绍去除腥味、完美保持青花鱼新鲜度的 3 步储存秘诀。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解水产品的固有生理特性和变质机制，并采用正确的储存方法，对于预防食物中毒和保持新鲜度至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "购买后请立即彻底清除内脏和血块 🐟",
+                        "desc": "青花鱼死后，内脏会在自溶酶的作用下迅速腐败，内部细菌会侵入鱼肉。特别是血块会加速油脂氧化，并释放产生腥味的化学物质三甲胺（TMA）。因此必须在流动水下彻底刮除血块和黑膜并清洗干净。"
+                    },
+                    {
+                        "title": "清洗后若不彻底擦干水分会加速氧化 💧",
+                        "desc": "鱼体表面残留水分极易滋生细菌，冷冻时形成的冰晶还会破坏鱼肉组织，导致解冻时汁液大量流失。清洗后务必用厨房纸巾将水分彻底擦干。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "清除内脏与血迹 — 阻断自溶与腥味 🔪",
+                        "text": "去除青花鱼的鱼鳃和内脏，在流动水下彻底洗净脊骨附近的血块和黑色腹膜。💡储存小贴士：内脏周边是腐败最快的部位。处理后用厨房纸巾将内外水分彻底擦干，是防止腥味和细菌滋生的第一步。"
+                    },
+                    {
+                        "name": "紧密包裹后冷藏 — 短期储存 (1~2天) ❄️",
+                        "text": "为防止脂肪酸与氧气反应发生氧化酸败，必须尽量阻隔空气。💡储存小贴士：在处理好的鱼肉表面涂抹少许料酒、食醋或撒少许盐，然后用保鲜膜逐块紧密无缝包裹。放入0~2℃的冷藏保鲜室或冰鲜室，可保鲜1~2天。"
+                    },
+                    {
+                        "name": "分装双层密封冷冻 — 长期储存 (1~3个月) 🧊",
+                        "text": "即便在冷冻环境下，接触空气也会导致鱼肉干灼（冻伤）和油脂氧化。💡储存小贴士：将保鲜膜包裹好的鱼肉放入冷冻拉链袋或密封盒中，尽量排出空气后进行双层密封。在-18℃以下快速冷冻，可保存长达3个月且风味与营养不流失。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "煎烤青花鱼时，有什么有效去腥的小窍门吗？",
+                        "answer": "烹饪前将青花鱼放入淘米水或牛奶中浸泡10~15分钟，牛奶中的蛋白质（酪蛋白）和淘米水中的淀粉能吸附产生腥味的三甲胺（TMA），从而有效降低腥味。烹饪前涂抹少许柠檬汁或食醋效果也很好。"
+                    },
+                    {
+                        "question": "冷冻青花鱼应该如何解冻才能不起腥味并保持紧实口感？",
+                        "answer": "最理想的方法是放在冰箱冷藏室（0~4℃）中缓慢低温解冻。如果时间紧迫，可将其浸泡在淡盐水中（1升水加2汤匙盐），这样可以防止汁汁流失并保持肉质鲜嫩。应避免使用微波炉解冻，否则容易导致局部变熟并加重腥味。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la caballa fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la caballa según las directrices oficiales de seguridad.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró caballa fresca y notó que en pocos días en el refrigerador desprendía un fuerte olor a pescado o su carne se deshacía? 🐟\n\nLa caballa está repleta de ácidos grasos omega-3, pero debido a su alta actividad enzimática autolítica y su elevado contenido graso, se oxida y se rancia rápidamente al contacto con el aire. Además, a temperatura ambiente, la histidina de la carne se convierte velozmente en histamina tóxica, pudiendo causar intoxicaciones alimentarias. El control térmico es vital.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el NIFS y el USDA para eliminar los malos olores y mantener la máxima frescura de la caballa. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y los mecanismos de deterioro de los productos del mar es fundamental para prevenir intoxicaciones y conservar la frescura.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Retire las vísceras y la sangre inmediatamente tras la compra 🐟",
+                        "desc": "Las vísceras de la caballa se descomponen muy rápido por sus enzimas autolíticas, permitiendo que las bacterias invadan la carne. La sangre acelera la oxidación de las grasas y libera trimetilamina (TMA), responsable del olor a pescado. Lave bien bajo agua corriente retirando coágulos y telas negras."
+                    },
+                    {
+                        "title": "Séquela por completo tras lavarla para evitar la oxidación acelerada 💧",
+                        "desc": "La humedad en la superficie favorece el crecimiento bacteriano y forma cristales de hielo al congelarse, destruyendo los tejidos y provocando la pérdida de jugos al descongelar. Séquela siempre minuciosamente con papel de cocina."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Eviscerar y limpiar la sangre — Detenga la autólisis y el mal olor 🔪",
+                        "text": "Retire las agallas y las vísceras, y enjuague los restos de sangre y la membrana negra del abdomen bajo agua fría. 💡 Consejo de almacenamiento: Las vísceras son lo primero en descomponerse. Secar bien el interior y exterior con papel absorbente es el primer paso indispensable contra las bacterias y el olor."
+                    },
+                    {
+                        "name": "Envolver herméticamente y refrigerar — Corto plazo (1 a 2 días) ❄️",
+                        "text": "Para evitar que los ácidos grasos reaccionen con el oxígeno y se rancen, se debe minimizar la exposición al aire. 💡 Consejo de almacenamiento: Pincele la superficie con un poco de vino de cocina, vinagre o sal, y envuelva cada trozo con film transparente sin dejar burbujas de aire. Conserve a 0–2 °C en el cajón de carnes o verduras de 1 a 2 días."
+                    },
+                    {
+                        "name": "Doble sellado y congelación en porciones — Largo plazo (1 a 3 meses) 🧊",
+                        "text": "Incluso en el congelador, el contacto con el aire causa quemaduras por congelación y oxidación de lípidos. 💡 Consejo de almacenamiento: Coloque la caballa envuelta en film dentro de una bolsa Ziploc para congelador o contenedor hermético, retire el aire y selle doblemente. Al congelar rápidamente a -18 °C o menos, conserva sabor y nutrientes hasta por 3 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo reducir de forma eficaz el olor a pescado al cocinar caballa?",
+                        "answer": "Remojar la caballa en agua de arroz o leche durante 10–15 minutos antes de cocinar permite que las proteínas de la leche (caseína) o el almidón del arroz absorban la trimetilamina (TMA). Aplicar un chorrito de jugo de limón o vinagre justo antes de cocinar también es muy efectivo."
+                    },
+                    {
+                        "question": "¿Cuál es la mejor manera de descongelar caballa sin generar malos olores?",
+                        "answer": "Lo ideal es descongelarla lentamente en el refrigerador (0–4 °C). Si tiene prisa, sumérjala en agua salada suave (2 cucharadas de sal por litro de agua) para evitar la pérdida de jugos y mantener la textura firmes. Evite el microondas, ya que cocina parcialmente los bordes e intensifica el olor a pescado."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le maquereau frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le maquereau selon les directives officielles de sécurité.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté du maquereau frais pour constater qu'après deux jours au réfrigérateur, il dégageait une forte odeur de poisson ou que sa chair s'effritait ? 🐟\n\nLe maquereau est très riche en acides gras oméga-3, mais en raison d'une activité enzymatique autolytique élevée et de sa teneur en graisses, il s'oxyde et rance très vite au contact de l'air. De plus, à température ambiante, l'histidine se transforme rapidement en histamine toxique, causant des intoxications. Le contrôle de la température est donc crucial.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation du maquereau en 3 étapes, basé sur les recommandations du NIFS et du USDA, pour éliminer les odeurs et préserver une fraîcheur maximale. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et les mécanismes d'altération des produits de la mer est essentiel pour prévenir les intoxications et maintenir la fraîcheur.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Retirez les viscères et le sang immédiatement après l'achat 🐟",
+                        "desc": "Les viscères du maquereau se décomposent très rapidement après la pêche sous l'action d'enzymes autolytiques, laissant les bactéries envahir la chair. Le sang accélère l'oxydation des lipides et libère de la triméthylamine (TMA), responsable de l'odeur forte. Grattez le sang et rincez à l'eau froide."
+                    },
+                    {
+                        "title": "Séchez parfaitement après le lavage pour éviter l'oxydation 💧",
+                        "desc": "L'humidité résiduelle en surface favorise la prolifération bactérienne et forme des cristaux de glace au congélateur, détruisant la texture et provoquant une perte de jus à la décongélation. Épongez toujours soigneusement avec de l'essuie-tout."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Éviscérer et nettoyer le sang — Stopper l'autolyse et les odeurs 🔪",
+                        "text": "Retirez les ouïes et les entrailles, puis rincez le sang et la membrane noire le long de la colonne vertébrale sous l'eau courante. 💡 Astuce de conservation : Les viscères s'altèrent en premier. Sécher l'intérieur et l'extérieur avec de l'essuie-tout est la première étape essentielle contre les bactéries."
+                    },
+                    {
+                        "name": "Emballer hermétiquement et réfrigérer — Court terme (1 à 2 jours) ❄️",
+                        "text": "Pour éviter que les acides gras ne s'oxydent au contact de l'oxygène, il faut éliminer l'air. 💡 Astuce de conservation : Badigeonnez légèrement la surface d'un peu de vin de cuisine, de vinaigre ou de sel, puis enveloppez chaque morceau de film étirable sans laisser d'air. Conservez à 0–2 °C dans la zone fraîche du réfrigérateur pendant 1 à 2 jours."
+                    },
+                    {
+                        "name": "Double scellage et congélation en portions — Long terme (1 à 3 mois) 🧊",
+                        "text": "Même au congélateur, le contact avec l'air provoque des brûlures de congélation et l'oxydation des graisses. 💡 Astuce de conservation : Placez le maquereau emballé dans un sac congélation hermétique Ziploc ou une boîte, chassez l'air et scellez. Congeler rapidement sous -18 °C préserve le goût et les nutriments jusqu'à 3 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment réduire efficacement l'odeur de poisson lors de la cuisson du maquereau ?",
+                        "answer": "Faire tremper le maquereau dans de l'eau de riz ou du lait pendant 10 à 15 minutes avant la cuisson permet aux protéines du lait (caséine) ou à l'amidon du riz d'absorber la triméthylamine (TMA). Arroser d'un peu de jus de citron ou de vinaigre juste avant la cuisson est également très efficace."
+                    },
+                    {
+                        "question": "Quelle est la meilleure méthode pour décongeler le maquereau sans odeur ?",
+                        "answer": "La décongélation lente au réfrigérateur (0–4 °C) est idéale. En cas d'urgence, plongez-le dans de l'eau légèrement salée (2 cuillères à soupe de sel par litre d'eau) pour éviter la fuite des jus et conserver la fermeté. Évitez le micro-ondes qui cuit les bords et accentue l'odeur."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Makrele richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Makrele basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal frische Makrele gekauft, nur um festzustellen, dass sie nach zwei Tagen im Kühlschrank einen starken Fischgeruch entwickelte oder das Fleisch zerfiel? 🐟\n\nMakrelen sind reich an wertvollen Omega-3-Fettsäuren. Durch die hohe Aktivität körpereigener Enzyme und den hohen Fettgehalt oxidiert das Fleisch jedoch an der Luft sehr schnell und wird ranzig. Zudem wandelt sich Histidin bei Raumtemperatur rasch in giftiges Histamin um, was zu Lebensmittelvergiftungen führen kann. Die richtige Kühltemperatur ist entscheidend.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von NIFS und USDA basiert, um Fischgeruch zu vermeiden und maximale Frische zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der physiologischen Eigenschaften und Verderbsmechanismen von Fisch ist entscheidend, um Lebensmittelvergiftungen vorzubeugen und Frische zu sichern.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Innereien und Blut sofort nach dem Kauf entfernen 🐟",
+                        "desc": "Die Innereien der Makrele verderben nach dem Fang durch Enzyme extrem schnell, wodurch Bakterien ins Fleisch eindringen. Blut beschleunigt die Fettoxidation und setzt Trimethylamin (TMA) frei, die Ursache für Fischgeruch. Waschen Sie Blutgerinnsel unter fließendem Wasser gründlich ab."
+                    },
+                    {
+                        "title": "Nach dem Waschen gründlich trocknen, um Oxidation zu vermeiden 💧",
+                        "desc": "Restfeuchtigkeit auf der Oberfläche begünstigt Keimwachstum und bildet beim Einfrieren Eiskristalle, die das Gewebe beschädigen und beim Auftauen zum Saftverlust führen. Nach dem Waschen stets mit Küchenpapier trocken tupfen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Innereien entfernen und Blut säubern — Autolyse & Geruch stoppen 🔪",
+                        "text": "Entfernen Sie Kiemen und Innereien und spülen Sie Blutreste sowie die schwarze Bauchhaut an der Wirbelsäule unter fließendem Wasser ab. 💡 Lagerungstipp: Innereien verderben am schnellsten. Das gründliche Abtupfen innen und außen mit Küchenpapier ist der wichtigste erste Schritt gegen Bakterien."
+                    },
+                    {
+                        "name": "Eng einwickeln und kühlen — Kurzzeitlagerung (1–2 Tage) ❄️",
+                        "text": "Um zu verhindern, dass Fettsäuren mit Sauerstoff reagieren und ranzig werden, muss der Luftkontakt minimiert werden. 💡 Lagerungstipp: Bestreichen Sie die Oberfläche leicht mit Kochwein, Essig oder Salz und wickeln Sie jedes Stück lückenlos in Frischhaltefolie ein. Bei 0–2 °C im Null-Grad-Fach 1–2 Tage haltbar."
+                    },
+                    {
+                        "name": "Doppelt verschließen und portioniert einfrieren — Langzeitlagerung (1–3 Monate) 🧊",
+                        "text": "Auch im Gefrierschrank führt Luftkontakt zu Gefrierbrand und Fettoxidation. 💡 Lagerungstipp: Geben Sie die in Folie gewickelte Makrele in einen Gefrierbeutel oder eine Dichtdose, drücken Sie die Luft heraus und verschließen Sie sie doppelt. Bei -18 °C blitzgefroren bleiben Geschmack und Nährstoffe bis zu 3 Monate erhalten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie kann man den Fischgeruch beim Braten von Makrele effektiv reduzieren?",
+                        "answer": "Wenn Sie die Makrele vor dem Kochen 10–15 Minuten in Reiswasser oder Milch einlegen, binden Milchproteine (Kasein) und Reisstärke das riechbare Trimethylamin (TMA). Auch das Beträufeln mit Zitronensaft oder Essig kurz vor dem Braten hilft sehr gut."
+                    },
+                    {
+                        "question": "Wie taut man gefrorene Makrele am besten ohne Fischgeruch auf?",
+                        "answer": "Am besten taut man sie langsam im Kühlschrank (0–4 °C) auf. Wenn es schnell gehen muss, legen Sie sie in leichtes Salzwasser (2 EL Salz pro 1L Wasser), um Saftverlust zu vermeiden und die Festigkeit zu erhalten. Mikrowellenauftauen sollte vermieden werden, da die Ränder garen und der Geruch stärker wird."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar cavala fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a cavala com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou cavala fresca e percebeu que, após dois dias na geladeira, ela apresentava um forte cheiro de peixe ou sua carne se desfazia? 🐟\n\nA cavala é rica em ácidos graxos ômega-3, mas devido à alta atividade enzimática autolítica e ao elevado teor de gordura, ela oxida e fica rançosa rapidamente em contato com o ar. Além disso, a histidina presente no peixe se converte rápido em histamina tóxica à temperatura ambiente, podendo causar intoxicação alimentar. O controle de temperatura é vital.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do NIFS e do USDA para eliminar odores e manter a cavala perfeitamente fresca. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e os mecanismos de deterioração dos pescados é essencial para prevenir intoxicações e manter o frescor.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Remova as vísceras e o sangue imediatamente após a compra 🐟",
+                        "desc": "As vísceras da cavala se decompõem muito rápido após a morte por ação enzimática, permitindo que bactérias invadam a carne. O sangue acelera a oxidação das gorduras e libera trimetilamina (TMA), causa do cheiro forte. Lave bem sob água corrente retirando coágulos e membranas escuras."
+                    },
+                    {
+                        "title": "Seque completamente após lavar para evitar a oxidação 💧",
+                        "desc": "A umidade residual na superfície favorece o crescimento bacteriano e forma cristais de gelo ao congelar, danificando os tecidos e provocando perda de sucos ao descongelar. Seque sempre muito bem com papel-toalha."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Eviscerar e limpar o sangue — Interrompa a autólise e o odor 🔪",
+                        "text": "Remova as guelras e vísceras e enxágue os restos de sangue e a membrana preta da cavidade abdominal em água corrente. 💡 Dica de conservação: As vísceras estragam primeiro. Secar o interior e o exterior com papel-toalha é o passo inicial indispensável contra bactérias e odores."
+                    },
+                    {
+                        "name": "Embrulhar hermeticamente e refrigerar — Curto prazo (1 a 2 dias) ❄️",
+                        "text": "Para evitar que os ácidos graxos reajam com o oxigênio e fiquem rançosos, deve-se minimizar o contato com o ar. 💡 Dica de conservação: Passe um pouco de vinho culinário, vinagre ou sal na superfície e envolva cada pedaço em filme plástico sem deixar bolhas. Guarde a 0–2 °C na gaveta de carnes por 1 a 2 dias."
+                    },
+                    {
+                        "name": "Vedação dupla e congelamento em porções — Longo prazo (1 a 3 meses) 🧊",
+                        "text": "Mesmo no freezer, o contato com o ar causa queimaduras de gelo e oxidação de lipídios. 💡 Dica de conservação: Coloque a cavala embalada em filme num saco Ziploc para freezer ou pote hermético, retire todo o ar e sele duplamente. Congelar rapidamente abaixo de -18 °C preserva o sabor e os nutrientes por até 3 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como reduzir de forma eficaz o cheiro de peixe ao cozinhar cavala?",
+                        "answer": "Deixar a cavala de molho em água de arroz ou leite por 10 a 15 minutos antes de cozinhar permite que as proteínas do leite (caseína) ou o amido do arroz absorvam a trimetilamina (TMA). Aplicar suco de limão ou vinagre logo antes de cozinhar também funciona muito bem."
+                    },
+                    {
+                        "question": "Qual é a melhor maneira de descongelar a cavala sem gerar cheiro forte?",
+                        "answer": "O ideal é descongelar lentamente na geladeira (0–4 °C). Se estiver com pressa, mergulhe-a em água levemente salgada (2 colheres de sopa de sal para 1L de água) para evitar a perda de sucos e manter a firmeza. Evite o micro-ondas, pois ele cozinha as bordas e intensifica o odor."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Ikan Kembung/Makarel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan kembung/makarel berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>NIFS & RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli ikan kembung atau makarel segar lalu mendapati baunya menjadi sangat amis atau dagingnya hancur hanya dalam 2 hari di kulkas? 🐟\n\nIkan makarel kaya akan asam lemak omega-3, namun karena aktivitas enzim autolisisnya yang sangat tinggi dan kandungan lemaknya yang melimpah, ikan ini cepat mengalami oksidasi dan ketengikan saat terpapar udara. Selain itu, histidine pada ikan cepat berubah menjadi histamin beracun jika dibiarkan, yang dapat menyebabkan keracunan makanan. Pengontrolan suhu adalah kunci utama.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman NIFS dan USDA untuk menghilangkan bau amis dan menjaga kesegaran makarel secara sempurna. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan mekanisme pembusukan produk perikanan sangat penting untuk mencegah keracunan makanan dan menjaga kesegaran.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Segera buang isi perut dan darah setelah dibeli 🐟",
+                        "desc": "Isi perut makarel membusuk sangat cepat setelah ikan mati akibat enzim autolisis, memungkinkan bakteri menginvasi daging. Darah mempercepat oksidasi lemak dan melepaskan Trimethylamine (TMA), penyebab utama bau amis. Bersihkan sisa darah dan selaput hitam di bawah air mengalir."
+                    },
+                    {
+                        "title": "Keringkan hingga benar-benar kering setelah dicuci untuk mencegah oksidasi 💧",
+                        "desc": "Sisa air di permukaan memicu pertumbuhan bakteri dan membentuk kristal es saat dibekukan, merusak jaringan daging dan menyebabkan cairan sari ikan (drip) terbuang saat dilelehkan. Selalu keringkan dengan tisu dapur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Buang isi perut dan bersihkan darah — Hentikan autolisis & bau amis 🔪",
+                        "text": "Buang insang dan isi perut, lalu bilas sisa darah serta selaput hitam di sepanjang tulang belakang di bawah air mengalir. 💡 Tips Penyimpanan: Bagian isi perut paling cepat membusuk. Mengeringkan bagian dalam dan luar dengan tisu dapur hingga benar-benar kering adalah langkah utama mencegah bakteri dan bau amis."
+                    },
+                    {
+                        "name": "Bungkus rapat dan simpan di kulkas — Penyimpanan Jangka Pendek (1–2 Hari) ❄️",
+                        "text": "Untuk mencegah asam lemak bereaksi dengan oksigen dan menjadi tengik, paparan udara harus diminimalkan. 💡 Tips Penyimpanan: Oleskan sedikit minyak masak, cuka, atau garam pada permukaan ikan, lalu bungkus setiap potong secara rapat dengan plastik wrap tanpa ada celah. Simpan pada suhu 0–2°C di laci khusus daging/sayur selama 1–2 hari."
+                    },
+                    {
+                        "name": "Segel ganda dan bekukan per porsi — Penyimpanan Jangka Panjang (1–3 Bulan) 🧊",
+                        "text": "Bahkan di dalam freezer, paparan udara menyebabkan freezer burn dan oksidasi lemak. 💡 Tips Penyimpanan: Masukkan ikan yang sudah dibungkus plastik wrap ke dalam kantong Ziploc freezer atau wadah kedap udara, buang udaranya, lalu segel ganda. Dibekukan dengan cepat di bawah suhu -18°C dapat mempertahankan rasa dan nutrisi hingga 3 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara efektif menghilangkan bau amis saat memasak ikan kembung/makarel?",
+                        "answer": "Merendam ikan dalam air cucian beras atau susu selama 10–15 menit sebelum dimasak memungkinkan protein susu (kasein) atau pati beras menyerap Trimethylamine (TMA) penyebab bau amis. Mengoleskan sedikit perasan air lemon atau cuka tepat sebelum dimasak juga sangat efektif."
+                    },
+                    {
+                        "question": "Bagaimana cara mendefrost/melelehkan makarel beku tanpa menimbulkan bau amis?",
+                        "answer": "Cara terbaik adalah melelehkannya secara perlahan di dalam kulkas (0–4°C). Jika terburu-buru, rendam dalam air garam encer (2 sendok makan garam per 1 liter air) untuk mencegah keluarnya cairan sari ikan dan menjaga tekstur tetap padat. Hindari penggunaan microwave karena dapat mematangkan bagian tepi dan memperkuat bau amis."
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "how-to-store-brussels-sprouts": {
+        "ingId": "brussels-sprouts",
+        "pubDate": "2026-07-01",
+        "updatedDate": "2026-07-01",
+        "heroImage": "/images/blog/brussels_sprouts_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "방울양배추 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 방울양배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "영양이 풍부하고 아삭한 식감이 매력적인 방울양배추(브뤼셀 스프라우트), 큰 마음 먹고 사 왔다가 냉장고에 두었더니 금세 겉잎이 노랗게 변하거나 시들어 버린 경험 있으시죠? 🥦\n\n방울양배추는 비타민 C와 K, 섬유질이 풍부한 대표적인 십자화과 채소지만, 수분 손실과 에틸렌 가스에 매우 민감합니다. 특히 습도가 맞지 않으면 잎이 무르고 곰팡이가 피기 쉽고, 에틸렌을 방출하는 과일과 함께 두면 황화(노랗게 변하는 현상)가 빠르게 일어납니다.\n\n오늘 FreshSnap에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 방울양배추의 아삭함과 영양을 최대 3주간 신선하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "십자화과 채소의 호흡 작용과 수분·에틸렌 민감성을 이해하고 올바른 보관법을 적용하는 것은 신선도 유지와 영양소 보존에 필수적입니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "보관 전에는 절대로 물로 씻지 마세요 💧",
+                        "desc": "방울양배추에 물기가 남은 상태로 포장하여 보관하면 갇힌 습기로 인해 잎 사이사이에 곰팡이와 세균이 번식하고 빠르게 부패합니다. 흙이나 이물질은 마른 천으로 털어내고, 세척은 반드시 조리 직전에 하세요."
+                    },
+                    {
+                        "title": "에틸렌 가스를 방출하는 과일과 격리하세요 🍎",
+                        "desc": "방울양배추는 에틸렌 가스에 매우 민감하여 사과, 바나나, 배 등 에틸렌을 많이 방출하는 과일과 함께 두면 잎의 엽록소가 파괴되어 노랗게 변하고 식감이 푸석해집니다. 반드시 별도 밀봉하여 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "상처 난 겉잎 정리 및 수분 제거하기 — 이물질 정리 🥬",
+                        "text": "구매 후 노랗게 변하거나 상처 입은 겉잎을 떼어내고, 마른 키친타월로 표면 수분을 가볍게 닦아주세요. 💡 보관 팁: 겉잎의 부패가 안쪽까지 전이되는 것을 막고, 표면 습기를 통제하는 것이 신선도 유자의 첫걸음입니다. 밑동은 잘라내지 말고 그대로 두어야 수분 손실이 적습니다."
+                    },
+                    {
+                        "name": "키친타월을 깐 용기나 구멍 뚫린 위생백에 담기 — 습도 조절 📰",
+                        "text": "방울양배추는 적절한 수분을 유지하면서 통풍이 되어야 신선함이 오래갑니다. 💡 보관 팁: 밀폐 용기 바닥에 키친타월을 깔아 방울양배추를 담거나, 미세한 구멍이 뚫린 비닐봉지에 담아주세요. 키친타월이 과도한 결로를 흡수하여 무름을 방지해 줍니다."
+                    },
+                    {
+                        "name": "0~2℃ 신선실(야채칸) 저온 냉장 보관하기 — 냉장 보관 (2~3주) ❄️",
+                        "text": "방울양배추는 0~2℃의 높은 습도(90~95%) 저온 환경에서 가장 아삭함이 오래 유지됩니다. 💡 보관 팁: 준비한 방울양배추를 냉장고의 야채칸(신선실)에 넣어 보관하세요. 이 상태로 2~3주간 노란 변색 없이 아삭하고 신선하게 보관이 가능합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "방울양배추를 데쳐서 장기 보관해도 되나요?",
+                        "answer": "네, 장기 보관 시 데친 후 냉동 보관하는 것이 가장 좋습니다. 끓는 물에 소금을 약간 넣고 방울양배추를 2~3분간 데친(블랜칭) 뒤 곧바로 얼음물에 식혀 수분을 완전히 제거하세요. 그 후 냉동용 지퍼백에 담아 -18℃ 이하에서 냉동하면 10~12개월간 영양 손실 없이 보관할 수 있습니다."
+                    },
+                    {
+                        "question": "방울양배추 겉잎이 노랗게 변했는데 먹어도 되나요?",
+                        "answer": "겉잎만 노랗게 변했다면 부패한 것은 아닙니다. 노란 겉잎은 에틸렌 노출이나 자연스러운 수분 손실로 나타나는 현상이므로 노란 겉잎만 떼어내고 내부의 아삭한 과육은 안심하고 드셔도 됩니다. 단, 검은 점이나 곰팡이, 끈적이는 수분이 생겼다면 즉시 폐기해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Brussels Sprouts Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for Brussels sprouts based on official safety guidelines.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "Have you ever bought crisp, nutritious Brussels sprouts only to store them in the fridge and find their outer leaves yellowing or wilting in a matter of days? 🥦\n\nBrussels sprouts are a powerhouse cruciferous vegetable packed with vitamins C and K, fiber, and antioxidants, but they are highly sensitive to moisture loss and ethylene gas. Improper humidity causes leaves to turn soft and moldy, while exposure to ethylene-emitting fruits rapidly turns them yellow.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to keep your Brussels sprouts crisp, vibrant, and nutrient-rich for up to 3 weeks. 🛡️",
+                "whyTitle": "Why Store Brussels Sprouts This Way? Scientific Facts",
+                "whyDesc": "Understanding the respiration rate and moisture/ethylene sensitivity of cruciferous vegetables is essential for maintaining freshness and preserving nutrients.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never wash before storage 💧",
+                        "desc": "Storing wet Brussels sprouts traps moisture between the tightly packed leaves, triggering mold, bacterial growth, and rapid rotting. Gently wipe away dirt with a dry cloth or paper towel, and wash them only right before cooking."
+                    },
+                    {
+                        "title": "Isolate from ethylene-producing fruits 🍎",
+                        "desc": "Brussels sprouts are extremely sensitive to ethylene gas. Storing them alongside high ethylene producers like apples, bananas, and pears breaks down chlorophyll, turning the leaves yellow and mealy. Keep them sealed separately."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Trim damaged outer leaves and remove surface moisture — Prep & Clean 🥬",
+                        "text": "Remove any yellowed, soft, or damaged outer leaves upon purchase, and gently pat the surface dry with paper towels. 💡 Storage Tip: Removing decaying outer leaves prevents spoilage from spreading inward. Leave the stem end intact to minimize moisture loss."
+                    },
+                    {
+                        "name": "Place in paper towel-lined container or perforated plastic bag — Humidity Control 📰",
+                        "text": "Brussels sprouts require high humidity with adequate ventilation to remain crisp over time. 💡 Storage Tip: Line the bottom of an airtight container with paper towels or use a breathable perforated plastic bag. The paper towels absorb excess condensation to prevent sogginess."
+                    },
+                    {
+                        "name": "Refrigerate at 0–2°C in the crisper drawer — Cold Storage (2–3 Weeks) ❄️",
+                        "text": "Brussels sprouts preserve maximum crispness in low-temperature, high-humidity environments (0–2°C with 90–95% RH). 💡 Storage Tip: Keep prepared sprouts in the refrigerator crisper drawer. This preserves their green color and firm texture for 2–3 weeks."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I blanch and freeze Brussels sprouts for long-term storage?",
+                        "answer": "Yes, blanching before freezing is the best method for long-term storage. Blanch Brussels sprouts in salted boiling water for 2–3 minutes, plunge them immediately into an ice bath, and dry thoroughly. Store them in freezer Ziploc bags at or below -18°C for 10–12 months without loss of nutrition."
+                    },
+                    {
+                        "question": "The outer leaves of my Brussels sprouts turned yellow. Are they still safe to eat?",
+                        "answer": "Yes, as long as only the outer leaves are yellowed, they are safe to eat. Yellowing is a natural reaction to ethylene exposure or moisture loss. Simply peel away the yellowed outer leaves and consume the firm green inner head. However, if you spot black spots, mold, or slimy moisture, discard them immediately."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "芽キャベツを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく芽キャベツ（ブリュッセルスプラウト）の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "栄養豊富でシャキシャキした食感が魅力の芽キャベツ（ブリュッセルスプラウト）。買ってきて冷蔵庫に入れておいたら、数日で外葉が黄色く変色したりシワシワに萎びてしまった経験はありませんか？ 🥦\n\n芽キャベツはビタミンCやK、食物繊維が豊富なアブラナ科の野菜ですが、水分損失とエチレンガスに非常に敏感です。特に湿度が合わないと葉が柔らかくなりカビが生えやすく、エチレンを放出する果物と一緒に置くと黄化（黄色く変色する現象）が急激に進みます。\n\n本日FreshSnapでは、USDAと農村振興庁の科学的ガイドラインに基づき、芽キャベツのシャキシャキ感と栄養を最大3週間新鮮に保つ3段階の保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "アブラナ科野菜の呼吸作用と水分・エチレンへの敏感性を理解し、正しい保存方法を実践することは鮮度維持と栄養素の保持において不可欠です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "保存前には絶対に水洗いしないでください 💧",
+                        "desc": "芽キャベツに水気が残ったまま保存すると、密着した葉の間に湿気がこもり、カビや雑菌が繁殖して急激に腐敗します。汚れは乾いた布で拭き取り、洗うのは必ず調理直前にしてください。"
+                    },
+                    {
+                        "title": "エチレンガスを放出する果物と隔離してください 🍎",
+                        "desc": "芽キャベツはエチレンガスに極めて敏感で、リンゴやバナナ、洋梨などエチレンを多く出す果物と一緒に置くと葉のクロロフィルが破壊され黄色く変色してパサついてしまいます。必ず分けて密閉保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "傷んだ外葉の除去と表面の水分拭き取り — 下処理と清潔保持 🥬",
+                        "text": "購入後、黄色く変色したり傷んだ外葉を取り除き、乾いたキッチンペーパーで表面の水分を優しく拭き取ります。💡保存のコツ：外葉の傷みが内側に広がるのを防ぎ、水分をコントロールすることが鮮度保持の第一歩です。芯の切り口は切らずにそのままにしておく方が水分蒸発を防げます。"
+                    },
+                    {
+                        "name": "ペーパータオルを敷いた容器や穴あきポリ袋に入れる — 湿度コントロール 📰",
+                        "text": "芽キャベツは適度な湿度を保ちながら通気性を確保することで長持ちします。💡保存のコツ：密閉容器の底にキッチンペーパーを敷いて芽キャベツを並べるか、小さな空気穴のあるポリ袋に入れてください。ペーパータオルが余分な結露を吸収し、傷みを防ぎます。"
+                    },
+                    {
+                        "name": "0〜2℃の野菜室（チルド室）で低温冷蔵保存する — 冷蔵保存 (2〜3週間) ❄️",
+                        "text": "芽キャベツは0〜2℃の多湿環境（90〜95%RH）で最もシャキシャキ感が長持ちします。💡保存のコツ：下処理した芽キャベツを冷蔵庫の野菜室で保存してください。黄色く変色することなく2〜3週間新鮮な状態をキープできます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "芽キャベツを下ゆでして長期保存してもいいですか？",
+                        "answer": "はい、長期保存する場合は下ゆで（ブリーチング）後に冷凍保存するのが最適です。沸騰したお湯に塩を少し加え、芽キャベツを2〜3分ゆでたらすぐに氷水につけて冷まし、水分を完全に拭き取ります。その後、冷凍用ジッパーバッグに入れて-18℃以下で冷凍すれば、10〜12ヶ月間栄養を損なわずに保存できます。"
+                    },
+                    {
+                        "question": "芽キャベツの外葉が黄色くなりましたが食べられますか？",
+                        "answer": "外葉だけが黄色くなっている場合は腐敗ではありません。エチレンへの露出や水分損失による自然な現象ですので、黄色い外葉を剥がせば中の緑色の部分は美味しく召し上がれます。ただし、黒い点やカビ、ぬめりがある場合は直ちに破棄してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持抱子甘蓝（Brussels Sprouts）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解抱子甘蓝（芽甘蓝）的最佳储存温度、方式和保质时长。",
+                "authority": "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "买回营养丰富、口感爽脆的抱子甘蓝（芽甘蓝），放入冰箱后没过几天外叶就发黄变软甚至萎蔫，您遇到过这种情况吗？ 🥦\n\n抱子甘蓝是富含维生素 C、K 和膳食纤维的十字花科蔬菜，但它对水分流失和乙烯气体高度敏感。湿度不当会导致菜叶变软发霉，而与释放乙烯的水果放在一起则会加速其黄化（叶片变黄）。\n\n今天 FreshSnap 将基于 USDA 和 RDA 的科学指南，为您介绍保持抱子甘蓝爽脆口感与营养长达3周的 3 步储存秘诀。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解十字花科蔬菜的呼吸作用以及对水分和乙烯的敏感性，并采用正确的储存方法，对于保持新鲜度和保存营养成分至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "储存前切勿用水清洗 💧",
+                        "desc": "带水储存抱子甘蓝会导致紧密包裹的叶片间积聚湿气，诱发霉菌和细菌滋生并加速腐烂。泥土杂质用干布擦净即可，清洗请留到烹饪前进行。"
+                    },
+                    {
+                        "title": "请与释放乙烯的水果隔离 🍎",
+                        "desc": "抱子甘蓝对乙烯气体极度敏感，若与苹果、香蕉、梨等高释放乙烯的水果存放在一起，叶绿素会被破坏，导致叶片发黄、口感变绵。务必单独密封隔离存放。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "剥除受损外叶并擦干表面水分 — 整理清洁 🥬",
+                        "text": "购买后剥除发黄、变软或破损的外叶，用干厨房纸巾轻擦表面水分。💡储存小贴士：防止外叶腐烂向内蔓延，控制表面湿气是保鲜的第一步。保留根部切口勿剪，可减少水分蒸发。"
+                    },
+                    {
+                        "name": "放入铺有纸巾的保鲜盒或带孔保鲜袋 — 控制湿度 📰",
+                        "text": "抱子甘蓝需要维持适当湿度并保持通风才能长久保鲜。💡储存小贴士：在密封保鲜盒底部铺上厨房纸巾并放入抱子甘蓝，或使用带微孔的保鲜袋。纸巾能吸收多余结露，防止变软腐烂。"
+                    },
+                    {
+                        "name": "置于0~2℃蔬菜保鲜抽屉低温冷藏 — 冷藏储存 (2~3周) ❄️",
+                        "text": "抱子甘蓝在0~2℃的高湿环境（90~95% RH）下能最长久地保持爽脆。💡储存小贴士：将处理好的抱子甘蓝放入冰箱的蔬菜保鲜抽屉中。在此状态下可保持鲜绿爽脆达2~3周。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以把抱子甘蓝焯水后冷冻长期保存吗？",
+                        "answer": "可以，焯水后冷冻是长期保存抱子甘蓝的最佳方法。在沸水中加少许盐，将抱子甘蓝焯水（Blanching）2~3分钟，随后立即捞出泡冰水冷却并彻底擦干水分。装入冷冻拉链袋置于-18℃以下冷冻，可保存10~12个月且营养不流失。"
+                    },
+                    {
+                        "question": "抱子甘蓝的外叶发黄了，还能吃吗？",
+                        "answer": "如果只是外叶发黄，并没有腐烂，是可以继续食用的。叶片发黄是接触乙烯或水分流失的自然现象，只需剥去发黄的外叶，内部紧实鲜绿的菜心可放心食用。但若出现黑点、霉菌或黏液，请立即丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las coles de Bruselas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las coles de Bruselas según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró coles de Bruselas crujientes y nutritivas, solo para descubrir que en pocos días en el refrigerador sus hojas exteriores se volvían amarillas o se marchitaban? 🥦\n\nLas coles de Bruselas son hortalizas crucíferas repletas de vitaminas C y K, fibra y antioxidantes, pero son sumamente sensibles a la pérdida de humedad y al gas etileno. La humedad inadecuada ablanda sus hojas y genera moho, mientras que la exposición a frutas que emiten etileno acelera su amarilleamiento.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el USDA y la RDA para mantener sus coles de Bruselas crujientes, verdes y llenas de nutrientes hasta por 3 semanas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender la tasa de respiración y la sensibilidad a la humedad y al etileno de las verduras crucíferas es fundamental para mantener la frescura y conservar los nutrientes.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca las lave antes de almacenarlas 💧",
+                        "desc": "Guardar las coles de Bruselas húmedas atrapa el agua entre sus apretadas hojas, desencadenando moho, bacterias y pudrición rápida. Limpie el polvo con un paño seco y lávelas justo antes de cocinar."
+                    },
+                    {
+                        "title": "Aíslelas de las frutas que producen etileno 🍎",
+                        "desc": "Las coles de Bruselas son extremadamente sensibles al etileno. Almacenarlas junto a emisores de etileno como manzanas, plátanos y peras destruye la clorofila, volviendo sus hojas amarillas y blandas. Manténgalas selladas por separado."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Retire las hojas dañadas y elimine la humedad — Limpieza previa 🥬",
+                        "text": "Retire las hojas amarillentas o dañadas al comprarlas y seque la superficie suavemente con toallas de papel. 💡 Consejo de almacenamiento: Quitar las hojas marchitas evita que la pudrición avance. Mantenga el tallo intacto para evitar pérdidas de agua."
+                    },
+                    {
+                        "name": "Coloque en un contenedor con toallas de papel o bolsa perforada — Control de humedad 📰",
+                        "text": "Las coles de Bruselas necesitan alta humedad con buena ventilación para permanecer crujientes. 💡 Consejo de almacenamiento: Forre el fondo de un contenedor con toallas de papel o use una bolsa plástica perforada. El papel absorberá el exceso de condensación."
+                    },
+                    {
+                        "name": "Refrigere a 0–2 °C en el cajón de verduras — Conservación (2 a 3 semanas) ❄️",
+                        "text": "Las coles de Bruselas conservan su máxima firmeza en ambientes fríos y húmedos (0–2 °C y 90–95% HR). 💡 Consejo de almacenamiento: Guarde las coles preparadas en el cajón de verduras del refrigerador. Mantienen su color verde y firmeza de 2 a 3 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo escaldar y congelar las coles de Bruselas para conservarlas a largo plazo?",
+                        "answer": "Sí, escaldarlas antes de congelar es el mejor método. Hirválas en agua con sal durante 2–3 minutos, enfríelas de inmediato en agua con hielo y séquelas por completo. Guárdelas en bolsas Ziploc para congelador a -18 °C o menos hasta por 10–12 meses sin perder nutrientes."
+                    },
+                    {
+                        "question": "Las hojas exteriores de mis coles se pusieron amarillas. ¿Aún se pueden comer?",
+                        "answer": "Sí, siempre que solo sean las hojas exteriores. El amarilleamiento es una reacción natural al etileno o a la deshidratación. Retire las hojas exteriores amarillas y consuma el cogollo verde y firme interior. Si nota manchas negras, moho o textura viscosa, deséchelas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les choux de Bruxelles frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les choux de Bruxelles selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté de beaux choux de Bruxelles bien fermes pour constater qu'après quelques jours au réfrigérateur leurs feuilles extérieures jaunissaient ou se flétrissaient ? 🥦\n\nLe chou de Bruxelles est un légume crucifère exceptionnel riche en vitamines C et K, en fibres et en antioxydants, mais il se montre très sensible à la perte d'humidité et au gaz éthylène. Une humidité inadéquate ramollit les feuilles et favorise la moisissure, tandis que l'exposition aux fruits émetteurs d'éthylène accélère leur jaunissement.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour garder vos choux de Bruxelles croquants et verts jusqu'à 3 semaines. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre l'intensité respiratoire et la sensibilité à l'humidité et à l'éthylène des crucifères est essentiel pour maintenir la fraîcheur et préserver les nutriments.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne les lavez jamais avant le stockage 💧",
+                        "desc": "Envelopper des choux de Bruxelles humides piège l'eau entre les feuilles serrées, provoquant l'apparition de moisissures et un pourrissement rapide. Essuyez la terre avec un chiffon sec et ne les lavez qu'au moment de cuisiner."
+                    },
+                    {
+                        "title": "Isolez-les des fruits producteurs d'éthylène 🍎",
+                        "desc": "Les choux de Bruxelles sont très sensibles au gaz éthylène. Les stocker à côté de pommes, bananes ou poires détruit la chlorophylle, rendant les feuilles jaunes et molles. Conservez-les séparément dans un contenant hermétique."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Retirer les feuilles abîmées et sécher la surface — Nettoyage préalable 🥬",
+                        "text": "Retirez les feuilles jaunies ou endommagées dès l'achat et séchez délicatement la surface avec du papier essuie-tout. 💡 Astuce de conservation : Enlever les feuilles flétries évite la propagation du pourrissement. Laissez le talon intact pour limiter l'évaporation."
+                    },
+                    {
+                        "name": "Placer dans une boîte tapissée d'essuie-tout ou un sachet perforé — Contrôle de l'humidité 📰",
+                        "text": "Les choux de Bruxelles nécessitent une humidité élevée et une bonne aération pour rester fermes. 💡 Astuce de conservation : Tapissez le fond d'une boîte hermétique de papier essuie-tout ou utilisez un sachet plastique micro-perforé pour absorber la condensation."
+                    },
+                    {
+                        "name": "Conserver au réfrigérateur entre 0 et 2 °C dans le bac à légumes — Stockage (2 à 3 semaines) ❄️",
+                        "text": "Les choux de Bruxelles préservent leur croquant dans un environnement très frais et humide (0–2 °C et 90–95% HR). 💡 Astuce de conservation : Placez les choux dans le bac à légumes. Ils conservent leur couleur verte et leur fermeté pendant 2 à 3 semaines."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Puis-je blanchir et congeler les choux de Bruxelles pour une longue conservation ?",
+                        "answer": "Oui, les blanchir avant congélation est la meilleure méthode. Plongez les choux 2 à 3 minutes dans l'eau bouillante salée, refroidissez-les aussitôt dans l'eau glacée et séchez-les. Placez-les dans des sacs congélation Ziploc à -18 °C ou moins jusqu'à 10 à 12 mois sans perte nutritive."
+                    },
+                    {
+                        "question": "Les feuilles extérieures de mes choux sont devenues jaunes. Sont-ils encore consommables ?",
+                        "answer": "Oui, tant que seules les feuilles extérieures sont touchées. Le jaunissement est une réaction naturelle à l'éthylène ou à la déshydratation. Retirez simplement les feuilles jaunes et consommez le cœur vert et ferme. En revanche, jetez-les en cas de taches noires, moisissures ou texture gluante."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Rosenkohl (Brüsseler Kohl) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rosenkohl basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal knackigen, nährstoffreichen Rosenkohl gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass die äußeren Blätter gelb wurden oder welkten? 🥦\n\nRosenkohl gehört zu den wertvollsten Kreuzblütlern und ist reich an Vitamin C, K und Ballaststoffen. Er reagiert jedoch extrem empfindlich auf Feuchtigkeitsverlust und Ethylengas. Falsche Luftfeuchtigkeit führt zu weichen Blättern und Schimmel, während die Nähe zu ethylenabgebendem Obst das Vergilben beschleunigt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Ihren Rosenkohl bis zu 3 Wochen knackig, grün und nährstoffreich zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der Atmungsintensität und der Feuchtigkeits- sowie Ethylenempfindlichkeit von Kreuzblütlern ist entscheidend für Frische und Nährstofferhalt.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Niemals vor der Lagerung waschen 💧",
+                        "desc": "Das Einpacken von feuchtem Rosenkohl schließt Wasser zwischen den dichten Blättern ein, was zu Schimmel und rascher Fäulnis führt. Wischen Sie Schmutz mit einem trockenen Tuch ab und waschen Sie ihn erst direkt vor dem Kochen."
+                    },
+                    {
+                        "title": "Von ethylenproduzierendem Obst isolieren 🍎",
+                        "desc": "Rosenkohl ist extrem ethylenempfindlich. Die Lagerung neben Reifegas-Abgebern wie Äpfeln, Bananen oder Birnen baut das Chlorophyll ab und macht die Blätter gelb und mehlig. Immer getrennt aufbewahren."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Beschädigte Außenblätter entfernen und Oberfläche trocknen — Vorbereitung 🥬",
+                        "text": "Entfernen Sie nach dem Kauf gelbe oder beschädigte Außenblätter und tupfen Sie die Oberfläche mit Küchenpapier trocken. 💡 Lagerungstipp: Das Entfernen welker Blätter verhindert das Übergreifen von Fäulnis. Den Strunk nicht abschneiden, um Austrocknung zu vermeiden."
+                    },
+                    {
+                        "name": "In Dose mit Küchenpapier oder gelochten Plastikbeutel legen — Feuchtigkeitskontrolle 📰",
+                        "text": "Rosenkohl benötigt hohe Luftfeuchtigkeit bei ausreichender Belüftung, um knackig zu bleiben. 💡 Lagerungstipp: Legen Sie den Boden einer Dichtdose mit Küchenpapier aus oder nutzen Sie einen gelochten Beutel. Das Papier nimmt Kondenswasser auf."
+                    },
+                    {
+                        "name": "Bei 0–2 °C im Gemüsefach kühlen — Kühllagerung (2–3 Wochen) ❄️",
+                        "text": "Rosenkohl behält bei niedrigen Temperaturen und hoher Feuchtigkeit (0–2 °C, 90–95% r.F.) am längsten seine Festigkeit. 💡 Lagerungstipp: Bewahren Sie den vorbereiteten Rosenkohl im Gemüsefach des Kühlschranks auf. So bleibt er 2–3 Wochen knackig grün."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Rosenkohl blanchieren und für die Langzeitlagerung einfrieren?",
+                        "answer": "Ja, Blanchieren vor dem Einfrieren ist die beste Methode zur Langzeitlagerung. Blanchieren Sie den Rosenkohl 2–3 Minuten in kochendem Salzwasser, schrecken Sie ihn sofort in Eiswasser ab und trocknen Sie ihn gründlich. In Gefrierbeuteln bei -18 °C hält er sich 10–12 Monate ohne Nährstoffverlust."
+                    },
+                    {
+                        "question": "Die äußeren Blätter meines Rosenkohls sind gelb geworden. Kann man ihn noch essen?",
+                        "answer": "Ja, solange nur die äußeren Blätter betroffen sind, ist er essbar. Das Vergilben ist eine natürliche Reaktion auf Ethylen oder Feuchtigkeitsverlust. Entfernen Sie einfach die gelben Blätter und verzehren Sie den festen grünen Kern. Bei schwarzen Flecken, Schimmel oder Schmierigkeit entsorgen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar couve-de-bruxelas fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-de-bruxelas com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "Você já comprou couves-de-bruxelas crocantes e nutritivas e, após alguns dias na geladeira, percebeu que as folhas externas amarelaram ou murcharam? 🥦\n\nA couve-de-bruxelas é um vegetal crucífero rico em vitaminas C e K, fibras e antioxidantes, mas é extremamente sensível à perda de umidade e ao gás etileno. A umidade inadequada amolece as folhas e gera mofo, enquanto a exposição a frutas que emitem etileno acelera o amarelamento.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para manter suas couves-de-bruxelas crocantes e verdes por até 3 semanas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender a taxa de respiração e a sensibilidade à umidade e ao etileno dos vegetais crucíferos é essencial para manter o frescor e preservar os nutrientes.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca lave antes de guardar 💧",
+                        "desc": "Guardar a couve-de-bruxelas úmida prende a água entre as folhas apertadas, provocando mofo, bactérias e apodrecimento rápido. Limpe a sujeira com um pano seco e lave apenas no momento de cozinhar."
+                    },
+                    {
+                        "title": "Isole de frutas que produzem etileno 🍎",
+                        "desc": "A couve-de-bruxelas é extremamente sensível ao gás etileno. Armazená-la junto a grandes emissores como maçãs, bananas e peras destrói a clorofila, deixando as folhas amarelas e murchas. Mantenha selada separadamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Remova folhas danificadas e seque a superfície — Limpeza prévia 🥬",
+                        "text": "Retire as folhas amareladas ou danificadas ao comprar e seque a superfície delicadamente com papel-toalha. 💡 Dica de conservação: Remover folhas murchas impede que a deterioração avance. Mantenha o talo intacto para evitar perda de água."
+                    },
+                    {
+                        "name": "Coloque em pote com papel-toalha ou saco perfurado — Controle de umidade 📰",
+                        "text": "A couve-de-bruxelas precisa de alta umidade com boa ventilação para continuar crocante. 💡 Dica de conservação: Forre o fundo de um pote com papel-toalha ou use um saco plástico perfurado. O papel absorve o excesso de condensação."
+                    },
+                    {
+                        "name": "Refrigere a 0–2 °C na gaveta de legumes — Armazenamento (2 a 3 semanas) ❄️",
+                        "text": "A couve-de-bruxelas preserva sua firmeza em ambientes frios e úmidos (0–2 °C e 90–95% UR). 💡 Dica de conservação: Mantenha as couves na gaveta de legumes da geladeira. Elas conservam a cor verde e firmeza por 2 a 3 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso aferventar e congelar a couve-de-bruxelas para conservação de longo prazo?",
+                        "answer": "Sim, aferventar (blanching) antes de congelar é o melhor método. Cozinhe em água fervente com sal por 2–3 minutos, resfrie imediatamente em água com gelo e seque bem. Guarde em sacos Ziploc a -18 °C por até 10–12 meses sem perda nutricional."
+                    },
+                    {
+                        "question": "As folhas externas da minha couve ficaram amarelas. Ainda posso comer?",
+                        "answer": "Sim, desde que apenas as folhas externas estejam amarelas. O amarelamento é uma reação natural ao etileno ou à desidratação. Retire as folhas amarelas e consuma o miolo verde e firme. Se notar manchas pretas, mofo ou textura pegajosa, descarte."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kubis Brussels (Brussels Sprouts) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kubis Brussels berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & RDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli kubis Brussels yang renyah dan kaya nutrisi lalu mendapati daun bagian luarnya menguning atau layu hanya dalam beberapa hari di kulkas? 🥦\n\nKubis Brussels adalah sayuran krusifer kaya vitamin C, K, dan serat, tetapi sangat sensitif terhadap kehilangan kelembapan dan gas etilen. Kelembapan yang tidak tepat membuat daunnya menjadi lembek dan berjamur, sementara paparan buah penghasil etilen mempercepat penguningan daun.\n\nHari ini, FreshSnap membagikan panduan penyimpanan kubis Brussels 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk menjaga kubis Brussels Anda tetap renyah, hijau, dan kaya nutrisi hingga 3 minggu. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami tingkat respirasi serta sensitivitas kelembapan dan etilen pada sayuran krusifer sangat penting untuk menjaga kesegaran dan nutrisi.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah mencuci sebelum disimpan 💧",
+                        "desc": "Menyimpan kubis Brussels dalam kondisi basah akan memerangkap air di antara daun yang rapat, memicu jamur, bakteri, dan pembusukan cepat. Bersihkan kotoran dengan kain kering dan cucilah tepat sebelum dimasak."
+                    },
+                    {
+                        "title": "Pisahkan dari buah penghasil gas etilen 🍎",
+                        "desc": "Kubis Brussels sangat sensitif terhadap gas etilen. Menyimpannya bersama buah penghasil etilen seperti apel, pisang, dan pir akan merusak klorofil, membuat daun menguning dan lembek. Simpan secara terpisah dalam wadah tertutup."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Buang daun luar yang rusak dan keringkan permukaan — Pembersihan Awal 🥬",
+                        "text": "Buang daun luar yang menguning atau rusak saat dibeli, lalu lap permukaannya hingga kering dengan tisu dapur. 💡 Tips Penyimpanan: Membuang daun yang layu mencegah pembusukan merambat ke dalam. Biarkan batang tetap utuh untuk mengurangi penguapan."
+                    },
+                    {
+                        "name": "Masukkan ke wadah beralas tisu atau kantong plastik berlubang — Kontrol Kelembapan 📰",
+                        "text": "Kubis Brussels membutuhkan kelembapan tinggi dengan sirkulasi udara yang cukup agar tetap renyah. 💡 Tips Penyimpanan: Alasi bagian bawah wadah kedap udara dengan tisu dapur atau gunakan kantong plastik berlubang halus. Tisu akan menyerap kondensasi berlebih."
+                    },
+                    {
+                        "name": "Simpan di kulkas pada suhu 0–2°C di laci sayuran — Simpan Dingin (2–3 Minggu) ❄️",
+                        "text": "Kubis Brussels mempertahankan kerenyahan maksimal pada lingkungan dingin dan lembap (0–2°C dengan RH 90–95%). 💡 Tips Penyimpanan: Simpan kubis di laci sayuran kulkas. Cara ini menjaga warna hijau dan kerenyahannya selama 2–3 minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah kubis Brussels bisa direbus sebentar (blanching) dan dibekukan untuk penyimpanan jangka panjang?",
+                        "answer": "Ya, merebus sebentar (blanching) sebelum dibekukan adalah metode terbaik untuk penyimpanan jangka panjang. Rebus kubis Brussels dalam air garam mendidih selama 2–3 menit, segera masukkan ke air es, lalu keringkan hingga tuntas. Simpan dalam kantong Ziploc freezer pada suhu -18°C selama 10–12 bulan tanpa kehilangan nutrisi."
+                    },
+                    {
+                        "question": "Daun bagian luar kubis Brussels saya menguning. Apakah masih aman dimakan?",
+                        "answer": "Ya, aman dimakan selama hanya daun bagian luarnya yang menguning. Penguningan adalah reaksi alami terhadap paparan etilen atau dehidrasi. Cukup kupas daun luar yang menguning dan konsumsi bagian dalam yang masih padat dan hijau. Namun jika ada bintik hitam, jamur, atau tekstur berlendir, segera buang."
+                    }
+                ]
+            }
+        }
+    }
+}
