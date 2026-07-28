@@ -1,0 +1,45 @@
+---
+import BlogPostCard from '../BlogPostCard.astro';
+import { getRelatedPosts, getCategoryMeta } from '../../utils/blogNavigation';
+
+export interface Props {
+  posts: any[];
+  currentPostId: string;
+  lang: string;
+  t: (key: any) => string;
+}
+
+const { posts, currentPostId, lang, t } = Astro.props;
+
+const currentPost = posts.find((p) => p.id === currentPostId);
+const relatedPosts = getRelatedPosts(posts, currentPostId, 3);
+const meta = currentPost ? getCategoryMeta(currentPost.data.app) : null;
+const categoryLabel = meta ? (t(`blog.filter.${meta.categoryKey}` as any) || 'SelaLink') : '';
+---
+
+{relatedPosts.length > 0 && (
+  <section class="my-16 pt-12 border-t border-slate-200/80 dark:border-white/10">
+    <div class="flex items-center justify-between mb-8">
+      <div class="flex items-center gap-2.5">
+        <span class={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold border ${meta?.badgeClass}`}>
+          {meta?.icon} {categoryLabel}
+        </span>
+        <h3 class="text-xl md:text-2xl font-extrabold text-slate-900 dark:text-white tracking-tight">
+          {t('blog.related.title')}
+        </h3>
+      </div>
+      <a 
+        href={`/${lang}/blog/?category=${meta?.categoryKey}`}
+        class="text-xs font-bold text-sky-600 dark:text-sky-400 hover:underline flex items-center gap-1"
+      >
+        {t('blog.filter.all')} →
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {relatedPosts.map((post) => (
+        <BlogPostCard post={post} lang={lang} />
+      ))}
+    </div>
+  </section>
+)}

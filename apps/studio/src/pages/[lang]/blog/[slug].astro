@@ -5,47 +5,33 @@ import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
 import ShareToolkit from '../../../components/ShareToolkit.astro';
 import BlogTocAside from '../../../components/blog/BlogTocAside.astro';
 import BlogPrevNextNav from '../../../components/blog/BlogPrevNextNav.astro';
+import BlogRelatedPosts from '../../../components/blog/BlogRelatedPosts.astro';
 import BlogLegalDisclaimer from '../../../components/blog/BlogLegalDisclaimer.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/ui';
 import { getFormattedDate, generateStructuredData } from '../../../utils/blogDetailHelper';
 import { themeColors } from '../../../utils/layoutHelper';
 
+import { getContextualPrevNext } from '../../../utils/blogNavigation';
+
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-
-  // 언어별로 포스트를 분류하고 미리 날짜 순 정렬 (1회만 수행)
-  const postsByLang: Record<string, typeof posts> = {};
-  posts.forEach((post) => {
-    const lang = post.id.split('/')[0];
-    if (!postsByLang[lang]) {
-      postsByLang[lang] = [];
-    }
-    postsByLang[lang].push(post);
-  });
-
-  Object.keys(postsByLang).forEach((lang) => {
-    postsByLang[lang].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-  });
 
   return posts.map((post) => {
     const parts = post.id.split('/');
     const lang = parts[0];
     const slug = parts.slice(1).join('/');
 
-    const langPosts = postsByLang[lang] || [];
-    const currentIndex = langPosts.findIndex((p) => p.id === post.id);
-    const nextPost = currentIndex > 0 ? langPosts[currentIndex - 1] : null;
-    const prevPost = currentIndex < langPosts.length - 1 ? langPosts[currentIndex + 1] : null;
+    const { prevPost, nextPost } = getContextualPrevNext(posts, post.id);
 
     return {
       params: { lang, slug },
-      props: { post, prevPost, nextPost, lang },
+      props: { post, prevPost, nextPost, lang, allPosts: posts },
     };
   });
 }
 
-const { post, prevPost, nextPost, lang } = Astro.props;
+const { post, prevPost, nextPost, lang, allPosts } = Astro.props;
 const { title, description, pubDate, heroImage, app, youtubeId, updatedDate } = post.data;
 
 // 안전한 .webp 확장자 보장
@@ -270,6 +256,14 @@ const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
     <BlogPrevNextNav 
       prevPost={prevPost}
       nextPost={nextPost}
+      lang={lang as string}
+      t={t}
+    />
+
+    <!-- Related Category Posts Grid -->
+    <BlogRelatedPosts
+      posts={allPosts}
+      currentPostId={post.id}
       lang={lang as string}
       t={t}
     />

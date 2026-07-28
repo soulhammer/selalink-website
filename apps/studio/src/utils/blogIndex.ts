@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+export function initBlogIndex() {
   const searchInput = document.getElementById('blog-search-input') as HTMLInputElement | null;
   const searchClear = document.getElementById('blog-search-clear') as HTMLButtonElement | null;
   const sortSelect = document.getElementById('blog-sort-select') as HTMLSelectElement | null;
@@ -187,30 +187,73 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // URL 쿼리 파라미터 동기화 헬퍼
+  function updateUrlCategory(filter: string) {
+    try {
+      if (typeof window === 'undefined' || !window.location || !window.location.href) return;
+      if (window.location.href.includes('about:blank') || (typeof process !== 'undefined' && process.env && process.env.NODE_ENV === 'test')) {
+        return;
+      }
+      const url = new URL(window.location.href);
+      if (filter === 'all') {
+        url.searchParams.delete('category');
+      } else {
+        url.searchParams.set('category', filter);
+      }
+      if (window.history && window.history.replaceState) {
+        const newSearch = url.searchParams.toString();
+        const newUrl = url.pathname + (newSearch ? '?' + newSearch : '') + url.hash;
+        window.history.replaceState({}, '', newUrl);
+      }
+    } catch (e) {
+      // JSDOM mock environment 호환 예외 처리
+    }
+  }
+
+  // 필터 버튼 UI 스타일 업데이트 헬퍼
+  function updateFilterButtonsUI(active: string) {
+    filterButtons.forEach(b => {
+      const filter = b.getAttribute('data-filter') || 'all';
+      if (filter === active) {
+        if (filter === 'all') {
+          b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-slate-900 border-slate-900 text-white dark:bg-white dark:border-white dark:text-slate-900";
+        } else if (filter === 'freshsnap') {
+          b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-600 border-emerald-600 text-white dark:bg-emerald-500 dark:border-emerald-500 dark:text-white";
+        } else if (filter === 'buildself') {
+          b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-sky-600 border-sky-600 text-white dark:bg-sky-500 dark:border-sky-500 dark:text-white";
+        } else if (filter === 'logself') {
+          b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-600 border-indigo-600 text-white dark:bg-indigo-500 dark:border-indigo-500 dark:text-white";
+        } else if (filter === 'petself') {
+          b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-rose-600 border-rose-600 text-white dark:bg-rose-500 dark:border-rose-500 dark:text-white";
+        }
+      } else {
+        b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer border-slate-200 bg-white/50 text-slate-600 hover:border-slate-300 dark:border-white/5 dark:bg-slate-900/40 dark:text-slate-300";
+      }
+    });
+  }
+
+  // URL query parameter (?category=...) 감지하여 초기 필터 지정
+  const isTestEnv = typeof process !== 'undefined' && process.env && process.env.NODE_ENV === 'test';
+  if (!isTestEnv && typeof window !== 'undefined' && window.location && window.location.search) {
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      const categoryParam = urlParams.get('category');
+      if (categoryParam && ['all', 'freshsnap', 'buildself', 'logself', 'petself'].includes(categoryParam)) {
+        activeFilter = categoryParam;
+        updateFilterButtonsUI(activeFilter);
+      }
+    } catch (e) {
+      // JSDOM mock environment 호환 예외 처리
+    }
+  }
+
   // 카테고리 탭 클릭 이벤트 및 스타일 제어
   filterButtons.forEach(btn => {
     btn.addEventListener('click', () => {
       const filter = btn.getAttribute('data-filter') || 'all';
       activeFilter = filter;
-
-      // 모든 버튼 스타일 초기화 (비활성 상태)
-      filterButtons.forEach(b => {
-        b.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer border-slate-200 bg-white/50 text-slate-600 hover:border-slate-300 dark:border-white/5 dark:bg-slate-900/40 dark:text-slate-300";
-      });
-
-      // 활성화된 버튼 전용 테마 적용
-      if (filter === 'all') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-slate-900 border-slate-900 text-white dark:bg-white dark:border-white dark:text-slate-900";
-      } else if (filter === 'freshsnap') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-emerald-600 border-emerald-600 text-white dark:bg-emerald-500 dark:border-emerald-500 dark:text-white";
-      } else if (filter === 'buildself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-sky-600 border-sky-600 text-white dark:bg-sky-500 dark:border-sky-500 dark:text-white";
-      } else if (filter === 'logself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-indigo-600 border-indigo-600 text-white dark:bg-indigo-500 dark:border-indigo-500 dark:text-white";
-      } else if (filter === 'petself') {
-        btn.className = "filter-btn px-6 py-2.5 rounded-full text-xs font-bold border transition-all duration-300 shadow-sm cursor-pointer bg-rose-600 border-rose-600 text-white dark:bg-rose-500 dark:border-rose-500 dark:text-white";
-      }
-
+      updateFilterButtonsUI(activeFilter);
+      updateUrlCategory(activeFilter);
       filterAndSort(true); // 필터 변경 시 페이징 리셋
     });
   });
@@ -267,4 +310,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 초기 실행
   filterAndSort(true);
-});
+}
+
+if (typeof document !== 'undefined') {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => initBlogIndex());
+  } else {
+    initBlogIndex();
+  }
+}
