@@ -11,7 +11,7 @@ export interface Props {
 
 const { posts, currentPostId, lang, t } = Astro.props;
 
-const currentPost = posts.find((p) => p.id === currentPostId);
+const currentPost = posts.find((p: any) => p.id === currentPostId);
 const relatedPosts = getRelatedPosts(posts, currentPostId, 3);
 const meta = currentPost ? getCategoryMeta(currentPost.data.app) : null;
 const categoryLabel = meta ? (t(`blog.filter.${meta.categoryKey}` as any) || 'SelaLink') : '';
@@ -38,7 +38,7 @@ const categoryLabel = meta ? (t(`blog.filter.${meta.categoryKey}` as any) || 'Se
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       {relatedPosts.map((post) => (
-        <BlogPostCard post={post} lang={lang} />
+        <BlogPostCard post={post as any} lang={lang} />
       ))}
     </div>
   </section>
