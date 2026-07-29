@@ -13,7 +13,7 @@ steps:
   - name: "말티푸의 감정 표현 신호: 하품하기·몸 털기(카밍 시그널)와 분리불안 과행동"
     text: "말티푸는 보호자의 기분을 예민하게 감지하며, 스트레스를 받거나 안정이 필요할 때 하품을 하거나 몸을 털어내는 카밍 시그널(Calming Signal)을 보냅니다. 반면 혼자 남겨졌을 때 지속적인 하울링이나 문 긁기 행동은 분리불안의 명확한 신호입니다."
   - name: "말티푸 (Maltipoo / Maltese x Toy Poodle Hybrid)의 몸짓 언어와 바디 시그널"
-    text: "* 하품하기 및 몸 털기 (Calming Signals): 스스로 낯선 상황이나 스트레스 상황에서 안정을 찾으려 하거나, 상대방에게 적의가 없음을 전달하는 카밍 신호입니다. (차분하고 부드러운 목소리로 안심시켜 주고, 과도한 자극을 줄여 스킨십 대신 편안한 휴식 공간을 제공합니다.)
+    text: "* 카밍 시그널 (하품하기 및 몸 털기): 스스로 낯선 상황이나 스트레스 상황에서 안정을 찾으려 하거나, 상대방에게 적의가 없음을 전달하는 카밍 신호입니다. (차분하고 부드러운 목소리로 안심시켜 주고, 과도한 자극을 줄여 스킨십 대신 편안한 휴식 공간을 제공합니다.)
 
 * 문 긁기 및 연속적인 하울링 (Separation Distress): 보호자와 떨어졌을 때 발생하는 심각한 불안감과 공포로 인한 분리불안 및 욕구 불만 신호입니다. (외출 전후 과도한 아는 척을 자제하고, 노즈워크 장난감이나 분리불안 완화 음악을 활용해 혼자 있는 시간을 긍정적으로 인식시킵니다.)"
   - name: "말티푸 (Maltipoo / Maltese x Toy Poodle Hybrid) 맞춤형 3단계 홈케어 루틴"
@@ -66,7 +66,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">하품하기 및 몸 털기 (Calming Signals)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">카밍 시그널 (하품하기 및 몸 털기)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

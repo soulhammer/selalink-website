@@ -1,0 +1,459 @@
+{
+    "bristlenose-pleco-care": {
+        "pubDate": "2026-06-16",
+        "updatedDate": "2026-06-16",
+        "locales": {
+            "ko": {
+                "title": "안시스트루스 수염 디테일과 이끼 제거·유목 케어를 위한 3단계 데일리 케어",
+                "description": "수조 속 대표 청소 물고기 안시스트루스(안시 숏핀). 주둥이 수염 디테일의 특징과 섬유질 섭취를 위한 유목 세팅, 야채 생먹이 급여 중심의 3단계 가이드라인을 소개합니다.",
+                "authority": "세계동물원수족관협회(WAZA) 및 관상어 수의학(Veterinary Ichthyology) 임상 가이드라인",
+                "profile": {
+                    "breed": "안시스트루스 / 안시 숏핀 (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15년",
+                    "sleep_pattern": "10 ~ 12시간 (조명이 켜진 낮 동안 유목/은신처 휴식, 야간 활발한 저서 활동)",
+                    "temperament": "온순함, 초식성 위주, 야행성, 수컷 간 영역 구별 시 약간의 경계, 저서성"
+                },
+                "intro": "안시스트루스(Ancistrus spp., 통칭 안시 숏핀)는 수조 내 이끼 제거 능력이 탁월해 전 세계 물집사들에게 필수 식구로 사랑받는 담수 메기목 열대어입니다. 성숙한 수컷의 주둥이 주변에 돋아나는 나뭇가지 모양의 화려한 수염(돌기) 디테일이 독보적인 특징입니다. 성체 크기가 10~15cm 내외로 크게 자라지 않아 대형 플래코와 달리 중소형 수조에서도 부담 없이 사육이 가능합니다. 안시의 소화관 건강을 위해서는 나무 성분(리그닌)을 제공하는 유목(Driftwood) 세팅이 필수적이며, 수조 이끼만으로는 영양이 부족하므로 호박, 애호박, 시금치 등 살짝 데친 생야채와 초식 침강성 사료 급여가 필수적입니다. 오늘 PetSelf에서는 안시의 행동 신호를 해석하고 건강한 사육 환경을 만드는 3단계 데일리 케어 루틴을 다룹니다.",
+                "whyTitle": "안시스트루스의 행동 표현: 핀 펼치기(Fin Spreading)와 흡반 갉아먹기 반응",
+                "whyDesc": "안시는 영역을 주장하거나 경쟁 개체를 경계할 때 등지느러미와 가슴지느러미를 꼿꼿이 세우는 **'핀 펼치기(Fin Spreading)'** 행동을 보입니다. 또한 빨판 모양의 입을 이용해 유리면이나 유목의 이끼, 생물막(Biofilm), 나무 섬유질을 갉아먹는 **'흡반 갉아먹기'**로 영양을 섭취합니다.",
+                "body_signals": [
+                    {
+                        "name": "등지느러미와 가슴지느러미 크게 펼치기 (Fin Spreading)",
+                        "meaning": "산란굴이나 영역을 지키려는 경계 신호로, 특히 수컷 간의 서열 정리나 다툼에서 나타나는 위세 표현입니다.",
+                        "response": "수컷 간 다툼을 방지하기 위해 수조 내 은신처(산란상)와 유목을 충분한 개수로 배치해 줍니다."
+                    },
+                    {
+                        "name": "유목이나 유리벽에 입을 대고 지속적으로 움직이기 (Suction Grazing)",
+                        "meaning": "이끼나 생물막, 유목의 섬유질(리그닌)을 섭취하는 지극히 정상적이고 건강한 먹이 활동입니다.",
+                        "response": "방해받지 않고 편안하게 야행성 먹이 활동을 할 수 있도록 수조 조명을 적절히 조절해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수질 파라미터(23~27℃) 및 유목 세팅 상태 점검",
+                        "text": "수온(23~27℃)과 pH(6.5~7.5) 상태 및 여과기 출수량을 확인합니다. 안시의 소화를 돕는 천연 유목이 수조 내 잘 배치되어 있는지 살핍니다."
+                    },
+                    {
+                        "name": "낮: 데친 야채(애호박/시금치) 생먹이 세팅 및 산란굴 점검",
+                        "text": "이끼 부족으로 인한 기아를 막기 위해 데친 애호박이나 호박 조각을 침강 홀더에 고정해 급여하고 수컷 전용 은신처 상태를 확인합니다."
+                    },
+                    {
+                        "name": "저녁: 남은 야채 수거 및 초식성 침강 패드 사료 급여",
+                        "text": "수질 오염을 막기 위해 급여 후 4~6시간이 지난 야채 잔여물을 치우고, 소등 전 초식성 스피루리나 침강 사료를 투여합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "안시 수조에 유목(Driftwood)을 반드시 넣어야 하나요?",
+                        "answer": "네, 필수적입니다. 안시스트루스는 장내 미생물의 활성화와 소화 운동을 위해 나무 섬유질(리그닌)을 필요로 합니다. 수조 내 천연 유목이 없으면 소화 불량이나 장 폐색, 영양 불균형이 발생할 위험이 높습니다."
+                    },
+                    {
+                        "question": "주둥이에 난 수염(돌기)으로 암수를 어떻게 구분하나요?",
+                        "answer": "성숙한 수컷은 주둥이 위쪽부터 이마 중앙까지 길고 가지쳐진 수염이 빽빽하게 자라나는 반면, 암컷은 수염이 아예 없거나 입술 테두리를 따라 짧고 미세한 돌기만 약간 관찰됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Bristlenose Pleco Snout Tentacles and 3-Step Algae & Driftwood Care Daily Routine",
+                "description": "Essential care for the Bristlenose Pleco, the ultimate tank cleaner. Learn about their snout bristles, essential driftwood digestion needs, and a 3-step vegetable feeding routine.",
+                "authority": "World Association of Zoos and Aquariums (WAZA) & Veterinary Ichthyology Clinical Guidelines",
+                "profile": {
+                    "breed": "Bristlenose Pleco (Ancistrus spp.)",
+                    "lifespan": "10 - 15 Years",
+                    "sleep_pattern": "10 - 12 Hours (Resting in Caves/Driftwood During Lights-On; Nocturnal Bottom-Grazer)",
+                    "temperament": "Peaceful, Herbivorous/Detritivorous, Nocturnal, Mildly Territorial (Males Over Caves)"
+                },
+                "intro": "The Bristlenose Pleco (*Ancistrus* spp.) is a world-renowned freshwater catfish treasured by aquarists for its unmatched algae-eating efficiency and charming bushy snout. Mature males develop prominent tentacles (bristles) across their snout, setting them apart from other armored catfishes. Growing to a manageable 10–15 cm (4–6 inches), they suit small-to-medium community aquariums far better than giant common plecos. To maintain optimal gut health, providing natural driftwood is crucial, as they ingest wood fibers (lignin) required for proper digestion. Because aquarium algae alone cannot sustain them, supplementary blanched vegetables (zucchini, pumpkin, spinach) are vital. Today, PetSelf breaks down Bristlenose Pleco behaviors and offers a 3-step daily care routine.",
+                "whyTitle": "Bristlenose Pleco Communication: Fin Spreading and Suction Grazing",
+                "whyDesc": "When asserting dominance or guarding a cave, Bristlenose Plecos display **'Fin Spreading'**, locking their dorsal and pectoral fins fully erect. During feeding, they use their muscular suckermouth to rasp algae, biofilm, and wood fibers (**'Suction Grazing'**).",
+                "body_signals": [
+                    {
+                        "name": "Erect Dorsal & Pectoral Fins (Fin Spreading)",
+                        "meaning": "A territorial display or warning signal to rival males; ensure adequate hides and caves to reduce aggression.",
+                        "response": "Provide multiple breeding caves and driftwood structures to prevent territorial disputes between males."
+                    },
+                    {
+                        "name": "Rasping Mouth Attached to Glass or Wood (Suction Grazing)",
+                        "meaning": "Normal feeding behavior extracting biofilm, algae, and essential lignin from driftwood; maintain dim lighting during nocturnal grazing.",
+                        "response": "Allow them undisturbed nocturnal feeding time by maintaining consistent day/night light cycles."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Parameter Check (23-27°C / 74-80°F) & Driftwood Inspection",
+                        "text": "Verify water temperature, filtration, and ensure natural driftwood is accessible for fiber digestion."
+                    },
+                    {
+                        "name": "Afternoon: Blanched Vegetable Feeding (Zucchini/Spinach) & Cave Check",
+                        "text": "Anchor a slice of blanched zucchini or pumpkin near the bottom to prevent starvation, and check breeding caves."
+                    },
+                    {
+                        "name": "Evening: Remove Uneaten Veggies & Feed Algae Wafers",
+                        "text": "Remove leftover vegetable scraps after 4-6 hours to preserve water quality, and drop sinking spirulina wafers before lights out."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is natural driftwood mandatory in a Bristlenose Pleco aquarium?",
+                        "answer": "Yes, it is essential. Bristlenose Plecos require natural wood fibers (lignin) to maintain proper gut flora and digestive tract motility. Lacking natural driftwood can lead to fatal intestinal blockages or severe malnutrition."
+                    },
+                    {
+                        "question": "How do I tell male and female Bristlenose Plecos apart using their bristles?",
+                        "answer": "Mature males develop long, branching tentacles that extend up the middle of their snout toward their eyes. Females either remain completely smooth or possess only very short, tiny bristles along the outer rim of their upper lip."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "アンシストルス（ミニブッシープレコ）のヒゲの特徴と流木・苔掃除の3ステップ日常ルーティン",
+                "description": "水槽の「国民的掃除屋」ミニブッシープレコ（アンシストルス）。オスの愛くるしい顔のヒゲの特徴、消化に必要な流木セッティング、茹で野菜給餌の3ステップケアを解説します。",
+                "authority": "世界動物園水族館協会（WAZA）および観賞魚獣医学（Veterinary Ichthyology）臨床ガイドライン",
+                "profile": {
+                    "breed": "アンシストルス / ミニブッシープレコ (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 〜 15年",
+                    "sleep_pattern": "10 〜 12時間 (点灯時は流木や洞窟で休息、夜間に活発な底生活動)",
+                    "temperament": "温和、草食性主体、夜行性、オス同士は縄張り意識あり"
+                },
+                "intro": "アンシストルス（通称ミニブッシープレコ / ブッシープレコ）は、水槽内のコケ取り能力が極めて高く、世界中のアクアリストから愛される小型プレコです。成熟したオスの口元に生える立派なヒゲ（突起）が特徴的です。大型化する一般的なプレコと異なり、体長10〜15cm程度にしかならないため、小型〜中型水槽でも安心して飼育できます。消化管の健康維持と腸内細菌のために木質繊維（リグニン）を補給できる流木の設置が不可欠です。また、コケだけでは餓死してしまうため、ズッキーニやカボチャ、ホウレンソウなどの茹で野菜や沈下性プレコフードの給餌が必須です。今回はPetSelfがアンシの日常ケアを解説します。",
+                "whyTitle": "アンシストルスの感情表現：ヒレの拡張（Fin Spreading）と吸盤での削ぎ落とし動作",
+                "whyDesc": "アンシストルスは縄張りを主張したり威嚇する際、背ヒレと胸ヒレをピンと大きく広げる**「ヒレの拡張（Fin Spreading）」**を行います。また、吸盤状の口でガラス面や流木のコケ・バイオフィルムをこそぎ落とす**「吸着摂食（Suction Grazing）」**で栄養を摂取します。",
+                "body_signals": [
+                    {
+                        "name": "背ヒレと胸ヒレを大きく広げる (Fin Spreading)",
+                        "meaning": "縄張り主張やオス同士の警戒サインです。争いを防ぐため隠れ家や流木を複数用意しましょう。",
+                        "response": "オス同士の小競り合いを減らすため、隠れ家となる洞窟や流木を水槽内に複数配置してあげます。"
+                    },
+                    {
+                        "name": "ガラスや流木に口を吸着させて動く (Suction Grazing)",
+                        "meaning": "コケや流木の木質繊維を食べる正常な摂食行動です。夜間に安心して活動できるよう照明を調整します。",
+                        "response": "夜間にストレスなくコケや流木を削ぎ落とせるよう、照明のタイマー管理を徹底します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温（23〜27℃）・水質（pH6.5〜7.5）と流木の点検",
+                        "text": "水温とフィルターの作動を確認し、消化を助ける天然流木が適切に配置されているか点検します。"
+                    },
+                    {
+                        "name": "昼：茹で野菜（ズッキーニ/ホウレンソウ）の給餌と隠れ家チェック",
+                        "text": "餓死を防ぐため茹でたズッキーニ等を沈めて与え、繁殖用シェルターの状態を確認します。"
+                    },
+                    {
+                        "name": "夜：残った野菜の回収と沈下性プレコフードの給餌",
+                        "text": "水質悪化を防ぐため残った野菜を取り除き、消灯前に沈下性のスピルリナフードを与えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水槽に天然の「流木」は絶対に必要ですか？",
+                        "answer": "はい、必須です。アンシストルスは消化器官の健康と腸内細菌の働きを維持するために、木質繊維（リグニン）を削り取って摂取する必要があります。流木がないと便秘や消化不良、腸閉塞を引き起こす危険性があります。"
+                    },
+                    {
+                        "question": "顔のヒゲ（突起）でオスとメスをどのように見分けますか？",
+                        "answer": "成熟したオスは口元から額の中央にかけて長く枝分かれした立派なヒゲが生え揃います。一方、メスはヒゲが全く生えないか、上唇のフチに沿ってごく短い突起が少し見られる程度です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "胡子异型（安西胡子）触须特征与木质纤维·蔬果喂食3阶段日常护理指南",
+                "description": "水族箱中的“国民清道夫”胡子异型（Bristlenose Pleco）。解析公鱼嘴部触须特征、消化必需的沉木配置及烫熟蔬果喂食的3阶段日常护理流程。",
+                "authority": "世界动物园暨水族馆协会 (WAZA) 及观赏鱼兽医学 (Veterinary Ichthyology) 临床指南",
+                "profile": {
+                    "breed": "胡子异型 / 安西胡子 (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15年",
+                    "sleep_pattern": "10 ~ 12小时 (开灯时在沉木/洞穴中休息，夜间活跃底栖)",
+                    "temperament": "温和、偏草食性、夜行性、公鱼对洞穴具领地意识"
+                },
+                "intro": "胡子异型（*Ancistrus* spp.，俗称安西胡子）因其卓越的除藻能力和可爱的嘴部触须，成为全球水族爱好者缸中不可或缺的清道夫。成熟公鱼嘴部周围会长出如树枝般繁茂的触须（须状突起），这是其标志性特征。与动辄长至几十厘米的大型清道夫不同，胡子异型成体仅10-15厘米，非常适合中小水缸。为了维持其长消化道的健康，缸内必须放置天然沉木以提供木质素（Lignin）；同时，仅靠水缸中的藻类容易导致其饥饿，定期喂食烫熟的西葫芦、南瓜、菠菜及沉底草食饲料至关重要。今天 PetSelf 将解析胡子异型的行为信号并分享3阶段日常护理流程。",
+                "whyTitle": "胡子异型的行为表达：张鳍威吓（Fin Spreading）与吸盘刮食",
+                "whyDesc": "当宣示领地或争夺洞穴时，胡子异型会将背鳍和胸鳍完全张开，展现**“张鳍威吓 (Fin Spreading)”**姿态。而在进食时，它们会用吸盘状的嘴刮食玻璃面或沉木上的藻类、生物膜与木质纤维（**“吸盘刮食 (Suction Grazing)”**）。",
+                "body_signals": [
+                    {
+                        "name": "背鳍与胸鳍完全张开 (Fin Spreading)",
+                        "meaning": "领地宣示或对同类公鱼的警告信号；需提供足够的沉木与洞穴以减少争斗。",
+                        "response": "在缸内增加沉木和罐子洞穴的数量，分散公鱼之间的领地冲突。"
+                    },
+                    {
+                        "name": "吸盘嘴紧贴玻璃或沉木移动 (Suction Grazing)",
+                        "meaning": "刮食藻类与木质素的正常进食行为；可在关灯后保持暗光以便其夜间摄食。",
+                        "response": "保持规律的昼夜灯光定时，让其在关灯后的夜间能够安静无干扰地摄食。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水质参数检查(23-27℃, pH 6.5-7.5)与沉木检查",
+                        "text": "检查水温及过滤水流，确认沉木完好供其刮食纤维。"
+                    },
+                    {
+                        "name": "白天：烫熟蔬果（西葫芦/菠菜）喂食与洞穴检查",
+                        "text": "将烫熟的西葫芦固定在缸底防止营养不良，检查繁殖罐状态。"
+                    },
+                    {
+                        "name": "晚上：清理残余蔬果与投喂沉底草食饲料",
+                        "text": "4-6小时后取出残余蔬果防止水质恶化，关灯前投喂螺旋藻沉底片粮。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水族箱里必须放置天然“沉木”吗？",
+                        "answer": "是的，非常必要。胡子异型需要刮食沉木中的木质纤维（木质素）来维持肠道菌群健康和肠道蠕动。缺乏天然沉木容易导致其消化不良、肠梗阻甚至死亡。"
+                    },
+                    {
+                        "question": "如何通过嘴部的触须（胡子）区分公母？",
+                        "answer": "成熟的公鱼从嘴唇延伸至额头中央会长出长而分叉的分茂触须；而母鱼通常完全没有触须，或仅在嘴唇边缘长有一圈极短小微弱的突起。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidados del Pleco Ancystrus (Bristlenose) y rutina diaria de 3 pasos para algas y tronco",
+                "description": "Cuidado esencial del Pleco Ancystrus, el limpiador estrella del acuario. Descubra los tentáculos de su hocico, la necesidad del tronco para su digestión y la rutina de alimentación.",
+                "authority": "Guías Clínicas de la WAZA e Ictiología Veterinaria",
+                "profile": {
+                    "breed": "Pleco Ancystrus / Pleco Barbudo (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15 años",
+                    "sleep_pattern": "10 ~ 12 horas (descanso en troncos/cuevas con luz; pastoreo nocturno)",
+                    "temperament": "Pacífico, herbívoro/detritívoro, nocturno, territorial entre machos"
+                },
+                "intro": "El Pleco Ancystrus (*Ancistrus* spp.) es uno de los peces de fondo más populares del mundo debido a su excelente trabajo consumiendo algas y a su hocico ramificado. Los machos adultos desarrollan llamativos tentáculos (barbillas) en el hocico. A diferencia de los plecos comunes gigantes, el Ancystrus alcanza solo entre 10 y 15 cm, siendo ideal para acuarios comunitarios medianos. Para mantener su sistema digestivo saludable, es obligatorio disponer de troncos de madera natural en el acuario, ya que ingieren lignina esencial para su flora intestinal. Dado que las algas del acuario no bastan, deben suplementarse con verduras escaldadas (calabacín, pepino, espinacas) y tabletas de fondo. Hoy en PetSelf compartimos su guía de cuidados.",
+                "whyTitle": "Comunicación del Pleco Ancystrus: Despliegue de aletas y pastoreo con ventosa",
+                "whyDesc": "Para defender su cueva o marcar territorio, el Ancystrus despliega completamente sus aletas dorsal y pectorales (**'Despliegue de aletas'**). Durante la alimentación, utiliza su boca en forma de ventosa para raspar algas y madera (**'Pastoreo con ventosa'**).",
+                "body_signals": [
+                    {
+                        "name": "Aletas dorsal y pectorales erguidas (Fin Spreading)",
+                        "meaning": "Muestra territorial o advertencia hacia otros machos; proporcione cueva y refugios suficientes.",
+                        "response": "Coloque múltiples cuevas de barro y troncos para evitar agresiones entre machos."
+                    },
+                    {
+                        "name": "Boca adherida rascando el cristal o madera (Suction Grazing)",
+                        "meaning": "Conducta de alimentación normal raspando algas y fibra de madera; mantenga luz tenue por la noche.",
+                        "response": "Permita que se alimente sin molestias ajustando el temporizador de la iluminación."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de parámetros (23-27 °C, pH 6.5-7.5) e inspección de troncos",
+                        "text": "Verifique temperatura, filtración y disponibilidad de madera natural."
+                    },
+                    {
+                        "name": "Tarde: Alimentación con verdura escaldada (calabacín) y revisión de cuevas",
+                        "text": "Fije una rodaja de calabacín escaldado en el fondo para evitar la desnutrición."
+                    },
+                    {
+                        "name": "Noche: Retirada de restos y alimento en pastillas de fondo",
+                        "text": "Retire los restos de verdura tras 4-6 horas y deposite pastillas de espirulina antes de apagar la luz."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es totalmente obligatorio tener madera o troncos naturales en el acuario?",
+                        "answer": "Sí, es imprescindible. El Pleco Ancystrus necesita raspar la fibra de la madera (lignina) para mantener activa su microbiota intestinal y asegurar el tránsito digestivo. Sin madera natural, corren un alto riesgo de sufrir bloqueos intestinales mortales."
+                    },
+                    {
+                        "question": "¿Cómo diferenciar machos y hembras a través de los tentáculos del hocico?",
+                        "answer": "Los machos adultos desarrollan tentáculos largos y ramificados que se extienden por el centro del hocico hacia la frente. Las hembras no presentan tentáculos o solo tienen pequeños picos microscópicos bordeando el labio superior."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soins de l'Ancistrus (Bristlenose Pleco) et routine en 3 étapes pour le bois et les algues",
+                "description": "Soins essentiels pour l'Ancistrus, le poisson nettoyeur indispensable. Découvrez le rôle des tentacules du museau, le besoin en bois naturel et la routine de nourriture.",
+                "authority": "Directives de la WAZA et Manuel d'Ictyologie Vétérinaire",
+                "profile": {
+                    "breed": "Ancistrus / Pleco à moustaches (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15 ans",
+                    "sleep_pattern": "10 ~ 12 heures (repos sous le bois le jour, brouteur nocturne)",
+                    "temperament": "Paisible, herbivore/détritivore, nocturne, territorial entre mâles"
+                },
+                "intro": "L'Ancistrus (*Ancistrus* spp.) est un poisson-chat de fond célèbre dans le monde entier pour son efficacité à manger les algues et ses excroissances faciales caractéristiques. Les mâles adultes développent de buissonnants tentacules sur le museau. Contrairement au Pleco commun géant, l'Ancistrus mesure seulement entre 10 et 15 cm à taille adulte, s'adaptant parfaitement aux bacs communautaires de taille moyenne. Sa digestion nécessite la présence de bois naturel (racines) dont il extrait la lignine indispensable à son transit intestinal. Les algues du bac ne suffisant pas, un apport en légumes blanchis (courgettes, poivrons, épinards) et en pastilles de fond est indispensable. PetSelf vous présente sa routine de soin en 3 étapes.",
+                "whyTitle": "Communication de l'Ancistrus : Déploiement des nageoires et râpage à ventouse",
+                "whyDesc": "Pour défendre une cavité ou impressionner un rival, l'Ancistrus dresse fièrement sa nageoire dorsale et ses pectorales (**'Déploiement des nageoires'**). Pour se nourrir, il utilise sa bouche en ventouse pour râper la roche et le bois (**'Râpage à ventouse'**).",
+                "body_signals": [
+                    {
+                        "name": "Nageoires dorsale et pectorales dressées (Fin Spreading)",
+                        "meaning": "Signal territorial ou d'avertissement envers d'autres mâles ; prévoyez suffisamment de cachettes.",
+                        "response": "Ajoutez des racines et des tubes en terre cuite pour réduire les tensions territoriales."
+                    },
+                    {
+                        "name": "Bouche ventouse râpant les vitres ou la racine (Suction Grazing)",
+                        "meaning": "Comportement alimentaire normal récoltant biofilm et lignine ; tamisez la lumière le soir.",
+                        "response": "Assurez-lui un temps de pâturage nocturne paisible en régulant l'éclairage de l'aquarium."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle des paramètres de l'eau (23-27 °C, pH 6,5-7,5) et des racines",
+                        "text": "Vérifiez la température, la filtration et la présence de bois naturel."
+                    },
+                    {
+                        "name": "Après-midi : Distribution de légumes blanchis (courgette) et inspection des cachottes",
+                        "text": "Fixez une rondelle de courgette pochée au fond pour éviter la famine."
+                    },
+                    {
+                        "name": "Soir : Retrait des restes et distribution de pastilles de fond",
+                        "text": "Retirez les légumes après 4 à 6 heures et distribuez des pastilles à la spiruline avant la nuit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "La présence de racines en bois naturel est-elle obligatoire dans l'aquarium ?",
+                        "answer": "Oui, c'est indispensable. L'Ancistrus doit râper les fibres de bois (lignine) pour assurer le bon fonctionnement de sa flore intestinale et son transit. Sans racines en bois naturel, il s'expose à de graves occlusions intestinales."
+                    },
+                    {
+                        "question": "Comment distinguer les mâles des femelles grâce aux tentacules du museau ?",
+                        "answer": "Les mâles adultes développent de longs tentacules ramifiés recouvrant le devant du museau et remontant vers le front. Les femelles n'ont pas de tentacules ou seulement de minuscules piquants le long de la lèvre supérieure."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Antennenwels (Bristlenose Pleco) Pflege & 3-Schritte-Tagesroutine für Holz & Gemüse",
+                "description": "Essenzielle Pflege für den Antennenwels (Ancistrus). Erfahren Sie alles über die Tentakeln des Männchens, die Notwendigkeit von Wurzelholz und die 3-Schritte-Fütterung.",
+                "authority": "WAZA-Richtlinien & Klinische Protokolle der Veterinär-Ichthyologie",
+                "profile": {
+                    "breed": "Antennenwels / Ancistrus (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Ruhe an Wurzeln/Höhlen tagsüber; nachtaktiver Gründler)",
+                    "temperament": "Friedlich, pflanzenfressend/Detritivor, nachtaktiv, Männchen territorial"
+                },
+                "intro": "Der Antennenwels (*Ancistrus* spp.) gehört zu den weltweit bekanntesten Aquariumbewohnern und Algenfressern. Ausgewachsene Männchen tragen imposante geweihartige Auswüchse (Tentakeln) auf der Schnauze. Im Gegensatz zu riesigen Welsarten wird der Antennenwels nur etwa 10–15 cm groß und passt hervorragend in mittlere Gesellschaftsaquarien. Für eine gesunde Verdauung benötigen Antennenwelse zwingend echtes Holz (Moorholzwurzeln), da sie Lignin zur Darmfunktion abraspeln. Da Algen im Becken allein nicht ausreichen, ist die Zufütterung von überbrühtem Gemüse (Zucchini, Kürbis, Spinat) und Welstabletten essenziell. PetSelf zeigt die richtige Pflege in einer 3-Schritte-Routine.",
+                "whyTitle": "Kommunikation des Antennenwelses: Flossenaufstellen und Raspeln mit dem Saugmaul",
+                "whyDesc": "Zur Revierverteidigung stellt der Antennenwels seine Rücken- und Brustflossen steil auf (**'Flossenaufstellen'**). Beim Fressen nutzt er sein Saugmaul, um Algen, Biofilm und Holzfasern abzuraspeln (**'Raspeln mit dem Saugmaul'**).",
+                "body_signals": [
+                    {
+                        "name": "Steil aufgerichtete Rücken- und Brustflossen (Fin Spreading)",
+                        "meaning": "Territorialverhalten oder Imponiergehabe gegenüber Rivalen; ausreichend Höhlen anbieten.",
+                        "response": "Bieten Sie mehrere Welshöhlen und Wurzeln an, um Reviereskalationen zu vermeiden."
+                    },
+                    {
+                        "name": "Saugmaul raspelt an Scheibe oder Wurzel (Suction Grazing)",
+                        "meaning": "Normales Fressverhalten zur Aufnahme von Algen und Lignin; abends für Dämmerlicht sorgen.",
+                        "response": "Sorgen Sie für ungestörte nächtliche Fressphasen durch eine regelmäßige Beleuchtungsdauer."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wasserwerte (23-27 °C, pH 6,5-7,5) & Wurzel-Kontrolle",
+                        "text": "Prüfen Sie Wassertemperatur, Filterströmung und das Vorhandensein von echtem Holz."
+                    },
+                    {
+                        "name": "Nachmittag: Fütterung von überbrühtem Gemüse (Zucchini) & Höhlen-Check",
+                        "text": "Befestigen Sie eine Scheibe überbrühte Zucchini am Boden gegen Futtermangel."
+                    },
+                    {
+                        "name": "Abend: Gemüsereste entfernen & Welstabletten füttern",
+                        "text": "Entfernen Sie Gemüsereste nach 4-6 Stunden und füttern Sie Spirulina-Wafer vor dem Ausschalten des Lichts."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist echtes Wurzelholz im Aquarium für Antennenwelse absolut notwendig?",
+                        "answer": "Ja, absolut essenziell. Antennenwelse müssen Holzfasern (Lignin) abraspeln, um ihre Darmflora gesund zu halten und die Verdauung zu unterstützen. Ohne echtes Wurzelholz drohen tödliche Darmverschlüsse."
+                    },
+                    {
+                        "question": "Wie unterscheidet man Männchen und Weibchen an den Antennen (Tentakeln)?",
+                        "answer": "Ausgewachsene Männchen entwickeln lange, verzweigte Tentakeln auf der Schnauzenmitte bis zur Stirn. Weibchen besitzen meist gar keine Antennen oder nur einen sehr kurzen, feinen Borstenkranz entlang der Oberlippe."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidados com o Cascudo Ancastro (Bristlenose Pleco) e rotina diária de 3 passos para madeira e vegetais",
+                "description": "Cuidados essenciais para o Cascudo Ancastro, o limpador oficial do aquário. Conheça os tentáculos no focinho, a necessidade de troncos e a rotina de alimentação.",
+                "authority": "Diretrizes Clínicas da WAZA e Ictiologia Veterinária",
+                "profile": {
+                    "breed": "Cascudo Ancastro / Pleco Barbudo (Bristlenose Pleco / Ancistrus spp.)",
+                    "lifespan": "10 ~ 15 anos",
+                    "sleep_pattern": "10 ~ 12 horas (repouso sob troncos/tocas durante o dia; pastagem noturna)",
+                    "temperament": "Pacífico, herbívoro/detritívoro, noturno, territorial entre machos"
+                },
+                "intro": "O Cascudo Ancastro (*Ancistrus* spp.) é um dos peixes de fundo mais populares do mundo devido ao seu trabalho impecável na remoção de algas e ao seu focinho exótico. Os machos adultos desenvolvem tentáculos ramificados (barbelas) no focinho. Diferente dos cascudos comuns gigantes, o Ancastro atinge apenas de 10 a 15 cm, sendo ideal para aquários comunitários de porte médio. Para manter o seu trato digestivo saudável, é indispensável ter troncos de madeira natural no aquário, pois eles ingerem lignina essencial para a digestão. Como as algas do aquário não são suficientes, a suplementação com vegetais aferventados (abobrinha, pepino, espinafre) e ração de fundo é obrigatória. Hoje no PetSelf apresentamos o seu guia de cuidados.",
+                "whyTitle": "Comunicação do Cascudo Ancastro: Abertura de nadadeiras e raspagem com ventosa",
+                "whyDesc": "Para defender a sua toca ou intimidar rivais, o Ancastro ergue totalmente a nadadeira dorsal e peitorais (**'Abertura de nadadeiras'**). Ao alimentar-se, utiliza a boca em forma de ventosa para raspar algas e madeira (**'Raspagem com ventosa'**).",
+                "body_signals": [
+                    {
+                        "name": "Nadadeiras dorsal e peitorais eretas (Fin Spreading)",
+                        "meaning": "Exibição territorial ou aviso para outros machos; forneça tocas e troncos suficientes.",
+                        "response": "Adicione mais tocas de cerâmica e troncos para diminuir o estresse entre machos."
+                    },
+                    {
+                        "name": "Boca aderida raspando o vidro ou tronco (Suction Grazing)",
+                        "meaning": "Comportamento alimentar normal raspando algas e fibra de madeira; mantenha luz branda à noite.",
+                        "response": "Proporcione um período noturno de pastagem sem perturbações ajustando a iluminação."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem dos parâmetros da água (23-27 °C, pH 6.5-7.5) e inspeção de troncos",
+                        "text": "Verifique temperatura, filtragem e presença de madeira natural."
+                    },
+                    {
+                        "name": "Tarde: Alimentação com vegetal aferventado (abobrinha) e checagem de tocas",
+                        "text": "Fixe uma rodela de abobrinha aferventada no fundo para evitar a desnutrição."
+                    },
+                    {
+                        "name": "Noite: Remoção de sobras e ração de fundo",
+                        "text": "Retire os restos de vegetais após 4-6 horas e ofereça pastilhas de espirulina antes de apagar as luzes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A presença de troncos de madeira natural é obrigatória no aquário?",
+                        "answer": "Sim, é fundamental. O Cascudo Ancastro precisa raspar a fibra de madeira (lignina) para garantir a saúde da flora intestinal e o funcionamento digestivo. Sem madeira natural no aquário, há um elevado risco de obstrução intestinal fatal."
+                    },
+                    {
+                        "question": "Como diferenciar machos e fêmeas através dos tentáculos no focinho?",
+                        "answer": "Os machos adultos possuem tentáculos longos e ramificados que sobem pelo centro do focinho em direção à cabeça. As fêmeas não apresentam tentáculos ou possuem apenas minúsculas espinhas na borda do lábio superior."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Perawatan Bristlenose Pleco (Ikan Ancis) dan Rutinitas Harian 3 Langkah Kayu Renghas & Sayuran",
+                "description": "Perawatan esensial untuk Bristlenose Pleco (Ancistrus), ikan pembersih akuarium populer. Pelajari fungsi sungut di moncongnya, kebutuhan kayu tenggelam, dan pakan sayuran.",
+                "authority": "Panduan Klinis WAZA & Ikhtiologi Veteriner",
+                "profile": {
+                    "breed": "Bristlenose Pleco / Ikan Ancis (Ancistrus spp.)",
+                    "lifespan": "10 ~ 15 tahun",
+                    "sleep_pattern": "10 ~ 12 jam (istirahat di kayu/gua saat lampu menyala; aktif di dasar saat malam)",
+                    "temperament": "Damai, herbivora/detritivora, nokturnal, teritorial antar jantan"
+                },
+                "intro": "Bristlenose Pleco (*Ancistrus* spp. atau dikenal sebagai Ikan Ancis) adalah ikan pembersih dasar akuarium yang sangat populer di seluruh dunia berkat kemampuannya memakan lumut dan sungut unik di wajahnya. Pejantan dewasa memiliki sungut bercabang yang lebat di sekitar moncongnya. Berbeda dengan jenis sapu-sapu biasa yang bisa tumbuh raksasa, Ikan Ancis hanya tumbuh sekitar 10-15 cm sehingga cocok untuk akuarium komunitas ukuran sedang. Untuk menjaga kesehatan pencernaannya, keberadaan kayu tenggelam (driftwood) di akuarium sangat wajib karena mereka membutuhkan serat lignin dari kayu. Karena lumut di akuarium saja tidak cukup, pemberian pakan tambahan berupa sayuran rebus (zukini, labu, bayam) serta pelet tenggelam sangat penting. Hari ini PetSelf membagikan panduan perawatannya.",
+                "whyTitle": "Komunikasi Bristlenose Pleco: Mekarnya Sirip dan Mengikis dengan Mulut Penghisap",
+                "whyDesc": "Saat mempertahankan gua atau menandai wilayah, Ikan Ancis akan menegakkan sirip punggung dan dada (**'Mekarnya Sirip'**). Saat makan, mereka menggunakan mulut penghisapnya untuk mengikis lumut, biofilm, dan serat kayu (**'Mengikis dengan Mulut Penghisap'**).",
+                "body_signals": [
+                    {
+                        "name": "Sirip Punggung & Dada Tegak Mekar (Fin Spreading)",
+                        "meaning": "Tampilan teritorial atau peringatan kepada sesama pejantan; sediakan gua dan kayu yang cukup.",
+                        "response": "Tambahkan beberapa gua keramik dan kayu tenggelam untuk meminimalkan persaingan antar pejantan."
+                    },
+                    {
+                        "name": "Mulut Penghisap Mengikis Kaca atau Kayu (Suction Grazing)",
+                        "meaning": "Perilaku makan normal mengambil biofilm dan serat lignin; redupkan lampu akuarium saat malam.",
+                        "response": "Atur waktu pencahayaan akuarium secara teratur agar mereka dapat makan di malam hari tanpa gangguan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Parameter Air (23-27°C, pH 6.5-7.5) & Inspeksi Kayu",
+                        "text": "Periksa suhu air, filtrasi, dan ketersediaan kayu alami untuk pencernaan serat."
+                    },
+                    {
+                        "name": "Siang: Pemberian Sayuran Rebus (Zukini/Bayam) & Cek Gua",
+                        "text": "Tancapkan irisan zukini rebus di dasar akuarium untuk mencegah kelaparan, dan cek gua pemijahan."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Sisa Sayuran & Pemberian Pelet Tenggelam",
+                        "text": "Angkat sisa sayuran setelah 4-6 jam agar air tidak keruh, lalu berikan pelet spirulina tenggelam sebelum mematikan lampu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah kayu tenggelam (driftwood) alami wajib ada di akuarium Ikan Ancis?",
+                        "answer": "Ya, sangat wajib. Ikan Ancis membutuhkan serat kayu alami (lignin) untuk menjaga mikroflora usus dan kelancaran sistem pencernaannya. Tanpa adanya kayu alami, mereka berisiko tinggi mengalami penyumbatan usus yang fatal."
+                    },
+                    {
+                        "question": "Bagaimana cara membedakan jantan dan betina dari sungut di moncongnya?",
+                        "answer": "Pejantan dewasa memiliki sungut panjang bercabang yang tumbuh meluas dari sekitar moncong hingga ke dahi. Betina biasanya tidak memiliki sungut sama sekali atau hanya memiliki bintik-bintik duri yang sangat pendek di sepanjang tepi bibir atas."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/bristlenose_pleco_care.webp"
+    }
+}

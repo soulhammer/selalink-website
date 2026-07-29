@@ -1,0 +1,459 @@
+{
+    "hermit-crab-care": {
+        "pubDate": "2026-07-07",
+        "updatedDate": "2026-07-07",
+        "locales": {
+            "ko": {
+                "title": "퍼플 핀처 소라게 쉘 교체와 모래 버로우 탈피 환경 3단계 데일리 케어",
+                "description": "반려 갑각류의 대명사 퍼플 핀처 소라게. 탈피를 위한 버로우(Burrowing) 깊은 바닥재 세팅과 아가미 호흡을 돕는 온·습도 유지 중심의 3단계 가이드라인을 소개합니다.",
+                "authority": "세계 갑각류 사육 협회(HCA) 및 외래 소동물 수의학(Exotic Pet Veterinary) 임상 가이드라인",
+                "profile": {
+                    "breed": "퍼플 핀처 소라게 (Purple Pincher Hermit Crab / Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20년 이상",
+                    "sleep_pattern": "12 ~ 14시간 (주간 모래 속 또는 은신처 휴식, 야간 적극적인 집게 활동)",
+                    "temperament": "사회성 높음, 야행성, 겁 많음, 잡식성, 무리 생활 선호, 구멍파기 습성"
+                },
+                "intro": "퍼플 핀처 소라게(*Coenobita clypeatus*)는 단단하고 아름다운 집게발과 귀여운 눈망울로 전 세계에서 가장 사랑받는 반려 갑각류입니다. 집게발의 보랏빛 오묘한 색상이 특징이며, 평생 성장에 맞춰 알맞은 크기의 쉘(조개껍데기)을 바꾸어 입는 고유한 생태 습성을 지녔습니다. 육지 소라게이지만 변형된 아가미로 호흡하므로 사육장 내 습도(75~85%) 유지가 생명 유지의 핵심입니다. 또한 탈피 시 모래 속 깊숙이 파고드는 버로우(Burrowing) 행동을 하므로 소라게 키의 3배 이상 깊이의 코코피트/에코버로우 바닥재 세팅이 필수적입니다. 소라게는 사회적 동물로 단독 사육 시 스트레스를 받기 쉽습니다. 오늘 PetSelf에서는 소라게의 행동 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.",
+                "whyTitle": "퍼플 핀처 소라게의 행동 표현: 집게발 모으기(Shell Hiding)와 촉각 더듬기",
+                "whyDesc": "소라게는 위협을 느끼거나 경계할 때 큰 집게발로 껍질 입구를 완벽히 막는 **'껍질 숨기(Shell Hiding)'** 행동을 보입니다. 반면 환경이 안전하고 호기심이 생기면 껍질 밖으로 나와 더듬이(촉각)를 빠르게 펄럭이며 주변 환경과 먹이 냄새를 감지합니다.",
+                "body_signals": [
+                    {
+                        "name": "집에 들어가 큰 집게발로 입구 막기 (Shell Hiding)",
+                        "meaning": "포식자나 낯선 자극에 대한 방어 행동으로, 신체적·심리적 불안감을 느끼고 있는 상태입니다.",
+                        "response": "억지로 껍질에서 꺼내려 하지 말고 스스로 나올 때까지 사육장 조명을 낮추고 기다려 줍니다."
+                    },
+                    {
+                        "name": "더듬이를 빠르게 펄럭이며 당당히 움직이기 (Antenna Flicking)",
+                        "meaning": "주변 환경에 대한 적극적인 호기심 및 사냥/먹이 탐색 반응입니다.",
+                        "response": "신선한 과일이나 해수/담수를 채워주어 원활한 활동을 지원해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 사육장 온·습도(24~28℃, 75~85%) 점검 및 담수·해수 교체",
+                        "text": "아가미 호흡을 위해 습도를 75~85%로 유지하고, 탈염소 담수와 해수 수조의 물을 깨끗이 교체합니다."
+                    },
+                    {
+                        "name": "낮: 깊은 바닥재(버로우 모래) 습도 유지 및 교체용 여분 쉘 배치",
+                        "text": "몸 높이의 3배 이상 깊이인 모래/코코피트 바닥재가 수분을 함유하도록 관리하고, 다양한 입구 크기의 여분 쉘을 배치합니다."
+                    },
+                    {
+                        "name": "저녁: 잡식성 칼슘·단백질 야간 먹이 급여 및 버로우 개체 관찰",
+                        "text": "갑각 형성을 위한 칼슘 파우더와 단백질, 과일 먹이를 야간에 급여합니다. 탈피를 위해 버로우한 개체는 절대 억지로 파내지 않습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "소라게가 바닥재 속으로 파고 들어가서 몇 주 동안 안 나오는데 죽은 건가요?",
+                        "answer": "아닙니다. 소라게는 몸이 자라면 바닥재 깊숙이 파고 들어가 외갑각을 벗어내는 탈피(Molting) 과정을 거칩니다. 탈피 중에는 몸이 매우 약해진 상태이므로 억지로 파내거나 건드리면 생명이 위험해집니다. 스스로 나올 때까지 수 주 동안 기다려야 합니다."
+                    },
+                    {
+                        "question": "소라게 사육 시 해수(바닷물)가 왜 필요한가요?",
+                        "answer": "육지 소라게는 삼투압 조절과 껍질 내부 체액 유지를 위해 담수와 해수가 모두 필요합니다. 마트의 천일염이나 식용 소금이 아닌, 수족관 전용 해수염(Instant Ocean 등)을 탈염소 물에 타서 담수와 해수 두 개의 수조를 동시에 제공해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Purple Pincher Hermit Crab Shell Selection and 3-Step Burrowing Molt Daily Routine",
+                "description": "Essential care for the Purple Pincher Hermit Crab. Discover substrate depth requirements for molting, gill humidity management, and a 3-step habitat care guide.",
+                "authority": "Hermit Crab Association (HCA) & Exotic Pet Veterinary Clinical Protocols",
+                "profile": {
+                    "breed": "Purple Pincher Hermit Crab (Coenobita clypeatus)",
+                    "lifespan": "10 - 20+ Years",
+                    "sleep_pattern": "12 - 14 Hours (Burrowed in Substrate During Day; Active Night Foraging)",
+                    "temperament": "Highly Social, Nocturnal, Timid, Omnivorous, Colony-Loving, Burrowing"
+                },
+                "intro": "The Purple Pincher Hermit Crab (*Coenobita clypeatus*) is the most cherished land hermit crab species worldwide, recognized by its distinct purple large claw, round eyes, and lifelong need to swap shells as it grows. Though terrestrial, they breathe via modified gills, making habitat humidity (75–85%) critical to their survival. Additionally, they require a deep substrate—at least three times their height—of sand and coconut fiber to burrow safely during ecdysis (molting). Being social animals, they thrive in groups rather than solitary setups. Today, PetSelf breaks down hermit crab behaviors and outlines a 3-step daily care routine.",
+                "whyTitle": "Purple Pincher Communication: Shell Hiding and Antenna Waving",
+                "whyDesc": "When feeling threatened or startled, hermit crabs retract into their shell and block the entrance with their large claw (**'Shell Hiding'**). When feeling safe and curious, they extend their body and rapidly wave their antennae (**'Antenna Waving'**) to sample scent molecules and inspect surroundings.",
+                "body_signals": [
+                    {
+                        "name": "Retracting Inside & Blocking Entrance (Shell Hiding)",
+                        "meaning": "A defensive reflex indicating fear or stress caused by handling, bright lights, or unfamiliar sounds.",
+                        "response": "Never force them out of their shell; dim the tank lighting and allow them to emerge when comfortable."
+                    },
+                    {
+                        "name": "Rapid Antenna Waving & Active Exploration (Antenna Waving)",
+                        "meaning": "Indicates a curious, confident state as they actively hunt for food or explore new items.",
+                        "response": "Provide fresh food and ensure both freshwater and saltwater pools are accessible."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Environment Check (24-28°C / 75-85% Humidity) & Water Replenishment",
+                        "text": "Maintain 75-85% relative humidity for gill respiration. Clean and refill both dechlorinated freshwater and marine saltwater pools."
+                    },
+                    {
+                        "name": "Afternoon: Substrate Moisture Audit & Shell Selection Prep",
+                        "text": "Ensure sand/coco-fiber substrate is deep enough (3x crab height) and holds sandcastle consistency. Provide various natural, non-painted spare shells."
+                    },
+                    {
+                        "name": "Evening: Calcium & Protein Night Feeding & Molter Safety",
+                        "text": "Offer protein, calcium powder, and fresh produce before nighttime activity. Never dig up a hermit crab that has burrowed for molting."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My hermit crab dug under the sand and hasn't come out for weeks. Is it dead?",
+                        "answer": "No. Hermit crabs burrow deep into moist substrate to undergo molting (shedding their exoskeleton). During molting, their soft new body is extremely fragile. Never dig them up or disturb the sand, as this can be fatal. They will emerge naturally when finished."
+                    },
+                    {
+                        "question": "Why do land hermit crabs require saltwater?",
+                        "answer": "Land hermit crabs need saltwater to maintain internal osmotic balance and shell water composition. Use marine aquarium salt (e.g., Instant Ocean) dissolved in dechlorinated water, never table salt or iodized salt. Always provide separate freshwater and saltwater dishes."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "オオナキヤドカリ（パープルピンチャー）の貝殻交換と砂掘り脱皮の3ステップ日常ルーティン",
+                "description": "オオナキヤドカリ（パープルピンチャー）の飼育ガイド。脱皮のための深めの底砂セッティング、鰓呼吸を助ける温湿度管理、3ステップ日常ケアを解説します。",
+                "authority": "世界甲殻類飼育協会（HCA）およびエキゾチック小動物獣医学ガイドライン",
+                "profile": {
+                    "breed": "オオナキヤドカリ / パープルピンチャー (Coenobita clypeatus)",
+                    "lifespan": "10 〜 20年以上",
+                    "sleep_pattern": "10 〜 12時間 (日中は砂の中や隠れ家で休息、夜間に活発な活動)",
+                    "temperament": "社会性が高い、夜行性、臆病、雑食性、群れを好む、潜り習性"
+                },
+                "intro": "パープルピンチャー（オオナキヤドカリ /*Coenobita clypeatus*）は、紫色のハサミとつぶらな瞳が可愛らしい世界中で大人気の陸オカヤドカリです。生涯の成長に合わせて自分の体に合った貝殻（宿貝）へ引っ越す独特な生態を持っています。陸上生活ですが変形した鰓（えら）で呼吸するため、ケージ内の湿度（75〜85%）維持が命を守る最重要ポイントです。また、脱皮の際には砂の中深く潜る習性（Burrowing）があるため、個体の高さの3倍以上の深さの底砂（サンゴ砂やココナッツピート）が必要です。集団で暮らす社会的な動物であるため、複数量での飼育が推奨されます。今回はPetSelfが日常ケアを解説します。",
+                "whyTitle": "パープルピンチャーの行動表現：殻閉じ（Shell Hiding）と触角の触れ合い",
+                "whyDesc": "ヤドカリは危険を感じると大きなハサミで殻の入口をぴったり塞ぐ**「殻閉じ（Shell Hiding）」**を行います。安全を感じると体を乗り出し、触角をパタパタと動かして（**「触角振るい」**）周囲の匂いや状況を感知します。",
+                "body_signals": [
+                    {
+                        "name": "殻の中にこもってハサミで蓋をする (Shell Hiding)",
+                        "meaning": "恐怖やストレスに対する防衛行動です。無理に引っ張り出そうとしないでください。",
+                        "response": "照明を落とし、静かに自分で出てくるのを待ちます。"
+                    },
+                    {
+                        "name": "体を乗り出して触角をパタパタ動かす (Antenna Waving)",
+                        "meaning": "環境に慣れ、好奇心を持って食べ物や安全を確認しているポジティブな状態です。",
+                        "response": "新鮮な食べ物や海水・淡水を用意して活動をサポートしてあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：温湿度（24〜28℃、75〜85%）の点検と淡水・海水の交換",
+                        "text": "鰓呼吸のために湿度を75〜85%に保ち、カルキ抜きした淡水と海水プールを綺麗に交換します。"
+                    },
+                    {
+                        "name": "昼：底砂の湿度チェックと予備の引っ越し用貝殻の配置",
+                        "text": "ヤドカリの高さの3倍以上の湿った砂（団子ができる硬さ）を維持し、無塗装の天然貝殻を複数用意します。"
+                    },
+                    {
+                        "name": "夜：カルシウム・タンパク質のエサ給餌と潜り個体の保護",
+                        "text": "脱皮や殻形成に必要なカルシウムやタンパク質を夜間に与えます。脱皮のために潜っている個体は絶対掘り起こさないでください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ヤドカリが砂の中に潜ったまま何週間も出てこないのですが死んでいますか？",
+                        "answer": "いいえ。ヤドカリは脱皮（モルティング）の際、砂深く潜って古い外骨格を脱ぎ捨てます。脱皮直後は体が非常に柔らかく繊細なため、絶対に無理やり掘り起こさないでください。無事に完了すれば自力で出てきます。"
+                    },
+                    {
+                        "question": "オカヤドカリの飼育になぜ「海水」が必要なのですか？",
+                        "answer": "オカヤドカリは体内の浸透圧調整や貝殻内の水分維持のために淡水と海数の両方を必要とします。食卓塩ではなく観賞魚用の人工海水塩を脱塩素水に溶かし、淡水と海水の両方の水たまりを用意してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "紫陆潮蟹（紫陆西氏外壳）换壳与深度打洞蜕皮3阶段日常护理指南",
+                "description": "针对热门宠物甲壳类紫陆潮蟹 (Coenobita clypeatus)。了解供其蜕皮的深度垫料打洞（Burrowing）设置，以及维持腮呼吸温湿度的3阶段日常护理流程。",
+                "authority": "世界甲壳类协会 (HCA) 及异宠兽医临床指南",
+                "profile": {
+                    "breed": "紫陆潮蟹 / 灰白陆潮蟹 (Purple Pincher / Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20年以上",
+                    "sleep_pattern": "12 ~ 14小时 (白天在沙中或躲避穴休息，夜间活跃)",
+                    "temperament": "社会化程度高、夜行性、胆小、杂食性、喜群居、喜打洞"
+                },
+                "intro": "紫陆潮蟹 (*Coenobita clypeatus*) 因其醒目的紫色大螯和可爱的眼睛而成为全球最受欢迎的宠物寄居蟹。它们拥有终身随生长更换合适螺壳的独特生理习性。虽然是陆生甲壳动物，但它们依靠蜕化的腮部呼吸，因此饲养箱内75-85%的相对湿度是维持生命的关键。此外，寄居蟹在蜕皮时需要深入沙下打洞 (Burrowing)，必须配置至少为蟹体高度3倍深度的椰土与海沙混合垫料。寄居蟹是群居动物，多只一起饲养能显著降低应激。今天 PetSelf 将解析其行为信号并分享3阶段日常护理流程。",
+                "whyTitle": "紫陆潮蟹的行为表达：缩壳隐蔽 (Shell Hiding) 与触角抖动",
+                "whyDesc": "当感到威胁或惊吓时，寄居蟹会迅速缩入螺壳并用大螯封住壳口（**“缩壳隐蔽 (Shell Hiding)”**）。而在感到安全并产生好奇心时，它们会探出身体并快速抖动触角（**“触角探嗅”**）来收集周围的气味分子。",
+                "body_signals": [
+                    {
+                        "name": "缩入螺壳并用大螯挡住入口 (Shell Hiding)",
+                        "meaning": "针对外界威胁或陌生环境的防御反应，表明其处于不安与应激状态。",
+                        "response": "切勿强行将其拉出螺壳，调暗灯光，让其自然适应后自行爬出。"
+                    },
+                    {
+                        "name": "探出身体并快速晃动触角 (Antenna Waving)",
+                        "meaning": "表明处于放松和好奇状态，正在积极探索环境或寻找食物与水源。",
+                        "response": "提供新鲜食物，并确保淡水水盆与海水水盆水质清洁。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：环境温湿度 (24-28℃, 75-85%) 检查与淡海水更换",
+                        "text": "维持75-85%湿度以保障其腮部呼吸。更换去氯淡水与人工海水水盆。"
+                    },
+                    {
+                        "name": "下午：垫料湿度检查与备用螺壳补充",
+                        "text": "检查沙层深度（至少蟹体3倍深）与湿度（能捏成沙堡状），提供多种口径的无毒天然螺壳。"
+                    },
+                    {
+                        "name": "晚上：钙质与蛋白质夜间喂食及潜沙个体保护",
+                        "text": "夜间投喂钙粉、蛋白质及新鲜蔬果。对于已打洞潜沙蜕皮的个体，切勿挖沙扰动。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "寄居蟹潜入沙下好几个星期不出来，是死了吗？",
+                        "answer": "不是。寄居蟹需要深入湿润的沙层下进行蜕皮 (Molting)。蜕皮期间它们的新身体极其脆弱，切勿挖沙扰动，否则可能导致致命应激。蜕皮完成后它们会自动爬出。"
+                    },
+                    {
+                        "question": "饲养陆寄居蟹为什么一定要提供海水？",
+                        "answer": "陆寄居蟹需要通过海水来调节体内渗透压和维持螺壳内的水份平衡。必须使用水族专用的海水素（如 Instant Ocean）配制海水，绝不能使用食用盐，且须同时提供淡水和海水两个水盆。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado del Cangrejo Ermitaño Purple Pincher: Cambio de concha y rutina de 3 pasos",
+                "description": "Cuidados esenciales para el Cangrejo Ermitaño Purple Pincher. Descubra la profundidad del sustrato para la muda y el control de humedad en un plan de 3 pasos.",
+                "authority": "Hermit Crab Association (HCA) y Protocolos Clínicos Veterinarios",
+                "profile": {
+                    "breed": "Cangrejo Ermitaño Purple Pincher (Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20+ años",
+                    "sleep_pattern": "12 ~ 14 horas (reposo diurno enterrado o en refugio; activo de noche)",
+                    "temperament": "Muy social, nocturno, tímido, omnívoro, le gusta vivir en grupo, excavador"
+                },
+                "intro": "El Cangrejo Ermitaño Purple Pincher (*Coenobita clypeatus*) es el crustáceo de compañía más querido del mundo, reconocible por su pinza grande de tono púrpura y su necesidad vital de cambiar de concha a medida que crece. Aunque es terrestre, respira mediante branquias modificadas, por lo que mantener una humedad del 75 al 85% en el terrario es crucial. Además, requiere un sustrato profundo (al menos 3 veces su altura) de arena y fibra de coco para enterrarse durante la muda (ecdisis). Son animales gregarios que prosperan en grupo. Hoy en PetSelf compartimos su guía de cuidados en 3 pasos.",
+                "whyTitle": "Comunicación del Cangrejo Ermitaño: Refugio en concha y vibración de antenas",
+                "whyDesc": "Ante una amenaza, el cangrejo ermitaño se retrae dentro de su concha y bloquea la entrada con su pinza mayor (**'Refugio en concha'**). Cuando se siente seguro, se extiende y mueve sus antenas rápidamente (**'Vibración de antenas'**) para explorar.",
+                "body_signals": [
+                    {
+                        "name": "Retracción en la concha y bloqueo con pinza (Shell Hiding)",
+                        "meaning": "Respuesta defensiva de estrés o miedo ante la manipulación o luces brillantes.",
+                        "response": "Nunca lo fuerce a salir de la concha; atenúe la luz y deje que salga solo."
+                    },
+                    {
+                        "name": "Cuerpo extendido y movimiento de antenas (Antenna Waving)",
+                        "meaning": "Estado de curiosidad y exploración activa en busca de comida o agua.",
+                        "response": "Ofrézcale alimento fresco y verifique los recipientes de agua dulce y salada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control ambiental (24-28 °C / 75-85% humedad) y agua",
+                        "text": "Mantenga la humedad para su respiración branquial. Cambie los cuencos de agua dulce declorada y agua salada marina."
+                    },
+                    {
+                        "name": "Tarde: Control de humedad del sustrato y conchas de repuesto",
+                        "text": "Asegure que la profundidad del sustrato permita enterrarse. Proporcione varias conchas naturales sin pintar."
+                    },
+                    {
+                        "name": "Noche: Alimentación nocturna de calcio/proteína y protección de mudas",
+                        "text": "Aporte proteína, calcio y verduras antes de la noche. Nunca desentierre a un cangrejo sumergido en la muda."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi cangrejo se enterró bajo la arena y no ha salido en semanas, ¿está muerto?",
+                        "answer": "No. Los cangrejos ermitaños se entierran profundamente para mudar su exoesqueleto. Durante la muda están extremadamente frágiles. Nunca lo desentierre, saldrá por sí solo cuando termine."
+                    },
+                    {
+                        "question": "¿Por qué necesitan agua salada los cangrejos ermitaños terrestres?",
+                        "answer": "Necesitan agua salada para regular su presión osmótica y la composición del agua interna de su concha. Use sal marina para acuarios (ej. Instant Ocean) disuelta en agua declorada, nunca sal de cocina."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soin du Bernard-l'ermite Purple Pincher : Changement de coquille et routine en 3 étapes",
+                "description": "Soins essentiels pour le Bernard-l'ermite Purple Pincher. Découvrez la profondeur du substrat pour la mue et la gestion de l'hygrométrie en 3 étapes.",
+                "authority": "Hermit Crab Association (HCA) et Directives Vétérinaires",
+                "profile": {
+                    "breed": "Bernard-l'ermite Purple Pincher (Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20+ ans",
+                    "sleep_pattern": "12 ~ 14 heures (repos diurne enfoui ou caché; actif la nuit)",
+                    "temperament": "Très social, nocturne, craintif, omnivore, grégaire, fouisseur"
+                },
+                "intro": "Le Bernard-l'ermite Purple Pincher (*Coenobita clypeatus*) est le crustacé terrestre de compagnie le plus populaire au monde, célèbre pour sa grosse pince violette et son besoin de changer de coquille tout au long de sa vie. Bien qu'il vive sur terre, il respire par des branchies modifiées, rendant un taux d'humidité de 75 à 85 % vital. Il exige un substrat profond (au moins 3 fois sa hauteur) pour s'enfouir lors de la mue. Très sociables, ils doivent vivre en groupe. PetSelf vous présente sa routine de soin en 3 étapes.",
+                "whyTitle": "Communication du Bernard-l'ermite : Retrait dans la coquille et agitation des antennes",
+                "whyDesc": "Face au danger, le bernard-l'ermite se réfugie dans sa coquille et bloque l'entrée avec sa pince (**'Retrait dans la coquille'**). Lorsqu'il est en confiance, il sort et agite rapidement ses antennes (**'Agitation des antennes'**).",
+                "body_signals": [
+                    {
+                        "name": "Retrait dans la coquille et blocage (Shell Hiding)",
+                        "meaning": "Reflexe défensif lié au stress ou à la peur lors des manipulations.",
+                        "response": "Ne le forcez jamais à sortir ; tamisez la lumière et laissez-le émerger à son rythme."
+                    },
+                    {
+                        "name": "Corps étendu et balayage des antennes (Antenna Waving)",
+                        "meaning": "Comportement d'exploration confiant à la recherche de nourriture ou d'eau.",
+                        "response": "Distribuez de la nourriture fraîche et vérifiez les bassins d'eau douce et d'eau de mer."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de l'humidité (75-85%) et renouvellement de l'eau",
+                        "text": "Maintenez l'hygrométrie pour sa respiration. Renouvelez l'eau douce déchlorée et l'eau de mer synthétique."
+                    },
+                    {
+                        "name": "Après-midi : Vérification du substrat et coquilles de rechange",
+                        "text": "Vérifiez que le substrat soit humide et assez profond. Offrez un choix de coquilles naturelles non peintes."
+                    },
+                    {
+                        "name": "Soir : Apport en calcium/protéines et respect des mues",
+                        "text": "Donnez des protéines et du calcium le soir. Ne déterrez jamais un bernard-l'ermite enfoui pour sa mue."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon bernard-l'ermite est enfoui sous le sable depuis des semaines, est-il mort ?",
+                        "answer": "Non. Les bernard-l'ermite s'enfouissent profondément dans le substrat pour effectuer leur mue. Durant cette période, leur corps est très fragile. Ne le déterrez jamais, il ressortira de lui-même."
+                    },
+                    {
+                        "question": "Pourquoi le bernard-l'ermite terrestre a-t-il besoin d'eau de mer ?",
+                        "answer": "L'eau de mer leur est indispensable pour réguler leur pression osmotique et l'eau dans leur coquille. Utilisez du sel marin pour aquariophilie dissous dans de l'eau déchlorée, jamais du sel de table."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Landeinsiedlerkrebs Purple Pincher Muschelwechsel & 3-Schritte-Tagesroutine für das Eingraben",
+                "description": "Essenzielle Pflege für den Landeinsiedlerkrebs Purple Pincher. Erfahren Sie alles über Substrattiefe für die Häutung und Kiemenfeuchtigkeit in 3 Schritten.",
+                "authority": "Hermit Crab Association (HCA) & Veterinär-Richtlinien für Exoten",
+                "profile": {
+                    "breed": "Landeinsiedlerkrebs Purple Pincher (Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20+ Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (tagsüber vergraben/versteckt; nachts aktiv)",
+                    "temperament": "Sehr sozial, nachtaktiv, scheu, allesfressend, gesellig, gräbt gerne"
+                },
+                "intro": "Der Landeinsiedlerkrebs Purple Pincher (*Coenobita clypeatus*) ist das weltweit beliebteste Wirbellose fürs Terrarium. Er ist an seiner violetten Schere und seinem ständigen Bedürfnis nach größeren Schneckenhäusern zu erkennen. Da er über Kiemen atmet, ist eine Luftfeuchtigkeit von 75–85 % lebensnotwendig. Zudem benötigt er ein tiefes Substrat (mindestens 3-mal so hoch wie das Tier), um sich zur Häutung einzugraben. Als Gruppentiere sollten sie nie allein gehalten werden. PetSelf zeigt die richtige Pflege in 3 Schritten.",
+                "whyTitle": "Kommunikation des Landeinsiedlerkrebses: Rückzug ins Haus und Fühler-Abtasten",
+                "whyDesc": "Bei Gefahr zieht sich der Krebs in sein Schneckenhaus zurück und verschließt den Eingang mit seiner Schere (**'Rückzug ins Haus'**). Fühlt er sich sicher, streckt er sich heraus und bewegt seine Fühler schnell (**'Fühler-Abtasten'**).",
+                "body_signals": [
+                    {
+                        "name": "Rückzug ins Schneckenhaus und Blockieren (Shell Hiding)",
+                        "meaning": "Schutzreflex bei Angst oder Stress durch Erschütterungen oder Hantieren.",
+                        "response": "Niemals gewaltsam herausholen; Licht dimmen und warten, bis er von selbst herauskommt."
+                    },
+                    {
+                        "name": "Herausstrecken und schnelles Fühlerbewegen (Antenna Waving)",
+                        "meaning": "Ausdruck von Neugier und Erkundungsverhalten auf der Suche nach Wasser oder Nahrung.",
+                        "response": "Frisches Futter bereitstellen und Süß- sowie Meerwasserbecken überprüfen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Klima-Check (24-28 °C / 75-85 % Feuchte) & Wasserwechsel",
+                        "text": "Feuchtigkeit für die Kiemenatmung aufrechterhalten. Entchlortes Süßwasser und Meerwasser erneuern."
+                    },
+                    {
+                        "name": "Nachmittag: Substratkontrolle & Wechselhäuser anbieten",
+                        "text": "Sicherstellen, dass das Sand-Kokos-Gemisch tief genug ist. Natürliche, unlackierte Gehäuse bereitstellen."
+                    },
+                    {
+                        "name": "Abend: Fütterung von Kalzium/Protein & Schutz häutender Tiere",
+                        "text": "Abends Proteine und Kalzium anbieten. Eingegrabene Krebse niemals aus dem Substrat ausgraben."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Krebs ist seit Wochen im Sand vergraben, ist er tot?",
+                        "answer": "Nein. Landeinsiedlerkrebse vergraben sich tief im feuchten Substrat, um sich zu häuten. Während der Häutung ist der neue Panzer extrem weich. Graben Sie ihn niemals aus, er kommt nach der Häutung von selbst hoch."
+                    },
+                    {
+                        "question": "Warum brauchen Landeinsiedlerkrebse Meerwasser?",
+                        "answer": "Sie benötigen Meerwasser zur Regulierung des Osmosedrucks und der Muschelflüssigkeit. Nutzen Sie Meersalz aus der Aquaristik (z. B. Instant Ocean) in entchlortem Wasser, niemals Speisesalz."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidados com o Caranguejo-Ermitão Purple Pincher: Troca de concha e rotina de 3 passos",
+                "description": "Cuidados essenciais para o Caranguejo-Ermitão Purple Pincher. Descubra a profundidade do substrato para a muda e o controle de umidade numa rotina de 3 passos.",
+                "authority": "Hermit Crab Association (HCA) e Diretrizes Clínicas Veterinárias",
+                "profile": {
+                    "breed": "Caranguejo-Ermitão Purple Pincher (Coenobita clypeatus)",
+                    "lifespan": "12 ~ 20+ anos",
+                    "sleep_pattern": "12 ~ 14 horas (repouso diurno enterrado; ativo à noite)",
+                    "temperament": "Muito social, noturno, tímido, onívoro, gregário, escavador"
+                },
+                "intro": "O Caranguejo-Ermitão Purple Pincher (*Coenobita clypeatus*) é o crustáceo de estimação mais querido do mundo, famoso pela sua garra roxa e pela necessidade constante de trocar de concha. Embora seja terrestre, respira por brânquias modificadas, sendo crucial manter a umidade do terrário entre 75 e 85%. Precisa de substrato profundo para se enterrar durante a ecdise (muda). Sendo animais sociais, devem viver em grupo. No PetSelf apresentamos o seu guia de cuidados em 3 passos.",
+                "whyTitle": "Comunicação do Caranguejo-Ermitão: Esconder na concha e vibração de antenas",
+                "whyDesc": "Perante uma ameaça, o caranguejo recua para dentro da concha e bloqueia a entrada com a sua garra maior (**'Esconder na concha'**). Quando se sente seguro, estende-se e move as antenas rapidamente (**'Vibração de antenas'**).",
+                "body_signals": [
+                    {
+                        "name": "Retração para a concha e bloqueio (Shell Hiding)",
+                        "meaning": "Resposta defensiva de estresse ou medo devido ao manuseio ou luzes fortes.",
+                        "response": "Nunca o force a sair da concha; diminua a luz e deixe-o sair sozinho."
+                    },
+                    {
+                        "name": "Corpo estendido e movimento de antenas (Antenna Waving)",
+                        "meaning": "Estado de curiosidade e exploração ativa em busca de comida ou água.",
+                        "response": "Ofereça alimentos frescos e verifique os recipientes de água doce e salgada."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle do clima (24-28 °C / 75-85% umidade) e água",
+                        "text": "Mantenha a umidade para a respiração branquial. Troque os recipientes de água doce sem cloro e água salgada."
+                    },
+                    {
+                        "name": "Tarde: Umidade do substrato e conchas de reserva",
+                        "text": "Garanta que a profundidade do substrato permita enterrar-se. Forneça conchas naturais sem pintura."
+                    },
+                    {
+                        "name": "Noite: Alimentação noturna de cálcio/proteína e proteção na ecdise",
+                        "text": "Ofereça proteína e cálcio à noite. Nunca desenterre um caranguejo enterrado para a muda."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O meu caranguejo enterrou-se na areia há semanas, estará morto?",
+                        "answer": "Não. Os caranguejos-ermitões enterram-se profundamente para fazer a ecdise (muda). Durante a muda, estão extremamente frágeis. Nunca o desenterre, ele sairá sozinho."
+                    },
+                    {
+                        "question": "Por que razões necessitam de água salgada os caranguejos terrestres?",
+                        "answer": "Necessitam de água salgada para regular a pressão osmótica e a água interna da concha. Use sal marinho para aquários dissolvido em água sem cloro, nunca sal de cozinha."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Perawatan Kelomang Purple Pincher: Ganti Cangkang dan Rutinitas 3 Langkah Berkelimun Mual",
+                "description": "Perawatan esensial untuk Kelomang Purple Pincher. Pelajari kedalaman substrat untuk molting, kelembapan insang, dan panduan perawatan 3 langkah.",
+                "authority": "Asosiasi Kelomang Dunia (HCA) & Protokol Klinis Dokter Hewan Eksotis",
+                "profile": {
+                    "breed": "Kelomang Purple Pincher (Coenobita clypeatus)",
+                    "lifespan": "10 ~ 20+ tahun",
+                    "sleep_pattern": "12 ~ 14 jam (istirahat siang terkubur; aktif mencari makan di malam hari)",
+                    "temperament": "Sangat sosial, nokturnal, pemalu, omnivora, hidup berkoloni, suka menggali"
+                },
+                "intro": "Kelomang Purple Pincher (*Coenobita clypeatus*) adalah spesies kelomang darat paling populer di dunia, dikenal dengan jepit besarnya yang berwarna ungu dan kebiasaannya mengganti cangkang seiring bertambahnya ukuran tubuh. Meskipun hidup di darat, mereka bernapas dengan insang yang dimodifikasi sehingga kelembapan kandang (75-85%) sangat vital. Mereka membutuhkan substrat pasir dan serat kelapa yang dalam (minimal 3 kali tinggi tubuh) untuk mengubur diri saat berganti kulit (molting). Kelomang adalah hewan koloni yang butuh teman. Hari ini PetSelf membagikan panduan perawatan 3 langkahnya.",
+                "whyTitle": "Komunikasi Kelomang: Bersembunyi di Cangkang dan Getaran Antena",
+                "whyDesc": "Saat merasa terancam, kelomang akan menarik tubuhnya ke dalam cangkang dan menutup pintunya dengan jepit besar (**'Bersembunyi di Cangkang'**). Saat merasa aman, mereka mengulurkan tubuhnya dan menggerakkan antena dengan cepat (**'Getaran Antena'**) untuk mengendus sekitar.",
+                "body_signals": [
+                    {
+                        "name": "Menarik Diri ke Cangkang & Menutup Pintu (Shell Hiding)",
+                        "meaning": "Refleks pertahanan diri akibat rasa takut atau stres karena gangguan.",
+                        "response": "Jangan pernah memaksa menariknya keluar; redupkan lampu dan biarkan keluar sendiri."
+                    },
+                    {
+                        "name": "Tubuh Mengulur & Menggerakkan Antena (Antenna Waving)",
+                        "meaning": "Menunjukkan rasa ingin tahu dan eksplorasi aktif mencari makanan atau air.",
+                        "response": "Sediakan makanan segar dan pastikan kolam air tawar serta air laut selalu bersih."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Lingkungan (Suhu 24-28°C / Kelembapan 75-85%) & Ganti Air",
+                        "text": "Jaga kelembapan 75-85% untuk insang. Ganti wadah air tawar bebas klorin dan air laut sintetis."
+                    },
+                    {
+                        "name": "Siang: Cek Kelembapan Substrat & Sediakan Cangkang Cadangan",
+                        "text": "Pastikan substrat cukup dalam untuk mengubur diri. Berikan pilihan cangkang alami tanpa cat."
+                    },
+                    {
+                        "name": "Malam: Pemberian Kalsium & Protein Malam Hari serta Perlindungan Molting",
+                        "text": "Berikan makanan kaya kalsium dan protein di malam hari. Jangan pernah menggali kelomang yang sedang mengubur diri untuk molting."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kelomang saya mengubur diri di pasir selama berminggu-minggu, apakah ia mati?",
+                        "answer": "Tidak. Kelomang mengubur diri jauh ke dalam substrat lembap untuk berganti kulit (molting). Saat molting tubuh barunya sangat lunak dan rapuh. Jangan pernah menggali pasirnya, ia akan keluar sendiri setelah selesai."
+                    },
+                    {
+                        "question": "Mengapa kelomang darat membutuhkan air laut?",
+                        "answer": "Kelomang darat membutuhkan air laut untuk mengatur tekanan osmotik tubuh dan cairan di dalam cangkangnya. Gunakan garam akuarium laut (seperti Instant Ocean) yang dilarung dalam air bebas klorin, bukan garam dapur."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/hermit_crab_care.webp"
+    }
+}

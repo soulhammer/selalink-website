@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC"
 steps:
   - name: "Linguagem corporal do maltês: Sinais de estresse e conforto"
-    text: "Como cães com alta dependência de seus tutores, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma (Calming Signals) típicos incluem 'lamber o nariz' (Nose Licking) e 'bocejar' (Yawning). Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os tutores continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço."
+    text: "Como cães com alta dependência de seus tutores, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma (Sinais de acalmação) típicos incluem 'lamber o nariz' (Nose Licking) e 'bocejar' (Yawning). Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os tutores continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço."
   - name: "Linguagem corporal e sinais de comportamento do Maltês (Canis lupus familiaris / Maltese)"
     text: "* Bocejar (Yawning): Não por sono; é um sinal de 'por favor, acalme-se' para acalmar a si mesmos e aos outros. (Se bocejarem durante o treino ou cuidados, pare imediatamente e ofereça um espaço tranquilo.)
 
@@ -59,7 +59,7 @@ Hoje, o PetSelf explora a linguagem corporal do maltês e apresenta uma rotina d
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Linguagem corporal do maltês: Sinais de estresse e conforto</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Como cães com alta dependência de seus tutores, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma (Calming Signals) típicos incluem 'lamber o nariz' (Nose Licking) e 'bocejar' (Yawning). Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os tutores continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço.
+    Como cães com alta dependência de seus tutores, os malteses mostram silenciosamente seu estado psicológico por meio de gestos corporais. Os sinais de calma (Sinais de acalmação) típicos incluem 'lamber o nariz' (Nose Licking) e 'bocejar' (Yawning). Ao enfrentar um ambiente tenso ou desconhecido, lamber o nariz ou bocejar não é por sono; é uma mensagem pacífica para se acalmarem e pedirem aos outros que não os ameacem. Se os tutores continuarem com contato excessivo, o estresse aumenta. O melhor é dar um passo atrás e dar-lhes espaço.
   </p>
 </div>
 

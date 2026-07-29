@@ -14,7 +14,7 @@ steps:
     text: "Wählen Sie ein klares visuelles Hilfsmittel, das Familienmitglieder oder Kollegen auf einen Blick erkennen können (z. B. das Aufstellen eines Sofakissens, ein Türknaufanhänger, ein Kuscheltier auf dem Monitor). Erklären und vereinbaren Sie die Bedeutung dieses Signalobjekts im Voraus mit Ihren Mitmenschen."
   - name: "Einrichtung digitaler Schutzzäune und Signalstart"
     text: "Legen Sie eine Konzentrationszeit fest (z. B. 50 Minuten), schalten Sie Ihre Geräte in den 'Bitte nicht stören'-Modus und legen Sie Ihr Smartphone in eine Tasche oder Schublade. Sobald Sie bereit sind, aktivieren Sie das festgelegte visuelle Signalobjekt (z. B. Kissen aufstellen oder Schild aufhängen) und beginnen Sie mit der Arbeit."
-  - name: "Deaktivierung des Signals und Wiederaufnahme von Kontakten"
+  - name: "Deaktivierung des Signale und Wiederaufnahme von Kontakten"
     text: "Wenn der Timer ertönt, halten Sie die Arbeit an und deaktivieren Sie das Signalobjekt sofort (z. B. das Kissen wieder flach hinlegen). Öffnen Sie die geschlossenen Kommunikationskanäle und treten Sie wieder mit den Wartenden in Kontakt, indem Sie den Blick kontaktieren oder leichtes Feedback austauschen."
 faqs:
   - question: "Was sollte ich tun, wenn Mitmenschen diese Signal-Routine ablehnen, weil sie das Gefühl haben, dass sie die Kommunikation stört?"
@@ -76,7 +76,7 @@ Wenn der Arbeitsfluss während eines Zustands hoher Konzentration durch Außenl�
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">SCHRITT 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deaktivierung des Signals und Wiederaufnahme von Kontakten</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Deaktivierung des Signale und Wiederaufnahme von Kontakten</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Wenn der Timer ertönt, halten Sie die Arbeit an und deaktivieren Sie das Signalobjekt sofort (z. B. das Kissen wieder flach hinlegen). Öffnen Sie die geschlossenen Kommunikationskanäle und treten Sie wieder mit den Wartenden in Kontakt, indem Sie den Blick kontaktieren oder leichtes Feedback austauschen.
@@ -85,7 +85,7 @@ Wenn der Arbeitsfluss während eines Zustands hoher Konzentration durch Außenl�
 
 ---
 
-## 3. Schaffung eines vereinbarten Fokus-Signals auf Grundlage gegenseitigen Respekts
+## 3. Schaffung eines vereinbarten Fokus-Signale auf Grundlage gegenseitigen Respekts
 
 Bei der Verwendung von Fokus-Signalanzeigen ist die vorherige Absprache mit Familienmitgliedern oder Kollegen der wichtigste Aspekt. Das plötzliche Verschließen der Kommunikation ohne Vorankündigung kann bei anderen Ablehnung hervorrufen. Eine positive Routine entsteht, wenn klare Regeln – wie 'Bitte verschieben Sie dringliche Kontaktaufnahmen nur während der 1 Stunde, in der diese Anzeige sichtbar ist' – wechselseitig anerkannt werden und die Anzeige nach Ablauf der vereinbarten Zeit sofort deaktiviert wird, um die Kommunikation wiederherzustellen.
 

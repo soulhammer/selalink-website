@@ -1,0 +1,459 @@
+{
+    "english-cocker-spaniel-care": {
+        "pubDate": "2026-01-20",
+        "updatedDate": "2026-01-20",
+        "locales": {
+            "ko": {
+                "title": "잉글리시 코커 스파니엘 귀 염증 예방과 활력 충전을 위한 3단계 데일리 케어",
+                "description": "실크처럼 부드러운 털과 넘치는 에너지를 가진 잉글리시 코커 스파니엘. 늘어진 귀 구조로 인한 외이도염 예방과 조류 수렵견 본능을 충족하는 3단계 맞춤 관리 가이드를 소개합니다.",
+                "authority": "세계애견연맹(FCI) 품종 표준 및 영국 켄넬클럽(The Kennel Club) 소동물 수의학 임상 가이드라인",
+                "profile": {
+                    "breed": "잉글리시 코커 스파니엘 (English Cocker Spaniel)",
+                    "lifespan": "12 ~ 14년",
+                    "sleep_pattern": "12 ~ 14시간 (충분한 야외 활동 후 깊은 휴식)",
+                    "temperament": "명랑함, 에너지 넘침, 다정함, 애교 많음, 영리함, 예민함"
+                },
+                "intro": "잉글리시 코커 스파니엘은 '명랑한 스파니엘(Merry Cocker)'이라는 별명답게 넘치는 친화력과 생기발랄한 매력으로 전 세계에서 사랑받는 중형 조류 수렵견입니다. 그러나 길고 늘어진 귓바퀴 구조 때문에 귀 내부 통풍이 잘되지 않아 외이도염(귀 염증)이 발생하기 매우 쉽습니다. 또한 수렵견 출신으로서 왕성한 운동량과 노즈워크 욕구를 충족해주지 않으면 스트레스성 행동 문제로 이어질 수 있습니다. 오늘 PetSelf에서는 잉글리시 코커 스파니엘 특유의 감정 표현을 분석하고, 귀 건강과 활동량을 동시에 케어하는 3단계 데일리 홈케어 루틴을 다룹니다.",
+                "whyTitle": "잉글리시 코커 스파니엘의 감정 표현: 엉덩이 춤 꼬리치기와 귀 표정",
+                "whyDesc": "잉글리시 코커 스파니엘은 온몸으로 기쁨을 표출하는 감정 표현의 달인입니다. 기분이 좋을 때는 꼬리뿐만 아니라 엉덩이 전체를 들썩이며 흔드는 일명 **'엉덩이 춤(Merry Wag)'**을 선보입니다. 반면 불안하거나 긴장했을 때는 긴 귀가 뒤로 바짝 붙고 몸을 낮추어 경계 신호를 보냅니다.",
+                "body_signals": [
+                    {
+                        "name": "엉덩이를 들썩이는 꼬리치기 (Merry Wagging)",
+                        "meaning": "극도의 기쁨과 우호적인 감정을 나타내며, 보호자나 대상에게 완전히 마음을 열었음을 의미하는 스파니엘 특유의 신호입니다.",
+                        "response": "다정한 목소리로 응답해주고 밝은 스킨십을 나누어 신뢰감을 더욱 높여줍니다."
+                    },
+                    {
+                        "name": "귀를 뒤로 밀착시키고 몸 낮추기 (Ear Flattening)",
+                        "meaning": "복종, 불안, 또는 낯선 환경이나 강한 자극에 대한 긴장감과 두려움을 느끼고 있다는 표시입니다.",
+                        "response": "자극 요인을 차단해주고 안정적인 공간에서 편안히 휴식을 취할 수 있도록 보호해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 귀 상태 점검 및 활력 충전 야외 산책",
+                        "text": "아침 식사 전 귀 내부의 붉어짐, 냄새, 분비물 여부를 확인하고 통풍시켜 줍니다. 조류 탐색 본능을 충족하도록 30분 이상 충분한 노즈워크 산책을 진행합니다."
+                    },
+                    {
+                        "name": "낮: 빗질을 통한 장모 관리 및 지능 개발 놀이",
+                        "text": "귀 주변과 다리의 엉키기 쉬운 장모(실크 털)를 슬리커 브러시로 정돈해 줍니다. 노즈워크 장난감이나 냄새 찾기 게임으로 뇌를 자극합니다."
+                    },
+                    {
+                        "name": "저녁: 고강도 운동 및 습기 제거 귀 케어",
+                        "text": "공놀이나 플러싱 활동 등 고강도 운동으로 에너지를 발산시킵니다. 산책 후나 음수 후 귀 안쪽에 남은 수분을 세정제나 건조 천으로 완전히 제거합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "아메리칸 코커 스파니엘과 잉글리시 코커 스파니엘은 어떻게 다른가요?",
+                        "answer": "아메리칸 코커 스파니엘은 둥근 머리와 빽빽하고 화려한 쇼독 스타일의 털을 가진 반면, 잉글리시 코커 스파니엘은 머즐(주둥이)이 더 길고 골격이 튼튼하며 운동량이 훨씬 많고 스포츠견다운 야성미를 가지고 있습니다."
+                    },
+                    {
+                        "question": "만성 귀 염증(외이도염)을 예방하려면 어떻게 해야 하나요?",
+                        "answer": "귓속 털을 적절히 정리하고 산책이나 목욕 후, 식사 직후 귀 내부의 습기를 완전히 말려주어야 합니다. 수의사 추천 약용 귀 세정제를 주 1~2회 사용하여 세균과 효모균 번식을 막는 것이 중요합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "English Cocker Spaniel Ear Infection Prevention and 3-Step Vitality Daily Routine",
+                "description": "Essential care for the silk-coated, energetic English Cocker Spaniel. Learn how to prevent otitis externa caused by pendulous ears and satisfy their gundog instincts.",
+                "authority": "FCI Breed Standards and The Kennel Club (UK) Small Animal Veterinary Guidelines",
+                "profile": {
+                    "breed": "English Cocker Spaniel",
+                    "lifespan": "12 - 14 Years",
+                    "sleep_pattern": "12 - 14 Hours (Deep Rest Following Active Outdoor Exercise)",
+                    "temperament": "Merry, Energetic, Affectionate, Eager to Please, Intelligent, Sensitive"
+                },
+                "intro": "Known as the 'Merry Cocker', the English Cocker Spaniel is a beloved medium-sized gundog treasured worldwide for its exuberant personality and affectionate nature. However, their long, heavy pendulous ears restrict airflow, making them highly susceptible to otitis externa (ear infections). Furthermore, as active flushing dogs, failing to satisfy their high exercise and scentwork needs can lead to stress-induced behavioral issues. Today, PetSelf decodes English Cocker Spaniel body language and outlines a 3-step homecare routine for optimal ear health and vitality.",
+                "whyTitle": "English Cocker Spaniel Communication: The Merry Wag and Ear Expressions",
+                "whyDesc": "English Cocker Spaniels express joy with their entire body. When happy, they exhibit the iconic **'Merry Wag'**, wiggling their tail and entire hindquarters in continuous motion. Conversely, when feeling anxious or overwhelmed, they flatten their long ears back against their head and lower their body posture as a defensive signal.",
+                "body_signals": [
+                    {
+                        "name": "Full-Body Tail Wiggling (Merry Wagging)",
+                        "meaning": "An expression of intense joy and friendly intent, signifying complete trust and happiness around their caregiver.",
+                        "response": "Acknowledge them with a warm voice and cheerful petting to reinforce your bond and positive connection."
+                    },
+                    {
+                        "name": "Ear Flattening & Low Posture (Ear Flattening)",
+                        "meaning": "Indicates submission, anxiety, or fear caused by unfamiliar environments, loud sounds, or intense stimuli.",
+                        "response": "Remove the stress trigger and provide a quiet, secure space where they can feel safe and relax."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Ear Inspection & Energizing Outdoor Walk",
+                        "text": "Check inside the ears for redness, odor, or discharge before breakfast and allow them to air out. Take a 30+ minute sniffari walk to fulfill their natural hunting instincts."
+                    },
+                    {
+                        "name": "Afternoon: Feathering Coat Brush-out & Cognitive Enrichment",
+                        "text": "Gently brush the silky feathering on their ears and legs with a slicker brush to prevent mats. Engage their brain with scent-puzzles or treat-dispensing toys."
+                    },
+                    {
+                        "name": "Evening: High-Energy Exercise & Moisture-Control Ear Care",
+                        "text": "Burn off excess stamina with high-intensity fetch or agility games. Thoroughly dry the ear canal with a clean cloth or vet-approved ear cleaner after outdoor play or drinking."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the difference between an American Cocker Spaniel and an English Cocker Spaniel?",
+                        "answer": "American Cockers feature a rounder dome-shaped head, a shorter muzzle, and a heavier, plush coat suited for shows. English Cockers possess a more elongated muzzle, athletic bone structure, higher working drive, and a rustic gundog build."
+                    },
+                    {
+                        "question": "How can I prevent chronic ear infections (otitis externa) in my spaniel?",
+                        "answer": "Keep the ear canals trimmed of excess hair and ensure ears are completely dried after swimming, baths, or drinking. Use a vet-recommended pH-balanced ear cleaner 1-2 times weekly to inhibit bacterial and yeast overgrowth."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "イングリッシュ・コッカー・スパニエルの外耳炎予防と活力を保つ3ステップ日常ルーティン",
+                "description": "シルクのような被毛とエネルギーあふれるイングリッシュ・コッカー・スパニエル。垂れ耳特有の外耳炎予防と、鳥猟犬としての本能を満たす3ステップケアを解説します。",
+                "authority": "国際畜犬連盟（FCI）犬種標準および英国ケネルクラブ（The Kennel Club）小動物臨床ガイドライン",
+                "profile": {
+                    "breed": "イングリッシュ・コッカー・スパニエル (English Cocker Spaniel)",
+                    "lifespan": "12 〜 14年",
+                    "sleep_pattern": "12 〜 14時間 (十分な outdoor 運動後の深い休息)",
+                    "temperament": "陽気、エネルギッシュ、愛情深い、順応性が高い、賢い、繊細"
+                },
+                "intro": "「メリー・コッカー（陽気なコッカー）」の愛称で知られるイングリッシュ・コッカー・スパニエルは、明るく人懐っこい性格で世界中から愛される中型鳥猟犬です。しかし、長く厚い垂れ耳の構造上、耳道の通気性が悪く外耳炎（耳の皮膚炎）を引き起こしやすい性質を持っています。また、高い運動量と匂い探索欲求を満たさないと、ストレスによる行動問題につながる恐れがあります。今回はPetSelfが、本種の感情表現を解き明かし、耳の健康と運動量を両立する3ステップの日常ケアをご紹介します。",
+                "whyTitle": "イングリッシュ・コッカーの感情表現：お尻フリフリダンスと耳のサイン",
+                "whyDesc": "イングリッシュ・コッカー・スパニエルは全身で喜びを表現します。ご機嫌な時は尻尾だけでなくお尻全体を大きく揺らす**「メリー・ワグ（Merry Wag）」**を見せます。一方で、不安や緊張を感じている時は長くて美しい耳を後ろにぴたっと伏せ、体を低くして警戒のサインを出します。",
+                "body_signals": [
+                    {
+                        "name": "お尻全体を振るダンス (Merry Wagging)",
+                        "meaning": "溢れ出る喜びと親愛の情を示しており、飼い主や対象に対して完全に心を開いているスパニエル特有のサインです。",
+                        "response": "優しく明るい声で応え、スキンシップをとって信頼関係をさらに深めましょう。"
+                    },
+                    {
+                        "name": "耳を後ろに伏せて体を低くする (Ear Flattening)",
+                        "meaning": "服従、不安、または見慣れない環境や強い刺激に対して緊張や恐怖を感じている状態です。",
+                        "response": "刺激の原因を取り除き、安心して落ち着ける静かな場所に誘導してあげましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：耳の状態チェックとエネルギー発散お散歩",
+                        "text": "朝食前に耳の赤みやニオイ、分泌物がないか確認して通気させます。探索本能を満たすため、クンクン匂いを嗅げるお散歩を30分以上行います。"
+                    },
+                    {
+                        "name": "昼：飾り毛のブラッシングと頭脳プレイ",
+                        "text": "耳や足の毛玉になりやすい美しい飾り毛（シルク毛）をスリッカーブラシで整えます。ノーズワークマットや知育玩具で脳に適度な刺激を与えます。"
+                    },
+                    {
+                        "name": "夜：高強度の運動と耳の水分除去ケア",
+                        "text": "ボール投げやアジリティなどの運動でスタミナを発散させます。運動後や水を飲んだ後は、耳の内側の水分を清潔な布やイヤークリーナーでしっかり拭き取ります。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "アメリカン・コッカー・スパニエルとの違いは何ですか？",
+                        "answer": "アメリカン・コッカーは丸い頭部と短めのマズル、豊かで華やかな被毛を持ちます。一方、イングリッシュ・コッカーはマズルが長く骨太で、運動量が非常に多く野性的な鳥猟犬らしさを残しています。"
+                    },
+                    {
+                        "question": "慢性的な外耳炎を予防するにはどうすればよいですか？",
+                        "answer": "耳道の無駄毛を適度に整理し、水遊びやシャンプー、食事の後は耳の内部を完全に乾燥させることが重要です。週に1〜2回、獣医師推奨のイヤークリーナーを使用して細菌や真菌の繁殖を防ぎましょう。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "英国可卡犬耳道炎预防与保持活力的3阶段日常护理指南",
+                "description": "针对拥有丝般柔顺毛发与充沛精力的英国可卡犬。学习如何预防因下垂耳型引起的外耳炎，并满足其猎鸟犬本能的3阶段护理流程。",
+                "authority": "世界犬业联盟 (FCI) 犬种标准及英国犬业俱乐部 (The Kennel Club) 小动物兽医临床指南",
+                "profile": {
+                    "breed": "英国可卡犬 (English Cocker Spaniel)",
+                    "lifespan": "12 ~ 14年",
+                    "sleep_pattern": "12 ~ 14小时 (充分户外运动后进入深度休息)",
+                    "temperament": "欢快、精力充沛、温和亲人、渴望讨好、聪明、敏感"
+                },
+                "intro": "英国可卡犬素有“欢快可卡 (Merry Cocker)”的美誉，因其热情友善的性格和充满生机的魅力而深受全球宠主的喜爱。然而，由于其长而下垂的耳廓结构，耳道内极易积聚湿气而引发外耳炎（耳部感染）。此外，作为出身优秀的寻猎犬，如果无法满足其巨大的运动量和嗅闻需求，可能会导致应激性行为问题。今天 PetSelf 将解析英国可卡犬的独特情感信号，并分享兼顾耳部健康与活动量的3阶段日常护理流程。",
+                "whyTitle": "英国可卡犬的情感表达：摇臀甩尾与耳朵语言",
+                "whyDesc": "英国可卡犬是用全身表达喜悦的专家。当心情愉悦时，它们不仅会摇尾巴，还会扭动整个臀部，展现标志性的**“摇臀舞 (Merry Wag)”**。相反，当感到焦虑或紧张时，它们会长耳朵紧贴脑后，压低身体发出戒备信号。",
+                "body_signals": [
+                    {
+                        "name": "扭动臀部的摆尾动作 (Merry Wagging)",
+                        "meaning": "代表极度的兴奋与友好，表明它对主人或眼前对象完全放下戒备，是可卡犬特有的亲昵信号。",
+                        "response": "用温柔的声音回应并进行亲密的抚摸，以强化彼此之间的信任感。"
+                    },
+                    {
+                        "name": "耳朵向后紧贴并压低身体 (Ear Flattening)",
+                        "meaning": "代表顺从、不安，或对陌生环境与强刺激感到紧张和恐惧。",
+                        "response": "及时隔绝刺激源，将其带至安静安全的空间让其静心休息。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：耳部健康检查与充沛精力户外散步",
+                        "text": "早饭前检查耳道内是否有发红、异味或分泌物并进行通气。进行30分钟以上的嗅闻散步，满足其探寻猎物的本能。"
+                    },
+                    {
+                        "name": "中午：饰毛梳理与智力开发游戏",
+                        "text": "用针梳梳理耳朵周围和腿部容易打结的丝状饰毛。使用嗅闻玩具或藏食游戏刺激大脑思维。"
+                    },
+                    {
+                        "name": "晚上：高强度运动与控湿护耳护理",
+                        "text": "通过接球或奔跑等高强度运动消耗充沛体力。散步或饮水后，用干爽毛巾或专用洗耳液彻底清除耳内残留水分。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "美国可卡犬与英国可卡犬有什么区别？",
+                        "answer": "美国可卡犬头部较圆，口吻较短，拥有密集且适合赛级展示的丰厚毛发；而英国可卡犬口吻更长，骨骼强壮，运动量更大，保留了更多工作猎犬的运动野性。"
+                    },
+                    {
+                        "question": "如何有效预防复发性外耳炎？",
+                        "answer": "适当修剪耳道杂毛，并在洗澡、游泳或喝水后确保耳内彻底干燥。每周使用1-2次兽医推荐的温和洗耳液，可有效抑制细菌与酵母菌滋生。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Prevención de otitis en el Cocker Spaniel Inglés y rutina diaria de 3 pasos para su vitalidad",
+                "description": "Cuidado esencial para el Cocker Spaniel Inglés de pelaje sedoso y gran energía. Aprenda a prevenir la otitis externa provocada por sus orejas caídas y a satisfacer sus instintos de caza.",
+                "authority": "Estándares de la FCI y Guías Clínicas Veterinarias de The Kennel Club (Reino Unido)",
+                "profile": {
+                    "breed": "Cocker Spaniel Inglés (English Cocker Spaniel)",
+                    "lifespan": "12 ~ 14 años",
+                    "sleep_pattern": "12 ~ 14 horas (descanso profundo tras ejercicio activo al aire libre)",
+                    "temperament": "Alegre, enérgico, afectuoso, ansioso por complacer, inteligente, sensible"
+                },
+                "intro": "Conocido como el 'Alegre Cocker', el Cocker Spaniel Inglés es un perro cobrador y levantador de caza de tamaño mediano adorado en todo el mundo por su carácter dinámico y cariñoso. Sin embargo, sus orejas largas y caídas dificultan la ventilación del oído, haciéndolo muy propenso a sufrir otitis externa (infecciones de oído). Además, al ser un perro de trabajo, si no se satisfacen sus necesidades de ejercicio y rastreo, puede desarrollar estrés. Hoy en PetSelf analizamos su lenguaje corporal y compartimos una rutina de 3 pasos para proteger sus oídos y mantener su vitalidad.",
+                "whyTitle": "Comunicación del Cocker Spaniel Inglés: El baile de cadera y lenguaje de orejas",
+                "whyDesc": "El Cocker Spaniel Inglés expresa su alegría con todo el cuerpo. Cuando está feliz, realiza su famoso **'Meneo Alegre' (Merry Wag)**, moviendo la cola y toda la cadera de forma continua. Por el contrario, si siente ansiedad o miedo, repliega sus orejas hacia atrás y baja su cuerpo como señal de apaciguamiento.",
+                "body_signals": [
+                    {
+                        "name": "Meneo de cola con movimiento de cadera (Merry Wagging)",
+                        "meaning": "Muestra de inmensa alegría y amabilidad; indica confianza total e integración con su cuidador.",
+                        "response": "Responda con un tono de voz afectuoso y caricias alegres para reforzar la complicidad."
+                    },
+                    {
+                        "name": "Orejas pegadas hacia atrás y cuerpo bajo (Ear Flattening)",
+                        "meaning": "Señal de sumisión, timidez o estrés provocado por ruidos fuertes o entornos desconocidos.",
+                        "response": "Elimine la fuente de estrés y proporciónele un lugar tranquilo y seguro para relajarse."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Inspección de oídos y paseo estimulante",
+                        "text": "Examine el interior de las orejas antes del desayuno buscando enrojecimientos o malos olores. Realice un paseo de rastreo de al menos 30 minutos para canalizar su instinto."
+                    },
+                    {
+                        "name": "Tarde: Cepillado de flecos sedosos y juegos mentales",
+                        "text": "Cepille el pelo largo y sedoso de las orejas y patas con un cepillo de púas suaves para evitar nudos. Estimule su mente con rompecabezas de olfato."
+                    },
+                    {
+                        "name": "Noche: Ejercicio intenso y secado profiláctico de oídos",
+                        "text": "Libere su energía acumulada jugando a cobrar la pelota. Seca minuciosamente el canal auditivo con un paño limpio o limpiador auricular tras beber agua o pasear."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿En qué se diferencia el Cocker Spaniel Americano del Inglés?",
+                        "answer": "El Cocker Americano tiene la cabeza más redondeada, el hocico más corto y un pelaje más denso orientado a exposiciones; el Cocker Inglés posee un hocico más largo, una estructura ósea más atlética y un impulso de trabajo e instinto de caza mucho mayor."
+                    },
+                    {
+                        "question": "¿Cómo puedo prevenir la otitis externa crónica en mi Cocker?",
+                        "answer": "Mantenga recortado el exceso de pelo del canal auditivo y asegúrese de secar bien las orejas tras los baños, paseos o beber agua. Utilice un limpiador de oídos veterinario de pH equilibrado 1 o 2 veces por semana."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Prévention de l'otite chez le Cocker Spaniel Anglais et routine quotidienne en 3 étapes",
+                "description": "Soins essentiels pour le Cocker Spaniel Anglais au pelage soyeux et plein d'énergie. Apprenez à prévenir l'otite externe due à ses oreilles tombantes et à satisfaire son instinct de chasse.",
+                "authority": "Standard de race FCI et Recommandations Vétérinaires du Kennel Club (UK)",
+                "profile": {
+                    "breed": "Cocker Spaniel Anglais (English Cocker Spaniel)",
+                    "lifespan": "12 ~ 14 ans",
+                    "sleep_pattern": "12 ~ 14 heures (repos profond après un grand exercice en plein air)",
+                    "temperament": "Joyeux, dynamique, affectueux, enthousiaste, intelligent, sensible"
+                },
+                "intro": "Surnommé le 'Joyeux Cocker', le Cocker Spaniel Anglais est un chien de levée de gibier de taille moyenne apprécié dans le monde entier pour sa joie de vivre et sa douceur. Néanmoins, la structure de ses longues oreilles tombantes empêche une bonne aération, le rendant très sujet aux otites externes. De plus, son passé de chien de chasse exige une dépense physique et olfactive quotidienne sous peine de développer des troubles du comportement. Aujourd'hui, PetSelf décrypte ses signaux corporels et vous présente une routine en 3 étapes pour préserver ses oreilles et son équilibre.",
+                "whyTitle": "Communication du Cocker Anglais : Le dandinlement de queue et le langage des oreilles",
+                "whyDesc": "Le Cocker Spaniel Anglais exprime son bonheur avec tout son corps. Lorsqu'il est joyeux, il réalise son fameux **'Dandinement Joyeux' (Merry Wag)**, remuant la queue et tout son arrière-train. À l'inverse, en cas d'anxiété ou de peur, il plaque ses longues oreilles vers l'arrière et s'abaisse au sol.",
+                "body_signals": [
+                    {
+                        "name": "Dandinement du train arrière avec la queue (Merry Wagging)",
+                        "meaning": "Signe d'une joie intense et d'une amitié sincère, témoignant d'une confiance totale envers son propriétaire.",
+                        "response": "Répondez avec une voix chaleureuse et des caresses enthousiastes pour renforcer votre complicité."
+                    },
+                    {
+                        "name": "Oreilles plaquées en arrière et corps abaissé (Ear Flattening)",
+                        "meaning": "Indique la soumission, l'inquiétude ou la peur face à un environnement inconnu ou un bruit fort.",
+                        "response": "Éloignez la source de stress et ramenez-le dans un endroit calme pour qu'il retrouve son sérénité."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Inspection des oreilles et promenade olfactive",
+                        "text": "Vérifiez l'absence de rougeur ou de mauvaise odeur dans l'oreille avant le repas. Offrez-lui une promenade de 30 minutes axée sur le flair pour satisfaire son instinct."
+                    },
+                    {
+                        "name": "Après-midi : Brossage des franges soyeuses et jeux de réflexion",
+                        "text": "Démêlez les franges de ses oreilles et de ses pattes avec une brosse carde. Stimulez son mental avec des jouets de recherche d'odeurs."
+                    },
+                    {
+                        "name": "Soir : Exercice soutenu et séchage rigoureux des oreilles",
+                        "text": "Dépensez son énergie avec des jeux de rapport de balle. Séchez soigneusement le conduit auditif avec un linge propre ou une lotion auriculaire après les sorties ou l'abreuvoir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Quelle est la différence entre le Cocker Américain et le Cocker Anglais ?",
+                        "answer": "Le Cocker Américain possède une tête plus ronde, un museau plus court et une fourrure très abondante de chien d'exposition. Le Cocker Anglais a un museau plus allongé, une ossature plus athlétique et un instinct de travail plus marqué."
+                    },
+                    {
+                        "question": "Comment éviter les otites externes chroniques chez le Cocker ?",
+                        "answer": "Dégagez les poils à l'entrée du conduit auditif et séchez systématiquement l'intérieur des oreilles après la baignade, le nettoyage ou les repas. Utilisez un nettoyant auriculaire vétérinaire 1 à 2 fois par semaine."
+                    }
+                ]
+            },
+            "de": {
+                "title": "English Cocker Spaniel Ohrenentzündungs-Prophylaxe und 3-Schritte-Vitalitätsroutine",
+                "description": "Essenzielle Pflege für den seidenhaarigen, lebhaften English Cocker Spaniel. Vorbeugung von Otitis externa bei Hängeohren und artgerechte Auslastung des Stöberhundes.",
+                "authority": "FCI-Rassestandard und Kleintier-Veterinärstandards des Kennel Club (UK)",
+                "profile": {
+                    "breed": "English Cocker Spaniel",
+                    "lifespan": "12 ~ 14 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (Tiefer Schlaf nach aktiver Bewegung im Freien)",
+                    "temperament": "Fröhlich, lebhaft, anhänglich, lernwillig, intelligent, feinfühlig"
+                },
+                "intro": "Als 'Merry Cocker' (fröhlicher Cocker) bekannt, ist der English Cocker Spaniel ein weltweit beliebter mittelgroßer Jagdhund mit einem überaus freundlichen Wesen. Durch seine langen, schwer herabhängenden Ohren ist die Belüftung des Gehörgangs jedoch stark eingeschränkt, was häufig zu schmerzhaften Ohrenentzündungen (Otitis externa) führt. Zudem benötigt er als passionierter Stöberhund ausreichend körperliche und geistige Auslastung durch Nasenarbeit. PetSelf erklärt die Körpersprache des Cockers und zeigt eine 3-Schritte-Tagesroutine für gesunde Ohren und hohe Lebensfreude.",
+                "whyTitle": "Kommunikation des Cocker Spaniels: Hüftschwung-Wedeln und Ohrenspiel",
+                "whyDesc": "Der English Cocker Spaniel drückt Freude mit dem ganzen Körper aus. Ist er glücklich, zeigt er das berühmte **'Fröhliche Wedeln' (Merry Wag)**, bei dem die Rute und das gesamte Hinterteil wiegend mitbewegen. Bei Angst oder Unsicherheit legt er seine langen Ohren hingegen flach nach hinten an und duckt sich.",
+                "body_signals": [
+                    {
+                        "name": "Wedeln mit dem gesamten Hinterteil (Merry Wagging)",
+                        "meaning": "Zeichen für überschwängliche Freude und absolute Friedfertigkeit; zeigt volles Vertrauen gegenüber der Bezugsperson.",
+                        "response": "Antworten Sie mit freundlicher Stimme und liebevollen Streicheleinheiten, um die Bindung zu festigen."
+                    },
+                    {
+                        "name": "Anlegen der Ohren und geduckte Haltung (Ear Flattening)",
+                        "meaning": "Signalisiert Unterwerfung, Unsicherheit oder Überforderung durch laute Geräusche oder fremde Reize.",
+                        "response": "Beseitigen Sie den Stressfaktor und führen Sie den Hund an einen ruhigen, geschützten Rückzugsort."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Ohrenkontrolle & Schwungvoller Schnüffelspaziergang",
+                        "text": "Prüfen Sie vor dem Füttern das Ohr innenseitig auf Rötungen oder Geruch. Machen Sie einen mindestens 30-minütigen Spaziergang mit viel Zeit zum Schnüffeln."
+                    },
+                    {
+                        "name": "Nachmittag: Pflege der Seidenhaare & Intelligenzspiel",
+                        "text": "Bürsten Sie die feinen Behanghaare an Ohren und Läufen sanft mit einer Zupfbürste aus. Nutzen Sie Schnüffelteppiche oder Suchspiele zur geistigen Forderung."
+                    },
+                    {
+                        "name": "Abend: Ausgiebige Bewegung & Trocknen der Gehörgänge",
+                        "text": "Powern Sie den Hund mit Apportierspielen aus. Trocknen Sie die Ohren nach dem Wasserkontakt oder Trinken mit einem weichen Tuch oder Ohrreiniger gründlich ab."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Worin unterscheidet sich der American Cocker vom English Cocker Spaniel?",
+                        "answer": "Der American Cocker besitzt einen runderen Kopf, eine kürzere Schnauze und üppiges, langes Show-Fell. Der English Cocker ist sportlicher gebaut, hat einen längeren Fang und zeigt deutlich mehr Jagd- und Arbeitseifer."
+                    },
+                    {
+                        "question": "Wie beuge ich chronischen Ohrenentzündungen (Otitis externa) vor?",
+                        "answer": "Halten Sie den Gehörgang frei von verfilzten Haaren und trocknen Sie die Ohren nach jedem Baden, Regenspaziergang oder Trinken gut ab. Verwenden Sie 1-2 Mal pro Woche einen vom Tierarzt empfohlenen Ohrreiniger."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Prevenção de otite no Cocker Spaniel Inglês e rotina diária de 3 passos para vitalidade",
+                "description": "Cuidados essenciais para o Cocker Spaniel Inglês de pelo sedoso e enérgico. Saiba como prevenir a otite externa causada por orelhas caídas e satisfazer os seus instintos.",
+                "authority": "Padrões de Raça da FCI e Diretrizes Veterinárias do The Kennel Club (UK)",
+                "profile": {
+                    "breed": "Cocker Spaniel Inglês (English Cocker Spaniel)",
+                    "lifespan": "12 ~ 14 anos",
+                    "sleep_pattern": "12 ~ 14 horas (descanso profundo após atividade ao ar livre)",
+                    "temperament": "Alegre, enérgico, afetuoso, dócil, inteligente, sensível"
+                },
+                "intro": "Conhecido como o 'Alegre Cocker', o Cocker Spaniel Inglês é um cão de caça de porte médio adorado no mundo inteiro pelo seu temperamento vibrante e carinhoso. Contudo, a anatomia das suas orelhas longas e pendulares dificulta a ventilação do canal auditivo, tornando-o suscetível à otite externa. Além disso, por ter instinto de caçador, a falta de exercício físico e jogos de olfato pode gerar estresse. Hoje no PetSelf, explicamos a sua linguagem corporal e ensinamos uma rotina de 3 passos para manter as orelhas saudáveis e o cão ativo.",
+                "whyTitle": "Comunicação do Cocker Spaniel Inglês: O abanar de quadril e expressão das orelhas",
+                "whyDesc": "O Cocker Spaniel Inglês expressa alegria com o corpo todo. Quando feliz, realiza o famoso **'Abanar Alegre' (Merry Wag)**, movimentando a cauda e todo o quadril de forma contínua. Já em momentos de medo ou ansiedade, cola as orelhas para trás e abaixa o corpo.",
+                "body_signals": [
+                    {
+                        "name": "Abanar de cauda com movimento de quadril (Merry Wagging)",
+                        "meaning": "Sinal de imensa alegria e afeto; demonstra confiança total em relação ao seu tutor.",
+                        "response": "Corresponda com uma voz carinhosa e festas para fortalecer a conexão emocional."
+                    },
+                    {
+                        "name": "Orelhas encolhidas para trás e corpo baixo (Ear Flattening)",
+                        "meaning": "Indica submissão, receio ou ansiedade provocada por ambientes estranhos ou ruídos fortes.",
+                        "response": "Aafaste a causa do estresse e proporcione um local calmo para que o cão se recupere."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Inspeção de orelhas e passeio de exploração",
+                        "text": "Examine o interior das orelhas antes do alimento para checar se há vermelhidão ou odor. Faça um passeio de pelo menos 30 minutos com bastante estímulo olfativo."
+                    },
+                    {
+                        "name": "Tarde: Escovação da pelagem sedosa e enriquecimento mental",
+                        "text": "Escove as franjas das orelhas e das patas com escova de pino macio para evitar nós. Ofereça brinquedos de rechear com petisco ou jogos de faro."
+                    },
+                    {
+                        "name": "Noite: Exercício intenso e secagem rigorosa do ouvido",
+                        "text": "Gaste a energia acumulada com brincadeiras de buscar a bola. Seque bem o canal auditivo com pano limpo ou solução auricular após passeios ou beber água."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Qual a diferença entre o Cocker Americano e o Cocker Inglês?",
+                        "answer": "O Cocker Americano possui crânio mais arredondado, focinho curto e pelagem longa voltada para exposição. O Cocker Inglês tem focinho mais longo, estrutura física mais atlética e maior impulso para o trabalho e caça."
+                    },
+                    {
+                        "question": "Como prevenir a otite externa crônica no Cocker?",
+                        "answer": "Mantenha os pelos internos da orelha aparados e seque completamente as orelhas após banhos, nadar ou beber água. Utilize limpador auricular veterinário 1 a 2 vezes por semana."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Pencegahan Infeksi Telinga English Cocker Spaniel dan Rutinitas Harian 3 Langkah",
+                "description": "Perawatan esensial untuk English Cocker Spaniel berbulu sutra dan penuh energi. Pelajari cara mencegah otitis eksterna akibat telinga terkulai dan penuhi insting berburunya.",
+                "authority": "Standar Ras FCI dan Panduan Klinis Dokter Hewan The Kennel Club (UK)",
+                "profile": {
+                    "breed": "English Cocker Spaniel",
+                    "lifespan": "12 ~ 14 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (istirahat nyenyak setelah aktivitas outdoor)",
+                    "temperament": "Ceria, energik, penyayang, penurut, cerdas, sensitif"
+                },
+                "intro": "Dikenal dengan julukan 'Merry Cocker', English Cocker Spaniel adalah anjing pemburu berukuran sedang yang sangat dicintai di seluruh dunia karena sifatnya yang ceria dan penyayang. Namun, bentuk telinganya yang panjang dan terkulai menghambat sirkulasi udara di dalam saluran telinga, membuatnya sangat rentan terkena otitis eksterna (infeksi telinga). Selain itu, sebagai anjing kerja yang aktif, kebutuhan olahraga dan permainan penciumannya harus dipenuhi agar tidak timbul stres. Hari ini PetSelf mengulas bahasa tubuh Cocker Spaniel dan membagikan 3 langkah rutinitas harian untuk kesehatan telinga dan kebugarannya.",
+                "whyTitle": "Komunikasi English Cocker Spaniel: Goyangan Pinggul dan Ekspresi Telinga",
+                "whyDesc": "English Cocker Spaniel mengekspresikan kegembiraan dengan seluruh tubuhnya. Saat senang, mereka melakukan **'Kibasan Ceria' (Merry Wag)**, mengibaskan ekor beserta seluruh pinggulnya secara bergelombang. Sebaliknya, saat merasa cemas atau takut, telinganya yang panjang akan ditarik ke belakang rapat-rapat sambil merendahkan tubuhnya.",
+                "body_signals": [
+                    {
+                        "name": "Kibasan Ekor Disertai Goyangan Pinggul (Merry Wagging)",
+                        "meaning": "Ungkapan kegembiraan luar biasa dan keramahan; menandakan rasa percaya penuh kepada pemiliknya.",
+                        "response": "Sambut dengan suara hangat dan elusan lembut untuk semakin mempererat ikatan emosional."
+                    },
+                    {
+                        "name": "Telinga Ditarik ke Belakang & Tubuh Merendah (Ear Flattening)",
+                        "meaning": "Menunjukkan rasa takut, gelisah, atau ketegangan akibat lingkungan asing maupun suara keras.",
+                        "response": "Jauhkan dari pemicu stres dan bawa ke tempat yang tenang agar anjing merasa aman."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Telinga & Jalan Pagi Penuh Energi",
+                        "text": "Periksa bagian dalam telinga dari kemerahan atau bau sebelum makan pagi. Ajak jalan-jalan minimal 30 menit dengan membiarkannya mengendus aroma sekitar."
+                    },
+                    {
+                        "name": "Siang: Menyisir Bulu Sutra & Permainan Asah Otak",
+                        "text": "Sisir bulu halus di bagian telinga dan kaki menggunakan sikat khusus agar tidak menggumpal. Berikan mainan puzzle makanan untuk melatih fokusnya."
+                    },
+                    {
+                        "name": "Malam: Olahraga Intensif & Pengeringan Saluran Telinga",
+                        "text": "Salurkan sisa energinya dengan permainan lempar tangkap bola. Keringkan area dalam telinga dengan kain bersih atau pembersih telinga khusus setelah beraktivitas atau minum."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa perbedaan antara American Cocker Spaniel dan English Cocker Spaniel?",
+                        "answer": "American Cocker memiliki kepala lebih bulat, moncong pendek, dan bulu sangat lebat untuk kontes. Sedangkan English Cocker memiliki moncong lebih panjang, tubuh lebih atletis, dan insting berburu yang jauh lebih kuat."
+                    },
+                    {
+                        "question": "Bagaimana cara mencegah infeksi telinga kronis (otitis eksterna)?",
+                        "answer": "Rapikan bulu berlebih di sekitar lubang telinga dan pastikan telinga benar-benar kering setelah mandi, berenang, atau minum. Gunakan pembersih telinga khusus anjing dari dokter hewan 1-2 kali seminggu."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/english_cocker_spaniel_care.webp"
+    }
+}

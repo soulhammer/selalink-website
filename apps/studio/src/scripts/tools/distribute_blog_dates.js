@@ -8,16 +8,16 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const petTargetsWithDates = [
-  { slug: 'american-curl-care', date: '2026-01-15' },
-  { slug: 'blue-gold-macaw-care', date: '2026-02-05' },
-  { slug: 'chartreux-cat-care', date: '2026-02-26' },
-  { slug: 'german-blue-ram-care', date: '2026-03-18' },
-  { slug: 'great-dane-care', date: '2026-04-08' },
-  { slug: 'hermanns-tortoise-care', date: '2026-04-29' },
-  { slug: 'jack-russell-terrier-care', date: '2026-05-20' },
-  { slug: 'pacific-parrotlet-care', date: '2026-06-10' },
-  { slug: 'rummy-nose-tetra-care', date: '2026-07-01' },
-  { slug: 'western-hognose-snake-care', date: '2026-07-22' }
+  { slug: 'english-cocker-spaniel-care', date: '2026-01-20' },
+  { slug: 'english-bulldog-care', date: '2026-02-10' },
+  { slug: 'ragamuffin-cat-care', date: '2026-03-02' },
+  { slug: 'egyptian-mau-care', date: '2026-03-23' },
+  { slug: 'sulphur-crested-cockatoo-care', date: '2026-04-14' },
+  { slug: 'eclectus-parrot-care', date: '2026-05-05' },
+  { slug: 'california-kingsnake-care', date: '2026-05-26' },
+  { slug: 'bristlenose-pleco-care', date: '2026-06-16' },
+  { slug: 'hermit-crab-care', date: '2026-07-07' },
+  { slug: 'vampire-crab-care', date: '2026-07-28' }
 ];
 
 console.log('🗓️ 신규 10개 반려동물 블로그 날짜 분산 작업 시작...');

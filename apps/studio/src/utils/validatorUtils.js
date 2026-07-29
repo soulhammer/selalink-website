@@ -1,16 +1,41 @@
 // 주요 한글/영문 오탈자 사전 (Known Typos)
 const KNOWN_TYPOS = [
-  { typo: '리리스테리아', correct: '리스테리아' },
-  { typo: 'NIFDS', correct: 'NIFS' }
+  { typo: '리리스테리아', correct: '리스테리아' }
 ];
 
 // 이종 언어 오유입 감지 단어 (Distinct cross-language leakage tokens)
 const CROSS_LANGUAGE_SIGNATURES = [
+  // 인도네시아어 시그니처 (타 라틴계 및 동양어 유입 방지)
   { word: 'menit', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
   { word: 'secara', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
   { word: 'adalah', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
+  { word: 'dengan', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
+  { word: 'untuk', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
+  { word: 'dalam', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
+  { word: 'tidak', sourceLang: 'id', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'de', 'pt'] },
+  
+  // 독일어 시그니처
   { word: 'sekunden', sourceLang: 'de', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'pt', 'id'] },
-  { word: 'heures', sourceLang: 'fr', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'de', 'pt', 'id'] }
+  { word: 'stunden', sourceLang: 'de', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'pt', 'id'] },
+  { word: 'oder', sourceLang: 'de', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'pt', 'id'] },
+  { word: 'nicht', sourceLang: 'de', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'fr', 'pt', 'id'] },
+
+  // 프랑스어 시그니처
+  { word: 'heures', sourceLang: 'fr', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'de', 'pt', 'id'] },
+  { word: 'avec', sourceLang: 'fr', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'de', 'pt', 'id'] },
+  { word: 'dans', sourceLang: 'fr', targetLangs: ['ko', 'ja', 'zh', 'en', 'es', 'de', 'pt', 'id'] },
+
+  // 스페인어 / 포르투갈어 시그니처
+  { word: 'cuando', sourceLang: 'es', targetLangs: ['ko', 'ja', 'zh', 'en', 'fr', 'de', 'id'] },
+  { word: 'quando', sourceLang: 'pt', targetLangs: ['ko', 'ja', 'zh', 'en', 'fr', 'de', 'id'] },
+
+  // 영어 미번역 잔류 단어 시그니처 (비영어 텍스트 유입 차단, de는 Signals/Signale 명사 사용 허용)
+  { word: 'signals', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'pt', 'id'] },
+  { word: 'without', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'] },
+  { word: 'between', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'] },
+  { word: 'through', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'] },
+  { word: 'should', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'] },
+  { word: 'because', sourceLang: 'en', targetLangs: ['ko', 'ja', 'zh', 'es', 'fr', 'de', 'pt', 'id'] }
 ];
 
 /**
@@ -38,6 +63,29 @@ export function detectNoiseTokens(text, lang) {
     return true;
   }
   return false;
+}
+
+/**
+ * 텍스트에서 괄호 표기, 브랜드명, 마크다운 링크, 학명 등 허용된 예외 요소를 소거한 순수 검사 텍스트를 반환합니다.
+ * @param {string} text 
+ * @returns {string}
+ */
+function stripAllowedExceptions(text) {
+  if (!text || typeof text !== 'string') return '';
+  return text
+    // 1. 브랜드 및 서비스명 예외
+    .replace(/\b(PetSelf|FreshSnap|BuildSelf)\b/g, '')
+    // 2. 마크다운 이탤릭/학명 (*Eclectus roratus* 등)
+    .replace(/\*[^*]+\*/g, '')
+    // 3. 전각/반각 괄호 및 대괄호 내부 예외 ( (Sexual Dimorphism), （Toe-tapping）, [FCI] 등 )
+    .replace(/\([^\)]+\)/g, '')
+    .replace(/（[^）]+）/g, '')
+    .replace(/\[[^\]]+\]/g, '')
+    // 4. URL 및 파일 경로 예외
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/\/[\w.\/-]+/g, '')
+    // 5. 허용 단위 및 공통 기호 (IUCN, FCI, AKC, AAV, pH, ℃, %, mg, kg, cm, mm, L, ml 등)
+    .replace(/\b(IUCN|FCI|AKC|AAV|NIFS|USDA|WHO|FAO|FDA|pH|℃|℉|%|mg|g|kg|cm|mm|m|L|ml)\b/gi, '');
 }
 
 /**
@@ -107,9 +155,11 @@ export function checkLanguagePurity(text, lang, options = {}) {
     }
   }
 
-  // 6. 동양 언어 문자 순도 검사
+  // 6. 동양 언어 문자 순도 및 비동양어 잔류 검사
+  const cleanedText = stripAllowedExceptions(text);
+
   if (lang === 'ko') {
-    const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF]/.test(text);
+    const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF]/.test(cleanedText);
     if (hasJapanese) {
       return {
         valid: false,

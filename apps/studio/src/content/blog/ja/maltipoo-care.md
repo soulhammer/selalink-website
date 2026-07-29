@@ -13,7 +13,7 @@ steps:
   - name: "マルプーの感情サイン：あくび・体を振る（カーミングシグナル）と分離不安行動"
     text: "マルプーは飼い主の感情に敏感で、緊張やストレスを感じるとあくびをしたり体を振るカーミングシグナルを出します。一方、留守番中の連続した遠吠えや扉をひっかく行動は分離不安の警戒サインです。"
   - name: "マルプー (Maltipoo / Maltese x Toy Poodle Hybrid)のボディランゲージと行動サイン"
-    text: "* あくび・体を大きく振る (Calming Signals): 緊張緩和や自身を落ち着かせる動作、または相手に敵意がないことを伝えるサインです。 (落ち着いた声で安心させ、過度な刺激を避けてリラックスできる空間を与えます。)
+    text: "* カーミングシグナル (あくび・体を大きく振る): 緊張緩和や自身を落ち着かせる動作、または相手に敵意がないことを伝えるサインです。 (落ち着いた声で安心させ、過度な刺激を避けてリラックスできる空間を与えます。)
 
 * 扉のひっかき・連続した遠吠え (Separation Distress): 飼い主と離れることへの強い不安やパニックから生じる分離不安のサインです。 (外出や帰宅時の過剰な接触を控え、ノーズワークやお留守番の段階的練習で自立心を育てます。)"
   - name: "マルプー (Maltipoo / Maltese x Toy Poodle Hybrid)のための3ステップホームケアルーティン"
@@ -66,7 +66,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ボディシグナル 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">あくび・体を大きく振る (Calming Signals)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">カーミングシグナル (あくび・体を大きく振る)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

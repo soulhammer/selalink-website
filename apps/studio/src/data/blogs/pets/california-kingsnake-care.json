@@ -1,0 +1,459 @@
+{
+    "california-kingsnake-care": {
+        "pubDate": "2026-05-26",
+        "updatedDate": "2026-05-26",
+        "locales": {
+            "ko": {
+                "title": "캘리포니아 킹스네이크 선명한 밴드 무늬와 단독 사육 중심 3단계 데일리 케어",
+                "description": "입문용 애완뱀의 대명사 캘리포니아 킹스네이크. 동종포식(Ophidiophagy) 본능에 맞춘 단독 사육 수칙과 적정 온·습도 환경 조성을 위한 3단계 맞춤 케어법을 소개합니다.",
+                "authority": "세계 파충류 수의학회(ARAV) 임상 지침 및 양서파충류 협회(USARK) 파충류 사육 표준",
+                "profile": {
+                    "breed": "캘리포니아 킹스네이크 (California Kingsnake / Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20년",
+                    "sleep_pattern": "14 ~ 16시간 (은신처 내부 휴식, 계절별 주행성/박명박暮성 활동)",
+                    "temperament": "강인함, 왕성한 먹성, 호기심 많음, 활동적임, 단독 생활성(동종포식 본능)"
+                },
+                "intro": "캘리포니아 킹스네이크(*Lampropeltis californiae*)는 볼파이톤, 콘스네이크와 함께 세계 3대 입문용 애완뱀으로 손꼽히는 북미 원산의 대표적인 유혈목이과 파충류입니다. 선명한 흑백 밴드 무늬와 매끈한 비늘, 강인한 생명력으로 오랜 기간 사랑받아 왔습니다. 다른 뱀을 사냥해 먹는 '동종포식(Ophidiophagy)' 본능이 있어 반드시 1사육장 1개체 단독 사육을 원칙으로 해야 합니다. 올바른 핸들링 수칙과 온·습도 조절이 필수적인 캘리포니아 킹스네이크의 3단계 데일리 케어 루틴을 다룹니다.",
+                "whyTitle": "캘리포니아 킹스네이크의 행동 표현: 꼬리 털기(Tail Rattling)와 S자 경계 자세",
+                "whyDesc": "캘리포니아 킹스네이크는 위협을 느끼면 꼬리를 바닥에 빠르게 진동시켜 방울뱀 소리를 흉내 내는 **'꼬리 털기(Tail Rattling)'** 행동을 보입니다. 또한 먹이를 발견하거나 경계할 때 상체를 S자로 접어 올리며 집중하는 반응을 나타냅니다.",
+                "body_signals": [
+                    {
+                        "name": "꼬리를 바닥에 대고 빠르게 진동시키기 (Tail Rattling)",
+                        "meaning": "포식자에 대한 방어적 경계 신호로, 자신을 보호하기 위해 방울뱀 소리를 시뮬레이션하는 본능적 행동입니다.",
+                        "response": "자극을 주지 말고 은신처로 들어갈 수 있도록 시간을 주며, 사육장 문을 차분히 닫아줍니다."
+                    },
+                    {
+                        "name": "상체를 S자로 접고 혀를 빠르게 낼름거리기 (S-curve Stance & Tongue Flicking)",
+                        "meaning": "먹이에 대한 강한 탐색 반응이거나 주변 환경을 정밀 감지하는 호기심 및 사냥 모드 상태입니다.",
+                        "response": "손에 먹이 냄새가 베어있으면 물 수 있으므로 핸들링 전 손을 비누로 깨끗이 씻어야 합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 사육장 구배 온·습도 점검 및 청결한 물 교체",
+                        "text": "쿨존(22~25℃)과 핫존(28~31℃)의 온디에이션 구배 및 습도(40~50%)를 점검합니다. 몸을 담글 수 있는 물그릇을 소독 및 교체합니다."
+                    },
+                    {
+                        "name": "낮: 1사육장 1개체 단독 사육 상태 유지 및 탈출 방지 잠금장치 검사",
+                        "text": "동종포식 본능으로 인한 사고를 막기 위해 완전한 단독 사육을 유지합니다. 슬라이딩 잠금장치를 철저히 점검합니다."
+                    },
+                    {
+                        "name": "저녁: 탈피 기간 습도 케어 및 배설물 스팟 청소",
+                        "text": "눈이 하얗게 변하는 블루 상태가 보이면 습도를 60~70%로 높여 탈피를 돕습니다. 배설물은 즉시 치워 청결을 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "두 마리를 한 사육장에서 합사해서 키워도 되나요?",
+                        "answer": "절대로 안 됩니다. 캘리포니아 킹스네이크는 야생에서 다른 뱀을 사냥해 먹는 동종포식 습성이 있어 한 사육장에 두 마리를 두면 서로를 잡아먹을 위험이 매우 높습니다."
+                    },
+                    {
+                        "question": "먹이를 줄 때 손을 물려고 하는데 어떻게 해야 하나요?",
+                        "answer": "먹성이 강해 손에 먹이 냄새가 남아있으면 손가락을 먹이로 오인할 수 있습니다. 피딩 핀셋을 사용하고 핸들링 전 손을 비누로 깨끗이 씻어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "California Kingsnake Banded Pattern Care and 3-Step Solitary Housing Daily Routine",
+                "description": "Essential care for the California Kingsnake, a classic beginner pet snake. Learn about solitary housing for ophidiophagy prevention and a 3-step thermal gradient routine.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines & USARK Herpetoculture Standards",
+                "profile": {
+                    "breed": "California Kingsnake (Lampropeltis californiae)",
+                    "lifespan": "15 - 20 Years",
+                    "sleep_pattern": "14 - 16 Hours (Hideout Resting; Seasonal Diurnal/Crepuscular Activity)",
+                    "temperament": "Hardy, Enthusiastic Feeder, Curious, Active, Strictly Solitary (Ophidiophagous)"
+                },
+                "intro": "The California Kingsnake (*Lampropeltis californiae*) is one of the world's top three beginner pet snakes. Native to North America, this species is celebrated for its striking banded patterns and glossy scales. In nature, kingsnakes possess a strong ophidiophagous instinct—meaning they hunt and eat other snakes—and must strictly be housed individually (one snake per enclosure) to prevent cannibalism. PetSelf provides a 3-step daily care routine for temperature, humidity, and safe handling.",
+                "whyTitle": "California Kingsnake Communication: Tail Rattling and S-curve Defensive Posture",
+                "whyDesc": "When threatened, California Kingsnakes rapidly vibrate their tail against the ground (**'Tail Rattling'**), mimicking a rattlesnake. When focused on potential prey, they raise their forebody into an **'S-curve Stance'** while flicking their tongue.",
+                "body_signals": [
+                    {
+                        "name": "Rapid Tail Vibration Against Ground (Tail Rattling)",
+                        "meaning": "A defensive warning behavior simulating a rattlesnake sound to scare off perceived threats.",
+                        "response": "Avoid startling them; allow time for the snake to retreat into a hide and close the enclosure door calmly."
+                    },
+                    {
+                        "name": "S-curve Forebody Stance & Rapid Tongue Flicking (S-curve Stance)",
+                        "meaning": "Indicates active hunting mode or heightened environmental curiosity as they sample scents.",
+                        "response": "Wash hands thoroughly with soap before handling to remove any rodent scent that could trigger an accidental strike."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Thermal Gradient Check & Fresh Water Replacement",
+                        "text": "Verify warm zone (28-31°C) and cool zone (22-25°C) with 40-50% humidity. Disinfect and refill a sturdy water bowl."
+                    },
+                    {
+                        "name": "Afternoon: Strict Solitary Housing Audit & Enclosure Latch Inspection",
+                        "text": "Ensure individual housing to prevent cannibalism. Inspect sliding lid locks, as kingsnakes are strong escape artists."
+                    },
+                    {
+                        "name": "Evening: Shedding Moisture Care & Spot Cleaning Waste",
+                        "text": "If opaque blue eyes indicate shedding, increase humidity to 60-70%. Immediately spot-clean urates and feces."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can two California Kingsnakes be cohabitated in the same enclosure?",
+                        "answer": "No, absolutely not. California Kingsnakes have a natural instinct for ophidiophagy (snake-eating). Housing two together carries an extremely high risk of cannibalism."
+                    },
+                    {
+                        "question": "Why does my kingsnake try to strike or constrict my hand during feeding time?",
+                        "answer": "They have a powerful feeding response. If your hands smell of rodents, the snake may mistake your fingers for food. Always use feeding tongs and wash hands before handling."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "カリフォルニアキングスネークのバンド模様と単独飼育を中心とした3ステップ日常ルーティン",
+                "description": "初心者向けペットヘビの代表格カリフォルニアキングスネーク。共食い（Ophidiophagy）を防ぐ単独飼育の徹底と適切な温湿度管理のための3ステップケアを紹介します。",
+                "authority": "世界爬虫類両生類獣医学会（ARAV）臨床ガイドラインおよびUSARK飼育標準",
+                "profile": {
+                    "breed": "カリフォルニアキングスネーク (Lampropeltis californiae)",
+                    "lifespan": "15 〜 20年",
+                    "sleep_pattern": "14 〜 16時間 (シェルター内での休息、季節ごとの昼行性/薄明薄暮性活動)",
+                    "temperament": "頑丈、食欲旺盛、好奇心旺盛、活発、完全単独性（他蛇捕食本能）"
+                },
+                "intro": "カリフォルニアキングスネーク（*Lampropeltis californiae*）は、ボールパイソンやコーンスネークと並び大人気の入門ヘビです。野生下では他のヘビを捕食する「共食い（Ophidiophagy）」の習性を持っており、他個体との同居は非常に危険なため「1ケージ1匹」の絶対単独飼育が基本ルールとなります。PetSelfが正しいケアと温湿度管理プロトコルを解説します。",
+                "whyTitle": "カリフォルニアキングスネークの行動表現：尾振るい（Tail Rattling）とS字威嚇姿勢",
+                "whyDesc": "カリフォルニアキングスネークは脅威を感じると、ガラガラヘビの音を模倣して尾を打ち付ける**「尾振るい（Tail Rattling）」**を見せます。また、獲物を察知した際は上半身をS字状に折りたたんで集中します。",
+                "body_signals": [
+                    {
+                        "name": "尾を床に打ち付けて激しく振動させる (Tail Rattling)",
+                        "meaning": "ガラガラヘビの威嚇音を模倣して自分を守ろうとする警戒サインです。",
+                        "response": "刺激を与えずにケージを静かに閉じ、シェルターに隠れて落ち着くまで時間を置きましょう。"
+                    },
+                    {
+                        "name": "上半身をS字に構えて舌を素早く出し入れする (S-curve Stance)",
+                        "meaning": "餌に対する強い反応、または周囲の匂いを感知して状況を探っている捕食・好奇心モードです。",
+                        "response": "手にマウスの匂いが残っていると誤って噛みつく恐れがあるため、触る前は石鹸で手を綺麗に洗いましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ケージ内の温度勾配と湿度の点検・水換え",
+                        "text": "クールゾーン（22〜25℃）とホットゾーン（28〜31℃）の温度勾配および湿度（40〜50%）を確認し、水いれの水を交換します。"
+                    },
+                    {
+                        "name": "昼：1ケージ1匹の単独飼育確認と脱走防止ロックの点検",
+                        "text": "共食い事故を完全に防ぐため単独飼育を徹底します。脱走が得意なため、ケージのロックを点検します。"
+                    },
+                    {
+                        "name": "夜：脱皮前の湿度ケアと排泄物の spot 清掃",
+                        "text": "目が白く濁る脱皮前兆（ブルー期）が見られたら、湿度を60〜70%に高めます。排泄物はすぐ取り除きます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "2匹のカリフォルニアキングスネークを同じケージで一緒に飼えますか？",
+                        "answer": "絶対に不可能です。キングスネークは他のヘビを捕食する本能（Ophidiophagy）を持っているため、必ず1ケージ1匹で単独飼育してください。"
+                    },
+                    {
+                        "question": "給餌の時に手を噛もうとしてくるのですが、どうすればいいですか？",
+                        "answer": "手にマウスの匂いが残っていると指を餌と誤認することがあります。給餌の際は必ず長いピンセットを使用し、触る前には石鹸で手をよく洗ってください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "加州王蛇对比鲜明环纹与严格单养的3阶段日常护理指南",
+                "description": "针对三大入门宠物蛇之一的加州王蛇。解析如何预防同类相食（Ophidiophagy）本能并维持适宜温湿度的3阶段日常护理流程。",
+                "authority": "世界爬行类与两栖类兽医师协会 (ARAV) 临床指南及 USARK 爬行类饲养标准",
+                "profile": {
+                    "breed": "加州王蛇 (California Kingsnake / Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20年",
+                    "sleep_pattern": "14 ~ 16小时 (躲避穴中休息，季节性昼行/晨昏行)",
+                    "temperament": "强健、旺盛捕食欲、好奇心强、活跃、严格独居 (同类相食本能)"
+                },
+                "intro": "加州王蛇 (*Lampropeltis californiae*) 与球蟒、玉米蛇并称为“三大入门宠物蛇”。在野外，加州王蛇具有捕食其他蛇类的“同类相食 (Ophidiophagy)”本能，因此绝对不能混养，必须严格执行“一缸一蛇”的单养原则。PetSelf 将解析其行为信号并提供3阶段日常护理流程。",
+                "whyTitle": "加州王蛇的行为表达：震尾 (Tail Rattling) 与 S 型戒备姿态",
+                "whyDesc": "当感到威胁时，加州王蛇会快速振动尾部（**“震尾 (Tail Rattling)”**），模仿响尾蛇的声音。而在锁定猎物时，它们会将前半身抬起并折叠成 **“S 型姿态”**，同时快速吐信。",
+                "body_signals": [
+                    {
+                        "name": "尾部贴地快速振动 (Tail Rattling)",
+                        "meaning": "对潜在威胁的防御性警告行为，通过模仿响尾蛇震尾声来保护自身的本能反应。",
+                        "response": "切勿惊扰它们，给其留出退回躲避穴的时间，并平静地关上饲养箱门。"
+                    },
+                    {
+                        "name": "前半身折叠成 S 型并快速吐信 (S-curve Stance)",
+                        "meaning": "表明处于活跃的捕食模式或正高度好奇地收集空气中的气味分子。",
+                        "response": "接触前务必用香皂彻底洗手，避免手部残留鼠类气味导致误咬。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：温差梯度与湿度检查及更换干净饮水",
+                        "text": "检查冷区（22-25℃）与热区（28-31℃）的温差梯度及湿度（40-50%）。清洗消毒水盆并更换干净饮水。"
+                    },
+                    {
+                        "name": "白天：严格维持单养状态与防逃逸锁具检查",
+                        "text": "坚决维持单箱单蛇，防止同类相食。检查滑动锁扣，加州王蛇是善于逃跑的专家。"
+                    },
+                    {
+                        "name": "晚上：脱皮期湿度增加与排泄物局部清理",
+                        "text": "若眼睛变蓝呈现脱皮前兆，将湿度提升至60-70%以确保顺利蜕皮。及时清理排泄物以防细菌滋生。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以将两条加州王蛇放在同一个饲养箱里混养吗？",
+                        "answer": "绝对不可以。加州王蛇具有极强的捕食其他蛇类的本能（Ophidiophagy）。混养极易引发吞食惨剧，必须单蛇单箱饲养。"
+                    },
+                    {
+                        "question": "喂食时蛇试图咬手并缠绕该怎么办？",
+                        "answer": "如果手上留有鼠类气味，它们会将手指误认为是猎物。喂食时务必使用长镊子，且在接触蛇前彻底洗净双手。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado del patrón de bandas de la Culebra Real de California y rutina de 3 pasos para su alojamiento individual",
+                "description": "Cuidados esenciales para la Culebra Real de California, una de las serpientes para principiantes más populares. Aprenda a alojarla individualmente y gestionar la temperatura.",
+                "authority": "Pautas Clínicas de la ARAV y Estándares de Herpetocultura de la USARK",
+                "profile": {
+                    "breed": "Culebra Real de California (Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20 años",
+                    "sleep_pattern": "14 ~ 16 horas (descanso en refugios; actividad diurna/crepuscular estacional)",
+                    "temperament": "Resistente, voraz al comer, curiosa, activa, estrictamente solitaria (ofiófaga)"
+                },
+                "intro": "La Culebra Real de California (*Lampropeltis californiae*) es una de las serpientes para principiantes más conocidas. En la naturaleza, posee un fuerte instinto ofiófago (caza y consume otras serpientes). Debido a esto, el alojamiento individual (una serpiente por terrario) es una regla estricta para evitar el canibalismo. En PetSelf compartimos una guía de 3 pasos para gestionar su temperatura y humedad.",
+                "whyTitle": "Comunicación de la Serpiente Real de California: Vibración de cola y postura en S",
+                "whyDesc": "Al sentirse amenazada, la Culebra Real de California vibra rápidamente su cola contra el sustrato (**'Vibración de cola'**), imitando a una cascabel. Cuando detecta presas, levanta su cuerpo en una **'Postura en S'**.",
+                "body_signals": [
+                    {
+                        "name": "Vibración rápida de la cola contra el suelo (Tail Rattling)",
+                        "meaning": "Comportamiento defensivo que simula el sonido de una serpiente de cascabel para ahuyentar depredadores.",
+                        "response": "No la asuste; dele tiempo para que se retire a su refugio y cierre la puerta del terrario con calma."
+                    },
+                    {
+                        "name": "Cuerpo levantado en postura en S y movimiento de lengua (S-curve Stance)",
+                        "meaning": "Indica un modo activo de caza o curiosidad ambiental para captar olores en el aire.",
+                        "response": "Lave bien sus manos con jabón antes de manipularla para eliminar olores a roedores que puedan provocar una mordedura."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control del gradiente térmico y agua fresca",
+                        "text": "Verifique el gradiente térmico: Zona caliente (28-31 °C) y Zona fría (22-25 °C) con humedad del 40-50%. Cambie el agua del bebedero."
+                    },
+                    {
+                        "name": "Tarde: Control de terrario individual e inspección de cierres",
+                        "text": "Asegúrese de mantener el alojamiento estrictamente individual. Revise los cierres del terrario, ya que son expertas en escapar."
+                    },
+                    {
+                        "name": "Noche: Humedad durante la muda y limpieza de desechos",
+                        "text": "Si los ojos se vuelven opacos (fase azul de muda), aumente la humedad al 60-70%. Limpie los desechos inmediatamente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo tener dos Serpientes Reales de California juntas en el mismo terrario?",
+                        "answer": "No, en absoluto. Esta especie tiene un instinto natural de ofiofagia. Juntar a dos ejemplares conlleva un riesgo altísimo de canibalismo."
+                    },
+                    {
+                        "question": "¿Por qué mi serpiente intenta morder mi mano durante la alimentación?",
+                        "answer": "Tienen un impulso alimenticio muy voraz. Si sus manos huelen a roedor, puede confundir sus dedos con comida. Use siempre pinzas largas y lávese bien las manos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soin du motif annelé du Serpent Roi de Californie et routine quotidienne en 3 étapes pour un élevage individuel",
+                "description": "Soins essentiels pour le Serpent Roi de Californie, l'un des serpents de compagnie les plus populaires. Découvrez les règles d'élevage individuel et de thermorégulation.",
+                "authority": "Directives cliniques de l'ARAV et Normes d'élevage de l'USARK",
+                "profile": {
+                    "breed": "Serpent Roi de Californie (Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20 ans",
+                    "sleep_pattern": "14 ~ 16 heures (repos dans les cachettes ; activité diurne/crépusculaire)",
+                    "temperament": "Robuste, très gourmand, curieux, actif, strictly solitaire (Ophiophage)"
+                },
+                "intro": "Le Serpent Roi de Californie (*Lampropeltis californiae*) est très conseillé pour les débutants. À l'état sauvage, il possède un instinct ophiophage (il chasse d'autres serpents). Il est donc indispensable de maintenir chaque individu séparément sous peine de cannibalisme fatal. PetSelf vous propose un guide en 3 étapes pour sa santé.",
+                "whyTitle": "Communication du Serpent Roi de Californie : Vibration de la queue et posture en S",
+                "whyDesc": "Lorsqu'il se sent menacé, le Serpent Roi de Californie fait vibrer rapidement sa queue contre le sol (**'Vibration de la queue'**), imitant le bruit du serpent à sonnettes. Lorsqu'il cible une proie, il se dresse en **'Posture en S'**.",
+                "body_signals": [
+                    {
+                        "name": "Vibration rapide de la queue contre le sol (Tail Rattling)",
+                        "meaning": "Comportement défensif simulant le bruit d'un serpent à sonnettes pour effrayer les prédateurs.",
+                        "response": "Ne le stressez pas ; laissez-lui le temps de se retirer dans sa cachette et refermez doucement le terrarium."
+                    },
+                    {
+                        "name": "Corps redressé en posture en S et mouvements de langue (S-curve Stance)",
+                        "meaning": "Indique un mode de chasse actif ou une curiosité intense pour analyser les odeurs de l'air.",
+                        "response": "Lavez-vous soigneusement les mains avec du savon avant toute manipulation pour éviter qu'il ne confonde vos doigts avec une proie."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification du gradient thermique et eau fraîche",
+                        "text": "Contrôlez le gradient thermique : Zone chaude (28-31 °C) et Zone fraîche (22-25 °C) avec humidité de 40-50 %. Nettoyez le bac d'eau."
+                    },
+                    {
+                        "name": "Après-midi : Contrôle du terrarium individuel et des fermetures",
+                        "text": "Maintenez impérativement un élevage solitaire. Inspectez les verrous des vitres, car ce sont des serpents très agiles pour s'échapper."
+                    },
+                    {
+                        "name": "Soir : Gestion de l'humidité en période de mue et nettoyage",
+                        "text": "Si ses yeux deviennent laiteux (période de mue), augmentez l'hygrométrie à 60-70 %. Retirez immédiatement les excréments."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on maintenir deux Serpents Rois de Californie dans le même terrarium ?",
+                        "answer": "Non, absolument pas. Cette espèce possède un instinct ophiophage. Placer deux serpents rois ensemble comporte un risque extrême de cannibalisme."
+                    },
+                    {
+                        "question": "Pourquoi mon serpent cherche-t-il à me mordre lors du nourrissage ?",
+                        "answer": "Ils ont un appétit très féroce. Si vos mains gardent l'odeur d'un rongeur, le serpent peut prendre vos doigts pour de la nourriture. Utilisez toujours de longues pinces."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Pflege der Kalifornischen Kettennatter und 3-Schritte-Tagesroutine für Einzelhaltung",
+                "description": "Pflege für die Kalifornische Kettennatter – eine der beliebtesten Anfängerschlangen. Erfahren Sie alles über Einzelhaltung zur Vermeidung von Kannibalismus und Temperaturverwaltung.",
+                "authority": "Klinische Richtlinien der ARAV & USARK Herpetokultur-Standards",
+                "profile": {
+                    "breed": "Kalifornische Kettennatter (Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20 Jahre",
+                    "sleep_pattern": "14 ~ 16 Stunden (Ruhe in Verstecken; jahreszeitliche Tag-/Dämmerungsaktivität)",
+                    "temperament": "Robust, gieriger Fresser, neugierig, aktiv, streng einzelgängerisch (ophiophag)"
+                },
+                "intro": "Die Kalifornische Kettennatter (*Lampropeltis californiae*) zählt zu den beliebtesten Anfängerschlangen. In freier Wildbahn besitzen Kettennattern einen ausgeprägten ophiophagen Instinkt – das bedeutet, sie jagen und fressen andere Schlangen. Aus diesem Grund ist Einzelhaltung (eine Schlange pro Terrarium) Pflicht. PetSelf erklärt die richtige Haltung in einer 3-Schritte-Routine.",
+                "whyTitle": "Kommunikation der Kettennatter: Schwanzvibration und S-förmige Abwehrhaltung",
+                "whyDesc": "Bei Bedrohung lässt die Kettennatter ihren Schwanz schnell gegen den Boden vibrieren (**'Schwanzvibration'**), um das Geräusch einer Klapperschlange nachzuahmen. Wenn sie Beute wittert, richtet sie den Körper in einer **'S-förmigen Haltung'** auf.",
+                "body_signals": [
+                    {
+                        "name": "Schnelle Vibration des Schwanzes am Boden (Tail Rattling)",
+                        "meaning": "Abwehrverhalten zur Abschreckung von Feinden durch Nachahmung einer Klapperschlange.",
+                        "response": "Erschrecken Sie das Tier nicht; geben Sie ihm Zeit, sich ins Versteck zurückzuziehen, und schließen Sie das Terrarium."
+                    },
+                    {
+                        "name": "Aufgerichteter Vorderkörper in S-Form und Züngeln (S-curve Stance)",
+                        "meaning": "Signalisiert aktiven Jagdmodus oder Neugier beim Aufnehmen von Geruchsmolekülen.",
+                        "response": "Waschen Sie vor dem Hantieren gründlich die Hände mit Seife, um Futtergerüche zu entfernen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperaturgefälle kontrollieren & Wasser erneuern",
+                        "text": "Überprüfen Sie das Temperaturgefälle: Wärmeplatz (28-31 °C) und kühle Zone (22-25 °C) bei 40-50 % Luftfeuchtigkeit. Reinigen Sie die Wasserschale."
+                    },
+                    {
+                        "name": "Nachmittag: Kontrolle der Einzelhaltung & Sicherung der Schlösser",
+                        "text": "Stellen Sie sicher, dass die Einzelhaltung strikt eingehalten wird. Überprüfen Sie Schiebetürschlösser, da Kettennattern geschickte Ausbrecher sind."
+                    },
+                    {
+                        "name": "Abend: Luftfeuchtigkeit in der Häutung & Reinigung",
+                        "text": "Erhöhen Sie bei milchigen Augen (Häutungsphase) die Luftfeuchtigkeit auf 60-70 %. Entfernen Sie Kot sofort."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man zwei Kalifornische Kettennattern zusammen halten?",
+                        "answer": "Nein, auf keinen Fall. Kettennattern sind ophiophag (schlangenfressend). Zwei Tiere zusammen im Terrarium zu halten birgt ein extrem hohes Risiko von Kannibalismus."
+                    },
+                    {
+                        "question": "Warum versucht die Schlange bei der Fütterung nach meiner Hand zu beißen?",
+                        "answer": "Wenn Ihre Hände nach Nagetieren riechen, kann die Schlange Ihre Finger mit Futter verwechseln. Nutzen Sie stets eine lange Futterpinzette und waschen Sie Ihre Hände gründlich."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidados com o padrão em faixas da Cobra-Rei da Califórnia e rotina diária de 3 passos para alojamento individual",
+                "description": "Cuidados essenciais para a Cobra-Rei da Califórnia, uma das serpentes para iniciantes mais populares. Saiba como evitar o canibalismo e manter a temperatura ideal.",
+                "authority": "Diretrizes Clínicas da ARAV e Padrões de Herpetocultura da USARK",
+                "profile": {
+                    "breed": "Cobra-Rei da Califórnia (Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20 anos",
+                    "sleep_pattern": "14 ~ 16 horas (descanso nas toca; atividade diurna/crepuscular)",
+                    "temperament": "Resistente, alimentador voraz, curioso, ativo, estritamente solitário (ofiófago)"
+                },
+                "intro": "A Cobra-Rei da Califórnia (*Lampropeltis californiae*) é uma das cobras para iniciantes mais populares do mundo. Na natureza, possui um forte instinto ofiófago (caça e consome outras cobras). Por isso, o alojamento individual é uma regra estrita para evitar o canibalismo. No PetSelf compartilhamos o guia de cuidados em 3 passos para controle de temperatura e umidade.",
+                "whyTitle": "Comunicação da Cobra-Rei da Califórnia: Vibração da cauda e postura em S",
+                "whyDesc": "Quando se sente ameaçada, a Cobra-Rei da Califórnia vibra a cauda contra o solo (**'Vibração da cauda'**), imitando o som de uma cascavel. Ao notar presas, eleva o corpo numa **'Postura em S'**.",
+                "body_signals": [
+                    {
+                        "name": "Vibração rápida da cauda contra o chão (Tail Rattling)",
+                        "meaning": "Comportamento defensivo que simula o som de uma cascavel para afastar ameaças.",
+                        "response": "Não a assuste; dê tempo para que se recolha à toca e feche a porta do terrário com calma."
+                    },
+                    {
+                        "name": "Corpo elevado na postura em S e movimento de língua (S-curve Stance)",
+                        "meaning": "Indica modo ativo de caça ou curiosidade ambiental para captar odores no ar.",
+                        "response": "Lave bem as mãos com sabão antes do manuseio para remover odores de roedores que possam provocar uma mordida acidental."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle do gradiente térmico e água fresca",
+                        "text": "Verifique o gradiente térmico: Zona quente (28-31 °C) e Zona fria (22-25 °C) com umidade em 40-50%. Troque a água da bacia."
+                    },
+                    {
+                        "name": "Tarde: Verificação do terrário individual e das travas",
+                        "text": "Mantenha o alojamento estritamente individual. Inspecione as travas do terrário, pois são hábeis em escapar."
+                    },
+                    {
+                        "name": "Noite: Umidade durante a ecdise e limpeza de resíduos",
+                        "text": "Se os olhos ficarem opacos (fase azul de muda), aumente a umidade para 60-70%. Limpe os uratos e fezes imediatamente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso manter duas Cobras-Rei da Califórnia juntas no mesmo terrário?",
+                        "answer": "Não, de forma alguma. Esta espécie tem um instinto natural de ofiofagia (alimentar-se de outras cobras). Juntar dois exemplares resulta num risco altíssimo de canibalismo."
+                    },
+                    {
+                        "question": "Por que a cobra tenta morder a minha mão na hora de comer?",
+                        "answer": "Se as suas mãos estiverem com cheiro de roedor, a cobra pode confundir os seus dedos com comida. Use sempre pinças longas de alimentação e lave bem as mãos antes do manuseio."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Perawatan Pola Cincin California Kingsnake dan Rutinitas Harian 3 Langkah Pemeliharaan Soliter",
+                "description": "Perawatan esensial untuk California Kingsnake, salah satu ular peliharaan pemula paling populer. Pelajari aturan pemeliharaan soliter untuk mencegah kanibalisme dan pengelolaannya.",
+                "authority": "Panduan Klinis ARAV & Standar Herpetokultur USARK",
+                "profile": {
+                    "breed": "California Kingsnake (Lampropeltis californiae)",
+                    "lifespan": "15 ~ 20 tahun",
+                    "sleep_pattern": "14 ~ 16 jam (istirahat di tempat sembunyi; aktivitas harian/nokturnal musiman)",
+                    "temperament": "Tangguh, nafsu makan tinggi, ingin tahu, aktif, soliter (ofiofagus)"
+                },
+                "intro": "California Kingsnake (*Lampropeltis californiae*) adalah salah satu ular pemula terpopuler di dunia. Di alam liar, mereka memiliki insting ofiofagus (berburu dan memakan ular lain). Oleh karena itu, pemeliharaan wajib dilakukan secara soliter (satu kandang satu ular) untuk mencegah kanibalisme. Hari ini PetSelf membagikan 3 langkah rutinitas harian untuk menjaga suhu dan kelembapan.",
+                "whyTitle": "Komunikasi California Kingsnake: Getaran Ekor dan Postur Tubuh S",
+                "whyDesc": "Saat merasa terancam, California Kingsnake akan menggetarkan ekornya dengan cepat ke tanah (**'Getaran Ekor'**), meniru suara ular derik. Saat mengincar mangsa, mereka akan mengangkat tubuh membentuk **'Postur S'**.",
+                "body_signals": [
+                    {
+                        "name": "Getaran Cepat Ekor ke Tanah (Tail Rattling)",
+                        "meaning": "Perilaku pertahanan diri yang menirukan suara ular derik untuk mengusir ancaman.",
+                        "response": "Jangan mengejutkannya; beri waktu agar ular masuk ke tempat sembunyi lalu tutup pintu kandang dengan tenang."
+                    },
+                    {
+                        "name": "Postur Tubuh S & Lidah Menjulur Cepat (S-curve Stance)",
+                        "meaning": "Menunjukkan mode berburu aktif atau rasa ingin tahu lingkungan untuk mengendus aroma di udara.",
+                        "response": "Cuci tangan hingga bersih dengan sabun sebelum memegang ular untuk menghilangkan aroma mangsa."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Gradien Suhu & Penggantian Air Bersih",
+                        "text": "Periksa gradien suhu kandang: Zona hangat (28-31°C) dan Zona dingin (22-25°C) dengan kelembapan 40-50%. Bersihkan dan isi ulang wadah air."
+                    },
+                    {
+                        "name": "Siang: Audit Pemeliharaan Soliter & Inspeksi Kunci Kandang",
+                        "text": "Pastikan pemeliharaan soliter penuh untuk mencegah kanibalisme. Periksa kunci kandang karena ular raja sangat ahli meloloskan diri."
+                    },
+                    {
+                        "name": "Malam: Perawatan Kelembapan Berganti Kulit & Pembersihan Kotoran",
+                        "text": "Jika mata tampak kabur kebiruan menandakan proses berganti kulit, tingkatkan kelembapan hingga 60-70%. Segera bersihkan kotoran."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah dua ekor California Kingsnake boleh dipelihara dalam satu kandang?",
+                        "answer": "Sama sekali tidak boleh. Spesies ini memiliki insting alami ofiofagi (memakan ular lain). Memelihara dua ekor bersama-sama berisiko sangat tinggi salah satunya akan menyerang dan memangsa yang lain."
+                    },
+                    {
+                        "question": "Mengapa ular saya mencoba menggigit tangan saat memberi makan?",
+                        "answer": "Ular raja memiliki refleks makan yang sangat kuat. Jika tangan Anda berbau tikus, ular dapat mengira jari Anda adalah makanan. Selalu gunakan pinset panjang dan cuci tangan sampai bersih sebelum memegangnya."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/california_kingsnake_care.webp"
+    }
+}

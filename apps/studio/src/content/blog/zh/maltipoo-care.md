@@ -11,9 +11,9 @@ formatVersion: 4
 authority: "世界小动物兽医师协会 (WSAVA) 临床指南及美国犬业俱乐部 (AKC) 混血犬护理标准"
 steps:
   - name: "马尔泰普的情感表达信号：打哈欠/抖动身体（抚慰信号）与分离焦虑预警"
-    text: "马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号 Calming Signals）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。"
+    text: "马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。"
   - name: "马尔泰普 (Maltipoo / Maltese x Toy Poodle Hybrid) 的肢体语言与行为信号"
-    text: "* 打哈欠与抖动身体 (Calming Signals): 在陌生环境自我安抚或向对方表达无敌意的抚慰信号。 (用温和的声音安抚，减少环境刺激，为其提供舒适安静的休息空间。)
+    text: "* 抚慰信号 (打哈欠与抖动身体): 在陌生环境自我安抚或向对方表达无敌意的抚慰信号。 (用温和的声音安抚，减少环境刺激，为其提供舒适安静的休息空间。)
 
 * 刨门与持续嚎叫 (Separation Distress): 因与主人分离产生的极度恐慌和焦虑信号。 (避免出入门时过于亲昵，使用嗅闻玩具或循序渐进的分离训练培养其独立性。)"
   - name: "马尔泰普 (Maltipoo / Maltese x Toy Poodle Hybrid) 定制化 3 步家庭护理流程"
@@ -55,7 +55,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">马尔泰普的情感表达信号：打哈欠/抖动身体（抚慰信号）与分离焦虑预警</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号 Calming Signals）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。
+    马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。
   </p>
 </div>
 
@@ -66,7 +66,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">肢体信号 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">打哈欠与抖动身体 (Calming Signals)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">抚慰信号 (打哈欠与抖动身体)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

@@ -18,7 +18,7 @@
                 "whyDesc": "말티푸는 보호자의 기분을 예민하게 감지하며, 스트레스를 받거나 안정이 필요할 때 하품을 하거나 몸을 털어내는 카밍 시그널(Calming Signal)을 보냅니다. 반면 혼자 남겨졌을 때 지속적인 하울링이나 문 긁기 행동은 분리불안의 명확한 신호입니다.",
                 "body_signals": [
                     {
-                        "name": "하품하기 및 몸 털기 (Calming Signals)",
+                        "name": "카밍 시그널 (하품하기 및 몸 털기)",
                         "meaning": "스스로 낯선 상황이나 스트레스 상황에서 안정을 찾으려 하거나, 상대방에게 적의가 없음을 전달하는 카밍 신호입니다.",
                         "response": "차분하고 부드러운 목소리로 안심시켜 주고, 과도한 자극을 줄여 스킨십 대신 편안한 휴식 공간을 제공합니다."
                     },
@@ -118,7 +118,7 @@
                 "whyDesc": "マルプーは飼い主の感情に敏感で、緊張やストレスを感じるとあくびをしたり体を振るカーミングシグナルを出します。一方、留守番中の連続した遠吠えや扉をひっかく行動は分離不安の警戒サインです。",
                 "body_signals": [
                     {
-                        "name": "あくび・体を大きく振る (Calming Signals)",
+                        "name": "カーミングシグナル (あくび・体を大きく振る)",
                         "meaning": "緊張緩和や自身を落ち着かせる動作、または相手に敵意がないことを伝えるサインです。",
                         "response": "落ち着いた声で安心させ、過度な刺激を避けてリラックスできる空間を与えます。"
                     },
@@ -165,10 +165,10 @@
                 },
                 "intro": "马尔泰普（Maltipoo）是结合了贵宾犬（Toy Poodle）智商高、掉毛少与马尔济斯（Maltese）温顺粘人优点的代表性混血犬种（Designer Dog）。它们拥有毛绒玩具般的外表和极其讨喜的性格，在全球室内家庭犬中极受欢迎。然而，作为小型犬，它们天生容易患上髌骨脱位（Patellar Luxation）；其柔软卷曲的被毛若不每天梳理，脱落的废毛会卡在卷毛深处形成紧贴皮肤的毛结（Matting），引发细菌性皮肤炎。此外，对主人的极高依赖感使其极易患上分离焦虑症（Separation Anxiety），因此从小培养独立性至关重要。今天 PetSelf 将为您解析马尔泰普的行为信号、关节保护技巧与3阶段日常护理流程。",
                 "whyTitle": "马尔泰普的情感表达信号：打哈欠/抖动身体（抚慰信号）与分离焦虑预警",
-                "whyDesc": "马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号 Calming Signals）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。",
+                "whyDesc": "马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。",
                 "body_signals": [
                     {
-                        "name": "打哈欠与抖动身体 (Calming Signals)",
+                        "name": "抚慰信号 (打哈欠与抖动身体)",
                         "meaning": "在陌生环境自我安抚或向对方表达无敌意的抚慰信号。",
                         "response": "用温和的声音安抚，减少环境刺激，为其提供舒适安静的休息空间。"
                     },
@@ -415,7 +415,7 @@
                 },
                 "intro": "Maltipoo adalah anjing hibrida (designer dog) terkenal di dunia yang menggabungkan kecerdasan dan bulu minim rontok dari Toy Poodle dengan sifat ramah dan manja dari Maltese. Sangat disukai karena penampilannya yang mirip boneka beruang serta sifatnya yang ceria, Maltipoo menjadi favorit utama anjing peliharaan dalam rumah. Namun, sebagai ras kecil, mereka rentan terhadap dislokasi tempurung lutut (patellar luxation). Bulu ikal halus mereka juga memerlukan penyisiran harian agar tidak membentuk gumpalan kusut (matting) dekat kulit yang dapat memicu dermatitis. Ikatan emosional yang tinggi dengan pemiliknya juga membuat mereka mudah mengalami kecemasan perpisahan (separation anxiety). Hari ini di PetSelf, kami membagikan panduan sinyal perilaku, perawatan sendi, dan rutin 3 langkah harian.",
                 "whyTitle": "Sinyal Perilaku Maltipoo: Sinyal Penenang (Menguap) vs Kecemasan Perpisahan",
-                "whyDesc": "Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang (calming signals) seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan.",
+                "whyDesc": "Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan.",
                 "body_signals": [
                     {
                         "name": "Menguap & Mengibaskan Tubuh (Sinyal Penenang)",

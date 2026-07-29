@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Pedoman Klinis World Small Animal Veterinary Association (WSAVA) dan Standar Pemeliharaan American Kennel Club (AKC)"
 steps:
   - name: "Sinyal Perilaku Maltipoo: Sinyal Penenang (Menguap) vs Kecemasan Perpisahan"
-    text: "Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang (calming signals) seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan."
+    text: "Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan."
   - name: "Bahasa Tubuh dan Sinyal Perilaku Maltipoo (Hibrida Maltese x Toy Poodle)"
     text: "* Menguap & Mengibaskan Tubuh (Sinyal Penenang): Upaya menenangkan diri dalam situasi asing atau menunjukkan ketidakberbahayaan kepada orang lain. (Tenangkan dengan suara lembut dan kurangi stimulasi berlebih untuk memberi ruang istirahat yang nyaman.)
 
@@ -55,7 +55,7 @@ Maltipoo adalah anjing hibrida (designer dog) terkenal di dunia yang menggabungk
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Sinyal Perilaku Maltipoo: Sinyal Penenang (Menguap) vs Kecemasan Perpisahan</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang (calming signals) seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan.
+    Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan.
   </p>
 </div>
 

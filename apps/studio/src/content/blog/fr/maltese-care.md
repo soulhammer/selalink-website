@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC"
 steps:
   - name: "Langage corporel du bichon maltais : Signaux de stress et de confort"
-    text: "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Calming Signals) typiques incluent le fait de se lécher la truffe (Nose Licking) et de bâiller (Yawning). Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul."
+    text: "En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Signaux d'apaisement) typiques incluent le fait de se lécher la truffe (Nose Licking) et de bâiller (Yawning). Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul."
   - name: "Langage corporel et signaux comportementaux du Bichon maltais (Canis lupus familiaris / Maltese)"
     text: "* Bâiller (Yawning): Ce n'est pas de la fatigue ; c'est un signal d'apaisement pour se calmer et apaiser l'entourage. (S'il bâille pendant l'éducation ou le toilettage, arrêtez immédiatement et offrez un espace calme.)
 
@@ -59,7 +59,7 @@ Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente 
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Langage corporel du bichon maltais : Signaux de stress et de confort</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Calming Signals) typiques incluent le fait de se lécher la truffe (Nose Licking) et de bâiller (Yawning). Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.
+    En tant que chiens très dépendants de leurs maîtres, les bichons maltais montrent silencieusement leur état psychologique par des gestes corporels. Les signaux d'apaisement (Signaux d'apaisement) typiques incluent le fait de se lécher la truffe (Nose Licking) et de bâiller (Yawning). Face à un environnement tendu ou inconnu, se lécher la truffe ou bâiller n'est pas dû à la fatigue ; c'est un message pacifique pour se calmer et demander aux autres de ne pas les menacer. Si les maîtres continuent le contact, leur stress augmente. Il est préférable de prendre du recul.
   </p>
 </div>
 

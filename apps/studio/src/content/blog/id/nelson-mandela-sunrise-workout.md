@@ -23,7 +23,7 @@ faqs:
     answer: "Modifikasi latihan agar sesuai dengan tingkat kebugaran Anda: lakukan push-up dinding atau push-up lutut, dan ganti squat dengan gerakan duduk-berdiri dari kursi. Bahkan hanya 5 menit atau 1 set per hari sudah cukup untuk mengaktifkan rutinitas otak pagi hari yang positif untuk menjaga otonomi."
 ---
 
-"Olahraga adalah kunci hidup saya. Through olahraga, saya mampu menemukan kedamaian pikiran bahkan di tengah penderitaan yang ekstrem." ☀️
+"Olahraga adalah kunci hidup saya. Melalui olahraga, saya mampu menemukan kedamaian pikiran bahkan di tengah penderitaan yang ekstrem." ☀️
 
 Nelson Mandela (1918–2013), seorang aktivis anti-apartheid yang mendedikasikan hidupnya untuk memperjuangkan martabat dan kesetaraan manusia, serta menjadi presiden kulit hitam pertama Afrika Selatan yang dipilih secara demokratis. Ditangkap karena menentang sistem rasisme yang brutal (apartheid), ia bertahan selama 27 tahun di balik jeruji penjara yang dingin. Dianugerahi Hadiah Nobel Perdamaian pada tahun 1993 dan terpilih sebagai Presiden pada tahun 1994, ia meninggalkan jejak mendalam dalam sejarah manusia sebagai simbol rekonsiliasi dan pengampunan global.
 

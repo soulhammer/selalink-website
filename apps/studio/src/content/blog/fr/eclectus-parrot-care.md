@@ -1,0 +1,186 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Grand dimorphisme du Perroquet Éclectus et routine quotidienne en 3 étapes de produits frais"
+description: "Mâles vert émeraude et femelles rouge carmin ! Découvrez les soins essentiels adaptés au tractus digestif particulièrement long du Perroquet Éclectus."
+pubDate: "2026-05-05"
+updatedDate: "2026-05-05"
+category: "FreshSelf"
+heroImage: "/images/blog/eclectus_parrot_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "Directives de la UICN et Protocoles de Nutrition Clinique de l'AAV"
+steps:
+  - name: "Communication du Perroquet Éclectus : Posture de figement (Freezing) et signaux doux"
+    text: "En cas de peur ou d'inquiétude, l'Éclectus ne crie pas immédiatement ; il adopte une posture de 'Figement' (Freezing), le corps immobile et droit. À l'inverse, lorsqu'il est en confiance, il étire doucement le cou, maintient un contact visuel et émet de doux sons."
+  - name: "Langage corporel et signaux comportementaux du Perroquet Éclectus (Eclectus Parrot)"
+    text: "* Corps immobile et droit (Freezing): Réaction de défense face à une menace ou un bruit inconnu ; il s'immobilise pour évaluer le danger. (Ne forcez pas le contact physique ; laissez-le au calme jusqu'à ce qu'il se détende.)
+
+* Contact visuel doux et petit claquement de bec (Gentle Eye Contact & Soft Beak Clicking): Signe de confiance et de bien-être, indiquant qu'il est prêt à interagir paisiblement. (Parlez-lui d'une voix douce et offrez-lui un morceau de fruit frais pour renforcer le lien.)"
+  - name: "Routine quotidienne en 3 étapes pour le soin du Perroquet Éclectus (Eclectus Parrot)"
+    text: "* STEP 1. Matin : Petit-déjeuner de fruits et légumes frais riches en Vitamine A: Offrez un repas composé à 60-70 % de produits frais crus (pommes, papayes, carottes, courges). Observez les fientes pour contrôler la digestion.
+
+* STEP 2. Après-midi : Interaction vocale et contrôle neurologique (Toe-tapping): Consacrez du temps à la parole. Vérifiez l'absence de martèlement des pattes (toe-tapping) ou de tremblements d'ailes dus à des additifs synthétiques.
+
+* STEP 3. Soir : Douche de brume tiède et 12h de sommeil calme: Brumisez-le à l'eau tiède pour hydrater les plumes. Couvrez la cage et assurez 10 à 12 heures d'obscurité totale."
+faqs:
+  - question: "Puis-je nourrir mon Éclectus uniquement avec des granulés ou des graines ?"
+    answer: "Non. En raison de son long système digestif, les régimes riches en graines grasses ou en granulés fortifiés d'additifs provoquent la maladie du foie gras et du stress rénal. 60 à 70 % de son alimentation doit être constituée de légumes et fruits frais."
+  - question: "Pourquoi mon Éclectus tapote-t-il des pattes ou secoue-t-il les ailes (Toe-Tapping / Wing-Flipping) ?"
+    answer: "Ce sont des spasmes musculaires involontaires causés par des aditifs artificiels, des vitamines synthétiques surdosées ou des régimes trop gras. Supprimez les aliments industriels avec aditifs et passez à une nourriture 100 % naturelle."
+---
+
+Le Perroquet Éclectus (*Eclectus roratus*) est célèbre pour son dimorphisme sexuel extrême : le mâle arbore un plumage vert émeraude au bec orange, tandis que la femelle sfiche un rouge carmin et bleu violet éclatant au bec noir. Anatomiquement, l'Éclectus possède un système digestif nettement plus long que les autres perroquets, exigeant une alimentation riche en fibres et en eau composée de fruits et légumes frais. L'utilisation d'aliments riches en additifs synthétiques ou de graines grasses peut provoquer des troubles neurologiques comme le martèlement des pattes (toe-tapping). Aujourd'hui, PetSelf vous livre son guide de soins.
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Preuves Vétérinaires et Comportementales
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Ce contenu est basé sur Directives de la UICN et Protocoles de Nutrition Clinique de l'AAV.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Communication du Perroquet Éclectus : Posture de figement (Freezing) et signaux doux
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Communication du Perroquet Éclectus : Posture de figement (Freezing) et signaux doux</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    En cas de peur ou d'inquiétude, l'Éclectus ne crie pas immédiatement ; il adopte une posture de 'Figement' (Freezing), le corps immobile et droit. À l'inverse, lorsqu'il est en confiance, il étire doucement le cou, maintient un contact visuel et émet de doux sons.
+  </p>
+</div>
+
+---
+
+## 2. Langage corporel et signaux comportementaux du Perroquet Éclectus (Eclectus Parrot)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Corps immobile et droit (Freezing)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Réaction de défense face à une menace ou un bruit inconnu ; il s'immobilise pour évaluer le danger.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Ne forcez pas le contact physique ; laissez-le au calme jusqu'à ce qu'il se détende.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Signal Corporel 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Contact visuel doux et petit claquement de bec (Gentle Eye Contact & Soft Beak Clicking)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Signification
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Signe de confiance et de bien-être, indiquant qu'il est prêt à interagir paisiblement.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Reponse
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Parlez-lui d'une voix douce et offrez-lui un morceau de fruit frais pour renforcer le lien.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 3. Routine quotidienne en 3 étapes pour le soin du Perroquet Éclectus (Eclectus Parrot)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Matin : Petit-déjeuner de fruits et légumes frais riches en Vitamine A</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Offrez un repas composé à 60-70 % de produits frais crus (pommes, papayes, carottes, courges). Observez les fientes pour contrôler la digestion.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Après-midi : Interaction vocale et contrôle neurologique (Toe-tapping)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Consacrez du temps à la parole. Vérifiez l'absence de martèlement des pattes (toe-tapping) ou de tremblements d'ailes dus à des additifs synthétiques.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Soir : Douche de brume tiède et 12h de sommeil calme</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Brumisez-le à l'eau tiède pour hydrater les plumes. Couvrez la cage et assurez 10 à 12 heures d'obscurité totale.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Foire Aux Questions (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Puis-je nourrir mon Éclectus uniquement avec des granulés ou des graines ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Non. En raison de son long système digestif, les régimes riches en graines grasses ou en granulés fortifiés d'additifs provoquent la maladie du foie gras et du stress rénal. 60 à 70 % de son alimentation doit être constituée de légumes et fruits frais.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Pourquoi mon Éclectus tapote-t-il des pattes ou secoue-t-il les ailes (Toe-Tapping / Wing-Flipping) ?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Ce sont des spasmes musculaires involontaires causés par des aditifs artificiels, des vitamines synthétiques surdosées ou des régimes trop gras. Supprimez les aliments industriels avec aditifs et passez à une nourriture 100 % naturelle.
+    </p>
+  </details>
+</div>

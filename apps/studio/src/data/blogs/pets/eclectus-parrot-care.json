@@ -1,0 +1,459 @@
+{
+    "eclectus-parrot-care": {
+        "pubDate": "2026-05-05",
+        "updatedDate": "2026-05-05",
+        "locales": {
+            "ko": {
+                "title": "뉴기니아 앵무 암수 색상 반전 매력과 과일·야채 중심 영양 케어 3단계 데일리 루틴",
+                "description": "수컷의 선명한 초록빛과 암컷의 화려한 붉은빛! 극심한 암수 성적 이형성을 가진 뉴기니아 앵무의 특수한 소화기관 특성에 맞춘 식단 관리와 3단계 케어법을 소개합니다.",
+                "authority": "세계자연보전연맹(IUCN) 조류 보호 지침 및 조류수의학회(AAV) 중대형 앵무 임상 영양 가이드라인",
+                "profile": {
+                    "breed": "뉴기니아 앵무 (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50년",
+                    "sleep_pattern": "10 ~ 12시간 (고요하고 조용한 완전 암전 수면)",
+                    "temperament": "온순함, 차분함, 영리함, 언어 능력 뛰어남, 섬세함, 경계심 있음"
+                },
+                "intro": "뉴기니아 앵무(Eclectus Parrot)는 조류 중에서 암수의 피모 색상이 완전히 다른 '극단적 성적 이형성(Sexual Dimorphism)'을 가진 대표적인 중대형 앵무새입니다. 수컷은 신비로운 에메랄드 그린 빛에 옥수수 모양의 주황색 부리를, 암컷은 매혹적인 붉은색과 보라색 깃털에 검은색 부리를 가져 과거 서로 다른 종으로 오인받기도 했습니다. 뉴기니아 앵무는 다른 앵무새에 비해 소화관(전위 및 장)이 길어 섬유질과 수분이 풍부한 과일, 야채, 복합 탄수화물 위주의 식단이 필수적입니다. 인공 합성 비타민이나 씨앗 위주의 고지방 식단을 급여할 경우 발가락 튕김(Toe-tapping)이나 날개 털기(Wing-flipping) 같은 신경증상이 유발될 수 있습니다. 오늘 PetSelf에서는 뉴기니아 앵무의 언어 신호를 해석하고, 올바른 식단과 섬세한 감정 케어를 돕는 3단계 데일리 루틴을 다룹니다.",
+                "whyTitle": "뉴기니아 앵무의 감정 표현: 굳어짐(Freezing)과 온화한 소통 신호",
+                "whyDesc": "뉴기니아 앵무는 경계나 공포를 느낄 때 섣불리 소리를 지르기보다 몸을 일직선으로 단단히 고정하는 **'얼어붙기(Freezing)'** 행동을 보입니다. 반면 마음이 편안하고 친밀감을 느낄 때는 목을 기분 좋게 뻗으며 부드러운 중저음의 울음소리나 언어 표현을 시도합니다.",
+                "body_signals": [
+                    {
+                        "name": "몸을 일자로 고정하고 시선 고정하기 (Freezing)",
+                        "meaning": "낯선 자극이나 공포에 대한 경계 신호로, 위협을 느낄 때 행동을 멈추고 상황을 탐색하는 상태입니다.",
+                        "response": "성급히 손을 대지 말고 가만히 기다려주며 안심할 수 있는 차분한 환경을 제공합니다."
+                    },
+                    {
+                        "name": "부드럽게 눈을 맞추며 부리 뼉뼉 소리 내기 (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "보호자에게 호감을 느끼고 소통할 준비가 되었음을 나타내는 온화한 교감 신호입니다.",
+                        "response": "낮고 부드러운 목소리로 대화해 주며 신선한 과일 조각을 주어 긍정적 강화를 제공합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수분 풍부 생과일·야채 조반 및 소화기 점검",
+                        "text": "사과, 파파야, 당근, 호박 등 비타민 A와 섬유질이 풍부한 신선한 과일과 야채 중심의 생식 주식을 급여합니다. 변의 상태를 확인하여 장 건강을 점검합니다."
+                    },
+                    {
+                        "name": "낮: 언어 교감 교육 및 발가락 튕김(Toe-tapping) 신경 증상 관찰",
+                        "text": "뛰어난 언어 발성 능력을 자극하는 부드러운 언어 교감 시간을 갖습니다. 인공 첨가물이나 과도한 씨앗 섭취로 인한 발가락 튕김 증상이 없는지 살핍니다."
+                    },
+                    {
+                        "name": "저녁: 미지근한 분무 수분 케어 및 12시간 정숙 수면",
+                        "text": "깃털 보습과 청결을 위해 미지근한 물로 깃털 분무 소독을 진행합니다. 예민한 감정 케어를 위해 케이지 커버를 덮고 10~12시간의 정숙한 수면을 보장합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "뉴기니아 앵무에게 일반 펠릿이나 씨앗만 급여해도 되나요?",
+                        "answer": "안 됩니다. 뉴기니아 앵무는 다른 앵무새보다 소화관이 훨씬 길어 씨앗이나 고지방 펠릿만 급여하면 지방간, 비타민 A 결핍증, 신장 질환이 쉽게 발생합니다. 식단의 60~70% 이상을 신선한 야채, 과일, 발아 곡물 등의 생식으로 구성해야 합니다."
+                    },
+                    {
+                        "question": "발가락을 자꾸 튕기거나 날개를 털어대는데(Toe-tapping / Wing-flipping) 왜 그런가요?",
+                        "answer": "인공 색소나 인공 비타민이 과다 첨가된 사료, 혹은 씨앗 위주의 고지방 식단이나 칼슘/비타민 불균형으로 인해 발생하는 뉴기니아 앵무 특유의 신경 반응입니다. 즉시 첨가물이 들어간 사료를 중단하고 신선한 자연식 중심 식단으로 전환해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Eclectus Parrot Reverse Dimorphism and 3-Step Fresh Produce Nutrition Daily Routine",
+                "description": "Brilliant green males and vibrant red females! Discover essential care for the extreme sexual dimorphism of the Eclectus Parrot, tailored to their unique long digestive tract.",
+                "authority": "IUCN Bird Conservation Guidelines & Association of Avian Veterinarians (AAV) Clinical Nutrition Protocols",
+                "profile": {
+                    "breed": "Eclectus Parrot",
+                    "lifespan": "30 - 50 Years",
+                    "sleep_pattern": "10 - 12 Hours (Quiet, Undisturbed Darkness)",
+                    "temperament": "Gentle, Calm, Highly Intelligent, Excellent Vocal Mimic, Sensitive, Observant"
+                },
+                "intro": "The Eclectus Parrot (*Eclectus roratus*) is a world-renowned medium-large parrot species famed for its extreme sexual dimorphism. Males boast emerald green plumage with a candy-corn orange beak, while females showcase a stunning crimson and violet-blue coat with a black beak—a contrast so stark they were historically mistaken for two distinct species. Anatomically, Eclectus Parrots possess significantly longer digestive tracts (proventriculus and intestines) than other parrots, requiring a high-fiber, high-moisture diet rich in fresh fruits, vegetables, and complex carbohydrates. Feeding synthetic-fortified pellets or high-fat seed diets can trigger neurological distress such as toe-tapping and wing-flipping. Today, PetSelf decodes Eclectus Parrot body signals and shares a 3-step nutrition and care guide.",
+                "whyTitle": "Eclectus Parrot Communication: Freezing Posture and Soft Social Cues",
+                "whyDesc": "When feeling cautious or intimidated, Eclectus Parrots do not immediately screech; instead, they exhibit a **'Freezing'** behavior, locking their body completely upright to observe. Conversely, when relaxed and affectionate, they stretch their neck softly, make gentle eye contact, and produce low, melodious vocalizations or speech.",
+                "body_signals": [
+                    {
+                        "name": "Upright Body Stiffening (Freezing)",
+                        "meaning": "A defensive reaction to unfamiliar stimuli or fear, halting movement to assess potential threats.",
+                        "response": "Avoid forcing physical contact; give them space in a quiet environment until they regain composure."
+                    },
+                    {
+                        "name": "Gentle Eye Contact & Soft Beak Clicking (Gentle Eye Contact & Beak Clicking)",
+                        "meaning": "Indicates comfort, trust, and readiness to interact calmly with their human companion.",
+                        "response": "Speak in a quiet, soothing tone and reward them with a fresh piece of fruit to reinforce positive bonding."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Vitamin A-Rich Fresh Produce Breakfast & Gut Check",
+                        "text": "Feed a fresh meal consisting of 60-70% raw produce (apples, papayas, carrots, squash, leafy greens). Inspect droppings to monitor digestive health."
+                    },
+                    {
+                        "name": "Afternoon: Vocal Interaction & Neurological Monitoring (Toe-Tapping Check)",
+                        "text": "Engage in gentle speech training to stimulate their high vocal capability. Observe for toe-tapping or wing-flipping symptoms caused by dietary imbalances or synthetic additives."
+                    },
+                    {
+                        "name": "Evening: Lukewarm Feather Mist Bath & 12-Hour Quiet Sleep",
+                        "text": "Mist bathe with lukewarm water to maintain feather hydration and cleanliness. Cover the cage and ensure 10-12 hours of quiet, dark rest for emotional stability."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I feed my Eclectus Parrot a standard pellet or seed-only diet?",
+                        "answer": "No. Due to their unusually long digestive tract, high-fat seed or heavily fortified pellet diets cause fatty liver disease, vitamin A deficiency, or organ stress. Their diet must consist predominantly (60-70%) of fresh vegetables, fruits, sprouted grains, and soft foods."
+                    },
+                    {
+                        "question": "Why is my Eclectus Parrot tapping its toes or flipping its wings (Toe-Tapping / Wing-Flipping)?",
+                        "answer": "Toe-tapping and wing-flipping are specific involuntary muscle spasms in Eclectus Parrots caused by dietary sensitivities—often triggered by artificial dyes, synthetic vitamin fortifications, high-fat seed diets, or calcium imbalances. Immediately remove artificial pellets/fortified treats and transition to fresh, natural whole foods."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "オオハナインコの雌雄逆転カラーの魅力と果物・野菜中心の栄養管理3ステップ日常ルーティン",
+                "description": "オスは鮮やかなエメラルドグリーン、メスは華やかな赤紫！極端な性的二型を持つオオハナインコの長い消化器官に合わせた食事管理と3ステップケア法を解説します。",
+                "authority": "IUCN鳥類保全ガイドラインおよび鳥類獣医生理学（AAV）中大型インコ臨床栄養プロトコル",
+                "profile": {
+                    "breed": "オオハナインコ (Eclectus Parrot)",
+                    "lifespan": "30 〜 50年",
+                    "sleep_pattern": "10 〜 12時間 (静かで落ち着いた完全な暗黒睡眠)",
+                    "temperament": "穏やか、落ち着きがある、賢い、おしゃべりが得意、繊細、警戒心あり"
+                },
+                "intro": "オオハナインコ（Eclectus Parrot）は、鳥類の中でオスとメスの羽色が完全に異なる「極端な性的二型（Sexual Dimorphism）」を持つ代表的な中大型インコです。オスは幻想的なエメラルドグリーンにトウモロコシのようなオレンジ色のクチバシ、メスは情熱的な赤と紫色の羽に黒いクチバシを持ち、かつては別種と誤認されていたほどです。解剖学的に他のインコよりも消化管（前胃および腸）が非常に長いため、繊維質と水分が豊富な生野菜、果物、複合炭水化物中心の食事が不可欠です。人工着色料や高脂質なシード食を与えると、足指の痙攣（トゥ・タッピング）や羽ばたき（ウィング・フリッピング）などの神経症状を引き起こすことがあります。今回はPetSelfが、オオハナインコの食事とケアのコツを解説します。",
+                "whyTitle": "オオハナインコの感情表現：フリーズ（Freezing）と穏やかなコミュニケーション",
+                "whyDesc": "オオハナインコは警戒や恐怖を感じた際、騒ぎ立てるのではなく体を直立させて固まる**「フリーズ（Freezing）」**行動を見せます。一方、心が落ち着いて親愛を感じている時は、首を優しく伸ばして目を合わせ、柔らかい低音でおしゃべりを試みます。",
+                "body_signals": [
+                    {
+                        "name": "体を一直線に固めて視線を固定する (Freezing)",
+                        "meaning": "見慣れない刺激や恐怖に対する防衛反応で、脅威を感じた際に動きを止めて状況を観察している状態です。",
+                        "response": "無理に触ろうとせず、静かな環境で落ち着くまで優しく見守ってあげましょう。"
+                    },
+                    {
+                        "name": "優しく目を合わせてクチバシをカチカチ鳴らす (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "飼い主に対して親愛の情を抱き、落ち着いてコミュニケーションをとる準備が整ったサインです。",
+                        "response": "穏やかな低い声で話しかけ、新鮮なフルーツを一口あげてポジティブな関係を深めましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ビタミンA豊富な新鮮野菜・果物の朝食と便チェック",
+                        "text": "リンゴ、パパイヤ、ニンジン、カボチャなどビタミンAと繊維質が豊富な生の果物・野菜を主食として与えます。フンの状態を観察して消化器の健康を確認します。"
+                    },
+                    {
+                        "name": "昼：おしゃべり交流とトゥ・タッピング（足指の痙攣）の観察",
+                        "text": "高い発声能力を伸ばす穏やかな語りかけの時間を作ります。人工添加物やシードの過剰摂取によるトゥ・タッピング等の神経症状がないか観察します。"
+                    },
+                    {
+                        "name": "夜：ぬるま湯ミスト浴と12時間の静かな睡眠",
+                        "text": "羽毛の保湿と清潔のため、ぬるま湯のミストでスプレー浴を行います。繊細なメンタルを保護するため、ケージカバーを被せ10〜12時間の静かな睡眠を確保します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "オオハナインコに一般的なペレットやシードだけを与えてもいいですか？",
+                        "answer": "いけません。オオハナインコは他のインコより消化管が格段に長いため、シードや高脂質・人工ビタミン過剰なペレットのみを与えると脂肪肝やビタミンA欠乏症、内臓疾患を引き起こします。食事の60〜70％以上を新鮮な生野菜や果物で構成する必要があります。"
+                    },
+                    {
+                        "question": "足指をカチカチ動かしたり（トゥ・タッピング）羽をバタつかせるのはなぜですか？",
+                        "answer": "人工着色料や合成ビタミンが過剰に含まれたフード、高脂質なシード食、またはカルシウムバランスの乱れにより生じるオオハナインコ特有の神経反応です。すぐに人工添加物入りフードを中止し、無添加の新鮮な自然食へ切り替えてください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "折衷鹦鹉雌雄羽色反转魅力与以蔬果为主的3阶段营养护理指南",
+                "description": "雄鸟如翡翠般翠绿，雌鸟如深红宝石般绚丽！针对拥有极度性别双色现象的折衷鹦鹉，结合其独特长消化道生理特征的3阶段日常护理流程。",
+                "authority": "世界自然保护联盟 (IUCN) 鸟类保护指南及鸟类兽医师协会 (AAV) 临床营养规程",
+                "profile": {
+                    "breed": "折衷鹦鹉 (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50年",
+                    "sleep_pattern": "10 ~ 12小时 (安静无干扰的完全黑暗睡眠)",
+                    "temperament": "温和、沉稳、聪慧、语言模仿力强、细腻、具警惕心"
+                },
+                "intro": "折衷鹦鹉 (*Eclectus roratus*) 是鸟类中具有极度“性别双色 (Sexual Dimorphism)”的代表性中大型鹦鹉。雄鸟全身羽毛呈深翡翠绿色，配以玉米黄色的嘴喙；雌鸟则呈鲜艳的绯红色与紫蓝色，配以黑色嘴喙，差异之大以至于早期曾被误认为两个独立物种。在解剖学上，折衷鹦鹉拥有比其他鹦鹉长得多的消化道，因此饮食中必须包含丰富水分、高纤维的鲜果、蔬菜及复合碳水化合物。若长期喂食高脂肪种子或人工合成添加剂过多的滋养丸，易引发敲趾 (Toe-tapping) 或抖翅 (Wing-flipping) 等神经系统异常。今天 PetSelf 将解析折衷鹦鹉的情感信号与3阶段日常护理流程。",
+                "whyTitle": "折衷鹦鹉的情感表达：身体僵直 (Freezing) 与温和交流",
+                "whyDesc": "当感到警惕或恐惧时，折衷鹦鹉通常不会尖叫，而是将身体竖直紧绷并保持 motionless，这种行为被称为**“身体僵直 (Freezing)”**。相反，当环境安全且对主人产生信任时，它们会柔和地伸长脖子，进行眼神接触并发出低沉温和的咕噜声或模仿人类语言。",
+                "body_signals": [
+                    {
+                        "name": "身体直立紧绷并保持定格 (Freezing)",
+                        "meaning": "对陌生环境或威胁的防御警惕信号，通过停止动作来评估周围潜在危险。",
+                        "response": "切勿强行抚摸，将其置于安静环境中，给它足够时间恢复放松状态。"
+                    },
+                    {
+                        "name": "温柔眼神接触与嘴喙敲击声 (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "代表对主人的喜爱与完全信任，表明已准备好进行温和的情感互动。",
+                        "response": "用低沉柔和的声音交流，并给予一小块新鲜水果作为积极强化。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：富含维生素A的生鲜蔬果早餐与粪便检查",
+                        "text": "喂食占饮食60-70%的新鲜蔬果（苹果、木瓜、胡萝卜、南瓜等）。检查粪便性状以监测肠道健康。"
+                    },
+                    {
+                        "name": "白天：语音互动与敲趾 (Toe-tapping) 神经症状观察",
+                        "text": "进行温和的语言交流训练，激发其出色的发音能力。密切观察是否有因饮食失衡或人工添加剂引起的敲趾或抖翅现象。"
+                    },
+                    {
+                        "name": "晚上：温水喷雾羽毛保湿与12小时深度睡眠",
+                        "text": "使用温水喷雾帮助羽毛保湿和清洁。盖上笼布，确保10-12小时无噪音干扰的黑暗睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以只给折衷鹦鹉喂食普通滋养丸或种子吗？",
+                        "answer": "绝对不可以。折衷鹦鹉的消化道极长，长期喂食高脂肪种子或高浓度人工滋养丸会导致脂肪肝、维生素A缺乏症及肾脏负担。其饮食的60-70%必须由新鲜蔬菜、水果、发芽种子等天然生鲜食物组成。"
+                    },
+                    {
+                        "question": "折衷鹦鹉频繁敲打脚趾或抖动翅膀 (Toe-tapping / Wing-flipping) 是怎么回事？",
+                        "answer": "这是折衷鹦鹉特有的不自主肌肉痉挛神经反应，通常由饮食敏感引起，如摄入人工色素、合成维生素过量、高脂种子或钙磷比例失衡。应立即停用含人工添加剂的饲料，转为天然无添加的新鲜天然饮食。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Dimorfismo inverso del Loro Eclectus y rutina diaria de 3 pasos de nutrición fresca",
+                "description": "¡Machos verde esmeralda y hembras rojo carmesí! Cuidados clave para el Loro Eclectus y su peculiar aparato digestivo largo que requiere frutas y verduras frescas.",
+                "authority": "Directrices de la UICN y Protocolos Clínicos de Nutrición de la AAV",
+                "profile": {
+                    "breed": "Loro Eclectus (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50 años",
+                    "sleep_pattern": "10 ~ 12 horas (oscuridad total silenciosa y sin interrupciones)",
+                    "temperament": "Dócil, tranquilo, altamente inteligente, excelente imitador vocal, sensible"
+                },
+                "intro": "El Loro Eclectus (*Eclectus roratus*) es famoso mundialmente por su dimorfismo sexual extremo. Los machos lucen un plumaje verde esmeralda con pico naranja, mientras que las hembras presentan un radiante rojo carmesí y azul violeta con pico negro. Anatómicamente, poseen un tracto digestivo significativamente más largo que otros loros, por lo que requieren una dieta alta en fibra y humedad basada en frutas, verduras y carbohidratos complejos. Alimentarlos con piensos con aditivos sintéticos o semillas grasas puede causar espasmos neurológicos como el punteado de dedos (toe-tapping). Hoy en PetSelf compartimos su guía de nutrición y cuidados.",
+                "whyTitle": "Comunicación del Loro Eclectus: Postura de congelación (Freezing) y señales de afecto",
+                "whyDesc": "Ante el miedo o la desconfianza, el Loro Eclectus no suele gritar; en su lugar, se queda completamente inmóvil e erguido (**'Congelación'**). En cambio, al sentirse cómodo y seguro, estira el cuello con suavidad, mantiene contacto visual y emite sonidos suaves o palabras.",
+                "body_signals": [
+                    {
+                        "name": "Cuerpo rígido e inmóvil (Freezing)",
+                        "meaning": "Reacción defensiva ante estímulos extraños o miedo; se congela para evaluar posibles amenazas.",
+                        "response": "No fuerce el contacto físico; déjelo tranquilo en un entorno relajado hasta que se calme."
+                    },
+                    {
+                        "name": "Contacto visual suave y chasquido de pico (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "Señal de confianza y bienestar; indica que está listo para interactuar calmadamente con su tutor.",
+                        "response": "Háblele con voz pausada y premielo con un trozo de fruta fresca para reforzar el vínculo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Desayuno de frutas y verduras ricas en Vitamina A",
+                        "text": "Sirva una ración fresca compuesta en un 60-70% por vegetales y frutas crudas (manzana, papaya, zanahoria, calabaza). Verifique las heces para monitorear la salud digestiva."
+                    },
+                    {
+                        "name": "Tarde: Estimulación vocal y control neurológico (Toe-tapping)",
+                        "text": "Dedique tiempo a la interacción hablada. Observe que no presente espasmos en las patas (toe-tapping) ni aleteos involuntarios por desequilibrios nutricionales."
+                    },
+                    {
+                        "name": "Noche: Baño de spray tibio y 12 horas de descanso silencioso",
+                        "text": "Rocíe con agua tibia para hidratar el plumaje. Cubra la jaula y garantice de 10 a 12 horas de oscuridad total para mantener su estabilidad emocional."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo alimentar a un Loro Eclectus solo con pienso extrusionado o semillas?",
+                        "answer": "No. Debido a su tracto digestivo excepcionalmente largo, las dietas ricas en grasas o piensos altamente fortificados con aditivos sintéticos causan hígado graso y estrés renal. El 60-70% de su dieta debe consistir en verduras frescas, frutas y granos germinados."
+                    },
+                    {
+                        "question": "¿Por qué mi Loro Eclectus da golpecitos con los dedos o sacude las alas (Toe-Tapping / Wing-Flipping)?",
+                        "answer": "Son espasmos musculares involuntarios típicos del Loro Eclectus causados por aditivos artificiales, exceso de vitaminas sintéticas, dietas grasas de semillas o desequilibrios de calcio. Elimine piensos con colorantes o aditivos y pase a una alimentación 100% natural."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Grand dimorphisme du Perroquet Éclectus et routine quotidienne en 3 étapes de produits frais",
+                "description": "Mâles vert émeraude et femelles rouge carmin ! Découvrez les soins essentiels adaptés au tractus digestif particulièrement long du Perroquet Éclectus.",
+                "authority": "Directives de la UICN et Protocoles de Nutrition Clinique de l'AAV",
+                "profile": {
+                    "breed": "Perroquet Éclectus (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50 ans",
+                    "sleep_pattern": "10 ~ 12 heures (obscurité totale et calme sans interférence)",
+                    "temperament": "Doux, calme, très intelligent, excellent imitateur vocal, sensible, observateur"
+                },
+                "intro": "Le Perroquet Éclectus (*Eclectus roratus*) est célèbre pour son dimorphisme sexuel extrême : le mâle arbore un plumage vert émeraude au bec orange, tandis que la femelle sfiche un rouge carmin et bleu violet éclatant au bec noir. Anatomiquement, l'Éclectus possède un système digestif nettement plus long que les autres perroquets, exigeant une alimentation riche en fibres et en eau composée de fruits et légumes frais. L'utilisation d'aliments riches en additifs synthétiques ou de graines grasses peut provoquer des troubles neurologiques comme le martèlement des pattes (toe-tapping). Aujourd'hui, PetSelf vous livre son guide de soins.",
+                "whyTitle": "Communication du Perroquet Éclectus : Posture de figement (Freezing) et signaux doux",
+                "whyDesc": "En cas de peur ou d'inquiétude, l'Éclectus ne crie pas immédiatement ; il adopte une posture de **'Figement' (Freezing)**, le corps immobile et droit. À l'inverse, lorsqu'il est en confiance, il étire doucement le cou, maintient un contact visuel et émet de doux sons.",
+                "body_signals": [
+                    {
+                        "name": "Corps immobile et droit (Freezing)",
+                        "meaning": "Réaction de défense face à une menace ou un bruit inconnu ; il s'immobilise pour évaluer le danger.",
+                        "response": "Ne forcez pas le contact physique ; laissez-le au calme jusqu'à ce qu'il se détende."
+                    },
+                    {
+                        "name": "Contact visuel doux et petit claquement de bec (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "Signe de confiance et de bien-être, indiquant qu'il est prêt à interagir paisiblement.",
+                        "response": "Parlez-lui d'une voix douce et offrez-lui un morceau de fruit frais pour renforcer le lien."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Petit-déjeuner de fruits et légumes frais riches en Vitamine A",
+                        "text": "Offrez un repas composé à 60-70 % de produits frais crus (pommes, papayes, carottes, courges). Observez les fientes pour contrôler la digestion."
+                    },
+                    {
+                        "name": "Après-midi : Interaction vocale et contrôle neurologique (Toe-tapping)",
+                        "text": "Consacrez du temps à la parole. Vérifiez l'absence de martèlement des pattes (toe-tapping) ou de tremblements d'ailes dus à des additifs synthétiques."
+                    },
+                    {
+                        "name": "Soir : Douche de brume tiède et 12h de sommeil calme",
+                        "text": "Brumisez-le à l'eau tiède pour hydrater les plumes. Couvrez la cage et assurez 10 à 12 heures d'obscurité totale."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Puis-je nourrir mon Éclectus uniquement avec des granulés ou des graines ?",
+                        "answer": "Non. En raison de son long système digestif, les régimes riches en graines grasses ou en granulés fortifiés d'additifs provoquent la maladie du foie gras et du stress rénal. 60 à 70 % de son alimentation doit être constituée de légumes et fruits frais."
+                    },
+                    {
+                        "question": "Pourquoi mon Éclectus tapote-t-il des pattes ou secoue-t-il les ailes (Toe-Tapping / Wing-Flipping) ?",
+                        "answer": "Ce sont des spasmes musculaires involontaires causés par des aditifs artificiels, des vitamines synthétiques surdosées ou des régimes trop gras. Supprimez les aliments industriels avec aditifs et passez à une nourriture 100 % naturelle."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Edelpapagei geschlechtsspezifische Farben & 3-Schritte-Tagesroutine mit Frischkost-Ernährung",
+                "description": "Smaragdgrüne Männchen und leuchtend rote Weibchen! Wichtige Pflege für den Edelpapagei, angepasst an seinen außergewöhnlich langen Verdauungstrakt.",
+                "authority": "IUCN-Vogelschutzrichtlinien & Klinische Ernährungs-Protokolle der AAV",
+                "profile": {
+                    "breed": "Edelpapagei (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (Ruhige, ungestörte Dunkelheit)",
+                    "temperament": "Sanftmütig, ruhig, hochintelligent, exzellenter Sprachimitation, sensibel"
+                },
+                "intro": "Der Edelpapagei (*Eclectus roratus*) ist berühmt für seinen extremen Geschlechtsdimorphismus: Männchen tragen ein leuchtend smaragdgrünes Gefieder mit orangem Schnabel, während Weibchen in kräftigem Rubinrot und Violettblau erstrahlen. Anatomisch besitzen Edelpapageien einen deutlich längeren Verdauungstrakt als andere Papageien, weshalb sie eine ballaststoff- und feuchtigkeitsreiche Ernährung aus frischem Obst und Gemüse benötigen. Anreicherungen mit künstlichen Zusatzstoffen oder fettigen Saaten können neurologische Symptome wie Zehentippen (Toe-tapping) auslösen. PetSelf stellt die Pflegevorraussetzungen vor.",
+                "whyTitle": "Kommunikation des Edelpapageis: Erstarren (Freezing) und sanfte Laute",
+                "whyDesc": "Bei Überforderung oder Angst kreischt der Edelpapagei selten; stattdessen zeigt er ein **'Erstarren' (Freezing)**, bei dem er den Körper steif aufrichtet. Fühlt er sich sicher, streckt er den Hals sanft, sucht Blickkontakt und gibt leise, melodische Laute von sich.",
+                "body_signals": [
+                    {
+                        "name": "Steifes Aufrichten des Körpers (Freezing)",
+                        "meaning": "Schutzreaktion auf unbekannte Reize oder Angst; der Vogel erstarrt, um die Lage einzuschätzen.",
+                        "response": "Drängen Sie sich nicht auf; lassen Sie den Vogel in ruhiger Umgebung, bis er sich entspannt."
+                    },
+                    {
+                        "name": "Sanfter Blickkontakt und leises Schnabelklicken (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "Zeichen von Zuneigung und Vertrauen; zeigt Bereitschaft für eine ruhige Interaktion.",
+                        "response": "Sprechen Sie mit leiser Stimme und belohnen Sie ihn mit einem Stück frischem Obst."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Vitamin-A-reiches Frischkost-Frühstück & Kot-Check",
+                        "text": "Füttern Sie 60-70 % frisches rohes Gemüse und Obst (Äpfel, Papayas, Karotten, Kürbis). Prüfen Sie den Kot zur Verdauungskontrolle."
+                    },
+                    {
+                        "name": "Nachmittag: Sprachförderung & Neurologische Kontrolle (Toe-Tapping)",
+                        "text": "Nehmen Sie sich Zeit für ruhige Sprachübungen. Achten Sie darauf, dass keine ungewollten Muskelzuckungen an den Zehen (Toe-tapping) auftreten."
+                    },
+                    {
+                        "name": "Abend: Lauwarme Gefiederdusche & 12 Stunden ruhiger Schlaf",
+                        "text": "Befeuchten Sie das Gefieder mit lauwarmem Sprühwasser. Decken Sie den Käfig ab und sorgen Sie für 10-12 Stunden absolute Dunkelheit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann ich meinem Edelpapagei nur normale Pellets oder Saaten füttern?",
+                        "answer": "Nein. Aufgrund des langen Verdauungstrakts führen fettreiche Saaten oder synthetisch stark angereicherte Pellets zu Fettleber und Nierenschäden. 60-70 % der Nahrung müssen aus frischem Gemüse, Obst und Keimfutter bestehen."
+                    },
+                    {
+                        "question": "Warum tippt mein Edelpapagei mit den Zehen oder zuckt mit den Flügeln (Toe-Tapping / Wing-Flipping)?",
+                        "answer": "Dies sind Unwillkürliche Muskelkrämpfe, die durch künstliche Farbstoffe, synthetische Vitamine oder ein Calcium-Ungleichgewicht ausgelöst werden. Stoppen Sie künstliche Zusätze sofort und steigen Sie auf naturbelassene Frischkost um."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Dimorfismo reverso do Papagaio Eclectus e rotina diária de 3 passos com nutrição fresca",
+                "description": "Machos verde-esmeralda e fêmeas vermelho-carmesim! Descubra os cuidados essenciais para o Papagaio Eclectus e o seu longo trato digestivo que exige frutas e vegetais.",
+                "authority": "Diretrizes de Conservação da UICN e Protocolos de Nutrição Clínica da AAV",
+                "profile": {
+                    "breed": "Papagaio Eclectus (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50 anos",
+                    "sleep_pattern": "10 ~ 12 horas (escuridão total e silenciosa)",
+                    "temperament": "Dócil, calmo, altamente inteligente, excelente imitador vocal, sensível"
+                },
+                "intro": "O Papagaio Eclectus (*Eclectus roratus*) é famoso pelo seu dimorfismo sexual extremo: os machos possuem plumagem verde-esmeralda com bico laranja, enquanto as fêmeas ostentam um tom vermelho-carmesim e azul-violeta com bico preto. Anatomicamente, possuem um trato digestivo significativamente mais longo do que outros papagaios, exigindo uma dieta rica em fibras e umidade à base de frutas e vegetais frescos. Rações com aditivos sintéticos ou sementes gordurosas podem causar espasmos neurológicos como o bater de dedos (toe-tapping). Hoje no PetSelf apresentamos o seu guia de cuidados.",
+                "whyTitle": "Comunicação do Papagaio Eclectus: Postura de congelamento (Freezing) e sinais afetuosos",
+                "whyDesc": "Diante do medo ou desconfiança, o Papagaio Eclectus não costuma gritar; em vez disso, fica completamente imóvel e ereto (**'Congelamento'**). Por outro lado, quando confortável, estica o pescoço suavemente, faz contato visual e emite sons baixos ou palavras.",
+                "body_signals": [
+                    {
+                        "name": "Corpo rígido e imóvel (Freezing)",
+                        "meaning": "Reação de defesa diante de estímulos estranhos; congela o corpo para avaliar possíveis ameaças.",
+                        "response": "Não force o contato físico; deixe a ave num ambiente calmo até que se tranquilize."
+                    },
+                    {
+                        "name": "Contato visual suave e estalo de bico (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "Sinal de confiança e bem-estar; indica que está pronta para interagir calmamente com o tutor.",
+                        "response": "Fale com tom suave e recompense com um pedaço de fruta fresca para reforçar o laço."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Café da manhã com frutas e vegetais ricos em Vitamina A",
+                        "text": "Ofereça uma refeição fresca composta por 60-70% de vegetais e frutas (maçã, mamão, cenoura, abóbora). Verifique as fezes para monitorar a digestão."
+                    },
+                    {
+                        "name": "Tarde: Estimulação vocal e controle neurológico (Toe-tapping)",
+                        "text": "Dedique tempo à interação falada. Observe para garantir que não apresenta espasmos nos pés (toe-tapping) causados por aditivos sintéticos."
+                    },
+                    {
+                        "name": "Noite: Banho de borrifador morno e 12 horas de descanso silencioso",
+                        "text": "Borrife água morna para hidratar as penas. Cubra a gaiola e garanta de 10 a 12 horas de escuridão total para manter a estabilidade emocional."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso alimentar um Papagaio Eclectus apenas com ração extrusada ou sementes?",
+                        "answer": "Não. Devido ao seu trato digestivo longo, dietas ricas em gordura ou rações com aditivos sintéticos causam esteatose hepática e estresse renal. 60 a 70% da dieta deve ser composta por vegetais frescos, frutas e grãos germinados."
+                    },
+                    {
+                        "question": "Por que o meu Papagaio Eclectus bate os dedos dos pés ou balança as asas (Toe-Tapping / Wing-Flipping)?",
+                        "answer": "São espasmos musculares involuntários típicos do Papagaio Eclectus causados por aditivos artificiais, excesso de vitaminas sintéticas ou desequilíbrios nutricionais. Elimine alimentos com aditivos artificiais e mude para uma dieta 100% natural."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Dimorfisme Warna Burung Nuri Bayan (Eclectus) dan Rutinitas Harian 3 Langkah Nutrisi Makanan Segar",
+                "description": "Jantan berwarna hijau zamrud dan betina berwarna merah cerah! Pelajari perawatan Nuri Bayan yang memiliki saluran pencernaan panjang dan membutuhkan buah serta sayur segar.",
+                "authority": "Panduan Konservasi Burung IUCN & Protokol Nutrisi Klinis AAV",
+                "profile": {
+                    "breed": "Nuri Bayan / Eclectus Parrot (Eclectus Parrot)",
+                    "lifespan": "30 ~ 50 tahun",
+                    "sleep_pattern": "10 ~ 12 jam (kegelapan total tanpa gangguan)",
+                    "temperament": "Penurut, tenang, sangat cerdas, peniru suara yang baik, sensitif, pengamat"
+                },
+                "intro": "Burung Nuri Bayan (*Eclectus roratus*) terkenal di dunia karena perbedaan warna bulu yang sangat ekstrem antara jantan dan betina (Sexual Dimorphism). Burung jantan memiliki bulu hijau zamrud dengan paruh berwarna oranye, sedangkan burung betina tampil menawan dengan warna merah cerah dan biru keunguan serta paruh hitam. Secara anatomi, Nuri Bayan memiliki saluran pencernaan yang jauh lebih panjang dibanding burung paruh bengkok lainnya, sehingga membutuhkan makanan tinggi serat dan kadar air dari buah serta sayur segar. Pemberian pelet sintetis berlebih atau biji-bijian tinggi lemak dapat memicu gangguan saraf seperti mengetuk jari kaki (toe-tapping). Hari ini PetSelf membagikan panduan perawatan nutrisinya.",
+                "whyTitle": "Komunikasi Nuri Bayan: Postur Membatu (Freezing) dan Sinyal Ramah",
+                "whyDesc": "Saat merasa waspada atau takut, Nuri Bayan tidak langsung berteriak, melainkan melakukan gerakan **'Membatu' (Freezing)** dengan menegakkan tubuhnya. Sebaliknya, saat merasa aman dan nyaman, mereka akan meregangkan leher dengan lembut, menatap mata pemilik, dan mengeluarkan suara rendah yang merdu.",
+                "body_signals": [
+                    {
+                        "name": "Tubuh Tegak Kaku dan Diam (Freezing)",
+                        "meaning": "Reaksi pertahanan terhadap ancaman atau benda asing; membatu untuk mengamati situasi sekitar.",
+                        "response": "Jangan memaksa kontak fisik; biarkan burung di lingkungan yang tenang hingga kembali rileks."
+                    },
+                    {
+                        "name": "Tatapan Mata Lembut & Bunyi Paruh (Gentle Eye Contact & Soft Beak Clicking)",
+                        "meaning": "Sinyal rasa percaya dan kenyamanan; menunjukkan kesiapan untuk berinteraksi dengan tenang.",
+                        "response": "Bicaralah dengan nada lembut dan berikan potongan buah segar untuk mempererat ikatan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Sarapan Buah & Sayur Segar Kaya Vit A serta Cek Kotoran",
+                        "text": "Berikan makanan segar yang terdiri dari 60-70% buah dan sayuran mentah (apel, pepaya, wortel, labu). Periksa kondisi kotorannya untuk memantau pencernaan."
+                    },
+                    {
+                        "name": "Siang: Pelatihan Suara & Pemantauan Saraf (Toe-tapping)",
+                        "text": "Lakukan interaksi percakapan lembut. Amati agar tidak ada gejala ketukan jari kaki (toe-tapping) akibat aditif sintetis atau makanan tak seimbang."
+                    },
+                    {
+                        "name": "Malam: Mandi Semprot Air Hangat & Istirahat Tenang 12 Jam",
+                        "text": "Semprotkan air hangat secara halus untuk menjaga kelembapan bulu. Tutup kandang dan pastikan tidur dalam kegelapan selama 10-12 jam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah saya memberikan pelet biasa atau biji-bijian saja untuk Nuri Bayan?",
+                        "answer": "Tidak boleh. Karena saluran pencernaan Nuri Bayan sangat panjang, makanan tinggi lemak atau pelet dengan aditif sintetis tinggi dapat menyebabkan perlemakan hati dan gangguan ginjal. 60-70% makanannya wajib berupa sayur, buah segar, dan biji-bijian berkecambah."
+                    },
+                    {
+                        "question": "Mengapa Nuri Bayan saya sering mengetukkan jari kakinya atau mengepakkan sayapnya (Toe-Tapping / Wing-Flipping)?",
+                        "answer": "Itu adalah spasme otot tidak sadar khas Nuri Bayan yang disebabkan oleh sensitivitas makanan, seperti pewarna buatan, vitamin sintetis berlebih, atau ketidakseimbangan kalsium. Segera hentikan pelet buatan dan beralihlah ke makanan segar yang alami."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/eclectus_parrot_care.webp"
+    }
+}
