@@ -1,0 +1,459 @@
+{
+    "blue-gold-macaw-care": {
+        "pubDate": "2026-02-05",
+        "updatedDate": "2026-02-05",
+        "locales": {
+            "ko": {
+                "title": "청금강앵무 부리 파괴 욕구 충족과 언어·행동 교감 3단계 일상 루틴",
+                "description": "세계적인 대형 앵무새 청금강앵무. 강력한 부리 파괴 욕구를 안전하게 충족하는 장난감 제공법, 압도적 지능에 맞춘 언어 및 사회성 교감 3단계 케어 가이드를 제공합니다.",
+                "authority": "미국조류학회(AAV) 자문 표준 및 세계조류협회(WPT) 대형 앵무새 복지 가이드라인",
+                "profile": {
+                    "breed": "청금강앵무 (Blue and Gold Macaw)",
+                    "lifespan": "30 ~ 50년 (이상적인 환경에서 60년 이상)",
+                    "sleep_pattern": "10 ~ 12시간 (완전한 암막 환경에서 소음 없는 수면 필수)",
+                    "temperament": "지능이 매우 높음, 사회적임, 애교 많음, 소란스러울 수 있음, 호기심 넘침"
+                },
+                "intro": "청금강앵무(Blue and Gold Macaw)는 화려한 코발트블루와 황금빛 깃털, 압도적인 크기로 전 세계 반려조 사육자들의 '최종 로망'이라 불리는 대형 앵무새입니다. 3~5세 아이 수준의 높은 지능을 지니고 있어 뛰어난 언어 습득 능력과 감정 표현력을 자랑하지만, 그만큼 풍부한 지적 자극과 사회적 교감이 제공되지 않으면 심각한 우울증이나 자해 행동(깃털 뽑기)을 보일 수 있습니다. 또한 호두껍질도 손쉽게 부수는 강력한 악력의 부리를 지니고 있어 파괴 욕구를 안전하게 해소할 전용 장난감과 넓은 초대형 새장 환경이 필수적입니다. 오늘 PetSelf에서는 청금강앵무의 정서적 바디 랭귀지를 분석하고, 부리 케어와 언어·행동 교감을 위한 3단계 일상 루틴을 공개합니다.",
+                "whyTitle": "청금강앵무의 본능: 뺨 피부 상홍(Flushing)과 날개 펼치기 시그널",
+                "whyDesc": "청금강앵무는 감정이 고조될 때 흰 민낯 피부인 뺨 부위가 붉게 물드는 **'플러싱(Flushing)'** 현상을 보입니다. 이는 흥분이나 기쁨, 혹은 경계의 상태를 감정적으로 드러내는 생리적 언어입니다. 또한 머리 깃털을 세우고 날개를 크게 넓게 펼치는 동작은 자신감을 표출하거나 보호자의 관심을 끌고자 하는 적극적인 애정 시그널입니다.",
+                "body_signals": [
+                    {
+                        "name": "뺨 피부 홍조 (Facial Flushing)",
+                        "meaning": "깃털이 없는 흰 뺨 피부 혈관이 확장되어 붉어지는 현상으로, 보호자와의 교감에 크게 흥분했거나 강한 기쁨을 느낄 때 나타나는 정서 반응입니다.",
+                        "response": "차분하고 다정한 목소리로 말을 건네주며 정서적 흥분을 안정적인 애정 교감으로 이끌어 줍니다."
+                    },
+                    {
+                        "name": "머리 털 세우고 둥글게 날개 펼치기 (Feather Fluffing & Wing Display)",
+                        "meaning": "자신의 존재감을 드러내고 기분이 최고조에 달했음을 알리는 신호로, 보호자에게 함께 놀자고 요청하는 건강한 의사표현입니다.",
+                        "response": "손을 내밀어 '올라타(Step-up)' 명령을 수행하게 하거나 상호작용 언어 훈련을 진행하여 욕구를 해소해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 신선한 펠렛·과일 식단 및 언어 인사 자극",
+                        "text": "영양 균형을 맞춘 영양 펠렛과 신선한 과일·견과류(자이언트 아몬드 등)를 제공하며, 밝고 명확한 어조로 아침 언어 자극 인사를 건냅니다."
+                    },
+                    {
+                        "name": "낮: 원목·천연 로프 파괴 장난감 교체 및 자유 비행·방사장 활동",
+                        "text": "강력한 부리 욕구를 충족할 단단한 원목 파괴 장난감을 제공하고, 하루 최소 2~3시간 이상 새장 밖 스탠드나 안전한 방사장에서 자유로운 깃털 정비와 활동을 보장합니다."
+                    },
+                    {
+                        "name": "밤: 깃털 청결을 위한 미온수 분무 목욕 및 12시간 암막 수면",
+                        "text": "미온수 분무기 목욕으로 깃털 먼지를 제거하고 정서적 안정을 유도한 뒤, 암막 커버를 씌워 10~12시간 동안 소음 없는 완전한 수면 환경을 조성합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "청금강앵무의 강력한 부리 파괴 행동은 어떻게 관리해야 하나요?",
+                        "answer": "청금강앵무의 부리 질식 및 파괴 욕구는 본능적인 행동입니다. 가구나 위험한 전선을 갉지 않도록 안전한 마닐라 로프, 천연 원목 블록, 단단한 가죽 장난감을 지속적으로 제공하여 욕구를 안전하게 분출시켜야 합니다."
+                    },
+                    {
+                        "question": "청금강앵무의 발성(소리 지르기) 소음은 어느 정도인가요?",
+                        "answer": "청금강앵무는 야생에서 수 킬로미터 떨어진 동료와 소통하던 습성이 있어 아침·저녁으로 매우 청각적인 대형 포효음(Screaming)을 냅니다. 이는 아파트 등 밀집 주거 형태에서는 사육이 불가능할 정도로 크므로, 방음 대책이나 단독주택 환경이 필수적으로 고려되어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Blue and Gold Macaw Care Guide: Beak Enrichment, Speech Training & 3-Step Social Routine",
+                "description": "Essential care for the majestic Blue and Gold Macaw. Learn how to safely satisfy their powerful beak destruction instincts and encourage speech through our 3-step social enrichment routine.",
+                "authority": "Association of Avian Veterinarians (AAV) Advisory Standards & World Parrot Trust (WPT) Large Macaw Welfare Guidelines",
+                "profile": {
+                    "breed": "Blue and Gold Macaw (Ara ararauna)",
+                    "lifespan": "30 - 50 Years (Up to 60+ in ideal conditions)",
+                    "sleep_pattern": "10 - 12 Hours (Requires complete blackout and quiet sleep environment)",
+                    "temperament": "Highly Intelligent, Social, Affectionate, Vocal, Curious"
+                },
+                "intro": "The Blue and Gold Macaw is globally celebrated as the ultimate dream bird for parrot enthusiasts, featuring striking cobalt blue and golden-yellow plumage paired with an impressive size. Possessing the cognitive ability of a 3 to 5-year-old human child, they boast exceptional speech capabilities and complex emotional expressions. However, without ample mental stimulation and social bonding, they can suffer from severe depression or feather-plucking behavior. Their extraordinarily powerful beaks can easily crush hardwood and nut shells, requiring dedicated destructive toys and an ultra-large enclosure. Today on PetSelf, we decode the Blue and Gold Macaw's emotional body language and reveal a 3-step daily routine for beak enrichment, speech stimulation, and social well-being.",
+                "whyTitle": "Blue and Gold Macaw Instincts: Facial Flushing and Wing Display Signals",
+                "whyDesc": "Blue and Gold Macaws exhibit a unique physiological response called **'Flushing'**, where the bare white skin on their cheeks turns pinkish-red during heightened emotion. This signals excitement, joy, or intense arousal. Additionally, fluffing head feathers while spreading their wings wide is a bold, confident signal meant to attract attention and request interactive play.",
+                "body_signals": [
+                    {
+                        "name": "Facial Skin Flushing",
+                        "meaning": "Blood flow increasing to the featherless white facial patch, signaling high emotional arousal, joy, or deep engagement with their handler.",
+                        "response": "Speak to them in a calm, soothing tone to channel their emotional excitement into a gentle, bonding interaction."
+                    },
+                    {
+                        "name": "Feather Fluffing & Wing Display",
+                        "meaning": "Fluffing head feathers and spreading wings wide to show confidence and express an enthusiastic desire for play and attention.",
+                        "response": "Offer a hand for a 'Step-up' command or engage in interactive speech training to fulfill their desire for engagement."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Fresh Pelleted & Fruit Diet with Vocal Greeting",
+                        "text": "Serve a balanced diet of high-quality pellets, fresh fruits, and nuts (e.g., giant almonds), accompanied by cheerful, clear verbal greetings to stimulate speech."
+                    },
+                    {
+                        "name": "Afternoon: Hardwood Destruction Toys & Out-of-Cage Activity",
+                        "text": "Provide durable wooden chew toys and manila ropes to satisfy their powerful chewing drive, ensuring at least 2–3 hours out of the cage on a play stand."
+                    },
+                    {
+                        "name": "Evening: Lukewarm Misting Bath & 12-Hour Blackout Sleep",
+                        "text": "Mist with lukewarm water to maintain feather cleanliness and induce relaxation, then cover the cage with a blackout cover for 10–12 hours of quiet sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How should I manage a Blue and Gold Macaw's destructive chewing habits?",
+                        "answer": "Chewing is a natural, necessary behavior for macaws to maintain beak health. To prevent them from destroying furniture or dangerous wires, continuously supply safe destructible materials like natural hardwood blocks, thick manila ropes, and hard leather toys."
+                    },
+                    {
+                        "question": "How loud is a Blue and Gold Macaw's vocalization?",
+                        "answer": "Macaws have extremely loud, ear-piercing contact calls that can carry for miles in the wild. They naturally flock-call in the morning and evening, making them unsuitable for apartments or close-density housing without substantial soundproofing."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ルリコンゴウインコのクチバシ破壊欲求の満たし方と言語・行動交流の3ステップ日常ルーティン",
+                "description": "世界的な大型インコ、ルリコンゴウインコの必須ケア法。強力なクチバシの破壊欲求を安全に満たすおもちゃの与え方と、圧倒的な知能に合わせた言語・社会性ケアの3ステップガイドを解説します。",
+                "authority": "全米鳥類獣医師会（AAV）諮問基準および世界インコトラスト（WPT）大型インコ福祉ガイドライン",
+                "profile": {
+                    "breed": "ルリコンゴウインコ (Blue and Gold Macaw)",
+                    "lifespan": "30 〜 50年 (理想的な環境では60年以上)",
+                    "sleep_pattern": "10 〜 12時間 (完全な遮光環境での無騒音睡眠が必須)",
+                    "temperament": "極めて知能が高い、社交的、甘えん坊、大声を出します、好奇心旺盛"
+                },
+                "intro": "ルリコンゴウインコは、鮮やかなコバルトブルーと黄金色の羽毛、圧倒的な体躯で世界中の愛鳥家から「憧れの存在」と称される大型インコです。人間の3〜5歳児に匹敵する高い知能を持ち、優れた言語習得能力と豊かな感情表現を誇りますが、 profits そのぶん適切な知的刺激と社会的なコミュニケーションが与えられないと、深刻な抑うつや毛引き症を引き起こすことがあります。また、クルミの殻も簡単に砕く強力なクチバシを持つため、破壊欲求を安全に発散できる専用おもちゃと巨大なケージ環境が欠かせません。本日はPetSelfがルリコンゴウインコのボディーランゲージを分析し、クチバシケアと言語・行動交流のための3ステップ日常ルーティンを公開します。",
+                "whyTitle": "ルリコンゴウインコの本能：頬の赤らみ（Flushing）と翼を広げるシグナル",
+                "whyDesc": "ルリコンゴウインコは感情が高まると、羽毛のない白い頬の皮膚がぽっと赤く染まる**「フラッシング（Flushing）」**という生理現象を見せます。これは興奮や喜び、あるいは警戒を表現する感情の言語です。また、頭の羽毛を立てて翼を大きく広げる動作は、自信を表したり飼い主の気を引こうとする積極的なアピールです。",
+                "body_signals": [
+                    {
+                        "name": "頬の皮膚の赤らみ (Facial Skin Flushing)",
+                        "meaning": "白い頬の血管が拡張して赤くなる現象で、飼い主との交流に強く興奮しているか、大きな喜びを感じている感情反応です。",
+                        "response": "落ち着いた優しい声で話しかけ、興奮を穏やかなスキンシップへと導いてあげます。"
+                    },
+                    {
+                        "name": "頭の羽毛を立てて翼を広げる (Feather Fluffing & Wing Display)",
+                        "meaning": "自分の存在感を示し、気分が最高潮に達していることを知らせるサインで、一緒に遊びたい欲求のアピールです。",
+                        "response": "「ステップアップ（手に乗る）」の指示を出したり、言語トレーニングを行って欲求を満たします。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：新鮮なペレット・果物食と声かけによる言語刺激",
+                        "text": "栄養バランスの整ったペレットと新鮮な果物・ナッツを与え、明るく明確な言葉で朝の挨拶を行い言語脳を刺激します。"
+                    },
+                    {
+                        "name": "昼：木製破壊おもちゃの交換とケージ外での放鳥活動",
+                        "text": "強力な噛む力を安全に発散できるよう硬い木製おもちゃを与え、1日最低2〜3時間はケージの外で自由に羽づくろいや運動をさせます。"
+                    },
+                    {
+                        "name": "夜：羽毛の清潔を保つぬるま湯スプレーと12時間遮光睡眠",
+                        "text": "ぬるま湯の霧吹きで羽毛のほこりを落としてリラックスさせ、遮光カバーをかけて10〜12時間静かで暗い睡眠環境を整えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ルリコンゴウインコの強力な噛みグセや破壊行動はどう対策すべきですか？",
+                        "answer": "クチバシで物を壊す行動はインコにとって本能的なものです。家具や危険な配線をかじらないよう、マニラロープや天然木ブロック、硬い革製おもちゃを常時与えて安全に欲求を発散させることが重要です。"
+                    },
+                    {
+                        "question": "ルリコンゴウインコの鳴き声の大きさはどれくらいですか？",
+                        "answer": "野生下で何キロも離れた仲間と呼び合う習性があるため、朝夕に非常に大きな呼び鳴き（Screaming）を行います。集合住宅での飼育は不可能なレベルの音量ですので、防音対策や一戸建て環境が必須です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "琉璃金刚鹦鹉喙部破坏欲满足与语言·行为互动3阶段日常护理流程",
+                "description": "针对世界级大型鹦鹉琉璃金刚鹦鹉的核心护理指南。学习如何安全满足其强大的啃咬破坏欲，以及匹配其超高智商的语言与社交互动3阶段护理流程。",
+                "authority": "美国鸟类兽医师协会 (AAV) 咨询标准与世界鹦鹉信托基金 (WPT) 大型金刚鹦鹉福利指南",
+                "profile": {
+                    "breed": "琉璃金刚鹦鹉 (Blue and Gold Macaw / 蓝黄金刚鹦鹉)",
+                    "lifespan": "30 ~ 50年 (理想环境下可达60年以上)",
+                    "sleep_pattern": "10 ~ 12小时 (必须在完全避光的安静环境中睡眠)",
+                    "temperament": "智商极高、社会化、粘人、声音洪亮、好奇心强"
+                },
+                "intro": "琉璃金刚鹦鹉（蓝黄金刚鹦鹉）以其璀璨的蓝金羽毛和庞大的体型，被誉为全球观赏鸟爱好者的“终极梦想”。它们拥有相当于3~5岁人类儿童的高超智商，具备出色的语言模仿能力和丰富的情感表达。然而，如果缺乏足够的脑力刺激和社交陪伴，它们极易患上抑郁症甚至自残拔羽症。此外，它们拥有能轻易咬碎核桃硬壳的强劲喙部，因此必须为其提供能安全释放啃咬欲的专用玩具和超大型鸟笼环境。今天 PetSelf 将解析琉璃金刚鹦鹉的情感肢体语言，并公开包含喙部护理与语言行为互动的3阶段日常护理流程。",
+                "whyTitle": "琉璃金刚鹦鹉的本能：脸部泛红(Flushing)与展翅姿态",
+                "whyDesc": "琉璃金刚鹦鹉在情绪高涨时，其无羽的白色面部皮肤会出现**“面部泛红（Flushing）”**现象。这是它们表达兴奋、喜悦或警惕的独特生理语言。此外，竖起头羽并向外张开双翅，则是它们展现自信或吸引主人注意力的积极求关注信号。",
+                "body_signals": [
+                    {
+                        "name": "面部皮肤泛红 (Facial Skin Flushing)",
+                        "meaning": "面部无羽毛区域的血管扩张变红，代表其对与主人的互动感到极度兴奋或体会到强烈喜悦的情绪反应。",
+                        "response": "用温和平静的声音与其对话，将这种兴奋情绪引导为温和的亲密互动。"
+                    },
+                    {
+                        "name": "竖羽并展翅 (Feather Fluffing & Wing Display)",
+                        "meaning": "蓬松头部羽毛并展开双翅以展示存在感，传达出极佳的心情与渴望一起玩耍的信号。",
+                        "response": "伸出手发出“上手（Step-up）”指令，或开展语言互动训练以满足其社交需求。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：新鲜滋养丸果蔬餐与语言问候刺激",
+                        "text": "喂食营养均衡的综合滋养丸以及新鲜水果和坚果（如大杏仁），并用清晰明亮的声音进行晨间语言问候，刺激其语言学习。"
+                    },
+                    {
+                        "name": "中午：原木·麻绳破坏玩具更换与笼外站架活动",
+                        "text": "提供坚硬的原木块和剑麻绳玩具以满足其强烈的啃咬需求，保证每天至少2-3小时在鸟笼外的站架上自由活动与梳理羽毛。"
+                    },
+                    {
+                        "name": "晚上：温水喷雾淋浴与12小时遮光睡眠",
+                        "text": "用温水细雾喷淋羽毛清洁灰尘并舒缓情绪，随后盖上遮光布，为其营造10-12小时无噪音的完全黑暗睡眠环境。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "如何管理琉璃金刚鹦鹉强大的喙部破坏行为？",
+                        "answer": "啃咬是金刚鹦鹉维持喙部健康的原始本能。为防止其破坏家具或电线，必须持续为其提供安全可破坏的材料，如天然硬木块、粗剑麻绳和厚皮革玩具，以安全释放其啃咬欲。"
+                    },
+                    {
+                        "question": "琉璃金刚鹦鹉的叫声有多大？",
+                        "answer": "琉璃金刚鹦鹉在野外保留着与数公里外同伴呼应的习性，因此在早晚会发出穿透力极强的洪亮啼鸣（Screaming）。其音量不适合在普通公寓或密集的住宅区饲养，需要具备隔音措施或独立的住宅环境。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado del Guacamayo Azul y Amarillo: Estimulación del pico, entrenamiento de habla y rutina social de 3 pasos",
+                "description": "Cuidados esenciales para el imponente Guacamayo Azul y Amarillo. Aprenda a satisfacer de forma segura la fuerza destructiva de su pico y estimular su habla con nuestra rutina de 3 pasos.",
+                "authority": "Estándares de la Association of Avian Veterinarians (AAV) y Pautas de Bienestar para Grandes Guacamayos del World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Guacamayo Azul y Amarillo (Ara ararauna)",
+                    "lifespan": "30 ~ 50 años (más de 60 años en condiciones ideales)",
+                    "sleep_pattern": "10 ~ 12 horas (requiere oscuridad total y silencio para dormir)",
+                    "temperament": "Muy inteligente, social, afectuoso, ruidoso, curioso"
+                },
+                "intro": "El Guacamayo Azul y Amarillo es reconocido mundialmente como el ave de ensueño definitiva para los amantes de los loros, gracias a su deslumbrante plumaje azul cobalto y amarillo dorado, y su gran tamaño. Con una capacidad cognitiva equivalente a la de un niño de 3 a 5 años, poseen una habilidad del habla excepcional y una vida emocional compleja. Sin suficiente estimulación mental y afecto, pueden caer en depresión o autolesionarse (picado de plumas). Además, su pico, capaz de romper cáscaras duras y maderas, requiere juguetes destructivos adecuados y un aviario de gran tamaño. Hoy en PetSelf, desciframos el lenguaje corporal del Guacamayo Azul y Amarillo y compartimos una rutina diaria de 3 pasos para su bienestar pico-conceptual y social.",
+                "whyTitle": "Instintos del Guacamayo Azul y Amarillo: Rubor facial (Flushing) y despliegue de alas",
+                "whyDesc": "Estos guacamayos muestran una respuesta fisiológica única llamada **'Rubor' (Flushing)**, donde la piel blanca de sus mejillas se vuelve rosada cuando están emocionados. Esto refleja alegría o sobreexcitación. Asimismo, ahuecar las plumas de la cabeza y desplegar las alas es una señal audaz para llamar la atención y pedir juego interactivo.",
+                "body_signals": [
+                    {
+                        "name": "Rubor facial (Facial Skin Flushing)",
+                        "meaning": "Aumento del flujo sanguíneo en la zona blanca sin plumas de la cara, lo que indica emoción intensa, alegría o fuerte conexión con su dueño.",
+                        "response": "Háblele en un tono suave y pausado para canalizar esa emoción hacia una interacción tranquila y cariñosa."
+                    },
+                    {
+                        "name": "Ahuecar plumas y desplegar alas (Feather Fluffing & Wing Display)",
+                        "meaning": "Erizar el plumaje de la cabeza y abrir las alas ampliamente para mostrar seguridad y pedir atención y juego de forma entusiasta.",
+                        "response": "Ofrézcale la mano para la orden 'Sube' (Step-up) o inicie una sesión de entrenamiento del habla."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Dieta de pienso y fruta fresca con saludos verbales",
+                        "text": "Sirva una dieta equilibrada de pienso extruido de alta calidad, frutas frescas y frutos secos, acompañada de saludos alegres y claros para estimular su habla."
+                    },
+                    {
+                        "name": "Tarde: Juguetes de madera dura y tiempo fuera de la jaula",
+                        "text": "Proporcione bloques de madera dura y cuerdas de yute para saciar su necesidad de masticar, asegurando al menos 2 a 3 horas fuera de la jaula en una percha."
+                    },
+                    {
+                        "name": "Noche: Baño de pulverización templada y 12 horas de sueño a oscuras",
+                        "text": "Rocíe con agua templada para limpiar sus plumas y relajarlo, luego cubra la jaula con una funda opaca para asegurar entre 10 y 12 horas de descanso silencioso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo debo gestionar la fuerza destructiva del pico del guacamayo?",
+                        "answer": "Masticar y romper objetos es un comportamiento instintivo e indispensable para la salud de su pico. Para evitar que destruya muebles o cables, proporciónale de forma continua juguetes seguros de madera dura natural, cuerdas gruesas y cuero no tratado."
+                    },
+                    {
+                        "question": "¿Qué tan fuerte es el grito de un Guacamayo Azul y Amarillo?",
+                        "answer": "Los guacamayos emiten llamadas de contacto extremadamente ruidosas que en la naturaleza alcanzan kilómetros. Es habitual que griten por la mañana y al atardecer, por lo que no son adecuados para pisos o viviendas donde el ruido pueda molestar a los vecinos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin du Ara Bleu et Jaune : Enrichissement du bec, apprentissage de la parole et routine sociale en 3 étapes",
+                "description": "Soins essentiels pour le majestueux Ara Bleu et Jaune. Apprenez à satisfaire sans danger le besoin destructeur de son bec et à stimuler son langage grâce à notre routine sociale en 3 étapes.",
+                "authority": "Normes de l'Association of Avian Veterinarians (AAV) et directives de bien-être du World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Ara Bleu et Jaune (Ara ararauna)",
+                    "lifespan": "30 ~ 50 ans (jusqu'à plus de 60 ans dans des conditions idéales)",
+                    "sleep_pattern": "10 ~ 12 heures (nécessite une obscurité totale et un environnement calme)",
+                    "temperament": "Extrêmement intelligent, social, très affectueux, bruyant, curieux"
+                },
+                "intro": "Le Ara Bleu et Jaune est considéré dans le monde entier comme l'oiseau de compagnie ultime, arborant un plumage spectaculaire bleu cobalt et jaune d'or. Doté de capacités cognitives équivalentes à celles d'un enfant de 3 à 5 ans, il possède une faculté d'apprentissage de la parole et une sensibilité émotionnelle hors du commun. Sans une stimulation mentale constante et une présence sociale forte, il peut développer une dépression sévère ou des comportements de piquage. De plus, son bec surpuissant capable de briser des bois durs exige des jouets à détruire adaptés et une volière de très grande taille. Aujourd'hui sur PetSelf, nous décryptons le langage corporel du Ara Bleu et Jaune et vous présentons une routine quotidienne en 3 étapes pour la santé de son bec et son épanouissement social.",
+                "whyTitle": "Instincts du Ara Bleu et Jaune : Le rougissement facial (Flushing) et le déploiement des ailes",
+                "whyDesc": "Ce ara présente une réaction physiologique unique appelée le **'Rougissement' (Flushing)**, où la peau blanche et nue de ses joues se teinte de rose lors d'émotions intenses. C'est le signe d'une grande excitation ou d'une joie vive. De plus, éruffler les plumes de sa tête tout en déployant largement ses ailes constitue une démonstration de confiance pour attirer l'attention.",
+                "body_signals": [
+                    {
+                        "name": "Rougissement de la peau du visage (Facial Skin Flushing)",
+                        "meaning": "Flux sanguin accru vers la zone faciale blanche, traduisant une excitation émotionnelle intense, de la joie ou un moment de forte complicité.",
+                        "response": "Parlez-lui d'une voix douce et apaisante pour canaliser cette excitation vers un échange calme et affectueux."
+                    },
+                    {
+                        "name": "Érufflement de la tête et déploiement des ailes (Wing Display)",
+                        "meaning": "Gonfler les plumes de la tête et ouvrir largement les ailes pour exprimer sa joie et réclamer de l'attention et du jeu.",
+                        "response": "Proposez-lui votre main pour l'ordre 'Monte' (Step-up) ou entamez une séance d'interaction vocale."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Repas d'extrudés et fruits frais avec salutations vocales",
+                        "text": "Proposez un régime équilibré composé d'extrudés de haute qualité, de fruits frais et de quelques noix, accompagné de salutations claires pour stimuler sa parole."
+                    },
+                    {
+                        "name": "Après-midi : Jouets en bois dur à détruire et sortie hors de la cage",
+                        "text": "Mettez à sa disposition des blocs de bois dur et des cordes naturelles pour assouvir son besoin de ronger, en lui garantissant au moins 2 à 3 heures d'activité hors cage."
+                    },
+                    {
+                        "name": "Soir : Douche brumisée tiède et 12 heures de sommeil dans le noir",
+                        "text": "Brumisez ses plumes à l'eau tiède pour les nettoyer et l'apaiser, puis recouvrez la cage d'une housse occultante pour lui assurer 10 à 12 heures de sommeil paisible."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment gérer le besoin destructeur du bec du Ara Bleu et Jaune ?",
+                        "answer": "Ronger et détruire est un besoin naturel et indispensable à la santé de son bec. Pour éviter qu'il s'attaque aux meubles ou aux fils électriques, fournissez-lui en permanence des matériaux sûrs à détruire : blocs de bois naturel non traité, cordes épaisses en chanvre et jouets en cuir."
+                    },
+                    {
+                        "question": "Quel est le niveau sonore des cri du Ara Bleu et Jaune ?",
+                        "answer": "Dans la nature, le ara utilise des cris de ralliement extrêmement puissants qui portent à des kilomètres. Il pousse naturellement des cris stridents matin et soir, ce qui rend sa détention incompatible avec la vie en appartement ou en quartier résidentiel dense sans isolation phonique majeure."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Gelbbrustara Pflege-Leitfaden: Schnabel-Auslastung, Sprachtraining & 3-Schritt-Sozialroutine",
+                "description": "Essenzielle Pflege für den majestätischen Gelbbrustara. Erfahren Sie, wie Sie seinen kraftvollen Knabbertrieb sicher stillen und das Sprechen fördern.",
+                "authority": "Richtlinien der Association of Avian Veterinarians (AAV) & Welfare-Standards des World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Gelbbrustara (Ara ararauna)",
+                    "lifespan": "30 ~ 50 Jahre (unter idealen Bedingungen 60+ Jahre)",
+                    "sleep_pattern": "10 ~ 12 Stunden (benötigt absolute Dunkelheit und Ruhe)",
+                    "temperament": "Hochintelligent, sozial, verschmust, lautstark, neugierig"
+                },
+                "intro": "Der Gelbbrustara gilt weltweit als der Traumvogel schlechthin für Papageienhalter. Sein leuchtend kornblumenblaues und goldgelbes Gefieder gepaart mit seiner stattlichen Größe machen ihn zu einer imposanten Erscheinung. Mit der Intelligenz eines 3- bis 5-jährigen Kindes verfügt er über ein erstaunliches Sprach- und Einfühlungsvermögen. Fehlt es an geistiger Anregung, kann er unter Depressionen oder Federrupfen leiden. Sein extrem kräftiger Schnabel kann selbst Hartholz mühelos zerstören, weshalb spezielles Knabberspielzeug und eine riesige Voliere unerlässlich sind. Heute analysiert PetSelf die Körpersprache des Gelbbrustaras und zeigt eine 3-Schritt-Routine für Schnabelpflege und Sprachförderung.",
+                "whyTitle": "Instinkte des Gelbbrustaras: Das Erröten der Wangenhaut (Flushing) und Flügelspreizen",
+                "whyDesc": "Gelbbrustaras zeigen bei starker Erregung eine einzigartige physiologische Reaktion: Die federlose weiße Wangenhaut verfärbt sich rosa bis rot (**'Flushing'**). Dies signalisiert Freude oder Aufregung. Das Sträuben des Kopfgefieders und das breite Spreizen der Flügel ist zudem ein selbstbewusstes Signal, um Aufmerksamkeit und Spiel einzufordern.",
+                "body_signals": [
+                    {
+                        "name": "Erröten der Gesichtshaut (Facial Skin Flushing)",
+                        "meaning": "Erhöhte Durchblutung der federlosen weißen Wangenhaut; zeigt starke emotionale Erregung, Freude oder eine tiefe Bindung zum Halter an.",
+                        "response": "Sprechen Sie mit ruhiger, sanfter Stimme, um die Aufregung in eine angenehme Schmusestunde zu lenken."
+                    },
+                    {
+                        "name": "Sträuben des Kopfgefieders & Flügelspreizen (Wing Display)",
+                        "meaning": "Aufstellen der Kopf-Federn und breites Öffnen der Flügel; drückt Selbstbewusstsein, Freude und den Wunsch nach Interaktion aus.",
+                        "response": "Bieten Sie Ihre Hand für das 'Komm-Rauf' (Step-up) an oder beginnen Sie ein interaktives Sprachtraining."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Frisches Pellets- und Früchtefutter mit Begrüßung",
+                        "text": "Füttern Sie hochwertiges Pelletfutter, frisches Obst und Nüsse (z. B. Walnüsse) und begrüßen Sie ihn mit deutlichen Worten zur Sprachförderung."
+                    },
+                    {
+                        "name": "Nachmittag: Hartholz-Knabberspielzeug & Freiflugzeit",
+                        "text": "Bieten Sie Robuste Holzblöcke und Naturseile an, um den Knabbertrieb zu stillen, und gewähren Sie täglich mindestens 2–3 Stunden Freiflug bzw. Aufenthalt auf dem Kletterbaum."
+                    },
+                    {
+                        "name": "Abend: Lauwarme Dusche mit der Sprühflasche & 12 Stunden Dunkelheit",
+                        "text": "Besprühen Sie das Gefieder mit lauwarmem Wasser zur Reinigung und Entspannung. Decken Sie die Voliere ab, um 10–12 Stunden ungestörten Schlaf zu sichern."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie gehe ich mit dem starken Knabbertrieb des Gelbbrustaras um?",
+                        "answer": "Das Zerstören von Gegenständen ist ein natürlicher Instinkt zur Schnabelpflege. Um Möbel und Kabel zu schützen, müssen Sie ihm dauerhaft sicheres Zerstörungsmaterial wie unbehandelte Hartholzblöcke, dicke Baumwollseile und Lederspielzeug zur Verfügung stellen."
+                    },
+                    {
+                        "question": "Wie laut ist der Ruf eines Gelbbrustaras?",
+                        "answer": "Aras besitzen extrem laute Kontaktrufe, die in der Natur mehrere Kilometer weit tragen. Sie rufen naturgemäß morgens und abends sehr laut, weshalb ihre Haltung in Mietwohnungen ohne professionelle Schalldämmung unmöglich ist."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidados da Arara-Canindé: Estimulação do bico, treino de fala e rotina social de 3 passos",
+                "description": "Cuidados essenciais para a majestosa Arara-Canindé. Aprenda a satisfazer em segurança o seu forte instinto de roer e a incentivar a fala com a nossa rotina de 3 passos.",
+                "authority": "Padrões da Association of Avian Veterinarians (AAV) e Diretrizes do World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Arara-Canindé (Ara ararauna / Arara-azul-e-amarela)",
+                    "lifespan": "30 ~ 50 anos (mais de 60 anos em condições ideais)",
+                    "sleep_pattern": "10 ~ 12 horas (exige escuridão total e ambiente silencioso para dormir)",
+                    "temperament": "Altamente inteligente, social, muito afetuosa, barulhenta, curiosa"
+                },
+                "intro": "A Arara-Canindé é reconhecida mundialmente como a ave de estimação de sonho para os amantes de papagaios, ostentando uma plumagem deslumbrante em azul-cobalto e amarelo-ouro. Com uma capacidade cognitiva equivalente à de uma criança de 3 a 5 anos, possui uma impressionante capacidade de fala e expressões emocionais complexas. Sem estímulo mental e contacto social adequados, pode sofrer de depressão profunda ou arrancar as próprias penas. Além disso, o seu bico extremamente forte é capaz de partir madeiras duras, exigindo brinquedos destrutivos próprios e um viveiro de grande dimensão. Hoje no PetSelf, descodificamos a linguagem corporal da Arara-Canindé e revelamos uma rotina de 3 passos para o cuidado do bico e bem-estar social.",
+                "whyTitle": "Instintos da Arara-Canindé: Rubor facial (Flushing) e exibição das asas",
+                "whyDesc": "Estas araras apresentam uma reação fisiológica única chamada **'Rubor' (Flushing)**, em que a pele branca desprovida de penas nas bochechas fica rosada durante momentos de grande emoção. Isso sinaliza entusiasmo ou alegria. Além disso, eriçar as penas da cabeça e abrir as asas amplamente é um sinal confiante para atrair atenção e pedir interação.",
+                "body_signals": [
+                    {
+                        "name": "Rubor na pele do rosto (Facial Skin Flushing)",
+                        "meaning": "Aumento do fluxo sanguíneo na zona branca do rosto, indicando excitação emocional, alegria ou uma forte ligação com o tutor.",
+                        "response": "Fale com ela num tom calmo e suave para canalizar esse entusiasmo numa interação tranquila e afetuosa."
+                    },
+                    {
+                        "name": "Eriçar penas e abrir asas (Feather Fluffing & Wing Display)",
+                        "meaning": "Eriçar as penas do topo da cabeça e abrir as asas para demonstrar confiança e pedir atenção e brincadeira.",
+                        "response": "Ofereça a mão para o comando 'Sobe' (Step-up) ou inicie um treino de fala interativo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Dieta de ração extrudada e fruta fresca com saudações",
+                        "text": "Sirva uma dieta equilibrada de extrudados de alta qualidade, frutas frescas e frutos secos, acompanhada de saudações claras para estimular a fala."
+                    },
+                    {
+                        "name": "Tarde: Brinquedos de madeira dura e tempo fora da gaiola",
+                        "text": "Forneça blocos de madeira dura e cordas de sisal para satisfazer a necessidade de roer, garantindo pelo menos 2 a 3 horas fora da gaiola num poleiro."
+                    },
+                    {
+                        "name": "Noite: Banho de borrifo morno e 12 horas de sono no escuro",
+                        "text": "Borrife as penas com água morna para limpar e relaxar, cobrindo depois a gaiola com uma capa opaca para garantir 10 a 12 horas de sono tranquilo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como devo gerir o hábito destrutivo do bico da Arara-Canindé?",
+                        "answer": "Roer e destruir objetos é um comportamento natural e necessário para a saúde do bico. Para evitar que destrua móveis ou cabos elétricos, forneça continuamente materiais seguros para destruir, como blocos de madeira natural, cordas grossas e brinquedos de couro."
+                    },
+                    {
+                        "question": "Qual é a intensidade do som emitido por uma Arara-Canindé?",
+                        "answer": "As araras possuem vocalizações extremamente fortes que na natureza alcançam quilómetros. Gritam naturalmente de manhã e ao fim da tarde, tornando a sua manutenção inviável em apartamentos ou zonas residenciais sem um forte isolamento acústico."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Burung Makau Biru Kuning: Stimulasi Paruh, Pelatihan Bicara & Rutinitas 3 Langkah Sosialisasi",
+                "description": "Perawatan esensial untuk Makau Biru Kuning yang megah. Pelajari cara aman memenuhi insting penghancuran paruh mereka yang kuat dan melatih bicaranya lewat rutinitas 3 langkah.",
+                "authority": "Standar Penasihat Association of Avian Veterinarians (AAV) & Panduan Kesejahteraan Makau Besar World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Makau Biru Kuning (Blue and Gold Macaw / Ara ararauna)",
+                    "lifespan": "30 ~ 50 tahun (lebih dari 60 tahun dalam kondisi ideal)",
+                    "sleep_pattern": "10 ~ 12 jam (membutuhkan kegelapan total dan suasana tenang untuk tidur)",
+                    "temperament": "Sangat cerdas, sosial, sangat penyayang, bersuara keras, serba ingin tahu"
+                },
+                "intro": "Makau Biru Kuning dirayakan di seluruh dunia sebagai burung peliharaan impian bagi para pecinta burung paruh bengkok, berkat bulu biru kobalt dan kuning keemasannya yang memukau serta ukurannya yang besar. Memiliki kecerdasan setara anak manusia usia 3 hingga 5 tahun, mereka bangga akan kemampuan bicara yang luar biasa dan ekspresi emosi yang kompleks. Namun, tanpa stimulasi mental dan ikatan sosial yang cukup, mereka bisa mengalami depresi berat atau perilaku mencabuti bulu sendiri. Paruh mereka yang sangat kuat dapat dengan mudah menghancurkan kayu keras, sehingga membutuhkan mainan gigit khusus dan kandang yang sangat besar. Hari ini di PetSelf, kami membedah bahasa tubuh emosional Makau Biru Kuning dan membagikan rutinitas harian 3 langkah untuk stimulasi paruh, latihan bicara, dan kesejahteraan sosialnya.",
+                "whyTitle": "Insting Makau Biru Kuning: Wajah Memerah (Flushing) dan Pameran Sayap",
+                "whyDesc": "Makau Biru Kuning menunjukkan respon fisiologis unik bernama **'Flushing'**, di mana kulit putih tanpa bulu di pipinya berubah menjadi kemerahan saat emosinya meningkat. Ini menandakan rasa gembira atau antusiasme tinggi. Selain itu, menegakkan bulu kepala sambil mengepakkan sayap lebar-lebar adalah sinyal percaya diri untuk menarik perhatian dan mengajak bermain.",
+                "body_signals": [
+                    {
+                        "name": "Kulit Wajah Memerah (Facial Skin Flushing)",
+                        "meaning": "Peningkatan aliran darah ke area kulit pipi putih tanpa bulu, menandakan gairah emosi yang tinggi, rasa gembira, atau ikatan erat dengan pemiliknya.",
+                        "response": "Bicara padanya dengan nada tenang dan lembut untuk mengarahkan kegembiraannya menjadi interaksi kasih sayang yang hangat."
+                    },
+                    {
+                        "name": "Menegakkan Bulu Kepala & Pamer Sayap (Wing Display)",
+                        "meaning": "Merekahkan bulu kepala dan membuka sayap lebar-lebar untuk menunjukkan rasa percaya diri serta meminta perhatian dan ajakan bermain.",
+                        "response": "Ulurkan tangan Anda untuk perintah 'Naik' (Step-up) atau mulai sesi latihan bicara interaktif."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Makanan Pelet & Buah Segar dengan Sapaan Suara",
+                        "text": "Berikan pakan pelet berkualitas tinggi, buah-buahan segar, dan kacang-kacangan, disertai sapaan suara yang ceria dan jelas untuk melatih kemampuan bicaranya."
+                    },
+                    {
+                        "name": "Siang: Mainan Gigit Kayu Keras & Aktivitas di Luar Kandang",
+                        "text": "Sediakan mainan balok kayu keras dan tali serat alami untuk memuaskan keinginan menggigitnya, serta pastikan minimal 2–3 jam beraktivitas di luar kandang."
+                    },
+                    {
+                        "name": "Malam: Mandi Semprot Air Hangat & Tidur 12 Jam di Tempat Gelap",
+                        "text": "Semprot bulunya dengan air hangat untuk membersihkan debu dan merelaksasikannya, lalu tutup kandang dengan kain gelap untuk menjamin tidur tenang selama 10–12 jam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara mengendalikan kebiasaan menggigit dan merusak pada Makau Biru Kuning?",
+                        "answer": "Menggigit dan menghancurkan benda adalah perilaku alami yang wajib dilakukan makau untuk menjaga kesehatan paruhnya. Agar tidak merusak furnitur rumah, selalu sediakan bahan penghancur yang aman seperti balok kayu alami, tali manila tebal, dan mainan kulit keras."
+                    },
+                    {
+                        "question": "Seberapa keras suara teriakan Makau Biru Kuning?",
+                        "answer": "Makau memiliki panggilan suara yang sangat keras dan melengking untuk berkomunikasi hingga jarak beberapa kilometer di alam liar. Mereka secara alami berteriak di pagi dan sore hari, sehingga sama sekali tidak cocok dipelihara di apartemen tanpa peredam suara yang memadai."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/blue_gold_macaw_care.webp"
+    }
+}

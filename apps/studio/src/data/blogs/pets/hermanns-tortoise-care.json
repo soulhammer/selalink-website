@@ -1,0 +1,459 @@
+{
+    "hermanns-tortoise-care": {
+        "pubDate": "2026-04-29",
+        "updatedDate": "2026-04-29",
+        "locales": {
+            "ko": {
+                "title": "헤르만 육지거북 온·습도 스팟 케어법과 고섬유질 식단·UVB 관리 3단계 일상 루틴",
+                "description": "온순하고 건강한 소형 육지거북 헤르만 육지거북. 적정 온·습도 환경 조성과 고섬유질·고칼슘 야채 식단, UVB 전구 교체 및 동면 방지 3단계 가이드라인을 제공합니다.",
+                "authority": "유럽파충류학회(SEH) 사육 표준 및 세계파충류협회(CRA) 소형 육지거북 케어 가이드라인",
+                "profile": {
+                    "breed": "헤르만 육지거북 (Hermann's Tortoise / Testudo hermanni)",
+                    "lifespan": "50 ~ 80년 이상",
+                    "sleep_pattern": "10 ~ 12시간 (주행성 - 따뜻한 낮 시간에 활동 후 야간 버로우 휴식)",
+                    "temperament": "온순함, 친근함, 회복력 뛰어남, 호기심 많음, 평화로움"
+                },
+                "intro": "헤르만 육지거북(Hermann's Tortoise)은 지중해 연안 원산의 대표적인 소형 육지거북으로, 온순한 성품과 강건한 체질 덕분에 유럽 및 서구권 가정에서 오랜 기간 가장 사랑받아 온 파충류입니다. 성체 기준 체장 15~20cm 내외의 부담 없는 크기를 가지고 있으며, 수명이 길고 사람과의 환경 적응력이 뛰어납니다. 다만 파충류 특성상 스스로 체온을 조절하지 못하므로 스팟 램프를 통한 온·습도 구배(Gradient) 형성이 필수적이며, 체내 칼슘 흡수와 등갑 형성을 위한 주기적인 UVB 전구 교체가 중요합니다. 또한 단백질과 당분이 과다한 먹이는 등갑 변형(피라미딩)을 유발하므로 고섬유질·고칼슘 위주의 들풀과 야채 식단 관리가 핵심입니다. 오늘 PetSelf에서는 헤르만 육지거북의 본능적 행동 시그널을 분석하고, 건강한 사육을 위한 3단계 일상 루틴을 공개합니다.",
+                "whyTitle": "헤르만 육지거북의 본능: 다리 뻗기(Basking Pose)와 등갑 숨기(Retracting) 시그널",
+                "whyDesc": "헤르만 육지거북은 스팟 램프 아래에서 체온을 올릴 때 다리를 멀리 뻗어 온기를 흡수하는 **'바스킹 포즈(Basking Pose)'**를 취합니다. 이는 신진대사를 활성화하고 소화를 돕는 매우 건강하고 편안한 상태의 표시입니다. 반면 놀라거나 경계할 때는 머리와 다리를 등갑 안으로 쏙 넣고 숨을 크게 내쉬는 '풋' 소리를 내어 자신을 보호합니다.",
+                "body_signals": [
+                    {
+                        "name": "사지 뻗고 일광욕하기 (Basking & Leg Extension)",
+                        "meaning": "일광욕 존(Basking Zone)에서 목과 다리를 길게 늘려 온열과 UVB를 체내로 흡수하는 행위로, 신진대사가 활발해지고 극상의 편안함을 느끼는 상태입니다.",
+                        "response": "램프 온도가 적정 수준(30~32°C)을 유지하는지 점검하고 방해하지 않도록 정숙을 유지해 줍니다."
+                    },
+                    {
+                        "name": "머리와 다리를 등갑에 집어넣기 (Shell Retraction & Hissing)",
+                        "meaning": "갑작스러운 진동이나 외부 접근에 놀라 등갑 속으로 몸을 감추고 숨을 빠르게 뿜어내는 자기방어 신호입니다.",
+                        "response": "억지로 빼내려 하지 말고 스팟 존 근처 안전한 은신처 환경을 제공하여 스스로 안정을 찾도록 기다려 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 스팟·UVB 램프 점등 및 고섬유질·고칼슘 식단 제공",
+                        "text": "스팟 온도를 30~32°C로 가동하고 민들레, 치커리, 청경채 등 고섬유질 야채에 칼슘 파우더를 살짝 뿌려 공급합니다."
+                    },
+                    {
+                        "name": "낮: 미온수 온욕(Soaking) 및 갑각·배변 상태 점검",
+                        "text": "30°C 안팎의 미온수에 15~20분간 온욕을 시켜 수분을 보충하고 장 운동을 촉진하며 갑각 결의 성장 상태를 점검합니다."
+                    },
+                    {
+                        "name": "밤: 야간 온도 유지(20~22°C 이상) 및 소등",
+                        "text": "실내 사육 시 감기 및 인위적 동면(Brumation) 위험을 막기 위해 야간 보온 환경을 점검하고 정해진 시간에 소등합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "헤르만 육지거북의 UVB 전구는 얼마나 자주 교체해야 하며 왜 필수인가요?",
+                        "answer": "UVB 전구는 눈으로 빛이 나오더라도 시간이 지나면 UV 자외선 방출량이 급격히 감소하므로 6개월~1년마다 새 전구로 교체해야 합니다. UVB는 비타민 D3를 합성하고 칼슘을 흡수하여 등갑 뼈 질환(MBD)과 피라미딩 현상을 예방하는 데 필수적입니다."
+                    },
+                    {
+                        "question": "가정 실내 사육 시 동면(겨울잠)을 꼭 시켜야 하나요?",
+                        "answer": "아닙니다. 가정에서 불완전한 온도로 동면을 시도하면 체중 급감이나 폐사 위험이 매우 높습니다. 실내 사육 시에는 야간 온도를 20°C 이상으로 일정하게 유지하고 UVB와 온열 스팟을 지속적으로 운영하여 동면 상태에 빠지지 않도록 따뜻한 환경을 유지해 주는 것이 안전합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Hermann's Tortoise Care Guide: Temperature Spotting, High-Fiber Diet & 3-Step UVB Routine",
+                "description": "Essential care for the gentle, hardy Hermann's Tortoise. Learn how to establish optimal thermal gradients, provide high-fiber diets, manage UVB bulb replacement, and prevent accidental hibernation.",
+                "authority": "Societas Europaea Herpetologica (SEH) Standards & World Association of Herpetology Guidelines",
+                "profile": {
+                    "breed": "Hermann's Tortoise (Testudo hermanni)",
+                    "lifespan": "50 - 80+ Years",
+                    "sleep_pattern": "10 - 12 Hours (Diurnal - Active during warm daytime, rests in burrows at night)",
+                    "temperament": "Gentle, Friendly, Resilient, Curious, Peaceful"
+                },
+                "intro": "The Hermann's Tortoise (Testudo hermanni) is a classic Mediterranean species and one of the most beloved pet reptiles across Western Europe and North America. Renowned for its manageable size (15–20 cm as adults), friendly disposition, and incredible longevity, it adapts remarkably well to human companionship. However, as ectothermic reptiles, they cannot regulate body heat independently, making a proper thermal gradient (basking spot vs. cool zone) mandatory. Regular replacement of UVB lighting is essential for synthesizing Vitamin D3 and maintaining shell integrity, while a high-fiber, calcium-rich diet of leafy weeds prevents metabolic bone disease and shell pyramiding. Today on PetSelf, we analyze the Hermann's Tortoise's behavioral signals and reveal a 3-step homecare routine for long-term vitality.",
+                "whyTitle": "Hermann's Tortoise Instincts: Basking Extensions and Shell Retraction Signals",
+                "whyDesc": "Under heat lamps, Hermann's Tortoises adopt a distinct **'Basking Pose'**, stretching their neck and limbs outward to absorb warmth and UVB radiation efficiently. This signifies optimal metabolism and physical contentment. Conversely, when startled, they swiftly retract their head and limbs into their carapace while exhaling sharp bursts of air for self-defense.",
+                "body_signals": [
+                    {
+                        "name": "Basking & Leg Extension",
+                        "meaning": "Stretching limbs fully under the heat lamp to absorb heat and UV radiation, indicating active digestion, metabolic stimulation, and relaxation.",
+                        "response": "Ensure basking spot temperatures remain within 30–32°C and avoid disturbing them during basking hours."
+                    },
+                    {
+                        "name": "Shell Retraction & Hissing",
+                        "meaning": "Retracting head and legs into the shell upon sudden vibration or threat, releasing air rapidly as a defensive mechanism.",
+                        "response": "Avoid forcing them out; allow them safe retreat near the warm zone to regain confidence at their own pace."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Basking & UVB Activation with High-Fiber Diet",
+                        "text": "Turn on heat (30–32°C) and UVB lamps. Offer high-fiber, low-protein greens (dandelions, chicory, duster greens) lightly dusted with calcium powder."
+                    },
+                    {
+                        "name": "Afternoon: Lukewarm Water Soaking & Shell/Digestive Inspection",
+                        "text": "Soak the tortoise in lukewarm water (~30°C) for 15–20 minutes to encourage hydration, promote gut motility, and check shell growth rings."
+                    },
+                    {
+                        "name": "Evening: Nighttime Temperature Control & Lights Out",
+                        "text": "Ensure night temperatures do not drop below 20°C to prevent respiratory illness or forced hibernation, and turn off daytime lights on a fixed schedule."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How often should I replace the UVB bulb for a Hermann's Tortoise?",
+                        "answer": "UVB bulbs should be replaced every 6 to 12 months. Even if visible light is emitted, UV radiation output drops significantly over time. Adequate UVB is required to synthesize Vitamin D3, absorb calcium, and prevent Metabolic Bone Disease (MBD) and pyramiding."
+                    },
+                    {
+                        "question": "Should indoor pet Hermann's Tortoises undergo winter hibernation?",
+                        "answer": "No. Attempting indoor hibernation without precise ecological controls carries high mortality risks. Maintaining a stable indoor environment year-round with warm basking spots and temperatures above 20°C safely prevents accidental brumation."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ヘルマンリクガメの温・湿度スポット管理と高繊維食・UVB照射3ステップ日常ルーティン",
+                "description": "温和で丈夫な小型リクガメ、ヘルマンリクガメ。最適な温湿度環境の構築、高繊維・高カルシウムの野草食、UVB電球交換と冬眠防止の3ステップガイドを解説します。",
+                "authority": "欧州両生爬虫類学会（SEH）飼育基準および世界爬虫類協会（CRA）リクガメ福祉ガイドライン",
+                "profile": {
+                    "breed": "ヘルマンリクガメ (Hermann's Tortoise / Testudo hermanni)",
+                    "lifespan": "50 〜 80年以上",
+                    "sleep_pattern": "10 〜 12時間 (昼行性 - 暖かい日中に活動し夜間はシェルターで休息)",
+                    "temperament": "温和、人懐っこい、丈夫、好奇心旺盛、平和的"
+                },
+                "intro": "ヘルマンリクガメ（Testudo hermanni）は地中海沿岸原産の代表的な小型リクガメで、温和な性格と丈夫な体質からヨーロッパや欧米で最も親しまれている爬虫類です。成体でも甲長15〜20cm程度と扱いやすいサイズで、寿命が長く人間との環境適応力にも優れています。しかし変温動物であるため、ホットスポットを用いた温度勾配（グラデーション）の設置が必須であり、カルシウム吸収と甲羅の健全な成長を促す周期的なUVB電球の交換が欠かせません。また、高タンパク・高糖質の食事は甲羅の変形（ピラミッディング）を引き起こすため、高繊維・高カルシウムな野草や野菜を中心とした食事管理が重要です。本日はPetSelfがヘルマンリクガメの本能シグナルと、健康維持のための3ステップ日常ルーティンを公開します。",
+                "whyTitle": "ヘルマンリクガメの本能：足を伸ばす日光浴（Basking）と甲羅への収納シグナル",
+                "whyDesc": "ヘルマンリクガメはバスキングライトの下で体温を上げる際、四肢を遠くへ伸ばして温かさを吸収する**「バスキングポーズ（Basking Pose）」**をとります。これは代謝を活性化し消化を助ける健康的な状態です。一方、驚いた時は頭や足を甲羅の中に引っ込め、「シュー」と息を吐いて身を守ります。",
+                "body_signals": [
+                    {
+                        "name": "足を伸ばしてバスキング (Basking & Leg Extension)",
+                        "meaning": "バスキングゾーンで首や足を伸ばして温熱とUVBを吸収する行動で、代謝が活性化しリラックスしている状態です。",
+                        "response": "バスキングエリアの温度（30〜32℃）を確認し、邪魔しないように静かに見守りましょう。"
+                    },
+                    {
+                        "name": "頭や足を甲羅の中に収納する (Shell Retraction & Hissing)",
+                        "meaning": "振動や敵の接近に驚いて身を守る防衛行動で、息を吐き出しながら甲羅に閉じこもるシグナルです。",
+                        "response": "無理に引っ張り出さず、暖かいゾーンの近くで静かに落ち着くまで待ちましょう。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ライトの点灯と高繊維・高カルシウムの給餌",
+                        "text": "バスキングライトとUVB灯を点灯し、タンポポやチコリなどの野草にカルシウムパウダーを振りかけて与えます。"
+                    },
+                    {
+                        "name": "昼：ぬるま湯での温浴（Soaking）と甲羅のチェック",
+                        "text": "30℃前後のぬるま湯に15〜20分浸からせて水分補給と排泄を促し、甲羅の発育状態をチェックします。"
+                    },
+                    {
+                        "name": "夜：保温管理と消灯",
+                        "text": "夜間温度が20℃を下回らないよう保温器具を確認し、定刻に消灯して無理な冬眠に入らない環境を作ります。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "UVBライトの交換頻度はどのくらいですか？",
+                        "answer": "目視で点灯していてもUV照射量は低下するため、6ヶ月〜1年ごとに交換が必要です。UVBはビタミンD3の合成とカルシウム吸収に不可欠です。"
+                    },
+                    {
+                        "question": "室内飼育でも冬眠させる必要がありますか？",
+                        "answer": "いいえ。家庭での不完全な冬眠は死亡リスクが高いため、年間を通じて20℃以上を保ち、冬眠させずに暖かく飼育するのが安全です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "赫曼陆龟温湿度点位护理指南与高纤维饮食·UVB灯具管理3阶段日常流程",
+                "description": "针对温顺健壮的小型陆龟赫曼陆龟的核心护理指南。提供适宜温湿度环境构建、高纤维高钙野草饮食、UVB灯管更换及预防冬眠的3阶段护理流程。",
+                "authority": "欧洲两栖爬行类学会 (SEH) 饲养标准与世界爬行动物协会 (CRA) 陆龟福利指南",
+                "profile": {
+                    "breed": "赫曼陆龟 (Hermann's Tortoise / Testudo hermanni)",
+                    "lifespan": "50 ~ 80年以上",
+                    "sleep_pattern": "10 ~ 12小时 (昼行性 - 白天温暖时段活动，夜间在躲避穴休息)",
+                    "temperament": "温顺、亲人、健壮、好奇心强、和平"
+                },
+                "intro": "赫曼陆龟（Testudo hermanni）是原产于地中海沿岸的代表性小型陆龟，凭借温和的性格与强健的体魄，长久以来都是欧美家庭中最受欢迎的宠物爬行动物。成体体长仅15~20厘米左右，适应力极强且寿命悠长。然而作为变温动物，它们无法自主调节体温，因此必须通过加热灯构建温湿度梯度；同时，定期更换UVB灯管对于体内维生素D3合成及龟甲健康生长至关重要。此外，高蛋白高糖食物易引发龟甲隆背变形，因此以高纤维、高钙野草为主的饮食管理是健康养育的核心。今天 PetSelf 将解析赫曼陆龟的本能信号，并公开包含温控、晒背及UVB管理的3阶段日常护理流程。",
+                "whyTitle": "赫曼陆龟的本能：伸展四肢晒背(Basking)与缩壳防御信号",
+                "whyDesc": "赫曼陆龟在加热灯下升温时，会采取伸展颈部与四肢的**“晒背姿势（Basking Pose）”**，以高效吸收热量与UVB。这代表其新陈代谢活跃、处于极度舒适的状态。反之，当受到惊吓时，它们会迅速将头和四肢缩入壳内并发出嘶嘶吐气声以保护自己。",
+                "body_signals": [
+                    {
+                        "name": "伸展四肢晒背 (Basking & Leg Extension)",
+                        "meaning": "在晒背区充分伸展四肢吸收热量与UVB，代表新陈代谢活跃、消化正常及身心放松。",
+                        "response": "检查晒背点温度（保持在30-32°C），并保持环境安静切勿打扰。"
+                    },
+                    {
+                        "name": "缩入龟壳并吐气 (Shell Retraction & Hissing)",
+                        "meaning": "感知到突然的震动或威胁时的自我防御本能，通过快速吐气缩入壳内。",
+                        "response": "切勿强行拉扯，为其提供靠近热源的隐蔽躲避穴，让其自行恢复平静。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：开启加热及UVB灯并喂食高纤维高钙野草",
+                        "text": "开启晒背灯（维持30-32°C）和UVB灯，喂食蒲公英、苦苣等高纤维野草，并适量撒上钙粉。"
+                    },
+                    {
+                        "name": "中午：温水泡澡(Soaking)与龟甲检查",
+                        "text": "使用30°C左右的温水浸泡15-20分钟以补充水分、促进排便，并检查龟甲生长纹与健康状况。"
+                    },
+                    {
+                        "name": "晚上：夜间保温（20°C以上）与定时关灯",
+                        "text": "确保夜间温度不低于20°C以防感冒或诱发危险的假冬眠，并在固定时间关闭日间灯具。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "赫曼陆龟的UVB灯管需要多长时间更换一次？",
+                        "answer": "UVB灯管即使肉眼看依然发光，紫外线衰减也很快，因此必须每6个月至1年更换一次。充足的UVB是合成维生素D3、吸收钙质及预防骨骼病（MBD）和隆背的关键。"
+                    },
+                    {
+                        "question": "室内家庭饲养赫曼陆龟需要让它冬眠吗？",
+                        "answer": "不需要。家庭环境下人工诱导冬眠风险极高，易导致死亡。室内饲养只需全年维持20°C以上的环境和稳定的晒背点，即可安全地避免冬眠。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado de la Tortuga de Hermann: Control de temperatura, dieta alta en fibra y rutina de 3 pasos con UVB",
+                "description": "Cuidados esenciales para la dócil y resistente tortuga de Hermann. Aprenda a crear gradientes térmicos, ofrecer dietas ricas en fibra, cambiar bombillas UVB y evitar la hibernación involuntaria.",
+                "authority": "Estándares de la Societas Europaea Herpetologica (SEH) y Pautas de Bienestar de la World Association of Herpetology",
+                "profile": {
+                    "breed": "Tortuga de Hermann (Testudo hermanni)",
+                    "lifespan": "50 ~ 80+ años",
+                    "sleep_pattern": "10 ~ 12 horas (diurna: activa durante el día y descansa en refugios de noche)",
+                    "temperament": "Dócil, amigable, resistente, curiosa, pacífica"
+                },
+                "intro": "La tortuga de Hermann (Testudo hermanni) es una especie mediterránea clásica y uno de los reptiles de compañía más queridos en Europa y Norteamérica. Conocida por su tamaño manejable (15–20 cm en edad adulta), carácter amigable y longeva vida, se adapta perfectamente al entorno doméstico. Como reptil ectotérmico, no puede regular su temperatura corporal, por lo que necesita un gradiente térmico con un punto de calor adecuado. Asimismo, la luz UVB es imprescindible para la síntesis de vitamina D3 y la salud de su caparazón, mientras que una dieta alta en fibra y calcio evita enfermedades óseas y el piramidismo. Hoy en PetSelf, analizamos sus señales instintivas y revelamos una rutina diaria de 3 pasos.",
+                "whyTitle": "Instintos de la tortuga de Hermann: Postura de asoleamiento (Basking) y retracción",
+                "whyDesc": "Bajo la lámpara de calor, las tortugas de Hermann adoptan una **'Postura de Asoleamiento' (Basking Pose)**, extendiendo cuello y patas para absorber el calor y la radiación UVB. Esto indica un metabolismo activo y bienestar. Por el contrario, cuando se asustan, retraen rápidamente la cabeza y extremidades dentro del caparazón expulsando aire.",
+                "body_signals": [
+                    {
+                        "name": "Estirar extremidades al asolearse (Basking)",
+                        "meaning": "Extender patas y cuello bajo la luz focal para absorber calor y UVB, señal de metabolismo activo y relajación.",
+                        "response": "Verifique que la temperatura del punto de calor esté entre 30 y 32 °C y no la moleste mientras se asolea."
+                    },
+                    {
+                        "name": "Retracción en el caparazón y siseo",
+                        "meaning": "Reflejo defensivo ante ruidos o amenazas repentinas, escondiéndose en el caparazón mientras expulsa aire.",
+                        "response": "No intente sacarla a la fuerza; deje que se recupere tranquila cerca de la zona cálida."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Encendido de luces térmicas/UVB y dieta rica en fibra",
+                        "text": "Encienda las lámparas (30–32 °C en el punto focal). Ofrezca hierbas silvestre ricas en fibra (diente de león, achicoria) con un toque de calcio."
+                    },
+                    {
+                        "name": "Tarde: Baño de agua tibia (Soaking) e inspección",
+                        "text": "Bañe a la tortuga en agua tibia (~30 °C) durante 15–20 minutos para favorecer la hidratación y digestión, e inspeccione su caparazón."
+                    },
+                    {
+                        "name": "Noche: Control térmico nocturno y apagado de luces",
+                        "text": "Mantenga la temperatura nocturna por encima de 20 °C para evitar enfermedades respiratorias o hibernaciones no deseadas, apagando las luces a una hora fija."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cada cuánto tiempo se debe cambiar la bombilla UVB de la tortuga de Hermann?",
+                        "answer": "La bombilla UVB debe sustituirse cada 6 a 12 meses. Aunque siga emitiendo luz visible, la radiación UV disminuye gradualmente. La radiación UVB es esencial para sintetizar vitamina D3, fijar el calcio y prevenir el piramidismo."
+                    },
+                    {
+                        "question": "¿Deben hibernar las tortugas de Hermann criadas en interior?",
+                        "answer": "No. Intentar la hibernación en casa sin controles ambientales estrictos conlleva un alto riesgo de mortalidad. Mantener un ambiente cálido constante en interior por encima de 20 °C evita riesgos innecesarios."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin de la Tortue d'Hermann : Gestion de la température, alimentation riche en fibres et routine en 3 étapes UVB",
+                "description": "Soins essentiels pour la tortue d'Hermann, petite tortue calme et robuste. Apprenez à créer un gradient thermique, fournir une alimentation riche en fibres, remplacer les lampes UVB et éviter l'hibernation involontaire.",
+                "authority": "Normes de la Societas Europaea Herpetologica (SEH) et directives de la World Association of Herpetology",
+                "profile": {
+                    "breed": "Tortue d'Hermann (Testudo hermanni)",
+                    "lifespan": "50 ~ 80+ ans",
+                    "sleep_pattern": "10 ~ 12 heures (diurne : active la journée et se repose en cachette la nuit)",
+                    "temperament": "Douce, amicale, robuste, curieuse, paisible"
+                },
+                "intro": "La tortue d'Hermann (Testudo hermanni) est un reptile méditerranéen classique et l'un des reptiles de compagnie les plus appréciés en Europe et en Amérique du Nord. Appréciée pour sa taille modérée (15 à 20 cm à l'âge adulte), son caractère paisible et sa longévité exceptionnelle, elle s'adapte très bien à la vie auprès des humains. Cependant, en tant qu'animal ectotherme, elle nécessite un gradient thermique précis. Un éclairage UVB régulier est indispensable pour la synthèse de la vitamine D3 et la solidité de sa carapace, tandis qu'une alimentation riche en fibres et en calcium prévient les déformations osseuses. Aujourd'hui sur PetSelf, nous décryptons ses comportements et vous présentons une routine quotidienne en 3 étapes.",
+                "whyTitle": "Instincts de la tortue d'Hermann : Posture d'exposition (Basking) et rétraction",
+                "whyDesc": "Sous la lampe chauffante, la tortue d'Hermann adopte une **'Posture d'Exposition' (Basking Pose)** en étirant son cou et ses pattes para capter la chaleur et les UVB. C'est le signe d'un métabolisme actif. À l'inverse, si elle est effrayée, elle rétracte vivement ses membres dans sa carapace en expulsant de l'air.",
+                "body_signals": [
+                    {
+                        "name": "Bain de chaleur et étirement des pattes (Basking)",
+                        "meaning": "Étendre ses membres sous la lampe chauffante pour absorber chaleur et UVB, témoignant d'un métabolisme actif et d'une grande détente.",
+                        "response": "Vérifiez que le point chaud reste entre 30 et 32 °C et évitez de la déranger pendant son exposition."
+                    },
+                    {
+                        "name": "Rétraction dans la carapace et sifflement",
+                        "meaning": "Réflexe de défense face à une menace, se cachant dans sa carapace tout en expulsant de l'air.",
+                        "response": "Ne tentez pas de la sortir de force ; laissez-la se rassurer à son rythme près du point chaud."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Allumage des lampes et repas riche en fibres",
+                        "text": "Allumez la lampe chauffante (30–32 °C au point chaud) et la lampe UVB. Proposez des herbes fraîches (pissenlit, chicorée) saupoudrées de calcium."
+                    },
+                    {
+                        "name": "Après-midi : Bain d'eau tiède (Soaking) et examen",
+                        "text": "Faites-lui prendre un bain d'eau tiède (~30 °C) pendant 15 à 20 minutes pour favoriser son hydratation et son transit, puis contrôlez sa carapace."
+                    },
+                    {
+                        "name": "Soir : Maintien de la température nocturne et extinction",
+                        "text": "Maintenez la température nocturne au-dessus de 20 °C pour éviter le déclenchement d'une hibernation involontaire et éteignez à heure fixe."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "À quelle fréquence faut-il remplacer l'ampoule UVB de la tortue d'Hermann ?",
+                        "answer": "L'ampoule UVB doit être remplacée tous les 6 à 12 mois. Même si elle éclaire encore, son rayonnement UV diminue fortement avec le temps. Les UVB sont vitaux pour assimiler le calcium et éviter le pyramidage de la carapace."
+                    },
+                    {
+                        "question": "Faut-il faire hiberner une tortue d'Hermann gardée en intérieur ?",
+                        "answer": "Non. L'hibernation en intérieur sans contrôle strict présente de grands risques de mortalité. Maintenir un environnement chaud toute l'année au-dessus de 20 °C évite toute hibernation accidentelle."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Griechische Landschildkröte Pflege-Leitfaden: Temperaturzonen, ballaststoffreiche Ernährung & 3-Schritt-UVB-Routine",
+                "description": "Essenzielle Pflege für die friedliche und robuste Griechische Landschildkröte. Erfahren Sie, wie Sie Temperaturzonen einrichten, ballaststoffreich füttern, UVB-Lampen wechseln und ungewollte Überwinterung vermeiden.",
+                "authority": "Standards der Societas Europaea Herpetologica (SEH) & Richtlinien der World Association of Herpetology",
+                "profile": {
+                    "breed": "Griechische Landschildkröte (Testudo hermanni)",
+                    "lifespan": "50 ~ 80+ Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (tagaktiv - im warmen Tageslicht aktiv, nachts im Versteck)",
+                    "temperament": "Sanftmütig, zutraulich, robust, neugierig, friedlich"
+                },
+                "intro": "Die Griechische Landschildkröte (Testudo hermanni) ist eine klassische mediterrane Rasse und eines der beliebtesten Reptilien in Europa. Bekannt für ihre überschaubare Größe (15–20 cm ausgewachsen), ihr freundliches Wesen und ihre hohe Lebenserwartung passt sie sich hervorragend an das Leben in menschlicher Obhut an. Als wechselwarmes Tier benötigt sie ein klares Temperaturgefälle mit einem Sonnenplatz. Regelmäßiger Austausch der UVB-Beleuchtung ist für die Synthese von Vitamin D3 und den Panzerbau unerlässlich, während eine ballaststoffreiche Wiesenkräuter-Ernährung Panzerdeformationen vorbeugt. Heute analysiert PetSelf ihre Verhaltensmuster und zeigt eine 3-Schritt-Tagesroutine.",
+                "whyTitle": "Instinkte der Schildkröte: Sonnenbaden (Basking) und Panzerrückzug",
+                "whyDesc": "Unter der Wärmelampe nehmen Schildkröten eine charakteristische **'Sonnenbade-Positur' (Basking Pose)** ein, bei der sie Hals und Beine ausstrecken, um Wärme und UVB-Strahlung optimal aufzunehmen. Bei Gefahr ziehen sie sich rasch in ihren Panzer zurück.",
+                "body_signals": [
+                    {
+                        "name": "Ausstrecken der Gliedmaßen beim Sonnenbaden (Basking)",
+                        "meaning": "Vollständiges Ausstrecken von Beinen und Hals unter dem Strahler zur Wärme- und UV-Aufnahme; zeigt aktiven Stoffwechsel und Wohlbefinden.",
+                        "response": "Stellen Sie sicher, dass der Sonnenplatz 30–32 °C warm ist, und stören Sie das Tier nicht."
+                    },
+                    {
+                        "name": "Einziehen in den Panzer mit Zischen",
+                        "meaning": "Abwehrreflex bei Erschütterungen oder Bedrohungen, bei dem Luft entweicht.",
+                        "response": "Ziehen Sie das Tier nicht gewaltsam heraus; lassen Sie ihm Zeit, sich nah am Wärmebereich zu beruhigen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Lampen einschalten & ballaststoffreiches Futter anbieten",
+                        "text": "Schalten Sie Wärme- (30–32 °C am Sonnenplatz) und UVB-Lampen ein. Füttern Sie ballaststoffreiche Wildkräuter (Löwenzahn, Wegwarte) mit etwas Kalziumpulver."
+                    },
+                    {
+                        "name": "Nachmittag: Lauwarmes Baden (Soaking) & Panzerkontrolle",
+                        "text": "Baden Sie die Schildkröte 15–20 Minuten in ca. 30 °C warmem Wasser zur Hydratation und Verdauungsförderung und überprüfen Sie den Panzer."
+                    },
+                    {
+                        "name": "Abend: Nachtabsenkung beachten & Licht ausschalten",
+                        "text": "Achten Sie darauf, dass die Nachttemperatur nicht unter 20 °C fällt, um ungewollten Winterschlaf zu vermeiden, und schalten Sie das Licht ab."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie oft muss die UVB-Lampe für eine Griechische Landschildkröte gewechselt werden?",
+                        "answer": "Die UVB-Lampe sollte alle 6 bis 12 Monate erneuert werden. Auch wenn die Lampe noch leuchtet, nimmt die UV-Strahlung mit der Zeit stark ab. UVB ist essenziell für die Vitamin-D3-Synthese und gesunden Panzerbau."
+                    },
+                    {
+                        "question": "Sollten in der Wohnung gehaltene Schildkröten überwintern?",
+                        "answer": "Nein. Eine Überwinterung in Innenräumen ohne präzise Kältestreuung birgt hohe Risiken. Eine ganzjährig warme Haltung über 20 °C verhindert gefährliche Fehleinleitungen der Starre."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidados da Tartaruga-de-Hermann: Controlo de temperatura, dieta rica em fibra e rotina de 3 passos com UVB",
+                "description": "Cuidados essenciais para a dócil e resistente tartaruga-de-Hermann. Aprenda a criar gradientes térmicos, fornecer alimentação rica em fibra, trocar lâmpadas UVB e evitar a hibernação involuntária.",
+                "authority": "Padrões da Societas Europaea Herpetologica (SEH) e Diretrizes da World Association of Herpetology",
+                "profile": {
+                    "breed": "Tartaruga-de-Hermann (Testudo hermanni)",
+                    "lifespan": "50 ~ 80+ anos",
+                    "sleep_pattern": "10 ~ 12 horas (diurna: ativa durante o dia e descansa em abrigos à noite)",
+                    "temperament": "Dócil, amigável, resistente, curiosa, pacífica"
+                },
+                "intro": "A tartaruga-de-Hermann (Testudo hermanni) é uma espécie mediterrânica clássica e um dos répteis de estimação mais amados na Europa e América do Norte. Conhecida pelo seu tamanho prático (15–20 cm em adulta), temperamento amigável e longa vida, adapta-se perfeitamente à convivência humana. Como réptil ectotérmico, necessita de um gradiente térmico adequado na sua instalação. A iluminação UVB é indispensável para a síntese de vitamina D3 e desenvolvimento da carapaça, enquanto uma dieta rica em fibra previne o piramidismo. Hoje no PetSelf, analisamos os seus sinais e revelamos uma rotina diária de 3 passos.",
+                "whyTitle": "Instintos da tartaruga-de-Hermann: Postura de banho de calor (Basking) e retração",
+                "whyDesc": "Debaixo da lâmpada de calor, as tartarugas de Hermann adotam uma **'Postura de Banho de Calor' (Basking Pose)**, esticando o pescoço e as patas para absorver o calor e a radiação UVB. Ao assustarem-se, recolhem rapidamente os membros para dentro da carapaça.",
+                "body_signals": [
+                    {
+                        "name": "Esticar membros ao apanhar calor (Basking)",
+                        "meaning": "Extensão das patas e pescoço sob a lâmpada para absorver calor e UVB, indicando metabolismo ativo e relaxamento.",
+                        "response": "Confirme se o ponto de calor está entre 30 e 32 °C e não a perturbe."
+                    },
+                    {
+                        "name": "Recolher na carapaça e soprar ar",
+                        "meaning": "Mecanismo de defesa perante ameaças, escondendo-se na carapaça e expelindo ar.",
+                        "response": "Não a puxe para fora; deixe-a acalmar-se ao seu ritmo perto da zona quente."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Ligar iluminação e alimentação rica em fibra",
+                        "text": "Ligue as lâmpadas de calor (30–32 °C no ponto quente) e UVB. Ofereça ervas silvestres ricas em fibra polvilhadas com cálcio."
+                    },
+                    {
+                        "name": "Tarde: Banho de água morna (Soaking) e inspeção",
+                        "text": "Coloque a tartaruga em água morna (~30 °C) durante 15–20 minutos para promover a hidratação e digestão, inspecionando a carapaça."
+                    },
+                    {
+                        "name": "Noite: Controlo térmico noturno e desligar luzes",
+                        "text": "Mantenha a temperatura noturna acima dos 20 °C para prevenir problemas respiratórios ou hibernação não desejada."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Com que frequência devo substituir a lâmpada UVB da tartaruga-de-Hermann?",
+                        "answer": "A lâmpada UVB deve ser substituída a cada 6 a 12 meses. Mesmo mantendo a luz visível, a emissão de raios UV diminui. A radiação UVB é vital para absorver cálcio e prevenir o piramidismo."
+                    },
+                    {
+                        "question": "As tartarugas-de-Hermann mantidas em casa devem hibernar?",
+                        "answer": "Não. A hibernação doméstica sem controlo rigoroso é perigosa. Manter um ambiente quente constante acima de 20 °C evita os riscos da hibernação involuntária."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Kura-Kura Hermann: Manajemen Suhu, Diet Tinggi Serat & Rutinitas 3 Langkah UVB",
+                "description": "Perawatan esensial untuk kura-kura darat Hermann yang jinak dan tangguh. Pelajari cara membuat gradien suhu, memberikan pakan tinggi serat, mengganti lampu UVB, dan mencegah hibernasi berbahaya.",
+                "authority": "Standar Societas Europaea Herpetologica (SEH) & Panduan Kesejahteraan World Association of Herpetology",
+                "profile": {
+                    "breed": "Kura-Kura Darat Hermann (Testudo hermanni)",
+                    "lifespan": "50 ~ 80+ tahun",
+                    "sleep_pattern": "10 ~ 12 jam (diurnal - aktif di siang hari yang hangat, beristirahat di lubang malam hari)",
+                    "temperament": "Jinak, ramah, tangguh, serba ingin tahu, damai"
+                },
+                "intro": "Kura-kura darat Hermann (Testudo hermanni) adalah spesies klasik Mediterania dan salah satu reptil peliharaan terpopuler di Eropa dan Amerika Utara. Dikenal karena ukurannya yang pas (15–20 cm saat dewasa), sifatnya yang ramah, dan usianya yang sangat panjang, kura-kura ini beradaptasi sangat baik dengan manusia. Sebagai hewan berdarah dingin, mereka membutuhkan titik lampu penghangat. Lampu UVB wajib diganti berkala untuk sintesis vitamin D3 dan pembentukan tempurung, sedangkan diet tinggi serat dan kalsium mencegah penyakit tulang. Hari ini di PetSelf, kami menganalisis bahasa tubuh kura-kura Hermann dan membagikan rutinitas 3 langkah.",
+                "whyTitle": "Insting Kura-Kura Hermann: Pose Berjemur (Basking) dan Menarik Diri",
+                "whyDesc": "Di bawah lampu pemanas, kura-kura Hermann mengambil **'Pose Berjemur' (Basking Pose)** dengan merentangkan kaki dan lehernya untuk menyerap panas dan UVB secara maksimal. Saat terkejut, mereka akan menarik kepala dan kakinya ke dalam tempurung.",
+                "body_signals": [
+                    {
+                        "name": "Merentangkan Kaki Saat Berjemur (Basking)",
+                        "meaning": "Merentangkan kaki dan leher di bawah lampu untuk menyerap panas dan UVB, menandakan metabolisme aktif dan rasa rileks.",
+                        "response": "Pastikan suhu titik berjemur berada di kisaran 30–32 °C dan jangan mengganggunya."
+                    },
+                    {
+                        "name": "Menarik Diri ke Tempurung & Mendesis",
+                        "meaning": "Refleks pertahanan diri saat terkejut, bersembunyi di dalam tempurung sambil mengeluarkan udara.",
+                        "response": "Jangan menariknya secara paksa; biarkan ia tenang dengan sendirinya di dekat area hangat."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Nyalakan Lampu Penghangat/UVB & Makanan Tinggi Serat",
+                        "text": "Nyalakan lampu (30–32 °C di titik hangat). Berikan daun-daunan hijau tinggi serat (rumbuhan liar, dandelion) yang ditaburi sedikit bubuk kalsium."
+                    },
+                    {
+                        "name": "Siang: Rendam Air Hangat (Soaking) & Inspeksi Tempurung",
+                        "text": "Rendam kura-kura dalam air hangat (~30 °C) selama 15–20 menit untuk membantu hidrasi dan pencernaan, lalu periksa kondisi tempurungnya."
+                    },
+                    {
+                        "name": "Malam: Kontrol Suhu Malam Hari & Matikan Lampu",
+                        "text": "Pastikan suhu malam hari tidak turun di bawah 20 °C untuk mencegah flu atau hibernasi berbahaya, lalu matikan lampu sesuai jadwal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Seberapa sering lampu UVB kura-kura Hermann harus diganti?",
+                        "answer": "Lampu UVB harus diganti setiap 6 hingga 12 bulan. Meskipun masih menyala, pancaran sinar UV akan menurun seiring waktu. Radiasi UVB sangat penting untuk menyerap kalsium dan mencegah pembentukan tempurung piramida (pyramiding)."
+                    },
+                    {
+                        "question": "Apakah kura-kura Hermann yang dipelihara di dalam rumah perlu hibernasi?",
+                        "answer": "Tidak. Mencoba hibernasi di dalam rumah tanpa kontrol suhu yang presisi berisiko tinggi menyebabkan kematian. Mempertahankan suhu hangat di atas 20 °C sepanjang tahun secara aman mencegah hibernasi yang tidak diinginkan."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/hermanns_tortoise_care.webp"
+    }
+}

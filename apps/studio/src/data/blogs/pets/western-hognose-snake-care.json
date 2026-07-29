@@ -1,0 +1,459 @@
+{
+    "western-hognose-snake-care": {
+        "pubDate": "2026-07-22",
+        "updatedDate": "2026-07-22",
+        "locales": {
+            "ko": {
+                "title": "서부 돼지코뱀 버로우 바닥재 케어법과 핫존 온열·피딩 3단계 일상 루틴",
+                "description": "들린 코 모양이 귀여운 서부 돼지코뱀. 굴 파기 좋은 아스펜 바닥재 세팅, 적정 핫존·쿨존 온열 유지, 안전한 피딩 및 거식 예방 3단계 가이드라인을 제공합니다.",
+                "authority": "미국 파충류 보존 협회(USARK) 사육 표준 및 국제파충류학회(IHS) 케어 가이드라인",
+                "profile": {
+                    "breed": "서부 돼지코뱀 (Western Hognose Snake / Heterodon nasicus)",
+                    "lifespan": "15 ~ 20년",
+                    "sleep_pattern": "10 ~ 12시간 (주행성/박명성 - 적정 온열 스팟 아래서 버로우 휴식)",
+                    "temperament": "호기심 많음, 엄살(연극적 위협) 있음, 핸들링 시 온순함, 활발함"
+                },
+                "intro": "서부 돼지코뱀(Western Hognose Snake)은 위로 살짝 들린 돼지 모양의 귀여운 주둥이(Rostral Scale)와 콘스네이크, 볼파이톤과 함께 세계 3대 애완뱀으로 손꼽히는 인기를 자랑합니다. 위협을 느낄 때 코브라처럼 목을 넓게 펼치거나 뒤집어져 죽은 척(죽은척하기 / Thanatosis)을 하는 연극 같은 방어 행동으로 파충류 사육자들에게 큰 즐거움을 줍니다. 본래 굴을 파고 생활하는 버로우 습성이 있어 굴 형태가 유지되는 아스펜 베딩 등의 바닥재가 필수적이며, 변온동물 특성에 맞춘 정확한 핫존/쿨존 온도 구배 형성이 건강 유지의 핵심입니다. 오늘 PetSelf에서는 서부 돼지코뱀의 본능적 방어 시그널을 분석하고, 안전한 피딩과 환경 케어를 위한 3단계 일상 루틴을 공개합니다.",
+                "whyTitle": "서부 돼지코뱀의 본능: 독특한 굴 파기 주둥이와 죽은 척(Thanatosis) 시그널",
+                "whyDesc": "서부 돼지코뱀의 위로 꺾인 비늘은 야생에서 흙과 모래를 파헤쳐 주 먹이인 두꺼비를 찾던 굴 파기 본능의 결과물입니다. 포식자나 위협을 감지하면 목을 평평하게 펼쳐 위협적인 연출을 시도하며, 위험이 지속되면 몸을 뒤집고 혀를 내민 채 나쁜 냄새(체액)를 풍기며 완벽하게 죽은 척하는 '타나토시스(Thanatosis)' 연기를 펼칩니다.",
+                "body_signals": [
+                    {
+                        "name": "목 넓게 펼치고 바람 소리 내기 (Cobra Bluffing & Hissing)",
+                        "meaning": "목 부위 비늘을 코브라처럼 넓게 펼쳐 몸집을 커 보이게 만들고 바람 소리를 내는 행위로, 공격 의사가 아닌 거부와 경고의 방어 시그널입니다.",
+                        "response": "자극하지 않고 조용히 기다려 주거나 손을 아래에서 천천히 받아내듯 받쳐 들어 안정을 찾게 해줍니다."
+                    },
+                    {
+                        "name": "몸 뒤집고 입 벌리기 (Playing Dead / Thanatosis)",
+                        "meaning": "극도의 위협을 느꼈을 때 배를 위로 까뒤집고 혀를 내밀어 죽은 체하는 행동으로, 심리적 스트레스가 최고조에 달했을 때 나오는 본능 반응입니다.",
+                        "response": "즉시 핸들링이나 사육장 자극을 중단하고 어둡고 조용한 환경을 만들어 스트레스를 낮춰 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 핫존(30~32°C) 및 쿨존(21~24°C) 온도·습도 점검",
+                        "text": "하부 열선 또는 상부 히터를 점검하여 핫존 온도를 30~32°C로 유지하고, 수분 섭취를 위한 물그릇 청결 상태를 확인합니다."
+                    },
+                    {
+                        "name": "낮: 버로우 바닥재(아스펜 등) 깊이 유지 및 국소 오염 청소",
+                        "text": "굴을 파고 숨을 수 있도록 아스펜 베딩을 5~8cm 이상 두껍게 깔아주고, 배변이나 오염된 베딩을 즉시 제거하여 위생을 유지합니다."
+                    },
+                    {
+                        "name": "밤: 정기적인 해동 핑키/퍼지 피딩 및 조용한 휴식 유도",
+                        "text": "주 1회 체급에 맞는 해동 마우스를 집게로 흔들어 공급하며, 피딩 후 48시간 동안은 소화를 위해 핸들링을 금지하고 휴식하게 합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "서부 돼지코뱀은 독이 있나요? 사람이 물리면 위험한가요?",
+                        "answer": "서부 돼지코뱀은 후아니성(Rear-fanged) 미세 독을 지니고 있으나, 이는 야생에서 두꺼비를 제압하기 위한 독으로 사람에게는 치명적이지 않습니다. 물릴 경우 약간의 부기나 가려움이 있을 수 있으나 손을 청결히 하고 조심스럽게 핸들링하면 물리는 일 자체가 드뭅니다."
+                    },
+                    {
+                        "question": "돼지코뱀이 먹이를 거부(거식)할 때는 어떻게 해야 하나요?",
+                        "answer": "돼지코뱀은 계절 변화나 환경 스트레스로 거식이 올 수 있습니다. 사육장 핫존 온도가 낮지 않은지 확인하고, 아스펜 베딩 깊이를 늘려 안도감을 준 뒤, 마우스에 참치 즙이나 개구리 향을 묻혀 공급(Scenting)하면 먹이 반응을 유도할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Western Hognose Snake Care Guide: Burrowing Substrates, Hot Zone Temps & 3-Step Feeding Routine",
+                "description": "Essential care for the adorable Western Hognose Snake. Learn how to set up aspen burrowing substrate, maintain optimal heat gradients, and manage safe feeding routines.",
+                "authority": "United States Association of Reptile Keepers (USARK) & International Herpetological Society (IHS) Guidelines",
+                "profile": {
+                    "breed": "Western Hognose Snake (Heterodon nasicus)",
+                    "lifespan": "15 - 20 Years",
+                    "sleep_pattern": "10 - 12 Hours (Diurnal/Crepuscular - Burrows under heat gradient)",
+                    "temperament": "Curious, Dramatic (Dramatic Bluffing), Docile when Handled, Active"
+                },
+                "intro": "The Western Hognose Snake (Heterodon nasicus) is globally famous for its upturned snout and dramatic defensive behavior, earning its place among the 'top 3 pet snakes' alongside Corn Snakes and Ball Pythons. When threatened, they engage in theatrical bluffs like flattening their necks like a cobra or rolling over to play dead (thanatosis). Because they are natural burrowers, providing a deep layer of aspen bedding that holds tunnel shapes is essential. Establishing a precise thermal gradient with hot and cool zones is equally critical for their digestion and immunity. Today on PetSelf, we analyze the Western Hognose's defensive signals and share a 3-step homecare routine for substrate management, heating, and safe feeding.",
+                "whyTitle": "Western Hognose Instincts: The Upturned Snout and Playing Dead (Thanatosis)",
+                "whyDesc": "The upturned rostral scale of the Western Hognose evolved specifically for digging into soil to hunt toads in the wild. When feeling threatened, they flatten their neck to intimidate predators. If threats persist, they roll onto their back, stick out their tongue, and emit a foul musk—a dramatic, innate defense response known as **'Thanatosis'** (playing dead).",
+                "body_signals": [
+                    {
+                        "name": "Neck Flattening & Hissing (Cobra Bluffing)",
+                        "meaning": "Flattening the neck scales to appear larger while exhaling loudly, serving as a bluff and defensive warning rather than an intent to bite.",
+                        "response": "Avoid sudden movements; scoop them gently from below to build confidence and calm them down."
+                    },
+                    {
+                        "name": "Flipping Belly-Up & Mouth Open (Playing Dead / Thanatosis)",
+                        "meaning": "Innate defense triggered by extreme stress, rolling onto their back and pretending to be deceased to deter predators.",
+                        "response": "Immediately stop handling and leave them in a dark, quiet enclosure to allow their stress levels to drop."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Hot Zone (30–32°C) & Cool Zone (21–24°C) Temperature Check",
+                        "text": "Verify heat mats or overhead ceramic heaters maintain the hot spot at 30–32°C, and ensure fresh drinking water is available."
+                    },
+                    {
+                        "name": "Afternoon: Burrowing Substrate Maintenance & Spot Cleaning",
+                        "text": "Maintain 5–8 cm of aspen shavings so they can construct stable burrows, and immediately spot-clean any waste or soiled bedding."
+                    },
+                    {
+                        "name": "Evening: Thawed Rodent Feeding & Post-Meal Rest",
+                        "text": "Offer appropriately sized thawed mice using feeding tongs. Avoid handling for 48 hours post-feeding to allow proper digestion."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Are Western Hognose Snakes venomous or dangerous to humans?",
+                        "answer": "They are mildly rear-fanged venomous, using mild toxins to subdue amphibians in the wild. Their saliva is medically harmless to non-allergic humans, usually causing only minor localized swelling if a prolonged bite occurs. Regular gentle handling makes bites extremely rare."
+                    },
+                    {
+                        "question": "What should I do if my Hognose goes on a hunger strike?",
+                        "answer": "First, ensure hot zone temperatures are sufficiently warm (30–32°C) and provide deeper substrate for security. If they continue refusing food, try 'scenting' the thawed rodent with tuna juice or frog scent to trigger their hunting response."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "セイブシシバナヘビの掘り活床材ケアとホットゾーン温度・給餌3ステップ日常ルーティン",
+                "description": "めくれ上がった鼻が愛らしいセイブシシバナヘビ。トンネルができるアスペン床材の設置、適正なホットゾーン・クールゾーン管理、安全な給餌と拒食対策の3ステップガイドを解説します。",
+                "authority": "全米爬虫類保護協会（USARK）飼育基準および国際両生爬虫類学会（IHS）ガイドライン",
+                "profile": {
+                    "breed": "セイブシシバナヘビ (Western Hognose Snake / Heterodon nasicus)",
+                    "lifespan": "15 〜 20年",
+                    "sleep_pattern": "10 〜 12時間 (昼行性/薄明薄暮性 - 適温下で潜って休息)",
+                    "temperament": "好奇心旺盛、演劇的（威嚇のフリをする）、ハンドリング時は大人しい、活発"
+                },
+                "intro": "セイブシシバナヘビ（Heterodon nasicus）は、反り上がった豚のような愛らしい鼻先と、コーンスネークやボールパイソンと並ぶ「世界3大ペットヘビ」としての高い人気を誇ります。脅威を感じるとコブラのように首を広げたり、ひっくり返って死んだフリ（死に真似 / Thanatosis）をする演劇的な防衛行動で爬虫類飼育者を魅了します。本来穴を掘って暮らす習性があるため、トンネルが崩れないアスペンチップなどの床材が必須であり、変温動物に合わせた正確なホットゾーン／クールゾーンの温度管理が健康維持の鍵となります。本日はPetSelfが本能的な防衛サインを分析し、安全な給餌と環境ケアのための3ステップ日常ルーティンを公開します。",
+                "whyTitle": "セイブシシバナヘビの本能：反り上がった鼻先と死んだフリ（Thanatosis）",
+                "whyDesc": "反り上がった鼻先の鱗は、野性下で土を掘り起こしてカエルを探す掘削本能の産物です。危険を感じると首を平らに広げて威嚇し、それでも脅威が続くと体をひっくり返して舌を出し、嫌な匂いを放って完璧に死んだフリをする**「タナトーシス（Thanatosis）」**を行います。",
+                "body_signals": [
+                    {
+                        "name": "首を広げて威嚇音を出す (Cobra Bluffing & Hissing)",
+                        "meaning": "コブラのように首を広げて体を大きく見せ、シューと音を出す行動で、攻撃ではなく拒絶と警告の威嚇ポーズです。",
+                        "response": "刺激せずに静かに待つか、下から優しく掬い上げるように持ち上げて安心させます。"
+                    },
+                    {
+                        "name": "ひっくり返って口を開ける (Playing Dead / Thanatosis)",
+                        "meaning": "強い恐怖を感じた際、お腹を上にして死んだフリをする本能行動で、ストレスが限界に達しているサインです。",
+                        "response": "すぐにハンドリングを中止し、ケージを暗く静かな状態にしてストレスを下げてあげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ホットゾーン(30〜32℃)とクールゾーン(21〜24℃)の温度チェック",
+                        "text": "パネルヒーターや暖房器具を確認してホットスポットを30〜32℃に保ち、新鮮な水を用意します。"
+                    },
+                    {
+                        "name": "昼：床材（アスペン）の厚み維持と部分掃除",
+                        "text": "トンネルを掘れるようアスペンチップを5〜8cm以上の厚さで敷き詰め、排泄物や汚れた床材をすぐに取り除きます。"
+                    },
+                    {
+                        "name": "夜：解凍マウスの給餌と食後の安静",
+                        "text": "ピンセットで適切に解凍したマウスを与え、食後48時間は消化のためにハンドリングを控え安静にさせます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "セイブシシバナヘビには毒がありますか？噛まれたら危険ですか？",
+                        "answer": "後歯類（Rear-fanged）の微弱な毒を持っていますが、これは獲物のカエルを麻痺させるためのもので人間に致命的ではありません。万が一噛まれると軽度の腫れが生じることがありますが、大人しい性格のため日常のハンドリングで噛まれることは極めて稀です。"
+                    },
+                    {
+                        "question": "餌を食べない（拒食）時はどう対応すべきですか？",
+                        "answer": "温度不足や環境のストレスが原因となります。ホットゾーンの温度（30〜32℃）を再確認し、床材を深くして安心感を与えます。それでも食べない場合は、ツナの汁やカエルの匂いをマウスにつける（センティング）と反応することがあります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "西部猪鼻蛇穴居垫料护理指南与热区控温·喂食3阶段日常流程",
+                "description": "拥有翘翘猪鼻子的西部猪鼻蛇。提供适合掘洞的杨木屑垫料布置、精准热区冷区控温，以及安全喂食与防拒食3阶段护理流程。",
+                "authority": "美国爬行动物保护协会 (USARK) 饲养标准与国际两栖爬行动物学会 (IHS) 指南",
+                "profile": {
+                    "breed": "西部猪鼻蛇 (Western Hognose Snake / Heterodon nasicus)",
+                    "lifespan": "15 ~ 20年",
+                    "sleep_pattern": "10 ~ 12小时 (昼行性/晨昏性 - 在适宜热源下打洞休息)",
+                    "temperament": "好奇心强、戏剧化（喜欢假装威吓）、手持时温顺、活泼"
+                },
+                "intro": "西部猪鼻蛇（Heterodon nasicus）因其微微上翘的可爱猪鼻子，与玉米蛇、球蟒并称为“世界三大宠物蛇”。当感到威胁时，它们会像眼镜蛇一样扁平颈部发出嘶嘶声，甚至翻过身来装死（假死行为 / Thanatosis），这种充满戏剧性的防御演化极具观赏乐趣。由于它们天生喜欢掘洞，提供能够保持洞穴形状的杨木屑垫料至关重要；同时，构建精准的热区与冷区温差梯度是维持其消化与免疫的核心。今天 PetSelf 将解析西部猪鼻蛇的本能防御信号，并公开包含垫料管理、控温与安全喂食的3阶段日常护理流程。",
+                "whyTitle": "西部猪鼻蛇的本能：独特的掘洞吻鳞与装死（Thanatosis）信号",
+                "whyDesc": "西部猪鼻蛇上翘的吻鳞是野外在泥土和沙地中掘洞搜寻蟾蜍的演化结果。感知到威胁时，它们会展平颈部伪装成强敌；若威胁持续，它们会翻转身体、吐出舌头并散发恶臭，展开完美的**“假死（Thanatosis）”**演戏。",
+                "body_signals": [
+                    {
+                        "name": "展平颈部并发出嘶嘶声 (Cobra Bluffing)",
+                        "meaning": "像眼镜蛇一样展平颈部鳞片使体型显大，并发出吹气声，这是一种虚张声势的防御警告而非进攻意图。",
+                        "response": "切勿惊慌，保持冷静，从其下方温柔地托起身体，让其建立安全感。"
+                    },
+                    {
+                        "name": "翻转肚子朝上并张嘴 (Playing Dead / Thanatosis)",
+                        "meaning": "极度恐惧时触发的假死本能，通过翻转身体装死来劝退掠食者，代表其压力已达极限。",
+                        "response": "立即停止上手互动，将其放回黑暗安静的环境中，帮助其平复压力。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：热区(30-32°C)与冷区(21-24°C)温度检查",
+                        "text": "检查加热垫或顶置加热灯，确保热区温度维持在30-32°C，并提供干净的饮用水。"
+                    },
+                    {
+                        "name": "中午：穴居垫料（杨木屑）深度维持与局部清洁",
+                        "text": "铺设5-8厘米以上的杨木屑以便其打洞建造隐蔽所，并及时清理排泄物与受污染的垫料。"
+                    },
+                    {
+                        "name": "晚上：定时喂食解冻乳鼠与饭后静养",
+                        "text": "使用镊子夹取解冻至室温的合适大小乳鼠喂食。进食后48小时内严禁上手，保证其正常消化。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "西部猪鼻蛇有毒吗？被咬到危险吗？",
+                        "answer": "西部猪鼻蛇拥有微弱的后沟牙毒素，仅用于在野外麻痹蟾蜍，对非过敏体质的人类是安全的。由于其性格温顺，日常上手极少发生咬人情况。"
+                    },
+                    {
+                        "question": "猪鼻蛇拒食（不吃东西）时该怎么办？",
+                        "answer": "拒食常由温度不足或环境压力引起。请确认热区温度达标（30-32°C），并加厚垫料给予安全感。若仍拒食，可用金枪鱼汁或青蛙气味沾染乳鼠（Scenting）来诱发食欲。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado de la Serpiente Hocico de Cerdito: Sustratos para excavar, temperaturas y rutina de 3 pasos",
+                "description": "Cuidados esenciales para la encantadora serpiente hocico de cerdito occidental. Aprenda a instalar sustratos de viruta de álamo, mantener gradientes térmicos y gestionar alimentaciones seguras.",
+                "authority": "Pautas de la United States Association of Reptile Keepers (USARK) y la International Herpetological Society (IHS)",
+                "profile": {
+                    "breed": "Serpiente Hocico de Cerdito (Heterodon nasicus)",
+                    "lifespan": "15 ~ 20 años",
+                    "sleep_pattern": "10 ~ 12 horas (diurna/crepuscular: se esconde bajo el gradiente térmico)",
+                    "temperament": "Curiosa, dramática (farsas defensivas), dócil al manipularla, activa"
+                },
+                "intro": "La Serpiente Hocico de Cerdito Occidental (Heterodon nasicus) es mundialmente famosa por su hocico respingón y sus dramáticos comportamientos defensivos, situándose entre las tres serpientes de compañía más populares. Cuando se siente amenazada, realiza farsas teatrales como aplanar el cuello estilo cobra o volcarse sobre sí misma para hacerse la muerta (tanatosis). Al ser excavadoras natas, es imprescindible proporcionarles una capa profunda de viruta de álamo (aspen) que mantenga la forma de sus túneles. Asimismo, un gradiente térmico preciso entre la zona cálida y fría es clave para su digestión. Hoy en PetSelf, analizamos sus señales y compartimos una rutina de 3 pasos.",
+                "whyTitle": "Instintos de la Hocico de Cerdito: Escarbar con el hocico y hacerse la muerta (Tanatosis)",
+                "whyDesc": "La escama rostral levantada de esta serpiente evolucionó para excavar en busca de sapos. Si percibe peligro, aplana su cuello para intimidar. Si la amenaza continúa, se da la vuelta mostrando el vientre y saca la lengua, simulando estar muerta en un comportamiento instintivo llamado **'Tanatosis'**.",
+                "body_signals": [
+                    {
+                        "name": "Aplanar el cuello y bufar (Cobra Bluffing)",
+                        "meaning": "Ensanchar las escamas del cuello para parecer más grande mientras bufa; es una advertencia defensiva, no un ataque.",
+                        "response": "Mantenga la calma, evite movimientos bruscos y sosténgala suavemente desde abajo para transmitirle seguridad."
+                    },
+                    {
+                        "name": "Volcarse vientre arriba (Hacerse la muerta / Tanatosis)",
+                        "meaning": "Respuesta instintiva ante un estrés extremo, fingiendo estar muerta para ahuyentar a posibles depredadores.",
+                        "response": "Cece inmediatamente la manipulación y déjela en un entorno oscuro y tranquilo para reducir su estrés."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura de Zona Cálida (30–32 °C) y Fría (21–24 °C)",
+                        "text": "Compruebe que las mantas o focos calóricos mantengan el punto caliente a 30–32 °C y asegure agua fresca limpia."
+                    },
+                    {
+                        "name": "Tarde: Mantenimiento del sustrato de excavación y limpieza",
+                        "text": "Mantenga entre 5 y 8 cm de viruta de álamo para que pueda cavar túneles estables y limpie los desechos al instante."
+                    },
+                    {
+                        "name": "Noche: Alimentación con roedor descongelado y descanso",
+                        "text": "Ofrezca ratones descongelados del tamaño adecuado con pinzas de alimentación. No la manipule durante las 48 horas posteriores."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es venenosa o peligrosa la Serpiente Hocico de Cerdito?",
+                        "answer": "Posee un veneno leve en sus colmillos traseros, inofensivo para humanos no alérgicos. Solo causa una leve inflamación local en picaduras prolongadas, pero al ser dóciles, las mordeduras son extremadamente raras."
+                    },
+                    {
+                        "question": "¿Qué hacer si la serpiente rechaza el alimento (huelga de hambre)?",
+                        "answer": "Asegúrese de que el punto cálido esté a 30–32 °C y aumente la profundidad del sustrato. Si insiste en no comer, impregnar el ratón con jugo de atún o aroma de rana (scenting) suele activar su instinto de caza."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin de la Couleuvre à Nez Retroussé : Substrat pour fouir, températures et routine en 3 étapes",
+                "description": "Soins essentiels pour la charmante Couleuvre à Nez Retroussé (Hognose). Apprenez a installer le substrat en copeaux de tremble, gérer le gradient thermique et nourrir votre serpent en toute sécurité.",
+                "authority": "Directives de la United States Association of Reptile Keepers (USARK) et de l'International Herpetological Society (IHS)",
+                "profile": {
+                    "breed": "Couleuvre à Nez Retroussé / Hognose (Heterodon nasicus)",
+                    "lifespan": "15 ~ 20 ans",
+                    "sleep_pattern": "10 ~ 12 heures (diurne/crépusculaire : se cache sous le gradient thermique)",
+                    "temperament": "Curieuse, théâtrale (simulations défensives), docile à la manipulation, active"
+                },
+                "intro": "La Couleuvre à Nez Retroussé (Heterodon nasicus), ou Hognose, est célèbre dans le monde entier pour son museau retroussé et ses comportements défensifs théâtraux. Lorsqu'elle se sent menacée, elle aplatit son cou comme un cobra ou se retourne sur le dos pour faire la morte (thanatose). Fouisseuse naturelle, il est vital de lui fournir une couche épaisse de copeaux de tremble (aspen) pour qu'elle puisse creuser des galeries. Un gradient thermique strict est également essentiel à sa digestion. Aujourd'hui sur PetSelf, nous décryptons ses signaux et vous présentons une routine en 3 étapes.",
+                "whyTitle": "Instincts du Hognose : Fouir avec le museau et faire le mort (Thanatose)",
+                "whyDesc": "L'écaille rostrale relevée du Hognose a évolué pour lui permettre de creuser la terre à la recherche de crapauds. Face au danger, le serpent aplatit son cou. Si la menace persiste, il se retourne sur le dos, la gueule ouverte, sécrétant une odeur désagréable dans une réaction appelée **'Thanatose'** (faire le mort).",
+                "body_signals": [
+                    {
+                        "name": "Aplatissement du cou et sifflement (Simulation Cobra)",
+                        "meaning": "Élargir les écailles du cou pour paraître plus grand tout en sifflant ; il s'agit d'une posture de bluff défensif et non d'une attaque.",
+                        "response": "Conservez votre calme, évitez les gestes brusques et prenez-le doucement par en dessous pour le rassurer."
+                    },
+                    {
+                        "name": "Se retourner sur le dos (Faire le mort / Thanatose)",
+                        "meaning": "Réponse instinctive face à un stress extrême, simulant la mort pour décourager les prédateurs.",
+                        "response": "Cessez immédiatement toute manipulation et laissez le serpent dans un endroit sombre et calme pour réduire son stress."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification du point chaud (30–32 °C) et point frais (21–24 °C)",
+                        "text": "Vérifiez que les tapis ou thermostats maintiennent le point chaud entre 30 et 32 °C et fournissez de l'eau propre."
+                    },
+                    {
+                        "name": "Après-midi : Entretien du substrat de tremble et nettoyage ciblé",
+                        "text": "Conservez 5 à 8 cm de copeaux de tremble pour lui permettre de creuser ses galeries et retirez immédiatement les déjections."
+                    },
+                    {
+                        "name": "Soir : Repas de rongeur décongelé et repos digestif",
+                        "text": "Proposez une souris décongelée adaptée à l'aide d'une pince. Ne manipulez pas le serpent pendant les 48 heures suivant le repas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le serpent Hognose est-il venimeux ou dangereux pour l'homme ?",
+                        "answer": "Il possède un venin très léger produit par ses dents arrière (opisthoglyphe), inoffensif pour l'humain non allergique. Les morsures sont extrêmement rares en raison de son tempérament très dociile."
+                    },
+                    {
+                        "question": "Que faire si mon Hognose refuse de manger ?",
+                        "answer": "Vérifiez d'abord que le point chaud atteint bien 30–32 °C et augmentez la profondeur du substrat. Si le refus persiste, frotter le rongeur avec du jus de thon ou une odeur de grenouille (scenting) permet souvent de déclencher l'appétit."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Westliche Hakennasennatter Pflege-Leitfaden: Grab-Substrat, Wärmezonen & 3-Schritt-Fütterungsroutine",
+                "description": "Essenzielle Pflege für die niedliche Westliche Hakennasennatter. Erfahren Sie, wie Sie Aspen-Substrat einrichten, Wärmezonen steuern und Fütterungen sicher gestalten.",
+                "authority": "Standards der United States Association of Reptile Keepers (USARK) & Richtlinien der IHS",
+                "profile": {
+                    "breed": "Westliche Hakennasennatter (Heterodon nasicus)",
+                    "lifespan": "15 ~ 20 Jahre",
+                    "sleep_pattern": "10 ~ 12 Stunden (tagaktiv/dämmerungsaktiv - gräbt unter Wärmequelle)",
+                    "temperament": "Neugierig, dramatisch (Abwehr-Show), friedlich bei Haltung, aktiv"
+                },
+                "intro": "Die Westliche Hakennasennatter (Heterodon nasicus) ist weltweit bekannt für ihre aufgeworfene Schnauze und ihr dramatisches Abwehrverhalten. Bei Bedrohung zeigt sie theatralische Shows wie das Abflachen des Halses nach Kobra-Art oder das Sich-Totstellen (Thanatose). Da sie von Natur aus gerne gräbt, ist eine dicke Schicht Aspen-Einstreu (Einstreu aus Weichholz/Esche), die Tunnelformen hält, unerlässlich. Ein präzises Temperaturgefälle ist ebenso wichtig für Verdauung und Gesundheit. Heute analysiert PetSelf ihre Signale und zeigt eine 3-Schritt-Routine.",
+                "whyTitle": "Instinkte der Hakennasennatter: Graben mit der Schnauze und Totstellen (Thanatose)",
+                "whyDesc": "Die aufgeworfene Schnauze ist eine Anpassung zum Graben nach Kröten im Boden. Bei Gefahr flacht die Natter ihren Hals ab. Bleibt die Bedrohung bestehen, dreht sie sich auf den Rücken, öffnet das Maul und stinkt – eine Abwehrreaktion namens **'Thanatose'** (Totstellen).",
+                "body_signals": [
+                    {
+                        "name": "Hals abflachen & Zischen (Kobra-Show)",
+                        "meaning": "Verbreitern der Halsschuppen zur optischen Vergrößerung mit Fauchen; dient der Abschreckung, nicht einem echten Angriff.",
+                        "response": "Ruhig bleiben, keine hektischen Bewegungen machen und das Tier sanft von unten anheben."
+                    },
+                    {
+                        "name": "Auf den Rücken drehen & Maul öffnen (Totstellen / Thanatose)",
+                        "meaning": "Instinktive Reaktion bei extremem Stress, bei der das Tier Totsein vortäuscht, um Feinde abzuschrecken.",
+                        "response": "Sofort jegliches Handling beenden und die Schlange im dunklen, ruhigen Terrarium entspannen lassen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wärmezone (30–32 °C) & Kühle Zone (21–24 °C) prüfen",
+                        "text": "Überprüfen Sie Heizmatten/Strahler auf 30–32 °C am Sonnenplatz und stellen Sie frisches Wasser bereit."
+                    },
+                    {
+                        "name": "Nachmittag: Grab-Substrat pflegen & Säubern",
+                        "text": "Halten Sie 5–8 cm Aspen-Einstreu bereit, damit Tunnel gebaut werden können, und entfernen Sie Kot umgehend."
+                    },
+                    {
+                        "name": "Abend: Aufgetaute Maus füttern & Ruhephase",
+                        "text": "Füttern Sie eine aufgetaute Maus passender Größe mit einer Pinzette. Nach dem Füttern 48 Stunden nicht händeln."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist die Hakennasennatter giftig oder gefährlich für Menschen?",
+                        "answer": "Sie besitzt ein sehr mildes Truggift an den hinteren Zähnen, das für Nicht-Allergiker völlig harmlos ist. Da sie sehr friedlich sind, kommen Bisse bei der Pflege extrem selten vor."
+                    },
+                    {
+                        "question": "Was tun, wenn die Hakennasennatter das Futter verweigert?",
+                        "answer": "Prüfen Sie, ob die Wärmezone warm genug ist (30–32 °C) und bieten Sie mehr Einstreu. Bei anhaltender Verweigerung hilft das Beträufeln der Maus mit Thunfischsaft (Scenting)."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidados da Cobra-Focinho-de-Porco Ocidental: Substratos para escavar, temperaturas e rotina de 3 passos",
+                "description": "Cuidados essenciais para a adorável cobra-focinho-de-porco ocidental. Aprenda a instalar o substrato de álamo, manter gradientes térmicos e gerir alimentações seguras.",
+                "authority": "Diretrizes da United States Association of Reptile Keepers (USARK) e da International Herpetological Society (IHS)",
+                "profile": {
+                    "breed": "Cobra-Focinho-de-Porco Ocidental (Heterodon nasicus)",
+                    "lifespan": "15 ~ 20 anos",
+                    "sleep_pattern": "10 ~ 12 horas (diurna/crepuscular: escava sob o gradiente térmico)",
+                    "temperament": "Curiosa, dramática (encenações defensivas), dócil ao manusear, ativa"
+                },
+                "intro": "A Cobra-Focinho-de-Porco Ocidental (Heterodon nasicus) é famosa no mundo inteiro pelo seu focinho arrebitado e comportamentos defensivos dramáticos. Quando se sente ameaçada, achata o pescoço como uma cobra ou vira-se ao contrário para fingir de morta (tanatose). Como escavadora nata, é essencial fornecer uma camada funda de aparas de álamo (aspen) que mantenha a forma dos túneis. Um gradiente térmico preciso é igualmente vital para a digestão. Hoje no PetSelf, analisamos os seus sinais e partilhamos uma rotina de 3 passos.",
+                "whyTitle": "Instintos da Focinho-de-Porco: Escavar com o focinho e fingir de morta (Tanatose)",
+                "whyDesc": "A escama rostral levantada evoluiu para escavar a terra à procura de sapos. Perante perigo, achata o pescoço para intimidar. Se a ameaça continuar, vira-se de barriga para cima e deita a língua fora numa reação chamada **'Tanatose'** (fingir de morta).",
+                "body_signals": [
+                    {
+                        "name": "Achetar o pescoço e sibilar (Encenação Cobra)",
+                        "meaning": "Alargar as escamas do pescoço para parecer maior enquanto sibila; é um aviso defensivo e não intenção de ataque.",
+                        "response": "Mantenha a calma, evite movimentos bruscos e pegue nela suavemente por baixo para dar segurança."
+                    },
+                    {
+                        "name": "Virar de barriga para cima (Fingir de morta / Tanatose)",
+                        "meaning": "Resposta instintiva perante um stresse extremo, fingindo estar morta para afastar predadores.",
+                        "response": "Pare imediatamente o manuseamento e deixe a cobra num local escuro e calmo para reduzir o stresse."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Verificação da Zona Quente (30–32 °C) e Zona Fria (21–24 °C)",
+                        "text": "Confirme se os tapetes ou lâmpadas mantêm o ponto quente a 30–32 °C e forneça água fresca limpa."
+                    },
+                    {
+                        "name": "Tarde: Manutenção do substrato de escavação e limpeza",
+                        "text": "Mantenha 5 a 8 cm de aparas de álamo para que possa cavar túneis e limpe os dejetos imediatamente."
+                    },
+                    {
+                        "name": "Noite: Alimentação com roedor descongelado e descanso",
+                        "text": "Ofereça um ratinho descongelado de tamanho adequado com pinça. Não manuseie a cobra durante 48 horas após a refeição."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A Cobra-Focinho-de-Porco é venenosa ou perigosa para humanos?",
+                        "answer": "Possui um veneno leve nos dentes traseiros, inofensivo para humanos não alérgicos. Como são dóceis, as picadas são extremamente raras no manuseamento diário."
+                    },
+                    {
+                        "question": "O que fazer se a cobra recusar comida?",
+                        "answer": "Verifique se a zona quente está a 30–32 °C e aumente a profundidade do substrato. Se recusar, esfregar o rato com sumo de atum (scenting) costuma despertar o apetite."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Ular Hognose Barat: Substrat Gali, Suhu Zona Panas & Rutinitas 3 Langkah",
+                "description": "Perawatan esensial untuk Ular Hognose Barat yang menggemaskan. Pelajari cara menyiapkan substrat serbuk kayu aspen, menjaga gradien suhu, dan mengelola pakan.",
+                "authority": "Panduan United States Association of Reptile Keepers (USARK) & International Herpetological Society (IHS)",
+                "profile": {
+                    "breed": "Ular Hognose Barat (Heterodon nasicus)",
+                    "lifespan": "15 ~ 20 tahun",
+                    "sleep_pattern": "10 ~ 12 jam (diurnal/crepuscular - menggali di bawah gradien suhu)",
+                    "temperament": "Penasaran, dramatis (Gertakan pertahanan), jinak saat dipegang, aktif"
+                },
+                "intro": "Ular Hognose Barat (Heterodon nasicus) terkenal di dunia berkat moncongnya yang melengkung ke atas dan perilaku pertahanannya yang dramatis. Saat terancam, mereka akan melebarkan lehernya seperti kobra atau berguling telentang untuk pura-pura mati (tanatosis). Sebagai penggali alami, menyediakan lapisan serbuk kayu aspen yang tebal sangat penting agar terowongan tidak runtuh. Menjaga suhu zona panas dan dingin yang presisi juga penting untuk pencernaannya. Hari ini di PetSelf, kami membedah sinyal instingnya dan membagikan 3 langkah rutinitas harian.",
+                "whyTitle": "Insting Hognose Barat: Menggali dengan Moncong dan Pura-Pura Mati (Tanatosis)",
+                "whyDesc": "Moncong melengkung ular Hognose berevolusi untuk menggali tanah mencari katak. Jika merasa terancam, mereka memipihkan lehernya. Jika ancaman berlanjut, mereka berguling telentang, menjulurkan lidah, dan mengeluarkan bau busuk—pertahanan alami yang disebut **'Tanatosis'** (pura-pura mati).",
+                "body_signals": [
+                    {
+                        "name": "Memipihkan Leher & Mendesis (Gertakan Kobra)",
+                        "meaning": "Melebarkan sisik leher agar terlihat lebih besar sambil mendesis; ini adalah gertakan pertahanan, bukan niat menyerang.",
+                        "response": "Tetap tenang, hindari gerakan mendadak, dan angkat tubuhnya dari bawah secara perlahan untuk memberinya rasa aman."
+                    },
+                    {
+                        "name": "Berguling Telentang (Pura-Pura Mati / Tanatosis)",
+                        "meaning": "Respon pertahanan naluriah saat stres berat, berpura-pura mati untuk mengusir pemangsa.",
+                        "response": "Segera hentikan penanganan dan tinggalkan ular di tempat yang gelap dan tenang agar stresnya mereda."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Zona Panas (30–32°C) & Zona Dingin (21–24°C)",
+                        "text": "Pastikan pemanas menjaga titik hangat di suhu 30–32°C dan sediakan air minum bersih."
+                    },
+                    {
+                        "name": "Siang: Perawatan Substrat Gali (Serbuk Aspen) & Pembersihan Spot",
+                        "text": "Jaga ketebalan serbuk kayu aspen 5–8 cm agar ular bisa menggali terowongan, dan segera bersihkan kotoran."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Mencit Bekas & Istirahat",
+                        "text": "Berikan mencit beku yang sudah dicairkan menggunakan pinset. Jangan memegang ular selama 48 jam setelah makan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah Ular Hognose Barat berbisa atau berbahaya bagi manusia?",
+                        "answer": "Ular ini memiliki bisa sangat ringan di taring belakang yang tidak berbahaya bagi manusia non-alergi. Sifatnya jinak sehingga gigitan sangat jarang terjadi."
+                    },
+                    {
+                        "question": "Apa yang harus dilakukan jika Ular Hognose mogok makan?",
+                        "answer": "Pastikan suhu zona panas sudah sesuai (30–32°C) dan tambahkan ketebalan substrat. Jika tetap menolak, mengoleskan kaldu tuna pada mencit (scenting) bisa memancing nafsu makannya."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/western_hognose_snake_care.webp"
+    }
+}

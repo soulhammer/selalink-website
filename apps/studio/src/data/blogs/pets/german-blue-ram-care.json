@@ -1,0 +1,459 @@
+{
+    "german-blue-ram-care": {
+        "pubDate": "2026-03-18",
+        "updatedDate": "2026-03-18",
+        "locales": {
+            "ko": {
+                "title": "저먼 블루 람 약산성 수질 관리법과 영역 완화·짝짓기 행동 3단계 일상 루틴",
+                "description": "아름다운 소형 시클리드 저먼 블루 람. 약산성~중성 수질과 따뜻한 수온 유지, 영역 완화를 위한 수초 세팅 및 산란기 케어 3단계 가이드라인을 제공합니다.",
+                "authority": "국제관상어협회(OFI) 사육 표준 및 세계수생수의학회(WAVMA) 가이드라인",
+                "profile": {
+                    "breed": "저먼 블루 람 (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4년",
+                    "sleep_pattern": "8 ~ 10시간 (야간 소등 후 수초 사이나 바닥재 부근에서 정지 휴식)",
+                    "temperament": "평화로움(소형 시클리드 중 온순함), 영역 의식 있음(산란기), 쌍 유대감 강함, 호기심 많음"
+                },
+                "intro": "저먼 블루 람(German Blue Ram)은 보석처럼 알록달록한 화려한 채색과 수초 어항 속에서의 우아한 헤엄으로 전 세계 열대어 애호가들에게 사랑받는 남미 원산의 소형 시클리드입니다. 일반적인 대형 시클리드와 달리 성격이 비교적 순하고 체장이 5~7cm 정도로 작아 수초 어항의 마스코트로 인기가 높습니다. 하지만 질산염과 질병에 민감하여 약산성~중성의 깨끗한 수질과 따뜻한 수온(26~30°C) 유지가 필수적입니다. 또한 산란기에는 고유의 영역 경계 행동을 보이므로 수초와 유목으로 시선을 차단해 주는 환경 조성이 중요합니다. 오늘 PetSelf에서는 저먼 블루 람의 본능적 감정 시그널을 분석하고, 수질 관리와 영역 평화, 짝짓기 케어를 위한 3단계 일상 루틴을 공개합니다.",
+                "whyTitle": "저먼 블루 람의 본능: 지느러미 펼치기(Flaring)와 평평한 돌 닦기 시그널",
+                "whyDesc": "저먼 블루 람은 영역을 주장하거나 암컷에게 구애할 때 등지느러미와 배지느러미를 넓게 펼치고 색상을 화려하게 발색시키는 **'플레어링(Flaring)'** 동작을 취합니다. 한편 암수가 쌍을 이루어 산란기가 되면 평평한 돌이나 유목 표면을 입으로 깨끗이 닦아내거나 바닥재를 파내는 산란터 준비 행동을 보입니다.",
+                "body_signals": [
+                    {
+                        "name": "지느러미 넓게 펼치기 및 발색 강화 (Fin Flaring)",
+                        "meaning": "지느러미를 최대로 펼치고 네온 블루빛 발색을 강하게 내뿜는 행동으로, 자신의 영역을 경고하거나 암컷에게 구애하는 건강한 에너지 표시입니다.",
+                        "response": "동종 간 과도한 다툼이 일어나지 않도록 수초나 유목 구조물로 시선을 차단해 줍니다."
+                    },
+                    {
+                        "name": "평평한 돌·유목 표면 닦기 (Substrate & Rock Cleaning)",
+                        "meaning": "산란기가 가까워졌을 때 알을 붙일 장소를 입으로 입자로 문질러 깨끗하게 청소하는 본능적인 산란 준비 신호입니다.",
+                        "response": "수질이 오염되지 않도록 청결을 유지하고 쌍의 산란 활동을 방해하지 않도록 관찰합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(26~30°C) 및 약산성 pH(6.0~7.0) 점검과 침강성 사료 제공",
+                        "text": "히터 가동 상태와 수온을 체크하고, 소형 시클리드 전용 침강성 고단백 사료나 생먹이(브라인쉬림프 등)를 정량 급여합니다."
+                    },
+                    {
+                        "name": "낮: 수초 구조물 영역 차단 상태 점검 및 질산염 수치 관리",
+                        "text": "개체 간 영역 싸움을 줄이기 위해 수초와 유목 배치를 확인하고, 질산염에 민감하므로 부분 환수(10~20%)를 정기적으로 시행합니다."
+                    },
+                    {
+                        "name": "밤: 암수 쌍 유대감 관찰 및 정기적 야간 소등(8~10시간)",
+                        "text": "쌍을 이룬 개체의 합사 상태를 관찰하고, 스트레스 방지를 위해 어항 조명을 꺼서 안락한 야간 휴식 환경을 조성합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "저먼 블루 람은 다른 열대어와 함께 키우기(합사) 좋은가요?",
+                        "answer": "네, 저먼 블루 람은 소형 시클리드 중 온순한 편에 속해 테트라류, 구라미, 코리도라스 등과 합사가 잘 됩니다. 단, 산란기에는 산란터 주변에 다가오는 고기를 강하게 밀어낼 수 있으므로 수초와 유목으로 시선을 차단해 주는 어항 세팅이 권장됩니다."
+                    },
+                    {
+                        "question": "저먼 블루 람을 건강하게 키우기 위한 가장 중요한 수질 조건은 무엇인가요?",
+                        "answer": "가장 중요한 요소는 따뜻한 수온(26~30°C)과 약산성~중성(pH 6.0~7.0)의 여과된 수질입니다. 저먼 블루 람은 암모니아와 질산염 수치에 매우 민감하므로 여과력을 높이고 매주 주기적인 환수를 시행해야 발색과 건강을 유지할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "German Blue Ram Care Guide: Soft Acidic Water Parameters, Aquascaping & 3-Step Routine",
+                "description": "Essential care for the stunning German Blue Ram dwarf cichlid. Learn how to maintain soft acidic water parameters, set up plant hideouts, and manage breeding behavior.",
+                "authority": "Ornamental Fish International (OFI) Standards & World Aquatic Veterinary Medical Association (WAVMA) Guidelines",
+                "profile": {
+                    "breed": "German Blue Ram (Mikrogeophagus ramirezi)",
+                    "lifespan": "2 - 4 Years",
+                    "sleep_pattern": "8 - 10 Hours (Rests quietly near bottom or plants after lights-out)",
+                    "temperament": "Peaceful (Dwarf Cichlid), Territorial during breeding, Monogamous pair bonds, Curious"
+                },
+                "intro": "The German Blue Ram (Mikrogeophagus ramirezi) is a South American dwarf cichlid celebrated worldwide for its vibrant, jewel-like coloration and graceful swimming among aquascapes. Reaching just 5 to 7 cm in length, they possess a peaceful nature compared to larger cichlids, making them popular tank centerpieces. However, they are sensitive to nitrates and poor water quality, requiring warm temperatures (26–30°C) and clean, soft, slightly acidic water (pH 6.0–7.0). During breeding, they display distinct territorial behaviors, making plants and driftwood structures essential to break line-of-sight. Today on PetSelf, we decode their instinctive signals and share a 3-step homecare routine for water stability, territory peace, and pairing care.",
+                "whyTitle": "German Blue Ram Instincts: Fin Flaring and Substrate Cleaning Signals",
+                "whyDesc": "German Blue Rams display a behavior called **'Flaring'**, spreading their dorsal and pelvic fins wide while intensifying their neon blue colors to assert territory or court a partner. When a pair forms, they instinctively pick and clean flat rocks or wood with their mouths to prepare a spawning site.",
+                "body_signals": [
+                    {
+                        "name": "Fin Flaring & Color Intensification",
+                        "meaning": "Extending fins fully while glowing with bright neon blue hues, signaling territorial boundary warnings or healthy courtship.",
+                        "response": "Ensure adequate aquatic plants and driftwood hideouts to prevent excessive aggression between individuals."
+                    },
+                    {
+                        "name": "Rock & Substrate Cleaning",
+                        "meaning": "Nipping and cleaning flat rock or driftwood surfaces when spawning is imminent, signaling active breeding preparation.",
+                        "response": "Maintain pristine water quality and avoid disturbing the pair during their spawning process."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (26–30°C) & pH Check with High-Protein Feeding",
+                        "text": "Verify warm water temperatures and soft acidic pH (6.0–7.0), then feed slow-sinking dwarf cichlid pellets or live/frozen brine shrimp."
+                    },
+                    {
+                        "name": "Afternoon: Aquascape Hideout Inspection & Nitrate Maintenance",
+                        "text": "Check that plants and driftwood break line-of-sight between territories, and perform small partial water changes (10–20%) to keep nitrates low."
+                    },
+                    {
+                        "name": "Evening: Pair Bonding Observation & Scheduled Lights-Out",
+                        "text": "Observe pairing behavior and turn off aquarium lights on a fixed schedule (8–10 hours of darkness) to promote stress-free rest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can German Blue Rams be kept in a community tank?",
+                        "answer": "Yes. German Blue Rams are peaceful dwarf cichlids that do very well with tetras, gouramis, and corydoras. However, they can defend their spawning site during breeding, so providing dense plants and driftwood to divide territories is recommended."
+                    },
+                    {
+                        "question": "What are the most critical water parameter requirements for German Blue Rams?",
+                        "answer": "Warm water (26–30°C) and soft, slightly acidic to neutral pH (6.0–7.0) are vital. Rams are extremely sensitive to ammonia and nitrates, requiring strong filtration and regular partial water changes to maintain their health and vibrant colors."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ジャーマンブルーラムの弱酸性水質管理と縄張り緩和・ペアリング3ステップ日常ルーティン",
+                "description": "美しき小型シクリッド、ジャーマンブルーラム。弱酸性〜中性の水質と暖かい水温の維持、縄張り争いを防ぐ水草レイアウトと産卵期ケアの3ステップガイドを解説します。",
+                "authority": "国際観賞魚協会（OFI）飼育基準および世界水生獣医学会（WAVMA）ガイドライン",
+                "profile": {
+                    "breed": "ジャーマンブルーラム (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 〜 4年",
+                    "sleep_pattern": "8 〜 10時間 (夜間消灯後は水草の隙間や底床付近で静止して休息)",
+                    "temperament": "平和的（小型シクリッドの中では温和）、縄張り意識あり（産卵期）、ペアの絆が強い、好奇心旺盛"
+                },
+                "intro": "ジャーマンブルーラム（Mikrogeophagus ramirezi）は、宝石のように鮮やかな体色と水草水槽での優雅な泳ぎで世界中の熱帯魚ファンに愛される南米原産の小型シクリッドです。一般的な大型シクリッドと異なり温和な性格で体長も5〜7cmほどと小ぶりなため、水草水槽の主役として人気があります。しかし硝酸塩や病気に繊細なため、弱酸性〜中性のきれいな水質と高めの水温（26〜30℃）の維持が不可欠です。また産卵期には縄張り主張を行うため、水草や流木で視線を遮る環境作りが重要です。本日はPetSelfがボディーサインを分析し、水質・縄張り・ペアリングのための3ステップ日常ルーティンを公開します。",
+                "whyTitle": "ジャーマンブルーラムの本能：ヒレ広げ（Flaring）と産卵場所の清掃",
+                "whyDesc": "ジャーマンブルーラムは縄張りを主張したり求愛する際、背ヒレや腹ヒレを大きく広げてネオンブルーの体色を強める**「フレアリング（Flaring）」**を行います。またペアが成立して産卵期に入ると、平らな石や流木の表面を口で綺麗に掃除する行動を見せます。",
+                "body_signals": [
+                    {
+                        "name": "ヒレを広げて発色を強める (Fin Flaring)",
+                        "meaning": "ヒレを限界まで広げ青い輝きを強める行動で、縄張りの警戒やメスへの求愛を示す健康的なエネルギーの表現です。",
+                        "response": "個体間の過度な争いを防ぐため、水草や流木で隠れ家を作り視線を遮ってあげます。"
+                    },
+                    {
+                        "name": "平らな石や流木の清掃 (Rock & Substrate Cleaning)",
+                        "meaning": "産卵が近づいた際、卵を産み付ける場所を口でつついて綺麗にする本能的な準備行動です。",
+                        "response": "水質を清潔に保ち、ペアの産卵行動を脅かさないよう静かに見守ります。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温(26〜30℃)・弱酸性pH(6.0〜7.0)チェックと沈下性フード給餌",
+                        "text": "ヒーターの作動と水温を確認し、小型シクリッド用の沈下性フードやブラインシュリンプを与えます。"
+                    },
+                    {
+                        "name": "昼：水草レイアウトの確認と硝酸塩濃度の管理",
+                        "text": "縄張り争いを減らすため水草や流木の配置を確認し、硝酸塩に敏感なため定期的な水換え（10〜20%）を行います。"
+                    },
+                    {
+                        "name": "夜：ペアの観察と定刻通りの消灯（8〜10時間）",
+                        "text": "ペアの相性を確認し、ストレス防止のため水槽の照明を消して十分な夜間休息環境を作ります。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ジャーマンブルーラムは他の熱帯魚と混泳できますか？",
+                        "answer": "はい。小型シクリッドの中では温和なため、テトラ類やコリドラス等と混泳可能です。ただし産卵期は縄張り意識が強くなるため、水草や流木を十分に配置して隠れ家を作ることが推奨されます。"
+                    },
+                    {
+                        "question": "健康に育てるための最も重要な水質条件は何ですか？",
+                        "answer": "暖かめの水温（26〜30℃）と弱酸性〜中性（pH 6.0〜7.0）の綺麗な水質です。アンモニアや硝酸塩に非常に敏感なため、ろ過を効かせ定期的な水換えを行うことが鮮やかな発色の維持につながります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "德国蓝鹦鹉（荷兰凤凰）弱酸性水质护理指南与领地缓解·配对3阶段日常流程",
+                "description": "针对绚丽小型慈鲷德国蓝鹦鹉（荷兰凤凰/Mikrogeophagus ramirezi）的核心护理指南。提供弱酸性至中性水质及高温维持、水草造景隐蔽与繁殖期护理3阶段流程。",
+                "authority": "国际观赏鱼协会 (OFI) 饲养标准与世界水生兽医学会 (WAVMA) 指南",
+                "profile": {
+                    "breed": "德国蓝鹦鹉 / 荷兰凤凰 (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4年",
+                    "sleep_pattern": "8 ~ 10小时 (夜间熄灯后在水草丛或底沙附近静止休息)",
+                    "temperament": "和平（小型慈鲷中较为温和）、有领地意识（繁殖期）、配对忠诚度高、好奇"
+                },
+                "intro": "德国蓝鹦鹉（荷兰凤凰 / German Blue Ram）原产于南美洲，凭其宝石般艳丽的色彩和在水草缸中优雅的游姿而风靡全球。不同于大型慈鲷，它们体长仅5~7厘米，性格相对温和，是草缸中备受瞩目的明星鱼种。然而，它们对硝酸盐和水质波动非常敏感，必须维持弱酸性至中性（pH 6.0-7.0）的高水质与较暖水温（26-30°C）。此外，繁殖期它们会展现出领地护卫行为，因此利用水草和沉木阻隔视线至关重要。今天 PetSelf 将解析其本能信号，并公开水质控温、领地和平与繁殖护理的3阶段日常流程。",
+                "whyTitle": "德国蓝鹦鹉的本能：展鳍（Flaring）与清理平坦石块信号",
+                "whyDesc": "德国蓝鹦鹉在宣示领地或向雌鱼求偶时，会展开背鳍与腹鳍，强化体表霓虹蓝色的光泽，这一动作称为**“展鳍（Flaring）”**。而当雌雄配对成功进入繁殖期时，它们会用嘴啄洗平坦的石块或沉木表面，为产卵清理场地。",
+                "body_signals": [
+                    {
+                        "name": "展鳍与体色加深 (Fin Flaring)",
+                        "meaning": "舒展鳍条并发出强烈的蓝色荧光，属于警告同类入侵或向雌鱼求偶的健康精力展示。",
+                        "response": "提供丰富的水草与沉木遮挡视线，避免同种过度追逐打斗。"
+                    },
+                    {
+                        "name": "啄洗石块与底沙 (Rock & Substrate Cleaning)",
+                        "meaning": "临近产卵时用嘴啄洗平坦石块或沉木表面的清洁行为，代表即将产卵。",
+                        "response": "保持水质极其洁净，避免打扰配对鱼的产卵过程。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温(26-30°C)与pH(6.0-7.0)检查及沉底高蛋白喂食",
+                        "text": "检查加热棒与水温，喂食小型慈鲷专用沉底缓沉饲料或丰年虾。"
+                    },
+                    {
+                        "name": "中午：水草障碍检查与硝酸盐浓度控制",
+                        "text": "确认水草与沉木能够有效分割领地视线，并定期适量换水（10-20%）以降低硝酸盐。"
+                    },
+                    {
+                        "name": "晚上：配对状态观察与定时熄灯（8-10小时）",
+                        "text": "观察配对鱼只的相处情况，并在固定时间关闭水缸照明，保证其充足的夜间休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "德国蓝鹦鹉适合与其它热带鱼混养吗？",
+                        "answer": "适合。德国蓝鹦鹉属于温和的小型慈鲷，可与灯鱼、孔雀鱼、鼠鱼等混养。但在繁殖期它们会保护产卵区，因此缸内需种植密集水草和沉木以分割领地。"
+                    },
+                    {
+                        "question": "饲养德国蓝鹦鹉最重要的水质条件是什么？",
+                        "answer": "较暖的水温（26-30°C）以及弱酸性至中性（pH 6.0-7.0）的软水环境。它们对氨和硝酸盐极度敏感，建立强大的过滤系统并定期换水是维持发色与健康的关键。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado del Cíclido Ramirezi Azul: Parámetros de agua ácida, paisajismo y rutina de 3 pasos",
+                "description": "Cuidados esenciales para el hermoso cíclido enano Ramirezi Azul (German Blue Ram). Aprenda a mantener agua blanda y suavemente ácida, configurar refugios de plantas y gestionar su reproducción.",
+                "authority": "Estándares de la Ornamental Fish International (OFI) y Pautas de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Cíclido Ramirezi Azul (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4 años",
+                    "sleep_pattern": "8 ~ 10 horas (descansa cerca del fondo o entre plantas tras apagar luces)",
+                    "temperament": "Pacífico (cíclido enano), territorial en reproducción, monogámico, curioso"
+                },
+                "intro": "El Cíclido Ramirezi Azul (Mikrogeophagus ramirezi) es un cíclido enano sudamericano venerado por su deslumbrante coloración azul neón. Con un tamaño de solo 5 a 7 cm, posee un carácter mucho más pacífico que los cíclidos grandes, siendo ideal para acuarios plantados. Sin embargo, es sensible a los nitratos y al agua deteriorada, necesitando temperaturas cálidas (26–30 °C) y agua blanda y suavemente ácida (pH 6.0–7.0). Durante la época de cría, muestran territorialidad, por lo que las plantas y troncos son cruciales para romper la línea de visión. Hoy en PetSelf, desciframos sus señales e identificamos una rutina de 3 pasos.",
+                "whyTitle": "Instintos del Ramirezi Azul: Despliegue de aletas (Flaring) y limpieza de piedras",
+                "whyDesc": "Los Ramírezis exhiben el comportamento de **'Flaring'**, desplegando sus aletas e intensificando sus colores azul neón para delimitar su territorio o cortejar. Al formar pareja, limpian con la boca rocas planas o troncos para preparar la puesta de huevos.",
+                "body_signals": [
+                    {
+                        "name": "Despliegue de aletas e intensidad de color (Fin Flaring)",
+                        "meaning": "Extender aletas al máximo con destellos azul neón, marcando límites territoriales o realizando el cortejo.",
+                        "response": "Asegure suficientes plantas y troncos para evitar persecuciones excesivas entre ejemplares."
+                    },
+                    {
+                        "name": "Limpieza de rocas y sustrato",
+                        "meaning": "Morder y limpiar superficies planas de piedras o madera cuando la puesta es inminente.",
+                        "response": "Mantenga la calidad del agua impecable y evite molestar a la pareja durante la freza."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (26–30 °C), pH y alimentación alta en proteína",
+                        "text": "Verifique el agua cálida y pH ácido (6.0–7.0), ofreciendo gránulos de hundimiento lento para cíclidos enanos o artemia."
+                    },
+                    {
+                        "name": "Tarde: Inspección del acuario plantado y control de nitratos",
+                        "text": "Compruebe que las plantas dividan visualmente los territorios y realice cambios parciales de agua (10–20%) regularmente."
+                    },
+                    {
+                        "name": "Noche: Observación de parejas y apagado programado de luces",
+                        "text": "Observe el comportamiento de las parejas y apague las luces del acuario para asegurar de 8 a 10 horas de descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puede habitar el Ramirezi Azul en un acuario comunitario?",
+                        "answer": "Sí. Es un cíclido enano pacífico que convive muy bien con tetras, guramis y corydoras. En época de cría defenderán su zona de puesta, por lo que disponer de un acuario bien plantado con troncos es muy aconsejable."
+                    },
+                    {
+                        "question": "¿Cuáles son los parámetros de agua más críticos para el Ramirezi Azul?",
+                        "answer": "Agua cálida (26–30 °C) y blanda/ácida (pH 6.0–7.0). Son extremadamente sensibles al amonio y nitratos, requiriendo buena filtración y cambios de agua parciales periódicos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin du Cichlidé Ramirezi : Eau douce acide, aquascaping et routine en 3 étapes",
+                "description": "Soins essentiels pour le magnifique cichlidé nain Ramirezi (German Blue Ram). Apprenez à maintenir une eau douce et légèrement acide, créer des cachettes et gérer la ponte.",
+                "authority": "Normes de l'Ornamental Fish International (OFI) et directives de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Ramirezi / Cichlidé Enano (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4 ans",
+                    "sleep_pattern": "8 ~ 10 heures (repose près du sol ou dans les plantes après l'extinction des feux)",
+                    "temperament": "Paisible (cichlidé nain), territorial en période de ponte, monogame, curieux"
+                },
+                "intro": "Le Ramirezi (Mikrogeophagus ramirezi) est un cichlidé nain d'Amérique du Sud célèbre pour sa coloration bleu néon étincelante. Mesurant de 5 à 7 cm, il est beaucoup plus paisible que les grands cichlidés, ce qui en fait un poisson très prisé pour les bacs plantés. Néanmoins, il est sensible aux nitrates et nécessite une eau chaude (26–30 °C) et douce, légèrement acide (pH 6.0–7.0). En période de reproduction, il défend son territoire, d'où l'importance de planter le bac et d'ajouter des racines pour casser les lignes de vue. Aujourd'hui sur PetSelf, nous décryptons ses comportements et vous proposons une routine en 3 étapes.",
+                "whyTitle": "Instincts du Ramirezi : Parade des nageoires (Flaring) et nettoyage de pierres",
+                "whyDesc": "Le Ramirezi adopte la parade du **'Flaring'**, déployant ses nageoires et avivant ses couleurs bleu néon pour défendre son territoire ou séduire une femelle. Une fois le couple formé, ils nettoient minutieusement une pierre plate ou une racine avec leur bouche avant la ponte.",
+                "body_signals": [
+                    {
+                        "name": "Parade des nageoires et couleurs vives (Fin Flaring)",
+                        "meaning": "Déployer ses nageoires avec des reflets bleus intenses, marquant son territoire ou courtisant sa partenaire.",
+                        "response": "Offrez suffisamment de plantes et racines pour éviter les poursuites excessives."
+                    },
+                    {
+                        "name": "Nettoyage des pierres et du substrat",
+                        "meaning": "Nettoyer une surface plane avec sa bouche lorsque la ponte est imminente.",
+                        "response": "Maintenez une eau d'une propreté exemplaire et évitez de déranger le couple pendant la ponte."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification de la température (26–30 °C), du pH et nourriture protéinée",
+                        "text": "Contrôlez l'eau chaude et le pH acide (6.0–7.0), puis distribuez des granulés coulants pour cichlidés nains ou des artémias."
+                    },
+                    {
+                        "name": "Après-midi : Inspection du bac planté et contrôle des nitrates",
+                        "text": "Vérifiez que les plantes divisent bien le bac et effectuez des changements d'eau partiels (10–20%) réguliers."
+                    },
+                    {
+                        "name": "Soir : Observation des couples et extinction programmée des feux",
+                        "text": "Observez le comportement des couples et éteignez l'éclairage de l'aquarium pour garantir 8 à 10 heures de repos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le Ramirezi peut-il vivre en aquarium communautaire ?",
+                        "answer": "Oui. C'est un cichlidé nain paisible qui cohabite très bien avec les tétras, gouramis et corydoras. Pendant la ponte, il défend son nid, d'où la nécessité d'un bac bien planté avec des racines."
+                    },
+                    {
+                        "question": "Quelles sont les conditions d'eau les plus critiques pour le Ramirezi ?",
+                        "answer": "Une eau chaude (26–30 °C) et douce/acide (pH 6.0–7.0). Très sensible aux nitrates et à l'ammoniac, il nécessite une bonne filtration et des changements d'eau réguliers."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Schmetterlingsbuntbarsch Pflege-Leitfaden: Weiches saures Wasser, Aquascaping & 3-Schritt-Routine",
+                "description": "Essenzielle Pflege für den wunderschönen Schmetterlingsbuntbarsch (German Blue Ram). Erfahren Sie, wie Sie weiches saures Wasser halten, Verstecke schaffen und das Laichverhalten begleiten.",
+                "authority": "Standards von Ornamental Fish International (OFI) & Richtlinien der WAVMA",
+                "profile": {
+                    "breed": "Schmetterlingsbuntbarsch (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4 Jahre",
+                    "sleep_pattern": "8 ~ 10 Stunden (ruht nach dem Ausschalten des Lichts nahe dem Boden oder zwischen Pflanzen)",
+                    "temperament": "Friedlich (Zwergbuntbarsch), revierbildend bei der Brut, monogame Paarbildung, neugierig"
+                },
+                "intro": "Der Schmetterlingsbuntbarsch (Mikrogeophagus ramirezi) ist ein südamerikanischer Zwergbuntbarsch, der für seine juwelenartige, neonblaue Färbung geschätzt wird. Mit 5 bis 7 cm Körperlänge ist er friedlicher als große Buntbarsche und ideal für bepflanzte Aquarien. Er reagiert jedoch empfindlich auf Nitrat und benötigt warmes (26–30 °C) sowie weiches, leicht saures Wasser (pH 6,0–7,0). Während der Laichzeit verteidigen Paare ihr Revier, weshalb Pflanzen und Wurzeln als Sichtschutz nötig sind. Heute analysiert PetSelf seine Signale und zeigt eine 3-Schritt-Routine.",
+                "whyTitle": "Instinkte des Schmetterlingsbuntbarschs: Flossenspreizen (Flaring) & Steinreinigung",
+                "whyDesc": "Schmetterlingsbuntbarsche zeigen das **'Flaring'**, bei dem sie ihre Flossen aufstellen und leuchtend blau erstrahlen, um Reviere abzugrenzen oder zu balzen. Haben sich Paare gefunden, putzen sie mit dem Maul flache Steine oder Wurzeln für die Eiablage.",
+                "body_signals": [
+                    {
+                        "name": "Flossenspreizen & Farbintensivierung (Flaring)",
+                        "meaning": "Vollständiges Aufstellen der Flossen mit intensiv leuchtenden Blautönen zur Revierabgrenzung oder Balz.",
+                        "response": "Bieten Sie ausreichend Bepflanzung und Wurzeln als Sichtschutz, um Streitereien zu reduzieren."
+                    },
+                    {
+                        "name": "Reinigen von Steinen und Substrat",
+                        "meaning": "Picken und Säubern flacher Steine oder Wurzeln, wenn das Ablaichen bevorsteht.",
+                        "response": "Halten Sie die Wasserqualität exzellent und stören Sie das Paar beim Laichen nicht."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperatur (26–30 °C) & pH-Wert prüfen, Protein füttern",
+                        "text": "Überprüfen Sie warmes Wasser und sauren pH-Wert (6,0–7,0) und füttern Sie langsam sinkendes Zwergcichliden-Granulat oder Artemia."
+                    },
+                    {
+                        "name": "Nachmittag: Aquascape-Sichtschutz prüfen & Nitratkontrolle",
+                        "text": "Stellen Sie sicher, dass Pflanzen Reviere trennen, und führen Sie regelmäßige Teilwasserwechsel (10–20 %) durch."
+                    },
+                    {
+                        "name": "Abend: Paarverhalten beobachten & Beleuchtung ausschalten",
+                        "text": "Beobachten Sie die Tiere und schalten Sie das Licht für 8–10 Stunden Nachtruhe aus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann der Schmetterlingsbuntbarsch im Gesellschaftsbecken gehalten werden?",
+                        "answer": "Ja. Es ist ein friedlicher Zwergbuntbarsch, der gut mit Salmlern, Fadenfischen und Panzerwelsen harmoniert. Zur Laichzeit verteidigen sie ihr Nest, weshalb Bepflanzung wichtig ist."
+                    },
+                    {
+                        "question": "Was sind die wichtigsten Wasserwerte für Schmetterlingsbuntbarsche?",
+                        "answer": "Warmes (26–30 °C) und weiches/saures Wasser (pH 6,0–7,0). Sie reagieren extrem empfindlich auf Ammonium und Nitrat, weshalb gute Filterung und Teilwasserwechsel nötig sind."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidados do Cíclidedo Ramirezi Azul: Parâmetros de água ácida, aquascaping e rotina de 3 passos",
+                "description": "Cuidados essenciais para o lindo cíclio anão Ramirezi Azul (German Blue Ram). Aprenda a manter água macia e ligeiramente ácida, criar esconderijos e gerir a reprodução.",
+                "authority": "Padrões da Ornamental Fish International (OFI) e Diretrizes da World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Cícli-do Ramirezi Azul (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4 anos",
+                    "sleep_pattern": "8 ~ 10 horas (descansa junto ao fundo ou plantas após desligar luzes)",
+                    "temperament": "Pacífico (cíclico anão), territorial na reprodução, casais monogâmicos, curioso"
+                },
+                "intro": "O Ramirezi Azul (Mikrogeophagus ramirezi) é um cíclio anão sul-americano famoso pela sua cor azul-néon brilhante. Medindo cerca de 5 a 7 cm, é muito mais pacífico do que os cíclios grandes, sendo perfeito para aquários plantados. No entanto, é sensível aos nitratos e requer água quente (26–30 °C) e macia, ligeiramente ácida (pH 6.0–7.0). Durante a reprodução, defendem o seu território, tornando plantas e troncos essenciais para criar barreiras visuais. Hoje no PetSelf, analisamos os seus sinais e partilhamos uma rotina de 3 passos.",
+                "whyTitle": "Instintos do Ramirezi Azul: Exibição de barbatanas (Flaring) e limpeza de pedras",
+                "whyDesc": "Os Ramírezis exibem o **'Flaring'**, abrindo as barbatanas e intensificando as suas cores azul-néon para delimitar território ou cortejar. Ao formarem casal, limpam pedras planas ou madeira com a boca para preparar a postura de ovos.",
+                "body_signals": [
+                    {
+                        "name": "Exibição de barbatanas e intensidade de cor (Fin Flaring)",
+                        "meaning": "Abrir as barbatanas com brilhos azul-néon, marcando limites territoriais ou cortejando a fêmea.",
+                        "response": "Garanta plantas e troncos suficientes para evitar perseguições excessivas."
+                    },
+                    {
+                        "name": "Limpeza de pedras e substrato",
+                        "meaning": "Limpar superfícies planas de pedras ou madeira quando a postura de ovos está iminente.",
+                        "response": "Mantenha a qualidade da água excelente e evite perturbar o casal durante a desova."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Verificação de temperatura (26–30 °C), pH e alimentação rica em proteína",
+                        "text": "Confirme a água quente e pH ácido (6.0–7.0), oferecendo grânulos de afundamento lento para cíclios anões."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do aquário plantado e controlo de nitratos",
+                        "text": "Verifique se as plantas dividem o aquário e faça trocas parciais de água (10–20%) regularmente."
+                    },
+                    {
+                        "name": "Noite: Observação dos casais e desligar luzes",
+                        "text": "Observe o comportamento dos casais e desligue a iluminação para garantir 8 a 10 horas de descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O Ramirezi Azul pode viver num aquário comunitário?",
+                        "answer": "Sim. É um cíclio anão pacífico que convive muito bem com tetras, guramis e corydoras. Na época de reprodução defenderão o seu ninho, pelo que se recomenda ter um aquário bem plantado."
+                    },
+                    {
+                        "question": "Quais são os parâmetros de água mais críticos para o Ramirezi Azul?",
+                        "answer": "Água quente (26–30 °C) e macia/ácida (pH 6.0–7.0). São extremamente sensíveis à amónia e nitratos, exigindo boa filtragem e trocas parciais de água."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Ikan Ramirezi German Blue: Air Asam Lunak, Aquascaping & Rutinitas 3 Langkah",
+                "description": "Perawatan esensial untuk ikan cichlid kerdil Ramirezi German Blue yang cantik. Pelajari cara menjaga air asam lunak, mengatur tanaman air, dan mengelola reproduksinya.",
+                "authority": "Standar Ornamental Fish International (OFI) & Panduan World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Ramirezi German Blue (German Blue Ram / Mikrogeophagus ramirezi)",
+                    "lifespan": "2 ~ 4 tahun",
+                    "sleep_pattern": "8 ~ 10 jam (beristirahat di dekat dasar atau tanaman setelah lampu mati)",
+                    "temperament": "Damai (cichlid kerdil), teritorial saat bertelur, pasangan monogami, serba ingin tahu"
+                },
+                "intro": "Ramirezi German Blue (Mikrogeophagus ramirezi) adalah cichlid kerdil asal Amerika Selatan yang dicintai karena warna biru neon indahnya. Berukuran hanya 5–7 cm, mereka jauh lebih damai daripada cichlid besar sehingga sangat cocok untuk aquascape. Namun, mereka sensitif terhadap nitrat dan membutuhkan air hangat (26–30 °C) serta air lunak agak asam (pH 6.0–7.0). Saat masa bertelur, mereka akan mempertahankan wilayahnya, sehingga tanaman dan kayu sangat penting untuk membatasi pandangan. Hari ini di PetSelf, kami membedah sinyal instingnya dan membagikan 3 langkah rutinitas harian.",
+                "whyTitle": "Insting Ramirezi German Blue: Mengembangkan Sirip (Flaring) dan Membersihkan Batu",
+                "whyDesc": "Ramirezi melakukan aksi **'Flaring'**, yaitu membentangkan sirip dan mempertegas warna biru neonnya untuk mempertahankan wilayah atau memikat pasangannya. Saat berpasangan, mereka akan membersihkan permukaan batu datar atau kayu dengan mulutnya untuk menyiapkan tempat bertelur.",
+                "body_signals": [
+                    {
+                        "name": "Mengembangkan Sirip & Menegaskan Warna (Fin Flaring)",
+                        "meaning": "Membentangkan sirip secara maksimal dengan warna biru neon cerah, menandakan peringatan batas wilayah atau ajakan kawin.",
+                        "response": "Pastikan terdapat cukup tanaman air dan kayu untuk mencegah kejar-kejaran berlebihan antarikan."
+                    },
+                    {
+                        "name": "Membersihkan Batu dan Dasar Aquascape",
+                        "meaning": "Membersihkan permukaan batu atau kayu datar dengan mulut saat waktu bertelur makin dekat.",
+                        "response": "Jaga kualitas air tetap sangat bersih dan hindari mengganggu pasangan ikan saat proses pemijahan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Suhu Air (26–30 °C), pH & Pemberian Pakan Tinggi Protein",
+                        "text": "Pastikan air tetap hangat dan agak asam (pH 6.0–7.0), lalu berikan pelet lambat tenggelam khusus cichlid kerdil atau artemia."
+                    },
+                    {
+                        "name": "Siang: Inspeksi Aquascape & Kontrol Kadar Nitrat",
+                        "text": "Pastikan tanaman membagi wilayah dengan baik dan lakukan penggantian air parsial (10–20%) secara teratur."
+                    },
+                    {
+                        "name": "Malam: Pengamatan Pasangan Ikan & Mematikan Lampu Teratur",
+                        "text": "Amati perilaku pasangan ikan dan matikan lampu akuarium untuk memastikan waktu istirahat 8–10 jam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah Ramirezi German Blue cocok dipelihara di akuarium komunitas?",
+                        "answer": "Ya. Ramirezi adalah cichlid kerdil yang damai dan bisa hidup berdampingan dengan tetra, gurami, dan corydoras. Saat bertelur mereka akan menjaga sarangnya, sehingga akuarium yang kaya tanaman sangat disarankan."
+                    },
+                    {
+                        "question": "Apa parameter air paling kritis untuk Ramirezi German Blue?",
+                        "answer": "Air hangat (26–30 °C) dan air lunak/agak asam (pH 6.0–7.0). Mereka sangat sensitif terhadap amonia dan nitrat, sehingga butuh filtrasi yang baik dan penggantian air teratur."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/german_blue_ram_care.webp"
+    }
+}

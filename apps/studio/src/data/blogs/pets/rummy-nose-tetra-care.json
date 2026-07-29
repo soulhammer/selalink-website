@@ -1,0 +1,459 @@
+{
+    "rummy-nose-tetra-care": {
+        "pubDate": "2026-07-01",
+        "updatedDate": "2026-07-01",
+        "locales": {
+            "ko": {
+                "title": "러미노즈 테트라 머리 발색 수질 케어법과 군영 유지를 위한 3단계 일상 루틴",
+                "description": "강렬한 붉은 머리와 완벽한 군영을 자랑하는 러미노즈 테트라. 수질 변화의 지표가 되는 머리 발색 관리, 10마리 이상 합사 가이드 및 수류 조절 3단계 케어 가이드를 제공합니다.",
+                "authority": "국제관상어협회(OFI) 사육 표준 및 세계수생수의학회(WAVMA) 가이드라인",
+                "profile": {
+                    "breed": "러미노즈 테트라 (Rummy-Nose Tetra / Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5년",
+                    "sleep_pattern": "8 ~ 10시간 (야간 소등 후 수초 사이 및 하층에서 정지 휴식)",
+                    "temperament": "극도로 평화로움, 강한 군영 본능, 매우 사회적임, 예민함"
+                },
+                "intro": "러미노즈 테트라(Rummy-Nose Tetra)는 붉은 머리와 흑백 줄무늬 꼬리, 그리고 어항 속을 일사불란하게 누비는 군영(Schooling) 습성으로 전 세계 대형 수초항 사육자들의 필수 관상어로 자리 잡은 소형 카라신입니다. 수질과 환경에 매우 민감하여 선명한 루비빛 붉은 머리는 어항 내 수질(질산염, pH)과 건강 상태를 실시간으로 알려주는 생체 지표 역할을 합니다. 또한 10마리 이상의 무리를 지어줄 때 특유의 군영 본능이 극대화되며 안도감을 느낍니다. 오늘 PetSelf에서는 러미노즈 테트라의 본능적 감정 및 건강 시그널을 분석하고, 머리 발색 유지와 완벽한 군영을 위한 3단계 일상 루틴을 공개합니다.",
+                "whyTitle": "러미노즈 테트라의 본능: 머리 붉은 발색의 변화와 일사불란한 동기화 군영",
+                "whyDesc": "러미노즈 테트라는 건강하고 수질이 깨끗할 때 주둥이와 머리 전체가 강렬한 진홍색을 띠지만, 스트레스를 받거나 질산염이 높아지면 머리 색이 창백하게 하얗게 변하는 수질 지표 시그널을 보입니다. 또한 천적이나 외부 자극에 반응해 수십 마리가 한 몸처럼 방향을 틀며 헤엄치는 완벽한 동기화 군영(Schooling) 행동을 취합니다.",
+                "body_signals": [
+                    {
+                        "name": "머리 진홍색 발색 강화 (Deep Red Head Coloration)",
+                        "meaning": "수질이 깨끗하고(질산염 낮음) 정서적 안정감이 최고조에 달했음을 나타내는 아주 건강한 생체 신호입니다.",
+                        "response": "현재 수질과 수온(24~28°C) 상태를 일정하게 유지하며 정서적 안정을 계속 이어가 줍니다."
+                    },
+                    {
+                        "name": "머리 색상 하얗게 변색 (Faded White Head)",
+                        "meaning": "환수 직후의 쇼크, 질산염/아질산 수치 상승, 혹은 수온 변화나 스트레스로 건강에 이상이 생겼음을 알리는 경고 신호입니다.",
+                        "response": "즉시 수질 검사(질산염, pH)를 실시하고 적정 수온 점검 및 완만한 부분 환수를 진행합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(24~28°C) 및 머리 붉은 발색 상태 확인과 미세 침강성 사료 급여",
+                        "text": "조명 점등 후 머리 발색을 확인하여 수질 이상 유무를 점검하고, 입 크기에 맞는 소형 테트라 전용 사료를 정량 공급합니다."
+                    },
+                    {
+                        "name": "낮: 여과기 적정 수류(중저수류) 유지 및 10마리 이상 군영 형성 점검",
+                        "text": "너무 강한 수류로 체력이 소모되지 않도록 여과기 출수구를 조절하고, 무리에서 이탈해 구석에 고립된 개체가 없는지 군영 상태를 살핍니다."
+                    },
+                    {
+                        "name": "밤: 질산염 관리를 위한 정기적 수질 점검 및 야간 소등(8~10시간)",
+                        "text": "수질 오염에 민감하므로 주 1회 10~20% 부분 환수를 실시하고, 어항 조명을 꺼서 수초 사이에서 편안하게 잘 수 있도록 해줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "러미노즈 테트라의 머리 색이 하얗게 변했는데 어떻게 해야 하나요?",
+                        "answer": "머리 색이 창백해진 것은 수질 악화(질산염 수치 상승), 수온 변화, 혹은 입수 초기 스트레스의 대표적인 신호입니다. 즉시 수질 테스트 키트로 질산염과 암모니아를 측정하고, 수온(24~28°C)을 확인한 뒤 10~20% 정도의 완만한 부분 환수를 진행해야 합니다."
+                    },
+                    {
+                        "question": "러미노즈 테트라가 군영(무리 지어 헤엄치기)을 하지 않아요.",
+                        "answer": "러미노즈 테트라는 최소 10마리 이상, 권장 12~15마리 이상 무리를 이룰 때 강한 안도감을 느끼며 군영을 형성합니다. 마릿수가 너무 적거나, 어항 내에 유영 공간이 없으면 수초 사이로 흩어질 수 있으므로 충분한 수로 합사해 주는 것이 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Rummy-Nose Tetra Care Guide: Head Color Water Indicators, Schooling & 3-Step Routine",
+                "description": "Essential care for the Rummy-Nose Tetra, famous for its ruby-red head and tight schooling habits. Learn how to interpret head color water indicators, manage groups of 10+, and adjust flow rates.",
+                "authority": "Ornamental Fish International (OFI) Standards & World Aquatic Veterinary Medical Association (WAVMA) Guidelines",
+                "profile": {
+                    "breed": "Rummy-Nose Tetra (Hemigrammus bleheri)",
+                    "lifespan": "3 - 5 Years",
+                    "sleep_pattern": "8 - 10 Hours (Rests quietly near mid-to-bottom plants after lights-out)",
+                    "temperament": "Extremely Peaceful, Strong Schooling Instinct, Highly Social, Sensitive"
+                },
+                "intro": "The Rummy-Nose Tetra (Hemigrammus bleheri) is an iconic South American characin prized by aquascapers worldwide for its vibrant ruby-red head, black-and-white zebra-striped tail, and unmatched tight-schooling behavior. Highly sensitive to water parameters, the intense red coloration on their head serves as a living barometer for water quality (nitrates, pH) and overall health. Furthermore, they thrive and display their famous synchronized swimming when kept in schools of 10 or more. Today on PetSelf, we analyze the Rummy-Nose Tetra's behavioral and health signals and share a 3-step daily routine for vibrant head coloration, water stability, and perfect schooling harmony.",
+                "whyTitle": "Rummy-Nose Tetra Instincts: Vibrant Head Coloration and Synchronized Schooling",
+                "whyDesc": "When in pristine water conditions and optimal health, Rummy-Nose Tetras showcase a deep, intense ruby-red head. However, if water quality degrades or nitrates spike, their head pales to a dull white. To defend against perceived threats, dozens of individuals swim in tight, perfectly synchronized formations as if operating as a single organism.",
+                "body_signals": [
+                    {
+                        "name": "Deep Ruby-Red Head Coloration",
+                        "meaning": "Indicates pristine water quality (low nitrates, stable pH) and peak physical health and emotional contentment.",
+                        "response": "Maintain consistent water parameters and warm temperatures (24–28°C) to sustain their vibrant coloration."
+                    },
+                    {
+                        "name": "Paled or White Head Coloration",
+                        "meaning": "A warning signal triggered by water quality deterioration (high nitrates/ammonia), pH shock, or severe stress.",
+                        "response": "Immediately test water parameters (nitrates, pH), verify water temperature, and perform a gentle 10–20% partial water change."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temp (24–28°C) & Head Color Inspection with Micro-Pellet Feeding",
+                        "text": "Check head redness after turning on aquarium lights to assess water health, then feed micro-pellets or crushed flakes suitable for small mouths."
+                    },
+                    {
+                        "name": "Afternoon: Moderate Flow Rate Check & Schooling Group Assessment",
+                        "text": "Ensure filter outlets are set to moderate, non-stressful currents, and observe the group (10+ fish) to check for isolated or struggling individuals."
+                    },
+                    {
+                        "name": "Evening: Nitrate Control Maintenance & Scheduled Lights-Out",
+                        "text": "Perform weekly partial water changes (10–20%) to keep nitrates low, then turn off aquarium lights to allow 8–10 hours of peaceful rest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why did my Rummy-Nose Tetra's head turn pale white, and how can I fix it?",
+                        "answer": "A pale head is the classic symptom of water quality stress (elevated nitrates or ammonia), temperature fluctuation, or acclimation shock. Immediately test your aquarium water for nitrates and pH, confirm the temperature is between 24 and 28°C, and perform a gradual 10–20% partial water change."
+                    },
+                    {
+                        "question": "Why are my Rummy-Nose Tetras not swimming together in a school?",
+                        "answer": "Rummy-Nose Tetras require a group of at least 10 (ideally 12–15+) to feel secure enough to school tightly. If the group size is too small, or if there are no open swimming spaces in the aquascape, they may disperse among plants instead of forming tight formations."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ラミーノーズテトラの頭部発色・水質ケアと群泳維持の3ステップ日常ルーティン",
+                "description": "鮮やかな赤い頭部と見事な集団群泳を見せるラミーノーズテトラ。水質バロメーターとなる頭部の発色管理、10匹以上の混泳ガイド、水流調整の3ステップ日常ケアを解説します。",
+                "authority": "国際観賞魚協会（OFI）飼育基準および世界水生獣医学会（WAVMA）ガイドライン",
+                "profile": {
+                    "breed": "ラミーノーズテトラ (Rummy-Nose Tetra / Hemigrammus bleheri)",
+                    "lifespan": "3 〜 5年",
+                    "sleep_pattern": "8 〜 10時間 (消灯後は水草の隙間や中下層で静止して休息)",
+                    "temperament": "極めて温和、強力な群泳本能、高い社会性、繊細"
+                },
+                "intro": "ラミーノーズテトラ（Hemigrammus bleheri）は、真っ赤に染まる頭部と白黒のゼブラ模様の尾ビレ、そして水槽内を一糸乱れぬ動きで泳ぐ群泳（Schooling）の美しさで世界中のレイアウターに愛される小型カラシンです。水質や環境に非常に敏感で、鮮やかなルビー色の頭部は水質（硝酸塩濃度やpH）や健康状態をリアルタイムで知らせるバロメーターとしての役割を果たします。また、10匹以上の群れで飼育することで本来の群泳行動が引き出され、精神的な安心感を得ることができます。本日はPetSelfがラミーノーズテトラの健康シグナルと、鮮やかな発色・完璧な群泳を維持するための3ステップ日常ルーティンを公開します。",
+                "whyTitle": "ラミーノーズテトラの本能：頭部発色の変化と一糸乱れぬ同調群泳",
+                "whyDesc": "水質が綺麗で健康な時、ラミーノーズテトラの頭部は濃いルビー色に染まりますが、硝酸塩が蓄積したりストレスを感じると白く退色する水質バロメーターシグナルを見せます。また、敵や外敵の存在を感じると、数十匹が一つの生き物のように同調して向きを変えながら泳ぐ完璧な群泳（Schooling）を行います。",
+                "body_signals": [
+                    {
+                        "name": "頭部が濃い深紅色に発色 (Deep Red Head Coloration)",
+                        "meaning": "水質が綺麗（硝酸塩が低い）で体調・精神的安定が最高潮であることを示す健康なバロメーターサインです。",
+                        "response": "現在の水質と水温（24〜28℃）を一定に保ち、安定した環境を維持してあげます。"
+                    },
+                    {
+                        "name": "頭部が白く退色 (Faded White Head)",
+                        "meaning": "水質悪化（硝酸塩上昇）、pHショック、または水温変化や強いストレスによる異常を知らせる警告サインです。",
+                        "response": "すぐに水質検査（硝酸塩・pH）を行い、適正水温の確認と静かな部分水換え（10〜20%）を実施します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温(24〜28℃)・頭部発色の確認と小型魚用フード給餌",
+                        "text": "点灯後に頭の赤みを確認して水質の健康状態を点検し、口の大きさに合った小粒の沈下性フードを与えます。"
+                    },
+                    {
+                        "name": "昼：適切な水流（中〜弱水流）の維持と群泳状態のチェック",
+                        "text": "泳ぎ疲れないようフィルターの排水口の向きを調整し、10匹以上の群れから外れて孤立している個体がいないか確認します。"
+                    },
+                    {
+                        "name": "夜：硝酸塩管理のための定期水換えと消灯（8〜10時間）",
+                        "text": "週1回10〜20%の定期水換えを行い、消灯して水草の近くで安心して眠れる暗い環境を作ります。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ラミーノーズテトラの頭の赤みが消えて白くなったのですが、どうすればいいですか？",
+                        "answer": "頭部の退色は水質悪化（硝酸塩やアンモニアの上昇）、水温変化、導入直後のストレスの典型的なサインです。水質測定キットで硝酸塩とpHを測定し、水温（24〜28℃）を確認した上で、10〜20%の優しい部分水換えを行ってください。"
+                    },
+                    {
+                        "question": "ラミーノーズテトラが群泳（群れて泳ぐこと）をしてくれません。",
+                        "answer": "ラミーノーズテトラは最低10匹以上、推奨12〜15匹以上の群れにすることで安心感を得て群泳を行います。飼育数が少なすぎる場合や、水槽内に広々と泳げるスペースがない場合は水草の陰にバラバラに隠れてしまうことがあります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "红鼻剪刀（红鼻测水鱼）水质发色护理指南与群游维护3阶段日常流程",
+                "description": "以鲜红头部和完美群游著称的红鼻剪刀（Hemigrammus bleheri）。提供监测水质的头部发色管理、10尾以上群养指南及水流调节3阶段日常流程。",
+                "authority": "国际观赏鱼协会 (OFI) 饲育标准与世界水生兽医学会 (WAVMA) 指南",
+                "profile": {
+                    "breed": "红鼻剪刀 (Rummy-Nose Tetra / Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5年",
+                    "sleep_pattern": "8 ~ 10小时 (熄灯后在水草丛或中下层静止休息)",
+                    "temperament": "极度温和、强烈群游本能、高度社会化、敏感"
+                },
+                "intro": "红鼻剪刀（Hemigrammus bleheri）拥有鲜红如红宝石般的头部、黑白相间的黑白条纹尾鳍，以及在草缸中整齐划一的群游（Schooling）习性，是全球大中型水草缸中不可或缺的经典观赏鱼。由于对水质和环境极度敏感，其头部的红艳程度是实时反映缸内水质（硝酸盐、pH值）与健康状态的“生物晴雨表”。此外，只有保持10尾以上的群养数量，它们才能展现出令人叹为观止的同步群游姿态并获得安全感。今天 PetSelf 将解析红鼻剪刀的本能信号，并公开包含发色维持、水质监控及群游维护的3阶段日常流程。",
+                "whyTitle": "红鼻剪刀的本能：头部红艳发色变化与高度同步群游",
+                "whyDesc": "当水质洁净且健康良好时，红鼻剪刀的吻部及整个头部会呈现深红宝石色；一旦水质恶化或硝酸盐升高，其头部颜色会迅速褪色变白。此外，为了抵御潜在威胁，数十尾红鼻剪刀会像同一个整体般高度同步地转弯和游动。",
+                "body_signals": [
+                    {
+                        "name": "头部呈深红宝石色 (Deep Red Head Coloration)",
+                        "meaning": "水质洁净（硝酸盐极低）、水温适宜且心理状态极佳的健康指示信号。",
+                        "response": "继续维持当前洁净的水质与适宜水温（24-28°C），保持环境稳定。"
+                    },
+                    {
+                        "name": "头部发白褪色 (Faded White Head)",
+                        "meaning": "水质恶化（硝酸盐/氨氮升高）、pH值剧烈波动或强应激反应的警告信号。",
+                        "response": "立即检测水质（硝酸盐与pH），确认水温无异常后进行10-20%的温和局部换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温(24-28°C)与头部发色检查及微粒饲料喂食",
+                        "text": "开灯后观察头部红艳程度以评估水质健康，喂食符合其口径的小型鱼专用微粒沉底饲料。"
+                    },
+                    {
+                        "name": "中午：适度水流（中弱水流）调整与群游状态巡查",
+                        "text": "调整过滤器出水口避免水流过强消耗其体能，并巡查是否有离群孤立的弱小鱼只。"
+                    },
+                    {
+                        "name": "晚上：硝酸盐控制例行换水与定时熄灯（8-10小时）",
+                        "text": "每周定期换水10-20%以维持低硝酸盐环境，熄灯为其营造水草丛中安稳休眠的环境。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "红鼻剪刀的头部颜色变白了该怎么办？",
+                        "answer": "头部褪色是水质恶化（硝酸盐或氨氮偏高）、水温波动或入缸初期应激的典型表现。应立即使用水质测试试剂检测硝酸盐与pH值，确认水温在24-28°C之间，并进行10-20%的缓缓换水。"
+                    },
+                    {
+                        "question": "为什么我养的红鼻剪刀不群游（不聚集游动）？",
+                        "answer": "红鼻剪刀需要至少10尾以上（建议12-15尾以上）的群养数量才能建立充足的安全感并展现群游。如果数量太少，或者缸内缺乏开阔的游动空间，它们可能会分散躲藏在水草丛中。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado del Tetra Borrachito: Indicador de agua por color de cabeza, cardumen y rutina de 3 pasos",
+                "description": "Cuidados esenciales para el Tetra Borrachito (Rummy-Nose Tetra). Aprenda a interpretar el color de su cabeza como indicador de agua, mantener grupos de 10+ e idealizar el flujo.",
+                "authority": "Estándares de la Ornamental Fish International (OFI) y Pautas de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Tetra Borrachito / Nariz de Borracho (Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5 años",
+                    "sleep_pattern": "8 ~ 10 horas (descansa entre las plantas tras apagar luces)",
+                    "temperament": "Extremadamente pacífico, fuerte instinto de cardumen, muy social, sensible"
+                },
+                "intro": "El Tetra Borrachito (Hemigrammus bleheri) es un carácido sudamericano emblemático, apreciado en el aquascaping mundial por su cabeza rojo rubí, su cola a rayas blancas y negras, y sus compactas formaciones en cardumen (Schooling). Muy sensible a la calidad del agua, la intensidad del color rojo de su cabeza sirve como un barómetro vivo de los nitratos y el pH. Además, prosperan y muestran su natación sincronizada cuando se mantienen en grupos de 10 o más ejemplares. Hoy en PetSelf, analizamos sus señales y compartimos una rutina diaria de 3 pasos.",
+                "whyTitle": "Instintos del Tetra Borrachito: Coloración roja intensa y natación sincronizada",
+                "whyDesc": "En aguas cristalinas y óptimas, la cabeza del Borrachito luce un rojo rubí profundo. Sin embargo, si la calidad del agua empeora o los nitratos se elevan, su cabeza se vuelve blanca y pálida. Para defenderse, docenas de ejemplares nadan en formaciones apretadas y perfectamente coordinadas.",
+                "body_signals": [
+                    {
+                        "name": "Cabeza rojo rubí intenso",
+                        "meaning": "Agua de excelente calidad (nitratos bajos) y estado de salud y tranquilidad óptimo.",
+                        "response": "Mantenga los parámetros del agua estables y la temperatura cálida (24–28 °C)."
+                    },
+                    {
+                        "name": "Cabeza pálida o blanca",
+                        "meaning": "Señal de alerta por deterioro del agua (altos nitratos/amonio), shock de pH o estrés severo.",
+                        "response": "Realice un test de agua inmediatamente (nitratos, pH) y haga un cambio parcial suave de agua del 10–20%."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (24–28 °C), color de cabeza y alimentación micro-granulada",
+                        "text": "Compruebe la rojez de la cabeza al encender las luces y sirva microgránulos adecuados para su boca pequeña."
+                    },
+                    {
+                        "name": "Tarde: Ajuste de flujo moderado y revisión del cardumen (10+ peces)",
+                        "text": "Asegure un flujo de agua moderado para no agostarlos y verifique que ningún pez quede aislado del grupo."
+                    },
+                    {
+                        "name": "Noche: Control periódico de nitratos y apagado programado de luces",
+                        "text": "Realice cambios parciales semanales de agua (10–20%) para mantener bajos los nitratos y garantice de 8 a 10 horas de oscuridad."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué la cabeza de mi Tetra Borrachito se volvió blanca y qué debo hacer?",
+                        "answer": "La palidez en la cabeza es el síntoma clásico de estrés por mala calidad del agua (nitratos o amonio elevados), cambios bruscos de temperatura o shock de pH. Mida inmediatamente los nitratos y el pH, confirme que la temperatura esté entre 24 y 28 °C y realice un cambio parcial de agua del 10–20% de forma suave."
+                    },
+                    {
+                        "question": "¿Por qué mis Tetras Borrachitos no nadan juntos en grupo?",
+                        "answer": "Requieren un grupo de al menos 10 ejemplares (idealmente 12–15 o más) para sentirse seguros y formar un cardumen apretado. Si el grupo es demasiado pequeño o faltan espacios abiertos para nadar en el acuario, se dispersarán entre las plantas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin du Nez Rouge (Rummy-Nose) : Indicateur d'eau, banc serré et routine en 3 étapes",
+                "description": "Soins essentiels pour le Nez Rouge (Hemigrammus bleheri). Apprenez à interpréter la couleur de sa tête comme indicateur de qualité d'eau, maintenir un groupe de 10+ et ajuster le courant.",
+                "authority": "Normes de l'Ornamental Fish International (OFI) et directives de la World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Nez Rouge / Tétra Nez-Rouge (Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5 ans",
+                    "sleep_pattern": "8 ~ 10 heures (repose parmi les plantes après l'extinction des feux)",
+                    "temperament": "Extrêmement paisible, fort instinct de banc, très social, sensible"
+                },
+                "intro": "Le Nez Rouge (Hemigrammus bleheri) est un characidé emblématique d'Amérique du Sud, très prisé en aquascaping pour sa tête rouge rubis, sa queue rayée de noir et blanc et sa capacité exceptionnelle à nager en banc extrêmement serré. Très sensible aux paramètres de l'eau, l'intensité du rouge de sa tête constitue un véritable baromètre vivant de la qualité de l'eau (nitrates, pH). Pour s'épanouir et offrir leur ballet aquatique, ils doivent vivre en groupe d'au moins 10 individus. Aujourd'hui sur PetSelf, nous décryptons ses signaux et vous proposons une routine en 3 étapes.",
+                "whyTitle": "Instincts du Nez Rouge : Coloration rouge intense et nage en banc synchronisée",
+                "whyDesc": "Dans une eau cristalline et adaptée, la tête du Nez Rouge arbore un rouge rubis éclatant. Si la qualité de l'eau se détériore ou si les nitrates augmentent, sa tête devient pâle et blanche. Pour se protéger, des dizaines d'individus nadent en formant un groupe parfaitement coordonné.",
+                "body_signals": [
+                    {
+                        "name": "Tête rouge rubis intense",
+                        "meaning": "Eau d'excellente qualité (nitrates bas) et état de santé et de sérénité maximal.",
+                        "response": "Conservez des paramètres d'eau stables et une température chaude (24–28 °C)."
+                    },
+                    {
+                        "name": "Tête pâle ou blanche",
+                        "meaning": "Signal d'alerte indiquant une dégradation de l'eau (nitrates/ammoniac élevés), un choc de pH ou un fort stress.",
+                        "response": "Testez immédiatement la qualité de l'eau (nitrates, pH) et effectuez un changement d'eau partiel doux de 10–20%."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de température (24–28 °C), couleur de la tête et nourriture micro-granulée",
+                        "text": "Vérifiez l'intensité du rouge à l'allumage des feux et distribuez des micro-granulés adaptés à sa petite bouche."
+                    },
+                    {
+                        "name": "Après-midi : Réglage d'un courant modéré et vérification du banc (10+ poissons)",
+                        "text": "Réglez un courant modéré pour ne pas l'épuiser et vérifiez qu'aucun poisson ne reste isolé du banc."
+                    },
+                    {
+                        "name": "Soir : Contrôle régulier des nitrates et extinction programmée des feux",
+                        "text": "Effectuez des changements d'eau partiels hebdomadaires (10–20%) pour garder des nitrates bas et offrez 8 à 10 heures d'obscurité."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la tête de mon Nez Rouge est-elle devenue blanche et que faire ?",
+                        "answer": "Une tête pâle est le signe classique d'un stress lié à la qualité de l'eau (nitrates ou ammoniac élevés), une variation de température ou un choc de pH. Testez immédiatement votre eau, vérifiez la température (24–28 °C) et réalisez un changement d'eau partiel doux de 10 à 20%."
+                    },
+                    {
+                        "question": "Pourquoi mes Nez Rouges ne nagent-ils pas ensemble en banc ?",
+                        "answer": "Les Nez Rouges ont besoin d'un groupe d'au moins 10 individus (idéalement 12–15) pour se sentir en sécurité et former un banc serré. Si le groupe est trop restreint ou s'il manque d'espaces de nage dégagés, ils se disperseront parmi les plantes."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Rotkopfsalmler Pflege-Leitfaden: Kopffarbe als Wasserindikator, Schwarmverhalten & 3-Schritt-Routine",
+                "description": "Essenzielle Pflege für den Rotkopfsalmler (Hemigrammus bleheri). Erfahren Sie, wie Sie die Kopffarbe als Wasserindikator deuten, Schwärme ab 10 Tieren halten und Strömung anpassen.",
+                "authority": "Standards von Ornamental Fish International (OFI) & Richtlinien der WAVMA",
+                "profile": {
+                    "breed": "Rotkopfsalmler (Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5 Jahre",
+                    "sleep_pattern": "8 ~ 10 Stunden (ruht zwischen den Pflanzen nach dem Ausschalten des Lichts)",
+                    "temperament": "Extrem friedlich, ausgeprägter Schwarmtrieb, sehr gesellig, empfindlich"
+                },
+                "intro": "Der Rotkopfsalmler (Hemigrammus bleheri) ist ein südamerikanischer Salmler, der von Aquascapern weltweit für seinen leuchtend rubinroten Kopf, seine schwarz-weiß gestreifte Schwanzflosse und sein perfektes Schwarmverhalten geschätzt wird. Da er sehr empfindlich auf Wasserwerte reagiert, dient die Intensität des Rottons als lebendes Barometer für Wasserqualität (Nitrat, pH-Wert) und Gesundheit. Erst ab einer Gruppe von mindestens 10 Tieren entfalten sie ihr berühmtes synchrones Schwimmverhalten. Heute analysiert PetSelf seine Signale und zeigt eine 3-Schritt-Routine.",
+                "whyTitle": "Instinkte des Rotkopfsalmlers: Rubinrote Kopffärbung und synchroner Schwarm",
+                "whyDesc": "Bei hervorragender Wasserqualität erstrahlt der Kopf des Rotkopfsalmlers in tiefem Rubinrot. Verschlechtert sich das Wasser oder steigt der Nitratwert, verblasst die Farbe weißlich. Zum Schutz vor Gefahren bewegen sich Dutzende Tiere in perfekt abgestimmten Schwarmformationen.",
+                "body_signals": [
+                    {
+                        "name": "Tiefrote Kopffärbung",
+                        "meaning": "Sehr gute Wasserqualität (niedriger Nitratwert) und optimales Wohlbefinden des Fisches.",
+                        "response": "Halten Sie die Wasserwerte stabil und sorgen Sie für eine warme Temperatur (24–28 °C)."
+                    },
+                    {
+                        "name": "Verblasster oder weißer Kopf",
+                        "meaning": "Warnsignal für schlechte Wasserwerte (hohes Nitrat/Ammonium), pH-Schock oder starken Stress.",
+                        "response": "Führen Sie sofort einen Wassertest durch und machen Sie einen schonenden Teilwasserwechsel von 10–20 %."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Temperatur (24–28 °C) & Kopffarbe prüfen, Mikrogranulat füttern",
+                        "text": "Kontrollieren Sie beim Einschalten des Lichts die Kopffarbe und füttern Sie feines Mikrogranulat für kleine Mäuler."
+                    },
+                    {
+                        "name": "Nachmittag: Moderate Strömung prüfen & Schwarmgruppe beobachten",
+                        "text": "Achten Sie auf eine moderate Strömung und prüfen Sie, ob sich einzelne Fische von der Gruppe (10+ Tiere) absondern."
+                    },
+                    {
+                        "name": "Abend: Nitratkontrolle & Beleuchtung ausschalten",
+                        "text": "Führen Sie wöchentliche Teilwasserwechsel (10–20 %) durch, um Nitrat niedrig zu halten, und schalten Sie das Licht für 8–10 Stunden aus."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum ist der Kopf meines Rotkopfsalmlers weiß geworden und was kann ich tun?",
+                        "answer": "Ein verblasster Kopf ist das klassische Symptom für Stress durch schlechte Wasserwerte (erhöhtes Nitrat/Ammonium), Temperatur- oder pH-Schwankungen. Testen Sie sofort das Wasser, prüfen Sie die Temperatur (24–28 °C) und führen Sie einen sanften Teilwasserwechsel von 10–20 % durch."
+                    },
+                    {
+                        "question": "Warum schwimmen meine Rotkopfsalmler nicht im Schwarm zusammen?",
+                        "answer": "Rotkopfsalmler benötigen eine Gruppe von mindestens 10 (idealerweise 12–15+) Tieren, um sich sicher zu fühlen und dicht zu schwärmen. Bei zu kleiner Gruppengröße oder fehlenden freien Schwimmräumen verteilen sie sich zwischen den Pflanzen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidados do Rodóstomo (Rummy-Nose Tetra): Indicador de água, cardume e rotina de 3 passos",
+                "description": "Cuidados essenciais para o Rodóstomo (Hemigrammus bleheri). Aprenda a interpretar a cor da cabeça como indicador da qualidade da água, manter grupos de 10+ e ajustar o fluxo.",
+                "authority": "Padrões da Ornamental Fish International (OFI) e Diretrizes da World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Rodóstomo / Nariz de Bêbado (Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5 anos",
+                    "sleep_pattern": "8 ~ 10 horas (descansa entre as plantas após desligar luzes)",
+                    "temperament": "Extremamente pacífico, forte instinto de cardume, muito social, sensível"
+                },
+                "intro": "O Rodóstomo (Hemigrammus bleheri) é um caracídeo sul-americano emblemático, apreciado no aquascaping mundial pela sua cabeça vermelho-rubi, cauda com listras pretas e brancas e capacidade inigualável de nadar em cardumes compactos. Muito sensível aos parâmetros da água, a intensidade do vermelho da sua cabeça serve como um barómetro vivo para a qualidade da água (nitratos, pH). Para se desenvolverem e exibirem a sua natação sincronizada, devem ser mantidos em grupos de 10 ou mais indivíduos. Hoje no PetSelf, analisamos os seus sinais e partilhamos uma rotina diária de 3 passos.",
+                "whyTitle": "Instintos do Rodóstomo: Coloração vermelha intensa e natação em cardume sincronizada",
+                "whyDesc": "Em águas cristalinas e de excelente qualidade, a cabeça do Rodóstomo exibe um vermelho-rubi profundo. Contudo, se a qualidade da água se deteriorar ou os nitratos subirem, a cabeça fica pálida e esbranquiçada. Para se protegerem de ameaças, dezenas de indivíduos nadam em formações muito alinhadas.",
+                "body_signals": [
+                    {
+                        "name": "Cabeça vermelho-rubi intensa",
+                        "meaning": "Água de excelente qualidade (nitratos baixos) e estado de saúde e tranquilidade ideal.",
+                        "response": "Mantenha os parâmetros da água estáveis e a temperatura quente (24–28 °C)."
+                    },
+                    {
+                        "name": "Cabeça pálida ou esbranquiçada",
+                        "meaning": "Sinal de alerta para deterioração da água (altos nitratos/amónia), choque de pH ou stresse elevado.",
+                        "response": "Faça um teste de água imediatamente (nitratos, pH) e realize uma troca parcial suave de água de 10–20%."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controlo de temperatura (24–28 °C), cor da cabeça e alimentação micro-granulada",
+                        "text": "Verifique a intensidade do vermelho ao ligar as luzes e sirva micro-grânulos adequados para a sua boca pequena."
+                    },
+                    {
+                        "name": "Tarde: Ajuste de fluxo moderado e verificação do cardume (10+ peixes)",
+                        "text": "Garanta um fluxo de água moderado para não os cansar e verifique se nenhum peixe fica isolado do grupo."
+                    },
+                    {
+                        "name": "Noite: Controlo periódico de nitratos e desligar luzes",
+                        "text": "Realize trocas parciais semanais de água (10–20%) para manter os nitratos baixos e garanta 8 a 10 horas de escuridão."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que razão a cabeça do meu Rodóstomo ficou pálida e o que devo fazer?",
+                        "answer": "A palidez na cabeça é o sintoma clássico de stresse por má qualidade da água (nitratos ou amónia elevados), variações bruscas de temperatura ou choque de pH. Meça imediatamente os nitratos e o pH, confirme se a temperatura está entre 24 e 28 °C e faça uma troca parcial suave de água de 10–20%."
+                    },
+                    {
+                        "question": "Por que motivo os meus Rodóstomos não nadam juntos em cardume?",
+                        "answer": "Necessitam de um grupo de pelo menos 10 indivíduos (idealmente 12–15 ou mais) para se sentirem seguros e formarem um cardume compacto. Se o grupo for demasiado pequeno ou se faltarem espaços abertos para nadar no aquário, dispersar-se-ão entre as plantas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Rummy-Nose Tetra: Indikator Warna Kepala, Schooling & Rutinitas 3 Langkah",
+                "description": "Perawatan esensial untuk Rummy-Nose Tetra (Hemigrammus bleheri). Pelajari cara membaca warna kepala sebagai indikator kualitas air, mengelola kelompok 10+, dan mengatur arus air.",
+                "authority": "Standar Ornamental Fish International (OFI) & Panduan World Aquatic Veterinary Medical Association (WAVMA)",
+                "profile": {
+                    "breed": "Rummy-Nose Tetra (Hemigrammus bleheri)",
+                    "lifespan": "3 ~ 5 tahun",
+                    "sleep_pattern": "8 ~ 10 jam (beristirahat di antara tanaman setelah lampu mati)",
+                    "temperament": "Sangat damai, insting schooling kuat, sangat sosial, sensitif"
+                },
+                "intro": "Rummy-Nose Tetra (Hemigrammus bleheri) adalah ikan karasin khas Amerika Selatan yang dicintai para pecinta aquascape di seluruh dunia berkat kepala merah rubinya, ekor bergaris hitam-putih, serta kebiasaan berenang bergerombol (schooling) yang sangat rapat. Sangat sensitif terhadap kondisi air, warna merah pekat di kepalanya berfungsi sebagai barometer hidup untuk kualitas air (nitrat, pH) dan kesehatan. Ikan ini berkembang sangat baik dan menampilkan renang teratur saat dipelihara dalam kelompok 10 ekor atau lebih. Hari ini di PetSelf, kami membedah sinyal indikator Rummy-Nose Tetra dan membagikan 3 langkah rutinitas harian untuk kecerahan warna kepala, kualitas air, dan keserasian schooling.",
+                "whyTitle": "Insting Rummy-Nose Tetra: Warna Kepala Merah Merona dan Renang Bergerombol Teratur",
+                "whyDesc": "Saat kondisi air sangat bersih dan sehat, kepala Rummy-Nose Tetra akan berwarna merah rubi pekat. Namun, jika kualitas air memburuk atau kadar nitrat melonjak, warna kepalanya akan memucat menjadi putih. Untuk melindungi diri, puluhan ikan akan berenang dalam formasi rapat dan kompak seolah-olah menjadi satu organisme.",
+                "body_signals": [
+                    {
+                        "name": "Warna Kepala Merah Rubi Pekat",
+                        "meaning": "Air berkualitas sangat baik (kadar nitrat rendah, pH stabil) serta kondisi kesehatan dan ketenangan ikan berada di tingkat optimal.",
+                        "response": "Pertahankan parameter air dan suhu hangat (24–28 °C) secara konsisten."
+                    },
+                    {
+                        "name": "Warna Kepala Memucat atau Putih",
+                        "meaning": "Sinyal peringatan akibat penurunan kualitas air (nitrat/amonia tinggi), syok pH, atau stres berat.",
+                        "response": "Segera uji parameter air (nitrat, pH), pastikan suhu air sesuai, dan lakukan penggantian air parsial 10–20% secara perlahan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Suhu Air (24–28 °C), Warna Kepala & Pemberian Pakan Mikro Pelet",
+                        "text": "Periksa kecerahan warna merah kepala saat lampu dinyalakan untuk menilai kualitas air, lalu berikan pelet mikro yang sesuai dengan mulut kecilnya."
+                    },
+                    {
+                        "name": "Siang: Atur Arus Filter Sedang & Cek Kelompok Schooling (10+ Ekor)",
+                        "text": "Pastikan arus filter sedang agar tidak menguras tenaga ikan, dan amati kelompok untuk memastikan tidak ada ikan yang terisolasi."
+                    },
+                    {
+                        "name": "Malam: Kontrol Nitrat Rutin & Mematikan Lampu Teratur",
+                        "text": "Lakukan penggantian air parsial (10–20%) seminggu sekali untuk menjaga kadar nitrat tetap rendah, dan matikan lampu untuk istirahat 8–10 jam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa warna kepala Rummy-Nose Tetra saya menjadi memucat putih dan apa yang harus dilakukan?",
+                        "answer": "Warna kepala memucat adalah gejala klasik stres akibat kualitas air yang buruk (kadar nitrat atau amonia tinggi), perubahan suhu mendadak, atau syok pH. Segera tes kadar nitrat dan pH, pastikan suhu air 24–28 °C, lalu lakukan penggantian air parsial 10–20% secara perlahan."
+                    },
+                    {
+                        "question": "Mengapa Rummy-Nose Tetra saya tidak berenang bergerombol (schooling)?",
+                        "answer": "Rummy-Nose Tetra membutuhkan kelompok minimal 10 ekor (ideal 12–15+ ekor) agar merasa aman untuk berenang bergerombol rapat. Jika jumlahnya terlalu sedikit atau kurang area berenang yang terbuka di akuarium, mereka akan menyebar di antara tanaman air."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/rummy_nose_tetra_care.webp"
+    }
+}
