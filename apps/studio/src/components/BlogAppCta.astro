@@ -30,7 +30,7 @@ const appDetails = {
     link: `/${currentLang}/apps/freshself/`,
     bgColor: 'bg-purple-50/50 border-purple-100 dark:bg-purple-950/10 dark:border-purple-500/20',
     btnBg: 'bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500/20',
-    badgeText: t('cta.badge.download'),
+    badgeText: t('cta.badge.free_app'),
     badgeStyle: 'bg-purple-100 text-purple-800 dark:bg-purple-500/20 dark:text-purple-300 border-purple-200/50 dark:border-purple-500/20',
     playStoreId: 'com.selalink.freshself'
   },
@@ -41,7 +41,7 @@ const appDetails = {
     link: `/${currentLang}/apps/buildself/`,
     bgColor: 'bg-sky-50/50 border-sky-100 dark:bg-sky-950/10 dark:border-sky-500/20',
     btnBg: 'bg-sky-600 hover:bg-sky-700 text-white focus:ring-sky-500/20',
-    badgeText: t('cta.badge.download'),
+    badgeText: t('cta.badge.free_app'),
     badgeStyle: 'bg-sky-100 text-sky-800 dark:bg-sky-500/20 dark:text-sky-300 border-sky-200/50 dark:border-sky-500/20',
     playStoreId: 'com.selalink.buildself'
   },
@@ -52,7 +52,7 @@ const appDetails = {
     link: `/${currentLang}/apps/logself/`,
     bgColor: 'bg-indigo-50/50 border-indigo-100 dark:bg-indigo-950/10 dark:border-indigo-500/20',
     btnBg: 'bg-indigo-600 hover:bg-indigo-700 text-white focus:ring-indigo-500/20',
-    badgeText: t('cta.badge.download'),
+    badgeText: t('cta.badge.free_app'),
     badgeStyle: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-500/20 dark:text-indigo-300 border-indigo-200/50 dark:border-indigo-500/20',
     playStoreId: 'com.selalink.logself'
   },
@@ -74,7 +74,7 @@ const appDetails = {
     link: `/${currentLang}/apps/freshself/`,
     bgColor: 'bg-rose-50/50 border-rose-100 dark:bg-rose-950/10 dark:border-rose-500/20',
     btnBg: 'bg-rose-600 hover:bg-rose-700 text-white focus:ring-rose-500/20',
-    badgeText: t('cta.badge.download'),
+    badgeText: t('cta.badge.free_app'),
     badgeStyle: 'bg-rose-100 text-rose-800 dark:bg-rose-500/20 dark:text-rose-300 border-rose-200/50 dark:border-rose-500/20',
     playStoreId: 'com.selalink.freshself'
   }
@@ -102,41 +102,51 @@ const styleVars = app === 'freshsnap'
 >
   <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-6 relative z-10">
     <div class="space-y-3 max-w-xl">
-      <span class={`inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeDetails.badgeStyle}`}>
+      <span class={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeDetails.badgeStyle}`}>
+        {activeDetails.playStoreId && (
+          <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+        )}
         {activeDetails.badgeText}
       </span>
       <h3 class="text-xl font-bold text-slate-900 dark:text-white tracking-tight">{activeDetails.title}</h3>
       <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{activeDetails.desc}</p>
     </div>
     
-    <div class="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center shrink-0 w-full lg:w-auto">
-      {activeDetails.playStoreId ? (
-        <!-- 모바일 앱인 경우: Play Store 직접 다운로드 + 상세 보기 병렬 제공 -->
-        <a 
-          href={`https://play.google.com/store/apps/details?id=${activeDetails.playStoreId}&hl=${currentLang}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          class={`inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center ${activeDetails.btnBg}`}
-        >
-          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
-          </svg>
-          {t('cta.action.download')}
-        </a>
-        <a 
-          href={activeDetails.link}
-          class="inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 border border-slate-350 dark:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/50 text-slate-800 dark:text-slate-200 text-center"
-        >
-          {t('cta.action.learn_more')}
-        </a>
-      ) : (
-        <!-- 웹 서비스/스튜디오인 경우: 기존 단일 이동 버튼 제공 -->
-        <a 
-          href={activeDetails.link}
-          class={`inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center w-full sm:w-auto ${activeDetails.btnBg}`}
-        >
-          {activeDetails.btnText}
-        </a>
+    <div class="flex flex-col gap-2 shrink-0 w-full lg:w-auto">
+      <div class="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center w-full lg:w-auto">
+        {activeDetails.playStoreId ? (
+          <!-- 모바일 앱인 경우: Play Store 직접 다운로드 + 상세 보기 병렬 제공 -->
+          <a 
+            href={`https://play.google.com/store/apps/details?id=${activeDetails.playStoreId}&hl=${currentLang}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class={`inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center ${activeDetails.btnBg}`}
+          >
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.34 0 .66.12.92.33l13.62 10.15c.67.5.76 1.45.19 2.06l-13.62 10.15a1.5 1.5 0 01-2.42-1.2v-1.92z"/>
+            </svg>
+            {t('cta.action.download_free')}
+          </a>
+          <a 
+            href={activeDetails.link}
+            class="inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 border border-slate-350 dark:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/50 text-slate-800 dark:text-slate-200 text-center"
+          >
+            {t('cta.action.learn_more')}
+          </a>
+        ) : (
+          <!-- 웹 서비스/스튜디오인 경우: 기존 단일 이동 버튼 제공 -->
+          <a 
+            href={activeDetails.link}
+            class={`inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center w-full sm:w-auto ${activeDetails.btnBg}`}
+          >
+            {activeDetails.btnText}
+          </a>
+        )}
+      </div>
+      {activeDetails.playStoreId && (
+        <p class="text-[11px] font-medium text-slate-500 dark:text-slate-400 text-center lg:text-right mt-0.5">
+          {t('cta.subtext.free')}
+        </p>
       )}
     </div>
   </div>
