@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국립수산과학원(NIFDS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>"
+authority: "<strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>"
 steps:
   - name: "밀폐 용기에 제습제(실리카겔)와 함께 담기 — 습기 차단 📦"
     text: "개봉한 김을 그대로 상온에 두면 불과 수 시간 만에 수분을 흡수하여 눅눅해집니다. 💡 보관 팁: 먹고 남은 조미김이나 건김은 밀폐 지퍼백이나 밀폐 용기에 담고, 동봉된 실리카겔(제습제)이나 키친타월을 함께 넣어 수분 유입을 완벽히 차단하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국립수산과학원(NIFDS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 <strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>

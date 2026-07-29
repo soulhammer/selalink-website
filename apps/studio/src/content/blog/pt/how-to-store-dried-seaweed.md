@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFDS & MFDS & MAFF</strong>"
+authority: "<strong>NIFS & MFDS & MAFF</strong>"
 steps:
   - name: "Guarde em pote hermético com sílica gel (dessecante) — Barreira contra umidade 📦"
     text: "Deixar a alga aberta em temperatura ambiente faz com que ela absorva umidade em poucas horas. 💡 Dica de conservação: Coloque a alga temperada ou seca em um saco Ziploc ou pote hermético junto com um sachê de sílica gel ou papel toalha."
@@ -38,7 +38,7 @@ Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em dire
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NIFDS & MFDS & MAFF</strong>.
+      Este conteúdo baseia-se em <strong>NIFS & MFDS & MAFF</strong>.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "조미김·건김 신선하고 바삭하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 조미김과 건김의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>국립수산과학원(NIFDS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>",
+                "authority": "<strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)</strong>",
                 "intro": "바삭하고 고소한 김 한 봉지를 개봉했다가 얼마 지나지 않아 눅눅해지고 눅눅한 기름 냄새(산패취)가 나 버린 경험 다들 있으시죠? 🍙\n\n김은 수분 흡수력이 매우 뛰어난 다공성 구조를 지니고 있어 공기 중의 습기를 스펀지처럼 빨아들입니다. 특히 기름과 소금이 첨가된 조미김의 경우, 습기와 공기(산소), 빛에 노출되면 기름의 지질 산패가 가속화되어 맛이 변하고 눅눅해지기 쉽습니다.\n\n오늘 FreshSnap에서는 국립수산과학원과 식품의약품안전처의 안전 가이드라인을 바탕으로, 조미김과 건김의 바삭한 식감과 고소한 풍미를 오랫동안 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,8 +52,8 @@
             "en": {
                 "title": "How to Keep Dried Seaweed & Nori Crispy and Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for dried seaweed (nori) and seasoned seaweed based on official safety guidelines.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
-                "intro": "Have you ever opened a fresh pack of crispy seaweed, only to find it soggy and smelling of stale oil (rancidity) a short time later? 🍙\n\nDried seaweed has a highly porous structure with extreme moisture-absorbing capacity, soaking up humidity from the air like a sponge. For seasoned seaweed containing oil and salt, exposure to moisture, oxygen, and light rapidly accelerates lipid oxidation, spoiling its flavor and ruining its crunch.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFDS), MFDS, and MAFF to keep your dried and seasoned seaweed perfectly crispy and flavorful. 🛡️",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
+                "intro": "Have you ever opened a fresh pack of crispy seaweed, only to find it soggy and smelling of stale oil (rancidity) a short time later? 🍙\n\nDried seaweed has a highly porous structure with extreme moisture-absorbing capacity, soaking up humidity from the air like a sponge. For seasoned seaweed containing oil and salt, exposure to moisture, oxygen, and light rapidly accelerates lipid oxidation, spoiling its flavor and ruining its crunch.\n\nToday, FreshSnap introduces a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFS), MFDS, and MAFF to keep your dried and seasoned seaweed perfectly crispy and flavorful. 🛡️",
                 "whyTitle": "Why Store Dried Seaweed This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
                 "guideTitle": "Scientifically Proven Storage Guide",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "味付け海苔・焼き海苔をパリパリに保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく味付け海苔・乾燥海苔（ノリ）の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>国立水産科学院(NIFDS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)</strong>",
+                "authority": "<strong>国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)</strong>",
                 "intro": "パリッと香ばしい海苔の袋を開けたものの、少し経つと湿気てしまったり油くさい匂い（酸敗臭）がして捨ててしまった経験はありませんか？🍙\n\n海苔は極めて高い吸湿性を持つ多孔質構造をしており、空気中の水分をスポンジのように吸収します。特に油と塩が使われた味付け海苔は、湿気や空気（酸素）、光に晒されると油の酸化（脂質酸敗）が急速に進み、食感や風味が著しく損なわれます。\n\n本日FreshSnapでは、水産研究機関および農林水産省のガイドラインに基づき、海苔のパリッとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持调味海苔·干紫菜酥脆新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解调味海苔与干紫菜（Nori）的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>韩国国立水产科学院(NIFDS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)</strong>",
+                "authority": "<strong>韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)</strong>",
                 "intro": "您是否曾打开一包香脆的海苔，没过多久就发现它吸潮变软，甚至散发出陈油味（油脂酸败）？🍙\n\n海苔（紫菜）具有极强吸湿性的多孔结构，会像海绵一样迅速吸收空气中的水分。特别是添加了油脂和盐分的调味海苔，一旦暴露于潮湿、空气（氧气）和光线中，油脂氧化会急剧加速，导致口感变软、风味丧失。\n\n今天FreshSnap基于水产研究机构及农林水产部门的权威指南，为您带来3步科学保存秘诀，帮您长久保持调味海苔与干紫菜香脆的口感与浓郁的风味。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener alga nori y sazonada crujiente y fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el alga seca (nori) y sazonada según las directrices oficiales de seguridad.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
                 "intro": "¿Alguna vez abrió un paquete de alga nori crujiente y al poco tiempo descubrió que se había vuelto blanda y con olor a aceite rancio? 🍙\n\nEl alga seca tiene una estructura porosísima con una alta capacidad para absorber humedad del aire como una esponja. En el caso del alga sazonada con aceite y sal, la humedad, el oxígeno y la luz aceleran la oxidación lipídica, destruyendo su textura crujiente y su sabor.\n\nHoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por el Instituto de Ciencias Pesqueras y ministerios de seguridad alimentaria para mantener sus algas perfectamente crujientes y sabrosas. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver l'algue séchée (Nori) croustillante et fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'algue séchée (nori) et l'algue assaisonnée selon les directives officielles de sécurité.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
                 "intro": "Avez-vous déjà ouvert un sachet d'algues croustillantes pour constater peu après qu'elles étaient devenues molles et dégageaient une odeur d'huile rance ? 🍙\n\nL'algue séchée possède une structure poreuse très absorbante qui capte l'humidité de l'air comme une éponge. Pour l'algue assaisonnée (avec huile et sel), l'exposition à l'humidité, à l'oxygène et à la lumière accélère l'oxydation des lipides, gâchant son croquant et sa saveur.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des instituts des pèches et de la sécurité alimentaire pour préserver la fraîcheur et le croquant de vos algues. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Getrocknete Algen & Nori knusprig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Algen (Nori) und gewürzte Algen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
                 "intro": "Haben Sie schon einmal eine Packung knuspriger Nori-Algen geöffnet und festgestellt, dass sie nach kurzer Zeit zäh wurden und nach ranzigem Öl rochen? 🍙\n\nGetrocknete Algen besitzen eine extrem poröse Struktur mit hoher Saugkraft und ziehen Feuchtigkeit aus der Luft wie ein Schwamm an. Bei gewürzten Algen mit Öl und Salz beschleunigen Feuchtigkeit, Sauerstoff und Licht die Fettoxidation dramatisch, was Knusprigkeit und Geschmack ruiniert.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Nori-Algen dauerhaft knusprig und aromatisch zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar alga marinha seca e temperada crocante e fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para alga seca (nori) e temperada com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
                 "intro": "Você já abriu um pacote de alga crocante e pouco tempo depois percebeu que ela ficou murcha e com cheiro de óleo râncio? 🍙\n\nA alga seca possui uma estrutura altamente porosa com grande capacidade de absorver a umidade do ar como uma esponja. No caso da alga temperada com óleo e sal, a exposição à umidade, oxigênio e luz acelera a oxidação dos lipídios, estragando sua crocância e sabor.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes de órgãos de pesquisa pesqueira e segurança alimentar para manter suas algas perfeitamente crocantes e saborosas. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Rumput Laut Kering & Nori agar Tetap Renyah: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk rumput laut kering (nori) dan rumput laut panggang berbumbu berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>NIFDS & MFDS & MAFF</strong>",
+                "authority": "<strong>NIFS & MFDS & MAFF</strong>",
                 "intro": "Pernahkah Anda membuka kemasan rumput laut panggang yang renyah, lalu tak lama kemudian mendapatinya menjadi melempem dan berbau minyak tengik? 🍙\n\nRumput laut kering memiliki struktur sangat berpori dengan daya serap kelembapan yang sangat tinggi, menyerap kelembapan udara seperti spons. Untuk rumput laut berbumbu yang mengandung minyak dan garam, paparan kelembapan, oksigen, dan cahaya mempercepat oksidasi minyak, merusak rasa dan kerenyahannya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman lembaga riset perikanan dan keselamatan pangan untuk menjaga rumput laut Anda tetap renyah dan gurih. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

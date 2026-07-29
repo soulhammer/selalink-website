@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFDS & MFDS & MAFF</strong>"
+authority: "<strong>NIFS & MFDS & MAFF</strong>"
 steps:
   - name: "Simpan dalam wadah kedap udara bersama desikan (silica gel) — Pelindung Kelembapan 📦"
     text: "Meninggalkan rumput laut yang sudah dibuka pada suhu ruang membuatnya menyerap kelembapan dalam hitungan jam. 💡 Tips Penyimpanan: Masukkan sisa rumput laut ke dalam kantong Ziploc kedap udara atau wadah rapat bersama kantong silica gel atau tisu dapur."
@@ -38,7 +38,7 @@ Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah ber
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NIFDS & MFDS & MAFF</strong>.
+      Konten ini didasarkan pada <strong>NIFS & MFDS & MAFF</strong>.
     </p>
   </div>
 </div>

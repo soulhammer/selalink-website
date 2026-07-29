@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFDS & MFDS & MAFF</strong>"
+authority: "<strong>NIFS & MFDS & MAFF</strong>"
 steps:
   - name: "In luftdichter Dose mit Trockenmittel (Silica-Gel) aufbewahren — Feuchtigkeitsschutz 📦"
     text: "Werden geöffnete Algen bei Raumtemperatur gelagert, nehmen sie binnen Stunden Feuchtigkeit auf. 💡 Lagerungstipp: Geben Sie verbliebene Algen in einen Ziploc-Beutel oder eine luftdichte Dose zusammen mit einem Päckchen Silica-Gel oder Küchenpapier."
@@ -38,7 +38,7 @@ Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeb
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NIFDS & MFDS & MAFF</strong>.
+      Dieser Inhalt basiert auf <strong>NIFS & MFDS & MAFF</strong>.
     </p>
   </div>
 </div>

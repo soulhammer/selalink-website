@@ -1,6 +1,7 @@
-// 주요 한글 오탈자 사전 (Known Typos)
+// 주요 한글/영문 오탈자 사전 (Known Typos)
 const KNOWN_TYPOS = [
-  { typo: '리리스테리아', correct: '리스테리아' }
+  { typo: '리리스테리아', correct: '리스테리아' },
+  { typo: 'NIFDS', correct: 'NIFS' }
 ];
 
 // 이종 언어 오유입 감지 단어 (Distinct cross-language leakage tokens)
