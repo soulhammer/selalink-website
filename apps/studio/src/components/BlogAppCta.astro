@@ -13,6 +13,7 @@ const t = useTranslations(currentLang);
 // 앱별 브랜드 컬러 및 안내 텍스트 분기
 const appDetails = {
   freshsnap: {
+    icon: '/favicon.png',
     title: t('cta.freshsnap.title'),
     desc: t('cta.freshsnap.desc'),
     btnText: t('cta.freshsnap.btn'),
@@ -24,6 +25,7 @@ const appDetails = {
     playStoreId: null
   },
   freshself: {
+    icon: '/images/freshself/icon.png',
     title: t('cta.freshself.title'),
     desc: t('cta.freshself.desc'),
     btnText: t('cta.freshself.btn'),
@@ -35,6 +37,7 @@ const appDetails = {
     playStoreId: 'com.selalink.freshself'
   },
   buildself: {
+    icon: '/images/buildself/icon.png',
     title: t('cta.buildself.title'),
     desc: t('cta.buildself.desc'),
     btnText: t('cta.buildself.btn'),
@@ -46,6 +49,7 @@ const appDetails = {
     playStoreId: 'com.selalink.buildself'
   },
   logself: {
+    icon: '/images/logself/icon.png',
     title: t('app.logself.title') || 'logSelf',
     desc: t('app.logself.desc') || 'The safest way to log yourself.',
     btnText: t('cta.general.btn') || 'Learn More',
@@ -57,6 +61,7 @@ const appDetails = {
     playStoreId: 'com.selalink.logself'
   },
   general: {
+    icon: '/favicon.png',
     title: t('cta.general.title'),
     desc: t('cta.general.desc'),
     btnText: t('cta.general.btn'),
@@ -68,6 +73,7 @@ const appDetails = {
     playStoreId: null
   },
   petself: {
+    icon: '/images/freshself/icon.png',
     title: t('cta.petself.title'),
     desc: t('cta.petself.desc'),
     btnText: t('cta.petself.btn'),
@@ -101,15 +107,24 @@ const styleVars = app === 'freshsnap'
   style={styleVars}
 >
   <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-6 relative z-10">
-    <div class="space-y-3 max-w-xl">
-      <span class={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeDetails.badgeStyle}`}>
-        {activeDetails.playStoreId && (
-          <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-        )}
-        {activeDetails.badgeText}
-      </span>
-      <h3 class="text-xl font-bold text-slate-900 dark:text-white tracking-tight">{activeDetails.title}</h3>
-      <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{activeDetails.desc}</p>
+    <div class="flex items-start sm:items-center gap-4 max-w-xl">
+      {activeDetails.icon && (
+        <img 
+          src={activeDetails.icon} 
+          alt={activeDetails.title} 
+          class="w-12 h-12 md:w-14 md:h-14 rounded-2xl shadow-sm border border-black/5 dark:border-white/10 object-cover shrink-0" 
+        />
+      )}
+      <div class="space-y-2">
+        <span class={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold border tracking-wider uppercase ${activeDetails.badgeStyle}`}>
+          {activeDetails.playStoreId && (
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+          )}
+          {activeDetails.badgeText}
+        </span>
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white tracking-tight">{activeDetails.title}</h3>
+        <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{activeDetails.desc}</p>
+      </div>
     </div>
     
     <div class="flex flex-col gap-2 shrink-0 w-full lg:w-auto">

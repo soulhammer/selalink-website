@@ -41,7 +41,7 @@ describe('blogNavigation - Category Grouping & Circular Navigation', () => {
 
   it('should return correct category visual metadata (icon, color, label key)', () => {
     const metaBuild = getCategoryMeta('buildself');
-    expect(metaBuild.icon).toBe('🏆');
+    expect(metaBuild.icon).toBe('🎯');
     expect(metaBuild.badgeClass).toContain('sky');
 
     const metaPet = getCategoryMeta('petself');

@@ -38,7 +38,7 @@ export function getCategoryMeta(app: string): CategoryMeta {
     case 'buildself':
       return {
         group: 'buildself',
-        icon: '🏆',
+        icon: '🎯',
         badgeClass: 'bg-sky-500/10 text-sky-600 dark:text-sky-400 border-sky-500/20',
         categoryKey: 'buildself',
       };
