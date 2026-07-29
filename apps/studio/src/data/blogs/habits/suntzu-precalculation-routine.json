@@ -1,0 +1,315 @@
+{
+    "suntzu-precalculation-routine": {
+        "pubDate": "2026-05-05",
+        "updatedDate": "2026-05-05",
+        "heroImage": "/images/blog/suntzu_precalculation_routine.webp",
+        "locales": {
+            "ko": {
+                "title": "실패를 지우는 사전 시뮬레이션: 손자의 5가지 변수 정량 점검 '묘산(廟算)' 루틴",
+                "description": "군사전략가 손무는 전쟁에 임하기 전 사당에서 5가지 객관적 기준(도·천·지·장·법)으로 승산과 리스크를 미리 계산했습니다. 낙관 편향을 배제하고 의사결정 승률을 극대화하는 인지적 루틴을 다룹니다.",
+                "authority": "사마천 저 《사기(史記)》 권65 〈손자오기열전(孫子吳起列傳)〉 & 《손자병법(孫子兵法)》 제1편 계품(計篇) & 게리 클라인(Gary Klein)의 프리모템(Pre-mortem) 및 미래회상(Prospective Hindsight) 인지심리학 연구",
+                "intro": "\"싸우기 전에 이기는 자는 계산이 많은 자이고, 싸우기 전에 지는 자는 계산이 적은 자다.\" ⚔️\n\n중국 춘추시대 제나라 출신의 위대한 군사전략가이자 동양 최고의 병서 《손자병법》을 지은 거장, 손무(손자, 孫武). 오나라 왕 합려를 도와 초나라를 대파하고 대륙의 패권을 잡는 데 결정적인 역할을 한 그는, 무모한 용맹이나 주관적 혈기에 의존하는 대신 철저히 냉철한 분석으로 '승리하는 판'만 세우는 전설적인 전략가였습니다.\n\n손무는 군대를 일으키기 전, 반드시 사당에 앉아 적과 나의 전력을 5가지 객관적 요소—도(道: 명분과 단결), 천(天: 기후와 시기), 지(地: 지형과 거리), 장(將: 리더십과 지혜), 법(法: 조직과 규율)—로 정밀하게 비교 계산하는 '묘산(廟算)'을 수행했습니다. 승산이 확실히 정량적으로 입증되기 전까지는 단 한 명의 병사도 움직이지 않았습니다. 사마천의 《사기》에 기록된 것처럼, 손무에게 사전 계산은 승부욕에 의한 낙관 편향을 차단하고 예상치 못한 실패 리스크를 미리 지워버리는 엄숙한 인지적 시뮬레이션이었습니다.\n\n오늘 포스트에서는 손자의 사전 계산 '묘산' 루틴에 담긴 미래회상(Prospective Hindsight)과 낙관 편향(Optimism Bias) 억제의 인지과학적 원리를 소개합니다.",
+                "whyTitle": "미래회상과 낙관 편향 억제가 가져오는 프리모템 시뮬레이션 효과",
+                "whyDesc": "어떤 프로젝트나 행동을 시작하기 전, 실패의 가능성과 리스크 요인을 미리 정량적으로 점검하는 행위는 뇌과학적으로 <strong>'미래회상(Prospective Hindsight)'</strong>과 <strong>'프리모템(Pre-mortem)'</strong> 메커니즘을 작동시킵니다.\n\n인간의 뇌는 새로운 일을 시작할 때 낙관 편향(Optimism Bias)과 감정적 충동에 빠지기 쉽습니다. 하지만 5가지 핵심 변수로 사전에 리스크를 정량 시뮬레이션하면, 편도체(Amygdala)의 무모한 충동성이 억제되고 전전두엽(Prefrontal Cortex)의 실행 기능과 고차원적 리스크 평가 회로가 활성화되어 의사결정의 승률을 현격히 높여줍니다.",
+                "cautionTitle": "분석에 의한 마비를 경계하고 정량 지표 기준에 집중하세요",
+                "cautionDesc": "손자 묘산 루틴의 핵심은 끝없는 걱정이나 우유부단함에 빠지는 '분석에 의한 마비(Analysis Paralysis)'가 아니라, 5가지 객관적 기준을 통해 승산 여부를 명확히 지표화하는 것입니다. 기한을 정해 두고 객관적 데이터 중심의 정량 점검을 완료한 후 즉각 행동에 옮기세요.",
+                "steps": [
+                    {
+                        "title": "프로젝트/실행 전 5가지 정량 평가 변수(명분, 시기, 환경, 역량, 체계) 설정하기",
+                        "desc": "시작하려는 일의 핵심 변수를 도·천·지·장·법의 현대적 기준(목표 명분, 시장/시점, 자원/환경, 실행 역량, 프로세스/규율)으로 정의합니다."
+                    },
+                    {
+                        "title": "적과 나(자신과 경쟁사/상황)의 조건을 5가지 축으로 객관적 비교 scoring하기",
+                        "desc": "감정을 배제하고 자신과 대상의 조건을 1~10점의 점수나 객관적 수치로 대입하여 승산과 부족한 리스크 요인을 시각화합니다."
+                    },
+                    {
+                        "title": "실패 가상 시나리오(Pre-mortem) 점검 후 승산이 입증되었을 때 행동 개시하기",
+                        "desc": "이미 실패했다고 가정한 후 발생 가능한 걸림돌을 사전에 보완하고, 정량적 승산이 확인되었을 때 단호하게 실행에 옮깁니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "일상적인 가벼운 업무나 작은 도전에서도 5가지 변수 사전 계산 루틴을 써야 하나요?",
+                        "answer": "모든 작은 일에 거대한 묘산을 적용할 필요는 없습니다. 다만 중요한 의사결정, 사업 기획, 투자, 이직 등 리스크가 큰 결정에서는 5가지 기준(목표, 타이밍, 환경, 자신의 역량, 실행 체계)으로 5분간 체크리스트를 만드는 것만으로도 무모한 실패를 획기적으로 막을 수 있습니다."
+                    },
+                    {
+                        "question": "사전 시뮬레이션 결과 승산이 낮게 나오면 어떻게 대응해야 하나요?",
+                        "answer": "손자는 승산이 없을 때 무리하게 싸우지 않고 보완하거나 대기했습니다. 점수가 낮은 변수(예: 자원 부족, 체계 미비)를 집중 보강하여 정량적 승산 기준을 충족시킨 후 진입하거나, 리스크가 너무 큰 경우 전략적으로 회피하는 것이 묘산의 진정한 목적입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "The Power of Eliminating Failure Beforehand: Sun Tzu's 5-Variable Quantitative Checking 'Pre-calculation (Miaosuan)' Routine",
+                "description": "Military strategist Sun Wu calculated winning odds and risks using 5 objective criteria (Way, Heaven, Earth, General, Law) before going to war. Discover cognitive habits that eliminate optimism bias and maximize decision victory.",
+                "authority": "Sima Qian's 'Records of the Grand Historian' Vol. 65 <Biographies of Sun Tzu and Wu Qi> & 'Sun Tzu's Art of War' Chapter 1 <Estimates> & Cognitive Psychology Research on Gary Klein's Pre-mortem and Prospective Hindsight",
+                "intro": "\"He who wins a battle makes many calculations before the battle is fought; he who loses makes few calculations beforehand.\" ⚔️\n\nSun Wu (Sun Tzu), a legendary military strategist from the State of Qi during China's Spring and Autumn period and the author of Eastern antiquity's greatest military treatise 'The Art of War', played a decisive role in helping King Helü of Wu defeat Chu and establish hegemony. Instead of relying on reckless bravery or emotional fervor, he was a legendary strategist who built winning grounds through cold, objective analysis.\n\nBefore mobilizing troops, Sun Wu always performed 'Miaosuan' (temple pre-calculation), sitting in the ancestral temple to precisely compare and calculate the strength of his forces versus the enemy across five objective variables: the Way (moral alignment/purpose), Heaven (timing/climate), Earth (terrain/distance), the General (leadership/wisdom), and Law (organization/discipline). Not a single soldier moved until odds were quantitatively proven. As recorded in Sima Qian's 'Records of the Grand Historian', pre-calculation was a solemn cognitive simulation for Sun Tzu to block optimism bias driven by desire and erase unexpected failure risks in advance.\n\nIn today's post, we introduce the neuroscientific principles of Prospective Hindsight and Optimism Bias suppression embedded in Sun Tzu's Miaosuan routine.",
+                "whyTitle": "Pre-mortem Simulation Effects Induced by Prospective Hindsight and Optimism Bias Suppression",
+                "whyDesc": "Quantitatively checking failure possibilities and risk factors before launching a project activates neuroscientific mechanisms of <strong>'Prospective Hindsight'</strong> and <strong>'Pre-mortem'</strong> analysis.\n\nThe human brain easily succumbs to optimism bias (Optimism Bias) and emotional impulses when initiating new endeavors. However, quantitatively simulating risk across five core variables beforehand suppresses reckless impulses in the amygdala (Amygdala) and activates the prefrontal cortex's (Prefrontal Cortex) executive functions and high-level risk assessment circuits, dramatically elevating decision-making win rates.",
+                "cautionTitle": "Guard Against Analysis Paralysis and Focus on Quantitative Indicators",
+                "cautionDesc": "The essence of Sun Tzu's Miaosuan routine is not falling into 'Analysis Paralysis' through endless worry or indecision, but clearly benchmarking winning odds using five objective criteria. Set a deadline, complete your objective data-driven quantitative check, and move into action immediately.",
+                "steps": [
+                    {
+                        "title": "Set 5 Quantitative Evaluation Variables (Purpose, Timing, Environment, Capability, System) Before Project Execution",
+                        "desc": "Define core variables using modern standards derived from the Way, Heaven, Earth, General, and Law (Goal Purpose, Market/Timing, Resources/Environment, Execution Capability, Process/Discipline)."
+                    },
+                    {
+                        "title": "Objectively Score Conditions of Yourself vs. Enemy/Situation Across 5 Axes",
+                        "desc": "Exclude emotion and assign objective scores (1–10) or metrics to evaluate strengths and risk vulnerabilities visually."
+                    },
+                    {
+                        "title": "Execute Action Once Winning Odds Are Proven After Pre-mortem Scenario Check",
+                        "desc": "Assume the project has already failed to proactively patch potential bottlenecks, and decisively initiate execution once quantitative winning odds are verified."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Should I use the 5-variable pre-calculation routine even for minor daily tasks?",
+                        "answer": "You do not need elaborate Miaosuan for every minor task. However, for high-stakes decisions like major projects, investments, or career shifts, taking 5 minutes to run a checklist across the 5 criteria (Goal, Timing, Environment, Capability, System) effectively prevents disastrous failures."
+                    },
+                    {
+                        "question": "How should I respond if pre-calculation yields low odds of success?",
+                        "answer": "Sun Tzu avoided reckless battles when odds were low, choosing to fortify weaknesses or wait. The true purpose of Miaosuan is to strengthen low-scoring variables (e.g., resource gaps, systemic flaws) until winning criteria are met, or strategically pivot away if risk remains excessive."
+                    }
+                ]
+            },
+            "zh": {
+                "title": "预先消除失败的力量：孙子的五维定量评估“庙算”惯例",
+                "description": "军事战略家孙武在开战前，基于五项客观标准（道、天、地、将、法）预先计算胜算与风险。探索排除乐观偏见、极大化决策胜率的认知习惯。",
+                "authority": "司马迁著《史记》卷65《孙子吴起列传》 & 《孙子兵法》第一篇《计篇》 & 加里·克莱因（Gary Klein）事前验尸（Pre-mortem）与前景追溯（Prospective Hindsight）认知心理学研究",
+                "intro": "“夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。” ⚔️\n\n作为中国春秋时期齐国出身的伟大的军事战略家、东方最伟大的兵书《孙子兵法》的作者——孙武（孙子）。他辅佐吴王阖闾大破楚国、威震诸侯，其成功绝非依赖盲目的勇武或主观血气，而是通过冷静客观的分析打造“必胜之局”的传奇战略家。\n\n孙武在出兵前，必先于庙堂之上，从五项客观要素——道（愿景与团结）、天（时机与气候）、地（地形与环境）、将（领导力与智慧）、法（组织与纪律）——对敌我战力进行精密的对比与计算，即“庙算”。在胜算未得到明确定量证实之前，绝不动员一兵一卒。正如司马迁《史記》所载，对于孙武而言，庙算是一场排除了胜负欲引发的乐观偏见、预先抹去意外失败风险的严谨认知模拟。\n\n在今天的文章中，我们将介绍孙子“庙算”惯例中蕴含的前景追溯（Prospective Hindsight）与抑制乐观偏见（Optimism Bias）的认知科学原理。",
+                "whyTitle": "前景追溯与抑制乐观偏见带来的事前验尸模拟效应",
+                "whyDesc": "在启动任何项目或行动前，预先定量评估失败可能性与风险因素，在脑科学上会启动<strong>“前景追溯（Prospective Hindsight）”</strong>与<strong>“事前验尸（Pre-mortem）”</strong>机制。\n\n人类大脑在开启新事物时容易陷入乐观偏见（Optimism Bias）与情感冲动。然而，通过五大核心变量预先进行风险定量模拟，能够抑制杏仁核（Amygdala）的盲目冲动，激活前额叶皮层（Prefrontal Cortex）的执行功能与高阶风险评估回路，大幅提升决策胜率。",
+                "cautionTitle": "警惕分析瘫痪，专注于定量指标标准",
+                "cautionDesc": "孙子庙算惯例的核心并非陷入无休止担忧或优柔寡断的“分析瘫痪（Analysis Paralysis）”，而是通过5项客观标准将胜算明确指标化。设定截止时间，在完成基于客观数据的定量评估后，立即付诸行动。",
+                "steps": [
+                    {
+                        "title": "设定项目/执行前的5大定量评估变量（愿景、时机、环境、能力、体系）",
+                        "desc": "将要执行事项的核心变量定义为道、天、地、将、法的现代标准（目标愿景、市场/时机、资源/环境、执行能力、流程/纪律）。"
+                    },
+                    {
+                        "title": "跨5大维度对敌我（自身与竞争对手/环境）条件进行客观打分（Scoring）",
+                        "desc": "排除情感因素，为自身与对象的条件赋予1~10分客观打分或数值，使优势与风险弱点可视化。"
+                    },
+                    {
+                        "title": "检查失败假想预案（Pre-mortem）并在确认胜算后开启行动",
+                        "desc": "假定项目已经失败，预先补齐可能出现的瓶颈，并在定量胜算得到验证后果断开启执行。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "在日常轻量工作或小挑战中也需要使用5维预先计算惯例吗？",
+                        "answer": "不必对每件微小事务都进行宏大的庙算。然而，在面对重大项目、投资或职业转型等高风险决策时，花5分钟对照5大标准（目标、时机、环境、能力、体系）进行清单检查，能有效预防盲目失败。"
+                    },
+                    {
+                        "question": "若事前计算结果显示胜算较低该如何应对？",
+                        "answer": "孙子在胜算不足时绝不强行出击，而是选择补强或等待。庙算的真正目的在于集中强化低分变量（如资源不足、体系缺失）直至满足胜算标准，或在风险过大时战略性避开。"
+                    }
+                ]
+            },
+            "ja": {
+                "title": "失敗をあらかじめ消し去る力：孫子の5つの変数の定量点検「廟算（びょうさん）」ルーティン",
+                "description": "軍事戦略家の孫武は、戦いに臨む前に5つの客観的基準（道・天・地・将・法）で勝算とリスクを事前計算しました。楽観バイアスを排除し、意思決定の勝率を最大化する認知習慣をご紹介します。",
+                "authority": "司馬遷著『史記』巻65〈孫子呉起列伝〉 ＆ 『孫子兵法』第1篇〈計篇〉 ＆ ゲイリー・クライン（Gary Klein）のプレモーテム（Pre-mortem）および見込みの hindsight（Prospective Hindsight）認知心理研究",
+                "intro": "「戦う前に勝つ者は、計算が多い者であり、戦う前に負ける者は、計算が少ない者である。」 ⚔️\n\n中国春秋時代の斉国出身の偉大な軍事戦略家であり、東洋最高の兵書『孫子兵法』を著した巨匠、孫武（孫子）。呉王闔閭を助けて楚国を打ち破り天下に威名を轟かせた彼は、無謀な勇猛さや主観的な血気に頼るのではなく、徹頭徹尾冷徹な分析で「勝つ盤面」のみを構築する伝説的な戦略家でした。\n\n孫武は軍を起こす前、必ず廟堂に座り、敵と味方の戦力を5つの客観的要素—道（大義と団結）、天（気候と時期）、地（地形と環境）、将（リーダーシップと知恵）、法（組織と規律）—で精密に比較計算する「廟算（びょうさん）」を執り行いました。勝算が定量的に立証されるまでは、一人の兵士も動かしませんでした。司馬遷の『史記』に記録されているように、孫武にとって事前計算は勝負欲による楽観バイアスを遮断し、予期せぬ失敗リスクをあらかじめ消し去る厳粛な認知的シミュレーションでした。\n\n本日の記事では、孫子の事前計算「廟算」ルーティンに隠された見込みの hindsight（Prospective Hindsight）と楽観バイアス（Optimism Bias）抑制の脳科学的原理をご紹介します。",
+                "whyTitle": "見込みの hindsight と楽観バイアス抑制がもたらすプレモーテム・シミュレーション効果",
+                "whyDesc": "プロジェクトや行動を開始する前に、失敗の可能性とリスク要因をあらかじめ定量的に点検する行為は、脳科学的に<strong>「見込みの hindsight（Prospective Hindsight）」</strong>と<strong>「プレモーテム（Pre-mortem）」</strong>のメカニズムを作動させます。\n\n人間の脳は新しいことを始める際、楽観バイアス（Optimism Bias）や感情的な衝動に陥りがちです。しかし、5つの核心変数で事前にリスクを定量シミュレーションすることで、扁桃体（Amygdala）の無謀な衝動性が抑制され、前頭前野（Prefrontal Cortex）の実行機能と高次のリスク評価回路が活性化して、意思決定の勝率を大幅に高めてくれます。",
+                "cautionTitle": "分析麻痺を警戒し、定量指標の基準に集中してください",
+                "cautionDesc": "孫子の廟算ルーティンの核心は、終わりのない心配や優柔不断に陥る「分析麻痺（Analysis Paralysis）」ではなく、5つの客観的基準を通じて勝算の有無を明確に指標化することです。期限を定めて客観データ中心の定量点検を完了させた後、直ちに行動へ移してください。",
+                "steps": [
+                    {
+                        "title": "プロジェクト/実行前に5つの定量評価変数（大義、時期、環境、能力、体系）を設定する",
+                        "desc": "行おうとする事案 核心変数を、道・天・地・将・法の現代的基準（目標の大義、市場/時期、資源/環境、実行能力、プロセス/規律）として定義します。"
+                    },
+                    {
+                        "title": "敵と味方（自身と競合/状況）の条件を5つの軸で客観的にスコアリング（Scoring）する",
+                        "desc": "感情を排除し、自身と対象の条件を1〜10点のスコアや客観的数値で当てはめ、優位性と不足しているリスク要因を可視化します。"
+                    },
+                    {
+                        "title": "失敗の仮想シナリオ（Pre-mortem）点検後、勝算が確認された時点で行動を開始する",
+                        "desc": "既に失敗したと仮定して発生し得るボトルネックを事前に補完し、定量的な勝算が確認された段階で断固として実行に移します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "日常的な軽い業務や小さな挑戦でも5つの変数の事前計算ルーティンを使うべきですか？",
+                        "answer": "すべての小さなことに壮大な廟算を適用する必要はありません。ただし、重要な意思決定、事業企画、投資、転職などリスクが大きい決定では、5つの基準（目標、タイミング、環境、能力、体系）で5分間のチェックリストを作成するだけで、無謀な失敗を劇的に防ぐことができます。"
+                    },
+                    {
+                        "question": "事前計算の結果、勝算が低いと判明した場合はどう対応すべきですか？",
+                        "answer": "孫子は勝算がない時に無理に戦わず、補強するか待機しました。スコアの低い変数（例：資源不足、体系の未整備）を集中補強して定量的勝算基準を満たしてから参入するか、リスクが大きすぎる場合は戦略的に回避することが廟算の真の目的です。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "El Poder de Eliminar el Fracaso De Antemano: La Rutina de 'Pre-cálculo (Miaosuan)' de 5 Variables de Sun Tzu",
+                "description": "El estratega militar Sun Wu calculó previamente las probabilidades de victoria y los riesgos basándose en 5 criterios objetivos (Vía, Cielo, Tierra, General, Doctrina) antes de la guerra. Descubra hábitos cognitivos que eliminan el sesgo de optimismo y maximizan la tasa de victoria.",
+                "authority": "Registros del Gran Historiador Vol. 65 de Sima Qian <Biografías de Sun Tzu y Wu Qi> & 'El Arte de la Guerra' Cap. 1 <Evaluación> e Investigación en Psicología Cognitiva sobre Pre-mortem y Retrospectiva Prospectiva (Prospective Hindsight) de Gary Klein",
+                "intro": "\"El que gana la batalla hace muchos cálculos antes de luchar; el que pierde hace pocos cálculos de antemano.\" ⚔️\n\nSun Wu (Sun Tzu), legendario estratega militar del Estado de Qi durante el periodo de Primavera y Otoño en China y autor del tratado militar más famoso de la antigüedad oriental, 'El Arte de la Guerra'. Desempeñó un papel decisivo ayudando al Rey Helü de Wu a derrotar al estado de Chu y dominar el continente. En lugar de confiar en la bravura temeraria o el ardor emocional, era un estratega legendario que creaba terrenos victoriosos mediante un análisis frío y objetivo.\n\nAntes de movilizar tropas, Sun Wu realizaba el 'Miaosuan' (pre-cálculo en el templo), sentándose en el templo ancestral para comparar y calcular con precisión la fuerza propia y la del enemigo a través de cinco variables objetivas: la Vía (propósito y unión), el Cielo (clima y oportunidad), la Tierra (terreno y distancia), el General (liderazgo y sabiduría) y la Doctrina (organización y disciplina). Ni un solo soldado se movía hasta que las probabilidades estuvieran demostradas cuantitativamente. Como registró Sima Qian en los 'Registros del Gran Historiador', para Sun Tzu el pre-cálculo era una simulación cognitiva solemne para bloquear el sesgo de optimismo y borrar los riesgos de fracaso inesperado.\n\nEn la publicación de hoy, presentamos los principios neurocientíficos de la Retrospectiva Prospectiva (Prospective Hindsight) y la supresión del Sesgo de Optimismo (Optimism Bias) presentes en la rutina Miaosuan de Sun Tzu.",
+                "whyTitle": "Efectos de Simulación Pre-mortem Producidos por la Retrospectiva Prospectiva y la Supresión del Sesgo de Optimismo",
+                "whyDesc": "Evaluar cuantitativamente las posibilidades de fracaso y factores de riesgo antes de iniciar un proyecto activa los mecanismos neurocientíficos de la <strong>'Retrospectiva Prospectiva (Prospective Hindsight)'</strong> y el análisis <strong>'Pre-mortem'</strong>.\n\nEl cerebro humano tiende a caer en el sesgo de optimismo (Optimism Bias) e impulsos emocionales al emprender algo nuevo. Sin embargo, simular el riesgo cuantitativamente sobre cinco variables clave frena la impulsividad temeraria de la amígdala (Amygdala) y activa las funciones ejecutivas de la corteza prefrontal (Prefrontal Cortex) y los circuitos de evaluación de riesgos de alto nivel, aumentando drásticamente la tasa de victoria.",
+                "cautionTitle": "Evite la Parálisis por Análisis y Enfóquese en Indicadores Cuantitativos",
+                "cautionDesc": "El núcleo de la rutina Miaosuan de Sun Tzu no es caer en la 'Parálisis por Análisis (Analysis Paralysis)' con preocupaciones infinitas o indecisión, sino definir con claridad las probabilidades de victoria con 5 criterios objetivos. Establezca una fecha límite, complete su evaluación basada en datos objetivos y pase de inmediato a la acción.",
+                "steps": [
+                    {
+                        "title": "Establecer 5 Variables de Evaluación Cuantitativa (Propósito, Oportunidad, Entorno, Capacidad, Sistema) Antes de Ejecutar",
+                        "desc": "Defina las variables clave aplicando estándares modernos derivados de la Vía, Cielo, Tierra, General y Doctrina (Propósito del Objetivo, Mercado/Tiempo, Recursos/Entorno, Capacidad de Ejecución, Proceso/Disciplina)."
+                    },
+                    {
+                        "title": "Evaluar Objetivamente (Scoring) las Condiciones Propias vs. Enemigo/Situación en 5 Ejes",
+                        "desc": "Excluya emociones y asigne puntajes (1-10) o métricas objetivas para visualizar fortalezas y vulnerabilidades de riesgo."
+                    },
+                    {
+                        "title": "Iniciar la Acción Tras la Verificación de Escenarios de Fracasos (Pre-mortem) y Confirmar Probabilidades",
+                        "desc": "Asuma que el proyecto ya ha fracasado para corregir posibles cuellos de botella de antemano e inicie la ejecución decididamente una vez verificada la victoria cuantitativa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Debo usar la rutina de pre-cálculo de 5 variables incluso para tareas menores diarias?",
+                        "answer": "No necesita un Miaosuan elaborado para cada pequeña tarea. Sin embargo, en decisiones de alto riesgo como grandes proyectos, inversiones o cambio de carrera, dedicar 5 minutos a revisar los 5 criterios (Objetivo, Tiempo, Entorno, Capacidad, Sistema) previene eficazmente fracasos desastrosos."
+                    },
+                    {
+                        "question": "¿Cómo responder si el pre-cálculo arroja bajas probabilidades de éxito?",
+                        "answer": "Sun Tzu evitaba batallas temerarias cuando las probabilidades eran bajas, eligiendo reforzar puntos débiles o esperar. El verdadero propósito del Miaosuan es fortalecer variables de baja puntuación (ej. falta de recursos, sistema ineficiente) hasta cumplir los criterios de victoria, o esquivar estratégicamente si el riesgo sigue siendo excesivo."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Le pouvoir d'éliminer l'échec à l'avance : La routine de 'pré-calcul (Miaosuan)' à 5 variables de Sun Tzu",
+                "description": "Le stratège militaire Sun Wu calculait au préalable les chances de victoire et les risques selon 5 critères objectifs (Voie, Climat, Terrain, Général, Discipline) avant d'engager le combat. Découvrez des habitudes cognitives qui éliminent le biais d'optimisme et maximisent le taux de réussite.",
+                "authority": "Mémoires Historiques Vol. 65 de Sima Qian <Biographies de Sun Tzu et Wu Qi> & 'L'Art de la Guerre' Chap. 1 <Évaluations> & Recherche en Psychologie Cognitive sur le Pre-mortem et le Rétrospective Prospective (Prospective Hindsight) de Gary Klein",
+                "intro": "« Celui qui gagne la bataille accomplit de nombreux calculs avant le combat ; celui qui perd n'en accomplit que peu. » ⚔️\n\nSun Wu (Sun Tzu), légendaire stratège militaire de l'État de Qi durant la période des Printemps et Automnes en Chine et auteur du plus célèbre traité militaire de l'Antiquité orientale, 'L'Art de la Guerre'. Ayant joué un rôle décisif aux côtés du roi Helü de Wu pour vaincre le royaume de Chu et s'imposer sur le continent, il ne comptait ni sur la témérité aveugle ni sur la passion irréfléchie, mais élaborait ses victoires par une analyse froide et objective.\n\nAvant de mobiliser ses troupes, Sun Wu accomplissait impérativement le 'Miaosuan' (pré-calcul dans le temple), s'asseyant dans le temple ancestral pour comparer et calculer rigoureusement les forces en présence selon cinq variables objectives : la Voie (alignement moral et union), le Climat (saisons et opportunité), le Terrain (géographie et distance), le Général (leadership et sagesse) et la Discipline (organisation et règles). Pas un seul soldat ne se déplaçait avant que les probabilités ne soient quantitativement prouvées. Comme consigné par Sima Qian dans les 'Mémoires Historiques', le pré-calcul était pour Sun Tzu une simulation cognitive solennelle visant à bloquer le biais d'optimisme et à effacer d'avance les risques d'échec imprévus.\n\nDans l'article d'aujourd'hui, nous présentons les principes neuroscientifiques de la Rétrospective Prospective (Prospective Hindsight) et de la suppression du Biais d'Optimisme (Optimism Bias) ancrés dans la routine Miaosuan de Sun Tzu.",
+                "whyTitle": "Effets de simulation Pre-mortem produits par la rétrospective prospective et la suppression du biais d'optimisme",
+                "whyDesc": "Évaluer quantitativement les risques et échecs potentiels avant le lancement d'un projet active les mécanismes neuroscientifiques de la <strong>« Rétrospective Prospective (Prospective Hindsight) »</strong> et de l'analyse <strong>« Pre-mortem »</strong>.\n\nLe cerveau humain tend à céder au biais d'optimisme (Optimism Bias) et aux impulsions émotionnelles lors du démarrage d'une activité. Cependant, simuler quantitativement les risques sur cinq variables clés réprime la témérité de l'amygdale (Amygdala) et active les fonctions exécutives du cortex préfrontal (Prefrontal Cortex) ainsi que les circuits d'évaluation des risques de haut niveau, élevant considérablement les probabilités de succès.",
+                "cautionTitle": "Garez-vous de la paralysie par l'analyse et concentrez-vous sur des indicateurs quantitatifs",
+                "cautionDesc": "Le cœur de la routine Miaosuan de Sun Tzu ne consiste pas à sombrer dans une 'Paralysie par l'Analyse (Analysis Paralysis)' faite d'inquiétudes sans fin, mais à évaluer clairement les chances de victoire via 5 critères objectifs. Fixez une date limite, terminez votre évaluation quantifiée basée sur des données objectives et passez immédiatement à l'action.",
+                "steps": [
+                    {
+                        "title": "Établir 5 Variables d'Évaluation Quantitative (Objectif, Climat/Timing, Environnement, Compétences, Système) Avant l'Exécution",
+                        "desc": "Définissez les variables clés à l'aide de critères modernes issus de la Voie, du Climat, du Terrain, du Général et de la Discipline (Objectif/Mission, Marché/Timing, Ressources/Environnement, Compétences d'exécution, Processus/Discipline)."
+                    },
+                    {
+                        "title": "Évaluer Objectivement (Scoring) les Conditions Soi vs. Adversaire/Situation sur 5 Axes",
+                        "desc": "Éliminez l'affect et attribuez des notes (1 à 10) ou métriques objectives pour visualiser les forces et vulnérabilités."
+                    },
+                    {
+                        "title": "Engager l'Action Après Vérification du Scénario d'Échec (Pre-mortem) et Validation des Chances de Succès",
+                        "desc": "Posez l'hypothèse que le projet a déjà échoué afin de corriger préventivement les points de blocage, et lancez l'exécution avec détermination une fois le succès quantitatif validé."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Dois-je utiliser la routine de pré-calcul à 5 variables pour les petites tâches quotidiennes ?",
+                        "answer": "Il n'est pas nécessaire d'effectuer un grand Miaosuan pour des broutilles. En revanche, pour des décisions majeures (grands projets, investissements, reconversion), prendre 5 minutes pour passer au crible les 5 critères (Mission, Timing, Environnement, Compétences, Système) prévient efficacement des échecs cuisants."
+                    },
+                    {
+                        "question": "Comment réagir si le pré-calcul indique de faibles chances de succès ?",
+                        "answer": "Sun Tzu évitait d'engager le combat lorsque les chances étaient faibles, préférant renforcer ses points faibles ou attendre. Le vrai but du Miaosuan est de consolider les variables déficitaires (ex. manque de ressources, lacunes organisationnelles) jusqu'à atteindre les critères de victoire, ou d'esquiver stratégiquement si le risque demeure excessif."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Die Macht, Fehler im Voraus auszulöschen: Sun Tzus 5-Variablen-Pre-Calculation-Routine 'Miaosuan'",
+                "description": "Militärstratege Sun Wu berechnete vor dem Krieg Gewinnchancen und Risiken auf Basis von 5 objektiven Kriterien (Weg, Himmel, Erde, General, Gesetz). Entdecken Sie kognitive Gewohnheiten, die den Optimismus-Bias eliminieren und die Entscheidungsquote maximieren.",
+                "authority": "Sima Qians 'Aufzeichnungen des Chronisten' Band 65 <Biografien von Sun Tzu und Wu Qi> & 'Sun Tzus Kunst des Krieges' Kapitel 1 <Berechnung> & Kognitionspsychologische Forschung zu Gary Kleins Pre-mortem und vorausschauender Rückschau (Prospective Hindsight)",
+                "intro": "„Wer die Schlacht gewinnt, macht vor dem Kampf viele Berechnungen; wer verliert, macht vorher nur wenige Berechnungen.“ ⚔️\n\nSun Wu (Sun Tzu), ein legendärer Militärstratege aus dem Staat Qi während der Frühlings- und Herbstperiode in China und Autor des berühmtesten fernöstlichen Militärtraktats 'Die Kunst des Krieges'. Er spielte eine entscheidende Rolle beim Sieg des Königs Helü von Wu über Chu und bei der Etablierung der Hegemonie. Anstatt sich auf kühne Mutproben oder emotionale Hitzköpfigkeit zu verlassen, war er ein kühler Strategischer Geist, der Siegesgründe durch objektive Analysen schuf.\n\nEhe er Truppen mobilisierte, vollzog Sun Wu stets das 'Miaosuan' (Vorausberechnung im Ahnentempel), um die eigene Stärke und die des Feindes anhand von fünf objektiven Variablen präzise zu vergleichen: den Weg (Ziel und Einigkeit), den Himmel (Klima und Zeitpunkt), die Erde (Terrain und Distanz), den General (Führung und Weisheit) sowie das Gesetz (Organisation und Disziplin). Kein einziger Soldat bewegte sich, ehe die Siegchancen nicht quantitativ belegt waren. Wie Sima Qian berichtet, war die Vorausberechnung für Sun Tzu eine feierliche kognitive Simulation, um den Optimismus-Bias abzuwehren und unvorhergesehene Fehlschlagsrisiken im Voraus auszulöschen.\n\nIm heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien der vorausschauenden Rückschau (Prospective Hindsight) und der Unterdrückung des Optimismus-Bias (Optimism Bias) vor, die in Sun Tzus Miaosuan-Routine stecken.",
+                "whyTitle": "Pre-mortem-Simulationseffekte durch vorausschauende Rückschau und Unterdrückung des Optimismus-Bias",
+                "whyDesc": "Fehlermöglichkeiten und Risikofaktoren vor Projektbeginn quantitativ zu überprüfen, aktiviert neurowissenschaftlich die Mechanismen der <strong>'vorausschauenden Rückschau (Prospective Hindsight)'</strong> und der <strong>'Pre-mortem-Analyse'</strong>.\n\nDas menschliche Gehirn neigt bei neuen Vorhaben leicht zu Optimismus-Bias (Optimism Bias) und emotionalen Impulsen. Die quantitative Risikosimulation über fünf Kernvariablen dämpft jedoch vorschnelle Impulse der Amygdala (Amygdala) und aktiviert exekutive Funktionen des Präfrontalkortex (Prefrontal Cortex) sowie hochrangige Risikobewertungsschaltkreise, was die Erfolgsquote bei Entscheidungen drastisch erhöht.",
+                "cautionTitle": "Hüten Sie sich vor Analyse-Paralyse und fokussieren Sie quantitative Indikatoren",
+                "cautionDesc": "Der Kern von Sun Tzus Miaosuan-Routine besteht nicht darin, in endlosen Sorgen oder Unentschlossenheit ('Analysis Paralysis') zu verharren, sondern die Erfolgschancen anhand von 5 objektiven Kriterien klar zu messbaren Indikatoren zu machen. Setzen Sie eine Frist, schließen Sie Ihre datenbasierte quantitative Prüfung ab und handeln Sie unverzüglich.",
+                "steps": [
+                    {
+                        "title": "5 quantitative Bewertungsvariablen (Ziel, Zeitpunkt, Umfeld, Fähigkeit, System) vor der Ausführung festlegen",
+                        "desc": "Definieren Sie Schlüsselvariablen anhand moderner Standards, abgeleitet aus Weg, Himmel, Erde, General und Gesetz (Zielsetzung, Markt/Timing, Ressourcen/Umfeld, Ausführungsfähigkeit, Prozess/Disziplin)."
+                    },
+                    {
+                        "title": "Bedingungen Selbst vs. Gegner/Situation auf 5 Achsen objektiv bewerten (Scoring)",
+                        "desc": "Blenden Sie Emotionen aus und vergeben Sie Punkte (1-10) oder objektive Kennzahlen, um Stärken und Risikoseiten visuell darzustellen."
+                    },
+                    {
+                        "title": "Aktion nach Pre-mortem-Szenarioprüfung und Bestätigung der Gewinnchancen einleiten",
+                        "desc": "Nehmen Sie an, das Projekt sei bereits gescheitert, um mögliche Engpässe vorab zu beheben, und starten Sie die Umsetzung entschlossen, sobald quantitative Gewinnchancen bestätigt sind."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Sollte ich die 5-Variablen-Vorausberechnung auch bei kleinen Alltagsaufgaben anwenden?",
+                        "answer": "Sie benötigen kein aufwendiges Miaosuan für jede Kleinigkeit. Bei risikoreichen Entscheidungen wie Großprojekten, Investitionen oder Jobwechseln hilft eine 5-minütige Checkliste entlang der 5 Kriterien (Ziel, Timing, Umfeld, Fähigkeit, System) jedoch effektiv gegen leichtsinnige Fehlschläge."
+                    },
+                    {
+                        "question": "Wie sollte ich reagieren, wenn die Vorausberechnung geringe Erfolgschancen zeigt?",
+                        "answer": "Sun Tzu vermied unüberlegte Schlachten bei geringen Chancen und zog es vor, Schwachstellen zu stärken oder abzuwarten. Der wahre Zweck des Miaosuan besteht darin, niedrig bewertete Variablen (z. B. Ressourcenmangel, Systemmängel) zu verbessern, bis die Kriterien erfüllt sind, oder bei zu hohem Risiko strategisch auszuweichen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "O Poder de Eliminar o Fracasso Antecipadamente: A Rotina de 'Pré-cálculo (Miaosuan)' de 5 Variáveis de Sun Tzu",
+                "description": "O estrategista militar Sun Wu calculou previamente as chances de vitória e os riscos com base em 5 critérios objetivos (Caminho, Céu, Terra, General, Disciplina) antes da guerra. Descubra hábitos cognitivos que eliminam o vício do otimismo e maximizam a taxa de sucesso.",
+                "authority": "Registros do Historiador Vol. 65 de Sima Qian <Biografias de Sun Tzu e Wu Qi> & 'A Arte da Guerra' Cap. 1 <Avaliação> & Pesquisa em Psicologia Cognitiva sobre Pre-mortem e Retrospectiva Prospectiva (Prospective Hindsight) de Gary Klein",
+                "intro": "\"Aquele que vence a batalha faz muitos cálculos antes de lutar; aquele que perde faz poucos cálculos antecipadamente.\" ⚔️\n\nSun Wu (Sun Tzu), lendário estrategista militar do Estado de Qi durante o Período de Primavera e Outono na China e autor do mais famoso tratado militar da antiguidade oriental, 'A Arte da Guerra'. Tendo desempenhado um papel decisivo ao lado do Rei Helü de Wu para derrotar Chu e dominar o continente, ele não confiava na coragem temerária ou no ardor emocional, mas construía vitórias por meio de análises frias e objetivas.\n\nAntes de mobilizar tropas, Sun Wu realizava o 'Miaosuan' (pré-cálculo no templo), sentando-se no templo ancestral para comparar e calcular rigorosamente as forças próprias e do inimigo por meio de cinco variáveis objetivas: o Caminho (propósito e união), o Céu (clima e oportunidade), a Terra (terreno e distância), o General (liderança e sabedoria) e a Disciplina (organização e regras). Nem um único soldado se movia até que as probabilidades fossem quantitativamente comprovadas. Como registrou Sima Qian nos 'Registros do Historiador', o pré-cálculo era uma simulação cognitiva solene para bloquear o vício do otimismo e apagar antecipadamente os riscos de falhas inesperadas.\n\nNo artigo de hoje, apresentamos os princípios neurocientíficos da Retrospectiva Prospectiva (Prospective Hindsight) e da supressão do Vício do Otimismo (Optimism Bias) presentes na rotina Miaosuan de Sun Tzu.",
+                "whyTitle": "Efeitos de Simulação Pre-mortem Produzidos pela Retrospectiva Prospectiva e Supressão do Vício do Otimismo",
+                "whyDesc": "Avaliar quantitativamente as possibilidades de fracasso e os fatores de risco antes de iniciar um projeto ativa os mecanismos neurocientíficos da <strong>'Retrospectiva Prospectiva (Prospective Hindsight)'</strong> e do relatório <strong>'Pre-mortem'</strong>.\n\nO cérebro humano tende a ceder ao vício do otimismo (Optimism Bias) e a impulsos emocionais ao iniciar novos projetos. Contudo, simular o risco quantitativamente em cinco variáveis-chave refreia a impulsividade temerária da amígdala (Amygdala) e ativa as funções executivas do córtex pré-frontal (Prefrontal Cortex) e os circuitos de avaliação de risco de alto nível, aumentando drasticamente a taxa de sucesso nas decisões.",
+                "cautionTitle": "Cuidado com a Paralisia por Análise e Foque em Indicadores Quantitativos",
+                "cautionDesc": "O cerne da rotina Miaosuan de Sun Tzu não é cair na 'Paralisia por Análise (Analysis Paralysis)' com preocupações infinitas ou indecisão, mas definir com clareza as chances de vitória com 5 critérios objetivos. Estabeleça um prazo, conclua sua avaliação quantitativa baseada em dados objetivos e passe imediatamente à ação.",
+                "steps": [
+                    {
+                        "title": "Estabelecer 5 Variáveis de Avaliação Quantitativa (Propósito, Oportunidade, Ambiente, Capacidade, Sistema) Antes da Execução",
+                        "desc": "Defina variáveis-chave aplicando padrões modernos derivados do Caminho, Céu, Terra, General e Disciplina (Propósito do Objetivo, Mercado/Timing, Recursos/Ambiente, Capacidade de Execução, Processo/Disciplina)."
+                    },
+                    {
+                        "title": "Avaliar Objetivamente (Scoring) as Condições Próprias vs. Inimigo/Situação em 5 Eixos",
+                        "desc": "Exclua emoções e atribua notas (1-10) ou métricas objetivas para visualizar pontos fortes e vulnerabilidades."
+                    },
+                    {
+                        "title": "Iniciar a Ação Após Verificação do Cenário de Fracasso (Pre-mortem) e Confirmação das Chances",
+                        "desc": "Assuma que o projeto já fracassou para corrigir gargalos antecipadamente e inicie a execução com firmeza assim que a vitória quantitativa for confirmada."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Devo usar a rotina de pré-cálculo de 5 variáveis mesmo para pequenas tarefas diárias?",
+                        "answer": "Você não precisa de um Miaosuan elaborado para cada pequena tarefa. No entanto, em decisões de alto risco como grandes projetos, investimentos ou transição de carreira, dedicar 5 minutos para revisar os 5 critérios (Objetivo, Tempo, Ambiente, Capacidade, Sistema) previne eficazmente fracassos desastrosos."
+                    },
+                    {
+                        "question": "Como responder se o pré-cálculo indicar baixas chances de sucesso?",
+                        "answer": "Sun Tzu evitava batalhas temerárias quando as chances eram baixas, optando por reforçar pontos fracos ou aguardar. O verdadeiro propósito do Miaosuan é fortalecer variáveis de baixa pontuação (ex. falta de recursos, sistema ineficiente) até atingir os critérios de vitória, ou desviar estrategicamente se o risco permanecer excessivo."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Kekuatan Menghapus Kegagalan Sejak Awal: Rutinitas 'Pra-kalkulasi (Miaosuan)' 5 Variabel Sun Tzu",
+                "description": "Estrategis militer Sun Wu mengkalkulasi peluang kemenangan dan risiko berdasarkan 5 kriteria objektif (Jalan, Langit, Bumi, Jenderal, Hukum) sebelum perang. Pelajari kebiasaan kognitif yang menghilangkan bias optimisme dan memaksimalkan rasio kemenangan keputusan.",
+                "authority": "Catatan Sejarah Agung Jilid 65 karya Sima Qian <Biografi Sun Tzu dan Wu Qi> & 'Seni Perang Sun Tzu' Bab 1 <Kalkulasi> & Penelitian Psikologi Kognitif tentang Pre-mortem dan Prospective Hindsight karya Gary Klein",
+                "intro": "\"Dia yang memenangkan pertempuran melakukan banyak kalkulasi sebelum pertempuran dimulai; dia yang kalah hanya melakukan sedikit kalkulasi sebelumnya.\" ⚔️\n\nSun Wu (Sun Tzu), ahli strategi militer legendaris dari Negara Qi pada Periode Musim Semi dan Gugur di Tiongkok dan penulis kitab militer paling terkenal di Timur, 'Seni Perang' (The Art of War). Memegang peran kunci membantu Raja Helü dari Wu mengalahkan Negara Chu dan menguasai daratan, ia tidak mengandalkan keberanian nekad atau gairah emosional, melainkan membangun medan kemenangan melalui analisis dingin dan objektif.\n\nSebelum mengerahkan pasukan, Sun Wu selalu menjalankan 'Miaosuan' (pra-kalkulasi di kuil), duduk di kuil leluhur untuk membandingkan dan mengkalkulasi kekuatan sendiri dan musuh secara presisi melalui lima variabel objektif: Jalan (tujuan dan persatuan), Langit (cuaca dan waktu), Bumi (medan dan jarak), Jenderal (kepemimpinan dan kearifan), serta Hukum (organisasi dan disiplin). Tak satu pun prajurit bergerak sebelum peluang terbukti secara kuantitatif. Seperti yang dicatat Sima Qian dalam 'Catatan Sejarah Agung', pra-kalkulasi bagi Sun Tzu adalah simulasi kognitif suci untuk membendung bias optimisme dan menghapus risiko kegagalan tak terduga sejak awal.\n\nDalam postingan hari ini, kami memperkenalkan prinsip-prinsip neurosains tentang Prospective Hindsight dan penekanan Bias Optimisme (Optimism Bias) yang tertanam dalam rutinitas Miaosuan Sun Tzu.",
+                "whyTitle": "Efek Simulasi Pre-mortem yang Dihasilkan dari Prospective Hindsight dan Penekanan Bias Optimisme",
+                "whyDesc": "Mengevaluasi kemungkinan kegagalan dan faktor risiko secara kuantitatif sebelum memulai proyek mengaktifkan mekanisme neurosains dari <strong>'Prospective Hindsight'</strong> dan analisis <strong>'Pre-mortem'</strong>.\n\nOtak manusia mudah menyerah pada bias optimisme (Optimism Bias) dan dorongan emosional saat memulai hal baru. Namun, mensimulasikan risiko secara kuantitatif melalui lima variabel utama menekan impulsivitas nekad di amigdala (Amygdala) dan mengaktifkan fungsi eksekutif korteks prefrontal (Prefrontal Cortex) serta sirkuit penilaian risiko tingkat tinggi, meningkatkan rasio kemenangan keputusan secara drastis.",
+                "cautionTitle": "Waspadai Kelumpuhan Analisis dan Fokus pada Indikator Kuantitatif",
+                "cautionDesc": "Inti dari rutinitas Miaosuan Sun Tzu bukanlah jatuh ke dalam 'Kelumpuhan Analisis (Analysis Paralysis)' akibat kecemasan tanpa akhir atau keraguan, melainkan memperjelas peluang kemenangan dengan 5 kriteria objektif. Tetapkan batas waktu, selesaikan penilaian kuantitatif berbasis data objektif, dan langsung bertindak.",
+                "steps": [
+                    {
+                        "title": "Tetapkan 5 Variabel Evaluasi Kuantitatif (Tujuan, Waktu, Lingkungan, Kemampuan, Sistem) Sebelum Eksekusi",
+                        "desc": "Definisikan variabel kunci menggunakan standar modern yang diturunkan dari Jalan, Langit, Bumi, Jenderal, dan Hukum (Tujuan Target, Pasar/Waktu, Sumber Daya/Lingkungan, Kemampuan Eksekusi, Proses/Disiplin)."
+                    },
+                    {
+                        "title": "Evaluasi Kondisi Diri vs. Musuh/Situasi Secara Objektif (Scoring) di 5 Sumbu",
+                        "desc": "Kesampingkan emosi dan berikan skor (1-10) atau metrik objektif untuk memvisualisasikan kekuatan dan kerentanan risiko."
+                    },
+                    {
+                        "title": "Mulai Tindakan Setelah Verifikasi Skenario Kegagalan (Pre-mortem) dan Konfirmasi Peluang",
+                        "desc": "Asumsikan proyek telah gagal untuk memperbaiki hambatan terlebih dahulu, dan mulai eksekusi secara tegas setelah peluang kemenangan kuantitatif terkonfirmasi."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah saya harus menggunakan rutinitas pra-kalkulasi 5 variabel bahkan untuk tugas harian kecil?",
+                        "answer": "Anda tidak memerlukan Miaosuan yang rumit untuk setiap tugas kecil. Namun, untuk keputusan berrisiko tinggi seperti proyek besar, investasi, atau beralih karir, meluangkan waktu 5 menit untuk memeriksa 5 kriteria (Tujuan, Waktu, Lingkungan, Kemampuan, Sistem) secara efektif mencegah kegagalan yang merugikan."
+                    },
+                    {
+                        "question": "Bagaimana harus merespons jika pra-kalkulasi menunjukkan peluang sukses yang rendah?",
+                        "answer": "Sun Tzu menghindari pertempuran nekad saat peluang rendah, memilih untuk memperkuat titik lemah atau menunggu. Tujuan sejati Miaosuan adalah memperkuat variabel berskor rendah (misalnya, kekurangan sumber daya, sistem yang belum siap) hingga memenuhi kriteria kemenangan, atau beralih secara strategis jika risiko tetap terlalu besar."
+                    }
+                ]
+            }
+        }
+    }
+}
