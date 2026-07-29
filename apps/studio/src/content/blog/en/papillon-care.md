@@ -29,7 +29,7 @@ faqs:
     answer: "They have a single coat without undercoat, so shedding is low, but daily brushing is required to prevent matting on ear fringes."
 ---
 
-The Papillon is famed for its butterfly-like ears and top-tier intelligence among toy breeds. Excelling in agility, they possess high learning capacity but are prone to patellar luxation due to delicate bone structure. Their single coat requires daily brushing to prevent tangles on ear fringes. Today, PetSelf outlines a 3-step care routine.
+The Papillon is famed for its butterfly-like ears and top-tier intelligence among toy breeds. Excelling in agility, they possess high learning capacity but are prone to patellar luxation due to delicate bone structure. Their single coat requires daily brushing to prevent tangles on ear fringes. In this guide, outlines a 3-step care routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

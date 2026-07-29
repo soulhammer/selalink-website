@@ -29,7 +29,7 @@ faqs:
     answer: "这是迷你雪纳瑞特有的遗传性皮肤病“雪纳瑞粉刺综合征（Schnauzer Comedone Syndrome）”。因毛囊角化异常，背部脊柱周围易积聚油脂形成黑头与脓疱。切勿用手挤压以免继发细菌感染，使用含过氧化苯酰或水杨酸的药用洗发水定期沐浴可有效控制。"
 ---
 
-拥有标志性浓密眉毛与长胡须的迷你雪纳瑞（Miniature Schnauzer），凭其极高的智商与忠诚度成为深受全球喜爱的名门梗犬。然而，迷你雪纳瑞由于脂质代谢异常，极易患上遗传性高脂血症（Hyperlipidemia）；一旦摄入高脂肪食物，极易诱发致命的急性胰腺炎（Pancreatitis）。此外，它们还易患背部沿脊柱发作的特有皮肤病“雪纳瑞粉刺综合征（Comedone Syndrome）”、潮湿胡须导致的皮肤炎及草酸钙尿路结石。今天 PetSelf 将带您准确解读雪纳瑞的身体信号，并通过 3 步骤日常护理维护其健康。
+拥有标志性浓密眉毛与长胡须的迷你雪纳瑞（Miniature Schnauzer），凭其极高的智商与忠诚度成为深受全球喜爱的名门梗犬。然而，迷你雪纳瑞由于脂质代谢异常，极易患上遗传性高脂血症（Hyperlipidemia）；一旦摄入高脂肪食物，极易诱发致命的急性胰腺炎（Pancreatitis）。此外，它们还易患背部沿脊柱发作的特有皮肤病“雪纳瑞粉刺综合征（Comedone Syndrome）”、潮湿胡须导致的皮肤炎及草酸钙尿路结石。本指南将带您准确解读雪纳瑞的身体信号，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

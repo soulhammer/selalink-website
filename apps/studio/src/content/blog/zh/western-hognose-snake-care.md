@@ -29,7 +29,7 @@ faqs:
     answer: "拒食常由温度不足或环境压力引起。请确认热区温度达标（30-32°C），并加厚垫料给予安全感。若仍拒食，可用金枪鱼汁或青蛙气味沾染乳鼠（Scenting）来诱发食欲。"
 ---
 
-西部猪鼻蛇（Heterodon nasicus）因其微微上翘的可爱猪鼻子，与玉米蛇、球蟒并称为“世界三大宠物蛇”。当感到威胁时，它们会像眼镜蛇一样扁平颈部发出嘶嘶声，甚至翻过身来装死（假死行为 / Thanatosis），这种充满戏剧性的防御演化极具观赏乐趣。由于它们天生喜欢掘洞，提供能够保持洞穴形状的杨木屑垫料至关重要；同时，构建精准的热区与冷区温差梯度是维持其消化与免疫的核心。今天 PetSelf 将解析西部猪鼻蛇的本能防御信号，并公开包含垫料管理、控温与安全喂食的3阶段日常护理流程。
+西部猪鼻蛇（Heterodon nasicus）因其微微上翘的可爱猪鼻子，与玉米蛇、球蟒并称为“世界三大宠物蛇”。当感到威胁时，它们会像眼镜蛇一样扁平颈部发出嘶嘶声，甚至翻过身来装死（假死行为 / Thanatosis），这种充满戏剧性的防御演化极具观赏乐趣。由于它们天生喜欢掘洞，提供能够保持洞穴形状的杨木屑垫料至关重要；同时，构建精准的热区与冷区温差梯度是维持其消化与免疫的核心。本指南将解析西部猪鼻蛇的本能防御信号，并公开包含垫料管理、控温与安全喂食的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

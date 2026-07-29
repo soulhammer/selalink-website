@@ -29,7 +29,7 @@ faqs:
     answer: "수돗물은 계절과 지역에 따라 TDS, GH, 중금속, 잔류 염소 수치가 불규칙하게 변하여 예민한 CRS에게 치명적입니다. 불순물이 0에 가까운 RO수에 CRS 전용 GH 미네랄제를 타서 일정 수치를 맞춰 환수해 주는 것이 탈피 부전과 갑작스러운 사멸을 막는 가장 안전한 방법입니다."
 ---
 
-크리스탈 레드 쉬림프(Caridina logemanni var. 'Crystal Red', 이하 CRS)는 선명한 붉은색과 흰색이 대비되는 밴드 패턴으로 전 세계 물생활 집사들에게 반려 관상용으로 폭발적인 인기를 끌고 있는 프리미엄 소형 갑각류입니다. CRS는 수조 안에서 지속적으로 미생물막(Biofilm)을 갉아먹는 귀여운 행동으로 보는 즐거움을 주지만, 수질과 온도의 미세한 변화에도 극도로 예민하게 반응합니다. 특히 껍질을 벗는 탈피(Molt) 과정에서 질소 산화물(암모니아, 아질산) 수치나 총용존고형물(TDS), 총경도(GH)가 맞지 않으면 탈피 부전(Dysecdysis)으로 사망할 위험이 매우 높습니다. 따라서 영양염류를 흡수하고 약산성을 유지해 주는 소일(Active Soil) 바닥재 선택과 스펀지 여과기 세팅, RO(역삼투압)수 기반의 미세 수질 유지가 생명 연장의 핵심입니다. 오늘 PetSelf에서는 CRS의 행동 신호와 수질 관리, 안전한 탈피를 돕는 3단계 케어 루틴을 다룹니다.
+크리스탈 레드 쉬림프(Caridina logemanni var. 'Crystal Red', 이하 CRS)는 선명한 붉은색과 흰색이 대비되는 밴드 패턴으로 전 세계 물생활 집사들에게 반려 관상용으로 폭발적인 인기를 끌고 있는 프리미엄 소형 갑각류입니다. CRS는 수조 안에서 지속적으로 미생물막(Biofilm)을 갉아먹는 귀여운 행동으로 보는 즐거움을 주지만, 수질과 온도의 미세한 변화에도 극도로 예민하게 반응합니다. 특히 껍질을 벗는 탈피(Molt) 과정에서 질소 산화물(암모니아, 아질산) 수치나 총용존고형물(TDS), 총경도(GH)가 맞지 않으면 탈피 부전(Dysecdysis)으로 사망할 위험이 매우 높습니다. 따라서 영양염류를 흡수하고 약산성을 유지해 주는 소일(Active Soil) 바닥재 선택과 스펀지 여과기 세팅, RO(역삼투압)수 기반의 미세 수질 유지가 생명 연장의 핵심입니다. 이번 가이드에서는 CRS의 행동 신호와 수질 관리, 안전한 탈피를 돕는 3단계 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

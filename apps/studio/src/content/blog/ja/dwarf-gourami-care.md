@@ -29,7 +29,7 @@ faqs:
     answer: "ドワーフグラミーは水面上の空気を取り込んでラビリンス器官で呼吸します。冷たく乾燥した外気が直接触れると、ラビリンス器官に障害や炎症を起こすリスクがあるため、フタをして保温・保湿することが必須です。"
 ---
 
-鮮やかなオレンジレッドとネオンブルーのストライプが美しく映えるドワーフグラミーは、世界中のアクアリストに愛される小型熱帯魚の代表格です。エラ呼吸だけでなく、水面の空気から直接酸素を取り込む特殊な「ラビリンス器官」を持っているため、水面上の空気環境の管理が欠かせません。また、糸状に変化した胸ビレ（触手）を使って周りの環境を探るユニークな習性があります。今回はPetSelfが、ドワーフグラミーの習性サインを解読し、水面空気の保護・発色維持・平和な混泳水槽を維持する3ステップ日常ケアをご紹介します。
+鮮やかなオレンジレッドとネオンブルーのストライプが美しく映えるドワーフグラミーは、世界中のアクアリストに愛される小型熱帯魚の代表格です。エラ呼吸だけでなく、水面の空気から直接酸素を取り込む特殊な「ラビリンス器官」を持っているため、水面上の空気環境の管理が欠かせません。また、糸状に変化した胸ビレ（触手）を使って周りの環境を探るユニークな習性があります。本記事では、ドワーフグラミーの習性サインを解読し、水面空気の保護・発色維持・平和な混泳水槽を維持する3ステップ日常ケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "完全可以，且大有裨益！黑玛丽鱼在原产地不仅生活于淡水，也大量分布于汽水（咸淡水）区域。按每 10 升水加入约 5 ~ 10 克无碘水族粗盐，能有效促进鱼体粘膜分泌、预防白点病与水霉寄生虫，并减轻渗透压负担。"
 ---
 
-因全身覆盖如天鹅绒般乌黑的鳞片与优雅的鱼鳍而备受水族爱好者喜爱的黑玛丽鱼（Black Molly），是一种直接产下幼鱼的卵胎生（Livebearer）淡水热带鱼。虽然黑玛丽鱼被广泛认为是易于饲养的观赏鱼，但它们对低温与软酸性水质极其敏感，易引发身体在原地左右摇晃的“摇晃病（Shimmying）”以及白点病（Ich）。黑玛丽鱼天生喜欢富含矿物质的弱碱性至微咸水质（pH 7.5 ~ 8.2），水质剧烈波动或氨氮偏高会使其免疫力瞬间崩溃。今天 PetSelf 将带您准确解读黑玛丽鱼肢体语言，并通过 3 步骤日常护理维护其健康。
+因全身覆盖如天鹅绒般乌黑的鳞片与优雅的鱼鳍而备受水族爱好者喜爱的黑玛丽鱼（Black Molly），是一种直接产下幼鱼的卵胎生（Livebearer）淡水热带鱼。虽然黑玛丽鱼被广泛认为是易于饲养的观赏鱼，但它们对低温与软酸性水质极其敏感，易引发身体在原地左右摇晃的“摇晃病（Shimmying）”以及白点病（Ich）。黑玛丽鱼天生喜欢富含矿物质的弱碱性至微咸水质（pH 7.5 ~ 8.2），水质剧烈波动或氨氮偏高会使其免疫力瞬间崩溃。本指南将带您准确解读黑玛丽鱼肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "只要提供充足的纵向空间（如猫通天柱、猫爬架）和猫跑步机，即使在狭小的室内也能完美消耗其体能。"
 ---
 
-孟加拉猫因其华丽的豹纹和野性外表而深受喜爱。作为继承了亚洲豹猫血统的猫咪，它们拥有惊人的运动天赋和极高的智商。如果长期缺乏运动或智力刺激，它们极易产生焦虑，表现为昼夜大声嚎叫、破坏家具或攀爬墙壁等极端应激行为。今天，PetSelf 将为您解析孟加拉猫精力过剩的信号，并分享同时满足其体能消耗与好奇心的3阶段日常活力护理流程。
+孟加拉猫因其华丽的豹纹和野性外表而深受喜爱。作为继承了亚洲豹猫血统的猫咪，它们拥有惊人的运动天赋和极高的智商。如果长期缺乏运动或智力刺激，它们极易产生焦虑，表现为昼夜大声嚎叫、破坏家具或攀爬墙壁等极端应激行为。今天，本指南将为您解析孟加拉猫精力过剩的信号，并分享同时满足其体能消耗与好奇心的3阶段日常活力护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 じゃがいもは他の野菜とは異なり、4℃以下の低温で冷蔵保存すると、でんぷんが糖分に分解されて甘みは増しますが、これを高温で調理すると発がん性物質である「アクリルアミド（Acrylamide）」が大量に生成されるという致命的な危険があります。
 
-また、日光や室内灯の光に晒されると、自身を守るために葉緑素を生成して皮が緑色に変色し、食中毒を引き起こす神経毒「ソラニン（Solanine）」を蓄積します。本日FreshSnapでは、食品医薬品安全処（MFDS）と英国食品基準庁（FSA）のガイドラインに基づき、毒素の発生を抑え発芽を防ぐ科学的な常温保存法をご紹介します。🛡️
+また、日光や室内灯の光に晒されると、自身を守るために葉緑素を生成して皮が緑色に変色し、食中毒を引き起こす神経毒「ソラニン（Solanine）」を蓄積します。本記事では、食品医薬品安全処（MFDS）と英国食品基準庁（FSA）のガイドラインに基づき、毒素の発生を抑え発芽を防ぐ科学的な常温保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "可以，但需要控制公母比例。理想比例为1只公蟹配2-3只母蟹。公蟹领地意识极强，因此缸体尺寸需达到30厘米以上，并铺设丰富的苔藓、沉木与洞穴。"
 ---
 
-吸血鬼蟹 (*Geosesarma* spp.) 因其发光的黄眼和鲜艳的紫色或橙色甲壳，在水陆缸 (Paludarium) 爱好者中享有盛誉。它们原产于东南亚热带雨林，生活在陆地占80%、浅水区占20%的高湿度环境中。与需要海水的陆寄居蟹不同，吸血鬼蟹是完全的淡水物种，可在纯淡水环境中直接由卵孵化出完整的小蟹。维持高湿度 (75-85%) 和充足的钙质是其顺利蜕皮的关键；此外，必须提供丰富的躲避穴以减少公蟹间的领地冲突。今天 PetSelf 将分享3阶段日常护理流程。
+吸血鬼蟹 (*Geosesarma* spp.) 因其发光的黄眼和鲜艳的紫色或橙色甲壳，在水陆缸 (Paludarium) 爱好者中享有盛誉。它们原产于东南亚热带雨林，生活在陆地占80%、浅水区占20%的高湿度环境中。与需要海水的陆寄居蟹不同，吸血鬼蟹是完全的淡水物种，可在纯淡水环境中直接由卵孵化出完整的小蟹。维持高湿度 (75-85%) 和充足的钙质是其顺利蜕皮的关键；此外，必须提供丰富的躲避穴以减少公蟹间的领地冲突。本指南将分享3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

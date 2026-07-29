@@ -29,7 +29,7 @@ faqs:
     answer: "Ein Risiko für Hypertrophe Kardiomyopathie (HCM) besteht. Regelmäßige Herzultraschall-Untersuchungen und gute Flüssigkeitszufuhr werden empfohlen."
 ---
 
-Die Heilige Birma ist bekannt für ihre tiefblauen Saphiraugen und ihre blütenweißen 'Handschuhe' an den Pfoten. Diese sanftmütige Rasse baut eine enge Bindung zu ihren Menschen auf. Das seidige Halblanghaarfell besitzt kaum Unterwolle und verknotet daher seltener als bei anderen Langhaarkatzen. Dennoch sind regelmäßiges Bürsten und Untersuchungen auf Hypertrophe Kardiomyopathie (HCM) wichtig. Heute erklärt PetSelf die 3-Schritt-Routine.
+Die Heilige Birma ist bekannt für ihre tiefblauen Saphiraugen und ihre blütenweißen 'Handschuhe' an den Pfoten. Diese sanftmütige Rasse baut eine enge Bindung zu ihren Menschen auf. Das seidige Halblanghaarfell besitzt kaum Unterwolle und verknotet daher seltener als bei anderen Langhaarkatzen. Dennoch sind regelmäßiges Bürsten und Untersuchungen auf Hypertrophe Kardiomyopathie (HCM) wichtig. Heute erklärt  die 3-Schritt-Routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "水龟排泄量巨大，强烈建议配备强大的过滤系统（如外置过滤桶）。即使有过滤器，也建议每周进行 1 ~ 2 次 30% ~ 50% 的部分换水。此外，接触水龟后请务必洗手以预防沙门氏菌感染。"
 ---
 
-红耳龟（Red-Eared Slider）因头两侧鲜艳的红色条纹而得名，是全球最知名的半水栖观赏龟。它们既需要足够水深供其畅游，也必须配备能够提升体温和吸收紫外线的晒背台（Basking Area）。如果缺乏 UVB 灯与加热灯，红耳龟将无法合成维生素 D3，极易引发软甲病、骨骼代谢病（MBD）及腐甲病（Shell Rot）；而水温过低则会剧增患急性肺炎的风险。今天 PetSelf 将带您解读红耳龟的身体语言，并通过3步骤日常护理维护其健康。
+红耳龟（Red-Eared Slider）因头两侧鲜艳的红色条纹而得名，是全球最知名的半水栖观赏龟。它们既需要足够水深供其畅游，也必须配备能够提升体温和吸收紫外线的晒背台（Basking Area）。如果缺乏 UVB 灯与加热灯，红耳龟将无法合成维生素 D3，极易引发软甲病、骨骼代谢病（MBD）及腐甲病（Shell Rot）；而水温过低则会剧增患急性肺炎的风险。本指南将带您解读红耳龟的身体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

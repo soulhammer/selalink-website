@@ -27,7 +27,7 @@ faqs:
 
 A diferencia del aceite de perilla, el aceite de sésamo contiene potentes antioxidantes naturales llamados lignanos (como el sesamol y la sesamolina), lo que le otorga una alta resistencia a la oxidación. Sin embargo, conservarlo a temperaturas inferiores a 10 °C causa su solidificación en cristales blancos, dañando sus compuestos aromáticos. Por otro lado, exponerlo a la luz solar directa o al calor de la cocina acelera su deterioro.
 
-Hoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por expertos en seguridad alimentaria para preservar el aroma y los nutrientes del aceite de sésamo hasta por 1 a 2 años. 🛡️
+En esta guía se comparte una guía de conservación en 3 pasos respaldada por expertos en seguridad alimentaria para preservar el aroma y los nutrientes del aceite de sésamo hasta por 1 a 2 años. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

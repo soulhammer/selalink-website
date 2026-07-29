@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不行。自来水必须祛除氯气，充分溶解海盐后，经历至少2 ~ 4周的养水（硝化系统建立）过程，确认氨和亚硝酸盐数值降低至0 ppm后方可入缸。"
 ---
 
-因动画电影《海底总动员》中的“尼莫”而风靡全球的小丑鱼，以鲜艳的橙色身体和三条白色条纹为特征。小丑鱼在带毒的海葵触手间自由穿梭以躲避捕食者，并为海葵提供残渣与氧气，是典型的互利共生生物。此外，它们属于雄性先熟的双性体（Protandrous Hermaphrodite），当种群中最顶层的雌鱼死亡时，体型最大的雄鱼会转变为雌鱼。今天 PetSelf 将为您解析小丑鱼的习性信号，并提供维持海水适宜比重（1.020 ~ 1.025）与水质的3阶段日常护理流程。
+因动画电影《海底总动员》中的“尼莫”而风靡全球的小丑鱼，以鲜艳的橙色身体和三条白色条纹为特征。小丑鱼在带毒的海葵触手间自由穿梭以躲避捕食者，并为海葵提供残渣与氧气，是典型的互利共生生物。此外，它们属于雄性先熟的双性体（Protandrous Hermaphrodite），当种群中最顶层的雌鱼死亡时，体型最大的雄鱼会转变为雌鱼。本指南将为您解析小丑鱼的习性信号，并提供维持海水适宜比重（1.020 ~ 1.025）与水质的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

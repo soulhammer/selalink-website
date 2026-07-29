@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan madu di dalam kulkas, lalu mendapatinya mengeras menjad
 
 Dengan kadar air di bawah 18% dan konsentrasi gula alami yang tinggi, madu murni adalah bahan makanan antimikroba alami yang secara teoritis tidak pernah basi jika disimpan dengan benar. Namun, menyimpannya pada suhu 10–15°C atau di dalam kulkas mempercepat proses kristalisasi. Selain itu, madu yang dibiarkan terbuka akan menyerap kelembapan udara dan mengalami fermentasi.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar keselamatan pangan untuk menjaga nutrisi dan kelezatan madu Anda. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar keselamatan pangan untuk menjaga nutrisi dan kelezatan madu Anda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

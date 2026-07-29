@@ -29,7 +29,7 @@ faqs:
     answer: "おすすめできません。フクロモモンガは野生で6〜10匹の群れを作る極めて社会性の高い有袋類です。1匹だけで飼育すると重いうつ状態に陥り、自分の尻尾や皮膚を噛みちぎる自傷行為（Self-mutilation）を起こします。必ず2匹以上のペアやグループで飼育してください。"
 ---
 
-飛膜を広げて優雅に滑空するフクロモモンガ（Sugar Glider / Petaurus breviceps）は、カンガルーと同じ有袋類に属する小型のペットです。野生では群れで生活する強い社会性を持つため、単頭飼育を行うと激しい寂しさから毛引きや尻尾を噛む「自傷行為（Self-mutilation）」を起こしやすくなります。また、果物中心の偏った食事でカルシウムとリンのバランス（2:1）が崩れると、後ろ足が麻痺する「後脚麻痺（MBD/代謝性骨疾患）」を頻発します。本日PetSelfでは、フクロモモンガのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+飛膜を広げて優雅に滑空するフクロモモンガ（Sugar Glider / Petaurus breviceps）は、カンガルーと同じ有袋類に属する小型のペットです。野生では群れで生活する強い社会性を持つため、単頭飼育を行うと激しい寂しさから毛引きや尻尾を噛む「自傷行為（Self-mutilation）」を起こしやすくなります。また、果物中心の偏った食事でカルシウムとリンのバランス（2:1）が崩れると、後ろ足が麻痺する「後脚麻痺（MBD/代謝性骨疾患）」を頻発します。本記事では、フクロモモンガのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

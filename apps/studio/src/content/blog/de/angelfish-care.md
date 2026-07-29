@@ -29,7 +29,7 @@ faqs:
     answer: "Nicht zu empfehlen. Junge Skalare schwimmen friedlich mit Kleinfischen, aber ausgewachsene Skalare entwickeln Jagdtriebe. Nachts fressen sie Neons oder Guppys, die ins Maul passen. Vergesellschaften Sie Skalare lieber mit größeren Gemeinschaftsfischen."
 ---
 
-Bekannt für seine hohe, elegante Körperform und die anmutigen Schwimmbewegungen, ist der Skalar (Pterophyllum scalare) der König der Buntbarsche im Süßwasseraquarium. Wegen der hochgewachsenen Flossen ist ein tiefes Becken (Wasserhöhe ab 45 cm) Pflicht. Schlechte Wasserwerte führen zu Flossenfäule oder der 'Lochkrankheit' (Hexamita). Zudem besitzen ausgewachsene Skalare einen natürlichen Jagdtrieb auf kleine Fische (wie Neonsalmler). Heute zeigt PetSelf eine 3-Schritte-Routine für Ihren Skalar.
+Bekannt für seine hohe, elegante Körperform und die anmutigen Schwimmbewegungen, ist der Skalar (Pterophyllum scalare) der König der Buntbarsche im Süßwasseraquarium. Wegen der hochgewachsenen Flossen ist ein tiefes Becken (Wasserhöhe ab 45 cm) Pflicht. Schlechte Wasserwerte führen zu Flossenfäule oder der 'Lochkrankheit' (Hexamita). Zudem besitzen ausgewachsene Skalare einen natürlichen Jagdtrieb auf kleine Fische (wie Neonsalmler). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihren Skalar.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

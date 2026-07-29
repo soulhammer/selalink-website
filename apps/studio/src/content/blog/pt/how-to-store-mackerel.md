@@ -27,7 +27,7 @@ Você já comprou cavala fresca e percebeu que, após dois dias na geladeira, el
 
 A cavala é rica em ácidos graxos ômega-3, mas devido à alta atividade enzimática autolítica e ao elevado teor de gordura, ela oxida e fica rançosa rapidamente em contato com o ar. Além disso, a histidina presente no peixe se converte rápido em histamina tóxica à temperatura ambiente, podendo causar intoxicação alimentar. O controle de temperatura é vital.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do NIFS e do USDA para eliminar odores e manter a cavala perfeitamente fresca. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do NIFS e do USDA para eliminar odores e manter a cavala perfeitamente fresca. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

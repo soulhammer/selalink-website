@@ -27,7 +27,7 @@ Você já comprou uma caixa de morangos lindos e doces, apenas para descobrir um
 
 O morango é uma fruta de casca extremamente fina e polpa delicada, sendo muito sensível à absorção de água e à pressão. Lavá-los com antecedência, remover o pedúnculo (talo verde) ou selá-los hermeticamente cria o ambiente exato que o mofo cinzento (Botrytis) precisa para se proliferar.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para evitar amassados, controlar a umidade e manter seus morangos frescos e doces por mais de uma semana. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para evitar amassados, controlar a umidade e manter seus morangos frescos e doces por mais de uma semana. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

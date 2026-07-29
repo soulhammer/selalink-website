@@ -29,7 +29,7 @@ faqs:
     answer: "퀘이커는 야생에서 거대한 나뭇가지 둥지를 짓고 사는 유일한 앵무새로, 새장을 자신의 요새이자 보금자리로 강하게 인식합니다. 새장 안으로 손을 넣어 억지로 꺼내려 하면 입질이 심해지므로, 새장 문을 열어둔 뒤 밖의 전용 쉼터(T포치)로 스스로 나올 때까지 기다렸다가 손 위에 올리는 훈련을 해야 합니다."
 ---
 
-남미 원산의 퀘이커 앵무(Quaker Parrot / Monk Parakeet)는 뛰어난 언어 모사 능력과 당당하고 애교 넘치는 성격으로 전 세계 사육자들에게 큰 사랑을 받는 중소형 앵무새입니다. 퀘이커는 야생에서 유일하게 나뭇가지로 거대한 공동 둥지를 짓고 사는 앵무새로, 이로 인해 자신의 거주 공간(새장)에 대한 영역 본능과 집착이 매우 강합니다. 또한 식탐이 많고 비만해지기 쉬워 해바라기씨 위주의 지방 식단 시 치명적인 지방간(Hepatic Lipidosis)에 걸리기 쉬우며, 앵무새 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가공 팬의 유독 가스나 아로마 향수에 극도로 취약합니다. 오늘 PetSelf에서는 퀘이커 앵무의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+남미 원산의 퀘이커 앵무(Quaker Parrot / Monk Parakeet)는 뛰어난 언어 모사 능력과 당당하고 애교 넘치는 성격으로 전 세계 사육자들에게 큰 사랑을 받는 중소형 앵무새입니다. 퀘이커는 야생에서 유일하게 나뭇가지로 거대한 공동 둥지를 짓고 사는 앵무새로, 이로 인해 자신의 거주 공간(새장)에 대한 영역 본능과 집착이 매우 강합니다. 또한 식탐이 많고 비만해지기 쉬워 해바라기씨 위주의 지방 식단 시 치명적인 지방간(Hepatic Lipidosis)에 걸리기 쉬우며, 앵무새 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가공 팬의 유독 가스나 아로마 향수에 극도로 취약합니다. 이번 가이드에서는 퀘이커 앵무의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

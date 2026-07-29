@@ -29,7 +29,7 @@ faqs:
     answer: "姿勢を低くし、目を直接見つめ続けないことです。猫にとって凝視することは脅威を意味するため、視線を外し、指のにおい嗅ぎ（鼻タッチ）を促し、おやつをあげることを繰り返してください。"
 ---
 
-ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱 突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本日PetSelfでは、繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンをご紹介します。
+ロシアンブルーは、銀色を帯びた青く美しい短毛とエメラルドグリーンの瞳を持つ神秘的な猫です。物静かで落ち着きがあり、家族を深く愛しますが、遺伝的に警戒心が非常に強く慎重なため、室内の環境変化や突然の騒音に敏感に反応します。🐱 突然の来客や掃除機の音がすると、キャットタワーのハウスの奥に隠れて長い時間出てこないのもこのためです。無理やり引っ張り出そうとするとさらに強いストレスを感じます。本記事では、繊細なロシアンブルーが安心して過ごせる隠れ家を整え、信頼を築く3段階スキンシップルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

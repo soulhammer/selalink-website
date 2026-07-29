@@ -27,7 +27,7 @@ Você já comprou pimentas frescas para cozinhar e em poucos dias percebeu que o
 
 As pimentas contêm de 85 a 90% de água, tornando-se muito sensíveis à umidade e sujeitas a 'danos por frio' (chilling injury) abaixo de 7 °C. Quando a água acumula ao redor do cabinho, os fungos se multiplicam rapidamente, causando podridão mole.
 
-Hojes, o FreshSnap apresenta um guia prático de conservação de pimentas em 3 etapas recomendado por especialistas para manter a ardência e o frescor. 🛡️
+Neste guia, apresentamos um guia prático de conservação de pimentas em 3 etapas recomendado por especialistas para manter a ardência e o frescor. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

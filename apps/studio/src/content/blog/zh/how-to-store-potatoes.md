@@ -27,7 +27,7 @@ faqs:
 
 土豆与其他蔬菜不同，当保存在4℃以下的冷藏环境时，淀粉会分解为还原糖，虽然这会使其变甜，但在经过高温烹饪（如油炸或烘烤）时，极易产生2A类致癌物“丙烯酰胺（Acrylamide）”。
 
-此外，如果土豆暴露在阳光或室内灯光下，为了自我保护会生成叶绿素使表皮变绿，并产生导致食物中毒的神经毒素——龙葵素（Solanine）。今天FreshSnap基于英国食品标准局(FSA)的指南，为您带来抑制毒素产生、防止发芽的科学常温保存法。🛡️
+此外，如果土豆暴露在阳光或室内灯光下，为了自我保护会生成叶绿素使表皮变绿，并产生导致食物中毒的神经毒素——龙葵素（Solanine）。本指南基于英国食品标准局(FSA)的指南，为您带来抑制毒素产生、防止发芽的科学常温保存法。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous déjà étalé du fromage à la crème sur un bagel, puis rangé le re
 
 Le fromage à la crème (cream cheese) est un fromage frais non affiné à forte teneur en eau (plus de 50 %) et en matières grasses, ce qui le rend bien plus vulnérable aux bactéries et moisissures que les fromages à pâte dure. De plus, il craint les écarts de température et absorbe facilement les odeurs.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver l'onctuosité et la fraîcheur de votre fromage à la crème. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver l'onctuosité et la fraîcheur de votre fromage à la crème. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

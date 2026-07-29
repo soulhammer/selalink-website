@@ -27,7 +27,7 @@ faqs:
 
 蘑菇并非植物，而是属于真菌（Fungi）。其整体是由微细菌丝体构成的多孔海绵状结构。储存前冲洗会导致蘑菇迅速吸收水分，破坏内部细胞组织，为细菌性软腐病菌（如假单胞菌）与霉菌的滋生提供绝佳环境。
 
-今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您安全锁住蘑菇特有的鲜美口感与鸟苷酸等旨味成分。🛡️
+本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您安全锁住蘑菇特有的鲜美口感与鸟苷酸等旨味成分。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

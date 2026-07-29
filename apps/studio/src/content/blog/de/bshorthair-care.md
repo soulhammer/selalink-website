@@ -29,7 +29,7 @@ faqs:
     answer: "Sie schätzen ihre Unabhängigkeit sehr und empfinden große Angst, wenn ihre Pfoten den Boden verlieren. Erzwungenes Tragen kann die Vertrauensbasis zum Halter beschädigen."
 ---
 
-Mit ihren großen runden Gesichtern und dem muskulösen Bau sind British Shorthairs als sanfte Riesen der Katzenwelt bekannt und wegen ihres ruhigen Wesens auch für Anfänger ideal. Ihr stämmiger Knochenbau führt jedoch dazu, dass mangelnde Gewichtskontrolle die Gelenke stark belastet. Zudem sind sie genetisch anfällig für Hypertrophe Kardiomyopathie (HCM), eine Herzerkrankung mit Verdickung der Herzwände. Heute stellt PetSelf eine 3-Schritte-Routine vor, um Herz und Gewicht sicher zu pflegen.
+Mit ihren großen runden Gesichtern und dem muskulösen Bau sind British Shorthairs als sanfte Riesen der Katzenwelt bekannt und wegen ihres ruhigen Wesens auch für Anfänger ideal. Ihr stämmiger Knochenbau führt jedoch dazu, dass mangelnde Gewichtskontrolle die Gelenke stark belastet. Zudem sind sie genetisch anfällig für Hypertrophe Kardiomyopathie (HCM), eine Herzerkrankung mit Verdickung der Herzwände. In diesem Ratgeber eine 3-Schritte-Routine vor, um Herz und Gewicht sicher zu pflegen.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

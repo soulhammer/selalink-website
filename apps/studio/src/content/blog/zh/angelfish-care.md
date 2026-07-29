@@ -29,7 +29,7 @@ faqs:
     answer: "不建议混养。幼鱼时期虽然可以和平共处，但神仙鱼成鱼后会展现捕食天性，在夜间将能塞入口中的霓虹灯鱼、孔雀鱼或幼鱼吃掉。建议与体型稍大的温和社区鱼混养。"
 ---
 
-拥有高耸优雅的鳍条与拉风泳姿的神仙鱼（Angelfish）被称为“热带鱼皇后”，是慈鲷科代表性中型观赏鱼。由于其上下伸展的体型，必须配备高水深水族箱（水深 45cm 以上）。若水质恶化或氨氮飙升，极易患上烂鳍病或头部溃烂的“头穿孔病（Hexamita）”；且成鱼后会展现捕食吞咽小鱼（如霓虹灯鱼）的天性。今天 PetSelf 将带您准确解读神仙鱼 肢体语言，并通过 3 步骤日常护理维护清澈的水质。
+拥有高耸优雅的鳍条与拉风泳姿的神仙鱼（Angelfish）被称为“热带鱼皇后”，是慈鲷科代表性中型观赏鱼。由于其上下伸展的体型，必须配备高水深水族箱（水深 45cm 以上）。若水质恶化或氨氮飙升，极易患上烂鳍病或头部溃烂的“头穿孔病（Hexamita）”；且成鱼后会展现捕食吞咽小鱼（如霓虹灯鱼）的天性。本指南将带您准确解读神仙鱼 肢体语言，并通过 3 步骤日常护理维护清澈的水质。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

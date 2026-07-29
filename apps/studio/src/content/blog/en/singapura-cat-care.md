@@ -29,7 +29,7 @@ faqs:
     answer: "It is an inherited hemolytic anemia caused by an enzyme deficiency in red blood cells. Ensure parent cats are DNA-tested (PK Clear) and monitor gum pallor and energy levels regularly."
 ---
 
-Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKD) is crucial. Today, PetSelf outlines a 3-step daily routine for temperature regulation and behavioral enrichment.
+Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKD) is crucial. In this guide, outlines a 3-step daily routine for temperature regulation and behavioral enrichment.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

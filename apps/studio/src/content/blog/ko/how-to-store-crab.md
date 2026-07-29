@@ -27,7 +27,7 @@ faqs:
 
 게는 죽는 순간 내장 속 강력한 단백질 분해 효소에 의해 살이 스스로 녹아내리는 '자기소화(Autolysis)' 현상이 빠르게 일어납니다. 게다가 비브리오균 등 세균 번식이 매우 빠른 고위험 수산물이므로 생물 상태로 방치하면 살이 푸석해지고 맛이 손상됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 게의 살수율과 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 게의 살수율과 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

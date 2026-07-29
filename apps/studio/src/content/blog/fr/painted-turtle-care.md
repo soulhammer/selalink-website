@@ -29,7 +29,7 @@ faqs:
     answer: "Non ! L'hibernation forcée en aquarium intérieur est dangereuse. Une température ambiante trop fraîche affaiblit son système immunitaire. Maintenez l'eau entre 23°C et 26°C toute l'année."
 ---
 
-Célèbre pour ses motifs rouges et jaunes vifs et sa carapace lisse, la Tortue Peinte (Chrysemys picta) est une tortue aquatique très appréciée. Sans une eau propre et une plage sèche pour sécher sa carapace, elle peut développer la pourriture de la carapace. Un manque de UVB et de calcium entraîne la Maladie Osseuse Métabolique (MBD). Découvrez la routine en 3 étapes de PetSelf.
+Célèbre pour ses motifs rouges et jaunes vifs et sa carapace lisse, la Tortue Peinte (Chrysemys picta) est une tortue aquatique très appréciée. Sans une eau propre et une plage sèche pour sécher sa carapace, elle peut développer la pourriture de la carapace. Un manque de UVB et de calcium entraîne la Maladie Osseuse Métabolique (MBD). Découvrez une routine en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

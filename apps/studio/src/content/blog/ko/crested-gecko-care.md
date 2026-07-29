@@ -29,7 +29,7 @@ faqs:
     answer: "크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다."
 ---
 
-속눈썹을 닮은 벼슬 장식이 특징인 크레스티드 게코(Crested Gecko)는 온순한 성격과 인공 사료(슈퍼푸드) 급여의 편리함으로 전 세계에서 가장 사랑받는 붙붙이도마뱀입니다. 하지만 나무위성(Arboreal) 파충류로서 높이가 높은 사육장 환경과 적정 습도(60% ~ 80%), 서늘한 온도(20°C ~ 26°C) 관리가 필수적입니다. 특히 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방해야 하며, 한번 잘린 꼬리는 재생되지 않으므로 스트레스 방지가 중요합니다. 오늘 PetSelf에서는 크레스티드 게코의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
+속눈썹을 닮은 벼슬 장식이 특징인 크레스티드 게코(Crested Gecko)는 온순한 성격과 인공 사료(슈퍼푸드) 급여의 편리함으로 전 세계에서 가장 사랑받는 붙붙이도마뱀입니다. 하지만 나무위성(Arboreal) 파충류로서 높이가 높은 사육장 환경과 적정 습도(60% ~ 80%), 서늘한 온도(20°C ~ 26°C) 관리가 필수적입니다. 특히 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방해야 하며, 한번 잘린 꼬리는 재생되지 않으므로 스트레스 방지가 중요합니다. 이번 가이드에서는 크레스티드 게코의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

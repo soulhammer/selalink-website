@@ -27,7 +27,7 @@ faqs:
 
 Gracias a su alto contenido de acidez del vinagre y la sal, la mostaza es un condimento autoconservante con gran resistencia a las bacterias. Sin embargo, una vez abierta, el contacto con el oxígeno disipa rápidamente sus compuestos picantes y volátiles, oscureciendo su color y separando los líquidos de los sólidos.
 
-Hoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por autoridades de seguridad alimentaria para mantener el sabor intenso y el color brillante de su mostaza. 🛡️
+En esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades de seguridad alimentaria para mantener el sabor intenso y el color brillante de su mostaza. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

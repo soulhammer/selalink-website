@@ -27,7 +27,7 @@ faqs:
 
 파파야는 대표적인 후숙 열대과일로, 10℃ 이하의 저온에 약해 덜 익은 상태로 냉장 보관하면 냉해(Chilling Injury)를 입어 후숙이 중단되고 조직이 쉽게 부패합니다. 특히 껍질의 색상 변화에 맞춰 상온과 냉장 보관을 올바르게 전환하는 것이 신선함과 당도를 극대화하는 핵심입니다.
 
-오늘 FreshSnap에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 파파야의 냉해를 막고 최상의 당도를 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 파파야의 냉해를 막고 최상의 당도를 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

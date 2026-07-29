@@ -27,7 +27,7 @@ faqs:
 
 빵의 주성분인 밀가루 전분은 1 ~ 6℃ 사이의 냉장 온도에서 수분이 빠르게 빠져나가고 단단하게 결정화되는 '전분 노화(Retrogradation)' 현상이 가장 격렬하게 일어납니다. 따라서 냉장실 보관은 식빵의 부드러운 식감을 망치는 가장 안 좋은 보관 방식입니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 과학적 보관 가이드라인을 바탕으로, 식빵의 수분과 갓 구운 듯한 촉촉함을 90일까지 지켜주는 3단계 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 과학적 보관 가이드라인을 바탕으로, 식빵의 수분과 갓 구운 듯한 촉촉함을 90일까지 지켜주는 3단계 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

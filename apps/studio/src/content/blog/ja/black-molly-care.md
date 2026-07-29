@@ -29,7 +29,7 @@ faqs:
     answer: "はい、非常に効果的です！モーリーは淡水だけでなく汽水域（淡水と海水が混ざる場所）にも生息する魚です。水10Lに対してアクアリウムソルト約5〜10gを添加すると、粘膜保護、白点病や寄生虫の予防、浸透圧の維持に大きな効果を発揮します。"
 ---
 
-ベルベットのような黒いウロコと優雅なヒレでアクアリウム愛好家に親しまれているブラックモーリー（Black Molly）は、卵ではなく稚魚を直接産む卵胎生（Livebearer）の熱帯魚です。飼育しやすい初心者向けのお魚として知られていますが、軟水（弱酸性の水）や低温に晒されると体をその場で左右に揺らす「シミー病（Shimmying）」や白点病（Ich）にかかりやすい特徴があります。本来はミネラル豊富な弱アルカリ性〜汽水域（pH 7.5〜8.2）を好み、急激な水質変化やアンモニアの上昇で免疫力が低下します。本日PetSelfでは、ブラックモーリーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+ベルベットのような黒いウロコと優雅なヒレでアクアリウム愛好家に親しまれているブラックモーリー（Black Molly）は、卵ではなく稚魚を直接産む卵胎生（Livebearer）の熱帯魚です。飼育しやすい初心者向けのお魚として知られていますが、軟水（弱酸性の水）や低温に晒されると体をその場で左右に揺らす「シミー病（Shimmying）」や白点病（Ich）にかかりやすい特徴があります。本来はミネラル豊富な弱アルカリ性〜汽水域（pH 7.5〜8.2）を好み、急激な水質変化やアンモニアの上昇で免疫力が低下します。本記事では、ブラックモーリーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

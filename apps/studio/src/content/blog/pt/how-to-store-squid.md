@@ -27,7 +27,7 @@ Você já congelou lula fresca e descobriu que outros alimentos do freezer absor
 
 A lula possui alto teor de água e suas vísceras concentram microrganismos e enzimas digestivas (proteases). Se armazenada sem limpar, essas enzimas causam autólise rápida, liberando trimetilamina (TMA), responsável pelo odor característico de frutos do mar.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do Instituto Nacional de Ciência Pesqueira (NIFS) e do USDA para eliminar odores, prevenir queimaduras de gelo e manter a carne macia e saborosa. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do Instituto Nacional de Ciência Pesqueira (NIFS) e do USDA para eliminar odores, prevenir queimaduras de gelo e manter a carne macia e saborosa. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

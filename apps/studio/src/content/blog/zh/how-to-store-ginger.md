@@ -27,7 +27,7 @@ faqs:
 
 生姜富含水分和纤维，但对湿度非常敏感，极易滋生霉菌；反之，若长期暴露在干燥空气中，水分蒸发会导致姜肉干硬发柴。特别是发霉的生姜会产生强效霉菌毒素，因此储存时需格外谨慎。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步生姜保鲜秘诀，帮您最大程度锁定辛辣浓郁的风味。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步生姜保鲜秘诀，帮您最大程度锁定辛辣浓郁的风味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

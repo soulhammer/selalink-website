@@ -33,7 +33,7 @@ Le bichon maltais, avec son pelage blanc et soyeux et ses trois points noirs (le
 
 Cependant, les propriétaires de bichons maltais s'inquiètent souvent de deux problèmes génétiques : la luxation de la rotule (rotules disloquées) et les taches de larmes (épiphora), qui provoquent des traces rouges et des infections cutanées. Des ajustements quotidiens du mode de vie sont cruciaux pour gérer ces conditions.
 
-Aujourd'hui, PetSelf étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.
+Dans ce guide, étudie le langage corporel du bichon maltais et présente une routine de soins quotidiens sécurisée en 3 étapes pour protéger ses articulations et ses yeux.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

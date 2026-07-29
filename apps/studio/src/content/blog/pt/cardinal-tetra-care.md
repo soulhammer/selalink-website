@@ -29,7 +29,7 @@ faqs:
     answer: "É uma infecção parasitária (Pleistophora hyphessobryconis) que desbota as faixas brilhantes, deforma a coluna e leva à morte. Não há cura conhecida; o peixe afetado deve ser isolado imediatamente e a qualidade da água mantida impecável."
 ---
 
-Famoso por sua listra azul neon e seu ventre vermelho vibrante de ponta a ponta, o Tetra Cardinal (Paracheirodon axelrodi) é um dos peixes de cardume mais emblemáticos do aquarismo. Ao contrário do Tetra Neon comum, cuja cor vermelha cobre apenas a metade posterior, o Cardinal exibe vermelho intenso em toda a extensão inferior. No entanto, necessita de água mole e levemente ácida (pH 5.5–6.8) e é muito sensível ao choque de pH e nitratos elevados. O PetSelf apresenta uma rotina de 3 passos para a sua saúde.
+Famoso por sua listra azul neon e seu ventre vermelho vibrante de ponta a ponta, o Tetra Cardinal (Paracheirodon axelrodi) é um dos peixes de cardume mais emblemáticos do aquarismo. Ao contrário do Tetra Neon comum, cuja cor vermelha cobre apenas a metade posterior, o Cardinal exibe vermelho intenso em toda a extensão inferior. No entanto, necessita de água mole e levemente ácida (pH 5.5–6.8) e é muito sensível ao choque de pH e nitratos elevados. O Este guia  uma rotina de 3 passos para a sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

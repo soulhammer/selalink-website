@@ -27,7 +27,7 @@ faqs:
 
 El cebollín es un ingrediente versátil, pero su alto contenido de agua y su rasgo fisiológico poscosecha —el geotropismo negativo (crecer hacia arriba contra la gravedad)— hacen que se deteriore rápido. Almacenarlo de forma horizontal hace que gaste energía intentando erguirse, acelerando su marchitamiento.
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para controlar la humedad, evitar el agotamiento de energía y mantener sus cebollines crujientes y frescos por más de un mes. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para controlar la humedad, evitar el agotamiento de energía y mantener sus cebollines crujientes y frescos por más de un mes. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

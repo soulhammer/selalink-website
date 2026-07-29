@@ -29,7 +29,7 @@ faqs:
     answer: "러시아 육지거북은 건조 지대 출신의 100% 완전 초식성(Strict Herbivore) 파충류입니다. 당분이 높은 과일을 먹이면 장내 세균총이 파괴되어 원충 번식과 치명적인 설사를 유발합니다. 또한 곤충이나 동물성 단백질을 섭취할 경우 체내 요산 수치가 급격히 높아져 신부전, 통풍, 등갑 기형(피라미딩)을 유발하므로 반드시 섬유질이 풍부한 야생초 및 녹색 잎채소만 급여해야 합니다."
 ---
 
-중앙아시아의 건조한 초원과 사막 지대가 원산지인 러시아 육지거북(Russian Tortoise, 일명 호스필드 육지거북)은 성체 크기가 15 ~ 25cm로 비교적 작고 튼튼하여 전 세계 파충류 사육자들에게 큰 사랑을 받는 대표적인 주행성 소형 육지거북입니다. 앞발가락이 4개여서 '네손가락 육지거북'으로도 불리는 이들은 강력한 굴 파기(Burrowing) 본능을 지니고 있습니다. 하지만 실내 사육 시 자외선(UVB) 조사 및 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 노출되기 쉬우며, 체내 수분 부족 시 흰색 요산이 굳어 발생하는 '요산 결석(Bladder Stones)'으로 목숨을 잃을 수 있습니다. 또한 완전 초식성(Strict Herbivore)이므로 당분이 높은 과일이나 동물성 단백질 급여는 치명적입니다. 오늘 PetSelf에서는 러시아 육지거북의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+중앙아시아의 건조한 초원과 사막 지대가 원산지인 러시아 육지거북(Russian Tortoise, 일명 호스필드 육지거북)은 성체 크기가 15 ~ 25cm로 비교적 작고 튼튼하여 전 세계 파충류 사육자들에게 큰 사랑을 받는 대표적인 주행성 소형 육지거북입니다. 앞발가락이 4개여서 '네손가락 육지거북'으로도 불리는 이들은 강력한 굴 파기(Burrowing) 본능을 지니고 있습니다. 하지만 실내 사육 시 자외선(UVB) 조사 및 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 노출되기 쉬우며, 체내 수분 부족 시 흰색 요산이 굳어 발생하는 '요산 결석(Bladder Stones)'으로 목숨을 잃을 수 있습니다. 또한 완전 초식성(Strict Herbivore)이므로 당분이 높은 과일이나 동물성 단백질 급여는 치명적입니다. 이번 가이드에서는 러시아 육지거북의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

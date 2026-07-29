@@ -29,7 +29,7 @@ faqs:
     answer: "おすすめできません。ネオンテトラは自然界で何百匹もの群れを作って身を守る群泳本能が非常に強い魚です。1〜2匹だけで飼育すると強い不安とストレスから免疫力が低下し、寿命を縮めてしまいます。安心して暮らせるよう、必ず6〜10匹以上の群れで飼育してください。"
 ---
 
-青いネオンラインと鮮やかな赤の対比が美しいネオンテトラ（Neon Tetra）は、観賞魚水槽を代表する小型カラシン科の熱帯魚です。群れをなして泳ぐ群泳（スクーリング）の習性が強いため、ストレスを防ぐには最低6〜10匹以上の群れで飼育する必要があります。ネオンテトラは水質変化（pHショックやアンモニアスパイク）や急激な水温変化に敏感で、治療法のない微胞子虫感染症「ネオン病（Neon Tetra Disease）」にかかりやすい傾向があります。本日PetSelfでは、ネオンテトラの体色変化とサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。
+青いネオンラインと鮮やかな赤の対比が美しいネオンテトラ（Neon Tetra）は、観賞魚水槽を代表する小型カラシン科の熱帯魚です。群れをなして泳ぐ群泳（スクーリング）の習性が強いため、ストレスを防ぐには最低6〜10匹以上の群れで飼育する必要があります。ネオンテトラは水質変化（pHショックやアンモニアスパイク）や急激な水温変化に敏感で、治療法のない微胞子虫感染症「ネオン病（Neon Tetra Disease）」にかかりやすい傾向があります。本記事では、ネオンテトラの体色変化とサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 酸奶是含有活性益生菌的发酵乳制品，对温度变化和外部污染极其敏感。尤其是接触过唾液的勺子或带入水汽，会导致杂菌剧烈繁殖，而温度不稳定则会加剧乳清析出（Syneresis）并使酸味过浓。
 
-今天FreshSnap基于食品安全专家推荐的科学3步酸奶保鲜秘诀，帮您完美锁定酸奶的新鲜度与益生菌活性。🛡️
+本指南基于食品安全专家推荐的科学3步酸奶保鲜秘诀，帮您完美锁定酸奶的新鲜度与益生菌活性。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

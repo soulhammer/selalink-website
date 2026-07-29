@@ -29,7 +29,7 @@ faqs:
     answer: "적혈구 에너지를 만드는 효소가 부족해 용혈성 빈혈을 일으키는 유전 질환입니다. 입양 전 부모묘의 유전자 검사(PK Clear) 여부를 확인하고, 평소 잇몸 색상과 기력 변화를 유심히 살펴야 합니다."
 ---
 
-크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKD)에 유의해야 합니다. 오늘 PetSelf에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.
+크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKD)에 유의해야 합니다. 이번 가이드에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

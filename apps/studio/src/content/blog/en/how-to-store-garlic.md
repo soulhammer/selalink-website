@@ -27,7 +27,7 @@ Have you ever peeled a large batch of garlic to save time while cooking, only to
 
 The moment garlic is peeled, its protective outer skin is lost, making it extremely sensitive to humidity. Microscopic condensation and trapped moisture inside storage containers create an ideal breeding ground for mold spores and bacteria, making humidity control the ultimate key to freshness.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to preserve flavor, nutrients, and allicin content across whole, peeled, and minced garlic for longer. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to preserve flavor, nutrients, and allicin content across whole, peeled, and minced garlic for longer. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

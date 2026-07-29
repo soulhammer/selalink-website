@@ -27,7 +27,7 @@ Pernahkah Anda membeli biji kopi sangrai segar, tetapi hanya dalam beberapa hari
 
 Sejak saat disangrai (roasting), biji kopi terus melepaskan karbon dioksida dan teroksidasi dengan cepat saat bersentuhan dengan oksigen, kelembapan, cahaya, dan panas. Struktur biji kopi yang berpori menyerap kelembapan dan bau di sekitarnya seperti spons, menjadikan metode penyimpanan faktor paling penting bagi cita rasa kopi.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh Specialty Coffee Association (SCA) untuk menjaga kesegaran dan aroma kopi Anda. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh Specialty Coffee Association (SCA) untuk menjaga kesegaran dan aroma kopi Anda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

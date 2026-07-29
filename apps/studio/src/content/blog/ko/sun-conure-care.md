@@ -29,7 +29,7 @@ faqs:
     answer: "씨앗 위주의 식단은 지방 함량이 높고 비타민 A, 칼슘이 극히 부족하여 비만, 호흡기 상피세포 변형, 자해 행동을 유발합니다. 펠릿 사료를 70% 이상 주식으로 구성해야 합니다."
 ---
 
-찬란한 노랑과 주황빛 깃털, 다정한 성격을 지닌 선코뉴어는 세계적으로 사랑받는 중소형 앵무새입니다. 하지만 무리 생활을 하는 지능 높은 조류 특성상 사회적 욕구가 크고 고주파 비명이 강하며, 씨앗 위주의 식단 시 비타민 A 결핍증에 걸리기 쉽습니다. 또한 매일 10 ~ 12시간의 어둡고 조용한 수면 환경이 제공되지 않으면 스트레스로 인한 깃털 자해나 공격성을 보일 수 있습니다. 오늘 PetSelf에서는 선코뉴어의 행동 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
+찬란한 노랑과 주황빛 깃털, 다정한 성격을 지닌 선코뉴어는 세계적으로 사랑받는 중소형 앵무새입니다. 하지만 무리 생활을 하는 지능 높은 조류 특성상 사회적 욕구가 크고 고주파 비명이 강하며, 씨앗 위주의 식단 시 비타민 A 결핍증에 걸리기 쉽습니다. 또한 매일 10 ~ 12시간의 어둡고 조용한 수면 환경이 제공되지 않으면 스트레스로 인한 깃털 자해나 공격성을 보일 수 있습니다. 이번 가이드에서는 선코뉴어의 행동 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

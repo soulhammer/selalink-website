@@ -27,7 +27,7 @@ faqs:
 
 キノコは植物ではなく菌類（Fungi）であり、傘や柄の全体が微細な菌糸体で構成されたスポンジのような多孔質構造を持っています。保存前に水洗いすると水分を急速に吸収して組織が崩れ、細菌性の軟腐病菌（シュードモナス等）やカビが繁殖しやすい環境になってしまいます。
 
-本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、キノコ特有の歯ごたえと旨味成分を守る3段階の科学的保存法をご紹介します。🛡️
+本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、キノコ特有の歯ごたえと旨味成分を守る3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

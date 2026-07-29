@@ -27,7 +27,7 @@ faqs:
 
 아스파라거스는 수확 후에도 호흡 작용과 생장이 매우 활발하게 일어나는 고호흡성 채소입니다. 그냥 눕혀서 보관하면 중력의 영향으로 밑동이 굽어지고 수분이 급격히 빠져나가 줄기가 질겨지고 영양소가 쉽게 손실됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 과학 전문가들이 권장하는, 꽃병에 꽃을 꽂듯 아스파라거스의 아삭함과 신선도를 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 과학 전문가들이 권장하는, 꽃병에 꽃을 꽂듯 아스파라거스의 아삭함과 신선도를 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "毎日最低1回以上の清掃が必要です。フードの食べこぼしや涙の湿気がシワの間に溜まりやすく、放置すると雑菌やカビが繁殖して皮膚炎や悪臭の原因になります。"
 ---
 
-愛らしい大きな耳と鼻ペチャな顔立ちで人気のフレンチ・ブルドッグですが、その特有の骨格（短頭種）ゆえに気道狭窄や呼吸困難、急激な体温上昇を引き起こしやすいリスクを持っています。また、高い場所から飛び跳ねる動作は脊椎に大きな負担を与えます。本日PetSelfでは、呼吸困難や体温上昇のシグナルを見分け、健康を守る3段階ケア operational ルーティンを解説します。
+愛らしい大きな耳と鼻ペチャな顔立ちで人気のフレンチ・ブルドッグですが、その特有の骨格（短頭種）ゆえに気道狭窄や呼吸困難、急激な体温上昇を引き起こしやすいリスクを持っています。また、高い場所から飛び跳ねる動作は脊椎に大きな負担を与えます。本記事では、呼吸困難や体温上昇のシグナルを見分け、健康を守る3段階ケア operational ルーティンを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

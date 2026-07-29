@@ -27,7 +27,7 @@ faqs:
 
 マグロ（ツナ）はタンパク質やDHA、EPAなどの不飽和脂肪酸が豊富ですが、空気と接触すると脂質の酸化が急速に進み、生臭さが強くなります。特に開けたツナ缶をそのまま保存すると、金属成分が溶け出したり（溶出）、微生物に汚染される危険性が非常に高くなります。
 
-本日FreshSnapでは、米国農務省（USDA）などの安全ガイドラインに基づき、ツナ（缶詰および生マグロ）の味と衛生を守る3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、ツナ（缶詰および生マグロ）の味と衛生を守る3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

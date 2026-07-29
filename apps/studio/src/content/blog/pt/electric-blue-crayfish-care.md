@@ -29,7 +29,7 @@ faqs:
     answer: "Não é recomendado. São caçadores oportunistas que apanharão peixes lentos, peixes de fundo e camarões com as suas garras. Manter um único espécime é a opção ideal."
 ---
 
-O lagostim-azul-elétrico (Procambarus alleni) é um crustáceo de água doce famoso pela sua cor azul-cobalto vibrante. Atinge 10 a 15 cm em adulto e possui garras potentes. Como todos os crustáceos, passa por mudas periódicas (ecdise) para crescer. Após a muda, o seu exoesqueleto mole deixa-o muito vulnerável. Fornecer cálcio para endurecer a carcaça e evitar a convivência com peixes de fundo ou camarões é fundamental. Hoje no PetSelf explicamos os seus sinais e uma rotina de 3 passos.
+O lagostim-azul-elétrico (Procambarus alleni) é um crustáceo de água doce famoso pela sua cor azul-cobalto vibrante. Atinge 10 a 15 cm em adulto e possui garras potentes. Como todos os crustáceos, passa por mudas periódicas (ecdise) para crescer. Após a muda, o seu exoesqueleto mole deixa-o muito vulnerável. Fornecer cálcio para endurecer a carcaça e evitar a convivência com peixes de fundo ou camarões é fundamental. Neste guia, explicamos os seus sinais e uma rotina de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

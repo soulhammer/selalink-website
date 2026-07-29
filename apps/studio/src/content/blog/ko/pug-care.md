@@ -29,7 +29,7 @@ faqs:
     answer: "퍼그는 돌출안 구조로 인해 풀밭이나 자극물에 눈이 긁혀 각막 궤양이 생기기 쉬우므로 산책 후 안구 세정을 권장합니다. 또한 유전성 뇌 질환인 퍼그 뇌염(PDE/괴사성 수막뇌염)은 1 ~ 3세 사이에 경련이나 발작, 보행 장애로 나타날 수 있으므로 해당 증상 목격 시 즉시 수의사에게 MRI 검사를 받아야 합니다."
 ---
 
-주름진 얼굴과 동그란 눈, 특유의 애교로 수세기 동안 사랑받아 온 퍼그(Pug)는 사람과의 교감을 무엇보다 중요하게 생각하는 대표적인 반려견입니다. 퍼그는 온순하고 다정한 성품을 지녔지만, 안면 구조가 납작한 단두종 특성상 단두종 호흡기 증후군(BOAS)과 열사병에 매우 취약합니다. 또한 두개골 구조상 안구가 돌출되어 있어 각막 궤양 및 안구 건조증이 자주 발생하며, 식탐이 많아 비만이 될 경우 호흡 곤란과 관절 질환이 악화될 수 있습니다. 오늘 PetSelf에서는 퍼그의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+주름진 얼굴과 동그란 눈, 특유의 애교로 수세기 동안 사랑받아 온 퍼그(Pug)는 사람과의 교감을 무엇보다 중요하게 생각하는 대표적인 반려견입니다. 퍼그는 온순하고 다정한 성품을 지녔지만, 안면 구조가 납작한 단두종 특성상 단두종 호흡기 증후군(BOAS)과 열사병에 매우 취약합니다. 또한 두개골 구조상 안구가 돌출되어 있어 각막 궤양 및 안구 건조증이 자주 발생하며, 식탐이 많아 비만이 될 경우 호흡 곤란과 관절 질환이 악화될 수 있습니다. 이번 가이드에서는 퍼그의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

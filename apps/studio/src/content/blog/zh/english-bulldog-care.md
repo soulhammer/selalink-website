@@ -29,7 +29,7 @@ faqs:
     answer: "这是因眼泪或汗水积聚导致的褶皱间擦疹（皮肤炎）。每天必须擦拭并保持绝对干燥。若炎症严重，需咨询兽医使用专用抗菌洗剂或软膏。"
 ---
 
-英国斗牛犬以其标志性的深面部褶皱、粗壮结实的体格以及出人意料的温和性格而闻名世界。它们拥有比法国斗牛犬更大、胸宽更广的传统斗牛犬骨骼，但由于扁平的鼻腔结构（短头犬），极度不耐热且散热能力较差。此外，当湿气和污垢积聚在面部褶皱和尾巴窝（Tail pocket）中时，极易引发细菌或真菌性间擦疹。今天 PetSelf 将解析英国斗牛犬的情感表达信号，并分享褶皱清洁与预防中暑的3阶段日常护理流程。
+英国斗牛犬以其标志性的深面部褶皱、粗壮结实的体格以及出人意料的温和性格而闻名世界。它们拥有比法国斗牛犬更大、胸宽更广的传统斗牛犬骨骼，但由于扁平的鼻腔结构（短头犬），极度不耐热且散热能力较差。此外，当湿气和污垢积聚在面部褶皱和尾巴窝（Tail pocket）中时，极易引发细菌或真菌性间擦疹。本指南将解析英国斗牛犬的情感表达信号，并分享褶皱清洁与预防中暑的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

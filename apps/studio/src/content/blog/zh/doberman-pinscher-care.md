@@ -29,7 +29,7 @@ faqs:
     answer: "杜宾犬胸腔深而狭窄，胃部在体腔内活动空间大。若进食过快吞入气体或饭后剧烈运动，胃部极易膨胀并发生翻转（GDV），在数小时内阻断血液循环导致休克死亡。预防方法是分餐饲喂、使用慢食碗，并在饭后保持至少1小时的完全安静。"
 ---
 
-拥有极高智商、优雅体型与强烈忠诚度的杜宾犬（Doberman Pinscher）是全球最受喜爱的护卫犬与家庭伴侣犬。虽然杜宾犬对家庭极为依恋，但基因上极易患扩张型心肌病（DCM），且因深胸结构，极易在饭后剧烈运动时引发致死性的胃扩张-扭转（GDV）。此外，被毛为单层短毛，极其怕冷，若缺乏足够的运动与智力消耗，容易产生压力行为。今天 PetSelf 将带您准确解读杜宾犬肢体语言，并通过3步骤日常护理维护其健康。
+拥有极高智商、优雅体型与强烈忠诚度的杜宾犬（Doberman Pinscher）是全球最受喜爱的护卫犬与家庭伴侣犬。虽然杜宾犬对家庭极为依恋，但基因上极易患扩张型心肌病（DCM），且因深胸结构，极易在饭后剧烈运动时引发致死性的胃扩张-扭转（GDV）。此外，被毛为单层短毛，极其怕冷，若缺乏足够的运动与智力消耗，容易产生压力行为。本指南将带您准确解读杜宾犬肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

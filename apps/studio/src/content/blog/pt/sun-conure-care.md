@@ -29,7 +29,7 @@ faqs:
     answer: "Dietas exclusivas de sementes são ricas em gordura e deficientes em Vitamina A e cálcio, causando obesidade, problemas respiratórios e arrancamento de penas. A ração extrusada deve representar pelo menos 70% do alimento diário."
 ---
 
-Com uma plumagem deslumbrante em amarelo e laranja e uma personalidade carinhosa, a Aratinga-do-Sol é um papagaio de porte médio amado em todo o mundo. No entanto, por ser uma ave gregária e inteligente, possui necessidades sociais intensas, emite gritos de contato altos e é propenso à deficiência de Vitamina A sob uma dieta exclusiva de sementes. Além disso, a falta de 10 a 12 horas de sono escuro pode provocar o arrancamento de penas por estresse. O PetSelf traz uma rotina de 3 passos para proteger a sua saúde.
+Com uma plumagem deslumbrante em amarelo e laranja e uma personalidade carinhosa, a Aratinga-do-Sol é um papagaio de porte médio amado em todo o mundo. No entanto, por ser uma ave gregária e inteligente, possui necessidades sociais intensas, emite gritos de contato altos e é propenso à deficiência de Vitamina A sob uma dieta exclusiva de sementes. Além disso, a falta de 10 a 12 horas de sono escuro pode provocar o arrancamento de penas por estresse. O  traz uma rotina de 3 passos para proteger a sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

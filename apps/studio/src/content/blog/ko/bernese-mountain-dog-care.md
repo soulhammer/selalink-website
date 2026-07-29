@@ -29,7 +29,7 @@ faqs:
     answer: "위확장-꼬임(GDV) 방지를 위해서는 식사를 하루 2 ~ 3회 나누어 급여하고, 식후 최소 1시간 동안 완전한 휴식이 필수입니다. 고관절 및 주관절 이형성증(HD/ED) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 미끄러운 바닥 노출과 고강도 점프를 피해야 합니다."
 ---
 
-스위스 알프스 마터호른 지역 원산의 버니즈 마운틴 독(Bernese Mountain Dog)은 화려한 삼색 코트와 강인한 체구, 비단결 같은 마음에 유순한 성품으로 전 세계에서 사랑받는 대형 작업견입니다. 버니즈는 가족에게 깊은 충성심과 부드러운 애정을 보여주지만, 흉곽이 깊고 넓은 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 품종 유전적으로 조직구 육종(Histiocytic Sarcoma)을 포함한 암 발병률이 매우 높으며, 큰 체구로 인해 고관절 및 주관절 이형성증(HD/ED)과 더위 반응에 민감합니다. 오늘 PetSelf에서는 버니즈 마운틴 독의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+스위스 알프스 마터호른 지역 원산의 버니즈 마운틴 독(Bernese Mountain Dog)은 화려한 삼색 코트와 강인한 체구, 비단결 같은 마음에 유순한 성품으로 전 세계에서 사랑받는 대형 작업견입니다. 버니즈는 가족에게 깊은 충성심과 부드러운 애정을 보여주지만, 흉곽이 깊고 넓은 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 품종 유전적으로 조직구 육종(Histiocytic Sarcoma)을 포함한 암 발병률이 매우 높으며, 큰 체구로 인해 고관절 및 주관절 이형성증(HD/ED)과 더위 반응에 민감합니다. 이번 가이드에서는 버니즈 마운틴 독의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "권장하지 않습니다. 어릴 때는 함께 잘 헤엄치지만, 엔젤피쉬가 성체가 되면 야생의 포식 본능이 발현되어 입에 들어가는 작은 네온 테트라나 구피, 치어들을 밤사이에 잡아먹을 수 있습니다. 엔젤피쉬와 합사할 때는 몸집이 어느 정도 있는 중형 열대어나 서열 싸움을 피할 수 있는 어종과 합사하는 것이 좋습니다."
 ---
 
-높고 세련된 지느러미와 우아한 헤엄으로 '열대어의 여왕'이라 불리는 엔젤피쉬(Angelfish / Pterophyllum scalare)는 시클리드과에 속하는 대표적인 중형 관상어입니다. 위아래로 길게 자라는 지느러미 특성상 높이가 높고 수심이 깊은 수조(수심 45cm 이상) 세팅이 필수적입니다. 수질 악화나 암모니아 수치 상승 시 지느러미 녹음병(Fin Rot)이나 머리에 구멍이 뚫리는 '홀인더헤드(Hexamita)' 질병에 걸리기 쉬우며, 성체가 되면 입에 들어가는 작은 소형어(네온 테트라 등)를 포식하는 자연적 본능이 있습니다. 오늘 PetSelf에서는 엔젤피쉬의 바디 랭귀지를 정확히 이해하고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 소개합니다.
+높고 세련된 지느러미와 우아한 헤엄으로 '열대어의 여왕'이라 불리는 엔젤피쉬(Angelfish / Pterophyllum scalare)는 시클리드과에 속하는 대표적인 중형 관상어입니다. 위아래로 길게 자라는 지느러미 특성상 높이가 높고 수심이 깊은 수조(수심 45cm 이상) 세팅이 필수적입니다. 수질 악화나 암모니아 수치 상승 시 지느러미 녹음병(Fin Rot)이나 머리에 구멍이 뚫리는 '홀인더헤드(Hexamita)' 질병에 걸리기 쉬우며, 성체가 되면 입에 들어가는 작은 소형어(네온 테트라 등)를 포식하는 자연적 본능이 있습니다. 이번 가이드에서는 엔젤피쉬의 바디 랭귀지를 정확히 이해하고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

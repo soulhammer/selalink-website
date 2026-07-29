@@ -29,7 +29,7 @@ faqs:
     answer: "거북은 배설량이 매우 많아 강력한 여과기(외부/상면 여과기)가 필수적입니다. 여과기가 있더라도 주 1 ~ 2회 30 ~ 50% 부분 환수를 권장하며, 살모넬라균 감염 예방을 위해 거북을 만진 후에는 반드시 손을 씻어야 합니다."
 ---
 
-붉은 귀 모양의 줄무늬가 특징인 붉은귀거북(Red-Eared Slider)은 전 세계에서 가장 널리 알려진 반수생 거북입니다. 수영을 즐기는 풍부한 수심의 물 영역과 체온을 올리고 UV를 흡수할 육지(Basking Area) 세팅이 동시에 필수적인 품종입니다. 특히 UVB 조명과 열등(스팟 램프)이 없으면 칼슘을 흡수하지 못해 등갑이 말랑해지는 MBD(대사성 뼈 질환)와 껍질 부식증(Shell Rot)에 걸리기 쉬우며, 수온이 낮아지면 폐렴에 걸릴 위험이 급증합니다. 오늘 PetSelf에서는 붉은귀거북의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
+붉은 귀 모양의 줄무늬가 특징인 붉은귀거북(Red-Eared Slider)은 전 세계에서 가장 널리 알려진 반수생 거북입니다. 수영을 즐기는 풍부한 수심의 물 영역과 체온을 올리고 UV를 흡수할 육지(Basking Area) 세팅이 동시에 필수적인 품종입니다. 특히 UVB 조명과 열등(스팟 램프)이 없으면 칼슘을 흡수하지 못해 등갑이 말랑해지는 MBD(대사성 뼈 질환)와 껍질 부식증(Shell Rot)에 걸리기 쉬우며, 수온이 낮아지면 폐렴에 걸릴 위험이 급증합니다. 이번 가이드에서는 붉은귀거북의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

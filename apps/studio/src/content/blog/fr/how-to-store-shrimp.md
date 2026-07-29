@@ -27,7 +27,7 @@ Avez-vous déjà laissé des crevettes au réfrigérateur pour constater que leu
 
 Riche en protéines et en eau, la crevette subit une dégradation enzymatique très rapide dès sa pêche. Exposée à l'oxygène, l'enzyme tyrosinase provoque un noircissement (mélanose) commençant par la tête, tandis que les bactéries prolifèrent rapidement.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation des crevettes en 3 étapes recommandé par des experts pour garantir leur ferme texture. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation des crevettes en 3 étapes recommandé par des experts pour garantir leur ferme texture. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

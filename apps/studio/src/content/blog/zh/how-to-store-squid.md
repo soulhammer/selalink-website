@@ -27,7 +27,7 @@ faqs:
 
 鱿鱼含水量高，且内脏部分集中了大量的微生物和自溶酶（Protease）。如果不经处理直接储存，内脏会在酶的作用下急剧腐败，释放出刺鼻的三甲胺（TMA）腥味，并污染冰箱里的其他食材。
 
-今天FreshSnap基于韩国国立水产科学部(NIFS)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您彻底隔绝腥味，保持解冻后依然鲜嫩Q弹。🛡️
+本指南基于韩国国立水产科学部(NIFS)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您彻底隔绝腥味，保持解冻后依然鲜嫩Q弹。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

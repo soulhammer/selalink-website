@@ -29,7 +29,7 @@ faqs:
     answer: "根据个体皮脂分泌情况，通常建议每1至2周用温水和低刺激pH中性猫用香波清洗一次。过度频繁洗澡会导致皮肤干燥，反而刺激皮脂过度分泌，因此平时应以每日湿巾擦拭护理为主。"
 ---
 
-斯芬克斯猫（Sphynx Cat）因自然基因突变而出生时几乎没有传统被毛，是一种非常特别且神秘的猫咪。由于缺乏毛发吸收皮脂腺分泌的油脂，皮脂会直接堆积在皮肤表面，若不及时擦拭，极易形成棕色油脂沉着、堵塞毛孔（黑头）及引发皮肤炎。🐈此外，缺少毛发屏障使其对寒冷极度敏感，体温散失迅速。今天，PetSelf 将为您介绍一套定制的3步骤家庭护理惯例，帮助您卫生地清理斯芬克斯猫的皮肤油脂，同时保持其身体温暖舒适。
+斯芬克斯猫（Sphynx Cat）因自然基因突变而出生时几乎没有传统被毛，是一种非常特别且神秘的猫咪。由于缺乏毛发吸收皮脂腺分泌的油脂，皮脂会直接堆积在皮肤表面，若不及时擦拭，极易形成棕色油脂沉着、堵塞毛孔（黑头）及引发皮肤炎。🐈此外，缺少毛发屏障使其对寒冷极度敏感，体温散失迅速。今天，本指南将为您介绍一套定制的3步骤家庭护理惯例，帮助您卫生地清理斯芬克斯猫的皮肤油脂，同时保持其身体温暖舒适。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

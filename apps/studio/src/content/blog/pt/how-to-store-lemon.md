@@ -27,7 +27,7 @@ Você já deixou limões em uma fruteira na bancada e viu que eles secaram e fic
 
 Embora o limão tenha uma casca espessa, é uma fruta cítrica cuja umidade evapora continuamente através de microporos na casca. A temperatura ambiente, a casca murcha e o suco seca em uma semana; por outro lado, a umidade presa em recipientes fechados faz o mofo verde (Penicillium) proliferar rapidamente.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da FSA para bloquear a evaporação de água e manter seus limões suculentos por mais de um mês. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da FSA para bloquear a evaporação de água e manter seus limões suculentos por mais de um mês. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

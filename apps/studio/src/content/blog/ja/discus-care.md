@@ -29,7 +29,7 @@ faqs:
     answer: "ディスカスはアマゾン川の暖かい緩やかな水域原産であり、代謝や免疫系が高温環境に最適化されています。水温が26℃以下に下がると代謝が落ちて拒食を起こし、免疫力が低下して白点病や内部寄生虫に感染しやすくなります。ヒーターを用いて常に28〜30℃（幼魚期は30〜31℃）を維持することが飼育の絶対条件です。"
 ---
 
-南米アマゾン川水系原産のディスカス（Discus Fish）は、円盤状の優雅な体型と鮮やかな色彩から「熱帯魚の王様」と称されるシクリッド科の淡水熱帯魚です。ディスカスは観賞魚の中で最も美しい姿を誇りますが、高温（28〜30℃）と清潔な弱酸性軟水（pH 6.0〜6.8）を要求する非常に繊細な魚です。水質悪化や硝酸塩の蓄積が起こると体色が真っ黒に変色する「黒化（Darkening）」を起こし、内部寄生虫（ヘキサミタ）に感染すると頭部に穴が開く致命的な「穴あき病（Hole-in-the-Head / Hexamita）」を発症します。本日PetSelfでは、ディスカスのサインを解読し健康を守る3ステップルーティンをお届けします。
+南米アマゾン川水系原産のディスカス（Discus Fish）は、円盤状の優雅な体型と鮮やかな色彩から「熱帯魚の王様」と称されるシクリッド科の淡水熱帯魚です。ディスカスは観賞魚の中で最も美しい姿を誇りますが、高温（28〜30℃）と清潔な弱酸性軟水（pH 6.0〜6.8）を要求する非常に繊細な魚です。水質悪化や硝酸塩の蓄積が起こると体色が真っ黒に変色する「黒化（Darkening）」を起こし、内部寄生虫（ヘキサミタ）に感染すると頭部に穴が開く致命的な「穴あき病（Hole-in-the-Head / Hexamita）」を発症します。本記事では、ディスカスのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

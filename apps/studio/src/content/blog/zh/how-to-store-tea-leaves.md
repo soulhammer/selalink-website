@@ -27,7 +27,7 @@ faqs:
 
 虽然茶叶处于完全干燥的状态，但其表面具有多孔结构，会像海绵一样极易吸收空气中的氧气、水分、光线、热量以及周围的异味。暴露于湿气与氧气中会导致茶多酚、氨基酸等天然有效成分剧烈氧化，从而破坏其鲜爽清甜的口感。
 
-今天FreshSnap基于食品安全指南与茶道专家建议，为您带来3步科学茶叶保存秘诀，长久锁住茶叶的细腻香气与品质。🛡️
+本指南基于食品安全指南与茶道专家建议，为您带来3步科学茶叶保存秘诀，长久锁住茶叶的细腻香气与品质。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

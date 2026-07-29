@@ -29,7 +29,7 @@ faqs:
     answer: "卡蛋是由于体内严重缺钙、日照时间过长或频繁发情导致蛋体无法产出堵塞产道的急症。预防方法是笼内常年挂置墨鱼骨或保健砂补充钙质，投喂富含维生素的油菜/小松菜，并在夜间维持 10 ~ 12 小时完全遮光睡眠以缩短光照、抑制发情。若母鸟蹲在笼底拱背喘气，必须立即就医。"
 ---
 
-原产于澳大利亚干燥草原的斑胸草雀（俗称“金花鸟”），凭其胸前精致的斑马条纹、鲜艳的红嘴以及小喇叭般“毕毕”欢快的鸣叫声而备受全球观赏鸟爱好者喜爱。金花鸟是严格的群居鸟类，单只独居极易产生严重的抑郁与免疫力下降。同时，它们特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）不粘锅加热毒气、香精及喷雾极其敏感。特别是母鸟，在缺钙或过量发情时极易发生致命的“卡蛋/难产（Egg Binding）”，且作为被捕食者习惯隐瞒病情，出现炸毛时病情已十分严重。今天 PetSelf 将带您准确解读金花鸟肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于澳大利亚干燥草原的斑胸草雀（俗称“金花鸟”），凭其胸前精致的斑马条纹、鲜艳的红嘴以及小喇叭般“毕毕”欢快的鸣叫声而备受全球观赏鸟爱好者喜爱。金花鸟是严格的群居鸟类，单只独居极易产生严重的抑郁与免疫力下降。同时，它们特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）不粘锅加热毒气、香精及喷雾极其敏感。特别是母鸟，在缺钙或过量发情时极易发生致命的“卡蛋/难产（Egg Binding）”，且作为被捕食者习惯隐瞒病情，出现炸毛时病情已十分严重。本指南将带您准确解读金花鸟肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

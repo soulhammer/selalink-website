@@ -27,7 +27,7 @@ faqs:
 
 오렌지는 수분과 비타민 C가 풍부한 대표적인 감귤류 과일로, 수확 후에도 지속적으로 호흡하며 수분을 배출합니다. 상온에 오래 방치하면 과육의 수분이 빠져나가 무르고 맛이 없어지며, 습기가 차면 녹색·푸른곰팡이균이 급격히 번식해 주변 오렌지까지 빠르게 부패시킵니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

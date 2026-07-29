@@ -29,7 +29,7 @@ faqs:
     answer: "임팩션(Impaction)일 가능성이 높습니다. 바닥재(코코핏, 자갈)를 함께 삼켰거나 단단한 뼈·갑각이 있는 과도한 크기의 먹이를 먹었을 때 장이 막히는 질환입니다. 즉시 미지근한 물(27 ~ 29°C)에 무릎 높이까지 차오르도록 하여 15 ~ 20분간 미온수 목욕(온수욕)을 시켜 장 운동을 유도해야 하며, 배에 단단한 덩어리가 잡히고 기운이 없다면 수의사의 진료가 필요합니다."
 ---
 
-고전 게임 캐릭터를 닮은 커다란 입과 동그란 체형을 지닌 팩맨 뿔개구리(Pacman Frog / Ceratophrys)는 독특한 외모와 사육의 재미로 전 세계 사육자들에게 사랑받는 대표적인 양서류입니다. 땅속에 몸을 묻고 지나가는 먹이를 기다리는 매복 포식자(Ambush Predator)인 팩맨은 엄청난 식탐을 자랑하지만, 삼킨 바닥재나 과도한 크기의 먹이로 인해 장이 막히는 '임팩션(Impaction)'에 매우 취약합니다. 또한 양서류 특유의 반투과성 피부를 통해 수분과 화학물질을 직접 흡수하므로 수질 오염이나 세균 감염 시 치명적인 '수포병/적다리병(Red Leg Disease)' 및 중독 증상이 발생할 수 있습니다. 오늘 PetSelf에서는 팩맨 뿔개구리의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+고전 게임 캐릭터를 닮은 커다란 입과 동그란 체형을 지닌 팩맨 뿔개구리(Pacman Frog / Ceratophrys)는 독특한 외모와 사육의 재미로 전 세계 사육자들에게 사랑받는 대표적인 양서류입니다. 땅속에 몸을 묻고 지나가는 먹이를 기다리는 매복 포식자(Ambush Predator)인 팩맨은 엄청난 식탐을 자랑하지만, 삼킨 바닥재나 과도한 크기의 먹이로 인해 장이 막히는 '임팩션(Impaction)'에 매우 취약합니다. 또한 양서류 특유의 반투과성 피부를 통해 수분과 화학물질을 직접 흡수하므로 수질 오염이나 세균 감염 시 치명적인 '수포병/적다리병(Red Leg Disease)' 및 중독 증상이 발생할 수 있습니다. 이번 가이드에서는 팩맨 뿔개구리의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

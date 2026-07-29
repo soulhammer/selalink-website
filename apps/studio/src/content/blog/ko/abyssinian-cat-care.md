@@ -29,7 +29,7 @@ faqs:
     answer: "아비시니안은 고양이계의 아크로바틱 선수라 불릴 만큼 높은 수직 공간 욕구와 에너지를 가진 품종입니다. 높은 캣타워, 캣폴, 벽선반이 부족하면 스트레스를 받아 가구를 긁거나 야간 줌키(Zoomies) 행동을 보일 수 있으므로 수직 공간을 적극 조성해 주고 매일 20분 이상 강도 높은 사냥 놀이를 해주세요."
 ---
 
-퓨마를 연상시키는 날렵한 체형과 빛나는 태비(Ticked Tabby) 코트를 가진 아비시니안(Abyssinian)은 고양이계의 클라운(광대)이라 불릴 만큼 유쾌하고 지능이 뛰어난 품종입니다. 아비시니안은 왕성한 호기심과 수직 공간 열망이 강해 캣타워와 캣폴 등의 고공 환경이 부족할 경우 스트레스 반응을 보이기 쉽습니다. 또한 적혈구 파괴를 유발하는 유전성 질환인 '피루베이트 키나아제 결핍증(PKD 빈혈)'과 초기 치은염/치주염, 진행성 망막 위축증(PRA)에 취약합니다. 오늘 PetSelf에서는 아비시니안의 교감 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 전해드립니다.
+퓨마를 연상시키는 날렵한 체형과 빛나는 태비(Ticked Tabby) 코트를 가진 아비시니안(Abyssinian)은 고양이계의 클라운(광대)이라 불릴 만큼 유쾌하고 지능이 뛰어난 품종입니다. 아비시니안은 왕성한 호기심과 수직 공간 열망이 강해 캣타워와 캣폴 등의 고공 환경이 부족할 경우 스트레스 반응을 보이기 쉽습니다. 또한 적혈구 파괴를 유발하는 유전성 질환인 '피루베이트 키나아제 결핍증(PKD 빈혈)'과 초기 치은염/치주염, 진행성 망막 위축증(PRA)에 취약합니다. 이번 가이드에서는 아비시니안의 교감 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

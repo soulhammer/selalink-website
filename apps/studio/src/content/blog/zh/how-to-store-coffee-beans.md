@@ -27,7 +27,7 @@ faqs:
 
 咖啡豆自烘焙完成那一刻起便开始释放二氧化碳，并在接触空气中的氧气、湿度、光线和温度变化时迅速发生氧化。由于咖啡豆呈多孔结构，会像海绵一样吸收周围的湿气与异味，因此正确的保存方法直接决定了咖啡90%的风味品质。
 
-今天FreshSnap基于精品咖啡协会(SCA)及咖啡专家的建议，为您带来3步科学保存秘诀，帮您长久锁定咖啡豆的原香与风味。🛡️
+本指南基于精品咖啡协会(SCA)及咖啡专家的建议，为您带来3步科学保存秘诀，帮您长久锁定咖啡豆的原香与风味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

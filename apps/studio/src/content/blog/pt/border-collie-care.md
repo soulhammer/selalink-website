@@ -29,7 +29,7 @@ faqs:
     answer: "Recomenda-se pelo menos 2 sessões diárias de 1 hora cada (total de 2 horas por dia). É essencial combinar o treino físico com desafios mentais."
 ---
 
-O Border Collie é mundialmente reconhecido como a raça de cão mais inteligente, ostentando uma resistência e vontade de trabalho inagotáveis herdadas das suas origens de pastoreio. Um passeio simples raramente satisfaz as suas necessidades intelectuais, e a falta de estímulo mental pode levar a comportamentos destrutivos causados pelo stresse. Além disso, as suas corridas explosivas e curvas fechadas sobrecarregam as articulações. Hoje, o PetSelf apresenta uma rotina de 3 passos para exercitar o cérebro e proteger a saúde articular do seu cão.
+O Border Collie é mundialmente reconhecido como a raça de cão mais inteligente, ostentando uma resistência e vontade de trabalho inagotáveis herdadas das suas origens de pastoreio. Um passeio simples raramente satisfaz as suas necessidades intelectuais, e a falta de estímulo mental pode levar a comportamentos destrutivos causados pelo stresse. Além disso, as suas corridas explosivas e curvas fechadas sobrecarregam as articulações. Neste guia, apresenta uma rotina de 3 passos para exercitar o cérebro e proteger a saúde articular do seu cão.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "完全正常！阿比西尼亚猫被称为“猫界杂技演员”，天生具有极高的运动量与垂直空间需求。若缺乏高耸的猫爬架与墙壁跳板，它们会因挫败感而抓挠家具或产生夜间跑酷（Zoomies）行为。请务必打造丰富的垂直领地，并每天陪伴其进行 20 分钟以上的捕猎游戏。"
 ---
 
-拥有酷似美洲狮般矫健身姿与璀璨刺斑纹（Ticked Tabby）毛发的阿比西尼亚猫（Abyssinian），被称为“猫界小丑”，性格开朗且智商极高。阿比西尼亚猫精力充沛且对高处有着强烈的探索欲，若缺乏猫爬架与猫跳板等垂直空间，极易产生应激焦虑。此外，它们易患导致红细胞破坏的遗传性疾病“丙酮酸激酶缺乏症（PKD贫血）”、早期牙龈炎/牙周炎及进行性视网膜萎缩症（PRA）。今天 PetSelf 将带您准确解读阿比西尼亚猫的身体信号，并通过 3 步骤日常护理维护其健康。
+拥有酷似美洲狮般矫健身姿与璀璨刺斑纹（Ticked Tabby）毛发的阿比西尼亚猫（Abyssinian），被称为“猫界小丑”，性格开朗且智商极高。阿比西尼亚猫精力充沛且对高处有着强烈的探索欲，若缺乏猫爬架与猫跳板等垂直空间，极易产生应激焦虑。此外，它们易患导致红细胞破坏的遗传性疾病“丙酮酸激酶缺乏症（PKD贫血）”、早期牙龈炎/牙周炎及进行性视网膜萎缩症（PRA）。本指南将带您准确解读阿比西尼亚猫的身体信号，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

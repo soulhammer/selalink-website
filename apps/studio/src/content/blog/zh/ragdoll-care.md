@@ -33,7 +33,7 @@ faqs:
 
 然而，作为大型猫种，它们的骨骼发育缓慢，成年后体重可达 7 至 10 公斤，因此下肢关节极易承受过大负荷。此外，被抱时那种特有的瘫软姿势若抱法不当，反倒会给脊椎或关节带来扭转性冲击，因此正确的抱姿是保障其一生关节健康的关键基础。
 
-今天 PetSelf 将为您解读布偶猫的身体语言，并介绍一套既能保护关节又能加深信任的日常3步护理流程。
+本指南将为您解读布偶猫的身体语言，并介绍一套既能保护关节又能加深信任的日常3步护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

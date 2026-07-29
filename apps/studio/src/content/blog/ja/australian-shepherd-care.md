@@ -29,7 +29,7 @@ faqs:
     answer: "これは牛や羊のかかとを噛んで群れを動かしていた本能的な「ヒール（Heeling/Ankle Nipping）」行動です。子供が走って声を上げると犬は牧羊ゲームだと勘違いするため、噛まれそうになったら立ち止まって動きを止めることが鉄則です。同時に、「おすわり」などの制止指示の訓練を徹底し、フリスビーやボール投げで欲求を発散させてあげましょう。"
 ---
 
-美しく多彩な被毛と優れた知能、爆発的な運動能力を持つオーストラリアン・シェパード（Australian Shepherd / 愛称：オージー）は、ドッグスポーツや家庭犬として世界中で愛されている万能牧羊犬です。飼い主に対する忠誠心と学習能力が非常に高い反面、本能的な牧羊意欲から走る子供や他犬のかかとを噛む行動（Ankle Nipping）を見せることがあります。またコリー系特有のMDR1（多剤耐性）遺伝子変異の保有率が高く、一般的な寄生虫予防薬や麻酔薬で重篤な副作用を起こすリスクがあります。さらにコリー・アイ異常（CEA）や股関節形成不全（HD）にも注意が必要です。本日PetSelfでは、オージーのサインを解読し健康を守る3ステップルーティンをお届けします。
+美しく多彩な被毛と優れた知能、爆発的な運動能力を持つオーストラリアン・シェパード（Australian Shepherd / 愛称：オージー）は、ドッグスポーツや家庭犬として世界中で愛されている万能牧羊犬です。飼い主に対する忠誠心と学習能力が非常に高い反面、本能的な牧羊意欲から走る子供や他犬のかかとを噛む行動（Ankle Nipping）を見せることがあります。またコリー系特有のMDR1（多剤耐性）遺伝子変異の保有率が高く、一般的な寄生虫予防薬や麻酔薬で重篤な副作用を起こすリスクがあります。さらにコリー・アイ異常（CEA）や股関節形成不全（HD）にも注意が必要です。本記事では、オージーのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

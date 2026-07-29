@@ -29,7 +29,7 @@ faqs:
     answer: "절대 합사하면 안 됩니다! 란츄는 등지느러미가 없고 몸이 둥글어 헤엄치는 속도가 매우 느립니다. 헤엄이 빠른 유선형 금붕어나 수초어항의 소형어와 합사할 경우 란츄는 먹이 경쟁에서 완전히 밀려 기아 상태에 빠지며, 머리의 매력적인 육혹(Wen)을 공격당해 상처와 감염이 생길 수 있습니다. 란츄는 란츄끼리, 혹은 비슷한 난주형 금붕어와만 합사해야 합니다."
 ---
 
-둥근 체형과 등지느러미가 없고 머리의 육혹(Wen)이 매력적인 란츄(Ranchu)는 '금붕어의 왕'이라 불리며 전 세계 관상어 애호가들에게 사랑받는 대표적인 난주형 금붕어입니다. 란츄는 개량 품종 특유의 짧고 압축된 체형 구조로 인해 장기가 압박받기 쉬워, 공기를 마시며 부유성 사료를 섭취하거나 소화 불량이 발생할 경우 수영 중심을 잃는 '부레병(Swim Bladder Disorder)'에 매우 취약합니다. 또한 등지느러미가 없어 헤엄치는 힘이 약해 강한 수류에 쉽게 지치며, 배설량이 많아 수질이 조금만 악화되어도 여과력 부족으로 암모니아 중독이나 머리 육혹에 세균성 감염이 발생합니다. 오늘 PetSelf에서는 란츄 금붕어의 바디 랭귀지를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+둥근 체형과 등지느러미가 없고 머리의 육혹(Wen)이 매력적인 란츄(Ranchu)는 '금붕어의 왕'이라 불리며 전 세계 관상어 애호가들에게 사랑받는 대표적인 난주형 금붕어입니다. 란츄는 개량 품종 특유의 짧고 압축된 체형 구조로 인해 장기가 압박받기 쉬워, 공기를 마시며 부유성 사료를 섭취하거나 소화 불량이 발생할 경우 수영 중심을 잃는 '부레병(Swim Bladder Disorder)'에 매우 취약합니다. 또한 등지느러미가 없어 헤엄치는 힘이 약해 강한 수류에 쉽게 지치며, 배설량이 많아 수질이 조금만 악화되어도 여과력 부족으로 암모니아 중독이나 머리 육혹에 세균성 감염이 발생합니다. 이번 가이드에서는 란츄 금붕어의 바디 랭귀지를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

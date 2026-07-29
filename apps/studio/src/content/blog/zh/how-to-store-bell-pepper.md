@@ -27,7 +27,7 @@ faqs:
 
 彩椒和青椒的水分含量高达90%以上，对湿气非常敏感，且在7℃以下的低温环境中极易遭受“冷害（Chilling Injury）”，导致细胞结构破坏、表面出现斑坑并变质。带水保存还会使蒂头周围迅速滋生霉菌。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步彩椒/青椒保鲜秘诀，帮您最大程度锁定爽脆与甜美。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步彩椒/青椒保鲜秘诀，帮您最大程度锁定爽脆与甜美。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

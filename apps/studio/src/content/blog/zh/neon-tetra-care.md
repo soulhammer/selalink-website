@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不建议。霓虹灯鱼在野外依靠成百上千尾结队群游来获取安全感。仅饲养1 ~ 2尾会导致其处于极度焦虑与应激状态，大幅降低免疫力并缩短寿命。请务必保持6 ~ 10尾以上的数量成群饲养。"
 ---
 
-拥有鲜艳蓝霓虹线条与红色尾部对比的霓虹灯鱼（红绿灯鱼）是观赏鱼水族箱中最具代表性的小型脂鲤科热带鱼。它们具有极强的集体群游（Schooling）习性，必须至少以6 ~ 10尾以上的数量成群饲养以消除紧张感。霓虹灯鱼对水质波动（pH值冲击、氨氮飙升）及水温剧变非常敏感，且易感染无法治愈的孢子虫疾病“霓虹灯鱼病（Neon Tetra Disease）”。今天 PetSelf 将带您准确解读霓虹灯鱼的体色与行为信号，并通过3步骤日常护理维护清澈的水质环境。
+拥有鲜艳蓝霓虹线条与红色尾部对比的霓虹灯鱼（红绿灯鱼）是观赏鱼水族箱中最具代表性的小型脂鲤科热带鱼。它们具有极强的集体群游（Schooling）习性，必须至少以6 ~ 10尾以上的数量成群饲养以消除紧张感。霓虹灯鱼对水质波动（pH值冲击、氨氮飙升）及水温剧变非常敏感，且易感染无法治愈的孢子虫疾病“霓虹灯鱼病（Neon Tetra Disease）”。本指南将带您准确解读霓虹灯鱼的体色与行为信号，并通过3步骤日常护理维护清澈的水质环境。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

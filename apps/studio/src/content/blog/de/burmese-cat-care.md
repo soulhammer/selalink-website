@@ -29,7 +29,7 @@ faqs:
     answer: "Da die Burma-Katze kaum Unterwolle besitzt, haart sie sehr wenig. Einmal wöchentliches sanftes Bürsten mit einer Gummi- oder Silikonbürste reicht völlig aus, um den seidigen Glanz zu bewahren."
 ---
 
-Die Burma-Katze begeistert Katzenliebhaber weltweit durch ihr seidenweiches, kurzes Fell, ihre tiefgoldenen Augen und ihr anhängliches, fast hundeähnliches Wesen. Sie ist außerordentlich sozial und menschenbezogen, neigt jedoch bei langer Isolation schnell zu Trennungsangst. Heute analysiert PetSelf die Körpersprache und Lautäußerungen der Burma-Katze und präsentiert eine 3-Schritte-Tagesroutine für emotionale Ausgeglichenheit, abwechslungsreiche Innenhaltung und gesundes Gewicht.
+Die Burma-Katze begeistert Katzenliebhaber weltweit durch ihr seidenweiches, kurzes Fell, ihre tiefgoldenen Augen und ihr anhängliches, fast hundeähnliches Wesen. Sie ist außerordentlich sozial und menschenbezogen, neigt jedoch bei langer Isolation schnell zu Trennungsangst. Heute analysiert  die Körpersprache und Lautäußerungen der Burma-Katze und präsentiert eine 3-Schritte-Tagesroutine für emotionale Ausgeglichenheit, abwechslungsreiche Innenhaltung und gesundes Gewicht.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

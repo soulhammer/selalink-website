@@ -29,7 +29,7 @@ faqs:
     answer: "ケージ内の湿度が低すぎる場合や栄養不足の際に起こる「脱皮不全（Dysecdysis）」です。無理に引っ張ると鱗を傷つけるため、28°C〜30°Cのぬるま湯で湿らせたタオルや水苔を入れたケースに20〜30分入れて皮を柔らかくふやかしてから、優しく擦って取り除いてください。"
 ---
 
-頭を内側に隠してボールのように丸まる姿から「ボールパイソン（Ball Python）」と呼ばれるニシキヘビは、温厚な性格と多彩なカラーモルフ（Color Morph）で世界中で最も人気のあるペットスネークです。変温動物であるボールパイソンは、クールゾーン（24°C〜26°C）とホットゾーン/バスキングゾーン（31°C〜33°C）に分かれた明確な温度勾配が必要です。また、普段は55%〜60%、脱皮前には70%〜80%の湿度を維持することで脱皮不全（Dysecdysis）を予防できます。気温低下時には急性呼吸器感染症（RI）にかかりやすく、拒食（Hunger strike）現象が頻繁に起こります。本日PetSelfでは、ボールパイソンのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+頭を内側に隠してボールのように丸まる姿から「ボールパイソン（Ball Python）」と呼ばれるニシキヘビは、温厚な性格と多彩なカラーモルフ（Color Morph）で世界中で最も人気のあるペットスネークです。変温動物であるボールパイソンは、クールゾーン（24°C〜26°C）とホットゾーン/バスキングゾーン（31°C〜33°C）に分かれた明確な温度勾配が必要です。また、普段は55%〜60%、脱皮前には70%〜80%の湿度を維持することで脱皮不全（Dysecdysis）を予防できます。気温低下時には急性呼吸器感染症（RI）にかかりやすく、拒食（Hunger strike）現象が頻繁に起こります。本記事では、ボールパイソンのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 食盐的水分活性接近于零，细菌和微生物无法滋生，因此它是没有保质期的代表性无机矿物食材。然而，在相对湿度较高的环境中，食盐会迅速吸收空气中的水分，并对金属具有较强的腐蚀性。不当的储存方式会导致结块、容器生锈和卫生隐患。
 
-今天FreshSnap基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食盐干爽细软的品质。🛡️
+本指南基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食盐干爽细软的品质。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

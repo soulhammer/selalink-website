@@ -29,7 +29,7 @@ faqs:
     answer: "미포자충(Pleistophora hyphessobryconis) 감염으로 몸의 네온 줄무늬가 하얗게 변하고 척추가 휘며 사망하는 치명적인 감염 질환입니다. 현재 확실한 치료약이 없으므로 감염된 개체는 발견 즉시 전염 방지를 위해 격리하고, 평소 청결한 수질을 유지해 예방해야 합니다."
 ---
 
-몸 전체를 뒤덮는 화려한 푸른색 네온 줄무늬와 아랫배 전체의 선명한 붉은 빛깔을 가진 카디널 테트라는 열대어 어항의 대표적인 군영어종입니다. 비슷하게 생긴 네온 테트라와 달리 배 전체가 붉은색으로 물들어 더욱 화려하지만, 약산성(pH 5.5 ~ 6.8)의 깨끗한 수질을 선호하며 수온·수질 변화(pH 쇼크)와 질산염 수치에 더욱 민감합니다. 또한 무리를 지어야 안도감을 느끼며, 네온병(NTD)이나 수질 악화 시 색상이 하얗게 변할 수 있습니다. 오늘 PetSelf에서는 카디널 테트라의 신체·수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
+몸 전체를 뒤덮는 화려한 푸른색 네온 줄무늬와 아랫배 전체의 선명한 붉은 빛깔을 가진 카디널 테트라는 열대어 어항의 대표적인 군영어종입니다. 비슷하게 생긴 네온 테트라와 달리 배 전체가 붉은색으로 물들어 더욱 화려하지만, 약산성(pH 5.5 ~ 6.8)의 깨끗한 수질을 선호하며 수온·수질 변화(pH 쇼크)와 질산염 수치에 더욱 민감합니다. 또한 무리를 지어야 안도감을 느끼며, 네온병(NTD)이나 수질 악화 시 색상이 하얗게 변할 수 있습니다. 이번 가이드에서는 카디널 테트라의 신체·수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

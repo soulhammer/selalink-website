@@ -29,7 +29,7 @@ faqs:
     answer: "토끼는 발바닥 패드가 없어 두꺼운 털로만 뼈를 보호합니다. 플레미시 자이언트는 체중이 무거워 와이어 바닥이나 미끄러운 장판에서 비구염이 발생하기 매우 쉽습니다. 두꺼운 미끄럼 방지 푹신 매트나 메모리폼 카페트를 깔아주는 것이 가장 중요합니다."
 ---
 
-플레미시 자이언트 토끼는 성체 체중이 6 ~ 10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비구염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 오늘 PetSelf에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+플레미시 자이언트 토끼는 성체 체중이 6 ~ 10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비구염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 이번 가이드에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

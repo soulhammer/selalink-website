@@ -29,7 +29,7 @@ faqs:
     answer: "作为牧羊犬，精力无法释放时极易对风吹草动吠叫。每日充沛的运动结合智力游戏能有效消耗精力。双层毛发需每周使用底毛梳（Undercoat rake）深入梳理2-3次以上，清除死毛以防打结和皮肤病。"
 ---
 
-拥有丰满围脖与优雅姿态的喜乐蒂牧羊犬（Sheltie）源自牧羊犬种，具备极高的智力与忠诚度。然而，它们感官极其敏锐且对声音高度敏感，容易因外界刺激出现过度反应和警戒吠叫。此外，喜乐蒂存在“MDR1基因突变”的高遗传风险，服用某些驱虫药或药物时易使药物穿透脑血管屏障引发中枢神经中毒；若忽视其密实双层毛发（Double coat）的梳理，极易引发严重皮肤炎与毛发打结。今天 PetSelf 将为您解析喜乐蒂的SOS异常信号并提供3步护理流程。
+拥有丰满围脖与优雅姿态的喜乐蒂牧羊犬（Sheltie）源自牧羊犬种，具备极高的智力与忠诚度。然而，它们感官极其敏锐且对声音高度敏感，容易因外界刺激出现过度反应和警戒吠叫。此外，喜乐蒂存在“MDR1基因突变”的高遗传风险，服用某些驱虫药或药物时易使药物穿透脑血管屏障引发中枢神经中毒；若忽视其密实双层毛发（Double coat）的梳理，极易引发严重皮肤炎与毛发打结。本指南将为您解析喜乐蒂的SOS异常信号并提供3步护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

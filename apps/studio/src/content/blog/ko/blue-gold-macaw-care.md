@@ -29,7 +29,7 @@ faqs:
     answer: "청금강앵무는 야생에서 수 킬로미터 떨어진 동료와 소통하던 습성이 있어 아침·저녁으로 매우 청각적인 대형 포효음(Screaming)을 냅니다. 이는 아파트 등 밀집 주거 형태에서는 사육이 불가능할 정도로 크므로, 방음 대책이나 단독주택 환경이 필수적으로 고려되어야 합니다."
 ---
 
-청금강앵무(Blue and Gold Macaw)는 화려한 코발트블루와 황금빛 깃털, 압도적인 크기로 전 세계 반려조 사육자들의 '최종 로망'이라 불리는 대형 앵무새입니다. 3 ~ 5세 아이 수준의 높은 지능을 지니고 있어 뛰어난 언어 습득 능력과 감정 표현력을 자랑하지만, 그만큼 풍부한 지적 자극과 사회적 교감이 제공되지 않으면 심각한 우울증이나 자해 행동(깃털 뽑기)을 보일 수 있습니다. 또한 호두껍질도 손쉽게 부수는 강력한 악력의 부리를 지니고 있어 파괴 욕구를 안전하게 해소할 전용 장난감과 넓은 초대형 새장 환경이 필수적입니다. 오늘 PetSelf에서는 청금강앵무의 정서적 바디 랭귀지를 분석하고, 부리 케어와 언어·행동 교감을 위한 3단계 일상 루틴을 공개합니다.
+청금강앵무(Blue and Gold Macaw)는 화려한 코발트블루와 황금빛 깃털, 압도적인 크기로 전 세계 반려조 사육자들의 '최종 로망'이라 불리는 대형 앵무새입니다. 3 ~ 5세 아이 수준의 높은 지능을 지니고 있어 뛰어난 언어 습득 능력과 감정 표현력을 자랑하지만, 그만큼 풍부한 지적 자극과 사회적 교감이 제공되지 않으면 심각한 우울증이나 자해 행동(깃털 뽑기)을 보일 수 있습니다. 또한 호두껍질도 손쉽게 부수는 강력한 악력의 부리를 지니고 있어 파괴 욕구를 안전하게 해소할 전용 장난감과 넓은 초대형 새장 환경이 필수적입니다. 이번 가이드에서는 청금강앵무의 정서적 바디 랭귀지를 분석하고, 부리 케어와 언어·행동 교감을 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

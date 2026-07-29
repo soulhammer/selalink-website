@@ -27,7 +27,7 @@ faqs:
 
 연어는 수분 함량이 높고 불포화지방산(오메가-3)이 매우 풍부하여 공기 중의 산소와 접촉하면 단백질과 지방이 빠르게 산패(Rancidity)되는 특성이 있습니다. 특히 표면에 배어 나오는 미세한 수액(드립)은 비린내를 유발하고 세균이 증식하기 가장 좋은 환경이 됩니다.
 
-오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 공인 가이드라인을 바탕으로 비린내를 잡고 산화와 냉동 상해를 방지하여 신선도를 지키는 3단계 과학적 보관 비법을 알려드립니다. 🛡️
+이번 가이드에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 공인 가이드라인을 바탕으로 비린내를 잡고 산화와 냉동 상해를 방지하여 신선도를 지키는 3단계 과학적 보관 비법을 알려드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

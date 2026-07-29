@@ -29,7 +29,7 @@ faqs:
     answer: "Jaga berat badan ideal sejak masa pertumbuhan agar tidak membebani pinggulnya. Hindari aktivitas melompat terlalu tinggi di lantai yang licin dan lakukan latihan ringan seperti berenang."
 ---
 
-Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta salju ini adalah raksasa yang ramah. Bulu ganda tebalnya melindungi dari dingin namun mudah memerangkap panas di iklim lembap, memicu dermatitis dan hot spot. Karena ukurannya, mereka rentan terhadap Displasia Pinggul (Hip Dysplasia). Hari ini, PetSelf mengulas sinyal sendi Samoyed dan menyajikan 3 langkah rutinitas harian.
+Terkenal dengan bulu putih tebal dan 'Senyum Samoyed'-nya, anjing penarik kereta salju ini adalah raksasa yang ramah. Bulu ganda tebalnya melindungi dari dingin namun mudah memerangkap panas di iklim lembap, memicu dermatitis dan hot spot. Karena ukurannya, mereka rentan terhadap Displasia Pinggul (Hip Dysplasia). Dalam panduan ini, mengulas sinyal sendi Samoyed dan menyajikan 3 langkah rutinitas harian.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

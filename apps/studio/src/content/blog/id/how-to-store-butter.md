@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan mentega di rak pintu kulkas lalu mendapati permukaannya
 
 Mentega terdiri dari lebih dari 80% lemak susu, menjadikannya sangat sensitif terhadap oksigen, cahaya, dan fluktuasi suhu. Lemak mentega juga bertindak seperti spons yang mudah menyerap bau menyengat dari bahan makanan di sekitarnya. Penyimpanan yang salah menyebabkan oksidasi lemak (ketengikan) dan merusak cita rasa.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelezatan, tekstur lembut, dan kesegaran mentega Anda selama lebih dari 90 hari. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelezatan, tekstur lembut, dan kesegaran mentega Anda selama lebih dari 90 hari. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

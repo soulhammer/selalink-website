@@ -29,7 +29,7 @@ faqs:
     answer: "兔子突然不吃干草或粪便尺寸急剧减小是致命的胃肠道停滞的早期信号。由于草食动物的胃肠停止工作非常危险，必须立即接受专业兽医的诊疗。"
 ---
 
-拥有小巧耳朵和圆滚滚可爱外形的荷兰侏儒兔是全球深受喜爱的兔子品种。然而，正因为体型小，它们非常胆小，对环境变化极其敏感，一旦纤维摄入不足，很容易患上胃肠道停滞（GI Stasis）等致命疾病。当感到焦虑时，它们会用后脚重重地跺地，表示强烈的拒绝。今天，PetSelf 将分析侏儒兔的跺脚焦虑信号，并分享保护胃肠健康和指甲安全的3阶段每日护理流程。
+拥有小巧耳朵和圆滚滚可爱外形的荷兰侏儒兔是全球深受喜爱的兔子品种。然而，正因为体型小，它们非常胆小，对环境变化极其敏感，一旦纤维摄入不足，很容易患上胃肠道停滞（GI Stasis）等致命疾病。当感到焦虑时，它们会用后脚重重地跺地，表示强烈的拒绝。今天，本指南将分析侏儒兔的跺脚焦虑信号，并分享保护胃肠健康和指甲安全的3阶段每日护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

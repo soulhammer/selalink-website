@@ -29,7 +29,7 @@ faqs:
     answer: "Un nettoyage quotidien est recommandé. L'humidité des larmes et les résidus de nourriture s'accumulent dans les plis et provoquent rapidement des proliférations de bactéries ou champignons, causant des dermatites douloureuses."
 ---
 
-Avec ses oreilles de chauve-souris et sa face écrasée, le Bouledogue Français est un compagnon adoré dans le monde entier. Cependant, son anatomie brachycéphale particulière le rend vulnérable aux obstructions respiratoires, aux difficultés de ventilation et aux hausses rapides de température. Sauter depuis les meules menace également sa colonne. Aujourd'hui, PetSelf décrypte son langage respiratoire et vous propose une routine en 3 étapes.
+Avec ses oreilles de chauve-souris et sa face écrasée, le Bouledogue Français est un compagnon adoré dans le monde entier. Cependant, son anatomie brachycéphale particulière le rend vulnérable aux obstructions respiratoires, aux difficultés de ventilation et aux hausses rapides de température. Sauter depuis les meules menace également sa colonne. Dans ce guide, décrypte son langage respiratoire et vous propose une routine en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

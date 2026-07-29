@@ -29,7 +29,7 @@ faqs:
     answer: "L'eau de mer leur est indispensable pour réguler leur pression osmotique et l'eau dans leur coquille. Utilisez du sel marin pour aquariophilie dissous dans de l'eau déchlorée, jamais du sel de table."
 ---
 
-Le Bernard-l'ermite Purple Pincher (*Coenobita clypeatus*) est le crustacé terrestre de compagnie le plus populaire au monde, célèbre pour sa grosse pince violette et son besoin de changer de coquille tout au long de sa vie. Bien qu'il vive sur terre, il respire par des branchies modifiées, rendant un taux d'humidité de 75 à 85 % vital. Il exige un substrat profond (au moins 3 fois sa hauteur) pour s'enfouir lors de la mue. Très sociables, ils doivent vivre en groupe. PetSelf vous présente sa routine de soin en 3 étapes.
+Le Bernard-l'ermite Purple Pincher (*Coenobita clypeatus*) est le crustacé terrestre de compagnie le plus populaire au monde, célèbre pour sa grosse pince violette et son besoin de changer de coquille tout au long de sa vie. Bien qu'il vive sur terre, il respire par des branchies modifiées, rendant un taux d'humidité de 75 à 85 % vital. Il exige un substrat profond (au moins 3 fois sa hauteur) pour s'enfouir lors de la mue. Très sociables, ils doivent vivre en groupe. Ce guide vous propose sa routine de soin en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

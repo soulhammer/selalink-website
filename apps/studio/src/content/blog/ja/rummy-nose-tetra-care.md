@@ -29,7 +29,7 @@ faqs:
     answer: "ラミーノーズテトラは最低10匹以上、推奨12〜15匹以上の群れにすることで安心感を得て群泳を行います。飼育数が少なすぎる場合や、水槽内に広々と泳げるスペースがない場合は水草の陰にバラバラに隠れてしまうことがあります。"
 ---
 
-ラミーノーズテトラ（Hemigrammus bleheri）は、真っ赤に染まる頭部と白黒のゼブラ模様の尾ビレ、そして水槽内を一糸乱れぬ動きで泳ぐ群泳（Schooling）の美しさで世界中のレイアウターに愛される小型カラシンです。水質や環境に非常に敏感で、鮮やかなルビー色の頭部は水質（硝酸塩濃度やpH）や健康状態をリアルタイムで知らせるバロメーターとしての役割を果たします。また、10匹以上の群れで飼育することで本来の群泳行動が引き出され、精神的な安心感を得ることができます。本日はPetSelfがラミーノーズテトラの健康シグナルと、鮮やかな発色・完璧な群泳を維持するための3ステップ日常ルーティンを公開します。
+ラミーノーズテトラ（Hemigrammus bleheri）は、真っ赤に染まる頭部と白黒のゼブラ模様の尾ビレ、そして水槽内を一糸乱れぬ動きで泳ぐ群泳（Schooling）の美しさで世界中のレイアウターに愛される小型カラシンです。水質や環境に非常に敏感で、鮮やかなルビー色の頭部は水質（硝酸塩濃度やpH）や健康状態をリアルタイムで知らせるバロメーターとしての役割を果たします。また、10匹以上の群れで飼育することで本来の群泳行動が引き出され、精神的な安心感を得ることができます。本日は本記事では、ラミーノーズテトラの健康シグナルと、鮮やかな発色・完璧な群泳を維持するための3ステップ日常ルーティンを公開します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

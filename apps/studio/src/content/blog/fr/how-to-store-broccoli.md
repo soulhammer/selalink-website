@@ -27,7 +27,7 @@ Avez-vous déjà conservé une tête de brocoli bien verte au réfrigérateur po
 
 Le brocoli est un légume crucifère aux fleurs denses et serrées. Il possède un taux de respiration très élevé et dégage activement du gaz éthylène et de la chaleur. Un mauvais contrôle de l'humidité favorise la multiplication des bactéries au cœur des fleurons ou provoque un jaunissement rapide.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour maintenir l'hydratation, éviter la dégradation de la chlorophylle et garder votre brocoli vert et croquant. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour maintenir l'hydratation, éviter la dégradation de la chlorophylle et garder votre brocoli vert et croquant. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 乾燥豆は水分含有量が低いため長期保存が比較的水易い食材ですが、空気中の湿気、光、熱、穀物害虫に非常に敏感です。不適切な保存方法は水分が抜けすぎたり、高温多湿な環境で皮が硬くなる「難煮性（Hard-to-cook）」現象を引き起こしたり、カビや虫の発生原因になります。
 
-本日FreshSnapでは、専門家のガイドラインに基づき、豆の栄養と柔らかい食感を長期間損なわずに保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、専門家のガイドラインに基づき、豆の栄養と柔らかい食感を長期間損なわずに保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

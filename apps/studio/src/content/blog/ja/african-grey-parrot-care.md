@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に避けてください。シード主食は脂質が高すぎる一方、ビタミンAやカルシウムが著しく不足し、脂肪肝や代謝性骨疾患の原因になります。必ず高品質なペレットを主食（60〜70%）とし、生野菜や果物を組み合わせてください。（※アボカドやチョコは致死性の毒です。）"
 ---
 
-ヨウム（African Grey Parrot）は鳥類の中で最も高い知能を持ち、人間の4〜5歳児に匹敵する認知能力と言葉の習得能力を誇る大型インコです。単に音を真似るだけでなく、状況や文脈に合わせた会話ができるほどの頭脳を持っていますが、その分感情面で非常に繊細です。知的な刺激や環境エンリッチメントが不足すると、極度のストレスや退屈から自身の羽をむしり取る「毛引き症・羽抜き症（Feather Damaging Behavior）」を引き起こしやすくなります。今回はPetSelfが、ヨウムの感情サインと毛引きを予防する3ステップ知育・環境エンリッチメントルーチンを解説します。
+ヨウム（African Grey Parrot）は鳥類の中で最も高い知能を持ち、人間の4〜5歳児に匹敵する認知能力と言葉の習得能力を誇る大型インコです。単に音を真似るだけでなく、状況や文脈に合わせた会話ができるほどの頭脳を持っていますが、その分感情面で非常に繊細です。知的な刺激や環境エンリッチメントが不足すると、極度のストレスや退屈から自身の羽をむしり取る「毛引き症・羽抜き症（Feather Damaging Behavior）」を引き起こしやすくなります。本記事では、ヨウムの感情サインと毛引きを予防する3ステップ知育・環境エンリッチメントルーチンを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

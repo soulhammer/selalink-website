@@ -27,7 +27,7 @@ faqs:
 
 オリーブオイルなどの植物性油脂は、光（紫外線）、酸素、熱、温度変化の4大要因によって酸化（酸敗）が進みます。特にオリーブオイルを冷蔵保存すると、8〜10℃以下で一価不飽和脂肪酸であるオレイン酸が白く固まって結晶化し、この凝固と解凍が繰り返されることで特有のフルーティーな香りとポリフェノール成分が破壊されてしまいます。
 
-本日FreshSnapでは、国際オリーブ協会（IOC）および米国農務省（USDA）のガイドラインに基づき、オリーブオイルの風味が長持ちする3段階の科学的保存法をご紹介します。🛡️
+本記事では、国際オリーブ協会（IOC）および米国農務省（USDA）のガイドラインに基づき、オリーブオイルの風味が長持ちする3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "아닙니다. 타란툴라는 탈피(Molt)할 때 완전히 등(바닥)을 대고 누워 탈피를 진행합니다. 이는 정상적인 탈피 과정이므로 절대 건드리거나 뒤집지 말고 사육장 습도를 조금 높인 채 완료될 때까지 기다려야 합니다."
 ---
 
-멕시칸 레드니 타란툴라(Brachypelma hamorii)는 검은 바탕에 무릎 마디(Patella)마다 선명한 주황-붉은색 패턴을 지닌 아름다운 신대륙 지상성 거미입니다. 관상용 절지류 사육 분야에서 독성이 약하고 성격이 온순하여 입문자들에게 가장 사랑받는 대표 종입니다. 그러나 위협을 느끼면 복부 뒤쪽의 자극털(Urticating hairs)을 털어내어 피부나 눈, 호흡기를 자극할 수 있으며, 탈피(Molt) 시기에 적합한 환경을 조성해주지 않으면 탈피 부전으로 생명이 위험할 수 있습니다. 오늘 PetSelf에서는 멕시칸 레드니의 방어 신호와 안전한 사육장 온·습도 관리, 탈피 주기 보살핌 3단계 루틴을 다룹니다.
+멕시칸 레드니 타란툴라(Brachypelma hamorii)는 검은 바탕에 무릎 마디(Patella)마다 선명한 주황-붉은색 패턴을 지닌 아름다운 신대륙 지상성 거미입니다. 관상용 절지류 사육 분야에서 독성이 약하고 성격이 온순하여 입문자들에게 가장 사랑받는 대표 종입니다. 그러나 위협을 느끼면 복부 뒤쪽의 자극털(Urticating hairs)을 털어내어 피부나 눈, 호흡기를 자극할 수 있으며, 탈피(Molt) 시기에 적합한 환경을 조성해주지 않으면 탈피 부전으로 생명이 위험할 수 있습니다. 이번 가이드에서는 멕시칸 레드니의 방어 신호와 안전한 사육장 온·습도 관리, 탈피 주기 보살핌 3단계 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

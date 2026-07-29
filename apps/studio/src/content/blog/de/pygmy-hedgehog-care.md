@@ -29,7 +29,7 @@ faqs:
     answer: "Im Gegensatz zu Nagetieren wachsen die Zähne von Igeln nicht kontinuierlich nach. Sie benötigen keine Nagespielzeuge, und harte Gegenstände können ihre Zähne brechen. Vermeiden Sie übermäßig hartes Trockenfutter."
 ---
 
-Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf PetSelf beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritte-Routine für stabile Wärme und Sauberkeit.
+Der Afrikanische Weißbauchigel ist ein faszinierendes und ruhiges exotisches Heimtier. Sie sind von Natur aus scheu, nutzen ihre Stacheln zur Verteidigung und verteilen schäumenden Speichel auf ihrem Rücken, wenn sie auf neue Gerüche stoßen. Zudem riskieren sie einen tödlichen Winterschlaf-Schock, wenn die Umgebungstemperatur sinkt. Heute auf  beschreiben wir das Stachelverhalten des Igels, Tipps zum Selbst-Einspeicheln und eine 3-Schritte-Routine für stabile Wärme und Sauberkeit.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

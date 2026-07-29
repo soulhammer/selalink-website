@@ -29,7 +29,7 @@ faqs:
     answer: "不能。大和沼虾抱卵孵化出的幼体（溞状幼体，Zoea）必须在海水与淡水交汇的汽水（Brackish water）环境才能存活发育。在纯淡水缸中，幼体孵化后会在数天内死亡。"
 ---
 
-作为水草缸中最负盛名的除藻工具虾，大和沼虾（大和藻虾）是一种身体通透且带有点状斑纹的淡水观赏虾。它们能高效清理丝状藻和绒毛藻，但对重金属（尤其是铜元素）、硝酸盐浓度以及水质水温的剧烈波动极度敏感。水质恶化会导致其剧烈跳缸逃跑，或因环境应激引发蜕壳失败死亡。今天 PetSelf 为您解析大和沼虾的水质警示信号，并提供3步日常护理流程。
+作为水草缸中最负盛名的除藻工具虾，大和沼虾（大和藻虾）是一种身体通透且带有点状斑纹的淡水观赏虾。它们能高效清理丝状藻和绒毛藻，但对重金属（尤其是铜元素）、硝酸盐浓度以及水质水温的剧烈波动极度敏感。水质恶化会导致其剧烈跳缸逃跑，或因环境应激引发蜕壳失败死亡。本指南为您解析大和沼虾的水质警示信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

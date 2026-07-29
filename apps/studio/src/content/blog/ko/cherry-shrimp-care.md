@@ -29,7 +29,7 @@ faqs:
     answer: "암컷이 배에 노란색/초록색 알을 품고 다리(복족)를 털어주는 포란 상태가 되면 약 3 ~ 4주 후 귀여운 치새우들이 부화합니다. 치새우는 성체 어류(구피, 테트라, 엔젤피쉬 등)의 좋은 먹이가 되므로 풍성한 윌로모스 수초를 조성해 주거나, 새우 전용 단독항에서 사육하는 것이 안전합니다."
 ---
 
-푸른 수초 사이에서 선명한 붉은빛을 발산하는 체리 새우(Cherry Shrimp / Neocaridina davidi)는 관상어 수조의 이끼 제거자이자 유기물 청소부로 사랑받는 대표적인 담수 소형 관상용 새우입니다. 체리 새우는 키우기 쉽지만 탈피(Molting)를 통해 성장하는 갑각류 특성상 미네랄(GH/KH/TDS) 불균형이나 급격한 환수 쇼크가 일어날 경우 껍질이 제대로 벗겨지지 않아 사망하는 '화이트 링(White Ring of Death)' 현상이 쉽게 발생합니다. 또한 구리(Copper) 및 중금속 성분에 극도로 취약하여 관련 어류 약품 사용 시 수분 내 전멸할 수 있습니다. 오늘 PetSelf에서는 체리 새우의 행동·신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+푸른 수초 사이에서 선명한 붉은빛을 발산하는 체리 새우(Cherry Shrimp / Neocaridina davidi)는 관상어 수조의 이끼 제거자이자 유기물 청소부로 사랑받는 대표적인 담수 소형 관상용 새우입니다. 체리 새우는 키우기 쉽지만 탈피(Molting)를 통해 성장하는 갑각류 특성상 미네랄(GH/KH/TDS) 불균형이나 급격한 환수 쇼크가 일어날 경우 껍질이 제대로 벗겨지지 않아 사망하는 '화이트 링(White Ring of Death)' 현상이 쉽게 발생합니다. 또한 구리(Copper) 및 중금속 성분에 극도로 취약하여 관련 어류 약품 사용 시 수분 내 전멸할 수 있습니다. 이번 가이드에서는 체리 새우의 행동·신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

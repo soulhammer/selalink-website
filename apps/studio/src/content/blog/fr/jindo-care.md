@@ -29,7 +29,7 @@ faqs:
     answer: "Oui, ils sont indépendants et territoriaux. Visez la 'neutralité sociale' : lui apprendre à croiser d'autres chiens sans aboyer ni réagir."
 ---
 
-Le Jindo est un trésor national coréen et une race mondialement réputée pour sa loyauté et son intelligence. Bien qu'il voue un dévouement total à son maître, sa méfiance naturelle et sa fidélité exclusive nécessitent une socialisation précoce. 🐕 De plus, il possède un pelage double très dense adapté aux saisons, provoquant d'importantes mues. Aujourd'hui, PetSelf partage des conseils de socialisation et une routine en 3 étapes pour entretenir son pelage.
+Le Jindo est un trésor national coréen et une race mondialement réputée pour sa loyauté et son intelligence. Bien qu'il voue un dévouement total à son maître, sa méfiance naturelle et sa fidélité exclusive nécessitent une socialisation précoce. 🐕 De plus, il possède un pelage double très dense adapté aux saisons, provoquant d'importantes mues. Dans ce guide, partage des conseils de socialisation et une routine en 3 étapes pour entretenir son pelage.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Have you ever left an open can of tuna in the fridge with just the lid pulled ba
 
 While unopened canned tuna can be safely stored at room temperature for years, opening it exposes the contents to air, accelerating metallic oxidation and bacterial contamination. Keeping it in the open metal can traps volatile gases like furan and imparts an off-metallic taste, spoiling its flavor.
 
-Today, FreshSnap introduces a scientifically proven 3-step canned tuna storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your tuna safe and delicious. 🛡️
+In this guide, introduces a scientifically proven 3-step canned tuna storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your tuna safe and delicious. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

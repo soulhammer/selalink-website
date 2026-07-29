@@ -27,7 +27,7 @@ Pour conserver un reste de tofu, avez-vous pris l'habitude de verser l'eau d'ori
 
 L'eau du sachet de tofu contient des protéines de soja et des composés organiques dissous, constituant un milieu de culture idéal pour les bactéries une fois l'emballage ouvert. Laisser le tofu dans ce liquide ou l'exposer à l'air accélère la dégradation des protéines, entraînant une odeur sûre et une surface visqueuse.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les normes d'hygiène de la Mayo Clinic et du MFDS pour garder votre tofu ferme, frais et sûr pendant plus d'une semaine. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les normes d'hygiène de la Mayo Clinic et du MFDS pour garder votre tofu ferme, frais et sûr pendant plus d'une semaine. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

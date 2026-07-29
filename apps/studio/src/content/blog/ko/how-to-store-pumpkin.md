@@ -27,7 +27,7 @@ faqs:
 
 호박류는 껍질이 단단해 장기 보관이 가능한 대표적인 구황 작물이지만, 습도와 온도에 매우 민감합니다. 자르지 않은 통호박은 습기가 차면 꼭지부터 미생물이 침입해 쉽게 부패하며, 반대로 잘라낸 호박은 내부의 씨와 속을 제거하지 않고 보관하면 수분과 씨앗 부위에서 세균성 무름병이 급격히 일어납니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 호박의 달콤한 풍미와 밤 같은 식감을 최대 3개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 호박의 달콤한 풍미와 밤 같은 식감을 최대 3개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

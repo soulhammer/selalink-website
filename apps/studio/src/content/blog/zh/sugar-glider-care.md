@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不建议！蜜袋鼯在野外是 6 ~ 10 只成群生活的强社群性有袋类。单独饲养的蜜袋鼯极易患上严重抑郁症，进而疯狂咬啃自己的尾巴、肢体甚至育儿袋（自残行为）。请务必成对或成群饲养。"
 ---
 
-依靠翼膜在空中优雅滑翔的蜜袋鼯（Sugar Glider）是属于有袋类的珍贵小型宠物。由于野外群居的强社会天性，单只饲养极其容易引发抑郁症及咬尾/咬袋的自残行为（Self-mutilation）。此外，若长期投喂单一水果导致钙磷比例（2:1）失衡，极易诱发骨骼代谢病并导致致命的“后肢瘫痪（MBD）”。今天 PetSelf 将带您准确解读蜜袋鼯的肢体语言，并通过3步骤日常护理维护其健康。
+依靠翼膜在空中优雅滑翔的蜜袋鼯（Sugar Glider）是属于有袋类的珍贵小型宠物。由于野外群居的强社会天性，单只饲养极其容易引发抑郁症及咬尾/咬袋的自残行为（Self-mutilation）。此外，若长期投喂单一水果导致钙磷比例（2:1）失衡，极易诱发骨骼代谢病并导致致命的“后肢瘫痪（MBD）”。本指南将带您准确解读蜜袋鼯的肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

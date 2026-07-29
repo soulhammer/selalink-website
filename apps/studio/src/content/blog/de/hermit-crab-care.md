@@ -29,7 +29,7 @@ faqs:
     answer: "Sie benötigen Meerwasser zur Regulierung des Osmosedrucks und der Muschelflüssigkeit. Nutzen Sie Meersalz aus der Aquaristik (z. B. Instant Ocean) in entchlortem Wasser, niemals Speisesalz."
 ---
 
-Der Landeinsiedlerkrebs Purple Pincher (*Coenobita clypeatus*) ist das weltweit beliebteste Wirbellose fürs Terrarium. Er ist an seiner violetten Schere und seinem ständigen Bedürfnis nach größeren Schneckenhäusern zu erkennen. Da er über Kiemen atmet, ist eine Luftfeuchtigkeit von 75–85 % lebensnotwendig. Zudem benötigt er ein tiefes Substrat (mindestens 3-mal so hoch wie das Tier), um sich zur Häutung einzugraben. Als Gruppentiere sollten sie nie allein gehalten werden. PetSelf zeigt die richtige Pflege in 3 Schritten.
+Der Landeinsiedlerkrebs Purple Pincher (*Coenobita clypeatus*) ist das weltweit beliebteste Wirbellose fürs Terrarium. Er ist an seiner violetten Schere und seinem ständigen Bedürfnis nach größeren Schneckenhäusern zu erkennen. Da er über Kiemen atmet, ist eine Luftfeuchtigkeit von 75–85 % lebensnotwendig. Zudem benötigt er ein tiefes Substrat (mindestens 3-mal so hoch wie das Tier), um sich zur Häutung einzugraben. Als Gruppentiere sollten sie nie allein gehalten werden. Dieser Ratgeber zeigt die richtige Pflege in 3 Schritten.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

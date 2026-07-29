@@ -29,7 +29,7 @@ faqs:
     answer: "自然発生種であり、被毛に強い撥水性があるため水に対する恐怖心が薄い個体が多いです。ただし、無理なお風呂はストレスになりますので、嫌がる場合は無理に洗わないでください。"
 ---
 
-ノルウェージャンフォレストキャットは、北欧の過酷な冬に耐えるため進化してきた大きな骨格と、高い防水性を持つ密生した三重毛（トリプルコート）を備えた人気の大型猫です。「ノル」の愛称で親しまれる彼らは、非常に活動的で高い場所に登りたがる強い野生本能を持っています。🐈 また、毛量が非常に多く毛玉（ヘアボール）を作りやすいため、定期的で適切な被毛ケアが不可欠です。本日PetSelfでは、ノルウェージャンフォレストキャットの登坂欲求を満たし、美しい被毛と関節の健康を守る3ステップの日常ルーティンをご紹介します。
+ノルウェージャンフォレストキャットは、北欧の過酷な冬に耐えるため進化してきた大きな骨格と、高い防水性を持つ密生した三重毛（トリプルコート）を備えた人気の大型猫です。「ノル」の愛称で親しまれる彼らは、非常に活動的で高い場所に登りたがる強い野生本能を持っています。🐈 また、毛量が非常に多く毛玉（ヘアボール）を作りやすいため、定期的で適切な被毛ケアが不可欠です。本記事では、ノルウェージャンフォレストキャットの登坂欲求を満たし、美しい被毛と関節の健康を守る3ステップの日常ルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

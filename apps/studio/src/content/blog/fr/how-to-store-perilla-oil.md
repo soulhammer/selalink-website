@@ -27,7 +27,7 @@ Conservez-vous votre huile de périlla à côté de l'huile de sésame dans un p
 
 L'huile de périlla contient plus de 60 % d'acide alpha-linolénique (AAL, un acide gras oméga-3), ce qui la rend extrêmement vulnérable à l'oxydation des lipides (rancissement) lorsqu'elle est exposée à l'air, à la lumière ou à la chaleur. À l'inverse, l'huile de sésame reste très stable à température ambiante grâce à ses antioxydants naturels.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les travaux de l'Administration du Développement Rural (RDA) pour stopper le rancissement et doubler la durée de conservation de votre huile de périlla. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les travaux de l'Administration du Développement Rural (RDA) pour stopper le rancissement et doubler la durée de conservation de votre huile de périlla. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

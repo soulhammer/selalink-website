@@ -27,7 +27,7 @@ Avez-vous déjà noué sommairement un sachet de pâtes entamé pour le ranger d
 
 Les pâtes sèches ont une teneur en eau inférieure à 12 %, ce qui les rend idéales pour une longue conservation. Cependant, elles absorbent très facilement l'humidité ambiante, la lumière et les odeurs fortes, tout en attirant les insectes des céréales comme les charançons. Un stockage inapproprié altère la saveur du blé dur et dégrade leur qualité.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA pour préserver vos pâtes sèches pendant des années. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA pour préserver vos pâtes sèches pendant des années. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

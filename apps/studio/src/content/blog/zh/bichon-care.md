@@ -29,7 +29,7 @@ faqs:
     answer: "比熊犬的毛发细软、卷曲且密实，如果疏忽梳理，毛发会互相缠绕结成类似厚无纺布一样的毛毡。这种状态时间一长会勒紧毛根，阻断血液循环，从而引发接触性皮肤炎和瘙痒症。"
 ---
 
-像棉花糖一样洁白蓬松的比熊犬，因其永不疲倦的开朗性格和极致的可爱，给许多养宠家庭带来了无限幸福。然而，它们纤细密实的双层卷毛一旦停止梳理，就会从底毛开始严重缠结，耳部和四肢周围的毛发缠结会直接诱发接触性皮肤炎。此外，室内生活因精力过剩而突发的高速奔跑行为（俗称比熊时间/FRAPs）会给膝盖骨和脊椎带来巨大压力。今天，PetSelf 将教您如何读懂比熊犬愉快的身体信号，并介绍一套防止卷毛缠结以及在“比熊时间”防受伤的3步日常护理流程。
+像棉花糖一样洁白蓬松的比熊犬，因其永不疲倦的开朗性格和极致的可爱，给许多养宠家庭带来了无限幸福。然而，它们纤细密实的双层卷毛一旦停止梳理，就会从底毛开始严重缠结，耳部和四肢周围的毛发缠结会直接诱发接触性皮肤炎。此外，室内生活因精力过剩而突发的高速奔跑行为（俗称比熊时间/FRAPs）会给膝盖骨和脊椎带来巨大压力。今天，本指南将教您如何读懂比熊犬愉快的身体信号，并介绍一套防止卷毛缠结以及在“比熊时间”防受伤的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

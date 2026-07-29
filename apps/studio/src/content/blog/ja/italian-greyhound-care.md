@@ -29,7 +29,7 @@ faqs:
     answer: "はい、必須です。下毛（アンダーコート）や皮下脂肪がほとんどないため、気温が10〜15度以下になると低体温症のリスクが高まります。保温性の高い専用ロンパースやコートを必ず着用させてください。"
 ---
 
-スリムで気品ある体型と清潔な習慣で、都市部の飼い主に大人気のイタリアン・グレーハウンド（イタグレ）。体脂肪が非常に少なく被毛も薄いため寒さに極めて弱く、細く長い前脚の骨構造から、ソファやベッドからの飛び降りによる骨折や膝蓋骨脱臼（パテラ）を起こしやすい傾向があります。今回はPetSelfが、イタグレ特有のボディシグナルを解読し、年中通しての体温保護と骨・関節を守る3ステップのホームケアルーチンをご紹介します。
+スリムで気品ある体型と清潔な習慣で、都市部の飼い主に大人気のイタリアン・グレーハウンド（イタグレ）。体脂肪が非常に少なく被毛も薄いため寒さに極めて弱く、細く長い前脚の骨構造から、ソファやベッドからの飛び降りによる骨折や膝蓋骨脱臼（パテラ）を起こしやすい傾向があります。本記事では、イタグレ特有のボディシグナルを解読し、年中通しての体温保護と骨・関節を守る3ステップのホームケアルーチンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

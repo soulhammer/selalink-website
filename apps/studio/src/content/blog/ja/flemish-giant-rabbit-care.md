@@ -29,7 +29,7 @@ faqs:
     answer: "ウサギには肉球がなく被毛だけで骨を保護しています。体重が重いフレミッシュジャイアントは、金網床や滑りやすいフローリングでソアホックを発症しやすいため、厚手のラグや低反発マットを敷くことが不可欠です。"
 ---
 
-成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。今回はPetSelfが、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。
+成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。本記事では、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "고슴도치는 쥐와 달리 평생 이빨이 자라는 동물이 아닙니다. 따라서 이갈이 장난감은 필요 없으며, 딱딱한 것을 갉아 먹으면 이빨이 쉽게 파절되므로 오히려 알갱이가 지나치게 딱딱한 사료는 피해야 합니다."
 ---
 
-아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동(안팅)을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면(가사) 상태에 빠질 수 있습니다. 오늘 PetSelf에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.
+아프리칸 피그미 고슴도치는 얼굴을 조심히 내밀어 코를 씰룩이는 모습이 매력적이며, 조용히 관찰하는 재미가 쏠쏠한 외래 반려동물입니다. 태생적으로 매우 소심하여 가시라는 방어 수단을 쓰며, 낯선 냄새를 접하면 거품을 만들어 등 가시에 바르는 독특한 행동(안팅)을 보입니다. 또한, 실내 온도가 조금만 낮아져도 목숨이 위험한 동면(가사) 상태에 빠질 수 있습니다. 이번 가이드에서는 피그미 고슴도치의 본능적 가시 반응과 안전한 안팅 행동 요령, 24시간 적정 온도 및 위생을 보장하는 3단계 관리법을 알아봅니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

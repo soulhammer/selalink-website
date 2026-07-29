@@ -29,7 +29,7 @@ faqs:
     answer: "Os Shibas são naturalmente parecidos com gatos e valorizam seu espaço pessoal. Só porque não abanam a cauda com entusiasmo não significa que não gostem de você; deitar-se calmamente perto de você é a forma deles de mostrar carinho."
 ---
 
-Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito durante as trocas de estação. Hoje, o PetSelf explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.
+Os Shiba Inus são amados globalmente por sua aparência de raposa e cauda enrolada. No entanto, possuem uma independência felina, vontade forte e natureza alerta. 🐕 São notoriamente sensíveis a toques nas patas, orelhas ou cauda. Se forem forçados durante a escovação ou corte de unhas, costumam soltar o 'grito Shiba' em protesto. Além disso, têm pelagem dupla espessa que cai muito durante as trocas de estação. Neste guia, explora como respeitar os limites de seu Shiba com uma rotina de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

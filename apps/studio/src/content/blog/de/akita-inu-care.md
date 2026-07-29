@@ -29,7 +29,7 @@ faqs:
     answer: "Akitas verlieren zweimal im Jahr extrem viel Unterwolle ('Abhaaren'), was tägliches Ausbürsten erfordert. Im Sommer müssen sie in kühlen Räumen (20–22 °C) gehalten werden; Spaziergänge in der Mittagssonne sind strikt zu vermeiden."
 ---
 
-Weltberühmt durch die Geschichte von Hachiko ist der Akita Inu Japans imposantester Großhund, geschätzt für stoische Würde und Treue. Angepasst an kaltes Bergklima besitzen sie ein extrem dichtes Doppelfell (Double Coat), das im Frühjahr und Herbst stark abhaart. Durch ihre hohe Intelligenz und Unabhängigkeit benötigen Akitas ab dem Welpenalter eine konsequente Führung und Früherziehung, um Artgenossen-Aggressionen zu vermeiden. PetSelf zeigt die 3-Schritte-Routine für Fellpflege, Führung und Hitzeschutz.
+Weltberühmt durch die Geschichte von Hachiko ist der Akita Inu Japans imposantester Großhund, geschätzt für stoische Würde und Treue. Angepasst an kaltes Bergklima besitzen sie ein extrem dichtes Doppelfell (Double Coat), das im Frühjahr und Herbst stark abhaart. Durch ihre hohe Intelligenz und Unabhängigkeit benötigen Akitas ab dem Welpenalter eine konsequente Führung und Früherziehung, um Artgenossen-Aggressionen zu vermeiden. Dieser Ratgeber zeigt die 3-Schritte-Routine für Fellpflege, Führung und Hitzeschutz.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

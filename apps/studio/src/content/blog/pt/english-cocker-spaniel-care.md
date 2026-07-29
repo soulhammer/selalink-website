@@ -29,7 +29,7 @@ faqs:
     answer: "Mantenha os pelos internos da orelha aparados e seque completamente as orelhas após banhos, nadar ou beber água. Utilize limpador auricular veterinário 1 a 2 vezes por semana."
 ---
 
-Conhecido como o 'Alegre Cocker', o Cocker Spaniel Inglês é um cão de caça de porte médio adorado no mundo inteiro pelo seu temperamento vibrante e carinhoso. Contudo, a anatomia das suas orelhas longas e pendulares dificulta a ventilação do canal auditivo, tornando-o suscetível à otite externa. Além disso, por ter instinto de caçador, a falta de exercício físico e jogos de olfato pode gerar estresse. Hoje no PetSelf, explicamos a sua linguagem corporal e ensinamos uma rotina de 3 passos para manter as orelhas saudáveis e o cão ativo.
+Conhecido como o 'Alegre Cocker', o Cocker Spaniel Inglês é um cão de caça de porte médio adorado no mundo inteiro pelo seu temperamento vibrante e carinhoso. Contudo, a anatomia das suas orelhas longas e pendulares dificulta a ventilação do canal auditivo, tornando-o suscetível à otite externa. Além disso, por ter instinto de caçador, a falta de exercício físico e jogos de olfato pode gerar estresse. Neste guia, explicamos a sua linguagem corporal e ensinamos uma rotina de 3 passos para manter as orelhas saudáveis e o cão ativo.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

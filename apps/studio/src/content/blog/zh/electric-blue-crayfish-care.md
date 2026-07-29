@@ -29,7 +29,7 @@ faqs:
     answer: "不建议混养。蓝魔虾是机会主义猎手，会在夜间利用大螯捕食熟睡的小型鱼类、观赏虾或底栖鱼（如异型鱼）。此外它们还有剪断和剪拔水草的习性，单缸独养最为安全。"
 ---
 
-蓝魔虾（Procambarus alleni）以其如宝石般耀眼的钴蓝色发色，在淡水观赏水族箱中享有极高的人气。成体体长可达10 ~ 15厘米，粗壮的螯肢与好奇的举止极具观赏性。然而作为甲壳类动物，它们必须通过定期蜕皮（Ecdysis）来实现生长，而在蜕皮刚结束时，新壳柔软，极易遭到同缸鱼类或同类的攻击。此外，补充足够的钙与镁矿物质对于新壳的硬化至关重要，与底栖鱼类或小型观赏虾混养极易引发捕食与相残（Cannibalism）。今天 PetSelf 将为您梳理蓝魔虾的行为信号与3阶段日常护理流程。
+蓝魔虾（Procambarus alleni）以其如宝石般耀眼的钴蓝色发色，在淡水观赏水族箱中享有极高的人气。成体体长可达10 ~ 15厘米，粗壮的螯肢与好奇的举止极具观赏性。然而作为甲壳类动物，它们必须通过定期蜕皮（Ecdysis）来实现生长，而在蜕皮刚结束时，新壳柔软，极易遭到同缸鱼类或同类的攻击。此外，补充足够的钙与镁矿物质对于新壳的硬化至关重要，与底栖鱼类或小型观赏虾混养极易引发捕食与相残（Cannibalism）。本指南将为您梳理蓝魔虾的行为信号与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

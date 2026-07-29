@@ -29,7 +29,7 @@ faqs:
     answer: "这是折衷鹦鹉特有的不自主肌肉痉挛神经反应，通常由饮食敏感引起，如摄入人工色素、合成维生素过量、高脂种子或钙磷比例失衡。应立即停用含人工添加剂的饲料，转为天然无添加的新鲜天然饮食。"
 ---
 
-折衷鹦鹉 (*Eclectus roratus*) 是鸟类中具有极度“性别双色 (Sexual Dimorphism)”的代表性中大型鹦鹉。雄鸟全身羽毛呈深翡翠绿色，配以玉米黄色的嘴喙；雌鸟则呈鲜艳的绯红色与紫蓝色，配以黑色嘴喙，差异之大以至于早期曾被误认为两个独立物种。在解剖学上，折衷鹦鹉拥有比其他鹦鹉长得多的消化道，因此饮食中必须包含丰富水分、高纤维的鲜果、蔬菜及复合碳水化合物。若长期喂食高脂肪种子或人工合成添加剂过多的滋养丸，易引发敲趾 (Toe-tapping) 或抖翅 (Wing-flipping) 等神经系统异常。今天 PetSelf 将解析折衷鹦鹉的情感信号与3阶段日常护理流程。
+折衷鹦鹉 (*Eclectus roratus*) 是鸟类中具有极度“性别双色 (Sexual Dimorphism)”的代表性中大型鹦鹉。雄鸟全身羽毛呈深翡翠绿色，配以玉米黄色的嘴喙；雌鸟则呈鲜艳的绯红色与紫蓝色，配以黑色嘴喙，差异之大以至于早期曾被误认为两个独立物种。在解剖学上，折衷鹦鹉拥有比其他鹦鹉长得多的消化道，因此饮食中必须包含丰富水分、高纤维的鲜果、蔬菜及复合碳水化合物。若长期喂食高脂肪种子或人工合成添加剂过多的滋养丸，易引发敲趾 (Toe-tapping) 或抖翅 (Wing-flipping) 等神经系统异常。本指南将解析折衷鹦鹉的情感信号与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

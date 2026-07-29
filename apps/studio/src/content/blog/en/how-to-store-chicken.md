@@ -27,7 +27,7 @@ Have you ever washed raw chicken under the tap, only to worry about spreading fo
 
 Raw poultry has a high moisture content and delicate muscle fibers, making it an ideal breeding ground for harmful foodborne pathogens like Campylobacter jejuni and Salmonella. Washing raw chicken under running water causes micro-droplets containing bacteria to splash onto nearby countertops, utensils, and food.
 
-Today, FreshSnap shares a scientifically proven 3-step poultry storage guide based on hygiene guidelines from the CDC, USDA, and MFDS to prevent cross-contamination and keep your chicken safe, tender, and fresh. 🛡️
+In this guide, shares a scientifically proven 3-step poultry storage guide based on hygiene guidelines from the CDC, USDA, and MFDS to prevent cross-contamination and keep your chicken safe, tender, and fresh. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に水浴びをさせてはいけません！ハムスターは風邪を引きやすく毛が乾きにくいため、致命的な低体温症や肺炎で death に至ることがあります。ハムスターは自分で毛づくろいを行い、皮脂の除去と衛生維持のためには必ず専用のハムスター用砂浴び（浴び砂）を用意してください。"
 ---
 
-小さな体と大きなほお袋が魅力的なドワーフハムスター（Dwarf Hamster）は、ジャンガリアン（ウィンターホワイト）、キャンベル、ロボロフスキーなど多様な種で世界中から愛されている小型齧歯類です。ドワーフハムスターは果物や糖分の多いおやつを与えると糖尿病（Diabetes）にかかりやすく、室温が15°C以下に下がると生命を脅かす「擬似冬眠（Torpor/低体温症）」状態に陥る危険があります。また、水浴びは皮脂膜を奪い致命的な低体温症を引き起こすため、砂浴びが不可欠です。本日PetSelfでは、ドワーフハムスターのサインを正しく理解し、健康を守る3ステップルーティンをお届けします。
+小さな体と大きなほお袋が魅力的なドワーフハムスター（Dwarf Hamster）は、ジャンガリアン（ウィンターホワイト）、キャンベル、ロボロフスキーなど多様な種で世界中から愛されている小型齧歯類です。ドワーフハムスターは果物や糖分の多いおやつを与えると糖尿病（Diabetes）にかかりやすく、室温が15°C以下に下がると生命を脅かす「擬似冬眠（Torpor/低体温症）」状態に陥る危険があります。また、水浴びは皮脂膜を奪い致命的な低体温症を引き起こすため、砂浴びが不可欠です。本記事では、ドワーフハムスターのサインを正しく理解し、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

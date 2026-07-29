@@ -27,7 +27,7 @@ faqs:
 
 サバはオメガ3系不飽和脂肪酸が豊富ですが、自己分解酵素の活性が非常に高く脂質も多いため、酸素に触れると急速に酸化・脂質劣化（脂の酸化）を起こします。特に放置するとヒスチジンが毒性物質のヒスタミンに変化し食中毒を引き起こすため、温度管理が生命線です。
 
-本日FreshSnapでは、国立水産科学院(NIFS)やUSDAの科学的ガイドラインに基づき、サバの生臭みを抑え鮮度を完璧に保つ3段階の保存法をご紹介します。🛡️
+本記事では、国立水産科学院(NIFS)やUSDAの科学的ガイドラインに基づき、サバの生臭みを抑え鮮度を完璧に保つ3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

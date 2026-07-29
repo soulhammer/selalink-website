@@ -29,7 +29,7 @@ faqs:
     answer: "Non. Bien que les femelles pondent des œufs, les larves (zoés) ont obligatoirement besoin d'eau saumâtre pour survivre et se développer. En eau douce pure, les larves meurent en quelques jours."
 ---
 
-Célèbre pour son efficacité à nettoyer les algues filamenteuses dans les aquariums plantés, la crevette Amano (Caridina multidentata) est un crustacé d'eau douce translucide. Bien qu'infatigable, elle est extrêmement sensible aux métaux lourds (en particulier le cuivre), aux nitrates et aux variations brutales de température ou de pH. Une mauvaise qualité d'eau provoque des évasions désespérées hors du bac ou des mues mortelles. PetSelf vous détaille une routine quotidienne en 3 étapes.
+Célèbre pour son efficacité à nettoyer les algues filamenteuses dans les aquariums plantés, la crevette Amano (Caridina multidentata) est un crustacé d'eau douce translucide. Bien qu'infatigable, elle est extrêmement sensible aux métaux lourds (en particulier le cuivre), aux nitrates et aux variations brutales de température ou de pH. Une mauvaise qualité d'eau provoque des évasions désespérées hors du bac ou des mues mortelles.  vous détaille une routine quotidienne en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

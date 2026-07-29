@@ -29,7 +29,7 @@ faqs:
     answer: "当凯克鹦鹉在玩耍中咬人时，尖叫会被其误认为戏剧性的奖励，因此应保持冷静无反应并立即停止互动。此外，保证每天 10 ~ 12 小时严格的夜间全遮光睡眠，能有效平稳其激素水平并减少攻击性。"
 ---
 
-白腹凯克鹦鹉（Pionites leucogaster）原产于南美洲，因其鲜艳的头部羽毛、洁白的腹部以及像小兔子一样双脚蹦蹦跳跳的独特行走方式，被称为“鹦鹉界的比格犬/小狗”。它们精力极度充沛，酷爱翻滚打闹和人类互动，是全球鸟类爱好者极其喜爱的中型鹦鹉。然而，它们拥有强烈的好奇心和啃咬欲望（Chewing Drive），如果无法提供足够的觅食与破坏性玩具（Foraging/Destruction Toys），极易导致啃咬家具、持续发声鸣叫或心理行为障碍。此外，为防止激素过量分泌引发的攻击性，夜间保证 10 ~ 12 小时的遮光睡眠至关重要。今天 PetSelf 将为您解析凯克鹦鹉的情绪表达信号、丰容环境搭建与3阶段日常护理流程。
+白腹凯克鹦鹉（Pionites leucogaster）原产于南美洲，因其鲜艳的头部羽毛、洁白的腹部以及像小兔子一样双脚蹦蹦跳跳的独特行走方式，被称为“鹦鹉界的比格犬/小狗”。它们精力极度充沛，酷爱翻滚打闹和人类互动，是全球鸟类爱好者极其喜爱的中型鹦鹉。然而，它们拥有强烈的好奇心和啃咬欲望（Chewing Drive），如果无法提供足够的觅食与破坏性玩具（Foraging/Destruction Toys），极易导致啃咬家具、持续发声鸣叫或心理行为障碍。此外，为防止激素过量分泌引发的攻击性，夜间保证 10 ~ 12 小时的遮光睡眠至关重要。本指南将为您解析凯克鹦鹉的情绪表达信号、丰容环境搭建与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

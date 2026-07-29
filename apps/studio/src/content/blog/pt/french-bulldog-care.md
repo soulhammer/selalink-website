@@ -29,7 +29,7 @@ faqs:
     answer: "Recomenda-se higienizar diariamente. Umidade de lágrimas e restos de comida acumulam-se nas dobras, gerando fungos e bactérias se não forem mantidas secas."
 ---
 
-Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companheiro adorado no mundo todo. No entanto, sua anatomia braquicefálica o torna vulnerável a obstruções respiratórias, dificuldades para respirar e picos rápidos de temperatura corporal. Pular de locais altos também prejudica sua coluna. Hoje, o PetSelf decodifica os sinais respiratórios do Bulldog Francês e apresenta uma rotina diária em 3 passos.
+Com suas orelhas de morcego e focinho achatado, o Bulldog Francês é um companheiro adorado no mundo todo. No entanto, sua anatomia braquicefálica o torna vulnerável a obstruções respiratórias, dificuldades para respirar e picos rápidos de temperatura corporal. Pular de locais altos também prejudica sua coluna. Neste guia, decodifica os sinais respiratórios do Bulldog Francês e apresenta uma rotina diária em 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

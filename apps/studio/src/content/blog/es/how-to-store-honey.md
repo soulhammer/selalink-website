@@ -27,7 +27,7 @@ faqs:
 
 Con un contenido de humedad inferior al 18% y una alta concentración de azúcares, la miel pura es un alimento antimicrobiano natural que prácticamente nunca se echa a perder si se almacena correctamente. Sin embargo, guardarla a temperaturas de 10-15 °C o en el refrigerador acelera la cristalización, volviéndola dura y granulosa. Además, si queda descubierta, absorbe la humedad ambiental y puede fermentar.
 
-Hoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por el USDA para preservar los nutrientes y el rico sabor de su miel por años. 🛡️
+En esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA para preservar los nutrientes y el rico sabor de su miel por años. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

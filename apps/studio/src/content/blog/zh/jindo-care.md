@@ -29,7 +29,7 @@ faqs:
     answer: "它们天生独立且领地意识强，没必要强求与其他狗玩耍。以在路上相遇时能不吠叫、平静走过的“社会化中立”为训练目标即可。"
 ---
 
-珍岛犬是韩国的天然纪念物，也是世界公认的忠诚而聪明的犬种。它们与特定领袖有着极其坚固的纽带，但因警惕性高，如果错过幼年社会化期，很容易对陌生人或动物产生排他防备心理。🐕 此外，它们拥有适应四季变化的紧密双层毛，换毛期掉毛非常严重。今天 PetSelf 将为您分享降低珍岛犬警惕心的社会化诀窍以及毛发护理的3步骤日常护理流程。
+珍岛犬是韩国的天然纪念物，也是世界公认的忠诚而聪明的犬种。它们与特定领袖有着极其坚固的纽带，但因警惕性高，如果错过幼年社会化期，很容易对陌生人或动物产生排他防备心理。🐕 此外，它们拥有适应四季变化的紧密双层毛，换毛期掉毛非常严重。本指南将为您分享降低珍岛犬警惕心的社会化诀窍以及毛发护理的3步骤日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

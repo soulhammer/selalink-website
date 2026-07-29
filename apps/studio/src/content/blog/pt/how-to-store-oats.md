@@ -27,7 +27,7 @@ Você já guardou uma caixa de papelão de aveia no armário por alguns meses e 
 
 A aveia é um cereal altamente nutritivo, rico em fibras e gorduras insaturadas saudáveis (contém cerca de 5 a 9% de lipídios). No entanto, devido ao seu maior teor de gordura em comparação ao arroz ou trigo, a exposição ao oxigênio, luz e calor causa rápida oxidação dos lipídios (rancificação). Além disso, é um dos alimentos favoritos de pragas de grãos.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas do USDA para manter sua aveia fresca e saborosa por um ano ou mais. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas do USDA para manter sua aveia fresca e saborosa por um ano ou mais. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

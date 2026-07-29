@@ -27,7 +27,7 @@ faqs:
 
 El calamar tiene un alto contenido de agua y sus vísceras concentran microorganismos y enzimas digestivas (proteasas). Si se guarda sin limpiar, las enzimas provocan una rápida autólisis, desprendiendo trimetilamina (TMA), el compuesto responsable del olor a pescado.
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y el USDA para eliminar los malos olores, prevenir la quemadura por congelación y mantener una textura tierna. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y el USDA para eliminar los malos olores, prevenir la quemadura por congelación y mantener una textura tierna. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

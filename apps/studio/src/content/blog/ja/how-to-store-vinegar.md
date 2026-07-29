@@ -27,7 +27,7 @@ faqs:
 
 お酢は主成分である酢酸（Acetic Acid）の強力な酸性のおかげで、非常に高い殺菌力と self-preservation（自己保存性）を持つ食材です。しかし、直射日光や高い熱に晒されると風味や香りが飛んでしまったり、空気中の有機物と反応して濁りや沈殿物が生じることがあります。
 
-本日FreshSnapでは、食品安全機関のガイドラインに基づき、お酢の酸度と芳醇な風味を長期間変わらず維持する3段階の科学的保存法をご紹介します。🛡️
+本記事では、食品安全機関のガイドラインに基づき、お酢の酸度と芳醇な風味を長期間変わらず維持する3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

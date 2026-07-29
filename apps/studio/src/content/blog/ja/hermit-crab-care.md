@@ -29,7 +29,7 @@ faqs:
     answer: "オカヤドカリは体内の浸透圧調整や貝殻内の水分維持のために淡水と海数の両方を必要とします。食卓塩ではなく観賞魚用の人工海水塩を脱塩素水に溶かし、淡水と海水の両方の水たまりを用意してください。"
 ---
 
-パープルピンチャー（オオナキヤドカリ /*Coenobita clypeatus*）は、紫色のハサミとつぶらな瞳が可愛らしい世界中で大人気の陸オカヤドカリです。生涯の成長に合わせて自分の体に合った貝殻（宿貝）へ引っ越す独特な生態を持っています。陸上生活ですが変形した鰓（えら）で呼吸するため、ケージ内の湿度（75〜85%）維持が命を守る最重要ポイントです。また、脱皮の際には砂の中深く潜る習性（Burrowing）があるため、個体の高さの3倍以上の深さの底砂（サンゴ砂やココナッツピート）が必要です。集団で暮らす社会的な動物であるため、複数量での飼育が推奨されます。今回はPetSelfが日常ケアを解説します。
+パープルピンチャー（オオナキヤドカリ /*Coenobita clypeatus*）は、紫色のハサミとつぶらな瞳が可愛らしい世界中で大人気の陸オカヤドカリです。生涯の成長に合わせて自分の体に合った貝殻（宿貝）へ引っ越す独特な生態を持っています。陸上生活ですが変形した鰓（えら）で呼吸するため、ケージ内の湿度（75〜85%）維持が命を守る最重要ポイントです。また、脱皮の際には砂の中深く潜る習性（Burrowing）があるため、個体の高さの3倍以上の深さの底砂（サンゴ砂やココナッツピート）が必要です。集団で暮らす社会的な動物であるため、複数量での飼育が推奨されます。本記事では、日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

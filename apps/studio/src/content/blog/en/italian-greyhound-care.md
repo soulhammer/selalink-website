@@ -29,7 +29,7 @@ faqs:
     answer: "Yes. Because they lack insulating undercoats and body fat, temperatures below 10–15°C (50–60°F) pose a real hypothermia risk. Fitted sweaters, coats, or fleece overall suits are essential."
 ---
 
-The Italian Greyhound (IG) is a refined, slender sighthound beloved by urban pet parents for their gentle nature and clean habits. With extremely low body fat and thin single coats, they are highly sensitive to temperature drops. Furthermore, their long, delicate leg bones make them prone to radius/ulna fractures and patellar luxation if jumping from high furniture. Today, PetSelf decodes IG behavioral signals and shares a 3-step daily care routine for year-round thermal protection and joint safety.
+The Italian Greyhound (IG) is a refined, slender sighthound beloved by urban pet parents for their gentle nature and clean habits. With extremely low body fat and thin single coats, they are highly sensitive to temperature drops. Furthermore, their long, delicate leg bones make them prone to radius/ulna fractures and patellar luxation if jumping from high furniture. In this guide, decodes IG behavioral signals and shares a 3-step daily care routine for year-round thermal protection and joint safety.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

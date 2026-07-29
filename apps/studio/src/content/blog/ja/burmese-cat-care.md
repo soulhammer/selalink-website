@@ -29,7 +29,7 @@ faqs:
     answer: "バーミーズはアンダーコート（下毛）が少ないシングルコートの短毛種のため、抜け毛は少なめです。週に1〜2回、ラバーブラシやシルコン手袋で優しくブラッシングするだけで、シルクのような輝きを維持できます。"
 ---
 
-サテンのように滑らかな短毛、深みのある黄金色の瞳、そして人にベッタリ甘える「犬のような性格」で世界中から愛されるバーミーズ。非常に社交的で頭が良い一方、飼い主への依存度が高いため長時間の留守番では深刻な分離不安やストレスを抱えやすい特徴があります。今回はPetSelfが、バーミーズの感情表現と不安サインを解読し、分離不安予防・室内運動量の確保・健康体型維持を叶える3ステップの日常ケア法をご紹介します。
+サテンのように滑らかな短毛、深みのある黄金色の瞳、そして人にベッタリ甘える「犬のような性格」で世界中から愛されるバーミーズ。非常に社交的で頭が良い一方、飼い主への依存度が高いため長時間の留守番では深刻な分離不安やストレスを抱えやすい特徴があります。本記事では、バーミーズの感情表現と不安サインを解読し、分離不安予防・室内運動量の確保・健康体型維持を叶える3ステップの日常ケア法をご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

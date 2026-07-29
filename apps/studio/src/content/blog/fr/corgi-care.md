@@ -29,7 +29,7 @@ faqs:
     answer: "Le Corgi a un pelage double qui perd énormément de poils. Brossez quotidiennement en alternant carde (slicker) et peigne démêleur pour enlever le sous-poil mort et éviter les dermatites."
 ---
 
-Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière rebondi. Anciens chiens de berger, ils possèdent une grande intelligence, une énergie débordante et un caractère audacieux. Cependant, leur dos long et leurs pattes courtes exercent une forte pression structurelle sur la colonne et les articulations. L'obésité augmente drastiquement le risque de hernie discale. Aujourd'hui, PetSelf étudie leur langage corporel et présente una routine en 3 étapes pour protéger leur dos et leurs rotules.
+Le Welsh Corgi est une race adorée pour ses pattes courtes et son derrière rebondi. Anciens chiens de berger, ils possèdent une grande intelligence, une énergie débordante et un caractère audacieux. Cependant, leur dos long et leurs pattes courtes exercent une forte pression structurelle sur la colonne et les articulations. L'obésité augmente drastiquement le risque de hernie discale. Dans ce guide, étudie leur langage corporel et présente una routine en 3 étapes pour protéger leur dos et leurs rotules.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

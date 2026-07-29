@@ -29,7 +29,7 @@ faqs:
     answer: "É uma deformação na qual os escudos da carapaça crescem em forma de pirâmide. Ocorre devido a baixa humidade, excesso de proteína ou falta de cálcio/UVB. Previne-se mantendo a humidade entre 40–60%, banhos mornos e boa iluminação UVB."
 ---
 
-Com uma carapaça curvada ornamentada com padrões em mosaico e uma personalidade afetuosa, a Tartaruga-Moura (Testudo graeca) é uma espécie mediterrânea emblemática. Sendo um réptil diurno, necessita de iluminação UVB forte para absorção de cálcio e um gradiente térmico adequado. Sem hidratação, cálcio e UVB apropriados, corre risco de piramidismo, Doença Óssea Metabólica (MBD) e cálculos renais. O PetSelf apresenta uma rotina de 3 passos para a sua saúde.
+Com uma carapaça curvada ornamentada com padrões em mosaico e uma personalidade afetuosa, a Tartaruga-Moura (Testudo graeca) é uma espécie mediterrânea emblemática. Sendo um réptil diurno, necessita de iluminação UVB forte para absorção de cálcio e um gradiente térmico adequado. Sem hidratação, cálcio e UVB apropriados, corre risco de piramidismo, Doença Óssea Metabólica (MBD) e cálculos renais. O Este guia  uma rotina de 3 passos para a sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

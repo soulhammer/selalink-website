@@ -27,7 +27,7 @@ Você tem o costume de guardar as batatas cruas na gaveta de legumes da geladeir
 
 Diferente da maioria dos vegetais, armazenar batatas em temperaturas frias abaixo de 4°C desencadeia o 'adoçamento induzido pelo frio', convertendo seus amidos em açúcares redutores. Fritar ou assar essas batatas em altas temperaturas gera níveis perigosos de Acrilamida, um carcinógeno conhecido do Grupo 2A.
 
-Além disso, a exposição à luz faz a casca da batata ficar verde, sintetizando um glicoalcaloide tóxico chamado solanina. Hoje, o FreshSnap apresenta um guia científico de conservação em 3 etapas baseado em diretrizes da Food Standards Agency (FSA) do Reino Unido para evitar toxinas, inibir brotos e manter suas batatas saudáveis e seguras. 🛡️
+Além disso, a exposição à luz faz a casca da batata ficar verde, sintetizando um glicoalcaloide tóxico chamado solanina. Neste guia, apresentamos um guia científico de conservação em 3 etapas baseado em diretrizes da Food Standards Agency (FSA) do Reino Unido para evitar toxinas, inibir brotos e manter suas batatas saudáveis e seguras. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

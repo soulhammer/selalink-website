@@ -27,7 +27,7 @@ faqs:
 
 El toque picante y el aroma único de la pimienta negra provienen de la piperina y sus aceites esenciales volátiles. Aunque la pimienta seca tiene poca humedad y no se echa a perder fácilmente, la exposición al aire, luz, humedad y calor evapora rápido sus aceites y favorece el moho.
 
-Hoy, FreshSnap presenta una guía en 3 pasos respaldada por expertos para mantener su pimienta negra llena de sabor y frescura por mucho tiempo. 🛡️
+En esta guía se presenta una guía en 3 pasos respaldada por expertos para mantener su pimienta negra llena de sabor y frescura por mucho tiempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Air dapat merusak lapisan minyak alami kulit hamster, memicu hipotermia mematikan atau infeksi kulit berat. Wadah berisi pasir mandi gurun bebas debu memungkinkan mereka membersihkan minyak tubuh secara alami."
 ---
 
-Memiliki ciri khas pola alis putih dan tubuh mungil yang lincah, hamster Roborovski adalah jenis hamster kerdil (dwarf) terkecil. Terkenal akan kecepatannya yang luar biasa dan rasa ingin tahu yang tinggi, sifatnya yang penakut membuat mereka lebih cocok sebagai hewan peliharaan untuk diamati daripada dipegang. Karena kulitnya menghasilkan minyak, mandi pasir gurun khusus sangat wajib disediakan. Hari ini, PetSelf menyajikan 3 langkah rutinitas harian untuk merawat hamster Roborovski.
+Memiliki ciri khas pola alis putih dan tubuh mungil yang lincah, hamster Roborovski adalah jenis hamster kerdil (dwarf) terkecil. Terkenal akan kecepatannya yang luar biasa dan rasa ingin tahu yang tinggi, sifatnya yang penakut membuat mereka lebih cocok sebagai hewan peliharaan untuk diamati daripada dipegang. Karena kulitnya menghasilkan minyak, mandi pasir gurun khusus sangat wajib disediakan. Dalam panduan ini, menyajikan 3 langkah rutinitas harian untuk merawat hamster Roborovski.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

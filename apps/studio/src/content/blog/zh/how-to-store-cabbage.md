@@ -27,7 +27,7 @@ faqs:
 
 卷心菜在采收后，依然会通过粗壮的菜芯（茎部）持续吸收并消耗外层叶片的水分与营养。如果不将菜芯去除，内部水分会急剧流失，导致叶片干瘪并加速腐烂。
 
-今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您揭开卷心菜菜芯的保鲜奥秘，带给您长达30天保持清脆新鲜的3步科学储存秘诀。🛡️
+本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您揭开卷心菜菜芯的保鲜奥秘，带给您长达30天保持清脆新鲜的3步科学储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

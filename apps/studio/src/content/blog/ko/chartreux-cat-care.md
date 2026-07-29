@@ -29,7 +29,7 @@ faqs:
     answer: "샤르트뢰는 짧고 빽빽하며 양모 느낌이 나는 이중모를 지니고 있어 주 2 ~ 3회 이상 빗질하여 죽은 속털을 제거해야 헤어볼을 예방할 수 있습니다. 또한 성격이 조용해 활동량이 적어지면 비만에 취약하므로, 정량 급식과 함께 하루 15분 이상의 지능형 장난감 놀이를 병행해야 합니다."
 ---
 
-샤르트뢰(Chartreux)는 프랑스의 전설적인 고양이로, 특유의 미소 짓는 듯한 부드러운 인상과 은빛 청회색(Blue-grey) 털로 전 세계 고양이 애호가들의 마음을 사로잡은 명품 묘종입니다. '프랑스의 침묵하는 고양이'라는 별명처럼 울음소리를 거의 내지 않고 성품이 매우 온화하며, 개처럼 물건을 물어오는 놀이를 즐길 정도로 지능이 높습니다. 다만 촘촘한 울(Woolly) 느낌의 이중모 구조를 가지고 있어 정기적인 털 관리로 헤어볼을 예방해야 하며, 성격이 조용한 만큼 활동량이 줄어들면 비만이 되기 쉬우므로 식이요법과 지적 자극이 필수적입니다. 오늘 PetSelf에서는 샤르트뢰의 본능적 감정 시그널을 분석하고, 털 관리와 체중 조절, 뇌 자극을 위한 3단계 일상 루틴을 공개합니다.
+샤르트뢰(Chartreux)는 프랑스의 전설적인 고양이로, 특유의 미소 짓는 듯한 부드러운 인상과 은빛 청회색(Blue-grey) 털로 전 세계 고양이 애호가들의 마음을 사로잡은 명품 묘종입니다. '프랑스의 침묵하는 고양이'라는 별명처럼 울음소리를 거의 내지 않고 성품이 매우 온화하며, 개처럼 물건을 물어오는 놀이를 즐길 정도로 지능이 높습니다. 다만 촘촘한 울(Woolly) 느낌의 이중모 구조를 가지고 있어 정기적인 털 관리로 헤어볼을 예방해야 하며, 성격이 조용한 만큼 활동량이 줄어들면 비만이 되기 쉬우므로 식이요법과 지적 자극이 필수적입니다. 이번 가이드에서는 샤르트뢰의 본능적 감정 시그널을 분석하고, 털 관리와 체중 조절, 뇌 자극을 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

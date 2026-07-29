@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan paprika di dalam kulkas lalu mendapati teksturnya menja
 
 Paprika terdiri dari lebih dari 90% air, menjadikannya sangat sensitif terhadap kelembapan berlebih dan suhu yang terlalu dingin. Menyimpannya di bawah suhu 7°C memicu 'chilling injury' (kerusakan akibat dingin) yang merusak dinding sel, menyebabkan pembusukan dan bintik cekung pada kulit. Air yang terperangkap di sekitar tangkai juga memicu tumbuhnya jamur.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan paprika 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan tekstur renyahnya. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan paprika 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan tekstur renyahnya. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

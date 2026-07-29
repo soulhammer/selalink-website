@@ -29,7 +29,7 @@ faqs:
     answer: "无底毛单层毛掉毛较少，但耳饰毛易打结，需每日梳理。"
 ---
 
-蝴蝶犬因蝴蝶般的耳朵和卓越智商而备受喜爱。它们极具敏捷天赋，但因骨骼纤细易患膝盖骨脱位（Patellar Luxation）。作为无底毛的单层毛犬种，耳部和胸部饰毛防打结梳理至关重要。今天 PetSelf 为您整理3阶段护理流程。
+蝴蝶犬因蝴蝶般的耳朵和卓越智商而备受喜爱。它们极具敏捷天赋，但因骨骼纤细易患膝盖骨脱位（Patellar Luxation）。作为无底毛的单层毛犬种，耳部和胸部饰毛防打结梳理至关重要。本指南为您整理3阶段护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

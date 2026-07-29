@@ -29,7 +29,7 @@ faqs:
     answer: "웰시코기는 엄청난 양의 털을 배출하는 이중모 견종입니다. 털이 뭉쳐 피부염을 일으키지 않도록 매일 슬리커와 레이크 빗을 교차해 빗질해 주어 공기 순환을 확보해야 합니다."
 ---
 
-웰시코기는 짧은 다리와 빵빵한 엉덩이로 많은 사랑을 받는 견종입니다. 원래 목양견으로 활약하던 견종답게 지능이 높고 활동량이 엄청나며 대담한 성격을 지니고 있습니다. 하지만 긴 허리와 짧은 다리라는 신체적 특징 때문에 척추와 관절에 가해지는 부담이 매우 큽니다. 비만이 될 경우 디스크 위험이 급증하므로 철저한 일상 관리가 필수적입니다. 오늘 PetSelf에서는 웰시코기의 독특한 바디 랭귀지를 이해하고 척추와 슬개골을 평생 안전하게 지키는 3단계 케어 루틴을 소개합니다.
+웰시코기는 짧은 다리와 빵빵한 엉덩이로 많은 사랑을 받는 견종입니다. 원래 목양견으로 활약하던 견종답게 지능이 높고 활동량이 엄청나며 대담한 성격을 지니고 있습니다. 하지만 긴 허리와 짧은 다리라는 신체적 특징 때문에 척추와 관절에 가해지는 부담이 매우 큽니다. 비만이 될 경우 디스크 위험이 급증하므로 철저한 일상 관리가 필수적입니다. 이번 가이드에서는 웰시코기의 독특한 바디 랭귀지를 이해하고 척추와 슬개골을 평생 안전하게 지키는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

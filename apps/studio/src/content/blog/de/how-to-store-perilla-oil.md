@@ -27,7 +27,7 @@ Lagern Sie Ihr Perillaöl zusammen mit Sesamöl im Küchenschrank neben dem Herd
 
 Perillaöl enthält über 60 % Alpha-Linolensäure (ALA, eine Omega-3-Fettsäure), wodurch es bei Kontakt mit Luft, Licht oder Wärme extrem schnell oxidiert (ranzig wird). Sesamöl hingegen bleibt dank natürlicher Antioxidantien wie Sesamol bei Raumtemperatur stabil.
 
-Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen der Rural Development Administration (RDA) basiert, um Ranzigkeit zu verhindern und die Haltbarkeit Ihres Perillaöls zu verdoppeln. 🛡️
+In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen der Rural Development Administration (RDA) basiert, um Ranzigkeit zu verhindern und die Haltbarkeit Ihres Perillaöls zu verdoppeln. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

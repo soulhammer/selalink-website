@@ -29,7 +29,7 @@ faqs:
     answer: "はい、完全な無毒です。猛毒を持つコラールスネークの模様を模した「ベイツ型擬態」です。赤色の帯が黒色の帯と隣り合っているのが無毒のミルクスネークの特徴です（黄色と接しているのが猛毒のコラールスネーク）。"
 ---
 
-ミルクスネーク（Milk Snake）は、コーンスネークやボールパイソンと並び、世界中のペットヘビ愛好家に親しまれている代表的なナミヘビです。鮮やかな赤、黒、黄色（または白）のバンド模様が特徴で、猛毒を持つコラールスネーク（サンゴヘビ）の外見を模倣して外敵から身を守る「ベイツ型擬態（Batesian Mimicry）」の典型例として知られています。派手な見た目とは裏腹に完全な無毒ヘビで、環境を整えれば大人しく飼育しやすい種類です。変温動物であるため、体温調節用のクールゾーン（24〜26℃）とホットゾーン（29〜31℃）の温度勾配の設置、定期的な給餌、脱皮管理が重要です。今回はPetSelfが、ミルクスネークの行動サインと健康維持のための3ステップルーチンを解説します。
+ミルクスネーク（Milk Snake）は、コーンスネークやボールパイソンと並び、世界中のペットヘビ愛好家に親しまれている代表的なナミヘビです。鮮やかな赤、黒、黄色（または白）のバンド模様が特徴で、猛毒を持つコラールスネーク（サンゴヘビ）の外見を模倣して外敵から身を守る「ベイツ型擬態（Batesian Mimicry）」の典型例として知られています。派手な見た目とは裏腹に完全な無毒ヘビで、環境を整えれば大人しく飼育しやすい種類です。変温動物であるため、体温調節用のクールゾーン（24〜26℃）とホットゾーン（29〜31℃）の温度勾配の設置、定期的な給餌、脱皮管理が重要です。本記事では、ミルクスネークの行動サインと健康維持のための3ステップルーチンを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

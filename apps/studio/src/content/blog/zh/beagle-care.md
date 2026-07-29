@@ -29,7 +29,7 @@ faqs:
     answer: "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生马拉色菌（真菌）和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
 ---
 
-比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的嗅探猎犬。虽然它们极为友善且适应力强，但具有天生的好奇心和强烈的嗅觉执着。如果这股巨大的精力无法得到宣泄，很容易表现出持续嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿且闷热，极易滋生霉菌引发外耳炎。今天，PetSelf 将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。
+比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的嗅探猎犬。虽然它们极为友善且适应力强，但具有天生的好奇心和强烈的嗅觉执着。如果这股巨大的精力无法得到宣泄，很容易表现出持续嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿且闷热，极易滋生霉菌引发外耳炎。今天，本指南将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

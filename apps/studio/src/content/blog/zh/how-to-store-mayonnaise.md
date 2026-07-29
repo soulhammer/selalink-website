@@ -27,7 +27,7 @@ faqs:
 
 美乃滋是由植物油、蛋黄和食醋（或柠檬汁）经过精密乳化制成的典型乳化液（Emulsion）食品。它对温度变化极其敏感，特别是暴露于极低温环境时，油脂与水分的结合会遭到破坏，发生“破乳”现象。
 
-今天FreshSnap将为您介绍基于美国FDA、USDA及韩国MFDS指南的科学3步美乃滋保存秘诀，帮您在开封后也能长久锁定其浓郁顺滑的口感。🛡️
+本指南将为您介绍基于美国FDA、USDA及韩国MFDS指南的科学3步美乃滋保存秘诀，帮您在开封后也能长久锁定其浓郁顺滑的口感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

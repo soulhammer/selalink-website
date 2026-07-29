@@ -29,7 +29,7 @@ faqs:
     answer: "混泳は推奨されません。ザリガニは夜間に眠っている小型魚やエビ、コリドラスなどの底生魚をハサミで捕食します。また水草を根抜いたり切断する習性があるため、単独飼育が最も safe です。"
 ---
 
-エレクトリックブルーザリガニ（Procambarus alleni）は、鮮やかなコバルトブルーの体色でアクアリウムで高い人気を誇る観賞用甲殻類です。成体になると10〜15cmに成長し、大きなハサミと活発な行動が魅力です。しかし甲殻類であるため、成長のために定期的な脱皮（Ecdysis）を行いますが、脱皮直後は体が柔らかく他魚や同種からの攻撃に非常に脆弱になります。また、硬い甲殻を形成するためのカルシウム・マグネシウムの補給が不可欠であり、底生魚や小型エビとの混泳は捕食や共食いを引き起こすため注意が必要です。今回はPetSelfが、本種の行動サインと3ステップ日常管理を解説します。
+エレクトリックブルーザリガニ（Procambarus alleni）は、鮮やかなコバルトブルーの体色でアクアリウムで高い人気を誇る観賞用甲殻類です。成体になると10〜15cmに成長し、大きなハサミと活発な行動が魅力です。しかし甲殻類であるため、成長のために定期的な脱皮（Ecdysis）を行いますが、脱皮直後は体が柔らかく他魚や同種からの攻撃に非常に脆弱になります。また、硬い甲殻を形成するためのカルシウム・マグネシウムの補給が不可欠であり、底生魚や小型エビとの混泳は捕食や共食いを引き起こすため注意が必要です。本記事では、本種の行動サインと3ステップ日常管理を解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

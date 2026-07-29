@@ -23,7 +23,7 @@ faqs:
     answer: "缶が膨らんでいる（膨張）場合や、激しく凹んでいる場合は絶対に食べないでください！缶の膨らみは内部で嫌気性細菌（ボツリヌス菌など）がガスを発生させた可能性が高く、激しい凹みは微細な亀裂から雑菌が侵入している恐れがあるため、安全のため直ちに破棄してください。"
 ---
 
-缶詰ハム（スパム）を開封して残った分を、缶のままラップをかけて冷蔵庫に入れていませんか？缶詰ハムは未開封であれば常温で数年間保存できる滅菌食品ですが、開封した瞬間に空気中の酸素が入り込みます。缶の内側の錫（スズ）や鉄が酸化して金属臭が肉に移り、脂質の酸化や雑菌繁殖が急激に進みます。本日FreshSnapでは、米国農務省（USDA）および食品医薬品安全処のガイドラインに基づき、開封後の缶詰ハムを金属臭なく衛生的に最後まで美味しく保存する3段階の科学的保存法をご紹介します。🛡️
+缶詰ハム（スパム）を開封して残った分を、缶のままラップをかけて冷蔵庫に入れていませんか？缶詰ハムは未開封であれば常温で数年間保存できる滅菌食品ですが、開封した瞬間に空気中の酸素が入り込みます。缶の内側の錫（スズ）や鉄が酸化して金属臭が肉に移り、脂質の酸化や雑菌繁殖が急激に進みます。本記事では、米国農務省（USDA）および食品医薬品安全処のガイドラインに基づき、開封後の缶詰ハムを金属臭なく衛生的に最後まで美味しく保存する3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Ils ont un appétit très féroce. Si vos mains gardent l'odeur d'un rongeur, le serpent peut prendre vos doigts pour de la nourriture. Utilisez toujours de longues pinces."
 ---
 
-Le Serpent Roi de Californie (*Lampropeltis californiae*) est très conseillé pour les débutants. À l'état sauvage, il possède un instinct ophiophage (il chasse d'autres serpents). Il est donc indispensable de maintenir chaque individu séparément sous peine de cannibalisme fatal. PetSelf vous propose un guide en 3 étapes pour sa santé.
+Le Serpent Roi de Californie (*Lampropeltis californiae*) est très conseillé pour les débutants. À l'état sauvage, il possède un instinct ophiophage (il chasse d'autres serpents). Il est donc indispensable de maintenir chaque individu séparément sous peine de cannibalisme fatal. Ce guide vous propose un guide en 3 étapes pour sa santé.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

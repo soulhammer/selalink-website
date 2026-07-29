@@ -27,7 +27,7 @@ faqs:
 
 辣椒的水分含量高达85 ~ 90%，对湿度非常敏感，且在7℃以下的低温环境中极易遭遇“冷害（Chilling Injury）”，导致细胞结构受损。尤其是蒂头部位积聚水汽时，霉菌孢子会迅速滋生，引发整颗辣椒发软腐烂。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步辣椒保鲜秘诀，帮您最大程度锁定爽脆与香辣。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步辣椒保鲜秘诀，帮您最大程度锁定爽脆与香辣。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "自来水的TDS、GH、重金属和余氯会随季节和地区剧烈波动，这对敏感的水晶虾是致命的。使用接近零杂质的RO水添加水晶虾专用GH矿物盐调配至固定数值，是预防脱壳失败和暴毙最有效的方法。"
 ---
 
-水晶虾（Caridina logemanni var. 'Crystal Red'，简称CRS）是一种备受全球水族爱好者青睐的高级小型观赏甲壳动物，以其红白相间的鲜艳条纹而闻名。它们在水族箱中不停啃食生物膜（Biofilm）的可爱动作极具观赏价值，但对水质和水温的微小变化极度敏感。特别是在脱壳（Molt）过程中，如果氨氮毒物、总溶解固体（TDS）或总硬度（GH）不达标，极易发生致命的脱壳失败（Dysecdysis）。因此，选择能将水质缓冲至弱酸性的活性水草泥（Active Soil）、配置水妖精水绵过滤，并使用RO逆渗透水重矿化调配水质，是延长其寿命的核心。今天 PetSelf 将为您解析水晶虾的行为信号、精细水质控制及3阶段日常护理流程。
+水晶虾（Caridina logemanni var. 'Crystal Red'，简称CRS）是一种备受全球水族爱好者青睐的高级小型观赏甲壳动物，以其红白相间的鲜艳条纹而闻名。它们在水族箱中不停啃食生物膜（Biofilm）的可爱动作极具观赏价值，但对水质和水温的微小变化极度敏感。特别是在脱壳（Molt）过程中，如果氨氮毒物、总溶解固体（TDS）或总硬度（GH）不达标，极易发生致命的脱壳失败（Dysecdysis）。因此，选择能将水质缓冲至弱酸性的活性水草泥（Active Soil）、配置水妖精水绵过滤，并使用RO逆渗透水重矿化调配水质，是延长其寿命的核心。本指南将为您解析水晶虾的行为信号、精细水质控制及3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

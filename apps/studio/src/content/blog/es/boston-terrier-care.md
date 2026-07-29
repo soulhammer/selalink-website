@@ -29,7 +29,7 @@ faqs:
     answer: "Sus ojos saltones carecen de la protección de una órbita profunda. Evite que se introduzca en matorrales, aplique lágrimas artificiales a diario y mantenga secos sus pliegues faciales."
 ---
 
-Conocido como el 'Caballero Americano' por su pelaje tipo esmoquin y su carácter afable, el Boston Terrier es un perro de compañía encantador. No obstante, al ser una raza braquicefálica (de cara chata), sus vías respiratorias estrechas lo hacen propenso al Síndrome Braquicefálico y al golpe de calor. Además, sus ojos grandes y prominentes son vulnerables a úlceras corneales y sequedad. Hoy, PetSelf descifra sus señales respiratorias y oculares para presentarle una rutina diaria de 3 pasos.
+Conocido como el 'Caballero Americano' por su pelaje tipo esmoquin y su carácter afable, el Boston Terrier es un perro de compañía encantador. No obstante, al ser una raza braquicefálica (de cara chata), sus vías respiratorias estrechas lo hacen propenso al Síndrome Braquicefálico y al golpe de calor. Además, sus ojos grandes y prominentes son vulnerables a úlceras corneales y sequedad. En esta guía, descifra sus señales respiratorias y oculares para presentarle una rutina diaria de 3 pasos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

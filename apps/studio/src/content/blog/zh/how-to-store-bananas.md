@@ -23,7 +23,7 @@ faqs:
     answer: "香蕉的根部是释放乙烯气体最多的地方。用铝箔纸紧紧包住根部可以抑制气体释放，从而显著减缓香蕉变软的速度。"
 ---
 
-您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，FreshSnap为您分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。
+您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，本指南将分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

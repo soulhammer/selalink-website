@@ -29,7 +29,7 @@ faqs:
     answer: "柯尼斯卷毛猫对冷空气极其敏感，室内温度低于20°C易导致感冒。应将室温维持在22–24°C，为其穿上柔软的针织衫，并准备电热毯或绒布包围式猫窝。"
 ---
 
-柯尼斯卷毛猫因其像火焰般紧密弯曲的短毛、巨大的蝙蝠耳以及纤细如灰狗般的体型，被称为“猫界小精灵”。由于它们没有外层护毛，仅有一层极为柔软的下层绒毛（Down Hair），掉毛量极少；但也正因如此，皮脂腺分泌的油脂无法被外毛吸收，极易在皮肤褶皱、脚趾间和耳朵内堆积。此外，较低的体脂和薄毛使它们极其怕冷，且即使成年也依然像小猫般精力充沛，热爱高空跳跃。今天 PetSelf 将解析柯尼斯卷毛猫的本能信号，并分享涵盖皮肤油脂清理、四季保暖与高能量释放的3阶段日常护理流程。
+柯尼斯卷毛猫因其像火焰般紧密弯曲的短毛、巨大的蝙蝠耳以及纤细如灰狗般的体型，被称为“猫界小精灵”。由于它们没有外层护毛，仅有一层极为柔软的下层绒毛（Down Hair），掉毛量极少；但也正因如此，皮脂腺分泌的油脂无法被外毛吸收，极易在皮肤褶皱、脚趾间和耳朵内堆积。此外，较低的体脂和薄毛使它们极其怕冷，且即使成年也依然像小猫般精力充沛，热爱高空跳跃。本指南将解析柯尼斯卷毛猫的本能信号，并分享涵盖皮肤油脂清理、四季保暖与高能量释放的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

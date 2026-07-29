@@ -29,7 +29,7 @@ faqs:
     answer: "预防胃扭转（GDV）需分餐饲喂（每日2 ~ 3餐），并在饭后保持1小时完全休息。预防髋关节发育不良（HD）需避免生长期体重过快增长，杜绝在坚硬地面剧烈跳跃，并在1岁后定期进行 X 光骨骼检查。"
 ---
 
-拥有强健体魄、极高智商与绝对忠诚度的罗威纳犬（Rottweiler）是全球备受推崇的护卫犬与家庭伴侣犬。尽管罗威纳犬对家庭成员极为温顺依恋，但其胸腔深广的体型结构使其在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，由于体重大，基因上易患髋关节发育不良（HD）与韧带损伤，需要严格控重、早期社会化与服从性训练。今天 PetSelf 将带您准确解读罗威纳犬肢体语言，并通过3步骤日常护理维护其健康。
+拥有强健体魄、极高智商与绝对忠诚度的罗威纳犬（Rottweiler）是全球备受推崇的护卫犬与家庭伴侣犬。尽管罗威纳犬对家庭成员极为温顺依恋，但其胸腔深广的体型结构使其在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，由于体重大，基因上易患髋关节发育不良（HD）与韧带损伤，需要严格控重、早期社会化与服从性训练。本指南将带您准确解读罗威纳犬肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 참기름은 들기름과 달리 리그난(세사몰, 세사몰린)이라는 강력한 천연 항산화 성분이 풍부하여 산패에 매우 강한 특징을 가지고 있습니다. 하지만 10℃ 이하의 찬 환경(냉장고)에 두면 하얗게 굳어 덩어리지며 고소한 아로마 오일 성분이 손상됩니다. 반대로 직사광선이나 가스레인지 주변의 열기에 노출되면 지질 산화가 빠르게 진행됩니다.
 
-오늘 FreshSnap에서는 식품 안전 전문가들이 권장하는 참기름의 고소한 향과 영양을 최대 1 ~ 2년 동안 오롯이 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 식품 안전 전문가들이 권장하는 참기름의 고소한 향과 영양을 최대 1 ~ 2년 동안 오롯이 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

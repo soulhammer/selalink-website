@@ -29,7 +29,7 @@ faqs:
     answer: "아닙니다. 기니피그는 무리 생활을 하는 매우 사회적인 동물이므로, 혼자 기르면 깊은 우울감과 외로움으로 인해 거식증에 걸릴 수 있습니다. 성별이 같거나 중성화된 두 마리 이상을 함께 기르는 것을 권장합니다."
 ---
 
-몸 전체에 회오리치는 모양의 가마(로제트) 털을 가진 아비시니안 기니피그는 활발하고 호기심 많은 성격으로 인기가 많습니다. 기니피그는 체내에서 비타민 C를 스스로 합성하지 못하는 생리 구조를 가지고 있어, 결핍 시 괴혈병, 관절 부종, 면역력 급감을 유발합니다. 또한 호흡기가 매우 취약하여 먼지 없는 건초 급여와 케이지 위생 관리가 필수적입니다. 오늘 PetSelf에서는 기니피그의 감정 소리와 몸짓을 분석하고, 비타민 C 강화 및 호흡기 안전을 돕는 3단계 홈케어 루틴을 다룹니다.
+몸 전체에 회오리치는 모양의 가마(로제트) 털을 가진 아비시니안 기니피그는 활발하고 호기심 많은 성격으로 인기가 많습니다. 기니피그는 체내에서 비타민 C를 스스로 합성하지 못하는 생리 구조를 가지고 있어, 결핍 시 괴혈병, 관절 부종, 면역력 급감을 유발합니다. 또한 호흡기가 매우 취약하여 먼지 없는 건초 급여와 케이지 위생 관리가 필수적입니다. 이번 가이드에서는 기니피그의 감정 소리와 몸짓을 분석하고, 비타민 C 강화 및 호흡기 안전을 돕는 3단계 홈케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

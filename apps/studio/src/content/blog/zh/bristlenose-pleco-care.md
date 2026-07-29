@@ -29,7 +29,7 @@ faqs:
     answer: "成熟的公鱼从嘴唇延伸至额头中央会长出长而分叉的分茂触须；而母鱼通常完全没有触须，或仅在嘴唇边缘长有一圈极短小微弱的突起。"
 ---
 
-胡子异型（*Ancistrus* spp.，俗称安西胡子）因其卓越的除藻能力和可爱的嘴部触须，成为全球水族爱好者缸中不可或缺的清道夫。成熟公鱼嘴部周围会长出如树枝般繁茂的触须（须状突起），这是其标志性特征。与动辄长至几十厘米的大型清道夫不同，胡子异型成体仅10-15厘米，非常适合中小水缸。为了维持其长消化道的健康，缸内必须放置天然沉木以提供木质素（Lignin）；同时，仅靠水缸中的藻类容易导致其饥饿，定期喂食烫熟的西葫芦、南瓜、菠菜及沉底草食饲料至关重要。今天 PetSelf 将解析胡子异型的行为信号并分享3阶段日常护理流程。
+胡子异型（*Ancistrus* spp.，俗称安西胡子）因其卓越的除藻能力和可爱的嘴部触须，成为全球水族爱好者缸中不可或缺的清道夫。成熟公鱼嘴部周围会长出如树枝般繁茂的触须（须状突起），这是其标志性特征。与动辄长至几十厘米的大型清道夫不同，胡子异型成体仅10-15厘米，非常适合中小水缸。为了维持其长消化道的健康，缸内必须放置天然沉木以提供木质素（Lignin）；同时，仅靠水缸中的藻类容易导致其饥饿，定期喂食烫熟的西葫芦、南瓜、菠菜及沉底草食饲料至关重要。本指南将解析胡子异型的行为信号并分享3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

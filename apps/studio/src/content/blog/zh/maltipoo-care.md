@@ -29,7 +29,7 @@ faqs:
     answer: "马尔泰普脱落的废毛不会掉落到地上，而是卡在卷曲的底毛中。若不每天用针梳梳理，会形成贴近皮肤的巨大毛结，阻碍透气并诱发皮肤病与疼痛。"
 ---
 
-马尔泰普（Maltipoo）是结合了贵宾犬（Toy Poodle）智商高、掉毛少与马尔济斯（Maltese）温顺粘人优点的代表性混血犬种（Designer Dog）。它们拥有毛绒玩具般的外表和极其讨喜的性格，在全球室内家庭犬中极受欢迎。然而，作为小型犬，它们天生容易患上髌骨脱位（Patellar Luxation）；其柔软卷曲的被毛若不每天梳理，脱落的废毛会卡在卷毛深处形成紧贴皮肤的毛结（Matting），引发细菌性皮肤炎。此外，对主人的极高依赖感使其极易患上分离焦虑症（Separation Anxiety），因此从小培养独立性至关重要。今天 PetSelf 将为您解析马尔泰普的行为信号、关节保护技巧与3阶段日常护理流程。
+马尔泰普（Maltipoo）是结合了贵宾犬（Toy Poodle）智商高、掉毛少与马尔济斯（Maltese）温顺粘人优点的代表性混血犬种（Designer Dog）。它们拥有毛绒玩具般的外表和极其讨喜的性格，在全球室内家庭犬中极受欢迎。然而，作为小型犬，它们天生容易患上髌骨脱位（Patellar Luxation）；其柔软卷曲的被毛若不每天梳理，脱落的废毛会卡在卷毛深处形成紧贴皮肤的毛结（Matting），引发细菌性皮肤炎。此外，对主人的极高依赖感使其极易患上分离焦虑症（Separation Anxiety），因此从小培养独立性至关重要。本指南将为您解析马尔泰普的行为信号、关节保护技巧与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

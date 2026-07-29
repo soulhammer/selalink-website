@@ -29,7 +29,7 @@ faqs:
     answer: "Not recommended. Adults exceed 50 kg and require a spacious outdoor enclosure."
 ---
 
-The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. PetSelf presents a 3-step care routine.
+The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. This guide presents a 3-step care routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

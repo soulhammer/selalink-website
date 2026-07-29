@@ -29,7 +29,7 @@ faqs:
     answer: "권장하지 않습니다. 극도로 사회적인 동물이라 혼자 두면 극심한 외로움과 우울증, 공격성을 보입니다. 보호자가 매일 수시간 이상 교감하거나 쌍으로 사육하는 것이 좋습니다."
 ---
 
-검은꼬리 프레리도그는 북미 원산의 소형 포유류로, 야생에서 거대한 지하 굴 시스템을 형성해 무리 생활을 하는 극도로 사회적인 동물입니다. 평생 자라는 절치(앞니) 마모를 위해 고섬유질 티모시 건초를 상시 공급해야 부정교합이나 치근 이상 자람(Odontoma)을 예방할 수 있습니다. 굴 파기 본능을 위한 깊은 바닥재와 깊은 애정 교감이 필수적입니다. 오늘 PetSelf에서 프레리도그 케어 3단계 루틴을 정리해 드립니다.
+검은꼬리 프레리도그는 북미 원산의 소형 포유류로, 야생에서 거대한 지하 굴 시스템을 형성해 무리 생활을 하는 극도로 사회적인 동물입니다. 평생 자라는 절치(앞니) 마모를 위해 고섬유질 티모시 건초를 상시 공급해야 부정교합이나 치근 이상 자람(Odontoma)을 예방할 수 있습니다. 굴 파기 본능을 위한 깊은 바닥재와 깊은 애정 교감이 필수적입니다. 이번 가이드에서 프레리도그 케어 3단계 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

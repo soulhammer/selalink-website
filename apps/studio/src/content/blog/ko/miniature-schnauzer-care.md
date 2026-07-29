@@ -29,7 +29,7 @@ faqs:
     answer: "미니어처 슈나우저 고유의 유전성 피부 질환인 '슈나우저 코메도 증후군(Schnauzer Comedone Syndrome)'입니다. 모낭 각화 이상으로 인해 등 능선을 따라 피지가 차올라 블랙헤드와 농포(여드름)가 생깁니다. 억지로 짜면 2차 세균 감염이 발생하므로, 약용 샴푸(약용 벤조일 퍼옥사이드/살리실산)로 정기적인 목욕 및 각질 케어를 해주는 것이 효과적입니다."
 ---
 
-야무진 눈썹과 할아버지 같은 수염이 매력적인 미니어처 슈나우저(Miniature Schnauzer)는 뛰어난 지능과 충성심으로 전 세계에서 사랑받는 명품 테리어 종입니다. 미니어처 슈나우저는 지질 대사 이상으로 인한 유전성 고지혈증(Hyperlipidemia) 발병률이 극도로 높아, 기름진 음식을 섭취할 경우 치명적인 급성 췌장염(Pancreatitis)으로 직행하기 쉽습니다. 또한 등 능선을 따라 든드름이 생기는 특이 피부 질환인 '슈나우저 코메도 증후군(Comedone Syndrome)'과 습한 수염으로 인한 습진, 요로결석에 취약합니다. 오늘 PetSelf에서는 미니어처 슈나우저의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+야무진 눈썹과 할아버지 같은 수염이 매력적인 미니어처 슈나우저(Miniature Schnauzer)는 뛰어난 지능과 충성심으로 전 세계에서 사랑받는 명품 테리어 종입니다. 미니어처 슈나우저는 지질 대사 이상으로 인한 유전성 고지혈증(Hyperlipidemia) 발병률이 극도로 높아, 기름진 음식을 섭취할 경우 치명적인 급성 췌장염(Pancreatitis)으로 직행하기 쉽습니다. 또한 등 능선을 따라 든드름이 생기는 특이 피부 질환인 '슈나우저 코메도 증후군(Comedone Syndrome)'과 습한 수염으로 인한 습진, 요로결석에 취약합니다. 이번 가이드에서는 미니어처 슈나우저의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -33,7 +33,7 @@ faqs:
 
 しかし、成猫では体重が8〜12kgに達するため、骨格や関節にかかる負担が非常に大きいです。さらに、遺伝的に「肥大性心筋症(HCM)」の発症率が他の猫種よりも高い傾向にあります。呼吸状態を日常的に監視し、着地時の関節への衝撃を減らすケアが非常に重要になります。
 
-本日PetSelfでは、メインクーンのボディランゲージを解読し、豊かなダブルコートのお手入れと心臓を守る3段階のケアをご紹介します。
+本記事では、メインクーンのボディランゲージを解読し、豊かなダブルコートのお手入れと心臓を守る3段階のケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

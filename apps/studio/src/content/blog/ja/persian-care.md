@@ -29,7 +29,7 @@ faqs:
     answer: "顔が平らなペルシアンは鼻の周りのシワが深いです。ここに涙が溜まると酸素供給が断たれて細菌や酵母菌が繁殖し、悪臭や皮膚潰瘍の原因となります。"
 ---
 
-豊かな毛並みとつぶれた愛らしい顔が特徴のペルシアンは、温厚で落ち着いた性格の室内飼育に適した代表的な猫種です。しかし、短い鼻の骨格（短頭種）上、涙が流れて目や鼻の周りのシワに汚れが溜まりやすいです。また、繊細で密度が高い長毛の被毛は絡まりやすく、毛玉になると皮膚を引っ張って激しい痛みを伴い、通気性を阻害して皮膚炎を引き起こします。本日PetSelfでは、ペルシアンの繊細なストレスサインを理解し、日常で目と被毛を守る3段階ホームケアルーティンをご紹介します。
+豊かな毛並みとつぶれた愛らしい顔が特徴のペルシアンは、温厚で落ち着いた性格の室内飼育に適した代表的な猫種です。しかし、短い鼻の骨格（短頭種）上、涙が流れて目や鼻の周りのシワに汚れが溜まりやすいです。また、繊細で密度が高い長毛の被毛は絡まりやすく、毛玉になると皮膚を引っ張って激しい痛みを伴い、通気性を阻害して皮膚炎を引き起こします。本記事では、ペルシアンの繊細なストレスサインを理解し、日常で目と被毛を守る3段階ホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

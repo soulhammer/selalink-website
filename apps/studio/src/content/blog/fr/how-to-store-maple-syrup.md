@@ -27,7 +27,7 @@ Avez-vous déjà versé du pur sirop d'érable 100% naturel sur vos crêpes, pui
 
 Contrairement aux sirops artificiels à base de sirop de maïs, le pur sirop d'érable est un produit 100% naturel concentré uniquement à partir de la sève d'érable, sans aucun conservateur. Bien que sa teneur en sucre soit élevée (environ 66%), une fois ouvert et exposé à l'air ambiant, il devient un terrain propice au développement des moisissures. Une réfrigération immédiate après ouverture est donc essentielle.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et de l'ACIA (CFIA) pour prévenir les moisissures et préserver la saveur de l'érable. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et de l'ACIA (CFIA) pour prévenir les moisissures et préserver la saveur de l'érable. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

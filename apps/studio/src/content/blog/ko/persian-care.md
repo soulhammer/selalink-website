@@ -29,7 +29,7 @@ faqs:
     answer: "얼굴이 납작한 페르시안은 코 주변에 주름이 깊게 생깁니다. 여기에 눈물이 고이면 산소 공급이 막히고 박테리아와 효모균이 번식해 악취와 피부 괴사성 염증을 유발할 수 있습니다."
 ---
 
-풍성한 털과 특유의 동글납작한 얼굴이 귀여운 페르시안 고양이는 성격이 온화하고 차분하여 실내에서 기르기 좋은 대표적인 묘종입니다. 하지만 납작한 단두종 골격 때문에 눈물이 자주 흐르고 코와 눈 주변 주름에 이물질이 끼기 쉽습니다. 또한 촘촘하고 길어 뭉치기 쉬운 이중 장모는 엉켜서 굳어지면 피부를 당겨 큰 통증을 일으키고 공기 순환을 막아 피부염을 일으킵니다. 오늘 PetSelf에서는 페르시안 고양이의 은밀한 안구 및 모질 스트레스 신호를 읽어내고, 이를 일상에서 예방하는 3단계 홈케어 루틴을 공유합니다.
+풍성한 털과 특유의 동글납작한 얼굴이 귀여운 페르시안 고양이는 성격이 온화하고 차분하여 실내에서 기르기 좋은 대표적인 묘종입니다. 하지만 납작한 단두종 골격 때문에 눈물이 자주 흐르고 코와 눈 주변 주름에 이물질이 끼기 쉽습니다. 또한 촘촘하고 길어 뭉치기 쉬운 이중 장모는 엉켜서 굳어지면 피부를 당겨 큰 통증을 일으키고 공기 순환을 막아 피부염을 일으킵니다. 이번 가이드에서는 페르시안 고양이의 은밀한 안구 및 모질 스트레스 신호를 읽어내고, 이를 일상에서 예방하는 3단계 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

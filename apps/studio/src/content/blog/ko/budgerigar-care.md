@@ -29,7 +29,7 @@ faqs:
     answer: "씨앗 사료는 지방 함량이 매우 높고 비타민 A와 칼슘이 부족하여 장기 급여 시 간지방증(Hepatic Lipidosis)과 갑상선 질환을 유발합니다. 영양 균형이 잡힌 조류 전용 펠릿을 60 ~ 70% 이상 주식으로 급여해야 합니다."
 ---
 
-사랑앵무(Budgerigar / Budgie)는 화려한 깃털과 매력적인 소리, 높은 친화력으로 전 세계에서 가장 사랑받는 소형 앵무새입니다. 하지만 앵무새 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 테플론 코팅 팬에서 발생하는 유독 가스나 향수, 방향제 등 공기 중 유해 물질에 극도로 취약합니다. 또한 씨앗(알곡) 중심의 단일 식단은 간지방증(Hepatic Lipidosis)과 비타민 결핍을 유발하기 쉽습니다. 오늘 PetSelf에서는 사랑앵무의 언어를 정확히 이해하고 호흡기 건강과 균형 잡힌 식단을 지키는 3단계 홈케어 루틴을 소개합니다.
+사랑앵무(Budgerigar / Budgie)는 화려한 깃털과 매력적인 소리, 높은 친화력으로 전 세계에서 가장 사랑받는 소형 앵무새입니다. 하지만 앵무새 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 테플론 코팅 팬에서 발생하는 유독 가스나 향수, 방향제 등 공기 중 유해 물질에 극도로 취약합니다. 또한 씨앗(알곡) 중심의 단일 식단은 간지방증(Hepatic Lipidosis)과 비타민 결핍을 유발하기 쉽습니다. 이번 가이드에서는 사랑앵무의 언어를 정확히 이해하고 호흡기 건강과 균형 잡힌 식단을 지키는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

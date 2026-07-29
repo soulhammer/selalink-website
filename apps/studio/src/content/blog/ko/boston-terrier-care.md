@@ -29,7 +29,7 @@ faqs:
     answer: "눈이 앞으로 돌출되어 있어 풀숲이나 뾰족한 물건에 부딪히기 쉽습니다. 산책 시 숲풀 진입을 자제하고, 정기적으로 인공눈물을 넣어 건조함을 막아주며 얼굴 주변 털과 주름을 깨끗이 유지해 주세요."
 ---
 
-신사 같은 턱시도 무늬와 귀여운 납작한 얼굴을 가진 보스턴 테리어는 '아메리칸 젠틀맨'이라 불리며 많은 사랑을 받는 반려견입니다. 하지만 단두종(Brachycephalic) 특성상 기도가 좁아 단두종 호흡기 증후군과 고열에 취약하며, 돌출된 큰 눈 때문에 각막 상처나 백내장 위험이 높습니다. 오늘 PetSelf에서는 보스턴 테리어의 호흡 및 안구 신호를 분석하고, 건강을 지키기 위한 3단계 홈케어 루틴을 소개합니다.
+신사 같은 턱시도 무늬와 귀여운 납작한 얼굴을 가진 보스턴 테리어는 '아메리칸 젠틀맨'이라 불리며 많은 사랑을 받는 반려견입니다. 하지만 단두종(Brachycephalic) 특성상 기도가 좁아 단두종 호흡기 증후군과 고열에 취약하며, 돌출된 큰 눈 때문에 각막 상처나 백내장 위험이 높습니다. 이번 가이드에서는 보스턴 테리어의 호흡 및 안구 신호를 분석하고, 건강을 지키기 위한 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

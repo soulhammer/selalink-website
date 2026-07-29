@@ -27,7 +27,7 @@ Avez-vous déjà mis un avocat pas mûr au réfrigérateur pour le retrouver ave
 
 L'avocat est un fruit climatérique qui continue de respirer et de mûrir après la récolte. Le conserver à une température inappropriée peut stopper définitivement sa maturation ou détruire sa structure cellulaire interne, nécessitant une attention particulière.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations officielles de la California Avocado Commission (CAC) et de l'USDA pour maximiser la fraîcheur et préserver la saveur et les nutriments. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations officielles de la California Avocado Commission (CAC) et de l'USDA pour maximiser la fraîcheur et préserver la saveur et les nutriments. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

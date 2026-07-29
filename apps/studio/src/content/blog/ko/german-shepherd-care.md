@@ -29,7 +29,7 @@ faqs:
     answer: "저먼 셰퍼드는 빽빽한 이중모를 가지고 있어 '독일 셰퍼드 Shedder(털 뿜뿜이)'라는 별명이 있을 정도로 털이 많이 빠집니다. 매일 5 ~ 10분씩 언더코트 전용 빗으로 죽은 속털을 제거해 주고, 털갈이 시기에는 주기적인 목욕과 브러싱을 병행해야 피부 질환을 예방할 수 있습니다."
 ---
 
-저먼 셰퍼드는 뛰어난 지능과 용맹함, 그리고 높은 충성심으로 세계 최고의 군견이자 경찰견, 반려견으로 사랑받는 품종입니다. 하지만 뛰어난 작업 의욕만큼이나 충분한 신체적·정신적 자극이 주어지지 않으면 스트레스로 인한 경계 공격성이나 파괴적 행동을 보일 수 있습니다. 또한 체구 구조상 고관절 및 팔꿈치 이형성증(Dysplasia)에 취약하며, 빽빽한 이중모 피모 특성상 털 빠짐이 매우 심합니다. 오늘 PetSelf에서는 저먼 셰퍼드의 바디 랭귀지를 올바르게 이해하고 관절과 피모를 건강하게 지키는 3단계 케어 루틴을 소개합니다.
+저먼 셰퍼드는 뛰어난 지능과 용맹함, 그리고 높은 충성심으로 세계 최고의 군견이자 경찰견, 반려견으로 사랑받는 품종입니다. 하지만 뛰어난 작업 의욕만큼이나 충분한 신체적·정신적 자극이 주어지지 않으면 스트레스로 인한 경계 공격성이나 파괴적 행동을 보일 수 있습니다. 또한 체구 구조상 고관절 및 팔꿈치 이형성증(Dysplasia)에 취약하며, 빽빽한 이중모 피모 특성상 털 빠짐이 매우 심합니다. 이번 가이드에서는 저먼 셰퍼드의 바디 랭귀지를 올바르게 이해하고 관절과 피모를 건강하게 지키는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

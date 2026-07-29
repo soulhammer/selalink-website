@@ -29,7 +29,7 @@ faqs:
     answer: "Körnerfutter enthält zu viel Fett und kaum Vitamin A oder Kalzium, was zu Fettleibigkeit, Atemwegserkrankungen und Federrupfen führt. Pellets sollten mindestens 70 % der Nahrung ausmachen."
 ---
 
-Mit seinem leuchtend gelb-orangen Gefieder und seinem anhänglichen Wesen ist der Sonnensittich ein weltweit beliebter Reifensittich. Als hochintelligenter Schwarmvogel stellt er jedoch hohe soziale Ansprüche, stößt laute Kontaktrufe aus und neigt bei reiner Körnerfütterung zu Vitamin-A-Mangel. Fehlen zudem 10 bis 12 Stunden ruhiger Dunkelschlaf, droht stressbedingtes Federrupfen. PetSelf stellt eine 3-Schritte-Routine vor, um die Gesundheit Ihres Sonnensittichs zu sichern.
+Mit seinem leuchtend gelb-orangen Gefieder und seinem anhänglichen Wesen ist der Sonnensittich ein weltweit beliebter Reifensittich. Als hochintelligenter Schwarmvogel stellt er jedoch hohe soziale Ansprüche, stößt laute Kontaktrufe aus und neigt bei reiner Körnerfütterung zu Vitamin-A-Mangel. Fehlen zudem 10 bis 12 Stunden ruhiger Dunkelschlaf, droht stressbedingtes Federrupfen. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor, um die Gesundheit Ihres Sonnensittichs zu sichern.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

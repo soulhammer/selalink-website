@@ -29,7 +29,7 @@ faqs:
     answer: "这是一种因缺乏红细胞能量代谢酶而导致溶血性贫血的遗传性疾病。建议领养前确认繁育亲本具有基因检测阴性证明（PK Clear），日常多观察牙龈颜色与精神状态。"
 ---
 
-新加坡猫拥有硕大明亮的眼睛、娇小的体型和独特的古铜刺棒色（Ticked Sepia）短毛，被称为“世界上最小的猫咪”。由于体型小巧且缺乏底层绒毛，它们极度畏寒；同时其活动量相对较大，需要充足的垂直活动空间（如猫树）。此外，遗传性丙酮酸激酶缺乏症（PKD）也是需要重点关注的健康隐患。今天 PetSelf 为您解析新加坡猫的体温与健康信号，并提供3步日常护理流程。
+新加坡猫拥有硕大明亮的眼睛、娇小的体型和独特的古铜刺棒色（Ticked Sepia）短毛，被称为“世界上最小的猫咪”。由于体型小巧且缺乏底层绒毛，它们极度畏寒；同时其活动量相对较大，需要充足的垂直活动空间（如猫树）。此外，遗传性丙酮酸激酶缺乏症（PKD）也是需要重点关注的健康隐患。本指南为您解析新加坡猫的体温与健康信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

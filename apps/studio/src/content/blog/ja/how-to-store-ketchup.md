@@ -27,7 +27,7 @@ faqs:
 
 ケチャップは、トマトや酢の酸味、砂糖・塩の浸透圧により、常温でも細菌が繁殖しにくい調味料です。しかし、開封後に空気や熱に晒されると、トマトのリコピンが酸化して色が黒ずみ、爽やかな甘みと旨味が徐々に失われてしまいます。
 
-本日FreshSnapでは、米国FDA、USDAおよび食品安全専門家のガイドラインに基づき、ケチャップの濃密な味わいと鮮やかな赤色を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国FDA、USDAおよび食品安全専門家のガイドラインに基づき、ケチャップの濃密な味わいと鮮やかな赤色を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

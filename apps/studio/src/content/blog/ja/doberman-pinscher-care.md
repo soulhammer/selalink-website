@@ -29,7 +29,7 @@ faqs:
     answer: "ドーベルマンのように胸が深く狭い犬種は、胃が回旋しやすい解剖学的特徴を持ちます。食後にガスが溜まった状態で激しく動くと胃が捻転し（GDV）、数時間で血流が遮断されショック死に至ります。これを防ぐため、フードは回数を分けて与え、食後少なくとも1時間は完全に安静にさせてください。"
 ---
 
-優れた知性と優雅な体躯、強い忠誠心を持つドーベルマン・ピンシャー（Doberman Pinscher）は、世界中で愛されている警備犬・家庭犬です。家族への愛情が深い反面、遺伝的に拡張型心筋症（DCM）の発症率が非常に高く、深い胸の構造から食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。またシングルコートの短毛種のため寒さに弱く、十分な運動と頭脳プレイが不足するとストレス行動を起こします。本日PetSelfでは、ドーベルマンのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+優れた知性と優雅な体躯、強い忠誠心を持つドーベルマン・ピンシャー（Doberman Pinscher）は、世界中で愛されている警備犬・家庭犬です。家族への愛情が深い反面、遺伝的に拡張型心筋症（DCM）の発症率が非常に高く、深い胸の構造から食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。またシングルコートの短毛種のため寒さに弱く、十分な運動と頭脳プレイが不足するとストレス行動を起こします。本記事では、ドーベルマンのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

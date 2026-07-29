@@ -29,7 +29,7 @@ faqs:
     answer: "외부 소리를 전혀 듣지 못해 바깥 위험(차량, 위험 소음 등)에 대처할 수 없으므로 100% 완전 실내 사육을 유지해야 합니다. 또한 창문과 현관문에 이중 안전 방충망을 설치하여 돌발적인 탈출 사고를 차단해야 합니다."
 ---
 
-우아한 실크 같은 장모와 신비로운 눈동자로 유명한 터키시 앙고라는 호기심이 많고 영리한 품종입니다. 하지만 백색 털에 파란 눈(또는 오드아이)을 지닌 터키시 앙고라는 우성 백색 유전자($W$)와 관련하여 유전적으로 선천성 난청을 앓을 확률이 대단히 높습니다. 또한 나이가 들수록 비대성 심근증(HCM)과 같은 심장 질환의 위험이 있어 정기 검진이 필요합니다. 오늘 PetSelf에서는 터키시 앙고라의 난청 관련 특이 행동을 해독하고, 시각과 진동을 활용하여 안전하게 교감하는 3단계 맞춤형 홈케어 루틴을 소개합니다.
+우아한 실크 같은 장모와 신비로운 눈동자로 유명한 터키시 앙고라는 호기심이 많고 영리한 품종입니다. 하지만 백색 털에 파란 눈(또는 오드아이)을 지닌 터키시 앙고라는 우성 백색 유전자($W$)와 관련하여 유전적으로 선천성 난청을 앓을 확률이 대단히 높습니다. 또한 나이가 들수록 비대성 심근증(HCM)과 같은 심장 질환의 위험이 있어 정기 검진이 필요합니다. 이번 가이드에서는 터키시 앙고라의 난청 관련 특이 행동을 해독하고, 시각과 진동을 활용하여 안전하게 교감하는 3단계 맞춤형 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

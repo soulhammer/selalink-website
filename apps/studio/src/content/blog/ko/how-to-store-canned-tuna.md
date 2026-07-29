@@ -27,7 +27,7 @@ faqs:
 
 참치캔은 개봉 전에는 상온에서 수년간 안전하게 보관할 수 있지만, 일단 개봉하여 공기와 접촉하면 금속 용기의 부식과 세균 오염이 급격히 진행됩니다. 특히 개봉한 캔째 보관하면 퓨란 가스가 배출되지 못하거나 금속성 이취가 음식에 배어 풍미가 크게 저하됩니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 참치캔을 개봉 전후에 안전하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 참치캔을 개봉 전후에 안전하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

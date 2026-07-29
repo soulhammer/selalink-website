@@ -13,7 +13,7 @@
                     "sleep_pattern": "8 ~ 12시간 (새벽과 저녁에 활발한 박명박모성·다상성 수면)",
                     "temperament": "온순함, 차분함, 느긋함, 사교적임, 영리함"
                 },
-                "intro": "플레미시 자이언트 토끼는 성체 체중이 6~10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비구염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 오늘 PetSelf에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "intro": "플레미시 자이언트 토끼는 성체 체중이 6~10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비구염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 이번 가이드에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
                 "whyTitle": "플레미시 자이언트의 본능 시그널: 기쁨의 이빨 갈기(갈짝갈짝)와 경계의 뒷발 굴르기",
                 "whyDesc": "플레미시 자이언트는 감정이 매우 솔직하며 신체 시그널을 통해 의사를 표현합니다. 보호자의 스킨십을 받거나 매우 편안한 상태일 때 이빨을 부드럽게 마찰시켜 **'이빨 갉는 소리(Tooth Purring)'**를 내며 고양이의 골골송과 같은 만족감을 표현합니다. 반면 위험을 느끼거나 강력한 불만이 있을 때는 육중한 체중을 실어 바닥을 강하게 내리치는 **'뒷발 굴르기(Foot Thumping)'** 행동을 보입니다.",
                 "body_signals": [
@@ -63,7 +63,7 @@
                     "sleep_pattern": "8 ~ 12 Hours (Crepuscular - Active During Dawn and Dusk)",
                     "temperament": "Gentle, Calm, Docile, Social, Intelligent"
                 },
-                "intro": "Reaching adult weights of 6 to over 10 kg, the Flemish Giant is the largest domesticated rabbit breed in the world. Often dubbed the 'Gentle Giant' or the 'Maine Coon of rabbits,' they are renowned for their calm, dog-like affection. Standard rabbit cages are entirely unsuitable for their massive size, making large exercise pens or indoor free-roaming essential. Furthermore, supplying unlimited hay to wear down continuously growing teeth and preventing joint strain and pododermatitis (sore hocks) are critical for their longevity. Today on PetSelf, we translate Flemish Giant instinctual signals and present a 3-step homecare routine for indoor roaming, gastrointestinal/dental wellness, and paw pad protection.",
+                "intro": "Reaching adult weights of 6 to over 10 kg, the Flemish Giant is the largest domesticated rabbit breed in the world. Often dubbed the 'Gentle Giant' or the 'Maine Coon of rabbits,' they are renowned for their calm, dog-like affection. Standard rabbit cages are entirely unsuitable for their massive size, making large exercise pens or indoor free-roaming essential. Furthermore, supplying unlimited hay to wear down continuously growing teeth and preventing joint strain and pododermatitis (sore hocks) are critical for their longevity. In this guide, we translate Flemish Giant instinctual signals and present a 3-step homecare routine for indoor roaming, gastrointestinal/dental wellness, and paw pad protection.",
                 "whyTitle": "Flemish Giant Instincts: Contented Tooth Purring and Defensive Foot Thumping",
                 "whyDesc": "Flemish Giants are highly expressive animals that communicate via clear physical cues. When deeply relaxed or receiving affection, they gently rub their molars together, producing a **'Tooth Purring'** sound equivalent to a cat's contented purr. Conversely, when startled, threatened, or annoyed, they stamp their heavy hind feet (**'Foot Thumping'**) against the floor to sound an alarm.",
                 "body_signals": [
@@ -113,7 +113,7 @@
                     "sleep_pattern": "8 〜 12時間 (明け方と夕方に活発な薄明薄暮性・多相性睡眠)",
                     "temperament": "温厚、穏やか、従順、社交的、賢い"
                 },
-                "intro": "成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。今回はPetSelfが、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。",
+                "intro": "成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。本記事では、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。",
                 "whyTitle": "フレミッシュジャイアントの習性サイン：喜びの歯鳴らし（ゴリゴリ）と警戒の足ダン",
                 "whyDesc": "フレミッシュジャイアントは感情表現が非常に豊かです。撫でられて心地よい時やリラックスしている時は、歯を優しくすり合わせて**「歯鳴らし（Tooth Purring）」**という音を立て、猫のゴロゴロ音のような満足感を示します。一方、恐怖や強い不満を感じた時は、重い後脚で床を力強く叩く**「足ダン（Foot Thumping）」**を見せます。",
                 "body_signals": [
@@ -163,7 +163,7 @@
                     "sleep_pattern": "8 ~ 12小时 (晨昏活跃的多相性睡眠)",
                     "temperament": "温和、沉稳、顺从、社交性强、聪明"
                 },
-                "intro": "弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。今天 PetSelf 将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。",
+                "intro": "弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。本指南将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。",
                 "whyTitle": "弗莱芒巨型兔的本能信号：愉悦的磨牙声与警惕的跺脚行为",
                 "whyDesc": "弗莱芒巨型兔情绪表达非常直接。当受到抚摸或处于极度放松状态时，它们会轻柔摩擦牙齿发出 **“轻微磨牙声（Tooth Purring）”**，表达类似于猫咪打呼噜般的满足感；反之，当受到惊吓或感到不满时，它们会用沉重后腿重跺地面发出 **“跺脚（Foot Thumping）”** 的警报。",
                 "body_signals": [
@@ -213,7 +213,7 @@
                     "sleep_pattern": "8 ~ 12 horas (crepuscular y polifásico - activo al amanecer y atardecer)",
                     "temperament": "Gentil, calmo, dócil, social, inteligente"
                 },
-                "intro": "Con un peso adulto de 6 a más de 10 kg, el Gigante de Flandes es la raza de conejo doméstico más grande del mundo. Conocidos como 'gentiles gigantes' o el 'Maine Coon de los conejos', destacan por su carácter sereno y afable. Las jaulas estándar son totalmente inadecuadas para su tamaño, siendo imprescindibles los cercos XL o la libre circulación en casa. Además, el heno ilimitado para desgastar sus dientes en continuo crecimiento y la prevención de pododermatitis (sore hocks) son vitales. Hoy en PetSelf presentamos una rutina de 3 pasos para su cuidado integral.",
+                "intro": "Con un peso adulto de 6 a más de 10 kg, el Gigante de Flandes es la raza de conejo doméstico más grande del mundo. Conocidos como 'gentiles gigantes' o el 'Maine Coon de los conejos', destacan por su carácter sereno y afable. Las jaulas estándar son totalmente inadecuadas para su tamaño, siendo imprescindibles los cercos XL o la libre circulación en casa. Además, el heno ilimitado para desgastar sus dientes en continuo crecimiento y la prevención de pododermatitis (sore hocks) son vitales. En esta guía se presenta mos una rutina de 3 pasos para su cuidado integral.",
                 "whyTitle": "Instintos del Gigante de Flandes: Ronroneo dental y pateo defensivo",
                 "whyDesc": "Los Gigantes de Flandes expresan sus emociones mediante señales físicas claras. Al estar profundamente relajados o recibir caricias, frotan sus molares suavemente emitiendo un **'Ronroneo dental' (Tooth Purring)**. Por el contrario, al asustarse o molestarse, golpean con fuerza el suelo con sus patas traseras (**'Foot Thumping'**) como señal de alarma.",
                 "body_signals": [
@@ -263,7 +263,7 @@
                     "sleep_pattern": "8 ~ 12 heures (crépusculaire et polyphasique - actif à l'aube et au crépuscule)",
                     "temperament": "Doux, calme, docile, social, intelligent"
                 },
-                "intro": "Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez la routine en 3 étapes de PetSelf.",
+                "intro": "Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez une routine en 3 étapes.",
                 "whyTitle": "Instincts du Géant des Flandres : Grincement de dents apaisant et tapement de patte",
                 "whyDesc": "Le Géant des Flandres exprime clairement ses émotions. Lorsqu'il est apaisé ou caressé, il frotte doucement ses molaires (**'Grincement de dents' / Tooth Purring**). S'il est effrayé, surpris ou contrarié, il tape fort du pied arrière sur le sol (**'Tapement de patte' / Foot Thumping**).",
                 "body_signals": [
@@ -313,7 +313,7 @@
                     "sleep_pattern": "8 ~ 12 Stunden (dämmerungsaktiv & polyphasisch - aktiv bei Dämmerung)",
                     "temperament": "Sanftmütig, ruhig, gelassen, sozial, klug"
                 },
-                "intro": "Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. PetSelf zeigt die 3-Schritte-Routine.",
+                "intro": "Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. Dieser Ratgeber zeigt die 3-Schritte-Routine.",
                 "whyTitle": "Instinkte des Belgischen Riesen: Zufriedenes Zähneknuspern und Warn-Klopfen",
                 "whyDesc": "Belgische Riesen drücken Gefühle klar aus. Bei Entspannung oder beim Streicheln reiben sie sanft die Backenzähne gegeneinander (**'Zähneknuspern' / Tooth Purring**). Bei Erschrecken, Gefahr oder Unmut klopfen sie kraftvoll mit den Hinterläufen auf den Boden (**'Klopfen' / Foot Thumping**).",
                 "body_signals": [
@@ -363,7 +363,7 @@
                     "sleep_pattern": "8 ~ 12 horas (crepuscular e polifásico - ativo ao amanhecer e anoitecer)",
                     "temperament": "Gentil, calmo, dócil, social, inteligente"
                 },
-                "intro": "Com peso adulto entre 6 e mais de 10 kg, o Gigante de Flandres é a maior raça de coelho doméstico do mundo. Conhecidos como 'Gentis Gigantes' ou o 'Maine Coon dos coelhos', destacam-se pelo seu temperamento sereno. Gaiolas padrão são totalmente inadequadas para o seu tamanho, sendo indispensáveis cercados XL ou vida livre em casa. Além disso, feno ilimitado para desgastar os dentes e prevenção de pododermatite são fundamentais. Conheça a rotina de 3 passos do PetSelf.",
+                "intro": "Com peso adulto entre 6 e mais de 10 kg, o Gigante de Flandres é a maior raça de coelho doméstico do mundo. Conhecidos como 'Gentis Gigantes' ou o 'Maine Coon dos coelhos', destacam-se pelo seu temperamento sereno. Gaiolas padrão são totalmente inadequadas para o seu tamanho, sendo indispensáveis cercados XL ou vida livre em casa. Além disso, feno ilimitado para desgastar os dentes e prevenção de pododermatite são fundamentais. Conheça a rotina de 3 passos.",
                 "whyTitle": "Instintos do Gigante de Flandres: Ranger suave de dentes e batida de patas",
                 "whyDesc": "Os Gigantes de Flandres expressam as suas emoções através de sinais claros. Quando relaxados ou a receber carinho, roçam suavemente os molares (**'Ranger de dentes' / Tooth Purring**). Ao sentirem medo ou frustração, batem a pata traseira com força no chão (**'Batida de pata' / Foot Thumping**).",
                 "body_signals": [
@@ -413,7 +413,7 @@
                     "sleep_pattern": "8 ~ 12 jam (krepuskular & polifasik - aktif saat fajar dan senja)",
                     "temperament": "Lembut, tenang, penurut, sosial, cerdas"
                 },
-                "intro": "Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial. PetSelf menyajikan rutinitas 3 langkahnya.",
+                "intro": "Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial.  menyajikan rutinitas 3 langkahnya.",
                 "whyTitle": "Insting Flemish Giant: Gemertuk Gigi Lembut dan Hentakan Kaki Belakang",
                 "whyDesc": "Kelinci Flemish Giant mengekspresikan emosinya secara jelas. Saat merasa sangat santai atau dibelai, mereka menggesekkan gigi gerahamnya secara lembut (**'Gemertuk Gigi' / Tooth Purring**). Sebaliknya, saat terkejut atau kesal, mereka menghentakkan kaki belakangnya yang berat ke lantai (**'Hentakan Kaki' / Foot Thumping**).",
                 "body_signals": [

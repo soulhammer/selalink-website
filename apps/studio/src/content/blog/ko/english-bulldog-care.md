@@ -29,7 +29,7 @@ faqs:
     answer: "주름 사이에 땀과 눈물이 고여 발생한 곰팡이/세균성 피부염(간찰진)입니다. 습기를 매일 닦아 건조하게 유지하고, 증상이 심할 경우 수의사 처방 림프용 세정제나 항균 ointments를 사용해야 합니다."
 ---
 
-잉글리시 불독은 특유의 깊은 얼굴 주름과 육중하고 단단한 체구, 순하고 온화한 성품으로 전 세계에서 꾸준히 사랑받는 대표적인 중형견입니다. 프렌치 불독보다 골격이 훨씬 크고 가슴 폭이 넓은 전통 불독 체형을 가졌으며, 눌린 코 구조(단두종)로 인해 열에 매우 약하고 체온 조절 능력이 떨어집니다. 또한 얼굴 주름과 꼬리 포켓 사이에 습기와 노폐물이 차면 세균 및 효모균성 간찰진(피부염)이 쉽게 발생합니다. 오늘 PetSelf에서는 잉글리시 불독의 본능적 표현 신호를 해석하고, 주름 위생과 열사병 예방을 위한 3단계 데일리 홈케어 루틴을 다룹니다.
+잉글리시 불독은 특유의 깊은 얼굴 주름과 육중하고 단단한 체구, 순하고 온화한 성품으로 전 세계에서 꾸준히 사랑받는 대표적인 중형견입니다. 프렌치 불독보다 골격이 훨씬 크고 가슴 폭이 넓은 전통 불독 체형을 가졌으며, 눌린 코 구조(단두종)로 인해 열에 매우 약하고 체온 조절 능력이 떨어집니다. 또한 얼굴 주름과 꼬리 포켓 사이에 습기와 노폐물이 차면 세균 및 효모균성 간찰진(피부염)이 쉽게 발생합니다. 이번 가이드에서는 잉글리시 불독의 본능적 표현 신호를 해석하고, 주름 위생과 열사병 예방을 위한 3단계 데일리 홈케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "作为自然演化品种，它们的外层被毛具有极强的防水性，因此对水的恐惧感通常较低。但强行洗澡依然会引发应激，切勿违背其意愿强行水洗。"
 ---
 
-挪威森林猫是为了适应北欧严酷的冬日环境而进化出的天然猫种，拥有庞大结实的骨骼和具备强大防水功能的密实三重被毛。作为深受喜爱的大型猫种，它们体力充沛，且拥有极其强烈的攀爬高处的本能。🐈 此外，由于毛量极大且毛质粗厚，若不定期梳理，极易因吞入过多毛发而患上毛球症或发生皮肤炎。今天 PetSelf 将为您解析挪威森林猫的肢体语言，并分享一套满足其高空运动需求的同时养护丰盈被毛与关节的3步日常护理流程。
+挪威森林猫是为了适应北欧严酷的冬日环境而进化出的天然猫种，拥有庞大结实的骨骼和具备强大防水功能的密实三重被毛。作为深受喜爱的大型猫种，它们体力充沛，且拥有极其强烈的攀爬高处的本能。🐈 此外，由于毛量极大且毛质粗厚，若不定期梳理，极易因吞入过多毛发而患上毛球症或发生皮肤炎。本指南将为您解析挪威森林猫的肢体语言，并分享一套满足其高空运动需求的同时养护丰盈被毛与关节的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

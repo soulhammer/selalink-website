@@ -27,7 +27,7 @@ Avez-vous déjà remarqué que votre huile de coco se figeait en un bloc blanc e
 
 Composée à près de 90 % d'acides gras saturés, l'huile de coco est l'une des huiles végétales les plus stables sur le plan chimique contre le rancissement. Elle possède toutefois una propriété physique unique : son point de fusion se situe autour de 24 °C, passant naturellement de l'état solide à liquide selon la température ambiante.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, du MFDS et de la Communauté du Cocotier pour l'Asie et le Pacifique (APCC) pour préserver ses nutriments et sa saveur. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, du MFDS et de la Communauté du Cocotier pour l'Asie et le Pacifique (APCC) pour préserver ses nutriments et sa saveur. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

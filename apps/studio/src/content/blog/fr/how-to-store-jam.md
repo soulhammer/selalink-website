@@ -27,7 +27,7 @@ Avez-vous déjà ouvert un pot de confiture pour y découvrir quelques jours plu
 
 Si le sucre inhibe généralement la prolifération bactérienne, les spores de moisissure flottant dans l'air, les miettes de pain, le beurre ou la salive introduced dans le pot favorisent le développement des moisissures. Les confitures allégées en sucre ou artisanales étant moins conservatrices, une gestion rigoureuse après ouverture est indispensable.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre confiture fraîche et sans moisissure. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre confiture fraîche et sans moisissure. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

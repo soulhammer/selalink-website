@@ -29,7 +29,7 @@ faqs:
     answer: "It has entered estivation. Raise temperature to 26–28°C, moisten substrate, and bathe in 28–30°C dechlorinated water to dissolve the cocoon and revive appetite."
 ---
 
-The African Bullfrog is a massive amphibian reaching 1–2 kg. Armed with tooth-like odontoid processes, they are apex ambush predators. Due to permeable skin, they are highly sensitive to chlorine and ammonia. When conditions dry out, they form a cocoon and enter estivation, often refusing food. Today, PetSelf outlines water quality and anorexia prevention care.
+The African Bullfrog is a massive amphibian reaching 1–2 kg. Armed with tooth-like odontoid processes, they are apex ambush predators. Due to permeable skin, they are highly sensitive to chlorine and ammonia. When conditions dry out, they form a cocoon and enter estivation, often refusing food. In this guide, outlines water quality and anorexia prevention care.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

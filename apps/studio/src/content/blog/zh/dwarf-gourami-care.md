@@ -29,7 +29,7 @@ faqs:
     answer: "侏儒丽丽鱼需要直接吸入水面上的空气。如果室内冷空气直接接触水面，会导致吸入的空气过冷，从而损害其娇嫩的迷鳃器官引发呼吸道感染。"
 ---
 
-侏儒丽丽鱼（Dwarf Gourami）以其绚丽的霓虹蓝与鲜艳橙红条纹相间的外表，以及温和的性格深受全球水族爱好者的喜爱。它们拥有除了鳃之外可以直接呼吸空气中氧气的特殊“迷鳃器官（Labyrinth Organ）”，因此水面上的空气环境管理至关重要。此外，它们还拥有由腹鳍演化而来的丝状触手，用以探索水下环境。今天 PetSelf 将解析侏儒丽丽鱼的本能信号，并分享保护水面空气、维持靓丽发色与保持混养缸和谐的3阶段每日护理流程。
+侏儒丽丽鱼（Dwarf Gourami）以其绚丽的霓虹蓝与鲜艳橙红条纹相间的外表，以及温和的性格深受全球水族爱好者的喜爱。它们拥有除了鳃之外可以直接呼吸空气中氧气的特殊“迷鳃器官（Labyrinth Organ）”，因此水面上的空气环境管理至关重要。此外，它们还拥有由腹鳍演化而来的丝状触手，用以探索水下环境。本指南将解析侏儒丽丽鱼的本能信号，并分享保护水面空气、维持靓丽发色与保持混养缸和谐的3阶段每日护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

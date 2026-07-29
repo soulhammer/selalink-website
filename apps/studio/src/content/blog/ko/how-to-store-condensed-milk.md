@@ -27,7 +27,7 @@ faqs:
 
 연유는 수분을 증발시키고 당도를 높여 높은 보존력을 가지지만, 개봉 후 공기와 접촉하면 금속 캔의 부식, 냉장고 잡내 흡수, 설탕 결정화 및 곰팡이 유입이 급격히 일어납니다. 특히 캔 연유는 개봉 즉시 밀폐 용기로 옮겨 담는 것이 신선도 유지의 핵심입니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 연유를 부드럽고 달콤하게 오랫동안 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 연유를 부드럽고 달콤하게 오랫동안 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "그렇지 않습니다. 잭 러셀 테리어는 털 길이에 상관없이(단모, 브로큰, 러프) 모질이 빽빽한 이중모를 가지고 있어 단모종 역시 짧고 뾰족한 죽은 털이 옷이나 카펫에 많이 박혀 빠집니다. 주 2 ~ 3회 이상의 정기적인 브러싱이 필수입니다."
 ---
 
-잭 러셀 테리어는 영화와 미디어를 통해 전 세계적으로 큰 사랑을 받는 대표적인 소형 작업견입니다. 본래 여우 사냥을 위해 개량된 테리어 종 특유의 강인한 체력과 높은 지능을 지니고 있어, 적절한 운동과 지적 자극이 주어지지 않으면 스트레스 행동이나 문제 행동을 보이기 쉽습니다. 또한 빽빽한 이중모 구조로 인해 사계절 털 빠짐 관리가 필수적이며, 뛰어내리는 습성으로 인한 슬개골 및 관절 보호가 중요합니다. 오늘 PetSelf에서는 잭 러셀 테리어의 본능적 언어 신호를 분석하고, 무한 체력 발산과 건강 관리를 위한 3단계 일상 루틴을 공개합니다.
+잭 러셀 테리어는 영화와 미디어를 통해 전 세계적으로 큰 사랑을 받는 대표적인 소형 작업견입니다. 본래 여우 사냥을 위해 개량된 테리어 종 특유의 강인한 체력과 높은 지능을 지니고 있어, 적절한 운동과 지적 자극이 주어지지 않으면 스트레스 행동이나 문제 행동을 보이기 쉽습니다. 또한 빽빽한 이중모 구조로 인해 사계절 털 빠짐 관리가 필수적이며, 뛰어내리는 습성으로 인한 슬개골 및 관절 보호가 중요합니다. 이번 가이드에서는 잭 러셀 테리어의 본능적 언어 신호를 분석하고, 무한 체력 발산과 건강 관리를 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

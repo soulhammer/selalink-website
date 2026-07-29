@@ -29,7 +29,7 @@ faqs:
     answer: "Ha formado un capullo de estivación. Aumente la temperatura a 26–28 °C, humedezca el sustrato y déle un baño templado (28–30 °C) para disolver la capa mucosa."
 ---
 
-La rana toro africana alcanza hasta 2 kg de peso. Armadas con espolones óseos, son depredadores de emboscada. Debido a su piel permeable, son muy vulnerables al cloro y al amoníaco. Si el entorno se seca, forman un capullo mucoso para estivar y dejan de comer. Hoy en PetSelf explicamos sus señales y una rutina de 3 pasos.
+La rana toro africana alcanza hasta 2 kg de peso. Armadas con espolones óseos, son depredadores de emboscada. Debido a su piel permeable, son muy vulnerables al cloro y al amoníaco. Si el entorno se seca, forman un capullo mucoso para estivar y dejan de comer. En esta guía, explicamos sus señales y una rutina de 3 pasos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

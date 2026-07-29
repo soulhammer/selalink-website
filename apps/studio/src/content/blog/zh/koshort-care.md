@@ -33,7 +33,7 @@ faqs:
 
 然而，正是这些天性使它们在室内生活时容易面临两大压力源。第一是由于水平和垂直空间受限带来的领地焦虑感；第二是因为饮水量不足导致的猫下泌尿道疾病（FLUTD）与尿路结石。这些疾病会让猫咪承受巨大痛苦，极其需要家长在日常生活中进行细致入微的环境管理。
 
-今天，PetSelf 将带您解读它们的信任信号，并公开全面呵护其泌尿系统与领地健康的日常3步护理流程。
+今天，本指南将带您解读它们的信任信号，并公开全面呵护其泌尿系统与领地健康的日常3步护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

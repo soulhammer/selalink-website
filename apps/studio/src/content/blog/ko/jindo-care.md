@@ -29,7 +29,7 @@ faqs:
     answer: "진돗개는 본능적으로 독립적이고 영역 경계심이 강해 다른 견종과 꼭 절친하게 지낼 필요는 없습니다. 낯선 강아지를 보고도 짖거나 흥분하지 않고 조용히 지나치는 '사회적 무관심'을 목표로 훈련하는 것이 좋습니다."
 ---
 
-진돗개는 대한민국을 대표하는 천연기념물이자 세계적으로 인정받는 충직하고 영리한 품종입니다. 보호자와의 강한 결속력과 깨끗한 성품을 자랑하지만, 한 사람만 따르는 성향과 강한 경계심 때문에 사회화 시기를 놓치면 낯선 사람이나 동물에게 배타적으로 변하기 쉽습니다. 🐕 또한, 사계절이 뚜렷한 기후에 적응해 온 빽빽한 이중모를 가지고 있어 환절기 털 빠짐이 매우 심합니다. 오늘 PetSelf에서는 진돗개의 경계심을 낮추는 사회화 노하우와 털 관리를 위한 홈케어 루틴을 제안합니다.
+진돗개는 대한민국을 대표하는 천연기념물이자 세계적으로 인정받는 충직하고 영리한 품종입니다. 보호자와의 강한 결속력과 깨끗한 성품을 자랑하지만, 한 사람만 따르는 성향과 강한 경계심 때문에 사회화 시기를 놓치면 낯선 사람이나 동물에게 배타적으로 변하기 쉽습니다. 🐕 또한, 사계절이 뚜렷한 기후에 적응해 온 빽빽한 이중모를 가지고 있어 환절기 털 빠짐이 매우 심합니다. 이번 가이드에서는 진돗개의 경계심을 낮추는 사회화 노하우와 털 관리를 위한 홈케어 루틴을 제안합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

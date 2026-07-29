@@ -29,7 +29,7 @@ faqs:
     answer: "这是由于湿度过低或营养不均衡引发的“脱皮不全（Dysecdysis）”。切勿强行剥离干皮以免损伤鳞片。应用 28°C ~ 30°C 的温水湿润毛巾或水苔，将球蟒放入浸泡 20 ~ 30 分钟软化旧皮，再用毛巾轻轻擦拭去除残皮。"
 ---
 
-因将头部缩在中央并将身体紧紧蜷缩成球状而得名“球蟒（Ball Python）”，凭借其温和的性格与丰富的变异（Color Morph），成为全球最受欢迎的宠物蛇。作为变温动物，球蟒需要明确的温度梯度：冷区（24°C ~ 26°C）与热区/晒背区（31°C ~ 33°C）。平时需维持55% ~ 60%的湿度，脱皮期则需提升至70% ~ 80%以预防脱皮不全（Dysecdysis）。环境温度过低易诱发急性呼吸道感染（RI），且球蟒极易出现拒食（Hunger strike）现象。今天 PetSelf 将带您准确解读球蟒的肢体语言，并通过3步骤日常护理维护其健康。
+因将头部缩在中央并将身体紧紧蜷缩成球状而得名“球蟒（Ball Python）”，凭借其温和的性格与丰富的变异（Color Morph），成为全球最受欢迎的宠物蛇。作为变温动物，球蟒需要明确的温度梯度：冷区（24°C ~ 26°C）与热区/晒背区（31°C ~ 33°C）。平时需维持55% ~ 60%的湿度，脱皮期则需提升至70% ~ 80%以预防脱皮不全（Dysecdysis）。环境温度过低易诱发急性呼吸道感染（RI），且球蟒极易出现拒食（Hunger strike）现象。本指南将带您准确解读球蟒的肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に避けてください。水道水のカルキを抜き、海水塩を完全に溶かした後、 minimal 2〜4週間の水作り（硝化サイクルの構築）を行い、アンモニアと亜硝酸が0 ppmになったことを確認してから導入する必要があります。"
 ---
 
-アニメ映画『ファインディング・ニモ』の主人公として有名なカクレクマノミは、鮮やかなオレンジ色の体と3本の白いバンドが特徴的な代表的海水魚です。有毒なイソギンチャクの触手で天敵から身を守り、イソギンチャクには食べ残しや酸素を供給する相利共生の関係を築いています。また雄性先熟（Protandrous Hermaphrodite）の生態を持ち、群れの最上位のメスが死亡すると最も大きいオスがメスへ性転換します。今回はPetSelfが、カクレクマノミの行動サインと適正比重（1.020〜1.025）を維持する3ステップルーチンを解説します。
+アニメ映画『ファインディング・ニモ』の主人公として有名なカクレクマノミは、鮮やかなオレンジ色の体と3本の白いバンドが特徴的な代表的海水魚です。有毒なイソギンチャクの触手で天敵から身を守り、イソギンチャクには食べ残しや酸素を供給する相利共生の関係を築いています。また雄性先熟（Protandrous Hermaphrodite）の生態を持ち、群れの最上位のメスが死亡すると最も大きいオスがメスへ性転換します。本記事では、カクレクマノミの行動サインと適正比重（1.020〜1.025）を維持する3ステップルーチンを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

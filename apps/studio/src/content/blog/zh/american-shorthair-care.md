@@ -29,7 +29,7 @@ faqs:
     answer: "建议选择低碳水化合物、高蛋白质配方的猫粮，并将部分猫粮放入益智漏食玩具中，让猫咪边玩边吃，以此增加日常活动量。"
 ---
 
-拥有精美银色虎斑纹与结实骨骼的美国短毛猫性格温顺、适应力强。然而，它们喜食且懒散的性格极易引发肥胖，从而增加心血管系统的负担。此外，该品种存在心肌壁增厚致使功能下降的“肥大性心肌病（HCM）”遗传倾向。今天，PetSelf 将为您解析美短的心脏异常信号，并分享控制体重与养护心脏的3步日常惯例。
+拥有精美银色虎斑纹与结实骨骼的美国短毛猫性格温顺、适应力强。然而，它们喜食且懒散的性格极易引发肥胖，从而增加心血管系统的负担。此外，该品种存在心肌壁增厚致使功能下降的“肥大性心肌病（HCM）”遗传倾向。今天，本指南将为您解析美短的心脏异常信号，并分享控制体重与养护心脏的3步日常惯例。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "室内飼育での人工的な冬眠は絶対に厳禁です！適切な温度管理なしに室内温度が中途半端に下がると（10〜18°C）、完全な冬眠に入れず免疫力だけが低下し、肺炎や拒食症で死亡する原因になります。水中ヒーターを使用して年間を通じて水温を23〜26°Cに温かく保ってください。"
 ---
 
-鮮やかな赤や黄色の模様となめらかな甲羅が美しいペインテッドタートル（ニシキガメ / Chrysemys picta）は、世界中で愛されている代表的な半水棲ガメです。水質が悪化したり、甲羅を完全に乾かすバスキングランド（日光浴場）が不足すると、皮膚や甲羅が腐る「甲羅腐敗症（Shell Rot）」にかかりやすく、UVB照射やカルシウム不足は甲羅が柔らかくなる「代謝性骨疾患（MBD）」を引き起こします。また、水温が中途半端に低下すると免疫力が低下し、致命的な肺炎や食欲不振に陥る危険があります。本日PetSelfでは、ペインテッドタートルのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
+鮮やかな赤や黄色の模様となめらかな甲羅が美しいペインテッドタートル（ニシキガメ / Chrysemys picta）は、世界中で愛されている代表的な半水棲ガメです。水質が悪化したり、甲羅を完全に乾かすバスキングランド（日光浴場）が不足すると、皮膚や甲羅が腐る「甲羅腐敗症（Shell Rot）」にかかりやすく、UVB照射やカルシウム不足は甲羅が柔らかくなる「代謝性骨疾患（MBD）」を引き起こします。また、水温が中途半端に低下すると免疫力が低下し、致命的な肺炎や食欲不振に陥る危険があります。本記事では、ペインテッドタートルのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

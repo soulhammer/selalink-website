@@ -27,7 +27,7 @@ faqs:
 
 견과류는 몸에 좋은 불포화지방산이 50 ~ 70% 이상 포함되어 있어 빛, 산소, 높은 온도에 노출되면 유지방이 빠르게 산패(Rancidity)됩니다. 특히 상온 다습한 환경에서는 누룩곰팡이가 번식하여 1급 발암물질인 '아플라톡신(Aflatoxin)'을 생성하기 쉽습니다.
 
-오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 곰팡이독소를 완벽 차단하고 견과류의 고소함과 바삭함을 6개월 이상 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 곰팡이독소를 완벽 차단하고 견과류의 고소함과 바삭함을 6개월 이상 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

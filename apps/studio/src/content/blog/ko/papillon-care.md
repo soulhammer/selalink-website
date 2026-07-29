@@ -29,7 +29,7 @@ faqs:
     answer: "속털이 없는 싱글 코트라 털 빠짐은 적지만, 귀와 가슴 장식털 엉킴 방지를 위한 매일 빗질이 필요합니다."
 ---
 
-파피용(Papillon)은 나비를 닮은 우아한 귀와 뛰어난 지능으로 전 세계 FCI 및 AKC 최상위 인기를 유지하는 소형 견종입니다. 소형견 중 최고 수준의 인지 능력을 지녀 어질리티 활동에 탁월하지만, 골격 구조상 슬개골 탈구(Patellar Luxation) 위험이 높습니다. 또한 속털이 없는 싱글 코트 특성상 귀와 가슴 장식털의 엉킴 방지 빗질이 필수적입니다. 오늘 PetSelf에서 관절 및 피모 건강, 지적 충족을 위한 3단계 루틴을 정리해 드립니다.
+파피용(Papillon)은 나비를 닮은 우아한 귀와 뛰어난 지능으로 전 세계 FCI 및 AKC 최상위 인기를 유지하는 소형 견종입니다. 소형견 중 최고 수준의 인지 능력을 지녀 어질리티 활동에 탁월하지만, 골격 구조상 슬개골 탈구(Patellar Luxation) 위험이 높습니다. 또한 속털이 없는 싱글 코트 특성상 귀와 가슴 장식털의 엉킴 방지 빗질이 필수적입니다. 이번 가이드에서 관절 및 피모 건강, 지적 충족을 위한 3단계 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

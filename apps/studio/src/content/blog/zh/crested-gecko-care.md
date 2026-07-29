@@ -29,7 +29,7 @@ faqs:
     answer: "完全可以。市售的睫角守宫专用配合饲料（果泥/MRP）已包含全面的营养。只需注意定期补充钙质与维生素D3，即可有效预防骨骼代谢病（MBD）。"
 ---
 
-睫角守宫（Crested Gecko）因眼睛上方如睫毛般的刺状突起而得名，因其温和的性格和可使用人工果泥（Superfood / MRP）喂养的便利性，成为全球最受欢迎的树栖守宫。作为树栖爬行动物，提供高高的饲养缸、适宜的湿度（60% ~ 80%）及凉爽的温度（20°C ~ 26°C）至关重要。此外，需通过补充钙质预防骨骼代谢病（MBD），且由于断尾后无法再生，控制应激反应是重中之重。今天 PetSelf 将带您准确解读睫角守宫的肢体语言，并通过3步骤日常护理维护其健康。
+睫角守宫（Crested Gecko）因眼睛上方如睫毛般的刺状突起而得名，因其温和的性格和可使用人工果泥（Superfood / MRP）喂养的便利性，成为全球最受欢迎的树栖守宫。作为树栖爬行动物，提供高高的饲养缸、适宜的湿度（60% ~ 80%）及凉爽的温度（20°C ~ 26°C）至关重要。此外，需通过补充钙质预防骨骼代谢病（MBD），且由于断尾后无法再生，控制应激反应是重中之重。本指南将带您准确解读睫角守宫的肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

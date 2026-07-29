@@ -29,7 +29,7 @@ faqs:
     answer: "メスがお腹（腹足）に卵を抱えて扇ぐ抱卵状態になると、約3〜4週間で可愛い稚エビが孵化します。稚エビはグッピーやテトラなどの魚に食べられやすいため、ウィローモスなどの水草を茂らせるか、エビ専用の単独水槽で飼育するのが安全です。"
 ---
 
-水草の緑に映える鮮やかな赤い体色が魅力的なチェリーシュリンプ（Cherry Shrimp / Neocaridina davidi）は、アクアリウムのコケ取りや残餌掃除役として愛される小型淡水エビです。飼育自体は比較的容易ですが、脱皮（Molting）を行って成長する甲殻類の特性上、ミネラル（GH/KH/TDS）の不均衡や急激な水質変化（pHショック）が起きると、殻がうまく脱げずに死亡する「ホワイトリング（White Ring of Death）」と呼ばれる脱皮不全が発生します。また、銅（Copper）などの重金属に極めて弱く、魚用の薬品を使用すると全滅することがあります。本日PetSelfでは、チェリーシュリンプのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+水草の緑に映える鮮やかな赤い体色が魅力的なチェリーシュリンプ（Cherry Shrimp / Neocaridina davidi）は、アクアリウムのコケ取りや残餌掃除役として愛される小型淡水エビです。飼育自体は比較的容易ですが、脱皮（Molting）を行って成長する甲殻類の特性上、ミネラル（GH/KH/TDS）の不均衡や急激な水質変化（pHショック）が起きると、殻がうまく脱げずに死亡する「ホワイトリング（White Ring of Death）」と呼ばれる脱皮不全が発生します。また、銅（Copper）などの重金属に極めて弱く、魚用の薬品を使用すると全滅することがあります。本記事では、チェリーシュリンプのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

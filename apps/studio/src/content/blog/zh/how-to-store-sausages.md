@@ -27,7 +27,7 @@ faqs:
 
 香肠富含水分、蛋白质和脂肪，一旦拆封接触空气中的氧气，极易滋生单核细胞增生李斯特菌和金黄色葡萄球菌等致病菌。此外，脂肪氧化（酸败）会导致香肠失去原本爆汁鲜美的好口感。
 
-今天FreshSnap基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，帮您长久锁定香肠的Q弹爆汁与鲜爽风味。🛡️
+本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，帮您长久锁定香肠的Q弹爆汁与鲜爽风味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

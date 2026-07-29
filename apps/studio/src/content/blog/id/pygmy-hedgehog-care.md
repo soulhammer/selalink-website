@@ -29,7 +29,7 @@ faqs:
     answer: "Tidak seperti hewan pengerat, gigi landak mini tidak tumbuh terus-menerus. Mereka tidak membutuhkan mainan kunyah, dan benda keras dapat mematahkan gigi mereka. Hindari kibble yang terlalu keras."
 ---
 
-Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Hari ini di PetSelf, kami menguraikan perilaku duri landak mini, tips pengurapan diri, dan 3 langkah rutinitas harian untuk menjaga kehangatan dan kebersihan tetap stabil.
+Landak mini Afrika adalah peliharaan eksotis yang tenang dan menarik. Mereka pemalu secara alami, menggunakan duri untuk pertahanan diri dan melumuri air liur berbusa pada punggung mereka saat menemui aroma baru. Selain itu, mereka berisiko mengalami syok hibernasi fatal jika suhu ruangan turun. Dalam panduan ini, kami menguraikan perilaku duri landak mini, tips pengurapan diri, dan 3 langkah rutinitas harian untuk menjaga kehangatan dan kebersihan tetap stabil.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

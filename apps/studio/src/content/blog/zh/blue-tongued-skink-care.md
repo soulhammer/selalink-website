@@ -29,7 +29,7 @@ faqs:
     answer: "完全不同。澳洲种（如北部蓝舌蜥）喜欢干燥至半干燥环境（湿度 40 ~ 50%），而印尼种（如哈马黑拉蓝舌蜥）来自热带雨林，必须维持高湿度（70 ~ 90%）才能防止蜕皮困难。"
 ---
 
-蓝舌蜥（Tiliqua spp.）原产于澳大利亚和印度尼西亚，是一种昼行性地栖蜥蜴，以其受到惊吓时吐出的鲜艳蓝色舌头和粗壮的身躯、短小可爱的小腿而闻名。因其如犬类般温顺的性格和极高的智商，被广泛公认为中大型蜥蜴的最佳入门品种。然而，由于它们在野外属于杂食性（Omnivorous）动物，若无法合理搭配蛋白质与蔬菜的营养比例，极易导致肥胖、维生素缺乏症或代谢性骨病（MBD）。此外，饲养盒内必须设定明确的晒背热区（Hot Zone）与凉爽区（Cool Zone）温差梯度，并提供满足其掘穴（Burrowing）本能的厚垫料。今天 PetSelf 将为您解析蓝舌蜥的防御信号、杂食食谱搭配以及3阶段日常护理流程。
+蓝舌蜥（Tiliqua spp.）原产于澳大利亚和印度尼西亚，是一种昼行性地栖蜥蜴，以其受到惊吓时吐出的鲜艳蓝色舌头和粗壮的身躯、短小可爱的小腿而闻名。因其如犬类般温顺的性格和极高的智商，被广泛公认为中大型蜥蜴的最佳入门品种。然而，由于它们在野外属于杂食性（Omnivorous）动物，若无法合理搭配蛋白质与蔬菜的营养比例，极易导致肥胖、维生素缺乏症或代谢性骨病（MBD）。此外，饲养盒内必须设定明确的晒背热区（Hot Zone）与凉爽区（Cool Zone）温差梯度，并提供满足其掘穴（Burrowing）本能的厚垫料。本指南将为您解析蓝舌蜥的防御信号、杂食食谱搭配以及3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

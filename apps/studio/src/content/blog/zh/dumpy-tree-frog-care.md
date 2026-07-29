@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不行。自来水中的余氯、氯胺和重金属会对树蛙敏感的透气皮肤造成严重的化学灼伤。必须使用两栖类专用的除氯剂处理，或将自来水静置 24 ~ 48 小时以上去氯后方可使用。"
 ---
 
-老爷树蛙（Litoria caerulea）因其圆滚滚的体型和宛如微笑般的嘴型而被称为“微笑树蛙”，是全球最受欢迎的树栖两栖宠物之一。虽然在两栖类中属于体质较为强健的品种，但它们具有通过透气皮肤直接渗透吸收水分和氧气的特殊生理结构。因此，接触自来水中的残留氯（Chlorine）、重金属以及人类手部的化学物质（香皂、护手霜、盐分）会导致其皮肤灼伤或中毒。此外，长期处于过于闷热的高湿环境中极易诱发细菌和真菌性皮肤病，因此合理控制夜间湿度与保持水质洁净至关重要。今天 PetSelf 将为您解析老爷树蛙的皮肤信号、水质管理、安全接触要点及3阶段日常护理流程。
+老爷树蛙（Litoria caerulea）因其圆滚滚的体型和宛如微笑般的嘴型而被称为“微笑树蛙”，是全球最受欢迎的树栖两栖宠物之一。虽然在两栖类中属于体质较为强健的品种，但它们具有通过透气皮肤直接渗透吸收水分和氧气的特殊生理结构。因此，接触自来水中的残留氯（Chlorine）、重金属以及人类手部的化学物质（香皂、护手霜、盐分）会导致其皮肤灼伤或中毒。此外，长期处于过于闷热的高湿环境中极易诱发细菌和真菌性皮肤病，因此合理控制夜间湿度与保持水质洁净至关重要。本指南将为您解析老爷树蛙的皮肤信号、水质管理、安全接触要点及3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

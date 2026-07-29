@@ -29,7 +29,7 @@ faqs:
     answer: "玉米蛇是爬宠界极具智商与柔韧性的“越狱专家”。只要头部能够挤出小缝，全身即可穿过，因此必须使用带安全锁扣的专业饲养箱。若笼舍空间过小或温度过高，也会加剧其逃跑行为，请及时复查温湿度。"
 ---
 
-因腹部鳞片图案酷似玉米粒而得名的玉米蛇（Corn Snake），凭借其温和的性格与极其丰富的基因变异（Morph），成为全球最受欢迎的入门级宠物蛇。与球蟒相比，玉米蛇需要更凉爽的温度梯度（冷区 22°C ~ 24°C / 热区 28°C ~ 30°C）以及 40% ~ 50% 的基础湿度。若在进食后 48 小时内上手互动或消化温度不足，极易引发致命的吐食（Regurgitation）；且其柔软的身躯使其成为名副其实的“越狱大师”。今天 PetSelf 将带您准确解读玉米蛇的肢体语言，并通过 3 步骤日常护理维护其健康。
+因腹部鳞片图案酷似玉米粒而得名的玉米蛇（Corn Snake），凭借其温和的性格与极其丰富的基因变异（Morph），成为全球最受欢迎的入门级宠物蛇。与球蟒相比，玉米蛇需要更凉爽的温度梯度（冷区 22°C ~ 24°C / 热区 28°C ~ 30°C）以及 40% ~ 50% 的基础湿度。若在进食后 48 小时内上手互动或消化温度不足，极易引发致命的吐食（Regurgitation）；且其柔软的身躯使其成为名副其实的“越狱大师”。本指南将带您准确解读玉米蛇的肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

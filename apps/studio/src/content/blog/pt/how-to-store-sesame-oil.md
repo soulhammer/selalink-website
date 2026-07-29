@@ -27,7 +27,7 @@ Você já guardou óleo de gergelim na geladeira para durar mais e descobriu dep
 
 Ao contrário do óleo de perilla, o óleo de gergelim contém potentes antioxidantes naturais chamados lignanas (como sesamol e sesamolina), o que lhe confere alta resistência à oxidação. No entanto, guardá-lo abaixo de 10 °C na geladeira faz com que se cristalize, danificando seus óleos aromáticos. Por outro lado, expô-lo à luz solar ou ao calor do fogão acelera a deterioração.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter o aroma amendoado e os nutrientes do seu óleo de gergelim por 1 a 2 anos. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter o aroma amendoado e os nutrientes do seu óleo de gergelim por 1 a 2 anos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

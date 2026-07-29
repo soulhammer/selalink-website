@@ -27,7 +27,7 @@ Você já comprou cerejas doces e suculentas e ficou desapontado ao ver que elas
 
 A cereja é uma fruta não climatérica que não amadurece após a colheita, sendo extremamente sensível a oscilações de temperatura e umidade. A exposição ao calor ou à água destrói sua cera protetora natural, facilitando o surgimento de fungos.
 
-Hojes, o FreshSnap apresenta um guia prático em 3 etapas recomendado por especialistas para maximizar a crocância e o sabor das suas cerejas. 🛡️
+Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para maximizar a crocância e o sabor das suas cerejas. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

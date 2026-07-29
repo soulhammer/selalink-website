@@ -29,7 +29,7 @@ faqs:
     answer: "シード類は高脂質でビタミンAやカルシウムが著しく不足しており、脂肪肝や肥満、毛引き症 Cause の原因となります。総合栄養食であるペレットを主食（60〜70%）とし、新鮮な野菜を副食として与えてください。"
 ---
 
-成鳥のオスに見られる優雅な首のリング模様（Ring）と、人の言葉を鮮明に真似る高い言語能力で世界的に大人気のワカケホンセイインコ（インディアンリングネック）。非常に賢く自立心が強い反面、1歳前後に「ブラフィング（Bluffing）」と呼ばれる一時的な噛み癖や攻撃性が強まる反抗期を迎えます。この時期の適切な行動矯正、おしゃべりコミュニケーション訓練、脂肪肝を防ぐペレット中心の食餌管理が不可欠です。今回はPetSelfがワカケホンセイインコの習性サインを解読し、愛鳥との絆を深める3ステップ日常ケアをご紹介します。
+成鳥のオスに見られる優雅な首のリング模様（Ring）と、人の言葉を鮮明に真似る高い言語能力で世界的に大人気のワカケホンセイインコ（インディアンリングネック）。非常に賢く自立心が強い反面、1歳前後に「ブラフィング（Bluffing）」と呼ばれる一時的な噛み癖や攻撃性が強まる反抗期を迎えます。この時期の適切な行動矯正、おしゃべりコミュニケーション訓練、脂肪肝を防ぐペレット中心の食餌管理が不可欠です。本記事では、ワカケホンセイインコの習性サインを解読し、愛鳥との絆を深める3ステップ日常ケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

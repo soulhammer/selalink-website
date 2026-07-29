@@ -29,7 +29,7 @@ faqs:
     answer: "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균(말라세지아) 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
 ---
 
-귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 오늘 PetSelf에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.
+귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 이번 가이드에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

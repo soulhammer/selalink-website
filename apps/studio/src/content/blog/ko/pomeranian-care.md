@@ -29,7 +29,7 @@ faqs:
     answer: "슬개골 탈구가 이미 진행된 3 ~ 4단계 수준의 물리적 변형은 수술적 치료가 필수적입니다. 홈케어는 슬개골 1 ~ 2단계 상태에서 주변 근력을 키워 악화를 늦추거나 수술 후 재발을 방지하는 아주 강력한 보조 예방책입니다."
 ---
 
-포메라니안은 작은 몸집에 풍성한 이중모, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며 애교가 넘치지만, 고유의 스피츠 계열 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 슬개골 탈구(Patellar Luxation)이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 기관지 협착증(Tracheal Collapse)입니다. 이 두 질환은 아파트 등 마룻바닥 중심의 실내 환경에서 악화되기 쉽습니다. 오늘 PetSelf에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.
+포메라니안은 작은 몸집에 풍성한 이중모, 그리고 밝고 당당한 걸음걸이로 전 세계에서 가장 인기 있는 초소형 반려견 중 하나입니다. 매우 외향적이고 총명하며 애교가 넘치지만, 고유의 스피츠 계열 유전자가 있어 소리에 예민하고 다소 앙칼지게 짖기도 합니다. 🐕 하지만 포메라니안을 키우는 반려인들의 공통적인 두 가지 건강 고민이 있습니다. 첫째는 뼈가 너무 얇아 발생하는 슬개골 탈구(Patellar Luxation)이고, 둘째는 기관지가 납작하게 눌려 거위 울음소리를 내는 기관지 협착증(Tracheal Collapse)입니다. 이 두 질환은 아파트 등 마룻바닥 중심의 실내 환경에서 악화되기 쉽습니다. 이번 가이드에서는 포메라니안의 신체 구조에 맞추어 슬개골과 호흡기를 동시에 안전하게 보호할 수 있는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

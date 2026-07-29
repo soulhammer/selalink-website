@@ -29,7 +29,7 @@ faqs:
     answer: "El exceso de peso multiplica la carga sobre sus extremidades cortas, acelerando el desgaste del cartílago y causando dolor. Su dieta debe ser controlada estrictamente."
 ---
 
-Los gatos Munchkin son famosos por su carácter cariñoso y sus patitas extremadamente cortas. Aunque son gatos activos y rápidos, sus extremidades cortas absorben un impacto mucho mayor en la columna y articulaciones al saltar. Esto los hace predispuestos a la lordosis y a la artrosis temprana. Hoy, PetSelf analiza las señales físicas de incomodidad articular en el Munchkin y presenta una rutina de 3 pasos a baja altura para cuidar su movilidad a largo plazo.
+Los gatos Munchkin son famosos por su carácter cariñoso y sus patitas extremadamente cortas. Aunque son gatos activos y rápidos, sus extremidades cortas absorben un impacto mucho mayor en la columna y articulaciones al saltar. Esto los hace predispuestos a la lordosis y a la artrosis temprana. En esta guía, analiza las señales físicas de incomodidad articular en el Munchkin y presenta una rutina de 3 pasos a baja altura para cuidar su movilidad a largo plazo.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

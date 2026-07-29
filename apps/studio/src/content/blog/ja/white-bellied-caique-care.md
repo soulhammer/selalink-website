@@ -29,7 +29,7 @@ faqs:
     answer: "噛まれた際に大声を出すと「遊んでくれた」と誤解するため、反応せず無視してすぐに交流を中断してください。また、発情やホルモンバランスの乱れによる攻撃性を防ぐため、毎日10〜12時間の規則的な完全暗幕睡眠を徹底することが効果的です。"
 ---
 
-シロハラインコ（Pionites leucogaster）は、鮮やかな羽色と白いお腹、そしてウサギのように両足でピョンピョン跳ねる独特の歩行形態から「インコ界のこいぬ/ビーグル」と称される南米原産の中型インコです。非常にエネルギーに満ち溢れ、仰向けになって遊ぶなど人間とのスキンシップを好むため、世界中の鳥類愛好家から絶大な人気を誇ります。しかし、強い好奇心とかじる欲求（Chewing Drive）を持つため、十分なフォージング（採餌）おもちゃや破壊系おもちゃを与えないと、家具の損壊や呼び鳴き、ストレス行動に繋がることがあります。また、ホルモン過剰による攻撃性を防ぐため、夜間10〜12時間の暗幕睡眠が不可欠です。今回はPetSelfが、シロハラインコの感情サインと環境構築、3ステップ日常ケアを解説します。
+シロハラインコ（Pionites leucogaster）は、鮮やかな羽色と白いお腹、そしてウサギのように両足でピョンピョン跳ねる独特の歩行形態から「インコ界のこいぬ/ビーグル」と称される南米原産の中型インコです。非常にエネルギーに満ち溢れ、仰向けになって遊ぶなど人間とのスキンシップを好むため、世界中の鳥類愛好家から絶大な人気を誇ります。しかし、強い好奇心とかじる欲求（Chewing Drive）を持つため、十分なフォージング（採餌）おもちゃや破壊系おもちゃを与えないと、家具の損壊や呼び鳴き、ストレス行動に繋がることがあります。また、ホルモン過剰による攻撃性を防ぐため、夜間10〜12時間の暗幕睡眠が不可欠です。本記事では、シロハラインコの感情サインと環境構築、3ステップ日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

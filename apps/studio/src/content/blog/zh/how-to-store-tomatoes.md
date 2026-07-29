@@ -27,7 +27,7 @@ faqs:
 
 如果将尚未完全熟透的西红柿存放在12℃以下的低温环境中，西红柿会发生“冷害（Chilling Injury）”，合成特有甜香气味的挥发性物质酶会被永久灭活。这会导致其细胞膜破裂、果肉变渣沙化，风味与甜度大幅下降。
 
-今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的催熟与食品安全指南，为您带来3步科学保存秘诀，帮您最大化锁定西红柿风味，有效阻断霉菌滋生。🛡️
+本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的催熟与食品安全指南，为您带来3步科学保存秘诀，帮您最大化锁定西红柿风味，有效阻断霉菌滋生。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

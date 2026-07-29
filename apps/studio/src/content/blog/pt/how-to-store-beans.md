@@ -27,7 +27,7 @@ Você já comprou feijões secos cheios de nutrientes e percebeu mais tarde que 
 
 Os feijões secos são excelentes para armazenamento prolongado devido ao baixo teor de umidade, mas são muito sensíveis à umidade do ar, luz, calor e pragas como o caruncho. O armazenamento inadequado causa perda excessiva de umidade e o defeito de 'dureza ao cozinhar', tornando os grãos rígidos.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter seus feijões macios, saborosos e nutritivos por muito tempo. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter seus feijões macios, saborosos e nutritivos por muito tempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

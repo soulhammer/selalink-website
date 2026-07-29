@@ -29,7 +29,7 @@ faqs:
     answer: "是的。白色被毛与蓝眼基因（W基因）会影响内耳耳蜗发育，可能导致蓝眼一侧的耳朵患有先天性耳聋。领养异色瞳个体后应进行 BAER 听力测试，若存在听力障碍，应多使用手势和震动信号建立沟通。"
 ---
 
-土耳其梵猫（Turkish Van）是发源于土耳其梵湖（Lake Van）附近的古老自然品种，因其独特的“梵色图案”（全身雪白，仅头部和尾部有斑纹）与闪耀的异色瞳（Odd-Eyes，双眼虹膜异色）而闻名。与绝大多数家猫不同，土耳其梵猫拥有如羊绒般质感且天然防水的单层被毛（Single Coat），使其拥有不怕水甚至酷爱游泳的独特习性。然而，它们强壮的肌肉体格与极高的智商需要丰富的竖向攀爬空间和互动捕猎游戏，否则极易产生心理压力。此外，拥有蓝色眼睛的异色瞳个体可能携带先天性耳聋基因，必须进行听力筛查。水上活动后若未能彻底擦干耳道与毛发，还易诱发外耳炎与皮肤病。今天 PetSelf 将为您解析土耳其梵猫的行为信号、玩水安全规范与3阶段日常护理流程。
+土耳其梵猫（Turkish Van）是发源于土耳其梵湖（Lake Van）附近的古老自然品种，因其独特的“梵色图案”（全身雪白，仅头部和尾部有斑纹）与闪耀的异色瞳（Odd-Eyes，双眼虹膜异色）而闻名。与绝大多数家猫不同，土耳其梵猫拥有如羊绒般质感且天然防水的单层被毛（Single Coat），使其拥有不怕水甚至酷爱游泳的独特习性。然而，它们强壮的肌肉体格与极高的智商需要丰富的竖向攀爬空间和互动捕猎游戏，否则极易产生心理压力。此外，拥有蓝色眼睛的异色瞳个体可能携带先天性耳聋基因，必须进行听力筛查。水上活动后若未能彻底擦干耳道与毛发，还易诱发外耳炎与皮肤病。本指南将为您解析土耳其梵猫的行为信号、玩水安全规范与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

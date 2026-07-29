@@ -33,7 +33,7 @@ faqs:
 
 하지만 이러한 특성 때문에 실내 생활을 할 때 두 가지 주요한 스트레스 요인에 직면하기 쉽습니다. 첫 번째는 수평/수직 영역의 제한에서 오는 영역 불안감이고, 두 번째는 유전적 요인 및 겨울철 급격한 음수량 저하로 발생하는 특발성 방광염(FLUTD)과 요로결석입니다. 이 두 질병은 고양이에게 극심한 고통을 주며, 반려인의 지속적이고 세밀한 생활 환경 관리가 절대적으로 요구됩니다.
 
-오늘 PetSelf에서는 코숏의 신뢰 신호를 이해하고, 방광과 영역 건강을 완벽히 챙겨주는 3단계 데일리 라이프스타일 루틴을 공개합니다.
+이번 가이드에서는 코숏의 신뢰 신호를 이해하고, 방광과 영역 건강을 완벽히 챙겨주는 3단계 데일리 라이프스타일 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

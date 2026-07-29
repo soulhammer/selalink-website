@@ -29,7 +29,7 @@ faqs:
     answer: "배 모양이 둥근 모양에서 ㄴ자(네모난 모양)로 변하고, 항문 근처 산란관 부위가 검고 툭 튀어나옵니다. 또한 구석에 머물거나 수조 벽을 위아래로 탔다 내리는 행동을 보이면 부하통으로 옮겨주어야 합니다."
 ---
 
-화려한 지느러미와 강한 생명력으로 '열대어의 입문이자 완성'이라 불리는 구피(Guppy)는 전 세계에서 가장 사랑받는 난태생 송살목 관상어입니다. 하지만 구피는 여과력이 부족하거나 수질 변화(암모니아, 아질산 스파이크)에 노출될 경우 지느러미가 녹아내리는 지느러미 부식병(Fin Rot)이나 바늘지느러미병에 쉽게 걸립니다. 또한 알을 낳지 않고 새끼를 바로 낳는 난태생 특성 때문에 치어 보호와 임신 관리가 필수적입니다. 오늘 PetSelf에서는 구피의 신체 신호를 정확히 읽어내고 깨끗한 수질 환경을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.
+화려한 지느러미와 강한 생명력으로 '열대어의 입문이자 완성'이라 불리는 구피(Guppy)는 전 세계에서 가장 사랑받는 난태생 송살목 관상어입니다. 하지만 구피는 여과력이 부족하거나 수질 변화(암모니아, 아질산 스파이크)에 노출될 경우 지느러미가 녹아내리는 지느러미 부식병(Fin Rot)이나 바늘지느러미병에 쉽게 걸립니다. 또한 알을 낳지 않고 새끼를 바로 낳는 난태생 특성 때문에 치어 보호와 임신 관리가 필수적입니다. 이번 가이드에서는 구피의 신체 신호를 정확히 읽어내고 깨끗한 수질 환경을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

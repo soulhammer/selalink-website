@@ -27,7 +27,7 @@ Have you ever bought a mesh bag of onions and stacked them in a balcony corner, 
 
 Onions are bulb vegetables that continue to respire and absorb/release humidity after harvest. When stored in humid, enclosed environments, Botrytis neck rot and soft rot bacteria proliferate rapidly. Furthermore, storing onions alongside potatoes triggers mutual moisture absorption and ethylene reactions, ruining both vegetables instantly.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to control moisture and gas, preserving crisp, firm onions for over a month. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to control moisture and gas, preserving crisp, firm onions for over a month. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

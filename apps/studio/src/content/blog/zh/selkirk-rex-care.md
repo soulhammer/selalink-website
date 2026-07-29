@@ -29,7 +29,7 @@ faqs:
     answer: "这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKD 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。"
 ---
 
-赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKD）。今天 PetSelf 为您解析其肢体警示信号，并提供3步日常护理流程。
+赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKD）。本指南为您解析其肢体警示信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

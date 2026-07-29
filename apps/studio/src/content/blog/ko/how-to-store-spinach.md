@@ -27,7 +27,7 @@ faqs:
 
 시금치는 엽채류 중에서도 잎이 매우 연하고 수분 함량이 높아 수확 후 호흡 작용과 수분 증발이 극도로 활발합니다. 특히 눕혀서 보관하면 위로 자라려는 '굴중성(Negative Geotropism)' 생리 특성 때문에 에너지를 급격히 소모하며 시들고, 에틸렌 가스에 노출되면 엽록소가 파괴되어 순식간에 황화됩니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 유럽식품안전청(EFSA)의 가이드를 바탕으로 시금치의 호흡 작용을 통제하고 7일 이상 아삭함과 비타민 C를 보존하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 유럽식품안전청(EFSA)의 가이드를 바탕으로 시금치의 호흡 작용을 통제하고 7일 이상 아삭함과 비타민 C를 보존하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

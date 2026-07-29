@@ -27,7 +27,7 @@ Você já percebeu sua pimenta-do-reino moída perdendo o aroma marcante com o t
 
 O sabor picante e o aroma único da pimenta-do-reino vêm da piperina e dos óleos essenciais voláteis. Embora a pimenta seca tenha pouca água e não estrague facilmente, a exposição ao ar, luz, umidade e calor evapora seus óleos rapidamente e pode favorecer o mofo.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter sua pimenta-do-reino saborosa e fresca por muito tempo. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter sua pimenta-do-reino saborosa e fresca por muito tempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

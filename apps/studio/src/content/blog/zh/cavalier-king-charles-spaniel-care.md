@@ -29,7 +29,7 @@ faqs:
     answer: "虚空抓挠是查理王小猎犬高发神经系统疾病——脊髓空洞症（SM/Syringomyelia）的典型症状。因枕骨发育不良压迫脑脊液循环，导致脊髓内形成液体空腔。这会引发颈部剧烈疼痛与感知异常，一旦发现必须立即进行 MRI 影像诊断并开展药物或手术治疗。"
 ---
 
-受英国王室钟爱数世纪的查理王小猎犬（Cavalier King Charles Spaniel），凭其丝滑柔顺的被毛、硕大的泪眼以及无比温顺亲人的性格而闻名世界。它们是极其优秀的“腿上伴侣犬（Lapdog）”，极其享受陪伴主人的时光。然而，该犬种基因上患二尖瓣关闭不全（MVD）心脏病的概率极高，且由于后脑骨空间狭小，极易患上脊髓空洞症（SM）。此外，其长而下垂的耳朵易滋生细菌引发外耳炎。今天 PetSelf 将带您准确解读查理王小猎犬肢体语言，并通过 3 步骤日常护理维护其健康。
+受英国王室钟爱数世纪的查理王小猎犬（Cavalier King Charles Spaniel），凭其丝滑柔顺的被毛、硕大的泪眼以及无比温顺亲人的性格而闻名世界。它们是极其优秀的“腿上伴侣犬（Lapdog）”，极其享受陪伴主人的时光。然而，该犬种基因上患二尖瓣关闭不全（MVD）心脏病的概率极高，且由于后脑骨空间狭小，极易患上脊髓空洞症（SM）。此外，其长而下垂的耳朵易滋生细菌引发外耳炎。本指南将带您准确解读查理王小猎犬肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

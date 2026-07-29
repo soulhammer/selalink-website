@@ -29,7 +29,7 @@ faqs:
     answer: "アンダーコートがないため寒さに非常に弱く、冬場は室温を23〜25℃に保つ必要があります。日当たりの良い場所にドーム型ベッドや温熱マットを設置し、必要に応じて室内用の服を着せるのも効果的です。"
 ---
 
-オリエンタルショートヘア（Oriental Shorthair）は、大きなコウモリのような耳とシャープな楔形の顔立ち、しなやかな体型が魅力的なシャム（Siamese）血統ベースのモダン猫種です。豊かな鳴き声で飼い主と絶えず話そうとする「おしゃべり（Vocal）」な性格と優れた知能、人間にぴったり寄り添う高い社交性を持ち、欧米を中心におしゃれな愛猫家から熱狂的な人気を誇ります。しかし、アンダーコート（下毛）がほとんどない薄い短毛種のため非常に寒さに弱く、室温が下がると免疫低下や呼吸器疾患にかかりやすくなります。また、一人にされると激しい shared 不安やストレス行動を起こすため、毎日のインタラクティブな遊びと体温管理が不可欠です。今回はPetSelfが、オリエンタルショートヘアの感情サインと寒さ対策、3ステップ日常ケアを解説します。
+オリエンタルショートヘア（Oriental Shorthair）は、大きなコウモリのような耳とシャープな楔形の顔立ち、しなやかな体型が魅力的なシャム（Siamese）血統ベースのモダン猫種です。豊かな鳴き声で飼い主と絶えず話そうとする「おしゃべり（Vocal）」な性格と優れた知能、人間にぴったり寄り添う高い社交性を持ち、欧米を中心におしゃれな愛猫家から熱狂的な人気を誇ります。しかし、アンダーコート（下毛）がほとんどない薄い短毛種のため非常に寒さに弱く、室温が下がると免疫低下や呼吸器疾患にかかりやすくなります。また、一人にされると激しい shared 不安やストレス行動を起こすため、毎日のインタラクティブな遊びと体温管理が不可欠です。本記事では、オリエンタルショートヘアの感情サインと寒さ対策、3ステップ日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

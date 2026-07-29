@@ -29,7 +29,7 @@ faqs:
     answer: "햄스터에게 물목욕을 시키면 체온이 급격히 떨어지고 피부 유분 보호막이 깨져 저체온증이나 피부병으로 사망할 수 있습니다. 햄스터 전용 사막 모래(무가공 모래)를 설치해 스스로 유분과 오염물질을 털어내게 해야 합니다."
 ---
 
-하얀 눈썹 모양의 무늬와 작고 날렵한 몸집을 가진 로보롭스키 햄스터(사슴햄스터)는 드워프 햄스터 중 가장 작은 품종입니다. 경이로운 속도와 호기심을 자랑하지만 경계심이 강해 손으로 잡는 핸들링보다는 관상에 적합합니다. 또한 피부에서 유분이 많이 분비되어 전용 사막 모래목욕이 필수적이며, 체구가 작아 높이가 높은 장난감에서의 추락 부상이나 넓은 살창 틈새 탈출에 유의해야 합니다. 오늘 PetSelf에서는 로보롭스키의 행동 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
+하얀 눈썹 모양의 무늬와 작고 날렵한 몸집을 가진 로보롭스키 햄스터(사슴햄스터)는 드워프 햄스터 중 가장 작은 품종입니다. 경이로운 속도와 호기심을 자랑하지만 경계심이 강해 손으로 잡는 핸들링보다는 관상에 적합합니다. 또한 피부에서 유분이 많이 분비되어 전용 사막 모래목욕이 필수적이며, 체구가 작아 높이가 높은 장난감에서의 추락 부상이나 넓은 살창 틈새 탈출에 유의해야 합니다. 이번 가이드에서는 로보롭스키의 행동 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

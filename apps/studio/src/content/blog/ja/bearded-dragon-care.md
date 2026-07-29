@@ -29,7 +29,7 @@ faqs:
     answer: "下顎が柔らかくなる、足の関節の腫れ、筋肉の震え、歩行時に力なく滑るなどの症状が初期の兆候です。発見した場合は直ちに照明設備を補強し、専門の獣医師の診察を受けてください。"
 ---
 
-温和な性格と愛嬌のある表情から、フトアゴヒゲトカゲは世界中で最も愛されるペット用爬虫類の一つです。しかし、変温動物である彼らは自ら体温を調節できず、外部の熱源とUVB（中波長紫外線）照明の下でのみ食べ物を消化し、ビタミンD3を合成してカルシウムを吸収することができます。適切なバスキングエリアやUVB照射が不足すると、骨が軟化して麻痺を引き起こす代謝性骨疾患（MBD）にかかりやすくなります。今回はPetSelfが、フトアゴヒゲトカゲの行動サインを解析し、骨の健康を守る3ステップのカルシウム・照明ルーチンをご紹介します。
+温和な性格と愛嬌のある表情から、フトアゴヒゲトカゲは世界中で最も愛されるペット用爬虫類の一つです。しかし、変温動物である彼らは自ら体温を調節できず、外部の熱源とUVB（中波長紫外線）照明の下でのみ食べ物を消化し、ビタミンD3を合成してカルシウムを吸収することができます。適切なバスキングエリアやUVB照射が不足すると、骨が軟化して麻痺を引き起こす代謝性骨疾患（MBD）にかかりやすくなります。本記事では、フトアゴヒゲトカゲの行動サインを解析し、骨の健康を守る3ステップのカルシウム・照明ルーチンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

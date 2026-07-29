@@ -27,7 +27,7 @@ faqs:
 
 잼은 설탕 함량이 높아 세균 번식이 억제되는 편이지만, 공기 중의 곰팡이 포자나 빵 부스러기, 침 등이 닿으면 매우 쉽게 곰팡이가 피어오릅니다. 특히 저당(Low-Sugar) 잼이나 수제 잼은 보존력이 낮아 개봉 후 관리가 더욱 중요합니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 과일 잼을 변질 없이 오랫동안 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 과일 잼을 변질 없이 오랫동안 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

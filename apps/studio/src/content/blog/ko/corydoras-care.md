@@ -29,7 +29,7 @@ faqs:
     answer: "절대 아닙니다! 코리도라스는 배설물(똥)을 먹지 않으며, 다른 물고기가 남긴 잔여물만으로는 필요한 영양을 전혀 채울 수 없어 기아로 사망하기 쉽습니다. 코리도라스는 육식성과 잡식성을 띤 열대어로, 사료 투여 시 바닥으로 가라앉는 코리 전용 고단백 침강성 펠릿 사료나 실지렁이, 냉동 장구벌레(냉짱)를 별도로 챙겨 급여해야 합니다."
 ---
 
-남미 아마존 강 수계 원산의 코리도라스(Corydoras Catfish)는 귀여운 수염과 바닥을 부지런히 훑는 헤엄으로 '수조의 청소부'라 불리며 전 세계 물생활 사육자들에게 사랑받는 소형 메기목 열대어입니다. 코리도라스는 온순하고 유순한 성격을 가졌지만, 주둥이 주변의 감각 수염(Barbels)이 날카로운 자갈이나 오염된 바닥재에 지속적으로 마찰될 경우 녹아내리거나 세균성 수염 염증을 겪기 쉽습니다. 또한 수질 내 암모니아 및 아질산염 축적에 매우 민감하며, 산소가 부족할 때 수면으로 올라와 순간적으로 공기를 삼키는 특이한 '장호흡(Intestinal Respiration)' 메커니즘을 가지고 있습니다. 오늘 PetSelf에서는 코리도라스의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+남미 아마존 강 수계 원산의 코리도라스(Corydoras Catfish)는 귀여운 수염과 바닥을 부지런히 훑는 헤엄으로 '수조의 청소부'라 불리며 전 세계 물생활 사육자들에게 사랑받는 소형 메기목 열대어입니다. 코리도라스는 온순하고 유순한 성격을 가졌지만, 주둥이 주변의 감각 수염(Barbels)이 날카로운 자갈이나 오염된 바닥재에 지속적으로 마찰될 경우 녹아내리거나 세균성 수염 염증을 겪기 쉽습니다. 또한 수질 내 암모니아 및 아질산염 축적에 매우 민감하며, 산소가 부족할 때 수면으로 올라와 순간적으로 공기를 삼키는 특이한 '장호흡(Intestinal Respiration)' 메커니즘을 가지고 있습니다. 이번 가이드에서는 코리도라스의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

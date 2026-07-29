@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不能混养！兰寿没有背鳍且体型笨重，游动速度非常缓慢。如果与游速极快流线型的草金鱼或小型热带鱼混养，兰寿在抢食中会彻底处于劣势导致营养不良，且其娇嫩的头肉（肉瘤）很容易被其他鱼啃咬，造成严重创伤与细菌感染。兰寿只适合与同类或体型相似的蛋种金鱼混养。"
 ---
 
-凭借圆润如蛋形的体态、无背鳍的独特身姿以及头部高高耸起的头肉（肉瘤/Wen），兰寿金鱼（Ranchu）被誉为“金鱼之王”，深受全球观赏鱼爱好者的喜爱。然而，由于经过人工选育的短圆压缩体型，兰寿的内脏器官紧凑受压，若吞食浮水饲料吸入过多空气或发生便秘，极易引发游姿失衡的“失鳔病 (Swim Bladder Disorder)”。此外，缺失背鳍使其游泳能力较弱，易在强水流中耗尽体力；同时其排泄量大，水质一旦恶化极易引发氨中毒或头肉细菌性感染。今天 PetSelf 将带您准确解读兰寿金鱼的肢体语言，并通过3步骤日常护理维护其健康。
+凭借圆润如蛋形的体态、无背鳍的独特身姿以及头部高高耸起的头肉（肉瘤/Wen），兰寿金鱼（Ranchu）被誉为“金鱼之王”，深受全球观赏鱼爱好者的喜爱。然而，由于经过人工选育的短圆压缩体型，兰寿的内脏器官紧凑受压，若吞食浮水饲料吸入过多空气或发生便秘，极易引发游姿失衡的“失鳔病 (Swim Bladder Disorder)”。此外，缺失背鳍使其游泳能力较弱，易在强水流中耗尽体力；同时其排泄量大，水质一旦恶化极易引发氨中毒或头肉细菌性感染。本指南将带您准确解读兰寿金鱼的肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

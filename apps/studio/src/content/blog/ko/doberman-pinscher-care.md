@@ -29,7 +29,7 @@ faqs:
     answer: "도베르만처럼 흉곽(가슴)이 깊고 넓은 대형견은 위장이 자유롭게 움직일 수 있는 공간이 커 식사 후 공기를 많이 삼키거나 갑자기 움직이면 위가 가스로 부풀어 오르며 꼬이는 위확장-꼬임(GDV)이 잘 발생합니다. 이는 몇 시간 내에 혈류를 차단해 쇼크와 사망을 유발하므로, 자율 급식보다는 나누어 급여하고 식후 최소 1시간은 조용히 휴식하게 해야 합니다."
 ---
 
-뛰어난 지능과 우아한 체형, 강렬한 충성심을 지닌 도베르만 핀셔(Doberman Pinscher)는 전 세계에서 사랑받는 경비견이자 가족의 반려견입니다. 도베르만은 보호자에 대한 애정이 깊지만, 유전적으로 확장성 심근병증(DCM) 발병률이 매우 높으며 깊은 가슴 구조로 인해 식사 후 급격한 운동 시 위확장-꼬임(GDV/위비틀림)이 발생하기 쉽습니다. 또한 단모종으로 추위에 약하고 복종 훈련과 충분한 풍부화 활동이 이루어지지 않으면 스트레스 행동을 보일 수 있습니다. 오늘 PetSelf에서는 도베르만 핀셔의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+뛰어난 지능과 우아한 체형, 강렬한 충성심을 지닌 도베르만 핀셔(Doberman Pinscher)는 전 세계에서 사랑받는 경비견이자 가족의 반려견입니다. 도베르만은 보호자에 대한 애정이 깊지만, 유전적으로 확장성 심근병증(DCM) 발병률이 매우 높으며 깊은 가슴 구조로 인해 식사 후 급격한 운동 시 위확장-꼬임(GDV/위비틀림)이 발생하기 쉽습니다. 또한 단모종으로 추위에 약하고 복종 훈련과 충분한 풍부화 활동이 이루어지지 않으면 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 도베르만 핀셔의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

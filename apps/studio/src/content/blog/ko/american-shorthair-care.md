@@ -29,7 +29,7 @@ faqs:
     answer: "탄수화물 함량이 낮고 단백질 비율이 높은 사료를 선택하고, 사료의 일부를 간식 장난감(푸드 토이) 안에 넣어 굴려서 꺼내 먹도록 유도하여 움직임을 늘려주는 것이 효과적입니다."
 ---
 
-아름다운 실버 태비 패턴과 탄탄한 골격을 자랑하는 아메리칸 쇼트헤어는 성격이 유순하고 적응력이 뛰어난 고양이입니다. 그러나 먹는 것을 좋아하고 느긋한 성격 탓에 쉽게 비만이 될 수 있으며, 이는 심혈관계에 큰 무리를 줍니다. 특히 이 품종은 심장 벽이 두꺼워져 기능이 저하되는 비대성 심근증(HCM)의 유전적 소인을 갖고 있습니다. 오늘 PetSelf에서는 아메리칸 쇼트헤어의 심장 이상 바디 랭귀지를 진단하고, 심장과 체중을 케어하는 3단계 루틴을 소개합니다.
+아름다운 실버 태비 패턴과 탄탄한 골격을 자랑하는 아메리칸 쇼트헤어는 성격이 유순하고 적응력이 뛰어난 고양이입니다. 그러나 먹는 것을 좋아하고 느긋한 성격 탓에 쉽게 비만이 될 수 있으며, 이는 심혈관계에 큰 무리를 줍니다. 특히 이 품종은 심장 벽이 두꺼워져 기능이 저하되는 비대성 심근증(HCM)의 유전적 소인을 갖고 있습니다. 이번 가이드에서는 아메리칸 쇼트헤어의 심장 이상 바디 랭귀지를 진단하고, 심장과 체중을 케어하는 3단계 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

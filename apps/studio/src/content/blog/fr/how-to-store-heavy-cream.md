@@ -27,7 +27,7 @@ Avez-vous déjà acheté de la crème liquide entière pour une sauce ou un dess
 
 La crème liquide entière est une émulsion délicate contenant plus de 30 % de matière grasse. Elle est très sensible aux écarts de température, à l'exposition à l'air et aux bactéries. Une fois ouverte, elle s'altère vite et absorbe facilement les odeurs du frigo.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour préserver la fraîcheur et la saveur de votre crème liquide. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver la fraîcheur et la saveur de votre crème liquide. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "パグは浅い眼窩のため草むらなどで目に傷がつきやすく、角膜潰瘍を起こしやすいため散歩後の目元洗浄が推奨されます。また遺伝性脳疾患であるパグ脳炎（PDE/壊死性髄膜脳炎）は1〜3歳でけいれんや発作、歩行障害として現れることがあるため、異常が見られたらすぐに動物病院でMRI検査を受けてください。"
 ---
 
-シワのある顔と大きな丸い瞳、独特の愛嬌で何世紀もの間愛されてきたパグ（Pug）は、飼い主とのスキンシップを何より大切にする代表的な伴侶犬です。パグは穏やかで親しみやすい性格ですが、平らな顔立ち（短頭種）のため短頭種気道症候群（BOAS）や熱中症に非常に弱い特徴があります。また頭蓋骨の構造上、眼球が突出しており角膜潰瘍やドライアイが頻発しやすく、食いしん坊なため肥満になると呼吸困難や関節トラブルが悪化します。本日PetSelfでは、パグのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+シワのある顔と大きな丸い瞳、独特の愛嬌で何世紀もの間愛されてきたパグ（Pug）は、飼い主とのスキンシップを何より大切にする代表的な伴侶犬です。パグは穏やかで親しみやすい性格ですが、平らな顔立ち（短頭種）のため短頭種気道症候群（BOAS）や熱中症に非常に弱い特徴があります。また頭蓋骨の構造上、眼球が突出しており角膜潰瘍やドライアイが頻発しやすく、食いしん坊なため肥満になると呼吸困難や関節トラブルが悪化します。本記事では、パグのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

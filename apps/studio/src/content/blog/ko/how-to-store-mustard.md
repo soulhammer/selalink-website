@@ -27,7 +27,7 @@ faqs:
 
 머스타드는 식초, 소금, 산성 성분이 첨가되어 자체적인 미생물 억제력이 높은 보존성이 뛰어난 소스입니다. 하지만 개봉 후 공기와 접촉하면 시니그린(Sinigrin) 등 특유의 톡 쏘는 알싸한 매운맛 성분과 향이 쉽게 휘발하며, 시간이 지남에 따라 색상이 짙게 변하고 기름과 수분이 분리되는 현상이 발생합니다.
 
-오늘 FreshSnap에서는 식품 안전 기관의 검증된 가이드라인을 바탕으로, 머스타드 소스의 알싸한 풍미와 선명한 색상을 변함없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 식품 안전 기관의 검증된 가이드라인을 바탕으로, 머스타드 소스의 알싸한 풍미와 선명한 색상을 변함없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "성격이 고양이와 유사하여 과도한 터치나 환영 표현을 하지 않는 품종적 특성을 가지고 있습니다. 꼬리를 마구 흔들지 않더라도 보호자 근처에서 조용히 누워있거나 관찰하는 것만으로도 깊은 애정을 나타내고 있는 것입니다."
 ---
 
-시바견은 한국과 일본뿐만 아니라 전 세계적으로 많은 사랑을 받는 고유 견종입니다. 여우를 닮은 외모와 꼿꼿한 꼬리가 매력적이지만, 성격은 고양이처럼 아주 독립적이고 고집이 세며 경계심이 많습니다. 🐕 특히 시바견은 발끝이나 귀, 엉덩이 등 신체 말단 부위를 만지는 것에 매우 민감하여, 강압적인 빗질이나 발톱 깎기를 시도할 경우 비명을 지르는 듯한 소리인 '시바 스크림(Shiba Scream)'을 지르며 거부하기 일쑤입니다. 또한, 빽빽한 이중모를 가지고 있어 털빠짐 시기에는 털이 엄청나게 빠져나갑니다. 오늘 PetSelf에서는 시바견의 독립적인 성향을 존중하면서 털을 관리하고 올바른 터치 교감을 나누는 3단계 홈케어 루틴을 소개합니다.
+시바견은 한국과 일본뿐만 아니라 전 세계적으로 많은 사랑을 받는 고유 견종입니다. 여우를 닮은 외모와 꼿꼿한 꼬리가 매력적이지만, 성격은 고양이처럼 아주 독립적이고 고집이 세며 경계심이 많습니다. 🐕 특히 시바견은 발끝이나 귀, 엉덩이 등 신체 말단 부위를 만지는 것에 매우 민감하여, 강압적인 빗질이나 발톱 깎기를 시도할 경우 비명을 지르는 듯한 소리인 '시바 스크림(Shiba Scream)'을 지르며 거부하기 일쑤입니다. 또한, 빽빽한 이중모를 가지고 있어 털빠짐 시기에는 털이 엄청나게 빠져나갑니다. 이번 가이드에서는 시바견의 독립적인 성향을 존중하면서 털을 관리하고 올바른 터치 교감을 나누는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 与紫苏油不同，芝麻油富含名为“木脂素（芝麻林素、芝麻酚）”的强效天然抗氧化成分，具有极强的抗油脂酸败能力。然而，若将其置于10℃以下的冷凉环境（冰箱）中，油体会结晶凝固呈白色块状，导致其独特的芳香油脂成分受损。反之，若暴露于阳光直射或灶台高温下，则会加速油脂氧化。
 
-今天FreshSnap基于食品安全专家指南，为您带来3步科学芝麻油保存秘诀，帮您长久锁定芝麻油的醇香与营养达1 ~ 2年。🛡️
+本指南基于食品安全专家指南，为您带来3步科学芝麻油保存秘诀，帮您长久锁定芝麻油的醇香与营养达1 ~ 2年。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

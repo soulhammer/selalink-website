@@ -27,7 +27,7 @@ Avez-vous déjà acheté une grande botte d'oignons verts pour la laisser dans l
 
 L'oignon vert est un condiment indispensable, mais sa forte teneur en eau et sa propriété physiologique après récolte — le géotropisme négatif (pousser vers le haut contre la gravité) — accélèrent son altération. Le conserver à plat l'épuise car il dépense de l'énergie pour se redresser.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour contrôler l'humidité, préserver l'énergie de la plante et garder vos oignons verts croquants et frais pendant plus d'un mois. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour contrôler l'humidité, préserver l'énergie de la plante et garder vos oignons verts croquants et frais pendant plus d'un mois. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Como são propensos à displasia de quadril genética, comece o cuidado articular (controle de peso, tapetes antiderrapantes e natação) aos 3 meses de idade durante seu crescimento ativo."
 ---
 
-O Golden Retriever, amado no mundo todo por sua pelagem dourada e personalidade gentil, é um companheiro inteligente e extremamente amigável. Embora conhecido como 'angelical', possui alta energia atlética como cão de busca e requer estimulação diária física e mental. Prevenir a displasia de quadril a que são propensos e satisfazer seu instinto de busca são essenciais para sua saúde e bem-estar emocional. Hoje, o PetSelf explora sua linguagem corporal e apresenta uma rotina saudável de 3 passos.
+O Golden Retriever, amado no mundo todo por sua pelagem dourada e personalidade gentil, é um companheiro inteligente e extremamente amigável. Embora conhecido como 'angelical', possui alta energia atlética como cão de busca e requer estimulação diária física e mental. Prevenir a displasia de quadril a que são propensos e satisfazer seu instinto de busca são essenciais para sua saúde e bem-estar emocional. Neste guia, explora sua linguagem corporal e apresenta uma rotina saudável de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

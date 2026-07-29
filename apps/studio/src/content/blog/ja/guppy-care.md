@@ -29,7 +29,7 @@ faqs:
     answer: "お腹の形が丸型から「L字型（四角い形）」に変化し、お尻付近の妊娠斑（Gravid spot）が黒く突起してきます。また、隅に留まったり水槽のガラス面を上下に往復する行動を見せたら産卵箱（隔離箱）へ移動させてください。"
 ---
 
-鮮やかなヒレと強い生命力で「熱帯魚の入門であり到達点」と呼ばれるグッピー（Guppy）は、世界中で最も愛されている卵胎生メダカ科の観賞魚です。しかし、濾過不足や水質変化（アンモニア・亜硝酸の急昇）に晒されると、ヒレが溶ける尾腐れ病（Fin Rot）や針病にかかりやすいです。また、卵ではなく稚魚を直接産む卵胎生のため、稚魚の保護や妊娠管理が不可欠です。本日PetSelfでは、グッピーのサインを正確に読み解き、綺麗な水質環境を維持する3ステップルーティンをお届けします。
+鮮やかなヒレと強い生命力で「熱帯魚の入門であり到達点」と呼ばれるグッピー（Guppy）は、世界中で最も愛されている卵胎生メダカ科の観賞魚です。しかし、濾過不足や水質変化（アンモニア・亜硝酸の急昇）に晒されると、ヒレが溶ける尾腐れ病（Fin Rot）や針病にかかりやすいです。また、卵ではなく稚魚を直接産む卵胎生のため、稚魚の保護や妊娠管理が不可欠です。本記事では、グッピーのサインを正確に読み解き、綺麗な水質環境を維持する3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

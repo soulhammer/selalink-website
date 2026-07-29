@@ -29,7 +29,7 @@ faqs:
     answer: "Necessitam de água salgada para regular a pressão osmótica e a água interna da concha. Use sal marinho para aquários dissolvido em água sem cloro, nunca sal de cozinha."
 ---
 
-O Caranguejo-Ermitão Purple Pincher (*Coenobita clypeatus*) é o crustáceo de estimação mais querido do mundo, famoso pela sua garra roxa e pela necessidade constante de trocar de concha. Embora seja terrestre, respira por brânquias modificadas, sendo crucial manter a umidade do terrário entre 75 e 85%. Precisa de substrato profundo para se enterrar durante a ecdise (muda). Sendo animais sociais, devem viver em grupo. No PetSelf apresentamos o seu guia de cuidados em 3 passos.
+O Caranguejo-Ermitão Purple Pincher (*Coenobita clypeatus*) é o crustáceo de estimação mais querido do mundo, famoso pela sua garra roxa e pela necessidade constante de trocar de concha. Embora seja terrestre, respira por brânquias modificadas, sendo crucial manter a umidade do terrário entre 75 e 85%. Precisa de substrato profundo para se enterrar durante a ecdise (muda). Sendo animais sociais, devem viver em grupo. No Este guia  mos o seu guia de cuidados em 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

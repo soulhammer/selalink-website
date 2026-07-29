@@ -29,7 +29,7 @@ faqs:
     answer: "由于其耳朵下垂的结构特点，游泳后耳朵内部留存的水分极易滋生细菌和真菌，引发外耳炎。水上活动后应立即使用专用洗耳液清洁，并保持耳道通风干爽。"
 ---
 
-拉布拉多犬因其温和、聪明和友善的性格而成为全球最受欢迎的导盲犬和家庭伴侣犬。然而，相当一部分拉布拉多犬携带 POMC 基因突变，影响饱腹感信号，导致它们极易过量进食并引发肥胖，进而加重髋关节发育不良等关节疾病的风险。此外，虽然它们热爱游泳，但下垂的耳朵容易留存水分，若护理不当极易患上外耳炎。今天 PetSelf 将为您介绍释放其精力并维护健康的3步骤日常护理流程。
+拉布拉多犬因其温和、聪明和友善的性格而成为全球最受欢迎的导盲犬和家庭伴侣犬。然而，相当一部分拉布拉多犬携带 POMC 基因突变，影响饱腹感信号，导致它们极易过量进食并引发肥胖，进而加重髋关节发育不良等关节疾病的风险。此外，虽然它们热爱游泳，但下垂的耳朵容易留存水分，若护理不当极易患上外耳炎。本指南将为您介绍释放其精力并维护健康的3步骤日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

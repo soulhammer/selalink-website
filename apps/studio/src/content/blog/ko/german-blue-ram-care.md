@@ -29,7 +29,7 @@ faqs:
     answer: "가장 중요한 요소는 따뜻한 수온(26 ~ 30°C)과 약산성 ~ 중성(pH 6.0 ~ 7.0)의 여과된 수질입니다. 저먼 블루 람은 암모니아와 질산염 수치에 매우 민감하므로 여과력을 높이고 매주 주기적인 환수를 시행해야 발색과 건강을 유지할 수 있습니다."
 ---
 
-저먼 블루 람(German Blue Ram)은 보석처럼 알록달록한 화려한 채색과 수초 어항 속에서의 우아한 헤엄으로 전 세계 열대어 애호가들에게 사랑받는 남미 원산의 소형 시클리드입니다. 일반적인 대형 시클리드와 달리 성격이 비교적 순하고 체장이 5 ~ 7cm 정도로 작아 수초 어항의 마스코트로 인기가 높습니다. 하지만 질산염과 질병에 민감하여 약산성 ~ 중성의 깨끗한 수질과 따뜻한 수온(26 ~ 30°C) 유지가 필수적입니다. 또한 산란기에는 고유의 영역 경계 행동을 보이므로 수초와 유목으로 시선을 차단해 주는 환경 조성이 중요합니다. 오늘 PetSelf에서는 저먼 블루 람의 본능적 감정 시그널을 분석하고, 수질 관리와 영역 평화, 짝짓기 케어를 위한 3단계 일상 루틴을 공개합니다.
+저먼 블루 람(German Blue Ram)은 보석처럼 알록달록한 화려한 채색과 수초 어항 속에서의 우아한 헤엄으로 전 세계 열대어 애호가들에게 사랑받는 남미 원산의 소형 시클리드입니다. 일반적인 대형 시클리드와 달리 성격이 비교적 순하고 체장이 5 ~ 7cm 정도로 작아 수초 어항의 마스코트로 인기가 높습니다. 하지만 질산염과 질병에 민감하여 약산성 ~ 중성의 깨끗한 수질과 따뜻한 수온(26 ~ 30°C) 유지가 필수적입니다. 또한 산란기에는 고유의 영역 경계 행동을 보이므로 수초와 유목으로 시선을 차단해 주는 환경 조성이 중요합니다. 이번 가이드에서는 저먼 블루 람의 본능적 감정 시그널을 분석하고, 수질 관리와 영역 평화, 짝짓기 케어를 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

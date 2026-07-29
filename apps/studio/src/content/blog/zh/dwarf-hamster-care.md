@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不能水洗！仓鼠极易感冒且毛发难以干透，水洗会导致致命的低体温症或肺炎。仓鼠会自我梳理，只需提供专用沙漠浴沙供其沙浴即可去除油脂并保持清洁。"
 ---
 
-拥有小巧体型和大颊囊的侏儒仓鼠（Dwarf Hamster）囊括了三线（加卡利亚）、坎贝尔及罗伯罗夫斯基（公公婆婆）等受全球喜爱的品种。侏儒仓鼠在摄入甜菜或水果等高糖食物时极易患上糖尿病（Diabetes）；若室温降至15°C以下，则极易陷入危及生命的假冬眠（Torpor/低体温症）状态。此外，水洗会带走其毛皮保护性油脂并引发致命的低体温症，因此必须使用专用浴沙进行沙浴。今天 PetSelf 将带您准确解读侏儒仓鼠 身体语言，并介绍维持其健康的3步骤日常护理流程。
+拥有小巧体型和大颊囊的侏儒仓鼠（Dwarf Hamster）囊括了三线（加卡利亚）、坎贝尔及罗伯罗夫斯基（公公婆婆）等受全球喜爱的品种。侏儒仓鼠在摄入甜菜或水果等高糖食物时极易患上糖尿病（Diabetes）；若室温降至15°C以下，则极易陷入危及生命的假冬眠（Torpor/低体温症）状态。此外，水洗会带走其毛皮保护性油脂并引发致命的低体温症，因此必须使用专用浴沙进行沙浴。本指南将带您准确解读侏儒仓鼠 身体语言，并介绍维持其健康的3步骤日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

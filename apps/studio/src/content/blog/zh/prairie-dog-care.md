@@ -29,7 +29,7 @@ faqs:
     answer: "不建议。它们是群居动物，单只极易患抑郁症。建议成对饲养或每天花费数小时陪伴。"
 ---
 
-黑尾土拨鼠是群居的极高度社会化动物。由于门齿终生生长，必须无限量供应高纤维提摩西干草以防牙齿咬合不正及齿根瘤(Odontoma)。深层垫料与亲密互动至关重要。今天 PetSelf 为您整理3阶段护理流程。
+黑尾土拨鼠是群居的极高度社会化动物。由于门齿终生生长，必须无限量供应高纤维提摩西干草以防牙齿咬合不正及齿根瘤(Odontoma)。深层垫料与亲密互动至关重要。本指南为您整理3阶段护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

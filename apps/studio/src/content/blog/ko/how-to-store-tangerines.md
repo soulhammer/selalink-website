@@ -27,7 +27,7 @@ faqs:
 
 감귤은 수분이 많고 껍질이 얇아 서로 눌리거나 습기가 차면 금방 부패하는 대표적인 과일입니다. 특히 귤 표면에 붙어있는 미세한 곰팡이 포자가 상온의 습기와 만나면 번식 속도가 비약적으로 빨라집니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 감귤이 무르거나 곰팡이 피지 않게 끝까지 아삭하고 달콤하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 감귤이 무르거나 곰팡이 피지 않게 끝까지 아삭하고 달콤하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

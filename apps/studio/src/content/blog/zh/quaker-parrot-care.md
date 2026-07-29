@@ -29,7 +29,7 @@ faqs:
     answer: "和尚鹦鹉是野外唯一会搭建大型树枝巢穴的鹦鹉，因此会将鸟笼视为不可侵犯的要塞。伸手入笼抓取会剧烈加重其护巢攻击。正确的做法是打开笼门，诱导其自行爬出至外部 T 型站架上，离开领地范围后再进行上手互动。"
 ---
 
-原产于南美洲的和尚鹦鹉（Quaker Parrot / Monk Parakeet），凭其出色的模仿语言能力、大胆自信的性格以及黏人的举止而深受全球鹦鹉爱好者喜爱。和尚鹦鹉是自然界中唯一会用树枝搭建巨大树巢的鹦鹉，因此它们对自己的居住空间（鸟笼）拥有极强的领地独占欲。此外，和尚鹦鹉极其贪吃且易发胖，若长期喂食高脂肪葵花籽，极易患上致命的脂肪肝（Hepatic Lipidosis）。同时，其特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）加热毒气与喷雾极度敏感。今天 PetSelf 将带您准确解读和尚鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于南美洲的和尚鹦鹉（Quaker Parrot / Monk Parakeet），凭其出色的模仿语言能力、大胆自信的性格以及黏人的举止而深受全球鹦鹉爱好者喜爱。和尚鹦鹉是自然界中唯一会用树枝搭建巨大树巢的鹦鹉，因此它们对自己的居住空间（鸟笼）拥有极强的领地独占欲。此外，和尚鹦鹉极其贪吃且易发胖，若长期喂食高脂肪葵花籽，极易患上致命的脂肪肝（Hepatic Lipidosis）。同时，其特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）加热毒气与喷雾极度敏感。本指南将带您准确解读和尚鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

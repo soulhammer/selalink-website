@@ -27,7 +27,7 @@ faqs:
 
 贝类属于活体销售的易腐水产品。如果将其密封在塑料袋中或长期浸泡在淡水（自来水）中，会导致其因缺氧或渗透压剧变而迅速死亡，并在常温下快速滋生细菌与毒素。
 
-今天FreshSnap基于水产专家指南，为您带来3步科学保存秘诀，教您安全吐沙并锁定贝类的鲜美口感。🛡️
+本指南基于水产专家指南，为您带来3步科学保存秘诀，教您安全吐沙并锁定贝类的鲜美口感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

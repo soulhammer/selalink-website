@@ -27,7 +27,7 @@ faqs:
 
 生姜は水分と繊維質が豊富ですが、湿気に弱くカビが生えやすい反面、空気中に放置すると水分が抜けて固くなってしまいます。特にカビの生えた生姜には強力なカビ毒が発生するため、保存には特別な注意が必要です。
 
-本日FreshSnapでは、専門家が推奨する生姜の鮮度と風味を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
+本記事では、専門家が推奨する生姜の鮮度と風味を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

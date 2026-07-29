@@ -27,7 +27,7 @@ faqs:
 
 A diferencia de la mayoría de las verduras, almacenar patatas a temperaturas inferiores a 4 °C provoca el 'endulzamiento por frío', un proceso que convierte sus almidones en azúcares reductores. Al freír o asar estas patatas a altas temperaturas, se generan niveles peligrosos de acrilamida, un carcinógeno del Grupo 2A.
 
-Además, la exposición a la luz vuelve verde la piel de la patata, sintetizando un compuesto tóxico llamado solanina. Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las pautas de la Agencia de Normas Alimentarias del Reino Unido (FSA) para prevenir toxinas, inhibir los brotes y conservar sus patatas saludables y frescas. 🛡️
+Además, la exposición a la luz vuelve verde la piel de la patata, sintetizando un compuesto tóxico llamado solanina. En esta guía se comparte una guía científica en 3 pasos basada en las pautas de la Agencia de Normas Alimentarias del Reino Unido (FSA) para prevenir toxinas, inhibir los brotes y conservar sus patatas saludables y frescas. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

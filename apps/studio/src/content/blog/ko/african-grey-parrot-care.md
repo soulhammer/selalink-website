@@ -29,7 +29,7 @@ faqs:
     answer: "절대 안 됩니다. 씨앗 위주의 식단은 지방 함량이 너무 높고 비타민 A와 칼슘이 부족하여 비만, 비타민 결핍증, 간 질환을 유발합니다. 반드시 조류 전용 펠렛을 60 ~ 70% 이상 주식으로 하고 신선한 채소와 과일을 병행해야 합니다. (아보카도, 초콜릿은 치명적 독성 음식입니다.)"
 ---
 
-회색앵무(African Grey Parrot)는 조류 중에서도 가장 뛰어난 지능을 가진 대형 반려조로, 인간 나이 4 ~ 5세 수준의 인지 능력과 높은 단어 습득 능력을 자랑합니다. 단순히 소리를 시늉하는 것을 넘어 상황과 맥락에 맞는 언어 교감이 가능할 정도로 뛰어난 두뇌를 지녔지만, 그만큼 감정적으로 매우 예민합니다. 정신적 자극(지적 활동)이나 환경적 풍부화가 부족하면 극심한 스트레스와 지루함으로 인해 자신의 깃털을 뜯어내는 '깃털 뽑기(Feather Damaging Behavior)' 자해 증상을 보이기 쉽습니다. 오늘 PetSelf에서는 회색앵무의 언어·감정 신호와 깃털 뽑기를 예방하는 3단계 지적·환경 풍부화 케어 루틴을 정리해 드립니다.
+회색앵무(African Grey Parrot)는 조류 중에서도 가장 뛰어난 지능을 가진 대형 반려조로, 인간 나이 4 ~ 5세 수준의 인지 능력과 높은 단어 습득 능력을 자랑합니다. 단순히 소리를 시늉하는 것을 넘어 상황과 맥락에 맞는 언어 교감이 가능할 정도로 뛰어난 두뇌를 지녔지만, 그만큼 감정적으로 매우 예민합니다. 정신적 자극(지적 활동)이나 환경적 풍부화가 부족하면 극심한 스트레스와 지루함으로 인해 자신의 깃털을 뜯어내는 '깃털 뽑기(Feather Damaging Behavior)' 자해 증상을 보이기 쉽습니다. 이번 가이드에서는 회색앵무의 언어·감정 신호와 깃털 뽑기를 예방하는 3단계 지적·환경 풍부화 케어 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "아닙니다. 가정에서 불완전한 온도로 동면을 시도하면 체중 급감이나 폐사 위험이 매우 높습니다. 실내 사육 시에는 야간 온도를 20°C 이상으로 일정하게 유지하고 UVB와 온열 스팟을 지속적으로 운영하여 동면 상태에 빠지지 않도록 따뜻한 환경을 유지해 주는 것이 안전합니다."
 ---
 
-헤르만 육지거북(Hermann's Tortoise)은 지중해 연안 원산의 대표적인 소형 육지거북으로, 온순한 성품과 강건한 체질 덕분에 유럽 및 서구권 가정에서 오랜 기간 가장 사랑받아 온 파충류입니다. 성체 기준 체장 15 ~ 20cm 내외의 부담 없는 크기를 가지고 있으며, 수명이 길고 사람과의 환경 적응력이 뛰어납니다. 다만 파충류 특성상 스스로 체온을 조절하지 못하므로 스팟 램프를 통한 온·습도 구배(Gradient) 형성이 필수적이며, 체내 칼슘 흡수와 등갑 형성을 위한 주기적인 UVB 전구 교체가 중요합니다. 또한 단백질과 당분이 과다한 먹이는 등갑 변형(피라미딩)을 유발하므로 고섬유질·고칼슘 위주의 들풀과 야채 식단 관리가 핵심입니다. 오늘 PetSelf에서는 헤르만 육지거북의 본능적 행동 시그널을 분석하고, 건강한 사육을 위한 3단계 일상 루틴을 공개합니다.
+헤르만 육지거북(Hermann's Tortoise)은 지중해 연안 원산의 대표적인 소형 육지거북으로, 온순한 성품과 강건한 체질 덕분에 유럽 및 서구권 가정에서 오랜 기간 가장 사랑받아 온 파충류입니다. 성체 기준 체장 15 ~ 20cm 내외의 부담 없는 크기를 가지고 있으며, 수명이 길고 사람과의 환경 적응력이 뛰어납니다. 다만 파충류 특성상 스스로 체온을 조절하지 못하므로 스팟 램프를 통한 온·습도 구배(Gradient) 형성이 필수적이며, 체내 칼슘 흡수와 등갑 형성을 위한 주기적인 UVB 전구 교체가 중요합니다. 또한 단백질과 당분이 과다한 먹이는 등갑 변형(피라미딩)을 유발하므로 고섬유질·고칼슘 위주의 들풀과 야채 식단 관리가 핵심입니다. 이번 가이드에서는 헤르만 육지거북의 본능적 행동 시그널을 분석하고, 건강한 사육을 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

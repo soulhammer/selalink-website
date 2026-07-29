@@ -27,7 +27,7 @@ Avez-vous déjà acheté une cagette d'oranges pour constater quelques jours plu
 
 L'orange est un agrume riche en eau et en vitamine C, qui continue de respirer et d'émettre de l'humidité après la récolte. À température ambiante, elle perd son jus et sa fermeté, tandis que l'humidité stagnante favorise le développement rapide de moisissures qui contaminent les fruits voisins.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation des oranges en 3 étapes recommandé par des experts pour préserver leur fraîcheur et leur jus. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation des oranges en 3 étapes recommandé par des experts pour préserver leur fraîcheur et leur jus. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

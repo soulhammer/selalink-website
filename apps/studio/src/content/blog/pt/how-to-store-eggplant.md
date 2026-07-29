@@ -27,7 +27,7 @@ Você já comprou berinjelas frescas e percebeu que em poucos dias a casca murch
 
 Por ser um vegetal de clima quente, a berinjela é extremamente sensível ao frio, possui polpa macia e reage fortemente a oscilações de temperatura, perda de umidade e ao gás etileno. Guardar berinjelas cruas em geladeiras comuns (0–4 °C) causa sérios danos por frio (chilling injury), tornando a casca manchada e a polpa amarga.
 
-Hoje, o FreshSnap apresenta um guia prático em 3 etapas recomendado por especialistas para manter suas berinjelas frescas por mais tempo. 🛡️
+Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter suas berinjelas frescas por mais tempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

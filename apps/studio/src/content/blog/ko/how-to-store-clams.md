@@ -27,7 +27,7 @@ faqs:
 
 조개류는 살아있는 상태로 유통되는 미생물 부패에 매우 취약한 신선 수산물입니다. 밀폐 용기에 가두거나 민물(수돗물)에 오래 담가두면 산소 부족과 체액 유출로 금방 사멸하며, 사멸한 조개는 상온에서 빠르게 독소를 배출합니다.
 
-오늘 FreshSnap에서는 수산 전문가들의 검증된 가이드라인을 바탕으로, 조개류를 안전하게 해감하고 아삭하고 시원한 감칠맛을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 수산 전문가들의 검증된 가이드라인을 바탕으로, 조개류를 안전하게 해감하고 아삭하고 시원한 감칠맛을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

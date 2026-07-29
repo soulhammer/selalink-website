@@ -29,7 +29,7 @@ faqs:
     answer: "Água quente (26–30 °C) e macia/ácida (pH 6.0–7.0). São extremamente sensíveis à amónia e nitratos, exigindo boa filtragem e trocas parciais de água."
 ---
 
-O Ramirezi Azul (Mikrogeophagus ramirezi) é um cíclio anão sul-americano famoso pela sua cor azul-néon brilhante. Medindo cerca de 5 a 7 cm, é muito mais pacífico do que os cíclios grandes, sendo perfeito para aquários plantados. No entanto, é sensível aos nitratos e requer água quente (26–30 °C) e macia, ligeiramente ácida (pH 6.0–7.0). Durante a reprodução, defendem o seu território, tornando plantas e troncos essenciais para criar barreiras visuais. Hoje no PetSelf, analisamos os seus sinais e partilhamos uma rotina de 3 passos.
+O Ramirezi Azul (Mikrogeophagus ramirezi) é um cíclio anão sul-americano famoso pela sua cor azul-néon brilhante. Medindo cerca de 5 a 7 cm, é muito mais pacífico do que os cíclios grandes, sendo perfeito para aquários plantados. No entanto, é sensível aos nitratos e requer água quente (26–30 °C) e macia, ligeiramente ácida (pH 6.0–7.0). Durante a reprodução, defendem o seu território, tornando plantas e troncos essenciais para criar barreiras visuais. Neste guia, analisamos os seus sinais e partilhamos uma rotina de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

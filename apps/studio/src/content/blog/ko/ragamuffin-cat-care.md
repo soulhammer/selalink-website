@@ -29,7 +29,7 @@ faqs:
     answer: "라가머핀의 하복부 지방 패드(Fatty pad)는 장기 보호 및 유연한 움직임을 위해 형성되는 품종 고유의 정식 표준 특성입니다. 다만 전체적인 뼈대 대비 갈비뼈가 잡히지 않을 정도의 과도한 체중 증가라면 수의사와 상담하여 체중 관리를 시작해야 합니다."
 ---
 
-라가머핀은 랙돌(Ragdoll) 품종에서 파생되어 1990년대에 확립된 대형 고양이로, 토끼털처럼 부드럽고 풍성한 모질과 다채로운 모색, 순박한 눈망울이 매력적인 품종입니다. 성묘가 되기까지 4 ~ 5년이 걸리는 대표적인 대형 장모종으로, 골격이 튼튼하고 하복부의 복부 지방 패드(Fatty pad)가 형성되는 품종적 고유 특성을 지닙니다. 사람 품에 안기면 인형처럼 몸을 완전히 내맡기는 극상의 온순함을 자랑하지만, 빽빽한 이중모 관리와 체중 조절, 심장 질환(HCM) 예방 관리가 필수적입니다. 오늘 PetSelf에서는 라가머핀의 교감 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.
+라가머핀은 랙돌(Ragdoll) 품종에서 파생되어 1990년대에 확립된 대형 고양이로, 토끼털처럼 부드럽고 풍성한 모질과 다채로운 모색, 순박한 눈망울이 매력적인 품종입니다. 성묘가 되기까지 4 ~ 5년이 걸리는 대표적인 대형 장모종으로, 골격이 튼튼하고 하복부의 복부 지방 패드(Fatty pad)가 형성되는 품종적 고유 특성을 지닙니다. 사람 품에 안기면 인형처럼 몸을 완전히 내맡기는 극상의 온순함을 자랑하지만, 빽빽한 이중모 관리와 체중 조절, 심장 질환(HCM) 예방 관리가 필수적입니다. 이번 가이드에서는 라가머핀의 교감 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

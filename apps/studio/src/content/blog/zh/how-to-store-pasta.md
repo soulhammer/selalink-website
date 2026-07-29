@@ -27,7 +27,7 @@ faqs:
 
 意大利干面的水分含量极低（12%以下），非常适合长期储存，但它极易吸收空气中的湿气、光线和异味，同时也非常容易吸引印度谷螟、象埠等粮害虫。储存不当会导致杜兰小麦原有的浓郁风味流失并引发品质变质。
 
-今天FreshSnap为您带来基于美国农务部(USDA)及食品安全指南的3步科学储存秘诀，帮您长久锁定干意面的品质与新鲜。🛡️
+本指南将带来基于美国农务部(USDA)及食品安全指南的3步科学储存秘诀，帮您长久锁定干意面的品质与新鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

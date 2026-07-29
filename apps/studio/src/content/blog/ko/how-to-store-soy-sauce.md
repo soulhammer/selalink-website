@@ -27,7 +27,7 @@ faqs:
 
 간장은 염도가 높아 쉽게 상하지 않는 식재료로 알려져 있지만, 개봉 후 공기(산소)와 빛, 열에 노출되면 깊은 아미노산 향이 날아가고 색이 검게 변하는 산화(Oxidation) 현상이 일어납니다. 보관법에 따라 특유의 풍미와 감칠맛이 크게 달라집니다.
 
-오늘 FreshSnap에서는 식품 안전 기관 및 간장 제조 전문가들의 가이드라인을 바탕으로, 간장의 고유한 맛과 향을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 식품 안전 기관 및 간장 제조 전문가들의 가이드라인을 바탕으로, 간장의 고유한 맛과 향을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

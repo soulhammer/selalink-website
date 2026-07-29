@@ -33,7 +33,7 @@ faqs:
 
 しかし、マルチーズの飼い主なら誰しも直面する2つの遺伝的悩みがあります。1つは膝の骨がずれる膝蓋骨脱臼（パテラ）、もう1つは白い顔に赤い跡を残し皮膚炎を起こしやすい涙やけ（涙管閉塞）です。これらは日常のルーティンが一生の健康を左右します。
 
-本日PetSelfでは、マルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。
+本記事では、マルチーズのボディランゲージを理解し、関節と目を保護する科学的な3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

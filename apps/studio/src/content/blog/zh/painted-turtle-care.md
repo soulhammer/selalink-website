@@ -29,7 +29,7 @@ faqs:
     answer: "绝对严禁室内人工冬眠！在缺乏精确控温的环境下，室内温水降至半生不熟的 10°C ~ 18°C 会导致龟体无法进入深度冬眠而仅降低免疫力，极易诱发致命肺炎或饿死。请使用水族加热棒全年将水温维持在 23°C ~ 26°C。"
 ---
 
-因边缘鲜艳的红色与黄色斑纹及光滑甲壳而闻名的锦龟（Painted Turtle / Chrysemys picta），是风靡全球的代表性半水栖龟类。若水质恶化或缺乏能使甲壳完全干燥的晒背台，极易患上皮肤与龟甲溃烂的“腐甲病 (Shell Rot)”；而 UVB 照射与钙质不足则会导致龟甲变软的“代谢性骨病 (MBD)”。此外，水温不当降低会导致免疫力下降，引发致命的肺炎或拒食。今天 PetSelf 将带您准确解读锦龟的行为信号，并通过3步骤日常护理维护其健康。
+因边缘鲜艳的红色与黄色斑纹及光滑甲壳而闻名的锦龟（Painted Turtle / Chrysemys picta），是风靡全球的代表性半水栖龟类。若水质恶化或缺乏能使甲壳完全干燥的晒背台，极易患上皮肤与龟甲溃烂的“腐甲病 (Shell Rot)”；而 UVB 照射与钙质不足则会导致龟甲变软的“代谢性骨病 (MBD)”。此外，水温不当降低会导致免疫力下降，引发致命的肺炎或拒食。本指南将带您准确解读锦龟的行为信号，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

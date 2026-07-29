@@ -27,7 +27,7 @@ Avez-vous déjà acheté du maquereau frais pour constater qu'après deux jours 
 
 Le maquereau est très riche en acides gras oméga-3, mais en raison d'une activité enzymatique autolytique élevée et de sa teneur en graisses, il s'oxyde et rance très vite au contact de l'air. De plus, à température ambiante, l'histidine se transforme rapidement en histamine toxique, causant des intoxications. Le contrôle de la température est donc crucial.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation du maquereau en 3 étapes, basé sur les recommandations du NIFS et du USDA, pour éliminer les odeurs et préserver une fraîcheur maximale. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation du maquereau en 3 étapes, basé sur les recommandations du NIFS et du USDA, pour éliminer les odeurs et préserver une fraîcheur maximale. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

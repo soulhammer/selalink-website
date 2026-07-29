@@ -33,7 +33,7 @@ faqs:
 
 然而，作为超小型犬，其身体结构也存在许多脆弱之处。首先是颅骨顶部接合处可能未完全闭合而留有孔洞的“囟门（Molera）”特征。这意味着施加在头顶的压力会直接传导至大脑，因此防止头顶受冲击的技巧至关重要。此外，吉娃娃体脂极低且新陈代谢极其敏感，不仅极易怕冷发抖，且空腹时间稍长就容易引发导致休克的“低血糖症”。
 
-今天，PetSelf 将为您深度解读吉娃娃的身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡的3步精准日常护理流程。
+今天，本指南将为您深度解读吉娃娃的身体语言，并分享一套旨在保护颅脑安全及维持血糖平衡的3步精准日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

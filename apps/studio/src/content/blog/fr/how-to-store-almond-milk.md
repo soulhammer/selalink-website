@@ -27,7 +27,7 @@ Avez-vous déjà dégusté un verre de lait d'amande pour constater, après quel
 
 Le lait d'amande est une boisson végétale composée de fines particules d'amande en suspension dans l'eau. Contrairement aux produits laitiers fermentés, son ouverture l'expose directement aux micro-organismes ambiants. Sa forte teneur en eau fait que le laisser à température ambiante ou dans la porte du réfrigérateur accélère la prolifération bactérienne et la séparation des phases.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation du lait d'amande en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour éviter la séparation et préserver sa fraîcheur. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation du lait d'amande en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour éviter la séparation et préserver sa fraîcheur. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

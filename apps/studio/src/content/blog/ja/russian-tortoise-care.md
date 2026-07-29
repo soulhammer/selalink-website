@@ -29,7 +29,7 @@ faqs:
     answer: "ロシアリクガメは乾燥地帯原産の100%完全草食性（Strict Herbivore）の爬虫類です。糖分の多い果物を与えると腸内細菌叢が崩れて原虫が異常繁殖し、致死的な下痢を引き起こします。また昆虫や動物性タンパク質は血中尿酸値を急上昇させ、内臓痛風や腎不全、甲羅の変形（ピラミッディング）を招くため、繊維質の多い野草や緑の葉野菜のみを与えてください。"
 ---
 
-中央アジアの乾燥したステップや砂漠地帯原産のロシアリクガメ（Russian Tortoise / 別名：ホルスフィールドリクガメ、ヨツユビリクガメ）は、成体サイズが15〜25cmと小型で丈夫なことから、世界中で高い人気を誇る昼行性リクガメです。前脚の指が4本あることから「ヨツユビリクガメ」とも呼ばれ、強力な穴掘り（Burrowing）本能を持っています。しかし屋内飼育下では、紫外線（UVB）照射やカルシウムの不足による代謝性骨疾患（MBD）を発症しやすく、水分不足から白く固まる「尿酸結石（Bladder Stones）」で命を落とす危険があります。また完全草食性（Strict Herbivore）のため、糖分の多い果物や動物性タンパク質の給餌は致死的です。本日PetSelfでは、ロシアリクガメのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+中央アジアの乾燥したステップや砂漠地帯原産のロシアリクガメ（Russian Tortoise / 別名：ホルスフィールドリクガメ、ヨツユビリクガメ）は、成体サイズが15〜25cmと小型で丈夫なことから、世界中で高い人気を誇る昼行性リクガメです。前脚の指が4本あることから「ヨツユビリクガメ」とも呼ばれ、強力な穴掘り（Burrowing）本能を持っています。しかし屋内飼育下では、紫外線（UVB）照射やカルシウムの不足による代謝性骨疾患（MBD）を発症しやすく、水分不足から白く固まる「尿酸結石（Bladder Stones）」で命を落とす危険があります。また完全草食性（Strict Herbivore）のため、糖分の多い果物や動物性タンパク質の給餌は致死的です。本記事では、ロシアリクガメのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

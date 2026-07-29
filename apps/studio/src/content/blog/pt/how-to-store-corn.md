@@ -27,7 +27,7 @@ Você já comprou espigas de milho frescas, deixou em temperatura ambiente por a
 
 O milho é um alimento onde o açúcar se converte rapidamente em amido logo após a colheita. Deixar o milho em temperatura ambiente pode fazê-lo perder mais da metade do seu açúcar em apenas 24 horas, estragando seu sabor doce e crocante.
 
-Hoje, o FreshSnap apresenta um guia prático em 3 etapas recomendado por especialistas para manter a doçura e a umidade do seu milho pelo maior tempo possível. 🛡️
+Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter a doçura e a umidade do seu milho pelo maior tempo possível. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

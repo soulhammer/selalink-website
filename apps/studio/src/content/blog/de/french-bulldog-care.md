@@ -29,7 +29,7 @@ faqs:
     answer: "Die Falten müssen täglich gepflegt werden. Futterreste und Tränenflüssigkeit sammeln sich in den Hautfalten und bilden Nährboden für Bakterien und Hefepilze, was zu schmerzhaften Entzündungen führt."
 ---
 
-Mit ihren Fledermausohren und dem flachen Gesicht sind Französische Bulldoggen weltweit geliebte Begleiter. Ihre brachyzephale (kurzköpfige) Anatomie macht sie jedoch anfällig für Atemwegsblockaden, Atemnot und schnelle Überhitzung. Auch das Springen von Möbeln belastet ihre Wirbelsäule. Heute erklärt PetSelf ihre Körpersprache bei Atembeschwerden und stellt eine 3-Schritte-Routine vor.
+Mit ihren Fledermausohren und dem flachen Gesicht sind Französische Bulldoggen weltweit geliebte Begleiter. Ihre brachyzephale (kurzköpfige) Anatomie macht sie jedoch anfällig für Atemwegsblockaden, Atemnot und schnelle Überhitzung. Auch das Springen von Möbeln belastet ihre Wirbelsäule. Heute erklärt  ihre Körpersprache bei Atembeschwerden und stellt eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "At least two daily sessions of 1 hour each (2 hours total) are recommended. Incorporating mental challenges, trick training, or Frisbee alongside physical exercise is essential."
 ---
 
-The Border Collie is widely known as the smartest dog breed in the world, boasting endless working stamina and drive inherited from their herding origins. Simply walking a Border Collie is rarely enough to satisfy their intellectual needs, and a lack of mental stimulation can lead to stress-induced destructive behaviors. Furthermore, their explosive sprinting style and sharp turns put high stress on their joints and ligaments. Today, PetSelf presents a 3-step homecare routine designed to challenge their brain and safeguard joint health.
+The Border Collie is widely known as the smartest dog breed in the world, boasting endless working stamina and drive inherited from their herding origins. Simply walking a Border Collie is rarely enough to satisfy their intellectual needs, and a lack of mental stimulation can lead to stress-induced destructive behaviors. Furthermore, their explosive sprinting style and sharp turns put high stress on their joints and ligaments. In this guide, presents a 3-step homecare routine designed to challenge their brain and safeguard joint health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

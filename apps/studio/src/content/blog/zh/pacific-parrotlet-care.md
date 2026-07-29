@@ -29,7 +29,7 @@ faqs:
     answer: "它们智商很高，能清晰模仿单词和短音。其发声分贝极低，多为细碎的唧唧声，非常适合公寓环境饲养。"
 ---
 
-太平洋口袋鹦鹉（太平洋鹦哥）体长仅约12 ~ 14厘米，被誉为“世界上最小的鹦鹉”，因其极度适合公寓饲养，在北美和欧洲作为新手入门鸟种备受欢迎。虽然体型微小，但它们却拥有不输给大型金刚鹦鹉的大胆性格、超高智商与充沛精力，有着“包裹在大体型里的巨型鹦鹉”之称。然而，它们自尊心极强且领地意识高，容易对鸟笼产生领地护卫行为（Territoriality）；同时若长期喂食高脂谷物易引发脂肪肝，因此必须以营养综合滋养丸为主食。今天 PetSelf 将解析太平洋口袋鹦鹉的情感语言，并公开缓解领地应激与健康管理的3阶段日常护理流程。
+太平洋口袋鹦鹉（太平洋鹦哥）体长仅约12 ~ 14厘米，被誉为“世界上最小的鹦鹉”，因其极度适合公寓饲养，在北美和欧洲作为新手入门鸟种备受欢迎。虽然体型微小，但它们却拥有不输给大型金刚鹦鹉的大胆性格、超高智商与充沛精力，有着“包裹在大体型里的巨型鹦鹉”之称。然而，它们自尊心极强且领地意识高，容易对鸟笼产生领地护卫行为（Territoriality）；同时若长期喂食高脂谷物易引发脂肪肝，因此必须以营养综合滋养丸为主食。本指南将解析太平洋口袋鹦鹉的情感语言，并公开缓解领地应激与健康管理的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

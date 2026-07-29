@@ -29,7 +29,7 @@ faqs:
     answer: "不需要。金丝雀属于雀科鸟类，天生喜欢独立空间，过度的上手触摸会给其带来巨大压力。此外，雄鸟之间具有领地意识，单只饲养最为适宜，适合作为观赏和聆听鸣唱的宠物。"
 ---
 
-金丝雀（Canary）因其悠扬的鸣唱和鲜艳的羽毛，数百年来一直是最受欢迎的观赏鸟之一。与鹦鹉不同，金丝雀更注重独立的私人空间，不喜欢人类过度的上手互动。然而，由于鸟类特有的气囊（Air Sacs）呼吸系统，它们对特氟龙（PTFE）有毒气体及喷雾极度敏感；此外，不规律的光照周期会导致严重的换羽应激与免疫力下降。今天 PetSelf 将带您准确解读金丝雀的健康信号，并通过3步骤日常护理保护其呼吸道与羽毛健康。
+金丝雀（Canary）因其悠扬的鸣唱和鲜艳的羽毛，数百年来一直是最受欢迎的观赏鸟之一。与鹦鹉不同，金丝雀更注重独立的私人空间，不喜欢人类过度的上手互动。然而，由于鸟类特有的气囊（Air Sacs）呼吸系统，它们对特氟龙（PTFE）有毒气体及喷雾极度敏感；此外，不规律的光照周期会导致严重的换羽应激与免疫力下降。本指南将带您准确解读金丝雀的健康信号，并通过3步骤日常护理保护其呼吸道与羽毛健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

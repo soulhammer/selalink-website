@@ -29,7 +29,7 @@ faqs:
     answer: "不可以。潘森变色龙是独居型观赏类爬行动物，频繁的抓握上手会造成慢性应激反应，损害其免疫系统并缩短寿命。必要移动时，切勿从上方抓取，应用手从下方缓慢引导其自行爬上。"
 ---
 
-原产于马达加斯加的潘森变色龙（豹纹变色龙）因安比卢贝（Ambilobe）、诺西贝（Nosy Be）等不同产区而展现出红、蓝、黄、绿等极其绚丽的色彩。它们拥有独立旋转360度的眼睛、特化的对趾足和惊人的弹射舌头。由于它们无法识别静止的水源，必须使用滴水器（Dripper）进行叶片滴水供水；同时，保持通风的网笼、促进钙质吸收的UVB灯具以及减少日常手持应激是维持其健康的关键。今天 PetSelf 将解析潘森变色龙的本能信号，并分享涵盖滴水供水、环境布置与防应激的3阶段日常护理流程。
+原产于马达加斯加的潘森变色龙（豹纹变色龙）因安比卢贝（Ambilobe）、诺西贝（Nosy Be）等不同产区而展现出红、蓝、黄、绿等极其绚丽的色彩。它们拥有独立旋转360度的眼睛、特化的对趾足和惊人的弹射舌头。由于它们无法识别静止的水源，必须使用滴水器（Dripper）进行叶片滴水供水；同时，保持通风的网笼、促进钙质吸收的UVB灯具以及减少日常手持应激是维持其健康的关键。本指南将解析潘森变色龙的本能信号，并分享涵盖滴水供水、环境布置与防应激的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

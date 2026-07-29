@@ -29,7 +29,7 @@ faqs:
     answer: "分離不安のサインです。出かける前におやつを隠す宝探しを用意したり、自動給餌器で注意を引いたりして、飼い主の不在から意識を逸らし、外出10分前からは過度なスキンシップ（別れの儀式）を控えることが大切です。"
 ---
 
-シャム猫（Siamese）はタイの王室が起源の歴史ある品種で、耳や顔、足先のポイントカラーが美しい猫です。性格は「人懐っこい」と言われるほど非常に人好意で、他の猫種とは異なり、飼い主に話しかけるように様々な声で鳴くユニークな魅力があります。🐱しかし、飼い主への強い依存心は、分離不安という弱点にもつながります。長い時間放置されると、寂しさとストレスから鳴き続けたり、家具を引っ掻く破壊行動を起こしがちです。本日、PetSelfではシャム猫の声に寄り添うコミュニケーション方法と、寂しさを和らげる3段階の情緒安定ルーティンを紹介します。
+シャム猫（Siamese）はタイの王室が起源の歴史ある品種で、耳や顔、足先のポイントカラーが美しい猫です。性格は「人懐っこい」と言われるほど非常に人好意で、他の猫種とは異なり、飼い主に話しかけるように様々な声で鳴くユニークな魅力があります。🐱しかし、飼い主への強い依存心は、分離不安という弱点にもつながります。長い時間放置されると、寂しさとストレスから鳴き続けたり、家具を引っ掻く破壊行動を起こしがちです。本記事では、シャム猫の声に寄り添うコミュニケーション方法と、寂しさを和らげる3段階の情緒安定ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

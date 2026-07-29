@@ -29,7 +29,7 @@ faqs:
     answer: "카멜레온은 정체된 공기와 과도한 습기에 매우 취약하여 밀폐된 유리 사육장에서는 치명적인 상부 호흡기 감염(URI)에 걸리기 쉽습니다. 바람이 잘 통하는 수직형 메쉬 사육장을 사용해야 호흡기 질환을 예방하고 건강을 유지할 수 있습니다."
 ---
 
-베일드 카멜레온(Chamaeleo calyptratus)은 머리 위의 웅장한 투구(Crest/Cask)와 감정에 따른 화려한 체색 변화 능력으로 잘 알려진 예멘과 사우디아라비아 원산의 주행성 나무위성(Arboreal) 파충류입니다. 높은 체고와 입체적인 구조물을 선호하며, 관상 가치가 높아 전 세계 카멜레온 집사들에게 1순위 입문 종으로 꼽힙니다. 그러나 멈춰 있는 물그릇을 인식하지 못하고 나뭇잎에 맺힌 물방울만 마시는 독특한 습성이 있어 물방울 드리퍼(Dripper)나 자동 미스팅 시스템이 필수적입니다. 또한 고온다습한 갇힌 공기에 취약하여 상부 호흡기 질환에 쉽게 노출되므로 통풍이 잘되는 수직형 메쉬(Mesh) 사육장과 적절한 UVB/스팟 조명 세팅이 생명 유지에 핵심입니다. 오늘 PetSelf에서는 베일드 카멜레온의 경계 시그널과 수직형 환경 세팅, 수분 공급 3단계 관리 루틴을 다룹니다.
+베일드 카멜레온(Chamaeleo calyptratus)은 머리 위의 웅장한 투구(Crest/Cask)와 감정에 따른 화려한 체색 변화 능력으로 잘 알려진 예멘과 사우디아라비아 원산의 주행성 나무위성(Arboreal) 파충류입니다. 높은 체고와 입체적인 구조물을 선호하며, 관상 가치가 높아 전 세계 카멜레온 집사들에게 1순위 입문 종으로 꼽힙니다. 그러나 멈춰 있는 물그릇을 인식하지 못하고 나뭇잎에 맺힌 물방울만 마시는 독특한 습성이 있어 물방울 드리퍼(Dripper)나 자동 미스팅 시스템이 필수적입니다. 또한 고온다습한 갇힌 공기에 취약하여 상부 호흡기 질환에 쉽게 노출되므로 통풍이 잘되는 수직형 메쉬(Mesh) 사육장과 적절한 UVB/스팟 조명 세팅이 생명 유지에 핵심입니다. 이번 가이드에서는 베일드 카멜레온의 경계 시그널과 수직형 환경 세팅, 수분 공급 3단계 관리 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

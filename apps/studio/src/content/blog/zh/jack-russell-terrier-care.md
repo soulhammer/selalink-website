@@ -29,7 +29,7 @@ faqs:
     answer: "不会。无论被毛类型是短毛、碎毛还是粗毛，杰克罗素梗都拥有密实的双层被毛。短毛型的硬质短毛极易扎入衣服或地毯中，因此每周至少需要梳理2-3次。"
 ---
 
-杰克罗素梗是深受全球喜爱的代表性小型工作犬，广泛出现在各类影视作品中。作为最初为猎狐而繁殖的梗犬，它们拥有惊人的体能和极高的智商，如果缺乏足够的运动和智力刺激，极易产生压力过大或破坏性行为。此外，其密实的双层被毛需要常年进行梳理以防掉毛，而喜欢高高跳跃的习性也要求主人格外关注其膝关节（髌骨）健康。今天 PetSelf 将解析杰克罗素梗的本能语言信号，并分享释放无限体力与维护健康的3阶段日常护理流程。
+杰克罗素梗是深受全球喜爱的代表性小型工作犬，广泛出现在各类影视作品中。作为最初为猎狐而繁殖的梗犬，它们拥有惊人的体能和极高的智商，如果缺乏足够的运动和智力刺激，极易产生压力过大或破坏性行为。此外，其密实的双层被毛需要常年进行梳理以防掉毛，而喜欢高高跳跃的习性也要求主人格外关注其膝关节（髌骨）健康。本指南将解析杰克罗素梗的本能语言信号，并分享释放无限体力与维护健康的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

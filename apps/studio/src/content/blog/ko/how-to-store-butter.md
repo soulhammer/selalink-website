@@ -27,7 +27,7 @@ faqs:
 
 버터는 80% 이상이 지방으로 이루어져 있어 공기 중의 산소, 빛, 온도 변화에 매우 민감하며, 주변의 강한 냄새를 스펀지처럼 흡수하는 특성이 있습니다. 올바르지 않은 보관법은 유지방의 산패(Rancidity)와 풍미 저하를 유발합니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 버터의 고소한 풍미와 신선함을 90일 이상 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 버터의 고소한 풍미와 신선함을 90일 이상 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

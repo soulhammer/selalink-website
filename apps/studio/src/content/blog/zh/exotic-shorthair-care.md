@@ -29,7 +29,7 @@ faqs:
     answer: "多囊肾病（PKD）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
 ---
 
-被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKD）风险，控制体重对维持呼吸顺畅至关重要。今天 PetSelf 将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
+被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKD）风险，控制体重对维持呼吸顺畅至关重要。本指南将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

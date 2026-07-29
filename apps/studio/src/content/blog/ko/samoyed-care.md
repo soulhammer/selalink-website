@@ -29,7 +29,7 @@ faqs:
     answer: "성장기에 과도한 체중 증가를 막고, 과도한 칼슘 과다 급여를 피하는 것이 핵심입니다. 미끄러운 바닥 방지와 점프 차단, 그리고 낮은 강도의 수영이나 평지 산책을 통해 주변 근육을 강화해야 합니다."
 ---
 
-순백의 풍성한 털과 '사모예드 미소'로 널리 알려진 사모예드는 친근하고 에너지가 넘치는 대형 썰매견 출신 반려견입니다. 시베리아 혹한기를 견디던 두꺼운 이중모는 고온다습한 환경에 매우 취약해 통풍이 되지 않으면 피부 습진과 핫스팟(습성 피부염)을 유발하기 쉽습니다. 또한, 대형견 체격 특성상 유전적으로 고관절 이형성증(Hip Dysplasia)이 발생할 확률이 높습니다. 오늘 PetSelf에서는 사모예드의 고관절 통증 신호를 해독하고, 관절과 털 건강을 모두 지키는 3단계 데일리 홈케어 루틴을 공유합니다.
+순백의 풍성한 털과 '사모예드 미소'로 널리 알려진 사모예드는 친근하고 에너지가 넘치는 대형 썰매견 출신 반려견입니다. 시베리아 혹한기를 견디던 두꺼운 이중모는 고온다습한 환경에 매우 취약해 통풍이 되지 않으면 피부 습진과 핫스팟(습성 피부염)을 유발하기 쉽습니다. 또한, 대형견 체격 특성상 유전적으로 고관절 이형성증(Hip Dysplasia)이 발생할 확률이 높습니다. 이번 가이드에서는 사모예드의 고관절 통증 신호를 해독하고, 관절과 털 건강을 모두 지키는 3단계 데일리 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

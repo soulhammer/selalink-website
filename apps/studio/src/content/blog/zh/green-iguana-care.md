@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不可以！绿鬣蜥生理上是 100% 严格的纯草食性（Strict Herbivore）动物。摄入动物蛋白、昆虫或普通宠物饲料，会导致过量尿酸在体内结晶堆积，引发严重内脏痛风、肾衰竭并导致猝死。必须严格喂食深色绿叶蔬菜与安全蔬果。"
 ---
 
-原产于中南美洲热带雨林的绿鬣蜥（Green Iguana），凭其鲜艳的绿色肤色和威风凛凛的体型，是备受全球爬宠爱好者喜爱的代表性昼行性大型蜥蜴。成体体长可达 1.5 ~ 2 米，虽然看似温顺，但拥有极强的领地本能，且对因缺乏紫外线（UVB）与钙质引起的代谢性骨病（MBD）极度脆弱。此外，绿鬣蜥是严格的 100% 纯草食性（Strict Herbivore）爬行类，摄入动物性蛋白会导致致命的痛风与肾衰竭。今天 PetSelf 将带您准确解读绿鬣蜥肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于中南美洲热带雨林的绿鬣蜥（Green Iguana），凭其鲜艳的绿色肤色和威风凛凛的体型，是备受全球爬宠爱好者喜爱的代表性昼行性大型蜥蜴。成体体长可达 1.5 ~ 2 米，虽然看似温顺，但拥有极强的领地本能，且对因缺乏紫外线（UVB）与钙质引起的代谢性骨病（MBD）极度脆弱。此外，绿鬣蜥是严格的 100% 纯草食性（Strict Herbivore）爬行类，摄入动物性蛋白会导致致命的痛风与肾衰竭。本指南将带您准确解读绿鬣蜥肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

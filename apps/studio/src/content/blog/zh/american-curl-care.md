@@ -29,7 +29,7 @@ faqs:
     answer: "不能。美国卷耳猫具有强烈的“狗狗”属性，将与人类的互动视作极其重要的事情。如果长时间让其独处，它们会经历严重的孤独感和分离焦虑。如果家庭成员经常外出，强烈建议养两只猫或与其他宠物作伴。"
 ---
 
-美国卷耳猫以其优雅向后卷曲的耳朵和犹如狗狗般极其亲人的性格闻名，在北美及全球都备受欢迎，被称为“猫中彼得潘”或“猫中比格犬”。这种由自然基因突变形成的独特耳朵，其软骨像人类耳朵一样坚硬，如果强行折弯极易受损折断，因此需要格外小心。且由于耳道容易积聚分泌物，定期清洁必不可少。此外，它们非常注重与人类的情感连接，如果长时间被忽视会产生心理压力。今天 PetSelf 将解析美国卷耳猫充满善意的肢体语言，并公开加强耳部健康与情感互动的3阶段日常流程。
+美国卷耳猫以其优雅向后卷曲的耳朵和犹如狗狗般极其亲人的性格闻名，在北美及全球都备受欢迎，被称为“猫中彼得潘”或“猫中比格犬”。这种由自然基因突变形成的独特耳朵，其软骨像人类耳朵一样坚硬，如果强行折弯极易受损折断，因此需要格外小心。且由于耳道容易积聚分泌物，定期清洁必不可少。此外，它们非常注重与人类的情感连接，如果长时间被忽视会产生心理压力。本指南将解析美国卷耳猫充满善意的肢体语言，并公开加强耳部健康与情感互动的3阶段日常流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

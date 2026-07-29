@@ -29,7 +29,7 @@ faqs:
     answer: "牧羊犬としての欲求が満たされないと吠えやすくなります。毎日の運動と頭を使うパズル遊びでエネルギーを消費させましょう。またダブルコートのため、アンダーコートレーキを用いて週2〜3回以上奥の抜け毛を取り除くことが皮膚病予防に効果的です。"
 ---
 
-豊かなたてがみと優雅な姿を誇るシェットランド・シープドッグ（シェルティ）は、牧羊犬由来の優れた知能と高い忠誠心を持つ犬種です。しかし、非常に感覚が鋭く音に敏感なため、外部の刺激に過剰反応して無駄吠えや警戒行動を起こしやすい傾向があります。また、シェルティは特定の駆虫薬などで脳に薬物が到達して中毒を引き起こす「MDR1遺伝子変異」のリスクが高く、密生したダブルコート（被毛）のケアを怠ると深刻な皮膚炎を起こします。本日PetSelfでは、シェルティのSOSサインと健康を守る3段階ルーティンを紹介します。
+豊かなたてがみと優雅な姿を誇るシェットランド・シープドッグ（シェルティ）は、牧羊犬由来の優れた知能と高い忠誠心を持つ犬種です。しかし、非常に感覚が鋭く音に敏感なため、外部の刺激に過剰反応して無駄吠えや警戒行動を起こしやすい傾向があります。また、シェルティは特定の駆虫薬などで脳に薬物が到達して中毒を引き起こす「MDR1遺伝子変異」のリスクが高く、密生したダブルコート（被毛）のケアを怠ると深刻な皮膚炎を起こします。本記事では、シェルティのSOSサインと健康を守る3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

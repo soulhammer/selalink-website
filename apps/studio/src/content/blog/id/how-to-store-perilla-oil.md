@@ -27,7 +27,7 @@ Apakah Anda menyimpan minyak perilla di dekat kompor atau kabinet suhu ruang ber
 
 Minyak perilla mengandung lebih dari 60% asam alfa-linolenat (ALA, asam lemak omega-3), membuatnya sangat rentan terhadap oksidasi lemak (ketengikan) saat terpapar udara, cahaya, atau panas. Sebaliknya, minyak wijen stabil di suhu ruang berkat antioksidan alami seperti sesamol.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian Rural Development Administration (RDA) untuk mencegah ketengikan dan melipatgandakan masa simpan minyak perilla Anda. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian Rural Development Administration (RDA) untuk mencegah ketengikan dan melipatgandakan masa simpan minyak perilla Anda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

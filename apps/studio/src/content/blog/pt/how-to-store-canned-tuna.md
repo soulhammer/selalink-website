@@ -27,7 +27,7 @@ Você já deixou uma lata de atum aberta na geladeira apenas dobrando a tampa de
 
 Embora latas de atum fechadas possam ser guardadas em temperatura ambiente por anos, abri-las expõe o conteúdo ao ar, acelerando a oxidação metálica e a contaminação bacteriana. Guardar na lata aberta retém gases voláteis como o furano e deixa um sabor metálico desagradável no alimento.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter seu atum seguro e saboroso. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter seu atum seguro e saboroso. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 萝卜的含水量高达94%左右。如果在保存时连同萝卜叶（萝卜缨）一起存放，叶子会持续吸收萝卜根部的水分和糖分，导致萝卜迅速发糠。若未能妥善锁水，萝卜组织会干瘪失水，失去爽脆口感。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学萝卜保鲜秘诀，帮您锁定萝卜的多汁与爽脆长达2个月。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的3步科学萝卜保鲜秘诀，帮您锁定萝卜的多汁与爽脆长达2个月。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

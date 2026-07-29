@@ -29,7 +29,7 @@ faqs:
     answer: "这是八齿鼠在野外逃避捕食者时的生物防御机制“尾部脱套伤 (Degloving)”。脱落的尾皮无法再生并会坏死，需要异宠兽医进行截尾手术。绝对不能抓拽其尾巴，应立即送往专业异宠医院救治。"
 ---
 
-原产于智利安第斯山脉的智利八齿鼠（Degu）是龙猫和天竺鼠的近亲，因其高智商与极其丰富的叫声语言而被誉为“会说话的观赏小宠”。智利八齿鼠在遗传上缺乏代谢游离糖分的能力，摄入水果或甜食极易诱发致命的“糖尿病 (Diabetes)”及糖尿病性白内障。此外，其终生生长的门齿若缺乏磨木极易导致“咬合不正”，且尾部具有被抓拉即脱皮断裂的“脱套伤 (Degloving)”自卫机制，绝对不可抓拽尾巴。今天 PetSelf 将带您准确解读智利八齿鼠的行为信号，并通过3步骤日常护理维护其健康。
+原产于智利安第斯山脉的智利八齿鼠（Degu）是龙猫和天竺鼠的近亲，因其高智商与极其丰富的叫声语言而被誉为“会说话的观赏小宠”。智利八齿鼠在遗传上缺乏代谢游离糖分的能力，摄入水果或甜食极易诱发致命的“糖尿病 (Diabetes)”及糖尿病性白内障。此外，其终生生长的门齿若缺乏磨木极易导致“咬合不正”，且尾部具有被抓拉即脱皮断裂的“脱套伤 (Degloving)”自卫机制，绝对不可抓拽尾巴。本指南将带您准确解读智利八齿鼠的行为信号，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

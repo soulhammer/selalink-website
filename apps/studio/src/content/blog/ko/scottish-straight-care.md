@@ -29,7 +29,7 @@ faqs:
     answer: "체형이 둥글고 조용한 성격 때문에 비만이 되기 쉽습니다. 탄수화물 비중이 낮은 고단백 건식/습식 사료를 정량 급여하고, 관절에 무리가 가지 않는 바닥 위주의 레이저/깃털 사냥 놀이를 매일 15 ~ 20분씩 진행하여 근육량을 유지해야 합니다."
 ---
 
-동글동글한 얼굴과 똑바로 선 귀가 매력적인 스코티시 스트레이트(Scottish Straight)는 스코티시 폴드의 연골 이형성증 유전적 위험을 피하면서 특유의 동그란 매력을 지닌 건강하고 사랑스러운 품종입니다. 접힌 귀 유전자는 없지만 단정하고 통통한 체형 특성상 비만이 되기 쉬우며, 체중 증가 시 관절염이나 심장 질환인 '비대성 심근증(HCM)', 유전성 '다낭성 신장질환(PKD)'에 취약합니다. 오늘 PetSelf에서는 스코티시 스트레이트의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+동글동글한 얼굴과 똑바로 선 귀가 매력적인 스코티시 스트레이트(Scottish Straight)는 스코티시 폴드의 연골 이형성증 유전적 위험을 피하면서 특유의 동그란 매력을 지닌 건강하고 사랑스러운 품종입니다. 접힌 귀 유전자는 없지만 단정하고 통통한 체형 특성상 비만이 되기 쉬우며, 체중 증가 시 관절염이나 심장 질환인 '비대성 심근증(HCM)', 유전성 '다낭성 신장질환(PKD)'에 취약합니다. 이번 가이드에서는 스코티시 스트레이트의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

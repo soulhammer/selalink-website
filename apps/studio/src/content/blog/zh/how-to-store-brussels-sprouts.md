@@ -27,7 +27,7 @@ faqs:
 
 抱子甘蓝是富含维生素 C、K 和膳食纤维的十字花科蔬菜，但它对水分流失和乙烯气体高度敏感。湿度不当会导致菜叶变软发霉，而与释放乙烯的水果放在一起则会加速其黄化（叶片变黄）。
 
-今天 FreshSnap 将基于 USDA 和 RDA 的科学指南，为您介绍保持抱子甘蓝爽脆口感与营养长达3周的 3 步储存秘诀。🛡️
+本指南将基于 USDA 和 RDA 的科学指南，为您介绍保持抱子甘蓝爽脆口感与营养长达3周的 3 步储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "炭水化物が少なくタンパク質割合が高いフードを選び、フードの一部を知育玩具（フードトイ）に入れて転がしながら食べさせることで、運動量を増やすのが効果的です。"
 ---
 
-美しいシルバータビーの模様と筋肉質な体型が特徴のアメリカン・ショートヘアは、穏やかな性格で適応力に優れた猫種です。しかし、食べるのが好きでマイペースな性格から肥満になりやすく、心血管系に大きな負担がかかります。特にこの品種は、心臓の壁が厚くなり機能が低下する「肥大性心筋症（HCM）」の遺伝的素因を持っています。本日PetSelfでは、アメリカン・ショートヘアの心臓SOSサインを解読し、心臓と適正体重を守る3段階ルーティンを紹介します。
+美しいシルバータビーの模様と筋肉質な体型が特徴のアメリカン・ショートヘアは、穏やかな性格で適応力に優れた猫種です。しかし、食べるのが好きでマイペースな性格から肥満になりやすく、心血管系に大きな負担がかかります。特にこの品種は、心臓の壁が厚くなり機能が低下する「肥大性心筋症（HCM）」の遺伝的素因を持っています。本記事では、アメリカン・ショートヘアの心臓SOSサインを解読し、心臓と適正体重を守る3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

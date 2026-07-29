@@ -27,7 +27,7 @@ faqs:
 
 양배추는 수확 후에도 굵은 심지(줄기)를 통해 잎의 수분과 영양분을 계속해서 끌어당겨 소비하려는 생리적 특성을 가지고 있습니다. 심지를 제거하지 않으면 안쪽부터 수분이 빠르게 빠져나가 잎이 푸석해지고 부패가 가속화됩니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양배추 심지의 비밀을 파헤쳐 한 달 이상 아삭아삭한 신선함을 지속시키는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양배추 심지의 비밀을 파헤쳐 한 달 이상 아삭아삭한 신선함을 지속시키는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

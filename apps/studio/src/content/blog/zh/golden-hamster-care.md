@@ -29,7 +29,7 @@ faqs:
     answer: "是的。金仓鼠通过刨沙来清洁毛发并去除多余的皮脂油分。为了毛发健康和释放压力，强烈建议提供备有仓鼠专用浴沙的浴室。"
 ---
 
-小巧可爱的金仓鼠是深受人们喜爱的独居小宠物。然而，它们仍保留着在野生环境中掘洞和每天奔跑数公里的本能。在狭窄的笼子或嘈杂的环境中，它们很容易陷入极度紧张的状态。处于压力下的仓鼠可能会发出咯咯的磨牙声，或者咬笼子铁丝，这有折断牙齿的风险。今天，PetSelf 将为您讲解金仓鼠的警惕信号，并介绍3阶段每日护理流程，为您的小宠物打造舒适无压的一天。
+小巧可爱的金仓鼠是深受人们喜爱的独居小宠物。然而，它们仍保留着在野生环境中掘洞和每天奔跑数公里的本能。在狭窄的笼子或嘈杂的环境中，它们很容易陷入极度紧张的状态。处于压力下的仓鼠可能会发出咯咯的磨牙声，或者咬笼子铁丝，这有折断牙齿的风险。今天，本指南将为您讲解金仓鼠的警惕信号，并介绍3阶段每日护理流程，为您的小宠物打造舒适无压的一天。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

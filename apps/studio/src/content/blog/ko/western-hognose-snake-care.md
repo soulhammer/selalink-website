@@ -29,7 +29,7 @@ faqs:
     answer: "돼지코뱀은 계절 변화나 환경 스트레스로 거식이 올 수 있습니다. 사육장 핫존 온도가 낮지 않은지 확인하고, 아스펜 베딩 깊이를 늘려 안도감을 준 뒤, 마우스에 참치 즙이나 개구리 향을 묻혀 공급(Scenting)하면 먹이 반응을 유도할 수 있습니다."
 ---
 
-서부 돼지코뱀(Western Hognose Snake)은 위로 살짝 들린 돼지 모양의 귀여운 주둥이(Rostral Scale)와 콘스네이크, 볼파이톤과 함께 세계 3대 애완뱀으로 손꼽히는 인기를 자랑합니다. 위협을 느낄 때 코브라처럼 목을 넓게 펼치거나 뒤집어져 죽은 척(죽은척하기 / Thanatosis)을 하는 연극 같은 방어 행동으로 파충류 사육자들에게 큰 즐거움을 줍니다. 본래 굴을 파고 생활하는 버로우 습성이 있어 굴 형태가 유지되는 아스펜 베딩 등의 바닥재가 필수적이며, 변온동물 특성에 맞춘 정확한 핫존/쿨존 온도 구배 형성이 건강 유지의 핵심입니다. 오늘 PetSelf에서는 서부 돼지코뱀의 본능적 방어 시그널을 분석하고, 안전한 피딩과 환경 케어를 위한 3단계 일상 루틴을 공개합니다.
+서부 돼지코뱀(Western Hognose Snake)은 위로 살짝 들린 돼지 모양의 귀여운 주둥이(Rostral Scale)와 콘스네이크, 볼파이톤과 함께 세계 3대 애완뱀으로 손꼽히는 인기를 자랑합니다. 위협을 느낄 때 코브라처럼 목을 넓게 펼치거나 뒤집어져 죽은 척(죽은척하기 / Thanatosis)을 하는 연극 같은 방어 행동으로 파충류 사육자들에게 큰 즐거움을 줍니다. 본래 굴을 파고 생활하는 버로우 습성이 있어 굴 형태가 유지되는 아스펜 베딩 등의 바닥재가 필수적이며, 변온동물 특성에 맞춘 정확한 핫존/쿨존 온도 구배 형성이 건강 유지의 핵심입니다. 이번 가이드에서는 서부 돼지코뱀의 본능적 방어 시그널을 분석하고, 안전한 피딩과 환경 케어를 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

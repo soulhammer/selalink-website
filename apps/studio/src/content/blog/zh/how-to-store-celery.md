@@ -27,7 +27,7 @@ faqs:
 
 芹菜含水量高达95%左右，极易流失水分而萎蔫，储存方式对其保鲜至关重要。若直接放在密封塑料袋中，其自身释放的乙烯气体与积聚的湿气会导致芹菜迅速变软发霉。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学芹菜保鲜秘诀，帮您锁定芹菜的爽脆口感长达4周。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的3步科学芹菜保鲜秘诀，帮您锁定芹菜的爽脆口感长达4周。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

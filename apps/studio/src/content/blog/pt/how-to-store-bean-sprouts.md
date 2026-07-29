@@ -27,7 +27,7 @@ Você já comprou brotos de feijão (moyashi), guardou o saco plástico direto n
 
 Os brotos de feijão contêm mais de 90% de água e mantêm intensa respiração celular mesmo após a colheita. Quando mantidos no saco plástico original, a umidade fica presa, criando um ambiente favorável ao rápido crescimento de bactérias.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em diretrizes de especialistas para manter seus brotos crocantes e frescos. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para manter seus brotos crocantes e frescos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

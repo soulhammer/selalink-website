@@ -27,7 +27,7 @@ faqs:
 
 市售盒装豆腐中的浸泡水溶解了从豆腐中渗出的大豆蛋白与有机物，开封后会成为细菌与杂质快速滋生的绝佳培养基。若继续使用原水或将豆腐直接暴露在空气中，会导致蛋白质迅速腐败变质，出现发黏和发酸现象。
 
-今天FreshSnap基于妙佑医疗国际(Mayo Clinic)和韩国食品医药品安全处(MFDS)的卫生标准，为您带来3步科学保存秘诀，帮您将吃剩的豆腐安全保鲜、维持紧致口感达1周以上。🛡️
+本指南基于妙佑医疗国际(Mayo Clinic)和韩国食品医药品安全处(MFDS)的卫生标准，为您带来3步科学保存秘诀，帮您将吃剩的豆腐安全保鲜、维持紧致口感达1周以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Pernahkah Anda membuka kaleng atau stoples buah zaitun, membuang air rendamannya
 
 Buah zaitun mengandung lemak tinggi dan keseimbangan kadar air yang sensitif. Saat terpapar udara, zaitun cepat teroksidasi dan menjadi lembek. Setelah dibuka, jika cairan perendamnya mengering, jamur dan bakteri akan sangat mudah tumbuh di permukaannya.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga tekstur renyah dan cita rasa kaya buah zaitun Anda dalam jangka panjang. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga tekstur renyah dan cita rasa kaya buah zaitun Anda dalam jangka panjang. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

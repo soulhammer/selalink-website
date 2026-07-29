@@ -27,7 +27,7 @@ Have you ever bought juicy, sweet peaches and put them in the fridge, only to fi
 
 Peaches are extremely sensitive to temperature changes and impact. Keeping them at temperatures that are too low for too long triggers 'chilling injury,' making the flesh dry, fibrous, and tasteless. Improper storage leads to lost sweetness, softening, and mold growth.
 
-Today, FreshSnap introduces a scientifically proven 3-step storage guide based on expert guidelines to maintain the luscious sweetness and juiciness of your peaches perfectly. 🛡️
+In this guide, introduces a scientifically proven 3-step storage guide based on expert guidelines to maintain the luscious sweetness and juiciness of your peaches perfectly. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

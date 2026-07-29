@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不是！鼠鱼完全不吃鱼类排泄物（粪便），仅靠其他鱼吃剩的残渣根本无法满足其营养需求，极易导致营养不良饿死。鼠鱼是偏肉食性的杂食性鱼类，必须专门为其投喂沉底的高蛋白鼠鱼滋养丸、红虫（血虫）或冰冻丰年虾。"
 ---
 
-原产于南美洲亚马逊河流域的鼠鱼（Corydoras Catfish），凭其萌态可掬的胡须与勤劳翻沙的游姿，被誉为“水族箱底层清洁工”，深受全球水族爱好者喜爱。鼠鱼性格温和无害，但嘴边的感应触须（Barbels）在粗糙、尖锐的砂石或脏污的底床摩擦时，极易破损并感染细菌导致“融须/断须（Barbel Erosion）”。此外，它们对水体中的氨氮与亚硝酸盐堆积高度敏感，且拥有在水体缺氧时冲出水面吞咽空气的独特“肠呼吸（Intestinal Respiration）”生理机制。今天 PetSelf 将带您准确解读鼠鱼肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于南美洲亚马逊河流域的鼠鱼（Corydoras Catfish），凭其萌态可掬的胡须与勤劳翻沙的游姿，被誉为“水族箱底层清洁工”，深受全球水族爱好者喜爱。鼠鱼性格温和无害，但嘴边的感应触须（Barbels）在粗糙、尖锐的砂石或脏污的底床摩擦时，极易破损并感染细菌导致“融须/断须（Barbel Erosion）”。此外，它们对水体中的氨氮与亚硝酸盐堆积高度敏感，且拥有在水体缺氧时冲出水面吞咽空气的独特“肠呼吸（Intestinal Respiration）”生理机制。本指南将带您准确解读鼠鱼肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

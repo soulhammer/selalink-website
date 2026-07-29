@@ -29,7 +29,7 @@ faqs:
     answer: "귀가 아래로 덮여 있는 구조 특성상 수영 후 귀 내부에 수분이 남아있으면 균이 번식해 외이염이 발생하기 쉽습니다. 물놀이 직후 귀 전용 세정제로 닦아주고 귀를 뒤집어 통풍시켜 완벽히 말려주어야 합니다."
 ---
 
-라브라도 리트리버는 온순하고 영리하며 친근한 성격으로 전 세계에서 가장 사랑받는 안내견이자 반려견입니다. 하지만 유전적으로 POMC 유전자 변이 비율이 높아 식욕을 조절하지 못해 비만에 걸리기 쉬우며, 이는 고관절 이형성증 등 관절 질환으로 이어지기 쉽습니다. 또한 물을 매우 좋아하지만 덮여 있는 귀 구조 때문에 수영 후 귀 관리를 소홀히 하면 외이염에 걸리기 쉽습니다. 오늘 PetSelf에서는 라브라도 리트리버의 넘치는 에너지를 발산하고 건강을 지키는 3단계 케어 루틴을 전해드립니다.
+라브라도 리트리버는 온순하고 영리하며 친근한 성격으로 전 세계에서 가장 사랑받는 안내견이자 반려견입니다. 하지만 유전적으로 POMC 유전자 변이 비율이 높아 식욕을 조절하지 못해 비만에 걸리기 쉬우며, 이는 고관절 이형성증 등 관절 질환으로 이어지기 쉽습니다. 또한 물을 매우 좋아하지만 덮여 있는 귀 구조 때문에 수영 후 귀 관리를 소홀히 하면 외이염에 걸리기 쉽습니다. 이번 가이드에서는 라브라도 리트리버의 넘치는 에너지를 발산하고 건강을 지키는 3단계 케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

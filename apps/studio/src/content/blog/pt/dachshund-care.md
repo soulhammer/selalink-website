@@ -29,7 +29,7 @@ faqs:
     answer: "Sustente todo o corpo dele na horizontal. Coloque uma mão por baixo do peito entre as patas dianteiras e a outra mão por baixo do quadril/traseira. Nunca o levante apenas pelas patas dianteiras ou axilas."
 ---
 
-Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e temperamento corajoso e amigável. No entanto, o seu corpo longo e patas curtas tornam-nos extremamente propensos à doença do disco intervertebral (IVDD). Saltar de sofás ou usar escadas pode sobrecarregar severamente a sua coluna. Hoje, o PetSelf decodifica os sinais de dor nas costas do Teckel e ensina uma rotina diária de 3 passos para proteger a coluna e fortalecer o core do seu cão.
+Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e temperamento corajoso e amigável. No entanto, o seu corpo longo e patas curtas tornam-nos extremamente propensos à doença do disco intervertebral (IVDD). Saltar de sofás ou usar escadas pode sobrecarregar severamente a sua coluna. Neste guia, decodifica os sinais de dor nas costas do Teckel e ensina uma rotina diária de 3 passos para proteger a coluna e fortalecer o core do seu cão.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

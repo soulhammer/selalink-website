@@ -27,7 +27,7 @@ faqs:
 
 오이는 95% 이상이 수분으로 이루어진 냉해에 매우 취약한 박과 채소입니다. 7℃ 이하의 차가운 저온에 노출되면 세포벽이 파괴되는 '저온 냉해(Chilling Injury)'를 입어 표면에 수분 반점(물집)이 생기고 과육이 무르게 변합니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 오이의 저온 냉해를 예방하고 2주 이상 아삭한 신선함을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 오이의 저온 냉해를 예방하고 2주 이상 아삭한 신선함을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

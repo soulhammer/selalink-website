@@ -29,7 +29,7 @@ faqs:
     answer: "최소 아침저녁으로 각 1시간씩 총 2회(합산 2시간 이상) 산책을 추천합니다. 신체적 운동 외에도 중간중간 훈련이나 장난감 놀이를 병행하는 것이 좋습니다."
 ---
 
-보더콜리는 세계에서 가장 똑똑한 견종으로 알려져 있으며, 목양견 출신답게 끝없는 체력과 엄청난 업무 수행 능력을 자랑합니다. 보더콜리는 단순히 뛰어노는 산책만으로는 지능적 욕구가 충족되지 않아, 머리를 쓰는 인지 자극이 없으면 스트레스로 인한 파괴적인 행동을 보일 수 있습니다. 또한 빠른 방향 전환과 폭발적인 달리기 스타일로 인해 관절과 인대에 무리가 가기 쉽습니다. 오늘 PetSelf에서는 천재견의 지능을 자극하고 관절 건강을 지키는 3단계 홈케어 루틴을 전해드립니다.
+보더콜리는 세계에서 가장 똑똑한 견종으로 알려져 있으며, 목양견 출신답게 끝없는 체력과 엄청난 업무 수행 능력을 자랑합니다. 보더콜리는 단순히 뛰어노는 산책만으로는 지능적 욕구가 충족되지 않아, 머리를 쓰는 인지 자극이 없으면 스트레스로 인한 파괴적인 행동을 보일 수 있습니다. 또한 빠른 방향 전환과 폭발적인 달리기 스타일로 인해 관절과 인대에 무리가 가기 쉽습니다. 이번 가이드에서는 천재견의 지능을 자극하고 관절 건강을 지키는 3단계 홈케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

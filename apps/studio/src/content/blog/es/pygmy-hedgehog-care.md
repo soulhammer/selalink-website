@@ -29,7 +29,7 @@ faqs:
     answer: "A diferencia de los roedores, los dientes de los erizos no crecen continuamente. No necesitan juguetes para masticar, y los objetos duros pueden fracturar sus dientes. Evite croquetas excesivamente duras."
 ---
 
-El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son naturalmente tímidos, usan sus púas para defenderse y esparcen saliva espumosa en sus espaldas cuando encuentran nuevos olores. Además, corren el riesgo de sufrir un choque de hibernación fatal si la temperatura ambiente desciende. Hoy en PetSelf, describimos los comportamientos de las púas del erizo, consejos para el autoungimiento y una rutina de 3 pasos para mantener el calor y la limpieza estables.
+El erizo pigmeo africano es una mascota exótica fascinante y silenciosa. Son naturalmente tímidos, usan sus púas para defenderse y esparcen saliva espumosa en sus espaldas cuando encuentran nuevos olores. Además, corren el riesgo de sufrir un choque de hibernación fatal si la temperatura ambiente desciende. En esta guía, describimos los comportamientos de las púas del erizo, consejos para el autoungimiento y una rutina de 3 pasos para mantener el calor y la limpieza estables.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

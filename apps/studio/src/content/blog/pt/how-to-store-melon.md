@@ -27,7 +27,7 @@ Você já comprou um melão doce e o deixou fora por tanto tempo que ficou murch
 
 O melão exige métodos de conservação completamente diferentes antes e depois de ser cortado. Ele inteiro precisa de temperatura ambiente para amadurecer e atingir o máximo de doçura e aroma. Porém, uma vez cortado, sua baixa acidez o torna um alimento de alto risco, propenso à rápida proliferação de bactérias como Salmonella e Listeria.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para preservar a doçura garantindo a segurança alimentar. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para preservar a doçura garantindo a segurança alimentar. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

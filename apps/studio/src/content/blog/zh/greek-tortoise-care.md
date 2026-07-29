@@ -29,7 +29,7 @@ faqs:
     answer: "隆背是指龟甲盾片呈金字塔状异常隆起的畸形现象。主要由湿度过低、蛋白质过高、缺乏钙质及UVB引起。保持 40–60% 湿度、定期泡澡、补充钙粉及照射UVB是预防核心。"
 ---
 
-欧洲陆龟因其浑圆且具有马赛克般精美花纹的龟甲和温和的性格，是地中海陆龟中最受欢迎的品种之一。作为喜光的昼行性爬行动物，它们需要充足的UVB照射以合成维生素D3，并依赖合理的温湿度梯度。若缺乏水分、钙质或UVB，极易导致龟甲隆起（隆背/Pyramiding）、代谢性骨病（MBD）及尿酸结石。今天 PetSelf 为您解析欧洲陆龟的健康信号并提供3步日常护理流程。
+欧洲陆龟因其浑圆且具有马赛克般精美花纹的龟甲和温和的性格，是地中海陆龟中最受欢迎的品种之一。作为喜光的昼行性爬行动物，它们需要充足的UVB照射以合成维生素D3，并依赖合理的温湿度梯度。若缺乏水分、钙质或UVB，极易导致龟甲隆起（隆背/Pyramiding）、代谢性骨病（MBD）及尿酸结石。本指南为您解析欧洲陆龟的健康信号并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

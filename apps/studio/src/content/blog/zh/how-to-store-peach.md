@@ -27,7 +27,7 @@ faqs:
 
 桃子是对温度变化和磕碰极度敏感的水果。如果长时间置于过低温度下，会引发“低温冷害（Chilling Injury）”，导致果肉干枯呈木栓状、失去甜味。不当的储存方式会导致甜味流失、变软腐烂与发霉。
 
-今天FreshSnap基于专家权威指南，为您介绍3步科学保存秘诀，帮您完美锁定桃子的浓郁甜香与多汁口感。🛡️
+本指南基于专家权威指南，为您介绍3步科学保存秘诀，帮您完美锁定桃子的浓郁甜香与多汁口感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

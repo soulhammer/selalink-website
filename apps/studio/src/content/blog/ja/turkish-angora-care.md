@@ -29,7 +29,7 @@ faqs:
     answer: "屋外の環境音や危険（車など）が察知できないため、100%完全室内飼育を徹底しなければなりません。また、窓や玄関には二重の安全ネットを設置して脱走事故を完全に防ぎましょう。"
 ---
 
-シルクのような美しい長毛と神秘的なオッドアイで世界中から愛されるターキッシュ・アンゴラは、非常に賢く好奇心旺盛な猫種です。しかし、白毛で青い目（またはオッドアイ）を持つ個体は、優性白遺伝子（$W$）の影響で高い確率で先天性難聴を発症します。また高齢期に向けて肥大性心筋症（HCM）などの心臓チェックも重要です。本日PetSelfでは、難聴猫特有の行動を読み解き、視覚と振動を活用してストレスなく絆を深める3段階のデイリーケアを紹介します。
+シルクのような美しい長毛と神秘的なオッドアイで世界中から愛されるターキッシュ・アンゴラは、非常に賢く好奇心旺盛な猫種です。しかし、白毛で青い目（またはオッドアイ）を持つ個体は、優性白遺伝子（$W$）の影響で高い確率で先天性難聴を発症します。また高齢期に向けて肥大性心筋症（HCM）などの心臓チェックも重要です。本記事では、難聴猫特有の行動を読み解き、視覚と振動を活用してストレスなく絆を深める3段階のデイリーケアを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

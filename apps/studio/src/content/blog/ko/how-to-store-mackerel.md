@@ -27,7 +27,7 @@ faqs:
 
 고등어는 오메가-3 불포화지방산이 풍부하지만, 자가분해 효소 활성이 매우 높고 지방 함량이 많아 산소와 만나는 순간 빠르게 산패됩니다. 특히 조금만 방치해도 히스티딘 성분이 독성 물질인 히스타민(Histamine)으로 변해 식중독을 유발하므로 보관 온도가 생명입니다.
 
-오늘 FreshSnap에서는 국립수산과학원(NIFS)과 USDA의 과학적 가이드라인을 바탕으로, 고등어의 비린내를 잡고 신선도를 완벽하게 유지하는 3단계 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 국립수산과학원(NIFS)과 USDA의 과학적 가이드라인을 바탕으로, 고등어의 비린내를 잡고 신선도를 완벽하게 유지하는 3단계 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

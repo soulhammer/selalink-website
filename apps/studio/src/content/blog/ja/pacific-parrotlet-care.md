@@ -29,7 +29,7 @@ faqs:
     answer: "マメルリハは知能が高く、単語や短い音を明瞭に真似できます。鳴き声の音量は非常に小さく「チッチッ」と囁くような声のため、集合住宅でも安心して飼育できます。"
 ---
 
-太平洋ポケットインコ（マメルリハ / Pacific Parrotlet）は体長わずか12〜14cmほどの「世界で最も小さなインコ」で、マンションなどの室内でも飼育しやすいことから北米やヨーロッパで大人気の小型鳥です。小さな体でありながら大型インコにも負けない強い度胸と高い知能、無限の体力を持ち、「小さな体に大きなインコが入っている」と例えられます。しかし自己主張が強く縄張り意識が高いため、ケージ周辺での威嚇行動（Territoriality）を見せやすく、シード中心の食事では脂肪肝になりやすいため栄養ペレット主食の管理が欠かせません。本日はPetSelfがマメルリハの感情シグナルを分析し、縄張りストレス軽減と健康管理のための3ステップ日常ルーティンを公開します。
+太平洋ポケットインコ（マメルリハ / Pacific Parrotlet）は体長わずか12〜14cmほどの「世界で最も小さなインコ」で、マンションなどの室内でも飼育しやすいことから北米やヨーロッパで大人気の小型鳥です。小さな体でありながら大型インコにも負けない強い度胸と高い知能、無限の体力を持ち、「小さな体に大きなインコが入っている」と例えられます。しかし自己主張が強く縄張り意識が高いため、ケージ周辺での威嚇行動（Territoriality）を見せやすく、シード中心の食事では脂肪肝になりやすいため栄養ペレット主食の管理が欠かせません。本日は本記事では、マメルリハの感情シグナルを分析し、縄張りストレス軽減と健康管理のための3ステップ日常ルーティンを公開します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

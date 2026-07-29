@@ -27,7 +27,7 @@ faqs:
 
 熱帯・亜熱帯原産のナスは寒さに極めて弱く、組織が繊細なため、温度変化や乾燥、エチレンガスに非常に敏感です。一般的な冷蔵室（0〜4℃）の冷気に直接晒されると低温障害を起こし、皮の凹み、果肉の褐変、エグみや苦味の増加を引き起こします。
 
-本日FreshSnapでは、農学および食品安全の専門家が推奨する、ナスのハリと鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、農学および食品安全の専門家が推奨する、ナスのハリと鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

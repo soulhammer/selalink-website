@@ -33,7 +33,7 @@ Scottish Folds erobern weltweit Herzen mit ihren nach vorne gefalteten Ohren, gr
 
 Behind der Niedlichkeit ihrer Faltohren verbirgt sich jedoch eine schwere genetische Erkrankung namens Osteochondrodysplasie (erbliche Knorpelkrankheit). Das Gen, das für die Faltohren verantwortlich ist, beeinträchtigt die Knochen- und Knorpelentwicklung im gesamten Körper. Dies führt zu Versteifungen und chronischen Schmerzen in den Gelenken und im Schwanz. Zudem sind ihre Ohren durch die Faltung schlecht belüftet, wodurch sich Feuchtigkeit staut und das Risiko für Ohrmilben und chronische Gehörgangsentzündungen (Otitis externa) stark steigt.
 
-Heute entschlüsselt PetSelf die körpersprachlichen Schmerzsignale der Scottish Fold und stellt eine maßgeschneiderte 3-Schritte-Routine vor, um Gelenke zu schützen und die Ohrenhygiene zu sichern.
+Heute entschlüsselt  die körpersprachlichen Schmerzsignale der Scottish Fold und stellt eine maßgeschneiderte 3-Schritte-Routine vor, um Gelenke zu schützen und die Ohrenhygiene zu sichern.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

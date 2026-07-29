@@ -27,7 +27,7 @@ Haben Sie Paprika schon einmal im Kühlschrank gelagert, nur um festzustellen, d
 
 Paprika besteht zu über 90 % aus Wasser und reagiert extrem empfindlich auf Feuchtigkeit und zu kühle Temperaturen. Bei Temperaturen unter 7 °C erleidet Paprika Kälteschäden ('Chilling Injury'), wodurch Zellwände zerstört werden und die Haut einsinkt. Feuchtigkeit am Stiel fördert zudem rasch Schimmelbildung.
 
-Heute stellt FreshSnap Ihnen einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit Ihrer Paprika zu bewahren. 🛡️
+In diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit Ihrer Paprika zu bewahren. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

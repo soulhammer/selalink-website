@@ -29,7 +29,7 @@ faqs:
     answer: "자연 발생 품종이라 털에 강한 방수성이 있어 물을 덜 무서워하는 경향이 있습니다. 다만 강제로 목욕시키는 것은 스트레스가 되므로 억지로 씻기지 마십시오."
 ---
 
-노르웨이 숲 고양이는 혹독한 북유럽의 겨울을 견디기 위해 진화한 크고 단단한 골격과 방수 기능을 가진 오밀조밀한 삼중모를 지니고 있습니다. '놀숲'이라는 애칭으로 많은 사랑을 받는 이들은 대형 묘종으로서 활동량이 많고 높은 곳을 올라가려는 강한 본능을 지니고 있습니다. 🐈 또한 털이 매우 굵고 풍성하여 정기적으로 관리하지 않으면 커다란 털 뭉치를 삼켜 소화 장애(헤어볼)를 겪을 수 있으며, 높은 곳에서의 낙하 충격이 관절에 무리를 줄 수 있습니다. 오늘 PetSelf에서는 노르웨이 숲의 등반 욕구를 풀어주고 웅장한 피모와 관절 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
+노르웨이 숲 고양이는 혹독한 북유럽의 겨울을 견디기 위해 진화한 크고 단단한 골격과 방수 기능을 가진 오밀조밀한 삼중모를 지니고 있습니다. '놀숲'이라는 애칭으로 많은 사랑을 받는 이들은 대형 묘종으로서 활동량이 많고 높은 곳을 올라가려는 강한 본능을 지니고 있습니다. 🐈 또한 털이 매우 굵고 풍성하여 정기적으로 관리하지 않으면 커다란 털 뭉치를 삼켜 소화 장애(헤어볼)를 겪을 수 있으며, 높은 곳에서의 낙하 충격이 관절에 무리를 줄 수 있습니다. 이번 가이드에서는 노르웨이 숲의 등반 욕구를 풀어주고 웅장한 피모와 관절 건강을 지키는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

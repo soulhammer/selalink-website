@@ -13,7 +13,7 @@
                     "sleep_pattern": "24시간 (주로 야간에 활발한 이끼 섭식 활동)",
                     "temperament": "온순함, 활발함, 평화로움, 바쁨, 무해함"
                 },
-                "intro": "수초 어항의 대표적인 이끼 제거반으로 유명한 야마토 새우(아마노 새우)는 투명한 몸과 옅은 점무늬를 가진 매력적인 담수 새우입니다. 실조류(붓이끼 제외)를 효자처럼 청소해 주지만, 중금속(특히 구리)과 질산염 수치, 갑작스러운 수질·수온 변화에 매우 민감합니다. 또한 어항 수질이 악화되면 어항 밖으로 튀어나오는 탈출 행동을 유발하며, 탈피 실패로 사망할 위험이 있습니다. 오늘 PetSelf에서는 야마토 새우의 수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "intro": "수초 어항의 대표적인 이끼 제거반으로 유명한 야마토 새우(아마노 새우)는 투명한 몸과 옅은 점무늬를 가진 매력적인 담수 새우입니다. 실조류(붓이끼 제외)를 효자처럼 청소해 주지만, 중금속(특히 구리)과 질산염 수치, 갑작스러운 수질·수온 변화에 매우 민감합니다. 또한 어항 수질이 악화되면 어항 밖으로 튀어나오는 탈출 행동을 유발하며, 탈피 실패로 사망할 위험이 있습니다. 이번 가이드에서는 야마토 새우의 수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
                 "whyTitle": "야마토 새우의 수질 시그널: 어항 벽면 수면 위 올라옴(수질 악화)과 붉고 하얗게 탁해지는 몸",
                 "whyDesc": "야마토 새우가 **'어항 여과기 출수구나 벽면을 타고 수면 위로 올라오거나 밖으로 나오려 하는 행동'**은 용존 산소 부족이나 질산염 폭발, 수질 오염의 극심한 위험 신호입니다. 반면 **'투명했던 몸이 하얗게 탁해지거나 붉게 변하며 움직임이 줄어드는 현상'**은 중금속 중독이나 수질 부작용으로 인한 탈피 실패 경고입니다.",
                 "body_signals": [
@@ -63,7 +63,7 @@
                     "sleep_pattern": "24 Hours (Active Algae Grazers / Nocturnal Rest)",
                     "temperament": "Peaceful, Active, Busy, Harmless, Alert"
                 },
-                "intro": "Renowned as the premier algae cleanup crew in planted aquariums, the Amano Shrimp (Caridina multidentata) is a translucent freshwater crustacean with dark lateral dots. While they tirelessly consume hair and thread algae, they are acutely sensitive to heavy metals (especially copper), elevated nitrates, and sudden shifts in water parameters or temperature. Poor water quality often triggers desperate tank escapes or fatal molting complications. Today, PetSelf details a 3-step daily routine to safeguard your Amano Shrimp.",
+                "intro": "Renowned as the premier algae cleanup crew in planted aquariums, the Amano Shrimp (Caridina multidentata) is a translucent freshwater crustacean with dark lateral dots. While they tirelessly consume hair and thread algae, they are acutely sensitive to heavy metals (especially copper), elevated nitrates, and sudden shifts in water parameters or temperature. Poor water quality often triggers desperate tank escapes or fatal molting complications. In this guide, details a 3-step daily routine to safeguard your Amano Shrimp.",
                 "whyTitle": "Amano Shrimp Water Signals: Surface Climbing (Poisoned Water Signal) and Opaque White Discoloration",
                 "whyDesc": "If Amano Shrimp **'climb up filter outlets or crawl near the water surface attempting to escape'**, it is a critical emergency signal of oxygen depletion, high nitrates, or chemical toxicity. Conversely, **'body color turning opaque milky white or reddish with lethargy'** warns of copper poisoning, osmotic shock, or impending molting failure.",
                 "body_signals": [
@@ -163,7 +163,7 @@
                     "sleep_pattern": "24小时 (夜间啃食藻类最为活跃)",
                     "temperament": "温和、活泼、忙碌、无害、警惕"
                 },
-                "intro": "作为水草缸中最负盛名的除藻工具虾，大和沼虾（大和藻虾）是一种身体通透且带有点状斑纹的淡水观赏虾。它们能高效清理丝状藻和绒毛藻，但对重金属（尤其是铜元素）、硝酸盐浓度以及水质水温的剧烈波动极度敏感。水质恶化会导致其剧烈跳缸逃跑，或因环境应激引发蜕壳失败死亡。今天 PetSelf 为您解析大和沼虾的水质警示信号，并提供3步日常护理流程。",
+                "intro": "作为水草缸中最负盛名的除藻工具虾，大和沼虾（大和藻虾）是一种身体通透且带有点状斑纹的淡水观赏虾。它们能高效清理丝状藻和绒毛藻，但对重金属（尤其是铜元素）、硝酸盐浓度以及水质水温的剧烈波动极度敏感。水质恶化会导致其剧烈跳缸逃跑，或因环境应激引发蜕壳失败死亡。本指南为您解析大和沼虾的水质警示信号，并提供3步日常护理流程。",
                 "whyTitle": "大和沼虾的水质信号：攀爬爬出水面（水质恶化）与身体变白发浑",
                 "whyDesc": "当大和沼虾出现 **“沿着出水口或缸壁疯狂爬出水面尝试逃跑”** 时，这是水体缺氧、硝酸盐过高或存在化学毒素的紧急警报。而 **“原本通透的身体变得发白浑浊、活动力下降”**，则提示铜中毒、渗透压休克或即将发生蜕壳障碍。",
                 "body_signals": [
@@ -213,7 +213,7 @@
                     "sleep_pattern": "24 horas (pastoreo continuo de algas y descanso nocturno)",
                     "temperament": "Pacífica, Activa, Trabajadora, Inofensiva, Alerta"
                 },
-                "intro": "Reconocida como la mejor limpiadora de algas en acuarios plantados, la gamba Amano (Caridina multidentata) es un crustáceo transparente con pequeños puntos oscuros. Aunque devora sin descanso algas filamentosas, es sumamente sensible a metales pesados (especialmente cobre), nitratos elevados y cambios bruscos de parámetros o temperatura. Un agua de mala calidad desencadena intentos desesperados de fuga o mudas mortales. PetSelf le presenta una rutina de 3 pasos para protegerlas.",
+                "intro": "Reconocida como la mejor limpiadora de algas en acuarios plantados, la gamba Amano (Caridina multidentata) es un crustáceo transparente con pequeños puntos oscuros. Aunque devora sin descanso algas filamentosas, es sumamente sensible a metales pesados (especialmente cobre), nitratos elevados y cambios bruscos de parámetros o temperatura. Un agua de mala calidad desencadena intentos desesperados de fuga o mudas mortales.  le presenta una rutina de 3 pasos para protegerlas.",
                 "whyTitle": "Señales de agua de la Gamba Amano: Trepar fuera del agua (señal de toxicidad) y color blanco opaco",
                 "whyDesc": "Si las gambas Amano **'trepan por la salida del filtro o suben a la superficie intentando escapar'**, es un aviso de emergencia de falta de oxígeno o toxicidad por nitratos. Por otro lado, **'un cuerpo blanco opaco o rojizo con letargo'** advierte de envenenamiento por cobre, shock osmótico o problemas de muda.",
                 "body_signals": [
@@ -263,7 +263,7 @@
                     "sleep_pattern": "24 heures (pâturage d'algues continu et repos)",
                     "temperament": "Paisible, Active, Infatigable, Inoffensive, Attentive"
                 },
-                "intro": "Célèbre pour son efficacité à nettoyer les algues filamenteuses dans les aquariums plantés, la crevette Amano (Caridina multidentata) est un crustacé d'eau douce translucide. Bien qu'infatigable, elle est extrêmement sensible aux métaux lourds (en particulier le cuivre), aux nitrates et aux variations brutales de température ou de pH. Une mauvaise qualité d'eau provoque des évasions désespérées hors du bac ou des mues mortelles. PetSelf vous détaille une routine quotidienne en 3 étapes.",
+                "intro": "Célèbre pour son efficacité à nettoyer les algues filamenteuses dans les aquariums plantés, la crevette Amano (Caridina multidentata) est un crustacé d'eau douce translucide. Bien qu'infatigable, elle est extrêmement sensible aux métaux lourds (en particulier le cuivre), aux nitrates et aux variations brutales de température ou de pH. Une mauvaise qualité d'eau provoque des évasions désespérées hors du bac ou des mues mortelles.  vous détaille une routine quotidienne en 3 étapes.",
                 "whyTitle": "Langage de l'eau de la Crevette Amano : Escalade hors de l'eau (signal de toxicité) et corps blanc opaque",
                 "whyDesc": "Si les crevettes Amano **« grimpent le long des tuyaux ou sortent de l'eau pour s'échapper »**, c'est un signal d'urgence de manque d'oxygène ou de pic de nitrates. En revanche, **« un corps devenant blanc laiteux et opaque avec de la léthargie »** indique une intoxication au cuivre ou un échec de mue.",
                 "body_signals": [
@@ -313,7 +313,7 @@
                     "sleep_pattern": "24 Stunden (Kontinuierliches Algengrasen und Ruhephasen)",
                     "temperament": "Friedlich, Aktiv, Fleißig, Harmlos, Wachsam"
                 },
-                "intro": "Als bester Algenfresser in bepflanzten Aquarien ist die Amanogarnele (Caridina multidentata) eine transparente Garnele mit dunkler Punktierung. Obwohl sie Fadenalgen unermüdlich vertilgt, reagiert sie extrem empfindlich auf Schwermetalle (besonders Kupfer), hohe Nitratwerte und plötzliche Schwankungen der Wasserwerte. Schlechte Wasserqualität führt zu Fluchtversuchen aus dem Becken oder tödlichen Häutungsproblemen. PetSelf stellt eine tägliche 3-Schritte-Routine vor.",
+                "intro": "Als bester Algenfresser in bepflanzten Aquarien ist die Amanogarnele (Caridina multidentata) eine transparente Garnele mit dunkler Punktierung. Obwohl sie Fadenalgen unermüdlich vertilgt, reagiert sie extrem empfindlich auf Schwermetalle (besonders Kupfer), hohe Nitratwerte und plötzliche Schwankungen der Wasserwerte. Schlechte Wasserqualität führt zu Fluchtversuchen aus dem Becken oder tödlichen Häutungsproblemen. Dieser Ratgeber zeigt eine tägliche 3-Schritte-Routine vor.",
                 "whyTitle": "Wassersignale der Amanogarnele: Klettern über die Wasseroberfläche (Vergiftungszeichen) & Milchig-weiße Verfärbung",
                 "whyDesc": "Klettern Amanogarnelen **'an Filterrohren oder Scheiben aus dem Wasser'**, ist dies ein Notfallsignal für Sauerstoffmangel, Nitratspitzen oder Giftstoffe. **'Eine milchig-weiße Trübung des Körpers mit Trägheit'** deutet dagegen auf Kupfervergiftung, Häutungsprobleme oder Schock hin.",
                 "body_signals": [
@@ -363,7 +363,7 @@
                     "sleep_pattern": "24 horas (pastoreio contínuo de algas e descanso)",
                     "temperament": "Pacífico, Ativo, Trabalhador, Inofensivo, Alerta"
                 },
-                "intro": "Famoso como o melhor limpador de algas em aquários plantados, o camarão Amano (Caridina multidentata) é um crustáceo transparente com pequenos pontos escuros. Embora consuma algas filamentosas incansavelmente, é extremamente sensível a metais pesados (especialmente cobre), nitratos elevados e variações bruscas de temperatura ou pH. Água de má qualidade provoca fugas desesperadas fora do aquário ou ecdises fatais. O PetSelf apresenta uma rotina de 3 passos para proteger os camarões.",
+                "intro": "Famoso como o melhor limpador de algas em aquários plantados, o camarão Amano (Caridina multidentata) é um crustáceo transparente com pequenos pontos escuros. Embora consuma algas filamentosas incansavelmente, é extremamente sensível a metais pesados (especialmente cobre), nitratos elevados e variações bruscas de temperatura ou pH. Água de má qualidade provoca fugas desesperadas fora do aquário ou ecdises fatais. O Este guia  uma rotina de 3 passos para proteger os camarões.",
                 "whyTitle": "Sinais de água do Camarão Amano: Escalar para fora da água (sinal de toxicidade) e cor branca opaca",
                 "whyDesc": "Se os camarões Amano **'escalarem os tubos do filtro ou subirem à superfície tentando escapar'**, é um alerta crítico de falta de oxigênio ou toxicidade por nitratos. Já **'um corpo branco opaco ou avermelhado com apatia'** indica envenenamento por cobre, choque osmótico ou falha na muda.",
                 "body_signals": [
@@ -413,7 +413,7 @@
                     "sleep_pattern": "24 jam (pola pemakan alga aktif & istirahat malam)",
                     "temperament": "Damai, Aktif, Sibuk, Tidak Berbahaya, Waspada"
                 },
-                "intro": "Terkenal sebagai tim pembersih alga terbaik di akuarium aquascape, udang Amano (Caridina multidentata) adalah krustasea air tawar transparan dengan bintik-bintik gelap. Meskipun mereka tanpa lelah memakan alga benang, udang ini sangat sensitif terhadap logam berat (terutama tembaga), kadar nitrat tinggi, serta perubahan suhu atau parameter air yang mendadak. Kualitas air yang buruk dapat memicu aksi nekat kabur dari akuarium atau kegagalan ganti kulit (molting) yang mematikan. Hari ini, PetSelf menyajikan 3 langkah rutinitas harian untuk menjaga udang Amano.",
+                "intro": "Terkenal sebagai tim pembersih alga terbaik di akuarium aquascape, udang Amano (Caridina multidentata) adalah krustasea air tawar transparan dengan bintik-bintik gelap. Meskipun mereka tanpa lelah memakan alga benang, udang ini sangat sensitif terhadap logam berat (terutama tembaga), kadar nitrat tinggi, serta perubahan suhu atau parameter air yang mendadak. Kualitas air yang buruk dapat memicu aksi nekat kabur dari akuarium atau kegagalan ganti kulit (molting) yang mematikan. Dalam panduan ini, menyajikan 3 langkah rutinitas harian untuk menjaga udang Amano.",
                 "whyTitle": "Bahasa Tubuh Udang Amano: Memanjat Keluar Air (Sinyal Racun Air) dan Warna Tubuh Memutih Keruh",
                 "whyDesc": "Jika udang Amano **'memanjat pipa filter atau merayap keluar permukaan air untuk kabur'**, ini adalah sinyal darurat kekurangan oksigen atau racun nitrat. Sementara itu, **'warna tubuh yang berubah memutih keruh disertai lemas'** menandakan keracunan tembaga, syok osmotik, atau kegagalan molting.",
                 "body_signals": [

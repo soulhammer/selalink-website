@@ -27,7 +27,7 @@ faqs:
 
 コーヒー豆は焙煎直後から二酸化炭素を放出し、空気中の酸素や湿度、光、温度変化と接触することで急速に酸化が進行します。豆の表面には微小な穴が多い多孔質構造のため、周囲の湿気や匂いをスポンジのように吸収してしまいます。正しい保存方法こそがコーヒーの味を決定づけます。
 
-本日FreshSnapでは、スペシャルティコーヒー協会（SCA）および専門家が推奨する、コーヒー豆の豊かな香りと風味を長く保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、スペシャルティコーヒー協会（SCA）および専門家が推奨する、コーヒー豆の豊かな香りと風味を長く保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

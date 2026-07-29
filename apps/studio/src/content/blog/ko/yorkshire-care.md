@@ -29,7 +29,7 @@ faqs:
     answer: "소형 경비견의 본능이 있어 외부 소리에 민감하게 반응합니다. 짖을 때 소리치거나 안아주면 보상으로 인식할 수 있으므로, 짖을 때는 무시하고 조용해진 순간 즉시 간식과 칭찬으로 보상해야 합니다."
 ---
 
-요크셔테리어는 작고 인형 같은 외모 속에 테리어 견종 특유의 당차고 용감한 성격을 품고 있습니다. '요키'라는 애칭으로 불리는 이 견종은 사람 모발과 유사한 구조의 길고 부드러운 비단결 싱글코트 피모를 갖고 있어 관리가 까다롭고 쉽게 엉킵니다. 🐩 또한, 소형견의 고질병인 슬개골 탈구(Patellar Luxation)와 관절 질환에 매우 취약합니다. 오늘 PetSelf에서는 요크셔테리어의 윤기 나는 털을 유지하고, 튼튼한 관절을 지켜줄 수 있는 3단계 맞춤형 홈케어 루틴을 소개합니다.
+요크셔테리어는 작고 인형 같은 외모 속에 테리어 견종 특유의 당차고 용감한 성격을 품고 있습니다. '요키'라는 애칭으로 불리는 이 견종은 사람 모발과 유사한 구조의 길고 부드러운 비단결 싱글코트 피모를 갖고 있어 관리가 까다롭고 쉽게 엉킵니다. 🐩 또한, 소형견의 고질병인 슬개골 탈구(Patellar Luxation)와 관절 질환에 매우 취약합니다. 이번 가이드에서는 요크셔테리어의 윤기 나는 털을 유지하고, 튼튼한 관절을 지켜줄 수 있는 3단계 맞춤형 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

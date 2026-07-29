@@ -29,7 +29,7 @@ faqs:
     answer: "是的，完全无毒。这是模拟剧毒珊瑚蛇的“贝氏拟态”现象。北美有句谚语“Red on black, friend of Jack; red on yellow, kill a fellow”，即红色与黑色相连的是无毒的奶蛇，而红色与黄色相连的才是剧毒的珊瑚蛇。"
 ---
 
-奶蛇（Milk Snake）与玉米蛇、球蟒并称为全球宠物蛇市场中最受欢迎的三大入门观赏蛇类。它们以鲜艳的红、黑、黄（或白）三色环状纹路而闻名，这是伪装成剧毒珊瑚蛇以吓退天敌的典型“贝氏拟态（Batesian Mimicry）”。虽然外观华丽，但奶蛇是完全无毒的温和蛇类。作为变温动物，饲养箱内建立冷区（24 ~ 26°C）与热区（29 ~ 31°C）的温差梯度对于其消化与体温调节至关重要。今天 PetSelf 将为您解析奶蛇的防御与脱皮信号，并提供维持其健康的3阶段日常护理流程。
+奶蛇（Milk Snake）与玉米蛇、球蟒并称为全球宠物蛇市场中最受欢迎的三大入门观赏蛇类。它们以鲜艳的红、黑、黄（或白）三色环状纹路而闻名，这是伪装成剧毒珊瑚蛇以吓退天敌的典型“贝氏拟态（Batesian Mimicry）”。虽然外观华丽，但奶蛇是完全无毒的温和蛇类。作为变温动物，饲养箱内建立冷区（24 ~ 26°C）与热区（29 ~ 31°C）的温差梯度对于其消化与体温调节至关重要。本指南将为您解析奶蛇的防御与脱皮信号，并提供维持其健康的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

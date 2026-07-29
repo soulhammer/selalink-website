@@ -29,7 +29,7 @@ faqs:
     answer: "与老鼠不同，刺猬的牙齿不会终生持续生长。因此不需要磨牙玩具。相反，咬硬物容易折断其牙齿，应避免喂食过硬的饲料颗粒。"
 ---
 
-非洲迷你刺猬以其小心翼翼探出头、抽动鼻子的可爱模样而极具魅力，是一种适合静静观察的异国宠物。它们天生胆小，使用刺进行防御，在遇到陌生的气味时会制造唾液泡沫涂抹在背刺上。此外，如果室温略有下降，它们可能会陷入致命的假冬眠状态。今天 PetSelf 将为您介绍非洲迷你刺猬的涂刺行为、安全应对技巧以及维持24小时适宜温度和卫生的3阶段日常护理流程。
+非洲迷你刺猬以其小心翼翼探出头、抽动鼻子的可爱模样而极具魅力，是一种适合静静观察的异国宠物。它们天生胆小，使用刺进行防御，在遇到陌生的气味时会制造唾液泡沫涂抹在背刺上。此外，如果室温略有下降，它们可能会陷入致命的假冬眠状态。本指南将为您介绍非洲迷你刺猬的涂刺行为、安全应对技巧以及维持24小时适宜温度和卫生的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

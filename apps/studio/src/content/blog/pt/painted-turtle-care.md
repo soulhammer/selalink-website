@@ -29,7 +29,7 @@ faqs:
     answer: "Não! A hibernação forçada em aquários internos é perigosa. Temperaturas frias intermediárias enfraquecem a imunidade. Mantenha a água aquecida a 23°C–26°C o ano todo."
 ---
 
-Famosa por suas marcas vermelhas e amarelas vibrantes, a Tartaruga Pintada (Chrysemys picta) é uma tartaruga aquática muito popular. Sem água limpa e um deck para secar o casco, ela pode desenvolver Podridão do Casco. A falta de luz UVB causa Doença Óssea Metabólica (MBD). Veja o guia de 3 passos da PetSelf.
+Famosa por suas marcas vermelhas e amarelas vibrantes, a Tartaruga Pintada (Chrysemys picta) é uma tartaruga aquática muito popular. Sem água limpa e um deck para secar o casco, ela pode desenvolver Podridão do Casco. A falta de luz UVB causa Doença Óssea Metabólica (MBD). Veja o guia de 3 passos da .
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous déjà ouvert votre salière pour constater que le sel était humide e
 
 Le sel est un ingrédient minéral inorganique sans date de péremption, car son activité de l'eau proche de zéro empêche toute prolifération bactérienne. Cependant, il absorbe très vite l'eau lorsque l'humidité ambiante est élevée et possède une forte action corrosive sur les métaux. Un stockage inapproprié entraîne la formation de grumeaux, la rouille des récipients et une baisse d'hygiène.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour garder votre sel sec, fluide et utilisable indéfiniment. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes pour garder votre sel sec, fluide et utilisable indéfiniment. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

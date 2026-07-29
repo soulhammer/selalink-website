@@ -29,7 +29,7 @@ faqs:
     answer: "Un régime de graines est trop riche en graisses et très pauvre en vitamine A et en calcium, provoquant obésité, troubles respiratoires et picage. Les extrudés doivent constituer au moins 70 % de son alimentation."
 ---
 
-Arborant un sublime plumage jaune et orange et une personnalité très attachante, la Conure Soleil est un perroquet de taille moyenne très apprécié. Cependant, en tant qu'oiseau grégaire et intelligent, elle exprime des besoins sociaux intenses, émet des cris de contact puissants et s'expose aux carences en vitamine A sous un régime exclusif de graines. De plus, l'absence de 10 à 12 heures de sommeil obscur peut entraîner du picage de stress. PetSelf vous détaille une routine en 3 étapes pour préserver sa santé.
+Arborant un sublime plumage jaune et orange et une personnalité très attachante, la Conure Soleil est un perroquet de taille moyenne très apprécié. Cependant, en tant qu'oiseau grégaire et intelligent, elle exprime des besoins sociaux intenses, émet des cris de contact puissants et s'expose aux carences en vitamine A sous un régime exclusif de graines. De plus, l'absence de 10 à 12 heures de sommeil obscur peut entraîner du picage de stress.  vous détaille une routine en 3 étapes pour préserver sa santé.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に違います！コリドラスは他魚の排泄物（フン）を食べることは一切なく、他の魚の残飯だけでは栄養が完全に shortage し餓死してしまいます。コリドラスは肉食傾向のある雑食性の熱帯魚ですので、底に沈むコリドラス専用の高タンパクペレットや、イトメ（生糸ミミズ）、冷凍赤ムシを個別にあたえる必要があります。"
 ---
 
-南米アマゾン川水系原産のコリドラス（Corydoras Catfish）は、愛らしい口元のヒゲと底砂を懸命にモフモフと掘る姿から「水槽の掃除屋」として世界中のアクアリストに愛されている小型ナマズの仲間です。コリドラスは温和で大人しい性格ですが、口元の繊細な触ヒゲ（Barbels）が尖った砂利や汚れた底砂に擦れると、傷口から細菌感染を起こしてヒゲが溶けてしまう「ヒゲ溶け病（Barbel Erosion）」を起こしやすい特徴があります。また水中のアンモニアや亜硝酸塩の蓄積に極めて敏感で、酸素不足になると水面へダッシュして空気を呑み込む独特の「腸呼吸（Intestinal Respiration）」を行います。本日PetSelfでは、コリドラスのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+南米アマゾン川水系原産のコリドラス（Corydoras Catfish）は、愛らしい口元のヒゲと底砂を懸命にモフモフと掘る姿から「水槽の掃除屋」として世界中のアクアリストに愛されている小型ナマズの仲間です。コリドラスは温和で大人しい性格ですが、口元の繊細な触ヒゲ（Barbels）が尖った砂利や汚れた底砂に擦れると、傷口から細菌感染を起こしてヒゲが溶けてしまう「ヒゲ溶け病（Barbel Erosion）」を起こしやすい特徴があります。また水中のアンモニアや亜硝酸塩の蓄積に極めて敏感で、酸素不足になると水面へダッシュして空気を呑み込む独特の「腸呼吸（Intestinal Respiration）」を行います。本記事では、コリドラスのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

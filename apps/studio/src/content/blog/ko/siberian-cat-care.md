@@ -29,7 +29,7 @@ faqs:
     answer: "사이베리안은 방수성이 있는 겉털과 촘촘한 속털로 이루어진 삼중모를 가지고 있어 주 3 ~ 4회 이상 속털까지 깊이 빗질해 주어야 헤어볼과 털 엉킴을 막을 수 있습니다. 또한 순환기 질환인 비대성 심근증(HCM)에 유전적 소인이 있으므로 1 ~ 2년에 한 번씩 정기적인 심장 초음파 검사를 받는 것이 안전합니다."
 ---
 
-러시아의 자연 발생 품종이자 풍성한 삼중모(Triple Coat)를 지닌 사이베리안 고양이(Siberian Cat)는 강아지 같은 다정한 성격('개냥이')과 높은 지능으로 전 세계에서 사랑받는 대형묘입니다. 사이베리안은 고양이 알레르기의 주원인인 Fel d 1 단백질 분비량이 다른 품종에 비해 적어 '알레르기가 적은 고양이'로 알려져 있지만, 완전히 무해한 것은 아니므로 지속적인 환경 위생 관리가 필요합니다. 또한 성묘가 되기까지 3 ~ 5년이 걸리는 지연 성숙 품종이며, 유전적으로 비대성 심근증(HCM)에 취약하고 빽빽한 피모로 인해 헤어볼 배출 관리가 필수적입니다. 오늘 PetSelf에서는 사이베리안 고양이의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+러시아의 자연 발생 품종이자 풍성한 삼중모(Triple Coat)를 지닌 사이베리안 고양이(Siberian Cat)는 강아지 같은 다정한 성격('개냥이')과 높은 지능으로 전 세계에서 사랑받는 대형묘입니다. 사이베리안은 고양이 알레르기의 주원인인 Fel d 1 단백질 분비량이 다른 품종에 비해 적어 '알레르기가 적은 고양이'로 알려져 있지만, 완전히 무해한 것은 아니므로 지속적인 환경 위생 관리가 필요합니다. 또한 성묘가 되기까지 3 ~ 5년이 걸리는 지연 성숙 품종이며, 유전적으로 비대성 심근증(HCM)에 취약하고 빽빽한 피모로 인해 헤어볼 배출 관리가 필수적입니다. 이번 가이드에서는 사이베리안 고양이의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

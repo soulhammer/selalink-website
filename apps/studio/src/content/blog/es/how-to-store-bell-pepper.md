@@ -27,7 +27,7 @@ faqs:
 
 Los pimientos contienen más del 90 % de agua, lo que los hace muy sensibles a la humedad excesiva y a las bajas temperaturas. Almacenarlos por debajo de 7 °C les provoca 'daño por frío' (chilling injury), rompiendo sus paredes celulares y causando agujeros en la piel y pudrición. Además, la humedad atrapada genera moho alrededor del tallo.
 
-Hoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener su frescura y textura crujiente. 🛡️
+En esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener su frescura y textura crujiente. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

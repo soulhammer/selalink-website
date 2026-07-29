@@ -29,7 +29,7 @@ faqs:
     answer: "Sangat tidak disarankan. Mereka hewan berkelompok yang bisa depresi jika sendirian. Pelihara sepasang atau luangkan waktu berjam-jam setiap hari."
 ---
 
-Anjing prairie ekor hitam adalah pengerat yang sangat sosial. Karena gigi seri mereka tumbuh terus-menerus, jerami Timothy tanpa batas sangat vital untuk mencegah maloklusi dan odontoma. Substrat gali yang dalam dan kasih sayang rutin sangat penting. Hari ini PetSelf membagikan 3 langkah rutinitas perawatan.
+Anjing prairie ekor hitam adalah pengerat yang sangat sosial. Karena gigi seri mereka tumbuh terus-menerus, jerami Timothy tanpa batas sangat vital untuk mencegah maloklusi dan odontoma. Substrat gali yang dalam dan kasih sayang rutin sangat penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

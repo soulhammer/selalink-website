@@ -29,7 +29,7 @@ faqs:
     answer: "西施犬眼球大而突出，极易发生“角膜溃疡 (Corneal Ulcer)”和干眼症。病情恶化极快，严重可致失明。发现揉眼或充血应立即佩戴防抓圈，并前往动物医院进行眼部荧光染色诊断，使用专用抗生素眼药水。"
 ---
 
-拥有丝滑长毛与可爱扁平面容的西施犬（Shih Tzu），是数百年来备受尊崇的宫廷伴侣犬。由于其短头种（Brachycephalic Breed）的生理结构，西施犬在高温潮湿环境中极难通过喘息有效散热，极易发生中暑与呼吸道阻塞。此外，其大而突出的眼睛极易患上角膜溃疡、干眼症及泪痕问题，下垂的耳朵也使其易发外耳炎。今天 PetSelf 将带您准确解读西施犬的身体信号，并通过 3 步骤日常护理维护其健康。
+拥有丝滑长毛与可爱扁平面容的西施犬（Shih Tzu），是数百年来备受尊崇的宫廷伴侣犬。由于其短头种（Brachycephalic Breed）的生理结构，西施犬在高温潮湿环境中极难通过喘息有效散热，极易发生中暑与呼吸道阻塞。此外，其大而突出的眼睛极易患上角膜溃疡、干眼症及泪痕问题，下垂的耳朵也使其易发外耳炎。本指南将带您准确解读西施犬的身体信号，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

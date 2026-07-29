@@ -29,7 +29,7 @@ faqs:
     answer: "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
 ---
 
-プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩 また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本日PetSelfでは、聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンをご紹介します。
+プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩 また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本記事では、聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

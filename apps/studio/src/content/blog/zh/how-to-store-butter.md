@@ -27,7 +27,7 @@ faqs:
 
 黄油的脂肪含量高达80%以上，对空气中的氧气、光线及温度变化极度敏感，且会像海绵一样迅速吸收周围的强烈气味。不当的储存方式会导致乳脂发生氧化酸败（Rancidity），严重破坏其浓郁风味。
 
-今天FreshSnap基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您完美锁定黄油的醇香与新鲜达90天以上。🛡️
+本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您完美锁定黄油的醇香与新鲜达90天以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -33,7 +33,7 @@ Ragdoll adalah kucing raksasa berbulu halus yang terkenal karena tubuhnya yang b
 
 Namun, karena mereka adalah ras besar yang tumbuh lambat dan beratnya mencapai 7 hingga 10 kg, sendi bagian bawah mereka memikul beban yang berat. Selain itu, postur terkulai khas mereka saat digendong dapat menimbulkan ketegangan puntir pada tulang belakang jika tidak ditopang dengan benar. Mempelajari teknik menggendong yang benar adalah dasar dari kesehatan kerangka mereka.
 
-Hari ini, PetSelf menguraikan bahasa tubuh Ragdoll dan memperkenalkan 3 langkah rutinitas harian yang aman untuk melindungi sendi mereka dan mempererat rasa saling percaya.
+Dalam panduan ini, menguraikan bahasa tubuh Ragdoll dan memperkenalkan 3 langkah rutinitas harian yang aman untuk melindungi sendi mereka dan mempererat rasa saling percaya.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

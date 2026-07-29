@@ -29,7 +29,7 @@ faqs:
     answer: "비숑의 털은 얇고 곱슬거리며 촘촘해 빗질을 거르면 털끼리 엉켜 하나의 두꺼운 부직포처럼 뭉칩니다. 이 상태가 오래되면 모근을 조여 피부를 옥죄며 혈액 순환을 차단해 접촉성 피부염과 가려움증을 초래합니다."
 ---
 
-솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 오늘 PetSelf에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.
+솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 이번 가이드에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

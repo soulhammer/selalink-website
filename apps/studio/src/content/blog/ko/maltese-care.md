@@ -33,7 +33,7 @@ faqs:
 
 하지만 말티즈를 키우는 반려인이라면 누구나 고민하는 두 가지 치명적인 유전 질환이 있습니다. 첫 번째는 무릎 뼈가 옆으로 빠지는 슬개골 탈구(Patellar Luxation)이고, 두 번째는 하얀 얼굴에 붉은 자국을 남기며 피부염을 유발하기 쉬운 눈물자국(Tear Staining)입니다. 이 두 가지는 병원 치료도 중요하지만, 일상에서의 보호막 루틴이 평생의 건강을 좌우합니다.
 
-오늘 PetSelf에서는 말티즈의 행동 언어 이해를 돕고, 관절과 눈가를 매일 보호할 수 있는 안전하고 과학적인 3단계 케어 루틴을 소개합니다.
+이번 가이드에서는 말티즈의 행동 언어 이해를 돕고, 관절과 눈가를 매일 보호할 수 있는 안전하고 과학적인 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

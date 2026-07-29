@@ -27,7 +27,7 @@ faqs:
 
 애호박과 주키니는 수분 함량이 90% 이상으로 매우 높아 습기에 민감하며, 온도 변화나 냉해에 취약한 과채류입니다. 제대로 감싸지 않은 채 냉장고에 그대로 두면 수분이 쉽게 증발하여 껍질이 쭈글쭈글해지거나, 반대로 밀폐된 수분으로 인해 표면이 쉽게 무르고 썩게 됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 애호박의 아삭함과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 애호박의 아삭함과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

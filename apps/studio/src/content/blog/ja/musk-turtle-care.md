@@ -29,7 +29,7 @@ faqs:
     answer: "カメの成長に伴い、古い甲羅が透明で薄い板のように剥がれ落ちるのは『脱皮』と呼ばれる極めて正常な現象です。ただし、白い粘液が出ていたり、甲羅が柔らかく悪臭がする場合はシェルロットの疑いがあるため、病院で診てもらってください。"
 ---
 
-小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット（甲殻腐敗症）」などの重大な病気にかかってしまいます。今回はPetSelfが、マスクタートルの日光浴サインと、清潔な水と甲羅を保つための3ステップ水槽管理法をご紹介します。
+小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット（甲殻腐敗症）」などの重大な病気にかかってしまいます。本記事では、マスクタートルの日光浴サインと、清潔な水と甲羅を保つための3ステップ水槽管理法をご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

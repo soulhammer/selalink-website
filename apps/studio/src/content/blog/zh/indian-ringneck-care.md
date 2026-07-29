@@ -29,7 +29,7 @@ faqs:
     answer: "纯种子饮食脂肪含量过高，且严重缺乏维生素A和钙，易导致脂肪肝、肥胖、羽毛损坏及自残倾向。应以营养全面的滋养丸为主食（占60-70%），并辅以新鲜蔬菜。"
 ---
 
-红领绿鹦鹉（环颈鹦鹉）因成年雄鸟独特的颈环标志和模仿人类语言的超凡能力，在网络上极具人气。它们智商极高且性格独立，但在1岁左右会经历被称为“啄咬期/羽毛青春期（Bluffing）”的阶段，表现出突然的咬人和攻击性。这一时期正确的行为纠正、每日的语言互动以及以滋养丸为主的营养平衡至关重要。今天 PetSelf 将解析红领绿鹦鹉的本能信号，并分享涵盖语言训练、纠正咬人及营养管理的3阶段日常护理流程。
+红领绿鹦鹉（环颈鹦鹉）因成年雄鸟独特的颈环标志和模仿人类语言的超凡能力，在网络上极具人气。它们智商极高且性格独立，但在1岁左右会经历被称为“啄咬期/羽毛青春期（Bluffing）”的阶段，表现出突然的咬人和攻击性。这一时期正确的行为纠正、每日的语言互动以及以滋养丸为主的营养平衡至关重要。本指南将解析红领绿鹦鹉的本能信号，并分享涵盖语言训练、纠正咬人及营养管理的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

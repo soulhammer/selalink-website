@@ -29,7 +29,7 @@ faqs:
     answer: "琉璃金刚鹦鹉在野外保留着与数公里外同伴呼应的习性，因此在早晚会发出穿透力极强的洪亮啼鸣（Screaming）。其音量不适合在普通公寓或密集的住宅区饲养，需要具备隔音措施或独立的住宅环境。"
 ---
 
-琉璃金刚鹦鹉（蓝黄金刚鹦鹉）以其璀璨的蓝金羽毛和庞大的体型，被誉为全球观赏鸟爱好者的“终极梦想”。它们拥有相当于3 ~ 5岁人类儿童的高超智商，具备出色的语言模仿能力和丰富的情感表达。然而，如果缺乏足够的脑力刺激和社交陪伴，它们极易患上抑郁症甚至自残拔羽症。此外，它们拥有能轻易咬碎核桃硬壳的强劲喙部，因此必须为其提供能安全释放啃咬欲的专用玩具和超大型鸟笼环境。今天 PetSelf 将解析琉璃金刚鹦鹉的情感肢体语言，并公开包含喙部护理与语言行为互动的3阶段日常护理流程。
+琉璃金刚鹦鹉（蓝黄金刚鹦鹉）以其璀璨的蓝金羽毛和庞大的体型，被誉为全球观赏鸟爱好者的“终极梦想”。它们拥有相当于3 ~ 5岁人类儿童的高超智商，具备出色的语言模仿能力和丰富的情感表达。然而，如果缺乏足够的脑力刺激和社交陪伴，它们极易患上抑郁症甚至自残拔羽症。此外，它们拥有能轻易咬碎核桃硬壳的强劲喙部，因此必须为其提供能安全释放啃咬欲的专用玩具和超大型鸟笼环境。本指南将解析琉璃金刚鹦鹉的情感肢体语言，并公开包含喙部护理与语言行为互动的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

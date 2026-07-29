@@ -29,7 +29,7 @@ faqs:
     answer: "Chaque gramme supplémentaire surcharge son squelette court, ce qui fatigue les articulations et favorise l'arthrose. Contrôlez scrupuleusement ses rations de nourriture."
 ---
 
-Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites pattes courtes. S'ils sont agiles et joueurs, leur morphologie atypique expose leur colonne vertébrale et leurs articulations à des forces de choc plus intenses lors des atterrissages. Ils sont sujets à la lordose et à l'arthrose précoce. Aujourd'hui, PetSelf étudie le langage corporel lié à l'inconfort articulaire du Munchkin et propose une routine en 3 étapes pour sécuriser leur squelette et assurer leur mobilité.
+Les chats Munchkin séduisent par leur tempérament affectueux et leurs petites pattes courtes. S'ils sont agiles et joueurs, leur morphologie atypique expose leur colonne vertébrale et leurs articulations à des forces de choc plus intenses lors des atterrissages. Ils sont sujets à la lordose et à l'arthrose précoce. Dans ce guide, étudie le langage corporel lié à l'inconfort articulaire du Munchkin et propose une routine en 3 étapes pour sécuriser leur squelette et assurer leur mobilité.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

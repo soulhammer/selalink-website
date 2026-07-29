@@ -29,7 +29,7 @@ faqs:
     answer: "러미노즈 테트라는 최소 10마리 이상, 권장 12 ~ 15마리 이상 무리를 이룰 때 강한 안도감을 느끼며 군영을 형성합니다. 마릿수가 너무 적거나, 어항 내에 유영 공간이 없으면 수초 사이로 흩어질 수 있으므로 충분한 수로 합사해 주는 것이 좋습니다."
 ---
 
-러미노즈 테트라(Rummy-Nose Tetra)는 붉은 머리와 흑백 줄무늬 꼬리, 그리고 어항 속을 일사불란하게 누비는 군영(Schooling) 습성으로 전 세계 대형 수초항 사육자들의 필수 관상어로 자리 잡은 소형 카라신입니다. 수질과 환경에 매우 민감하여 선명한 루비빛 붉은 머리는 어항 내 수질(질산염, pH)과 건강 상태를 실시간으로 알려주는 생체 지표 역할을 합니다. 또한 10마리 이상의 무리를 지어줄 때 특유의 군영 본능이 극대화되며 안도감을 느낍니다. 오늘 PetSelf에서는 러미노즈 테트라의 본능적 감정 및 건강 시그널을 분석하고, 머리 발색 유지와 완벽한 군영을 위한 3단계 일상 루틴을 공개합니다.
+러미노즈 테트라(Rummy-Nose Tetra)는 붉은 머리와 흑백 줄무늬 꼬리, 그리고 어항 속을 일사불란하게 누비는 군영(Schooling) 습성으로 전 세계 대형 수초항 사육자들의 필수 관상어로 자리 잡은 소형 카라신입니다. 수질과 환경에 매우 민감하여 선명한 루비빛 붉은 머리는 어항 내 수질(질산염, pH)과 건강 상태를 실시간으로 알려주는 생체 지표 역할을 합니다. 또한 10마리 이상의 무리를 지어줄 때 특유의 군영 본능이 극대화되며 안도감을 느낍니다. 이번 가이드에서는 러미노즈 테트라의 본능적 감정 및 건강 시그널을 분석하고, 머리 발색 유지와 완벽한 군영을 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

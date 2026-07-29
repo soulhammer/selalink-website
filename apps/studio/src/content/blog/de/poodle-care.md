@@ -29,7 +29,7 @@ faqs:
     answer: "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
 ---
 
-Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt PetSelf Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.
+Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt  Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

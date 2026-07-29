@@ -27,7 +27,7 @@ faqs:
 
 마요네즈는 식물성 기름, 계란 노른자, 식초(또는 레몬즙)를 정밀하게 섞어 만든 대표적인 유화액(Emulsion) 식품입니다. 온도 변화에 민감하며 특히 극저온에 노출되면 기름과 수분의 결합이 깨지는 유화 파괴 현상이 일어납니다.
 
-오늘 FreshSnap에서는 미국 FDA, USDA 및 식품의약품안전처의 가이드라인을 바탕으로, 마요네즈의 고소한 맛과 부드러운 질감을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 FDA, USDA 및 식품의약품안전처의 가이드라인을 바탕으로, 마요네즈의 고소한 맛과 부드러운 질감을 개봉 후에도 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

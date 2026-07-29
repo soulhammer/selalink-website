@@ -29,7 +29,7 @@ faqs:
     answer: "이들은 독립성이 높고 자신의 발이 지면에서 떨어지는 공중 상태에서 극심한 불안을 느낍니다. 따라서 이들이 원하지 않는 억압적인 포옹은 보호자와의 깊은 유대를 망칠 수 있습니다."
 ---
 
-크고 둥근 얼굴과 다부진 근육질 체격을 지닌 브리티시 숏헤어는 젠틀자이언트라는 별명답게 성격이 침착하고 인내심이 강해 처음 고양이를 키우는 사람에게도 알맞은 묘종입니다. 하지만 이들의 통뼈대 체형은 자칫 체중 관리에 실패하면 관절에 심각한 과부하를 초래합니다. 또한 유전적으로 심장 벽이 두꺼워지는 비대성 심근증(HCM) 위험군에 속하므로 과체중이 되어 심장 부담이 가중되지 않도록 주의해야 합니다. 오늘 PetSelf에서는 브리티시 숏헤어의 차분한 안심 지표와 미세한 불편함 신호를 분석하고, 심장 및 몸무게를 안전하게 유지하는 3단계 홈케어 루틴을 소개합니다.
+크고 둥근 얼굴과 다부진 근육질 체격을 지닌 브리티시 숏헤어는 젠틀자이언트라는 별명답게 성격이 침착하고 인내심이 강해 처음 고양이를 키우는 사람에게도 알맞은 묘종입니다. 하지만 이들의 통뼈대 체형은 자칫 체중 관리에 실패하면 관절에 심각한 과부하를 초래합니다. 또한 유전적으로 심장 벽이 두꺼워지는 비대성 심근증(HCM) 위험군에 속하므로 과체중이 되어 심장 부담이 가중되지 않도록 주의해야 합니다. 이번 가이드에서는 브리티시 숏헤어의 차분한 안심 지표와 미세한 불편함 신호를 분석하고, 심장 및 몸무게를 안전하게 유지하는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

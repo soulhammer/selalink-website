@@ -29,7 +29,7 @@ faqs:
     answer: "关键在于控制体重。避免让萨摩耶过度肥胖，这会成倍增加关节磨损。幼年及青年期避免过度剧烈跳跃，并通过游泳或平地散步强化肌肉。"
 ---
 
-萨摩耶以其雪白蓬松的毛发和标志性的“萨摩耶微笑”而广受欢迎。然而，源自西伯利亚的浓密双层被毛在湿热地区极易积聚水气，若不通气极其容易诱发湿疹的等皮肤病。此外，作为大型雪橇犬，它们具有髋关节发育不良（Hip Dysplasia）的遗传易感性。今天 PetSelf 将为您拆解萨摩耶的关节不适信号，并提供管理毛发与关节的3步日常护理流程。
+萨摩耶以其雪白蓬松的毛发和标志性的“萨摩耶微笑”而广受欢迎。然而，源自西伯利亚的浓密双层被毛在湿热地区极易积聚水气，若不通气极其容易诱发湿疹的等皮肤病。此外，作为大型雪橇犬，它们具有髋关节发育不良（Hip Dysplasia）的遗传易感性。本指南将为您拆解萨摩耶的关节不适信号，并提供管理毛发与关节的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

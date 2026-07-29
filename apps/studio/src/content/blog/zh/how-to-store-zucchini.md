@@ -27,7 +27,7 @@ faqs:
 
 西葫芦的含水量高达90%以上，对湿气极度敏感，同时也是易受温度变化和冻伤影响的果菜类食材。如果不加包裹直接放入冰箱，水分容易蒸发导致果皮起皱；反之如果密封积聚湿气，又会导致表面迅速腐烂。
 
-今天FreshSnap基于农业及食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持西葫芦的爽脆与新鲜。🛡️
+本指南基于农业及食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持西葫芦的爽脆与新鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

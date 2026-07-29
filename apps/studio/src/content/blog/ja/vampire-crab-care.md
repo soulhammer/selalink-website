@@ -29,7 +29,7 @@ faqs:
     answer: "可能です。オス1匹に対してメス2〜3匹の割合が理想的です。オス同士は縄張り意識が強いため、十分な広さ（30cm以上）と豊富なコケ・流木・隠れ家を用意してください。"
 ---
 
-バンパイアクラブ（*Geosesarma dennerle*等）は、黄色く輝く目と鮮やかな紫やオレンジ色の甲羅を持つ、世界中のパルダリウム・テラリウム愛好家から大人気の小型陸生カニです。東南アジアの熱帯雨林原産で、陸地8割・水中2割程度の湿ったビバリウム環境で暮らします。海水が必要なオカヤドカリとは異なり、淡水のみで生涯（卵から完全な親と同じ形の稚ガニが孵化）を完結できる特徴を持っています。脱皮のための高湿度（75〜85%）とカルシウム補給、オス同士の争いを防ぐ十分な隠れ家の確保が育成の鍵となります。今回はPetSelfが日常ケアを解説します。
+バンパイアクラブ（*Geosesarma dennerle*等）は、黄色く輝く目と鮮やかな紫やオレンジ色の甲羅を持つ、世界中のパルダリウム・テラリウム愛好家から大人気の小型陸生カニです。東南アジアの熱帯雨林原産で、陸地8割・水中2割程度の湿ったビバリウム環境で暮らします。海水が必要なオカヤドカリとは異なり、淡水のみで生涯（卵から完全な親と同じ形の稚ガニが孵化）を完結できる特徴を持っています。脱皮のための高湿度（75〜85%）とカルシウム補給、オス同士の争いを防ぐ十分な隠れ家の確保が育成の鍵となります。本記事では、日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

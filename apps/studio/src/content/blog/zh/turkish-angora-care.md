@@ -29,7 +29,7 @@ faqs:
     answer: "必须实行100%完全室内养育，因为听障猫无法察觉外界车辆或天敌等危险。同时需在窗户和门上安装双重安全防护网，彻底封锁突发性逃逸隐患。"
 ---
 
-拥有丝绸般轻盈长毛与神话般异瞳的土耳其安哥拉猫（Turkish Angora）非常聪明且优雅。但在遗传学中，拥有蓝色眼睛的纯白安哥拉猫（包括鸳鸯眼异瞳）因显性白色基因（$W$）的影响，患有先天性听觉丧失的概率极高。此外，随着年龄增长，还需定期排查肥大性心肌病（HCM）等心脏疾病。今天，PetSelf 将带您走近听障猫咪的无声世界，传授通过视觉手势与震动感知安全沟通、同时呵护其长毛健康的3步日常护理惯例。
+拥有丝绸般轻盈长毛与神话般异瞳的土耳其安哥拉猫（Turkish Angora）非常聪明且优雅。但在遗传学中，拥有蓝色眼睛的纯白安哥拉猫（包括鸳鸯眼异瞳）因显性白色基因（$W$）的影响，患有先天性听觉丧失的概率极高。此外，随着年龄增长，还需定期排查肥大性心肌病（HCM）等心脏疾病。今天，本指南将带您走近听障猫咪的无声世界，传授通过视觉手势与震动感知安全沟通、同时呵护其长毛健康的3步日常护理惯例。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

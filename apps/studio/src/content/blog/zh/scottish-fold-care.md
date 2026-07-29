@@ -33,7 +33,7 @@ faqs:
 
 然而，在折耳这一魅力背后，隐藏着会导致骨骼与软骨发育障碍的致命遗传病——“骨软骨发育不良（Osteochondrodysplasia）”。导致耳软骨折叠的基因同时会影响全身的骨骼与软骨，使四肢和尾部软骨僵硬并伴随慢性剧痛。此外，折耳结构导致耳道内部极度缺乏通风，极易蓄积湿气和污垢，使耳螨和外耳道炎转为慢性疾病。
 
-今天，PetSelf 将为您解读折耳猫在感到疼痛时发出的特殊身体信号，并介绍一套能将关节冲击降至最低、同时彻底维护耳部卫生的3步定制护理惯例。
+今天，本指南将为您解读折耳猫在感到疼痛时发出的特殊身体信号，并介绍一套能将关节冲击降至最低、同时彻底维护耳部卫生的3步定制护理惯例。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "いいえ。カナリアはフィンチ類に属するため、過度なスキンシップや手乗り訓練を強いストレスと感じます。また、オス同士は縄張り争いをするため単独飼育が基本であり、姿や歌声を楽しむ観賞飼育が適しています。"
 ---
 
-美しい歌声と鮮やかな羽色で古くから愛されてきたカナリア（Canary）は、代表的な観賞用フィンチ類です。インコ類とは異なり、人との過度なスキンシップよりも独立した空間を好む特性を持ちます。しかし、鳥類特有の気嚢（Air Sacs）構造のためテフロンや芳香剤などの有毒ガスに極めて脆弱であり、日照時間の乱れは深刻な換羽ストレスや免疫力低下を引き起こします。本日PetSelfでは、カナリアの健康サインを読み解き、呼吸器と羽を保護する3ステップルーティンをお届けします。
+美しい歌声と鮮やかな羽色で古くから愛されてきたカナリア（Canary）は、代表的な観賞用フィンチ類です。インコ類とは異なり、人との過度なスキンシップよりも独立した空間を好む特性を持ちます。しかし、鳥類特有の気嚢（Air Sacs）構造のためテフロンや芳香剤などの有毒ガスに極めて脆弱であり、日照時間の乱れは深刻な換羽ストレスや免疫力低下を引き起こします。本記事では、カナリアの健康サインを読み解き、呼吸器と羽を保護する3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

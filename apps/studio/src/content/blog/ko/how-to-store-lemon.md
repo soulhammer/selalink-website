@@ -27,7 +27,7 @@ faqs:
 
 레몬은 두꺼운 껍질을 가지고 있지만, 표면의 미세 기공을 통해 수분이 끊임없이 증발하는 감귤류 과일입니다. 상온에 노출되면 일주일 만에 껍질이 오그라들고 즙이 마르며, 수분이 고인 밀폐 공간에서는 녹색·푸른 곰팡이(Penicillium)가 번식하기 쉽습니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 연구를 바탕으로, 레몬의 수분 소실을 완전히 차단하여 한 달 이상 즙이 넘치도록 신선하게 보관하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 연구를 바탕으로, 레몬의 수분 소실을 완전히 차단하여 한 달 이상 즙이 넘치도록 신선하게 보관하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

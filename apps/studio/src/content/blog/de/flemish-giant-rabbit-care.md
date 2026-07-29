@@ -29,7 +29,7 @@ faqs:
     answer: "Kaninchen haben keine Pfotenballen und schützen die Knochen nur durch Fell. Das hohe Gewicht führt auf hartem Boden schnell zu Wunden. Das Auslegen von dicken, weichen Teppichen oder Memory-Foam-Matten ist zwingend nötig."
 ---
 
-Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. PetSelf zeigt die 3-Schritte-Routine.
+Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. Dieser Ratgeber zeigt die 3-Schritte-Routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

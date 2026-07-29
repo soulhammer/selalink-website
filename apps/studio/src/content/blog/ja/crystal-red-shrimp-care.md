@@ -29,7 +29,7 @@ faqs:
     answer: "水道水は地域や季節によってTDS、GH、残留塩素、重金属の数値が大きく変動し、繊細なCRSにとって致死的になり得ます。不純物がほぼゼロのRO水にCRS専用GHミネラル剤を添加して一定の数値を保って換水することが、脱皮不全や突然死を防ぐ最も安全な方法です。"
 ---
 
-クリスタルレッドシュリンプ（Caridina logemanni var. 'Crystal Red'、通称CRS）は、鮮やかな赤と白のバンド模様が美しく、世界中のアクアリウム愛好家から絶大な人気を集めるプレミアム小型甲殻類です。水槽内で絶え間なくツマツマと微生物膜（バイオフィルム）を食べる姿は見る者を魅了しますが、水質や水温の微小な変化に対して非常に敏感です。特に脱皮（Molt）の際、アンモニアや亜硝酸塩、総蒸発残留物（TDS）、総硬度（GH）が不適切だと脱皮不全（Dysecdysis）を起こし、死亡するリスクが高まります。そのため、弱酸性を維持する吸着・栄養系ソイル（Active Soil）の選定、スポンジフィルターの設置、RO（逆浸透膜）水ベースの水質維持が長期飼育の鍵となります。今回はPetSelfが、CRSの行動サインと精密な水質管理、安全な脱皮を助ける3ステップ日常ケアを解説します。
+クリスタルレッドシュリンプ（Caridina logemanni var. 'Crystal Red'、通称CRS）は、鮮やかな赤と白のバンド模様が美しく、世界中のアクアリウム愛好家から絶大な人気を集めるプレミアム小型甲殻類です。水槽内で絶え間なくツマツマと微生物膜（バイオフィルム）を食べる姿は見る者を魅了しますが、水質や水温の微小な変化に対して非常に敏感です。特に脱皮（Molt）の際、アンモニアや亜硝酸塩、総蒸発残留物（TDS）、総硬度（GH）が不適切だと脱皮不全（Dysecdysis）を起こし、死亡するリスクが高まります。そのため、弱酸性を維持する吸着・栄養系ソイル（Active Soil）の選定、スポンジフィルターの設置、RO（逆浸透膜）水ベースの水質維持が長期飼育の鍵となります。本記事では、CRSの行動サインと精密な水質管理、安全な脱皮を助ける3ステップ日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 マヨネーズは、植物油、卵黄、酢（またはレモン汁）を精密に撹拌して作られる代表的な「乳化（エマルション）」食品です。温度変化に非常に敏感で、特に極低温に晒されると油と水分の結合が解ける乳化破壊現象が起こります。
 
-本日FreshSnapでは、米国FDA、USDAおよび食品医薬品安全処のガイドラインに基づき、マヨネーズのコクと滑らかな食感を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国FDA、USDAおよび食品医薬品安全処のガイドラインに基づき、マヨネーズのコクと滑らかな食感を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "No. Aunque las hembras pongan huevos, sus larvas (zoeas) necesitan agua salobre para sobrevivir y desarrollarse. En agua dulce pura, las larvas mueren a los pocos días de nacer."
 ---
 
-Reconocida como la mejor limpiadora de algas en acuarios plantados, la gamba Amano (Caridina multidentata) es un crustáceo transparente con pequeños puntos oscuros. Aunque devora sin descanso algas filamentosas, es sumamente sensible a metales pesados (especialmente cobre), nitratos elevados y cambios bruscos de parámetros o temperatura. Un agua de mala calidad desencadena intentos desesperados de fuga o mudas mortales. PetSelf le presenta una rutina de 3 pasos para protegerlas.
+Reconocida como la mejor limpiadora de algas en acuarios plantados, la gamba Amano (Caridina multidentata) es un crustáceo transparente con pequeños puntos oscuros. Aunque devora sin descanso algas filamentosas, es sumamente sensible a metales pesados (especialmente cobre), nitratos elevados y cambios bruscos de parámetros o temperatura. Un agua de mala calidad desencadena intentos desesperados de fuga o mudas mortales.  le presenta una rutina de 3 pasos para protegerlas.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

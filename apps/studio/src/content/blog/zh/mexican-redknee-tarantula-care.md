@@ -29,7 +29,7 @@ faqs:
     answer: "不是。捕鸟蛛在蜕皮（脱去旧外骨骼）时会完全仰躺（背部着地）。这是正常的蜕皮姿势，绝对不能触碰或将其翻过来，只需稍微提高湿度并静静等待其完成蜕皮。"
 ---
 
-墨西哥红膝头捕鸟蛛（Brachypelma hamorii）是一种极为经典的墨西哥新大陆地栖型蜘蛛，因其乌黑的身体和膝节（Patella）上鲜艳的橙红色斑纹而闻名。在异宠及节肢动物饲养圈中，它因毒性微弱、性格温顺而被公认为最适合新手入门的代表品种。然而，当受到惊吓时，它会用后腿踢出腹部的“刺毛（Urticating hairs）”，引起人体皮肤、眼睛和呼吸道剧烈瘙痒与过敏。此外，如果在蜕皮（Molt）期间环境湿度不当，可能导致致命的蜕皮失败。今天 PetSelf 将为您解析墨西哥红膝头的防御信号、环境温湿度控制以及蜕皮期3阶段护理流程。
+墨西哥红膝头捕鸟蛛（Brachypelma hamorii）是一种极为经典的墨西哥新大陆地栖型蜘蛛，因其乌黑的身体和膝节（Patella）上鲜艳的橙红色斑纹而闻名。在异宠及节肢动物饲养圈中，它因毒性微弱、性格温顺而被公认为最适合新手入门的代表品种。然而，当受到惊吓时，它会用后腿踢出腹部的“刺毛（Urticating hairs）”，引起人体皮肤、眼睛和呼吸道剧烈瘙痒与过敏。此外，如果在蜕皮（Molt）期间环境湿度不当，可能导致致命的蜕皮失败。本指南将为您解析墨西哥红膝头的防御信号、环境温湿度控制以及蜕皮期3阶段护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

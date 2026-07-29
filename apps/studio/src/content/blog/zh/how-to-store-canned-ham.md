@@ -27,7 +27,7 @@ faqs:
 
 罐头午餐肉在未开封时是经过商业无菌处理的常温耐储食品，但一旦开启，空气中的氧气便会涌入。罐内壁的镀锡铁在氧气作用下极易发生氧化腐蚀，不仅会导致金属异味渗入肉中，还会加速油脂酸败与细菌滋生。
 
-今天FreshSnap将为您介绍基于美国USDA与韩国MFDS指南的3步科学午餐肉保存秘诀，帮您避免金属异味，卫生安心地保鲜每一块午餐肉。🛡️
+本指南将为您介绍基于美国USDA与韩国MFDS指南的3步科学午餐肉保存秘诀，帮您避免金属异味，卫生安心地保鲜每一块午餐肉。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

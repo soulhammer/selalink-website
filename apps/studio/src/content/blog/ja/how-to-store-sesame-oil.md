@@ -27,7 +27,7 @@ faqs:
 
 ごま油はえごま油とは異なり、「リグナン（セサモール、セサモリン）」という強力な天然抗酸化成分が豊富に含まれているため、酸化（酸敗）に非常に強い特徴を持っています。しかし、10℃以下の冷たい環境（冷蔵庫）に置くと白く固まり、香ばしいアロマ成分が損なわれます。逆に直射日光やコンロ周りの熱に晒されると酸化が急激に進みます。
 
-本日FreshSnapでは、食品安全機関や専門家が推奨する、ごま油の豊かな香りと栄養を1〜2年間しっかり守る3段階の科学的保存法をご紹介します。🛡️
+本記事では、食品安全機関や専門家が推奨する、ごま油の豊かな香りと栄養を1〜2年間しっかり守る3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

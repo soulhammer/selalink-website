@@ -27,7 +27,7 @@ faqs:
 
 오징어는 수분 함량이 높고 내장 부위에 미생물과 자기분해 효소(Protease)가 집중되어 있어, 손질하지 않고 보관할 경우 내부부터 빠르게 부패하는 특성이 있습니다. 유출된 수액(드립)은 트리메틸아민(TMA) 비린내를 유발하고 냉장고 내부의 다른 식재료까지 오염시킵니다.
 
-오늘 FreshSnap에서는 국립수산과학원(NIFS)과 식품의약품안전처(MFDS)의 수산물 안전 가이드라인을 바탕으로, 비린내를 원천 차단하고 해동 후에도 쫄깃한 식감을 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 국립수산과학원(NIFS)과 식품의약품안전처(MFDS)의 수산물 안전 가이드라인을 바탕으로, 비린내를 원천 차단하고 해동 후에도 쫄깃한 식감을 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "シード類は脂質が高く、ビタミンAやカルシウムが極めて不足しているため、肥満や呼吸器の粘膜異常、毛引きを引き起こします。食事の70%以上を総合栄養ペレットにすることが推奨されます。"
 ---
 
-太陽のような黄色とオレンジの美しい羽色と人懐っこい性格を持つコガネメキシコインコ（サンコニュア）は、世界中で愛されている中型インコです。しかし群れで暮らす高知能な鳥類ゆえに社会的な欲求が強く、大きな高音の呼び鳴きを発し、シード（種子）中心の食事ではビタミンA欠乏症にかかりやすい性質があります。また毎日10〜12時間の静かで暗い睡眠環境がないと、ストレスによる毛引きを起こすことがあります。本日PetSelfでは、コガネメキシコインコの健康を守る3ステップ日常ルーティンをご紹介します。
+太陽のような黄色とオレンジの美しい羽色と人懐っこい性格を持つコガネメキシコインコ（サンコニュア）は、世界中で愛されている中型インコです。しかし群れで暮らす高知能な鳥類ゆえに社会的な欲求が強く、大きな高音の呼び鳴きを発し、シード（種子）中心の食事ではビタミンA欠乏症にかかりやすい性質があります。また毎日10〜12時間の静かで暗い睡眠環境がないと、ストレスによる毛引きを起こすことがあります。本記事では、コガネメキシコインコの健康を守る3ステップ日常ルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

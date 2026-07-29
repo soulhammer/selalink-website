@@ -33,7 +33,7 @@ faqs:
 
 しかし、この折れ耳の遺伝子は、骨や軟骨の形成に障害をもたらす「骨軟骨異形成症」という重篤な遺伝性疾患を引き起こす要因でもあります。耳の軟骨だけでなく全身の骨や関節に影響を及ぼし、四肢や尻尾の軟骨が硬化して生涯にわたり慢性的な痛みを伴うケースが多いです。また、折れた耳の構造上、耳内部の通気性が悪く湿気がこもりやすいため、耳ダニや外耳炎などのトラブルが慢性化しやすい傾向にあります。
 
-本日、PetSelfではスコティッシュフォールドが痛みのサインとして示す特有のポーズを解読し、関節への衝撃を最小限に抑えつつ耳の衛生を維持する3段階のケアを紹介します。
+本記事では、スコティッシュフォールドが痛みのサインとして示す特有のポーズを解読し、関節への衝撃を最小限に抑えつつ耳の衛生を維持する3段階のケアを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

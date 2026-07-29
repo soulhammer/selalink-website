@@ -33,7 +33,7 @@ Le Husky Sibérien est célèbre pour son allure de loup, ses yeux envoûtants e
 
 Cependant, son origine polaire le rend très sensible à la chaleur et à l'humidité, avec un risque élevé de coup de chaleur en été. De plus, comme il a été élevé pour courir des dizaines de kilomètres par jour, si ses besoins énergétiques ne sont pas comblés, il exprime sa frustration par des hurlements ou des destructions dans la maison.
 
-Aujourd'hui, PetSelf décode les vocalisations du Husky et vous présente une routine en 3 étapes pour entretenir son double pelage et gérer son exercice.
+Dans ce guide, décode les vocalisations du Husky et vous présente une routine en 3 étapes pour entretenir son double pelage et gérer son exercice.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

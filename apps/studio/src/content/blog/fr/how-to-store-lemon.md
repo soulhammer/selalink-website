@@ -27,7 +27,7 @@ Avez-vous déjà laissé des citrons dans une corbeille à fruits sur le comptoi
 
 Bien que le citron possède un zeste épais, c'est un agrume dont l'eau s'évapore continuellement par les micropores de sa peau. À température ambiante, le zeste se flétrit et le jus s'assèche en une semaine ; en revanche, l'humidité piégée dans un espace fermé fait proliférer la moisissure bleue-verte (Penicillium).
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la FSA pour bloquer l'évaporation de l'eau et garder vos citrons gorgés de jus pendant plus d'un mois. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la FSA pour bloquer l'évaporation de l'eau et garder vos citrons gorgés de jus pendant plus d'un mois. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

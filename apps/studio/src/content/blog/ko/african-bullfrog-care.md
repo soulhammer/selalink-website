@@ -29,7 +29,7 @@ faqs:
     answer: "온·습도 저하로 하면 코쿤을 만든 상태입니다. 온도를 26 ~ 28℃로 올리고 바닥재 수분을 보충한 뒤, 28 ~ 30℃ 따뜻한 탈염소수로 온욕시키면 코쿤이 녹아 먹이 반응이 회복됩니다."
 ---
 
-아프리카 황소개구리(픽시프로그)는 수컷 체중이 1 ~ 2kg에 달하는 대형 양서류로, 하악의 둔탁한 치골 돌기와 강한 치악력으로 피더 인섹트를 집어삼키는 매복 포식자입니다. 개구리 피부는 가스 및 수분 투과성이 높아 수돗물의 잔류 염소나 배설물의 암모니아 오염에 매우 민감합니다. 환경이 건조해지면 피부 점액을 말려 코쿤을 만들고 하면(Estivation)에 들어가 거식을 보일 수 있습니다. 오늘 PetSelf에서 수질 관리와 거식 예방을 위한 3단계 루틴을 정리해 드립니다.
+아프리카 황소개구리(픽시프로그)는 수컷 체중이 1 ~ 2kg에 달하는 대형 양서류로, 하악의 둔탁한 치골 돌기와 강한 치악력으로 피더 인섹트를 집어삼키는 매복 포식자입니다. 개구리 피부는 가스 및 수분 투과성이 높아 수돗물의 잔류 염소나 배설물의 암모니아 오염에 매우 민감합니다. 환경이 건조해지면 피부 점액을 말려 코쿤을 만들고 하면(Estivation)에 들어가 거식을 보일 수 있습니다. 이번 가이드에서 수질 관리와 거식 예방을 위한 3단계 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

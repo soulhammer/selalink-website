@@ -13,7 +13,7 @@
                     "sleep_pattern": "10 ~ 12시간 (주행성 - 야간은 따뜻한 은신처 휴식)",
                     "temperament": "온순함, 대식가, 힘이 강함, 야외 사육 권장"
                 },
-                "intro": "설카타 육지거북은 성체 체중 45~90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 오늘 PetSelf에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.",
+                "intro": "설카타 육지거북은 성체 체중 45~90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 이번 가이드에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.",
                 "whyTitle": "설카타 육지거북의 생태 본능: 머리 숨기기 방어와 피라미딩 기형",
                 "whyDesc": "위협 시 머리를 넣고 가시 다리로 입구를 막는 **'머리 숨기기(Head Retraction)'** 자세를 취합니다. 영양 불균형 및 건조함 시 등갑이 솟구치는 **'피라미딩(Pyramiding)'** 기형이 나타납니다.",
                 "body_signals": [
@@ -63,7 +63,7 @@
                     "sleep_pattern": "10 - 12 Hours (Diurnal - Rests in warm hides at night)",
                     "temperament": "Docile, Gluttonous, Strong, Outdoor Enclosure Preferred"
                 },
-                "intro": "The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. PetSelf presents a 3-step care routine.",
+                "intro": "The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. This guide presents a 3-step care routine.",
                 "whyTitle": "Sulcata Tortoise Instincts: Head Retraction and Pyramiding Deformity",
                 "whyDesc": "They execute **'Head Retraction'** when threatened. Excess protein and low humidity cause **'Pyramiding'**, where scutes grow vertically.",
                 "body_signals": [
@@ -263,7 +263,7 @@
                     "sleep_pattern": "10 - 12 heures (diurne - abris chauds)",
                     "temperament": "Docile, gloutonne, puissante, enclos extérieur recommandé"
                 },
-                "intro": "C'est la 3e plus grande tortue (45-90 kg). Un régime riche en fibres, pauvre en protéines, un éclairage UVB et de l'humidité sont cruciaux pour éviter le pyramideur. PetSelf présente la routine en 3 étapes.",
+                "intro": "C'est la 3e plus grande tortue (45-90 kg). Un régime riche en fibres, pauvre en protéines, un éclairage UVB et de l'humidité sont cruciaux pour éviter le pyramideur. Ce guide vous propose la routine en 3 étapes.",
                 "whyTitle": "Instincts de la tortue sulcata : Rétraction de la tête et pyramideur",
                 "whyDesc": "Elle adopte la **'Rétraction de la tête'** en cas de menace. L'excès de protéines et le manque d'humidité provoquent le **'Pyramideur'**.",
                 "body_signals": [
@@ -313,7 +313,7 @@
                     "sleep_pattern": "10 - 12 Stunden (tagaktiv - warme Verstecke)",
                     "temperament": "Friedlich, gefräßig, kräftig, Freigehege empfohlen"
                 },
-                "intro": "Die Spornschildkröte wird 45–90 kg schwer. Rohfaserreiches Futter, UVB-Licht und Feuchtigkeit verhindern die Höckerbildung des Panzers. Heute erklärt PetSelf die 3-Schritt-Routine.",
+                "intro": "Die Spornschildkröte wird 45–90 kg schwer. Rohfaserreiches Futter, UVB-Licht und Feuchtigkeit verhindern die Höckerbildung des Panzers. Heute erklärt  die 3-Schritt-Routine.",
                 "whyTitle": "Instinkte der Spornschildkröte: Kopf-Rückzug und Höckerbildung",
                 "whyDesc": "Bei Gefahr zeigt sie den **'Kopf-Rückzug'**. Eiweißüberschuss und Trockenheit führen zur **'Höckerbildung (Pyramiding)'**.",
                 "body_signals": [
@@ -413,7 +413,7 @@
                     "sleep_pattern": "10 - 12 jam (diurnal - tidur di tempat hangat)",
                     "temperament": "Penurut, rakus, kuat, disarankan kandang luar"
                 },
-                "intro": "Kura-kura Sulcata adalah spesies terbesar ke-3 di dunia (45-90 kg). Diet tinggi serat, lampu UVB, dan kelembapan sangat penting untuk mencegah piramidisasi tempurung. Hari ini PetSelf membagikan 3 langkah rutinitas.",
+                "intro": "Kura-kura Sulcata adalah spesies terbesar ke-3 di dunia (45-90 kg). Diet tinggi serat, lampu UVB, dan kelembapan sangat penting untuk mencegah piramidisasi tempurung. Dalam panduan ini, membagikan 3 langkah rutinitas.",
                 "whyTitle": "Insting Kura-kura Sulcata: Menarik Kepala dan Piramidisasi Tempurung",
                 "whyDesc": "Saat terancam, mereka melakukan **'Menarik Kepala'**. Protein berlebih dan udara kering menyebabkan **'Piramidisasi'**, di mana lempeng tempurung tumbuh mencuat ke atas.",
                 "body_signals": [

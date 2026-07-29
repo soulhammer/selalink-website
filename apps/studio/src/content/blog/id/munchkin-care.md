@@ -29,7 +29,7 @@ faqs:
     answer: "Kelebihan berat badan akan memberikan beban berlebih pada kaki pendek dan punggung panjang mereka, mempercepat radang sendi. Jaga berat badannya dengan porsi makan yang diatur ketat."
 ---
 
-Kucing Munchkin terkenal karena sifatnya yang manis dan kaki-kakinya yang pendek menggemaskan. Walaupun mereka tergolong aktif dan gesit, anggota tubuh yang pendek berarti sendi dan punggung mereka menerima gaya benturan yang lebih besar saat melompat. Munchkin rentan terhadap penyakit lordosis (tulang belakang melengkung) dan radang sendi (osteoartritis) dini. Hari ini, PetSelf mengulas bahasa tubuh Munchkin yang menunjukkan nyeri sendi dan membagikan 3 langkah rutinitas area rendah untuk memproteksi tulang belakang mereka.
+Kucing Munchkin terkenal karena sifatnya yang manis dan kaki-kakinya yang pendek menggemaskan. Walaupun mereka tergolong aktif dan gesit, anggota tubuh yang pendek berarti sendi dan punggung mereka menerima gaya benturan yang lebih besar saat melompat. Munchkin rentan terhadap penyakit lordosis (tulang belakang melengkung) dan radang sendi (osteoartritis) dini. Dalam panduan ini, mengulas bahasa tubuh Munchkin yang menunjukkan nyeri sendi dan membagikan 3 langkah rutinitas area rendah untuk memproteksi tulang belakang mereka.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

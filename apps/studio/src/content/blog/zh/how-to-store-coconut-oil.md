@@ -27,7 +27,7 @@ faqs:
 
 椰子油的饱和脂肪酸含量高达90%左右，是植物油中化学结构最稳定的油脂之一。因此它的氧化酸败（Rancidity）速度极其缓慢，但具有在24℃左右随温度变化在固态与液态之间切换的独特物理特性。
 
-今天FreshSnap基于USDA、韩国MFDS及亚太椰子共同体（APCC）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定椰子油的香甜风味与营养成分。🛡️
+本指南基于USDA、韩国MFDS及亚太椰子共同体（APCC）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定椰子油的香甜风味与营养成分。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

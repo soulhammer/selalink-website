@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan minyak wijen di kulkas agar lebih awet, lalu mendapatin
 
 Berbeda dengan minyak perilla, minyak wijen kaya akan antioksidan alami kuat yang disebut lignan (seperti sesamol dan sesamolin), menjadikannya sangat tahan terhadap oksidasi lemak (ketengikan). Namun, menyimpannya di tempat dingin di bawah 10°C (seperti kulkas) menyebabkan minyak mengkristal dan merusak senyawa aromanya. Sebaliknya, paparan sinar matahari langsung atau panas kompor akan mempercepat pembusukan.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keselamatan pangan untuk menjaga aroma gurih dan nutrisi minyak wijen Anda selama 1 hingga 2 tahun. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keselamatan pangan untuk menjaga aroma gurih dan nutrisi minyak wijen Anda selama 1 hingga 2 tahun. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

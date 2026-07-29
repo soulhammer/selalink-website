@@ -29,7 +29,7 @@ faqs:
     answer: "随着乌龟的成长，旧甲壳的碎片会以透明、薄板状自然脱落，这被称为“蜕甲”，是完全正常的发育过程。但如果出现白色粘液、甲壳变软并伴有恶臭，可能是细菌感染性甲壳腐烂病，需送医治疗。"
 ---
 
-密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。今天 PetSelf 将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段日常护理流程。
+密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。本指南将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

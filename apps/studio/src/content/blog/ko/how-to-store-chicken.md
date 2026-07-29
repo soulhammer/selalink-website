@@ -27,7 +27,7 @@ faqs:
 
 생닭은 수분 함량이 높고 단백질 조직이 연해 캠필로박터제주니(Campylobacter)나 살모넬라(Salmonella) 같은 식중독 유해균이 번식하기 가장 쉬운 육류입니다. 특히 생닭을 물로 씻으면 미세 수분 입자가 튀어 주변 식기와 도마를 오염시키는 '교차 오염'이 발생하기 쉽습니다.
 
-오늘 FreshSnap에서는 미국 질병통제예방센터(CDC)와 식품의약품안전처(MFDS)의 위생 가이드라인에 기반하여, 교차 오염을 방지하고 닭고기의 육질과 신선도를 안전하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 질병통제예방센터(CDC)와 식품의약품안전처(MFDS)의 위생 가이드라인에 기반하여, 교차 오염을 방지하고 닭고기의 육질과 신선도를 안전하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

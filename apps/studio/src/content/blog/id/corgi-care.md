@@ -29,7 +29,7 @@ faqs:
     answer: "Corgi memiliki bulu ganda yang rontok parah. Sikat setiap hari bergantian dengan sikat slicker dan sisir garu (rake) untuk mengangkat bulu mati, menjaga sirkulasi udara, dan mencegah infeksi kulit."
 ---
 
-Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagian belakangnya yang bulat. Sebagai mantan anjing gembala, mereka memiliki kecerdasan tinggi, energi aktif yang besar, dan kepribadian yang berani. Namun, punggung yang panjang dan kaki yang pendek memberi tekanan struktural yang besar pada tulang belakang dan sendi. Obesitas meningkatkan risiko masalah hernias diskus. Hari ini, PetSelf mengeksplorasi bahasa tubuh mereka dan memperkenalkan rutinitas 3 langkah untuk melindungi tulang belakang dan patela.
+Welsh Corgi adalah ras yang sangat dicintai karena kakinya yang pendek dan bagian belakangnya yang bulat. Sebagai mantan anjing gembala, mereka memiliki kecerdasan tinggi, energi aktif yang besar, dan kepribadian yang berani. Namun, punggung yang panjang dan kaki yang pendek memberi tekanan struktural yang besar pada tulang belakang dan sendi. Obesitas meningkatkan risiko masalah hernias diskus. Dalam panduan ini, kami mengeksplorasi bahasa tubuh mereka dan memperkenalkan rutinitas 3 langkah untuk melindungi tulang belakang dan patela.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

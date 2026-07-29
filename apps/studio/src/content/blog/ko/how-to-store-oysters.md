@@ -27,7 +27,7 @@ faqs:
 
 굴은 수분이 풍부하고 수확 후에도 생화학적 변화가 활발하여 식중독균(비브리오 패혈증균, 노로바이러스 등)이 번식하기 매우 쉬운 고위험 패류입니다. 수돗물에 담가두거나 밀폐 상태로 방치하면 금세 망가지므로 올바른 저온 보관법이 생명입니다.
 
-오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 굴의 신선도와 안전을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 굴의 신선도와 안전을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

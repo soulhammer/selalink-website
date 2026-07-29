@@ -29,7 +29,7 @@ faqs:
     answer: "連続産卵は体内のカルシウムを急速に奪い、骨代謝障害や卵が詰まって出なくなる致死的な「卵詰まり（Egg Binding/難産）」を引き起こします。防ぐためには1日10〜12時間以上の完全遮光睡眠で日照時間を減らし、背中へのタッチを避け、巣箱や鏡などの発情誘発要素を直ちに撤去してください。"
 ---
 
-南米の熱帯雨林原産のホオミドリアカオウロコインコ（グリーンチークコニュア）は、鮮やかな羽色とお茶目な性格、コニュア類の中では比較的小さな鳴き声で世界中から愛されている小型インコです。飼い主の手や服の中に潜り込むほど人懐っこい反面、鳥類特有の気嚢（Air Sacs）構造のため、テフロン（PTFE）加熱ガスやスプレー、アロマオイルなどの空気中有害物質に極めて敏感です。またシード中心の脂質過多な食事はビタミンA欠乏症や脂肪肝を引き起こしやすく、過度な発情刺激は致死的な「卵詰まり（Egg Binding/難産）」を引き起こす危険があります。本日PetSelfでは、ウロコインコのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+南米の熱帯雨林原産のホオミドリアカオウロコインコ（グリーンチークコニュア）は、鮮やかな羽色とお茶目な性格、コニュア類の中では比較的小さな鳴き声で世界中から愛されている小型インコです。飼い主の手や服の中に潜り込むほど人懐っこい反面、鳥類特有の気嚢（Air Sacs）構造のため、テフロン（PTFE）加熱ガスやスプレー、アロマオイルなどの空気中有害物質に極めて敏感です。またシード中心の脂質過多な食事はビタミンA欠乏症や脂肪肝を引き起こしやすく、過度な発情刺激は致死的な「卵詰まり（Egg Binding/難産）」を引き起こす危険があります。本記事では、ウロコインコのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

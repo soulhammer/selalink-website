@@ -29,7 +29,7 @@ faqs:
     answer: "Sim. Por não possuírem subpelo isolante nem gordura suficiente, temperaturas abaixo de 10-15 °C representam risco de hipotermia. Roupas térmicas ou casacos bem ajustados são indispensáveis."
 ---
 
-O Galguinho Italiano (IG) é um lebrel gracioso e esbelto, muito amado por tutores urbanos pelo seu temperamento dócil e hábitos limpos. Com pouquíssima gordura corporal e pelagem fina, são extremamente sensíveis ao frio. Além disso, as suas pernas finas e longas correm elevado risco de fraturas de rádio/cúbito ou luxação de patela ao saltar de móveis altos. Hoje no PetSelf, descodificamos os sinais comportamentais do Galguinho Italiano e partilhamos uma rotina de 3 passos para a saúde térmica e articular.
+O Galguinho Italiano (IG) é um lebrel gracioso e esbelto, muito amado por tutores urbanos pelo seu temperamento dócil e hábitos limpos. Com pouquíssima gordura corporal e pelagem fina, são extremamente sensíveis ao frio. Além disso, as suas pernas finas e longas correm elevado risco de fraturas de rádio/cúbito ou luxação de patela ao saltar de móveis altos. Neste guia, descodificamos os sinais comportamentais do Galguinho Italiano e partilhamos uma rotina de 3 passos para a saúde térmica e articular.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

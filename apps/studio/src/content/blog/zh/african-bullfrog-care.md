@@ -29,7 +29,7 @@ faqs:
     answer: "牛蛙已结茧进入夏眠。将温度提升至26 ~ 28°C，加湿垫料，并用28 ~ 30°C温热无氯水温浴融化硬茧即可唤醒食欲。"
 ---
 
-非洲牛蛙雄性体型庞大，体重可达1 ~ 2公斤。其下颚拥有齿状突起，是顶级伏击猎手。但由于渗透性皮肤，它们对水中的余氯和氨极度敏感。干燥时会结茧夏眠并拒绝进食。今天 PetSelf 为您梳理去氯水质与预防拒食的3阶段日常护理流程。
+非洲牛蛙雄性体型庞大，体重可达1 ~ 2公斤。其下颚拥有齿状突起，是顶级伏击猎手。但由于渗透性皮肤，它们对水中的余氯和氨极度敏感。干燥时会结茧夏眠并拒绝进食。本指南为您梳理去氯水质与预防拒食的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

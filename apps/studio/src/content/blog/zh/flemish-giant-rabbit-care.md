@@ -29,7 +29,7 @@ faqs:
     answer: "兔子没有足底肉垫，靠毛发保护骨头。巨型兔体重极重，在铁丝网或光滑地板上极易患脚底溃疡。必须铺设厚实柔软的防滑垫或记忆棉地毯。"
 ---
 
-弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。今天 PetSelf 将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。
+弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。本指南将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

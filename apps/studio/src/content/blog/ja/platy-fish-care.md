@@ -29,7 +29,7 @@ faqs:
     answer: "プラティには自分の稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」の習性があります。メスのお腹が四角く（L字型に）張り、目立ってきたら出産直前ですので産卵箱へ移動させてください。本水槽で自然出産させる場合は、稚魚が隠れられるようウィローモスやマツモなどの水草を密生させることが不可欠です。"
 ---
 
-尾ヒレの付け根に黒いミッキーマウスの顔の形をした模様が入るミッキーマウスプラティ（Xiphophorus maculatus）は、鮮やかな体色と優れた環境適応力で世界中で愛されている代表的な卵胎生メダカ科の熱帯魚です。お腹の中で卵を孵化させて稚魚を産む卵胎生特有の強い繁殖力を持ちますが、水温が22°C以下に急降下したり水質が悪化すると、体に白い点がつく「白点病（Ich）」やヒレをたたむ症状にかかりやすくなります。また、出産直後に親魚が稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」が起きやすく、水質ショックによる早産や寄生虫感染にも注意が必要です。本日PetSelfでは、ミッキーマウスプラティのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
+尾ヒレの付け根に黒いミッキーマウスの顔の形をした模様が入るミッキーマウスプラティ（Xiphophorus maculatus）は、鮮やかな体色と優れた環境適応力で世界中で愛されている代表的な卵胎生メダカ科の熱帯魚です。お腹の中で卵を孵化させて稚魚を産む卵胎生特有の強い繁殖力を持ちますが、水温が22°C以下に急降下したり水質が悪化すると、体に白い点がつく「白点病（Ich）」やヒレをたたむ症状にかかりやすくなります。また、出産直後に親魚が稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」が起きやすく、水質ショックによる早産や寄生虫感染にも注意が必要です。本記事では、ミッキーマウスプラティのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

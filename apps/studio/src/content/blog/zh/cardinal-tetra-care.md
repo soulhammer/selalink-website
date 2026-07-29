@@ -29,7 +29,7 @@ faqs:
     answer: "霓虹灯病是由微孢子虫（Pleistophora hyphessobryconis）寄生引起的致死性疾病，病鱼体色褪白、脊柱变形并死亡。目前尚无有效药物，发现病鱼须立即隔离以防传染，日常应维持优良水质以作预防。"
 ---
 
-红莲灯鱼（又称宝莲灯鱼）拥有贯穿全身的霓虹蓝色荧光条纹与通体鲜红的腹部，是热带水草缸中最具代表性的群游观赏鱼。与日光灯鱼（日光霓虹灯）不同，红莲灯鱼的红色覆盖整个腹部，色彩更加浓郁艳丽。然而它们对水质要求较高，偏好弱酸性（pH 5.5–6.8）软水，对 pH 休克、水温剧变及硝酸盐堆积极度敏感。此外，它们需要成群游动以获得安全感。今天 PetSelf 为您解析红莲灯鱼的健康信号并提供3步日常护理流程。
+红莲灯鱼（又称宝莲灯鱼）拥有贯穿全身的霓虹蓝色荧光条纹与通体鲜红的腹部，是热带水草缸中最具代表性的群游观赏鱼。与日光灯鱼（日光霓虹灯）不同，红莲灯鱼的红色覆盖整个腹部，色彩更加浓郁艳丽。然而它们对水质要求较高，偏好弱酸性（pH 5.5–6.8）软水，对 pH 休克、水温剧变及硝酸盐堆积极度敏感。此外，它们需要成群游动以获得安全感。本指南为您解析红莲灯鱼的健康信号并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

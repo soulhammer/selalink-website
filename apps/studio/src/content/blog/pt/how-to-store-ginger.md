@@ -27,7 +27,7 @@ Você já comprou gengibre fresco e em poucos dias percebeu que ele mofou ou res
 
 O gengibre é rico em umidade e fibras, mas é extremamente sensível à umidade excessiva, que causa mofo rapidamente. Por outro lado, a exposição prolongada ao ar evapora sua umidade interna, deixando-o duro e fibroso. Além disso, o gengibre mofado desenvolve micotoxinas perigosas, exigindo um armazenamento cuidadoso.
 
-Hoje, o FreshSnap apresenta um guia de conservação do gengibre em 3 etapas recomendado por especialistas para manter o frescor e o sabor picante. 🛡️
+Neste guia, apresentamos um guia de conservação do gengibre em 3 etapas recomendado por especialistas para manter o frescor e o sabor picante. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

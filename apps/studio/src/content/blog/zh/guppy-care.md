@@ -29,7 +29,7 @@ faqs:
     answer: "母鱼的腹部会由圆润变为“方形（呈现L型）”，胎斑（靠近臀鳍处）显著变黑并凸出。若出现躲在角落或贴着缸壁上下频繁游动的行为，应及时隔离至繁殖盒中。"
 ---
 
-孔雀鱼（Guppy）因其绚丽的尾鳍和顽强的生命力，被誉为“热带鱼的入门与终点”。然而，若过滤系统不足或遭遇水质剧烈波动（氨氮、亚硝酸盐飙升），孔雀鱼极易患上烂鳍病（Fin Rot）或针尾病。此外，作为直接产下小鱼的卵胎生鱼类，幼鱼保护与母鱼孕期护理至关重要。今天 PetSelf 将带您准确解读孔雀鱼的身体语言，并介绍维持清澈水质环境的3步骤日常护理流程。
+孔雀鱼（Guppy）因其绚丽的尾鳍和顽强的生命力，被誉为“热带鱼的入门与终点”。然而，若过滤系统不足或遭遇水质剧烈波动（氨氮、亚硝酸盐飙升），孔雀鱼极易患上烂鳍病（Fin Rot）或针尾病。此外，作为直接产下小鱼的卵胎生鱼类，幼鱼保护与母鱼孕期护理至关重要。本指南将带您准确解读孔雀鱼的身体语言，并介绍维持清澈水质环境的3步骤日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

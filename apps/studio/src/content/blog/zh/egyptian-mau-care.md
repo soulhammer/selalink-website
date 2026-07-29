@@ -29,7 +29,7 @@ faqs:
     answer: "不是。从侧腹延伸至后膝关节的松弛皮肤褶皱 (Flank flap) 是埃及猫特有的解剖学特征，它能让后腿在奔跑时向后大幅度伸展，从而实现极致的奔跑速度。"
 ---
 
-埃及猫是唯一拥有自然形成斑点被纹的家猫品种，被认为是古埃及壁画中所描绘的神圣王室猫咪的直系后裔。它们拥有如“鹅莓绿 (Gooseberry green)”般清澈的眼眸、额头的圣甲虫 (Scarab) 斑纹，以及延伸至后肢的侧腹皮肤褶皱 (Flank flap)。作为家猫中跑得最快的品种，其奔跑时速可达48公里/小时，因此充足的3D垂直活动空间和爆发性运动至关重要。埃及猫对主人拥有极强的忠诚度与依赖感，需要宠主给予细心的情感陪伴。今天 PetSelf 将解析埃及猫的专属语言并分享3阶段日常护理流程。
+埃及猫是唯一拥有自然形成斑点被纹的家猫品种，被认为是古埃及壁画中所描绘的神圣王室猫咪的直系后裔。它们拥有如“鹅莓绿 (Gooseberry green)”般清澈的眼眸、额头的圣甲虫 (Scarab) 斑纹，以及延伸至后肢的侧腹皮肤褶皱 (Flank flap)。作为家猫中跑得最快的品种，其奔跑时速可达48公里/小时，因此充足的3D垂直活动空间和爆发性运动至关重要。埃及猫对主人拥有极强的忠诚度与依赖感，需要宠主给予细心的情感陪伴。本指南将解析埃及猫的专属语言并分享3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

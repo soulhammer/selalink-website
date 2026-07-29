@@ -29,7 +29,7 @@ faqs:
     answer: "아키타견은 1년에 2회 대대적인 털갈이(Blowout)를 겪으며, 이때 속털이 뭉텅이로 빠집니다. 매일 빗질로 속털을 제거해야 피부병을 막을 수 있습니다. 여름철에는 서늘한 온도(20 ~ 22°C)를 유지하고 낮 시간 야외 활동을 엄격히 제한해야 합니다."
 ---
 
-아키타견은 영화 '하치 이야기'의 주인공으로 잘 알려진 일본의 대표적인 대형 명품견으로, 보호자에 대한 절대적인 충성심과 위엄 있는 체구로 전 세계 반려인들에게 존경받는 품종입니다. 삼림과 산악 지대의 추운 기후에 적응한 매우 빽빽한 이중모(Double Coat)를 가져 사계절 중 특히 봄·가을 털갈이 시기에 엄청난 양의 죽은 털이 배출됩니다. 또한 지능이 높고 독립성이 강해 어릴 때부터 일관된 리더십 훈련과 사회화 교육이 이뤄지지 않으면 타인이나 다른 개에게 서열 주장 및 공격성을 보이기 쉽습니다. 오늘 PetSelf에서는 아키타견의 본능 시그널을 해석하고, 이중모 빗질, 리더십 구축, 서늘한 체온 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+아키타견은 영화 '하치 이야기'의 주인공으로 잘 알려진 일본의 대표적인 대형 명품견으로, 보호자에 대한 절대적인 충성심과 위엄 있는 체구로 전 세계 반려인들에게 존경받는 품종입니다. 삼림과 산악 지대의 추운 기후에 적응한 매우 빽빽한 이중모(Double Coat)를 가져 사계절 중 특히 봄·가을 털갈이 시기에 엄청난 양의 죽은 털이 배출됩니다. 또한 지능이 높고 독립성이 강해 어릴 때부터 일관된 리더십 훈련과 사회화 교육이 이뤄지지 않으면 타인이나 다른 개에게 서열 주장 및 공격성을 보이기 쉽습니다. 이번 가이드에서는 아키타견의 본능 시그널을 해석하고, 이중모 빗질, 리더십 구축, 서늘한 체온 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "放低您的姿态，避免直接且持续地盯着它们看，因为猫咪将注视视为威胁。让它们先嗅闻您的手指，并在它们靠近时给予零食奖励。"
 ---
 
-俄罗斯蓝猫是一种迷人的猫咪，以其银蓝色短毛和绿色的眼睛而闻名。它们安静、温和且对家庭极度忠诚，但在遗传上较为胆小、内向，对噪音或环境的变化极度敏感。🐱 这就是为什么当有客人来访或吸尘器运行时，它们会迅速躲进猫爬架或衣柜深处。强迫它们出来只会引起更多的恐慌。今天 PetSelf 将分享如何为内向的俄罗斯蓝猫打造安全的避风港，并介绍一套3步日常建立信任的触碰护理流程。
+俄罗斯蓝猫是一种迷人的猫咪，以其银蓝色短毛和绿色的眼睛而闻名。它们安静、温和且对家庭极度忠诚，但在遗传上较为胆小、内向，对噪音或环境的变化极度敏感。🐱 这就是为什么当有客人来访或吸尘器运行时，它们会迅速躲进猫爬架或衣柜深处。强迫它们出来只会引起更多的恐慌。本指南将分享如何为内向的俄罗斯蓝猫打造安全的避风港，并介绍一套3步日常建立信任的触碰护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "No. Guinea pigs are herd animals with strong social needs and can suffer from severe depression and lethargy if kept alone. They should always be housed in compatible same-sex pairs or neutered groups."
 ---
 
-Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur) and active, curious nature. Because they lack the enzyme needed to synthesize Vitamin C naturally, a dietary deficit rapidly leads to scurvy, swollen joints, and low immunity. Additionally, their delicate respiratory tracts make cage hygiene and dust-free hay selection vital. Today, PetSelf decodes guinea pig vocal and physical signals and shares a 3-step homecare routine for Vitamin C enrichment and respiratory health.
+Abyssinian guinea pigs are widely loved for their unique rosettes (swirls of fur) and active, curious nature. Because they lack the enzyme needed to synthesize Vitamin C naturally, a dietary deficit rapidly leads to scurvy, swollen joints, and low immunity. Additionally, their delicate respiratory tracts make cage hygiene and dust-free hay selection vital. In this guide, decodes guinea pig vocal and physical signals and shares a 3-step homecare routine for Vitamin C enrichment and respiratory health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 卵の殻（卵殻）には目に見えない数千個の微細な穴（気孔）が開いており、呼吸をしている生きた食材です。水洗いすると、表面を保護している天然のタンパク質膜「クチクラ（Cuticle）」が破壊され、サルモネラ菌などの有害菌が内部に侵入しやすくなります。また、ドアポケットでの保存は頻繁な温度変化と振動で白身の弾力を急速に失わせます。
 
-本日FreshSnapでは、食品医薬品安全処（MFDS）および米国農務省（USDA）のガイドラインに基づき、卵の鮮度と 安全性を45日以上守る3段階の科学的保存法をご紹介します。🛡️
+本記事では、食品医薬品安全処（MFDS）および米国農務省（USDA）のガイドラインに基づき、卵の鮮度と 安全性を45日以上守る3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

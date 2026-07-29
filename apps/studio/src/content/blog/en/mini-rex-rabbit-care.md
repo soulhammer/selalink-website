@@ -29,7 +29,7 @@ faqs:
     answer: "GI Stasis is a life-threatening condition where gut motility slows or stops due to low fiber diets, stress, or pain. Rabbits need continuous fiber from unlimited Timothy hay to keep their digestive tract moving smoothly."
 ---
 
-Boasting a plush velvet-like coat and a compact body, the Mini Rex is one of the most popular rabbit breeds. Due to their unique coat mutation, they lack stiff guard hairs on their footpads, making them highly vulnerable to sore hocks (pododermatitis) when housed on hard surfaces. Additionally, as strict herbivores, they require an unlimited supply of high-fiber Timothy hay to prevent fatal Gastrointestinal (GI) Stasis. Today, PetSelf outlines a 3-step daily routine for foot protection and gut health.
+Boasting a plush velvet-like coat and a compact body, the Mini Rex is one of the most popular rabbit breeds. Due to their unique coat mutation, they lack stiff guard hairs on their footpads, making them highly vulnerable to sore hocks (pododermatitis) when housed on hard surfaces. Additionally, as strict herbivores, they require an unlimited supply of high-fiber Timothy hay to prevent fatal Gastrointestinal (GI) Stasis. In this guide, outlines a 3-step daily routine for foot protection and gut health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

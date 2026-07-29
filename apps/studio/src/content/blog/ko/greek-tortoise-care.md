@@ -29,7 +29,7 @@ faqs:
     answer: "등갑 마디가 뾰족하게 솟아오르는 기형 증상입니다. 단백질 과다 섭취, 칼슘 및 UVB 부족, 사육장 내 낮은 습도가 주원인입니다. 적절한 습도(40 ~ 60%) 유지, 미온수 온수욕, 칼슘제 급여, 충분한 UVB 조사가 예방의 핵심입니다."
 ---
 
-도톰하고 아름다운 모자이크 무늬 등갑과 온순한 성격을 지닌 그리스 육지거북은 대표적인 지중해 육지거북입니다. 햇볕을 좋아하는 주행성 파충류로, 칼슘 흡수를 위한 강력한 UVB 조사와 적정 온·습도 유지가 필수적입니다. 자칫 칼슘 결핍이나 수분 부족이 발생하면 등갑이 뾰족하게 솟아오르는 피라미딩(Pyramiding), 대사성 뼈 질환(MBD), 그리고 결석을 유발하는 요산 적체가 일어날 수 있습니다. 오늘 PetSelf에서는 그리스 육지거북의 건강 신호를 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
+도톰하고 아름다운 모자이크 무늬 등갑과 온순한 성격을 지닌 그리스 육지거북은 대표적인 지중해 육지거북입니다. 햇볕을 좋아하는 주행성 파충류로, 칼슘 흡수를 위한 강력한 UVB 조사와 적정 온·습도 유지가 필수적입니다. 자칫 칼슘 결핍이나 수분 부족이 발생하면 등갑이 뾰족하게 솟아오르는 피라미딩(Pyramiding), 대사성 뼈 질환(MBD), 그리고 결석을 유발하는 요산 적체가 일어날 수 있습니다. 이번 가이드에서는 그리스 육지거북의 건강 신호를 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

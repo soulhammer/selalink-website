@@ -29,7 +29,7 @@ faqs:
     answer: "不能。天竺鼠是极度群居的动物，单只饲养会导致严重的孤独抑郁与食欲不振。强烈建议成对（相同性别或已绝育）或小群饲养。"
 ---
 
-阿比西尼亚天竺鼠因其浑身独特的涡旋状逆毛（毛旋）和活泼亲人的性格而广受喜爱。由于体内缺乏合成维生素C所需的酶，一旦饮食缺乏极易导致坏血病、关节肿胀和免疫力急剧下降。同时，天竺鼠的呼吸道非常脆弱，对灰尘极度敏感。今天，PetSelf 将分析天竺鼠的情绪声音与肢体动作，并分享确保维生素C摄入与呼吸道健康的3阶段每日护理流程。
+阿比西尼亚天竺鼠因其浑身独特的涡旋状逆毛（毛旋）和活泼亲人的性格而广受喜爱。由于体内缺乏合成维生素C所需的酶，一旦饮食缺乏极易导致坏血病、关节肿胀和免疫力急剧下降。同时，天竺鼠的呼吸道非常脆弱，对灰尘极度敏感。今天，本指南将分析天竺鼠的情绪声音与肢体动作，并分享确保维生素C摄入与呼吸道健康的3阶段每日护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

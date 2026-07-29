@@ -27,7 +27,7 @@ faqs:
 
 燕麦（オートミール）は食物繊維と不飽和脂肪酸（脂質約5〜9%）が豊富な優れた穀物ですが、米や小麦に比べて脂質含有量が高いため、空気中の酸素や光、熱に晒されると脂質の酸化（酸敗）が急速に進みます。また、メイガやコクゾウムシなどの穀物害虫が好む食材でもあります。
 
-本日FreshSnapでは、米国農務省（USDA）などの安全ガイドラインに基づき、オートミールの香ばしい風味と品質を1年以上守る3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、オートミールの香ばしい風味と品質を1年以上守る3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

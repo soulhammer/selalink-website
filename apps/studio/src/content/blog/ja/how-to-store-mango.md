@@ -27,7 +27,7 @@ faqs:
 
 マンゴーは代表的な「追熟（クライマクテリック）型」の果物で、収穫後も自らエチレンガスを放出して熟していく特性があります。また熱帯果実であるため、未熟な状態で冷気に晒されると熟成が止まり、「低温障害」を起こして皮が灰褐色に変色し、風味を永遠に失ってしまいます。
 
-本日FreshSnapでは、農学および食品安全の専門家が推奨する、マンゴーの甘みを最大限に引き出し、鮮度を保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、農学および食品安全の専門家が推奨する、マンゴーの甘みを最大限に引き出し、鮮度を保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

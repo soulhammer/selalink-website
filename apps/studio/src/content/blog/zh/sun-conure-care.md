@@ -29,7 +29,7 @@ faqs:
     answer: "纯种子日粮脂肪含量过高，且严重缺乏维他命A和钙，易导致肥胖、呼吸道黏膜病变和拔羽症。日常饮食中滋养丸应占 70% 以上。"
 ---
 
-太阳锥尾鹦鹉（俗称金太阳）拥有如阳光般璀璨的黄橙色羽毛和十分亲人的性格，是备受喜爱的中型鹦鹉。然而作为高智商群居鸟类，它们社交需求强烈且伴有高频尖叫（呼唤同伴），若长期喂食纯种子饲料极易患上维他命A缺乏症。此外，如果无法保证每天10–12小时安静黑暗的睡眠环境，极易因压力过大导致拔羽症（Self-Plucking）。今天 PetSelf 将为您解析太阳锥尾鹦鹉的健康信号，并提供3步日常护理流程。
+太阳锥尾鹦鹉（俗称金太阳）拥有如阳光般璀璨的黄橙色羽毛和十分亲人的性格，是备受喜爱的中型鹦鹉。然而作为高智商群居鸟类，它们社交需求强烈且伴有高频尖叫（呼唤同伴），若长期喂食纯种子饲料极易患上维他命A缺乏症。此外，如果无法保证每天10–12小时安静黑暗的睡眠环境，极易因压力过大导致拔羽症（Self-Plucking）。本指南将为您解析太阳锥尾鹦鹉的健康信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

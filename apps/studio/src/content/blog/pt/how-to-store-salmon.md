@@ -27,7 +27,7 @@ Você já comprou salmão fresco de cor rosa-coral e no dia seguinte percebeu qu
 
 O salmão possui alto teor de água e é muito rico em ácidos graxos insaturados ômega-3, sendo extremamente suscetível à rápida oxidação lipídica (rancificação) e deterioração bacteriana em contato com o oxigênio. O líquido (drip) que escorre da pele e carne é a principal fonte de mau odor (trimetilamina) e proliferação de bactérias.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA e do USDA para eliminar odores, prevenir a oxidação e queimaduras de gelo, mantendo seu salmão fresco. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da FDA e do USDA para eliminar odores, prevenir a oxidação e queimaduras de gelo, mantendo seu salmão fresco. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

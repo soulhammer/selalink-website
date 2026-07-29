@@ -27,7 +27,7 @@ Have you ever stored fresh grapes in the refrigerator only to find them dropping
 
 Grapes have very thin skins and are densely packed along the cluster stem. Excessive humidity causes gray mold fungus (Botrytis) to thrive, while dry conditions wither the stems, causing berries to drop rapidly. Protecting their natural wax layer (bloom) and controlling moisture are the keys to freshness.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to preserve the natural bloom, prevent berry drop, and keep your grapes firm and sweet for over 2 weeks. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to preserve the natural bloom, prevent berry drop, and keep your grapes firm and sweet for over 2 weeks. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

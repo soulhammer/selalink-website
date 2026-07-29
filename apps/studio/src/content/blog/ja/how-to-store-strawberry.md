@@ -27,7 +27,7 @@ faqs:
 
 イチゴは皮が非常に薄く、組織が柔らかい小果樹類で、水分吸収や物理的な圧力に極めて弱いです。特に保存前に洗ったりヘタを取ったり、密閉保存すると、灰色かび病菌（Botrytis）が急速に繁殖する絶好の環境になってしまいます。
 
-本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、イチゴの潰れを防ぎ、水分をコントロールして1週間以上甘く新鮮に保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、イチゴの潰れを防ぎ、水分をコントロールして1週間以上甘く新鮮に保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "카이큐가 흥분해서 물었을 때 소리를 지르면 이를 재미있는 반응으로 오인하므로 반응하지 말고 무관심으로 일관하며 즉시 교감을 중단해야 합니다. 또한 호르몬 과다 분비로 인한 공격성을 막기 위해 매일 10 ~ 12시간의 규칙적인 완전 암막 수면을 보장해야 합니다."
 ---
 
-노랑배 카이큐(Pionites leucogaster)는 선명한 머리·날개 깃털과 하얀 배, 그리고 토끼처럼 두 발로 깡충깡충 뛰어다니는 독특한 보행 습성으로 '앵무새계의 비글/강아지'라 불리는 남아메리카 원산의 중형 앵무새입니다. 에너지가 매우 넘치고 사람과의 스킨십 및 누워서 장난치는 플레이 위주의 교감을 즐겨 전 세계 조류 집사들에게 최고의 사랑을 받습니다. 그러나 왕성한 호기심과 강한 씹는 욕구(Chewing Drive)를 지니고 있어 충분한 행동 풍부화 장난감(Foraging/Destruction Toys)을 제공하지 않으면 가구 파손이나 지속적인 울음, 행동 장애로 이어질 수 있습니다. 또한 호르몬 과다 분비로 인한 공격성을 예방하기 위해 밤 동안 10 ~ 12시간의 암막 수면이 필수적입니다. 오늘 PetSelf에서는 노랑배 카이큐의 감정 표현 신호와 사육 환경 구축, 3단계 케어 루틴을 다룹니다.
+노랑배 카이큐(Pionites leucogaster)는 선명한 머리·날개 깃털과 하얀 배, 그리고 토끼처럼 두 발로 깡충깡충 뛰어다니는 독특한 보행 습성으로 '앵무새계의 비글/강아지'라 불리는 남아메리카 원산의 중형 앵무새입니다. 에너지가 매우 넘치고 사람과의 스킨십 및 누워서 장난치는 플레이 위주의 교감을 즐겨 전 세계 조류 집사들에게 최고의 사랑을 받습니다. 그러나 왕성한 호기심과 강한 씹는 욕구(Chewing Drive)를 지니고 있어 충분한 행동 풍부화 장난감(Foraging/Destruction Toys)을 제공하지 않으면 가구 파손이나 지속적인 울음, 행동 장애로 이어질 수 있습니다. 또한 호르몬 과다 분비로 인한 공격성을 예방하기 위해 밤 동안 10 ~ 12시간의 암막 수면이 필수적입니다. 이번 가이드에서는 노랑배 카이큐의 감정 표현 신호와 사육 환경 구축, 3단계 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

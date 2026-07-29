@@ -29,7 +29,7 @@ faqs:
     answer: "Le Yorkie a un instinct de chien de garde qui le rend très réactif aux bruits. Ne lui criez pas dessus et ne le prenez pas dans les bras lorsqu'il aboie, car cela valide son comportement. Ignorez-le tant qu'il aboie et récompensez-le dès qu'il se calme."
 ---
 
-Le Yorkshire Terrier, affectueusement surnommé 'Yorkie', cache un caractère vif et audacieux sous son allure de peluche. Il possède un poil simple fin et soyeux, très proche du cheveu humain, qui nécessite un brossage méticuleux pour éviter les nœuds. 🐩 De plus, en tant que chien miniature, il est particulièrement sujet à la luxation de la rotule (patelle). Aujourd'hui, PetSelf décrypte le langage corporel du Yorkie et vous propose une routine en 3 étapes pour entretenir sa robe et protéger ses genoux.
+Le Yorkshire Terrier, affectueusement surnommé 'Yorkie', cache un caractère vif et audacieux sous son allure de peluche. Il possède un poil simple fin et soyeux, très proche du cheveu humain, qui nécessite un brossage méticuleux pour éviter les nœuds. 🐩 De plus, en tant que chien miniature, il est particulièrement sujet à la luxation de la rotule (patelle). Dans ce guide, décrypte le langage corporel du Yorkie et vous propose une routine en 3 étapes pour entretenir sa robe et protéger ses genoux.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

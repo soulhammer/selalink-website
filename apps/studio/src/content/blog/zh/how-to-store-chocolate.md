@@ -27,7 +27,7 @@ faqs:
 
 巧克力中的核心成分可可脂对温度和湿度变化极度敏感，且会像海绵一样迅速吸收周围的挥发性异味。如果直接裸露放入冰箱，水汽凝结会导致糖分溶解重结晶产生“起霜（Sugar Bloom）”，或可可脂融化重结晶产生“脂霜（Fat Bloom）”，严重破坏其丝滑口感与浓郁香气。
 
-今天FreshSnap为您带来3步科学保存秘诀，妥善守护巧克力的醇厚风味与细腻质感。🛡️
+本指南将带来3步科学保存秘诀，妥善守护巧克力的醇厚风味与细腻质感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "성숙한 수컷은 주둥이 위쪽부터 이마 중앙까지 길고 가지쳐진 수염이 빽빽하게 자라나는 반면, 암컷은 수염이 아예 없거나 입술 테두리를 따라 짧고 미세한 돌기만 약간 관찰됩니다."
 ---
 
-안시스트루스(Ancistrus spp., 통칭 안시 숏핀)는 수조 내 이끼 제거 능력이 탁월해 전 세계 물집사들에게 필수 식구로 사랑받는 담수 메기목 열대어입니다. 성숙한 수컷의 주둥이 주변에 돋아나는 나뭇가지 모양의 화려한 수염(돌기) 디테일이 독보적인 특징입니다. 성체 크기가 10 ~ 15cm 내외로 크게 자라지 않아 대형 플래코와 달리 중소형 수조에서도 부담 없이 사육이 가능합니다. 안시의 소화관 건강을 위해서는 나무 성분(리그닌)을 제공하는 유목(Driftwood) 세팅이 필수적이며, 수조 이끼만으로는 영양이 부족하므로 호박, 애호박, 시금치 등 살짝 데친 생야채와 초식 침강성 사료 급여가 필수적입니다. 오늘 PetSelf에서는 안시의 행동 신호를 해석하고 건강한 사육 환경을 만드는 3단계 데일리 케어 루틴을 다룹니다.
+안시스트루스(Ancistrus spp., 통칭 안시 숏핀)는 수조 내 이끼 제거 능력이 탁월해 전 세계 물집사들에게 필수 식구로 사랑받는 담수 메기목 열대어입니다. 성숙한 수컷의 주둥이 주변에 돋아나는 나뭇가지 모양의 화려한 수염(돌기) 디테일이 독보적인 특징입니다. 성체 크기가 10 ~ 15cm 내외로 크게 자라지 않아 대형 플래코와 달리 중소형 수조에서도 부담 없이 사육이 가능합니다. 안시의 소화관 건강을 위해서는 나무 성분(리그닌)을 제공하는 유목(Driftwood) 세팅이 필수적이며, 수조 이끼만으로는 영양이 부족하므로 호박, 애호박, 시금치 등 살짝 데친 생야채와 초식 침강성 사료 급여가 필수적입니다. 이번 가이드에서는 안시의 행동 신호를 해석하고 건강한 사육 환경을 만드는 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

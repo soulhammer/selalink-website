@@ -27,7 +27,7 @@ faqs:
 
 牛肉含有丰富的蛋白质和水分，极易发生油脂氧化和细菌滋生。尤其是如何控制肉质表面的血水（血汁）以及阻断氧气接触，直接决定了牛肉的口感、鲜嫩度与汁水。
 
-今天FreshSnap基于韩国食品医药品安全处(MFDS)和美国农务部(USDA)的鲜肉安全管理指南，为您带来防止牛肉褐变与汁水流失的3步科学保存秘诀。🛡️
+本指南基于韩国食品医药品安全处(MFDS)和美国农务部(USDA)的鲜肉安全管理指南，为您带来防止牛肉褐变与汁水流失的3步科学保存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

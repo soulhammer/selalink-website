@@ -29,7 +29,7 @@ faqs:
     answer: "高い知能と社会性ゆえの分離不安の典型例です。1人の時間に没頭できるフォージングトイ（おやつ探しおもちゃ）を増やし、外出前後の過度なスキンシップを控え、落ち着いた関係性を築くことが大切です。"
 ---
 
-キバタン（Sulphur-crested Cockatoo）は、頭頂部の鮮やかな黄色い冠羽（Crest）と純白の羽、そして人間の子どもと同等の知能と感情交流能力で世界中の大型インコ愛好家を魅了する種です。非常に深い愛情を示しますが、その分飼い主への依存度が高く、放置されると寂しさから呼び鳴きや毛引き症（自傷行為）を引き起こしやすくなります。また、羽の防水と保全のために「羽粉（パウダーダウン）」と呼ばれる白い粉を大量に出すため、定期的な水浴びと空気清浄管理が不可欠です。今回はPetSelfが、キバタンの冠羽シグナルと健やかな頭脳・羽毛衛生を保つ日常ケアを解説します。
+キバタン（Sulphur-crested Cockatoo）は、頭頂部の鮮やかな黄色い冠羽（Crest）と純白の羽、そして人間の子どもと同等の知能と感情交流能力で世界中の大型インコ愛好家を魅了する種です。非常に深い愛情を示しますが、その分飼い主への依存度が高く、放置されると寂しさから呼び鳴きや毛引き症（自傷行為）を引き起こしやすくなります。また、羽の防水と保全のために「羽粉（パウダーダウン）」と呼ばれる白い粉を大量に出すため、定期的な水浴びと空気清浄管理が不可欠です。本記事では、キバタンの冠羽シグナルと健やかな頭脳・羽毛衛生を保つ日常ケアを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

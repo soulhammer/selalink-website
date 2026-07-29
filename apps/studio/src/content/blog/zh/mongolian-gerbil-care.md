@@ -29,7 +29,7 @@ faqs:
     answer: "沙鼠源自干旱沙漠，被毛沾水后难以干透，极易引发严重失温与致死性肺炎，因此绝对禁止水洗，必须使用专用沙漠浴沙。此外，沙鼠是强社群性动物，单只独居会导致剧烈的心理抑郁、免疫力崩溃及应激性发作，必须同性成对或成群饲养。"
 ---
 
-原产于蒙古及中国北部干燥沙漠与草原地带的蒙古沙鼠（俗称“长爪沙鼠”），凭其被毛覆盖的长尾巴、萌态可掬的外表与旺盛的好奇心而深受全球小宠爱好者喜爱。沙鼠适应干旱环境，代谢率低且几乎没有异味，是非常干净的宠物。然而，为了在野外逃避捕食者，它们进化出了“尾部脱皮脱落（Tail Degloving）”的自卫机制，因此绝对严禁拎抓其尾巴。此外，沙鼠是严格的社群动物，单只独居极易诱发抑郁症与应激性癫痫发作（Seizures），且严禁水洗，必须提供专用浴沙与深层垫料（15 ~ 20厘米）。今天 PetSelf 将带您准确解读沙鼠肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于蒙古及中国北部干燥沙漠与草原地带的蒙古沙鼠（俗称“长爪沙鼠”），凭其被毛覆盖的长尾巴、萌态可掬的外表与旺盛的好奇心而深受全球小宠爱好者喜爱。沙鼠适应干旱环境，代谢率低且几乎没有异味，是非常干净的宠物。然而，为了在野外逃避捕食者，它们进化出了“尾部脱皮脱落（Tail Degloving）”的自卫机制，因此绝对严禁拎抓其尾巴。此外，沙鼠是严格的社群动物，单只独居极易诱发抑郁症与应激性癫痫发作（Seizures），且严禁水洗，必须提供专用浴沙与深层垫料（15 ~ 20厘米）。本指南将带您准确解读沙鼠肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

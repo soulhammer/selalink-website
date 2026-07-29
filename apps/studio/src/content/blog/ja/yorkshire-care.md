@@ -29,7 +29,7 @@ faqs:
     answer: "小型警備犬としての本能から外部の音に敏感です。吠えた時に叫んだり抱き上げたりすると興奮を強化してしまいます。吠えている間は無視し、静かになった瞬間にすぐにおやつと褒め言葉で報酬を与えましょう。"
 ---
 
-ヨークシャーテリアは、愛らしい見た目のなかにテリア犬特有の勇敢で自立した性格を秘めています。「ヨーキー」の愛称で親しまれるこの犬種は、人間の髪に近い細く滑らかなシングルコートを持つため、絡まりやすく丁寧な手入れが必要です。🐩また、小型犬特有の骨格構造により膝蓋骨脱臼（パテラ）を起こしやすい特徴があります。本日PetSelfでは、ヨークシャーテリアの美しい被毛を維持し、膝関節を守る3ステップのホームケアをご紹介します。
+ヨークシャーテリアは、愛らしい見た目のなかにテリア犬特有の勇敢で自立した性格を秘めています。「ヨーキー」の愛称で親しまれるこの犬種は、人間の髪に近い細く滑らかなシングルコートを持つため、絡まりやすく丁寧な手入れが必要です。🐩また、小型犬特有の骨格構造により膝蓋骨脱臼（パテラ）を起こしやすい特徴があります。本記事では、ヨークシャーテリアの美しい被毛を維持し、膝関節を守る3ステップのホームケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

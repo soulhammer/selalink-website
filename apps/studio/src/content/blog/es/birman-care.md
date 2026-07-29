@@ -29,7 +29,7 @@ faqs:
     answer: "Pueden ser propensos a la Cardiomiopatía Hipertrófica (HCM). Se recomiendan ecocardiogramas periódicos y fomentar la ingesta de agua."
 ---
 
-El gato Birmano es una elegante raza semilarga famosa por sus ojos azul zafiro y sus patas con guantes blancos. Dóciles y tranquilos, crean fuertes lazos emocionales con sus dueños. Su pelaje sedoso carece de un subpelo denso, por lo que se enreda menos que el de otros gatos de pelo largo. No obstante, el cepillado regular y los chequeos para la Cardiomiopatía Hipertrófica (HCM) son esenciales. Hoy en PetSelf presentamos su rutina de 3 pasos.
+El gato Birmano es una elegante raza semilarga famosa por sus ojos azul zafiro y sus patas con guantes blancos. Dóciles y tranquilos, crean fuertes lazos emocionales con sus dueños. Su pelaje sedoso carece de un subpelo denso, por lo que se enreda menos que el de otros gatos de pelo largo. No obstante, el cepillado regular y los chequeos para la Cardiomiopatía Hipertrófica (HCM) son esenciales. En esta guía se presenta mos su rutina de 3 pasos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

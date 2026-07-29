@@ -27,7 +27,7 @@ faqs:
 
 椰浆富含植物性脂肪，在常温开封后极易发生脂肪酸败与细菌快速滋生。特别是将开封后的铁罐直接冷藏，罐内壁的锡等金属成分会与氧气反应溶出到椰浆中，产生铁锈味并破坏品质，因此及时更换容器和控制温度至关重要。
 
-今天 FreshSnap 将基于 FDA 和 USDA 的科学指南，为您介绍减少水油分离、安全保持椰浆新鲜度的 3 步储存秘诀。🛡️
+本指南将基于 FDA 和 USDA 的科学指南，为您介绍减少水油分离、安全保持椰浆新鲜度的 3 步储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

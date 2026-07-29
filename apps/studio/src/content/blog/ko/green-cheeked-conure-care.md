@@ -29,7 +29,7 @@ faqs:
     answer: "무정란을 연속해서 낳으면 체내 칼슘이 고갈되어 뼈가 약해지고 알이 체내에 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding)'이 발생합니다. 이를 방지하기 위해 하루 10 ~ 12시간 이상의 완전한 암막 수면으로 일조 시간을 줄이고, 등이나 배를 만지는 스킨십을 피하며, 둥지 상자나 거울 등 호르몬 자극 요소를 즉시 제거해야 합니다."
 ---
 
-남미의 열대 우림이 원산지인 그린칙 코뉴어(Green-cheeked Conure)는 화려한 깃털과 애교 넘치는 행동, 코뉴어 품종 중 비교적 적은 소음으로 전 세계에서 사랑받는 소형 앵무새입니다. 보호자의 손이나 옷 속으로 들어가는 것을 즐길 정도로 친근하지만, 앵무새 특유의 독특한 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가열 가스, 향수, 과열된 아로마 오일 등 공기 중 유해 물질에 매우 취약합니다. 또한 해바라기씨 중심의 지방 식단은 비타민 A 결핍과 간지방증을 유발하기 쉬우며, 과도한 호르몬 자극 시 알 묶임(Egg Binding/난산) 등의 치명적인 질환이 발생할 수 있습니다. 오늘 PetSelf에서는 그린칙 코뉴어의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+남미의 열대 우림이 원산지인 그린칙 코뉴어(Green-cheeked Conure)는 화려한 깃털과 애교 넘치는 행동, 코뉴어 품종 중 비교적 적은 소음으로 전 세계에서 사랑받는 소형 앵무새입니다. 보호자의 손이나 옷 속으로 들어가는 것을 즐길 정도로 친근하지만, 앵무새 특유의 독특한 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가열 가스, 향수, 과열된 아로마 오일 등 공기 중 유해 물질에 매우 취약합니다. 또한 해바라기씨 중심의 지방 식단은 비타민 A 결핍과 간지방증을 유발하기 쉬우며, 과도한 호르몬 자극 시 알 묶임(Egg Binding/난산) 등의 치명적인 질환이 발생할 수 있습니다. 이번 가이드에서는 그린칙 코뉴어의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

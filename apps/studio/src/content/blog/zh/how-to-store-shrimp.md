@@ -27,7 +27,7 @@ faqs:
 
 虾类富含蛋白质和水分，且自身酶活性极高，在捕捞和购买后极易迅速变质。特别是暴露于空气中时，在酪氨酸酶（Tyrosinase）的作用下会引发自头部分解的黑变现象（Melanosis），同时细菌会快速滋生。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步鲜虾保鲜秘诀，帮您最大程度锁定紧致与鲜美。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步鲜虾保鲜秘诀，帮您最大程度锁定紧致与鲜美。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

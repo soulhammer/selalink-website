@@ -33,7 +33,7 @@ faqs:
 
 然而，马尔济斯犬的家长们常常担心两个遗传性问题：膝盖骨脱臼（髌骨脱位）和易在面部留下红褐色痕迹并诱发皮肤炎的泪痕（溢泪症）。日常的生活习惯调整对于管理这些状况至关重要。
 
-今天 PetSelf 将带您解读马尔济斯犬的身体语言，并介绍一套安全的日常3步护理流程，以保护它们的关节和眼睛。
+本指南将带您解读马尔济斯犬的身体语言，并介绍一套安全的日常3步护理流程，以保护它们的关节和眼睛。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

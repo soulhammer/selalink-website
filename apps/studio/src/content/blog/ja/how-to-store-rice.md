@@ -27,7 +27,7 @@ faqs:
 
 お米は収穫後も息をしている生きた穀物です。空気中の酸素や湿気、高い温度に晒されると脂質が酸化し、古米臭が発生してツヤや食感が損なわれます。特に15℃以上の環境ではコクゾウムシが繁殖しやすく、湿気の多い場所ではカビ毒が発生する恐れがあります。
 
-本日FreshSnapでは、農学および食品安全の専門家が推奨する、お米の鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
+本記事では、農学および食品安全の専門家が推奨する、お米の鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

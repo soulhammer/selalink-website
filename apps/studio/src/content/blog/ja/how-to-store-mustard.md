@@ -27,7 +27,7 @@ faqs:
 
 マスタードはお酢や塩分、酸性成分が含まれているため、自重による細菌増殖が抑えられ保存性に優れた調味料です。しかし、開封後に空気に触れると、独特の辛味成分（イソチオシアネート）が揮発して辛さが抜け、時間が経つと色が濃くなったり油分と水分が分離しやすくなります。
 
-本日FreshSnapでは、食品安全機関のガイドラインに基づき、マスタードのツーンとした辛味と鮮やかな色合いを長く保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、食品安全機関のガイドラインに基づき、マスタードのツーンとした辛味と鮮やかな色合いを長く保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

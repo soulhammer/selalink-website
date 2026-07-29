@@ -29,7 +29,7 @@ faqs:
     answer: "超重会对较短的骨骼结构施加过大压迫，容易引发软骨磨损和椎间盘变性。严格管理饮食，维持纤细的身材是重中之重。"
 ---
 
-曼基康猫因其活泼温顺的个性和萌萌的短腿而受到广泛喜爱。虽然它们拥有极强的奔跑和闪避能力，但由于四肢较短，从高处跳下时，关节和脊椎承受的冲击力比普通猫要大得多。这使得它们极易遭受脊柱前凸（Lordosis）和早期关节炎的困扰。今天，PetSelf 将分析曼基康猫关节受损的焦虑信号，并分享保护脊椎和关节健康的3阶段低空间日常护理流程。
+曼基康猫因其活泼温顺的个性和萌萌的短腿而受到广泛喜爱。虽然它们拥有极强的奔跑和闪避能力，但由于四肢较短，从高处跳下时，关节和脊椎承受的冲击力比普通猫要大得多。这使得它们极易遭受脊柱前凸（Lordosis）和早期关节炎的困扰。今天，本指南将分析曼基康猫关节受损的焦虑信号，并分享保护脊椎和关节健康的3阶段低空间日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

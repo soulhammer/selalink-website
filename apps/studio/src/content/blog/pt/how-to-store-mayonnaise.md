@@ -27,7 +27,7 @@ Você já deixou um pote de maionese aberto no fundo da geladeira e percebeu que
 
 A maionese é uma emulsão clássica feita pela combinação precisa de óleo vegetal, gema de ovo e vinagre ou suco de limão. Ela é muito sensível a variações de temperatura — especialmente ao congelamento, que quebra a emulsão e causa a separação do óleo.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para manter sua maionese cremosa, suave e fresca após aberta. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da FDA, USDA e MFDS para manter sua maionese cremosa, suave e fresca após aberta. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

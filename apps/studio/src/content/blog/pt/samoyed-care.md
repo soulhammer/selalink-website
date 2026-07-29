@@ -29,7 +29,7 @@ faqs:
     answer: "Evite o sobrepeso desde filhote para reduzir o estresse articular. Evite saltos altos em pisos lisos e fortaleça a musculatura com natação ou caminhadas em terreno plano."
 ---
 
-Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de trenó ativos e dóceis. Sua pelagem dupla protege do frio ártico, mas acumula calor e umidade, gerando fungos e dermatites. Por serem de grande porte, são propensos à displasia coxofemoral (Hip Dysplasia). Hoje, o PetSelf decifra seus sinais nas articulações e apresenta uma rotina em 3 passos para proteger sua saúde.
+Famosos pela pelagem branca abundante e o 'Sorriso de Samoieda', são cães de trenó ativos e dóceis. Sua pelagem dupla protege do frio ártico, mas acumula calor e umidade, gerando fungos e dermatites. Por serem de grande porte, são propensos à displasia coxofemoral (Hip Dysplasia). Neste guia, decifra seus sinais nas articulações e apresenta uma rotina em 3 passos para proteger sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

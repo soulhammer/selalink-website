@@ -29,7 +29,7 @@ faqs:
     answer: "데구는 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지며 탈출하는 '디글로빙(Degloving)' 생체 방어 기전을 가지고 있습니다. 벗겨진 꼬리 가죽은 다시 재생되지 않고 괴사하여 수의사의 절단 수술이 필요하므로 절대로 꼬리를 잡으면 안 됩니다. 즉시 소동물 전문 병원에 내원하여 치료받아야 합니다."
 ---
 
-칠레 안데스 산맥이 원산지인 데구(Degu)는 친칠라, 기니피그와 가까운 친척으로, 높은 지능과 풍부한 울음소리로 '소리 내어 대화하는 소동물'이라 불립니다. 데구는 당을 인슐린으로 분해하는 능력이 거의 없어 과일이나 단 간식을 섭취할 경우 순식간에 '당뇨병(Diabetes)'과 당뇨성 백내장에 걸리는 유전적 특성을 지니고 있습니다. 또한 평생 자라는 치아 관리 부족 시 '부정교합'이 생기기 쉬우며, 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지는 '디글로빙(Degloving)' 위험이 있어 절대로 꼬리를 잡아서는 안 됩니다. 오늘 PetSelf에서는 데구의 행동 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+칠레 안데스 산맥이 원산지인 데구(Degu)는 친칠라, 기니피그와 가까운 친척으로, 높은 지능과 풍부한 울음소리로 '소리 내어 대화하는 소동물'이라 불립니다. 데구는 당을 인슐린으로 분해하는 능력이 거의 없어 과일이나 단 간식을 섭취할 경우 순식간에 '당뇨병(Diabetes)'과 당뇨성 백내장에 걸리는 유전적 특성을 지니고 있습니다. 또한 평생 자라는 치아 관리 부족 시 '부정교합'이 생기기 쉬우며, 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지는 '디글로빙(Degloving)' 위험이 있어 절대로 꼬리를 잡아서는 안 됩니다. 이번 가이드에서는 데구의 행동 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

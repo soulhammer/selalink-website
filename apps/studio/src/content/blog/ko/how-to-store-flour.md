@@ -27,7 +27,7 @@ faqs:
 
 밀가루는 수분 함량이 11 ~ 14%로 비교적 낮아 건조해 보이지만, 공기 중의 습기와 냄새를 스펀지처럼 쉽게 흡수하는 다공성 식재료입니다. 습기에 노출되면 덩어리지거나 곰팡이가 피고, 쌀벌레 등 해충의 표적이 되기 쉽습니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품안전 당국의 가이드라인을 바탕으로, 밀가루의 고소한 풍미와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품안전 당국의 가이드라인을 바탕으로, 밀가루의 고소한 풍미와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

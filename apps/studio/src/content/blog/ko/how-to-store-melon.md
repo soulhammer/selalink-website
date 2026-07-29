@@ -27,7 +27,7 @@ faqs:
 
 멜론은 자르기 전과 자른 후의 보관 방식이 완전히 달라지는 특수한 과일입니다. 자르지 않은 통멜론은 상온에서 후숙시켜야 단맛과 향이 극대화되는 반면, 일단 칼을 대는 순간 산도가 낮아 살모넬라균 및 리스테리아균이 번식하기 매우 쉬운 '고위험 관리 식품'으로 변합니다.
 
-오늘 FreshSnap에서는 미국 FDA, USDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 멜론의 당도와 신선도를 지키고 식중독을 예방하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 FDA, USDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 멜론의 당도와 신선도를 지키고 식중독을 예방하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

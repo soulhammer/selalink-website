@@ -29,7 +29,7 @@ faqs:
     answer: "충분한 수직 공간(캣폴, 캣워크)과 캣휠(고양이용 러닝머신)을 마련해 주면 좁은 실내에서도 신체 에너지를 훌륭하게 연소시킬 수 있습니다."
 ---
 
-표범을 닮은 아름다운 점박이 무늬와 야생적인 외모로 사랑받는 벵갈 고양이는 아시안 레오파드캣의 혈통을 이어받아 엄청난 운동 에너지와 높은 지능을 가지고 있습니다. 지루함이나 활동량 부족이 지속되면 밤낮없는 하울링, 가구 파괴, 벽 타고 오르기 등의 극심한 스트레스 행동을 보일 수 있습니다. 오늘 PetSelf에서는 벵갈 고양이가 보내는 에너지 과잉 신호를 해독하고, 신체적 활동과 지적 호기심을 동시에 충족해 주는 3단계 활력 케어 루틴을 소개합니다.
+표범을 닮은 아름다운 점박이 무늬와 야생적인 외모로 사랑받는 벵갈 고양이는 아시안 레오파드캣의 혈통을 이어받아 엄청난 운동 에너지와 높은 지능을 가지고 있습니다. 지루함이나 활동량 부족이 지속되면 밤낮없는 하울링, 가구 파괴, 벽 타고 오르기 등의 극심한 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 벵갈 고양이가 보내는 에너지 과잉 신호를 해독하고, 신체적 활동과 지적 호기심을 동시에 충족해 주는 3단계 활력 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Seleccione un alimento alto en proteína y bajo en carbohidratos, y sirva parte de su ración dentro de juguetes interactivos dispensadores para motivarlo a moverse mientras come."
 ---
 
-Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el American Shorthair es un compañero dócil y de gran adaptabilidad. Sin embargo, su amor por la comida y su naturaleza tranquila suelen conducirlo a la obesidad, lo que ejerce una gran presión sobre su sistema cardiovascular. Además, esta raza tiene predisposición genética a la miocardiopatía hipertrófica (HCM), una patología donde el músculo cardíaco se engrosa. Hoy, PetSelf descifra sus señales de alerta cardíaca y presenta una rutina de cuidado en 3 pasos.
+Conocido por su hermoso patrón atigrado plateado y su complexión muscular, el American Shorthair es un compañero dócil y de gran adaptabilidad. Sin embargo, su amor por la comida y su naturaleza tranquila suelen conducirlo a la obesidad, lo que ejerce una gran presión sobre su sistema cardiovascular. Además, esta raza tiene predisposición genética a la miocardiopatía hipertrófica (HCM), una patología donde el músculo cardíaco se engrosa. En esta guía, descifra sus señales de alerta cardíaca y presenta una rutina de cuidado en 3 pasos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

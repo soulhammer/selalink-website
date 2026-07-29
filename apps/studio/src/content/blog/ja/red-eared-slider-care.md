@@ -29,7 +29,7 @@ faqs:
     answer: "カメは排泄量が非常に多いため、強力なフィルター（外部フィルターなど）が不可欠です。フィルターがあっても週1〜2回、30〜50%の部分水換えを推奨し、サルモネラ菌感染予防のため、カメに触れた後は必ず手を洗ってください。"
 ---
 
-目の後ろの赤い模様が特徴的なミシシッピアカミミガメ（Red-Eared Slider）は、世界中で最も親しまれている半水棲カメです。泳ぎを楽しむ十分な水深の水中エリアと、体温を上げてUVを吸収する陸地（バスキングエリア）の両方の設置が不可欠です。特にUVBライトとバスキングランプがないと、カルシウムを吸収できず甲羅が柔らかくなるMBD（代謝性骨疾患）や甲羅腐敗症（Shell Rot）にかかりやすくなり、水温が下がると肺炎のリスクが急増します。本日PetSelfでは、アカミミガメのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+目の後ろの赤い模様が特徴的なミシシッピアカミミガメ（Red-Eared Slider）は、世界中で最も親しまれている半水棲カメです。泳ぎを楽しむ十分な水深の水中エリアと、体温を上げてUVを吸収する陸地（バスキングエリア）の両方の設置が不可欠です。特にUVBライトとバスキングランプがないと、カルシウムを吸収できず甲羅が柔らかくなるMBD（代謝性骨疾患）や甲羅腐敗症（Shell Rot）にかかりやすくなり、水温が下がると肺炎のリスクが急増します。本記事では、アカミミガメのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

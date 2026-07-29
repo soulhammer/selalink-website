@@ -29,7 +29,7 @@ faqs:
     answer: "温度不足や環境のストレスが原因となります。ホットゾーンの温度（30〜32℃）を再確認し、床材を深くして安心感を与えます。それでも食べない場合は、ツナの汁やカエルの匂いをマウスにつける（センティング）と反応することがあります。"
 ---
 
-セイブシシバナヘビ（Heterodon nasicus）は、反り上がった豚のような愛らしい鼻先と、コーンスネークやボールパイソンと並ぶ「世界3大ペットヘビ」としての高い人気を誇ります。脅威を感じるとコブラのように首を広げたり、ひっくり返って死んだフリ（死に真似 / Thanatosis）をする演劇的な防衛行動で爬虫類飼育者を魅了します。本来穴を掘って暮らす習性があるため、トンネルが崩れないアスペンチップなどの床材が必須であり、変温動物に合わせた正確なホットゾーン／クールゾーンの温度管理が健康維持の鍵となります。本日はPetSelfが本能的な防衛サインを分析し、安全な給餌と環境ケアのための3ステップ日常ルーティンを公開します。
+セイブシシバナヘビ（Heterodon nasicus）は、反り上がった豚のような愛らしい鼻先と、コーンスネークやボールパイソンと並ぶ「世界3大ペットヘビ」としての高い人気を誇ります。脅威を感じるとコブラのように首を広げたり、ひっくり返って死んだフリ（死に真似 / Thanatosis）をする演劇的な防衛行動で爬虫類飼育者を魅了します。本来穴を掘って暮らす習性があるため、トンネルが崩れないアスペンチップなどの床材が必須であり、変温動物に合わせた正確なホットゾーン／クールゾーンの温度管理が健康維持の鍵となります。本日は本記事では、本能的な防衛サインを分析し、安全な給餌と環境ケアのための3ステップ日常ルーティンを公開します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

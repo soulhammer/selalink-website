@@ -29,7 +29,7 @@ faqs:
     answer: "Escolha rações ricas em proteínas e com baixo teor de carboidratos. Coloque parte da porção diária em brinquedos interativos (comedouros lentos) para incentivar o gato a se mover enquanto come."
 ---
 
-Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American Shorthair é um companheiro dócil e altamente adaptável. No entanto, seu bom apetite e temperamento calmo frequentemente levam à obesidade, o que sobrecarrega o sistema cardiovascular. Além disso, a raça possui predisposição genética à Cardiomiopatia Hipertrófica (HCM), doença em que a parede do coração se espessa. Hoje, o PetSelf decifra os sinais de alerta cardíaco e apresenta uma rotina em 3 passos.
+Conhecido por sua bela pelagem atigrada prateada e corpo musculoso, o American Shorthair é um companheiro dócil e altamente adaptável. No entanto, seu bom apetite e temperamento calmo frequentemente levam à obesidade, o que sobrecarrega o sistema cardiovascular. Além disso, a raça possui predisposição genética à Cardiomiopatia Hipertrófica (HCM), doença em que a parede do coração se espessa. Neste guia, decifra os sinais de alerta cardíaco e apresenta uma rotina em 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "适当修剪耳道杂毛，并在洗澡、游泳或喝水后确保耳内彻底干燥。每周使用1-2次兽医推荐的温和洗耳液，可有效抑制细菌与酵母菌滋生。"
 ---
 
-英国可卡犬素有“欢快可卡 (Merry Cocker)”的美誉，因其热情友善的性格和充满生机的魅力而深受全球宠主的喜爱。然而，由于其长而下垂的耳廓结构，耳道内极易积聚湿气而引发外耳炎（耳部感染）。此外，作为出身优秀的寻猎犬，如果无法满足其巨大的运动量和嗅闻需求，可能会导致应激性行为问题。今天 PetSelf 将解析英国可卡犬的独特情感信号，并分享兼顾耳部健康与活动量的3阶段日常护理流程。
+英国可卡犬素有“欢快可卡 (Merry Cocker)”的美誉，因其热情友善的性格和充满生机的魅力而深受全球宠主的喜爱。然而，由于其长而下垂的耳廓结构，耳道内极易积聚湿气而引发外耳炎（耳部感染）。此外，作为出身优秀的寻猎犬，如果无法满足其巨大的运动量和嗅闻需求，可能会导致应激性行为问题。本指南将解析英国可卡犬的独特情感信号，并分享兼顾耳部健康与活动量的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

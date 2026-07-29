@@ -29,7 +29,7 @@ faqs:
     answer: "肠胃停滞是由于缺乏膳食纤维、压力或疼痛导致的消化道蠕动停止的致死性疾病。兔子的胃肠必须时刻运转，因此必须保证无限量高纤维提摩西干草的供应。"
 ---
 
-迷你力克斯兔（Mini Rex）拥有如天鹅绒般极其软绵触感的短毛和圆滚滚的体型，是非常受欢迎的宠物兔品种。由于其独特的毛发基因突变，缺少保护皮肤的刚性针毛（Guard Hairs），脚底毛发十分稀薄，在坚硬的地板或铁丝网笼舍中极易患上脚底溃疡/足底皮肤炎（Sore Hocks）。此外，作为严格的草食动物，无限量供应高纤维提摩西干草以预防肠胃停滞（GI Stasis）至关重要。今天 PetSelf 将为您解析其健康信号并提供3步日常护理流程。
+迷你力克斯兔（Mini Rex）拥有如天鹅绒般极其软绵触感的短毛和圆滚滚的体型，是非常受欢迎的宠物兔品种。由于其独特的毛发基因突变，缺少保护皮肤的刚性针毛（Guard Hairs），脚底毛发十分稀薄，在坚硬的地板或铁丝网笼舍中极易患上脚底溃疡/足底皮肤炎（Sore Hocks）。此外，作为严格的草食动物，无限量供应高纤维提摩西干草以预防肠胃停滞（GI Stasis）至关重要。本指南将为您解析其健康信号并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

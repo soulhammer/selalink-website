@@ -29,7 +29,7 @@ faqs:
     answer: "불가능합니다. 야마토 새우의 유충(조에아, Zoea)은 태어난 후 바닷물과 민물이 만나는 기수(Brackish water) 지역으로 이동해 자라는 특성이 있습니다. 일반 민수 어항에서는 부화하더라도 유충이 며칠 내로 사멸하므로 인공적인 기수 세팅이 필수입니다."
 ---
 
-수초 어항의 대표적인 이끼 제거반으로 유명한 야마토 새우(아마노 새우)는 투명한 몸과 옅은 점무늬를 가진 매력적인 담수 새우입니다. 실조류(붓이끼 제외)를 효자처럼 청소해 주지만, 중금속(특히 구리)과 질산염 수치, 갑작스러운 수질·수온 변화에 매우 민감합니다. 또한 어항 수질이 악화되면 어항 밖으로 튀어나오는 탈출 행동을 유발하며, 탈피 실패로 사망할 위험이 있습니다. 오늘 PetSelf에서는 야마토 새우의 수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
+수초 어항의 대표적인 이끼 제거반으로 유명한 야마토 새우(아마노 새우)는 투명한 몸과 옅은 점무늬를 가진 매력적인 담수 새우입니다. 실조류(붓이끼 제외)를 효자처럼 청소해 주지만, 중금속(특히 구리)과 질산염 수치, 갑작스러운 수질·수온 변화에 매우 민감합니다. 또한 어항 수질이 악화되면 어항 밖으로 튀어나오는 탈출 행동을 유발하며, 탈피 실패로 사망할 위험이 있습니다. 이번 가이드에서는 야마토 새우의 수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

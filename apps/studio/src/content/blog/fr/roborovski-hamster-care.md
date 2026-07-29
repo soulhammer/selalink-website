@@ -29,7 +29,7 @@ faqs:
     answer: "L'eau détruit la barrière lipidique de sa peau, entraînant une hypothermie mortelle ou des dermatites. Un bac rempli de sable de bain du désert non traité lui permet d'éliminer naturellement le sébum."
 ---
 
-Caractérisé par ses marques blanches au-dessus des yeux et sa taille lilliputienne, le hamster Roborovski est le plus petit des hamsters nains. Réputé pour sa rapidité et sa curiosité, son tempérament très vif en fait un animal d'observation plutôt que de manipulation. En raison de sécrétions sébacées importantes, un bain de sable du désert est indispensable. Sa petite taille exige aussi d'éviter les chutes et fuites. PetSelf vous propose une routine de soin en 3 étapes.
+Caractérisé par ses marques blanches au-dessus des yeux et sa taille lilliputienne, le hamster Roborovski est le plus petit des hamsters nains. Réputé pour sa rapidité et sa curiosité, son tempérament très vif en fait un animal d'observation plutôt que de manipulation. En raison de sécrétions sébacées importantes, un bain de sable du désert est indispensable. Sa petite taille exige aussi d'éviter les chutes et fuites. Ce guide vous propose une routine de soin en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

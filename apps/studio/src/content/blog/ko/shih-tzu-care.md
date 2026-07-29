@@ -29,7 +29,7 @@ faqs:
     answer: "시츄는 눈이 크고 돌출되어 있어 먼지나 털에 의한 '각막 궤양(Corneal Ulcer)' 및 안구 건조증이 매우 흔합니다. 방치 시 안구 침식이나 시력 손상으로 이어지므로, 긁지 못하게 넥카라를 씌우고 즉시 동물병원에서 형광 염색 검사 후 인공눈물과 안약을 처방받아야 합니다."
 ---
 
-비단결 같은 털과 눌린 주둥이가 매력적인 시츄(Shih Tzu)는 수세기 동안 궁중 반려견으로 사랑받아 온 대표적 소형견입니다. 시츄는 주둥이가 짧은 단두종(Brachycephalic Breed) 특성상 고온 다습한 환경에서 체온 조절 능력이 떨어져 열사병(Heatstroke) 및 단두종 호흡기 증후군에 매우 취약합니다. 또한 돌출된 큰 눈으로 인해 각막 궤양(Corneal Ulcer)이나 안구 건조증, 눈물 자국(유루증)이 생기기 쉽고, 덮인 귀 구조 때문에 외이도염이 자주 발생합니다. 오늘 PetSelf에서는 시츄의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+비단결 같은 털과 눌린 주둥이가 매력적인 시츄(Shih Tzu)는 수세기 동안 궁중 반려견으로 사랑받아 온 대표적 소형견입니다. 시츄는 주둥이가 짧은 단두종(Brachycephalic Breed) 특성상 고온 다습한 환경에서 체온 조절 능력이 떨어져 열사병(Heatstroke) 및 단두종 호흡기 증후군에 매우 취약합니다. 또한 돌출된 큰 눈으로 인해 각막 궤양(Corneal Ulcer)이나 안구 건조증, 눈물 자국(유루증)이 생기기 쉽고, 덮인 귀 구조 때문에 외이도염이 자주 발생합니다. 이번 가이드에서는 시츄의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

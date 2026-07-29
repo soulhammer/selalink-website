@@ -29,7 +29,7 @@ faqs:
     answer: "속털이 없는 피복 특성상 추위에 매우 약하므로 겨울철에는 실내 온도를 23 ~ 25°C로 따뜻하게 유지해야 합니다. 볕이 잘 드는 곳에 캣타워를 배치하고, 전용 옷을 입히거나 따뜻한 온열 매트, 스크래쳐용 극세사 담요를 사육 환경 곳곳에 마련해 주어야 합니다."
 ---
 
-오리엔탈 숏헤어(Oriental Shorthair)는 커다란 박쥐 모양의 귀와 날렵한 쐐기형(Wedge-shaped) 얼굴, 긴 체형이 매력적인 샴(Siamese) 혈통 기반의 모던 묘종입니다. 풍부한 울음소리로 집사와끊임없이 대화하려는 '수다쟁이(Vocal)' 성격과 뛰어난 지능, 사람에게 착 붙어 애정을 표현하는 강한 사교성을 지녀 북미와 유럽 등지에서 매니아층이 매우 두텁습니다. 그러나 속털(Undercoat)이 거의 없는 얇은 단모종 특성상 추위에 매우 취약하여 실내 온도가 조금만 낮아져도 면역력이 떨어지거나 상부 호흡기 질환에 걸리기 쉽습니다. 또한, 외로움을 극심하게 느껴 혼자 오래 남겨질 경우 유기불안과 행동 장애, 기물 파손으로 이어질 수 있어 지속적인 인터랙티브 놀이와 보온 케어가 필수적입니다. 오늘 PetSelf에서는 오리엔탈 숏헤어의 음성 교감 신호와 체온 유지, 3단계 케어 루틴을 다룹니다.
+오리엔탈 숏헤어(Oriental Shorthair)는 커다란 박쥐 모양의 귀와 날렵한 쐐기형(Wedge-shaped) 얼굴, 긴 체형이 매력적인 샴(Siamese) 혈통 기반의 모던 묘종입니다. 풍부한 울음소리로 집사와끊임없이 대화하려는 '수다쟁이(Vocal)' 성격과 뛰어난 지능, 사람에게 착 붙어 애정을 표현하는 강한 사교성을 지녀 북미와 유럽 등지에서 매니아층이 매우 두텁습니다. 그러나 속털(Undercoat)이 거의 없는 얇은 단모종 특성상 추위에 매우 취약하여 실내 온도가 조금만 낮아져도 면역력이 떨어지거나 상부 호흡기 질환에 걸리기 쉽습니다. 또한, 외로움을 극심하게 느껴 혼자 오래 남겨질 경우 유기불안과 행동 장애, 기물 파손으로 이어질 수 있어 지속적인 인터랙티브 놀이와 보온 케어가 필수적입니다. 이번 가이드에서는 오리엔탈 숏헤어의 음성 교감 신호와 체온 유지, 3단계 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

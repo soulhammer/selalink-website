@@ -29,7 +29,7 @@ faqs:
     answer: "夏特尔猫拥有防水且密实的双层羊毛质感毛发，每周需要梳理2-3次以去除浮毛、预防毛球。此外，由于它们在室内活动较为沉稳，必须实行严格的定量定时喂养，并每天结合15分钟以上的衔回游戏或益智玩具来控制体重。"
 ---
 
-夏特尔猫（Chartreux）是法国传统的国宝级猫种，以其自带微笑弧度的面部轮廓和充满光泽的蓝灰色（Blue-grey）被毛闻名于世。它们被称为“法国的静音猫”，极少大声鸣叫，性格极为温和，且智商极高，甚至像小狗一样喜欢将主人抛出的玩具叼回。然而，其密实如羊毛般的双层被毛需要定期梳理以防毛球症；同时由于性格安静内敛，若缺乏运动极易发胖，因此科学控粮与脑力刺激至关重要。今天 PetSelf 将解析夏特尔猫的情感语言，并公开包含毛发护理、控重及益智训练的3阶段日常护理流程。
+夏特尔猫（Chartreux）是法国传统的国宝级猫种，以其自带微笑弧度的面部轮廓和充满光泽的蓝灰色（Blue-grey）被毛闻名于世。它们被称为“法国的静音猫”，极少大声鸣叫，性格极为温和，且智商极高，甚至像小狗一样喜欢将主人抛出的玩具叼回。然而，其密实如羊毛般的双层被毛需要定期梳理以防毛球症；同时由于性格安静内敛，若缺乏运动极易发胖，因此科学控粮与脑力刺激至关重要。本指南将解析夏特尔猫的情感语言，并公开包含毛发护理、控重及益智训练的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "인공 색소나 인공 비타민이 과다 첨가된 사료, 혹은 씨앗 위주의 고지방 식단이나 칼슘/비타민 불균형으로 인해 발생하는 뉴기니아 앵무 특유의 신경 반응입니다. 즉시 첨가물이 들어간 사료를 중단하고 신선한 자연식 중심 식단으로 전환해야 합니다."
 ---
 
-뉴기니아 앵무(Eclectus Parrot)는 조류 중에서 암수의 피모 색상이 완전히 다른 '극단적 성적 이형성(Sexual Dimorphism)'을 가진 대표적인 중대형 앵무새입니다. 수컷은 신비로운 에메랄드 그린 빛에 옥수수 모양의 주황색 부리를, 암컷은 매혹적인 붉은색과 보라색 깃털에 검은색 부리를 가져 과거 서로 다른 종으로 오인받기도 했습니다. 뉴기니아 앵무는 다른 앵무새에 비해 소화관(전위 및 장)이 길어 섬유질과 수분이 풍부한 과일, 야채, 복합 탄수화물 위주의 식단이 필수적입니다. 인공 합성 비타민이나 씨앗 위주의 고지방 식단을 급여할 경우 발가락 튕김(Toe-tapping)이나 날개 털기(Wing-flipping) 같은 신경증상이 유발될 수 있습니다. 오늘 PetSelf에서는 뉴기니아 앵무의 언어 신호를 해석하고, 올바른 식단과 섬세한 감정 케어를 돕는 3단계 데일리 루틴을 다룹니다.
+뉴기니아 앵무(Eclectus Parrot)는 조류 중에서 암수의 피모 색상이 완전히 다른 '극단적 성적 이형성(Sexual Dimorphism)'을 가진 대표적인 중대형 앵무새입니다. 수컷은 신비로운 에메랄드 그린 빛에 옥수수 모양의 주황색 부리를, 암컷은 매혹적인 붉은색과 보라색 깃털에 검은색 부리를 가져 과거 서로 다른 종으로 오인받기도 했습니다. 뉴기니아 앵무는 다른 앵무새에 비해 소화관(전위 및 장)이 길어 섬유질과 수분이 풍부한 과일, 야채, 복합 탄수화물 위주의 식단이 필수적입니다. 인공 합성 비타민이나 씨앗 위주의 고지방 식단을 급여할 경우 발가락 튕김(Toe-tapping)이나 날개 털기(Wing-flipping) 같은 신경증상이 유발될 수 있습니다. 이번 가이드에서는 뉴기니아 앵무의 언어 신호를 해석하고, 올바른 식단과 섬세한 감정 케어를 돕는 3단계 데일리 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "권장하지 않습니다. 성체 체중 50kg 이상으로 힘이 매우 강해 넓은 야외 사육장이 필요합니다."
 ---
 
-설카타 육지거북은 성체 체중 45 ~ 90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 오늘 PetSelf에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.
+설카타 육지거북은 성체 체중 45 ~ 90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 이번 가이드에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

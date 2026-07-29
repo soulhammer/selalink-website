@@ -29,7 +29,7 @@ faqs:
     answer: "Eine Panzerdeformierung, bei der die Schilde steil kegelförmig wachsen. Ursachen sind zu trockene Haltung, Eiweißüberschuss und UVB-/Kalziummangel. Vorbeugung gelingt durch 40–60 % Luftfeuchtigkeit, Bäder, Kalzium und UVB."
 ---
 
-Mit ihrem wunderschön gemusterten Rückenpanzer und ihrem ruhigen Wesen gehört die Griechische Landschildkröte (Testudo graeca) zu den beliebtesten europäischen Schildkröten. Als tagaktives Reptil benötigt sie intensivste UVB-Strahlung zur Kalziumaufnahme und ein ausgeprägtes Temperaturgefälle. Fehlen Flüssigkeit, Kalzium oder UVB, drohen Höckerbildung (Pyramidenwuchs), Metabolisches Knochensyndrom (MBD) und Harnsteine. PetSelf zeigt eine 3-Schritte-Routine für die Panzer- und Nierengesundheit.
+Mit ihrem wunderschön gemusterten Rückenpanzer und ihrem ruhigen Wesen gehört die Griechische Landschildkröte (Testudo graeca) zu den beliebtesten europäischen Schildkröten. Als tagaktives Reptil benötigt sie intensivste UVB-Strahlung zur Kalziumaufnahme und ein ausgeprägtes Temperaturgefälle. Fehlen Flüssigkeit, Kalzium oder UVB, drohen Höckerbildung (Pyramidenwuchs), Metabolisches Knochensyndrom (MBD) und Harnsteine. Dieser Ratgeber zeigt eine 3-Schritte-Routine für die Panzer- und Nierengesundheit.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

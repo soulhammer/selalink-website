@@ -29,7 +29,7 @@ faqs:
     answer: "체중 관리가 가장 중요합니다. 관절에 무리를 주는 미끄러운 바닥에 매트를 깔고, 두 다리로 서기나 높은 곳에서 점프하는 행동을 금지하며 글루코사민 계열 관절 영양제를 급여하세요."
 ---
 
-풍성한 순백의 이중모와 밝고 영리한 성격을 지닌 재패니즈 스피츠는 사랑스러운 반려견입니다. 하지만 소형 ~ 중형견 특유의 슬개골 탈구(Patellar Luxation) 위험이 높고, 하얀 털 때문에 눈가 눈물자국과 환절기 털 빠짐 관리가 필수적입니다. 오늘 PetSelf에서는 재패니즈 스피츠의 관절 신호와 행동 시그널을 분석하고, 슬개골 보호 및 모질 유지를 위한 3단계 홈케어 루틴을 소개합니다.
+풍성한 순백의 이중모와 밝고 영리한 성격을 지닌 재패니즈 스피츠는 사랑스러운 반려견입니다. 하지만 소형 ~ 중형견 특유의 슬개골 탈구(Patellar Luxation) 위험이 높고, 하얀 털 때문에 눈가 눈물자국과 환절기 털 빠짐 관리가 필수적입니다. 이번 가이드에서는 재패니즈 스피츠의 관절 신호와 행동 시그널을 분석하고, 슬개골 보호 및 모질 유지를 위한 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

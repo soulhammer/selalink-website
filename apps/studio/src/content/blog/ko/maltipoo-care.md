@@ -29,7 +29,7 @@ faqs:
     answer: "말티푸는 털이 빠져 바닥에 떨어지는 대신 죽은 털이 곱슬거리는 속털 사이에 엉켜 붙는 특성이 있습니다. 이를 방치하면 겉에서는 보이지 않지만 피부에 밀착된 거대한 엉킴(Mat)이 형성되어 통풍을 막고 세균성 피부염과 통증을 유발하므로 슬리커 브러시와 콤(일자빗)으로 매일 빗어주어야 합니다."
 ---
 
-말티푸(Maltipoo)는 순백의 영리한 말티즈(Maltese)와 털 빠짐이 적고 지능이 높은 토이 푸들(Toy Poodle)의 장점만을 결합한 대표적인 하이브리드(Designer Dog)견입니다. 푹신하고 곱슬거리는 테디베어 같은 외모와 넘치는 애교, 뛰어난 학습 능력으로 전 세계 실내 반려견 선호도 최상위를 지키고 있습니다. 그러나 소형견 특유의 약한 관절 구조로 인해 슬개골 탈구(Patellar Luxation)에 노출되기 쉬우며, 푸들과 말티즈의 유전적 특성이 섞인 실크형 곱슬 털은 매일 브러싱을 해주지 않으면 피부 깊숙이 엉킴(Matting)이 발생해 세균성 피부염을 유발할 수 있습니다. 또한, 사람에 대한 높은 애정과 의존성으로 인해 분리불안(Separation Anxiety)이 발생하기 쉬우므로 어릴 때부터 올바른 독립성 훈련이 필수적입니다. 오늘 PetSelf에서는 말티푸의 카밍 시그널과 관절 보호, 3단계 케어 루틴을 다룹니다.
+말티푸(Maltipoo)는 순백의 영리한 말티즈(Maltese)와 털 빠짐이 적고 지능이 높은 토이 푸들(Toy Poodle)의 장점만을 결합한 대표적인 하이브리드(Designer Dog)견입니다. 푹신하고 곱슬거리는 테디베어 같은 외모와 넘치는 애교, 뛰어난 학습 능력으로 전 세계 실내 반려견 선호도 최상위를 지키고 있습니다. 그러나 소형견 특유의 약한 관절 구조로 인해 슬개골 탈구(Patellar Luxation)에 노출되기 쉬우며, 푸들과 말티즈의 유전적 특성이 섞인 실크형 곱슬 털은 매일 브러싱을 해주지 않으면 피부 깊숙이 엉킴(Matting)이 발생해 세균성 피부염을 유발할 수 있습니다. 또한, 사람에 대한 높은 애정과 의존성으로 인해 분리불안(Separation Anxiety)이 발생하기 쉬우므로 어릴 때부터 올바른 독립성 훈련이 필수적입니다. 이번 가이드에서는 말티푸의 카밍 시그널과 관절 보호, 3단계 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

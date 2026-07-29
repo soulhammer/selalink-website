@@ -27,7 +27,7 @@ Avez-vous déjà ouvert un bocal ou une boîte d'olives, jeté la saumure ou lai
 
 Les olives ont une teneur élevée en matières grasses et un équilibre hydrique délicat : au contact de l'air, elles s'oxydent très vite et s'ramollissent. Une fois ouvertes, si le liquide de couverture vient à manquer, les moisissures et les bactéries se développent facilement à la surface.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes pour préserver le croquant et la saveur intense de vos olives pendant longtemps. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver le croquant et la saveur intense de vos olives pendant longtemps. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

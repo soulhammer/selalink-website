@@ -27,7 +27,7 @@ faqs:
 
 El pepino se compone de más del 95% de agua y es sumamente sensible al frío. Al exponerlo a temperaturas inferiores a 7 °C, sufre 'daño por frío (Chilling Injury)', lo que rompe sus paredes celulares y genera manchas acuosas en la piel y una rápida pudrición.
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para prevenir el daño por frío, conservar la textura crujiente y prolongar la frescura de sus pepinos por más de 2 semanas. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para prevenir el daño por frío, conservar la textura crujiente y prolongar la frescura de sus pepinos por más de 2 semanas. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

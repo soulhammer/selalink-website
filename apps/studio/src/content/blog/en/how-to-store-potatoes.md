@@ -27,7 +27,7 @@ Do you routinely store raw potatoes in the refrigerator crisper drawer? 🥔
 
 Unlike most vegetables, storing potatoes at cold temperatures below 4°C (39°F) triggers 'cold-induced sweetening', converting their starches into reducing sugars. While this makes them taste sweeter, frying or roasting these potatoes at high temperatures generates dangerously high levels of Acrylamide, a known Group 2A carcinogen.
 
-Furthermore, exposure to light causes potato skins to turn green, synthesizing a toxic glycoalkaloid called solanine. Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the UK FSA and MFDS to prevent toxins, suppress sprouting, and keep your potatoes healthy and fresh. 🛡️
+Furthermore, exposure to light causes potato skins to turn green, synthesizing a toxic glycoalkaloid called solanine. In this guide, shares a scientifically proven 3-step storage guide based on guidelines from the UK FSA and MFDS to prevent toxins, suppress sprouting, and keep your potatoes healthy and fresh. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

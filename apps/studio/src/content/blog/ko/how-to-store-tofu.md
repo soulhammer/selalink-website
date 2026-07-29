@@ -27,7 +27,7 @@ faqs:
 
 시판 두부 팩 안의 충전수는 두부에서 유출된 단백질과 유기물 성분이 녹아 있어, 개봉 직후 공기 중 박테리아와 세균이 증식하기 가장 좋은 영양 매체입니다. 충전수를 그대로 두거나 공기 중에 방치하면 단백질 부패가 진행되어 금방 미끈거리며 시큼한 냄새가 나게 됩니다.
 
-오늘 FreshSnap에서는 메이요 클리닉(Mayo Clinic)과 식품의약품안전처(MFDS)의 위생 관리 기준에 기반하여, 남은 두부를 일주일 이상 탱글탱글하고 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 메이요 클리닉(Mayo Clinic)과 식품의약품안전처(MFDS)의 위생 관리 기준에 기반하여, 남은 두부를 일주일 이상 탱글탱글하고 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

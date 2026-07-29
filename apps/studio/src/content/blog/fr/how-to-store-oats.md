@@ -27,7 +27,7 @@ Avez-vous déjà conservé une boîte en carton de flocons d'avoine dans votre p
 
 L'avoine est une céréale très nutritive, riche en fibres et en acides gras insaturés (contient environ 5 à 9 % de lipides). Cependant, en raison de sa teneur en matières grasses plus élevée que celle du riz ou du blé, l'exposition à l'oxygène, à la lumière et à la chaleur entraîne une rapide oxidation des lipides (rancissement). C'est aussi une cible privilégiée pour les insectes des céréales comme les mites alimentaires.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et des experts en sécurité alimentaire pour préserver la fraîcheur de votre avoine pendant 1 an ou plus. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et des experts en sécurité alimentaire pour préserver la fraîcheur de votre avoine pendant 1 an ou plus. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

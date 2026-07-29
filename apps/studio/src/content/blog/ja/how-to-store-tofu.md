@@ -27,7 +27,7 @@ faqs:
 
 市販の豆腐パックに入っている充填水には、溶け出した大豆タンパク質や有機物が含まれており、開封後は雑菌や細菌が最も繁殖しやすい絶好の栄養源となります。充填水のまま放置したり空気に触れさせると、タンパク質の腐敗が進み、すぐにぬめりや酸っぱい臭いが発生します。
 
-本日FreshSnapでは、メイヨークリニックおよび食品医薬品安全処（MFDS）の衛生基準に基づき、残った豆腐を1週間以上プリプリと safe に保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、メイヨークリニックおよび食品医薬品安全処（MFDS）の衛生基準に基づき、残った豆腐を1週間以上プリプリと safe に保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

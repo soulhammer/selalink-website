@@ -29,7 +29,7 @@ faqs:
     answer: "절대 안 됩니다! 그린 이구아나는 생리학적으로 100% 초식성(Strict Herbivore) 파충류입니다. 동물성 단백질이나 사료, 곤충을 섭취하면 단백질 과다 소화 부산물인 요산이 체내에 쌓여 치명적인 신부전과 전신 통풍(Gout)을 유발하여 조기 사망합니다. 반드시 녹색 잎채소 중심으로 식단을 구성해야 합니다."
 ---
 
-중남미 열대 우림이 원산지인 그린 이구아나(Green Iguana)는 강렬한 녹색 피모와 당당한 체구로 전 세계 파충류 사육자들에게 사랑받는 대표적인 주행성 대형 도마뱀입니다. 성체 시 1.5 ~ 2m까지 자라는 이구아나는 온순해 보이지만 강한 영역 본능을 지니고 있으며, 자외선(UVB) 부족과 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 매우 취약합니다. 또한 완전 초식성(Herbivorous) 파충류이므로 동물성 단백질을 섭취할 경우 치명적인 통풍과 신부전이 발생합니다. 오늘 PetSelf에서는 그린 이구아나의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+중남미 열대 우림이 원산지인 그린 이구아나(Green Iguana)는 강렬한 녹색 피모와 당당한 체구로 전 세계 파충류 사육자들에게 사랑받는 대표적인 주행성 대형 도마뱀입니다. 성체 시 1.5 ~ 2m까지 자라는 이구아나는 온순해 보이지만 강한 영역 본능을 지니고 있으며, 자외선(UVB) 부족과 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 매우 취약합니다. 또한 완전 초식성(Herbivorous) 파충류이므로 동물성 단백질을 섭취할 경우 치명적인 통풍과 신부전이 발생합니다. 이번 가이드에서는 그린 이구아나의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

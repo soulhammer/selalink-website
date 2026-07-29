@@ -29,7 +29,7 @@ faqs:
     answer: "Biji-bijian tinggi lemak tetapi sangat kekurangan Vitamin A dan kalsium, yang memicu penyakit hati berlemak, obesitas, dan Kerusakan bulu. Pelet khusus harus menjadi makanan utama (60–70%), ditambah dengan sayuran segar."
 ---
 
-Burung Indian Ringneck sangat populer berkat lingkar leher khas pada pejantan dewasa dan kemampuannya yang luar biasa dalam menirukan suara manusia. Meskipun sangat cerdas dan mandiri, mereka mengalami masa remaja yang disebut 'bluffing' pada usia sekitar 1 tahun yang ditandai dengan kecenderungan menggigit. Mengatasi masa ini membutuhkan pelatihan perilaku yang konsisten, stimulasi bicara, dan diet berbasis pelet yang seimbang dengan sayuran segar. PetSelf menyajikan rutinitas perawatan 3 langkahnya.
+Burung Indian Ringneck sangat populer berkat lingkar leher khas pada pejantan dewasa dan kemampuannya yang luar biasa dalam menirukan suara manusia. Meskipun sangat cerdas dan mandiri, mereka mengalami masa remaja yang disebut 'bluffing' pada usia sekitar 1 tahun yang ditandai dengan kecenderungan menggigit. Mengatasi masa ini membutuhkan pelatihan perilaku yang konsisten, stimulasi bicara, dan diet berbasis pelet yang seimbang dengan sayuran segar.  menyajikan rutinitas perawatan 3 langkahnya.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Você já abriu seu salreiro ou pote de sal e percebeu que ele estava úmido e e
 
 O sal é um ingrediente mineral inorgânico sem data de validade, pois sua atividade de água próxima de zero impede a proliferação de bactérias e microrganismos. No entanto, ele absorve umidade rapidamente sob alta umidade relativa e possui forte ação corrosiva contra metais. O armazenamento inadequado causa empelotamento, corrosão do recipiente e falta de higiene.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter seu sal fino, seco e perfeito por tempo indeterminado. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter seu sal fino, seco e perfeito por tempo indeterminado. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

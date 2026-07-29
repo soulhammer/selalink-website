@@ -29,7 +29,7 @@ faqs:
     answer: "Trata-se de uma interrupção fatal do trânsito digestivo provocada por falta de fibra, estresse ou dor. Os coelhos precisam de fibra contínua vinda do feno Timothy ilimitado para manter o intestino funcionando."
 ---
 
-Com uma pelagem de toque aveludado e um corpo compacto, o Mini Rex é uma das raças de coelhos mais queridas. Devido à mutação do seu pelo, eles não possuem pelos duros de proteção na sola das patas, o que os torna muito vulneráveis à pododermatite (sore hocks) em superfícies rígidas. Além disso, como herbívoros, necessitam de feno Timothy rico em fibras à vontade para evitar a fatal estase gastrointestinal. O PetSelf apresenta uma rotina de 3 passos para a saúde plantar e digestiva.
+Com uma pelagem de toque aveludado e um corpo compacto, o Mini Rex é uma das raças de coelhos mais queridas. Devido à mutação do seu pelo, eles não possuem pelos duros de proteção na sola das patas, o que os torna muito vulneráveis à pododermatite (sore hocks) em superfícies rígidas. Além disso, como herbívoros, necessitam de feno Timothy rico em fibras à vontade para evitar a fatal estase gastrointestinal. O Este guia  uma rotina de 3 passos para a saúde plantar e digestiva.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

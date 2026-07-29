@@ -27,7 +27,7 @@ faqs:
 
 トマトソースは水分や糖分が多く、開封後に空気中の細菌やカビに晒されると非常に早く腐敗します。特に唾液や異物が混ざったスプーンをそのまま入れると一日で変質することもあるため、正しい保存法が不可欠です。
 
-本日FreshSnapでは、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、開封したパスタソースを安全かつ新鮮に保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、開封したパスタソースを安全かつ新鮮に保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

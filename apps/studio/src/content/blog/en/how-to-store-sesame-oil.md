@@ -27,7 +27,7 @@ Have you ever put sesame oil in the refrigerator to keep it fresh, only to find 
 
 Unlike perilla oil, sesame oil contains powerful natural antioxidants called lignans (such as sesamol and sesamolin), making it highly resistant to lipid oxidation (rancidity). However, storing sesame oil in cold environments below 10°C (such as a refrigerator) causes it to solidify into white crystals, which impairs its rich aromatic oil compounds. Conversely, exposure to direct sunlight or heat near stovetops causes rapid oxidation.
 
-Today, FreshSnap introduces a scientifically proven 3-step storage guide recommended by food safety experts to preserve the nutty aroma, rich flavor, and nutrients of your sesame oil for up to 1 to 2 years. 🛡️
+In this guide, introduces a scientifically proven 3-step storage guide recommended by food safety experts to preserve the nutty aroma, rich flavor, and nutrients of your sesame oil for up to 1 to 2 years. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

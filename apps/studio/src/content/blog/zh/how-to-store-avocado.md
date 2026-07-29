@@ -27,7 +27,7 @@ faqs:
 
 牛油果属于典型的后熟型水果，采摘后仍会继续呼吸和成熟。如果储存在不当的温度下，后熟过程会被永久中止，内部细胞组织也会遭到破坏，因此需要特别注意。
 
-今天FreshSnap将根据加州牛油果委员会(CAC)和美国农务部(USDA)的官方指南，为您介绍3步科学储存秘诀，帮您在不损失口感和营养的前提下最大程度保持牛油果的新鲜。🛡️
+本指南将根据加州牛油果委员会(CAC)和美国农务部(USDA)的官方指南，为您介绍3步科学储存秘诀，帮您在不损失口感和营养的前提下最大程度保持牛油果的新鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

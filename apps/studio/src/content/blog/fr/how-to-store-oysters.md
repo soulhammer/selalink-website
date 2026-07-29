@@ -27,7 +27,7 @@ Avez-vous déjà acheté des huîtres fraîches pour constater après seulement 
 
 Les huîtres sont des coquillages très périssables, riches en eau et en enzymes, ce qui les rend particulièrement vulnérables aux bactéries (Vibrio) et aux virus (Norovirus). Les immerger dans l'eau du robinet ou les enfermer dans un contenant hermétique accélère leur décomposition.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations de la FDA, du USDA et du MFDS pour conserver vos huîtres en toute sécurité. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations de la FDA, du USDA et du MFDS pour conserver vos huîtres en toute sécurité. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

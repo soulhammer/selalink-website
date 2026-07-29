@@ -27,7 +27,7 @@ faqs:
 
 橄榄油等植物食用油在光线（紫外线）、氧气、热量和温度波动4大要素作用下极易发生氧化酸败（Rancidity）。特别是将橄榄油冷藏时，当温度降至8 ~ 10℃以下，其富含的单不饱和脂肪酸（油酸）会凝固结晶成白色膏状。反复冻融会破坏其特有的果香风味与多酚抗氧化成分。
 
-今天FreshSnap基于国际橄榄理事会(IOC)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您完美锁定橄榄油的风味与营养长达1年以上。🛡️
+本指南基于国际橄榄理事会(IOC)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您完美锁定橄榄油的风味与营养长达1年以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

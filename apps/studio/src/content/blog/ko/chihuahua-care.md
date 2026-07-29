@@ -33,7 +33,7 @@ faqs:
 
 하지만 초소형견이기 때문에 신체 구조적으로 약한 면도 많습니다. 첫 번째는 두개골 뼈 상부 접합부가 완전히 닫히지 않고 구멍으로 남아있는 '천문(Molera)' 뼈의 특성입니다. 정수리에 가해지는 압박이 뇌에 바로 전해지기 때문에 충격을 방지하는 노하우가 필수적입니다. 또한, 체지방량이 적고 신진대사가 극도로 민감하여 추위에 쉽게 떨며, 공복 상태가 조금만 길어져도 쇼크를 유발하는 '저혈당증(Hypoglycemia)'에 노출되기 쉽습니다.
 
-오늘 PetSelf에서는 예민한 치와와의 바디 랭귀지를 완벽 해독하고, 두개골 보호 및 혈당 평형을 유지할 수 있는 3단계 정밀 데일리 홈케어 루틴을 공유합니다.
+이번 가이드에서는 예민한 치와와의 바디 랭귀지를 완벽 해독하고, 두개골 보호 및 혈당 평형을 유지할 수 있는 3단계 정밀 데일리 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

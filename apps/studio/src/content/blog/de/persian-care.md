@@ -29,7 +29,7 @@ faqs:
     answer: "Katzen mit flachem Gesicht haben tiefe Falten um die Nase. Angestaute Tränen blockieren die Sauerstoffzufuhr und führen zu Bakterien- und Hefeinfektionen mit üblem Geruch."
 ---
 
-Mit ihrem dichten Doppelfell und dem charakteristischen flachen Gesicht sind Perserkatzen für ihr sanftes und ruhiges Wesen als Wohnungskatzen beliebt. Ihre brachyzephale Gesichtsstruktur führt jedoch zu ständigem Tränenfluss, wodurch sich leicht Schmutz in den Hautfalten sammelt. Zudem verfilzt ihr dichtes Langhaarfell schnell zu dicken Matten, was Hautschmerzen verursacht und die Luftzirkulation blockiert. Heute entschlüsselt PetSelf ihre feinen Augen- und Fellstresssignale und bietet eine 3-Schritte-Tagesroutine zur Vorsorge.
+Mit ihrem dichten Doppelfell und dem charakteristischen flachen Gesicht sind Perserkatzen für ihr sanftes und ruhiges Wesen als Wohnungskatzen beliebt. Ihre brachyzephale Gesichtsstruktur führt jedoch zu ständigem Tränenfluss, wodurch sich leicht Schmutz in den Hautfalten sammelt. Zudem verfilzt ihr dichtes Langhaarfell schnell zu dicken Matten, was Hautschmerzen verursacht und die Luftzirkulation blockiert. Heute entschlüsselt  ihre feinen Augen- und Fellstresssignale und bietet eine 3-Schritte-Tagesroutine zur Vorsorge.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

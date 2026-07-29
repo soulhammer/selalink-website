@@ -29,7 +29,7 @@ faqs:
     answer: "Oui. Dépourvu de sous-poil et de graisse sous-cutanée, il risque l'hypothermie dès que la température chute sous 10-15 °C. Un manteau ou un pull bien ajusté est indispensable."
 ---
 
-Le petit lévrier italien (PLI) est un lévrier gracieux et fin très prisé des citadins pour sa douceur et sa propreté. Doté d'une masse graisseuse minime et d'un pelage très fin, il est extrêmement sensible au froid. De plus, la finesse de ses pattes avant le rend sujet aux fractures du radius/cubitus et à la luxation de la rotule en cas de saut depuis un canapé. Aujourd'hui, PetSelf décrypte le comportement du PLI et vous propose une routine en 3 étapes pour maintenir sa température et protéger ses os au quotidien.
+Le petit lévrier italien (PLI) est un lévrier gracieux et fin très prisé des citadins pour sa douceur et sa propreté. Doté d'une masse graisseuse minime et d'un pelage très fin, il est extrêmement sensible au froid. De plus, la finesse de ses pattes avant le rend sujet aux fractures du radius/cubitus et à la luxation de la rotule en cas de saut depuis un canapé. Dans ce guide, décrypte le comportement du PLI et vous propose une routine en 3 étapes pour maintenir sa température et protéger ses os au quotidien.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

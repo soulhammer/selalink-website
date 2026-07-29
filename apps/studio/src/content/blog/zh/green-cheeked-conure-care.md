@@ -29,7 +29,7 @@ faqs:
     answer: "连续产卵会剧烈消耗其体内的钙质导致骨质疏松，并极易引发蛋体卡在输卵管内无法排出的致命性“卡蛋/难产（Egg Binding）”。应通过每日 10 ~ 12 小时以上完全遮光睡眠缩短光照，严禁抚摸脖子以下部位，并撤走巢箱、纸丝及镜子等发情诱因。"
 ---
 
-原产于南美洲热带雨林的绿颊锥尾太阳鹦鹉（俗称“小太阳鹦鹉”），凭其绚丽的羽色、滑稽爱玩的性格以及在锥尾鹦鹉中相对较小的鸣叫声而备受全球喜爱。它们极度亲人，喜欢钻入主人的掌心或衣袖，但由于鸟类特有的气囊（Air Sacs）呼吸系统，对特氟龙（PTFE）加热毒气、喷雾及香精极度敏感。此外，长期喂食高脂肪葵花籽易导致维生素 A 缺乏与脂肪肝，过度发情更会导致致命的卡蛋/难产（Egg Binding）。今天 PetSelf 将带您准确解读小太阳鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于南美洲热带雨林的绿颊锥尾太阳鹦鹉（俗称“小太阳鹦鹉”），凭其绚丽的羽色、滑稽爱玩的性格以及在锥尾鹦鹉中相对较小的鸣叫声而备受全球喜爱。它们极度亲人，喜欢钻入主人的掌心或衣袖，但由于鸟类特有的气囊（Air Sacs）呼吸系统，对特氟龙（PTFE）加热毒气、喷雾及香精极度敏感。此外，长期喂食高脂肪葵花籽易导致维生素 A 缺乏与脂肪肝，过度发情更会导致致命的卡蛋/难产（Egg Binding）。本指南将带您准确解读小太阳鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

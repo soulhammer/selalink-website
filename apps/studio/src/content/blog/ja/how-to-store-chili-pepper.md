@@ -27,7 +27,7 @@ faqs:
 
 唐辛子は水分量が85〜90%と高く湿気に弱い上、7℃ shelter以下の低温では「低温障害（Chilling Injury）」を起こして細胞が傷みやすい繊細な野菜です。特にヘタに水気が残るとカビの胞子が急増し、全体が腐敗してしまいます。
 
-本日FreshSnapでは、専門家が推奨する唐辛子の鮮度と辛みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
+本記事では、専門家が推奨する唐辛子の鮮度と辛みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

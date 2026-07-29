@@ -29,7 +29,7 @@ faqs:
     answer: "おすすめできません。幼体の頃は仲良く泳ぎますが、エンゼルフィッシュが成体になると野生の捕食本能が目覚め、夜間に口に入るサイズのネオンテトラやグッピーを食べてしまうことがあります。体格のある中型熱帯魚と同居させるのが安全です。"
 ---
 
-高く伸長した美しいヒレと気品ある泳ぎから「熱帯魚の女王」と呼ばれるエンゼルフィッシュ（Angelfish / Pterophyllum scalare）は、シクリッド科を代表する中型観賞魚です。上下に大きく育つヒレの特性上、水深の深い高さを備えた水槽（水深45cm以上）の設定が不可欠です。水質悪化やアンモニア濃度の上昇により、尾腐れ病（Fin Rot）や頭部に穴が開く「穴あき病（Hexamita）」にかかりやすく、成体になると口に入る小型魚（ネオンテトラなど）を捕食する本能を持ちます。本日PetSelfでは、エンゼルフィッシュのサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。
+高く伸長した美しいヒレと気品ある泳ぎから「熱帯魚の女王」と呼ばれるエンゼルフィッシュ（Angelfish / Pterophyllum scalare）は、シクリッド科を代表する中型観賞魚です。上下に大きく育つヒレの特性上、水深の深い高さを備えた水槽（水深45cm以上）の設定が不可欠です。水質悪化やアンモニア濃度の上昇により、尾腐れ病（Fin Rot）や頭部に穴が開く「穴あき病（Hexamita）」にかかりやすく、成体になると口に入る小型魚（ネオンテトラなど）を捕食する本能を持ちます。本記事では、エンゼルフィッシュのサインを読み解き、綺麗な水質を維持する3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

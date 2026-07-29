@@ -27,7 +27,7 @@ faqs:
 
 고춧가루와 파프리카 파우더는 공기, 빛, 수분, 온도에 매우 민감한 건조 양념입니다. 상온에 오래 방치하면 지방 성분이 산화하여 빛깔이 바래고 쩐내가 나며, 습기가 들어가면 곰팡이 독소(아플라톡신 등)가 생기거나 벌레가 생기기 매우 쉬운 환경이 됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 고춧가루의 선명한 빛깔과 매콤한 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 고춧가루의 선명한 빛깔과 매콤한 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

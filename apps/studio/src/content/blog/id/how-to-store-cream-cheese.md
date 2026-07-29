@@ -27,7 +27,7 @@ Pernahkah Anda mengoleskan krim keju pada roti, menyimpan sisanya di kulkas, lal
 
 Krim keju adalah keju segar tanpa proses pemeraman yang memiliki kadar air tinggi (di atas 50%) dan lemak susu, membuatnya jauh lebih rentan terhadap bakteri dan jamur dibandingkan keju keras. Selain itu, krim keju sensitif terhadap perubahan suhu dan mudah menyerap bau makanan di sekitarnya.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran krim keju Anda. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran krim keju Anda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

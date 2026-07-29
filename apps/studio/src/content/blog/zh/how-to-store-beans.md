@@ -27,7 +27,7 @@ faqs:
 
 干豆因水分含量低而属于较易长期保存的食材，但它对空气中的湿气、光线、热量及粮食害虫非常敏感。不当的储存方式会导致水分过度流失，在高温潮湿环境下发生表皮变硬的“难煮性（Hard-to-cook）”现象，甚至滋生霉菌与害虫。
 
-今天FreshSnap基于权威专家指南，为您介绍3步科学保存秘诀，帮您长久锁定干豆的营养与软糯口感。🛡️
+本指南基于权威专家指南，为您介绍3步科学保存秘诀，帮您长久锁定干豆的营养与软糯口感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "成長期の過度な体重増加を避け、カルシウムの過剰摂取を控えることが最も重要です。滑り止め対策と、水泳や平地での散歩など低負荷な運動で関節周囲の筋肉を鍛えましょう。"
 ---
 
-純白の綿毛のような毛並みと「サモエド・スマイル」として知られる優しい顔立ちのサモエドは、シベリア発祥のそり引き犬です。極寒に耐えるための厚い二重被毛（ダブルコート）は高温多湿に弱く、通気不足は湿疹や急性湿性皮膚炎の原因になります。また、大型犬の体格上、遺伝的に股関節形成不全を抱えやすい傾向があります。本日PetSelfでは、サモエドの股関節痛みシグナルを解読し、関節と被毛の衛生を守る3段階日常ルーティンをご提案します。
+純白の綿毛のような毛並みと「サモエド・スマイル」として知られる優しい顔立ちのサモエドは、シベリア発祥のそり引き犬です。極寒に耐えるための厚い二重被毛（ダブルコート）は高温多湿に弱く、通気不足は湿疹や急性湿性皮膚炎の原因になります。また、大型犬の体格上、遺伝的に股関節形成不全を抱えやすい傾向があります。本記事では、サモエドの股関節痛みシグナルを解読し、関節と被毛の衛生を守る3段階日常ルーティンをご提案します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Contrairement aux rongeurs, les dents des hérissons ne poussent pas continuellement. Ils n'ont pas besoin de jouets à ronger, et les objets durs peuvent fracturer leurs dents. Évitez les croquettes excessivement dures."
 ---
 
-L'hérisson pygmée africain est un animal de compagnie exotique fascinant et silencieux. Ils sont naturellement timides, utilisent leurs piquants pour se défendre et étalent de la salive mousseuse sur leur dos lorsqu'ils rencontrent de nouvelles odeurs. De plus, ils risquent un choc d'hibernation fatal si la température ambiante baisse. Aujourd'hui sur PetSelf, nous décrivons les comportements des piquants de l'hérisson, des conseils pour l'autounguement et une routine en 3 étapes pour maintenir la chaleur et la propreté stables.
+L'hérisson pygmée africain est un animal de compagnie exotique fascinant et silencieux. Ils sont naturellement timides, utilisent leurs piquants pour se défendre et étalent de la salive mousseuse sur leur dos lorsqu'ils rencontrent de nouvelles odeurs. De plus, ils risquent un choc d'hibernation fatal si la température ambiante baisse. Dans ce guide, nous décrivons les comportements des piquants de l'hérisson, des conseils pour l'autounguement et une routine en 3 étapes pour maintenir la chaleur et la propreté stables.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

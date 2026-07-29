@@ -27,7 +27,7 @@ Você já comprou caranguejos vivos e percebeu que, após um tempo na geladeira,
 
 Quando o caranguejo morre, enzimas digestivas presentes nas vísceras causam um processo rápido chamado autólise, que liquaz a carne. Além disso, são frutos do mar suscetíveis a bactérias, tornando o armazenamento correto indispensável.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas para manter a carne de caranguejo firme, saborosa e segura. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas para manter a carne de caranguejo firme, saborosa e segura. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

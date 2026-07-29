@@ -27,7 +27,7 @@ faqs:
 
 La fresa es una fruta de piel sumamente delgada y carne delicada, muy sensible a la absorción de agua y a los golpes. Lavarlas previamente, retirarles el cáliz (tallo verde) o sellarlas herméticamente crea las condiciones ideales para la propagación del moho gris (Botrytis).
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para evitar magulladuras, controlar la humedad y mantener sus fresas frescas por más de una semana. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para evitar magulladuras, controlar la humedad y mantener sus fresas frescas por más de una semana. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

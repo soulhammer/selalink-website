@@ -29,7 +29,7 @@ faqs:
     answer: "They have a powerful feeding response. If your hands smell of rodents, the snake may mistake your fingers for food. Always use feeding tongs and wash hands before handling."
 ---
 
-The California Kingsnake (*Lampropeltis californiae*) is one of the world's top three beginner pet snakes. Native to North America, this species is celebrated for its striking banded patterns and glossy scales. In nature, kingsnakes possess a strong ophidiophagous instinct—meaning they hunt and eat other snakes—and must strictly be housed individually (one snake per enclosure) to prevent cannibalism. PetSelf provides a 3-step daily care routine for temperature, humidity, and safe handling.
+The California Kingsnake (*Lampropeltis californiae*) is one of the world's top three beginner pet snakes. Native to North America, this species is celebrated for its striking banded patterns and glossy scales. In nature, kingsnakes possess a strong ophidiophagous instinct—meaning they hunt and eat other snakes—and must strictly be housed individually (one snake per enclosure) to prevent cannibalism. This guide provides a 3-step daily care routine for temperature, humidity, and safe handling.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

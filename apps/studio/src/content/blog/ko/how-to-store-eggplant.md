@@ -27,7 +27,7 @@ faqs:
 
 열대/아열대 작물인 가지는 추위에 매우 약하고 조직이 부드러워 온도 변화, 수분 손실, 그리고 에틸렌 가스에 매우 민감합니다. 일반 냉장실의 차가운 온도(0 ~ 4℃)에 그대로 노출되면 냉해(Chilling injury)를 입어 과육이 과도하게 무르고 씨앗 부위가 검게 변하며 쓴맛이 생깁니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 가지의 부드러운 식감과 신선도를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 가지의 부드러운 식감과 신선도를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

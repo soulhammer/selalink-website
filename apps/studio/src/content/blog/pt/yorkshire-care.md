@@ -29,7 +29,7 @@ faqs:
     answer: "Os Yorkies têm um instinto de guarda natural que os torna sensíveis a ruídos. Evite gritar ou pegá-lo no colo quando ele latir, pois isso funciona como reforço. Ignore o latido e recompense-o imediatamente assim que ele se acalmar."
 ---
 
-O Yorkshire Terrier, carinhosamente chamado de 'Yorkie', possui uma personalidade corajosa e vibrante em um corpo em miniatura. Eles têm uma pelagem única fina e sedosa, muito semelhante em estrutura ao cabelo humano, exigindo cuidados delicados para evitar nós. 🐩 Além disso, como raça miniatura, são altamente propensos à luxação patelar (deslocamento da patela/rótula). Hoje, o PetSelf decodifica a linguagem corporal do Yorkie e apresenta uma rotina de 3 passos para manter seu pelo sedoso e proteger seus joelhos.
+O Yorkshire Terrier, carinhosamente chamado de 'Yorkie', possui uma personalidade corajosa e vibrante em um corpo em miniatura. Eles têm uma pelagem única fina e sedosa, muito semelhante em estrutura ao cabelo humano, exigindo cuidados delicados para evitar nós. 🐩 Além disso, como raça miniatura, são altamente propensos à luxação patelar (deslocamento da patela/rótula). Neste guia, decodifica a linguagem corporal do Yorkie e apresenta uma rotina de 3 passos para manter seu pelo sedoso e proteger seus joelhos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

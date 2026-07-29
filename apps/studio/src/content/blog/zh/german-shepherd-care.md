@@ -29,7 +29,7 @@ faqs:
     answer: "德牧拥有极其浓密的双层毛，甚至被称为“掉毛怪 (German Shedder)”。建议每天用专用底层梳梳理5 ~ 10分钟，换毛期应结合定期洗澡与深度梳理以预防皮肤病。"
 ---
 
-德国牧羊犬（德牧）凭借卓越的智商、勇敢与高度忠诚，成为全球最受欢迎的军警犬与家庭犬。然而，若无法满足其强烈的工作欲与运动需求，它们容易因压力产生过度警惕的攻击性或破坏行为。此外，其体型结构极易引发髋关节和肘关节发育不良，且浓密的双层毛在换毛季脱落极其严重。今天 PetSelf 将带您解读德牧的身体语言，并通过3步骤日常护理保护其关节与被毛健康。
+德国牧羊犬（德牧）凭借卓越的智商、勇敢与高度忠诚，成为全球最受欢迎的军警犬与家庭犬。然而，若无法满足其强烈的工作欲与运动需求，它们容易因压力产生过度警惕的攻击性或破坏行为。此外，其体型结构极易引发髋关节和肘关节发育不良，且浓密的双层毛在换毛季脱落极其严重。本指南将带您解读德牧的身体语言，并通过3步骤日常护理保护其关节与被毛健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

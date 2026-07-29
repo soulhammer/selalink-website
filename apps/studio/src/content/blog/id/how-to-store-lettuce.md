@@ -27,7 +27,7 @@ Pernahkah Anda membeli selada segar tetapi dalam beberapa hari daunnya menjadi l
 
 Dengan kadar air melebihi 95% dan struktur sel yang rapuh, selada sangat sensitif terhadap perubahan suhu, ketidakseimbangan kelembapan, dan gas etilen. Penyimpanan yang salah menyebabkan dehidrasi cepat atau pembusukan akibat embun yang terperangkap.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegaran dan kerenyahan selada Anda. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegaran dan kerenyahan selada Anda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

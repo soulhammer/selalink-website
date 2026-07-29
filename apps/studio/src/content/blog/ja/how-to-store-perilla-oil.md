@@ -27,7 +27,7 @@ faqs:
 
 エゴマ油は体に良いオメガ3（α-リノレン酸）脂肪酸が60%以上と非常に多く含まれており、空気中の酸素や光、熱に触れると急速に酸化（酸敗）して有害物質を発生させる危険な油です。一方、ごま油はセサモールなどの天然抗酸化成分のおかげで常温保存が基本です。
 
-本日FreshSnapでは、農村振興庁（RDA）の研究に基づき、エゴマ油の酸化を完全に防ぎ、保存期間を2倍以上に延ばす3段階の科学的保存法をご紹介します。🛡️
+本記事では、農村振興庁（RDA）の研究に基づき、エゴマ油の酸化を完全に防ぎ、保存期間を2倍以上に延ばす3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

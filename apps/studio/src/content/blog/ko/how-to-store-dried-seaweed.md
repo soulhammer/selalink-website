@@ -27,7 +27,7 @@ faqs:
 
 김은 수분 흡수력이 매우 뛰어난 다공성 구조를 지니고 있어 공기 중의 습기를 스펀지처럼 빨아들입니다. 특히 기름과 소금이 첨가된 조미김의 경우, 습기와 공기(산소), 빛에 노출되면 기름의 지질 산패가 가속화되어 맛이 변하고 눅눅해지기 쉽습니다.
 
-오늘 FreshSnap에서는 국립수산과학원과 식품의약품안전처의 안전 가이드라인을 바탕으로, 조미김과 건김의 바삭한 식감과 고소한 풍미를 오랫동안 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 국립수산과학원과 식품의약품안전처의 안전 가이드라인을 바탕으로, 조미김과 건김의 바삭한 식감과 고소한 풍미를 오랫동안 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

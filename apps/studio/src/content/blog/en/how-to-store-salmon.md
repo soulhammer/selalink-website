@@ -27,7 +27,7 @@ Have you ever bought fresh, coral-pink salmon only to find its color fading, sme
 
 Salmon is high in moisture and rich in healthy omega-3 unsaturated fatty acids, making it exceptionally vulnerable to rapid lipid oxidation (rancidity) and bacterial spoilage upon exposure to oxygen. In particular, the liquid exudate (drip) leaking from salmon skin and flesh serves as the primary source of fishy odors (trimethylamine) and microbial growth.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on hygiene guidelines from the FDA and USDA to eliminate fishy odors, prevent oxidation and freezer burn, and keep your salmon fresh. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on hygiene guidelines from the FDA and USDA to eliminate fishy odors, prevent oxidation and freezer burn, and keep your salmon fresh. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

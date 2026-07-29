@@ -29,7 +29,7 @@ faqs:
     answer: "안 됩니다. 친칠라는 모공 하나에서 80가닥 이상의 엄청나게 촘촘한 모피를 갖고 있어 물이 닿으면 자연 건조가 불가능합니다. 젖은 상태가 지속되면 모피 곰팡이병에 걸리거나 급격한 체온 저하로 폐사할 수 있습니다."
 ---
 
-비단처럼 부드러운 모피와 동그란 몸집이 매력적인 친칠라는 최근 사랑받는 특수반려동물입니다. 하지만 개, 고양이와 달리 친칠라의 이빨은 평생 동안 멈추지 않고 계속 자라기 때문에 어금니와 앞니가 어긋나 입안에 상처를 내는 부정교합이 빈번하게 발생합니다. 또한 땀샘이 없고 털 밀도가 높아 고온다습한 환경에서 열사병에 걸리기 쉽습니다. 오늘 PetSelf에서는 친칠라의 이빨 통증 및 더위 신호를 분석하고, 건강을 지키는 3단계 루틴을 제안합니다.
+비단처럼 부드러운 모피와 동그란 몸집이 매력적인 친칠라는 최근 사랑받는 특수반려동물입니다. 하지만 개, 고양이와 달리 친칠라의 이빨은 평생 동안 멈추지 않고 계속 자라기 때문에 어금니와 앞니가 어긋나 입안에 상처를 내는 부정교합이 빈번하게 발생합니다. 또한 땀샘이 없고 털 밀도가 높아 고온다습한 환경에서 열사병에 걸리기 쉽습니다. 이번 가이드에서는 친칠라의 이빨 통증 및 더위 신호를 분석하고, 건강을 지키는 3단계 루틴을 제안합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "在出门前设置好益智喂食器或零食闻嗅以分散其注意力。在出门前至少10分钟避免进行情感饱满的告别仪式（如反复抱起亲吻），因为这会加剧它们的焦虑情绪。"
 ---
 
-暹罗猫（Siamese）源自泰国皇室，因耳朵、脸部和爪子上的重点色而闻名。它们以像狗一样黏人、极善社交的性格著称，且非常爱叫，经常以不同的声调与家长“交谈”。🐱然而，这种强烈的依恋也使其极易产生分离焦虑。如果长时间被独自留下，暹罗猫会因孤独和压力而出现连绵不绝的哀叫或破坏性抓挠。今天，PetSelf 将带您解读暹罗猫的身体语言，并提供一套日常3步护理惯例，以缓解分离压力，保持它们的情绪稳定。
+暹罗猫（Siamese）源自泰国皇室，因耳朵、脸部和爪子上的重点色而闻名。它们以像狗一样黏人、极善社交的性格著称，且非常爱叫，经常以不同的声调与家长“交谈”。🐱然而，这种强烈的依恋也使其极易产生分离焦虑。如果长时间被独自留下，暹罗猫会因孤独和压力而出现连绵不绝的哀叫或破坏性抓挠。今天，本指南将带您解读暹罗猫的身体语言，并提供一套日常3步护理惯例，以缓解分离压力，保持它们的情绪稳定。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

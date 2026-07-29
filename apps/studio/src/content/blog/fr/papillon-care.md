@@ -29,7 +29,7 @@ faqs:
     answer: "Sans sous-poil, il perd peu de poils mais nécessite un brossage quotidien pour éviter les nœuds."
 ---
 
-Le Papillon est célèbre pour ses oreilles en papillon et son intelligence. Excellent en agilité, il est fragile des rotules. Son pelage simple nécessite un brossage quotidien des franges. PetSelf présente sa routine en 3 étapes.
+Le Papillon est célèbre pour ses oreilles en papillon et son intelligence. Excellent en agilité, il est fragile des rotules. Son pelage simple nécessite un brossage quotidien des franges. Ce guide vous propose sa routine en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

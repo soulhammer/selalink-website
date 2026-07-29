@@ -29,7 +29,7 @@ faqs:
     answer: "디스커스는 아마존 강 따뜻한 잔잔한 수계 출신으로 대사율과 면역계가 고온에 최적화되어 있습니다. 수온이 26°C 이하로 떨어지면 신진대사가 저하되어 사료를 거부하고, 면역력이 급격히 떨어져 백점병이나 내부 기생충 감염에 취약해집니다. 따라서 히터를 사용하여 상시 28 ~ 30°C(치어 사육 시 30 ~ 31°C)를 유지하는 것이 필수적입니다."
 ---
 
-남미 아마존강 수계 원산의 디스커스(Discus Fish)는 원반 모양의 우아한 체형과 화려한 체색으로 '열대어의 왕'이라 불리는 시클리드과 민물 열대어입니다. 디스커스는 가장 아름다운 자태를 자랑하지만, 고온(28 ~ 30°C)과 깨끗한 약산성 연수(pH 6.0 ~ 6.8)를 요구하는 예민한 어종입니다. 수질 오염이나 질산염 축적 시 체색이 새까맣게 변하는 '블랙닝(Darkening)' 증상을 보이며, 내부 기생충(헥사미타) 감염 시 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head)'에 매우 취약합니다. 오늘 PetSelf에서는 디스커스의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+남미 아마존강 수계 원산의 디스커스(Discus Fish)는 원반 모양의 우아한 체형과 화려한 체색으로 '열대어의 왕'이라 불리는 시클리드과 민물 열대어입니다. 디스커스는 가장 아름다운 자태를 자랑하지만, 고온(28 ~ 30°C)과 깨끗한 약산성 연수(pH 6.0 ~ 6.8)를 요구하는 예민한 어종입니다. 수질 오염이나 질산염 축적 시 체색이 새까맣게 변하는 '블랙닝(Darkening)' 증상을 보이며, 내부 기생충(헥사미타) 감염 시 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head)'에 매우 취약합니다. 이번 가이드에서는 디스커스의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

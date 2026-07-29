@@ -29,7 +29,7 @@ faqs:
     answer: "골든 리트리버는 고관절 이형성증 등 유전적 관절 질환에 취약하므로, 성장이 활발한 생후 3개월령부터 체중 조절과 미끄럼 방지 매트 설치, 수영과 같은 부하가 적은 근력 운동을 시작하는 것이 좋습니다."
 ---
 
-황금빛 털과 온순한 성격으로 전 세계적으로 큰 사랑을 받고 있는 골든 리트리버는 뛰어난 지능과 친화력을 지닌 반려견입니다. '천사견'이라는 별명처럼 다정하지만, 대형 사냥견 출신인 만큼 넘치는 에너지를 지녀 일상에서의 적극적인 자극과 교감이 필요합니다. 특히 대형견의 유전적 취약점인 고관절 이형성증(Hip Dysplasia)을 예방하고, 타고난 리트리빙(물건 물어오기) 본능을 해소해 주는 일상 루틴이 평생의 건강과 정서적 안정에 절대적인 영향을 미칩니다. 오늘 PetSelf에서는 리트리버의 바디 랭귀지를 이해하고, 관절과 놀이 본능을 매일 관리할 수 있는 3단계 헬시 루틴을 소개합니다.
+황금빛 털과 온순한 성격으로 전 세계적으로 큰 사랑을 받고 있는 골든 리트리버는 뛰어난 지능과 친화력을 지닌 반려견입니다. '천사견'이라는 별명처럼 다정하지만, 대형 사냥견 출신인 만큼 넘치는 에너지를 지녀 일상에서의 적극적인 자극과 교감이 필요합니다. 특히 대형견의 유전적 취약점인 고관절 이형성증(Hip Dysplasia)을 예방하고, 타고난 리트리빙(물건 물어오기) 본능을 해소해 주는 일상 루틴이 평생의 건강과 정서적 안정에 절대적인 영향을 미칩니다. 이번 가이드에서는 리트리버의 바디 랭귀지를 이해하고, 관절과 놀이 본능을 매일 관리할 수 있는 3단계 헬시 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

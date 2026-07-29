@@ -33,7 +33,7 @@ Los Maine Coons, originarios de América del Norte, son los 'gigantes gentiles' 
 
 Sin embargo, como los machos adultos pesan habitualmente entre 8 y 12 kg, la carga sobre sus articulaciones por la gravedad es considerable. Además, tienen una predisposición genética superior para desarrollar Cardiomiopatía Hipertrófica (HCM). Por ello, controlar su frecuencia respiratoria durante el sueño y amortiguar el impacto de sus saltos resulta indispensable en su rutina diaria.
 
-Hoy, PetSelf descifra el lenguaje corporal del Maine Coon y presenta una rutina diaria de 3 pasos para proteger su corazón y mantener su hermoso manto doble.
+En esta guía, descifra el lenguaje corporal del Maine Coon y presenta una rutina diaria de 3 pasos para proteger su corazón y mantener su hermoso manto doble.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Você já amarrou de qualquer jeito um pacote aberto de macarrão, guardou no ar
 
 A massa seca possui um teor de umidade inferior a 12%, sendo excelente para armazenamento de longo prazo. No entanto, ela absorve com facilidade a umidade do ar, a luz e cheiros fortes, tornando-se alvo fácil para pragas de grãos, como carunchos e traças. O armazenamento incorreto estraga o sabor do trigo duro e prejudica a qualidade.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA para manter seu macarrão seco perfeito por anos. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA para manter seu macarrão seco perfeito por anos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "不需要。家庭环境下人工诱导冬眠风险极高，易导致死亡。室内饲养只需全年维持20°C以上的环境和稳定的晒背点，即可安全地避免冬眠。"
 ---
 
-赫曼陆龟（Testudo hermanni）是原产于地中海沿岸的代表性小型陆龟，凭借温和的性格与强健的体魄，长久以来都是欧美家庭中最受欢迎的宠物爬行动物。成体体长仅15 ~ 20厘米左右，适应力极强且寿命悠长。然而作为变温动物，它们无法自主调节体温，因此必须通过加热灯构建温湿度梯度；同时，定期更换UVB灯管对于体内维生素D3合成及龟甲健康生长至关重要。此外，高蛋白高糖食物易引发龟甲隆背变形，因此以高纤维、高钙野草为主的饮食管理是健康养育的核心。今天 PetSelf 将解析赫曼陆龟的本能信号，并公开包含温控、晒背及UVB管理的3阶段日常护理流程。
+赫曼陆龟（Testudo hermanni）是原产于地中海沿岸的代表性小型陆龟，凭借温和的性格与强健的体魄，长久以来都是欧美家庭中最受欢迎的宠物爬行动物。成体体长仅15 ~ 20厘米左右，适应力极强且寿命悠长。然而作为变温动物，它们无法自主调节体温，因此必须通过加热灯构建温湿度梯度；同时，定期更换UVB灯管对于体内维生素D3合成及龟甲健康生长至关重要。此外，高蛋白高糖食物易引发龟甲隆背变形，因此以高纤维、高钙野草为主的饮食管理是健康养育的核心。本指南将解析赫曼陆龟的本能信号，并公开包含温控、晒背及UVB管理的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

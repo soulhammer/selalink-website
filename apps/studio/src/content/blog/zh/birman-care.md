@@ -29,7 +29,7 @@ faqs:
     answer: "伯曼猫存在肥大性心肌病（HCM）的遗传风险，建议定期做心超检查；同时多鼓励饮水以预防肾脏疾病。"
 ---
 
-伯曼猫（Birman Cat）以深邃如蓝宝石的眼睛和四肢末端如戴白手套般的“手套毛”而闻名。它们性格极其温和安静，非常热衷于与主人建立亲密的感情。由于缺少密集的底毛，其丝滑被毛比其他长毛猫更不易打结。尽管如此，定期的被毛梳理、温和的陪玩互动以及对肥大性心肌病（HCM）和肾脏健康定期检查依然不可或缺。今天 PetSelf 为您整理伯曼猫的情感信号与3阶段日常护理流程。
+伯曼猫（Birman Cat）以深邃如蓝宝石的眼睛和四肢末端如戴白手套般的“手套毛”而闻名。它们性格极其温和安静，非常热衷于与主人建立亲密的感情。由于缺少密集的底毛，其丝滑被毛比其他长毛猫更不易打结。尽管如此，定期的被毛梳理、温和的陪玩互动以及对肥大性心肌病（HCM）和肾脏健康定期检查依然不可或缺。本指南为您整理伯曼猫的情感信号与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

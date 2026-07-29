@@ -29,7 +29,7 @@ faqs:
     answer: "Soutenez toujours l'ensemble de son corps à l'horizontale. Placez une main sous sa poitrine entre les pattes avant et l'autre main sous son arrière-train. Ne le soulevez jamais uniquement par les pattes avant ou sous les aisselles."
 ---
 
-Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux et amical. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves traumatismes au niveau de leur colonne vertébrale. Aujourd'hui, PetSelf décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.
+Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux et amical. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves traumatismes au niveau de leur colonne vertébrale. Dans ce guide, décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

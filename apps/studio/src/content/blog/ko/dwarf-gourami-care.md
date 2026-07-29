@@ -29,7 +29,7 @@ faqs:
     answer: "드워프 구라미의 라비린스 기관은 수면 위의 공기를 호흡합니다. 차가운 건조 공기가 직접 유입되면 라비린스 기관에 감염이나 손상이 생길 수 있으므로, 수조 뚜껑을 덮어 수면 위 공기를 따뜻하고 습하게 유지해야 합니다."
 ---
 
-드워프 구라미는 선명한 붉은색과 네온 블루 스트라이프가 조화를 이루는 화려한 외형과 온순한 성격으로 전 세계 아쿠아리스트들에게 사랑받는 대표적인 소형 열대어입니다. 아가미 외에 공기 중 산소를 직접 호흡할 수 있는 '라비린스(Labyrinth) 기관'을 가지고 있어 수면 위 공기 환경 관리가 필수적입니다. 또한 실지느러미 모양으로 변형된 가슴지느러미로 물속 환경을 탐색하는 독특한 습성이 있습니다. 오늘 PetSelf에서는 드워프 구라미의 본능 시그널을 해석하고, 수면 공기 보호, 발색 유지 영양, 합사 수조 유지를 위한 3단계 홈케어 루틴을 소개합니다.
+드워프 구라미는 선명한 붉은색과 네온 블루 스트라이프가 조화를 이루는 화려한 외형과 온순한 성격으로 전 세계 아쿠아리스트들에게 사랑받는 대표적인 소형 열대어입니다. 아가미 외에 공기 중 산소를 직접 호흡할 수 있는 '라비린스(Labyrinth) 기관'을 가지고 있어 수면 위 공기 환경 관리가 필수적입니다. 또한 실지느러미 모양으로 변형된 가슴지느러미로 물속 환경을 탐색하는 독특한 습성이 있습니다. 이번 가이드에서는 드워프 구라미의 본능 시그널을 해석하고, 수면 공기 보호, 발색 유지 영양, 합사 수조 유지를 위한 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

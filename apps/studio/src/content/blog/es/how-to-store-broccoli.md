@@ -27,7 +27,7 @@ faqs:
 
 El brócoli es una hortaliza crucífera con capullos densamente agrupados. Tiene una tasa de respiración muy alta y emite activamente gas etileno y calor. Un mal control de la humedad hace que las bacterias se multipliquen entre las flores o que pierda nutrientes rápidamente al amarillear.
 
-Hoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por el USDA y la RDA para conservar la humedad, evitar la degradación de la clorofila y mantener su brócoli verde y crujiente. 🛡️
+En esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y la RDA para conservar la humedad, evitar la degradación de la clorofila y mantener su brócoli verde y crujiente. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

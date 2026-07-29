@@ -27,7 +27,7 @@ Avez-vous déjà placé de l'extrait pur de vanille au réfrigérateur pour le c
 
 L'extrait pur de vanille est obtenu par macération de gousses de vanille dans une solution alcoolique à au moins 35% d'alcool, qui agit comme un puissant conservateur naturel. Cependant, la réfrigération provoque de la condensation dans la bouteille et fait cristalliser la vanilline, détruisant son délicat arôme.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation de l'extrait de vanille en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa saveur indéfiniment. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation de l'extrait de vanille en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa saveur indéfiniment. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous déjà acheté de la laitue bien fraîche pour constater quelques jour
 
 Avec une teneur en eau supérieure à 95 % et une structure cellulaire très fragile, la laitue est extrêmement sensible aux variations de température, à l'excès d'humidité et au gaz éthylène. Un stockage inadéquat entraîne une déshydratation rapide ou, à l'inverse, un pourrissement bactérien dû à la condensation.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver tout le croquant de votre laitue. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver tout le croquant de votre laitue. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "육지 소라게는 삼투압 조절과 껍질 내부 체액 유지를 위해 담수와 해수가 모두 필요합니다. 마트의 천일염이나 식용 소금이 아닌, 수족관 전용 해수염(Instant Ocean 등)을 탈염소 물에 타서 담수와 해수 두 개의 수조를 동시에 제공해야 합니다."
 ---
 
-퍼플 핀처 소라게(*Coenobita clypeatus*)는 단단하고 아름다운 집게발과 귀여운 눈망울로 전 세계에서 가장 사랑받는 반려 갑각류입니다. 집게발의 보랏빛 오묘한 색상이 특징이며, 평생 성장에 맞춰 알맞은 크기의 쉘(조개껍데기)을 바꾸어 입는 고유한 생태 습성을 지녔습니다. 육지 소라게이지만 변형된 아가미로 호흡하므로 사육장 내 습도(75 ~ 85%) 유지가 생명 유지의 핵심입니다. 또한 탈피 시 모래 속 깊숙이 파고드는 버로우(Burrowing) 행동을 하므로 소라게 키의 3배 이상 깊이의 코코피트/에코버로우 바닥재 세팅이 필수적입니다. 소라게는 사회적 동물로 단독 사육 시 스트레스를 받기 쉽습니다. 오늘 PetSelf에서는 소라게의 행동 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.
+퍼플 핀처 소라게(*Coenobita clypeatus*)는 단단하고 아름다운 집게발과 귀여운 눈망울로 전 세계에서 가장 사랑받는 반려 갑각류입니다. 집게발의 보랏빛 오묘한 색상이 특징이며, 평생 성장에 맞춰 알맞은 크기의 쉘(조개껍데기)을 바꾸어 입는 고유한 생태 습성을 지녔습니다. 육지 소라게이지만 변형된 아가미로 호흡하므로 사육장 내 습도(75 ~ 85%) 유지가 생명 유지의 핵심입니다. 또한 탈피 시 모래 속 깊숙이 파고드는 버로우(Burrowing) 행동을 하므로 소라게 키의 3배 이상 깊이의 코코피트/에코버로우 바닥재 세팅이 필수적입니다. 소라게는 사회적 동물로 단독 사육 시 스트레스를 받기 쉽습니다. 이번 가이드에서는 소라게의 행동 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

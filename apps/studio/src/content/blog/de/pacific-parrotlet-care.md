@@ -29,7 +29,7 @@ faqs:
     answer: "Sie sind sehr intelligent und können Wörter lernen. Ihre Lautstärke ist sehr gering (leises Zwitschern), ideal für Wohnungen."
 ---
 
-Der Axt-Sperlingspapagei (Forpus coelestis) ist mit 12 bis 14 cm Körperlänge als 'kleinster Papagei der Welt' bekannt. Er eignet sich hervorragend für die Wohnungshaltung und ist in Nordamerika und Europa sehr beliebt. Trotz seiner geringen Größe besitzt er den Mut und die Intelligenz eines großen Aras ('großer Papagei im kleinen Körper'). Allerdings neigt er zu territorialem Verhalten bezüglich seines Käfigs. Reine Saatendiäten führen leicht zu Fettleber, weshalb Pelletfutter essenziell ist. Heute erklärt PetSelf seine Körpersprache und zeigt eine 3-Schritt-Routine.
+Der Axt-Sperlingspapagei (Forpus coelestis) ist mit 12 bis 14 cm Körperlänge als 'kleinster Papagei der Welt' bekannt. Er eignet sich hervorragend für die Wohnungshaltung und ist in Nordamerika und Europa sehr beliebt. Trotz seiner geringen Größe besitzt er den Mut und die Intelligenz eines großen Aras ('großer Papagei im kleinen Körper'). Allerdings neigt er zu territorialem Verhalten bezüglich seines Käfigs. Reine Saatendiäten führen leicht zu Fettleber, weshalb Pelletfutter essenziell ist. Heute erklärt  seine Körpersprache und zeigt eine 3-Schritt-Routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

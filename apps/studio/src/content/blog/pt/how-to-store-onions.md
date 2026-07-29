@@ -27,7 +27,7 @@ Você já comprou um saco de rede de cebolas e empilhou no canto da varanda, ape
 
 A cebola é uma hortaliça de bulbo que continua respirando e regulando a umidade após a colheita. Quando armazenada em ambientes úmidos e fechados, a podridão do colo por Botrytis e bactérias se espalham rapidamente. Além disso, guardar cebolas com batatas provoca absorção mútua de umidade e reações de etileno, estragando ambas.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para controlar a umidade e os gases, mantendo cebolas firmes por mais de um mês. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para controlar a umidade e os gases, mantendo cebolas firmes por mais de um mês. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

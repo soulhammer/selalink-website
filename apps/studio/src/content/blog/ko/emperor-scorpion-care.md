@@ -29,7 +29,7 @@ faqs:
     answer: "권장하지 않습니다. 독성은 벌 침 정도로 약하지만 강력한 집게발에 집히면 큰 통증과 상처를 입을 수 있으며, 핸들링 자체가 전갈에게 극심한 스트레스입니다. 이동 시에는 둥근 용기나 핀셋을 사용하는 것이 안전합니다."
 ---
 
-멕시칸 레드니 타란툴라와 함께 희귀 반려동물(Exotic Pet) 사육자들에게 최고의 사랑을 받는 황제전갈은 광택이 흐르는 검은색의 거대한 체구와 강력한 집게가 특징인 대형 전갈입니다. 몸길이가 최대 20cm까지 자라는 황제전갈은 독침보다는 강한 집게발(Pedipalp)을 주무기로 사용하며, 전갈류 중 독성이 매우 약해 초보자도 안심하고 사육할 수 있습니다. 특히 껍질의 외골격층(Hyaline Layer) 특성 때문에 자외선(UV/블랙라이트)을 받으면 형광 청록색으로 빛나는 신비로운 생태적 특징을 지닙니다. 서아프리카 열대우림 출신인 황제전갈은 고습도(75 ~ 85%)와 따뜻한 온도(26 ~ 30℃) 유지가 건강의 핵심입니다. 오늘 PetSelf에서는 황제전갈의 위협·은신 신호와 적정 환경 관리를 위한 3단계 홈케어 루틴을 정리해 드립니다.
+멕시칸 레드니 타란툴라와 함께 희귀 반려동물(Exotic Pet) 사육자들에게 최고의 사랑을 받는 황제전갈은 광택이 흐르는 검은색의 거대한 체구와 강력한 집게가 특징인 대형 전갈입니다. 몸길이가 최대 20cm까지 자라는 황제전갈은 독침보다는 강한 집게발(Pedipalp)을 주무기로 사용하며, 전갈류 중 독성이 매우 약해 초보자도 안심하고 사육할 수 있습니다. 특히 껍질의 외골격층(Hyaline Layer) 특성 때문에 자외선(UV/블랙라이트)을 받으면 형광 청록색으로 빛나는 신비로운 생태적 특징을 지닙니다. 서아프리카 열대우림 출신인 황제전갈은 고습도(75 ~ 85%)와 따뜻한 온도(26 ~ 30℃) 유지가 건강의 핵심입니다. 이번 가이드에서는 황제전갈의 위협·은신 신호와 적정 환경 관리를 위한 3단계 홈케어 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

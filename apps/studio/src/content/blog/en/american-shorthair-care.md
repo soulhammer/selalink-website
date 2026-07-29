@@ -29,7 +29,7 @@ faqs:
     answer: "Choose low-carbohydrate, high-protein food and limit treats. Using puzzle feeders (food toys) to make them work for a portion of their kibble is an effective way to increase physical activity."
 ---
 
-Known for their beautiful silver tabby pattern and muscular bodies, American Shorthairs are stable and loving companions. However, their easygoing nature often leads to laziness and obesity, which strains their cardiovascular system. Furthermore, the breed is genetically susceptible to Hypertrophic Cardiomyopathy (HCM), a silent heart disease where the heart walls thicken. Today, PetSelf decodes American Shorthair heart warning signs and presents a 3-step care routine.
+Known for their beautiful silver tabby pattern and muscular bodies, American Shorthairs are stable and loving companions. However, their easygoing nature often leads to laziness and obesity, which strains their cardiovascular system. Furthermore, the breed is genetically susceptible to Hypertrophic Cardiomyopathy (HCM), a silent heart disease where the heart walls thicken. In this guide, decodes American Shorthair heart warning signs and presents a 3-step care routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

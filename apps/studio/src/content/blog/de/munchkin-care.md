@@ -29,7 +29,7 @@ faqs:
     answer: "Jedes Gramm Übergewicht belastet die kurzen Beine und den langen Rücken extrem, was Gelenkverschleiß beschleunigt. Halten Sie die Katze durch strikte Fütterung schlank."
 ---
 
-Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine. Obwohl sie erstaunlich aktiv sind, führt ihre Anatomie dazu, dass Stöße beim Springen stärker auf Wirbelsäule und Gelenke wirken. Sie neigen genetisch zu Lordose und früher Arthrose. Heute entschlüsselt PetSelf die Körpersprache von Munchkin-Katzen bei Gelenkstress und zeigt eine 3-Schritt-Niederflurroutine, um ihre Wirbelsäule zu schützen und ihre Mobilität langfristig zu sichern.
+Munchkin-Katzen sind berühmt für ihr liebenswertes Wesen und ihre kurzen Beine. Obwohl sie erstaunlich aktiv sind, führt ihre Anatomie dazu, dass Stöße beim Springen stärker auf Wirbelsäule und Gelenke wirken. Sie neigen genetisch zu Lordose und früher Arthrose. Heute entschlüsselt  die Körpersprache von Munchkin-Katzen bei Gelenkstress und zeigt eine 3-Schritt-Niederflurroutine, um ihre Wirbelsäule zu schützen und ihre Mobilität langfristig zu sichern.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

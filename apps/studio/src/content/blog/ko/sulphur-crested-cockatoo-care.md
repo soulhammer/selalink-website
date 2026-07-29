@@ -29,7 +29,7 @@ faqs:
     answer: "높은 지능과 사회성으로 인한 전형적인 분리불안 증상입니다. 혼자 있는 시간에 집중할 수 있는 먹이 찾기(Foraging) 장난감을 늘려주고, 외출 직전과 귀가 직후 과도한 애정 표현을 줄여 덤덤한 관계 형성을 유도해야 합니다."
 ---
 
-유황 앵무(코카투)는 머리 위의 화려한 노란빛 우관(Crest)과 흰 깃털, 압도적인 지능과 감정 교감 능력으로 대형 앵무 애호가들에게 열렬한 사랑을 받는 종입니다. 어린아이 수준의 높은 지능과 풍부한 애정을 지녔지만, 그만큼 보호자에 대한 의존도가 높아 분리불안이나 자해증(깃털 뽑기)으로 이어지기 쉽습니다. 또한 방수와 깃털 관리를 위해 몸에서 다량의 흰색 파우더(파우더 다운)를 배출하므로 주기적인 목욕과 공기 질 관리가 필수적입니다. 오늘 PetSelf에서는 유황 앵무의 우관 언어를 해석하고, 영리한 두뇌 활동과 깃털 위생을 보호하는 3단계 데일리 케어 루틴을 다룹니다.
+유황 앵무(코카투)는 머리 위의 화려한 노란빛 우관(Crest)과 흰 깃털, 압도적인 지능과 감정 교감 능력으로 대형 앵무 애호가들에게 열렬한 사랑을 받는 종입니다. 어린아이 수준의 높은 지능과 풍부한 애정을 지녔지만, 그만큼 보호자에 대한 의존도가 높아 분리불안이나 자해증(깃털 뽑기)으로 이어지기 쉽습니다. 또한 방수와 깃털 관리를 위해 몸에서 다량의 흰색 파우더(파우더 다운)를 배출하므로 주기적인 목욕과 공기 질 관리가 필수적입니다. 이번 가이드에서는 유황 앵무의 우관 언어를 해석하고, 영리한 두뇌 활동과 깃털 위생을 보호하는 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

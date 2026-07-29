@@ -29,7 +29,7 @@ faqs:
     answer: "Gatos de focinho achatado têm dobras profundas na face. Lágrimas acumuladas bloqueiam a oxigenação da pele, facilitando infecções por leveduras e bactérias com mau cheiro."
 ---
 
-Com sua pelagem dupla densa e face achatada característica, os gatos Persas são conhecidos por sua natureza dócil e calma. No entanto, sua estrutura facial braquicefálica causa lacrimejamento contínuo, acumulando sujeira nas dobras faciais. Sua pelagem longa e fina embaraça facilmente formando nós duros que puxam a pele, causando dor e impedindo a circulação de ar. Hoje, o PetSelf decodifica os sinais de estresse ocular e de pelagem do Persa e apresenta uma rotina diária em 3 passos para proteger sua saúde.
+Com sua pelagem dupla densa e face achatada característica, os gatos Persas são conhecidos por sua natureza dócil e calma. No entanto, sua estrutura facial braquicefálica causa lacrimejamento contínuo, acumulando sujeira nas dobras faciais. Sua pelagem longa e fina embaraça facilmente formando nós duros que puxam a pele, causando dor e impedindo a circulação de ar. Neste guia, decodifica os sinais de estresse ocular e de pelagem do Persa e apresenta uma rotina diária em 3 passos para proteger sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

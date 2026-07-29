@@ -27,7 +27,7 @@ Avez-vous déjà acheté de la dinde saine et riche en protéines pour constater
 
 Comme la plupart des volailles, la viande de dinde contient beaucoup d'eau et de protéines, ce qui en fait un milieu très favorable au développement de bactéries pathogènes comme Salmonella et Campylobacter. Le contrôle de l'humidité des jus et la prévention de la contamination croisée sont les clés d'une consommation sûre.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA FSIS pour éliminer les bactéries et préserver la fraîcheur de la dinde. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA FSIS pour éliminer les bactéries et préserver la fraîcheur de la dinde. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

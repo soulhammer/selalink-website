@@ -29,7 +29,7 @@ faqs:
     answer: "Ras ini memiliki kecenderungan kardiomiopati hipertrofik (HCM). Pemeriksaan USG jantung berkala dan asupan air yang cukup sangat disarankan."
 ---
 
-Kucing Birman adalah ras anggun yang terkenal dengan mata biru safirnya yang memikat dan cakar berbulu putih seperti kaus kaki. Lembut dan tenang, Birman sangat menyukai hubungan dekat dengan pemiliknya. Bulu sutra mereka tidak memiliki lapisan bulu bawah yang tebal, sehingga jarang menggumpal dibanding ras bulu panjang lainnya. Namun penyisiran rutin, permainan lembut, dan pemeriksaan kardiomiopati (HCM) tetap penting. Hari ini PetSelf membagikan 3 langkah rutinitas perawatan.
+Kucing Birman adalah ras anggun yang terkenal dengan mata biru safirnya yang memikat dan cakar berbulu putih seperti kaus kaki. Lembut dan tenang, Birman sangat menyukai hubungan dekat dengan pemiliknya. Bulu sutra mereka tidak memiliki lapisan bulu bawah yang tebal, sehingga jarang menggumpal dibanding ras bulu panjang lainnya. Namun penyisiran rutin, permainan lembut, dan pemeriksaan kardiomiopati (HCM) tetap penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

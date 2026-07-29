@@ -29,7 +29,7 @@ faqs:
     answer: "플래티는 자신의 새끼를 먹는 '치어 포식(Fry Cannibalism)' 습성이 있습니다. 암컷의 배가 'ㄴ'자 모양으로 네모나지고 산란관이 돌출되면 출산 직전이므로, 미리 부채통(격리통)에 옮겨주어야 합니다. 사육수조에서 자연 출산을 시킬 경우 치어들이 숨을 수 있도록 자바모스, 붕어모, 나자스모스 같은 수초를 풍성하게 식재해야 합니다."
 ---
 
-꼬리지느러미 시작 부분에 검은 미키마우스 얼굴 모양 무늬가 선명하게 들어간 미키마우스 플래티(Mickey Mouse Platy)는 화려한 색상과 뛰어난 적응력으로 전 세계 초보자부터 전문가까지 두루 사랑받는 대표적인 난태생 송살목 관상어입니다. 플래티는 체내에서 알을 부화시켜 새끼를 낳는 난태생 특성상 번식력이 매우 뛰어나지만, 수온이 22°C 이하로 급격히 떨어지거나 수질이 악화되면 몸에 흰 점이 생기는 '백점병(Ich)'과 지느러미를 접는 증상에 취약합니다. 또한 출산 직후 성어들이 치어를 먹어치우는 '치어 포식(Fry Cannibalism)' 현상이 발생하기 쉽고, 수질 쇼크로 인한 유산이나 외부 기생충 감염이 일어날 수 있습니다. 오늘 PetSelf에서는 미키마우스 플래티의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+꼬리지느러미 시작 부분에 검은 미키마우스 얼굴 모양 무늬가 선명하게 들어간 미키마우스 플래티(Mickey Mouse Platy)는 화려한 색상과 뛰어난 적응력으로 전 세계 초보자부터 전문가까지 두루 사랑받는 대표적인 난태생 송살목 관상어입니다. 플래티는 체내에서 알을 부화시켜 새끼를 낳는 난태생 특성상 번식력이 매우 뛰어나지만, 수온이 22°C 이하로 급격히 떨어지거나 수질이 악화되면 몸에 흰 점이 생기는 '백점병(Ich)'과 지느러미를 접는 증상에 취약합니다. 또한 출산 직후 성어들이 치어를 먹어치우는 '치어 포식(Fry Cannibalism)' 현상이 발생하기 쉽고, 수질 쇼크로 인한 유산이나 외부 기생충 감염이 일어날 수 있습니다. 이번 가이드에서는 미키마우스 플래티의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

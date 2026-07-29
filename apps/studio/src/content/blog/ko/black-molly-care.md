@@ -29,7 +29,7 @@ faqs:
     answer: "네, 큰 도움이 됩니다! 몰리는 담수뿐만 아니라 기수(민물과 바닷물이 섞이는 지역)에서도 서식하는 어종입니다. 수조 물 10L당 천일염 약 5 ~ 10g 정도를 첨가해 주면 기생충 및 백점병 예방, 삼투압 유지, 점막 보호에 탁월한 효과가 있습니다."
 ---
 
-새까만 비늘과 우아한 지느러미로 물생활 사육자들에게 큰 사랑을 받는 블랙 몰리(Black Molly)는 알 대신 새끼를 직접 낳는 난태생(Livebearer) 민물 열대어입니다. 블랙 몰리는 비교적 키우기 쉬운 어종으로 알려져 있지만, 연수(약산성 물)나 낮은 수온에 노출되면 몸을 제자리에서 흔드는 '시미 증상(Shimmying)'과 백점병(Ich)에 매우 취약합니다. 또한 약간의 소금기가 있는 약알칼리성 수질(pH 7.5 ~ 8.2)을 선호하며, 급격한 수질 변화나 암모니아 상승 시 면역력이 급격히 떨어집니다. 오늘 PetSelf에서는 블랙 몰리의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+새까만 비늘과 우아한 지느러미로 물생활 사육자들에게 큰 사랑을 받는 블랙 몰리(Black Molly)는 알 대신 새끼를 직접 낳는 난태생(Livebearer) 민물 열대어입니다. 블랙 몰리는 비교적 키우기 쉬운 어종으로 알려져 있지만, 연수(약산성 물)나 낮은 수온에 노출되면 몸을 제자리에서 흔드는 '시미 증상(Shimmying)'과 백점병(Ich)에 매우 취약합니다. 또한 약간의 소금기가 있는 약알칼리성 수질(pH 7.5 ~ 8.2)을 선호하며, 급격한 수질 변화나 암모니아 상승 시 면역력이 급격히 떨어집니다. 이번 가이드에서는 블랙 몰리의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

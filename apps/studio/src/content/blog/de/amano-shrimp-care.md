@@ -29,7 +29,7 @@ faqs:
     answer: "Nein. Die entlassenen Larven (Zoeae) benötigen zwingend Brackwasser mit bestimmter Salinität, um sich zu entwickeln. Im Süßwasser sterben die Larven innerhalb weniger Tage."
 ---
 
-Als bester Algenfresser in bepflanzten Aquarien ist die Amanogarnele (Caridina multidentata) eine transparente Garnele mit dunkler Punktierung. Obwohl sie Fadenalgen unermüdlich vertilgt, reagiert sie extrem empfindlich auf Schwermetalle (besonders Kupfer), hohe Nitratwerte und plötzliche Schwankungen der Wasserwerte. Schlechte Wasserqualität führt zu Fluchtversuchen aus dem Becken oder tödlichen Häutungsproblemen. PetSelf stellt eine tägliche 3-Schritte-Routine vor.
+Als bester Algenfresser in bepflanzten Aquarien ist die Amanogarnele (Caridina multidentata) eine transparente Garnele mit dunkler Punktierung. Obwohl sie Fadenalgen unermüdlich vertilgt, reagiert sie extrem empfindlich auf Schwermetalle (besonders Kupfer), hohe Nitratwerte und plötzliche Schwankungen der Wasserwerte. Schlechte Wasserqualität führt zu Fluchtversuchen aus dem Becken oder tödlichen Häutungsproblemen. Dieser Ratgeber zeigt eine tägliche 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "절대 안 됩니다. 수돗물의 염소를 제거하고 해수염을 완전히 녹인 후, 최소 2 ~ 4주 동안 물잡이(질소 순환계 형성) 과정을 거쳐 암모니아와 아질산 수치가 0 ppm이 된 것을 확인한 뒤 입수시켜야 합니다."
 ---
 
-애니메이션 '니모'의 주인공으로 유명한 흰동가리(클라운피쉬)는 선명한 주황색 몸통과 세 줄의 하얀 띠가 특징인 대표적인 해수 관상어입니다. 흰동가리는 독성이 있는 해아네모네 촉수 사이를 헤엄치며 포식자로부터 몸을 보호하고, 해아네모네에게 먹이 잔여물과 산소를 공급하는 대표적인 상리공생 생물입니다. 또한 웅성선성 자웅동체(Protandrous Hermaphrodite)로, 무리 내 최상위 암컷이 죽으면 가장 큰 수컷이 암컷으로 성을 전환하는 독특한 생태적 특징을 지닙니다. 오늘 PetSelf에서는 흰동가리의 행동 시그널과 해수 어항의 적정 비중(1.020 ~ 1.025) 및 수질을 안정적으로 유지하는 3단계 케어 루틴을 정리해 드립니다.
+애니메이션 '니모'의 주인공으로 유명한 흰동가리(클라운피쉬)는 선명한 주황색 몸통과 세 줄의 하얀 띠가 특징인 대표적인 해수 관상어입니다. 흰동가리는 독성이 있는 해아네모네 촉수 사이를 헤엄치며 포식자로부터 몸을 보호하고, 해아네모네에게 먹이 잔여물과 산소를 공급하는 대표적인 상리공생 생물입니다. 또한 웅성선성 자웅동체(Protandrous Hermaphrodite)로, 무리 내 최상위 암컷이 죽으면 가장 큰 수컷이 암컷으로 성을 전환하는 독특한 생태적 특징을 지닙니다. 이번 가이드에서는 흰동가리의 행동 시그널과 해수 어항의 적정 비중(1.020 ~ 1.025) 및 수질을 안정적으로 유지하는 3단계 케어 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

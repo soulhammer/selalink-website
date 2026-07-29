@@ -29,7 +29,7 @@ faqs:
     answer: "这是因智力极高且极具社会化而引发的典型分离焦虑。应增加独处时可玩的觅食玩具以分散注意力，并在出门前和回家后避免过于激动的亲昵行为，培养平稳的相处模式。"
 ---
 
-葵花凤头鹦鹉（Sulphur-crested Cockatoo）因其头顶华丽的鲜黄色冠羽、雪白的羽毛以及媲美人类幼童的高超智力与情感交流能力，被誉为大中型鹦鹉宠主心中的梦幻品种。它们极度渴望爱与关注，但这也意味着对主人的依赖度极高，一旦缺乏陪伴，极易患上叫嚷症或咬羽症（自残拔毛）。此外，为了羽毛的防水与保养，它们体会分泌大量白色羽粉（Powder down），因此定期喷雾洗澡和空气质量管理不可或缺。今天 PetSelf 将解析葵花凤头鹦鹉的冠羽语言，并分享维护羽毛卫生与智力开发的3阶段日常护理流程。
+葵花凤头鹦鹉（Sulphur-crested Cockatoo）因其头顶华丽的鲜黄色冠羽、雪白的羽毛以及媲美人类幼童的高超智力与情感交流能力，被誉为大中型鹦鹉宠主心中的梦幻品种。它们极度渴望爱与关注，但这也意味着对主人的依赖度极高，一旦缺乏陪伴，极易患上叫嚷症或咬羽症（自残拔毛）。此外，为了羽毛的防水与保养，它们体会分泌大量白色羽粉（Powder down），因此定期喷雾洗澡和空气质量管理不可或缺。本指南将解析葵花凤头鹦鹉的冠羽语言，并分享维护羽毛卫生与智力开发的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "C'est un arrêt mortel du transit provoqué par un manque de fibres, du stress ou de la douleur. Le lapin a besoin des fibres du foin Timothy distribué à volonté pour maintenir sa digestion en mouvement."
 ---
 
-Doté d'une fourrure au toucher velours incroyable et d'un corps rond, le Mini Rex est un lapin de compagnie très populaire. En raison de sa mutation génétique, il ne possède pas de poils de couverture raides sur les pattes, ce qui rend ses coussinets très vulnérables à la pododermatite (sore hocks) sur sols durs. De plus, son transit d'herbivore exige du foin de fléole (Timothy) à volonté pour prévenir la stase gastro-intestinale. PetSelf vous présente une routine de soin en 3 étapes.
+Doté d'une fourrure au toucher velours incroyable et d'un corps rond, le Mini Rex est un lapin de compagnie très populaire. En raison de sa mutation génétique, il ne possède pas de poils de couverture raides sur les pattes, ce qui rend ses coussinets très vulnérables à la pododermatite (sore hocks) sur sols durs. De plus, son transit d'herbivore exige du foin de fléole (Timothy) à volonté pour prévenir la stase gastro-intestinale. Ce guide vous propose une routine de soin en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

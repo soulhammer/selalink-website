@@ -27,7 +27,7 @@ faqs:
 
 菠菜是叶菜类中叶片极薄且含水量高的代表，采收后的呼吸作用与蒸腾作用极其旺盛。特别是横放储存时，菠菜会因向上生长的“负向重力性（Negative Geotropism）”而急剧消耗体内的糖分与维生素C。如果接触到乙烯气体，叶绿素还会迅速分解发黄。
 
-今天FreshSnap基于欧洲食品安全局(EFSA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您精准控制呼吸作用、隔绝乙烯，保持菠菜清脆翠绿达7天以上。🛡️
+本指南基于欧洲食品安全局(EFSA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您精准控制呼吸作用、隔绝乙烯，保持菠菜清脆翠绿达7天以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

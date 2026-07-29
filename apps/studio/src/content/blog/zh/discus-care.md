@@ -29,7 +29,7 @@ faqs:
     answer: "七彩神仙鱼原生于亚马逊河温暖平静的浅水区，其新陈代谢与免疫系统高度适应高温环境。若水温降至 26°C 以下，其消化酶活性骤降导致拒食绝食，免疫力崩溃极易感染白点病与肠道鞭毛虫。使用高品质加热棒常年维持 28°C ~ 30°C（幼鱼期 30°C ~ 31°C）是成功饲养的铁律。"
 ---
 
-原产于南美洲亚马逊河流域的七彩神仙鱼（Discus Fish），凭其圆盘状的优雅体型与如梦似幻的华丽斑纹，被誉为“热带观赏鱼之王”。七彩神仙鱼虽然极具观赏价值，但属于对水质极其挑剔的高难度观赏鱼，要求高水温 (28°C ~ 30°C) 与极度洁净的弱酸性软水 (pH 6.0 ~ 6.8)。水质污染或硝酸盐堆积时，其体色会瞬间转黑发暗（“黑体/Darkening”）；而感染肠道鞭毛虫时，会引发头部的软骨腐蚀与溃烂，患上致命的“头洞病（Hole-in-the-Head/Hexamita）”。今天 PetSelf 将带您准确解读七彩神仙鱼肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于南美洲亚马逊河流域的七彩神仙鱼（Discus Fish），凭其圆盘状的优雅体型与如梦似幻的华丽斑纹，被誉为“热带观赏鱼之王”。七彩神仙鱼虽然极具观赏价值，但属于对水质极其挑剔的高难度观赏鱼，要求高水温 (28°C ~ 30°C) 与极度洁净的弱酸性软水 (pH 6.0 ~ 6.8)。水质污染或硝酸盐堆积时，其体色会瞬间转黑发暗（“黑体/Darkening”）；而感染肠道鞭毛虫时，会引发头部的软骨腐蚀与溃烂，患上致命的“头洞病（Hole-in-the-Head/Hexamita）”。本指南将带您准确解读七彩神仙鱼肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

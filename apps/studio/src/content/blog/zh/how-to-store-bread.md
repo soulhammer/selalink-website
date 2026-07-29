@@ -27,7 +27,7 @@ faqs:
 
 面包的主要成分小麦淀粉在1 ~ 6℃的冷藏温度下，会发生剧烈的“淀粉老化（Retrogradation/重结晶）”，水分被快速排出，分子结构变硬。因此，冷藏保存其实是破坏吐司松软口感的最糟方式。
 
-今天FreshSnap基于美国农务部(USDA)和英国食品标准局(FSA)的科学指南，为您带来3步保鲜秘诀，帮您将吐司的水分与刚出炉般的松软口感完美保存长达90天。🛡️
+本指南基于美国农务部(USDA)和英国食品标准局(FSA)的科学指南，为您带来3步保鲜秘诀，帮您将吐司的水分与刚出炉般的松软口感完美保存长达90天。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

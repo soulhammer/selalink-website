@@ -27,7 +27,7 @@ Pernahkah Anda membeli seikat bawang bombay dalam jaring lalu menumpuknya di sud
 
 Bawang bombay adalah sayuran umbi yang terus bernapas dan mengatur kelembapan setelah dipanen. Saat disimpan di lingkungan yang lembap dan tertutup, pembusukan leher Botrytis dan bakteri busuk lunak berkembang dengan cepat. Selain itu, menyimpan bawang bombay bersama kentang memicu penyerapan kelembapan dan reaksi etilen ganda yang merusak kedua sayuran sekaligus.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mengontrol kelembapan dan gas, menjaga bawang bombay Anda tetap renyah dan kokoh selama lebih dari sebulan. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mengontrol kelembapan dan gas, menjaga bawang bombay Anda tetap renyah dan kokoh selama lebih dari sebulan. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

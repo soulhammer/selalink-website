@@ -29,7 +29,7 @@ faqs:
     answer: "El agua altera la capa lipídica cutánea provocando hipotermia o dermatitis severas. Un recipiente con arena de desierto sin polvo le permite eliminar el exceso de grasa corporal de forma natural."
 ---
 
-Con sus características cejas blancas y su diminuto cuerpo, el hámster Roborovski es el más pequeño de los hámsteres enanos. Destaca por su asombrosa velocidad y curiosidad, pero su alta desconfianza lo convierte en una mascota ideal para la observación más que para la manipulación. Debido a la grasa de su piel, el baño con arena de desierto es indispensable. Además, su pequeño tamaño exige cautela frente a caídas o fugas entre barrotes. Hoy PetSelf presenta su rutina diaria de 3 pasos.
+Con sus características cejas blancas y su diminuto cuerpo, el hámster Roborovski es el más pequeño de los hámsteres enanos. Destaca por su asombrosa velocidad y curiosidad, pero su alta desconfianza lo convierte en una mascota ideal para la observación más que para la manipulación. Debido a la grasa de su piel, el baño con arena de desierto es indispensable. Además, su pequeño tamaño exige cautela frente a caídas o fugas entre barrotes. En esta guía, presenta su rutina diaria de 3 pasos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

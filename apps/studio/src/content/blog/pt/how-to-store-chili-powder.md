@@ -27,7 +27,7 @@ Você já guardou uma grande quantidade de pimenta em pó ou páprica no armári
 
 A pimenta em pó e a páprica são condimentos secos extremamente sensíveis ao ar, luz, umidade e calor. A exposição à temperatura ambiente oxida seus óleos, desbota a cor vermelha e aumenta o risco de toxinas de fungos (como aflatoxina) e insetos.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em recomendações científicas para preservar a cor viva e a picância dos seus temperos. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em recomendações científicas para preservar a cor viva e a picância dos seus temperos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

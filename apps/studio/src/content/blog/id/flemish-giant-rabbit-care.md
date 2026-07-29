@@ -29,7 +29,7 @@ faqs:
     answer: "Kelinci tidak memiliki bantalan kaki dan mengandalkan bulu untuk melindungi tulang. Beban berat di lantai keras dapat memicu luka. Sangat penting untuk melapisi lantai dengan karpet empuk atau busa memori."
 ---
 
-Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial. PetSelf menyajikan rutinitas 3 langkahnya.
+Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial.  menyajikan rutinitas 3 langkahnya.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

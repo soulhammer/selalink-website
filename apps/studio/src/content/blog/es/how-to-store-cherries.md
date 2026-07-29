@@ -27,7 +27,7 @@ faqs:
 
 Las cerezas son frutas no climatéricas que no maduran después de ser cosechadas y son extremadamente sensibles a los cambios de temperatura y humedad. Al exponerse al calor o a la humedad, la capa protectora de su piel se destruye, volviéndolas vulnerables al moho.
 
-Hoy, FreshSnap presenta una guía de conservación en 3 pasos respaldada por expertos para maximizar la frescura y la textura crujiente de sus cerezas. 🛡️
+En esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para maximizar la frescura y la textura crujiente de sus cerezas. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

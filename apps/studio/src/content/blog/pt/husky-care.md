@@ -33,7 +33,7 @@ Os Huskies Siberianos são famosos no mundo inteiro pela sua aparência de lobo,
 
 No entanto, sua herança polar os torna vulneráveis ao clima quente e úmido, expondo-os a um alto risco de choque térmico no verão. Além disso, como foram criados para correr quilômetros diariamente, se não gastarem sua imensa energia ficam estressados, expressando isso com uivos ou comportamentos destrutivos em casa.
 
-Hoje, o PetSelf decodifica a comunicação do Husky e apresenta uma rotina diária de 3 passos para a pelagem dupla e o exercício.
+Neste guia, decodifica a comunicação do Husky e apresenta uma rotina diária de 3 passos para a pelagem dupla e o exercício.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

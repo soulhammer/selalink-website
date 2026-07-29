@@ -27,7 +27,7 @@ Avez-vous déjà placé des concombres bien croquants au réfrigérateur pour le
 
 Le concombre est composé à plus de 95 % d'eau et se montre extrêmement sensible au froid. Lorsqu'il est exposé à des températures inférieures à 7 °C, il subit des 'dégâts dus au froid (Chilling Injury)', ce qui détruit ses parois cellulaires et crée des moisissures et une décomposition rapide.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid, préserver le croquant et prolonger la fraîcheur de vos concombres pendant plus de 2 semaines. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid, préserver le croquant et prolonger la fraîcheur de vos concombres pendant plus de 2 semaines. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

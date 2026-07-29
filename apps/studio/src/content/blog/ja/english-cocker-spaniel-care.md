@@ -29,7 +29,7 @@ faqs:
     answer: "耳道の無駄毛を適度に整理し、水遊びやシャンプー、食事の後は耳の内部を完全に乾燥させることが重要です。週に1〜2回、獣医師推奨のイヤークリーナーを使用して細菌や真菌の繁殖を防ぎましょう。"
 ---
 
-「メリー・コッカー（陽気なコッカー）」の愛称で知られるイングリッシュ・コッカー・スパニエルは、明るく人懐っこい性格で世界中から愛される中型鳥猟犬です。しかし、長く厚い垂れ耳の構造上、耳道の通気性が悪く外耳炎（耳の皮膚炎）を引き起こしやすい性質を持っています。また、高い運動量と匂い探索欲求を満たさないと、ストレスによる行動問題につながる恐れがあります。今回はPetSelfが、本種の感情表現を解き明かし、耳の健康と運動量を両立する3ステップの日常ケアをご紹介します。
+「メリー・コッカー（陽気なコッカー）」の愛称で知られるイングリッシュ・コッカー・スパニエルは、明るく人懐っこい性格で世界中から愛される中型鳥猟犬です。しかし、長く厚い垂れ耳の構造上、耳道の通気性が悪く外耳炎（耳の皮膚炎）を引き起こしやすい性質を持っています。また、高い運動量と匂い探索欲求を満たさないと、ストレスによる行動問題につながる恐れがあります。本記事では、本種の感情表現を解き明かし、耳の健康と運動量を両立する3ステップの日常ケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

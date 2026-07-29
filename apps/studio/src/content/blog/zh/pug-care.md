@@ -29,7 +29,7 @@ faqs:
     answer: "巴哥犬浅眼窝导致眼球突出，在草丛散步时极易刮伤角膜引发溃疡，建议散步后用眼药水清洗眼部。此外，巴哥犬脑炎（PDE/坏死性脑膜脑炎）是一种高发于 1 ~ 3 岁巴哥犬的致命遗传性脑病。若出现抽搐、癫痫或转圈等异常，必须立即送医进行 MRI 脑部检查。"
 ---
 
-凭其充满皱纹的脸庞、硕大的黑眼睛与独特的幽默爱意，巴哥犬（Pug）数百年来一直是备受全球喜爱的家庭伴侣犬。巴哥犬虽然性格极为温和随和，但由于其典型的扁平面部结构（短头结构），极易患短头颅阻塞性呼吸道综合征（BOAS）与中暑。此外，其浅眼窝结构导致眼球突出，极易发生角膜溃疡与干眼症；且由于极其贪吃，肥胖会进一步加重其呼吸困难与关节负担。今天 PetSelf 将带您准确解读巴哥犬肢体语言，并通过 3 步骤日常护理维护其健康。
+凭其充满皱纹的脸庞、硕大的黑眼睛与独特的幽默爱意，巴哥犬（Pug）数百年来一直是备受全球喜爱的家庭伴侣犬。巴哥犬虽然性格极为温和随和，但由于其典型的扁平面部结构（短头结构），极易患短头颅阻塞性呼吸道综合征（BOAS）与中暑。此外，其浅眼窝结构导致眼球突出，极易发生角膜溃疡与干眼症；且由于极其贪吃，肥胖会进一步加重其呼吸困难与关节负担。本指南将带您准确解读巴哥犬肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

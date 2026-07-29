@@ -29,7 +29,7 @@ faqs:
     answer: "柯基犬是掉毛量极大量的双层毛犬种。为了防止毛发缠结引起皮肤炎，应每天交替使用针梳和开结梳进行梳理，以确保皮肤空气流通。"
 ---
 
-威尔士柯基犬因其短腿和圆滚滚的屁股而深受喜爱。作为曾经的牧羊犬，它们聪明、活泼且大胆。然而，长背和短腿的身体特征使它们的脊椎和关节承受了巨大的压力。如果体重超标，患脊椎椎间盘疾病的风险会急剧上升，因此日常管理至关重要。今天，PetSelf 将带您解读柯基犬的身体语言，并介绍一套保护其脊椎和髌骨的3步日常护理流程。
+威尔士柯基犬因其短腿和圆滚滚的屁股而深受喜爱。作为曾经的牧羊犬，它们聪明、活泼且大胆。然而，长背和短腿的身体特征使它们的脊椎和关节承受了巨大的压力。如果体重超标，患脊椎椎间盘疾病的风险会急剧上升，因此日常管理至关重要。今天，本指南将带您解读柯基犬的身体语言，并介绍一套保护其脊椎和髌骨的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

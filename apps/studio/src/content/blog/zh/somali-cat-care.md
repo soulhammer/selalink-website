@@ -29,7 +29,7 @@ faqs:
     answer: "索马里猫极度热爱攀爬跳跃，稳固的高耸猫树与墙面猫道是必备设施。由于其拥有柔软的双层半长毛，每周需至少使用针梳深入梳理底毛3次以上，以防止毛发缠结与吐毛球。"
 ---
 
-拥有蓬松尾巴与优雅刺状斑纹（Ticked coat）的索马里猫（Somali Cat）是由阿比西尼亚猫的长毛基因演变而来的美丽品种，因外形酷似小狐狸而备受喜爱。它们好奇心强、智商极高，被称为“猫界的小小滑稽小丑”，拥有惊人的敏捷度。然而，在其活泼性格的背后，存在着“丙酮酸激酶缺乏症（PKDef）”这一导致红细胞破坏与严重贫血的遗传病风险，以及进行性视网膜萎缩症（PRA）。此外，其丝滑密实的半长毛（Semi-longhair）若缺乏护理，极易引发毛球症与打结。今天 PetSelf 将带您解读索马里猫的健康信号并分享3步日常护理流程。
+拥有蓬松尾巴与优雅刺状斑纹（Ticked coat）的索马里猫（Somali Cat）是由阿比西尼亚猫的长毛基因演变而来的美丽品种，因外形酷似小狐狸而备受喜爱。它们好奇心强、智商极高，被称为“猫界的小小滑稽小丑”，拥有惊人的敏捷度。然而，在其活泼性格的背后，存在着“丙酮酸激酶缺乏症（PKDef）”这一导致红细胞破坏与严重贫血的遗传病风险，以及进行性视网膜萎缩症（PRA）。此外，其丝滑密实的半长毛（Semi-longhair）若缺乏护理，极易引发毛球症与打结。本指南将带您解读索马里猫的健康信号并分享3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "유전적으로 비대성 심근증(HCM) 위험이 있으므로 정기적인 심장 초음파 검진이 권장되며, 수분 섭취를 통한 신장 및 비뇨기 질환 예방이 중요합니다."
 ---
 
-버만 고양이(Birman Cat)는 사파이어처럼 빛나는 푸른 눈과 하얀 장갑을 낀 듯한 발이 특징인 대표적인 단포인트 장모종 고양이입니다. 얌전하고 조용한 성격으로 보호자와 깊은 정서적 유대를 형성하며, 속털이 적어 다른 장모종에 비해 털 엉킴이 적은 실키 코트를 지녔습니다. 하지만 예민한 정서를 위해 규칙적인 놀이와 빗질이 필요하며, 품종 특성상 비대성 심근증(HCM)과 신장 건강을 주기적으로 체크해 주는 것이 중요합니다. 오늘 PetSelf에서 버만 고양이의 교감 신호와 3단계 케어 루틴을 정리해 드립니다.
+버만 고양이(Birman Cat)는 사파이어처럼 빛나는 푸른 눈과 하얀 장갑을 낀 듯한 발이 특징인 대표적인 단포인트 장모종 고양이입니다. 얌전하고 조용한 성격으로 보호자와 깊은 정서적 유대를 형성하며, 속털이 적어 다른 장모종에 비해 털 엉킴이 적은 실키 코트를 지녔습니다. 하지만 예민한 정서를 위해 규칙적인 놀이와 빗질이 필요하며, 품종 특성상 비대성 심근증(HCM)과 신장 건강을 주기적으로 체크해 주는 것이 중요합니다. 이번 가이드에서 버만 고양이의 교감 신호와 3단계 케어 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "거북이가 성장하면서 등껍질의 낡은 조각이 투명하고 얇은 판 형태로 저절로 떨어져 나가는 현상은 '탈피'라고 부르는 극히 정상적인 발달 단계입니다. 다만, 하얀 삼출물이 나오고 등껍질이 끈적하며 악취가 난다면 세균 감염성 질병일 수 있어 병원 진료가 필요합니다."
 ---
 
-아담한 소형 크기로 큰 수조를 요구하지 않아 초보 반려인들에게 적합한 커먼 머스크 터틀은 조용하고 강인한 반수생 거북이 품종입니다. 비록 물속에서 대부분의 시간을 보내지만, 등껍질 살균과 비타민 D 합성, 그리고 체온 유지를 위해 정기적인 육지 일광욕이 절대적으로 필수적입니다. 일광욕이 부족하거나 필터 정비 없이 탁한 물에 오래 방치하면 쉘 롯(Shell Rot, 갑갑 부패증)과 같은 치명적인 질환으로 고통받을 수 있습니다. 오늘 PetSelf에서는 머스크 터틀의 몸짓 언어와 일광욕 이완 시그널을 확인하고, 맑은 물과 쉘 케어를 돕는 3단계 수조 관리법을 익혀봅니다.
+아담한 소형 크기로 큰 수조를 요구하지 않아 초보 반려인들에게 적합한 커먼 머스크 터틀은 조용하고 강인한 반수생 거북이 품종입니다. 비록 물속에서 대부분의 시간을 보내지만, 등껍질 살균과 비타민 D 합성, 그리고 체온 유지를 위해 정기적인 육지 일광욕이 절대적으로 필수적입니다. 일광욕이 부족하거나 필터 정비 없이 탁한 물에 오래 방치하면 쉘 롯(Shell Rot, 갑갑 부패증)과 같은 치명적인 질환으로 고통받을 수 있습니다. 이번 가이드에서는 머스크 터틀의 몸짓 언어와 일광욕 이완 시그널을 확인하고, 맑은 물과 쉘 케어를 돕는 3단계 수조 관리법을 익혀봅니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

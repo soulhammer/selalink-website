@@ -29,7 +29,7 @@ faqs:
     answer: "コーンスネークは非常にしなやかで知能が高い「脱走の達人」です。頭が入るわずかな隙間があれば全身で抜け出してしまうため、ロック機能付きのスライドケージやクリップを必ず使用してください。ケージ内が狭すぎたり温度が高すぎる場合も脱走行動が増えるため、温湿度も再確認しましょう。"
 ---
 
-トウモロコシの粒に似た腹部の模様からその名がついたコーンスネーク（Corn Snake）は、温厚な性格と豊かなカラーモルフで、世界中で最も親しまれている入門用のペットスネークです。ボールパイソンよりもやや低めで涼しい温度勾配（クールゾーン22°C〜24°C / ホットゾーン28°C〜30°C）と、普段40%〜50%の湿度管理が必要です。給餌後48時間以内に触ったり、消化温度が不足すると危険な「吐き戻し（Regurgitation）」を起こすことがあり、しなやかな体で隙間から脱走するのが得意です。本日PetSelfでは、コーンスネークのサインを読み解き、嘔吐と脱皮不全を防ぐ3ステップルーティンをお届けします。
+トウモロコシの粒に似た腹部の模様からその名がついたコーンスネーク（Corn Snake）は、温厚な性格と豊かなカラーモルフで、世界中で最も親しまれている入門用のペットスネークです。ボールパイソンよりもやや低めで涼しい温度勾配（クールゾーン22°C〜24°C / ホットゾーン28°C〜30°C）と、普段40%〜50%の湿度管理が必要です。給餌後48時間以内に触ったり、消化温度が不足すると危険な「吐き戻し（Regurgitation）」を起こすことがあり、しなやかな体で隙間から脱走するのが得意です。本記事では、コーンスネークのサインを読み解き、嘔吐と脱皮不全を防ぐ3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

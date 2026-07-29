@@ -29,7 +29,7 @@ faqs:
     answer: "네, 매우 다릅니다. 호주 종(Northern Blue-tongued Skink 등)은 건조 ~ 반건조 환경(습도 40 ~ 50%)을 선호하지만, 인도네시아 종(Halmahera 등)은 열대 우림 원산으로 높은 습도(70 ~ 90%)가 필수적입니다. 종에 맞는 바닥재(코코하스크 또는 바크)와 습도를 설정해야 탈피 부전을 예방할 수 있습니다."
 ---
 
-블루텅 스킨크(Tiliqua spp.)는 천적에게 위협을 가하거나 호기심을 표현할 때 날름거리는 선명한 파란색 혀와 짧고 귀여운 다리가 매력적인 호주 및 인도네시아 원산의 주행성 지상형(Terrestrial) 도마뱀입니다. 강아지처럼 온순한 성격과 높은 지능을 가져 파충류 매니아층에서 대형/중형 도마뱀 입문용으로 최고의 명성을 누리고 있습니다. 그러나 야생에서 잡식성(Omnivorous) 생태를 지니고 있어 단백질과 채소의 영양 비율을 올바르게 맞추지 않으면 비만이나 비타민 결핍, 대사성 뼈 질환(MBD)에 노출되기 쉽습니다. 또한, 체온 조절을 위한 확실한 핫존(Basking Area)과 쿨존(Cool Side)의 열구배 설정이 필수적이며, 땅을 파고 들어가는 버로우(Burrowing) 습성을 만족시키는 바닥재 선택이 중요합니다. 오늘 PetSelf에서는 블루텅 스킨크의 블루텅 시그널과 잡식성 식단 관리, 적정 사육 환경 구축을 위한 3단계 케어 루틴을 다룹니다.
+블루텅 스킨크(Tiliqua spp.)는 천적에게 위협을 가하거나 호기심을 표현할 때 날름거리는 선명한 파란색 혀와 짧고 귀여운 다리가 매력적인 호주 및 인도네시아 원산의 주행성 지상형(Terrestrial) 도마뱀입니다. 강아지처럼 온순한 성격과 높은 지능을 가져 파충류 매니아층에서 대형/중형 도마뱀 입문용으로 최고의 명성을 누리고 있습니다. 그러나 야생에서 잡식성(Omnivorous) 생태를 지니고 있어 단백질과 채소의 영양 비율을 올바르게 맞추지 않으면 비만이나 비타민 결핍, 대사성 뼈 질환(MBD)에 노출되기 쉽습니다. 또한, 체온 조절을 위한 확실한 핫존(Basking Area)과 쿨존(Cool Side)의 열구배 설정이 필수적이며, 땅을 파고 들어가는 버로우(Burrowing) 습성을 만족시키는 바닥재 선택이 중요합니다. 이번 가이드에서는 블루텅 스킨크의 블루텅 시그널과 잡식성 식단 관리, 적정 사육 환경 구축을 위한 3단계 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

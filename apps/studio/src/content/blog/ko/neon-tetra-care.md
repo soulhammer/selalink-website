@@ -29,7 +29,7 @@ faqs:
     answer: "절대 권장하지 않습니다. 네온 테트라는 야생에서 수백 마리씩 무리를 지어 자신을 보호하는 군영 성향이 매우 강합니다. 1 ~ 2마리만 키우면 극심한 불안감과 스트레스로 면역력이 떨어져 수명이 단축됩니다. 최소 6 ~ 10마리 이상 무리를 지어 키워야 안정감을 느끼고 아름다운 군영을 관찰할 수 있습니다."
 ---
 
-푸른색 네온 라인과 붉은빛의 대비가 아름다운 네온 테트라(Neon Tetra)는 관상어 수족관을 대표하는 소형 카라신과 열대어입니다. 무리를 지어 헤엄치는 군영(Schooling) 습성이 강해 최소 6 ~ 10마리 이상 무리로 사육해야 스트레스를 받지 않습니다. 네온 테트라는 수질 변화(pH, 암모니아 스파이크)와 급격한 수온 변화에 민감하며, 치료법이 없는 미포자충 감염병인 '네온테트라병(Neon Tetra Disease)'에 걸리기 쉽습니다. 오늘 PetSelf에서는 네온 테트라의 색상 변화와 행동 신호를 정확히 읽어내고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.
+푸른색 네온 라인과 붉은빛의 대비가 아름다운 네온 테트라(Neon Tetra)는 관상어 수족관을 대표하는 소형 카라신과 열대어입니다. 무리를 지어 헤엄치는 군영(Schooling) 습성이 강해 최소 6 ~ 10마리 이상 무리로 사육해야 스트레스를 받지 않습니다. 네온 테트라는 수질 변화(pH, 암모니아 스파이크)와 급격한 수온 변화에 민감하며, 치료법이 없는 미포자충 감염병인 '네온테트라병(Neon Tetra Disease)'에 걸리기 쉽습니다. 이번 가이드에서는 네온 테트라의 색상 변화와 행동 신호를 정확히 읽어내고 깨끗한 수질을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

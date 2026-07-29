@@ -29,7 +29,7 @@ faqs:
     answer: "실내 사육 시 인공적인 동면은 절대 금물입니다! 적절한 온도 제어 없이 실내 온도가 어중간하게 낮아지면(10°C ~ 18°C) 완전한 동면에 들지 못하고 면역력만 떨어져 폐렴이나 거식증으로 사망하게 됩니다. 수중 히터를 사용하여 연중 수온을 23°C ~ 26°C로 따뜻하게 유지해 주세요."
 ---
 
-화려한 붉은색과 노란색 테두리 무늬, 매끈한 등갑이 아름다운 페인티드 터틀(Painted Turtle / Chrysemys picta)은 전 세계적으로 사랑받는 대표적인 반수생 거북입니다. 수질이 악화되거나 등갑을 완전히 말릴 수 있는 일광욕 육지(Basking Dock)가 부족하면 피부와 등갑이 썩는 '갑각 부패증(Shell Rot)'에 걸리기 쉬우며, UVB 조사량 및 칼슘 부족은 등갑이 물렁해지는 '대사성 골질환(MBD)'을 유발합니다. 또한 수온이 애매하게 낮아지면 면역력이 떨어져 치명적인 폐렴이나 거식증에 걸릴 위험이 큽니다. 오늘 PetSelf에서는 페인티드 터틀의 신호를 정확히 읽고 건강을 지키는 3단계 루틴을 소개합니다.
+화려한 붉은색과 노란색 테두리 무늬, 매끈한 등갑이 아름다운 페인티드 터틀(Painted Turtle / Chrysemys picta)은 전 세계적으로 사랑받는 대표적인 반수생 거북입니다. 수질이 악화되거나 등갑을 완전히 말릴 수 있는 일광욕 육지(Basking Dock)가 부족하면 피부와 등갑이 썩는 '갑각 부패증(Shell Rot)'에 걸리기 쉬우며, UVB 조사량 및 칼슘 부족은 등갑이 물렁해지는 '대사성 골질환(MBD)'을 유발합니다. 또한 수온이 애매하게 낮아지면 면역력이 떨어져 치명적인 폐렴이나 거식증에 걸릴 위험이 큽니다. 이번 가이드에서는 페인티드 터틀의 신호를 정확히 읽고 건강을 지키는 3단계 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

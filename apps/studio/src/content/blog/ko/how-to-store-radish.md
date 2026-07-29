@@ -27,7 +27,7 @@ faqs:
 
 무는 수분 함량이 94%에 달하며, 보관 시 잎(무청)이 붙어있으면 잎이 무 뿌리의 수분과 영양소를 지속적으로 흡수하여 빠르게 바람이 들게 만듭니다. 적절한 수분을 유지하지 못하면 조직이 건조해지고 식감이 크게 떨어집니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 무의 아삭하고 시원한 식감을 최대 2개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 무의 아삭하고 시원한 식감을 최대 2개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

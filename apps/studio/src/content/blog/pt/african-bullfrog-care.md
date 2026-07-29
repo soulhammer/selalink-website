@@ -29,7 +29,7 @@ faqs:
     answer: "Entrou em estivação. Aumente a temperatura para 26–28 °C, humedeça o substrato e dê um banho morno (28–30 °C) para dissolver o casulo."
 ---
 
-O rã-touro-africano pode pesar até 2 kg. Equipado com projeções ósseas nas mandíbulas, é um predador de emboscada. Sua pele permeável torna-o sensível ao cloro e à amónia. Em ambientes secos, forma um casulo e entra em estivação. Hoje no PetSelf explicamos uma rotina de 3 passos.
+O rã-touro-africano pode pesar até 2 kg. Equipado com projeções ósseas nas mandíbulas, é um predador de emboscada. Sua pele permeável torna-o sensível ao cloro e à amónia. Em ambientes secos, forma um casulo e entra em estivação. Neste guia, explicamos uma rotina de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

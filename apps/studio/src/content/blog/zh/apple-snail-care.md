@@ -29,7 +29,7 @@ faqs:
     answer: "真正的神秘螺（Pomacea bridgesii）齿舌构造较软，无法啃食健康硬实的新鲜水草，仅进食腐烂叶片与藻类。但外形相似的福寿螺（Pomacea canaliculata）会啃食活体水草。购买时应严格区分品种，并与水榕、铁皇冠等硬叶水草混养。"
 ---
 
-苹果螺（神秘螺）因其金黄、紫罗兰、蔚蓝、粉红等色彩斑斓的外壳，以及清理水族箱残饵和藻类的高效能力，在全球观赏鱼爱好者中极具人气。它们利用长触角和呼吸管（Siphon）探索水下世界，模样十分讨喜。然而，在酸性软水中，它们富含钙质的外壳极易腐蚀发白甚至穿孔。此外，它们在产卵期或缺氧时有爬出水面脱逃的习性，因此加盖防护至关重要。今天 PetSelf 将解析苹果螺的本能信号，并分享涵盖外壳钙质维护、防逃跑措施与水草缸共存的3阶段日常护理流程。
+苹果螺（神秘螺）因其金黄、紫罗兰、蔚蓝、粉红等色彩斑斓的外壳，以及清理水族箱残饵和藻类的高效能力，在全球观赏鱼爱好者中极具人气。它们利用长触角和呼吸管（Siphon）探索水下世界，模样十分讨喜。然而，在酸性软水中，它们富含钙质的外壳极易腐蚀发白甚至穿孔。此外，它们在产卵期或缺氧时有爬出水面脱逃的习性，因此加盖防护至关重要。本指南将解析苹果螺的本能信号，并分享涵盖外壳钙质维护、防逃跑措施与水草缸共存的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

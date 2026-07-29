@@ -27,7 +27,7 @@ faqs:
 
 チェリーは収穫後に熟成が進まない非追熟型の果物で、温度や湿度の変化に非常に敏感で傷みやすい繊細な食材です。特に水分や熱気に晒されると表面の天然保護膜が破壊され、カビや雑菌が繁殖しやすくなります。
 
-本日FreshSnapでは、専門家が推奨するチェリーのシャキッとした食感と甘みを長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、専門家が推奨するチェリーのシャキッとした食感と甘みを長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

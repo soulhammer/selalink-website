@@ -27,7 +27,7 @@ faqs:
 
 大葱是厨房不可或缺的万能蔬菜，但含水量高，且在采收后具有向上生长的“负向重力性（Negative Geotropism）”。如果横放储存，大葱会消耗大量能量试图弯曲挺直，从而加速干瘪与发黄。
 
-今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您控干水分、减少能量消耗，让大葱保持清脆新鲜达1个月以上。🛡️
+本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您控干水分、减少能量消耗，让大葱保持清脆新鲜达1个月以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

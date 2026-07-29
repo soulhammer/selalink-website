@@ -29,7 +29,7 @@ faqs:
     answer: "허공 긁기는 카발리에 킹 찰스 스패니얼에게 자주 나타나는 신경계 질환인 척수공동증(SM/Syringomyelia)의 대표 증상입니다. 두개골 후두부가 협소해 뇌척수액 순환이 막히면서 척수에 물주머니(공동)가 생겨 발생합니다. 목 부위에 강한 통증이나 감각 이상을 일으키므로 발견 즉시 정밀 검사(MRI)를 통한 약물 관리나 수술적 치료를 검토해야 합니다."
 ---
 
-영국 왕실의 사랑을 받아온 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel)은 실크처럼 부드러운 털과 커다란 눈망울, 사람을 깊이 사랑하는 순한 성품으로 전 세계에서 사랑받는 반려견입니다. 보호자의 무릎 위에 앉아 시간을 보내는 것을 즐기는 대표적인 '랩독(Lapdog)'이지만, 유전적으로 심장 질환인 이첨판 폐쇄부전증(MVD) 발병률이 매우 높으며, 두개골 구조상의 문제로 척수공동증(SM)이 발생하기 쉽습니다. 또한 덮여 있는 긴 귀 구조로 인해 외이염에 취약하므로 정기적인 심장 검진과 이비인후 케어가 필수적입니다. 오늘 PetSelf에서는 카발리에 킹 찰스 스패니얼의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+영국 왕실의 사랑을 받아온 카발리에 킹 찰스 스패니얼(Cavalier King Charles Spaniel)은 실크처럼 부드러운 털과 커다란 눈망울, 사람을 깊이 사랑하는 순한 성품으로 전 세계에서 사랑받는 반려견입니다. 보호자의 무릎 위에 앉아 시간을 보내는 것을 즐기는 대표적인 '랩독(Lapdog)'이지만, 유전적으로 심장 질환인 이첨판 폐쇄부전증(MVD) 발병률이 매우 높으며, 두개골 구조상의 문제로 척수공동증(SM)이 발생하기 쉽습니다. 또한 덮여 있는 긴 귀 구조로 인해 외이염에 취약하므로 정기적인 심장 검진과 이비인후 케어가 필수적입니다. 이번 가이드에서는 카발리에 킹 찰스 스패니얼의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

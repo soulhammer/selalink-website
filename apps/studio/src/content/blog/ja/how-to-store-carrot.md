@@ -27,7 +27,7 @@ faqs:
 
 人参は水分が豊富な根菜類で、外部の湿度やエチレンガスに対して非常に敏感です。保存環境が悪いと水分が蒸発して皮がシワシワになったり、エチレンに反応して苦味成分が発生しやすくなります。
 
-本日FreshSnapでは、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、人参の苦味を防ぎ、シャキシャキした食感と水分を3週間以上キープする3段階の科学的保存法をご紹介します。🛡️
+本記事では、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、人参の苦味を防ぎ、シャキシャキした食感と水分を3週間以上キープする3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

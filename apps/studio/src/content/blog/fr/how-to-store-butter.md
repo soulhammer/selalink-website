@@ -27,7 +27,7 @@ Avez-vous déjà laissé du beurre dans la porte du réfrigérateur pour constat
 
 Le beurre est composé de plus de 80 % de matière grasse laitière, ce qui le rend très sensible à l'oxygène, à la lumière et aux variations de température. Il fonctionne comme une véritable éponge vis-à-vis des odeurs environnantes. Un stockage inadéquat entraîne l'oxydation des lipides (rancissement) et gâche ses qualités gustatives.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver le goût riche et la fraîcheur de votre beurre pendant plus de 90 jours. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver le goût riche et la fraîcheur de votre beurre pendant plus de 90 jours. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

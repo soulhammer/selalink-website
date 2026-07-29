@@ -29,7 +29,7 @@ faqs:
     answer: "由于性格安静且活动量较小，它们很容易过重。应投喂高蛋白、低碳水化合物的猫粮并控制喂食量，每天陪伴其进行 15 ~ 20 分钟的贴地逗猫棒游戏，维持肌肉量的同时保护心脏与关节。"
 ---
 
-拥有圆滚滚的面庞与直立双耳的苏格兰直耳猫（Scottish Straight），不仅完美继承了苏格兰猫圆润可爱的外貌，还避免了折耳猫骨骼软骨发育不良的遗传痛苦。虽然没有折耳基因，但其紧凑结实的体型使其极易发胖；过度肥胖会加重关节负担，并增加肥厚型心肌病（HCM）与多囊性肾病（PKD）的发病风险。今天 PetSelf 将带您准确解读苏格兰直耳猫的身体语言，并通过 3 步骤日常护理维护其健康。
+拥有圆滚滚的面庞与直立双耳的苏格兰直耳猫（Scottish Straight），不仅完美继承了苏格兰猫圆润可爱的外貌，还避免了折耳猫骨骼软骨发育不良的遗传痛苦。虽然没有折耳基因，但其紧凑结实的体型使其极易发胖；过度肥胖会加重关节负担，并增加肥厚型心肌病（HCM）与多囊性肾病（PKD）的发病风险。本指南将带您准确解读苏格兰直耳猫的身体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

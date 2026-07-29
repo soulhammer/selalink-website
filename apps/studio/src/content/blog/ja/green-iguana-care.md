@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に与えてはいけません！グリーンイグアナは生理学的に100%の完全草食性（Strict Herbivore）です。動物性タンパク質やドッグフード、昆虫を摂取すると、消化副産物である尿酸が体内に蓄積し、致命的な内臓痛風や腎不全を引き起こして早期死亡します。必ず緑の葉野菜を中心とした食餌を与えてください。"
 ---
 
-中南米の熱帯雨林原産のグリーンイグアナ（Green Iguana）は、鮮やかな緑色の体色と堂々たる体躯で世界中の爬虫類愛好家から愛されている代表的な昼行性大型トカゲです。成体で1.5〜2mに達する本種は、おとなしそうに見えて強い縄張り本能を持ち、紫外線（UVB）不足やカルシウム欠乏による代謝性骨疾患（MBD）に極めて脆弱です。また完全草食性（Strict Herbivore）の爬虫類であるため、動物性タンパク質を摂取すると致命的な痛風や腎不全を引き起こします。本日PetSelfでは、グリーンイグアナのサインを解読し健康を守る3ステップルーティンをお届けします。
+中南米の熱帯雨林原産のグリーンイグアナ（Green Iguana）は、鮮やかな緑色の体色と堂々たる体躯で世界中の爬虫類愛好家から愛されている代表的な昼行性大型トカゲです。成体で1.5〜2mに達する本種は、おとなしそうに見えて強い縄張り本能を持ち、紫外線（UVB）不足やカルシウム欠乏による代謝性骨疾患（MBD）に極めて脆弱です。また完全草食性（Strict Herbivore）の爬虫類であるため、動物性タンパク質を摂取すると致命的な痛風や腎不全を引き起こします。本記事では、グリーンイグアナのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

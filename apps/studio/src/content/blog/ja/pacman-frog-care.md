@@ -29,7 +29,7 @@ faqs:
     answer: "インパクション（腸閉塞）の可能性が高いです。床材（ヤシガラ、砂利）や消化しにくい大きな餌を呑み込んだ際に発生します。すぐにぬるま湯（27〜29℃）を足が浸かる程度の深さまで張り、15〜20分ほど温水浴させて腸の蠕動運動を促してください。お腹に固い塊があり、ぐったりしている場合は直ちに爬虫類・両生類専門医を受診してください。"
 ---
 
-ゲームキャラのような丸い体と大きな口が特徴のパックマンフロッグ（ツノガエル / Ceratophrys）は、世界中で愛されている陸棲両生類です。地中に身を潜めて獲物を待つ待ち伏せ型捕食者（Ambush Predator）で、強烈な食欲を誇りますが、誤って飲んだ床材や過大な餌による腸閉塞「インパクション（Impaction）」に非常に脆弱です。また両生類特有の半透膜皮膚を通じて水分や化学物質を直接吸収するため、水質汚染や細菌感染により致死的な「赤脚病（Red Leg Disease）」や中毒を起こします。本日PetSelfでは、ツノガエルのサインを解読し健康を守る3ステップルーティンをお届けします。
+ゲームキャラのような丸い体と大きな口が特徴のパックマンフロッグ（ツノガエル / Ceratophrys）は、世界中で愛されている陸棲両生類です。地中に身を潜めて獲物を待つ待ち伏せ型捕食者（Ambush Predator）で、強烈な食欲を誇りますが、誤って飲んだ床材や過大な餌による腸閉塞「インパクション（Impaction）」に非常に脆弱です。また両生類特有の半透膜皮膚を通じて水分や化学物質を直接吸収するため、水質汚染や細菌感染により致死的な「赤脚病（Red Leg Disease）」や中毒を起こします。本記事では、ツノガエルのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

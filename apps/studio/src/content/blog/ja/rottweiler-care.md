@@ -29,7 +29,7 @@ faqs:
     answer: "胃捻転（GDV）防止にはフードを2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節形成不全（HD）予防には成長期の過度な体重増加を防ぎ、滑りやすい床でのジャンプを避け、1歳以降に定期的なレントゲン検査を受けることが大切です。"
 ---
 
-強靭な体躯と優れた知性、強い忠誠心を持つロットワイラー（Rottweiler）は、世界中で愛されている警備犬であり家族の忠実な伴侶犬です。家族には深い愛情を示しますが、胸が深く広い体型のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また体重の負担から遺伝的に股関節形成不全（HD）や靭帯損傷を起こしやすく、早期の社会化と服従訓練が不可欠です。本日PetSelfでは、ロットワイラーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+強靭な体躯と優れた知性、強い忠誠心を持つロットワイラー（Rottweiler）は、世界中で愛されている警備犬であり家族の忠実な伴侶犬です。家族には深い愛情を示しますが、胸が深く広い体型のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また体重の負担から遺伝的に股関節形成不全（HD）や靭帯損傷を起こしやすく、早期の社会化と服従訓練が不可欠です。本記事では、ロットワイラーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

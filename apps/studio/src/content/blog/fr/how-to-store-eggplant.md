@@ -27,7 +27,7 @@ Avez-vous déjà acheté des aubergines bien fraîches pour constater en quelque
 
 Légume issu de climats chauds, l'aubergine est très sensible au froid, possède une chair délicate et réagit fortement aux écarts de température, à la perte d'eau et au gaz éthylène. Placer des aubergines crues au réfrigérateur (0 à 4 °C) provoque des dégâts dus au froid (chilling injury) : taches noires, chair amère et ramollissement rapide.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur de vos aubergines. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur de vos aubergines. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

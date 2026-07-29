@@ -27,7 +27,7 @@ Haben Sie schon einmal frische Makrele gekauft, nur um festzustellen, dass sie n
 
 Makrelen sind reich an wertvollen Omega-3-Fettsäuren. Durch die hohe Aktivität körpereigener Enzyme und den hohen Fettgehalt oxidiert das Fleisch jedoch an der Luft sehr schnell und wird ranzig. Zudem wandelt sich Histidin bei Raumtemperatur rasch in giftiges Histamin um, was zu Lebensmittelvergiftungen führen kann. Die richtige Kühltemperatur ist entscheidend.
 
-Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von NIFS und USDA basiert, um Fischgeruch zu vermeiden und maximale Frische zu bewahren. 🛡️
+In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von NIFS und USDA basiert, um Fischgeruch zu vermeiden und maximale Frische zu bewahren. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

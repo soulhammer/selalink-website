@@ -33,7 +33,7 @@ faqs:
 
 しかし、超小型犬ゆえに身体的にデリケートな点も多いです。1つ目は、頭蓋骨の頭頂部が完全に閉じずに隙間が残っている「泉門（モレラ）」の存在です。頭頂部への圧迫が脳に直接伝わるため、衝撃を防ぐ配慮が必須です。また、体脂肪が少なく代謝が極端に早いため、寒さに弱く、空腹が少し長引くだけでショックを引き起こす「低血糖症」の危険があります。
 
-本日PetSelfでは、チワワのボディランゲージを解読し、頭蓋骨を守り低血糖を防ぐ3段階のホームケアルーティンを紹介します。
+本記事では、チワワのボディランゲージを解読し、頭蓋骨を守り低血糖を防ぐ3段階のホームケアルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

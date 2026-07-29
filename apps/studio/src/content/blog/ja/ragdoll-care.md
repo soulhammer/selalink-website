@@ -33,7 +33,7 @@ faqs:
 
 しかし、大型猫種であるため骨格の成長が遅く、体重が7〜10kgに達することもあるため、下半身の関節に大きな負担がかかりがちです。また、保護者が抱っこする際、ラグドール特有の力を抜いた姿勢が間違った抱き方によって脊椎や関節に捻れのストレスを与えることがあります。正しい抱き方を習得することが一生の関節健康の基礎となります。
 
-本日PetSelfでは、ラグドールのボディランゲージを解読し、関節を健康に保ちながら信頼を深める3段階の日常ホームケアをご案内します。
+本記事では、ラグドールのボディランゲージを解読し、関節を健康に保ちながら信頼を深める3段階の日常ホームケアをご案内します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

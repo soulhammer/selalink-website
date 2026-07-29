@@ -29,7 +29,7 @@ faqs:
     answer: "水洗会破坏仓鼠皮肤油脂屏障，导致致命的失温或严重皮肤病。必须在笼内常备无尘天然沙漠浴沙，让其通过打滚自然带走毛发过多的油脂与污垢。"
 ---
 
-拥有标志性白眉毛和娇小敏捷体型的罗伯罗夫斯基仓鼠（国内常称为老公公/老婆婆仓鼠），是侏儒仓鼠中体型最小的一种。它们拥有惊人的移动速度与强烈的好奇心，但由于警惕性极高，相比上手互动更适合作为观赏型宠物。此外，其皮肤皮脂分泌旺盛，专属沙漠沙浴不可或缺；同时由于体型过于娇小，需严格防止从高处摔伤或从笼舍缝隙逃跑。今天 PetSelf 将为您解析其肢体警示信号，并提供3步日常护理流程。
+拥有标志性白眉毛和娇小敏捷体型的罗伯罗夫斯基仓鼠（国内常称为老公公/老婆婆仓鼠），是侏儒仓鼠中体型最小的一种。它们拥有惊人的移动速度与强烈的好奇心，但由于警惕性极高，相比上手互动更适合作为观赏型宠物。此外，其皮肤皮脂分泌旺盛，专属沙漠沙浴不可或缺；同时由于体型过于娇小，需严格防止从高处摔伤或从笼舍缝隙逃跑。本指南将为您解析其肢体警示信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

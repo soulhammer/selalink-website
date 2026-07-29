@@ -27,7 +27,7 @@ faqs:
 
 青花鱼富含 Omega-3 不饱和脂肪酸，但由于其自身分解酶活性极高且油脂含量丰富，一接触空气就会迅速氧化变质。如果保存不当，鱼肉中的组氨酸还会快速转化为具有毒性的组胺（Histamine），引发食物中毒，因此温度控制是重中之重。
 
-今天 FreshSnap 将基于韩国国立水产科学院(NIFS)和 USDA 的科学指南，为您介绍去除腥味、完美保持青花鱼新鲜度的 3 步储存秘诀。🛡️
+本指南将基于韩国国立水产科学院(NIFS)和 USDA 的科学指南，为您介绍去除腥味、完美保持青花鱼新鲜度的 3 步储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

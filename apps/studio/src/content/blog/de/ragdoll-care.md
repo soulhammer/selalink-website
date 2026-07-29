@@ -33,7 +33,7 @@ Ragdolls sind große, flauschige Katzen, die dafür bekannt sind, sich beim Halt
 
 Da es sich jedoch um eine große Rasse handelt, deren Skelett langsam wächst und ein Gewicht von 7 bis 10 kg erreicht, tragen ihre Hintergelenke eine schwere Last. Darüber hinaus kann ihre schlaffe Haltung beim Tragen die Wirbelsäule verdrehen, wenn sie nicht richtig gestützt wird. Das Erlernen der richtigen Haltetechnik ist die Grundlage ihrer lebenslangen Knochengesundheit.
 
-Heute entschlüsselt PetSelf die Körpersprache der Ragdoll und stellt eine sichere tägliche 3-Schritte-Routine vor, um ihre Gelenke zu schützen.
+Heute entschlüsselt  die Körpersprache der Ragdoll und stellt eine sichere tägliche 3-Schritte-Routine vor, um ihre Gelenke zu schützen.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

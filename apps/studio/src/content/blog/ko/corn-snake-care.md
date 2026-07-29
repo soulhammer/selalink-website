@@ -29,7 +29,7 @@ faqs:
     answer: "콘스네이크는 파충류 중에서도 유연하고 지능적인 '탈출 전문가(Escape Artist)'입니다. 머리가 들어가는 작은 틈만 있어도 몸 전체가 빠져나갈 수 있으므로, 클립이나 잠금장치가 있는 슬라이딩 케이지를 사용해야 합니다. 사육장이 너무 좁거나 온도가 너무 높은 경우에도 탈출 행동이 늘어나므로 온·습도를 점검하세요."
 ---
 
-옥수수 알갱이를 닮은 배 비늘 무늬에서 이름이 유래된 콘스네이크(Corn Snake)는 온순한 성격과 화려한 다형성(Morph)으로 전 세계에서 가장 사랑받는 입문용 반려 뱀입니다. 볼파이톤보다 낮고 서늘한 적정 온도 경사(쿨존 22°C ~ 24°C / 핫존 28°C ~ 30°C)와 평소 40% ~ 50%의 습도가 유지되어야 건강하게 서식합니다. 섭식 후 48시간 이내에 핸들링을 하거나 소화 온도가 부족할 경우 치명적인 먹이 구토(Regurgitation)가 발생할 수 있으며, 몸이 유연하여 틈새 탈출에 매우 능숙합니다. 오늘 PetSelf에서는 콘스네이크의 행동 신호를 이해하고 구토와 탈피 부전을 예방하는 3단계 홈케어 루틴을 전해드립니다.
+옥수수 알갱이를 닮은 배 비늘 무늬에서 이름이 유래된 콘스네이크(Corn Snake)는 온순한 성격과 화려한 다형성(Morph)으로 전 세계에서 가장 사랑받는 입문용 반려 뱀입니다. 볼파이톤보다 낮고 서늘한 적정 온도 경사(쿨존 22°C ~ 24°C / 핫존 28°C ~ 30°C)와 평소 40% ~ 50%의 습도가 유지되어야 건강하게 서식합니다. 섭식 후 48시간 이내에 핸들링을 하거나 소화 온도가 부족할 경우 치명적인 먹이 구토(Regurgitation)가 발생할 수 있으며, 몸이 유연하여 틈새 탈출에 매우 능숙합니다. 이번 가이드에서는 콘스네이크의 행동 신호를 이해하고 구토와 탈피 부전을 예방하는 3단계 홈케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

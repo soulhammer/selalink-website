@@ -29,7 +29,7 @@ faqs:
     answer: "As sementes são ricas em gordura e pobres em vitamina A e cálcio. A alimentação exclusiva de sementes causa lipidose hepática fatal. A ração extrusada para aves deve compor de 60% a 70% da dieta diária."
 ---
 
-O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares do mundo devido à sua plumagem vibrante, canto alegre e temperamento afetuoso. Contudo, seu sistema respiratório único com sacos aéreos o torna extremamente vulnerável a vapores tóxicos de teflon (PTFE), perfumes e aerossóis. Além disso, uma dieta exclusiva de sementes causa lipidose hepática (gordura no fígado) e deficiências nutricionais. Hoje, o PetSelf apresenta uma rotina de 3 passos para compreender a linguagem do seu periquito e proteger sua saúde.
+O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares do mundo devido à sua plumagem vibrante, canto alegre e temperamento afetuoso. Contudo, seu sistema respiratório único com sacos aéreos o torna extremamente vulnerável a vapores tóxicos de teflon (PTFE), perfumes e aerossóis. Além disso, uma dieta exclusiva de sementes causa lipidose hepática (gordura no fígado) e deficiências nutricionais. Neste guia, apresenta uma rotina de 3 passos para compreender a linguagem do seu periquito e proteger sua saúde.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

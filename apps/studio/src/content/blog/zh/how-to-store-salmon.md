@@ -27,7 +27,7 @@ faqs:
 
 三文鱼水分含量高，且富含对人体有益的Omega-3不饱和脂肪酸，接触空气中的氧气后极易发生脂质氧化酸败（Rancidity）。尤其是鱼肉表面渗出的水汽与血水（血汁），是产生鱼腥味（三甲胺）与滋生细菌的核心根源。
 
-今天FreshSnap基于美国食品药品监督管理局(FDA)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您去腥防氧化、防止冻伤，安全锁住三文鱼的鲜美与营养。🛡️
+本指南基于美国食品药品监督管理局(FDA)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您去腥防氧化、防止冻伤，安全锁住三文鱼的鲜美与营养。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "胃捻転（GDV）防止にはフードを1日2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節・肘関節形成不全（HD/ED）予防には成長期の過度な体重増加を防ぎ、滑りやすい床での生活や高所からのジャンプを避けさせることが重要です。"
 ---
 
-スイス・アルプス原産のバーニーズ・マウンテン・ドッグ（Bernese Mountain Dog）は、華やかな3色の被毛とたくましい体躯、絹のように優しく穏やかな性格で世界中で愛されている大型作業犬です。家族に対して深い忠誠心と溢れる愛情を示しますが、胸が深く広い体型構造のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また遺伝的に組織球肉腫（Histiocytic Sarcoma）をはじめとするがんの発症率が極めて高く、股関節・肘関節形成不全（HD/ED）や暑さへの配慮が不可欠です。本日PetSelfでは、バーニーズのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+スイス・アルプス原産のバーニーズ・マウンテン・ドッグ（Bernese Mountain Dog）は、華やかな3色の被毛とたくましい体躯、絹のように優しく穏やかな性格で世界中で愛されている大型作業犬です。家族に対して深い忠誠心と溢れる愛情を示しますが、胸が深く広い体型構造のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また遺伝的に組織球肉腫（Histiocytic Sarcoma）をはじめとするがんの発症率が極めて高く、股関節・肘関節形成不全（HD/ED）や暑さへの配慮が不可欠です。本記事では、バーニーズのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

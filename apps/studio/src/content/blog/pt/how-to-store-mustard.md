@@ -27,7 +27,7 @@ Você já deixou um frasco de mostarda amarela, Dijon ou em grãos na mesa de ja
 
 Graças ao alto teor de acidez vindo do vinagre e do sal, a mostarda é um condimento autoconservante altamente resistente a micróbios. No entanto, após aberta, a exposição ao oxigênio faz com que seus compostos picantes e voláteis evaporem rapidamente, escurecendo sua cor e separando o líquido dos sólidos.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em diretrizes de autoridades de segurança alimentar para preservar a picância e a cor viva da sua mostarda. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de autoridades de segurança alimentar para preservar a picância e a cor viva da sua mostarda. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

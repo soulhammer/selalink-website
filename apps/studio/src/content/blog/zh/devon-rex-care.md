@@ -29,7 +29,7 @@ faqs:
     answer: "德文卷毛猫肌病（Devon Rex Myopathy）是一种会导致头下垂与步态异常的先天性肌肉疾病，领养时需确认双亲的基因检测报告。为预防因皮脂堆积引发的马拉色菌（Malassezia）真菌感染，需定期用温热湿巾擦拭耳道、脚趾与皮肤折皱以保持干爽。"
 ---
 
-常被誉为“穿猫皮衣的小精灵（Pixie in a cat suit）”的德文卷毛猫（Devon Rex），凭其大硕的招风耳、硕大的眼睛与丝滑波浪状的短卷毛备受全球爱猫人士喜爱。它们性格像狗一样热情，极度喜欢攀爬到主人的肩膀上（“站肩猫”），但由于其单层被毛极其稀薄，体温极易散失且非常怕冷。此外，德文卷毛猫油脂分泌旺盛，极易发生马拉色菌（Malassezia）酵母菌皮肤炎，且基因上携带德文卷毛猫肌病（Devon Rex Myopathy）与肥厚型心肌病（HCM）风险。今天 PetSelf 将带您准确解读德文卷毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
+常被誉为“穿猫皮衣的小精灵（Pixie in a cat suit）”的德文卷毛猫（Devon Rex），凭其大硕的招风耳、硕大的眼睛与丝滑波浪状的短卷毛备受全球爱猫人士喜爱。它们性格像狗一样热情，极度喜欢攀爬到主人的肩膀上（“站肩猫”），但由于其单层被毛极其稀薄，体温极易散失且非常怕冷。此外，德文卷毛猫油脂分泌旺盛，极易发生马拉色菌（Malassezia）酵母菌皮肤炎，且基因上携带德文卷毛猫肌病（Devon Rex Myopathy）与肥厚型心肌病（HCM）风险。本指南将带您准确解读德文卷毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

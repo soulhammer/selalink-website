@@ -27,7 +27,7 @@ Você já comprou um abacaxi doce e suculento e descobriu que ele mofou por baix
 
 O abacaxi é uma fruta não climatérica, o que significa que seu teor de açúcar não aumenta após a colheita. Como os açúcares naturais se concentram na base, deixar o abacaxi em pé causa uma distribuição desigual e favorece o apodrecimento inferior. Além disso, a exposição ao frio abaixo de 7 °C causa danos por frio (chilling injury).
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para redistribuir a doçura e manter seu abacaxi fresco. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para redistribuir a doçura e manter seu abacaxi fresco. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "股関節形成不全などの遺伝的疾患に弱いため、成長期である生後3ヶ月頃から体重管理、滑り止めマットの設置、関節に負担の少ない水泳などの運動を始めるのが推奨されます。"
 ---
 
-黄金色の毛並みと温厚な性格で愛されるゴールデンレトリバーは、高い知能と親和性を備えた犬種です。「天使の犬」と呼ばれるほど穏やかですが、元は大型狩猟犬であるため、非常に活発で毎日の十分な運動と刺激が必要です。特に遺伝的に弱い股関節形成不全の予防と、レトリービング（獲物の回収）本能を満たすルーティンが一生の健康を左右します。本日PetSelfでは、レトリバーのシグナルを理解し、関節と遊び本能を満たす3段階ルーティンを紹介します。
+黄金色の毛並みと温厚な性格で愛されるゴールデンレトリバーは、高い知能と親和性を備えた犬種です。「天使の犬」と呼ばれるほど穏やかですが、元は大型狩猟犬であるため、非常に活発で毎日の十分な運動と刺激が必要です。特に遺伝的に弱い股関節形成不全の予防と、レトリービング（獲物の回収）本能を満たすルーティンが一生の健康を左右します。本記事では、レトリバーのシグナルを理解し、関節と遊び本能を満たす3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

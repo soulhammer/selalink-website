@@ -29,7 +29,7 @@ faqs:
     answer: "空掻きはキャバリアに多く見られる神経疾患「脊髄空洞症（SM/Syringomyelia）」の代表的な症状です。後頭骨が狭く髄液の循環が滞ることで脊髄に空洞（水たまり）ができて発生します。首周囲に強い痛みを引き起こすため、発見したら直ちに精密検査（MRI）と適切な内服管理や手術の検討が必要です。"
 ---
 
-英国王室で愛されてきた歴史を持つキャバリア・キング・チャールズ・スパニエル（Cavalier King Charles Spaniel）は、シルクのような美しい被毛と大きな瞳、人に深い愛情を注ぐ穏やかな性格で世界中で愛されている伴侶犬です。飼い主の膝の上で過ごすことを好む典型的な「ラップドッグ（抱っこ犬）」ですが、遺伝的に心臓疾患である僧帽弁閉鎖不全症（MVD）の発症率が極めて高く、頭蓋骨の構造上、脊髄空洞症（SM）を発症しやすい特徴があります。また垂れ下がった長い耳のため外耳炎にかかりやすく、定期的な心臓検診と耳のケアが不可欠です。本日PetSelfでは、キャバリアのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+英国王室で愛されてきた歴史を持つキャバリア・キング・チャールズ・スパニエル（Cavalier King Charles Spaniel）は、シルクのような美しい被毛と大きな瞳、人に深い愛情を注ぐ穏やかな性格で世界中で愛されている伴侶犬です。飼い主の膝の上で過ごすことを好む典型的な「ラップドッグ（抱っこ犬）」ですが、遺伝的に心臓疾患である僧帽弁閉鎖不全症（MVD）の発症率が極めて高く、頭蓋骨の構造上、脊髄空洞症（SM）を発症しやすい特徴があります。また垂れ下がった長い耳のため外耳炎にかかりやすく、定期的な心臓検診と耳のケアが不可欠です。本記事では、キャバリアのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

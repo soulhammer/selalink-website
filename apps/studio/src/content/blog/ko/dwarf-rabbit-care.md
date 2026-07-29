@@ -29,7 +29,7 @@ faqs:
     answer: "토끼가 갑자기 건초를 먹지 않거나 변의 크기가 급격히 줄어드는 것은 치명적인 위장관 정체증의 초기 신호일 수 있습니다. 초식 동물의 장이 멈추면 생명이 위험하므로 즉시 전문 수의사의 진료를 받아야 합니다."
 ---
 
-앙증맞은 작은 귀와 둥글고 귀여운 외모를 가진 네덜란드 드워프 토끼는 전 세계적으로 가장 사랑받는 토끼 품종 중 하나입니다. 그러나 몸집이 작은 만큼 겁이 많고 환경 변화에 극도로 예민하며, 섬유질 섭취가 부족하면 위장관 정체증(GI Stasis)과 같은 치명적인 질환에 걸리기 쉽습니다. 또한 불안을 느끼면 뒷발로 바닥을 쿵쿵 구르며 격렬한 거부 의사를 표시합니다. 오늘 PetSelf에서는 드워프 토끼의 덤핑 불안 신호를 분석하고, 건강한 소화 기관과 발톱 안전을 보장하는 3단계 홈케어 루틴을 공유합니다.
+앙증맞은 작은 귀와 둥글고 귀여운 외모를 가진 네덜란드 드워프 토끼는 전 세계적으로 가장 사랑받는 토끼 품종 중 하나입니다. 그러나 몸집이 작은 만큼 겁이 많고 환경 변화에 극도로 예민하며, 섬유질 섭취가 부족하면 위장관 정체증(GI Stasis)과 같은 치명적인 질환에 걸리기 쉽습니다. 또한 불안을 느끼면 뒷발로 바닥을 쿵쿵 구르며 격렬한 거부 의사를 표시합니다. 이번 가이드에서는 드워프 토끼의 덤핑 불안 신호를 분석하고, 건강한 소화 기관과 발톱 안전을 보장하는 3단계 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

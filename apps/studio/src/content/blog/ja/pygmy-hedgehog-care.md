@@ -29,7 +29,7 @@ faqs:
     answer: "ハリネズミはげっ歯類とは異なり、生涯歯が伸び続けるわけではありません。そのためかじり木は不要です。むしろ硬いものをかじると歯が折れやすいため、極端に硬いキャットフードなどは避けるべきです。"
 ---
 
-ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある疑似冬眠に入ってしまうことがあります。今回はPetSelfが、ハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ日常管理法を解説します。
+ヨツユビハリネズミは、そっと顔を出して鼻を動かす仕草が魅力的なエキゾチックペットです。非常に臆病で棘を使った防御手段を持ち、初めて嗅ぐ匂いに出会うと口で泡を作り棘に塗る独特の行動（アンティング）を見せます。また、室温が少し下がるだけでも命の危険がある疑似冬眠に入ってしまうことがあります。本記事では、ハリネズミの棘の反応と、安全な温度・衛生環境を維持するための3ステップ日常管理法を解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 虽然酱油因含盐量高而被认为不易变质，但开封后暴露于空气（氧气）、光线和高热环境中，会导致酱油发生“氧化（褐变）”反应，使其颜色变深、浓郁的氨基酸香味挥发。储存方式的不同将直接影响酱油固有的风味与鲜味。
 
-今天FreshSnap将为您介绍基于食品安全机构及酿造专家指南的科学3步酱油保存秘诀，帮您在开封后也能长久锁定酱油的醇香与鲜味。🛡️
+本指南将为您介绍基于食品安全机构及酿造专家指南的科学3步酱油保存秘诀，帮您在开封后也能长久锁定酱油的醇香与鲜味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

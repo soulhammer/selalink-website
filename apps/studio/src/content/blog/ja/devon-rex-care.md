@@ -29,7 +29,7 @@ faqs:
     answer: "デボンレックスミオパチー（Devon Rex Myopathy）は頭部下垂や歩行異常を引き起こす遺伝性筋疾患で、お迎え時に親猫の遺伝子検査の有無を確認することが重要です。また皮脂によるマラセチア（Malassezia）真菌感染を防ぐため、定期的にぬるま湯で湿らせたシートで耳や足先を衛生的に保つ必要があります。"
 ---
 
-「猫の皮をかぶった妖精（Pixie in a cat suit）」と称されるデボンレックス（Devon Rex）は、大きな耳と丸い瞳、柔らかい波状の巻き毛が魅力的な中小型猫です。犬のように人懐っこく、飼い主の肩に乗ることを好む陽気な性格ですが、アンダーコート中心の薄い被毛構造のため体温が逃げやすく、非常に寒さに弱い特徴があります。また皮脂の分泌が多く、耳や皮膚にマラセチア（Malassezia）真菌皮膚炎を起こしやすいほか、種特有の遺伝性ミオパチー（Devon Rex Myopathy）や肥大型心筋症（HCM）への配慮が必要です。本日PetSelfでは、デボンレックスのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
+「猫の皮をかぶった妖精（Pixie in a cat suit）」と称されるデボンレックス（Devon Rex）は、大きな耳と丸い瞳、柔らかい波状の巻き毛が魅力的な中小型猫です。犬のように人懐っこく、飼い主の肩に乗ることを好む陽気な性格ですが、アンダーコート中心の薄い被毛構造のため体温が逃げやすく、非常に寒さに弱い特徴があります。また皮脂の分泌が多く、耳や皮膚にマラセチア（Malassezia）真菌皮膚炎を起こしやすいほか、種特有の遺伝性ミオパチー（Devon Rex Myopathy）や肥大型心筋症（HCM）への配慮が必要です。本記事では、デボンレックスのサインを正確に解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

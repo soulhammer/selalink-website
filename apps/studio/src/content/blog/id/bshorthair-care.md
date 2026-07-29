@@ -29,7 +29,7 @@ faqs:
     answer: "Mereka sangat menghargai kemandirian dan merasa cemas saat cakar mereka kehilangan kontak dengan lantai. Memeluk secara paksa dapat merusak ikatan kepercayaan dengan pemilik."
 ---
 
-Dengan wajah bulat besar dan tubuh berotot, British Shorthair dikenal sebagai raksasa lembut di dunia kucing, sangat cocok bagi pemula karena sifatnya yang tenang. Namun, struktur tulang mereka yang berat membuat kegagalan manajemen berat badan memberi beban berat pada persendian. Selain itu, mereka secara genetik rentan terhadap Kardiomiopati Hipertropik (HCM), yaitu menebalnya dinding jantung. Hari ini, PetSelf mengulas bahasa tubuh dan membagikan 3 langkah rutinitas harian untuk menjaga kesehatan jantung serta berat badan mereka.
+Dengan wajah bulat besar dan tubuh berotot, British Shorthair dikenal sebagai raksasa lembut di dunia kucing, sangat cocok bagi pemula karena sifatnya yang tenang. Namun, struktur tulang mereka yang berat membuat kegagalan manajemen berat badan memberi beban berat pada persendian. Selain itu, mereka secara genetik rentan terhadap Kardiomiopati Hipertropik (HCM), yaitu menebalnya dinding jantung. Dalam panduan ini, mengulas bahasa tubuh dan membagikan 3 langkah rutinitas harian untuk menjaga kesehatan jantung serta berat badan mereka.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

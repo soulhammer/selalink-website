@@ -29,7 +29,7 @@ faqs:
     answer: "多胞性腎病変（PKD）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKD DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
 ---
 
-「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKD）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本日PetSelfでは、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。
+「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKD）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本記事では、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

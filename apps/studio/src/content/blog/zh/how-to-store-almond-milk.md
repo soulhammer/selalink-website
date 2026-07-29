@@ -27,7 +27,7 @@ faqs:
 
 杏仁奶是由杏仁提取物与水混合而成的植物性饮料，与发酵乳制品不同，开封后极易受到空气中微生物的污染。其水分含量极高，常温久置或放在温度波动剧烈的冰箱门架上，会急剧加速细菌滋生与水油分层。
 
-今天 FreshSnap 将基于 FDA 和 USDA 的科学指南，为您介绍防止分层凝块、安全保持杏仁奶新鲜度的 3 步储存秘诀。🛡️
+本指南将基于 FDA 和 USDA 的科学指南，为您介绍防止分层凝块、安全保持杏仁奶新鲜度的 3 步储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

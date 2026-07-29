@@ -27,7 +27,7 @@ faqs:
 
 생 허브는 수확 후에도 수분 증발과 호흡 작용이 매우 빠르게 일어나는 미세 식재료입니다. 특히 허브 종류에 따라 온도에 반응하는 생리 특성이 전혀 달라서, 모든 허브를 무조건 냉장고에 넣으면 냉해(Chilling Injury)를 입어 파괴됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 바질과 파슬리의 특성에 맞춘 3단계 과학적 맞춤 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 바질과 파슬리의 특성에 맞춘 3단계 과학적 맞춤 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

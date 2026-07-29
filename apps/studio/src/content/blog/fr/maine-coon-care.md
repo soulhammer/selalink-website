@@ -33,7 +33,7 @@ Le Maine Coon, originaire d'Amérique du Nord, est le « géant gentil » (Gentl
 
 Cependant, les mâles adultes atteignant souvent un poids de 8 à 12 kg, leur structure osseuse subit une forte contrainte. De plus, ils présentent une prédisposition génétique élevée à la Cardiomyopathie Hypertrophique (CMH). Surveiller quotidiennement son rythme respiratoire au repos et amortir l'impact de ses réceptions de saut sont donc des piliers de son bien-être.
 
-Aujourd'hui, PetSelf décrypte le langage corporel du Maine Coon et propose une routine quotidienne en 3 étapes pour préserver son cœur et entretenir son pelage.
+Dans ce guide, décrypte le langage corporel du Maine Coon et propose une routine quotidienne en 3 étapes pour préserver son cœur et entretenir son pelage.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

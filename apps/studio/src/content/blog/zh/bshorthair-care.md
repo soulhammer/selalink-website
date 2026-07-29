@@ -29,7 +29,7 @@ faqs:
     answer: "它们独立性极高，当自己的脚脱离地面处于半空状态时会感到极度不安。因此违背其意愿的强迫性拥抱可能会破坏与家长好不容易建立的信任纽带。"
 ---
 
-拥有大圆脸和粗壮肌肉体格的英国短毛猫，正如其“温柔巨人”的绰号一样，性格沉稳、隐忍，非常适合新手家长饲养。然而，它们粗壮的骨架一旦体重管理失败，会给关节带来严重的超载。此外，它们在遗传上属于心脏壁变厚的肥大性心肌病（HCM）的高危群体，因此必须防止超重加重心脏负担。今天，PetSelf 将为您分析英短的冷静安心指标及微妙的不适信号，并介绍一套保护心脏与控制体重的3步家庭护理流程。
+拥有大圆脸和粗壮肌肉体格的英国短毛猫，正如其“温柔巨人”的绰号一样，性格沉稳、隐忍，非常适合新手家长饲养。然而，它们粗壮的骨架一旦体重管理失败，会给关节带来严重的超载。此外，它们在遗传上属于心脏壁变厚的肥大性心肌病（HCM）的高危群体，因此必须防止超重加重心脏负担。今天，本指南将为您分析英短的冷静安心指标及微妙的不适信号，并介绍一套保护心脏与控制体重的3步家庭护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

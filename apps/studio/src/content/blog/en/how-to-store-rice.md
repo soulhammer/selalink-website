@@ -27,7 +27,7 @@ Have you ever left a bag of rice in the pantry or under the sink only to find ri
 
 Rice is a living grain that continues to respire after harvest. When exposed to oxygen, humidity, and heat, its natural lipids oxidize, creating a stale odor and losing its tender texture. At temperatures above 15°C, rice weevils easily hatch and multiply, while humid environments risk harmful mold growth.
 
-Today, FreshSnap introduces a scientifically proven 3-step rice storage guide recommended by agriculture and food safety experts to preserve peak freshness. 🛡️
+In this guide, introduces a scientifically proven 3-step rice storage guide recommended by agriculture and food safety experts to preserve peak freshness. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

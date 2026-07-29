@@ -33,7 +33,7 @@ faqs:
 
 그러나 성묘 기준 몸무게가 8 ~ 12kg에 달해 중력으로 인한 관절 부하가 큰 편이며, 특히 고양이의 유전 질환 중 하나인 '비대성 심근증(Hypertrophic Cardiomyopathy, HCM)'의 잠재 발생률이 높습니다. 이 때문에 메인쿤의 라이프케어에서는 심박 상태를 일상에서 모니터링하고, 착지 시 가해지는 관절 충격을 보강하는 데일리 루틴이 필수적입니다.
 
-오늘 PetSelf에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.
+이번 가이드에서는 메인쿤이 보내는 카밍 시그널과 바디 랭귀지를 정밀 분석하고, 풍성한 모질 관리 및 심장을 보호하는 3단계 홈케어 방법을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 ラム肉はタンパク質と水分が多く含まれており、細菌の繁殖や脂質の酸化に非常に弱い食材です。適切に保存しないとクセや臭みが強くなり、ドリップ（旨味成分を含む肉汁）が流出して味や栄養が大きく損なわれます。
 
-本日FreshSnapでは、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、ラム肉の鮮度と旨味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、ラム肉の鮮度と旨味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

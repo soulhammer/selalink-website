@@ -29,7 +29,7 @@ faqs:
     answer: "Da die hervortretenden Augen kaum Schutz durch die Augenhöhle genießen, sollte der Hund nicht durch hohes Gras laufen. Tägliche Augentropfen und saubere Gesichtsfalten reduzieren Infektionsrisiken."
 ---
 
-Wegen seines eleganten Fells im Frack-Design und seines charmanten Wesens wird der Boston Terrier liebevoll als 'American Gentleman' bezeichnet. Als brachyzephale (kurzköpfige) Rasse neigt er jedoch aufgrund verengter Atemwege zum Brachyzephalen Atemwegssyndrom (BAOS) und ist extrem hitzeempfindlich. Seine großen, leicht hervorstehenden Augen sind zudem anfällig für Hornhautgeschwüre. PetSelf entschlüsselt die Atemwegs- und Augensignale des Boston Terriers und stellt eine 3-Schritte-Routine vor.
+Wegen seines eleganten Fells im Frack-Design und seines charmanten Wesens wird der Boston Terrier liebevoll als 'American Gentleman' bezeichnet. Als brachyzephale (kurzköpfige) Rasse neigt er jedoch aufgrund verengter Atemwege zum Brachyzephalen Atemwegssyndrom (BAOS) und ist extrem hitzeempfindlich. Seine großen, leicht hervorstehenden Augen sind zudem anfällig für Hornhautgeschwüre.  entschlüsselt die Atemwegs- und Augensignale des Boston Terriers und stellt eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

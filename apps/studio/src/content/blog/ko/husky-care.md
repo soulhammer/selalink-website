@@ -33,7 +33,7 @@ faqs:
 
 하지만 극지방 출신인 만큼 고온다습한 여름철 기후에 매우 취약하며, 체내 열 방출이 어려워 여름철에는 생명에 위협을 주는 열사병에 노출되기 쉽습니다. 또한, 하루에 수십 km를 달리던 썰매견 출신이기에 실내 생활에서 활동량이 전혀 충족되지 않으면 극심한 지루함과 불만을 하울링(Baying)이나 집안 가구 파손 등 파괴적 행동으로 표출합니다.
 
-오늘 PetSelf에서는 허스키가 보호자에게 불만을 표현하는 독특한 대화 언어를 해독하고, 시베리아식 이중모 관리 및 넘치는 에너지를 생산적으로 발산하는 3단계 홈케어 매뉴얼을 전해드립니다.
+이번 가이드에서는 허스키가 보호자에게 불만을 표현하는 독특한 대화 언어를 해독하고, 시베리아식 이중모 관리 및 넘치는 에너지를 생산적으로 발산하는 3단계 홈케어 매뉴얼을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

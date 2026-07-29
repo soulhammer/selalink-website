@@ -27,7 +27,7 @@ Você já guardou mel na geladeira e descobriu que ele endureceu em um bloco cri
 
 Com teor de umidade inferior a 18% e alta concentração de açúcares, o mel puro é um alimento antimicrobiano natural que praticamente não estraga se armazenado de forma correta. Contudo, mantê-lo sob temperaturas entre 10 e 15 °C acelera a cristalização, deixando-o duro e granuloso. Além disso, se deixado aberto, absorve a umidade do ar e pode fermentar.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter os nutrientes e o sabor do seu mel por anos. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter os nutrientes e o sabor do seu mel por anos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

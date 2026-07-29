@@ -29,7 +29,7 @@ faqs:
     answer: "变色龙对停滞不闷通的空气和积聚的湿气极度敏感，在密闭玻璃缸中极易诱发致命的上呼吸道感染（URI）。使用透气良好的竖向网笼能有效保持空气循环，预防呼吸道疾病。"
 ---
 
-高冠变色龙（Chamaeleo calyptratus）原产于也门和沙特阿拉伯，因其头顶高耸的冠脊（Cask）和极其丰富的体色变幻能力而闻名，是一种昼行性树栖爬行动物。它们喜欢高耸且具有丰富攀爬枝条的立体空间，是全球变色龙爱好者眼中最经典的入门首选品种。然而，它们无法识别静止的水盆，仅饮用挂在树叶上的流动水滴，因此必须配备滴水器（Dripper）或自动喷雾系统。此外，它们对停滞的闷热空气极度敏感，极易患上上呼吸道感染，因此良好的竖向全网笼（Mesh Cage）与合理的UVB/晒背灯设置是维持其生命的核心。今天 PetSelf 将为您解析高冠变色龙的情绪警示信号、竖向环境搭建以及水份供给3阶段日常护理流程。
+高冠变色龙（Chamaeleo calyptratus）原产于也门和沙特阿拉伯，因其头顶高耸的冠脊（Cask）和极其丰富的体色变幻能力而闻名，是一种昼行性树栖爬行动物。它们喜欢高耸且具有丰富攀爬枝条的立体空间，是全球变色龙爱好者眼中最经典的入门首选品种。然而，它们无法识别静止的水盆，仅饮用挂在树叶上的流动水滴，因此必须配备滴水器（Dripper）或自动喷雾系统。此外，它们对停滞的闷热空气极度敏感，极易患上上呼吸道感染，因此良好的竖向全网笼（Mesh Cage）与合理的UVB/晒背灯设置是维持其生命的核心。本指南将为您解析高冠变色龙的情绪警示信号、竖向环境搭建以及水份供给3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

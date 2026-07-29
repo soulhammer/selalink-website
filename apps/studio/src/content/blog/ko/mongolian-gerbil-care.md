@@ -29,7 +29,7 @@ faqs:
     answer: "저빌은 사막 환경 출신으로 털이 젖으면 잘 마르지 않아 급격한 체온 저하로 인한 저체온증과 폐렴으로 사망할 수 있어 물목욕은 절대 금물입니다. 대신 햄스터/저빌 전용 사막모래를 사용해야 합니다. 또한 저빌은 지극히 사회적인 동물로 혼자 키우면 외로움과 우울증, 자해 행동을 보이므로 반드시 동성 2마리 이상 함께 사육해야 합니다."
 ---
 
-몽골과 중국 북부의 건조한 사막 및 초원 지역이 원산지인 몽골리안 저빌(Mongolian Gerbil)은 털이 덮인 길쭉한 꼬리와 귀여운 외모, 높은 호기심으로 전 세계에서 사랑받는 소형 설치류입니다. 저빌은 습기가 적은 사막 환경에 적응하여 대사량이 낮고 배설물 양이 적어 매우 위생적인 반려동물로 알려져 있습니다. 하지만 포식자의 공격을 피하기 위해 꼬리 피부가 쉽게 벗겨지는 '꼬리 탈피 손상(Tail Degloving)' 메커니즘을 가지고 있어 꼬리를 잡는 행위는 절대 금물입니다. 또한 강한 무리 생활 동물이므로 외롭게 사육 시 우울증과 스트레스성 발작(Seizures)을 일으키기 쉽고, 물목욕 대신 반드시 사막 모래목욕과 깊은 베딩(15 ~ 20cm)이 필요합니다. 오늘 PetSelf에서는 몽골리안 저빌의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+몽골과 중국 북부의 건조한 사막 및 초원 지역이 원산지인 몽골리안 저빌(Mongolian Gerbil)은 털이 덮인 길쭉한 꼬리와 귀여운 외모, 높은 호기심으로 전 세계에서 사랑받는 소형 설치류입니다. 저빌은 습기가 적은 사막 환경에 적응하여 대사량이 낮고 배설물 양이 적어 매우 위생적인 반려동물로 알려져 있습니다. 하지만 포식자의 공격을 피하기 위해 꼬리 피부가 쉽게 벗겨지는 '꼬리 탈피 손상(Tail Degloving)' 메커니즘을 가지고 있어 꼬리를 잡는 행위는 절대 금물입니다. 또한 강한 무리 생활 동물이므로 외롭게 사육 시 우울증과 스트레스성 발작(Seizures)을 일으키기 쉽고, 물목욕 대신 반드시 사막 모래목욕과 깊은 베딩(15 ~ 20cm)이 필요합니다. 이번 가이드에서는 몽골리안 저빌의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

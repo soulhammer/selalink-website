@@ -27,7 +27,7 @@ faqs:
 
 Los frijoles secos son un alimento básico excelente debido a su bajo contenido de humedad, pero son altamente sensibles a la humedad ambiental, la luz, el calor y las plagas. Un almacenamiento inadecuado provoca la pérdida de humedad y altera su estructura, causando el defecto de 'dureza al cocer' (hard-to-cook), además de moho y gorgojos.
 
-Hoy, FreshSnap presenta una guía en 3 pasos respaldada por expertos para conservar la nutrición, el sabor y la textura suave de sus frijoles por mucho tiempo. 🛡️
+En esta guía se presenta una guía en 3 pasos respaldada por expertos para conservar la nutrición, el sabor y la textura suave de sus frijoles por mucho tiempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

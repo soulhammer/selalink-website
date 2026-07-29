@@ -29,7 +29,7 @@ faqs:
     answer: "셀티는 목양견 출신으로 욕구가 해소되지 않으면 작은 소리에도 짖기 쉽습니다. 매일 산책과 뇌를 쓰는 지능 놀이로 에너지를 충분히 소비시켜야 합니다. 또한 빽빽한 이중모 구조이므로 언더코트 렉(속털 전용 빗)을 사용해 주 2 ~ 3회 이상 속털까지 깊이 빗어줘야 털 뭉침과 피부 질환을 방지할 수 있습니다."
 ---
 
-풍성한 갈기와 우아한 외모를 자랑하는 셔틀랜드 시프도그(Shetland Sheepdog), 일명 '셀티(Sheltie)'는 목양견 출신답게 매우 뛰어난 지능과 높은 충성심을 가진 품종입니다. 그러나 감각이 매우 예리하고 소리에 민감하여 작은 자극에도 쉽게 반응하고 헛짖음이나 경계 행동을 보이기 쉽습니다. 또한 셀티 품종은 특정 구충제나 약물 복용 시 뇌로 약물이 침투해 중독 증상을 일으키는 'MDR1(유전자 변이)' 유전적 위험이 높으며, 풍성한 이중모(Double coat) 관리를 소홀히 하면 심각한 피부염과 털 엉킴이 발생합니다. 오늘 PetSelf에서는 셀티의 스트레스 및 약물 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.
+풍성한 갈기와 우아한 외모를 자랑하는 셔틀랜드 시프도그(Shetland Sheepdog), 일명 '셀티(Sheltie)'는 목양견 출신답게 매우 뛰어난 지능과 높은 충성심을 가진 품종입니다. 그러나 감각이 매우 예리하고 소리에 민감하여 작은 자극에도 쉽게 반응하고 헛짖음이나 경계 행동을 보이기 쉽습니다. 또한 셀티 품종은 특정 구충제나 약물 복용 시 뇌로 약물이 침투해 중독 증상을 일으키는 'MDR1(유전자 변이)' 유전적 위험이 높으며, 풍성한 이중모(Double coat) 관리를 소홀히 하면 심각한 피부염과 털 엉킴이 발생합니다. 이번 가이드에서는 셀티의 스트레스 및 약물 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

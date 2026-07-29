@@ -33,7 +33,7 @@ Os Scottish Folds encantam pessoas no mundo inteiro com suas orelhas dobradas pa
 
 No entanto, por trás do encanto das orelhas dobradas, existe uma grave doença genética chamada Osteocondrodisplasia (doença hereditária da cartilagem). O mesmo gene responsável por dobrar a cartilagem da orelha afeta o desenvolvimento ósseo e articular de todo o corpo, levando ao enrijecimento e dor crônica nas patas e cauda. Além disso, a estrutura dobrada impede o fluxo de ar, acumulando umidade e sujeira que facilitam otites externas e ácaros de ouvido.
 
-Hoje, o PetSelf decodifica os sinais físicos de dor do Scottish Fold e apresenta uma rotina personalizada de 3 passos para proteger as articulações e manter a higiene auditiva impecável.
+Neste guia, decodifica os sinais físicos de dor do Scottish Fold e apresenta uma rotina personalizada de 3 passos para proteger as articulações e manter a higiene auditiva impecável.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "이는 가축의 뒤꿈치를 물어 이동시키던 목양견 특유의 '힐링(Heeling/Ankle Nipping)' 본능입니다. 아이들이 뛸 때 소리를 지르면 개는 떼를 몰이하는 즐거운 상황으로 오인하므로 뛰는 동작을 멈추고 정지해야 합니다. 동시에 차분히 앉아있을 때 포상하는 복종 훈련과 프리스비, 공 던지기 같은 원활한 에너지 발산 대체 활동을 매일 제공해야 합니다."
 ---
 
-화려한 코트 색상과 뛰어난 지능, 폭발적인 에너지를 지닌 오스트레일리안 셰퍼드(Australian Shepherd, 일명 '오시')는 전 세계 스포츠견이자 열정적인 목양견으로 사랑받는 품종입니다. 보호자에 대한 충성심과 학습 능력이 매우 뛰어나지만, 목양 본능이 강하여 뛰는 아이나 타 동물의 발목을 무는 행동(Ankle Nipping)을 보일 수 있습니다. 또한 콜리·셰퍼드 계열 특유의 MDR1(다제내성) 유전자 변이 비율이 높아 심사상 심각한 약물 부작용을 겪을 수 있으며, 유전적 안과 질환(CEA) 및 고관절 이형성증(HD)에 취약하므로 세심한 건강 관리가 필수적입니다. 오늘 PetSelf에서는 오스트레일리안 셰퍼드의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+화려한 코트 색상과 뛰어난 지능, 폭발적인 에너지를 지닌 오스트레일리안 셰퍼드(Australian Shepherd, 일명 '오시')는 전 세계 스포츠견이자 열정적인 목양견으로 사랑받는 품종입니다. 보호자에 대한 충성심과 학습 능력이 매우 뛰어나지만, 목양 본능이 강하여 뛰는 아이나 타 동물의 발목을 무는 행동(Ankle Nipping)을 보일 수 있습니다. 또한 콜리·셰퍼드 계열 특유의 MDR1(다제내성) 유전자 변이 비율이 높아 심사상 심각한 약물 부작용을 겪을 수 있으며, 유전적 안과 질환(CEA) 및 고관절 이형성증(HD)에 취약하므로 세심한 건강 관리가 필수적입니다. 이번 가이드에서는 오스트레일리안 셰퍼드의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

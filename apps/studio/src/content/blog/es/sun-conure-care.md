@@ -29,7 +29,7 @@ faqs:
     answer: "Las dietas exclusivas de semillas son altas en grasa y deficientes en Vitamina A y calcio, produciendo obesidad, problemas respiratorios y picaje. El pienso extruido debe constituir al menos el 70% de su alimento diario."
 ---
 
-Con su deslumbrante plumaje amarillo y naranja y su personalidad afectuosa, el Perico Sol (Sun Conure) es un loro de tamaño mediano muy amado. Sin embargo, como ave gregario e inteligente, tiene una fuerte necesidad social, emite chillidos de contacto fuertes y es propenso a la deficiencia de Vitamina A si se le alimenta solo con semillas. Además, la falta de 10 a 12 horas de sueño oscuro y tranquilo puede causar picaje de plumas por estrés. Hoy, PetSelf presenta una rutina de 3 pasos para proteger su salud.
+Con su deslumbrante plumaje amarillo y naranja y su personalidad afectuosa, el Perico Sol (Sun Conure) es un loro de tamaño mediano muy amado. Sin embargo, como ave gregario e inteligente, tiene una fuerte necesidad social, emite chillidos de contacto fuertes y es propenso a la deficiencia de Vitamina A si se le alimenta solo con semillas. Además, la falta de 10 a 12 horas de sueño oscuro y tranquilo puede causar picaje de plumas por estrés. En esta guía, presenta una rutina de 3 pasos para proteger su salud.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

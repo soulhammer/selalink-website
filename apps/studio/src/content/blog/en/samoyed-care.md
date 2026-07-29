@@ -29,7 +29,7 @@ faqs:
     answer: "Preventing rapid weight gain during growth stages is essential. Avoid jumping or running on slippery floors, and maintain low-impact muscle-building exercises such as swimming or flat-ground walking."
 ---
 
-Famous for their white fluffy double coat and sweet 'Samoyed Smile', Samoyeds are energetic, gentle working sled dogs. Originating from Siberia, their thick double coat protects them from arctic freeze but traps heat and humidity easily in warm environments, triggering hot spots and dermatitis. Moreover, due to their large size, they are genetically prone to Hip Dysplasia. Today, PetSelf decodes Samoyed joint pain warning signals and provides a 3-step daily care routine.
+Famous for their white fluffy double coat and sweet 'Samoyed Smile', Samoyeds are energetic, gentle working sled dogs. Originating from Siberia, their thick double coat protects them from arctic freeze but traps heat and humidity easily in warm environments, triggering hot spots and dermatitis. Moreover, due to their large size, they are genetically prone to Hip Dysplasia. In this guide, decodes Samoyed joint pain warning signals and provides a 3-step daily care routine.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

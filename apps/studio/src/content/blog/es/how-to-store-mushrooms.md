@@ -27,7 +27,7 @@ faqs:
 
 Los champiñones no son plantas, sino hongos (Fungi) formados por una red porosa de hifas microscópicas que actúan como una esponja. Lavarlos antes de guardarlos hace que absorban agua rápidamente, rompiendo sus estructuras celulares y creando el ambiente perfecto para la pudrición blanda bacteriana (Pseudomonas) y el moho.
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para proteger la textura firme, el sabor umami y la frescura de sus setas y champiñones. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para proteger la textura firme, el sabor umami y la frescura de sus setas y champiñones. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

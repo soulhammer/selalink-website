@@ -29,7 +29,7 @@ faqs:
     answer: "필수입니다. 피하지방이 거의 없고 피부가 매우 얇아 섭씨 10 ~ 15도 이하만 되어도 저체온증 위험이 커집니다. 방풍과 보온 기능이 있는 전용 올인원 의류나 패딩을 반드시 입혀야 합니다."
 ---
 
-이탈리안 그레이하운드(IG)는 우아하고 날렵한 체형과 깔끔한 성격으로 도시 반려인들에게 큰 사랑을 받는 소형 시각하운드입니다. 체지방이 매우 적고 피하 지방층이 얇아 추위에 매우 취약하며, 가늘고 긴 다리 뼈 구조상 소파나 침대에서 뛰어내릴 때 요척골(앞다리 뼈) 골절이나 슬개골 탈구가 발생하기 쉽습니다. 오늘 PetSelf에서는 이탈리안 그레이하운드의 특유의 몸짓 시그널을 분석하고, 사계절 체온 보호와 관절·뼈 안전을 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+이탈리안 그레이하운드(IG)는 우아하고 날렵한 체형과 깔끔한 성격으로 도시 반려인들에게 큰 사랑을 받는 소형 시각하운드입니다. 체지방이 매우 적고 피하 지방층이 얇아 추위에 매우 취약하며, 가늘고 긴 다리 뼈 구조상 소파나 침대에서 뛰어내릴 때 요척골(앞다리 뼈) 골절이나 슬개골 탈구가 발생하기 쉽습니다. 이번 가이드에서는 이탈리안 그레이하운드의 특유의 몸짓 시그널을 분석하고, 사계절 체온 보호와 관절·뼈 안전을 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

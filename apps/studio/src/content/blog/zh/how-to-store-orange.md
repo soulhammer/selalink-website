@@ -27,7 +27,7 @@ faqs:
 
 橙子富含水分和维生素C，是代表性的柑橘类水果，采摘后依然会持续呼吸并蒸发水分。常温下长时间摆放会导致果肉失水变软、口感变差；而环境过于潮湿则会导致青霉菌剧烈滋生，迅速传染并腐蚀周边的橙子。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步橙子保鲜秘诀，帮您最大程度锁定酸甜多汁。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步橙子保鲜秘诀，帮您最大程度锁定酸甜多汁。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

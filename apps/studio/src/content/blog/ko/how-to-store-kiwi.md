@@ -27,7 +27,7 @@ faqs:
 
 키위는 수확 후 상온에서 숙성시켜 먹는 대표적인 후숙 과일(Climacteric Fruit)입니다. 익지 않은 상태에서 냉장고에 바로 넣으면 후숙이 멈추고 저온 장애가 생기며, 반대로 너무 따뜻한 곳에 두면 금방 물러집니다.
 
-오늘 FreshSnap에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 키위를 가장 달콤하고 아삭하게 즐길 수 있는 3단계 과학적 후숙 및 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 과학 전문가들의 가이드라인을 바탕으로, 키위를 가장 달콤하고 아삭하게 즐길 수 있는 3단계 과학적 후숙 및 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

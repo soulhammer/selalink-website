@@ -29,7 +29,7 @@ faqs:
     answer: "Kerutan harus dibersihkan minimal sehari sekali. Kelembapan dari air mata dan sisa makanan mudah menumpuk di lipatan kulit yang menjadi sarang jamur atau bakteri jika tidak dijaga tetap bersih dan kering."
 ---
 
-Dengan telinga kelelawar khas dan wajah peseknya, French Bulldog adalah teman yang sangat dicintai di seluruh dunia. Namun, anatomi brakisefalik (wajah datar) membuat mereka sangat rentan terhadap penyumbatan saluran napas, kesulitan bernapas, dan lonjakan suhu tubuh yang cepat. Melompat dari tempat tinggi juga membahayakan tulang belakang mereka. Hari ini, PetSelf mengulas bahasa tubuh pernapasan French Bulldog dan menyajikan 3 langkah rutinitas harian.
+Dengan telinga kelelawar khas dan wajah peseknya, French Bulldog adalah teman yang sangat dicintai di seluruh dunia. Namun, anatomi brakisefalik (wajah datar) membuat mereka sangat rentan terhadap penyumbatan saluran napas, kesulitan bernapas, dan lonjakan suhu tubuh yang cepat. Melompat dari tempat tinggi juga membahayakan tulang belakang mereka. Dalam panduan ini, mengulas bahasa tubuh pernapasan French Bulldog dan menyajikan 3 langkah rutinitas harian.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

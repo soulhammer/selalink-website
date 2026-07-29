@@ -29,7 +29,7 @@ faqs:
     answer: "手にマウスの匂いが残っていると指を餌と誤認することがあります。給餌の際は必ず長いピンセットを使用し、触る前には石鹸で手をよく洗ってください。"
 ---
 
-カリフォルニアキングスネーク（*Lampropeltis californiae*）は、ボールパイソンやコーンスネークと並び大人気の入門ヘビです。野生下では他のヘビを捕食する「共食い（Ophidiophagy）」の習性を持っており、他個体との同居は非常に危険なため「1ケージ1匹」の絶対単独飼育が基本ルールとなります。PetSelfが正しいケアと温湿度管理プロトコルを解説します。
+カリフォルニアキングスネーク（*Lampropeltis californiae*）は、ボールパイソンやコーンスネークと並び大人気の入門ヘビです。野生下では他のヘビを捕食する「共食い（Ophidiophagy）」の習性を持っており、他個体との同居は非常に危険なため「1ケージ1匹」の絶対単独飼育が基本ルールとなります。本記事では、正しいケアと温湿度管理プロトコルを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

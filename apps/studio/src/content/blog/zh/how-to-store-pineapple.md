@@ -27,7 +27,7 @@ faqs:
 
 菠萝是典型的非呼吸跃变型（Non-climacteric）水果，采摘后糖度不会再增加。由于天然糖分高度集中在菠萝底部，如果一直竖着顺放，会导致糖分分布极不均匀，且底部极易受潮腐烂。此外，若长时间暴露于7℃以下的冷气中，会发生冷害（Chilling injury）导致果肉变褐色。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学菠萝保鲜秘诀，帮您均匀分散甜度并长久保持新鲜。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的3步科学菠萝保鲜秘诀，帮您均匀分散甜度并长久保持新鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

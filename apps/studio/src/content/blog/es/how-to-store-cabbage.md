@@ -27,7 +27,7 @@ faqs:
 
 Incluso después de ser cosechado, el repollo continúa extrayendo agua y nutrientes de sus hojas exteriores a través del tallo central o corazón. Si el corazón se deja intacto, la humedad se evapora rápidamente desde el interior, marchitando las hojas y acelerando la pudrición.
 
-Hoy, FreshSnap comparte una guía científica en 3 pasos basada en las recomendaciones de la RDA y el USDA para desactivar el tallo del repollo, manteniéndolo crujiente y fresco hasta por 30 días. 🛡️
+En esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones de la RDA y el USDA para desactivar el tallo del repollo, manteniéndolo crujiente y fresco hasta por 30 días. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

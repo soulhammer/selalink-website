@@ -29,7 +29,7 @@ faqs:
     answer: "纯种子食物脂肪含量极高且缺乏维生素A和钙，长期喂食会导致致命的脂肪肝（Hepatic Lipidosis）。应以营养均衡的专用滋养丸作为主食（占60 ~ 70%）。"
 ---
 
-虎皮鹦鹉（Budgie）凭借其绚丽的羽毛、清脆的鸣叫和亲人的性格，成为全球最受欢迎的小型宠物鸟。然而，由于鸟类特有的“气囊 (Air Sacs)” 呼吸系统，它们对特氟龙不粘锅加热产生的有毒气体、香水及喷雾极度敏感。此外，长期单喂种子（谷物）极易引发脂肪肝（Hepatic Lipidosis）与营养缺乏。今天 PetSelf 将带您准确解读虎皮鹦鹉的语言，并介绍保护其呼吸道与健康饮食的3步骤日常护理流程。
+虎皮鹦鹉（Budgie）凭借其绚丽的羽毛、清脆的鸣叫和亲人的性格，成为全球最受欢迎的小型宠物鸟。然而，由于鸟类特有的“气囊 (Air Sacs)” 呼吸系统，它们对特氟龙不粘锅加热产生的有毒气体、香水及喷雾极度敏感。此外，长期单喂种子（谷物）极易引发脂肪肝（Hepatic Lipidosis）与营养缺乏。本指南将带您准确解读虎皮鹦鹉的语言，并介绍保护其呼吸道与健康饮食的3步骤日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "합사를 권장하지 않습니다. 가재는 기회가 되면 야간에 잠든 소형 물고기나 새우, 안시 같은 바닥층 물고기를 강력한 집게발로 사냥합니다. 또한 수초를 뿌리째 뽑거나 잘라버리는 습성이 있으므로 단독 사육이나 빠른 상층성 수초 없는 어항이 안전합니다."
 ---
 
-일렉트릭 블루 가재(Procambarus alleni)는 눈부신 코발트블루 발색으로 담수 관상어 어항에서 독보적인 인기를 누리는 관상용 갑각류입니다. 성체가 되면 10 ~ 15cm까지 자라며, 강한 집게발과 호기심 어린 행동이 매력적입니다. 하지만 갑각류 특성상 성장을 위해 주기적으로 껍질을 벗는 탈피(Ecdysis)를 거치는데, 탈피 직후에는 몸이 말랑하여 다른 수중 생물이나 동족에게 공격받기 매우 쉽습니다. 또한 갑각을 튼튼하게 형성하기 위한 칼슘/마그네슘 미네랄 공급이 필수적이며, 밑바닥 물고기나 소형 새우와의 합사는 사냥 및 동족상잔(Cannibalism)을 유발하므로 주의해야 합니다. 오늘 PetSelf에서 일렉트릭 블루 가재의 탈피 및 방어 신호와 3단계 사육 루틴을 정리해 드립니다.
+일렉트릭 블루 가재(Procambarus alleni)는 눈부신 코발트블루 발색으로 담수 관상어 어항에서 독보적인 인기를 누리는 관상용 갑각류입니다. 성체가 되면 10 ~ 15cm까지 자라며, 강한 집게발과 호기심 어린 행동이 매력적입니다. 하지만 갑각류 특성상 성장을 위해 주기적으로 껍질을 벗는 탈피(Ecdysis)를 거치는데, 탈피 직후에는 몸이 말랑하여 다른 수중 생물이나 동족에게 공격받기 매우 쉽습니다. 또한 갑각을 튼튼하게 형성하기 위한 칼슘/마그네슘 미네랄 공급이 필수적이며, 밑바닥 물고기나 소형 새우와의 합사는 사냥 및 동족상잔(Cannibalism)을 유발하므로 주의해야 합니다. 이번 가이드에서 일렉트릭 블루 가재의 탈피 및 방어 신호와 3단계 사육 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

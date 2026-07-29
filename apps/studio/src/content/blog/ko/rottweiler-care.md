@@ -29,7 +29,7 @@ faqs:
     answer: "위확장-꼬임(GDV) 방지를 위해서는 식사를 2 ~ 3회 나누어 급여하고 식후 1시간 휴식이 필수입니다. 고관절 이형성증(HD) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 고강도 점프나 미끄러운 바닥 노출을 피하며, 1세 이후 정기적인 엑스레이(X-ray) 검사를 받는 것이 중요합니다."
 ---
 
-강인한 체구와 뛰어난 지능, 강렬한 충성심을 지닌 로트와일러(Rottweiler)는 전 세계에서 사랑받는 가드견이자 가족의 충직한 반려동물입니다. 로트와일러는 가족에게 깊은 애정을 표현하지만, 흉곽이 깊고 넓은 초대형견 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 체중 부담으로 인해 유전적으로 고관절 이형성증(HD) 및 십자인대 손상에 취약하며, 조기 사회화와 복종 훈련이 이루어지지 않으면 리더십 혼란과 스트레스 행동을 보일 수 있습니다. 오늘 PetSelf에서는 로트와일러의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+강인한 체구와 뛰어난 지능, 강렬한 충성심을 지닌 로트와일러(Rottweiler)는 전 세계에서 사랑받는 가드견이자 가족의 충직한 반려동물입니다. 로트와일러는 가족에게 깊은 애정을 표현하지만, 흉곽이 깊고 넓은 초대형견 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 체중 부담으로 인해 유전적으로 고관절 이형성증(HD) 및 십자인대 손상에 취약하며, 조기 사회화와 복종 훈련이 이루어지지 않으면 리더십 혼란과 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 로트와일러의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

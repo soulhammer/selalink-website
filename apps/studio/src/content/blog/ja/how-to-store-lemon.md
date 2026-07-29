@@ -27,7 +27,7 @@ faqs:
 
 レモンは皮が厚いですが、表皮の微細な気孔を通じて水分が絶えず蒸発する柑橘類です。常温に放置すると1週間で皮が縮んで果汁が干からび、水気がこもった密閉空間ではアオカビ属（Penicillium）のカビが繁殖しやすくなります。
 
-本日FreshSnapでは、米国農務省（USDA）および英国食品基準庁（FSA）の研究に基づき、レモンの水分蒸発を完全に防ぎ、1ヶ月以上ジューシーな果汁を保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）および英国食品基準庁（FSA）の研究に基づき、レモンの水分蒸発を完全に防ぎ、1ヶ月以上ジューシーな果汁を保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

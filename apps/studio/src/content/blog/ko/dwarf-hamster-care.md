@@ -29,7 +29,7 @@ faqs:
     answer: "절대 물목욕을 시키면 안 됩니다! 햄스터는 감기에 매우 걸리기 쉽고 털이 잘 마르지 않아 치명적인 저체온증이나 폐렴으로 사망할 수 있습니다. 햄스터는 스스로 그루밍을 하며, 기름기 제거와 위생을 위해 반드시 햄스터 전용 사막모래 목욕탕을 제공해 주어야 합니다."
 ---
 
-작고 커다란 볼주머니가 매력적인 드워프 햄스터(Dwarf Hamster)는 정글리안(윈터화이트), 캠벨, 로보로브스키 등 다양한 종으로 전 세계에서 사랑받는 소형 설치류입니다. 드워프 햄스터는 사탕무나 과일 등 당분이 높은 음식을 섭취할 경우 당뇨병(Diabetes)에 걸리기 매우 쉬우며, 실내 온도가 15°C 이하로 떨어지면 생명을 위협하는 의사 동면(Torpor/저체온증) 상태에 빠질 수 있습니다. 또한 물목욕은 피모의 보호 유지분을 제거해 치명적인 저체온증을 유발하므로 모래목욕이 필수적입니다. 오늘 PetSelf에서는 드워프 햄스터의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+작고 커다란 볼주머니가 매력적인 드워프 햄스터(Dwarf Hamster)는 정글리안(윈터화이트), 캠벨, 로보로브스키 등 다양한 종으로 전 세계에서 사랑받는 소형 설치류입니다. 드워프 햄스터는 사탕무나 과일 등 당분이 높은 음식을 섭취할 경우 당뇨병(Diabetes)에 걸리기 매우 쉬우며, 실내 온도가 15°C 이하로 떨어지면 생명을 위협하는 의사 동면(Torpor/저체온증) 상태에 빠질 수 있습니다. 또한 물목욕은 피모의 보호 유지분을 제거해 치명적인 저체온증을 유발하므로 모래목욕이 필수적입니다. 이번 가이드에서는 드워프 햄스터의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 金枪鱼富含优质蛋白质与欧米伽-3不饱和脂肪酸（DHA、EPA），但一旦接触空气，脂肪极易发生氧化并散发浓重腥味。特别是开封后的金属罐若直接存放，罐体内部镀层易被氧化导致重金属溶出或细菌滋生。
 
-今天FreshSnap基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，妥善守护金枪鱼的风味与食品卫生。🛡️
+本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，妥善守护金枪鱼的风味与食品卫生。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

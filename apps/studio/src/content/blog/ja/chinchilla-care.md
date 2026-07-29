@@ -29,7 +29,7 @@ faqs:
     answer: "チンチラは1つの毛穴から80本以上の極めて密生した被毛を持つため、濡れると自然乾燥が不可能です。湿った状態が続くと皮膚カビ病や急激な体温低下を引き起こし死に至ります。"
 ---
 
-絹のように柔らかい毛並みと丸い体が魅力的なチンチラは、愛されているエキゾチックペットです。しかし犬や猫とは異なり、チンチラの歯は一生伸び続けるため、臼歯や前歯がかみ合わずに口内を傷つける不正咬合が多発します。また、汗腺がなく毛の密度が非常に高いため、高温多湿な環境では熱中症にかかりやすいです。本日PetSelfでは、チンチラの歯の痛みや暑さのシグナルを分析し、健康を守る3段階ルーティンをご提案します。
+絹のように柔らかい毛並みと丸い体が魅力的なチンチラは、愛されているエキゾチックペットです。しかし犬や猫とは異なり、チンチラの歯は一生伸び続けるため、臼歯や前歯がかみ合わずに口内を傷つける不正咬合が多発します。また、汗腺がなく毛の密度が非常に高いため、高温多湿な環境では熱中症にかかりやすいです。本記事では、チンチラの歯の痛みや暑さのシグナルを分析し、健康を守る3段階ルーティンをご提案します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

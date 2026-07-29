@@ -27,7 +27,7 @@ Você já comprou folhas de chá aromáticas e percebeu que semanas depois o sab
 
 Embora as folhas de chá estejam secas, sua estrutura porosa funciona como uma esponja, absorvendo rapidamente oxigênio, umidade, luz, calor e odores. A exposição à umidade e ao oxigênio oxida os flavonoides e catequinas, destruindo o frescor e deixando um sabor amargo e apagado.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA para preservar os aromas delicados e a qualidade do seu chá por meses. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA para preservar os aromas delicados e a qualidade do seu chá por meses. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

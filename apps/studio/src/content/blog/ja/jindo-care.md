@@ -29,7 +29,7 @@ faqs:
     answer: "珍島犬は本来独立心が強く領域意識が高いため、他の犬と無理に遊ぶ必要はありません。見かけても吠えずにやり過ごせる『社会的中立』を目指して訓練しましょう。"
 ---
 
-珍島犬（チンドケン）は韓国を代表する天然記念物であり、世界的に認められた忠実で知的な犬種です。特定の一人に対する強い絆を誇りますが、高い警戒心のため社会化期を逃すと他者や他の動物に対して排他的になりがちです。🐕 また、四季のある気候に適応した密生したダブルコートを持つため、換毛期の抜け毛が非常に激しいです。本日PetSelfでは、珍島犬の警戒心を和らげる社会化ノウハウと、毛並み管理のための3ステップホームケアルーティンをご紹介します。
+珍島犬（チンドケン）は韓国を代表する天然記念物であり、世界的に認められた忠実で知的な犬種です。特定の一人に対する強い絆を誇りますが、高い警戒心のため社会化期を逃すと他者や他の動物に対して排他的になりがちです。🐕 また、四季のある気候に適応した密生したダブルコートを持つため、換毛期の抜け毛が非常に激しいです。本記事では、珍島犬の警戒心を和らげる社会化ノウハウと、毛並み管理のための3ステップホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

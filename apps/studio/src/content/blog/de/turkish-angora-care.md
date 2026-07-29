@@ -29,7 +29,7 @@ faqs:
     answer: "Halten Sie die Katze zu 100 % im Haus, da sie Gefahren wie Autos nicht hören kann. Sichern Sie Fenster und Türen mit doppelten Schutznetzen und kündigen Sie Ihre Nähe stets durch Bodenschwingungen an."
 ---
 
-Mit ihrem eleganten, seidigen Fell und ihren strahlenden Augen ist die Türkisch Angora (Turkish Angora) eine sehr aktive und intelligente Katze. Weiße Katzen mit blauen Augen oder ungleichen Augen (Heterochromie) haben jedoch aufgrund des dominanten Weiß-Gens ($W$) ein sehr hohes Risiko für angeborene Taubheit. Zudem sind im Alter Herzkontrollen bezüglich hypertropher Kardiomyopathie (HCM) wichtig. Heute erklärt PetSelf die Körpersprache tauber Türkisch Angoras und stellt eine 3-Schritt-Routine vor, um sie sicher zu begleiten.
+Mit ihrem eleganten, seidigen Fell und ihren strahlenden Augen ist die Türkisch Angora (Turkish Angora) eine sehr aktive und intelligente Katze. Weiße Katzen mit blauen Augen oder ungleichen Augen (Heterochromie) haben jedoch aufgrund des dominanten Weiß-Gens ($W$) ein sehr hohes Risiko für angeborene Taubheit. Zudem sind im Alter Herzkontrollen bezüglich hypertropher Kardiomyopathie (HCM) wichtig. Heute erklärt  die Körpersprache tauber Türkisch Angoras und stellt eine 3-Schritt-Routine vor, um sie sicher zu begleiten.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous pris l'habitude de ranger vos pommes de terre crues dans le bac à lé
 
 Contrairement à la plupart des légumes, stocker des pommes de terre au froid, en dessous de 4 °C, déclenche le 'sucrage à froid', transformant leur amidon en sucres réducteurs. Bien que cela les rende plus sucrées, frire ou rôtir ces pommes de terre à haute température génère de l'acrylamide, un cancérigène redoutable.
 
-De plus, l'exposition à la lumière fait verdir la peau des pommes de terre, qui synthétisent alors un glycoalcaloïde toxique appelé solanine. Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la Food Standards Agency (FSA) britannique pour éviter les toxines, empêcher la germination et garder vos pommes de terre saines et fraîches. 🛡️
+De plus, l'exposition à la lumière fait verdir la peau des pommes de terre, qui synthétisent alors un glycoalcaloïde toxique appelé solanine. Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la Food Standards Agency (FSA) britannique pour éviter les toxines, empêcher la germination et garder vos pommes de terre saines et fraîches. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

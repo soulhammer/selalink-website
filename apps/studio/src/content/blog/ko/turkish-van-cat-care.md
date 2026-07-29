@@ -29,7 +29,7 @@ faqs:
     answer: "하얀 모색 유전자와 파란 눈 유전자(W 유전자)는 달팽이관 발달에 영향을 미쳐 파란 눈 쪽 귀의 선천적 난청을 유발할 수 있습니다. 오드아이 터키시 반을 입양했다면 수의사에게 BAER(청력 검사)를 받고, 청력이 약하다면 수신호와 진동 위주의 교감법을 사용해야 합니다."
 ---
 
-터키시 반(Turkish Van)은 튀르키예 반 호수(Lake Van) 주변에서 자연 발생한 고대 품종으로, 머리와 꼬리에만 단색 포인트가 들어가고 몸 전체는 하얀 '반 패턴(Van Pattern)'과 빛나는 오드아이(Odd-Eyes, 두 눈의 색이 다른 홍채 이색증) 눈빛이 특징입니다. 일반적인 고양이와 달리 캐시미어 감촉의 방수성 싱글 코트(Single Coat) 털을 가져 물에 젖는 것을 두려워하지 않고 수영을 즐기는 유일무이한 습성을 지니고 있습니다. 그러나 강력한 근육질 몸매와 높은 지능으로 인해 충분한 수직 공간과 수렵 놀이가 제공되지 않으면 스트레스를 받기 쉬우며, 파란 눈을 가진 오드아이 개체의 경우 유전자 특성상 선천적 청력 손실(난청) 유무를 체크해야 합니다. 또한, 물놀이 후 귓속 수분과 속털을 제대로 말려주지 않으면 외이도염이나 세균성 피부염이 발생할 수 있습니다. 오늘 PetSelf에서는 터키시 반의 행동 신호와 물놀이 안전 수칙, 오드아이 청력 케어 3단계 루틴을 다룹니다.
+터키시 반(Turkish Van)은 튀르키예 반 호수(Lake Van) 주변에서 자연 발생한 고대 품종으로, 머리와 꼬리에만 단색 포인트가 들어가고 몸 전체는 하얀 '반 패턴(Van Pattern)'과 빛나는 오드아이(Odd-Eyes, 두 눈의 색이 다른 홍채 이색증) 눈빛이 특징입니다. 일반적인 고양이와 달리 캐시미어 감촉의 방수성 싱글 코트(Single Coat) 털을 가져 물에 젖는 것을 두려워하지 않고 수영을 즐기는 유일무이한 습성을 지니고 있습니다. 그러나 강력한 근육질 몸매와 높은 지능으로 인해 충분한 수직 공간과 수렵 놀이가 제공되지 않으면 스트레스를 받기 쉬우며, 파란 눈을 가진 오드아이 개체의 경우 유전자 특성상 선천적 청력 손실(난청) 유무를 체크해야 합니다. 또한, 물놀이 후 귓속 수분과 속털을 제대로 말려주지 않으면 외이도염이나 세균성 피부염이 발생할 수 있습니다. 이번 가이드에서는 터키시 반의 행동 신호와 물놀이 안전 수칙, 오드아이 청력 케어 3단계 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

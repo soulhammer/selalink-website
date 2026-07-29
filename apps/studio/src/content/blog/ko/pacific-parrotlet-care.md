@@ -29,7 +29,7 @@ faqs:
     answer: "포켓앵무는 체구가 작지만 명확하게 단어나 짧은 소리를 따라 할 수 있을 만큼 지능이 높습니다. 데시벨이 매우 낮고 울음소리가 '찍찍'거리는 미세한 소리에 가까워 아파트나 밀집 주거 형태에서도 소음 걱정 없이 사육할 수 있는 최고의 장점을 가지고 있습니다."
 ---
 
-태평양 포켓앵무(Pacific Parrotlet)는 몸길이 약 12 ~ 14cm에 불과한 '세계에서 가장 작은 앵무새'로, 아파트나 소형 주거 공간에서 사육하기 적합하여 북미와 유럽에서 입문용 반려조로 폭발적인 인기를 끌고 있습니다. 체구는 작지만 대형 앵무새 못지않은 강한 담력과 높은 지능, 무한한 체력을 지니고 있어 '작은 몸에 들어간 거대한 앵무새'라는 별명을 가지고 있습니다. 다만 자존감이 강하고 자기 영역에 대한 경계심이 높아 새장이나 전용 공간에 대한 영역 유세(Territoriality) 행동을 보이기 쉬우며, 영양 불균형 시 지방간이나 비만이 올 수 있어 영양 펠렛 중심의 식단 관리가 필수적입니다. 오늘 PetSelf에서는 태평양 포켓앵무의 본능적 감정 신호를 분석하고, 영역 스트레스 완화와 건강 관리를 위한 3단계 일상 루틴을 공개합니다.
+태평양 포켓앵무(Pacific Parrotlet)는 몸길이 약 12 ~ 14cm에 불과한 '세계에서 가장 작은 앵무새'로, 아파트나 소형 주거 공간에서 사육하기 적합하여 북미와 유럽에서 입문용 반려조로 폭발적인 인기를 끌고 있습니다. 체구는 작지만 대형 앵무새 못지않은 강한 담력과 높은 지능, 무한한 체력을 지니고 있어 '작은 몸에 들어간 거대한 앵무새'라는 별명을 가지고 있습니다. 다만 자존감이 강하고 자기 영역에 대한 경계심이 높아 새장이나 전용 공간에 대한 영역 유세(Territoriality) 행동을 보이기 쉬우며, 영양 불균형 시 지방간이나 비만이 올 수 있어 영양 펠렛 중심의 식단 관리가 필수적입니다. 이번 가이드에서는 태평양 포켓앵무의 본능적 감정 신호를 분석하고, 영역 스트레스 완화와 건강 관리를 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

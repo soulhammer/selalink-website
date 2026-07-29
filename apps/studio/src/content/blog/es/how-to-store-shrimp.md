@@ -27,7 +27,7 @@ faqs:
 
 El camarón tiene un alto contenido de proteínas y agua, y su actividad enzimática es sumamente rápida tras la captura. Al exponerse al oxígeno del aire, la enzima tirosinasa desencadena la melanosis (manchas negras) desde la cabeza, mientras los microorganismos se multiplican velozmente.
 
-Hoy, FreshSnap presenta una guía de conservación de camarones en 3 pasos respaldada por expertos para garantizar su textura firme y su sabor original. 🛡️
+En esta guía se presenta una guía de conservación de camarones en 3 pasos respaldada por expertos para garantizar su textura firme y su sabor original. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

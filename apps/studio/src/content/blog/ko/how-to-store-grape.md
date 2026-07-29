@@ -27,7 +27,7 @@ faqs:
 
 포도는 과피가 매우 얇고 알갱이가 촘촘히 밀집된 과일로, 습도가 너무 높으면 잿빛곰팡이균(Botrytis)이 번식하고 건조하면 줄기가 말라 알 빠짐이 급격히 발생합니다. 특히 표면의 천연 보호막(과분, 블룸)을 지키고 습도를 통제하는 것이 신선도 유지의 핵심 열쇠입니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 포도의 천연 보호막을 보존하고 알 빠짐을 차단하여 2주 이상 탱탱함과 달콤함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 포도의 천연 보호막을 보존하고 알 빠짐을 차단하여 2주 이상 탱탱함과 달콤함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "月光鱼有食仔的天性“亲鱼吞食幼鱼 (Fry Cannibalism)”。当母鱼肚子变方（呈直角“L”形）且胎斑加深时，说明即将在数小时内生产，应提前移入隔离繁殖盒中。若选择大缸自然生产，必须在缸内大量种植爪哇莫丝、水榕或金鱼藻等密植水草，给刚出生的幼鱼提供充足的躲避空间。"
 ---
 
-因尾鳍基部带有清晰的黑色米老鼠图案而得名的米老鼠月光鱼（Xiphophorus maculatus），凭其艳丽的体色与极强的适应力，是深受全球水族爱好者喜爱的经典花频剑尾鱼/月光鱼。作为直接产出幼鱼的卵胎生鱼类，其繁殖能力极强；但若水温急剧降至 22°C 以下或水质恶化，极易患上身上出现白斑的“白点病 (Ich)”并伴随缩鳍现象。此外，刚出生的小鱼极易发生被成鱼吞食的“亲鱼吞食幼鱼 (Fry Cannibalism)”现象，水质应激还可能导致早产。今天 PetSelf 将带您准确解读米老鼠月光鱼的行为信号，并通过3步骤日常护理维护其健康。
+因尾鳍基部带有清晰的黑色米老鼠图案而得名的米老鼠月光鱼（Xiphophorus maculatus），凭其艳丽的体色与极强的适应力，是深受全球水族爱好者喜爱的经典花频剑尾鱼/月光鱼。作为直接产出幼鱼的卵胎生鱼类，其繁殖能力极强；但若水温急剧降至 22°C 以下或水质恶化，极易患上身上出现白斑的“白点病 (Ich)”并伴随缩鳍现象。此外，刚出生的小鱼极易发生被成鱼吞食的“亲鱼吞食幼鱼 (Fry Cannibalism)”现象，水质应激还可能导致早产。本指南将带您准确解读米老鼠月光鱼的行为信号，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

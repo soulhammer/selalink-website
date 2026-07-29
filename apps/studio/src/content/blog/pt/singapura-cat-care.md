@@ -29,7 +29,7 @@ faqs:
     answer: "Trata-se de uma anemia hemolítica hereditária provocada pela falta de uma enzima nas hemácias. Exija testes genéticos negativos dos pais (PK Clear) e observe a coloração das gengivas do animal."
 ---
 
-Com grandes olhos brilhantes, porte compacto e uma pelagem curta sépia pontilhada, o Singapura é famoso por ser a menor raça de gato do mundo. Devido ao seu tamanho reduzido e à ausência de subpelo denso, eles são extremamente sensíveis ao frio, enquanto sua grande energia exige espaços verticais seguros (como arranhadores altos). Além disso, o acompanhamento genético para a Deficiência de Piruvato Quinase (PKD) é fundamental. O PetSelf traz uma rotina de 3 passos para proteger a saúde do seu gato.
+Com grandes olhos brilhantes, porte compacto e uma pelagem curta sépia pontilhada, o Singapura é famoso por ser a menor raça de gato do mundo. Devido ao seu tamanho reduzido e à ausência de subpelo denso, eles são extremamente sensíveis ao frio, enquanto sua grande energia exige espaços verticais seguros (como arranhadores altos). Além disso, o acompanhamento genético para a Deficiência de Piruvato Quinase (PKD) é fundamental. O  traz uma rotina de 3 passos para proteger a saúde do seu gato.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

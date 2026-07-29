@@ -29,7 +29,7 @@ faqs:
     answer: "秋田犬每年会经历2次剧烈的换毛爆发期（Blowout），底毛会成块脱落，必须每日梳理以防皮肤病。夏季必须将其置于20–22°C的空调房中，并严禁在正午高温时段进行户外运动。"
 ---
 
-秋田犬因电影《忠犬八公》而享誉全球，是日本代表性的顶级大型犬，以对主人的绝对忠诚和威严的身姿备受尊崇。它们拥有适应寒冷山地气候的极其丰厚的双层毛发（Double Coat），在春秋换毛季会脱落大量的绒毛。此外，秋田犬智商极高且独立性强，若从小缺乏一贯的领导力训练与社会化引导，容易对陌生人或同类展现出强烈的领地意识与主导攻击性。今天 PetSelf 将解析秋田犬的本能信号，并分享涵盖毛发梳理、主导权建立与避暑降温的3阶段日常护理流程。
+秋田犬因电影《忠犬八公》而享誉全球，是日本代表性的顶级大型犬，以对主人的绝对忠诚和威严的身姿备受尊崇。它们拥有适应寒冷山地气候的极其丰厚的双层毛发（Double Coat），在春秋换毛季会脱落大量的绒毛。此外，秋田犬智商极高且独立性强，若从小缺乏一贯的领导力训练与社会化引导，容易对陌生人或同类展现出强烈的领地意识与主导攻击性。本指南将解析秋田犬的本能信号，并分享涵盖毛发梳理、主导权建立与避暑降温的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

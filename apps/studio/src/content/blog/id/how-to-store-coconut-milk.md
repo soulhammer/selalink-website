@@ -27,7 +27,7 @@ Pernahkah Anda menggunakan santan gurih untuk memasak lalu menyimpan sisanya tet
 
 Santan memiliki kandungan lemak nabati yang tinggi, menjadikannya rentan mengalami oksidasi lemak dan perkembangbiakan bakteri yang cepat pada suhu ruang. Membiarkan kaleng terbuka di kulkas menyebabkan lapisan timah reaktif dengan oksigen dan larut ke dalam santan. Memindahkan wadah dan mengontrol suhu adalah langkah krusial.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan santan 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk mencegah pemisahan lemak dan menjaga kesegaran santan secara aman. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan santan 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk mencegah pemisahan lemak dan menjaga kesegaran santan secara aman. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

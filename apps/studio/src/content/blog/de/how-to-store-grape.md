@@ -27,7 +27,7 @@ Haben Sie schon einmal frische Weintrauben im Kühlschrank gelagert, nur um fest
 
 Weintrauben haben eine sehr dünne Schale und sitzen dicht aneinander. Zu hohe Feuchtigkeit lässt Grauschimmel (Botrytis) sprießen, während Trockenheit die Stängel welken lässt und Beerenabfall verursacht. Der Schutz der natürlichen Wachsschicht (Pruina) und die Kontrolle von Kondenswasser sind der Schlüssel zur Frische.
 
-Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um die Pruina zu erhalten, Beerenabfall zu verhindern und Ihre Trauben über 2 Wochen lang knackig und süß zu halten. 🛡️
+In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um die Pruina zu erhalten, Beerenabfall zu verhindern und Ihre Trauben über 2 Wochen lang knackig und süß zu halten. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

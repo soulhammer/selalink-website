@@ -27,7 +27,7 @@ faqs:
 
 海苔（紫菜）具有极强吸湿性的多孔结构，会像海绵一样迅速吸收空气中的水分。特别是添加了油脂和盐分的调味海苔，一旦暴露于潮湿、空气（氧气）和光线中，油脂氧化会急剧加速，导致口感变软、风味丧失。
 
-今天FreshSnap基于水产研究机构及农林水产部门的权威指南，为您带来3步科学保存秘诀，帮您长久保持调味海苔与干紫菜香脆的口感与浓郁的风味。🛡️
+本指南基于水产研究机构及农林水产部门的权威指南，为您带来3步科学保存秘诀，帮您长久保持调味海苔与干紫菜香脆的口感与浓郁的风味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

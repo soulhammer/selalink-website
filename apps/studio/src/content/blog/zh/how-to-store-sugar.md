@@ -27,7 +27,7 @@ faqs:
 
 食糖的水分活性极低，微生物无法在此滋生，因此它是没有保质期的代表性食材。然而，食糖具有极强的吸湿性和吸附异味的特性，会像海绵一样迅速吸收空气中的湿气和生活异味。不当的储存方式会导致结块、变味甚至招引害虫。
 
-今天FreshSnap基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食糖细软松散的品质。🛡️
+本指南基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食糖细软松散的品质。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "成年大丹犬在室内非常安静且活动量低，有着“沙发上的巨人”之称，室内适应力极佳。但前提是必须为其提供能完全舒展身体的足够空间和高密度护关节垫，并保证每日规律的户外散步。"
 ---
 
-大丹犬虽然体型庞大，但性格却极其温顺，因而获得了“温柔的巨人（Gentle Giant）”的美誉，深受全球大型犬爱好者的喜爱。然而作为超大型犬，其骨骼在急速成长阶段承受着极大的关节压力，且急性致命疾病——胃扩张-胃扭转症候群（GDV）的发病率极高，因此必须遵循科学严谨的护理标准。同时，鉴于其强大的体格，从小开展温和且一致的社会化训练是与人和其它动物安全共处的前提。今天 PetSelf 将解析大丹犬独特的表达爱意的信号，并公开预防GDV、保护关节及维持温和性格的3阶段日常护理流程。
+大丹犬虽然体型庞大，但性格却极其温顺，因而获得了“温柔的巨人（Gentle Giant）”的美誉，深受全球大型犬爱好者的喜爱。然而作为超大型犬，其骨骼在急速成长阶段承受着极大的关节压力，且急性致命疾病——胃扩张-胃扭转症候群（GDV）的发病率极高，因此必须遵循科学严谨的护理标准。同时，鉴于其强大的体格，从小开展温和且一致的社会化训练是与人和其它动物安全共处的前提。本指南将解析大丹犬独特的表达爱意的信号，并公开预防GDV、保护关节及维持温和性格的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

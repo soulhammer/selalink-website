@@ -29,7 +29,7 @@ faqs:
     answer: "Dies ist ein lebensbedrohlicher Zustand, bei dem die Darmbewegung durch Ballaststoffmangel, Stress oder Schmerz zum Erliegen kommt. Kaninchen brauchen ständig Rohfaser aus Timothy-Heu."
 ---
 
-Mit seinem edlen, samtartigen Fell und seinem kompakten Körper ist das Mini-Rex-Kaninchen eine der beliebtesten Rassen. Durch die besondere Fellmutation fehlen ihm jedoch schützende Grannenhaare an den Pfotensohlen, wodurch es auf harten Böden extrem anfällig für Wunde Sohlen (Pododermatitis / Sore Hocks) ist. Zudem benötigt das Kaninchen als Pflanzenfresser unbegrenzt Timothy-Heu, um eine lebensgefährliche Magen-Darm-Inaktivität (GI Stasis) zu vermeiden. PetSelf stellt eine 3-Schritte-Routine vor.
+Mit seinem edlen, samtartigen Fell und seinem kompakten Körper ist das Mini-Rex-Kaninchen eine der beliebtesten Rassen. Durch die besondere Fellmutation fehlen ihm jedoch schützende Grannenhaare an den Pfotensohlen, wodurch es auf harten Böden extrem anfällig für Wunde Sohlen (Pododermatitis / Sore Hocks) ist. Zudem benötigt das Kaninchen als Pflanzenfresser unbegrenzt Timothy-Heu, um eine lebensgefährliche Magen-Darm-Inaktivität (GI Stasis) zu vermeiden. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

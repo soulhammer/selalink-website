@@ -27,7 +27,7 @@ faqs:
 
 계란 껍데기(난각)는 눈에 보이지 않는 수천 개의 미세한 기공으로 숨을 쉬는 유기체입니다. 물로 씻으면 표면의 천연 단백질 보호막인 '큐티클(Cuticle)'이 제거되어 살모넬라(Salmonella) 등 외부 유해균이 내부로 빠르게 침투합니다. 또한 냉장고 문 쪽에 둘 경우 잦은 온도 변화와 진동으로 흰자의 탄력이 급격히 떨어집니다.
 
-오늘 FreshSnap에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 가이드를 바탕으로, 계란의 신선도와 안전을 45일 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 가이드를 바탕으로, 계란의 신선도와 안전을 45일 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

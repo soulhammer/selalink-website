@@ -29,7 +29,7 @@ faqs:
     answer: "괜찮지 않습니다! 연속적인 무정란 산란은 모란앵무의 체내 칼슘을 급격히 소모시켜 뼈가 약해지고, 알이 체내에 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding/난산)' 질환을 유발합니다. 이를 막기 위해 하루 10 ~ 12시간 이상의 완전한 암막 수면으로 일조시간을 줄이고, 알자리(둥지 상자)나 거울 등 호르몬 자극 요소를 제거해야 합니다."
 ---
 
-반려자와 깊은 유대감을 형성하여 '러브버드(Lovebird)'라는 이름을 가진 모란앵무는 화려한 색상과 강한 친화력으로 전 세계에서 사랑받는 소형 앵무새입니다. 강한 유대감만큼이나 영역 의식이 세고 호르몬 자극에 민감하여, 하루 일조 시간이 길어지거나 과도한 등 만지기를 할 경우 습관성 과다 산란과 알 묶임(Egg Binding/난산)이 발생하기 쉽습니다. 또한 앵무새 특유의 공기주머니(Air Sacs) 호흡계로 인해 테플론 가열 가스나 향수 등 공기 중 유해 물질에 매우 취약하며, 씨앗 위주의 식단은 비타민 A 결핍과 간지방증을 유발합니다. 오늘 PetSelf에서는 모란앵무의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+반려자와 깊은 유대감을 형성하여 '러브버드(Lovebird)'라는 이름을 가진 모란앵무는 화려한 색상과 강한 친화력으로 전 세계에서 사랑받는 소형 앵무새입니다. 강한 유대감만큼이나 영역 의식이 세고 호르몬 자극에 민감하여, 하루 일조 시간이 길어지거나 과도한 등 만지기를 할 경우 습관성 과다 산란과 알 묶임(Egg Binding/난산)이 발생하기 쉽습니다. 또한 앵무새 특유의 공기주머니(Air Sacs) 호흡계로 인해 테플론 가열 가스나 향수 등 공기 중 유해 물질에 매우 취약하며, 씨앗 위주의 식단은 비타민 A 결핍과 간지방증을 유발합니다. 이번 가이드에서는 모란앵무의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

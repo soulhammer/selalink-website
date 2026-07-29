@@ -29,7 +29,7 @@ faqs:
     answer: "A água destrói a camada lipídica protetora da pele, causando hipotermia ou dermatite grave. O recipiente com areia especial do deserto permite remover o excesso de óleo da pelagem naturalmente."
 ---
 
-Com suas sobrancelhas brancas características e um corpo minúsculo, o hámster Roborovski é o menor dos hámsteres anões. Conhecido por sua incrível velocidade e curiosidade, seu temperamento arisco o torna mais adequado para observação do que para manuseio. Devido à oleosidade da pele, o banho de areia do deserto é indispensável. Além disso, seu tamanho exige cuidados contra quedas e fugas. O PetSelf apresenta a sua rotina de 3 passos.
+Com suas sobrancelhas brancas características e um corpo minúsculo, o hámster Roborovski é o menor dos hámsteres anões. Conhecido por sua incrível velocidade e curiosidade, seu temperamento arisco o torna mais adequado para observação do que para manuseio. Devido à oleosidade da pele, o banho de areia do deserto é indispensável. Além disso, seu tamanho exige cuidados contra quedas e fugas. O Este guia  a sua rotina de 3 passos.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

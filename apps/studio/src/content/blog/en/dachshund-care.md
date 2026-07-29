@@ -29,7 +29,7 @@ faqs:
     answer: "Always support their entire body horizontally. Place one hand under their chest between the front legs and the other hand supporting their rump and hind legs. Never lift them solely by their front legs or underarms."
 ---
 
-Dachshunds are beloved worldwide for their charming silhouette and bold, friendly personality. However, their unique anatomy—a long torso paired with short limbs—makes them highly vulnerable to Intervertebral Disc Disease (IVDD). Even standard activities like jumping off sofas or climbing stairs can put dangerous strain on their spine. Today, PetSelf decodes Dachshund body language signaling back stress and outlines a 3-step homecare routine designed to protect their back and strengthen their core muscles.
+Dachshunds are beloved worldwide for their charming silhouette and bold, friendly personality. However, their unique anatomy—a long torso paired with short limbs—makes them highly vulnerable to Intervertebral Disc Disease (IVDD). Even standard activities like jumping off sofas or climbing stairs can put dangerous strain on their spine. In this guide, decodes Dachshund body language signaling back stress and outlines a 3-step homecare routine designed to protect their back and strengthen their core muscles.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

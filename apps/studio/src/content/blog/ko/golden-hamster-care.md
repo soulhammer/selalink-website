@@ -29,7 +29,7 @@ faqs:
     answer: "골든 햄스터는 모래를 파면서 등껍질과 피지의 기름기를 청결히 씻어냅니다. 따라서 털 건강과 스트레스 해소를 위해 전용 목욕 모래가 있는 화장실 겸 목욕탕을 반드시 제공해 주는 것이 좋습니다."
 ---
 
-작고 귀여운 골든 햄스터는 보호자와 단독 공간에서 조용하게 생활할 수 있어 많은 이들의 사랑을 받는 소형 반려동물입니다. 하지만 자연 상태에서 굴을 파고 살며 매일 수 킬로미터를 달리던 습성이 그대로 남아있어, 좁은 케이지와 시끄러운 환경에서 쉽게 극도의 스트레스를 받습니다. 스트레스를 받은 햄스터는 이갈이를 하며 딱딱 소리를 내거나 케이지 철창을 갉아 이빨이 부러질 수 있습니다. 오늘 PetSelf에서는 골든 햄스터의 경계 신호를 알아보고, 스트레스 없이 아늑한 하루를 만들어주는 3단계 데일리 케어 루틴을 소개합니다.
+작고 귀여운 골든 햄스터는 보호자와 단독 공간에서 조용하게 생활할 수 있어 많은 이들의 사랑을 받는 소형 반려동물입니다. 하지만 자연 상태에서 굴을 파고 살며 매일 수 킬로미터를 달리던 습성이 그대로 남아있어, 좁은 케이지와 시끄러운 환경에서 쉽게 극도의 스트레스를 받습니다. 스트레스를 받은 햄스터는 이갈이를 하며 딱딱 소리를 내거나 케이지 철창을 갉아 이빨이 부러질 수 있습니다. 이번 가이드에서는 골든 햄스터의 경계 신호를 알아보고, 스트레스 없이 아늑한 하루를 만들어주는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

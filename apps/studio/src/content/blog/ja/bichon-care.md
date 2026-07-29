@@ -29,7 +29,7 @@ faqs:
     answer: "ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。"
 ---
 
-綿あめのように白くふわふわしたビション・フリーゼは、地道で陽気な性格と愛嬌で多くの飼い主に幸せを与える犬種です。しかし、細く密生したダブルコートの巻き毛はブラッシングを怠るとアンダーコートから固まり、耳や足の周りのもつれは接触性皮膚炎を直接引き起こします。また、室内で過剰なエネルギーが爆発する猛スピードのダッシュ行動（ビションタイム、FRAPs）は膝蓋骨や脊椎に大きな負担を与えます。本日PetSelfでは、ビションの楽しげなボディランゲージを解読し、毛玉を防ぐブラッシングとビションタイム時のケガ予防を助ける3段階ケア operational ルーティンをご紹介します。
+綿あめのように白くふわふわしたビション・フリーゼは、地道で陽気な性格と愛嬌で多くの飼い主に幸せを与える犬種です。しかし、細く密生したダブルコートの巻き毛はブラッシングを怠るとアンダーコートから固まり、耳や足の周りのもつれは接触性皮膚炎を直接引き起こします。また、室内で過剰なエネルギーが爆発する猛スピードのダッシュ行動（ビションタイム、FRAPs）は膝蓋骨や脊椎に大きな負担を与えます。本記事では、ビションの楽しげなボディランゲージを解読し、毛玉を防ぐブラッシングとビションタイム時のケガ予防を助ける3段階ケア operational ルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Pernahkah Anda menggunakan krim asam (sour cream) yang lembut untuk taco, salad,
 
 Krim asam adalah produk olahan susu fermentasi yang kaya akan protein, lemak, dan air, membuatnya sangat rentan terhadap spora jamur dari udara dan bakteri. Menggunakan sendok bekas atau membekukannya dapat merusak emulsi lembutnya dan merusak tekstur. Penanganan yang higienis sangat penting.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan krim asam 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan FDA untuk mencegah pemisahan air dadih (whey) dan menjaga kesegaran bebas jamur. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan krim asam 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan FDA untuk mencegah pemisahan air dadih (whey) dan menjaga kesegaran bebas jamur. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

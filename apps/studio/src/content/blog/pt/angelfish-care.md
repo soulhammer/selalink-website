@@ -29,7 +29,7 @@ faqs:
     answer: "Não é recomendado. Enquanto jovens vivem bem com peixes pequenos, os acarás adultos desenvolvem instinto predador. À noite, eles caçarão e comerão peixes pequenos que couberem em sua boca. Mantenha-os com peixes comunitários maiores."
 ---
 
-Famoso por suas nadadeiras altas e nado majestoso, o Acará-Bandeira (Pterophyllum scalare) é um ciclídeo médio clássico no aquarismo. Devido ao formato vertical do seu corpo, um aquário profundo (altura de água de 45 cm ou mais) é indispensável. A má qualidade da água causa a podridão das nadadeiras ou a 'Doença do buraco na cabeça' (Hexamita). Além disso, quando adultos, possuem o instinto natural de caçar peixes pequenos (como tetras neon). Hoje, o PetSelf apresenta uma rotina de 3 passos para cuidar do seu pet.
+Famoso por suas nadadeiras altas e nado majestoso, o Acará-Bandeira (Pterophyllum scalare) é um ciclídeo médio clássico no aquarismo. Devido ao formato vertical do seu corpo, um aquário profundo (altura de água de 45 cm ou mais) é indispensável. A má qualidade da água causa a podridão das nadadeiras ou a 'Doença do buraco na cabeça' (Hexamita). Além disso, quando adultos, possuem o instinto natural de caçar peixes pequenos (como tetras neon). Neste guia, apresenta uma rotina de 3 passos para cuidar do seu pet.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

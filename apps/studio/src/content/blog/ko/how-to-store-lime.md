@@ -27,7 +27,7 @@ faqs:
 
 라임은 감귤류 과일 중에서도 껍질이 얇아 상온에 두면 수분이 매우 빠르게 증발하여 과즙이 마르고 풍미를 잃기 쉽습니다. 올바르지 않은 보관법은 껍질 변색, 수분 손실, 곰팡이 발생의 원인이 됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 라임의 촉촉함과 톡 쏘는 과즙을 30일 이상 싱싱하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 라임의 촉촉함과 톡 쏘는 과즙을 30일 이상 싱싱하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

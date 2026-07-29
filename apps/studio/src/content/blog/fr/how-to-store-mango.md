@@ -27,7 +27,7 @@ Avez-vous déjà acheté une mangue douce et onctueuse, pour la mettre au réfri
 
 Les mangues sont des fruits climactériques, ce qui signifie qu'elles continuent à mûrir et à émettre du gaz éthylène après la récolte. En tant que fruits tropicaux, les exposer au froid avant qu'elles ne soient parfaitement mûres stoppe définitivement le processus de maturation, causant des lésions dues au froid (chilling injury) qui brunissent la peau et détruisent la saveur à jamais.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et en sécurité alimentaire pour maximiser la douceur de votre mangue et maintenir sa fraîcheur. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et en sécurité alimentaire pour maximiser la douceur de votre mangue et maintenir sa fraîcheur. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

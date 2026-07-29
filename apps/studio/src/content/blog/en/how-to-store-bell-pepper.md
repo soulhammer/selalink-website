@@ -27,7 +27,7 @@ Have you ever placed bell peppers in the refrigerator only to find them watery, 
 
 Bell peppers consist of over 90% water, making them highly sensitive to moisture and cold temperatures. Storing them below 7°C triggers 'chilling injury,' causing cell walls to break down, resulting in surface pitting and soft rot. Excess surface moisture also breeds mold around the stem.
 
-Today, FreshSnap introduces a scientifically proven 3-step bell pepper storage guide recommended by agriculture and food safety experts to maximize crispness and sweetness. 🛡️
+In this guide, introduces a scientifically proven 3-step bell pepper storage guide recommended by agriculture and food safety experts to maximize crispness and sweetness. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

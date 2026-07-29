@@ -27,7 +27,7 @@ When storing leftover tofu, did you pour the original liquid from the plastic pa
 
 The water inside packaged tofu contains dissolved soy proteins and organic compounds, making it an ideal culture medium for bacteria once opened. Leaving tofu in this stagnant liquid or exposing it to open air accelerates protein degradation, resulting in a sour odor and slimy surface texture.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on hygiene standards from the Mayo Clinic and MFDS to keep your leftover tofu firm, moist, and safe for over a week. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on hygiene standards from the Mayo Clinic and MFDS to keep your leftover tofu firm, moist, and safe for over a week. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

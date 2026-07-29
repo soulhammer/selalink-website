@@ -29,7 +29,7 @@ faqs:
     answer: "陆寄居蟹需要通过海水来调节体内渗透压和维持螺壳内的水份平衡。必须使用水族专用的海水素（如 Instant Ocean）配制海水，绝不能使用食用盐，且须同时提供淡水和海水两个水盆。"
 ---
 
-紫陆潮蟹 (*Coenobita clypeatus*) 因其醒目的紫色大螯和可爱的眼睛而成为全球最受欢迎的宠物寄居蟹。它们拥有终身随生长更换合适螺壳的独特生理习性。虽然是陆生甲壳动物，但它们依靠蜕化的腮部呼吸，因此饲养箱内75-85%的相对湿度是维持生命的关键。此外，寄居蟹在蜕皮时需要深入沙下打洞 (Burrowing)，必须配置至少为蟹体高度3倍深度的椰土与海沙混合垫料。寄居蟹是群居动物，多只一起饲养能显著降低应激。今天 PetSelf 将解析其行为信号并分享3阶段日常护理流程。
+紫陆潮蟹 (*Coenobita clypeatus*) 因其醒目的紫色大螯和可爱的眼睛而成为全球最受欢迎的宠物寄居蟹。它们拥有终身随生长更换合适螺壳的独特生理习性。虽然是陆生甲壳动物，但它们依靠蜕化的腮部呼吸，因此饲养箱内75-85%的相对湿度是维持生命的关键。此外，寄居蟹在蜕皮时需要深入沙下打洞 (Burrowing)，必须配置至少为蟹体高度3倍深度的椰土与海沙混合垫料。寄居蟹是群居动物，多只一起饲养能显著降低应激。本指南将解析其行为信号并分享3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "알곡 위주의 식단은 지방 함량이 높고 비타민 A와 칼슘이 심각하게 부족하여 지방간, 비만, 깃털 손상 및 자해벽을 유발합니다. 영양적으로 완벽한 펠렛을 60 ~ 70% 이상 주식으로 하고 신선한 채소를 곁들여야 합니다."
 ---
 
-인디언 링넥 앵무(목도리앵무)는 성조 수컷 특유의 세련된 목둘레 띠(Ring)와 사람 말을 명확히 따라 하는 탁월한 언어 능력으로 글로벌 SNS와 유튜브에서 큰 사랑을 받는 중형 앵무새입니다. 지능이 매우 높고 독립적인 성향을 지녔지만, 1세 전후로 입질과 공격성이 폭발하는 '블러핑(Bluffing, 깃털 사춘기)' 시기를 겪게 됩니다. 이 시기의 올바른 행동 교정과 더불어 언어 교감 훈련, 영양 불균형을 막는 펠렛 중심의 식이 밸런스가 필수적입니다. 오늘 PetSelf에서는 인디언 링넥 앵무의 본능 시그널을 해석하고, 언어 교감, 블러핑 극복, 영양 관리를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+인디언 링넥 앵무(목도리앵무)는 성조 수컷 특유의 세련된 목둘레 띠(Ring)와 사람 말을 명확히 따라 하는 탁월한 언어 능력으로 글로벌 SNS와 유튜브에서 큰 사랑을 받는 중형 앵무새입니다. 지능이 매우 높고 독립적인 성향을 지녔지만, 1세 전후로 입질과 공격성이 폭발하는 '블러핑(Bluffing, 깃털 사춘기)' 시기를 겪게 됩니다. 이 시기의 올바른 행동 교정과 더불어 언어 교감 훈련, 영양 불균형을 막는 펠렛 중심의 식이 밸런스가 필수적입니다. 이번 가이드에서는 인디언 링넥 앵무의 본능 시그널을 해석하고, 언어 교감, 블러핑 극복, 영양 관리를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

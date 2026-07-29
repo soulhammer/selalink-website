@@ -29,7 +29,7 @@ faqs:
     answer: "缅甸猫属于底毛较少单层短毛猫，掉毛量相对较少。每周只需使用橡胶梳或硅胶手套轻轻梳理1-2次，即可完美保持其丝绸般的光泽与紧致触感。"
 ---
 
-缅甸猫凭借缎子般光滑紧致的短毛、深邃的黄金眼眸以及如狗狗般黏人的性格，在欧美风靡一时。它们智商极高且非常社交化，但对主人的依赖度极高，若长时间独自在家，极易患上严重的分离焦虑和抑郁。今天 PetSelf 将分析缅甸猫独特的表达与焦虑信号，并分享预防分离焦虑、满足室内运动量以及维持健康体重的3阶段每日居家护理流程。
+缅甸猫凭借缎子般光滑紧致的短毛、深邃的黄金眼眸以及如狗狗般黏人的性格，在欧美风靡一时。它们智商极高且非常社交化，但对主人的依赖度极高，若长时间独自在家，极易患上严重的分离焦虑和抑郁。本指南将分析缅甸猫独特的表达与焦虑信号，并分享预防分离焦虑、满足室内运动量以及维持健康体重的3阶段每日居家护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

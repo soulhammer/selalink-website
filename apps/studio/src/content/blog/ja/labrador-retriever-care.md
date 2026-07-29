@@ -29,7 +29,7 @@ faqs:
     answer: "垂れ耳の構造上、水泳後に耳の中に湿気が残ると細菌が繁殖し、外耳炎を起こしやすくなります。水遊び直後は犬用イヤークリーナーで水分を拭き取り、耳を裏返して風通しを良くし、完全に乾かしてください。"
 ---
 
-ラブラドール・レトリバーは温厚で賢く、親しみやすい性格から、世界中で最も愛されている盲導犬・家庭犬です。しかし、遺伝的にPOMC遺伝子変異の割合が高く、満腹感を感じにくいため肥満になりやすく、股関節形成不全などの関節疾患を引き起こしやすい傾向があります。また、大の水好きですが、垂れ耳の構造上、水遊び後の耳のケアを怠ると外耳炎にかかりやすくなります。本日PetSelfでは、ラブラドールのエネルギーを発散させ、健康を守る3ステップルーティンをお届けします。
+ラブラドール・レトリバーは温厚で賢く、親しみやすい性格から、世界中で最も愛されている盲導犬・家庭犬です。しかし、遺伝的にPOMC遺伝子変異の割合が高く、満腹感を感じにくいため肥満になりやすく、股関節形成不全などの関節疾患を引き起こしやすい傾向があります。また、大の水好きですが、垂れ耳の構造上、水遊び後の耳のケアを怠ると外耳炎にかかりやすくなります。本記事では、ラブラドールのエネルギーを発散させ、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

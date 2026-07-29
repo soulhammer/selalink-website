@@ -27,7 +27,7 @@ faqs:
 
 코코넛 밀크는 식물성 지방 함량이 높아 상온 개봉 시 지방 산패와 세균 증식이 매우 빠르게 일어납니다. 특히 캔 용기를 개봉한 채 그대로 냉장 보관하면 캔 내부의 주석(Tin) 성분이 산소와 반응하여 음료로 용출되거나 금속 맛이 날 수 있으므로 올바른 용기 이동과 온도 관리가 필수적입니다.
 
-오늘 FreshSnap에서는 FDA와 USDA의 과학적 가이드라인에 기반하여, 코코넛 밀크의 층분리를 최소화하고 신선도를 안전하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 FDA와 USDA의 과학적 가이드라인에 기반하여, 코코넛 밀크의 층분리를 최소화하고 신선도를 안전하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

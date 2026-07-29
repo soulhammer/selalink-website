@@ -29,7 +29,7 @@ faqs:
     answer: "一手托住胸口和前肢之间，另一手托住臀部和后肢，抬起时确保脊椎始终保持水平状态。千万不要只拉扯前腿或抓着腋下抱起。"
 ---
 
-腊肠犬因其独特的长身短腿体型而在全球备受欢迎。然而，这种特殊的身体结构使它们极易患上椎间盘突出症（IVDD）。对于腊肠犬来说，即使是从沙发上跳下或爬楼梯这种日常行为，也会给脊椎带来致命的负担。今天 PetSelf 将为您分析腊肠犬表现出的脊椎受损警告信号，并分享保护腰部健康并强化核心肌肉的3阶段每日护理流程。
+腊肠犬因其独特的长身短腿体型而在全球备受欢迎。然而，这种特殊的身体结构使它们极易患上椎间盘突出症（IVDD）。对于腊肠犬来说，即使是从沙发上跳下或爬楼梯这种日常行为，也会给脊椎带来致命的负担。本指南将为您分析腊肠犬表现出的脊椎受损警告信号，并分享保护腰部健康并强化核心肌肉的3阶段每日护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

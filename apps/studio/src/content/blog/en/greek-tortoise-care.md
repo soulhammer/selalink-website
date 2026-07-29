@@ -29,7 +29,7 @@ faqs:
     answer: "Pyramiding is a shell deformity where scutes grow into unnatural conical pyramids. Caused by low humidity, excess protein, or insufficient calcium/UVB. Prevent it by maintaining 40–60% humidity, regular warm soaks, calcium supplementation, and strong UVB."
 ---
 
-Characterized by its mosaic-patterned carapace and gentle temperament, the Greek Tortoise (Testudo graeca) is a classic Mediterranean species. As diurnal reptiles, they require strong UVB lighting for calcium absorption and proper thermal gradients. Without adequate hydration, calcium, and UVB, they risk pyramiding, Metabolic Bone Disease (MBD), and painful bladder stones from accumulated urates. Today, PetSelf details a 3-step daily care routine for shell and renal health.
+Characterized by its mosaic-patterned carapace and gentle temperament, the Greek Tortoise (Testudo graeca) is a classic Mediterranean species. As diurnal reptiles, they require strong UVB lighting for calcium absorption and proper thermal gradients. Without adequate hydration, calcium, and UVB, they risk pyramiding, Metabolic Bone Disease (MBD), and painful bladder stones from accumulated urates. In this guide, details a 3-step daily care routine for shell and renal health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

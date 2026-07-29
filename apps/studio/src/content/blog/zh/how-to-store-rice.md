@@ -27,7 +27,7 @@ faqs:
 
 大米在收获后依然是会“呼吸”的活体颗粒。暴露于空气中的氧气、水分和高温下，其中的油脂会氧化产生陈米异味，并丧失软糯口感。特别是在15℃以上的环境中，米虫极易孵化繁殖，而在潮湿环境中更可能产生霉菌毒素。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的科学3步大米保鲜秘诀，帮您最大程度延长新鲜度。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的科学3步大米保鲜秘诀，帮您最大程度延长新鲜度。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

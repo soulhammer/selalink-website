@@ -29,7 +29,7 @@ faqs:
     answer: "섬유질 부족, 스트레스, 영양 불균형 등으로 소화관 운동이 멈추는 치명적인 질환입니다. 토끼의 위장은 쉬지 않고 움직여야 하므로 고섬유질 티모시 건초를 무제한으로 급여해 장 운동을 유지시켜야 합니다."
 ---
 
-비단처럼 부드러운 벨벳 털과 동그란 몸집을 가진 미니 렉스는 개량형 렉스 품종 중 대표적인 인기 토끼입니다. 특유의 짧고 밀집된 털 구조는 피부를 보호하는 가드 헤어(겉털)가 적어 발바닥 털이 얇기 때문에 딱딱한 바닥에서 발바닥 궤양(족염/Sore Hocks)에 매우 취약합니다. 또한 초식동물 특성상 위장 정체(GI Stasis)를 막기 위한 무제한 티모시 건초 급여가 필수적입니다. 오늘 PetSelf에서는 미니 렉스 토끼의 건강 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.
+비단처럼 부드러운 벨벳 털과 동그란 몸집을 가진 미니 렉스는 개량형 렉스 품종 중 대표적인 인기 토끼입니다. 특유의 짧고 밀집된 털 구조는 피부를 보호하는 가드 헤어(겉털)가 적어 발바닥 털이 얇기 때문에 딱딱한 바닥에서 발바닥 궤양(족염/Sore Hocks)에 매우 취약합니다. 또한 초식동물 특성상 위장 정체(GI Stasis)를 막기 위한 무제한 티모시 건초 급여가 필수적입니다. 이번 가이드에서는 미니 렉스 토끼의 건강 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

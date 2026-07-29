@@ -27,7 +27,7 @@ faqs:
 
 純バニラエキストラクトは、バニラビーンズをアルコール度数35%以上の液体で抽出した天然エッセンスで、高いアルコール分自体が強力な天然保存料として働きます。しかし冷蔵保存すると低温により瓶内に結露が発生し、主成分であるバニリン（Vanillin）が結晶化して繊細な香りが損なわれてしまいます。
 
-本日FreshSnapでは、FDAや食薬処の科学的ガイドラインに基づき、バニラエキストラクトの風味を損なわずに半永久的に保つ3段階の保存法をご紹介します。🛡️
+本記事では、FDAや食薬処の科学的ガイドラインに基づき、バニラエキストラクトの風味を損なわずに半永久的に保つ3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

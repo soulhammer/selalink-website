@@ -29,7 +29,7 @@ faqs:
     answer: "デグーには捕食者に捕まった際、尾の皮膚が脱げ落ちて逃げる「ディグロービング（Degloving）」という防衛本能があります。剥がれた皮は再生せず壊死するため、エキゾチックアニマル専門医による切断手術が必要です。絶対に尾を掴まず、至急病院で適切な治療を受けてください。"
 ---
 
-チリのアンデス山脈原産のデグー（Degu）は、チンチラやギニアピッグ（モルモット）の近縁種で、高い知能と豊かな鳴き声から「歌う小動物」として世界中で愛されています。デグーは糖分を代謝する能力が遺伝的に低く、果物や甘いおやつを摂取すると短期間で「糖尿病（Diabetes）」や糖尿病性白内障を発症します。また、生涯伸び続ける歯のケア不足は「不正咬合」を引き起こし、天敵に捕まった際に尾の皮膚が剥がれ落ちる「ディグロービング（Degloving）」という防衛本能を持つため、絶対に尾を掴んではいけません。本日PetSelfでは、デグーのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
+チリのアンデス山脈原産のデグー（Degu）は、チンチラやギニアピッグ（モルモット）の近縁種で、高い知能と豊かな鳴き声から「歌う小動物」として世界中で愛されています。デグーは糖分を代謝する能力が遺伝的に低く、果物や甘いおやつを摂取すると短期間で「糖尿病（Diabetes）」や糖尿病性白内障を発症します。また、生涯伸び続ける歯のケア不足は「不正咬合」を引き起こし、天敵に捕まった際に尾の皮膚が剥がれ落ちる「ディグロービング（Degloving）」という防衛本能を持つため、絶対に尾を掴んではいけません。本記事では、デグーのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

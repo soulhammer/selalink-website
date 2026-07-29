@@ -27,7 +27,7 @@ faqs:
 
 麦片是经过加工将水分含量降至3 ~ 5%以下的干货食品。由于其吸湿性极强，暴露在空气中会吸收水分导致淀粉结构软化失去香脆感，且谷物中的脂肪成分易与氧气反应发生氧化酸败。此外，它也是印度谷螟等粮食害虫非常喜欢的食物。
 
-今天FreshSnap基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持麦片的香脆口感与浓郁谷香。🛡️
+本指南基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持麦片的香脆口感与浓郁谷香。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

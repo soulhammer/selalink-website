@@ -29,7 +29,7 @@ faqs:
     answer: "预防胃扭转（GDV）需分餐饲喂（每日 2 ~ 3 餐），并在饭后保持至少 1 小时完全休息。预防髋/肘关节发育不良（HD/ED）需控制生长期体重过快增长，避免在滑溜地面运动及高强度跳跃。"
 ---
 
-原产于瑞士阿尔卑斯山地区的伯恩山犬（Bernese Mountain Dog），凭其绚丽的三色被毛、强健的体魄以及如丝般温顺性格而备受全球喜爱。伯恩山犬对家庭成员充满忠诚与爱意，但由于其胸腔深广的体型结构，在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，该犬种基因上患恶性肿瘤（特别是组织球肉瘤 Histiocytic Sarcoma）的概率极高，且易患髋关节与肘关节发育不良（HD/ED），对高温极其敏感。今天 PetSelf 将带您准确解读伯恩山犬肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于瑞士阿尔卑斯山地区的伯恩山犬（Bernese Mountain Dog），凭其绚丽的三色被毛、强健的体魄以及如丝般温顺性格而备受全球喜爱。伯恩山犬对家庭成员充满忠诚与爱意，但由于其胸腔深广的体型结构，在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，该犬种基因上患恶性肿瘤（特别是组织球肉瘤 Histiocytic Sarcoma）的概率极高，且易患髋关节与肘关节发育不良（HD/ED），对高温极其敏感。本指南将带您准确解读伯恩山犬肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "俄罗斯陆龟是 100% 严格纯草食性（Strict Herbivore）沙漠陆龟。高糖分的水果会破坏其肠道益生菌平衡，引发原虫爆发与致死性腹泻；而昆虫或动物蛋白会导致血液尿酸急剧升高，诱发内脏痛风、肾衰竭以及龟壳畸形隆背（Pyramiding）。必须严格喂食高纤维野生杂草与深色绿叶菜。"
 ---
 
-原产于中亚干燥草原与沙漠地带的俄罗斯陆龟（Russian Tortoise，又称霍斯菲尔德陆龟、四爪陆龟），成体体长仅 15 ~ 25 厘米，凭其小巧的体型与强健的体质成为全球最受欢迎的昼行性小型陆龟之一。因前肢各有 4 根强壮的爪子，它们拥有极其旺盛的打洞（Burrowing）天性。然而在人工饲养环境下，若缺乏 UVB 紫外线照射与钙质，极易患上致命的代谢性骨病（MBD）；体内缺水则会导致白色尿酸在膀胱结晶形成“尿酸结石（Bladder Stones）”阻碍排泄。此外，它们是严格的纯草食性（Strict Herbivore）动物，投喂水果或动物蛋白会导致致命的肠道菌群崩溃与痛风。今天 PetSelf 将带您准确解读俄罗斯陆龟肢体语言，并通过 3 步骤日常护理维护其健康。
+原产于中亚干燥草原与沙漠地带的俄罗斯陆龟（Russian Tortoise，又称霍斯菲尔德陆龟、四爪陆龟），成体体长仅 15 ~ 25 厘米，凭其小巧的体型与强健的体质成为全球最受欢迎的昼行性小型陆龟之一。因前肢各有 4 根强壮的爪子，它们拥有极其旺盛的打洞（Burrowing）天性。然而在人工饲养环境下，若缺乏 UVB 紫外线照射与钙质，极易患上致命的代谢性骨病（MBD）；体内缺水则会导致白色尿酸在膀胱结晶形成“尿酸结石（Bladder Stones）”阻碍排泄。此外，它们是严格的纯草食性（Strict Herbivore）动物，投喂水果或动物蛋白会导致致命的肠道菌群崩溃与痛风。本指南将带您准确解读俄罗斯陆龟肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

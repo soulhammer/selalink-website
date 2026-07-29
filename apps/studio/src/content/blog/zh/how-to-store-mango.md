@@ -27,7 +27,7 @@ faqs:
 
 芒果是典型的呼吸跃变型（Climacteric）水果，采摘后仍会自身释放乙烯气体并持续成熟。同时，作为热带水果，如果在未熟透的状态下受到冷气侵袭，成熟过程会永久停止，并引发冷害（Chilling injury），导致果皮变成灰褐色，彻底丧失原有风味。
 
-今天FreshSnap将为您介绍由农业及食品安全专家推荐的3步科学芒果保鲜与催熟秘诀，帮您最大化激发芒果的香甜并持久保鲜。🛡️
+本指南将为您介绍由农业及食品安全专家推荐的3步科学芒果保鲜与催熟秘诀，帮您最大化激发芒果的香甜并持久保鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

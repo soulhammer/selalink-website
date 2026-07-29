@@ -27,7 +27,7 @@ faqs:
 
 상추는 수분 함량이 95% 이상으로 매우 높고 조직이 약해 온도 변화와 습도, 그리고 에틸렌 가스에 매우 민감한 대표적인 채소입니다. 보관을 잘못하면 수분이 빠져 시들거나, 반대로 밀폐 용기 내 수분이 고여 무름병이 발생하기 쉽습니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 상추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 상추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

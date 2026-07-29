@@ -27,7 +27,7 @@ faqs:
 
 蛋壳（蛋壳）是由数千个肉眼不可见的气孔构成的呼吸体。用水冲洗会洗掉蛋壳表面的天然蛋白质保护膜——角质层（Cuticle），使沙门氏菌（Salmonella）等外部致病菌极易穿透气孔侵入内部。此外，存放在冰箱门侧架上会因频繁开关导致的温度波动和震动，使蛋清弹力迅速下降。
 
-今天FreshSnap基于美国食品药品监督管理局(FDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您将鸡蛋的新鲜度与食用安全完美锁住长达45天以上。🛡️
+本指南基于美国食品药品监督管理局(FDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您将鸡蛋的新鲜度与食用安全完美锁住长达45天以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

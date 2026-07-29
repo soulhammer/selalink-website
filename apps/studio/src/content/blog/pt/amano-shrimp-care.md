@@ -29,7 +29,7 @@ faqs:
     answer: "Não. Embora as fêmeas fiquem ovadas, as larvas (zoé) necessitam obrigatoriamente de água salobra para sobreviver e desenvolver-se. Em água doce, as larvas morrem em poucos dias."
 ---
 
-Famoso como o melhor limpador de algas em aquários plantados, o camarão Amano (Caridina multidentata) é um crustáceo transparente com pequenos pontos escuros. Embora consuma algas filamentosas incansavelmente, é extremamente sensível a metais pesados (especialmente cobre), nitratos elevados e variações bruscas de temperatura ou pH. Água de má qualidade provoca fugas desesperadas fora do aquário ou ecdises fatais. O PetSelf apresenta uma rotina de 3 passos para proteger os camarões.
+Famoso como o melhor limpador de algas em aquários plantados, o camarão Amano (Caridina multidentata) é um crustáceo transparente com pequenos pontos escuros. Embora consuma algas filamentosas incansavelmente, é extremamente sensível a metais pesados (especialmente cobre), nitratos elevados e variações bruscas de temperatura ou pH. Água de má qualidade provoca fugas desesperadas fora do aquário ou ecdises fatais. O Este guia  uma rotina de 3 passos para proteger os camarões.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

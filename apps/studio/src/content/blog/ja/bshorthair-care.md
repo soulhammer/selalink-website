@@ -29,7 +29,7 @@ faqs:
     answer: "彼らは独立性が高く、自分の足が地盤から離れる空中状態に強い不安を感じます。そのため、望まない無理な抱擁は保護者との信頼関係を損ねる恐れがあります。"
 ---
 
-丸い顔とがっしりした筋肉質の体を持つブリティッシュ・ショートヘアは、温和で我慢強く初心者に好まれる猫種です。しかし、この骨太な体型は体重管理を怠ると関節に深刻な負担がかかります。また、遺伝的に心臓の壁が厚くなる肥大性心筋症（HCM）のリスク種であるため、過体重による心臓への負担増は絶対に防がなければなりません。本日PetSelfでは、彼らのサインを理解し、心臓と体重を安全に維持する3段階ホームケアルーティンをご紹介します。
+丸い顔とがっしりした筋肉質の体を持つブリティッシュ・ショートヘアは、温和で我慢強く初心者に好まれる猫種です。しかし、この骨太な体型は体重管理を怠ると関節に深刻な負担がかかります。また、遺伝的に心臓の壁が厚くなる肥大性心筋症（HCM）のリスク種であるため、過体重による心臓への負担増は絶対に防がなければなりません。本記事では、彼らのサインを理解し、心臓と体重を安全に維持する3段階ホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

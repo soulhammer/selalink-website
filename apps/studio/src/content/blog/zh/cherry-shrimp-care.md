@@ -29,7 +29,7 @@ faqs:
     answer: "母虾腹足抱有黄/绿色虾卵并不断踢动以增加溶氧时，约 3 ~ 4 周后会孵化出幼虾。由于幼虾极易被孔雀鱼、灯鱼等成鱼吞食，应提供密集的莫丝水草作为隐蔽场所，或在观赏虾单养缸中进行繁殖。"
 ---
 
-在翠绿水草间散发着鲜艳红光的樱花虾（Cherry Shrimp / Neocaridina davidi）是水族箱中最受欢迎的除藻工具虾与观赏小型淡水虾。虽然其适应力较强，但作为通过脱壳（Molting）生长的甲壳类动物，若水体矿物质（GH/KH/TDS）失衡或遭受急剧换水冲击，极易出现旧壳无法顺利脱落而导致死亡的“断头/断背（White Ring of Death）”现象。此外，樱花虾对铜（Copper）及重金属成分极度敏感，使用含铜鱼药可导致全缸瞬间灭顶。今天 PetSelf 将带您准确解读樱花虾的身体与行为信号，并通过 3 步骤日常护理维护其健康。
+在翠绿水草间散发着鲜艳红光的樱花虾（Cherry Shrimp / Neocaridina davidi）是水族箱中最受欢迎的除藻工具虾与观赏小型淡水虾。虽然其适应力较强，但作为通过脱壳（Molting）生长的甲壳类动物，若水体矿物质（GH/KH/TDS）失衡或遭受急剧换水冲击，极易出现旧壳无法顺利脱落而导致死亡的“断头/断背（White Ring of Death）”现象。此外，樱花虾对铜（Copper）及重金属成分极度敏感，使用含铜鱼药可导致全缸瞬间灭顶。本指南将带您准确解读樱花虾的身体与行为信号，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

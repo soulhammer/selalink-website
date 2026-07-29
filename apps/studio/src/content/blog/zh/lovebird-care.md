@@ -29,7 +29,7 @@ faqs:
     answer: "必须干预！连续产卵会剧烈消耗其体内的钙质导致骨质疏松，并极易引发蛋体卡在输卵管内无法排出的致命性“卡蛋/难产（Egg Binding）”。应通过每日 10 ~ 12 小时以上 完全遮光睡眠缩短光照，并撤走巢箱、镜子等发情诱因。"
 ---
 
-因与伴侣建立深厚羁绊而得名“情侣鹦鹉（Lovebird/牡丹鹦鹉）”，凭其鲜艳羽色与极强亲和力深受全球喜爱。然而，强烈羁绊 同时伴随着强烈的领地意识与高敏感 激素系统。若白天光照时间过长或过度抚摸其背部，极易诱发习惯性过量产卵与致命 咬蛋/卡蛋（Egg Binding/难产）。此外，其特有 气囊（Air Sacs）呼吸系统对特氟龙加热毒气及喷雾极度敏感，纯种子食物会导致维生素 A 缺乏与脂肪肝。今天 PetSelf 将带您准确解读情侣鹦鹉 肢体语言，并通过3步骤日常护理维护其健康。
+因与伴侣建立深厚羁绊而得名“情侣鹦鹉（Lovebird/牡丹鹦鹉）”，凭其鲜艳羽色与极强亲和力深受全球喜爱。然而，强烈羁绊 同时伴随着强烈的领地意识与高敏感 激素系统。若白天光照时间过长或过度抚摸其背部，极易诱发习惯性过量产卵与致命 咬蛋/卡蛋（Egg Binding/难产）。此外，其特有 气囊（Air Sacs）呼吸系统对特氟龙加热毒气及喷雾极度敏感，纯种子食物会导致维生素 A 缺乏与脂肪肝。本指南将带您准确解读情侣鹦鹉 肢体语言，并通过3步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

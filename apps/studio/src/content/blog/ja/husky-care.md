@@ -33,7 +33,7 @@ faqs:
 
 しかし、極地出身であるため高温多湿な夏に非常に弱く、熱を放出しにくいため熱中症にかかりやすいです。また、元々は1日に何十キロも走るそり犬だったため、室内飼育で運動量が満たされないと、激しい退屈と欲求不満を遠吠え（ハウリング）や家具の破壊行動で発散してしまいます。
 
-本日PetSelfでは、ハスキーが不満を伝える独特の会話言語を解読し、二重毛の管理とエネルギー発散のための3段階ケアを紹介します。
+本記事では、ハスキーが不満を伝える独特の会話言語を解読し、二重毛の管理とエネルギー発散のための3段階ケアを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

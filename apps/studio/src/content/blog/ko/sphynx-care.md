@@ -29,7 +29,7 @@ faqs:
     answer: "개체별 피지 분비량에 따라 보통 1 ~ 2주에 1회 정도 따뜻한 물과 저자극 pH 중성 전용 샴푸로 목욕시키는 것이 좋습니다. 너무 자주 목욕시키면 오히려 피부가 건조해져 피지가 과다 분비될 수 있으므로 평소에는 데일리 타월 케어로 관리합니다."
 ---
 
-스핑크스(Sphynx Cat)는 자연발생적 유전자 돌연변이에 의해 털이 거의 없이 피부만 드러난 아주 특별하고 신비로운 고양이입니다. 털이 없기 때문에 피지선에서 분비되는 유분이 털로 흡수되지 못하고 피부 표면에 쌓여, 제때 닦아주지 않으면 갈색 피지 착색이나 피지낭종, 피부염이 생기기 쉽습니다. 🐈 또한 외부 환경으로부터 체온을 보호해 줄 피모가 없어 추위에 매우 취약하며 손쉽게 체온을 잃습니다. 오늘 PetSelf에서는 스핑크스의 민감한 피부를 위생적으로 관리하고 체온을 따뜻하게 유지하는 3단계 맞춤형 홈케어 루틴을 소개합니다.
+스핑크스(Sphynx Cat)는 자연발생적 유전자 돌연변이에 의해 털이 거의 없이 피부만 드러난 아주 특별하고 신비로운 고양이입니다. 털이 없기 때문에 피지선에서 분비되는 유분이 털로 흡수되지 못하고 피부 표면에 쌓여, 제때 닦아주지 않으면 갈색 피지 착색이나 피지낭종, 피부염이 생기기 쉽습니다. 🐈 또한 외부 환경으로부터 체온을 보호해 줄 피모가 없어 추위에 매우 취약하며 손쉽게 체온을 잃습니다. 이번 가이드에서는 스핑크스의 민감한 피부를 위생적으로 관리하고 체온을 따뜻하게 유지하는 3단계 맞춤형 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

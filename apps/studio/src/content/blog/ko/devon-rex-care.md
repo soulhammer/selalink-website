@@ -29,7 +29,7 @@ faqs:
     answer: "데본 렉스 근병증(Devon Rex Myopathy)은 머리를 떨어뜨리거나 걸음걸이가 어색해지는 유전성 근육 질환으로, 입양 시 부모묘의 유전자 검사 여부를 확인해야 합니다. 또한 피지가 모공을 막아 발생하는 말라세지아(Malassezia) 곰팡이 감염을 예방하기 위해 주기적으로 따뜻한 습식 타월로 피부와 귓속을 청결하게 닦아주어야 합니다."
 ---
 
-'고양이 탈을 쓴 요정(Pixie in a cat suit)'으로 불리는 데본 렉스(Devon Rex)는 큰 귀와 커다란 눈, 부드러운 파도 모양의 곱슬털로 전 세계 사육자들에게 사랑받는 중소형 고양이입니다. 강아지처럼 보호자의 어깨 위에 올라타는 것을 좋아하는 친근한 성격이지만, 털이 매우 얇은 단일모 구조라 체온 손실이 크고 추위에 매우 약합니다. 또한 유전성 피부 질환인 말라세지아(Malassezia) 효모균 감염과 피지 분비로 인한 피부염이 발생하기 쉬우며, 품종 특유의 유전성 근병증(Devon Rex Myopathy)과 비대성 심근증(HCM)에 취약합니다. 오늘 PetSelf에서는 데본 렉스의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+'고양이 탈을 쓴 요정(Pixie in a cat suit)'으로 불리는 데본 렉스(Devon Rex)는 큰 귀와 커다란 눈, 부드러운 파도 모양의 곱슬털로 전 세계 사육자들에게 사랑받는 중소형 고양이입니다. 강아지처럼 보호자의 어깨 위에 올라타는 것을 좋아하는 친근한 성격이지만, 털이 매우 얇은 단일모 구조라 체온 손실이 크고 추위에 매우 약합니다. 또한 유전성 피부 질환인 말라세지아(Malassezia) 효모균 감염과 피지 분비로 인한 피부염이 발생하기 쉬우며, 품종 특유의 유전성 근병증(Devon Rex Myopathy)과 비대성 심근증(HCM)에 취약합니다. 이번 가이드에서는 데본 렉스의 표현 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

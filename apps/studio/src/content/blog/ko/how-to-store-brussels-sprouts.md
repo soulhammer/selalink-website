@@ -27,7 +27,7 @@ faqs:
 
 방울양배추는 비타민 C와 K, 섬유질이 풍부한 대표적인 십자화과 채소지만, 수분 손실과 에틸렌 가스에 매우 민감합니다. 특히 습도가 맞지 않으면 잎이 무르고 곰팡이가 피기 쉽고, 에틸렌을 방출하는 과일과 함께 두면 황화(노랗게 변하는 현상)가 빠르게 일어납니다.
 
-오늘 FreshSnap에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 방울양배추의 아삭함과 영양을 최대 3주간 신선하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 방울양배추의 아삭함과 영양을 최대 3주간 신선하게 유지하는 3단계 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

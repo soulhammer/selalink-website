@@ -29,7 +29,7 @@ faqs:
     answer: "本物のミステリースネイル（Pomacea bridgesii）は歯が柔らかいため、健康で硬い生きている水草は食べられず、枯れ葉やコケだけを食べます。ただし、類似種のスクミリンゴガイ（Pomacea canaliculata）は水草を食い荒らすため、購入時に種を確認し、ナナやミクロソリウムなどの硬い水草と混泳させるのが安全です。"
 ---
 
-ゴールデン、パープル、ブルー、ピンクなどカラフルな貝殻と、残餌やコケの掃除能力で世界中のアクアリストに愛される水生無脊椎動物のアップルスネイル（ミステリースネイル）。長触手やサイフォン（呼吸管）を使って環境を探る姿が愛くるしいですが、酸性水質では貝殻が溶けて穴が空いてしまいます。また、産卵期や呼吸時に水面から這い上がり、水槽外へ脱走する習性があるためフタの密閉が必須です。今回はPetSelfが、本能サインの解読と、カルシウム殻管理・脱走防止・水草混泳を叶える3ステップ日常ケアをご紹介します。
+ゴールデン、パープル、ブルー、ピンクなどカラフルな貝殻と、残餌やコケの掃除能力で世界中のアクアリストに愛される水生無脊椎動物のアップルスネイル（ミステリースネイル）。長触手やサイフォン（呼吸管）を使って環境を探る姿が愛くるしいですが、酸性水質では貝殻が溶けて穴が空いてしまいます。また、産卵期や呼吸時に水面から這い上がり、水槽外へ脱走する習性があるためフタの密閉が必須です。本記事では、本能サインの解読と、カルシウム殻管理・脱走防止・水草混泳を叶える3ステップ日常ケアをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

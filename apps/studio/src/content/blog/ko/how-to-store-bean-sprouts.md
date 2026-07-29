@@ -27,7 +27,7 @@ faqs:
 
 콩나물과 숙주는 수분 함량이 90% 이상으로 매우 높고 수확 후에도 호흡 작용을 활발히 하는 나물류입니다. 특히 봉지 안에 수분이 고이고 공기가 차단되면 고온 다습한 유기물이 되어 박테리아 증식과 부패가 비약적으로 빨라집니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 콩나물과 숙주를 무르지 않고 아삭하게 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 콩나물과 숙주를 무르지 않고 아삭하게 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

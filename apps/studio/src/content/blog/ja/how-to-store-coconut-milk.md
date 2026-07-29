@@ -27,7 +27,7 @@ faqs:
 
 ココナッツミルクは植物性脂質が豊富に含まれているため、常温で開封・放置すると脂質の酸化や雑菌の繁殖が非常に早く進みます。特に開封した缶のまま冷蔵保存すると、缶の金属成分（スズ）が酸素と反応して汁に溶け出し、鉄くさくなったり品質が劣化する原因となります。
 
-本日FreshSnapでは、FDAやUSDAの科学的ガイドラインに基づき、ココナッツミルクの油水分離を最小限に抑え鮮度を safe に保つ3段階の保存法をご紹介します。🛡️
+本記事では、FDAやUSDAの科学的ガイドラインに基づき、ココナッツミルクの油水分離を最小限に抑え鮮度を safe に保つ3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ faqs:
 
 바나나는 전 세계인이 가장 사랑하는 과일이지만, 상온에서 호흡 속도가 매우 빠르고 스스로 익히는 호르몬을 뿜어내기 때문에 보관 난이도가 꽤 높은 편입니다.
 
-오늘 FreshSnap에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️
+이번 가이드에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

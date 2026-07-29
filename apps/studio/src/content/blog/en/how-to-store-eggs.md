@@ -27,7 +27,7 @@ Have you ever washed fresh eggs in tap water or stored them in the refrigerator 
 
 An eggshell is an organic structure covered with thousands of microscopic pores that allow respiration. Washing eggs removes their natural protective layer, known as the 'cuticle', allowing harmful bacteria like Salmonella to penetrate inside rapidly. Furthermore, storing eggs in the fridge door exposes them to temperature shifts and physical shocks that break down egg white firmness.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the FDA and USDA to preserve egg freshness and safety for over 45 days. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on guidelines from the FDA and USDA to preserve egg freshness and safety for over 45 days. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

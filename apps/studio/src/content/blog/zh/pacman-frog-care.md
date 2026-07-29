@@ -29,7 +29,7 @@ faqs:
     answer: "极有可能是肠梗阻。角蛙误吞椰土、水苔或吞食硬壳大猎物时极易堵塞肠道。应立即准备 27°C ~ 29°C 的温水，水位漫至角蛙下巴高度，让其进行 15 ~ 20 分钟温水浴以促进肠道蠕动。若腹部能摸到硬块且精神萎靡，需立即送往异宠医院。"
 ---
 
-因酷似经典游戏角色的大嘴与圆硕体型而得名的角蛙（Pacman Frog / Ceratophrys），是全球备受喜爱的陆栖两栖宠物。作为潜伏在泥土中等待猎物的“伏击型捕食者（Ambush Predator）”，角蛙拥有惊人的食欲，但极其容易因误吞垫料或进食过大猎物而引发致命的“肠梗阻（Impaction）”。此外，两栖动物半透膜结构的皮肤会直接吸收水分、电解质与化学毒素，水质污染或细菌滋生极易诱发致死性的“红腿病（Red Leg Disease）”与毒性休克。今天 PetSelf 将带您准确解读角蛙肢体语言，并通过 3 步骤日常护理维护其健康。
+因酷似经典游戏角色的大嘴与圆硕体型而得名的角蛙（Pacman Frog / Ceratophrys），是全球备受喜爱的陆栖两栖宠物。作为潜伏在泥土中等待猎物的“伏击型捕食者（Ambush Predator）”，角蛙拥有惊人的食欲，但极其容易因误吞垫料或进食过大猎物而引发致命的“肠梗阻（Impaction）”。此外，两栖动物半透膜结构的皮肤会直接吸收水分、电解质与化学毒素，水质污染或细菌滋生极易诱发致死性的“红腿病（Red Leg Disease）”与毒性休克。本指南将带您准确解读角蛙肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

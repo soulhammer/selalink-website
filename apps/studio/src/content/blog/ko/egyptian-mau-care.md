@@ -29,7 +29,7 @@ faqs:
     answer: "아닙니다. 옆구리부터 뒷다리 무릎까지 이어지는 루즈 스킨(Flank flap)은 뒷다리를 뒤로 길게 뻗어 최고 속도로 달릴 수 있게 돕는 이집션 마우의 정식 신체 구조적 특징입니다."
 ---
 
-이집션 마우는 인공 교배가 아닌 자연 상태에서 발생한 유일한 점박이 무늬 집고양이이자, 고대 이집트 벽화 속 왕실 고양이의 후손으로 알려진 보석 같은 품종입니다. 신비로운 '구즈베리 그린(Gooseberry green)' 눈빛과 이마의 스카라브(고대 풍뎅이) 문양, 속도감을 극대화하는 뒷다리 옆구리의 피부 주름(Flank flap)을 가지고 있습니다. 집고양이 중 가장 빠른 시속 48km/h 이상의 유연하고 폭발적인 주행 능력을 자랑하기 때문에 수직 공간과 활동성 관리가 필수적입니다. 또한 보호자에 대한 독점욕과 충성심이 강해 세심한 교감이 요구됩니다. 오늘 PetSelf에서는 이집션 마우의 고유 신호를 해석하고 건강한 민첩성을 유지하는 3단계 데일리 케어 루틴을 다룹니다.
+이집션 마우는 인공 교배가 아닌 자연 상태에서 발생한 유일한 점박이 무늬 집고양이이자, 고대 이집트 벽화 속 왕실 고양이의 후손으로 알려진 보석 같은 품종입니다. 신비로운 '구즈베리 그린(Gooseberry green)' 눈빛과 이마의 스카라브(고대 풍뎅이) 문양, 속도감을 극대화하는 뒷다리 옆구리의 피부 주름(Flank flap)을 가지고 있습니다. 집고양이 중 가장 빠른 시속 48km/h 이상의 유연하고 폭발적인 주행 능력을 자랑하기 때문에 수직 공간과 활동성 관리가 필수적입니다. 또한 보호자에 대한 독점욕과 충성심이 강해 세심한 교감이 요구됩니다. 이번 가이드에서는 이집션 마우의 고유 신호를 해석하고 건강한 민첩성을 유지하는 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

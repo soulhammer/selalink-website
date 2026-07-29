@@ -29,7 +29,7 @@ faqs:
     answer: "おっとりした性格で運動量が少ないため肥満になりやすいです。高タンパク・低炭水化物のフードを定量給餌し、関節に優しい床面でのじゃらし遊びを毎日15〜20分行い、筋肉量を維持してください。"
 ---
 
-まんまるな顔とピンと立った耳が魅力的なスコティッシュストレート（Scottish Straight）は、スコティッシュフォールドの骨軟骨異形成症の遺伝的リスクを回避しながら、丸く愛らしい魅力をそのまま持った健康的な品種です。折れ耳遺伝子はありませんが、太りやすい体質のため、肥満になると関節への負担や心臓病「肥大型心筋症（HCM）」、遺伝性「多胞性腎疾患（PKD）」にかかりやすくなります。本日PetSelfでは、スコティッシュストレートのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+まんまるな顔とピンと立った耳が魅力的なスコティッシュストレート（Scottish Straight）は、スコティッシュフォールドの骨軟骨異形成症の遺伝的リスクを回避しながら、丸く愛らしい魅力をそのまま持った健康的な品種です。折れ耳遺伝子はありませんが、太りやすい体質のため、肥満になると関節への負担や心臓病「肥大型心筋症（HCM）」、遺伝性「多胞性腎疾患（PKD）」にかかりやすくなります。本記事では、スコティッシュストレートのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

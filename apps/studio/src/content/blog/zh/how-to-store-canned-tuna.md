@@ -27,7 +27,7 @@ faqs:
 
 金枪鱼罐头在未开封前可在常温下安全存放数年，但一旦开封接触空气，金属罐体极易发生氧化腐蚀并遭受细菌污染。特别是直接带罐存放，内部积聚的呋喃气体无法散发，金属异味还会渗入食材，严重破坏口感。
 
-今天FreshSnap将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您安全、新鲜地储存开封前后的金枪鱼罐头。🛡️
+本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您安全、新鲜地储存开封前后的金枪鱼罐头。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

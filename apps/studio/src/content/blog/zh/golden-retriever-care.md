@@ -29,7 +29,7 @@ faqs:
     answer: "金毛易患髋关节发育不良等遗传性关节疾病，因此建议从生后3个月的快速成长阶段就开始进行体重控制、铺设防滑垫以及进行游泳等低冲击的关节养护运动。"
 ---
 
-金毛寻回猎犬以其金黄色的被毛和温顺的性格深受全球喜爱，是一种极具智慧且充满亲和力的伴侣犬。虽然有着“天使犬”的美誉，但它们毕竟是大型寻回猎犬出身，拥有旺盛的精力，因此需要日常积极的运动与互动。特别是预防遗传性髋关节发育不良以及满足它们天生的寻回（叼回物品）本能，对于其终身健康与情绪稳定至关重要。今天，PetSelf 将带您解读金毛的身体语言，并介绍一套日常3步健康护理流程。
+金毛寻回猎犬以其金黄色的被毛和温顺的性格深受全球喜爱，是一种极具智慧且充满亲和力的伴侣犬。虽然有着“天使犬”的美誉，但它们毕竟是大型寻回猎犬出身，拥有旺盛的精力，因此需要日常积极的运动与互动。特别是预防遗传性髋关节发育不良以及满足它们天生的寻回（叼回物品）本能，对于其终身健康与情绪稳定至关重要。今天，本指南将带您解读金毛的身体语言，并介绍一套日常3步健康护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

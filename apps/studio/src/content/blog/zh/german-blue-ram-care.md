@@ -29,7 +29,7 @@ faqs:
     answer: "较暖的水温（26-30°C）以及弱酸性至中性（pH 6.0-7.0）的软水环境。它们对氨和硝酸盐极度敏感，建立强大的过滤系统并定期换水是维持发色与健康的关键。"
 ---
 
-德国蓝鹦鹉（荷兰凤凰 / German Blue Ram）原产于南美洲，凭其宝石般艳丽的色彩和在水草缸中优雅的游姿而风靡全球。不同于大型慈鲷，它们体长仅5 ~ 7厘米，性格相对温和，是草缸中备受瞩目的明星鱼种。然而，它们对硝酸盐和水质波动非常敏感，必须维持弱酸性至中性（pH 6.0-7.0）的高水质与较暖水温（26-30°C）。此外，繁殖期它们会展现出领地护卫行为，因此利用水草和沉木阻隔视线至关重要。今天 PetSelf 将解析其本能信号，并公开水质控温、领地和平与繁殖护理的3阶段日常流程。
+德国蓝鹦鹉（荷兰凤凰 / German Blue Ram）原产于南美洲，凭其宝石般艳丽的色彩和在水草缸中优雅的游姿而风靡全球。不同于大型慈鲷，它们体长仅5 ~ 7厘米，性格相对温和，是草缸中备受瞩目的明星鱼种。然而，它们对硝酸盐和水质波动非常敏感，必须维持弱酸性至中性（pH 6.0-7.0）的高水质与较暖水温（26-30°C）。此外，繁殖期它们会展现出领地护卫行为，因此利用水草和沉木阻隔视线至关重要。本指南将解析其本能信号，并公开水质控温、领地和平与繁殖护理的3阶段日常流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

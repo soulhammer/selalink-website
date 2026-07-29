@@ -27,7 +27,7 @@ Você já deixou manjericão ou salsa fresca na geladeira e encontrou as folhas 
 
 As ervas frescas têm taxas de respiração muito altas após a colheita. Diferentes ervas reagem de forma distinta à temperatura; por exemplo, colocar manjericão na geladeira fria causa danos térmicos que destroem suas folhas.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas recomendado por especialistas para manter seu manjericão e salsa frescos e viçosos. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter seu manjericão e salsa frescos e viçosos. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

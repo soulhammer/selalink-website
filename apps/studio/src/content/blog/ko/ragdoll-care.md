@@ -33,7 +33,7 @@ faqs:
 
 하지만 대형 묘종인 만큼 골격 성장이 느리고 체중이 7 ~ 10kg까지 나가기 때문에 하체 관절에 상당한 부하가 가해지기 쉽습니다. 또한 보호자가 안아줄 때 렉돌 특유의 축 늘어지는 자세가 오히려 척추나 관절에 나쁜 뒤틀림 충격을 줄 수 있어, 올바른 방식으로 안아 주는 안심 스킨십이 평생 관절 건강의 기초가 됩니다.
 
-오늘 PetSelf에서는 렉돌의 몸짓 신호를 해독하고, 관절을 건강하게 지키면서 신뢰 깊은 포옹을 나눌 수 있는 3단계 데일리 케어를 안내합니다.
+이번 가이드에서는 렉돌의 몸짓 신호를 해독하고, 관절을 건강하게 지키면서 신뢰 깊은 포옹을 나눌 수 있는 3단계 데일리 케어를 안내합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

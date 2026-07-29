@@ -29,7 +29,7 @@ faqs:
     answer: "절대 안 됩니다! 래트는 사회성이 매우 높은 무리 생활 동물이므로 홀로 사육 시 심각한 우울증과 면역 저하가 발생하여 반드시 동성(또는 중성화된) 2마리 이상 함께 키워야 합니다. 또한 소나무(Pine)나 삼나무(Cedar) 베딩은 유해한 페놀 성분이 나와 간과 호흡기를 파괴하므로 반드시 먼지 없는 종이 베딩이나 열처리된 아스펜(Aspen) 베딩을 사용해야 합니다."
 ---
 
-머리 양옆에 낮게 위치한 커다란 동그란 귀가 매력적인 덤보 래트(Dumbo Rat)는 높은 지능과 강아지 같은 애교('포켓 파피')로 전 세계 설치류 애호가들에게 사랑받는 반려동물입니다. 래트는 강아지만큼 지능이 높아 이름 불러 찾아오기나 트릭 훈련이 가능하지만, 호흡기 계통이 극도로 민감하여 '마이코플라즈마(Mycoplasma pulmonis)' 균으로 인한 만성 호흡기 질환에 취약합니다. 특히 소나무·삼나무 베딩의 페놀 성분이나 먼지, 높은 암모니아 농도는 호흡기 파괴를 유발합니다. 또한 매우 사회적인 동물이어서 홀로 사육 시 우울증에 걸리기 쉬우며, 암컷의 경우 유선 종양 발병률이 높습니다. 오늘 PetSelf에서는 덤보 래트의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+머리 양옆에 낮게 위치한 커다란 동그란 귀가 매력적인 덤보 래트(Dumbo Rat)는 높은 지능과 강아지 같은 애교('포켓 파피')로 전 세계 설치류 애호가들에게 사랑받는 반려동물입니다. 래트는 강아지만큼 지능이 높아 이름 불러 찾아오기나 트릭 훈련이 가능하지만, 호흡기 계통이 극도로 민감하여 '마이코플라즈마(Mycoplasma pulmonis)' 균으로 인한 만성 호흡기 질환에 취약합니다. 특히 소나무·삼나무 베딩의 페놀 성분이나 먼지, 높은 암모니아 농도는 호흡기 파괴를 유발합니다. 또한 매우 사회적인 동물이어서 홀로 사육 시 우울증에 걸리기 쉬우며, 암컷의 경우 유선 종양 발병률이 높습니다. 이번 가이드에서는 덤보 래트의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

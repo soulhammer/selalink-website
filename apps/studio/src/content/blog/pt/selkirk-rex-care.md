@@ -29,7 +29,7 @@ faqs:
     answer: "É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKD Clear) e estimule a ingestão constante de água."
 ---
 
-Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKD). O PetSelf apresenta uma rotina de 3 passos para o seu bem-estar.
+Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKD). O Este guia  uma rotina de 3 passos para o seu bem-estar.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

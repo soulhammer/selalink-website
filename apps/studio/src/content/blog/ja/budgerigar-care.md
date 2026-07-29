@@ -29,7 +29,7 @@ faqs:
     answer: "シードは高脂質でビタミンAやカルシウムが著しく不足しており、長期給餌は脂肪肝（Hepatic Lipidosis）や甲状腺疾患を引き起こします。栄養バランスの整った鳥用ペレットを主食（60〜70%）にしてください。"
 ---
 
-セキセイインコは美しい羽色と愛らしい鳴き声、人懐っこい性格で世界中で愛されている小型インコです。しかし、鳥類特有の「気嚢（Air Sacs）」という呼吸器官を持つため、テフロン加工のフライパンから発生する有毒ガスや香水、芳香剤などの空気中の有害物質に非常に脆弱です。また、シード（種子）中心の偏った食事は脂肪肝（Hepatic Lipidosis）や栄養失調を引き起こしやすいです。本日PetSelfでは、セキセイインコのサインを正確に読み解き、呼吸器の安全と健康的な食生活を守る3ステップルーティンをお届けします。
+セキセイインコは美しい羽色と愛らしい鳴き声、人懐っこい性格で世界中で愛されている小型インコです。しかし、鳥類特有の「気嚢（Air Sacs）」という呼吸器官を持つため、テフロン加工のフライパンから発生する有毒ガスや香水、芳香剤などの空気中の有害物質に非常に脆弱です。また、シード（種子）中心の偏った食事は脂肪肝（Hepatic Lipidosis）や栄養失調を引き起こしやすいです。本記事では、セキセイインコのサインを正確に読み解き、呼吸器の安全と健康的な食生活を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

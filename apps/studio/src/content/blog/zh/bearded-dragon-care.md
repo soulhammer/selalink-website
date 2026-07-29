@@ -29,7 +29,7 @@ faqs:
     answer: "下颌骨变软、四肢关节肿胀、肌肉不受控抽搐以及爬行时无力打滑均属于早期症状。一旦发现，须立即升级灯光设备并寻求专业异宠兽医的诊疗。"
 ---
 
-鬃狮蜥因其温和的性格和充满好奇的表情，成为全球最受喜爱的伴侣爬行动物之一。然而，作为变温动物，它们无法自行调节体温，完全依赖外部热源与UVB（中波紫外线）灯光来消化食物、合成维生素D3并吸收钙质。如果缺乏充足的日光浴区域与UVB照射，鬃狮蜥极易患上会导致骨骼软化及瘫痪的代谢性骨病（MBD）。今天，PetSelf 将为您解析鬃狮蜥的肢体语言，并分享守护骨骼健康的3阶段钙质与灯光日常护理流程。
+鬃狮蜥因其温和的性格和充满好奇的表情，成为全球最受喜爱的伴侣爬行动物之一。然而，作为变温动物，它们无法自行调节体温，完全依赖外部热源与UVB（中波紫外线）灯光来消化食物、合成维生素D3并吸收钙质。如果缺乏充足的日光浴区域与UVB照射，鬃狮蜥极易患上会导致骨骼软化及瘫痪的代谢性骨病（MBD）。今天，本指南将为您解析鬃狮蜥的肢体语言，并分享守护骨骼健康的3阶段钙质与灯光日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

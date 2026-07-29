@@ -29,7 +29,7 @@ faqs:
     answer: "涙や汗が溜まって起きるシワの皮膚炎（擦疹）です。毎日シワの間を拭いて完全乾燥させてください。炎症がひどい場合は、獣医師から処方された薬用洗浄液や軟膏を使用する必要があります。"
 ---
 
-イングリッシュ・ブルドッグは、深く刻まれた顔のシワとどっしりとした体格、そして見た目に反した温厚な性格で世界中から愛されている中型犬です。フレンチ・ブルドッグよりも骨太で幅広な胸を持つ伝統的なブルドッグの体型をしており、つぶれた鼻（短頭種）の構造上、熱に非常に弱く体温調節が苦手です。また、シワや尾のくぼみ（テールポケット）に湿気が溜まると、細菌や真菌による皮膚炎（擦疹）が発生しやすくなります。今回はPetSelfが、ブルドッグの感情サインと、シワの清潔保持・熱中症予防のための3ステップ日常ルーティンを紹介します。
+イングリッシュ・ブルドッグは、深く刻まれた顔のシワとどっしりとした体格、そして見た目に反した温厚な性格で世界中から愛されている中型犬です。フレンチ・ブルドッグよりも骨太で幅広な胸を持つ伝統的なブルドッグの体型をしており、つぶれた鼻（短頭種）の構造上、熱に非常に弱く体温調節が苦手です。また、シワや尾のくぼみ（テールポケット）に湿気が溜まると、細菌や真菌による皮膚炎（擦疹）が発生しやすくなります。本記事では、ブルドッグの感情サインと、シワの清潔保持・熱中症予防のための3ステップ日常ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

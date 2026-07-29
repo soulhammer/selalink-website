@@ -29,7 +29,7 @@ faqs:
     answer: "由于其眼球突出缺乏深眼窝保护，散步时应避免进入灌木丛，日常使用人工泪液保持眼部湿润，并定期清洁面部褶皱以减少细菌滋生。"
 ---
 
-波士顿梗犬拥有如燕尾服般优雅的被毛和憨态可掬的扁平面容，被称为“美国绅士”，深受大家喜爱。但由于其短头颅（Brachycephalic）的生理结构，气道狭窄极易引发短头颅气道综合征和中暑，且大而突出的眼球易发生角膜溃疡或干眼症。今天 PetSelf 为您解析波士顿梗犬的呼吸与眼部警示信号，并提供守护其健康的3步日常护理流程。
+波士顿梗犬拥有如燕尾服般优雅的被毛和憨态可掬的扁平面容，被称为“美国绅士”，深受大家喜爱。但由于其短头颅（Brachycephalic）的生理结构，气道狭窄极易引发短头颅气道综合征和中暑，且大而突出的眼球易发生角膜溃疡或干眼症。本指南为您解析波士顿梗犬的呼吸与眼部警示信号，并提供守护其健康的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

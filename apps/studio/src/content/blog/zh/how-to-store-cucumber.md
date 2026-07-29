@@ -27,7 +27,7 @@ faqs:
 
 黄瓜的含水量高达95%以上，是对低温极度敏感的葫芦科蔬菜。暴露在7℃以下的过冷环境中时，黄瓜会发生细胞壁破裂的“冷害（Chilling Injury）”，导致表皮出现水渍状凹陷并迅速腐烂。
 
-今天FreshSnap基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您防止黄瓜冻伤冷害，保持清脆口感达2周以上。🛡️
+本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您防止黄瓜冻伤冷害，保持清脆口感达2周以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

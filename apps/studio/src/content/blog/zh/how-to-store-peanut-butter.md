@@ -27,7 +27,7 @@ faqs:
 
 花生酱含有丰富的不饱和脂肪酸，暴露于空气、光线或高温下极易发生脂质氧化酸败（Rancidity）。尤其是未添加乳化剂的天然花生酱，更容易出现油酱分离且品质迅速下降，因此掌握正确的储存方法至关重要。
 
-今天FreshSnap将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您介绍3步科学保存秘诀，帮您长久锁定花生酱的醇香与新鲜。🛡️
+本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您介绍3步科学保存秘诀，帮您长久锁定花生酱的醇香与新鲜。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

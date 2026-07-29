@@ -29,7 +29,7 @@ faqs:
     answer: "Katak telah masuk ke fase estivasi. Naikkan suhu kandang ke 26–28 °C, basahi substrat, dan mandikan dengan air hangat (28–30 °C) untuk melarutkan kepompong."
 ---
 
-Katak Lembu Afrika dapat mencapai bobot 1–2 kg. Dilengkapi tonjolan tulang rahang, katak ini adalah pemangsa penyergap yang tangguh. Karena kulitnya permeabel, mereka sangat sensitif terhadap klorin dan amonia. Jika lingkungan kering, mereka membentuk kepompong untuk estivasi dan berhenti makan. Hari ini PetSelf membagikan 3 langkah rutinitas perawatan.
+Katak Lembu Afrika dapat mencapai bobot 1–2 kg. Dilengkapi tonjolan tulang rahang, katak ini adalah pemangsa penyergap yang tangguh. Karena kulitnya permeabel, mereka sangat sensitif terhadap klorin dan amonia. Jika lingkungan kering, mereka membentuk kepompong untuk estivasi dan berhenti makan. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

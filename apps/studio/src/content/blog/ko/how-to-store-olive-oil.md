@@ -27,7 +27,7 @@ faqs:
 
 올리브유와 같은 식물성 유지류는 빛(자외선), 산소, 열, 온도의 4대 요소에 의해 산패(Rancidity)가 일어납니다. 특히 올리브유를 냉장 보관하면 8 ~ 10℃ 이하에서 단불포화지방산인 올레인산이 하얗게 굳어 결정화되며, 이 동결과 해동 과정이 반복되면 특유의 프루티한 풍미와 폴리페놀 항산화 성분이 손상됩니다.
 
-오늘 FreshSnap에서는 국제올리브협회(IOC)와 미국 농무부(USDA)의 가이드를 바탕으로, 올리브유의 풍미와 영양을 1년 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 국제올리브협회(IOC)와 미국 농무부(USDA)의 가이드를 바탕으로, 올리브유의 풍미와 영양을 1년 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

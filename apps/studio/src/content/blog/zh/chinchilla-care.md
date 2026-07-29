@@ -29,7 +29,7 @@ faqs:
     answer: "龙猫单个毛孔生长着 80 根以上极度密实的毛发，一旦沾水极难自然风干。持续潮湿会导致严重的皮肤真菌感染或因急性低体温症死亡。"
 ---
 
-拥有如丝绸般柔软绒毛与浑圆体型的龙猫，是深受喜爱的异宠。但与猫狗不同的是，龙猫的牙齿一生都在不停生长，臼齿和门齿极易错位并刺伤口腔，导致痛苦的咬合不正。此外，它们缺乏汗腺且毛发密度极高，在高温潮湿的环境中极易发生中暑。今天 PetSelf 将为您解析龙猫的牙痛与过热信号，并提供守护其健康的3步日常护理流程。
+拥有如丝绸般柔软绒毛与浑圆体型的龙猫，是深受喜爱的异宠。但与猫狗不同的是，龙猫的牙齿一生都在不停生长，臼齿和门齿极易错位并刺伤口腔，导致痛苦的咬合不正。此外，它们缺乏汗腺且毛发密度极高，在高温潮湿的环境中极易发生中暑。本指南将为您解析龙猫的牙痛与过热信号，并提供守护其健康的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "柴犬天生具有像猫一样的性格，非常看重个人空间。它们不热情地摇尾巴并不代表它们不爱您，安静地躺在您身边就是它们表达爱意的方式。"
 ---
 
-柴犬因其狐狸般的外表和卷曲的尾巴而在全球深受喜爱。然而，它们拥有像猫一样的独立性格、强烈的意志和警惕的本能。🐕柴犬对爪子、耳朵或尾部被触碰极为敏感。如果在理毛或剪指甲时强迫它们，它们往往会发出尖锐的“柴犬尖叫”以示抗议。此外，它们拥有浓密的双层被毛，在换毛季节脱落非常严重。今天，PetSelf 将介绍如何在尊重柴犬界限的同时，通过日常3步护理惯例维护其被毛并进行温和触碰。
+柴犬因其狐狸般的外表和卷曲的尾巴而在全球深受喜爱。然而，它们拥有像猫一样的独立性格、强烈的意志和警惕的本能。🐕柴犬对爪子、耳朵或尾部被触碰极为敏感。如果在理毛或剪指甲时强迫它们，它们往往会发出尖锐的“柴犬尖叫”以示抗议。此外，它们拥有浓密的双层被毛，在换毛季节脱落非常严重。今天，本指南将介绍如何在尊重柴犬界限的同时，通过日常3步护理惯例维护其被毛并进行温和触碰。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

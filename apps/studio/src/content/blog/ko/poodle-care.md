@@ -29,7 +29,7 @@ faqs:
     answer: "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느끼질 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
 ---
 
-푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 오늘 PetSelf에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.
+푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 이번 가이드에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

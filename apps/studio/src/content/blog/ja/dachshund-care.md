@@ -29,7 +29,7 @@ faqs:
     answer: "片手で胸と前足の間を支え、もう片方の手で臀部と後肢をしっかり包み込み、背骨が常に水平を維持するように安定して持ち上げます。前足だけを持って持ち上げるのは厳禁です。"
 ---
 
-長い胴体と短い四肢というユニークな体型を持つダックスフントは、世界中で大人気の犬種です。しかし、この特徴的な身体構造ゆえに、椎間板ヘルニア（IVDD）に対して非常に脆弱です。ソファーからの飛び降ろしや階段の上り下りといった日常の動作でさえ、脊椎に致命的な負担をかけることがあります。今回はPetSelfが、ダックスフントが送る脊椎のSOSサインを分析し、背骨を守り体幹筋肉を強化する3ステップのホームケアルーティンをご紹介します。
+長い胴体と短い四肢というユニークな体型を持つダックスフントは、世界中で大人気の犬種です。しかし、この特徴的な身体構造ゆえに、椎間板ヘルニア（IVDD）に対して非常に脆弱です。ソファーからの飛び降ろしや階段の上り下りといった日常の動作でさえ、脊椎に致命的な負担をかけることがあります。本記事では、ダックスフントが送る脊椎のSOSサインを分析し、背骨を守り体幹筋肉を強化する3ステップのホームケアルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

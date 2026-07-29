@@ -27,7 +27,7 @@ faqs:
 
 アスパラガスは収穫後も呼吸作用と生長が非常に活発な野菜です。横にして保存すると重力の影響で曲がろうとし、糖分を激しく消費するため、茎が硬くなり味が落ちてしまいます。
 
-本日FreshSnapでは、ポストハーベスト（収穫後生理）の専門家が推奨する、花瓶に花を活けるようにアスパラガスのシャキシャキ感を極限まで保つ3段階の科学的保存法をご紹介します。🛡️
+本記事では、ポストハーベスト（収穫後生理）の専門家が推奨する、花瓶に花を活けるようにアスパラガスのシャキシャキ感を極限まで保つ3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "拉加马芬猫下腹部的脂肪垫 (Fatty pad) 是其品种标准中认可的自然生理特征，用于保护内脏并维持身体灵活性。但如果手掌抚摸时已完全无法触摸到肋骨，则属于病理性肥胖，需咨询兽医进行饮食管理。"
 ---
 
-拉加马芬猫于20世纪90年代源自布偶猫（Ragdoll）品种的繁育分支，是一种拥有重型骨骼、如兔毛般密实柔顺被毛和丰富毛色的大型长毛猫。拉加马芬猫需要4至5年才能完全发育成熟，品种标准中明确规定其下腹部拥有天然的“脂肪垫 (Fatty pad)”。它们因抱在怀中时会像布偶一样完全放松身体而闻名，是理想的伴侣猫。然而，其丰厚的双层被毛需要定期梳理，长期的生长发育过程也需要科学的高蛋白营养以及针对肥大性心肌病（HCM）的定期筛查。今天 PetSelf 将解析拉加马芬猫的情感信号并分享3阶段日常护理流程。
+拉加马芬猫于20世纪90年代源自布偶猫（Ragdoll）品种的繁育分支，是一种拥有重型骨骼、如兔毛般密实柔顺被毛和丰富毛色的大型长毛猫。拉加马芬猫需要4至5年才能完全发育成熟，品种标准中明确规定其下腹部拥有天然的“脂肪垫 (Fatty pad)”。它们因抱在怀中时会像布偶一样完全放松身体而闻名，是理想的伴侣猫。然而，其丰厚的双层被毛需要定期梳理，长期的生长发育过程也需要科学的高蛋白营养以及针对肥大性心肌病（HCM）的定期筛查。本指南将解析拉加马芬猫的情感信号并分享3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

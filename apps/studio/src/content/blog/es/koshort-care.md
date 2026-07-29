@@ -33,7 +33,7 @@ El shorthair coreano, un gato nativo, cuenta con una estructura robusta y una gr
 
 Sin embargo, estos rasgos los hacen vulnerables a dos factores de estrés en interiores: la ansiedad territorial por limitaciones de espacio y la enfermedad de las vías urinarias inferiores felinas (FLUTD) o cálculos causados por baja hidratación. El manejo de estas condiciones requiere una atención diaria cuidadosa.
 
-Hoy, PetSelf explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos para garantizar su salud territorial e hidratación.
+En esta guía se explora el lenguaje corporal de estos felinos y comparte una rutina de cuidado diario de 3 pasos para garantizar su salud territorial e hidratación.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

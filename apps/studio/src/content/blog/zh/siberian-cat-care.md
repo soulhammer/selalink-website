@@ -29,7 +29,7 @@ faqs:
     answer: "西伯利亚猫拥有防水外毛与极其密实的底毛构成的三层被毛，每周需进行 3 ~ 4 次深层梳理以防打结和严重毛球症。此外，由于大型猫种易携带 HCM 遗传基因，建议自 1 ~ 2 岁起每年或每两年定期前往宠物医院进行心脏超声检查。"
 ---
 
-被誉为俄罗斯国宝的西伯利亚猫（Siberian Cat）凭借其奢华的三层被毛（Triple Coat）、像狗一样忠诚亲人的性格（“像狗一样的猫”）和极高的智商而备受全球喜爱。西伯利亚猫体内分泌的 Fel d 1 蛋白（引发猫过敏的主要致敏原）显著低于其他猫种，因此被称为“低过敏猫”，但并非完全不会致敏，仍需注意环境卫生。作为一种需要 3 至 5 年才能完全成熟的慢熟大型猫种，西伯利亚猫极易患遗传性肥厚型心肌病（HCM），且浓密被毛易产生毛球问题。今天 PetSelf 将带您准确解读西伯利亚猫肢体语言，并通过 3 步骤日常护理维护其健康。
+被誉为俄罗斯国宝的西伯利亚猫（Siberian Cat）凭借其奢华的三层被毛（Triple Coat）、像狗一样忠诚亲人的性格（“像狗一样的猫”）和极高的智商而备受全球喜爱。西伯利亚猫体内分泌的 Fel d 1 蛋白（引发猫过敏的主要致敏原）显著低于其他猫种，因此被称为“低过敏猫”，但并非完全不会致敏，仍需注意环境卫生。作为一种需要 3 至 5 年才能完全成熟的慢熟大型猫种，西伯利亚猫极易患遗传性肥厚型心肌病（HCM），且浓密被毛易产生毛球问题。本指南将带您准确解读西伯利亚猫肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

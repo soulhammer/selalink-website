@@ -27,7 +27,7 @@ faqs:
 
 柑橘含水量高且果皮较薄，互相挤压或受潮极易腐烂。特别是果皮表面附着的微量霉菌孢子，在常温和湿气刺激下会呈爆发式繁殖。
 
-今天FreshSnap基于权威专家指南，为您带来3步科学保存秘诀，帮您防止柑橘变软发霉，长久保持鲜甜口感。🛡️
+本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您防止柑橘变软发霉，长久保持鲜甜口感。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

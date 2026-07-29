@@ -29,7 +29,7 @@ faqs:
     answer: "クレスティッドゲッコー専用の人工飼料（スーパーフード/MRP）だけで十分な栄養補給が可能です。ただし、カルシウム吸収不足によるMBD（代謝性骨疾患）を防ぐため、カルシウム添加の有無を定期的に確認してください。"
 ---
 
-目の上の王冠（まつ毛）のような突起が特徴的なクレスティッドゲッコー（オウカンミカドヤモリ）は、温厚な性格と専用人工飼料（スーパーフード）で飼育できる手軽さから、世界中で愛されている樹上性ヤモリです。樹上性爬虫類として高さのあるケージ環境と適正湿度（60%〜80%）、涼しい室温（20°C〜26°C）の維持が不可欠です。特にカルシウム吸収不足によるMBD（代謝性骨疾患）の予防と、一度切れたら再生しない尻尾を守るためのストレス管理が重要です。本日PetSelfでは、クレスティッドゲッコーの身体サインを読み解き、健康を守る3ステップルーティンをお届けします。
+目の上の王冠（まつ毛）のような突起が特徴的なクレスティッドゲッコー（オウカンミカドヤモリ）は、温厚な性格と専用人工飼料（スーパーフード）で飼育できる手軽さから、世界中で愛されている樹上性ヤモリです。樹上性爬虫類として高さのあるケージ環境と適正湿度（60%〜80%）、涼しい室温（20°C〜26°C）の維持が不可欠です。特にカルシウム吸収不足によるMBD（代謝性骨疾患）の予防と、一度切れたら再生しない尻尾を守るためのストレス管理が重要です。本記事では、クレスティッドゲッコーの身体サインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

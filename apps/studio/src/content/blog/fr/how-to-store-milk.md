@@ -27,7 +27,7 @@ Avez-vous l'habitude de ranger vos briques de lait alignées dans les balconnets
 
 La porte du réfrigérateur est la zone la plus exposée à l'air chaud ambiant à chaque ouverture, subissant ainsi les écarts de température les plus importants. Une température instable permet aux bactéries psychrophiles de se multiplier rapidement, ce qui accélère la détérioration et altère le goût.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du MFDS pour garder votre lait onctueux, savoureux et frais. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du MFDS pour garder votre lait onctueux, savoureux et frais. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

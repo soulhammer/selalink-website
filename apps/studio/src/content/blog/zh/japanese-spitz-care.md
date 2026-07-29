@@ -29,7 +29,7 @@ faqs:
     answer: "控制体重是重中之重，肥胖会极大增加膝关节承受的压力。同时应铺设室内防滑垫、禁止双腿站立或从高处跳下，并定期补充氨基葡萄糖（Glucosamine）等关节保健品。"
 ---
 
-日本银狐犬以其雪白丰满的双层被毛和敏捷聪慧的性格深受喜爱。然而，作为中小型犬种，它们存在较高的膝盖骨脱位（Patellar Luxation）遗传风险。此外，纯白色的毛发极易显现眼部泪痕，且浓密的底层绒毛在换毛季节需要科学梳理。今天 PetSelf 为您解析日本银狐犬的骨骼与行为信号，并提供守护关节与毛发健康的3步日常护理流程。
+日本银狐犬以其雪白丰满的双层被毛和敏捷聪慧的性格深受喜爱。然而，作为中小型犬种，它们存在较高的膝盖骨脱位（Patellar Luxation）遗传风险。此外，纯白色的毛发极易显现眼部泪痕，且浓密的底层绒毛在换毛季节需要科学梳理。本指南为您解析日本银狐犬的骨骼与行为信号，并提供守护关节与毛发健康的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

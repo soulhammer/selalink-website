@@ -29,7 +29,7 @@ faqs:
     answer: "Deben limpiarse al menos una vez al día. La humedad de lágrimas o restos de comida se acumulan en los pliegues, generando hongos o bacterias rápidamente, lo que causa dermatitis dolorosa y mal olor si no se mantiene seco."
 ---
 
-Con sus características orejas de murciélago y su cara achatada, el Bulldog Francés es un compañero adorado en todo el mundo. Sin embargo, su anatomía braquicefálica particular lo hace sumamente vulnerable a obstrucciones de las vías respiratorias, dificultad para respirar y picos rápidos de temperatura corporal. También sufren de la columna si saltan desde alturas. Hoy, PetSelf descifra el lenguaje corporal respiratorio del Bulldog Francés y presenta una rutina de 3 pasos para cuidar su salud.
+Con sus características orejas de murciélago y su cara achatada, el Bulldog Francés es un compañero adorado en todo el mundo. Sin embargo, su anatomía braquicefálica particular lo hace sumamente vulnerable a obstrucciones de las vías respiratorias, dificultad para respirar y picos rápidos de temperatura corporal. También sufren de la columna si saltan desde alturas. En esta guía, descifra el lenguaje corporal respiratorio del Bulldog Francés y presenta una rutina de 3 pasos para cuidar su salud.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

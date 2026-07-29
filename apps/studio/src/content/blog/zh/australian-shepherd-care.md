@@ -29,7 +29,7 @@ faqs:
     answer: "轻咬脚踝源于牧羊犬通过咬牛羊后跟（Heeling）来驱赶牲畜的本能。孩子奔跑尖叫会被澳牧误以为是在玩驱赶游戏。正确的做法是教导孩子被追时立刻站立“冻结”不动。同时，每日必须通过飞盘、抛接球或敏捷训练为其提供合法的能量发散渠道。"
 ---
 
-凭其炫彩的被毛、卓越的智力以及惊人的敏捷度，澳大利亚牧羊犬（Australian Shepherd，简称“澳牧”）是风靡全球的运动犬与家庭伴侣。它们对主人无比忠诚且极具学习天赋，但由于天生携带强烈的驱赶本能，极易出现追逐并轻咬跑步儿童或宠物脚踝的行为（Ankle Nipping）。此外，澳牧携带 MDR1（多药耐药性）基因突变的概率极高，对常规驱虫药与麻醉药极度敏感。它们还易患柯利犬眼部异常（CEA）及髋关节发育不良（HD）。今天 PetSelf 将带您准确解读澳牧肢体语言，并通过 3 步骤日常护理维护其健康。
+凭其炫彩的被毛、卓越的智力以及惊人的敏捷度，澳大利亚牧羊犬（Australian Shepherd，简称“澳牧”）是风靡全球的运动犬与家庭伴侣。它们对主人无比忠诚且极具学习天赋，但由于天生携带强烈的驱赶本能，极易出现追逐并轻咬跑步儿童或宠物脚踝的行为（Ankle Nipping）。此外，澳牧携带 MDR1（多药耐药性）基因突变的概率极高，对常规驱虫药与麻醉药极度敏感。它们还易患柯利犬眼部异常（CEA）及髋关节发育不良（HD）。本指南将带您准确解读澳牧肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

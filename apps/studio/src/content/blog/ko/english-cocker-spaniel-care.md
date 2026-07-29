@@ -29,7 +29,7 @@ faqs:
     answer: "귓속 털을 적절히 정리하고 산책이나 목욕 후, 식사 직후 귀 내부의 습기를 완전히 말려주어야 합니다. 수의사 추천 약용 귀 세정제를 주 1 ~ 2회 사용하여 세균과 효모균 번식을 막는 것이 중요합니다."
 ---
 
-잉글리시 코커 스파니엘은 '명랑한 스파니엘(Merry Cocker)'이라는 별명답게 넘치는 친화력과 생기발랄한 매력으로 전 세계에서 사랑받는 중형 조류 수렵견입니다. 그러나 길고 늘어진 귓바퀴 구조 때문에 귀 내부 통풍이 잘되지 않아 외이도염(귀 염증)이 발생하기 매우 쉽습니다. 또한 수렵견 출신으로서 왕성한 운동량과 노즈워크 욕구를 충족해주지 않으면 스트레스성 행동 문제로 이어질 수 있습니다. 오늘 PetSelf에서는 잉글리시 코커 스파니엘 특유의 감정 표현을 분석하고, 귀 건강과 활동량을 동시에 케어하는 3단계 데일리 홈케어 루틴을 다룹니다.
+잉글리시 코커 스파니엘은 '명랑한 스파니엘(Merry Cocker)'이라는 별명답게 넘치는 친화력과 생기발랄한 매력으로 전 세계에서 사랑받는 중형 조류 수렵견입니다. 그러나 길고 늘어진 귓바퀴 구조 때문에 귀 내부 통풍이 잘되지 않아 외이도염(귀 염증)이 발생하기 매우 쉽습니다. 또한 수렵견 출신으로서 왕성한 운동량과 노즈워크 욕구를 충족해주지 않으면 스트레스성 행동 문제로 이어질 수 있습니다. 이번 가이드에서는 잉글리시 코커 스파니엘 특유의 감정 표현을 분석하고, 귀 건강과 활동량을 동시에 케어하는 3단계 데일리 홈케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

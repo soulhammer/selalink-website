@@ -27,7 +27,7 @@ faqs:
 
 딸기는 과피가 매우 얇고 조직이 약한 대표적인 소과류 과일로, 수분 흡수와 기계적 충격에 매우 취약합니다. 특히 보관 전 세척이나 꼭지 제거, 밀폐 보관은 잿빛곰팡이균(Botrytis)이 급격히 번식하는 최적의 조건이 됩니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 딸기의 무름 현상을 완벽히 방지하여 신선하고 달콤하게 오래 즐기는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 딸기의 무름 현상을 완벽히 방지하여 신선하고 달콤하게 오래 즐기는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

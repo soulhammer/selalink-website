@@ -29,7 +29,7 @@ faqs:
     answer: "턱뼈가 말랑해지거나 다리 관절 부종, 근육 떨림, 걸을 때 힘없이 미끄러지는 현상 등이 초기 증상입니다. 이를 발견하면 즉시 조명 설비를 보강하고 전문 수의사의 진료를 받아야 합니다."
 ---
 
-온순한 성격과 호기심 어린 표정 덕분에 비어디 드래곤은 전 세계적으로 가장 사랑받는 반려 파충류 중 하나입니다. 그러나 변온동물인 파충류는 스스로 체온을 조절하지 못하고 외부 열원과 UVB(중파장 자외선) 조명 아래에서만 먹이를 소화하고 비타민 D3를 합성해 칼슘을 흡수할 수 있습니다. 적절한 일광욕 구역과 UVB 공급이 부족하면 뼈가 약해지고 마비가 오는 대사성 골질환(MBD)에 걸리기 쉽습니다. 오늘 PetSelf에서는 비어디 드래곤의 사회적 행동 신호를 분석하고, 뼈 건강을 지키는 3단계 칼슘-조명 일상 루틴을 소개합니다.
+온순한 성격과 호기심 어린 표정 덕분에 비어디 드래곤은 전 세계적으로 가장 사랑받는 반려 파충류 중 하나입니다. 그러나 변온동물인 파충류는 스스로 체온을 조절하지 못하고 외부 열원과 UVB(중파장 자외선) 조명 아래에서만 먹이를 소화하고 비타민 D3를 합성해 칼슘을 흡수할 수 있습니다. 적절한 일광욕 구역과 UVB 공급이 부족하면 뼈가 약해지고 마비가 오는 대사성 골질환(MBD)에 걸리기 쉽습니다. 이번 가이드에서는 비어디 드래곤의 사회적 행동 신호를 분석하고, 뼈 건강을 지키는 3단계 칼슘-조명 일상 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

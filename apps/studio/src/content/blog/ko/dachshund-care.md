@@ -29,7 +29,7 @@ faqs:
     answer: "한 손으로 가슴과 앞다리 사이를 받치고, 다른 한 손으로 엉덩이와 뒷다리를 감싸 척추가 항상 수평을 유지하도록 안정적으로 들어 올려야 합니다. 앞다리만 잡고 들어 올리는 것은 금물입니다."
 ---
 
-긴 허리와 짧은 다리의 독특한 체형을 가진 닥스훈트는 전 세계적으로 큰 사랑을 받는 견종입니다. 그러나 이 개성 있는 신체 구조 때문에 닥스훈트는 허리 디스크(척추 추간판 탈출증 - IVDD)에 극도로 취약합니다. 소파에서 뛰어내리거나 계단을 오르내리는 평범한 행동조차 척추에 치명적인 무리를 줄 수 있습니다. 오늘 PetSelf에서는 닥스훈트가 보내는 척추 이상 신호를 분석하고, 허리 건강을 지키며 코어 근육을 강화하는 3단계 홈케어 루틴을 공유합니다.
+긴 허리와 짧은 다리의 독특한 체형을 가진 닥스훈트는 전 세계적으로 큰 사랑을 받는 견종입니다. 그러나 이 개성 있는 신체 구조 때문에 닥스훈트는 허리 디스크(척추 추간판 탈출증 - IVDD)에 극도로 취약합니다. 소파에서 뛰어내리거나 계단을 오르내리는 평범한 행동조차 척추에 치명적인 무리를 줄 수 있습니다. 이번 가이드에서는 닥스훈트가 보내는 척추 이상 신호를 분석하고, 허리 건강을 지키며 코어 근육을 강화하는 3단계 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Você já descascou uma grande quantidade de alho para economizar tempo e viu qu
 
 No momento em que o alho é descascado, ele perde sua película protetora externa, tornando-se extremamente sensível à umidade. A condensação e a água presas nos potes criam o ambiente perfeito para o crescimento de mofo e bactérias, sendo o controle da umidade o segredo fundamental do frescor.
 
-Hoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para preservar o sabor, os nutrientes e a alicina do alho inteiro, descascado ou triturado por muito mais tempo. 🛡️
+Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para preservar o sabor, os nutrientes e a alicina do alho inteiro, descascado ou triturado por muito mais tempo. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

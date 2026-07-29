@@ -29,7 +29,7 @@ faqs:
     answer: "垂れ耳は耳の穴を塞ぐため、内部に湿気や熱がこもりやすい多湿環境を作ります。これがマラセチア菌（カビ）や細菌の繁殖を促すため、定期的な換気と耳掃除が不可欠です。"
 ---
 
-大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、何世紀にもわたり人間と共に活躍してきた狩猟犬（ハウンド）出身です。誰にでも人懐っこい反面、生まれつきの強い好奇心と鋭い嗅覚執着を持っています。この豊富なエネルギーを解消できないと、遠吠えや家具の破壊といった分離不安の症状を起こしやすくなります。また、垂れた耳は内部が湿気やすく、カビ性の外耳炎に罹患しやすい特徴があります。本日PetSelfでは、ビーグルの追跡行動と不安サインを解読し、後閣本能の充足と耳の健康を守る3段階ルーティンを紹介します。
+大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、何世紀にもわたり人間と共に活躍してきた狩猟犬（ハウンド）出身です。誰にでも人懐っこい反面、生まれつきの強い好奇心と鋭い嗅覚執着を持っています。この豊富なエネルギーを解消できないと、遠吠えや家具の破壊といった分離不安の症状を起こしやすくなります。また、垂れた耳は内部が湿気やすく、カビ性の外耳炎に罹患しやすい特徴があります。本記事では、ビーグルの追跡行動と不安サインを解読し、後閣本能の充足と耳の健康を守る3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

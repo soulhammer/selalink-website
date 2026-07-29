@@ -29,7 +29,7 @@ faqs:
     answer: "由于缺乏绒毛保暖，冬季室内温度应维持在 23 ~ 25°C。将猫爬架安置在采光良好的晒太阳区域，并为其准备电热垫、绒毛毯，必要时可穿上舒适的室内猫咪衣服。"
 ---
 
-东方短毛猫（Oriental Shorthair）是源自暹罗猫（Siamese）血统的现代猫种，以其巨大的蝙蝠耳、利落的楔形 head 以及修长优雅的身材而闻名。它们性格外向极具“唠叨（Vocal）”属性，喜欢用丰富的鸣叫声与主人不断对话，同时智商极高且极其粘人，在欧美深受资深猫奴喜爱。然而，由于其几乎没有底层绒毛（Undercoat），薄薄的短毛使其极度怕冷，室温稍低就容易导致免疫力下降或患上上呼吸道疾病。此外，它们极度害怕孤单，若长时间独自在家易产生分离焦虑与破坏行为，因此持续的互动陪玩与保暖护理至关重要。今天 PetSelf 将为您解析东方短毛猫的语音沟通信号、体温维持与3阶段日常护理流程。
+东方短毛猫（Oriental Shorthair）是源自暹罗猫（Siamese）血统的现代猫种，以其巨大的蝙蝠耳、利落的楔形 head 以及修长优雅的身材而闻名。它们性格外向极具“唠叨（Vocal）”属性，喜欢用丰富的鸣叫声与主人不断对话，同时智商极高且极其粘人，在欧美深受资深猫奴喜爱。然而，由于其几乎没有底层绒毛（Undercoat），薄薄的短毛使其极度怕冷，室温稍低就容易导致免疫力下降或患上上呼吸道疾病。此外，它们极度害怕孤单，若长时间独自在家易产生分离焦虑与破坏行为，因此持续的互动陪玩与保暖护理至关重要。本指南将为您解析东方短毛猫的语音沟通信号、体温维持与3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "Los Corgis tienen un manto doble de gran caída. Cepille diariamente alternando un cepillo carda (slicker) y un rastrillo para eliminar el pelo muerto, favorecer la circulación de aire y prevenir infecciones."
 ---
 
-El Welsh Corgi es una raza muy querida por sus patas cortas y su trasero redondeado. Como antiguos perros pastores, poseen una gran inteligencia, alta energía activa y una personalidad audaz. Sin embargo, su espalda larga y patas cortas ejercen una gran presión estructural sobre la columna y las articulaciones. La obesidad aumenta drásticamente el riesgo de hernias discales. Hoy, PetSelf explora su lenguaje corporal y presenta una rutina diaria de 3 pasos para proteger su columna y rótulas de por vida.
+El Welsh Corgi es una raza muy querida por sus patas cortas y su trasero redondeado. Como antiguos perros pastores, poseen una gran inteligencia, alta energía activa y una personalidad audaz. Sin embargo, su espalda larga y patas cortas ejercen una gran presión estructural sobre la columna y las articulaciones. La obesidad aumenta drásticamente el riesgo de hernias discales. En esta guía se explora su lenguaje corporal y presenta una rutina diaria de 3 pasos para proteger su columna y rótulas de por vida.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

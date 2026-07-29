@@ -29,7 +29,7 @@ faqs:
     answer: "버미즈는 속털(언더코트)이 적은 단모종으로 털 빠짐이 비교적 적습니다. 주 1 ~ 2회 고무 브러시나 실리콘 장갑으로 가볍게 빗어주면 실크 같은 특유의 윤기와 단단한 모질 상태를 완벽하게 유지할 수 있습니다."
 ---
 
-버미즈 고양이는 실크처럼 부드럽고 단단한 단모, 깊은 황금빛 눈동자, 그리고 사람을 끈질기게 따라다니는 '고양이 탈을 쓴 강아지(개냥이)' 성격으로 북미와 유럽에서 폭발적인 인기를 누리는 품종입니다. 매우 사교적이고 영리하지만, 보호자에 대한 의존도가 높아 오랜 시간 혼자 남겨지면 심각한 분리불안과 스트레스를 겪기 쉽습니다. 오늘 PetSelf에서는 버미즈 고양이 특유의 애정 표현 및 불안 시그널을 분석하고, 분리불안 예방과 실내 활동성 충족, 건강한 체중 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+버미즈 고양이는 실크처럼 부드럽고 단단한 단모, 깊은 황금빛 눈동자, 그리고 사람을 끈질기게 따라다니는 '고양이 탈을 쓴 강아지(개냥이)' 성격으로 북미와 유럽에서 폭발적인 인기를 누리는 품종입니다. 매우 사교적이고 영리하지만, 보호자에 대한 의존도가 높아 오랜 시간 혼자 남겨지면 심각한 분리불안과 스트레스를 겪기 쉽습니다. 이번 가이드에서는 버미즈 고양이 특유의 애정 표현 및 불안 시그널을 분석하고, 분리불안 예방과 실내 활동성 충족, 건강한 체중 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

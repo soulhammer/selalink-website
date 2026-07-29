@@ -27,7 +27,7 @@ faqs:
 
 커피 원두는 볶는(로스팅) 순간부터 이산화탄소를 방출하며 공기 중의 산소, 습도, 빛, 온도 변화와 접촉하면서 빠르게 산화합니다. 원두는 표면에 미세한 구멍이 많은 다공성 구조라 주변의 습기와 냄새를 스펀지처럼 흡수하기 때문에 올바른 보관법이 커피 맛의 90%를 결정합니다.
 
-오늘 FreshSnap에서는 미국 스페셜티 커피 협회(SCA)와 커피 전문가들이 권장하는 원두의 고유한 향미와 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 스페셜티 커피 협회(SCA)와 커피 전문가들이 권장하는 원두의 고유한 향미와 풍미를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

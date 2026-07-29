@@ -29,7 +29,7 @@ faqs:
     answer: "ミニチュア・シュナウザー特有の遺伝性皮膚疾患「シュナウザー・コメド症候群（Schnauzer Comedone Syndrome）」です。毛包の角化異常により背中のラインに皮脂が詰まり、角栓（ブラックヘッド）やニキビが形成されます。無理に潰すと細菌感染を起こすため、薬用シャンプー（ベンゾイルパーオキサイドなど）での定期的な角質ケアが効果的です。"
 ---
 
-立派な眉毛とおじいさんのような愛らしいヒゲが特徴のミニチュア・シュナウザー（Miniature Schnauzer）は、高い知能と深い忠誠心で世界中から愛される名門テリア種です。ミニチュア・シュナウザーは脂質代謝異常による遺伝性の高脂血症（Hyperlipidemia）の発症率が極めて高く、脂っこい食べ物を摂取すると致死的な「急性膵炎（Pancreatitis）」を非常に起こしやすい犬種です。また、背中に黒ずみやニキビができる特有の皮膚疾患「シュナウザー・コメド症候群（Comedone Syndrome）」や、濡れたヒゲの湿疹、尿路結石に注意が必要です。本日PetSelfでは、シュナウザーのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+立派な眉毛とおじいさんのような愛らしいヒゲが特徴のミニチュア・シュナウザー（Miniature Schnauzer）は、高い知能と深い忠誠心で世界中から愛される名門テリア種です。ミニチュア・シュナウザーは脂質代謝異常による遺伝性の高脂血症（Hyperlipidemia）の発症率が極めて高く、脂っこい食べ物を摂取すると致死的な「急性膵炎（Pancreatitis）」を非常に起こしやすい犬種です。また、背中に黒ずみやニキビができる特有の皮膚疾患「シュナウザー・コメド症候群（Comedone Syndrome）」や、濡れたヒゲの湿疹、尿路結石に注意が必要です。本記事では、シュナウザーのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

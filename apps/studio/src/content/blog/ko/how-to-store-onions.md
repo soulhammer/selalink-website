@@ -27,7 +27,7 @@ faqs:
 
 양파는 수확 후에도 호흡하며 습도를 조절하려는 구근 채소입니다. 수분이 고이거나 상온 다습한 환경에 방치되면 잿빛곰팡이(Botrytis)와 무름병균이 쉽게 번식하며, 감자와 같이 두면 서로의 수분과 에틸렌 가스를 자극해 폭발적으로 부패합니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양파의 수분과 가스를 완벽히 제어하여 한 달 이상 아삭한 단단함을 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양파의 수분과 가스를 완벽히 제어하여 한 달 이상 아삭한 단단함을 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

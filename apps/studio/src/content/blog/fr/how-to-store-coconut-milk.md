@@ -27,7 +27,7 @@ Avez-vous déjà utilisé du lait de coco en conserve et laissé le reste dans l
 
 Le lait de coco est très riche en graisses végétales, ce qui le rend sensible à l'oxydation des lipides et à la prolifération bactérienne à température ambiante. Laisser une boîte en fer ouverte au frais entraîne l'oxydation de l'étain, qui se dissout dans le liquide et lui donne un goût métallique. Le transfert de récipient et le contrôle de la température sont primordiaux.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation du lait de coco en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa fraîcheur et sa sécurité. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation du lait de coco en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa fraîcheur et sa sécurité. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

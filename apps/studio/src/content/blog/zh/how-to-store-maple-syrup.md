@@ -27,7 +27,7 @@ faqs:
 
 与用玉米糖浆调配的勾兑糖浆不同，纯枫糖浆是完全由枫树汁液浓缩而成的天然食品，绝不含防腐剂。虽然其含糖量高达约66%，但开封接触常温空气后，极易成为耐旱霉菌孢子滋生的温床。因此开封后必须立即冷藏保存。
 
-今天 FreshSnap 将基于 USDA 和 CFIA 的科学指南，为您介绍阻断霉菌滋生、安全保持枫糖浆浓郁风味的 3 步储存秘诀。🛡️
+本指南将基于 USDA 和 CFIA 的科学指南，为您介绍阻断霉菌滋生、安全保持枫糖浆浓郁风味的 3 步储存秘诀。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

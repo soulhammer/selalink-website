@@ -29,7 +29,7 @@ faqs:
     answer: "人工着色料や合成ビタミンが過剰に含まれたフード、高脂質なシード食、またはカルシウムバランスの乱れにより生じるオオハナインコ特有の神経反応です。すぐに人工添加物入りフードを中止し、無添加の新鮮な自然食へ切り替えてください。"
 ---
 
-オオハナインコ（Eclectus Parrot）は、鳥類の中でオスとメスの羽色が完全に異なる「極端な性的二型（Sexual Dimorphism）」を持つ代表的な中大型インコです。オスは幻想的なエメラルドグリーンにトウモロコシのようなオレンジ色のクチバシ、メスは情熱的な赤と紫色の羽に黒いクチバシを持ち、かつては別種と誤認されていたほどです。解剖学的に他のインコよりも消化管（前胃および腸）が非常に長いため、繊維質と水分が豊富な生野菜、果物、複合炭水化物中心の食事が不可欠です。人工着色料や高脂質なシード食を与えると、足指の痙攣（トゥ・タッピング）や羽ばたき（ウィング・フリッピング）などの神経症状を引き起こすことがあります。今回はPetSelfが、オオハナインコの食事とケアのコツを解説します。
+オオハナインコ（Eclectus Parrot）は、鳥類の中でオスとメスの羽色が完全に異なる「極端な性的二型（Sexual Dimorphism）」を持つ代表的な中大型インコです。オスは幻想的なエメラルドグリーンにトウモロコシのようなオレンジ色のクチバシ、メスは情熱的な赤と紫色の羽に黒いクチバシを持ち、かつては別種と誤認されていたほどです。解剖学的に他のインコよりも消化管（前胃および腸）が非常に長いため、繊維質と水分が豊富な生野菜、果物、複合炭水化物中心の食事が不可欠です。人工着色料や高脂質なシード食を与えると、足指の痙攣（トゥ・タッピング）や羽ばたき（ウィング・フリッピング）などの神経症状を引き起こすことがあります。本記事では、オオハナインコの食事とケアのコツを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

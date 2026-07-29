@@ -29,7 +29,7 @@ faqs:
     answer: "진짜 미스터리 스네일(Pomacea bridgesii)은 이빨(치설) 구조상 건강하고 단단한 살아있는 수초를 갉아먹지 못하고 죽거나 시든 잎만 먹습니다. 단, 외형이 유사한 카나리큘라타(Pomacea canaliculata) 종은 살아있는 수초를 모두 먹어 치우므로, 구입 시 종 구분을 명확히 하고 나나, 미크로소리움, 볼비티스 같은 단단한 수초와 합사하는 것이 안전합니다."
 ---
 
-애플 스네일(미스터리 스네일)은 골든, 퍼플, 블루, 핑크 등 다채롭고 알록달록한 패각(껍데기) 빛깔과 수조 내 잔반 및 이끼 청소 능력으로 전 세계 물생활 동호인들에게 큰 사랑을 받는 수생 무척추동물입니다. 긴 촉수와 사이펀(수면 호흡관)을 이용해 환경을 탐색하는 귀여운 모습이 매력적이지만, 산성 수질에서는 패각이 부식되거나 구멍이 뚫리기 쉽습니다. 또한 알을 낳기 위해 수면 위로 기어올라가 수조 밖으로 탈출하는 습성이 있어 뚜껑 설치가 필수적입니다. 오늘 PetSelf에서는 애플 스네일의 본능 시그널을 해석하고, 칼슘 패각 관리, 탈출 방지 대책, 수초 합사를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
+애플 스네일(미스터리 스네일)은 골든, 퍼플, 블루, 핑크 등 다채롭고 알록달록한 패각(껍데기) 빛깔과 수조 내 잔반 및 이끼 청소 능력으로 전 세계 물생활 동호인들에게 큰 사랑을 받는 수생 무척추동물입니다. 긴 촉수와 사이펀(수면 호흡관)을 이용해 환경을 탐색하는 귀여운 모습이 매력적이지만, 산성 수질에서는 패각이 부식되거나 구멍이 뚫리기 쉽습니다. 또한 알을 낳기 위해 수면 위로 기어올라가 수조 밖으로 탈출하는 습성이 있어 뚜껑 설치가 필수적입니다. 이번 가이드에서는 애플 스네일의 본능 시그널을 해석하고, 칼슘 패각 관리, 탈출 방지 대책, 수초 합사를 위한 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

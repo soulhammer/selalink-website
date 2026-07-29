@@ -29,7 +29,7 @@ faqs:
     answer: "아니요. 카나리아는 앵무새와 달리 핀치류에 속하여 과도한 스킨십이나 핸들링을 극심한 스트레스로 받아들입니다. 또한 수컷끼리는 영역 싸움을 하므로 단독 사육이 기본이며, 보는 즐거움과 소리를 감상하는 관상 케어가 적합합니다."
 ---
 
-감미로운 울음소리와 밝은 깃털로 오랜 시간 사랑받아 온 카나리아(Canary)는 대표적인 관상용 핀치류 조류입니다. 카나리아는 다른 앵무새와 달리 사람과의 무리한 스킨십보다는 독립적인 공간을 선호하는 품종입니다. 하지만 조류 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 유독가스(테플론, 방향제)에 매우 취약하며, 계절별 일조 시간 불균형은 극심한 털갈이 스트레스와 면역력 저하를 유발합니다. 또한 알곡 위주의 식단은 간지방증과 난산(Egg Binding)을 유발할 수 있습니다. 오늘 PetSelf에서는 카나리아의 건강 신호를 파악하고 호흡기와 깃털을 지키는 3단계 케어 루틴을 소개합니다.
+감미로운 울음소리와 밝은 깃털로 오랜 시간 사랑받아 온 카나리아(Canary)는 대표적인 관상용 핀치류 조류입니다. 카나리아는 다른 앵무새와 달리 사람과의 무리한 스킨십보다는 독립적인 공간을 선호하는 품종입니다. 하지만 조류 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 유독가스(테플론, 방향제)에 매우 취약하며, 계절별 일조 시간 불균형은 극심한 털갈이 스트레스와 면역력 저하를 유발합니다. 또한 알곡 위주의 식단은 간지방증과 난산(Egg Binding)을 유발할 수 있습니다. 이번 가이드에서는 카나리아의 건강 신호를 파악하고 호흡기와 깃털을 지키는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

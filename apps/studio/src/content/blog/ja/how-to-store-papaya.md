@@ -27,7 +27,7 @@ faqs:
 
 パパイヤは代表的な追熟型の熱帯果実で、10℃以下の低温に弱いため未熟な状態で冷蔵保存すると低温障害（Chilling Injury）を起こし、追熟が止まり組織が急速に腐敗します。皮の色の変化に合わせて常温保存と冷蔵保存を正しく切り替えることが、甘みと鮮度を最大限に引き出す鍵となります。
 
-本日FreshSnapでは、USDAと農村振興庁の科学的ガイドラインに基づき、低温障害を防ぎ最高の甘さを維持する3段階の保存法をご紹介します。🛡️
+本記事では、USDAと農村振興庁の科学的ガイドラインに基づき、低温障害を防ぎ最高の甘さを維持する3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

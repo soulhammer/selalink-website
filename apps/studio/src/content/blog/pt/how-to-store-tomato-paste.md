@@ -27,7 +27,7 @@ Você já abriu uma lata de extrato de tomate, usou uma ou duas colheres e deixo
 
 O extrato de tomate contém ácidos e açúcares altamente concentrados. Após aberto, o contato com o oxigênio desencadeia oxidação, migração de metal da lata e surgimento de mofo na superfície.
 
-Hoje, o FreshSnap apresenta um guia em 3 etapas baseado em recomendações de especialistas para manter o sabor concentrado e o frescor do seu extrato de tomate por mais de 90 dias. 🛡️
+Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter o sabor concentrado e o frescor do seu extrato de tomate por mais de 90 dias. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

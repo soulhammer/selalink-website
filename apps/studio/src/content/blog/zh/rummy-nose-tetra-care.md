@@ -29,7 +29,7 @@ faqs:
     answer: "红鼻剪刀需要至少10尾以上（建议12-15尾以上）的群养数量才能建立充足的安全感并展现群游。如果数量太少，或者缸内缺乏开阔的游动空间，它们可能会分散躲藏在水草丛中。"
 ---
 
-红鼻剪刀（Hemigrammus bleheri）拥有鲜红如红宝石般的头部、黑白相间的黑白条纹尾鳍，以及在草缸中整齐划一的群游（Schooling）习性，是全球大中型水草缸中不可或缺的经典观赏鱼。由于对水质和环境极度敏感，其头部的红艳程度是实时反映缸内水质（硝酸盐、pH值）与健康状态的“生物晴雨表”。此外，只有保持10尾以上的群养数量，它们才能展现出令人叹为观止的同步群游姿态并获得安全感。今天 PetSelf 将解析红鼻剪刀的本能信号，并公开包含发色维持、水质监控及群游维护的3阶段日常流程。
+红鼻剪刀（Hemigrammus bleheri）拥有鲜红如红宝石般的头部、黑白相间的黑白条纹尾鳍，以及在草缸中整齐划一的群游（Schooling）习性，是全球大中型水草缸中不可或缺的经典观赏鱼。由于对水质和环境极度敏感，其头部的红艳程度是实时反映缸内水质（硝酸盐、pH值）与健康状态的“生物晴雨表”。此外，只有保持10尾以上的群养数量，它们才能展现出令人叹为观止的同步群游姿态并获得安全感。本指南将解析红鼻剪刀的本能信号，并公开包含发色维持、水质监控及群游维护的3阶段日常流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

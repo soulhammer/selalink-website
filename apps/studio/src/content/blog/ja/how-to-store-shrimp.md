@@ -27,7 +27,7 @@ faqs:
 
 エビはタンパク質と水分が多く、酵素の働きが非常に活発なため、水揚げや購入直後から劣化が始まる非常に傷みやすい水産物です。特に空気中の酸素と反応するとチロシナーゼ（Tyrosinase）酵素の働きで頭部から黒く変色する黒変現象（Melanosis）が発生し、雑菌が急速に増殖します。
 
-本日FreshSnapでは、専門家が推奨するエビの鮮度とぷりぷり感を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
+本記事では、専門家が推奨するエビの鮮度とぷりぷり感を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

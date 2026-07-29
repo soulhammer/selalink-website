@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan saus tiram yang sudah dibuka di dalam lemari dapur deka
 
 Berbeda dari kecap asin, saus tiram mengandung protein tinggi dari ekstrak tiram, gula, dan bahan organik di samping garam. Setelah dibuka, paparan udara menjadi media ideal bagi spora jamur untuk berkembang biak. Hawa panas dan kelembapan di sekitar area memasak mempercepat pembusukan, sehingga penyimpanan di dalam kulkas sangat dianjurkan.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan saus tiram 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan MFDS untuk mencegah jamur dan menjaga rasa umami tetap segar. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan saus tiram 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan MFDS untuk mencegah jamur dan menjaga rasa umami tetap segar. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "皮脂の分泌量に応じて、通常1〜2週間に1回程度、ぬるま湯と低刺激な猫用pH中性シャンプーで洗うのが理想的です。頻繁すぎるシャンプーは皮膚の乾燥を招き、逆効果として皮脂過多を起こすため、普段は毎日のタオルケアで管理します。"
 ---
 
-スフィンクス（Sphynx Cat）は自然発生的な遺伝子変異によって被毛を持たずに生まれた、非常に神秘的で特別な猫です。毛がないため皮脂腺から分泌される脂分が毛に吸収されず皮膚表面に蓄積するため、こまめに拭き取らないと茶色の皮脂汚れや黒ずみ（ブラックヘッド）、皮膚炎を引き起こしやすくなります。🐈また、外気から体を守る被毛がないため寒さに極めて弱く、容易に体温を失ってしまいます。本日PetSelfでは、スフィンクスのデリケートな皮膚を清潔に保ち、体温を暖かく維持するための3段階カスタマイズホームケアを紹介します。
+スフィンクス（Sphynx Cat）は自然発生的な遺伝子変異によって被毛を持たずに生まれた、非常に神秘的で特別な猫です。毛がないため皮脂腺から分泌される脂分が毛に吸収されず皮膚表面に蓄積するため、こまめに拭き取らないと茶色の皮脂汚れや黒ずみ（ブラックヘッド）、皮膚炎を引き起こしやすくなります。🐈また、外気から体を守る被毛がないため寒さに極めて弱く、容易に体温を失ってしまいます。本記事では、スフィンクスのデリケートな皮膚を清潔に保ち、体温を暖かく維持するための3段階カスタマイズホームケアを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

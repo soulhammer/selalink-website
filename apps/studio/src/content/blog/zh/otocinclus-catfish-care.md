@@ -29,7 +29,7 @@ faqs:
     answer: "可以投喂去皮烫熟（沸水煮 2 ~ 3 分钟）的西葫芦切片、黄瓜切片，或是含有螺旋藻的小粒沉底片状饲料。初期它们可能不知道是食物，可用重物固定在水草附近，并在关灯后的夜晚让其安心啃食。"
 ---
 
-筛耳鲶（Otocinclus spp.，俗称“小精灵鱼”）是原产于南美洲亚马逊河流域的小型吸盘式甲鲶科鱼类，是全球草缸玩家眼中的“天然藻类清理者”。成鱼体长仅约 3 ~ 4 cm，性格极其温和，绝不会攻击或骚扰其他鱼类、观赏虾或无脊椎动物。然而，由于它们在野生环境中几乎完全以水草和造景石表面的微藻及生物膜（Biofilm）为食，如果将其放人过于干净或刚刚搭建的新开水缸中，极易因缺乏食物而饿死（Starvation）。此外，它们对水质波动及未建立好的硝化系统极度敏感，因此必须在水缸生态完全建立稳定后，经过过水适应才能入缸。今天 PetSelf 将为您解析小精灵鱼的行为信号、营养补充技巧及3阶段日常护理流程。
+筛耳鲶（Otocinclus spp.，俗称“小精灵鱼”）是原产于南美洲亚马逊河流域的小型吸盘式甲鲶科鱼类，是全球草缸玩家眼中的“天然藻类清理者”。成鱼体长仅约 3 ~ 4 cm，性格极其温和，绝不会攻击或骚扰其他鱼类、观赏虾或无脊椎动物。然而，由于它们在野生环境中几乎完全以水草和造景石表面的微藻及生物膜（Biofilm）为食，如果将其放人过于干净或刚刚搭建的新开水缸中，极易因缺乏食物而饿死（Starvation）。此外，它们对水质波动及未建立好的硝化系统极度敏感，因此必须在水缸生态完全建立稳定后，经过过水适应才能入缸。本指南将为您解析小精灵鱼的行为信号、营养补充技巧及3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

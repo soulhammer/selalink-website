@@ -27,7 +27,7 @@ faqs:
 
 건조 콩은 수분 함량이 낮아 장기 보관이 비교적 용이한 식재료이지만, 공기 중의 습기, 빛, 열, 그리고 곡물 해충에 매우 취약합니다. 올바르지 않게 보관하면 수분이 지나치게 빠져나가 고온 다습한 환경에서 껍질이 단단해지는 '난소성(Hard-to-cook)' 현상이 발생하거나 곰팡이와 벌레가 번식하게 됩니다.
 
-오늘 FreshSnap에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 콩의 영양과 아삭·부드러운 식감을 변질 없이 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 콩의 영양과 아삭·부드러운 식감을 변질 없이 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

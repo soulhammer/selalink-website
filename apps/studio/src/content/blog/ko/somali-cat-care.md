@@ -29,7 +29,7 @@ faqs:
     answer: "소말리는 뛰어오르는 것을 매우 좋아하므로 높고 안정적인 캣타워와 수직 이동로가 필수적입니다. 또한 털이 부드러운 세미 장모이므로, 주 3회 이상 핀 브러시로 속털까지 빗어주어야 털 뭉침과 헤어볼 구토를 예방할 수 있습니다."
 ---
 
-풍성한 꼬리와 우아한 틱트(Ticked) 코트로 '작은 여우'라는 별명을 가진 소말리 고양이(Somali Cat)는 아비시니안의 장모 유전자에서 탄생한 매우 아름답고 활발한 품종입니다. 호기심이 왕성하고 지능이 높아 '고양이계의 장난꾸러기'라 불릴 만큼 뛰어난 인지 능력과 운동 신경을 자랑합니다. 그러나 호기심 많은 성격 뒤에는 적혈구가 파괴되어 심각한 빈혈을 유발하는 유전 질환인 '피루베이트 키나아제 결핍증(PKDef)'과 진행성 망막 위축증(PRA)의 위험이 잠재되어 있습니다. 또한 털이 매우 부드럽고 촘촘한 세미 장모(Semi-longhair) 모질을 가지고 있어 관리가 소홀하면 헤어볼 구토와 털 엉킴이 쉽게 발생합니다. 오늘 PetSelf에서는 소말리의 활력 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.
+풍성한 꼬리와 우아한 틱트(Ticked) 코트로 '작은 여우'라는 별명을 가진 소말리 고양이(Somali Cat)는 아비시니안의 장모 유전자에서 탄생한 매우 아름답고 활발한 품종입니다. 호기심이 왕성하고 지능이 높아 '고양이계의 장난꾸러기'라 불릴 만큼 뛰어난 인지 능력과 운동 신경을 자랑합니다. 그러나 호기심 많은 성격 뒤에는 적혈구가 파괴되어 심각한 빈혈을 유발하는 유전 질환인 '피루베이트 키나아제 결핍증(PKDef)'과 진행성 망막 위축증(PRA)의 위험이 잠재되어 있습니다. 또한 털이 매우 부드럽고 촘촘한 세미 장모(Semi-longhair) 모질을 가지고 있어 관리가 소홀하면 헤어볼 구토와 털 엉킴이 쉽게 발생합니다. 이번 가이드에서는 소말리의 활력 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

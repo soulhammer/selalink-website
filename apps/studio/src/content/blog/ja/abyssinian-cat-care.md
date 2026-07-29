@@ -29,7 +29,7 @@ faqs:
     answer: "アビシニアンは「猫界のアクロバット選手」と呼ばれるほど高い運動量と高所欲求を持つ品種です。キャットタワーや壁面ステップが不足するとストレスから家具を傷つけたり夜運動（ズームイン）を起こすため、垂直空間を十分に確保し、毎日20分以上の狩りごっこでエネルギーを発散させてください。"
 ---
 
-プーマを思わせるしなやかな体型と美しく輝くティッキングタビーの被毛を持つアビシニアン（Abyssinian）は、「猫界のピエロ」と呼ばれるほど陽気で知能が高い人気品種です。アビシニアンは旺盛な好奇心と強い高所欲求を持つため、キャットタワーなどの高い垂直空間が不足するとストレスを感じやすくなります。また、赤血球が破壊される遺伝性疾患「ピルビン酸キナーゼ欠損症（PKD貧血）」や若年性歯肉炎・歯周病、進行性網膜萎縮症（PRA）にかかりやすい傾向があります。本日PetSelfでは、アビシニアンのサインを読み解き、健康を守る3ステップルーティンをお届けします。
+プーマを思わせるしなやかな体型と美しく輝くティッキングタビーの被毛を持つアビシニアン（Abyssinian）は、「猫界のピエロ」と呼ばれるほど陽気で知能が高い人気品種です。アビシニアンは旺盛な好奇心と強い高所欲求を持つため、キャットタワーなどの高い垂直空間が不足するとストレスを感じやすくなります。また、赤血球が破壊される遺伝性疾患「ピルビン酸キナーゼ欠損症（PKD貧血）」や若年性歯肉炎・歯周病、進行性網膜萎縮症（PRA）にかかりやすい傾向があります。本記事では、アビシニアンのサインを読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

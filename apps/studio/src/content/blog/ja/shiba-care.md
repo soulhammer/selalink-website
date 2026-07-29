@@ -29,7 +29,7 @@ faqs:
     answer: "猫に似た性格で、過剰なスキンシップや大げさな表現をしないのが柴犬の特徴です。激しくしっぽを振らなくても、飼い主の近くで静かに寝転がっているだけで、十分な愛情表現なのです。"
 ---
 
-柴犬は日本や韓国だけでなく、世界中で愛されている固有種です。狐に似た顔立ちとピンと立った尻尾が魅力的ですが、性格は猫のように独立心が強く、頑固で警戒心が強いです。🐕特に柴犬は足先や耳、お尻など、体の末端部分を触られることに非常に敏感で、無理なブラッシングや爪切りを試みると悲鳴のような「シバスクリーム」を上げて拒否しがちです。また、密度の高い二重毛のため、毛が抜ける時期には凄まじい量が抜けます。本日、PetSelfでは柴犬の独立性を尊重しつつ、二重毛をケアしスキンシップを図る3段階ルーティンを紹介します。
+柴犬は日本や韓国だけでなく、世界中で愛されている固有種です。狐に似た顔立ちとピンと立った尻尾が魅力的ですが、性格は猫のように独立心が強く、頑固で警戒心が強いです。🐕特に柴犬は足先や耳、お尻など、体の末端部分を触られることに非常に敏感で、無理なブラッシングや爪切りを試みると悲鳴のような「シバスクリーム」を上げて拒否しがちです。また、密度の高い二重毛のため、毛が抜ける時期には凄まじい量が抜けます。本記事では、柴犬の独立性を尊重しつつ、二重毛をケアしスキンシップを図る3段階ルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Pernahkah Anda menyimpan sisa lembaran roti tawar di kulkas (refrigerator) agar 
 
 Pati dalam tepung terigu mengalami proses 'retrogradasi pati (penuaan/staling)' yang sangat cepat pada suhu pendingin kulkas antara 1–6°C, di mana molekul air dikeluarkan dan pati mengkristal menjadi keras. Oleh karena itu, mendinginkan roti di kulkas sebenarnya adalah cara terburuk jika Anda ingin menjaga kelembutan dan kelembapannya.
 
-Hari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan FSA untuk menjaga kelembapan dan kelembutan roti segar hingga 90 hari. 🛡️
+Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan FSA untuk menjaga kelembapan dan kelembutan roti segar hingga 90 hari. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

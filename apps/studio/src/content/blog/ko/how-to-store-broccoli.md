@@ -27,7 +27,7 @@ faqs:
 
 브로콜리는 봉오리가 촘촘하게 뭉쳐 있는 십자화과 채소로, 호흡 작용이 매우 활발하고 에틸렌 가스와 열을 스스로 분출하는 특성이 있습니다. 습도 조절을 잘못하면 촘촘한 꽃봉오리 사이에 세균이 증식하거나 빠르게 노화되어 영양소가 파괴됩니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 농촌진흥청(RDA)의 가이드를 바탕으로, 브로콜리의 수분을 유지하면서 엽록소 파괴를 막아주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 농촌진흥청(RDA)의 가이드를 바탕으로, 브로콜리의 수분을 유지하면서 엽록소 파괴를 막아주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

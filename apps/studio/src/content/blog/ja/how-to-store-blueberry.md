@@ -27,7 +27,7 @@ faqs:
 
 ブルーベリーは皮が非常に薄く湿気に弱い小果樹類で、湿度管理を少しでも怠ると灰色カビ病菌（Botrytis）が急激に繁殖してしまいます。特に洗うタイミングと表面の天然保護膜（ブルーム）をいかに維持するかが鮮度キープの鍵となります。
 
-本日FreshSnapでは、米国農務省（USDA）と農村振興庁（RDA）の科学的ガイドラインに基づき、ブルーベリーの張りと栄養を10日以上 safe に保つ3段階の保存法をご紹介します。🛡️
+本記事では、米国農務省（USDA）と農村振興庁（RDA）の科学的ガイドラインに基づき、ブルーベリーの張りと栄養を10日以上 safe に保つ3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

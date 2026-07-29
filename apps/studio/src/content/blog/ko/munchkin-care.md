@@ -29,7 +29,7 @@ faqs:
     answer: "체중이 증가하면 다리가 짧고 척추가 긴 구조상 관절 마모와 디스크 질환을 극도로 촉진합니다. 따라서 사료 공급량을 제한하여 적정 체중을 엄격히 유지해야 합니다."
 ---
 
-짧고 귀여운 다리와 외향적인 성격으로 사랑받는 먼치킨 고양이는 민첩하고 뛰어난 달리기 능력을 자랑합니다. 하지만 신체 특성상 높은 곳에서 뛰어내릴 때 척추와 관절에 가해지는 충격이 일반 고양이보다 훨씬 큽니다. 이 때문에 척추전만증(Lordosis)이나 조기 퇴행성 관절염에 취약한 유전적 성향을 보입니다. 오늘 PetSelf에서는 먼치킨 고양이가 보내는 관절 이상 신호를 해독하고, 관절과 척추를 보호하며 오랫동안 건강한 걸음걸이를 보장하는 3단계 저지대 홈케어 루틴을 공유합니다.
+짧고 귀여운 다리와 외향적인 성격으로 사랑받는 먼치킨 고양이는 민첩하고 뛰어난 달리기 능력을 자랑합니다. 하지만 신체 특성상 높은 곳에서 뛰어내릴 때 척추와 관절에 가해지는 충격이 일반 고양이보다 훨씬 큽니다. 이 때문에 척추전만증(Lordosis)이나 조기 퇴행성 관절염에 취약한 유전적 성향을 보입니다. 이번 가이드에서는 먼치킨 고양이가 보내는 관절 이상 신호를 해독하고, 관절과 척추를 보호하며 오랫동안 건강한 걸음걸이를 보장하는 3단계 저지대 홈케어 루틴을 공유합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

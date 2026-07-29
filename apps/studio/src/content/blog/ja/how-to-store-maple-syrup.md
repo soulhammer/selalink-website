@@ -27,7 +27,7 @@ faqs:
 
 コーンシロップで作られた人工シロップと異なり、純粋なメープルシロップはカエデの樹液のみを濃縮した天然食品で、防腐剤が一切含まれていません。糖度は約66%と高いものの、開封して常温の空気に触れると耐乾性カビ胞子が非常に繁殖しやすい環境になります。そのため、開封後は直ちに冷蔵保存することが不可欠です。
 
-本日FreshSnapでは、USDAやCFIAの科学的ガイドラインに基づき、カビの発生を遮断し風味を safe に保つ3段階の保存法をご紹介します。🛡️
+本記事では、USDAやCFIAの科学的ガイドラインに基づき、カビの発生を遮断し風味を safe に保つ3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

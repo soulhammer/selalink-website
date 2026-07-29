@@ -33,7 +33,7 @@ faqs:
 
 하지만 이 접힌 귀의 매력 뒤에는 골격 형성 발달에 문제를 일으키는 치명적인 유전 질환인 '골연골이형성증(Osteochondrodysplasia)'이라는 그림자가 있습니다. 귀 연골을 접히게 만든 유전자가 전신 골격에도 영향을 미쳐 평생 꼬리나 다리 연골이 굳어지는 만성 관절 통증에 노출될 확률이 무척 높습니다. 또한, 접힌 귀 구조로 인해 내부 통풍이 전혀 안 되어 귀 진드기나 외이염 등 귓병이 만성화되기 쉽습니다.
 
-오늘 PetSelf에서는 스코티시 폴드가 통증을 느낄 때 보내는 특수한 신체를 해독하고, 관절 충격을 최소화하며 귀 위생을 철저히 지키는 3단계 맞춤형 케어 루틴을 소개합니다.
+이번 가이드에서는 스코티시 폴드가 통증을 느낄 때 보내는 특수한 신체를 해독하고, 관절 충격을 최소화하며 귀 위생을 철저히 지키는 3단계 맞춤형 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "네, 독이 전혀 없습니다. 치명적인 독을 가진 코랄스네이크(Coral Snake)의 색상을 본뜬 '베이트형 의태(Batesian Mimicry)' 현상입니다. 생물학적 구별법으로 'Red on Black, Friend of Jack / Red on Yellow, Kill a Fellow'라는 서양 속담이 있듯, 붉은색 띠가 검은색 띠와 붙어 있는 밀크스네이크는 무독성입니다."
 ---
 
-밀크스네이크(Milk Snake)는 콘스네이크, 볼파이톤과 함께 전 세계 애완뱀 시장에서 가장 사랑받는 3대 관상용 뱀 중 하나입니다. 강렬한 붉은색, 검은색, 노란색(또는 하얀색)의 선명한 밴드 패턴이 특징이며, 이는 치명적인 독뱀인 코랄스네이크(산호뱀)의 외형을 모방하여 포식자를 퇴치하는 생물학적 '베이트형 의태(Batesian Mimicry)'의 대표적 사례입니다. 아름다운 외형과 달리 완전한 무독성 뱀으로, 적절한 사육 환경만 갖추어지면 순하고 건강하게 자랍니다. 변온동물인 파충류 특성상 체온 조절을 위한 쿨존(24 ~ 26℃)과 핫존(29 ~ 31℃)의 온도 구배 세팅과 규칙적인 피딩, 탈피 관리가 필수적입니다. 오늘 PetSelf에서는 밀크스네이크의 방어·탈피 신호와 건강 유지를 위한 3단계 사육 케어 루틴을 정리해 드립니다.
+밀크스네이크(Milk Snake)는 콘스네이크, 볼파이톤과 함께 전 세계 애완뱀 시장에서 가장 사랑받는 3대 관상용 뱀 중 하나입니다. 강렬한 붉은색, 검은색, 노란색(또는 하얀색)의 선명한 밴드 패턴이 특징이며, 이는 치명적인 독뱀인 코랄스네이크(산호뱀)의 외형을 모방하여 포식자를 퇴치하는 생물학적 '베이트형 의태(Batesian Mimicry)'의 대표적 사례입니다. 아름다운 외형과 달리 완전한 무독성 뱀으로, 적절한 사육 환경만 갖추어지면 순하고 건강하게 자랍니다. 변온동물인 파충류 특성상 체온 조절을 위한 쿨존(24 ~ 26℃)과 핫존(29 ~ 31℃)의 온도 구배 세팅과 규칙적인 피딩, 탈피 관리가 필수적입니다. 이번 가이드에서는 밀크스네이크의 방어·탈피 신호와 건강 유지를 위한 3단계 사육 케어 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

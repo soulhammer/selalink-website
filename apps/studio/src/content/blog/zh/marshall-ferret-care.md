@@ -29,7 +29,7 @@ faqs:
     answer: "雪貂皮脂腺会分泌独特的麝香气味，如果为了消除异味而频繁洗澡，反而会导致皮肤干燥，皮脂分泌爆发而使味道加重。建议洗澡限制在每月1次，频繁清洗它们接触的吊床和毛毯是最佳方法。"
 ---
 
-拥有细长柔软的身体和调皮眼神的马歇尔雪貂社交性极佳，是能够与饲主直接进行情感交流和游戏的独特肉食小动物。然而，它们拥有一颗捕食本能和强烈的探索欲，每天必须在安全的环境中放风以消耗精力，否则容易患上抑郁症。此外，它们极易感染耳痒螨等耳道疾病，定期的清洁和预防必不可少。当它们开心到极点时，会扭动身体并在空中弹跳，跳起独特的舞蹈。今天 PetSelf 将带您了解马歇尔雪貂的兴奋舞姿和鸣叫声，并介绍3阶段每日放风护理流程。
+拥有细长柔软的身体和调皮眼神的马歇尔雪貂社交性极佳，是能够与饲主直接进行情感交流和游戏的独特肉食小动物。然而，它们拥有一颗捕食本能和强烈的探索欲，每天必须在安全的环境中放风以消耗精力，否则容易患上抑郁症。此外，它们极易感染耳痒螨等耳道疾病，定期的清洁和预防必不可少。当它们开心到极点时，会扭动身体并在空中弹跳，跳起独特的舞蹈。本指南将带您了解马歇尔雪貂的兴奋舞姿和鸣叫声，并介绍3阶段每日放风护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

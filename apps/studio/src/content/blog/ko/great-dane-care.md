@@ -29,7 +29,7 @@ faqs:
     answer: "성견 그레이트 데인은 실내에서 매우 조용하고 활동량이 적어 '소파 위의 거인'이라 불릴 만큼 실내 적응력이 뛰어납니다. 다만 몸을 자유롭게 펼칠 수 있는 충분한 공간과 고밀도 관절 매트가 필수적이며, 매일 규칙적인 산책을 통해 욕구를 해소해 주어야 합니다."
 ---
 
-그레이트 데인은 거대한 체구와 달리 성품이 매우 온화하여 '온순한 거인(Gentle Giant)'이라는 별명으로 전 세계 대형견 애호가들의 사랑을 받는 초대형견입니다. 그러나 초대형 체격 특성상 신체 급성장기에 관절 부하가 심하며, 생명을 위협하는 응급 질환인 위염전(GDV, 위비틀림) 발병률이 높아 과학적이고 정교한 관리 수칙이 필수적입니다. 또한 체구가 큰 만큼 어릴 때부터 일관되고 온화한 사회화 교육이 이뤄져야 타인 및 타 동물과 안전하게 공존할 수 있습니다. 오늘 PetSelf에서는 그레이트 데인의 고유한 애정 표현 시그널을 분석하고, 위염전 예방과 관절 건강, 온화한 성품 유지를 위한 3단계 일상 루틴을 공개합니다.
+그레이트 데인은 거대한 체구와 달리 성품이 매우 온화하여 '온순한 거인(Gentle Giant)'이라는 별명으로 전 세계 대형견 애호가들의 사랑을 받는 초대형견입니다. 그러나 초대형 체격 특성상 신체 급성장기에 관절 부하가 심하며, 생명을 위협하는 응급 질환인 위염전(GDV, 위비틀림) 발병률이 높아 과학적이고 정교한 관리 수칙이 필수적입니다. 또한 체구가 큰 만큼 어릴 때부터 일관되고 온화한 사회화 교육이 이뤄져야 타인 및 타 동물과 안전하게 공존할 수 있습니다. 이번 가이드에서는 그레이트 데인의 고유한 애정 표현 시그널을 분석하고, 위염전 예방과 관절 건강, 온화한 성품 유지를 위한 3단계 일상 루틴을 공개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

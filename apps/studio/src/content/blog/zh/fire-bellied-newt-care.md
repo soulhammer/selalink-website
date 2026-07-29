@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不可以。人类约36.5°C的体温会对适应20°C环境的两栖类透水性皮肤造成灼伤。此外，其皮肤分泌物含有微量毒素（河豚毒素类），移动时请务必使用鱼网，若不慎接触请立即用流动清水冲洗双手。"
 ---
 
-火腹蝾螈因其腹部鲜艳的红色警戒色（Aposematism）图案、可爱的外形以及顽强的生命力，成为全球最受欢迎的小型水生两栖动物之一。它们通过皮肤分泌的微量毒素自我保护，具有兼顾水生与陆栖的半水生习性。由于游泳能力较弱，它们非常害怕强水流；若暴露于24°C以上的高温水中，免疫力会急剧下降甚至导致死亡。因此，保持缓和的水流设置、凉爽的水温管理（18–22°C）、水陆平衡的水陆生态缸布置以及使用镊子诱食，是维持其健康的核心。今天 PetSelf 将解析火腹蝾螈的本能信号，并分享涵盖水温管理、环境构建与营养投喂的3阶段日常护理流程。
+火腹蝾螈因其腹部鲜艳的红色警戒色（Aposematism）图案、可爱的外形以及顽强的生命力，成为全球最受欢迎的小型水生两栖动物之一。它们通过皮肤分泌的微量毒素自我保护，具有兼顾水生与陆栖的半水生习性。由于游泳能力较弱，它们非常害怕强水流；若暴露于24°C以上的高温水中，免疫力会急剧下降甚至导致死亡。因此，保持缓和的水流设置、凉爽的水温管理（18–22°C）、水陆平衡的水陆生态缸布置以及使用镊子诱食，是维持其健康的核心。本指南将解析火腹蝾螈的本能信号，并分享涵盖水温管理、环境构建与营养投喂的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous déjà laissé un reste de sauce tomate dans son bocal au réfrigérat
 
 La sauce tomate est riche en humidité et en sucres, ce qui la rend très vulnérable aux bactéries et aux moisissures une fois ouverte. Y plonger une cuillère souillée de salive ou de restes alimentaires peut la faire tourner en un seul jour, d'où l'importance d'un stockage rigoureux.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre sauce ouverte en toute sécurité. 🛡️
+Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre sauce ouverte en toute sécurité. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

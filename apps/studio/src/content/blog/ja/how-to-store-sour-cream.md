@@ -27,7 +27,7 @@ faqs:
 
 サワークリームは乳酸菌で発酵させた乳製品で、タンパク質・脂質・水分が豊富に含まれるため、空気中のカビや雑菌の影響を受けやすい食品です。特に汚れたスプーンの使用や冷凍保存は乳化状態を破壊し、食感や風味を大きく損なう原因になります。
 
-本日FreshSnapでは、USDAやFDAの科学的ガイドラインに基づき、ホエー（乳清）の分離を防ぎカビを出さずに鮮度を長持ちさせる3段階の保存法をご紹介します。🛡️
+本記事では、USDAやFDAの科学的ガイドラインに基づき、ホエー（乳清）の分離を防ぎカビを出さずに鮮度を長持ちさせる3段階の保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

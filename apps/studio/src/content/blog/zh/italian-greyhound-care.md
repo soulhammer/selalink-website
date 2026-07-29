@@ -29,7 +29,7 @@ faqs:
     answer: "是的，非常必要。由于缺乏底毛和皮下脂肪，当气温低于10-15°C时，它们极易患低体温症。必须为其穿上贴身保暖连体衣或棉服。"
 ---
 
-意大利灰狗（IG）凭借其优雅修长的体型和干净的习惯，深受城市宠主的喜爱。由于其体脂肪极低且皮下脂肪层较薄，对寒冷极其敏感；同时，其细长的前肢骨骼结构使其在从沙发或床头跳下时极易发生前臂骨折或髌骨脱位。今天 PetSelf 将解析意大利灰狗的肢体信号，并分享确保四季体温防护与骨骼关节安全的3阶段每日居家护理流程。
+意大利灰狗（IG）凭借其优雅修长的体型和干净的习惯，深受城市宠主的喜爱。由于其体脂肪极低且皮下脂肪层较薄，对寒冷极其敏感；同时，其细长的前肢骨骼结构使其在从沙发或床头跳下时极易发生前臂骨折或髌骨脱位。本指南将解析意大利灰狗的肢体信号，并分享确保四季体温防护与骨骼关节安全的3阶段每日居家护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

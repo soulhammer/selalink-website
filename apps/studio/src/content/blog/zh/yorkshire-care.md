@@ -29,7 +29,7 @@ faqs:
     answer: "约克夏具有小型警卫犬本能，对外部声音非常敏感。吠叫时切勿对它们大吼或立即抱起，这会被误认为是鼓励。应在其吠叫时保持冷漠忽视，并在其恢复安静的瞬间立即给予零食与夸奖。"
 ---
 
-约克夏梗（Yorkshire Terrier，俗称“约克夏”）在娇小如洋娃娃般的身体里，蕴藏着梗犬特有的勇敢与自立性格。它们拥有一层结构极像人类头发的细软单层丝质被毛，极其容易缠结折断，需要精细的日常梳理。🐩此外，作为玩具犬，它们非常容易患上髌骨脱位（Patellar Luxation）。今天，PetSelf 将为您解读约克夏的身体语言，并提供一套保持其被毛亮丽、保护膝关节的3步骤家庭护理惯例。
+约克夏梗（Yorkshire Terrier，俗称“约克夏”）在娇小如洋娃娃般的身体里，蕴藏着梗犬特有的勇敢与自立性格。它们拥有一层结构极像人类头发的细软单层丝质被毛，极其容易缠结折断，需要精细的日常梳理。🐩此外，作为玩具犬，它们非常容易患上髌骨脱位（Patellar Luxation）。今天，本指南将为您解读约克夏的身体语言，并提供一套保持其被毛亮丽、保护膝关节的3步骤家庭护理惯例。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -27,7 +27,7 @@ Avez-vous déjà ouvert une boîte de jambon ou de SPAM, utilisé la moitié et 
 
 Si le jambon en conserve est stérile et se conserve des années à température ambiante tant qu'il est fermé, l'ouverture y introduit de l'oxygène. Cela fait réagir le métal intérieur (étain/fer), entraînant une oxydation qui donne un goût métallique à la viande tout en accélérant le rancissement des graisses et le développement bactérien.
 
-Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour préserver votre jambon en boîte hygiénique, savoureux et sans goût métallique après ouverture. 🛡️
+Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour préserver votre jambon en boîte hygiénique, savoureux et sans goût métallique après ouverture. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

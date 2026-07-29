@@ -29,7 +29,7 @@ faqs:
     answer: "Les lapins n'ont pas de coussinets de chair sous les pattes. Leur poids important sur sol dur ou grillage crée des plaies ulcéreuses. Il est primordial de recouvrir le sol de tapis épais rembourrés ou en mousse à mémoire de forme."
 ---
 
-Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez la routine en 3 étapes de PetSelf.
+Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez une routine en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

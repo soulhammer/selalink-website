@@ -27,7 +27,7 @@ faqs:
 
 생크림(헤비크림)은 유지방 함량이 30% 이상인 다량의 유지방 미세 입자가 수분 속에 분산된 미세 에멀전 형태의 유제품입니다. 온도 변화, 세균 유입, 공기 노출에 매우 민감하여 개봉 후 부패 속도가 매우 빠르고 냉장고 잡내를 흡수하는 특성이 있습니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 가이드라인을 바탕으로, 생크림의 고소한 풍미와 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 가이드라인을 바탕으로, 생크림의 고소한 풍미와 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

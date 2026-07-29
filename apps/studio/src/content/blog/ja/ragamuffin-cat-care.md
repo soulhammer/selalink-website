@@ -29,7 +29,7 @@ faqs:
     answer: "ラガマフィンの下腹部にある脂肪層（Fatty pad）は、内臓の保護と柔軟な動きのために存在する血統標準の正常な特徴です。ただし、肋骨に触れられないほどの過剰な体重増加が見られる場合は、獣医師に相談して食事管理を行いましょう。"
 ---
 
-1990年代にラグドールから派生して確立されたラガマフィンは、ウサギのようにふわふわとした密生した被毛と多様な毛色、愛らしい目が魅力の大型猫種です。成猫になるまで4〜5年を要する代表的な大型長毛種で、頑丈な骨格と下腹部の「ファティパッド（腹部脂肪層）」という猫種固有のスタンダード特徴を持っています。抱っこされると人形のように脱力する極めて人懐っこい性格ですが、毛玉防止のブラッシングや適正体重の維持、心臓病（HCM）の定期健診が欠かせません。今回はPetSelfが、ラガマフィンのサイン解読と健やかな成長を助ける日常ケアプロトコルを解説します。
+1990年代にラグドールから派生して確立されたラガマフィンは、ウサギのようにふわふわとした密生した被毛と多様な毛色、愛らしい目が魅力の大型猫種です。成猫になるまで4〜5年を要する代表的な大型長毛種で、頑丈な骨格と下腹部の「ファティパッド（腹部脂肪層）」という猫種固有のスタンダード特徴を持っています。抱っこされると人形のように脱力する極めて人懐っこい性格ですが、毛玉防止のブラッシングや適正体重の維持、心臓病（HCM）の定期健診が欠かせません。本記事では、ラガマフィンのサイン解読と健やかな成長を助ける日常ケアプロトコルを解説します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

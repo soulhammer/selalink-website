@@ -29,7 +29,7 @@ faqs:
     answer: "ソマリは高い場所へ飛び乗ることが大好きなので、安定したキャットタワーやウォールシェルフが必須です。また柔らかいダブルコートのセミロング毛のため、週3回以上ピンブラシでアンダーコートまでしっかりブラッシングして毛玉を防止しましょう。"
 ---
 
-ふさふさの尻尾と美しいティックド（Ticked）の被毛を持ち、「小さな狐」と称されるソマリ（Somali Cat）は、アビシニアンの長毛遺伝子から誕生した非常に魅力的で活発な猫種です。好奇心が旺盛で知能が高く、「猫界のお道化師」と呼ばれるほど抜群の運動神経と認知能力を誇ります。しかしその愛らしさの裏には、赤血球が破壊され深刻な貧血を引き起こす遺伝性疾患「ピルビン酸キナーゼ欠損症（PKDef）」や進行性網膜萎縮症（PRA）のリスクが潜んでいます。また、柔らかく密生したセミロングの毛質を持つため、手入れを怠ると毛玉吐きや毛の絡まりが生じやすくなります。本日PetSelfでは、ソマリの健康を守る3段階ケアルーティンを紹介します。
+ふさふさの尻尾と美しいティックド（Ticked）の被毛を持ち、「小さな狐」と称されるソマリ（Somali Cat）は、アビシニアンの長毛遺伝子から誕生した非常に魅力的で活発な猫種です。好奇心が旺盛で知能が高く、「猫界のお道化師」と呼ばれるほど抜群の運動神経と認知能力を誇ります。しかしその愛らしさの裏には、赤血球が破壊され深刻な貧血を引き起こす遺伝性疾患「ピルビン酸キナーゼ欠損症（PKDef）」や進行性網膜萎縮症（PRA）のリスクが潜んでいます。また、柔らかく密生したセミロングの毛質を持つため、手入れを怠ると毛玉吐きや毛の絡まりが生じやすくなります。本記事では、ソマリの健康を守る3段階ケアルーティンを紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "暖かめの水温（26〜30℃）と弱酸性〜中性（pH 6.0〜7.0）の綺麗な水質です。アンモニアや硝酸塩に非常に敏感なため、ろ過を効かせ定期的な水換えを行うことが鮮やかな発色の維持につながります。"
 ---
 
-ジャーマンブルーラム（Mikrogeophagus ramirezi）は、宝石のように鮮やかな体色と水草水槽での優雅な泳ぎで世界中の熱帯魚ファンに愛される南米原産の小型シクリッドです。一般的な大型シクリッドと異なり温和な性格で体長も5〜7cmほどと小ぶりなため、水草水槽の主役として人気があります。しかし硝酸塩や病気に繊細なため、弱酸性〜中性のきれいな水質と高めの水温（26〜30℃）の維持が不可欠です。また産卵期には縄張り主張を行うため、水草や流木で視線を遮る環境作りが重要です。本日はPetSelfがボディーサインを分析し、水質・縄張り・ペアリングのための3ステップ日常ルーティンを公開します。
+ジャーマンブルーラム（Mikrogeophagus ramirezi）は、宝石のように鮮やかな体色と水草水槽での優雅な泳ぎで世界中の熱帯魚ファンに愛される南米原産の小型シクリッドです。一般的な大型シクリッドと異なり温和な性格で体長も5〜7cmほどと小ぶりなため、水草水槽の主役として人気があります。しかし硝酸塩や病気に繊細なため、弱酸性〜中性のきれいな水質と高めの水温（26〜30℃）の維持が不可欠です。また産卵期には縄張り主張を行うため、水草や流木で視線を遮る環境作りが重要です。本日は本記事では、ボディーサインを分析し、水質・縄張り・ペアリングのための3ステップ日常ルーティンを公開します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

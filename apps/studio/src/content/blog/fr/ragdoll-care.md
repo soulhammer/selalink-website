@@ -33,7 +33,7 @@ Le Ragdoll est un grand chat célèbre pour se détendre complètement comme une
 
 Cependant, comme il s'agit d'une race de grande taille pouvant peser de 7 à 10 kg, ses articulations inférieures supportent une charge lourde. De plus, sa posture relâchée lors du portage peut tordre sa colonne vertébrale si elle n'est pas soutenue correctement. Apprendre les bons gestes de portage est la base de sa santé osseuse.
 
-Aujourd'hui, PetSelf décode le langage corporel du Ragdoll et présente une routine de soins quotidiens en 3 étapes pour protéger ses articulations et renforcer la confiance.
+Dans ce guide, décode le langage corporel du Ragdoll et présente une routine de soins quotidiens en 3 étapes pour protéger ses articulations et renforcer la confiance.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

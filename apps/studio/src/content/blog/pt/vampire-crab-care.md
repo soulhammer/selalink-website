@@ -29,7 +29,7 @@ faqs:
     answer: "Sim, mas respeitando a proporção de 1 macho para cada 2-3 fêmeas. Como os machos são territoriais, o terrário deve ter pelo menos 30 cm com abundante musgo, troncos e tocas."
 ---
 
-O Caranguejo-Vampiro (*Geosesarma dennerle*, *Geosesarma hagen*) é um pequeno crustáceo semiterrestre muito desejado em paludários devido aos seus olhos amarelos brilhantes e carapaça roxa ou laranja. Nativo das florestas tropicais da Ásia, necessita de um ambiente úmido com 80% de terra e 20% de água doce. Ao contrário dos caranguejos-ermitões, são 100% de água doce. Alta umidade (75-85%), suplementação de cálcio para a ecdise e muitas tocas para evitar disputas entre machos são essenciais. No PetSelf apresentamos o seu guia de cuidados.
+O Caranguejo-Vampiro (*Geosesarma dennerle*, *Geosesarma hagen*) é um pequeno crustáceo semiterrestre muito desejado em paludários devido aos seus olhos amarelos brilhantes e carapaça roxa ou laranja. Nativo das florestas tropicais da Ásia, necessita de um ambiente úmido com 80% de terra e 20% de água doce. Ao contrário dos caranguejos-ermitões, são 100% de água doce. Alta umidade (75-85%), suplementação de cálcio para a ecdise e muitas tocas para evitar disputas entre machos são essenciais. No Este guia  mos o seu guia de cuidados.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

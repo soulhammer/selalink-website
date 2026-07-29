@@ -27,7 +27,7 @@ Have you ever bought a fresh bunch of spinach and left it lying flat in a plasti
 
 Spinach leaves are extremely delicate and have high respiration and transpiration rates after harvest. When laid flat horizontally, spinach undergoes 'negative geotropism'—expending stored sugars and Vitamin C in a struggle to bend upward against gravity. Furthermore, exposure to ethylene gas rapidly breaks down its chlorophyll, turning leaves yellow.
 
-Today, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the EFSA and RDA to control respiration, block ethylene, and keep your spinach crisp and green for over 7 days. 🛡️
+In this guide, shares a scientifically proven 3-step storage guide based on guidelines from the EFSA and RDA to control respiration, block ethylene, and keep your spinach crisp and green for over 7 days. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

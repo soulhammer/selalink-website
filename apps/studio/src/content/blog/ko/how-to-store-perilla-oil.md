@@ -27,7 +27,7 @@ faqs:
 
 들기름은 세포 건강에 유익한 오메가-3(알파리놀렌산) 지방산 함량이 60% 이상으로 매우 높지만, 공기 중 산소, 빛, 열에 노출되면 유독 물질을 생성하며 가장 빠르게 산패(Rancidity)되는 고위험 기름입니다. 반면 참기름은 세사몰 등 천연 항산화 성분 덕분에 실온 보관이 기본입니다.
 
-오늘 FreshSnap에서는 농촌진흥청(RDA)의 임상 연구를 바탕으로, 들기름의 산패를 완벽히 막고 보관 수명을 2배 이상 늘려주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 농촌진흥청(RDA)의 임상 연구를 바탕으로, 들기름의 산패를 완벽히 막고 보관 수명을 2배 이상 늘려주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

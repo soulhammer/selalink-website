@@ -29,7 +29,7 @@ faqs:
     answer: "オキナインコは野生下で巨大な巣を作る唯一の種であり、ケージを自分の要塞と認識します。ケージ内に手を入れて無理に出そうとすると強く噛みつくため、ケージの扉を開けておき、外のスタンド（Tパーチ）へ自発的に出てきてから手乗りのコミュニケーションを行うのが鉄則です。"
 ---
 
-南米原産のオキナインコ（Quaker Parrot / Monk Parakeet）は、優れた模倣能力とお茶目で人懐っこい性格で世界中から愛されている中小型インコです。インコの中で唯一、野外で小枝を集めて巨大な巣を作る習性を持つため、自分の住処（ケージ）に対する縄張り意識と執着が非常に強い特徴があります。また食いしん坊で肥満になりやすく、シード中心の脂質過多な食事は致命的な脂肪肝（Hepatic Lipidosis）を引き起こします。さらに気嚢（Air Sacs）構造のため、テフロン加工パンの加熱ガスやスプレー、アロマなどの空気中有害物質に極めて敏感です。本日PetSelfでは、オキナインコのサインを解読し健康を守る3ステップルーティンをお届けします。
+南米原産のオキナインコ（Quaker Parrot / Monk Parakeet）は、優れた模倣能力とお茶目で人懐っこい性格で世界中から愛されている中小型インコです。インコの中で唯一、野外で小枝を集めて巨大な巣を作る習性を持つため、自分の住処（ケージ）に対する縄張り意識と執着が非常に強い特徴があります。また食いしん坊で肥満になりやすく、シード中心の脂質過多な食事は致命的な脂肪肝（Hepatic Lipidosis）を引き起こします。さらに気嚢（Air Sacs）構造のため、テフロン加工パンの加熱ガスやスプレー、アロマなどの空気中有害物質に極めて敏感です。本記事では、オキナインコのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

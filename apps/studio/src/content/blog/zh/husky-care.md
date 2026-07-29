@@ -33,7 +33,7 @@ faqs:
 
 然而，源自极地使得它们对高温多湿的夏季气候极其不适应，体表排热困难，在夏天极易发生威胁生命的暑热中暑。此外，作为曾日行数十公里的雪橇犬，如果室内生活完全无法满足其运动量需求，它们会将极度无聊与不满转化为深夜嚎叫或疯狂撕家等破坏性行为。
 
-今天，PetSelf 将为您解读哈士奇向家长表达不满的独特“对话”语言，并分享一套旨在养护浓密双层毛与合理消耗多余精力的3步日常护理流程。
+今天，本指南将为您解读哈士奇向家长表达不满的独特“对话”语言，并分享一套旨在养护浓密双层毛与合理消耗多余精力的3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

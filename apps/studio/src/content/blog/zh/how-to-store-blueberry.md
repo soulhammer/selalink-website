@@ -27,7 +27,7 @@ faqs:
 
 蓝莓果皮极薄且对水分高度敏感，如果湿度控制稍有不当，灰霉病菌（Botrytis）就会迅速蔓延。何时清洗以及如何保护其表面的天然保护膜（果粉），是决定蓝莓保鲜期的核心关键。
 
-今天FreshSnap基于美国农务部(USDA)和韩国农村振兴厅(RDA)的科学指南，为您带来3步保鲜秘诀，帮您安全保持蓝莓饱满口感与营养达10天以上。🛡️
+本指南基于美国农务部(USDA)和韩国农村振兴厅(RDA)的科学指南，为您带来3步保鲜秘诀，帮您安全保持蓝莓饱满口感与营养达10天以上。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

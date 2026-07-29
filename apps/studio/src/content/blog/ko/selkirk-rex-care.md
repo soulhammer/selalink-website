@@ -29,7 +29,7 @@ faqs:
     answer: "신장에 물혹(낭종)이 생겨 신장 기능을 떨어뜨리는 유전 질환입니다. 입양 전 부모묘의 PKD 음성 유전자 검사 여부를 확인하고, 평소 신선한 물을 충분히 마시게 하며 정기적인 초음파 및 혈액 검사를 받는 것이 중요합니다."
 ---
 
-'양의 탈을 쓴 고양이'로 불리는 셀커크 렉스는 풍성하고 부드러운 곱슬털과 순한 성격으로 사랑받는 묘종입니다. 다른 렉스 종과 달리 우성 유전자로 형성된 느슨하고 풍성한 곱슬털을 가지고 있어 털 엉킴과 헤어볼 발생 위험이 높으며, 귀 안쪽 털로 인해 귓속 분비물(귀지)이 쌓이기 쉽습니다. 또한 페르시안 혈통의 영향을 받아 다낭성 신장질환(PKD)에 유의해야 합니다. 오늘 PetSelf에서는 셀커크 렉스의 모질 및 신체 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.
+'양의 탈을 쓴 고양이'로 불리는 셀커크 렉스는 풍성하고 부드러운 곱슬털과 순한 성격으로 사랑받는 묘종입니다. 다른 렉스 종과 달리 우성 유전자로 형성된 느슨하고 풍성한 곱슬털을 가지고 있어 털 엉킴과 헤어볼 발생 위험이 높으며, 귀 안쪽 털로 인해 귓속 분비물(귀지)이 쌓이기 쉽습니다. 또한 페르시안 혈통의 영향을 받아 다낭성 신장질환(PKD)에 유의해야 합니다. 이번 가이드에서는 셀커크 렉스의 모질 및 신체 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

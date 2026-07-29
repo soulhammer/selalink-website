@@ -27,7 +27,7 @@ faqs:
 
 醤油は塩分濃度が高いため腐りにくい食品として知られていますが、開封後に空気（酸素）や光、熱に晒されると、色が濃くなり芳醇なアミノ酸の香りが飛んでしまう「酸化（褐色化）」現象が進みます。保存方法によって特有の風味とうま味が大きく変化します。
 
-本日FreshSnapでは、食品安全機関および醤油醸造専門家のガイドラインに基づき、醤油の風味とうま味を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、食品安全機関および醤油醸造専門家のガイドラインに基づき、醤油の風味とうま味を開封後も長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

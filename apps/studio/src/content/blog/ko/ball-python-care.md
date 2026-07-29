@@ -29,7 +29,7 @@ faqs:
     answer: "사육장 습도가 너무 낮거나 영양 불균형이 있을 때 발생하는 '탈피 부전(Dysecdysis)' 현상입니다. 억지로 허물을 떼어내면 비늘이 손상되므로, 미온수(28°C ~ 30°C)에 습한 타월이나 이끼를 넣고 20 ~ 30분간 뱀을 넣어 허물을 부드럽게 불린 뒤 가볍게 문질러 제거해 주어야 합니다."
 ---
 
-머리를 안으로 감추고 공처럼 둥글게 몸을 말아 '볼파이톤(Ball Python)'이라 불리는 공단구렁이는 온순한 성품과 다채로운 모프(Color Morph)로 전 세계에서 가장 인기 있는 반려 뱀입니다. 볼파이톤은 변온 동물로서 쿨존(24°C ~ 26°C)과 핫존/바스킹존(31°C ~ 33°C)으로 구분되는 명확한 온도 경사가 필요하며, 평소 55% ~ 60%, 탈피기에는 70% ~ 80%의 습도를 유지해야 탈피 부전(Dysecdysis)을 방지할 수 있습니다. 수온/기온 저하 시 급성 호흡기 감염(RI)이 발병하기 쉬우며 거식(Hunger strike) 현상이 자주 일어납니다. 오늘 PetSelf에서는 볼파이톤의 몸짓 신호를 이해하고 건강을 유지하는 3단계 홈케어 루틴을 전해드립니다.
+머리를 안으로 감추고 공처럼 둥글게 몸을 말아 '볼파이톤(Ball Python)'이라 불리는 공단구렁이는 온순한 성품과 다채로운 모프(Color Morph)로 전 세계에서 가장 인기 있는 반려 뱀입니다. 볼파이톤은 변온 동물로서 쿨존(24°C ~ 26°C)과 핫존/바스킹존(31°C ~ 33°C)으로 구분되는 명확한 온도 경사가 필요하며, 평소 55% ~ 60%, 탈피기에는 70% ~ 80%의 습도를 유지해야 탈피 부전(Dysecdysis)을 방지할 수 있습니다. 수온/기온 저하 시 급성 호흡기 감염(RI)이 발병하기 쉬우며 거식(Hunger strike) 현상이 자주 일어납니다. 이번 가이드에서는 볼파이톤의 몸짓 신호를 이해하고 건강을 유지하는 3단계 홈케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

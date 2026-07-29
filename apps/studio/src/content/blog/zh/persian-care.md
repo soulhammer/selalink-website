@@ -29,7 +29,7 @@ faqs:
     answer: "扁脸波斯猫的鼻部周围有深深的褶皱。如果泪水在此积聚，会阻断氧气，滋生细菌和酵母菌，从而导致异味和皮肤坏死性发炎。"
 ---
 
-波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。今天 PetSelf 将带您解读波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理流程。
+波斯猫拥有浓密的毛发和扁平可爱的脸庞，性格温和且安静，是非常适合室内饲养的代表性猫咪。然而，扁平的面部结构导致它们经常流泪，眼鼻周围的褶皱处极易积攒污垢。此外，细密且容易缠结的双层长毛一旦结块，会拉扯皮肤引起剧烈疼痛，并阻碍空气流通导致皮肤炎。本指南将带您解读波斯猫隐秘的眼部与毛发压力信号，并分享日常预防的3步家庭护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

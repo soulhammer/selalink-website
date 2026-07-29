@@ -29,7 +29,7 @@ faqs:
     answer: "成犬のグレート・デーンは室内では非常に静かで活動量が少なく、「ソファーの上の巨人」と呼ばれるほど室内適応が高いです。ただし、体を自由に伸ばせる十分なスペースと高密度の関節マットが必須であり、毎日の規則的な散歩で運動欲求を満たす必要があります。"
 ---
 
-グレート・デーンはその巨大な体躯とは裏腹に極めて穏やかな性格をしており、「優しい巨人（Gentle Giant）」の愛称で世界中の大型犬ファンから愛されています。しかし超大型犬という骨格上、成長期の関節負荷が大きく、命を脅かす緊急疾患である「胃拡大・胃捻転症候群（GDV）」の発症率が高いため、 scientific かつ緻密な管理基準が不可欠です。また体が大きい分、幼少期からの優しく一貫した社会化訓練が周囲と safe に共生するための鍵となります。本日はPetSelfがグレート・デーン独自の愛情表現シグナルを分析し、胃捻転予防・関節の健康・穏やかな性格維持のための3ステップ日常ルーティンを公開します。
+グレート・デーンはその巨大な体躯とは裏腹に極めて穏やかな性格をしており、「優しい巨人（Gentle Giant）」の愛称で世界中の大型犬ファンから愛されています。しかし超大型犬という骨格上、成長期の関節負荷が大きく、命を脅かす緊急疾患である「胃拡大・胃捻転症候群（GDV）」の発症率が高いため、 scientific かつ緻密な管理基準が不可欠です。また体が大きい分、幼少期からの優しく一貫した社会化訓練が周囲と safe に共生するための鍵となります。本日は本記事では、グレート・デーン独自の愛情表現シグナルを分析し、胃捻転予防・関節の健康・穏やかな性格維持のための3ステップ日常ルーティンを公開します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "不建议。虽然毒性微弱，但其强大的钳子夹人非常疼痛并可能造成创伤，且上手互动会给蝎子带来极高压力。建议使用接料杯或软头镊子进行转移。"
 ---
 
-与墨西哥红膝头蜘蛛一样广受全球异宠爱好者喜爱，帝王蝎是一种以乌黑光亮的大型躯体和强壮触肢（钳子）而闻名的大型蝎子。其体长可达20厘米，比起尾刺，它们更倾向于使用强有力的钳子进行防御和捕食，毒性微弱至仅相当于蜜蜂蛰刺。帝王蝎独特的生理特征在于其外骨骼（角质层）在紫外线（UV/黑光灯）照射下会发出璀璨的青蓝色荧光。帝王蝎原产于西非热带雨林，维持高湿度（75 ~ 85%）和温暖温度（26 ~ 30°C）是其健康的关键。今天 PetSelf 将为您解析帝王蝎的警示与掘穴信号，并提供维持适宜环境的3阶段日常护理流程。
+与墨西哥红膝头蜘蛛一样广受全球异宠爱好者喜爱，帝王蝎是一种以乌黑光亮的大型躯体和强壮触肢（钳子）而闻名的大型蝎子。其体长可达20厘米，比起尾刺，它们更倾向于使用强有力的钳子进行防御和捕食，毒性微弱至仅相当于蜜蜂蛰刺。帝王蝎独特的生理特征在于其外骨骼（角质层）在紫外线（UV/黑光灯）照射下会发出璀璨的青蓝色荧光。帝王蝎原产于西非热带雨林，维持高湿度（75 ~ 85%）和温暖温度（26 ~ 30°C）是其健康的关键。本指南将为您解析帝王蝎的警示与掘穴信号，并提供维持适宜环境的3阶段日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

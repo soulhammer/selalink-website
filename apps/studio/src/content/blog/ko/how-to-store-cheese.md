@@ -27,7 +27,7 @@ faqs:
 
 치즈는 유산균과 박테리아가 활발히 호흡하는 '살아있는 발효 식품'입니다. 비닐 랩으로 밀봉하면 공기 순환이 차단되는 혐기 상태가 되어 자극적인 암모니아 가스가 내부에 갇히고, 표면에 기름과 습기가 맺혀 곰팡이가 피기 쉬운 환경이 됩니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 과학적 보관 가이드라인에 기반하여, 치즈가 적절히 숨을 쉬며 고유의 깊은 풍미를 한 달 이상 유지하도록 돕는 3단계 보관 비법을 전해드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 과학적 보관 가이드라인에 기반하여, 치즈가 적절히 숨을 쉬며 고유의 깊은 풍미를 한 달 이상 유지하도록 돕는 3단계 보관 비법을 전해드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

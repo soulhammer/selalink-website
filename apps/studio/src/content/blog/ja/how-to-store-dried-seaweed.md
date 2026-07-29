@@ -27,7 +27,7 @@ faqs:
 
 海苔は極めて高い吸湿性を持つ多孔質構造をしており、空気中の水分をスポンジのように吸収します。特に油と塩が使われた味付け海苔は、湿気や空気（酸素）、光に晒されると油の酸化（脂質酸敗）が急速に進み、食感や風味が著しく損なわれます。
 
-本日FreshSnapでは、水産研究機関および農林水産省のガイドラインに基づき、海苔のパリッとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️
+本記事では、水産研究機関および農林水産省のガイドラインに基づき、海苔のパリッとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

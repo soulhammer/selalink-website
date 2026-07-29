@@ -29,7 +29,7 @@ faqs:
     answer: "주름 관리는 최소 하루에 한 번 필수입니다. 눈물과 음식물 찌꺼기가 주름 사이에 고여 습해지면 곰팡이나 세균이 젖어 피부염과 악취를 유발하므로 닦아준 뒤 바싹 말려주어야 합니다."
 ---
 
-특유의 박쥐 귀와 귀여운 눌린 얼굴을 가진 프렌치 불독은 전 세계인에게 사랑받는 반려견입니다. 하지만 특유의 단두종(납작한 얼굴) 구조로 인해 기도가 좁아지거나 숨이 차고 체온이 급격히 상승하기 쉽습니다. 높은 곳에서 뛰어내리면 척추 디스크(IVDD) 발병 위험도 높습니다. 오늘 펫셀프(PetSelf)에서는 프렌치 불독의 호흡 바디 시그널을 읽는 법과 건강을 지키는 3단계 데일리 홈케어 루틴을 소개합니다.
+특유의 박쥐 귀와 귀여운 눌린 얼굴을 가진 프렌치 불독은 전 세계인에게 사랑받는 반려견입니다. 하지만 특유의 단두종(납작한 얼굴) 구조로 인해 기도가 좁아지거나 숨이 차고 체온이 급격히 상승하기 쉽습니다. 높은 곳에서 뛰어내리면 척추 디스크(IVDD) 발병 위험도 높습니다. 오늘 펫셀프()에서는 프렌치 불독의 호흡 바디 시그널을 읽는 법과 건강을 지키는 3단계 데일리 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

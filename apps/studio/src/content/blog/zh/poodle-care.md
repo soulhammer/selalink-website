@@ -29,7 +29,7 @@ faqs:
     answer: "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
 ---
 
-贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩 此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。今天 PetSelf 将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理流程，以保持它们的耳朵清洁与健康。
+贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩 此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。本指南将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理流程，以保持它们的耳朵清洁与健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

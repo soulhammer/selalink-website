@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不行。纯种子饮食脂肪含量极高且严重缺乏维他命A和钙，极易导致肥胖、脂肪肝及骨骼疾病。必须以高品质滋养丸（占60 ~ 70%）为主食，并搭配新鲜蔬菜。（注：鳄梨/牛油果和巧克力对鹦鹉有致命毒性。）"
 ---
 
-非洲灰鹦鹉（African Grey Parrot）是鸟类中智商最高的代表，拥有相当于人类4 ~ 5岁儿童的认知能力和卓越的词汇学习能力。它们不仅能模仿声音，更能根据语境和情景与主人进行有意义的语言交流。然而，极高的智商也伴随着极度敏感的情感。如果缺乏足够的精神刺激（脑力活动）或环境丰富化，精神上的无聊和焦虑极易诱发其咬拔自身羽毛的“啄羽症/拔羽症（Feather Damaging Behavior）”。今天 PetSelf 将为您梳理非洲灰鹦鹉的情感信号与预防拔羽症的3阶段认知丰富化护理流程。
+非洲灰鹦鹉（African Grey Parrot）是鸟类中智商最高的代表，拥有相当于人类4 ~ 5岁儿童的认知能力和卓越的词汇学习能力。它们不仅能模仿声音，更能根据语境和情景与主人进行有意义的语言交流。然而，极高的智商也伴随着极度敏感的情感。如果缺乏足够的精神刺激（脑力活动）或环境丰富化，精神上的无聊和焦虑极易诱发其咬拔自身羽毛的“啄羽症/拔羽症（Feather Damaging Behavior）”。本指南将为您梳理非洲灰鹦鹉的情感信号与预防拔羽症的3阶段认知丰富化护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

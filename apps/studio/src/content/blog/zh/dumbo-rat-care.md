@@ -29,7 +29,7 @@ faqs:
     answer: "绝对不可以！大耳花鼠是严格的社会性群居动物，单只饲养会导致严重的心理抑郁与免疫力下降，必须同性（或已绝育）两只以上合笼饲养。此外，松木（Pine）和杉木（Cedar）垫料会释放破坏肝脏与呼吸道的有毒酚类物质，必须使用无尘纸垫料或高温烘干的杨木（Aspen）垫料。"
 ---
 
-耳位较低、拥有硕大圆耳的大耳花鼠（Dumbo Rat，俗称“双耳大鼠”），凭借其像狗一样忠诚黏人的性格（被誉为“口袋小狗”）和极高的智商深受全球宠物爱好者喜爱。大耳花鼠智商极高，能学会认名字和各种小技巧，但它们的呼吸系统极其脆弱，极易感染导致慢性呼吸道疾病的“肺支原体（Mycoplasma pulmonis）”。松木/杉木垫料释放的酚类物质、粉尘及高浓度氨气会严重破坏其肺部。此外，大耳花鼠是高度社会化的群居动物，单只饲养极易引发抑郁症，母鼠患乳腺肿瘤的概率也较高。今天 PetSelf 将带您准确解读大耳花鼠肢体语言，并通过 3 步骤日常护理维护其健康。
+耳位较低、拥有硕大圆耳的大耳花鼠（Dumbo Rat，俗称“双耳大鼠”），凭借其像狗一样忠诚黏人的性格（被誉为“口袋小狗”）和极高的智商深受全球宠物爱好者喜爱。大耳花鼠智商极高，能学会认名字和各种小技巧，但它们的呼吸系统极其脆弱，极易感染导致慢性呼吸道疾病的“肺支原体（Mycoplasma pulmonis）”。松木/杉木垫料释放的酚类物质、粉尘及高浓度氨气会严重破坏其肺部。此外，大耳花鼠是高度社会化的群居动物，单只饲养极易引发抑郁症，母鼠患乳腺肿瘤的概率也较高。本指南将带您准确解读大耳花鼠肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

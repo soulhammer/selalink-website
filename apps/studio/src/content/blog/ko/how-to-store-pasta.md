@@ -27,7 +27,7 @@ faqs:
 
 파스타 건면은 수분 함량이 12% 이하로 낮아 장기 보관에 매우 유리한 식재료이지만, 공기 중의 습기와 빛, 주변 냄새를 쉽게 흡수하고 쌀바구미나 화랑곡나방 같은 곡물 해충의 표적이 되기 쉽습니다. 올바르지 않게 보관하면 듀럼밀 고유의 풍미가 떨어지고 미생물 변질이 일어날 수 있습니다.
 
-오늘 FreshSnap에서는 미국 농무부(USDA)와 식품안전 당국이 권장하는 파스타 건면의 신선도와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
+이번 가이드에서는 미국 농무부(USDA)와 식품안전 당국이 권장하는 파스타 건면의 신선도와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -23,7 +23,7 @@ faqs:
     answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
 ---
 
-Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt FreshSnap Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.
+Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt  Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

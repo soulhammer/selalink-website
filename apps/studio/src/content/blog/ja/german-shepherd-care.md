@@ -29,7 +29,7 @@ faqs:
     answer: "密度の高い二重毛を持つため「ジャーマン・シェッダー（毛噴射犬）」と呼ばれるほど抜けます。アンダーコート用ブラシで毎日5〜10分ブラッシングし、換毛期には定期的なシャンプーと念入りなケアで皮膚トラブルを防ぎましょう。"
 ---
 
-ジャーマン・シェパードは卓越した知能と勇敢さ、高い忠誠心で世界最高の警察犬・軍導犬・家庭犬として愛されています。しかし、旺盛な作業欲求に見合う十分な運動や頭脳刺激がないと、ストレスから警戒攻撃性や破壊行動を起こすことがあります。また、体型構造上、股関節や肘関節の形成不全（Dysplasia）を起こしやすく、濃密な二重毛のため抜け毛が非常に多いです。本日PetSelfでは、ジャーマン・シェパードのボディランゲージを正しく理解し、関節と被毛の健康を守る3ステップルーティンをお届けします。
+ジャーマン・シェパードは卓越した知能と勇敢さ、高い忠誠心で世界最高の警察犬・軍導犬・家庭犬として愛されています。しかし、旺盛な作業欲求に見合う十分な運動や頭脳刺激がないと、ストレスから警戒攻撃性や破壊行動を起こすことがあります。また、体型構造上、股関節や肘関節の形成不全（Dysplasia）を起こしやすく、濃密な二重毛のため抜け毛が非常に多いです。本記事では、ジャーマン・シェパードのボディランゲージを正しく理解し、関節と被毛の健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

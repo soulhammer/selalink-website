@@ -29,7 +29,7 @@ faqs:
     answer: "絶対に良くありません！連続的な産卵は体内のカルシウムを急速に消耗させて骨を弱らせ、卵が体内に詰まって出なくなる致死的な「卵詰まり（Egg Binding/難産）」を引き起こします。これを防ぐために、1日10〜12時間以上の完全遮光睡眠で日照時間を減らし、巣箱や鏡などの発情刺激要素を取り除いてください。"
 ---
 
-パートナーと深い絆を結ぶことから「ラブバード（Lovebird）」と呼ばれるコザクラインコやボタンインコは、鮮やかな羽色と人懐っこさで世界中で愛されている小型インコです。深い愛情を持つ反面、縄張り意識が強くホルモン刺激に非常に敏感なため、日照時間が長すぎたり背中を過剰に撫でたりすると、習慣的な過剰産卵や卵詰まり（Egg Binding/難産）を起こしやすくなります。また、鳥類特有の気嚢（Air Sacs）構造のためテフロン加熱ガスや香水などの空気中の有害物質に弱く、シード中心の食事はビタミンA不足や脂肪肝を引き起こします。本日PetSelfでは、ラブバードのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
+パートナーと深い絆を結ぶことから「ラブバード（Lovebird）」と呼ばれるコザクラインコやボタンインコは、鮮やかな羽色と人懐っこさで世界中で愛されている小型インコです。深い愛情を持つ反面、縄張り意識が強くホルモン刺激に非常に敏感なため、日照時間が長すぎたり背中を過剰に撫でたりすると、習慣的な過剰産卵や卵詰まり（Egg Binding/難産）を起こしやすくなります。また、鳥類特有の気嚢（Air Sacs）構造のためテフロン加熱ガスや香水などの空気中の有害物質に弱く、シード中心の食事はビタミンA不足や脂肪肝を引き起こします。本記事では、ラブバードのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

@@ -29,7 +29,7 @@ faqs:
     answer: "다낭성 신장질환(PKD)은 페르시안 계통 품종에 발생하는 치명적인 유전성 질환으로, 신장에 물낭선(낭종)이 생겨 신장 기능을 떨어뜨립니다. 입양 시 유전자 검사(PKD DNA test) 여부를 확인하고, 1세 이후 매년 정기적인 신장 초음파 및 혈액 검사를 실시하며 평소 습식 사료를 통해 충분한 음수량을 확보해야 합니다."
 ---
 
-'털을 짧게 깎은 페르시안'으로 불리는 엑조틱 숏헤어(Exotic Shorthair)는 특유의 납작한 안면 구조와 동그란 눈, 순하고 조용한 성품으로 전 세계에서 사랑받는 품종입니다. 페르시안의 차분함과 아메리칸 숏헤어의 친근함을 동시에 지녔으나, 납작한 얼굴 구조(단두종)로 인해 단두종 호흡기 증후군(BAS)과 눈물샘 막힘(눈물 자국)에 매우 취약합니다. 또한 유전적으로 다낭성 신장질환(PKD) 위험이 높고 체중 관리가 안 될 경우 호흡 곤란이 심해질 수 있습니다. 오늘 PetSelf에서는 엑조틱 숏헤어의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
+'털을 짧게 깎은 페르시안'으로 불리는 엑조틱 숏헤어(Exotic Shorthair)는 특유의 납작한 안면 구조와 동그란 눈, 순하고 조용한 성품으로 전 세계에서 사랑받는 품종입니다. 페르시안의 차분함과 아메리칸 숏헤어의 친근함을 동시에 지녔으나, 납작한 얼굴 구조(단두종)로 인해 단두종 호흡기 증후군(BAS)과 눈물샘 막힘(눈물 자국)에 매우 취약합니다. 또한 유전적으로 다낭성 신장질환(PKD) 위험이 높고 체중 관리가 안 될 경우 호흡 곤란이 심해질 수 있습니다. 이번 가이드에서는 엑조틱 숏헤어의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

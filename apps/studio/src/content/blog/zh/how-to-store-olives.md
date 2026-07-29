@@ -27,7 +27,7 @@ faqs:
 
 橄榄脂肪含量较高且含有细致的水分平衡，暴露于空气中会快速氧化并变软。开封后一旦离开浸泡液，果实表面极易滋生霉菌与细菌。
 
-今天FreshSnap基于专家权威指南，为您介绍3步科学保存秘诀，帮您长久保持橄榄爽脆的口感与浓郁风味。🛡️
+本指南基于专家权威指南，为您介绍3步科学保存秘诀，帮您长久保持橄榄爽脆的口感与浓郁风味。🛡️
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
