@@ -1,0 +1,459 @@
+{
+    "turkish-van-cat-care": {
+        "pubDate": "2026-06-30",
+        "updatedDate": "2026-06-30",
+        "locales": {
+            "ko": {
+                "title": "터키시 반 고양이 물놀이 안전과 털 말리기 및 오드아이 청력 관리 3단계 케어 루틴",
+                "description": "수영하는 고양이 터키시 반(Turkish Van) 케어 가이드. 방수 털과 안전한 물놀이, 높은 활동성 환경 세팅, 오드아이 유전적 청력 검사 3단계 루틴을 알아봅니다.",
+                "authority": "세계고양이수의학회(ISFM: International Society of Feline Medicine) 임상 가이드라인 및 국제고양이협회(TICA/CFA) 품종 보존 표준",
+                "profile": {
+                    "breed": "터키시 반 (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 ~ 17년",
+                    "sleep_pattern": "박명박묘성 (하루 12~16시간 수면 및 휴식)",
+                    "temperament": "활발함, 영리함, 물을 좋아함, 독립적, 호기심 많음"
+                },
+                "intro": "터키시 반(Turkish Van)은 튀르키예 반 호수(Lake Van) 주변에서 자연 발생한 고대 품종으로, 머리와 꼬리에만 단색 포인트가 들어가고 몸 전체는 하얀 '반 패턴(Van Pattern)'과 빛나는 오드아이(Odd-Eyes, 두 눈의 색이 다른 홍채 이색증) 눈빛이 특징입니다. 일반적인 고양이와 달리 캐시미어 감촉의 방수성 싱글 코트(Single Coat) 털을 가져 물에 젖는 것을 두려워하지 않고 수영을 즐기는 유일무이한 습성을 지니고 있습니다. 그러나 강력한 근육질 몸매와 높은 지능으로 인해 충분한 수직 공간과 수렵 놀이가 제공되지 않으면 스트레스를 받기 쉬우며, 파란 눈을 가진 오드아이 개체의 경우 유전자 특성상 선천적 청력 손실(난청) 유무를 체크해야 합니다. 또한, 물놀이 후 귓속 수분과 속털을 제대로 말려주지 않으면 외이도염이나 세균성 피부염이 발생할 수 있습니다. 오늘 PetSelf에서는 터키시 반의 행동 신호와 물놀이 안전 수칙, 오드아이 청력 케어 3단계 루틴을 다룹니다.",
+                "whyTitle": "터키시 반의 행동 특성: 물속 자발적 탭핑(Water Tapping)과 꼬리 털 부풀리기",
+                "whyDesc": "터키시 반은 물을 보면 도망치는 대신 앞발로 물을 찰랑거리며 놀거나 자발적으로 들어가는 탐색 행동을 합니다. 반면 흥분하거나 경계할 때는 크고 풍성한 꼬리 털을 부풀려 감정을 표현합니다.",
+                "body_signals": [
+                    {
+                        "name": "물 표면 찰랑거리기 및 자발적 입수 (Water Tapping & Swimming)",
+                        "meaning": "물에 대한 강한 호기심과 즐거움을 표출하는 터키시 반 특유의 본능적 유희 행동입니다.",
+                        "response": "미지근한 온수를 채워주고, 미끄러짐 방지 매트를 깔아 안전사고를 예방해 줍니다."
+                    },
+                    {
+                        "name": "귀 뒤로 젖히기 및 소리에 반응 없음 (Sound Unresponsiveness)",
+                        "meaning": "파란 눈 쪽 귀의 선천성 난청 가능성 또는 과도한 스트레스나 경계 신호입니다.",
+                        "response": "손짓이나 발디딤 진동을 활용해 교감하고, 동물병원에서 BAER(뇌간誘發聽力) 검사를 진행합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 오드아이 눈 건강·청력 체크 및 싱글 코트 브러싱",
+                        "text": "양쪽 눈의 눈곱 유무와 소리 반응을 점검하고, 엉킴이 적은 캐시미어 질감의 싱글 코트를 가볍게 빗겨줍니다."
+                    },
+                    {
+                        "name": "낮: 고높이 캣타워 수직 공간 사냥 놀이 및 활동성 해소",
+                        "text": "뛰어난 도약력을 만족시킬 높은 캣타워를 배치하고, 지능형 먹이 장난감과 낚싯대로 에너지발산을 돕습니다."
+                    },
+                    {
+                        "name": "저녁: 안전한 자발적 물놀이 점검 및 귓속 타월 드라이",
+                        "text": "물놀이 후 귓속에 남은 수분을 깨끗이 닦아 외이도염을 예방하고, 수건과 드라이어로 털을 완전히 말려줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "터키시 반은 정말 물에서 수영하는 것을 좋아하나요? 강제로 목욕시켜도 되나요?",
+                        "answer": "터키시 반은 물을 좋아하는 성향이 강하지만, 억지로 수조에 던지거나 강제로 물을 붓는 행위는 극심한 트라우마를 유발합니다. 반드시 미지근한 물을 대야에 자발적으로 드나들게 해야 하며, 물놀이 후에는 귓속 수분을 철저히 말려 귀 질환을 예방해야 합니다."
+                    },
+                    {
+                        "question": "터키시 반의 오드아이(파란 눈)는 귀가 안 들릴 확률이 높은가요?",
+                        "answer": "하얀 모색 유전자와 파란 눈 유전자(W 유전자)는 달팽이관 발달에 영향을 미쳐 파란 눈 쪽 귀의 선천적 난청을 유발할 수 있습니다. 오드아이 터키시 반을 입양했다면 수의사에게 BAER(청력 검사)를 받고, 청력이 약하다면 수신호와 진동 위주의 교감법을 사용해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Turkish Van Cat Water Safety, Single-Coat Drying, and 3-Step Odd-Eye Hearing Care Routine",
+                "description": "Essential care guide for the swimming Turkish Van Cat. Learn about water-resistant single coat care, high-activity vertical setups, odd-eye hearing checks, and a 3-step routine.",
+                "authority": "International Society of Feline Medicine (ISFM) Clinical Guidelines and TICA/CFA Breed Conservation Standards",
+                "profile": {
+                    "breed": "Turkish Van Cat (Van Kedisi)",
+                    "lifespan": "12 ~ 17 Years",
+                    "sleep_pattern": "Crepuscular (12–16 Hours of Sleep and Rest Daily)",
+                    "temperament": "Active, Intelligent, Water-loving, Independent, Curious"
+                },
+                "intro": "The Turkish Van is an ancient natural landrace breed originating near Lake Van in Türkiye, famous for its distinct 'Van pattern' (chalk-white body with color restricted to the head and tail) and striking odd-eyes (heterochromia). Unlike most domestic cats, the Turkish Van possesses a unique, cashmere-like single coat that is naturally water-resistant, giving them a legendary affinity for swimming and water play. However, their muscular build and high intelligence require generous vertical spaces and interactive hunting play to prevent boredom. Additionally, odd-eyed individuals with blue eyes carry a genetic link to congenital sensorineural deafness, requiring dedicated hearing checks. Furthermore, thorough drying of the inner ear and coat after water encounters is crucial to prevent otitis externa and skin dermatitis. Today on PetSelf, we cover Turkish Van behavior signals, water safety, and a 3-step care routine.",
+                "whyTitle": "Turkish Van Instincts: Water Tapping and Plumed Tail Puffing",
+                "whyDesc": "Instead of fleeing from water, Turkish Vans curiously tap water surfaces with their paws or voluntarily wade into shallow water. When overexcited or startled, they express emotion by puffing up their large, plumed tail.",
+                "body_signals": [
+                    {
+                        "name": "Water Surface Tapping & Voluntary Entry",
+                        "meaning": "A unique, instinctual play behavior expressing intense curiosity and pleasure toward water.",
+                        "response": "Provide shallow, lukewarm water and place non-slip mats around the play area to prevent slipping accidents."
+                    },
+                    {
+                        "name": "Ear Flattening & Sound Unresponsiveness",
+                        "meaning": "Possible congenital deafness in the ear corresponding to the blue eye, or a signal of sensory overload.",
+                        "response": "Communicate using visual gestures and floor vibrations, and consult a vet for a BAER hearing test."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Odd-Eye Health & Hearing Check & Single-Coat Brushing",
+                        "text": "Inspect eyes for discharge, verify sound responsiveness, and gently brush the water-resistant cashmere coat."
+                    },
+                    {
+                        "name": "Afternoon: High Vertical Climbing & Interactive Hunting Play",
+                        "text": "Provide tall cat trees to accommodate their jumping ability, using puzzle feeders and wand toys to channel energy."
+                    },
+                    {
+                        "name": "Evening: Water Play Safety Supervision & Ear Drying Care",
+                        "text": "Supervise shallow water interactions, thoroughly dry inner ears to prevent ear infections, and towel-dry the coat."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Do Turkish Vans really love swimming? Can I force bath them?",
+                        "answer": "While Turkish Vans naturally enjoy water, forcing them into a bath or submerging them against their will causes severe trauma. Always allow voluntary access to shallow lukewarm water, and ensure their inner ears are dried thoroughly afterward to prevent infections."
+                    },
+                    {
+                        "question": "Is an odd-eyed Turkish Van with a blue eye more likely to be deaf?",
+                        "answer": "Yes. The white coat and blue-eye gene (W gene) can affect inner ear development, leading to congenital deafness on the side of the blue eye. Have your vet perform a BAER hearing test and use visual gestures or vibrations for communication if hearing is impaired."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ターキッシュバンのお水遊び安全ガイド・被毛乾燥法とオッドアイ聴力ケア3ステップルーティン",
+                "description": "泳ぐ猫ターキッシュバン（Turkish Van）の飼育ガイド。撥水性のシングルコート、高活動性の環境構築、オッドアイの遺伝的聴力チェックと3ステップ日常ケアを解説。",
+                "authority": "国際猫医学会（ISFM）臨床ガイドラインおよび TICA/CFA 繁殖保育基準",
+                "profile": {
+                    "breed": "ターキッシュバン (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 〜 17年",
+                    "sleep_pattern": "薄明薄暮性 (1日12〜16時間の睡眠と休息)",
+                    "temperament": "活発、聡明、水が好き、独立心がある、好奇心旺盛"
+                },
+                "intro": "ターキッシュバン（Turkish Van）は、トルコのヴァン湖周辺で自然発生した古代猫種で、頭部と尾だけに色が入る「バンパターン」と、左右で目の色が異なる神秘的なオッドアイ（虹彩異色症）が特徴です。一般的な猫とは異なり、カシミアのような撥水性のあるシングルコート（アンダーコートのない被毛）を持ち、水に入ることを恐れず泳ぐことを楽しむ唯一無二の習性を持っています。しかし、筋肉質で跳躍力が高く知的なため、十分な高所の垂直空間や遊びが提供されないとストレスをため込みやすくなります。また、青目を持つオッドアイ個体は遺伝的に先天性難聴を伴う可能性があるため、聴力検査が必要です。さらに、水遊び後に耳の中や毛の根元をしっかり乾かさないと外耳炎や皮膚炎の原因になります。今回はPetSelfが、ターキッシュバンの警戒サインと水遊び安全ルール、3ステップ日常ケアを解説します。",
+                "whyTitle": "ターキッシュバンの行動特徴：水面のタッチ（Water Tapping）と尾の膨らみ",
+                "whyDesc": "ターキッシュバンは水を見ると逃げるどころか、前足で水面をバシャバシャと叩いたり自ら入水する探索行動を見せます。一方、興奮や警戒時には大きなふさふさの尾を膨らませて感情を表現します。",
+                "body_signals": [
+                    {
+                        "name": "水面を叩く動作・自発的な入水 (Water Tapping & Swimming)",
+                        "meaning": "水に対する強い好奇心と喜びを表す、ターキッシュバン特有の正常な遊戯行動です。",
+                        "response": "ぬるま湯を用意し、足元に滑り止めマットを敷いて転倒事故を予防します。"
+                    },
+                    {
+                        "name": "耳を伏せる・音に反応しない (Sound Unresponsiveness)",
+                        "meaning": "青目側の耳の先天性難聴の可能性、または過度なストレスや警戒のサインです。",
+                        "response": "手招きや床の振動でコミュニケーションを取り、獣医師によるBAER（聴力検査）を受けます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：オッドアイの目・聴力チェックとシングルコートのブラッシング",
+                        "text": "目ヤニの有無と音への反応を確認し、絡みにくいカシミア質のシングルコートを優しくとかします。"
+                    },
+                    {
+                        "name": "昼：高層キャットタワーでの上下運動と知育玩具での発散",
+                        "text": "高い跳躍力を満たすキャットタワーを配置し、知育トイやじゃらし道具で高い活動量を満たします。"
+                    },
+                    {
+                        "name": "夜：安全な水遊びの補助と耳の中の乾燥ケア",
+                        "text": "水遊び後は耳の中に残った水分を綿棒やタオルで丁寧に拭き取り、外耳炎を予防します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ターキッシュバンは本当に泳ぐのが好きですか？無理にお風呂に入れても大丈夫ですか？",
+                        "answer": "ターキッシュバンは水を好む傾向がありますが、無理やり浴槽に入れたりシャワーをかけると強いトラウマになります。ぬるま湯を張った浅い容器へ自発的に入らせ、遊んだ後は耳の中の水分をしっかり乾かして耳の病気を防いでください。"
+                    },
+                    {
+                        "question": "オッドアイ（青目）のターキッシュバンは耳が聞こえない確率が高いですか？",
+                        "answer": "白い被毛と青目の遺伝子（W遺伝子）は内耳の発達に影響を与え、青目側の耳に先天性難聴を引き起こすことがあります。オッドアイの個体を迎えた場合は獣医師によるBAER聴力検査を受け、難聴がある場合は手信号や振動を用いたコミュニケーションを行いましょう。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "土耳其梵猫水上安全与被毛烘干指南、异色瞳听力护理及3阶段日常护理流程",
+                "description": "会游泳的猫咪土耳其梵猫（Turkish Van）护理指南。了解防水单层被毛护理、高活动力竖向空间搭建、异色瞳遗传性听力检查与3阶段日常护理。",
+                "authority": "国际猫科医学会 (ISFM) 临床指南及 TICA/CFA 品种保育标准",
+                "profile": {
+                    "breed": "土耳其梵猫 (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 ~ 17年",
+                    "sleep_pattern": "晨昏性 (每天睡眠与休息 12~16 小时)",
+                    "temperament": "活泼、聪明、喜水、独立、好奇心强"
+                },
+                "intro": "土耳其梵猫（Turkish Van）是发源于土耳其梵湖（Lake Van）附近的古老自然品种，因其独特的“梵色图案”（全身雪白，仅头部和尾部有斑纹）与闪耀的异色瞳（Odd-Eyes，双眼虹膜异色）而闻名。与绝大多数家猫不同，土耳其梵猫拥有如羊绒般质感且天然防水的单层被毛（Single Coat），使其拥有不怕水甚至酷爱游泳的独特习性。然而，它们强壮的肌肉体格与极高的智商需要丰富的竖向攀爬空间和互动捕猎游戏，否则极易产生心理压力。此外，拥有蓝色眼睛的异色瞳个体可能携带先天性耳聋基因，必须进行听力筛查。水上活动后若未能彻底擦干耳道与毛发，还易诱发外耳炎与皮肤病。今天 PetSelf 将为您解析土耳其梵猫的行为信号、玩水安全规范与3阶段日常护理流程。",
+                "whyTitle": "土耳其梵猫的行为习性：戏水拍打（Water Tapping）与蓬松尾巴膨胀",
+                "whyDesc": "土耳其梵猫见到水时非但不会逃跑，反而会好奇地用前爪拍打水面或主动踏入浅水中。而在过度兴奋或警惕时，它们会膨胀蓬松的尾巴来表达情绪。",
+                "body_signals": [
+                    {
+                        "name": "拍打水面与主动入水 (Water Tapping & Swimming)",
+                        "meaning": "表达对水极高好奇心与愉悦感的正常天性游戏行为。",
+                        "response": "准备温水，并在玩水区域铺设防滑垫以防滑倒受伤。"
+                    },
+                    {
+                        "name": "耳朵向后压与对声音无反应 (Sound Unresponsiveness)",
+                        "meaning": "蓝眼一侧耳朵可能存在先天性耳聋，或处于应激警戒状态。",
+                        "response": "利用手势或打地面的震动进行交流，并带往医院进行 BAER 听力测试。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：异色瞳眼睛与听力检查及被毛梳理",
+                        "text": "检查眼部分泌物与声音反应，用梳子柔和梳理不易打结的羊绒质感单层被毛。"
+                    },
+                    {
+                        "name": "中午：高耸猫攀爬架竖向运动与智力消耗",
+                        "text": "布置高耸的猫树以满足其强大的跳跃力，利用益智玩具和逗猫棒消耗体力。"
+                    },
+                    {
+                        "name": "晚上：戏水安全监护与耳道擦干护理",
+                        "text": "戏水后用棉签或毛巾仔细擦干耳道内残留水分以防外耳炎，并彻底吹干被毛。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "土耳其梵猫真的喜欢游泳吗？可以强行给它洗澡吗？",
+                        "answer": "土耳其梵猫天生亲水，但强行将其扔进水缸或强行冲水会引发严重的心理创伤。必须让其在装有温水的浅盆中自主探索，且玩水后必须彻底擦干耳道水分以防耳朵发炎。"
+                    },
+                    {
+                        "question": "异色瞳（蓝眼）的土耳其梵猫更容易耳聋吗？",
+                        "answer": "是的。白色被毛与蓝眼基因（W基因）会影响内耳耳蜗发育，可能导致蓝眼一侧的耳朵患有先天性耳聋。领养异色瞳个体后应进行 BAER 听力测试，若存在听力障碍，应多使用手势和震动信号建立沟通。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de seguridad en el agua para el gato Van Turco, secado de pelaje y rutina de 3 pasos para ojos disímiles",
+                "description": "Guía esencial de cuidado para el gato nadador Van Turco (Turkish Van). Cuidado del manto monocapa repelente al agua, espacios de alta actividad y controles de audición.",
+                "authority": "Pautas Clínicas de la International Society of Feline Medicine (ISFM) y Estándares de TICA/CFA",
+                "profile": {
+                    "breed": "Gato Van Turco (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 ~ 17 años",
+                    "sleep_pattern": "Crepuscular (Duerme y descansa de 12 a 16 horas al día)",
+                    "temperament": "Activo, inteligente, aficionado al agua, independiente, curioso"
+                },
+                "intro": "El gato Van Turco es una antigua raza natural originaria de las cercanías del lago Van en Turquía, famosa por su patrón 'Van' (cuerpo blanco tiza con color restringido a la cabeza y cola) y sus llamativos ojos disímiles o heterocromía (Odd-Eyes). A diferencia de la mayoría de los felinos domésticos, posee un pelaje de capa única estilo cachemira naturalmente resistente al agua, lo que le otorga una afinidad legendaria por el agua y la natación. Sin embargo, su complexión muscular y alta inteligencia exigen espacios verticales amplios y juegos de caza interactivos. Además, los ejemplares de ojos disímiles con un ojo azul llevan un vínculo genético con la sordera neurosensorial congénita, lo que requiere revisiones auditivas. Tras jugar con agua, el secado del oído interno y del pelaje es crucial para prevenir otitis externa y dermatitis. Hoy en PetSelf cubrimos sus señales, seguridad en el agua y rutina diaria.",
+                "whyTitle": "Instintos del Van Turco: Palpado de agua (Water Tapping) y cola enpenachada",
+                "whyDesc": "En lugar de huir del agua, los Van Turcos golpean suavemente la superficie del agua con sus patas o entran voluntariamente. Cuando se emocionan o asustan, inflan su cola enpenachada.",
+                "body_signals": [
+                    {
+                        "name": "Palpado del agua y entrada voluntaria (Water Tapping)",
+                        "meaning": "Comportamiento de juego instintivo que expresa curiosidad y placer por el agua.",
+                        "response": "Proporcione agua tibia poco profunda y coloque alfombras antideslizantes para evitar caídas."
+                    },
+                    {
+                        "name": "Orejas aplastadas y falta de respuesta al sonido",
+                        "meaning": "Posible sordera congénita en el oído correspondiente al ojo azul, o señal de estrés elevado.",
+                        "response": "Comuníquese mediante gestos e impactos de vibración en el suelo y consulte al veterinario para un test BAER."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de ojos/audición y cepillado del manto monocapa",
+                        "text": "Inspeccione los ojos, compruebe la respuesta auditiva y cepille suavemente su pelaje de cachemira."
+                    },
+                    {
+                        "name": "Tarde: Escalada en torre alta y juegos de caza interactivos",
+                        "text": "Instale rascadores altos para satisfacer su salto y use juguetes interactivos para gastar su energía."
+                    },
+                    {
+                        "name": "Noche: Supervisión en el agua y secado minucioso de oídos",
+                        "text": "Supervise el juego con agua, seque completamente el interior de las orejas para evitar otitis y seque el pelaje."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Al Van Turco de verdad le gusta nadar? ¿Puedo bañarlo a la fuerza?",
+                        "answer": "Aunque disfrutan del agua de forma natural, forzarlos a un baño provoca un trauma severo. Permita siempre un acceso voluntario a recipientes con agua tibia poco profunda y asegúrese de secar bien el oído interno para evitar infecciones."
+                    },
+                    {
+                        "question": "¿Un Van Turco con heterocromía (ojo azul) tiene mayor probabilidad de ser sordo?",
+                        "answer": "Sí. El gen del pelaje blanco y ojo azul (gen W) afecta al desarrollo del oído interno, causando sordera congénita en el lado del ojo azul. Acuda al veterinario para realizar una prueba de audición BAER y use señales visuales o vibraciones si presenta deficiencia auditiva."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide Van Turc : sécurité aquatique, séchage du pelage et routine en 3 étapes pour chats aux yeux impairs",
+                "description": "Guide de soin essentiel pour le chat nageur Van Turco. Pelage monocouche hydrofuge, aménagement vertical stimulant, bilan auditif et routine quotidienne en 3 étapes.",
+                "authority": "Directives Cliniques de l'International Society of Feline Medicine (ISFM) et Normes TICA/CFA",
+                "profile": {
+                    "breed": "Chat Van Turc (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 ~ 17 ans",
+                    "sleep_pattern": "Crépusculaire (Dort et se repose 12 à 16 heures par jour)",
+                    "temperament": "Actif, intelligent, aime l'eau, indépendant, curieux"
+                },
+                "intro": "Le Van Turc est une ancienne race naturelle originaire des environs du lac de Van en Turquie, célèbre pour son patron 'Van' (corps blanc craie avec couleur limitée à la tête et la queue) et ses yeux impairs ou hétérochromie (Odd-Eyes). Contrairement aux autres chats, il possède une fourrure monocouche texture cachemire naturellement imperméable, lui conférant un amour légendaire pour l'eau et la natation. Toutefois, sa musculature athlétique et son intelligence exigent de grands espaces verticaux et des jeux de chasse stimulant. De plus, les individus aux yeux impairs avec un œil bleu présentent un risque génétique de surdité congénitale nécessitant un suivi. Après des jeux d'eau, un séchage soigneux des oreilles et du pelage est vital pour prévenir l'otite. Aujourd'hui sur PetSelf, découvrez ses signaux, sa sécurité aquatique et sa routine.",
+                "whyTitle": "Instincts du Van Turc : Clapotis de l'eau (Water Tapping) et queue en panache ébouriffée",
+                "whyDesc": "Loin de fuir l'eau, le Van Turc tapote la surface avec ses pattes ou s'y immerge volontairement. Lorsqu'il est très stimulé ou surpris, il ébouriffe sa queue touffue en panache.",
+                "body_signals": [
+                    {
+                        "name": "Clapotis à la surface de l'eau et immersion volontaire",
+                        "meaning": "Comportement de jeu instinctif exprimant une grande curiosité et du plaisir face à l'eau.",
+                        "response": "Remplissez une bassine d'eau tiède peu profonde et installez des tapis antidérapants pour sa sécurité."
+                    },
+                    {
+                        "name": "Oreilles plissées en arrière et absence de réponse sonore",
+                        "meaning": "Surdité congénitale possible du côté de l'œil bleu, ou signe de stress intense.",
+                        "response": "Communiquez par gestes visualisés ou vibrations au sol, et réalisez un test auditif BAER chez le vétérinaire."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Examen des yeux/oreilles et brossage du pelage monocouche",
+                        "text": "Contrôlez la propreté des yeux, vérifiez la réactivité sonore et brossez doucement sa fourrure au toucher cachemire."
+                    },
+                    {
+                        "name": "Après-midi : Arbre à chat haut et jeux de chasse interactifs",
+                        "text": "Installez un grand arbre à chat pour sa détente en hauteur et utilisez des cannes à pêche pour canaliser son énergie."
+                    },
+                    {
+                        "name": "Soir : Surveillance des jeux d'eau et séchage des oreilles",
+                        "text": "Accompagnez ses jeux d'eau, séchez minutieusement l'intérieur des oreilles pour éviter l'otite et séchez son pelage."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le Van Turc aime-t-il vraiment nager ? Puis-je le forcer à prendre un bain ?",
+                        "answer": "Bien que le Van Turc aime l'eau, le forcer dans un bain provoque un traumatisme sévère. Laissez-le toujours accéder librement à des bassines d'eau tiède peu profondes, et veillez à bien sécher le conduit auditif après le jeu."
+                    },
+                    {
+                        "question": "Un Van Turc aux yeux impairs (œil bleu) est-il plus à risque de surdité ?",
+                        "answer": "Oui. Le gène de la robe blanche et de l'œil bleu (gène W) altère le développement de l'oreille interne, provoquant une surdité congénitale du côté bleu. Effectuez un test auditif BAER chez le vétérinaire et adaptez votre communication avec des gestes visuels."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Türkisch Van Wasser-Sicherheitsguide, Felltrocknung und 3-Schritte-Pflege für Odd-Eyed Katzen",
+                "description": "Leitfaden für die schwimmende Türkisch Van Katze. Erfahren Sie alles über das wasserabweisende Single-Coat-Fell, kletterintensive Haltung, Gehör-Checks und die tägliche Pflege.",
+                "authority": "Klinische Richtlinien der International Society of Feline Medicine (ISFM) und TICA/CFA Standards",
+                "profile": {
+                    "breed": "Türkisch Van Katze (Turkish Van / Van Kedisi)",
+                    "lifespan": "12 ~ 17 Jahre",
+                    "sleep_pattern": "Dämmerungsaktiv (Schläft und ruht 12–16 Stunden täglich)",
+                    "temperament": "Aktiv, intelligent, wasserliebend, unabhängig, neugierig"
+                },
+                "intro": "Die Türkisch Van ist eine alte Naturrasse aus der Region um den Van-See in der Türkei. Sie ist berühmt für ihr 'Van-Muster' (kreideweißer Körper mit Farbzeichnung an Kopf und Schwanz) und ihre faszinierenden ungleichfarbigen Augen (Odd-Eyes / Heterochromie). Im Gegensatz zu den meisten Katzen besitzt sie ein wasserabweisendes Single-Coat-Fell ohne Unterwolle mit Kaschmir-Muster, was ihr eine legendäre Liebe zum Schwimmen verleiht. Ihre muskulöse Statur und hohe Intelligenz erfordern jedoch Klettermöglichkeiten in der Höhe und Jagdspiele. Bei Odd-Eyed Tieren mit einem blauen Auge besteht zudem ein genetisches Risiko für Taubheit, weshalb Gehörprüfungen wichtig sind. Nach dem Wasserspiel muss das Innenohr gründlich getrocknet werden, um Ohrenentzündungen vorzubeugen. Heute erklärt PetSelf Verhalten, Wassersicherheit und die 3-Schritte-Routine.",
+                "whyTitle": "Instinkte der Türkisch Van: Wasser-Patschen (Water Tapping) und Schwanzsträuben",
+                "whyDesc": "Statt vor Wasser zu fliehen, patschen Türkisch Van Katzen mit den Pfoten auf die Wasseroberfläche oder steigen freiwillig ins Wasser. Bei Überregung oder Schreck plustern sie ihren buschigen Schwanz auf.",
+                "body_signals": [
+                    {
+                        "name": "Wasser-Patschen & Freiwilliges Bading",
+                        "meaning": "Ausdruck von großer Neugier und Freude am Element Wasser – ein typisches Spielverhalten.",
+                        "response": "Stellen Sie lauwarmes, flaches Wasser bereit und legen Sie Anti-Rutsch-Matten aus."
+                    },
+                    {
+                        "name": "Anlegen der Ohren & Fehlende Reaktion auf Geräusche",
+                        "meaning": "Mögliche angeborene Taubheit auf der Seite des blauen Auges oder starkes Stresssignal.",
+                        "response": "Kommunizieren Sie über Handzeichen und Bodenvibrationen und führen Sie beim Tierarzt einen BAER-Test durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Augen-/Gehör-Check & Bürsten des Single-Coat-Fells",
+                        "text": "Prüfen Sie die Augen, testen Sie die Geräuschreaktion und bürsten Sie das kaschmirweiche Fell sanft aus."
+                    },
+                    {
+                        "name": "Nachmittag: Hoher Kratzbaum & Interaktives Jagdspiel",
+                        "text": "Bieten Sie hohe Kletterbäume für ihre Sprungkraft an und nutzen Sie Angelspielzeug zur Auslastung."
+                    },
+                    {
+                        "name": "Abend: Wasserspiel-Aufsicht & Gründliche Ohrentrocknung",
+                        "text": "Beaufsichtigen Sie das Planschen, trocknen Sie das Innenohr sorgfältig ab, um Otitis zu vermeiden, und trocknen Sie das Fell."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Schwimmt die Türkisch Van wirklich gerne? Darf ich sie zum Baden zwingen?",
+                        "answer": "Türkisch Van Katzen mögen Wasser von Natur aus, aber Zwangsbäder erzeugen schwere Traumata. Bieten Sie immer nur freiwilligen Zugang zu flachen Schüsseln mit lauwarmem Wasser und trocknen Sie die Ohren danach gründlich ab."
+                    },
+                    {
+                        "question": "Ist eine Türkisch Van mit verschiedenen Augenfarben (Odd-Eyes) häufiger taub?",
+                        "answer": "Ja. Das Gen für weißes Fell und blaue Augen (W-Gen) kann die Entwicklung des Innenohrs beeinträchtigen und zu Taubheit auf der blauen Augenseite führen. Lassen Sie beim Tierarzt einen BAER-Hörtest machen und nutzen Sie Sichtzeichen zur Kommunikation."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de segurança na água para o gato Turkish Van, secagem de pelagem e rotina de 3 passos para olhos ímpares",
+                "description": "Guia de cuidados essenciais para o gato nadador Turkish Van. Cuidados com a pelagem única repelente à água, espaço vertical, testes de audição e rotina de 3 passos.",
+                "authority": "Diretrizes Clínicas da International Society of Feline Medicine (ISFM) e Padrões TICA/CFA",
+                "profile": {
+                    "breed": "Gato Turkish Van / Van Turco (Van Kedisi)",
+                    "lifespan": "12 ~ 17 anos",
+                    "sleep_pattern": "Crepuscular (Dorme e descansa de 12 a 16 horas por dia)",
+                    "temperament": "Ativo, inteligente, adora água, independente, curioso"
+                },
+                "intro": "O Turkish Van é uma antiga raça natural originária das imediações do Lago Van, na Turquia, famosa pelo seu padrão 'Van' (corpo branco giz com cor limitada à cabeça e cauda) e olhos ímpares marcantes (heterocromia). Ao contrário da maioria dos gatos, possui uma pelagem única de textura semelhante à caxemira e naturalmente repelente à água, dando-lhe uma afinidade lendária por nadar. Contudo, o seu porte musculoso e inteligência exigem espaço vertical amplo e jogos de caça. Além disso, gatos com olhos ímpares (um olho azul) têm uma ligação genética à surdez congênita, exigindo exames auditivos. Após brincar na água, secar o ouvido e a pelagem é vital para prevenir otite e dermatite. Hoje no PetSelf explicamos os seus sinais, segurança na água e rotina diária.",
+                "whyTitle": "Instintos do Turkish Van: Batidas na água (Water Tapping) e cauda ereta e cheia",
+                "whyDesc": "Em vez de fugir da água, os gatos Turkish Van dão batidinhas na superfície com as patas ou entram voluntariamente. Quando animados ou assustados, erguem e inflam a sua cauda plumosa.",
+                "body_signals": [
+                    {
+                        "name": "Batidas na superfície da água e entrada voluntária",
+                        "meaning": "Comportamento lúdico instintivo que expressa curiosidade e prazer em relação à água.",
+                        "response": "Forneça água morna rasa e coloque tapetes antiderrapantes para evitar quedas."
+                    },
+                    {
+                        "name": "Orelhas baixas e falta de resposta ao som",
+                        "meaning": "Possível surdez congênita no ouvido correspondente ao olho azul, ou sinal de estresse.",
+                        "response": "Comunique-se por gestos e vibrações no chão e consulte o veterinário para um teste BAER."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Checagem de olhos/audição e escovação da pelagem única",
+                        "text": "Inspecione os olhos, verifique a resposta ao som e escove suavemente o pelo macio estilo caxemira."
+                    },
+                    {
+                        "name": "Tarde: Arranhadores altos e jogos de caça interativos",
+                        "text": "Instale arranhadores altos para satisfazer os seus saltos e use varinhas de brinquedo para gastar energia."
+                    },
+                    {
+                        "name": "Noite: Supervisão da brincadeira na água e secagem dos ouvidos",
+                        "text": "Acompanhe as brincadeiras na água, seque o interior das orelhas para evitar otite e seque o pelo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O Turkish Van realmente gosta de nadar? Posso forçá-lo a tomar banho?",
+                        "answer": "Embora gostem de água naturalmente, forçá-los a tomar banho causa traumas graves. Permita sempre o acesso voluntário a recipientes rasos com água morna e seque bem o ouvido interno após a brincadeira para evitar infecções."
+                    },
+                    {
+                        "question": "Um Turkish Van com heterocromia (olho azul) tem maior risco de ser surdo?",
+                        "answer": "Sim. O gene do pelo branco e olho azul (gene W) afeta o desenvolvimento do ouvido interno, podendo causar surdez congênita do lado azul. Faça um teste auditivo BAER com o veterinário e use sinais visuais se houver perda auditiva."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Keamanan Air Kucing Turkish Van, Pengeringan Bulu, dan Rutin 3 Langkah Perawatan Pendengaran Mata Beda Warna",
+                "description": "Panduan perawatan esensial kucing perenang Turkish Van. Perawatan bulu lapisan tunggal tahan air, lingkungan tinggi aktivitas, pemeriksaan pendengaran, dan rutin 3 langkah.",
+                "authority": "Pedoman Klinis International Society of Feline Medicine (ISFM) dan Standar Pemeliharaan TICA/CFA",
+                "profile": {
+                    "breed": "Kucing Turkish Van (Turkish Van Cat / Van Kedisi)",
+                    "lifespan": "12 ~ 17 Tahun",
+                    "sleep_pattern": "Krepuskular (Tidur dan Istirahat 12–16 Jam Sehari)",
+                    "temperament": "Aktif, Cerdas, Suka Air, Mandiri, Penasaran"
+                },
+                "intro": "Kucing Turkish Van adalah ras alami kuno yang berasal dari sekitar Danau Van di Turki, terkenal dengan 'pola Van' (tubuh putih kapur dengan warna terbatas di kepala dan ekor) serta mata beda warna (heterokromia / odd-eyes) yang memikat. Berbeda dari kebanyakan kucing, Turkish Van memiliki bulu lapisan tunggal (single coat) bertekstur kasmir yang tahan air, membuat mereka sangat suka berenang dan bermain air. Namun, tubuh otot dan kecerdasan tingginya membutuhkan ruang vertikal yang luas dan permainan berburu interaktif. Selain itu, kucing mata beda warna dengan satu mata biru memiliki keterkaitan genetik dengan ketulian bawaan, sehingga memerlukan pemeriksaan pendengaran. Setelah bermain air, pengeringan telinga bagian dalam dan bulu sangat krusial untuk mencegah otitis externa. Hari ini di PetSelf, kami membagikan panduan sinyal perilaku, keamanan air, dan rutin harian 3 langkah.",
+                "whyTitle": "Insting Kucing Turkish Van: Menepuk Air (Water Tapping) dan Mengembang Ekor Plum",
+                "whyDesc": "Bukannya kabur dari air, kucing Turkish Van justru menepuk permukaan air dengan kakinya atau masuk secara sukarela. Saat terlalu bersemangat atau terkejut, mereka mengembungkan ekornya yang lebat.",
+                "body_signals": [
+                    {
+                        "name": "Menepuk Permukaan Air & Masuk Air Sukarela",
+                        "meaning": "Perilaku bermain naluriah yang mengekspresikan rasa penasaran dan kesenangan terhadap air.",
+                        "response": "Sediakan air hangat dangkal dan pasang karpet anti-slip di sekitar area bermain agar tidak tergelincir."
+                    },
+                    {
+                        "name": "Telinga Ditekuk ke Belakang & Tidak Merespons Suara",
+                        "meaning": "Kemungkinan ketulian bawaan pada telinga di sisi mata biru, atau sinyal stres berlebih.",
+                        "response": "Berkomunikasilah menggunakan isyarat tangan dan getaran lantai, serta periksakan tes tes BAER ke dokter hewan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Kesehatan Mata/Pendengaran & Menyisir Bulu Single-Coat",
+                        "text": "Periksa kebersihan mata, tes respons suara, dan sisir lembut bulu kasmir tahan airnya."
+                    },
+                    {
+                        "name": "Siang: Panjatan Pohon Kucing Tinggi & Permainan Berburu Interaktif",
+                        "text": "Sediakan pohon kucing tinggi untuk memuaskan lompatannya, serta gunakan mainan pancingan untuk menyalurkan energi."
+                    },
+                    {
+                        "name": "Malam: Pengawasan Bermain Air & Pengeringan Telinga",
+                        "text": "Awasi saat bermain air, keringkan bagian dalam telinga secara menyeluruh untuk mencegah infeksi, lalu keringkan bulunya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah kucing Turkish Van benar-benar suka berenang? Bolehkah saya memandikannya secara paksa?",
+                        "answer": "Meskipun suka air secara alami, memandikan atau menceburkan kucing secara paksa dapat menimbulkan trauma berat. Selalu biarkan mereka mendekati wadah air hangat dangkal secara sukarela, dan pastikan mengeringkan telinga bagian dalam setelahnya."
+                    },
+                    {
+                        "question": "Apakah kucing Turkish Van bermata beda warna (odd-eyes) lebih rawan tuli?",
+                        "answer": "Ya. Gen bulu putih dan mata biru (gen W) mempengaruhi perkembangan telinga dalam, yang dapat menyebabkan ketulian bawaan pada sisi mata biru. Lakukan tes pendengaran BAER ke dokter hewan dan gunakan isyarat visual jika mengalami gangguan pendengaran."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/turkish_van_cat_care.webp"
+    }
+}

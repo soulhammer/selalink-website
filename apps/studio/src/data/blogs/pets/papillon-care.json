@@ -1,0 +1,459 @@
+{
+    "papillon-care": {
+        "pubDate": "2026-06-29",
+        "updatedDate": "2026-06-29",
+        "locales": {
+            "ko": {
+                "title": "파피용 슬개골 탈구 예방과 코트 케어·지적 어질리티 3단계 사육 루틴",
+                "description": "나비 모양 귀가 매력적인 소형 견종 파피용 사육 가이드. 슬개골 탈구 예방 환경, 우아한 싱글 코트 털 관리, 높은 지능을 위한 지적 어질리티 3단계 루틴을 소개합니다.",
+                "authority": "세계애견연맹(FCI) / 미국케널클럽(AKC) 견종 표준 및 세계소동물수의사회(WSAVA) 임상 가이드라인",
+                "profile": {
+                    "breed": "파피용 (Papillon)",
+                    "lifespan": "12 ~ 15년 (사육 환경 최적화 시)",
+                    "sleep_pattern": "12 ~ 14시간 (성견 적정 수면)",
+                    "temperament": "영리함, 활발함, 친근함, 애교 많음, 민첩함"
+                },
+                "intro": "파피용(Papillon)은 나비를 닮은 우아한 귀와 뛰어난 지능으로 전 세계 FCI 및 AKC 최상위 인기를 유지하는 소형 견종입니다. 소형견 중 최고 수준의 인지 능력을 지녀 어질리티 활동에 탁월하지만, 골격 구조상 슬개골 탈구(Patellar Luxation) 위험이 높습니다. 또한 속털이 없는 싱글 코트 특성상 귀와 가슴 장식털의 엉킴 방지 빗질이 필수적입니다. 오늘 PetSelf에서 관절 및 피모 건강, 지적 충족을 위한 3단계 루틴을 정리해 드립니다.",
+                "whyTitle": "파피용의 생태 본능: 나비귀 쫑긋하기와 뒷다리 절뚝거림 신호",
+                "whyDesc": "파피용은 호기심을 느낄 때 나비 모양 귀를 앞으로 세우는 **'귀 쫑긋 반응(Ear Alert Display)'**을 보입니다. 반면 뒷다리를 들고 걷거나 절뚝거리는 **'깽깽이 걸음(Limping / Leg-lifting)'**은 슬개골 탈구 이상 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "귀 쫑긋 세우기 (Ear Alert Display)",
+                        "meaning": "소리나 보호자의 목소리에 높은 집중력과 지적 호기심을 보이는 표현입니다.",
+                        "response": "퍼즐 완구나 어질리티 놀이로 지적 호기심을 충족시켜 줍니다."
+                    },
+                    {
+                        "name": "뒷다리 들기 및 절뚝거림 (Limping / Leg-lifting)",
+                        "meaning": "슬개골이 빠지거나 관절 통증으로 걸음걸이가 불균형해진 신호입니다.",
+                        "response": "뛰기를 제한하고 동물병원에서 슬개골 탈구 기수를 진단받습니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 관절 매트 점검 및 관절 영양제 급여",
+                        "text": "미끄럼 방지 매트를 점검하고 글루코사민/MSM 성분의 관절 영양제를 챙겨줍니다."
+                    },
+                    {
+                        "name": "낮: 장식털 미용 빗질 및 발바닥 케어",
+                        "text": "귀와 가슴의 긴 털이 엉키지 않도록 핀 브러시로 빗어주고 발바닥 털을 정돈합니다."
+                    },
+                    {
+                        "name": "밤: 노즈워크 퍼즐 완구 및 소형 어질리티 활동",
+                        "text": "높은 지능을 충족하는 퍼즐 완구나 소형 장애물 놀이 후 휴식을 취하게 합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "슬개골 탈구를 예방하는 핵심 방법은 무엇인가요?",
+                        "answer": "거실 매트 설치, 침대 펫 스텝 활용, 발바닥 미끄럼 방지 털 정리가 필수적입니다."
+                    },
+                    {
+                        "question": "털 빠짐이 심한 견종인가요?",
+                        "answer": "속털이 없는 싱글 코트라 털 빠짐은 적지만, 귀와 가슴 장식털 엉킴 방지를 위한 매일 빗질이 필요합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Papillon Patellar Luxation Prevention, Coat Grooming, and 3-Step Agility Routine",
+                "description": "Essential care guide for the Papillon. Learn about patellar luxation prevention, single-coat grooming, and a 3-step mental agility routine.",
+                "authority": "FCI / AKC Breed Standards & WSAVA Clinical Guidelines",
+                "profile": {
+                    "breed": "Papillon",
+                    "lifespan": "12 - 15 Years (In optimized captive conditions)",
+                    "sleep_pattern": "12 - 14 Hours (Adult sleeping pattern)",
+                    "temperament": "Intelligent, Active, Friendly, Affectionate, Agile"
+                },
+                "intro": "The Papillon is famed for its butterfly-like ears and top-tier intelligence among toy breeds. Excelling in agility, they possess high learning capacity but are prone to patellar luxation due to delicate bone structure. Their single coat requires daily brushing to prevent tangles on ear fringes. Today, PetSelf outlines a 3-step care routine.",
+                "whyTitle": "Papillon Instincts: Ear Alert Displays and Leg-Lifting Cues",
+                "whyDesc": "They show **'Ear Alert Displays'** by perking their fringed ears forward when curious. Conversely, **'Leg-lifting / Limping'** signals patellar luxation or joint discomfort.",
+                "body_signals": [
+                    {
+                        "name": "Ear Alert Display",
+                        "meaning": "Perking fringed ears forward, signaling high mental focus and curiosity.",
+                        "response": "Engage them with puzzle toys or agility play."
+                    },
+                    {
+                        "name": "Limping / Leg-lifting",
+                        "meaning": "Lifting a hind leg while walking, indicating patellar dislocation or pain.",
+                        "response": "Restrict jumping immediately and consult a veterinarian for joint staging."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Non-Slip Mat Check & Joint Supplementation",
+                        "text": "Inspect non-slip floor mats and provide glucosamine-based joint supplements."
+                    },
+                    {
+                        "name": "Afternoon: Single-Coat Brushing & Paw Care",
+                        "text": "Gently brush ear and chest fringes with a pin brush and trim paw pad fur."
+                    },
+                    {
+                        "name": "Evening: Nosework Puzzles & Mini Agility Play",
+                        "text": "Offer interactive food puzzles or indoor agility exercises before rest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How can I effectively prevent patellar luxation?",
+                        "answer": "Place non-slip mats on floors, use pet stairs near furniture, and trim paw hair regularly to prevent slipping."
+                    },
+                    {
+                        "question": "Does the Papillon shed excessively?",
+                        "answer": "They have a single coat without undercoat, so shedding is low, but daily brushing is required to prevent matting on ear fringes."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "パピヨンの膝蓋骨脱臼予防と毛並みケア・知育アジリティ3ステップルーティン",
+                "description": "蝶のような耳と高い知能を持つパピヨンの飼育ガイド。膝蓋骨脱臼(パテラ)予防、シングルコートのブラシケア、3ステップアジリティを解説します。",
+                "authority": "FCI / AKC 犬種標準 & WSAVA 臨床ガイドライン",
+                "profile": {
+                    "breed": "パピヨン (Papillon)",
+                    "lifespan": "12 〜 15年 (最適な飼育環境下)",
+                    "sleep_pattern": "12 〜 14時間 (成犬の適正睡眠)",
+                    "temperament": "知적、活発、フレンドリー、甘えん坊、俊敏"
+                },
+                "intro": "パピヨンは美しい耳飾り毛と高い知能を誇る小型犬です。学習能力が高くアジリティを得意としますが、骨格上膝蓋骨脱臼(パテラ)を起こしやすいです。また、アンダーコートのないシングルコートのため耳や胸の毛のもつれ防止ブラッシングが必須です。3ステップルーティンを解説します。",
+                "whyTitle": "パピヨンの本能：耳ピーン反応と片脚あげサイン",
+                "whyDesc": "好奇心時は耳を前方に向ける**「耳ピーン反応」**を見せます。一方、後ろ脚を上げて歩く**「片脚あげ(パテラ)」**は関節異常サインです。",
+                "body_signals": [
+                    {
+                        "name": "耳ピーン反応 (Ear Alert Display)",
+                        "meaning": "耳を前方に向け高い集中力と知的知好奇心を示すサインです。",
+                        "response": "知育パズルやアジリティ遊びで知的好奇心を満たします。"
+                    },
+                    {
+                        "name": "片脚あげ・スキップ歩行 (Limping / Leg-lifting)",
+                        "meaning": "膝蓋骨の脱臼や関節痛により歩行バランスが崩れたサインです。",
+                        "response": "ジャンプを制限し、獣医師による関節診断を受けます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：滑り止めマット点検と関節サプリ給与",
+                        "text": "フロアマットを確認し、グルコサミン配合の関節サプリを与えます。"
+                    },
+                    {
+                        "name": "昼：飾り毛のブラッシングと足裏ケア",
+                        "text": "耳や胸の長い毛が絡まないようピンブラシで整え、足裏の毛をカットします。"
+                    },
+                    {
+                        "name": "夜：ノーズワークパズルとアジリティ遊び",
+                        "text": "知能を満たすパズル遊びや室内障害物で遊ばせた後、休ませます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "パテラ(膝蓋骨脱臼)予防で大切な環境は？",
+                        "answer": "滑り止めマットの敷設、ソファ用スロープの設置、足裏の毛のカットが基本です。"
+                    },
+                    {
+                        "question": "抜け毛は多い犬種ですか？",
+                        "answer": "シングルコートのため抜け毛は比較的少ないですが、飾り毛の毛玉防止に毎日のブラッシングが必要です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "蝴蝶犬膝盖骨脱位预防与被毛梳理及智力敏捷训练3阶段日常护理流程",
+                "description": "蝴蝶犬（Papillon）护理指南。介绍膝盖骨脱位预防、单层毛梳理技巧及满足高智商的3阶段敏捷训练流程。",
+                "authority": "FCI / AKC 犬种标准 & WSAVA 临床指南",
+                "profile": {
+                    "breed": "蝴蝶犬 (Papillon)",
+                    "lifespan": "12 ~ 15年 (人工饲养环境最优化时)",
+                    "sleep_pattern": "12 ~ 14小时 (成犬适宜睡眠)",
+                    "temperament": "聪明、活泼、友善、粘人、敏捷"
+                },
+                "intro": "蝴蝶犬因蝴蝶般的耳朵和卓越智商而备受喜爱。它们极具敏捷天赋，但因骨骼纤细易患膝盖骨脱位（Patellar Luxation）。作为无底毛的单层毛犬种，耳部和胸部饰毛防打结梳理至关重要。今天 PetSelf 为您整理3阶段护理流程。",
+                "whyTitle": "蝴蝶犬的生态本能：立耳关注与抬腿跛行信号",
+                "whyDesc": "好奇时耳朵会向前耸立呈**“立耳关注”**。若出现抬起后腿跛行则属于**“抬腿跛行”**的膝盖骨脱位警示。",
+                "body_signals": [
+                    {
+                        "name": "立耳关注 (Ear Alert Display)",
+                        "meaning": "将耳朵向前耸立，代表对声音或主人声音的高度专注与好奇。",
+                        "response": "通过解密玩具或敏捷游戏满足其好奇心。"
+                    },
+                    {
+                        "name": "抬腿跛行 (Limping / Leg-lifting)",
+                        "meaning": "行走时抬起单侧后腿，代表膝盖骨脱位或关节疼痛。",
+                        "response": "限制剧烈跳跃，及时送医进行关节排查。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：防滑垫检查与关节保健品喂食",
+                        "text": "检查室内防滑垫，喂食补充氨基葡萄糖的关节保健品。"
+                    },
+                    {
+                        "name": "白天：饰毛梳理与脚底毛修剪",
+                        "text": "用针梳梳理耳部及胸部饰毛防止打结，并修剪脚底毛防滑。"
+                    },
+                    {
+                        "name": "晚上：嗅闻解密玩具与敏捷互动",
+                        "text": "开展嗅闻解密游戏或室内敏捷训练，随后安排休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "预防膝盖骨脱位的关键是什么？",
+                        "answer": "铺设防滑地垫、使用台阶梯子避免直接跳跃沙发、定期修剪脚底毛。"
+                    },
+                    {
+                        "question": "蝴蝶犬掉毛严重吗？",
+                        "answer": "无底毛单层毛掉毛较少，但耳饰毛易打结，需每日梳理。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Prevención de luxación patelar en el Papillón y rutina de 3 pasos de cepillado y agilidad mental",
+                "description": "Guía de cuidado para el Papillón. Aprenda sobre la prevención de luxación patelar, cepillado de manto único y rutina de 3 pasos de agilidad mental.",
+                "authority": "Estándares FCI / AKC & Guías Clínicas WSAVA",
+                "profile": {
+                    "breed": "Papillón (Papillon)",
+                    "lifespan": "12 - 15 años (en condiciones optimizadas)",
+                    "sleep_pattern": "12 - 14 horas (patrón adulto)",
+                    "temperament": "Inteligente, activo, amigable, afectuoso, ágil"
+                },
+                "intro": "El Papillón destaca por sus orejas de mariposa y alta inteligencia. Destacan en agilidad pero son propensos a la luxación patelar. Su pelaje sin capa interna requiere cepillado diario en sus flecos. Presentamos su rutina de 3 pasos.",
+                "whyTitle": "Instintos del Papillón: Orejas en alerta y cojera de pata trasera",
+                "whyDesc": "Muestran **'Orejas en alerta'** orientando sus orejas hacia adelante. La **'Cojera / Levantamiento de pata'** indica luxación de rótula.",
+                "body_signals": [
+                    {
+                        "name": "Orejas en alerta (Ear Alert Display)",
+                        "meaning": "Orientar las orejas hacia adelante, mostrando enfoque e interés.",
+                        "response": "Estimúlelo con juegos de inteligencia o agilidad."
+                    },
+                    {
+                        "name": "Cojera / Levantamiento de pata (Limping / Leg-lifting)",
+                        "meaning": "Levantar una pata trasera al caminar, indicando luxación o dolor.",
+                        "response": "Restrinja los saltos y consulte al veterinario."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de alfombras antideslizantes y condroprotectores",
+                        "text": "Verificar alfombras antideslizantes y suministrar suplementos articulares."
+                    },
+                    {
+                        "name": "Tarde: Cepillado de flecos y recorte de almohadillas",
+                        "text": "Cepillar flecos de orejas y pecho y recortar pelo de almohadillas."
+                    },
+                    {
+                        "name": "Noche: Rompecabezas interactivos y mini agilidad",
+                        "text": "Ofrecer juegos de inteligencia o ejercicios de agilidad interior."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo prevenir la luxación patelar?",
+                        "answer": "Coloque alfombras antideslizantes, use rampas/escaleras para mascotas y recorte el pelo de las almohadillas."
+                    },
+                    {
+                        "question": "¿Suelta mucho pelo?",
+                        "answer": "Al no tener subcapa suelta poco pelo, pero requiere cepillado diario para evitar nudos en los flecos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Prévention de la luxation de la rotule chez le Épagneul Nain Papillon et routine d'agilité en 3 étapes",
+                "description": "Guide de soin pour le Papillon. Découvrez la prévention de la luxation rotulienne, le brossage du pelage simple et une routine d'agilité en 3 étapes.",
+                "authority": "Normes FCI / AKC & Directives Cliniques WSAVA",
+                "profile": {
+                    "breed": "Épagneul Nain Papillon",
+                    "lifespan": "12 - 15 ans (en captivité optimisée)",
+                    "sleep_pattern": "12 - 14 heures (adulte)",
+                    "temperament": "Intelligent, actif, amical, affectueux, agile"
+                },
+                "intro": "Le Papillon est célèbre pour ses oreilles en papillon et son intelligence. Excellent en agilité, il est fragile des rotules. Son pelage simple nécessite un brossage quotidien des franges. PetSelf présente sa routine en 3 étapes.",
+                "whyTitle": "Instincts du Papillon : Oreilles en alerte et boiterie arrière",
+                "whyDesc": "Il exprime son attention en dressant ses **'Oreilles en alerte'**. La **'Boiterie / Patte levée'** signale une luxation de la rotule.",
+                "body_signals": [
+                    {
+                        "name": "Oreilles en alerte (Ear Alert Display)",
+                        "meaning": "Dresser les oreilles vers l'avant, signalant une grande concentration.",
+                        "response": "Stimulez-le avec des jeux d'intelligence."
+                    },
+                    {
+                        "name": "Boiterie / Patte levée (Limping / Leg-lifting)",
+                        "meaning": "Lever une patte arrière en marchant, indiquant une luxation.",
+                        "response": "Limitez les sauts et consultez un vétérinaire."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Tapis antidérapants et compléments articulaires",
+                        "text": "Vérifier les tapis et donner des compléments pour les articulations."
+                    },
+                    {
+                        "name": "Après-midi : Brossage des franges et soins des coussinets",
+                        "text": "Brosser les franges des oreilles et tailler le poil des coussinets."
+                    },
+                    {
+                        "name": "Soir : Casse-têtes alimentaires et mini agilité",
+                        "text": "Proposer des jeux d'intelligence avant le repos nocturne."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment prévenir la luxation de la rotule ?",
+                        "answer": "Utilisez des tapis antidérapants, des escaliers pour chien et coupez les poils sous les coussinets."
+                    },
+                    {
+                        "question": "Perd-il beaucoup de poils ?",
+                        "answer": "Sans sous-poil, il perd peu de poils mais nécessite un brossage quotidien pour éviter les nœuds."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Prävention von Patellaluxation beim Papillon und 3-Schritt-Agility-Routine",
+                "description": "Haltungsleitfaden für den Papillon. Erfahren Sie alles über Patellaluxations-Prävention, Pflege des Einfachfells und eine 3-Schritt-Agility-Routine.",
+                "authority": "FCI / AKC Rassestandards & WSAVA Klinik-Richtlinien",
+                "profile": {
+                    "breed": "Papillon",
+                    "lifespan": "12 - 15 Jahre (bei optimaler Haltung)",
+                    "sleep_pattern": "12 - 14 Stunden (ausgewachsen)",
+                    "temperament": "Intelligent, aktiv, freundlich, anhänglich, wendig"
+                },
+                "intro": "Der Papillon ist bekannt für seine schmetterlingshaften Ohren und hohe Intelligenz. Er glänzt im Agility, leidet aber leicht an Patellaluxation. Sein Einfachfell erfordert tägliches Bürsten der Fransen. Heute erklärt PetSelf die 3-Schritt-Routine.",
+                "whyTitle": "Instinkte des Papillons: Ohren-Aufrichten und Bein-Anheben",
+                "whyDesc": "Aufmerksamkeit zeigt er durch **'Ohren-Aufrichten'**. **'Humpeln / Bein-Anheben'** weist auf eine Patellaluxation hin.",
+                "body_signals": [
+                    {
+                        "name": "Ohren-Aufrichten (Ear Alert Display)",
+                        "meaning": "Richten der Befransung nach vorne bei geistigem Fokus.",
+                        "response": "Fordern Sie ihn mit Intelligenzspielzeug."
+                    },
+                    {
+                        "name": "Humpeln / Bein-Anheben (Limping / Leg-lifting)",
+                        "meaning": "Anheben eines Hinterbeins beim Laufen als Schmerzsignal.",
+                        "response": "Springen verhindern und den Tierarzt aufsuchen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Rutschfeste Matten & Gelenkergänzung",
+                        "text": "Matten prüfen und Gelenkzusätze (Glukosamin) füttern."
+                    },
+                    {
+                        "name": "Nachmittag: Fransenbürsten & Pfotenpflege",
+                        "text": "Ohr- und Brustfransen bürsten sowie Pfotenfell kürzen."
+                    },
+                    {
+                        "name": "Abend: Denkspiele & Mini-Agility",
+                        "text": "Intelligenzspiele oder Agility-Übungen vor dem Schlafen anbieten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie beuge ich einer Patellaluxation vor?",
+                        "answer": "Rutschfeste Matten auslegen, Hundetreppen nutzen und Pfotenhaare regelmäßig schneiden."
+                    },
+                    {
+                        "question": "Haart der Papillon stark?",
+                        "answer": "Da er keine Unterwolle hat, haart er wenig, braucht aber tägliches Bürsten gegen Verfilzungen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Prevenção de luxação patelar no Papillon e rotina de 3 passos de agilidade mental",
+                "description": "Guia de cuidados com o Papillon. Saiba mais sobre prevenção de luxação patelar, escovação de pelagem simples e rotina de agilidade mental em 3 passos.",
+                "authority": "Padrões FCI / AKC e Diretrizes Clínicas WSAVA",
+                "profile": {
+                    "breed": "Papillon",
+                    "lifespan": "12 - 15 anos (em cativeiro otimizado)",
+                    "sleep_pattern": "12 - 14 horas (padrão adulto)",
+                    "temperament": "Inteligente, ativo, amigável, afetuoso, ágil"
+                },
+                "intro": "O Papillon destaca-se pelas orelhas de borboleta e alta inteligência. Excelente em agilidade, possui pernas delicadas propensas à luxação patelar. A pelagem sem subpelo exige escovação diária nas franjas. Apresentamos a rotina em 3 passos.",
+                "whyTitle": "Instintos do Papillon: Orelhas em alerta e mancar de pata traseira",
+                "whyDesc": "Demonstram **'Orelhas em alerta'** inclinando-as para a frente. **'Mancar / Levantar a pata'** indica luxação de patela.",
+                "body_signals": [
+                    {
+                        "name": "Orelhas em alerta (Ear Alert Display)",
+                        "meaning": "Inclinar as orelhas para a frente, indicando foco e curiosidade.",
+                        "response": "Estimule-o com brinquedos de inteligência."
+                    },
+                    {
+                        "name": "Mancar / Levantar a pata (Limping / Leg-lifting)",
+                        "meaning": "Erguer a pata traseira ao andar, indicando dor ou luxação.",
+                        "response": "Evite saltos e consulte o veterinário."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Verificação de tapetes antiderrapantes e condroprotetores",
+                        "text": "Inspecionar tapetes antiderrapantes e dar suplementos articulares."
+                    },
+                    {
+                        "name": "Tarde: Escovação das franjas e cuidado das patas",
+                        "text": "Escovar franjas das orelhas e peito e aparar pelos das patas."
+                    },
+                    {
+                        "name": "Noite: Jogos interativos e mini agilidade",
+                        "text": "Oferecer quebra-cabeças ou exercícios de agilidade antes de dormir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como prevenir a luxação patelar?",
+                        "answer": "Use tapetes antiderrapantes, rampas para animais e apara o pelo entre as almofadas patalares."
+                    },
+                    {
+                        "question": "Solta muito pelo?",
+                        "answer": "Como não tem subpelo solta pouco pelo, mas exige escovação diária para evitar nós nas franjas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Pencegahan Dislokasi Patela Anjing Papillon dan Rutinitas 3 Langkah Agilitas Mental",
+                "description": "Panduan perawatan anjing Papillon. Pelajari pencegahan dislokasi patela, penyisiran bulu single-coat, dan 3 langkah rutinitas agilitas mental.",
+                "authority": "Standar Trah FCI / AKC & Panduan Klinis WSAVA",
+                "profile": {
+                    "breed": "Papillon",
+                    "lifespan": "12 - 15 tahun (pada kondisi penangkaran optimal)",
+                    "sleep_pattern": "12 - 14 jam (pola tidur dewasa)",
+                    "temperament": "Cerdas, aktif, ramah, penyayang, lincah"
+                },
+                "intro": "Anjing Papillon terkenal dengan telinga berbentuk kupu-kupu dan kecerdasan tinggi. Unggul dalam agilitas, mereka rentan mengalami dislokasi patela. Bulu single-coat mereka membutuhkan penyisiran harian pada rumbai telinga. Hari ini PetSelf membagikan 3 langkah rutinitas.",
+                "whyTitle": "Insting Papillon: Telinga Tegak Waspada dan Pincang Kaki Belakang",
+                "whyDesc": "Telinga mereka **'Tegak Waspada'** saat penasaran. Berjalan dengan **'Pincang / Mengangkat Kaki'** menandakan dislokasi patela.",
+                "body_signals": [
+                    {
+                        "name": "Telinga Tegak Waspada (Ear Alert Display)",
+                        "meaning": "Mengarahkan telinga rumbai ke depan, menandakan fokus dan rasa ingin tahu.",
+                        "response": "Ajak bermain teka-teki atau permainan agilitas."
+                    },
+                    {
+                        "name": "Pincang / Mengangkat Kaki (Limping / Leg-lifting)",
+                        "meaning": "Mengangkat satu kaki belakang saat berjalan, menandakan rasa sakit atau dislokasi.",
+                        "response": "Batasi melompat dan konsultasikan ke dokter hewan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Karpet Antilicin & Suplemen Sendi",
+                        "text": "Periksa karpet antilicin dan berikan suplemen sendi kalsium/glukosamin."
+                    },
+                    {
+                        "name": "Siang: Menyisir Bulu Rumbai & Perawatan Telapak Kaki",
+                        "text": "Sisir bulu rumbai telinga dan dada serta potong bulu telapak kaki."
+                    },
+                    {
+                        "name": "Malam: Teka-teki Makanan & Agilitas Mini Indoor",
+                        "text": "Berikan mainan teka-teki atau latihan agilitas mini sebelum tidur."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara efektif mencegah dislokasi patela?",
+                        "answer": "Pasang karpet antilicin, gunakan tangga khusus hewan, dan rutin memotong bulu telapak kaki."
+                    },
+                    {
+                        "question": "Apakah anjing Papillon banyak rontok bulu?",
+                        "answer": "Karena tidak memiliki lapisan bulu bawah (undercoat), rontoknya sedikit, namun butuh disisir tiap hari agar rumbainya tidak menggumpal."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/papillon_care.webp"
+    }
+}

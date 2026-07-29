@@ -1,0 +1,459 @@
+{
+    "clownfish-care": {
+        "pubDate": "2026-01-12",
+        "updatedDate": "2026-01-12",
+        "locales": {
+            "ko": {
+                "title": "흰동가리(클라운피쉬) 해아네모네 공생 습성과 해수 수질·염도 관리 3단계 루틴",
+                "description": "세계에서 가장 인기 있는 해수 관상어 흰동가리(클라운피쉬) 사육 가이드. 해아네모네와의 상리공생 원리와 질소 순환 정착, 비중(1.020~1.025) 관리 중심의 3단계 케어 루틴을 소개합니다.",
+                "authority": "NOAA Oceanic & Atmospheric Administration Marine Life Protocols 및 Exotic Marine Veterinary Protocols",
+                "profile": {
+                    "breed": "흰동가리 (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10년 (수족관 환경 최적화 시 10년 이상)",
+                    "sleep_pattern": "8 ~ 10시간 (야간에 어항 바닥이나 해아네모네 사이에서 정지 유영 수면)",
+                    "temperament": "영역 의식 있음, 모계 사회, 활발함, 호기심 많음"
+                },
+                "intro": "애니메이션 '니모'의 주인공으로 유명한 흰동가리(클라운피쉬)는 선명한 주황색 몸통과 세 줄의 하얀 띠가 특징인 대표적인 해수 관상어입니다. 흰동가리는 독성이 있는 해아네모네 촉수 사이를 헤엄치며 포식자로부터 몸을 보호하고, 해아네모네에게 먹이 잔여물과 산소를 공급하는 대표적인 상리공생 생물입니다. 또한 웅성선성 자웅동체(Protandrous Hermaphrodite)로, 무리 내 최상위 암컷이 죽으면 가장 큰 수컷이 암컷으로 성을 전환하는 독특한 생태적 특징을 지닙니다. 오늘 PetSelf에서는 흰동가리의 행동 시그널과 해수 어항의 적정 비중(1.020~1.025) 및 수질을 안정적으로 유지하는 3단계 케어 루틴을 정리해 드립니다.",
+                "whyTitle": "흰동가리의 생태 본능: 해아네모네 부비부비와 서열 진동 신호",
+                "whyDesc": "흰동가리는 표피 점액층(Mucus Layer) 덕분에 해아네모네의 자포(Stinging Cells) 독성에 자극받지 않고 안전하게 은신합니다. 해아네모네 촉수에 몸을 비비는 **'해아네모네 부비부비(Anemone Wiggling)'** 행동은 보금자리를 확보하고 보호막을 형성하는 본능입니다. 한편 무리 내 서열 확인 시에는 하위 수컷이 몸을 빠르게 떨며 **'제자리 진동(Twitching)'**을 보여 최상위 암컷에게 복종 의사를 표현합니다.",
+                "body_signals": [
+                    {
+                        "name": "해아네모네 부비부비 (Anemone Wiggling)",
+                        "meaning": "해아네모네 촉수 사이에 몸을 비비며 자신의 점액을 적응시키고, 포식자로부터 안전한 안식처를 확보하려는 본능입니다.",
+                        "response": "해아네모네가 잘 적응할 수 있도록 적절한 조명과 수류를 유지해 주되, 흰동가리를 강제로 끌어다 놓지 말고 스스로 입수하도록 기다려 줍니다."
+                    },
+                    {
+                        "name": "제자리 진동 및 떨림 (Twitching / Shaking)",
+                        "meaning": "무리 내 서열을 확인하거나 하위 수컷이 우두머리 암컷에게 복종과 신뢰를 표하는 전형적인 사회적 신호입니다.",
+                        "response": "자연스러운 무리 내 행동이므로 분리할 필요는 없으나, 지느러미가 심하게 훼손되는 과도한 공격이 지속되면 격리항을 준비합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 굴절 비중계(염도) 측정 및 수온(24~26℃) 점검",
+                        "text": "굴절 비중계로 해수 비중(1.020~1.025)을 측정합니다. 수분 증발로 염도가 높아진 경우 정수기물(RO/DI)을 보충하여 적정 비중을 유지합니다."
+                    },
+                    {
+                        "name": "낮: 해수 전용 사료 급여 및 단백질 스키머 점검",
+                        "text": "고단백 해수어 전용 사료를 2~3분 내에 다 먹을 수 있는 양만큼 급여하고, 수질 오염을 방지하기 위해 단백질 스키머 컬렉션 컵을 청소합니다."
+                    },
+                    {
+                        "name": "밤: 질소 순환(암모니아·아질산) 수치 확인 및 야간 수류 조정",
+                        "text": "수질 테스트 키트로 암모니아(0 ppm)와 아질산(0 ppm) 수치를 확인하고, 흰동가리가 조용히 휴식할 수 있도록 수류 모터를 야간 모드로 변경합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "해아네모네 없이 흰동가리만 키워도 괜찮나요?",
+                        "answer": "네, 완전히 괜찮습니다. 수족관에서 번식된(Captive-bred) 흰동가리는 해아네모네 없이도 라이브락이나 어항 내 구조물을 숙주 삼아 건강하게 적응합니다. 초보자의 경우 까다로운 해아네모네 없이 사육하는 것이 수질 관리에 훨씬 안전합니다."
+                    },
+                    {
+                        "question": "수돗물에 해수염을 섞어 바로 흰동가리를 넣어도 되나요?",
+                        "answer": "절대 안 됩니다. 수돗물의 염소를 제거하고 해수염을 완전히 녹인 후, 최소 2~4주 동안 물잡이(질소 순환계 형성) 과정을 거쳐 암모니아와 아질산 수치가 0 ppm이 된 것을 확인한 뒤 입수시켜야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Clownfish Sea Anemone Symbiosis and 3-Step Salinity & Water Quality Care Routine",
+                "description": "Comprehensive care guide for the iconic Clownfish. Learn about their mutualistic relationship with sea anemones, sequential hermaphroditism, and a 3-step daily routine to maintain proper salinity and filtration.",
+                "authority": "NOAA Oceanic & Atmospheric Administration Marine Life Protocols and Exotic Marine Veterinary Protocols",
+                "profile": {
+                    "breed": "Clownfish (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 - 10 Years (Can exceed 10 years in optimal aquarium environments)",
+                    "sleep_pattern": "8 - 10 Hours (Rests motionless near the bottom or inside anemones at night)",
+                    "temperament": "Territorial, Matriarchal, Active, Curious"
+                },
+                "intro": "Made world-famous as the main character in 'Finding Nemo', the Clownfish is a standout marine species recognized by its vibrant orange body and three distinct white bands. Clownfish share a classic mutualistic relationship with sea anemones, swimming safely among stinging tentacles thanks to a specialized mucus coating while providing the anemone with food remnants and aeration. Functionally, they are sequential hermaphrodites; if the dominant female dies, the largest male transitions into a female to maintain the social structure. Today, PetSelf breaks down clownfish behavioral signals and shares a 3-step care routine to regulate salinity (specific gravity 1.020–1.025) and nitrogen parameters.",
+                "whyTitle": "Clownfish Instincts: Anemone Wiggling and Hierarchy Signals",
+                "whyDesc": "Clownfish secrete a unique mucus layer on their skin that prevents sea anemone nematocysts (stinging cells) from firing. The **'Anemone Wiggling'** behavior involves rubbing against tentacles to establish a protected sanctuary. Within groups, lower-ranking fish display quick **'Twitching'** or fin vibrations as submissive signals toward the dominant female, preserving peaceful rank structure.",
+                "body_signals": [
+                    {
+                        "name": "Anemone Wiggling",
+                        "meaning": "Rubbing and nestling into anemone tentacles to transfer protective mucus and secure a safe shelter against predators.",
+                        "response": "Provide proper lighting and moderate water current for the anemone, avoiding forcing the fish into the tentacles artificially."
+                    },
+                    {
+                        "name": "Fin Vibration & Submissive Twitching",
+                        "meaning": "A typical submission display where smaller males vibrate their body to signal obedience to the dominant female.",
+                        "response": "This is normal social behavior that requires no intervention unless persistent physical bullying damages fins."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Salinity (Specific Gravity) & Temperature Check (24–26°C)",
+                        "text": "Measure specific gravity (target 1.020–1.025) with a refractometer. Top off evaporated water using purified freshwater (RO/DI) to avoid salt creep elevation."
+                    },
+                    {
+                        "name": "Afternoon: Feeding & Protein Skimmer Maintenance",
+                        "text": "Feed high-protein marine pellets or flakes sparingly (amount consumed within 2–3 minutes) and clean the protein skimmer collection cup to prevent organic buildup."
+                    },
+                    {
+                        "name": "Evening: Water Parameter Screening & Night Flow Adjustment",
+                        "text": "Test nitrogen parameters (Ammonia 0 ppm, Nitrite 0 ppm) with a water test kit, and switch wavemakers to night mode for peaceful resting."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can Clownfish be kept safely without a sea anemone?",
+                        "answer": "Yes. Captive-bred clownfish adapt exceptionally well without anemones, often adopting aquarium rocks or artificial decor as substitute hosts. Skipping anemones is often easier for beginners due to strict anemone lighting requirements."
+                    },
+                    {
+                        "question": "Can I mix tap water with marine salt and introduce Clownfish immediately?",
+                        "answer": "No. Tap water contains chlorine and minerals harmful to marine life. You must use purified water, mix marine salt completely, and cycle the tank for 2 to 4 weeks until ammonia and nitrite drop to 0 ppm before introducing fish."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "カクレクマノミのイソギンチャク共生習性と海水水質・塩分濃度管理の3ステップルーチン",
+                "description": "世界で最も人気のある海水魚カクレクマノミの飼育ガイド。イソギンチャクとの相利共生の仕組み、雄性先熟の生態、比重（1.020〜1.025）と水質を安定維持する3ステップルーチンを紹介します。",
+                "authority": "NOAA Oceanic & Atmospheric Administration Marine Life Protocols および エキゾチック海洋獣医学ガイドライン",
+                "profile": {
+                    "breed": "カクレクマノミ (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 〜 10年 (最適な水槽環境では10年以上)",
+                    "sleep_pattern": "8 〜 10時間 (夜間は水槽の bottom やイソギンチャクの中で静止遊泳して休息)",
+                    "temperament": "縄張り意識あり、母系社会、活発、好奇心旺盛"
+                },
+                "intro": "アニメ映画『ファインディング・ニモ』の主人公として有名なカクレクマノミは、鮮やかなオレンジ色の体と3本の白いバンドが特徴的な代表的海水魚です。有毒なイソギンチャクの触手で天敵から身を守り、イソギンチャクには食べ残しや酸素を供給する相利共生の関係を築いています。また雄性先熟（Protandrous Hermaphrodite）の生態を持ち、群れの最上位のメスが死亡すると最も大きいオスがメスへ性転換します。今回はPetSelfが、カクレクマノミの行動サインと適正比重（1.020〜1.025）を維持する3ステップルーチンを解説します。",
+                "whyTitle": "カクレクマノミの本能：イソギンチャクへのすり寄り行為と階級振動サイン",
+                "whyDesc": "カクレクマノミは体表の粘液層（Mucus Layer）により、イソギンチャクの刺胞毒に刺されずに安全に身を隠せます。触手に体を擦りつける**「すり寄り行為（Anemone Wiggling）」**は安全な住処を確保する本能行動です。一方、群れの中では下位のオスが体を素早く震わせる**「体を震わせる行動（Twitching）」**で上位のメスへ服従を示します。",
+                "body_signals": [
+                    {
+                        "name": "イソギンチャクへのすり寄り行為 (Anemone Wiggling)",
+                        "meaning": "イソギンチャクの触手に体を擦りつけて自らの粘液を馴染ませ、天敵から身を守る安全な隠れ家を確保する本能的な行動です。",
+                        "response": "イソギンチャクが適応できるよう適切な照明と水流を用意し、無理にクマノミをイソギンチャクに押し付けず自然に入るのを待ちます。"
+                    },
+                    {
+                        "name": "体を素早く震わせる行動 (Twitching / Shaking)",
+                        "meaning": "群れ内の順位を確認し、下位のオスが優位なメスに対して服従と信義を示す典型的な社会行動です。",
+                        "response": "自然な社会行動のため隔離の必要はありませんが、ヒレが著しく損傷するような過度な攻撃が続く場合は隔離水槽を用意します。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：屈折比重計での塩分濃度測定と水温（24〜26℃）チェック",
+                        "text": "屈折比重計で海水の比重（1.020〜1.025）を測定します。蒸発で塩分が上がった場合はRO/DI水を補給して調整します。"
+                    },
+                    {
+                        "name": "昼：海水魚専用フードの給餌とプロテインスキマーの点検",
+                        "text": "高タンパクな海水魚フードを2〜3分で食べきれる量だけ与え、水質悪化を防ぐためプロテインスキマーのカップを掃除します。"
+                    },
+                    {
+                        "name": "夜：硝化サイクル（アンモニア・亜硝酸）確認と夜間水流の設定",
+                        "text": "水質検査キットでアンモニア（0 ppm）と亜硝酸（0 ppm）を確認し、クマノミが静かに休めるよう水流を夜間モードに落とします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "イソギンチャクなしでカクレクマノミだけを飼育しても大丈夫ですか？",
+                        "answer": "はい、全く問題ありません。ブリード個体（Captive-bred）のクマノミは、イソギンチャクがなくてもライブロックや構造物を住処として健康に順応します。初心者の方は管理の難しいイソギンチャクなしで飼育する方が水質維持の面で安全です。"
+                    },
+                    {
+                        "question": "水道水に人工海水塩を混ぜてすぐにクマノミを入れてもいいですか？",
+                        "answer": "絶対に避けてください。水道水のカルキを抜き、海水塩を完全に溶かした後、 minimal 2〜4週間の水作り（硝化サイクルの構築）を行い、アンモニアと亜硝酸が0 ppmになったことを確認してから導入する必要があります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "小丑鱼与海葵共生习性及海水水质与盐度管理3阶段日常流程",
+                "description": "全球最受欢迎的海水观赏鱼小丑鱼养殖指南。介绍其与海葵的互利共生原理、雄性先熟生态，以及稳定维持比重（1.020~1.025）与硝化系统的3阶段护理流程。",
+                "authority": "NOAA Oceanic & Atmospheric Administration Marine Life Protocols 及 异宠海洋兽医临床指南",
+                "profile": {
+                    "breed": "小丑鱼 (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10年 (水族箱环境最优化时可达10年以上)",
+                    "sleep_pattern": "8 ~ 10小时 (夜间在缸底或海葵触手间静止游动休息)",
+                    "temperament": "领地意识强、母系社会、活泼、好奇心强"
+                },
+                "intro": "因动画电影《海底总动员》中的“尼莫”而风靡全球的小丑鱼，以鲜艳的橙色身体和三条白色条纹为特征。小丑鱼在带毒的海葵触手间自由穿梭以躲避捕食者，并为海葵提供残渣与氧气，是典型的互利共生生物。此外，它们属于雄性先熟的双性体（Protandrous Hermaphrodite），当种群中最顶层的雌鱼死亡时，体型最大的雄鱼会转变为雌鱼。今天 PetSelf 将为您解析小丑鱼的习性信号，并提供维持海水适宜比重（1.020~1.025）与水质的3阶段日常护理流程。",
+                "whyTitle": "小丑鱼的生态本能：海葵摩擦行为与社群等级震颤信号",
+                "whyDesc": "小丑鱼表皮分泌的特殊黏液层（Mucus Layer）可使其免受海葵刺细胞（Stinging Cells）毒素的伤害。在海葵触手上摩擦身体的**“海葵摩擦（Anemone Wiggling）”**行为是建立庇护所的本能。而在种群内部确认等级时，低阶雄鱼会通过快速抖动身体发出**“原地震颤（Twitching）”**信号，向首领雌鱼表达服从。",
+                "body_signals": [
+                    {
+                        "name": "海葵摩擦 (Anemone Wiggling)",
+                        "meaning": "在海葵触手间摩擦身体以适应黏液，借此建立抵御捕食者的安全庇护所。",
+                        "response": "为海葵提供适宜的光照与水流，不要强行将小丑鱼抓到海葵旁，应耐心等待其自然入葵。"
+                    },
+                    {
+                        "name": "原地震颤与抖动 (Twitching / Shaking)",
+                        "meaning": "确认种群阶级时，低阶雄鱼向首领雌鱼表达服从与信任的典型社会性信号。",
+                        "response": "属于自然社会行为无需干预，但若出现鱼鳍严重破损的过度攻击，需准备隔离盒。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：折光仪测量比重（盐度）与水温（24~26°C）检查",
+                        "text": "使用折光盐度计测量比重（目标1.020~1.025）。若水分蒸发导致盐度偏高，需补充净水（RO/DI水）以维持适宜比重。"
+                    },
+                    {
+                        "name": "白天：喂食海水鱼专用饲料与蛋白质分离器维护",
+                        "text": "喂食可在2~3分钟内吃完的高蛋白海水鱼饲料，并清理蛋白质分离器的收集杯以防止有机物污染。"
+                    },
+                    {
+                        "name": "晚上：硝化系统（氨与亚硝酸盐）检测与夜间水流调节",
+                        "text": "用测试剂确认氨（0 ppm）和亚硝酸盐（0 ppm）数值，并将造浪泵调至夜间模式以便小丑鱼休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "没有海葵可以单独饲养小丑鱼吗？",
+                        "answer": "完全可以。人工繁殖（Captive-bred）的小丑鱼在没有海葵的环境中也能健康成长，它们会选择活石或缸内装饰物作为替代寄主。对新手而言，不饲养高难度的海葵反而更有利于水质稳定。"
+                    },
+                    {
+                        "question": "可以用自来水混合人工海盐后直接放入小丑鱼吗？",
+                        "answer": "绝对不行。自来水必须祛除氯气，充分溶解海盐后，经历至少2~4周的养水（硝化系统建立）过程，确认氨和亚硝酸盐数值降低至0 ppm后方可入缸。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Simbiosis del pez payaso con la anémona y rutina de 3 pasos para el control de salinidad y calidad del agua",
+                "description": "Guía de cuidado del pez payaso, el pez marino más popular del mundo. Conozca su relación mutualista con las anémonas de mar, su hermafroditismo secuencial y la rutina de 3 pasos para mantener la gravedad específica (1.020-1.025).",
+                "authority": "Protocolos de Vida Marina de la NOAA y Guías Clínicas Veterinarias de Animales Marinos Exóticos",
+                "profile": {
+                    "breed": "Pez Payaso (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10 años (más de 10 años en acuarios optimizados)",
+                    "sleep_pattern": "8 ~ 10 horas (reposo inmóvil en el fondo o en la anémona durante la noche)",
+                    "temperament": "Territorial, matriarcal, activo, curioso"
+                },
+                "intro": "Mundialmente famoso por la película 'Buscando a Nemo', el pez payaso es una especie marina icónica destacada por su cuerpo naranja con tres franjas blancas. Mantiene una relación mutualista clásica con las anémonas, nadando entre tentáculos urticantes gracias a una capa de mucosa protectora, mientras le provee oxígeno y restos de comida. Son hermafroditas secuenciales protándricos: si la hembra dominante muere, el macho más grande cambia de sexo a hembra. Hoy en PetSelf compartimos las señales de su comportamiento y una rutina de 3 pasos para regular la salinidad y la calidad del agua.",
+                "whyTitle": "Instintos del pez payaso: Frotamiento con la anémona y señales de jerarquía",
+                "whyDesc": "El pez payaso secreta una capa de mucosidad en su piel que impide la descarga de los nematocistos (células urticantes) de la anémona. El **'Frotamiento con la anémona (Anemone Wiggling)'** es un comportamiento instintivo para crear un refugio seguro. En grupo, los machos subordinados emiten vibraciones rápidas **'Espasmos de sumisión (Twitching)'** hacia la hembra dominante para mantener el orden social.",
+                "body_signals": [
+                    {
+                        "name": "Frotamiento con la anémona (Anemone Wiggling)",
+                        "meaning": "Frotarse entre los tentáculos para adaptar su mucosidad y asegurar un refugio frente a depredadores.",
+                        "response": "Proporcione luz y corriente adecuadas para la anémona; no fuerce al pez a entrar en ella, permita que lo haga de forma natural."
+                    },
+                    {
+                        "name": "Espasmos de sumisión y vibración (Twitching / Shaking)",
+                        "meaning": "Comportamiento social donde un macho subordinado vibra rápidamente para mostrar obediencia a la hembra alfa.",
+                        "response": "Es un comportamiento natural que no requiere intervención a menos que existan agresiones graves que dañen sus aletas."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de salinidad (Gravedad específica) y temperatura (24–26 °C)",
+                        "text": "Mida la gravedad específica (objetivo 1.020–1.025) con un refractómetro. Rellene el agua evaporada con agua purificada (RO/DI) para estabilizar la salinidad."
+                    },
+                    {
+                        "name": "Tarde: Alimentación y mantenimiento del skimmer de proteínas",
+                        "text": "Alimente con gránulos marinos de alta proteína en cantidades que consuman en 2-3 minutos y limpie la copa del skimmer para evitar la contaminación orgánica."
+                    },
+                    {
+                        "name": "Noche: Verificación del ciclo del nitrógeno y ajuste de flujo nocturno",
+                        "text": "Compruebe amoníaco (0 ppm) y nitritos (0 ppm) con un kit de prueba y cambie los generadores de olas a modo nocturno para su descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Se puede mantener un pez payaso sin anémona?",
+                        "answer": "Sí, absolutamente. Los peces payaso criados en cautiverio se adaptan perfectamente sin anémonas, usando rocas o decoraciones como sustitutos. Para principiantes, omitir la anémona facilita enormemente el mantenimiento del agua."
+                    },
+                    {
+                        "question": "¿Puedo mezclar agua del grifo con sal marina e introducir al pez payaso de inmediato?",
+                        "answer": "Nunca. El agua del grifo contiene cloro y minerales dañinos. Debe usar agua purificada, disolver la sal marina por completo y madurar el acuario durante 2 a 4 semanas hasta que el amoníaco y nitritos estén en 0 ppm."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Symbiose du poisson-clown avec l'anémone de mer et routine en 3 étapes pour la qualité de l'eau et la salinité",
+                "description": "Guide de soins pour le poisson-clown. Découvrez sa relation mutualiste avec les anémones de mer, son hermaphrodisme successif et une routine quotidienne en 3 étapes pour maintenir la densité (1,020-1,025).",
+                "authority": "Directives sur la vie marine de la NOAA et Protocoles Vétérinaires pour Animaux Marins Exotiques",
+                "profile": {
+                    "breed": "Poisson-clown (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10 ans (plus de 10 ans en aquarium bien entretenu)",
+                    "sleep_pattern": "8 ~ 10 heures (repos immobile près du fond ou dans l'anémone la nuit)",
+                    "temperament": "Territorial, matriarcal, actif, curieux"
+                },
+                "intro": "Rendu célèbre par le film 'Le Monde de Nemo', le poisson-clown est un poisson marin emblématique reconnaissable à sa couleur orange vif et ses trois bandes blanches. Il entretient une relation symbiotique mutualiste avec l'anémone de mer, se protégeant des prédateurs grâce à un mucus cutané tout en lui apportant nourriture et oxygénation. C'est un hermaphrodite successif protandre : si la femelle dominante meurt, le plus grand mâle devient femelle. Aujourd'hui, PetSelf décrypte ses signaux comportementaux et vous propose une routine en 3 étapes pour maintenir la salinité et le cycle de l'azote.",
+                "whyTitle": "Instincts du poisson-clown : Frottement contre l'anémone et signaux de hiérarchie",
+                "whyDesc": "Le poisson-clown sécrète un mucus protecteur qui empêche les cnidocytes (cellules urticantes) de l'anémone de se déclencher. Le **'Frottement contre l'anémone (Anemone Wiggling)'** est un comportement instinctif pour établir un refuge. En groupe, les mâles subordonnés émettent des **'Tremblements de soumission (Twitching)'** pour signaler leur obéissance à la femelle dominante.",
+                "body_signals": [
+                    {
+                        "name": "Frottement contre l'anémone (Anemone Wiggling)",
+                        "meaning": "Se frotter contre les tentacules pour adapter son mucus et assurer un abri sûr contre les prédateurs.",
+                        "response": "Fournissez un éclairage et un brassage adaptés à l'anémone ; ne forcez jamais le poisson à y entrer manuellement."
+                    },
+                    {
+                        "name": "Tremblements de soumission (Twitching / Shaking)",
+                        "meaning": "Signal social par lequel un mâle plus petit fait vibrer son corps pour exprimer sa soumission à la femelle alfa.",
+                        "response": "Comportement social naturel ne nécessitant aucune intervention, sauf en cas d'attaques violentes endommageant les nageoires."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de salinité (Densité) et température (24–26 °C)",
+                        "text": "Mesurez la densité (cible : 1,020–1,025) à l'aide d'un réfractomètre. Compensez l'évaporation avec de l'eau osmosée (RO/DI) pour maintenir la salinité constante."
+                    },
+                    {
+                        "name": "Après-midi : Alimentation et entretien de l'écumeur de protéines",
+                        "text": "Distribuez des granulés marins riches en protéines (quantité consommée en 2-3 min) et nettoyez le godet de l'écumeur pour éviter la pollution biologique."
+                    },
+                    {
+                        "name": "Soir : Contrôle des paramètres de l'azote et réglage du flux nocturne",
+                        "text": "Testez l'ammoniac (0 ppm) et les nitrites (0 ppm) avec un kit de test et basculez les pompes de brassage en mode nuit pour leur repos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on maintenir un poisson-clown sans anémone de mer ?",
+                        "answer": "Oui, parfaitement. Les poissons-clowns nés en captivité s'adaptent très bien sans anémone, adoptant souvent des roches vivantes ou du décor comme hôte de substitution. Pour les débutants, se passer d'anémone simplifie grandement la gestion de l'eau."
+                    },
+                    {
+                        "question": "Puis-je mélanger de l'eau du robinet avec du sel marin et introduire le poisson immédiatement ?",
+                        "answer": "Absolument pas. L'eau du robinet contient du chlore et des métaux lourds. Vous devez utiliser de l'eau osmosée, dissoudre totalement le sel et laisser le bac cycler (cycle de l'azote) pendant 2 à 4 semaines jusqu'à obtenir 0 ppm d'ammoniac et de nitrites."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Symbiose des Clownfischs mit Seeanemonen und 3-Schritt-Tagesroutine für Wasserqualität und Salinität",
+                "description": "Pflegeanleitung für den Clownfisch. Erfahren Sie mehr über die mutualistische Symbiose mit Seeanemonen, den protandrischen Hermaphroditismus und die 3-Schritt-Routine zur Aufrechterhaltung der Dichte (1,020–1,025).",
+                "authority": "NOAA Richtlinien für Meereslebewesen und Tierärztliche Protokolle für Exotische Meeresbewohner",
+                "profile": {
+                    "breed": "Clownfisch / Anemonenfisch (Amphiprion ocellaris)",
+                    "lifespan": "6 ~ 10 Jahre (in optimalen Aquarien über 10 Jahre)",
+                    "sleep_pattern": "8 ~ 10 Stunden (ruht nachts bewegungslos am Boden oder in der Anemone)",
+                    "temperament": "Territorial, matriarchalisch, aktiv, neugierig"
+                },
+                "intro": "Spätestens seit dem Film 'Findet Nemo' ist der Clownfisch mit seinen drei weißen Streifen auf leuchtend orangem Körper weltweit bekannt. Er lebt in einer engen Symbiose mit Seeanemonen: Eine spezielle Schleimschicht schützt ihn vor den Nesselzellen der Anemone, während er sie im Gegenzug vor Fressfeinden schützt und mit Nährstoffen versorgt. Clownfische sind protandrische Zwitter: Stirbt das dominante Weibchen der Gruppe, wandelt sich das größte Männchen in ein Weibchen um. Heute erklärt PetSelf Verhaltenssignale des Clownfischs und zeigt eine 3-Schritt-Routine für stabile Wasserwerte (Dichte 1,020–1,025).",
+                "whyTitle": "Instinkte des Clownfischs: Anemonen-Kuscheln und Dominanz-Zucken",
+                "whyDesc": "Eine dicke Schleimhaut schützt die Haut des Clownfischs vor den Vesseln der Anemone. Das **'Anemonen-Kuscheln (Anemone Wiggling)'** dient dem Etablieren eines sicheren Unterschlupfs. Innerhalb der Hierarchie zeigen untergeordnete Männchen ein schnelles **'Unterwerfungs-Zucken (Twitching)'**, um dem dominanten Weibchen ihre Gehorsamkeit zu signalisieren.",
+                "body_signals": [
+                    {
+                        "name": "Anemonen-Kuscheln (Anemone Wiggling)",
+                        "meaning": "Sich in den Tentakeln der Anemone reiben, um den Schutzschleim anzupassen und einen Schutzraum vor Räubern zu sichern.",
+                        "response": "Sorgen Sie für geeignetes Licht und Strömung für die Anemone; setzen Sie den Fisch niemals gewaltsam in die Anemone."
+                    },
+                    {
+                        "name": "Unterwerfungs-Zucken (Twitching / Shaking)",
+                        "meaning": "Typisches Sozialverhalten, bei dem untergeordnete Männchen ihren Körper schütteln, um dem Weibchen Unterwerfung zu zeigen.",
+                        "response": "Natürliches Gruppenverhalten, das kein Eingreifen erfordert, außer es kommt zu extremer Aggression mit Flossenbeschädigungen."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Kontrolle von Dichte (Salinität) und Wassertemperatur (24–26 °C)",
+                        "text": "Messen Sie die Dichte (Ziel: 1,020–1,025) mit einem Refraktometer. Füllen Sie verdunstetes Wasser mit Osmosewasser (RO/DI) auf."
+                    },
+                    {
+                        "name": "Nachmittag: Fütterung & Reinigung des Eiweißabschäumers",
+                        "text": "Füttern Sie hochwertiges Meerwasser-Granulat sparsam (innerhalb von 2-3 Minuten fressen) und reinigen Sie den Schaumtopf des Abschäumers."
+                    },
+                    {
+                        "name": "Abend: Wasserwerte-Test (Stickstoffkreislauf) & Nachtströmung",
+                        "text": "Testen Sie Ammonium (0 ppm) und Nitrit (0 ppm) mit einem Testset und schalten Sie die Strömungspumpen für die Nachtruhe herunter."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Clownfische auch ohne Seeanemone halten?",
+                        "answer": "Ja, absolut. Nachgezüchtete Clownfische passen sich hervorragend ohne Anemonen an und nutzen Korallen, Steine oder Deko als Ersatz. Für Anfänger ist die Haltung ohne Anemone wegen der einfacheren Wasserpflege oft besser."
+                    },
+                    {
+                        "question": "Kann ich Leitungswasser mit Meersalz mischen und die Fische sofort einsetzen?",
+                        "answer": "Auf keinen Fall. Leitungswasser enthält Chlor und Schwermetalle. Sie müssen Osmosewasser verwenden, das Salz vollständig auflösen und das Aquarium 2 bis 4 Wochen einfahren lassen, bis Ammonium und Nitrit 0 ppm betragen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Simbiose do peixe-palhaço com anémonas do mar e rotina de 3 passos para controlo de salinidade e qualidade da água",
+                "description": "Guia completo de cuidados com o peixe-palhaço. Saiba mais sobre a sua relação mutualística com as anémonas, o hermafroditismo sequencial e a rotina em 3 passos para manter a gravidade específica (1,020–1,025).",
+                "authority": "Protocolos de Vida Marinha da NOAA e Diretrizes Clínicas Veterinárias de Animais Marinhos Exóticos",
+                "profile": {
+                    "breed": "Peixe-palhaço (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10 anos (mais de 10 anos em aquários bem cuidados)",
+                    "sleep_pattern": "8 ~ 10 horas (repousa imóvel no fundo ou dentro da anémona à noite)",
+                    "temperament": "Territorial, matriarcal, ativo, curioso"
+                },
+                "intro": "Tornado mundialmente famoso no filme 'Procurando Nemo', o peixe-palhaço é uma espécie marinha icónica reconhecida pelo corpo laranja brilhante com três faixas brancas. Mantém uma relação de simbiose mutualística com as anémonas-do-mar, protegendo-se dos predadores entre os tentáculos urticantes graças a uma camada de muco protetor. São hermafroditas sequenciais protândricos: se a fêmea dominante morre, o maior macho muda de sexo para fêmea. Hoje no PetSelf, explicamos os sinais de comportamento do peixe-palhaço e uma rotina de 3 passos para manter a salinidade e o ciclo do nitrogénio.",
+                "whyTitle": "Instintos do peixe-palhaço: Roçar na anémona e sinais de hierarquia",
+                "whyDesc": "O peixe-palhaço secreta uma camada de muco na pele que impede a descarga dos nematocistos (células urticantes) da anémona. O **'Roçar na anémona (Anemone Wiggling)'** é um comportamento instintivo para estabelecer um refúgio seguro. Na hierarquia do grupo, os machos submissos exibem **'Tiques de submissão (Twitching)'** rápidos para demonstrar obediência à fêmea alfa.",
+                "body_signals": [
+                    {
+                        "name": "Roçar na anémona (Anemone Wiggling)",
+                        "meaning": "Ato de se roçar nos tentáculos para adaptar o seu muco e garantir um refúgio seguro contra predadores.",
+                        "response": "Proporcione iluminação e fluxo de água adequados para a anémona; nunca force o peixe a entrar nela."
+                    },
+                    {
+                        "name": "Tiques de submissão e vibração (Twitching / Shaking)",
+                        "meaning": "Sinal social típico onde o macho menor vibra o corpo para demonstrar submissão à fêmea dominante.",
+                        "response": "Comportamento natural que não exige intervenção, a menos que ocorram agressões graves que danifiquem as barbatanas."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controlo de salinidade (Gravidade específica) e temperatura (24–26 °C)",
+                        "text": "Meça a gravidade específica (alvo: 1,020–1,025) com um refratómetro. Reponha a água evaporada com água purificada (RO/DI) para estabilizar a salinidade."
+                    },
+                    {
+                        "name": "Tarde: Alimentação e manutenção do escumador de proteínas",
+                        "text": "Alimente com ração marinha de alta proteína (quantidade consumida em 2-3 minutos) e limpe o copo do escumador para evitar poluição orgânica."
+                    },
+                    {
+                        "name": "Noite: Testes de parâmetros de nitrogénio e ajuste de fluxo noturno",
+                        "text": "Verifique a amónia (0 ppm) e os nitritos (0 ppm) com um kit de testes e mude as bombas de circulação para o modo noturno."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "É possível manter o peixe-palhaço sem anémona?",
+                        "answer": "Sim, com certeza. Os peixes-palhaço nascidos em cativeiro adaptam-se perfeitamente sem anémonas, adotando rochas ou decorações como casa alternativa. Para iniciantes, não utilizar anémonas facilita bastante a manutenção da qualidade da água."
+                    },
+                    {
+                        "question": "Posso misturar água da torneira com sal marinho e colocar o peixe imediatamente?",
+                        "answer": "Nunca. A água da torneira contém cloro e metais pesados. Deve usar água purificada, dissolver totalmente o sal marinho e fazer a ciclagem do aquário durante 2 a 4 semanas até que a amónia e os nitritos fiquem em 0 ppm."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Simbiosis Ikan Badut dengan Anemon Laut dan Rutinitas 3 Langkah Perawatan Salinitas & Kualitas Air",
+                "description": "Panduan perawatan ikan badut. Pelajari hubungan mutualisme dengan anemon laut, hermafroditisme sekuensial, dan 3 langkah rutinitas harian untuk menjaga gravitasi spesifik (1,020–1,025) dan filtrasi.",
+                "authority": "Protokol Kehidupan Laut NOAA dan Panduan Klinis Dokter Hewan Laut Eksotis",
+                "profile": {
+                    "breed": "Ikan Badut / Clownfish (Amphiprion ocellaris / False Percula Clownfish)",
+                    "lifespan": "6 ~ 10 tahun (bisa lebih dari 10 tahun di akuarium yang optimal)",
+                    "sleep_pattern": "8 ~ 10 jam (istirahat diam di dasar akuarium atau di dalam anemon saat malam)",
+                    "temperament": "Teritorial, matriarkal, aktif, penuh rasa ingin tahu"
+                },
+                "intro": "Terkenal di seluruh dunia sebagai karakter utama dalam film 'Finding Nemo', ikan badut adalah spesies laut ikonik dengan warna oranye cerah dan tiga garis putih. Ikan badut memiliki hubungan mutualisme dengan anemon laut, berenang aman di antara tentakel beracun berkat lapisan lendir pelindung sambil memberi anemon sisa makanan dan oksigen. Mereka adalah hermafrodit sekuensial protandris: jika betina dominan mati, pejantan terbesar akan berubah menjadi betina. Hari ini PetSelf membagikan sinyal perilaku ikan badut dan 3 langkah rutinitas harian untuk menjaga salinitas dan kualitas air.",
+                "whyTitle": "Insting Ikan Badut: Gesekan Anemon dan Sinyal Hierarki",
+                "whyDesc": "Ikan badut mengesekkan tubuh pada anemon untuk menyesuaikan lapisan lendir (Mucus Layer) yang mencegah sel sengat anemon melukai mereka. Perilaku **'Gesekan Anemon (Anemone Wiggling)'** ini adalah insting untuk membuat tempat perlindungan. Dalam kelompok, pejantan bawahan akan melakukan **'Getaran Submisif (Twitching)'** cepat untuk menunjukkan kepatuhan pada betina dominan.",
+                "body_signals": [
+                    {
+                        "name": "Gesekan Anemon (Anemone Wiggling)",
+                        "meaning": "Menggesekkan tubuh pada tentakel anemon untuk melapisi lendir pelindung dan mengamankan tempat berlindung dari pemangsa.",
+                        "response": "Sediakan pencahayaan dan arus air yang cukup untuk anemon; jangan pernah memaksa ikan masuk ke dalam anemon secara manual."
+                    },
+                    {
+                        "name": "Getaran Submisif (Twitching / Shaking)",
+                        "meaning": "Sinyal sosial di mana pejantan yang lebih kecil menggetarkan tubuhnya untuk menunjukkan ketundukan pada betina dominan.",
+                        "response": "Ini adalah perilaku sosial alami yang tidak memerlukan intervensi, kecuali jika terjadi penyerangan berlebihan yang merusak sirip."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Salinitas (Gravitasi Spesifik) dan Suhu Air (24–26 °C)",
+                        "text": "Ukur gravitasi spesifik (target 1,020–1,025) menggunakan refraktometer. Tambahkan air murni (RO/DI) untuk menggantikan air yang menguap agar salinitas stabil."
+                    },
+                    {
+                        "name": "Siang: Pemberian Pakan & Perawatan Protein Skimmer",
+                        "text": "Beri pakan pelet laut tinggi protein secukupnya (habis dalam 2-3 menit) dan bersihkan cangkir penampung protein skimmer untuk mencegah polusi organik."
+                    },
+                    {
+                        "name": "Malam: Pengujian Parameter Nitrogen & Penyesuaian Arus Malam Hari",
+                        "text": "Ukur kadar amonia (0 ppm) dan nitrit (0 ppm) dengan alat tes air, lalu ubah pembuat gelombang (wavemaker) ke mode malam untuk waktu istirahat."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah ikan badut bisa dipelihara tanpa anemon laut?",
+                        "answer": "Bisa, sangat aman. Ikan badut hasil budidaya (Captive-bred) dapat beradaptasi sangat baik tanpa anemon dan sering menjadikan batu karang atau dekorasi akuarium sebagai rumah pengganti. Bagi pemula, memelihara tanpa anemon jauh lebih mudah untuk menjaga kualitas air."
+                    },
+                    {
+                        "question": "Bolehkah mencampur air keran dengan garam laut dan langsung memasukkan ikan badut?",
+                        "answer": "Sangat tidak boleh. Air keran mengandung klorin dan logam berat. Anda harus menggunakan air murni (RO/DI), melarutkan garam laut hingga larut sempurna, dan melakukan proses cycling (pematangan bakteri) selama 2–4 minggu hingga amonia dan nitrit berada di angka 0 ppm."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/clownfish_care.webp"
+    }
+}

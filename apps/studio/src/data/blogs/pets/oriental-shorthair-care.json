@@ -1,0 +1,459 @@
+{
+    "oriental-shorthair-care": {
+        "pubDate": "2026-07-21",
+        "updatedDate": "2026-07-21",
+        "locales": {
+            "ko": {
+                "title": "오리엔탈 숏헤어 고양이 음성 교감 대처법과 단모 체온 유지 및 높은 사교성 놀이 3단계 케어 루틴",
+                "description": "박쥐 귀와 날렵한 얼굴의 오리엔탈 숏헤어(Oriental Shorthair) 케어 가이드. 수다쟁이 울음소리 음성 교감, 추위 대비 체온 유지, 높은 사교성 인터랙티브 놀이 3단계 루틴을 알아봅니다.",
+                "authority": "세계고양이수의학회(ISFM: International Society of Feline Medicine) 임상 가이드라인 및 국제고양이협회(TICA/CFA) 품종 보존 표준",
+                "profile": {
+                    "breed": "오리엔탈 숏헤어 (Oriental Shorthair Cat)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "박명박묘성 (하루 12~16시간 수면 및 집사 밀착 휴식)",
+                    "temperament": "외향적, 매우 수다스러움(발성 풍부), 높은 사교성, 사람 의존성 높음, 활발함"
+                },
+                "intro": "오리엔탈 숏헤어(Oriental Shorthair)는 커다란 박쥐 모양의 귀와 날렵한 쐐기형(Wedge-shaped) 얼굴, 긴 체형이 매력적인 샴(Siamese) 혈통 기반의 모던 묘종입니다. 풍부한 울음소리로 집사와끊임없이 대화하려는 '수다쟁이(Vocal)' 성격과 뛰어난 지능, 사람에게 착 붙어 애정을 표현하는 강한 사교성을 지녀 북미와 유럽 등지에서 매니아층이 매우 두텁습니다. 그러나 속털(Undercoat)이 거의 없는 얇은 단모종 특성상 추위에 매우 취약하여 실내 온도가 조금만 낮아져도 면역력이 떨어지거나 상부 호흡기 질환에 걸리기 쉽습니다. 또한, 외로움을 극심하게 느껴 혼자 오래 남겨질 경우 유기불안과 행동 장애, 기물 파손으로 이어질 수 있어 지속적인 인터랙티브 놀이와 보온 케어가 필수적입니다. 오늘 PetSelf에서는 오리엔탈 숏헤어의 음성 교감 신호와 체온 유지, 3단계 케어 루틴을 다룹니다.",
+                "whyTitle": "오리엔탈 숏헤어의 음성 신호와 행동 특성: 길고 다양한 발성(Vocalization)과 몸 밀착",
+                "whyDesc": "오리엔탈 숏헤어는 요구 사항이나 반가움, 외로움을 표현할 때 낮고 매력적인 억양의 울음소리를 냅니다. 집사의 어깨에 올라타고 온몸을 비비는 것은 극진한 애정과 관심 요구의 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "지속적이고 다양한 톤의 울음소리 (Vocal Communication)",
+                        "meaning": "집사와의 적극적인 소통 욕구, 심심함, 혹은 먹이/놀이 요구를 나타내는 정상적이고 외향적인 신호입니다.",
+                        "response": "울음에 차분히 목소리로 대답해 주며 음성 교감을 나누고, 요구 사항(놀이, 식사)을 점검해 줍니다."
+                    },
+                    {
+                        "name": "집사 몸 위에 눕기 및 파고들기 (Lap/Shoulder Cuddling)",
+                        "meaning": "보호자에 대한 깊은 신뢰 표현이자, 추위를 느껴 사람의 체온을 흡수하려는 체온 유지 및 애정 신호입니다.",
+                        "response": "부드럽게 다독여주며 실내 온도를 높이고, 따뜻한 펫 방석이나 담요를 제공해 체온을 유지해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 적정 실내 온도(22~25°C) 확인 및 얇은 단모 빗질",
+                        "text": "체온 유지를 위해 실내 적정 온도를 점검하고, 단모용 고무 브러시나 실리콘 브러시로 죽은 털을 가볍게 제거해 줍니다."
+                    },
+                    {
+                        "name": "낮: 사교성 해소를 위한 인터랙티브 낚싯대 놀이 및 퍼즐 장난감",
+                        "text": "외로움을 느끼지 않도록 낚싯대 장난감으로 활동량을 해소하고, 부재 시 지능형 먹이 퍼즐을 제공합니다."
+                    },
+                    {
+                        "name": "저녁: 보호자와의 집중 음성 교감 및 보온 온열 방석 케어",
+                        "text": "집사와의 밀착 음성 대화 시간을 갖고, 야간 추위에 대비해 따뜻한 온열 방석이나 극세사 담요 잠자리를 마련해 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "오리엔탈 숏헤어가 밤낮없이 계속 울 때(수다스러울 때) 어떻게 대처해야 하나요?",
+                        "answer": "오리엔탈 숏헤어의 발성은 품종 고유의 교감 방식이므로 무작정 억압하면 극심한 스트레스를 받습니다. 울음소리에 조용히 대답하며 욕구를 채워주되, 밤중 무분별한 요구성 울음에는 무관심으로 대처하고 낮 동안 충분한 사냥 놀이로 에너지를 발산시켜 주어야 합니다."
+                    },
+                    {
+                        "question": "단모종인 오리엔탈 숏헤어의 겨울철 체온 유지는 어떻게 해주어야 하나요?",
+                        "answer": "속털이 없는 피복 특성상 추위에 매우 약하므로 겨울철에는 실내 온도를 23~25°C로 따뜻하게 유지해야 합니다. 볕이 잘 드는 곳에 캣타워를 배치하고, 전용 옷을 입히거나 따뜻한 온열 매트, 스크래쳐용 극세사 담요를 사육 환경 곳곳에 마련해 주어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Oriental Shorthair Cat Vocal Communication Guide, Short Coat Thermal Care, and 3-Step High-Sociability Routine",
+                "description": "Essential care guide for the highly vocal Oriental Shorthair Cat. Learn how to respond to vocalizations, manage thin coat thermal needs, and provide a 3-step high-sociability interactive routine.",
+                "authority": "International Society of Feline Medicine (ISFM) Clinical Guidelines and TICA/CFA Breed Conservation Standards",
+                "profile": {
+                    "breed": "Oriental Shorthair Cat",
+                    "lifespan": "12 ~ 15 Years",
+                    "sleep_pattern": "Crepuscular (12–16 Hours of Sleep and Close Human Contact Daily)",
+                    "temperament": "Extroverted, Highly Vocal, Exceptionally Social, Human-Dependent, Active"
+                },
+                "intro": "The Oriental Shorthair is a sleek, modern breed derived from Siamese bloodlines, renowned for its large bat-like ears, elegant wedge-shaped head, and slender body. Exceptionally vocal and intelligent, they actively engage in conversation with their human companions, seeking constant affection and human contact. However, because they possess a fine, short coat with virtually no undercoat, they are highly sensitive to cold environments and vulnerable to respiratory chills if room temperatures drop. Furthermore, due to their intense sociability, they suffer from isolation distress if left alone for extended periods. Providing interactive play, dedicated thermal care, and responsive communication is crucial for their well-being. Today on PetSelf, we detail Oriental Shorthair vocal signals, thermal management, and a 3-step daily care routine.",
+                "whyTitle": "Oriental Shorthair Instincts: Rich Vocalizations and Lap Cuddling",
+                "whyDesc": "Oriental Shorthairs express curiosity, affection, or needs through a wide range of vocal tones. Climbing onto their owner's lap or shoulders serves as both a sign of deep trust and a quest to absorb body warmth.",
+                "body_signals": [
+                    {
+                        "name": "Frequent & Varied Vocalizations",
+                        "meaning": "An extroverted desire for active communication, attention, play, or feeding.",
+                        "response": "Reply softly to acknowledge their voice, verify their physical needs, and engage in interactive communication."
+                    },
+                    {
+                        "name": "Lap / Shoulder Snuggling & Burrowing",
+                        "meaning": "A display of deep affection combined with a need for thermal warmth due to feeling chilled.",
+                        "response": "Provide a warm blanket or heated pet pad, increase room temperature, and offer gentle physical affection."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Room Temperature Check (22–25°C) & Fine Coat Grooming",
+                        "text": "Verify indoor heating to prevent chills and gently brush their fine coat using a soft rubber curry brush to remove loose fur."
+                    },
+                    {
+                        "name": "Afternoon: Interactive Wand Play & Puzzle Feeding for Sociability",
+                        "text": "Engage in energetic feather wand play to satisfy social energy, providing puzzle feeders to keep them stimulated when alone."
+                    },
+                    {
+                        "name": "Evening: Focused Vocal Interaction & Thermal Bedding Setup",
+                        "text": "Spend quality time engaging in vocal dialogue and snuggle sessions, preparing a cozy fleece bed or heated mat for the night."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How should I handle my Oriental Shorthair's constant vocalizations?",
+                        "answer": "Vocalizing is an innate trait of the breed, so punishing it causes severe emotional distress. Engage with calm verbal responses during the day and fulfill their play needs. If demanding cries occur at night, maintain consistent neutral unresponsiveness to establish boundaries."
+                    },
+                    {
+                        "question": "How do I protect my Oriental Shorthair from cold weather?",
+                        "answer": "Because they lack a dense undercoat, maintain ambient room temperatures between 23–25°C (73–77°F). Place cat trees in sunny spots, provide soft fleece blankets or heated pet pads, and consider lightweight cat apparel in winter."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "オリエンタルショートヘアのおしゃべり性格(音声コミュニケーション)の対応と熱管理・高社交性3ステップケア",
+                "description": "大きな蝙蝠耳とシャープな顔立ちのオリエンタルショートヘア（Oriental Shorthair）飼育ガイド。豊富なおしゃべり鳴き声への対応、寒さ対策の体温管理、高社交性インタラクティブ遊びの3ステップを解説。",
+                "authority": "国際猫医学会（ISFM）臨床ガイドラインおよび TICA/CFA 繁殖保育基準",
+                "profile": {
+                    "breed": "オリエンタルショートヘア (Oriental Shorthair Cat)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "薄明薄暮性 (1日12〜16時間の睡眠と飼い主への密着休息)",
+                    "temperament": "外向的、非常に饒舌(おしゃべり)、高い社交性、人への依存度が高い、活発"
+                },
+                "intro": "オリエンタルショートヘア（Oriental Shorthair）は、大きなコウモリのような耳とシャープな楔形の顔立ち、しなやかな体型が魅力的なシャム（Siamese）血統ベースのモダン猫種です。豊かな鳴き声で飼い主と絶えず話そうとする「おしゃべり（Vocal）」な性格と優れた知能、人間にぴったり寄り添う高い社交性を持ち、欧米を中心におしゃれな愛猫家から熱狂的な人気を誇ります。しかし、アンダーコート（下毛）がほとんどない薄い短毛種のため非常に寒さに弱く、室温が下がると免疫低下や呼吸器疾患にかかりやすくなります。また、一人にされると激しい shared 不安やストレス行動を起こすため、毎日のインタラクティブな遊びと体温管理が不可欠です。今回はPetSelfが、オリエンタルショートヘアの感情サインと寒さ対策、3ステップ日常ケアを解説します。",
+                "whyTitle": "オリエンタルショートヘアの行動特徴：多様な鳴き声（Vocalization）と身体の密着",
+                "whyDesc": "オリエンタルショートヘアは要求や歓迎、寂しさを伝える際に様々なトーンの鳴き声を出します。飼い主の肩に乗ったり膝に潜り込むのは、深い愛情と同時に体温を分かち合う保温行動です。",
+                "body_signals": [
+                    {
+                        "name": "継続的で多様な鳴き声 (Vocal Communication)",
+                        "meaning": "飼い主との積極的な対話要求、退屈、または食事・遊びの要求を示す正常な社交サインです。",
+                        "response": "優しい声で返事をしてコミュニケーションを楽しみつつ、食事や遊びの要求がないか確認します。"
+                    },
+                    {
+                        "name": "膝や肩へのすり寄り・潜り込み (Lap/Shoulder Cuddling)",
+                        "meaning": "強い信頼感の表れであると同時に、寒さを感じて人間の体温で暖を取ろうとしているサインです。",
+                        "response": "優しく撫でて室温を上げ、暖かフリースや温熱ベッドを用意して体を温めてあげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：適正室温(22〜25℃)の確認とラバーブラシでの被毛ケア",
+                        "text": "冷え込みを防ぐため室温を確認し、短毛用のラバーブラシで抜け毛を優しく取り除きます。"
+                    },
+                    {
+                        "name": "昼：高い社交性を満たすじゃらし遊びと知育トイの提供",
+                        "text": "孤独感を減らすためフェザーじゃらしで思い切り運動させ、留守番時には知育トイを仕込みます。"
+                    },
+                    {
+                        "name": "夜：飼い主との濃厚な音声対話と保温ベッドのセット",
+                        "text": "しっかり声をかけ合いながら甘えさせ、夜間の冷え込みに備えて温熱マットやフリースケットをセットします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "オリエンタルショートヘアが絶えず鳴く(おしゃべりな)場合、どう対処すればいいですか？",
+                        "answer": "鳴くことはこの犬種の固有なコミュニケーション手段であるため、無視したり叱ったりすると強いストレスになります。日中は優しく声を返して対話し、十分に遊んでエネルギーを発散させてください。夜間の要求鳴きには過剰に反応せず静かに接することが大切です。"
+                    },
+                    {
+                        "question": "アンダーコートがないオリエンタルショートヘアの冬の寒さ対策は？",
+                        "answer": "アンダーコートがないため寒さに非常に弱く、冬場は室温を23〜25℃に保つ必要があります。日当たりの良い場所にドーム型ベッドや温熱マットを設置し、必要に応じて室内用の服を着せるのも効果的です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "东方短毛猫唠叨性格（语音互动）应对、短毛保暖与高社交性3阶段日常护理流程",
+                "description": "拥有蝙蝠耳与利落脸型的东方短毛猫（Oriental Shorthair）护理指南。了解爱鸣叫唠叨的语音互动应对、薄短毛防寒保暖与高社交性互动游戏3阶段日常护理。",
+                "authority": "国际猫科医学会 (ISFM) 临床指南及 TICA/CFA 品种保育标准",
+                "profile": {
+                    "breed": "东方短毛猫 (Oriental Shorthair Cat)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "晨昏性 (每天睡眠与紧贴主人休息 12~16 小时)",
+                    "temperament": "外向、极度爱鸣叫(唠叨)、高社交性、高度依赖人类、活泼"
+                },
+                "intro": "东方短毛猫（Oriental Shorthair）是源自暹罗猫（Siamese）血统的现代猫种，以其巨大的蝙蝠耳、利落的楔形 head 以及修长优雅的身材而闻名。它们性格外向极具“唠叨（Vocal）”属性，喜欢用丰富的鸣叫声与主人不断对话，同时智商极高且极其粘人，在欧美深受资深猫奴喜爱。然而，由于其几乎没有底层绒毛（Undercoat），薄薄的短毛使其极度怕冷，室温稍低就容易导致免疫力下降或患上上呼吸道疾病。此外，它们极度害怕孤单，若长时间独自在家易产生分离焦虑与破坏行为，因此持续的互动陪玩与保暖护理至关重要。今天 PetSelf 将为您解析东方短毛猫的语音沟通信号、体温维持与3阶段日常护理流程。",
+                "whyTitle": "东方短毛猫的行为习性：丰富的鸣叫声（Vocalization）与贴身依偎",
+                "whyDesc": "东方短毛猫在表达期盼、欢迎或孤独时会发出各种语调的鸣叫声。爬上主人的肩膀或钻入怀中是表达极度信任，以及因怕冷而吸收人体体温的保暖信号。",
+                "body_signals": [
+                    {
+                        "name": "频繁且声调丰富的鸣叫 (Vocal Communication)",
+                        "meaning": "表达强烈的沟通欲望、无聊索陪或是索要食物的正常外向社交信号。",
+                        "response": "用温柔的声音回应与沟通，并排查其是否有饮食或玩耍的需求。"
+                    },
+                    {
+                        "name": "钻怀/爬肩膀与贴身依偎 (Lap/Shoulder Cuddling)",
+                        "meaning": "对主人高度信任的表达，同时也可能是感到寒冷需要吸收体温的保暖信号。",
+                        "response": "轻柔抚摸并提高室内温度，为其提供暖和的保暖垫或羊羔绒毛毯。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：合适室温(22~25°C)确认与橡胶梳梳理",
+                        "text": "检查室内温度以防着凉，用短毛专用的橡胶梳轻轻梳理掉落的浮毛。"
+                    },
+                    {
+                        "name": "中午：高互动性逗猫棒陪玩与益智玩具提供",
+                        "text": "使用羽毛逗猫棒高强度陪玩以满足其社交与运动需求，留守时提供益智漏食玩具。"
+                    },
+                    {
+                        "name": "晚上：集中语音情感交流与保暖温热窝搭建",
+                        "text": "陪伴其进行亲密的语音聊天与贴贴，夜间准备温热电热垫或绒毛毯睡窝以防夜间受凉。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "东方短毛猫总是唠叨叫个不停，应该如何应对？",
+                        "answer": "鸣叫是该品种天生的交流方式，强行训斥会造成严重心理压力。白天应温和地与其对话并充分陪玩消耗精力。对于夜间的无理索要性鸣叫，应保持冷处理不予回应，建立良好的作息规律。"
+                    },
+                    {
+                        "question": "缺少底层绒毛的东方短毛猫在冬季如何做好保暖？",
+                        "answer": "由于缺乏绒毛保暖，冬季室内温度应维持在 23~25°C。将猫爬架安置在采光良好的晒太阳区域，并为其准备电热垫、绒毛毯，必要时可穿上舒适的室内猫咪衣服。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de comunicación vocal del gato Oriental de Pelo Corto, cuidado térmico y rutina de 3 pasos para su alta sociabilidad",
+                "description": "Guía de cuidado esencial para el gato Oriental de Pelo Corto (Oriental Shorthair). Gestión de maullidos y parloteo, protección térmica para pelo fino y rutina de interacción social.",
+                "authority": "Pautas Clínicas de la International Society of Feline Medicine (ISFM) y Estándares de TICA/CFA",
+                "profile": {
+                    "breed": "Gato Oriental de Pelo Corto (Oriental Shorthair Cat)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "Crepuscular (Duerme y descansa de 12 a 16 horas al día junto a su dueño)",
+                    "temperament": "Extrovertido, muy parlanchín (vocal), muy social, dependiente, activo"
+                },
+                "intro": "El Oriental de Pelo Corto (Oriental Shorthair) es una elegante raza moderna derivada del Siamés, famosa por sus grandes orejas de murciélago, su cabeza estilizada en cuña y su cuerpo esbelto. Altamente sociables e inteligentes, disfrutan mantener una constante 'conversación' mediante variados maullidos con sus dueños. Sin embargo, al poseer un pelaje muy corto casi sin subcapa, son extremadamente sensibles al frío y pueden enfermar de las vías respiratorias si baja la temperatura ambiente. Además, su intensa sociabilidad los hace propensos a la ansiedad si pasan mucho tiempo solos. Brindarles juegos interactivos, abrigo térmico y respuestas afectuosas es vital. Hoy en PetSelf cubrimos sus señales vocales, protección del frío y rutina diaria.",
+                "whyTitle": "Instintos del Oriental de Pelo Corto: Ricas vocalizaciones y acurrucamiento",
+                "whyDesc": "Los Orientales de Pelo Corto expresan emociones, curiosidad o necesidades mediante una amplia gama de tonos vocales. Subirse al regazo o a los hombros demuestra confianza profunda y busca absorber calor humano.",
+                "body_signals": [
+                    {
+                        "name": "Vocalizaciones frecuentes y variadas",
+                        "meaning": "Deseo extrovertido de comunicación activa, búsqueda de atención, juego o comida.",
+                        "response": "Responda suavemente con la voz para validar su llamada, verifique sus necesidades y juegue con él."
+                    },
+                    {
+                        "name": "Acurrucarse en el regazo / hombros y esconderse bajo cobijas",
+                        "meaning": "Muestra de afecto profundo combinada con necesidad de calor térmico al sentir frío.",
+                        "response": "Ofrezca una manta suave o cama térmica, aumente la temperatura de la habitación y bríndole mimos."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (22–25 °C) y cepillado del pelo fino",
+                        "text": "Compruebe la calefacción interior para evitar resfriados y cepille suavemente su manto corto con un guante de goma."
+                    },
+                    {
+                        "name": "Tarde: Juego interactivo con caña y comederos interactivos",
+                        "text": "Realice sesiones de juego dinámico para canalizar su alta sociabilidad y deje puzles de comida si se queda solo."
+                    },
+                    {
+                        "name": "Noche: Diálogo vocal afectuoso y preparación de cama térmica",
+                        "text": "Dedique tiempo a mimarlo y hablarle, dejando preparada una cama con manta de felpa o cojín térmico para la noche."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo debo manejar los maullidos constantes (carácter parlanchín) del Oriental de Pelo Corto?",
+                        "answer": "Maullar es un rasgo innato de comunicación en esta raza, por lo que reprimirlo causa frustración. Responda con voz tranquila durante el día y satisfaga sus horas de juego. Si maúlla de noche para exigir atención, mantenga una actitud neutra para marcar límites de sueño."
+                    },
+                    {
+                        "question": "¿Cómo puedo proteger del frío a un gato Oriental de Pelo Corto en invierno?",
+                        "answer": "Al carecer de subcapa espesa, mantenga la temperatura ambiente entre 23 y 25 °C. Sitúe rascadores cerca de ventanas soleadas, proporcione mantas de felpa o almohadillas térmicas y considere ropa ligera de interior para gatos."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide Oriental Shorthair : gestion des miaulements, protection thermique et routine en 3 étapes pour chat très social",
+                "description": "Guide de soin essentiel pour le chat Oriental Shorthair. Communication vocale, maintien de la chaleur corporelle pour pelage fin et routine de jeux interactifs.",
+                "authority": "Directives Cliniques de l'International Society of Feline Medicine (ISFM) et Normes TICA/CFA",
+                "profile": {
+                    "breed": "Chat Oriental Shorthair (Oriental à poil court)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "Crépusculaire (Dort et se repose 12 à 16 heures par jour collé à son maître)",
+                    "temperament": "Extraverti, très bavard (vocal), extrêmement social, dépendant, vif"
+                },
+                "intro": "L'Oriental Shorthair est une race moderne élégante issue du Siamois, célèbre pour ses grandes oreilles de chauve-souris, sa tête en coin et son corps fin. Très bavard et intelligent, il adore entretenir une véritable 'conversation' avec son maître par des miaulements variés. Cependant, doté d'un pelage ras sans sous-poil, il est très vulnérable au froid et aux refroidissements respiratoires si la température chute. De plus, sa grande sociabilité le rend sensible à la solitude. Lui apporter des jeux interactifs, une chaleur douce et un dialogue attentif est indispensable. Aujourd'hui sur PetSelf, découvrez ses signaux vocaux, ses besoins thermiques et sa routine quotidienne.",
+                "whyTitle": "Instincts de l'Oriental Shorthair : Miaulements expressifs et câlins collants",
+                "whyDesc": "L'Oriental Shorthair exprime ses envies ou son affection via une palette étendue de miaulements. S'installer sur les épaules ou les genoux témoigne d'une grande confiance et d'une recherche de chaleur humaine.",
+                "body_signals": [
+                    {
+                        "name": "Miaulements fréquents et modulés",
+                        "meaning": "Besoin extraverti de communiquer, d'attirer l'attention, de jouer ou de réclamer à manger.",
+                        "response": "Répondez-lui doucement par la voix pour valider le dialogue, vérifiez ses besoins et jouez avec lui."
+                    },
+                    {
+                        "name": "Blottissement sur les genoux/épaules et sous les couvertures",
+                        "meaning": "Preuve d'attachement combinée à une recherche de chaleur corporelle s'il a froid.",
+                        "response": "Offrez-lui un plaid douillet ou un coussin chauffant, montez le chauffage et cajolez-le."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (22–25 °C) et brossage du poil ras",
+                        "text": "Vérifiez que la pièce est bien chauffée et brossez délicatement son poil fin avec une brosse en caoutchouc."
+                    },
+                    {
+                        "name": "Après-midi : Jeux interactifs à la canne à pêche et jouets d'intelligence",
+                        "text": "Organisez des sessions de jeu dynamiques pour stimuler sa sociabilité et laissez des puzzles friandises en votre absence."
+                    },
+                    {
+                        "name": "Soir : Échanges vocaux privilégiés et couchage thermique douillet",
+                        "text": "Passez du temps à lui parler et le câliner, puis préparez un panier bien chaud avec une couverture polaire pour la nuit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment gérer le comportement très bavard (miaulements constants) de l'Oriental Shorthair ?",
+                        "answer": "La vocalisation est un trait naturel chez cette race : la réprimer provoque de l'anxiété. Répondez-lui posément la journée et faites-le jouer. Si les miaulements deviennent intempestifs la nuit, adoptez une attitude neutre pour instaurer un rythme."
+                    },
+                    {
+                        "question": "Comment protéger du froid un Oriental Shorthair en hiver ?",
+                        "answer": "Sans sous-poil protecteur, maintenez la température intérieure entre 23 et 25 °C. Placez son arbre à chat au soleil, fournissez des plaids polaires ou coussins chauffants et pensez aux petits vêtements pour chat en hiver."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Orientalisch Kurzhaar Lautäußerungen-Guide, Wärmeversorgung für kurzes Fell und 3-Schritte-Sozialisierungsroutine",
+                "description": "Leitfaden für die Orientalisch Kurzhaar Katze (Oriental Shorthair). Erfahren Sie alles über das 'gesprächige' Wesen, Wärmeschutz für feines Fell und interaktive 3-Schritte-Pflege.",
+                "authority": "Klinische Richtlinien der International Society of Feline Medicine (ISFM) und TICA/CFA Standards",
+                "profile": {
+                    "breed": "Orientalisch Kurzhaar Katze (Oriental Shorthair)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "Dämmerungsaktiv (Schläft 12–16 Stunden täglich nahe beim Menschen)",
+                    "temperament": "Extrovertiert, sehr gesprächig (vokal), extrem sozial, menschenbezogen, lebhaft"
+                },
+                "intro": "Die Orientalisch Kurzhaar ist eine elegante moderne Rasse aus der Siamesen-Linie, bekannt für ihre großen Fledermausohren, den keilförmigen Kopf und den schlanken Körper. Sie sind extrem gesprächig und suchen aktiv den Dialog mit ihren Menschen. Da ihr feines, kurzes Fell fast keine Unterwolle besitzt, reagieren sie jedoch extrem empfindlich auf Kälte und neigen bei niedrigen Raumtemperaturen zu Erkältungen. Zudem leiden sie stark unter Einsamkeit, wenn sie lange allein gelassen werden. Interaktives Spiel, Wärmeversorgung und liebevolle Ansprache sind für ihr Wohlbefinden unerlässlich. Heute erklärt PetSelf Verhalten, Wärmeschutz und die 3-Schritte-Routine.",
+                "whyTitle": "Instinkte der Orientalisch Kurzhaar: Reichhaltige Vokalisation und Kuscheln",
+                "whyDesc": "Orientalisch Kurzhaar Katzen drücken Bedürfnisse und Zuneigung durch vielfältige Maunzgeräusche aus. Das Klettern auf Schoß oder Schultern ist ein Vertrauensbeweis und dient der Aufnahme von Körperwärme.",
+                "body_signals": [
+                    {
+                        "name": "Häufige & Vielseitige Maunzgeräusche",
+                        "meaning": "Extrovertierter Wunsch nach Kommunikation, Aufmerksamkeits- oder Spielbedürfnis.",
+                        "response": "Antworten Sie mit ruhiger Stimme, prüfen Sie Futter- und Spielwünsche und suchen Sie den Kontakt."
+                    },
+                    {
+                        "name": "Anschmiegen auf Schoß/Schulter & Einkuscheln",
+                        "meaning": "Zeichen großer Zuneigung kombiniert mit dem Bedürfnis nach Körperwärme bei Kälte.",
+                        "response": "Bieten Sie eine warme Decke oder ein Heizkissen an, erhöhen Sie die Raumtemperatur und kuscheln Sie mit ihr."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Raumtemperatur prüfen (22–25 °C) & Pflege des feinen Fells",
+                        "text": "Achten Sie auf warme Raumtemperaturen und bürsten Sie das feine Fell sanft mit einer Gummibürste aus."
+                    },
+                    {
+                        "name": "Nachmittag: Interaktives Angelspiel & Intelligenzspielzeug",
+                        "text": "Lasten Sie die Katze mit Spielangeln sozial aus und bieten Sie Fummelbretter für die Zeit des Alleinseins."
+                    },
+                    {
+                        "name": "Abend: Aufmerksamer Dialog & Gemütlicher Wärmeschlafplatz",
+                        "text": "Sprechen und kuscheln Sie intensiv mit der Katze und bereiten Sie ein warmes Bett mit Fliessdecke für die Nacht vor."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie gehe ich mit dem ständigen Maunzen (der Gesprächigkeit) meiner Orientalisch Kurzhaar um?",
+                        "answer": "Das Maunzen ist eine Rasseart der Kommunikation; Bestrafung führt zu Stress. Antworten Sie tagsüber freundlich und lasten Sie die Katze spielerisch aus. Reagieren Sie nachts auf forderndes Maunzen neutral, um Schlafzeiten zu etablieren."
+                    },
+                    {
+                        "question": "Wie schütze ich eine Orientalisch Kurzhaar im Winter vor Kälte?",
+                        "answer": "Da Unterwolle fehlt, halten Sie die Raumtemperatur bei 23–25 °C. Stellen Sie Liegeplätze an sonnige Fenster, bieten Sie Wärmekissen oder Fliessdecken an und nutzen Sie bei Bedarf leichte Katzenkleidung."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de comunicação vocal do gato Oriental de Pelo Curto, cuidados térmicos e rotina de 3 passos para alta sociabilidade",
+                "description": "Guia de cuidados essenciais para o gato Oriental de Pelo Curto (Oriental Shorthair). Como responder aos miados, gestão de temperatura para pelo fino e rotina de interação social.",
+                "authority": "Diretrizes Clínicas da International Society of Feline Medicine (ISFM) e Padrões TICA/CFA",
+                "profile": {
+                    "breed": "Gato Oriental de Pelo Curto (Oriental Shorthair Cat)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "Crepuscular (Dorme e descansa de 12 a 16 horas por dia junto ao tutor)",
+                    "temperament": "Extrovertido, muito vocal (vocalizador), muito social, dependente, ativo"
+                },
+                "intro": "O Oriental de Pelo Curto (Oriental Shorthair) é uma elegante raça moderna derivada do Siamês, famosa pelas suas orelhas grandes estilo morcego, cabeça em cunha e corpo esbelto. Muito sociáveis e inteligentes, adoram manter uma verdadeira 'conversação' com os tutores através de miados variados. Contudo, como possuem um pelo muito curto e quase sem subpelo, são extremamente sensíveis ao frio e vulneráveis a problemas respiratórios se a temperatura baixar. Além disso, a sua forte sociabilidade torna-os propensos à solidão. Oferecer brincadeiras interativas, aquecimento adequado e atenção vocal é fundamental. Hoje no PetSelf cobrimos os seus sinais vocais, cuidados térmicos e rotina diária.",
+                "whyTitle": "Instintos do Oriental de Pelo Curto: Miar expressivo e carinho no colo",
+                "whyDesc": "Os gatos Orientais de Pelo Curto expressam sentimentos e necessidades através de uma ampla gama de miados. Subir para o colo ou ombros demonstra profunda confiança e a busca por calor corporal.",
+                "body_signals": [
+                    {
+                        "name": "Miados frequentes e modulados",
+                        "meaning": "Desejo extrovertido de comunicação ativa, busca de atenção, brincadeiras ou comida.",
+                        "response": "Responda suavemente com a voz para validar o diálogo, verifique as suas necessidades e brinque com ele."
+                    },
+                    {
+                        "name": "Achegar-se no colo/ombros e debaixo de cobertas",
+                        "meaning": "Demonstração de afeto aliada à busca de calor térmico quando sente frio.",
+                        "response": "Ofereça um cobertor macio ou cama aquecida, aumente a temperatura do ambiente e dê-lhe carinho."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle de temperatura (22–25 °C) e escovação do pelo fino",
+                        "text": "Verifique o aquecimento interno para evitar resfriados e escove suavemente o pelo curto com uma escova de borracha."
+                    },
+                    {
+                        "name": "Tarde: Brincadeira interativa com varinha e comedouros puzzle",
+                        "text": "Realize sessões de brincadeira dinâmica para canalizar a sua sociabilidade e deixe quebra-cabeças com petiscos se ele ficar sozinho."
+                    },
+                    {
+                        "name": "Noite: Atenção vocal afetuosa e preparação de cama aquecida",
+                        "text": "Dedique tempo para conversar e acariciá-lo, preparando uma cama com cobertor fleece ou almofada térmica para a noite."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como devo lidar com os miados constantes do Oriental de Pelo Curto?",
+                        "answer": "Miar é um traço natural de comunicação nesta raça; reprimi-lo causa ansiedade. Responda com voz calma durante o dia e faça-o brincar. Se ele miar à noite para exigir atenção, mantenha uma atitude neutra para estabelecer limites."
+                    },
+                    {
+                        "question": "Como posso proteger do frio um gato Oriental de Pelo Curto no inverno?",
+                        "answer": "Por não ter subpelo espesso, mantenha a temperatura ambiente entre 23 e 25 °C. Coloque arranhadores perto de janelas ensolaradas, forneça cobertores de fleece ou caminhas aquecidas e considere roupas leves para gatos em dias frios."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Komunikasi Vokal Kucing Oriental Shorthair, Perawatan Suhu Bulu Tipis, dan Rutin 3 Langkah Bersosialisasi Tinggi",
+                "description": "Panduan perawatan esensial kucing Oriental Shorthair. Cara merespons suara miauan, manajemen suhu tubuh bulu pendek halus, dan rutin interaktif 3 langkah.",
+                "authority": "Pedoman Klinis International Society of Feline Medicine (ISFM) dan Standar Pemeliharaan TICA/CFA",
+                "profile": {
+                    "breed": "Kucing Oriental Shorthair (Oriental Shorthair Cat)",
+                    "lifespan": "12 ~ 15 Tahun",
+                    "sleep_pattern": "Krepuskular (Tidur dan Beristirahat 12–16 Jam Sehari Dekat Pemiliknya)",
+                    "temperament": "Ekstrovert, Sangat Suka Miau (Vokal), Sangat Sosial, Tergantung Pemilik, Aktif"
+                },
+                "intro": "Oriental Shorthair adalah ras kucing modern anggun keturunan Siamese, terkenal dengan telinga besar seperti kelelawar, kepala berbentuk pasak yang tegas, dan tubuh ramping. Sangat vokal dan cerdas, mereka aktif 'ngobrol' dengan pemiliknya menggunakan berbagai nada miauan untuk meminta perhatian. Namun, karena memiliki bulu pendek yang sangat tipis tanpa bulu halus di bagian dalam (undercoat), mereka sangat sensitif terhadap dingin dan mudah terserang flu jika suhu ruangan turun. Selain itu, sifat sosial mereka yang tinggi membuat mereka mudah merasa kesepian jika ditinggal sendirian. Memberikan permainan interaktif, perawatan suhu yang hangat, dan komunikasi yang responsif sangat krusial. Hari ini di PetSelf, kami membagikan panduan sinyal vokal, manajemen suhu, dan rutin 3 langkah harian.",
+                "whyTitle": "Insting Oriental Shorthair: Miau yang Kaya dan Manja di Pangkuan",
+                "whyDesc": "Oriental Shorthair mengekspresikan rasa penasaran, kasih sayang, atau kebutuhan melalui berbagai nada miauan. Naik ke pangkuan atau pundak pemiliknya adalah bentuk kepercayaan tinggi sekaligus upaya mencari kehangatan tubuh.",
+                "body_signals": [
+                    {
+                        "name": "Miau Sering & Bernada Bervariasi",
+                        "meaning": "Keinginan ekstrovert untuk berkomunikasi aktif, meminta perhatian, mengajak bermain, atau meminta makan.",
+                        "response": "Jawab dengan suara lembut untuk merespons ajakan ngobrolnya, periksa kebutuhannya, dan ajak bermain."
+                    },
+                    {
+                        "name": "Manja di Pangkuan / Pundak & Meringkuk",
+                        "meaning": "Ungkapan kasih sayang yang dalam sekaligus upaya mencari kehangatan tubuh saat merasa kedinginan.",
+                        "response": "Beri selimut lembut atau tempat tidur hangat, naikkan suhu ruangan, dan usap tubuhnya dengan lembut."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Suhu Ruangan (22–25 °C) & Menyisir Bulu Tipis",
+                        "text": "Pastikan suhu ruangan cukup hangat untuk mencegah kedinginan, lalu sisir bulu tipisnya secara lembut dengan sisir karet."
+                    },
+                    {
+                        "name": "Siang: Permainan Pancingan Interaktif & Mainan Puzel untuk Sosialisasi",
+                        "text": "Ajak bermain pancingan bulu untuk menyalurkan energi sosialnya, serta berikan puzled makanan saat ditinggal sendirian."
+                    },
+                    {
+                        "name": "Malam: Komunikasi Vokal Faktual & Pengondisian Tempat Tidur Hangat",
+                        "text": "Luangkan waktu untuk ngobrol dan memanjakannya, serta siapkan tempat tidur berbahan fleece atau matras hangat untuk malam hari."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara menghadapi kucing Oriental Shorthair yang selalu miau (sangat vokal)?",
+                        "answer": "Suara miau adalah cara berkomunikasi alami ras ini, sehingga memarahinya akan memicu stres parah. Tanggapi dengan suara lembut di siang hari dan ajak bermain. Jika ia miau terus di malam hari untuk meminta perhatian, tetap tenang dan abaikan agar ia memahami batas waktu tidur."
+                    },
+                    {
+                        "question": "Bagaimana cara melindungi kucing Oriental Shorthair dari cuaca dingin?",
+                        "answer": "Karena tidak memiliki bulu dalam yang tebal, pertahankan suhu ruangan antara 23–25 °C. Tempatkan panjatan kucing di area yang terkena sinar matahari, sediakan selimut fleece hangat atau matras pemanas, dan kenakan baju kucing tipis jika diperlukan di musim dingin."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/oriental_shorthair_care.webp"
+    }
+}

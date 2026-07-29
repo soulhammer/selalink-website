@@ -1,0 +1,459 @@
+{
+    "african-grey-parrot-care": {
+        "pubDate": "2026-02-23",
+        "updatedDate": "2026-02-23",
+        "locales": {
+            "ko": {
+                "title": "회색앵무의 고지능 언어 교감과 깃털 뽑기(자해) 방지 3단계 정신 풍부화 루틴",
+                "description": "세계에서 가장 지능이 높은 대형 반려조 회색앵무 사육 가이드. 5세 아동 수준의 지능 자극, 맥락 언어 교감, 깃털 뽑기(FDB)를 예방하는 3단계 퍼즐·환경 풍부화 루틴을 소개합니다.",
+                "authority": "세계조류수의학회(AAV: Association of Avian Veterinarians) 및 세계앵무재단(World Parrot Trust) 임상 가이드라인",
+                "profile": {
+                    "breed": "회색앵무 (Psittacus erithacus / African Grey Parrot)",
+                    "lifespan": "40 ~ 60년 (사육 환경 최적화 시)",
+                    "sleep_pattern": "10 ~ 12시간 (암막 커버를 통한 완벽한 야간 암흑 수면)",
+                    "temperament": "극도로 높은 지능, 감정적으로 예민함, 사회적, 불안증에 취약함"
+                },
+                "intro": "회색앵무(African Grey Parrot)는 조류 중에서도 가장 뛰어난 지능을 가진 대형 반려조로, 인간 나이 4~5세 수준의 인지 능력과 높은 단어 습득 능력을 자랑합니다. 단순히 소리를 시늉하는 것을 넘어 상황과 맥락에 맞는 언어 교감이 가능할 정도로 뛰어난 두뇌를 지녔지만, 그만큼 감정적으로 매우 예민합니다. 정신적 자극(지적 활동)이나 환경적 풍부화가 부족하면 극심한 스트레스와 지루함으로 인해 자신의 깃털을 뜯어내는 '깃털 뽑기(Feather Damaging Behavior)' 자해 증상을 보이기 쉽습니다. 오늘 PetSelf에서는 회색앵무의 언어·감정 신호와 깃털 뽑기를 예방하는 3단계 지적·환경 풍부화 케어 루틴을 정리해 드립니다.",
+                "whyTitle": "회색앵무의 인지 본능: 맥락적 언어 소통과 깃털 뽑기(FDB) 스트레스 신호",
+                "whyDesc": "회색앵무는 동공이 순간적으로 축소되며 목소리를 변조하는 **'동공 축소 및 맥락 발성(Pupil Pinning & Speech)'**을 통해 흥분과 학습 집중 상태를 표현합니다. 반면 지적 지루함이나 애정 결핍, 환경 변화를 겪으면 가슴과 날개 깃털을 물어뜯어 뽑아내는 **'자기 가해성 깃털 뽑기(Feather Plucking)'** 행동으로 불안감을 표출합니다.",
+                "body_signals": [
+                    {
+                        "name": "동공 축소 및 맥락 언어 표현 (Pupil Pinning & Contextual Speech)",
+                        "meaning": "동공이 순간적으로 작아지며 상황에 맞는 단어를 말하는 행동으로, 높은 흥분감과 지적 집중, 보호자와의 적극적인 소통 욕구를 의미합니다.",
+                        "response": "대화와 퍼즐 완구로 지적 호기심을 적극 충족시켜 주고 칭찬과 보상(견과류 조각)을 제공합니다."
+                    },
+                    {
+                        "name": "가슴 깃털 뜯기 및 오버그루밍 (Feather Plucking / Over-grooming)",
+                        "meaning": "가슴이나 다리 부위의 깃털을 반복적으로 씹거나 뽑아내는 행동으로, 지루함, 환경적 스트레스, 수면 부족으로 인한 심리적 불안 신호입니다.",
+                        "response": "포레징(먹이 찾기) 장난감을 늘려주고 10~12시간의 야간 암흑 수면 환경을 재점검하며 수의사 진료를 받습니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 펠렛 중심 영양 식단 급여 및 햇빛 쬐기",
+                        "text": "영양 균형이 잡힌 펠렛과 신선한 야채(Chop)를 제공하고, 비타민 D3 합성을 위한 UV 조명 또는 자연광 햇볕쬐기를 시켜줍니다."
+                    },
+                    {
+                        "name": "낮: 포레징(먹이 찾기) 퍼즐 장난감 및 지적 훈련",
+                        "text": "먹이가 숨겨진 퍼즐 완구를 제공하여 두뇌 활동을 자극하고, 단어 훈련 및 모양·색상 맞추기 인지 놀이를 진행합니다."
+                    },
+                    {
+                        "name": "밤: 언어 교감 방사 및 10~12시간 완벽 암막 수면",
+                        "text": "보호자와 일대일 교감 시간을 가진 뒤, 호르몬 불균형과 스트레스를 방지하기 위해 케이지에 암막 커버를 씌워 10~12시간 동안 완벽한 수면을 보장합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "회색앵무가 깃털을 뽑기 시작했을 때 어떻게 대처해야 하나요?",
+                        "answer": "깃털 뽑기(FDB)는 단순 습관이 아닌 심리적/의학적 질환입니다. 먼저 조류 전용 병원에서 감염이나 영양 결핍 여부를 검사하고, 사육장 내 포레징 장난감 확충, 하루 12시간 규칙적인 수면 보장, 보호자의 과도한 반응 자제(관심을 끌기 위해 더 뽑을 수 있음)를 실천해야 합니다."
+                    },
+                    {
+                        "question": "해바라기씨 같은 씨앗류 사료만 주어도 괜찮나요?",
+                        "answer": "절대 안 됩니다. 씨앗 위주의 식단은 지방 함량이 너무 높고 비타민 A와 칼슘이 부족하여 비만, 비타민 결핍증, 간 질환을 유발합니다. 반드시 조류 전용 펠렛을 60~70% 이상 주식으로 하고 신선한 채소와 과일을 병행해야 합니다. (아보카도, 초콜릿은 치명적 독성 음식입니다.)"
+                    }
+                ]
+            },
+            "en": {
+                "title": "African Grey Parrot Cognitive Communication and 3-Step Mental Enrichment Routine to Prevent Feather Plucking",
+                "description": "Essential care guide for the world's most intelligent parrot, the African Grey. Learn how to stimulate child-level cognition, engage in contextual speech, and implement a 3-step foraging routine to prevent Feather Damaging Behavior (FDB).",
+                "authority": "Association of Avian Veterinarians (AAV) and World Parrot Trust (WPT) Clinical Guidelines",
+                "profile": {
+                    "breed": "African Grey Parrot (Psittacus erithacus)",
+                    "lifespan": "40 - 60 Years (In optimized captive conditions)",
+                    "sleep_pattern": "10 - 12 Hours (Uninterrupted dark sleep with cage covers)",
+                    "temperament": "Highly Intelligent, Emotionally Sensitive, Social, Prone to Anxiety"
+                },
+                "intro": "The African Grey Parrot is widely recognized as one of the most cognitively advanced birds, demonstrating problem-solving skills and vocabulary retention comparable to a 4-to-5-year-old human child. Beyond mere vocal mimicry, they can comprehend context and communicate meaningfully. However, their high intelligence makes them emotionally sensitive. Without adequate cognitive stimulation and environmental enrichment, boredom and chronic stress often manifest as Feather Damaging Behavior (FDB) or self-mutilation. Today, PetSelf outlines African Grey behavioral cues and shares a 3-step mental enrichment routine to safeguard their psychological and physical well-being.",
+                "whyTitle": "African Grey Instincts: Contextual Speech and Feather Plucking (FDB) Stress Cues",
+                "whyDesc": "African Greys express excitement and intense cognitive focus through **'Pupil Pinning & Contextual Speech'**, rapidly contracting their irises while vocalizing appropriate words. Conversely, when suffering from mental boredom, emotional neglect, or routine shifts, they express severe distress through **'Feather Plucking'**, chewing or tearing out chest and wing feathers.",
+                "body_signals": [
+                    {
+                        "name": "Pupil Pinning & Contextual Speech",
+                        "meaning": "Rapid contraction of pupils accompanied by situational word use, indicating cognitive engagement, excitement, and a desire to interact.",
+                        "response": "Engage in interactive vocal training, offer puzzle toys, and reward successful communication with healthy treat bits."
+                    },
+                    {
+                        "name": "Feather Plucking & Over-grooming (Feather Damaging Behavior)",
+                        "meaning": "Repetitive chewing or tearing of chest and leg feathers, signaling emotional anxiety, environmental boredom, or sleep deprivation.",
+                        "response": "Introduce complex foraging toys, ensure 10–12 hours of dark quiet sleep, and consult an avian veterinarian."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Formulated Pellet Diet Feeding & UV Light Exposure",
+                        "text": "Serve a balanced nutritionally complete pellet base paired with fresh chopped vegetables (chop) and provide natural sunlight or specialized avian UV lighting for Vitamin D3 synthesis."
+                    },
+                    {
+                        "name": "Afternoon: Foraging Puzzles & Cognitive Training",
+                        "text": "Provide foraging toys where food is hidden to stimulate problem-solving instincts, and practice vocabulary, color, or shape recognition exercises."
+                    },
+                    {
+                        "name": "Evening: Out-of-Cage Vocal Interaction & 10–12 Hour Dark Sleep",
+                        "text": "Enjoy one-on-one bonding time outside the cage, then cover the enclosure completely to guarantee 10–12 hours of undisturbed dark sleep to prevent hormonal stress."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How should I respond if my African Grey begins plucking its feathers?",
+                        "answer": "Feather Damaging Behavior (FDB) is a complex medical and psychological condition. First, consult an avian veterinarian to rule out infections or deficiencies. Next, increase foraging opportunities, ensure 12 hours of strict sleep schedule, and avoid dramatic overreactions when plucking occurs."
+                    },
+                    {
+                        "question": "Is an all-seed diet adequate for an African Grey Parrot?",
+                        "answer": "No. Seed-only diets are dangerously high in fat and deficient in Vitamin A and calcium, leading to fatty liver disease and metabolic bone disorders. Feed a high-quality formulated pellet diet (60–70% of intake) supplemented with fresh vegetables. (Note: Avocado and chocolate are strictly toxic.)"
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ヨウムの高度知能言語コミュニケーションと羽抜き症(自傷)予防の3ステップ精神エンリッチメントルーチン",
+                "description": "世界で最も知能の高い大型愛玩鳥ヨウムの飼育ガイド。5歳児レベルの認知刺激、文脈に応じた会話、毛引き症(FDB)を予防する3ステップフォージング・環境エンリッチメントを解説します。",
+                "authority": "世界鳥類獣医学会 (AAV) および ワールド・パロット・トラスト (WPT) 臨床ガイドライン",
+                "profile": {
+                    "breed": "ヨウム (Psittacus erithacus / African Grey Parrot)",
+                    "lifespan": "40 〜 60年 (最適な飼育環境下)",
+                    "sleep_pattern": "10 〜 12時間 (ケージカバーによる完全な夜間暗黒睡眠)",
+                    "temperament": "極めて高い知能、感情的に繊細、社会性あり、不安症になりやすい"
+                },
+                "intro": "ヨウム（African Grey Parrot）は鳥類の中で最も高い知能を持ち、人間の4〜5歳児に匹敵する認知能力と言葉の習得能力を誇る大型インコです。単に音を真似るだけでなく、状況や文脈に合わせた会話ができるほどの頭脳を持っていますが、その分感情面で非常に繊細です。知的な刺激や環境エンリッチメントが不足すると、極度のストレスや退屈から自身の羽をむしり取る「毛引き症・羽抜き症（Feather Damaging Behavior）」を引き起こしやすくなります。今回はPetSelfが、ヨウムの感情サインと毛引きを予防する3ステップ知育・環境エンリッチメントルーチンを解説します。",
+                "whyTitle": "ヨウムの認知本能：文脈的コミュニケーションと毛引き(FDB)ストレスサイン",
+                "whyDesc": "ヨウムは瞳孔が瞬間的に収縮し声調を変える**「瞳孔収縮と文脈発声（Pupil Pinning & Speech）」**で興奮や学習への集中を表現します。一方、知的な退屈や愛情不足、環境の変化を経験すると、胸や翼の羽を噛みちぎる**「自傷性毛引き（Feather Plucking）」**で強い不安を表出します。",
+                "body_signals": [
+                    {
+                        "name": "瞳孔収縮と文脈に応じた発声 (Pupil Pinning & Contextual Speech)",
+                        "meaning": "瞳孔が収縮し状況に合った単語を話す行動で、高い知的興奮、集中、飼い主との積極的なコミュニケーション欲求を示します。",
+                        "response": "会話や知育おもちゃで知的好奇心を十分に満たし、褒めてご褒美（ナッツの欠片など）を与えます。"
+                    },
+                    {
+                        "name": "胸の羽のむしり取りと過度な毛づくろい (Feather Plucking / Over-grooming)",
+                        "meaning": "胸や脚の羽を繰り返し噛んだり抜いたりする行動で、退屈、環境的ストレス、睡眠不足による心理的不安のサインです。",
+                        "response": "フォージング（採餌）おもちゃを増やし、10〜12時間の暗黒睡眠環境を見直し、鳥類専門医の診察を受けます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ペレット中心の栄養食給餌と日光浴",
+                        "text": "栄養バランスの取れたペレットと新鮮な野菜（チョップ）を与え、ビタミンD3合成のためUVライトまたは自然光での日光浴を行わせます。"
+                    },
+                    {
+                        "name": "昼：フォージング(採餌)知育おもちゃと知能トレーニング",
+                        "text": "おやつが隠された知育パズルを与えて脳の活動を刺激し、言葉の練習や色・形合わせの認知プレイを行います。"
+                    },
+                    {
+                        "name": "夜：放鳥コミュニケーションと10〜12時間の完全暗黒睡眠",
+                        "text": "飼い主と1対1のスキンシップを楽しんだ後、ホルモンバランスの乱れやストレスを防ぐためケージに遮光カバーをかけ10〜12時間の静かな暗黒睡眠を確保します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ヨウムが羽を抜き始めたらどのように対処すべきですか？",
+                        "answer": "毛引き症（FDB）は単なる癖ではなく複雑な心身の疾患です。まず鳥類専門病院で感染症や栄養欠乏がないか検査し、フォージングおもちゃの充実、1日12時間の規則正しい睡眠確保、むしる瞬間に過剰反応しないことを徹底します。"
+                    },
+                    {
+                        "question": "シード（ひまわりの種など）中心の餌だけで育ててもいいですか？",
+                        "answer": "絶対に避けてください。シード主食は脂質が高すぎる一方、ビタミンAやカルシウムが著しく不足し、脂肪肝や代謝性骨疾患の原因になります。必ず高品質なペレットを主食（60〜70%）とし、生野菜や果物を組み合わせてください。（※アボカドやチョコは致死性の毒です。）"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "非洲灰鹦鹉的高智商语言互动与预防拔羽症（自残）3阶段精神丰富化护理流程",
+                "description": "全球最聪明的观赏鸟非洲灰鹦鹉护理指南。介绍相当于5岁儿童智力水平的认知刺激、语境语言互动，以及预防拔羽症（FDB）的3阶段觅食与环境丰富化流程。",
+                "authority": "世界鸟类兽医师协会 (AAV) 及 世界鹦鹉基金会 (WPT) 临床指南",
+                "profile": {
+                    "breed": "非洲灰鹦鹉 (Psittacus erithacus / African Grey Parrot)",
+                    "lifespan": "40 ~ 60年 (人工饲养环境最优化时)",
+                    "sleep_pattern": "10 ~ 12小时 (使用遮光罩保持完全黑暗的夜间睡眠)",
+                    "temperament": "极高智商、情感极为敏感、具社会性、易患焦虑症"
+                },
+                "intro": "非洲灰鹦鹉（African Grey Parrot）是鸟类中智商最高的代表，拥有相当于人类4~5岁儿童的认知能力和卓越的词汇学习能力。它们不仅能模仿声音，更能根据语境和情景与主人进行有意义的语言交流。然而，极高的智商也伴随着极度敏感的情感。如果缺乏足够的精神刺激（脑力活动）或环境丰富化，精神上的无聊和焦虑极易诱发其咬拔自身羽毛的“啄羽症/拔羽症（Feather Damaging Behavior）”。今天 PetSelf 将为您梳理非洲灰鹦鹉的情感信号与预防拔羽症的3阶段认知丰富化护理流程。",
+                "whyTitle": "非洲灰鹦鹉的认知本能：语境交流与啄羽症（FDB）压力信号",
+                "whyDesc": "非洲灰鹦鹉会通过瞳孔快速收缩并改变语调的**“瞳孔收缩与语境表达（Pupil Pinning & Speech）”**来展示兴奋和学习专注状态。反之，当遭遇精神无聊、缺乏关爱或环境突变时，它们会通过撕咬和拔除胸部及翅膀羽毛的**“自残性拔羽（Feather Plucking）”**行为来宣泄焦虑。",
+                "body_signals": [
+                    {
+                        "name": "瞳孔收缩与语境语言表达 (Pupil Pinning & Contextual Speech)",
+                        "meaning": "瞳孔瞬间缩小并说出符合当下情景的词汇，代表极高的认知兴奋、专注力以及与主人互动的强烈欲望。",
+                        "response": "通过对话和解谜玩具积极满足其好奇心，并给予赞美和健康零食（坚果碎）奖励。"
+                    },
+                    {
+                        "name": "拔除胸羽与过度梳理 (Feather Plucking / Over-grooming)",
+                        "meaning": "重复撕咬或拔掉胸部和腿部羽毛，代表无聊、环境压力或睡眠不足引发的严重心理焦虑。",
+                        "response": "增加觅食（Foraging）玩具，重新检查并保证10~12小时的无光睡眠，并寻求兽医诊断。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：滋养丸主食喂食与日光浴",
+                        "text": "提供营养均衡的专业滋养丸与新鲜切碎蔬菜（Chop），并利用UV灯或自然日光促进维他命D3合成。"
+                    },
+                    {
+                        "name": "白天：觅食（Foraging）解谜玩具与智力训练",
+                        "text": "提供藏有食物的解谜玩具以刺激大脑活动，并开展词汇复习、形状和颜色认知互动。"
+                    },
+                    {
+                        "name": "晚上：出笼语言互动与10~12小时完全黑暗睡眠",
+                        "text": "与主人进行一对一亲密交流后，用遮光布罩住笼舍，保证10~12小时无打扰的黑暗睡眠，以防激素失调和压力。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "非洲灰鹦鹉开始拔羽毛时应该如何应对？",
+                        "answer": "啄羽症（FDB）是复杂的心理与生理疾病。首先需带至专业鸟类医院排除寄生虫或营养匮乏；其次大幅增加觅食玩具，保证每天12小时规律睡眠；同时在发现其拔羽时切勿大惊小怪（过度的关注反而会强化这一行为）。"
+                    },
+                    {
+                        "question": "可以只喂食葵花籽等种子类饲料吗？",
+                        "answer": "绝对不行。纯种子饮食脂肪含量极高且严重缺乏维他命A和钙，极易导致肥胖、脂肪肝及骨骼疾病。必须以高品质滋养丸（占60~70%）为主食，并搭配新鲜蔬菜。（注：鳄梨/牛油果和巧克力对鹦鹉有致命毒性。）"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Comunicación cognitiva del Loro Yaco y rutina de 3 pasos de enriquecimiento mental para prevenir el picaje",
+                "description": "Guía esencial de cuidado para el loro más inteligente del mundo, el Yaco (Loro Gris Africano). Aprenda a estimular su inteligencia de nivel infantil, interactuar con habla contextual y aplicar una rutina de 3 pasos para prevenir el picaje (FDB).",
+                "authority": "Pautas Clínicas de la Asociación de Veterinarios de Aves (AAV) y World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Loro Gris Africano / Yaco (Psittacus erithacus)",
+                    "lifespan": "40 ~ 60 años (en condiciones optimizadas)",
+                    "sleep_pattern": "10 ~ 12 horas (sueño en oscuridad total con funda para jaula)",
+                    "temperament": "Muy inteligente, emocionalmente sensible, social, propenso a la ansiedad"
+                },
+                "intro": "El Loro Gris Africano o Yaco es ampliamente reconocido como una de las aves más inteligentes, poseyendo capacidades cognitivas y de vocabulario comparables a las de un niño de 4 a 5 años. Más allá de imitar sonidos, comprenden el contexto y se comunican con significado. Sin embargo, su alta inteligencia los vuelve emocionalmente sensibles. Sin suficiente estimulación mental y enriquecimiento ambiental, el aburrimiento y el estrés suelen desencadenar el picaje o arrancado de plumas (Feather Damaging Behavior). Hoy en PetSelf explicamos sus señales de comportamiento y una rutina de enriquecimiento de 3 pasos para proteger su salud mental y física.",
+                "whyTitle": "Instintos del Loro Yaco: Habla contextual y señales de estrés por picaje (FDB)",
+                "whyDesc": "Los loros Yaco expresan entusiasmo y concentración cognitiva mediante la **'Constricción pupilar y habla contextual (Pupil Pinning & Speech)'**, contraiendo sus pupilas mientras dicen palabras adecuadas a la situación. En contraste, cuando sufren aburrimiento mental o cambios ambientales, expresan su angustia mediante el **'Arrancado de plumas (Feather Plucking)'**, moliendo o arrancándose el plumaje del pecho y alas.",
+                "body_signals": [
+                    {
+                        "name": "Constricción pupilar y habla contextual (Pupil Pinning & Contextual Speech)",
+                        "meaning": "Rápida contracción de las pupilas acompañada de palabras adecuadas al contexto, indicando enfoque cognitivo, entusiasmo e interés social.",
+                        "response": "Interactúe con juegos de habla y rompecabezas, recompensando la comunicación exitosa con pequeños trozos de frutos secos."
+                    },
+                    {
+                        "name": "Arrancado de plumas y sobreacicalamiento (Feather Plucking / Over-grooming)",
+                        "meaning": "Morder o arrancar repetidamente las plumas del pecho o patas, lo que indica ansiedad psicológica, aburrimiento o falta de sueño.",
+                        "response": "Aumente los juguetes de forrajeo (búsqueda de comida), asegure 10 a 12 horas de descanso en oscuridad y consulte a un veterinario de aves."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Dieta de pienso extrusionado y exposición a luz solar",
+                        "text": "Sirva pienso de alta calidad junto con verduras frescas troceadas (chop) y proporcione luz UV o sol directo para la síntesis de vitamina D3."
+                    },
+                    {
+                        "name": "Tarde: Juguetes de forrajeo y entrenamiento cognitivo",
+                        "text": "Ofrezca rompecabezas donde la comida esté escondida para estimular su mente, y realice ejercicios de vocabulario y reconocimiento de formas y colores."
+                    },
+                    {
+                        "name": "Noche: Interacción fuera de la jaula y 10-12 horas de sueño oscuro",
+                        "text": "Comparta tiempo de calidad fuera de la jaula y cubra el recinto por completo para garantizar 10-12 horas de sueño oscuro ininterrumpido para evitar estrés hormonal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Qué debo hacer si mi Loro Yaco empieza a arrancarse las plumas?",
+                        "answer": "El picaje (FDB) es un trastorno médico y psicológico complejo. Primero, acuda a un veterinario especialista en aves para descartar infecciones o deficiencias. Aumente los juguetes de forrajeo, asegure un horario estricto de 12 horas de sueño y evite sobreacciones exageradas cuando se arranque plumas."
+                    },
+                    {
+                        "question": "¿Es adecuado alimentar a un Loro Yaco solo con semillas de girasol?",
+                        "answer": "Jamás. Una dieta basada solo en semillas contiene demasiada grasa y carece de vitamina A y calcio, lo que provoca enfermedad del hígado graso y desórdenes metabólicos. Utilice pienso extruido especializado como base (60-70%) acompañado de verduras frescas. (Nota: El aguacate y el chocolate son altamente tóxicos)."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Communication cognitive du Perroquet Gris du Gabon et routine de 3 étapes d'enrichissement mental pour prévenir le piquage",
+                "description": "Guide de soin pour le perroquet le plus intelligent du monde, le Gris du Gabon. Découvrez comment stimuler sa cognition équivalente à celle d'un enfant de 5 ans, pratiquer un langage contextuel et mettre en place une routine de 3 étapes contre le piquage (FDB).",
+                "authority": "Directives Cliniques de l'Association of Avian Veterinarians (AAV) et du World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Gris du Gabon / Perroquet Gris d'Afrique (Psittacus erithacus)",
+                    "lifespan": "40 ~ 60 ans (en conditions de captivité optimales)",
+                    "sleep_pattern": "10 ~ 12 heures (sommeil nocturne dans l'obscurité totale avec housse)",
+                    "temperament": "Extrêmement intelligent, très sensible, social, sujet à l'anxiété"
+                },
+                "intro": "Le Gris du Gabon (African Grey Parrot) est considéré comme l'un des oiseaux les plus intelligents, possédant des capacités cognitives et d'apprentissage du langage comparables à celles d'un enfant de 4 à 5 ans. Bien au-delà de la simple répétition, il comprend le contexte et communique avec intention. Néanmoins, cette grande intelligence le rend émotionnellement vulnérable. Sans stimulation mentale suffisante, l'ennui provoque souvent du piquage ou de l'arrachage de plumes (Feather Damaging Behavior). Aujourd'hui, PetSelf décrypte ses signaux comportementaux et propose une routine en 3 étapes d'enrichissement pour préserver sa santé psychologique.",
+                "whyTitle": "Instincts du Gris du Gabon : Langage contextuel et signaux de stress du piquage (FDB)",
+                "whyDesc": "Le Gris du Gabon exprime son excitation et sa concentration intellectuelle par le **'Pinning pupillaire et parole contextuelle (Pupil Pinning & Speech)'**, réduisant rapidement ses pupilles tout en prononçant des mots adaptés. À l'inverse, en cas d'ennui ou de stress environnemental, il extériorise son angoisse par le **'Piquage / Arrachage de plumes (Feather Plucking)'** du thorax et des ailes.",
+                "body_signals": [
+                    {
+                        "name": "Pinning pupillaire et parole contextuelle (Pupil Pinning & Contextual Speech)",
+                        "meaning": "Rétraction rapide des pupilles accompagnée de mots adaptés au contexte, indiquant une grande concentration cognitive et l'envie d'interagir.",
+                        "response": "Interagissez avec des jeux vocaux et des jouets casse-têtes, en récompensant la communication réussie par de friandises."
+                    },
+                    {
+                        "name": "Arrachage de plumes et sur-lissage (Feather Plucking / Over-grooming)",
+                        "meaning": "Arraher ou mâcher répétitivement les plumes du thorax ou des pattes, signalant une anxiété psychologique, de l'ennui ou un manque de sommeil.",
+                        "response": "Augmentez les jouets de recherche de nourriture (foraging), garantissez 10 à 12 heures de sommeil obscur et consultez un vétérinaire aviaire."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Alimentation formulée en extrudés et exposition UV",
+                        "text": "Proposez des extrudés équilibrés avec des légumes frais hachés (chop) et offrez de la lumière naturelle ou une lampe UV aviaire pour la synthèse de vitamine D3."
+                    },
+                    {
+                        "name": "Après-midi : Jouets casse-têtes de foraging et entraînement cognitif",
+                        "text": "Fournissez des jouets où la nourriture est cachée pour stimuler son intelligence, et pratiquez des exercices de vocabulaire et de reconnaissance des formes/couleurs."
+                    },
+                    {
+                        "name": "Soir : Interaction hors cage et 10-12 heures de sommeil obscur",
+                        "text": "Profitez d'un moment privilégié hors de la cage, puis recouvrez entièrement la cage pour garantir 10 à 12 heures de sommeil sans perturbation afin d'éviter le stress hormonal."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Que faire si mon Gris du Gabon commence à s'arracher les plumes ?",
+                        "answer": "Le piquage (FDB) est un problème médical et psychologique complexe. Consultez d'abord un vétérinaire aviaire pour écarter toute infection. Augmentez l'enrichissement par le foraging, mettez en place un rythme de sommeil strict de 12 heures et évitez de surréagir bruyamment lorsque l'oiseau se pique."
+                    },
+                    {
+                        "question": "Un régime exclusivement composé de graines est-il adapté ?",
+                        "answer": "Absolument pas. Un régime 100% graines est trop riche en graisses et carencé en vitamine A et calcium, entraînant la maladie du foie gras. Offrez des extrudés de qualité (60-70% du bol alimentaire) complétés par des légumes frais. (Remarque : l'avocat et le chocolat sont mortels)."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kognitive Kommunikation des Graupapageis und 3-Schritt-Mental-Enrichment-Routine gegen Federrupfen",
+                "description": "Leitfaden für den intelligentesten Papagei der Welt, den Graupapagei. Erfahren Sie, wie Sie seine Intelligenz auf Kleinkindniveau fördern, kontextbezogene Sprache nutzen und Federrupfen (FDB) durch 3-Schritt-Foraging verhindern.",
+                "authority": "Klinische Richtlinien der Association of Avian Veterinarians (AAV) und des World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Graupapagei (Psittacus erithacus / African Grey Parrot)",
+                    "lifespan": "40 ~ 60 Jahre (bei optimaler Haltung)",
+                    "sleep_pattern": "10 ~ 12 Stunden (ungestörter Dunkelschlaf mit Käfigabdeckung)",
+                    "temperament": "Hochintelligent, emotional sensibel, sozial, anfällig für Ängste"
+                },
+                "intro": "Der Graupapagei gilt als einer der kognitiv fortschrittlichsten Vögel der Welt mit Fähigkeiten zur Problemlösung und Wortanwendung, die mit einem 4- bis 5-jährigen Kind vergleichbar sind. Er imitiert nicht nur Geräusche, sondern versteht Zusammenhänge. Diese hohe Intelligenz macht ihn jedoch emotional sehr empfindlich. Ohne ausreichende mentale Stimulation führt Langeweile häufig zu Federrupfen (Feather Damaging Behavior). Heute beschreibt PetSelf Verhaltenssignale des Graupapageis und stellt eine 3-Schritt-Mentaldressur-Routine vor.",
+                "whyTitle": "Instinkte des Graupapageis: Kontextuelle Sprache und Stresssignale bei Federrupfen (FDB)",
+                "whyDesc": "Graupapageien drücken Begeisterung und Fokus durch **'Pupillenverengung und kontextuelle Sprache (Pupil Pinning & Speech)'** aus. Bei Langeweile oder Stress zeigen sie Verhaltensstörungen wie **'Federrupfen (Feather Plucking)'**, bei dem sie sich Brust- und Flügelgefieder ausreißen.",
+                "body_signals": [
+                    {
+                        "name": "Pupillenverengung und kontextuelle Sprache (Pupil Pinning & Contextual Speech)",
+                        "meaning": "Rasche Verengung der Pupillen mit passender Wortverwendung, was auf kognitiven Fokus, Freude und Interaktionswunsch hinweist.",
+                        "response": "Nutzen Sie Sprechspiele und Intelligenzspielzeug, belohnen Sie gelungene Kommunikation mit gesunden Leckerlis."
+                    },
+                    {
+                        "name": "Federrupfen und Exzessives Putzen (Feather Plucking / Over-grooming)",
+                        "meaning": "Wiederholtes Ausreißen von Brust- und Beinfedern als Zeichen für mentale Unterforderung, Stress oder Schlafmangel.",
+                        "response": "Erhöhen Sie das Angebot an Foraging-Spielzeug (Futtersuche), garantieren Sie 10–12 Stunden Dunkelschlaf und suchen Sie einen Vogeltierarzt auf."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Pelleternährung & UV-Licht-Exposition",
+                        "text": "Füttern Sie hochwertige Pellets kombiniert mit frischem Gemüse (Chop) und bieten Sie Sonnenlicht oder spezielle Vogel-UV-Lampen für die Vitamin-D3-Synthese an."
+                    },
+                    {
+                        "name": "Nachmittag: Foraging-Rätselspielzeug & Kognitionstraining",
+                        "text": "Bieten Sie Spielzeug an, bei dem Futter erarbeitet werden muss, und führen Sie Sprach-, Farb- oder Formerkennungsübungen durch."
+                    },
+                    {
+                        "name": "Abend: Freiflug-Interaktion & 10–12 Stunden Dunkelschlaf",
+                        "text": "Genießen Sie direkte Interaktion außerhalb des Käfigs und decken Sie den Käfig danach ab, um 10–12 Stunden ungestörten Dunkelschlaf zu gewährleisten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Was soll ich tun, wenn mein Graupapagei anfängt, sich die Federn zu rupfen?",
+                        "answer": "Federrupfen (FDB) ist eine komplexe Erkrankung. Lassen Sie das Tier zuerst von einem Vogeltierarzt untersuchen. Bieten Sie mehr Suchspielzeug an, halten Sie strikt 12 Stunden Schlaf ein und vermeiden Sie dramatische Reaktionen beim Rupfen."
+                    },
+                    {
+                        "question": "Reicht eine reine Körnerfütterung (z.B. Sonnenblumenkerne) aus?",
+                        "answer": "Nein. Eine reine Körnerdiät ist zu fettreich und führt zu Vitamin-A- und Kalziummangel sowie Lebererkrankungen. Füttern Sie zu 60–70% Pellets und frisches Gemüse. (Achtung: Avocado und Schokolade sind giftig)."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Comunicação cognitiva do Papagaio-Cinzento e rotina de 3 passos de enriquecimento mental para prevenir o arrancamento de penas",
+                "description": "Guia essencial de cuidados para o papagaio mais inteligente do mundo, o Papagaio-Cinzento (Psittacus erithacus). Aprenda a estimular a sua inteligência, interagir com linguagem contextual e aplicar uma rotina em 3 passos contra o picacismo (FDB).",
+                "authority": "Diretrizes Clínicas da Association of Avian Veterinarians (AAV) e World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Papagaio-Cinzento / Papagaio-Cinzento-Africano (Psittacus erithacus)",
+                    "lifespan": "40 ~ 60 anos (em cativeiro otimizado)",
+                    "sleep_pattern": "10 ~ 12 horas (sono em escuridão total com capa de gaiola)",
+                    "temperament": "Extremamente inteligente, emocionalmente sensível, social, propenso à ansiedade"
+                },
+                "intro": "O Papagaio-Cinzento é amplamente reconhecido como uma das aves mais inteligentes do mundo, possuindo capacidades cognitivas e de aprendizagem comparáveis às de uma criança de 4 a 5 anos. Além de imitar sons, compreende o contexto e comunica com significado. No entanto, esta inteligência torna-o sensível. Sem estimulação mental e enriquecimento ambiental, o tédio e o stresse provocam o arrancamento de penas (Feather Damaging Behavior). Hoje no PetSelf explicamos os seus sinais e uma rotina em 3 passos para a sua saúde mental.",
+                "whyTitle": "Instintos do Papagaio-Cinzento: Linguagem contextual e sinais de picacismo (FDB)",
+                "whyDesc": "Os Papagaios-Cinzentos expressam entusiasmo através da **'Constrição pupilar e fala contextual (Pupil Pinning & Speech)'**, contraindo as pupilas enquanto dizem palavras adequadas. Em contraste, quando sofrem de tédio ou stresse, expressam angústia através do **'Arrancamento de penas (Feather Plucking)'** no peito e asas.",
+                "body_signals": [
+                    {
+                        "name": "Constrição pupilar e fala contextual (Pupil Pinning & Contextual Speech)",
+                        "meaning": "Contração rápida das pupilas acompanhada de palavras no contexto correto, indicando foco cognitivo, entusiasmo e desejo de interagir.",
+                        "response": "Interaja com jogos de conversa e quebra-cabeças, recompensando o sucesso com pequenos pedaços de nozes."
+                    },
+                    {
+                        "name": "Arrancamento de penas e sobre-limpeza (Feather Plucking / Over-grooming)",
+                        "meaning": "Morder ou arrancar repetidamente as penas do peito ou pernas, indicando ansiedade, tédio ou falta de sono.",
+                        "response": "Aumente os brinquedos de forrageio (procura de comida), garanta 10 a 12 horas de sono no escuro e consulte um veterinário especializado em aves."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação com ração extrudada e exposição à luz UV",
+                        "text": "Sirva ração extrudada de alta qualidade com vegetais frescos picados e proporcione luz solar ou lâmpada UV para aves."
+                    },
+                    {
+                        "name": "Tarde: Brinquedos de forrageio e treino cognitivo",
+                        "text": "Ofereça quebra-cabeças onde a comida está escondida e realize exercícios de vocabulário, formas e cores."
+                    },
+                    {
+                        "name": "Noite: Interação fora da gaiola e 10-12 horas de sono no escuro",
+                        "text": "Desfrute de tempo fora da gaiola e cubra a gaiola completamente para garantir 10 a 12 horas de sono escuro ininterrupto."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O que fazer se o Papagaio-Cinzento começar a arrancar as penas?",
+                        "answer": "O picacismo (FDB) é uma condição médica e psicológica complexa. Consulte um veterinário especializado em aves para descartar infeções. Aumente o forrageio, garanta 12 horas de sono estrito e evite reações dramáticas ao ver a ave arrancar penas."
+                    },
+                    {
+                        "question": "Posso alimentar o Papagaio-Cinzento apenas com sementes de girassol?",
+                        "answer": "Nunca. Uma dieta exclusiva de sementes é excessivamente gorda e deficiente em vitamina A e cálcio, causando esteatose hepática. Ofereça ração extrudada (60-70%) e vegetais frescos. (Nota: Abacate e chocolate são mortales)."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Komunikasi Kognitif Burung Beo Abu-abu Afrika dan Rutinitas 3 Langkah Pengayaan Mental Mencegah Mencabut Bulu",
+                "description": "Panduan perawatan burung beo paling cerdas di dunia, Beo Abu-abu Afrika (African Grey Parrot). Pelajari cara menstimulasi kecerdasan setara anak kecil, komunikasi kontekstual, dan rutinitas 3 langkah mencegah Feather Damaging Behavior (FDB).",
+                "authority": "Panduan Klinis Association of Avian Veterinarians (AAV) dan World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Beo Abu-abu Afrika (Psittacus erithacus / African Grey Parrot)",
+                    "lifespan": "40 ~ 60 tahun (pada kondisi penangkaran optimal)",
+                    "sleep_pattern": "10 ~ 12 jam (tidur malam gelap gulita tanpa gangguan dengan penutup sangkar)",
+                    "temperament": "Sangat cerdas, emosional dan sensitif, sosial, rentan terhadap kecemasan"
+                },
+                "intro": "Burung Beo Abu-abu Afrika (African Grey Parrot) dikenal luas sebagai salah satu burung paling cerdas di dunia, dengan kemampuan kognitif dan kosa kata setara anak manusia berusia 4 hingga 5 tahun. Selain meniru suara, mereka memahami konteks dan berkomunikasi secara bermakna. Namun kecerdasan tinggi ini membuat mereka sangat sensitif. Tanpa stimulasi mental dan pengayaan lingkungan yang cukup, rasa bosan dan stres sering memicu perilaku merusak bulu atau mencabut bulu sendiri (Feather Damaging Behavior). Hari ini PetSelf membagikan sinyal perilaku dan 3 langkah rutinitas pengayaan mental.",
+                "whyTitle": "Insting Beo Abu-abu Afrika: Bicara Kontekstual dan Sinyal Stres Mencabut Bulu (FDB)",
+                "whyDesc": "Beo Abu-abu Afrika mengekspresikan antusiasme dan fokus kognitif melalui **'Pengecilan Pupil & Bicara Kontekstual (Pupil Pinning & Speech)'**, mengecilkan pupil dengan cepat sambil mengucapkan kata yang sesuai. Sebaliknya, saat merasa bosan atau stres, mereka mengekspresikan kecemasan melalui **'Mencabut Bulu (Feather Plucking)'** pada dada dan sayap.",
+                "body_signals": [
+                    {
+                        "name": "Pengecilan Pupil & Bicara Kontekstual (Pupil Pinning & Contextual Speech)",
+                        "meaning": "Pengecilan pupil yang cepat disertai penggunaan kata sesuai konteks, menandakan fokus kognitif, kegembiraan, dan keinginan berinteraksi.",
+                        "response": "Ajak berinteraksi dengan latihan bicara dan mainan teka-teki, berikan pujian dan camilan sehat."
+                    },
+                    {
+                        "name": "Mencabut Bulu & Merapikan Bulu Berlebihan (Feather Plucking / Over-grooming)",
+                        "meaning": "Menggigit atau mencabut bulu dada/kaki berulang kali, menandakan kecemasan emosional, kebosanan, atau kurang tidur.",
+                        "response": "Tambahkan mainan pencari makan (foraging), pastikan 10–12 jam tidur gelap tenang, dan konsultasikan ke dokter hewan avian."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemberian Pakan Pelet Diformulasikan & Paparan Sinar UV",
+                        "text": "Berikan pelet bernutrisi seimbang dengan potongan sayur segar (chop) dan sediakan sinar matahari atau lampu UV khusus burung."
+                    },
+                    {
+                        "name": "Siang: Mainan Teka-teki Foraging & Pelatihan Kognitif",
+                        "text": "Sediakan mainan pencari makan tempat makanan tersembunyi untuk melatih otak, serta lakukan latihan kosakata, warna, dan bentuk."
+                    },
+                    {
+                        "name": "Malam: Interaksi di Luar Sangkar & 10–12 Jam Tidur Gelap Gulita",
+                        "text": "Nikmati waktu kebersamaan di luar sangkar, lalu tutup sangkar sepenuhnya untuk menjamin 10–12 jam tidur gelap tanpa gangguan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apa yang harus dilakukan jika Beo Abu-abu Afrika saya mulai mencabut bulunya?",
+                        "answer": "Perilaku merusak bulu (FDB) adalah kondisi medis dan psikologis yang kompleks. Pertama, periksakan ke dokter hewan avian untuk memastikannya bebas dari infeksi. Tingkatkan mainan foraging, terapkan jadwal tidur 12 jam secara ketat, dan hindari reaksi berlebihan saat burung mencabut bulunya."
+                    },
+                    {
+                        "question": "Apakah aman memberikan pakan biji-bijian saja seperti biji bunga matahari?",
+                        "answer": "Sangat tidak boleh. Diet biji-bijian saja terlalu tinggi lemak serta kekurangan vitamin A dan kalsium, yang memicu penyakit hati berlemak. Berikan pelet formulasi berkualitas (60–70%) dan sayuran segar. (Catatan: Alpukat dan cokelat sangat beracun)."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/african_grey_parrot_care.webp"
+    }
+}

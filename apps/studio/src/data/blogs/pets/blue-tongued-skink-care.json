@@ -1,0 +1,459 @@
+{
+    "blue-tongued-skink-care": {
+        "pubDate": "2026-03-17",
+        "updatedDate": "2026-03-17",
+        "locales": {
+            "ko": {
+                "title": "블루텅 스킨크 잡식성 식단 비율과 핫존·쿨존 온도 관리 및 바닥재 선택 3단계 케어 루틴",
+                "description": "파란 혀가 매력적인 블루텅 스킨크(Blue-tongued Skink) 케어 가이드. 잡식성 영양 균형(단백질/야채 비율), 열구배(Hot Zone/Cool Zone) 설정, 버로우용 바닥재 선택과 3단계 루틴을 알아봅니다.",
+                "authority": "세계파충류·양서류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 임상 가이드라인 및 ReptiFiles 사육 표준",
+                "profile": {
+                    "breed": "블루텅 스킨크 (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20년 이상",
+                    "sleep_pattern": "주행성 (낮 동안 활발히 활동하고 밤에는 버로우하여 수면)",
+                    "temperament": "온순함, 사람 친화적, 호기심 많음, 지상성"
+                },
+                "intro": "블루텅 스킨크(Tiliqua spp.)는 천적에게 위협을 가하거나 호기심을 표현할 때 날름거리는 선명한 파란색 혀와 짧고 귀여운 다리가 매력적인 호주 및 인도네시아 원산의 주행성 지상형(Terrestrial) 도마뱀입니다. 강아지처럼 온순한 성격과 높은 지능을 가져 파충류 매니아층에서 대형/중형 도마뱀 입문용으로 최고의 명성을 누리고 있습니다. 그러나 야생에서 잡식성(Omnivorous) 생태를 지니고 있어 단백질과 채소의 영양 비율을 올바르게 맞추지 않으면 비만이나 비타민 결핍, 대사성 뼈 질환(MBD)에 노출되기 쉽습니다. 또한, 체온 조절을 위한 확실한 핫존(Basking Area)과 쿨존(Cool Side)의 열구배 설정이 필수적이며, 땅을 파고 들어가는 버로우(Burrowing) 습성을 만족시키는 바닥재 선택이 중요합니다. 오늘 PetSelf에서는 블루텅 스킨크의 블루텅 시그널과 잡식성 식단 관리, 적정 사육 환경 구축을 위한 3단계 케어 루틴을 다룹니다.",
+                "whyTitle": "블루텅 스킨크의 방어 행동과 신호: 파란 혀 늘어뜨리기(Blue Tongue Display)와 '쉬익' 소리(Hissing)",
+                "whyDesc": "블루텅 스킨크는 갑작스러운 위협을 받으면 입을 크게 벌리고 선명한 파란색 혀를 내밀어 시각적 경고를 보냅니다. 동시에 몸을 납작하게 부풀리고 '쉬익(Hissing)' 소리를 내며 포식자를 위협합니다.",
+                "body_signals": [
+                    {
+                        "name": "파란 혀 내밀기 및 입 벌리기 (Blue Tongue Display)",
+                        "meaning": "위협을 느껴 천적에게 자신이 독이 있거나 위험한 생물임을 시각적으로 착각하게 만들려는 강력한 방어 경고입니다.",
+                        "response": "핸들링이나 사육장 청소를 즉시 멈추고 손을 거두어 스킨크가 스스로 안정을 찾을 때까지 기다려 줍니다."
+                    },
+                    {
+                        "name": "몸 납작하게 부풀리기 및 '쉬익' 소리 (Body Flattening & Hissing)",
+                        "meaning": "몸집을 크게 보여 상대를 위협하려는 행동으로, 극심한 경계 상태를 뜻합니다.",
+                        "response": "위에서 손을 낚아채듯 접근하지 말고, 스킨크의 눈높이 아래에서 천천히 접근하여 불안감을 줄여줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 스팟 및 UVB 조명 점등과 핫존·쿨존 온도 점검",
+                        "text": "주행성 생체 리듬에 맞춰 조명을 켜고, 핫존(일열 지점 35~38°C)과 쿨존(22~26°C)의 열구배가 잘 형성되었는지 온도계로 점검합니다."
+                    },
+                    {
+                        "name": "낮: 버로우 바닥재 수분 관리 및 수분 공급",
+                        "text": "땅을 파고드는 습성에 맞춰 바닥재(바크, 코코하스크 등)를 충분한 깊이로 유지하고, 신선하고 깨끗한 물을 물그릇에 채워 줍니다."
+                    },
+                    {
+                        "name": "저녁: 연령별 잡식성 영양 식단 급여 및 사육장 청소",
+                        "text": "성장 단계(성체 기준 단백질 40~50%, 채소/야채 50%, 과일 10% 미만)에 맞춘 다진 사료/고기 및 야채 믹스를 급여하고 배변을 청소합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "블루텅 스킨크에게 고양이 통조림(캔)을 먹여도 되나요?",
+                        "answer": "기름기가 적은 프리미엄 성묘용 고양이 캔이나 보습 사료는 고단백 영양 공급원으로 우수한 선택지가 될 수 있습니다. 다만, 과도한 지방 섭취로 인한 비만을 막기 위해 단독 급여하지 말고 반드시 다진 채소(청경채, 콜라드 그린 등)와 칼슘제를 혼합하여 비율을 맞춰 급여해야 합니다."
+                    },
+                    {
+                        "question": "인도네시아종과 호주종 블루텅 스킨크의 사육 환경(습도)이 다른가요?",
+                        "answer": "네, 매우 다릅니다. 호주 종(Northern Blue-tongued Skink 등)은 건조~반건조 환경(습도 40~50%)을 선호하지만, 인도네시아 종(Halmahera 등)은 열대 우림 원산으로 높은 습도(70~90%)가 필수적입니다. 종에 맞는 바닥재(코코하스크 또는 바크)와 습도를 설정해야 탈피 부전을 예방할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Blue-tongued Skink Omnivorous Diet Ratio, Hot/Cool Zone Temperature Control, and Substrate 3-Step Care Routine",
+                "description": "Essential care guide for the Blue-tongued Skink (Tiliqua spp.). Learn about omnivorous nutrition ratios, hot/cool zone thermal gradients, burrowing substrates, and a 3-step daily routine.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines and ReptiFiles Captive Care Standards",
+                "profile": {
+                    "breed": "Blue-tongued Skink (Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ Years",
+                    "sleep_pattern": "Diurnal (Active During Day, Burrows to Sleep at Night)",
+                    "temperament": "Docile, People-friendly, Curious, Terrestrial"
+                },
+                "intro": "The Blue-tongued Skink (Tiliqua spp.) is a diurnal, terrestrial lizard native to Australia and Indonesia, famous for its vibrant blue tongue displayed when startled and its signature stocky body with short legs. Renowned in the reptile-keeping world for its dog-like docility and high intelligence, it is widely considered the ultimate medium-to-large starter lizard. However, because they are opportunistic omnivores in the wild, failing to balance their protein and vegetable ratios can quickly lead to obesity, vitamin deficiencies, or Metabolic Bone Disease (MBD). Additionally, maintaining a distinct thermal gradient with a hot basking zone and a cool side, along with providing a deep burrowing substrate, is vital for their physical and mental well-being. Today on PetSelf, we detail Blue-tongued Skink defense behaviors, omnivorous dietary guidelines, and a 3-step care routine.",
+                "whyTitle": "Blue-tongued Skink Instincts: Blue Tongue Display and Hissing Defense",
+                "whyDesc": "When threatened, Blue-tongued Skinks gape their mouths wide to expose their bright blue tongue as a visual warning to predators. Simultaneously, they flatten their bodies to appear larger and emit loud hissing sounds.",
+                "body_signals": [
+                    {
+                        "name": "Blue Tongue Display & Open-Mouth Gaping",
+                        "meaning": "A strong defensive posture intended to startle predators into believing the skink is venomous or dangerous.",
+                        "response": "Cease handling or cage maintenance immediately, retract your hands, and allow the skink time to settle down."
+                    },
+                    {
+                        "name": "Body Flattening & Hissing",
+                        "meaning": "An intimidation tactic designed to make the body appear wider and warn intruders to back away.",
+                        "response": "Avoid reaching down from directly above; approach slowly from below eye level to minimize fear."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Basking/UVB Lighting Activation & Thermal Gradient Check",
+                        "text": "Turn on UVB and basking spot lamps, verifying with a thermometer that the basking zone (35–38°C / 95–100°F) and cool side (22–26°C / 72–78°F) are properly set."
+                    },
+                    {
+                        "name": "Afternoon: Burrowing Substrate Moisture & Water Dish Care",
+                        "text": "Maintain adequate substrate depth (cypress mulch, bark, or coco husk) to support natural burrowing habits, and provide clean, fresh drinking water."
+                    },
+                    {
+                        "name": "Evening: Age-Appropriate Omnivorous Meal & Enclosure Cleaning",
+                        "text": "Offer a balanced mix of chopped greens, lean protein, and calcium powder tailored to age (Adults: 40–50% protein, 50% greens, <10% fruit), then spot-clean waste."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I feed dog or cat food to a Blue-tongued Skink?",
+                        "answer": "High-quality, grain-free adult cat or dog food can serve as a great protein base. However, it should never be fed alone due to high fat content. Always mix it with chopped calcium-rich leafy greens (dandelion greens, collard greens) and calcium supplements."
+                    },
+                    {
+                        "question": "Do Indonesian and Australian Blue-tongued Skinks require different humidity levels?",
+                        "answer": "Yes, significantly. Australian species (like Northern Blue-tongued Skinks) thrive in drier environments (40–50% humidity), whereas Indonesian species (like Halmahera Skinks) originate from tropical rainforests and require high humidity (70–90%) to prevent shedding issues."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "AOSアオジタトカゲの雑食性フード比率とホットゾーン・クールゾーン温度管理・床材3ステップケア",
+                "description": "アオジタトカゲ（Blue-tongued Skink）飼育ガイド。雑食性の栄養バランス（タンパク質/野菜比率）、温度勾配（ホットゾーン/クールゾーン）、潜りやすい床材選びと3ステップルーティンを解説。",
+                "authority": "世界爬虫類・両生類獣医学会（ARAV）臨床ガイドラインおよび ReptiFiles 飼育基準",
+                "profile": {
+                    "breed": "アオジタトカゲ (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 〜 20年以上",
+                    "sleep_pattern": "昼行性 (日中は活発に活動し、夜は床材に潜って睡眠)",
+                    "temperament": "温厚、人なつっこい、好奇心旺盛、地表性"
+                },
+                "intro": "アオジタトカゲ（Tiliqua spp.）は、威嚇や探索時にのぞかせる鮮やかな青い舌と、短く愛らしい脚が特徴的なオーストラリア・インドネシア原産の地表性トカゲです。犬のように人によくなれ、賢い性格から、中・大型トカゲの入門種として世界中で高い人気を誇ります。しかし、野性では雑食性（Omnivorous）であるため、タンパク質と野菜の栄養バランスを適切に管理しないと、肥満やビタミン欠乏症、代謝性骨疾患（MBD）を引き起こす可能性があります。また、体温調節のためのホットゾーン（バスキングエリア）とクールゾーンの温度勾配の設定、潜り（バロー）習性を満たす床材選びが不可欠です。今回はPetSelfが、アオジタトカゲの警戒サインと雑食性の食餌、快適な環境を作る3ステップケアを解説します。",
+                "whyTitle": "アオジタトカゲの威嚇行動とサイン：青い舌の提示と「シュー」という威嚇音",
+                "whyDesc": "アオジタトカゲは威嚇を感じると、大きな口を開けて鮮やかな青い舌を突き出し、視覚的な警戒信号を送ります。同時に体を平らに膨らませ、「シュー（Hissing）」と音を立てて相手を牽制します。",
+                "body_signals": [
+                    {
+                        "name": "青い舌を出す行動 (Blue Tongue Display)",
+                        "meaning": "強い恐怖を感じた際、自身に毒があるように見せかけて敵を驚かせようとする防御行動です。",
+                        "response": "ハンドリングや掃除を直ちに中断し、手を引っ込めて落ち着くまでそっとしておきます。"
+                    },
+                    {
+                        "name": "体を平らに膨らませて威嚇音を出す (Body Flattening & Hissing)",
+                        "meaning": "体を大きく見せて相手を威嚇しようとする強い警戒状態を示しています。",
+                        "response": "頭上から急に手を出さず、目線より低い位置からゆっくり接近して恐怖心を和らげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ライト点灯とホットゾーン・クールゾーンの温度確認",
+                        "text": "UVBおよびバスキングライトを点灯し、ホットゾーン（35〜38℃）とクールゾーン（22〜26℃）の温度勾配を温度計で確認します。"
+                    },
+                    {
+                        "name": "昼：床材の湿度・深さ調整と水入れの清掃",
+                        "text": "潜り習性に合わせ床材（バークやココハスクなど）を十分な深さに維持し、新鮮で清潔な水を用意します。"
+                    },
+                    {
+                        "name": "夜：年齢に合わせた雑食フード給餌とフンの清掃",
+                        "text": " growth 段階に合わせたフード（成体：タンパク質40〜50%、野菜50%、果物10%未満）を与え、排泄物を清掃します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "アオジタトカゲにキャットフードやドッグフードを与えてもいいですか？",
+                        "answer": "グレインフリーの高品質なドッグフードやキャットフードは優れたタンパク源になります。ただし、脂質が多いため単品で与えず、必ず細かく刻んだ小松菜やカルシウム剤を混ぜて栄養バランスを整えて与えてください。"
+                    },
+                    {
+                        "question": "インドネシア産とオーストラリア産で飼育湿度を変える必要がありますか？",
+                        "answer": "はい、大きく異なります。オーストラリア産（キタアオジタトカゲなど）は乾燥〜半乾燥（湿度40〜50%）を好みますが、インドネシア産（ハルマヘラなど）は熱帯雨林原産のため高湿度（70〜90%）が必須となります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "蓝舌蜥杂食性食谱比例、冷热区温控与垫料选择3阶段日常护理流程",
+                "description": "蓝舌蜥（Blue-tongued Skink）护理指南。了解杂食性营养均衡（蛋白质/蔬菜比例）、冷热区温差梯度设置、潜掘垫料选择与3阶段日常护理。",
+                "authority": "世界爬行类与两栖类兽医学会 (ARAV) 临床指南及 ReptiFiles 饲育标准",
+                "profile": {
+                    "breed": "蓝舌蜥 (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20年以上",
+                    "sleep_pattern": "昼行性 (白天活跃，夜间潜入垫料中睡觉)",
+                    "temperament": "温顺、亲人、好奇心强、地栖性"
+                },
+                "intro": "蓝舌蜥（Tiliqua spp.）原产于澳大利亚和印度尼西亚，是一种昼行性地栖蜥蜴，以其受到惊吓时吐出的鲜艳蓝色舌头和粗壮的身躯、短小可爱的小腿而闻名。因其如犬类般温顺的性格和极高的智商，被广泛公认为中大型蜥蜴的最佳入门品种。然而，由于它们在野外属于杂食性（Omnivorous）动物，若无法合理搭配蛋白质与蔬菜的营养比例，极易导致肥胖、维生素缺乏症或代谢性骨病（MBD）。此外，饲养盒内必须设定明确的晒背热区（Hot Zone）与凉爽区（Cool Zone）温差梯度，并提供满足其掘穴（Burrowing）本能的厚垫料。今天 PetSelf 将为您解析蓝舌蜥的防御信号、杂食食谱搭配以及3阶段日常护理流程。",
+                "whyTitle": "蓝舌蜥的防御行为与信号：吐蓝舌警告（Blue Tongue Display）与“嘶嘶”声",
+                "whyDesc": "当蓝舌蜥感到威胁时，会张大嘴巴吐出鲜艳的蓝色舌头进行视觉警告，同时将身体扁平化以显体型巨大，并发出“嘶嘶（Hissing）”的声音吓退掠食者。",
+                "body_signals": [
+                    {
+                        "name": "吐蓝舌与张嘴警告 (Blue Tongue Display)",
+                        "meaning": "强烈威胁下发出的防御信号，试图通过鲜艳的蓝舌假装自己有毒以吓退敌人。",
+                        "response": "立即停止上手或清理工作，收回双手，静置等待其恢复平静。"
+                    },
+                    {
+                        "name": "身体压扁与发出嘶嘶声 (Body Flattening & Hissing)",
+                        "meaning": "通过压扁身体扩大视觉面积来威吓对方，代表其处于高度警惕状态。",
+                        "response": "切勿从正上方抓取，应从低于其视线的高度缓慢靠近以减少压迫感。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：开启UVB与晒背灯并检查冷热区温度",
+                        "text": "配合昼行作息开启灯具，使用温度计检查热区（35~38°C）与冷区（22~26°C）的温差梯度是否正常。"
+                    },
+                    {
+                        "name": "中午：掘穴垫料湿度检查与水盆清洁",
+                        "text": "保持树皮或椰壳等垫料具有足够的深度以供其钻洞，并提供干净新鲜的饮用水。"
+                    },
+                    {
+                        "name": "晚上：按年龄搭配杂食餐与排泄物清理",
+                        "text": "根据年龄阶段喂食肉类与切碎蔬菜的混合餐（成体：蛋白质40~50%，蔬菜50%，水果<10%），并清理排泄物。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以给蓝舌蜥喂食狗粮或猫粮吗？",
+                        "answer": "无谷的高品质成犬粮或成猫粮是非常优质的蛋白质来源。但由于其脂肪含量较高，绝对不能单独喂食，必须与切碎的富含钙质的绿叶蔬菜（如油菜、芥蓝）及钙粉混合喂食。"
+                    },
+                    {
+                        "question": "印尼种和澳洲种蓝舌蜥的饲养湿度要求一样吗？",
+                        "answer": "完全不同。澳洲种（如北部蓝舌蜥）喜欢干燥至半干燥环境（湿度 40~50%），而印尼种（如哈马黑拉蓝舌蜥）来自热带雨林，必须维持高湿度（70~90%）才能防止蜕皮困难。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de dieta omnívora para el escorpión de lengua azul, control de temperatura y rutina de 3 pasos",
+                "description": "Guía esencial de cuidado para el escinco de lengua azul (Tiliqua spp.). Proporción nutricional omnívora, gradiente térmico (zona fría/caliente), sustratos e higiene diaria.",
+                "authority": "Pautas Clínicas de la Asociación de Veterinarios de Reptiles y Anfibios (ARAV) y Estándares de ReptiFiles",
+                "profile": {
+                    "breed": "Escinco de Lengua Azul (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ años",
+                    "sleep_pattern": "Diurno (Activo de día, se entierra para dormir de noche)",
+                    "temperament": "Dócil, amigable, curioso, terrestre"
+                },
+                "intro": "El escinco de lengua azul (Tiliqua spp.) es un lagarto terrestre y diurno nativo de Australia e Indonesia, famoso por su brillante lengua azul que exhibe al asustarse y su cuerpo robusto de patas cortas. Reconocido por su docilidad e inteligencia, es la especie ideal para quienes desean iniciarse en lagartos medianos o grandes. Sin embargo, al ser omnívoros en libertad, no balancear la proporción de proteínas y vegetales puede derivar rápidamente en obesidad, deficiencias vitamínicas o Enfermedad Metabolicadel Hueso (MBD). Además, mantener un gradiente térmico adecuado con una zona caliente para asolearse y una zona fría, junto con un sustrato profundo para excavar, es vital. Hoy en PetSelf cubrimos sus comportamientos, dieta y rutina de 3 pasos.",
+                "whyTitle": "Instintos del escinco de lengua azul: Muestra de lengua azul y silbido defensivo",
+                "whyDesc": "Cuando se siente amenazado, el escinco abre la boca de par en par para mostrar su lengua azul brillante como advertencia visual. Al mismo tiempo, aplana su cuerpo para parecer más grande y emite fuertes silbidos (Hissing).",
+                "body_signals": [
+                    {
+                        "name": "Muestra de lengua azul y boca abierta",
+                        "meaning": "Postura defensiva para disuadir a los depredadores haciéndoles creer que es venenoso o peligroso.",
+                        "response": "Detenga la manipulación inmediatamente, retire las manos y deje que el reptil se tranquilice."
+                    },
+                    {
+                        "name": "Cuerpo aplanado y silbido (Hissing)",
+                        "meaning": "Táctica de intimidación para ensanchar su aspecto visual y advertir que se guarde distancia.",
+                        "response": "Evite acercarse desde arriba; acérquese lentamente desde un ángulo inferior a la altura de sus ojos."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Encendido de luces UVB/calor y control de temperatura",
+                        "text": "Encienda las luces y verifique con un termómetro que la zona caliente (35–38 °C) y la zona fría (22–26 °C) estén bien ajustadas."
+                    },
+                    {
+                        "name": "Tarde: Humedad del sustrato de excavación y agua fresca",
+                        "text": "Mantenga una buena profundidad de sustrato (corteza o fibra de coco) para que pueda excavar y proporcione agua limpia."
+                    },
+                    {
+                        "name": "Noche: Alimentación omnívora según la edad y limpieza",
+                        "text": "Ofrezca una mezcla balanceada de verduras picadas, proteína magra y calcio (Adultos: 40-50% proteína, 50% verduras, <10% fruta) y limpie deshechos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo alimentar a un escinco de lengua azul con comida para perros o gatos?",
+                        "answer": "La comida húmeda de calidad para perros o gatos adultos sin cereales es una excelente base proteica. Sin embargo, nunca debe darse sola debido al contenido de grasa. Siempre debe mezclarse con verduras de hoja verde ricas en calcio y suplementos vitamínicos."
+                    },
+                    {
+                        "question": "¿Requieren diferente humedad los escincos de Indonesia y los de Australia?",
+                        "answer": "Sí, totalmente. Las especies australianas prefieren ambientes secos (40–50% de humedad), mientras que las especies indonesias provienen de selvas tropicales y requieren alta humedad (70–90%) para mudar la piel sin problemas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide du scinque à langue bleue : alimentation omnivore, gestion thermique chaud/froid et routine en 3 étapes",
+                "description": "Guide de soin essentiel pour le scinque à langue bleue (Tiliqua spp.). Proportions nutritionnelles omnivores, gradient thermique (zone chaude/froide), substrat d'enfouissement et routine.",
+                "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de ReptiFiles",
+                "profile": {
+                    "breed": "Scinque à Langue Bleue (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ ans",
+                    "sleep_pattern": "Diurne (Actif le jour, s'enfouit pour dormir la nuit)",
+                    "temperament": "Docile, amical, curieux, terrestre"
+                },
+                "intro": "Le scinque à langue bleue (Tiliqua spp.) est un lézard terrestre et diurne originaire d'Australie et d'Indonésie, célèbre pour sa langue d'un bleu éclatant qu'il sort lorsqu'il est effrayé et son corps trapust aux pattes courtes. Très apprécié pour son calme et son intelligence, il est considéré comme le lézard moyen/grand idéal pour débuter. Néanmoins, étant omnivore à l'état sauvage, un mauvais équilibre entre protéines et végétaux peut rapidement provoquer l'obésité ou l'ostéodystrophie fibreuse (MBD). De plus, offrir un gradient thermique précis entre la zone chaude et la zone froide, ainsi qu'un substrat meuble pour s'enfouir, est primordial. Aujourd'hui sur PetSelf, découvrez ses comportements, son alimentation et sa routine quotidienne.",
+                "whyTitle": "Instincts du scinque à langue bleue : Exhibition de la langue bleue et sifflement défensif",
+                "whyDesc": "Lorsqu'il se sent menacé, le scinque ouvre largement la gueule pour exhiber sa langue bleue en guise d'avertissement visuel. Simultanément, il aplatit son corps pour paraître plus imposant et émet de puissants sifflements.",
+                "body_signals": [
+                    {
+                        "name": "Exhibition de la langue bleue et gueule ouverte",
+                        "meaning": "Posture défensive visant à faire croire aux prédateurs qu'il est venimeux ou dangereux.",
+                        "response": "Cessez immédiatement toute manipulation, retirez vos mains et laissez l'animal retrouver son calme."
+                    },
+                    {
+                        "name": "Corps aplati et sifflement (Hissing)",
+                        "meaning": "Comportement d'intimidation pour paraître plus large et avertir l'intrus de garder ses distances.",
+                        "response": "Évitez d'approcher la main par le dessus ; avancez doucement en dessous du niveau de ses yeux."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Allumage des éclairages UVB/chauffant et vérification thermique",
+                        "text": "Allumez les lampes et contrôlez au thermomètre que le point chaud (35–38 °C) et le point froid (22–26 °C) sont aux bonnes températures."
+                    },
+                    {
+                        "name": "Après-midi : Substrat d'enfouissement et eau fraîche",
+                        "text": "Conservez une bonne épaisseur de substrat (écorces, fibre de coco) pour répondre à son besoin de creuser et donnez de l'eau propre."
+                    },
+                    {
+                        "name": "Soir : Repas omnivore adapté et nettoyage du terrarium",
+                        "text": "Proposez un mélange adapté à son âge (Adultes : 40-50% protéines, 50% légumes, <10% fruits) enrichi en calcium, puis retirez les déjections."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Puis-je donner de la nourriture pour chien ou chat à un scinque à langue bleue ?",
+                        "answer": "La nourriture humide de haute qualité pour chiens ou chats adultes constitue une excellente base protéique. Toutefois, elle ne doit jamais être donnée pure en raison de sa teneur en graisses : mélangez-la systématiquement avec des légumes feuillus hachés riches en calcium."
+                    },
+                    {
+                        "question": "Les scinques d'Indonésie et d'Australie ont-ils besoin de la même humidité ?",
+                        "answer": "Non, pas du tout. Les espèces australiennes préfèrent un climat sec (40–50 % d'humidité), tandis que les espèces indonésiennes issues des forêts tropicales ont besoin d'une forte humidité (70–90 %) pour muer correctement."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Blautungenskink Allesfresser-Diät, Hot/Cool Zone Temperatursteuerung und 3-Schritte-Routine",
+                "description": "Leitfaden für den Blautungenskink (Tiliqua spp.). Erfahren Sie alles über das Nährstoffverhältnis, Temperaturgefälle (Hot/Cool Zone), Grabsubstrate und die tägliche Pflege.",
+                "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und ReptiFiles Standards",
+                "profile": {
+                    "breed": "Blautungenskink (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ Jahre",
+                    "sleep_pattern": "Tagaktiv (Tagsüber aktiv, gräbt sich nachts zum Schlafen ein)",
+                    "temperament": "Friedlich, menschenbezogen, neugierig, bodenbewohnend"
+                },
+                "intro": "Der Blautungenskink (Tiliqua spp.) ist eine tagaktive, bodenbewohnende Echse aus Australien und Indonesien, die für ihre leuchtend blaue Zunge und ihren kräftigen Körper mit kurzen Beinen bekannt ist. Wegen seiner friedlichen Art und hohen Intelligenz gilt er als eine der beliebtesten mittelgroßen bis großen Einsteiger-Echsen. Da Blautungenskinks Allesfresser (Omnivoren) sind, führt ein falsches Verhältnis von Protein und Gemüse rasch zu Übergewicht oder Stoffwechselerkrankungen (MBD). Ein präzises Temperaturgefälle zwischen Sonnenplatz (Hot Zone) und kühlem Bereich sowie ein tiefes Grabsubstrat sind für die Haltung essenziell. Heute erklärt PetSelf Abwehrverhalten, Ernährung und Pflege.",
+                "whyTitle": "Instinkte des Blautungenskinks: Blaue Zunge zeigen und Fauchen",
+                "whyDesc": "Fühlt sich der Skink bedroht, reißt er das Maul weit auf und zeigt seine leuchtend blaue Zunge als optisches Warnsignal. Gleichzeitig flacht er seinen Körper ab und stößt lautes Fauchen aus.",
+                "body_signals": [
+                    {
+                        "name": "Zeigen der blauen Zunge & Maulaufreißen",
+                        "meaning": "Drohgebärde, die Fressfeinden eine Giftigkeit oder Gefahr vortäuschen soll.",
+                        "response": "Stoppen Sie jegliche Handlungen sofort, ziehen Sie die Hände zurück und lassen Sie das Tier zur Ruhe kommen."
+                    },
+                    {
+                        "name": "Körper abflachen & Fauchen (Hissing)",
+                        "meaning": "Vergrößerung der Körpersilhouette zur Abschreckung, zeigt starke Abwehrbereitschaft.",
+                        "response": "Greifen Sie nicht von oben nach dem Tier; nähern Sie sich langsam unterhalb seiner Augenhöhe."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Einschalten von UVB/Sonnenlicht & Temperaturkontrolle",
+                        "text": "Schalten Sie die Lampen ein und prüfen Sie mit dem Thermometer den Sonnenplatz (35–38 °C) und die kühle Zone (22–26 °C)."
+                    },
+                    {
+                        "name": "Nachmittag: Substratfeuchte & Frisches Wasser bereitstellen",
+                        "text": "Sorgen Sie für ausreichend tiefes Substrat (Rindenmulch, Kokoshusk) zum Eingraben und wechseln Sie das Trinkwasser."
+                    },
+                    {
+                        "name": "Abend: Fütterung der Allesfresser-Ration & Gehegereinigung",
+                        "text": "Füttern Sie eine altersgerechte Mischung aus Proteinen, Grünfutter und Kalzium (Adult: 40-50% Protein, 50% Gemüse, <10% Obst) und entfernen Sie Kot."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Blautungenskinks Hundefutter oder Katzenfutter füttern?",
+                        "answer": "Getreidefreies, hochwertiges Hunde- oder Katzennassfutter ist eine gute Proteinbasis. Es darf jedoch wegen des Fettgehalts nie allein gefüttert werden: Mischen Sie es stets mit feingehacktem, kalziumreichem Blattgemüse und Ergänzungspräparaten."
+                    },
+                    {
+                        "question": "Benötigen indonesische und australische Blautungenskinks unterschiedliche Luftfeuchtigkeit?",
+                        "answer": "Ja, absolut. Australische Arten bevorzugen eher trockenes Klima (40–50 % Feuchtigkeit), während indonesische Arten aus dem Regenwald eine hohe Luftfeuchtigkeit (70–90 %) benötigen, um Häutungsprobleme zu vermeiden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de dieta onívora para o escinco-de-língua-azul, controle de temperatura e rotina de 3 passos",
+                "description": "Guia de cuidados essenciais para o escinco-de-língua-azul (Tiliqua spp.). Proporção nutricional onívora, gradiente térmico (zona quente/fria), substrato e rotina diária.",
+                "authority": "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões ReptiFiles",
+                "profile": {
+                    "breed": "Escinco-de-Língua-Azul (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ anos",
+                    "sleep_pattern": "Diurno (Ativo de dia, cava o substrato para dormir à noite)",
+                    "temperament": "Dócil, amigável, curioso, terrestre"
+                },
+                "intro": "O escinco-de-língua-azul (Tiliqua spp.) é um lagarto terrestre e diurno nativo da Austrália e Indonésia, famoso pela sua língua azul vibrante exibida quando se assusta e pelo seu corpo robusto de patas curtas. Muito apreciado pela sua docilidade e inteligência, é a espécie ideal para quem quer começar com lagartos médios ou grandes. Contudo, sendo onívoro na natureza, não equilibrar a proporção de proteínas e vegetais pode causar obesidade ou Doença Óssea Metabólica (MBD). Além disso, manter um gradiente térmico adequado com uma zona quente e uma zona fria, juntamente com um substrato profundo para escavar, é vital. Hoje no PetSelf cobrimos os seus comportamentos, dieta e rotina diária.",
+                "whyTitle": "Instintos do escinco-de-língua-azul: Exibição da língua azul e silvo defensivo",
+                "whyDesc": "Quando se sente ameaçado, o escinco abre a boca completamente para mostrar a sua língua azul como aviso visual. Ao mesmo tempo, achata o corpo para parecer maior e emite fortes silvos (Hissing).",
+                "body_signals": [
+                    {
+                        "name": "Exibição da língua azul e boca aberta",
+                        "meaning": "Postura defensiva para afastar predadores fazendo-os acreditar que é venenoso ou perigoso.",
+                        "response": "Pare o manuseio imediatamente, retire as mãos e deixe o lagarto acalmar-se."
+                    },
+                    {
+                        "name": "Corpo achatado e silvo (Hissing)",
+                        "meaning": "Tática de intimidação para parecer maior e avisar para manter distância.",
+                        "response": "Evite aproximar a mão por cima; aproxime-se lentamente por baixo do nível dos olhos dele."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Ativação de luzes UVB/aquecimento e controle de temperatura",
+                        "text": "Ligue as lâmpadas e verifique com um termômetro se a zona quente (35–38 °C) e a zona fria (22–26 °C) estão corretas."
+                    },
+                    {
+                        "name": "Tarde: Umidade do substrato de escavação e água fresca",
+                        "text": "Mantenha uma boa profundidade de substrato (casca de árvore ou fibra de coco) para que possa escavar e forneça água limpa."
+                    },
+                    {
+                        "name": "Noite: Alimentação onívora adequada à idade e limpeza",
+                        "text": "Ofereça uma mistura equilibrada de vegetais picados, proteína magra e cálcio (Adultos: 40-50% proteína, 50% vegetais, <10% frutas) e limpe os dejetos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso alimentar um escinco-de-língua-azul com ração para cães ou gatos?",
+                        "answer": "Ração úmida de alta qualidade para cães ou gatos adultos sem grãos é uma excelente base proteica. No entanto, nunca deve ser dada sozinha devido ao teor de gordura: misture-a sempre com vegetais folhosos picados ricos em cálcio e suplementos."
+                    },
+                    {
+                        "question": "Os escincos da Indonésia e da Austrália precisam de umidades diferentes?",
+                        "answer": "Sim, totalmente. As espécies australianas preferem ambientes secos (40–50% de umidade), enquanto as espécies indonésias de florestas tropicais exigem alta umidade (70–90%) para fazer a muda de pele sem problemas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Diet Omnivora Kadal Lidah Biru, Kontrol Suhu Area Panas/Dingin, dan Rutin 3 Langkah Substrat",
+                "description": "Panduan perawatan esensial kadal lidah biru (Tiliqua spp.). Rasio nutrisi omnivora, gradien suhu area panas/dingin, pilihan substrat penggali, dan rutin 3 langkah harian.",
+                "authority": "Pedoman Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Pemeliharaan ReptiFiles",
+                "profile": {
+                    "breed": "Kadal Lidah Biru (Blue-tongued Skink / Tiliqua spp.)",
+                    "lifespan": "15 ~ 20+ Tahun",
+                    "sleep_pattern": "Diurnal (Aktif Siang Hari, Menggali Substrat untuk Tidur di Malam Hari)",
+                    "temperament": "Penurut, Ramah, Penasaran, Terestrial"
+                },
+                "intro": "Kadal lidah biru (Tiliqua spp.) adalah kadal terestrial diurnal asal Australia dan Indonesia yang terkenal dengan lidah birunya yang cerah saat terkejut serta tubuhnya yang kekar dengan kaki pendek. Sangat populer di kalangan pemelihara reptil karena sifatnya yang tenang dan cerdas, spesies ini dianggap sebagai kadal ukuran sedang/besar terbaik untuk pemula. Namun, karena sifat omnivora di alam liar, kegagalan mengatur keseimbangan rasio protein dan sayuran dapat memicu obesitas atau penyakit tulang metabolik (MBD). Selain itu, menyediakan gradien suhu yang jelas antara area berjemur panas dan area dingin serta substrat untuk menggali sangat penting bagi kesehatannya. Hari ini di PetSelf, kami mengulas perilaku bertahan, diet omnivora, dan rutin 3 langkah harian.",
+                "whyTitle": "Insting Kadal Lidah Biru: Menjulurkan Lidah Biru dan Mendesis",
+                "whyDesc": "Saat terancam, kadal lidah biru membuka mulutnya lebar-lebar untuk memperlihatkan lidah birunya sebagai peringatan visual. Bersamaan dengan itu, mereka memipihkan tubuh agar terlihat lebih besar dan mengeluarkan suara desisan keras.",
+                "body_signals": [
+                    {
+                        "name": "Menjulurkan Lidah Biru & Membuka Mulut",
+                        "meaning": "Sikap bertahan kuat untuk mengejutkan predator agar mengira kadal ini beracun atau berbahaya.",
+                        "response": "Hentikan penanganan segera, tarik tangan Anda, dan biarkan kadal tenang kembali."
+                    },
+                    {
+                        "name": "Memipihkan Tubuh & Mendesis (Hissing)",
+                        "meaning": "Taktik intimidasi untuk memperluas tampilan tubuh dan memperingatkan agar menjaga jarak.",
+                        "response": "Hindari menggapai langsung dari atas kepala; mendekatlah secara perlahan dari bawah tingkat matanya."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Aktivasi Lampu UVB/Basking & Pemeriksaan Gradien Suhu",
+                        "text": "Nyalakan lampu dan periksa dengan termometer bahwa area berjemur panas (35–38 °C) dan area dingin (22–26 °C) sudah diatur dengan benar."
+                    },
+                    {
+                        "name": "Siang: Kelembapan Substrat Penggali & Air Minum Bersih",
+                        "text": "Jaga kedalaman substrat (cacahan kulit kayu atau cocopeat) agar kadal bisa menggali, serta sediakan air minum bersih."
+                    },
+                    {
+                        "name": "Malam: Pemberian Makanan Omnivora Sesuai Usia & Pembersihan Kandang",
+                        "text": "Berikan campuran sayuran cincang, protein tanpa lemak, dan kalsium (Dewasa: 40-50% protein, 50% sayuran, <10% buah) lalu bersihkan kotoran."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah memberi makanan anjing atau kucing pada kadal lidah biru?",
+                        "answer": "Makanan basah anjing atau kucing dewasa bebas gandum berkualitas tinggi adalah sumber protein yang baik. Namun, jangan pernah diberikan tanpa campuran karena kadar lemaknya tinggi. Selalu campur dengan sayuran hijau kaya kalsium dan suplemen."
+                    },
+                    {
+                        "question": "Apakah kadal lidah biru asal Indonesia dan Australia membutuhkan kelembapan berbeda?",
+                        "answer": "Ya, sangat berbeda. Spesies Australia menyukai lingkungan yang lebih kering (kelembapan 40–50%), sedangkan spesies Indonesia yang berasal dari hutan hujan tropis membutuhkan kelembapan tinggi (70–90%) agar ganti kulit berjalan lancar."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/blue_tongued_skink_care.webp"
+    }
+}

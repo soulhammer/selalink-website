@@ -1,0 +1,459 @@
+{
+    "white-bellied-caique-care": {
+        "pubDate": "2026-04-07",
+        "updatedDate": "2026-04-07",
+        "locales": {
+            "ko": {
+                "title": "노랑배 카이큐 앵무 풍부화 사육 환경 세팅과 토이 관리 및 훈련·교감 3단계 케어 루틴",
+                "description": "'앵무새계의 강아지' 노랑배 카이큐(White-bellied Caique) 케어 가이드. 깡충뛰기 행동 풍부화, 씹는 욕구 해소용 장난감 교체, 수면 및 훈련 3단계 루틴을 알아봅니다.",
+                "authority": "세계조류수의학회(AAV: Association of Reptilian and Avian Veterinarians) 임상 가이드라인 및 World Parrot Trust(WPT) 앵무새 보존·사육 표준",
+                "profile": {
+                    "breed": "노랑배 카이큐 앵무 (White-bellied Caique / Pionites leucogaster)",
+                    "lifespan": "25 ~ 40년",
+                    "sleep_pattern": "주행성 (밤 동안 10~12시간의 소음 없는 완전 암막 수면 필수)",
+                    "temperament": "에너지 넘침, 장난기 많음, 호기심 왕성, 깡충뛰는 습성, 사교적"
+                },
+                "intro": "노랑배 카이큐(Pionites leucogaster)는 선명한 머리·날개 깃털과 하얀 배, 그리고 토끼처럼 두 발로 깡충깡충 뛰어다니는 독특한 보행 습성으로 '앵무새계의 비글/강아지'라 불리는 남아메리카 원산의 중형 앵무새입니다. 에너지가 매우 넘치고 사람과의 스킨십 및 누워서 장난치는 플레이 위주의 교감을 즐겨 전 세계 조류 집사들에게 최고의 사랑을 받습니다. 그러나 왕성한 호기심과 강한 씹는 욕구(Chewing Drive)를 지니고 있어 충분한 행동 풍부화 장난감(Foraging/Destruction Toys)을 제공하지 않으면 가구 파손이나 지속적인 울음, 행동 장애로 이어질 수 있습니다. 또한 호르몬 과다 분비로 인한 공격성을 예방하기 위해 밤 동안 10~12시간의 암막 수면이 필수적입니다. 오늘 PetSelf에서는 노랑배 카이큐의 감정 표현 신호와 사육 환경 구축, 3단계 케어 루틴을 다룹니다.",
+                "whyTitle": "노랑배 카이큐의 행동 특성: 두 발 깡충뛰기(Hopping)와 동공 축소(Eye Pinning)",
+                "whyDesc": "카이큐는 흥분하거나 기분이 좋을 때 바닥이나 나뭇가지 위를 두 발로 톡톡 튀며 뛰어다닙니다. 그러나 순간적으로 동공이 빠르게 줄어들고(Eye Pinning) 깃털을 부풀리는 행동은 과도한 흥분이나 물기 직전의 경고 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "두 발 깡충뛰기 및 몸 뒤집기 (Hopping & Play Rolling)",
+                        "meaning": "장난기와 흥분이 최고조에 달해 함께 놀고 싶어 하는 매우 호의적이고 건강한 에너지 발산 신호입니다.",
+                        "response": "발 장난감이나 파괴형 장난감을 제공하고 플레이짐에서 자유롭게 신체 활동을 할 수 있도록 함께 놀아줍니다."
+                    },
+                    {
+                        "name": "동공 축소 및 깃털 부풀리기 (Eye Pinning & Tail Fanning)",
+                        "meaning": "과도한 흥분, 영역 경계, 혹은 감정 과부하로 인해 언제든 물 수 있는 공격 직전의 경고 상태입니다.",
+                        "response": "손을 대거나 억지로 잡으려 하지 말고 교감을 잠시 중단한 뒤 스스로 안정을 찾을 때까지 거리를 둡니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 암막 커튼 제거 및 신선한 펠렛·생식(Chop) 제공",
+                        "text": "10~12시간의 암막 수면을 마친 뒤 커튼을 열어주고, 영양 균형 펠렛과 신선한 야채/과일 찹(Chop)을 새 물과 함께 공급합니다."
+                    },
+                    {
+                        "name": "낮: 장난감 순환 로테이션 및 긍정 강화 훈련",
+                        "text": "부리 운동 욕구를 해소할 우드/종이 파괴 장난감을 교체해 주고, 클리커나 타깃봉을 활용한 긍정 강화 훈련으로 지적 욕구를 충족시킵니다."
+                    },
+                    {
+                        "name": "저녁: 잔여 먹이 정돈 및 10~12시간 암막 수면 유도",
+                        "text": "사육장 내 부패하기 쉬운 야채 잔여물을 치우고, 정해진 시간에 암막 커튼을 덮어 소음이 차단된 방에서 깊은 수면을 취하게 합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "카이큐에게 왜 씹고 파괴하는 장난감이 많이 필요한가요?",
+                        "answer": "카이큐는 지능이 높고 부리 운동 욕구가 매우 강하여 목재, 종이, 짚 등을 부수며 스트레스를 해소합니다. 파괴형 장난감이 부족하면 가구를 갉거나 자해(깃털 뜯기), 지속적인 고음 소음 유발로 이어지므로 매주 장난감을 로테이션해 주어야 합니다."
+                    },
+                    {
+                        "question": "카이큐의 입질이나 과도한 흥분 공격을 줄이려면 어떻게 해야 하나요?",
+                        "answer": "카이큐가 흥분해서 물었을 때 소리를 지르면 이를 재미있는 반응으로 오인하므로 반응하지 말고 무관심으로 일관하며 즉시 교감을 중단해야 합니다. 또한 호르몬 과다 분비로 인한 공격성을 막기 위해 매일 10~12시간의 규칙적인 완전 암막 수면을 보장해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "White-bellied Caique Environmental Enrichment, Toy Management, and 3-Step Training Routine",
+                "description": "Essential care guide for the White-bellied Caique (Pionites leucogaster). Learn about bunny-hopping enrichment, destructive chew toy rotation, sleep schedules, and positive training.",
+                "authority": "Association of Avian Veterinarians (AAV) Clinical Guidelines and World Parrot Trust (WPT) Captive Care Standards",
+                "profile": {
+                    "breed": "White-bellied Caique (Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 Years",
+                    "sleep_pattern": "Diurnal (Requires 10–12 Hours of Uninterrupted Dark Sleep Nightly)",
+                    "temperament": "High-energy, Playful, Curious, Hopping Instinct, Social"
+                },
+                "intro": "The White-bellied Caique (Pionites leucogaster) is a vibrant medium-sized South American parrot famous for its striking plumage, white chest, and unique habit of hopping on two feet like a bunny—earning it the title 'The Beagle of the Parrot World.' Highly energetic and affection-seeking, caiques love interactive wrestling play and acrobatics, making them top favorites among parrot enthusiasts worldwide. However, their intense curiosity and powerful chewing drive demand a continuous supply of foraging and destruction toys; without mental stimulation, they can develop destructive behaviors, excessive screaming, or feather plucking. Furthermore, maintaining a strict 10–12 hour dark sleep routine is critical to prevent hormonal aggression. Today on PetSelf, we outline caique behavior signals, enrichment setups, and a 3-step daily care routine.",
+                "whyTitle": "White-bellied Caique Instincts: Bunny-Hopping and Eye Pinning Signals",
+                "whyDesc": "Caiques hop rhythmically on two feet across floors and branches when excited or happy. However, rapid eye pinning (pupil constriction) accompanied by flared feathers indicates extreme excitement or a warning before an impending bite.",
+                "body_signals": [
+                    {
+                        "name": "Two-Foot Hopping & Play Rolling",
+                        "meaning": "A joyful expression of peak energy and eagerness to play; a completely healthy and friendly social signal.",
+                        "response": "Provide foot toys or shreddable materials and engage in active playgym sessions to channel their energy."
+                    },
+                    {
+                        "name": "Eye Pinning & Tail Fanning",
+                        "meaning": "Indicates sensory overload, territorial aggression, or extreme overexcitement—a warning that a bite may occur.",
+                        "response": "Do not attempt to touch or handle them; pause play immediately and step back until the bird calms down."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Uncovering Cage & Fresh Chop/Pellet Service",
+                        "text": "Remove night covers after 10–12 hours of sleep, providing fresh water alongside nutritionally balanced pellets and fresh vegetable/fruit chop."
+                    },
+                    {
+                        "name": "Afternoon: Toy Rotation & Positive Reinforcement Training",
+                        "text": "Rotate wood/paper destruction toys to satisfy chew instincts, and conduct clicker or target training to fulfill intellectual needs."
+                    },
+                    {
+                        "name": "Evening: Perishable Food Removal & 10–12 Hour Dark Sleep Setup",
+                        "text": "Clean leftover fresh chop to prevent spoilage, and cover the cage in a quiet, dark room to ensure proper rest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do caiques require so many chewable and destruction toys?",
+                        "answer": "Caiques possess an extraordinarily high play drive and beak workout impulse. They relieve stress by destroying wood, cardboard, and paper. Without destruction toys, they may turn to chewing furniture or develop feather plucking and screaming habits."
+                    },
+                    {
+                        "question": "How can I reduce caique biting and overexcited aggression?",
+                        "answer": "If a caique bites during play, never yell or react dramatically, as they perceive loud reactions as positive drama rewards. Instantly freeze and withdraw attention. Additionally, guarantee 10–12 hours of dark, uninterrupted sleep nightly to keep hormone levels stable."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "シロハラインコの環境エンリッチメントと破壊おもちゃ管理・訓練3ステップ日常ケア",
+                "description": "「インコ界の子犬」シロハラインコ（White-bellied Caique）の飼育ガイド。ジャンプ行動のエンリッチメント、かじる欲求を満たすおもちゃローテーション、睡眠・訓練の3ステップを解説。",
+                "authority": "世界鳥類獣医学会（AAV）臨床ガイドラインおよび World Parrot Trust（WPT）飼育基準",
+                "profile": {
+                    "breed": "シロハラインコ (White-bellied Caique / Pionites leucogaster)",
+                    "lifespan": "25 〜 40年",
+                    "sleep_pattern": "昼行性 (夜間10〜12時間の完全暗幕・静音睡眠が必須)",
+                    "temperament": "超ハイテンション、陽気、好奇心旺盛、跳ねる習性、社交的"
+                },
+                "intro": "シロハラインコ（Pionites leucogaster）は、鮮やかな羽色と白いお腹、そしてウサギのように両足でピョンピョン跳ねる独特の歩行形態から「インコ界のこいぬ/ビーグル」と称される南米原産の中型インコです。非常にエネルギーに満ち溢れ、仰向けになって遊ぶなど人間とのスキンシップを好むため、世界中の鳥類愛好家から絶大な人気を誇ります。しかし、強い好奇心とかじる欲求（Chewing Drive）を持つため、十分なフォージング（採餌）おもちゃや破壊系おもちゃを与えないと、家具の損壊や呼び鳴き、ストレス行動に繋がることがあります。また、ホルモン過剰による攻撃性を防ぐため、夜間10〜12時間の暗幕睡眠が不可欠です。今回はPetSelfが、シロハラインコの感情サインと環境構築、3ステップ日常ケアを解説します。",
+                "whyTitle": "シロハラインコの行動特徴：両足ジャンプ（Hopping）と瞳孔縮小（Eye Pinning）",
+                "whyDesc": "シロハラインコは興奮時や嬉しい時に床や枝の上を両足でリズム良く跳ね回ります。しかし、瞳孔が急激に収縮し（Eye Pinning）羽を膨らませる動作は、過度な興奮や噛みつく直前の警戒サインです。",
+                "body_signals": [
+                    {
+                        "name": "両足ジャンプ・転がり遊び (Hopping & Play Rolling)",
+                        "meaning": "楽しさとエネルギーが最高潮に達し、一緒に遊びたいという極めて好意的なコミュニケーションサインです。",
+                        "response": "足用おもちゃや破壊用おもちゃを与え、プレイジムで全身運動ができるよう一緒に遊んであげます。"
+                    },
+                    {
+                        "name": "瞳孔の収縮と羽の膨らみ (Eye Pinning & Tail Fanning)",
+                        "meaning": "興奮過多や縄張り意識、感情のオーバーロードにより噛みつく危険がある警告状態です。",
+                        "response": "無理に触ろうとせず遊びを中断し、鳥が自ら落ち着くまで距離を置いて見守ります。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：ケージのカバー外しと fresh ペレット・シード/野菜給餌",
+                        "text": "10〜12時間の暗幕睡眠後にケージカバーを外し、栄養バランスの良いペレットと新鮮な野菜・果物の刻み（Chop）を用意します。"
+                    },
+                    {
+                        "name": "昼：おもちゃのローテーションとポジティブトレーニング",
+                        "text": "木製・紙製の破壊おもちゃを定期的に交換してかじる欲求を満たし、クリッカーを用いたトレーニングで知的な刺激を与えます。"
+                    },
+                    {
+                        "name": "夜：残った生餌の回収と10〜12時間の完全暗幕睡眠",
+                        "text": "傷みやすい生野菜の残りを片付け、決まった時間に遮光カバーをかけて静かな部屋で深い sleep 環境を整えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "なぜシロハラインコには破壊できるおもちゃがたくさん必要なのですか？",
+                        "answer": "シロハラインコは知能が高く、クチバシを動かす本能が強いため、木材や紙、わらなどを破壊することでストレスを解消します。おもちゃが不足すると家具を噛んだり毛引き症（自傷行為）、大声での呼び鳴きに繋がるため、毎週おもちゃをローテーションする必要があります。"
+                    },
+                    {
+                        "question": "噛み癖や過度な興奮による攻撃を抑えるにはどうすればよいですか？",
+                        "answer": "噛まれた際に大声を出すと「遊んでくれた」と誤解するため、反応せず無視してすぐに交流を中断してください。また、発情やホルモンバランスの乱れによる攻撃性を防ぐため、毎日10〜12時間の規則的な完全暗幕睡眠を徹底することが効果的です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "金头/白腹凯克鹦鹉丰容环境搭建、破坏性玩具管理与训练3阶段日常护理流程",
+                "description": "“鹦鹉界比格犬”白腹凯克鹦鹉（White-bellied Caique）护理指南。了解双脚蹦跳行为丰容、啃咬玩具循环替换、睡眠与训练3阶段日常护理。",
+                "authority": "世界鸟类兽医学会 (AAV) 临床指南及 World Parrot Trust (WPT) 鹦鹉保育标准",
+                "profile": {
+                    "breed": "白腹凯克鹦鹉 (White-bellied Caique / Pionites leucogaster)",
+                    "lifespan": "25 ~ 40年",
+                    "sleep_pattern": "昼行性 (夜间必须保证 10~12 小时无噪音全遮光睡眠)",
+                    "temperament": "精力充沛、爱玩闹、好奇心强、双脚蹦跳习性、亲人社交"
+                },
+                "intro": "白腹凯克鹦鹉（Pionites leucogaster）原产于南美洲，因其鲜艳的头部羽毛、洁白的腹部以及像小兔子一样双脚蹦蹦跳跳的独特行走方式，被称为“鹦鹉界的比格犬/小狗”。它们精力极度充沛，酷爱翻滚打闹和人类互动，是全球鸟类爱好者极其喜爱的中型鹦鹉。然而，它们拥有强烈的好奇心和啃咬欲望（Chewing Drive），如果无法提供足够的觅食与破坏性玩具（Foraging/Destruction Toys），极易导致啃咬家具、持续发声鸣叫或心理行为障碍。此外，为防止激素过量分泌引发的攻击性，夜间保证 10~12 小时的遮光睡眠至关重要。今天 PetSelf 将为您解析凯克鹦鹉的情绪表达信号、丰容环境搭建与3阶段日常护理流程。",
+                "whyTitle": "白腹凯克鹦鹉的行为习性：双脚蹦跳（Hopping）与瞳孔收缩（Eye Pinning）",
+                "whyDesc": "凯克在兴奋或开心时，会用双脚在地面或树枝上像弹簧一样蹦跳。然而，当其瞳孔瞬间快速收缩（Eye Pinning）并张开羽毛时，则是情绪高度亢奋或即将咬人的警告信号。",
+                "body_signals": [
+                    {
+                        "name": "双脚蹦跳与翻滚玩耍 (Hopping & Play Rolling)",
+                        "meaning": "精力充沛且心情极佳的表达，代表其强烈希望与主人互动打闹的友好社交信号。",
+                        "response": "提供脚用玩具或纸质破坏玩具，并在游戏架上陪同其开展肢体活动。"
+                    },
+                    {
+                        "name": "瞳孔收缩与尾羽展开 (Eye Pinning & Tail Fanning)",
+                        "meaning": "代表情绪过度亢奋、领地防备或心理载荷过重，随时可能发起咬人攻击。",
+                        "response": "切勿强行伸手抓握，立即暂停互动，保持距离让其自行冷静。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：揭开遮光布与新鲜生食(Chop)/滋养丸喂食",
+                        "text": "完成 10~12 小时睡眠后揭开笼布，更换干净饮水，并提供营养均衡的滋养丸与切碎的新鲜蔬果(Chop)。"
+                    },
+                    {
+                        "name": "中午：破坏性玩具轮换与正向强化训练",
+                        "text": "更换木质或纸质破坏玩具以满足其啃咬本能，利用响片或目标棒开展正向强化训练，满足其智力需求。"
+                    },
+                    {
+                        "name": "晚上：清理易腐残渣与 10~12 小时全遮光睡眠搭建",
+                        "text": "清理笼舍内易变质的新鲜蔬果残渣，并在固定时间盖上遮光布，确保其在安静黑暗的房间中深度睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么凯克鹦鹉需要大量可啃咬和破坏的玩具？",
+                        "answer": "凯克鹦鹉智力极高且喙部啃咬欲望强，通过破坏木材、纸张和草编玩具来释放压力。如果缺乏破坏性玩具，它们会转而啃咬家具、拔毛（自残）或发出高分频尖叫，因此每周轮换玩具十分必要。"
+                    },
+                    {
+                        "question": "如何减少凯克鹦鹉咬人或因过度兴奋引发的攻击行为？",
+                        "answer": "当凯克鹦鹉在玩耍中咬人时，尖叫会被其误认为戏剧性的奖励，因此应保持冷静无反应并立即停止互动。此外，保证每天 10~12 小时严格的夜间全遮光睡眠，能有效平稳其激素水平并减少攻击性。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Enriquecimiento ambiental para el caique de vientre blanco, gestión de juguetes y rutina de 3 pasos",
+                "description": "Guía esencial de cuidado para el caique de vientre blanco (Pionites leucogaster). Enriquecimiento para saltos, rotación de juguetes para roer, sueño y entrenamiento positivo.",
+                "authority": "Pautas Clínicas de la Association of Avian Veterinarians (AAV) y Estándares de World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Caique de Vientre Blanco (Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 años",
+                    "sleep_pattern": "Diurno (Requiere 10–12 horas de sueño nocturno en oscuridad total)",
+                    "temperament": "Energético, juguetón, curioso, instinto de saltar, muy social"
+                },
+                "intro": "El caique de vientre blanco (Pionites leucogaster) es un loro mediano sudamericano famoso por su vistoso plumaje, su pecho blanco y su costumbre de saltar en dos patas como un conejo, ganándose el apodo de 'El beagle de los loros'. Extremadamente activo y cariñoso, le encanta luchar jugando y hacer acrobacias. Sin embargo, su curiosidad e instinto destructor exigen un suministro constante de juguetes para buscar comida y destruir; sin estimulación mental, pueden desarrollar arrancamiento de plumas o chillidos excesivos. Además, mantener una rutina estricta de 10 a 12 horas de sueño a oscuras es clave para prevenir agresiones hormonales. Hoy en PetSelf cubrimos sus señales, enriquecimiento y rutina diaria.",
+                "whyTitle": "Instintos del caique de vientre blanco: Saltos en dos patas y fijación ocular (Eye Pinning)",
+                "whyDesc": "Los caiques saltan rítmicamente sobre dos patas cuando están felices. Sin embargo, la contracción rápida de las pupilas (Eye Pinning) junto con plumas ahuecadas señala una sobreexcitación que puede preceder a un picotazo.",
+                "body_signals": [
+                    {
+                        "name": "Saltos en dos patas y rodar jugando",
+                        "meaning": "Expresión de energía alegre y deseos de jugar; una señal social totalmente saludable y amigable.",
+                        "response": "Proporcione juguetes para las patas o materiales destructibles y juegue con él en su percha o gimnasio."
+                    },
+                    {
+                        "name": "Contracción ocular y plumas ahuecadas (Eye Pinning)",
+                        "meaning": "Indica sobreestimulación, territorialidad o alerta emocional extrema con riesgo de picotazo.",
+                        "response": "No intente tocarlo; detenga el juego de inmediato y mantenga distancia hasta que se tranquilice."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Retirada de manta y servicio de alimento fresco (Chop) y pienso",
+                        "text": "Destape la jaula tras 10–12 horas de sueño, ofreciendo agua limpia, pienso extrusionado equilibrado y mezcla de verduras picadas."
+                    },
+                    {
+                        "name": "Tarde: Rotación de juguetes destructibles y entrenamiento positivo",
+                        "text": "Rotar juguetes de madera o papel para satisfacer su necesidad de roer, realizando sesiones de entrenamiento con clicker."
+                    },
+                    {
+                        "name": "Noche: Limpieza de restos y preparación para 10–12 horas de oscuridad",
+                        "text": "Retire restos de comida fresca para evitar gérmenes y cubra la jaula en una habitación silenciosa y oscura para su descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los caiques necesitan tantos juguetes para roer y destruir?",
+                        "answer": "Los caiques tienen una altísima necesidad de ejercitar el pico y mantenerse ocupados. Destruir madera, cartón y papel alivia su estrés. Sin juguetes destructibles, pueden canalizar esa frustración picando muebles o arrancándose las plumas."
+                    },
+                    {
+                        "question": "¿Cómo puedo reducir los picotazos y la agresividad por sobreexcitación?",
+                        "answer": "Si un caique pica mientras juega, nunca grite ni reaccione con dramatismo, ya que interpretan los gritos como una recompensa. Quédese inmóvil y retire la atención. Además, asegure de 10 a 12 horas de sueño nocturno completamente a oscuras."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Enrichissement environnemental pour le caïque à ventre blanc, gestion des jouets et routine en 3 étapes",
+                "description": "Guide de soin essentiel pour le caïque à ventre blanc (Pionites leucogaster). Enrichissement pour les sauts, rotation des jouets à détruire, sommeil et entraînement.",
+                "authority": "Directives Cliniques de l'Association of Avian Veterinarians (AAV) et Normes du World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Caïque à Ventre Blanc (Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 ans",
+                    "sleep_pattern": "Diurne (Nécessite 10 à 12 heures de sommeil nocturne dans le noir complet)",
+                    "temperament": "Énergique, joueur, curieux, instinct de saut, très social"
+                },
+                "intro": "Le caïque à ventre blanc (Pionites leucogaster) est un perroquet moyen d'Amérique du Sud célèbre pour son plumage vif, son torse blanc et sa manie de sauter à deux pattes comme un lapin, lui valant le titre de 'Beagle des perroquets'. Très dynamique et câlin, il adore le jeu physique et les acrobaties. Toutefois, sa curiosité et son besoin de ronger exigent un apport constant en jouets de fourrage et de destruction ; sans stimulation mentale, il peut développer du piquage ou des cris intempestifs. De plus, préserver 10 à 12 heures de sommeil dans l'obscurité est capital pour prévenir l'agressivité hormonale. Aujourd'hui sur PetSelf, découvrez ses signaux, son enrichissement et sa routine.",
+                "whyTitle": "Instincts du caïque à ventre blanc : Sauts à deux pattes et contraction des pupilles (Eye Pinning)",
+                "whyDesc": "Le caïque saute en rythme sur deux pattes lorsqu'il est joyeux. En revanche, une contraction rapide de la pupille (Eye Pinning) associée à des plumes ébouriffées indique une excitation excessive pouvant précéder un coup de bec.",
+                "body_signals": [
+                    {
+                        "name": "Sauts à deux pattes et roulades de jeu",
+                        "meaning": "Expression de joie et envie de jouer ; un signal social totalement sain et amical.",
+                        "response": "Fournissez des jouets de pattes ou des matériaux à déchiqueter et jouez avec lui sur son aire de jeu."
+                    },
+                    {
+                        "name": "Contraction des pupilles et plumes ébouriffées (Eye Pinning)",
+                        "meaning": "Signale une surstimulation, de la territorialité ou une surcharge émotionnelle avec risque de morsure.",
+                        "response": "Ne tentez pas de le toucher ; stoppez le jeu immédiatement et gardez vos distances jusqu'au calme."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Découvrage de la cage et service d'aliments frais (Chop) et extrudés",
+                        "text": "Découvrez la cage après 10 à 12 heures de sommeil, en lui offrant de l'eau fraîche, des extrudés équilibrés et des légumes hachés."
+                    },
+                    {
+                        "name": "Après-midi : Rotation des jouets à détruire et entraînement au clicker",
+                        "text": "Renouvelez les jouets en bois ou en papier pour assouvir son besoin de ronger et réalisez des séances de stimulation intellectuelle."
+                    },
+                    {
+                        "name": "Soir : Retrait de la nourriture fraîche et nuit de 10 à 12 heures dans le noir",
+                        "text": "Retirez les restes de légumes pour éviter les bactéries et recouvrez la cage dans une pièce calme et sombre pour la nuit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi le caïque a-t-il besoin d'autant de jouets à détruire ?",
+                        "answer": "Le caïque a un besoin fondamental d'exercer son bec et de s'occuper. Détruire du bois, du carton et du papier évacue son stress. Sans jouets destructibles, il risque de s'attaquer aux meubles ou de développer du piquage (auto-mutilation)."
+                    },
+                    {
+                        "question": "Comment réduire les coups de bec et l'agressivité liée à la surexcitation ?",
+                        "answer": "Si le caïque mord pendant le jeu, ne criez pas et ne réagissez pas vivement, car il interprète le bruit comme une récompense. Stopper le jeu et retirez votre attention. Veillez également à lui garantir 10 à 12 heures de sommeil nocturne au calme."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Weißbauchpapagei Enrichment-Haltung, Kauspielzeug-Management und 3-Schritte-Routine",
+                "description": "Leitfaden für den Weißbauchpapagei (Pionites leucogaster). Erfahren Sie alles über Hüpfenrichment, Kauspielzeug-Rotation, Schlafbedarf und positives Training.",
+                "authority": "Klinische Richtlinien der Association of Avian Veterinarians (AAV) und World Parrot Trust (WPT) Standards",
+                "profile": {
+                    "breed": "Weißbauchpapagei / Grünzügelpapagei (Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 Jahre",
+                    "sleep_pattern": "Tagaktiv (Benötigt nachts 10–12 Stunden ungestörte Dunkelheit)",
+                    "temperament": "Hochenergetisch, verspielt, neugierig, hüpfend, sehr sozial"
+                },
+                "intro": "Der Weißbauchpapagei (Pionites leucogaster) ist ein südamerikanischer Mittelpapagei, der für sein buntes Gefieder, seine weiße Brust und die Angewohnheit, wie ein Hase auf zwei Beinen zu hüpfen, als 'Beagle der Papageienwelt' bekannt ist. Sie sind extrem energiegeladen und lieben körperliches Spielen und Akrobatik. Ihr Nagebedürfnis verlangt jedoch nach ständigem Nachschub an Schredder- und Beschäftigungsspielzeug; ohne mentale Auslastung neigen sie zu Verhaltensstörungen oder Schreien. Zudem ist eine strikte Dunkelschlafphase von 10–12 Stunden essenziell, um hormonell bedingte Aggressionen zu verhindern. Heute erklärt PetSelf Verhalten, Enrichment und Pflege.",
+                "whyTitle": "Instinkte des Weißbauchpapageis: Beidbeiniges Hüpfen und Pupillenverengung (Eye Pinning)",
+                "whyDesc": "Weißbauchpapageien hüpfen vor Freude rhythmisch auf zwei Beinen. Eine schnelle Verengung der Pupillen (Eye Pinning) zusammen mit aufgeplustertem Gefieder deutet jedoch auf Überregung oder eine Warnung vor einem bevorstehenden Biss hin.",
+                "body_signals": [
+                    {
+                        "name": "Beidbeiniges Hüpfen & Auf-dem-Rücken-Rollen",
+                        "meaning": "Ausdruck von hoher Energie und Spielfreude; ein rundum gesundes und freundliches Sozialverhalten.",
+                        "response": "Bieten Sie Fußspielzeug oder Schreddermaterial an und spielen Sie gemeinsam auf dem Freisitz."
+                    },
+                    {
+                        "name": "Pupillenverengung & Schwanzfächern (Eye Pinning)",
+                        "meaning": "Zeigt eine Überstimulation, Revierverteidigung oder Überreizung – Warnung vor einem Biss.",
+                        "response": "Fassen Sie den Vogel nicht an; unterbrechen Sie das Spiel sofort und halten Sie Abstand, bis er sich beruhigt."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Aufdecken des Käfigs & Frische Chop-/Pellet-Fütterung",
+                        "text": "Decken Sie den Käfig nach 10–12 Stunden Schlaf auf, bieten Sie frisches Wasser, ausgewogene Pellets und Gemüsemischung (Chop)."
+                    },
+                    {
+                        "name": "Nachmittag: Spielzeug-Rotation & Positives Verstärkungstraining",
+                        "text": "Wechseln Sie Holz- und Papierspielzeug aus, um den Nagetrieb zu stillen, und führen Sie Klickertraining durch."
+                    },
+                    {
+                        "name": "Abend: Entfernen von Frischfutter & 10–12 Stunden Dunkelschlaf",
+                        "text": "Entfernen Sie unverbrauchte Gemüsereste und decken Sie den Käfig in einem ruhigen, dunklen Raum für die Nachtruhe ab."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum brauchen Weißbauchpapageien so viel Kauspielzeug zum Zerstören?",
+                        "answer": "Weißbauchpapageien haben einen extrem hohen Beschäftigungs- und Schnabeltrieb. Das Zerstören von Holz, Pappe und Papier baut Stress ab. Fehlt Zerstörungsspielzeug, knabbern sie Möbel an oder entwickeln Federrupfen."
+                    },
+                    {
+                        "question": "Wie kann ich Beißen und übermäßige Aggression reduzieren?",
+                        "answer": "Schreien Sie niemals, wenn der Papagei beim Spielen zubeißt – er versteht Lautstärke als Belohnung. Frieren Sie ein und entziehen Sie Aufmerksamkeit. Sorgen Sie zudem täglich für 10–12 Stunden ungestörten Dunkelschlaf."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Enriquecimento ambiental para caique de barriga branca, gestão de brinquedos e rotina de 3 passos",
+                "description": "Guia de cuidados essenciais para o caique de barriga branca (Pionites leucogaster). Enriquecimento para saltos, rotação de brinquedos para roer, sono e treinamento.",
+                "authority": "Diretrizes Clínicas da Association of Avian Veterinarians (AAV) e Padrões do World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Caique de Barriga Branca (Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 anos",
+                    "sleep_pattern": "Diurno (Exige 10–12 horas de sono noturno no escuro total)",
+                    "temperament": "Muito energético, brincalhão, curioso, instinto de saltar, social"
+                },
+                "intro": "O caique de barriga branca (Pionites leucogaster) é um papagaio médio sul-americano famoso pela sua plumagem colorida, peito branco e hábito de saltar em duas patas como um coelho, ganhando a alcunha de 'O beagle dos papagaios'. Extremamente ativo e afetuoso, adora brincadeiras físicas e acrobacias. Contudo, a sua curiosidade e impulso para roer exigem um fornecimento contínuo de brinquedos para destruir; sem estimulação mental, pode desenvolver arrancamento de penas ou gritos excessivos. Além disso, garantir de 10 a 12 horas de sono no escuro é crucial para evitar agressividade hormonal. Hoje no PetSelf cobrimos os seus sinais, enriquecimento e rotina diária.",
+                "whyTitle": "Instintos do caique de barriga branca: Saltos em duas patas e contração da pupila (Eye Pinning)",
+                "whyDesc": "Os caiques saltam ritmicamente em duas patas quando estão felizes. No entanto, a contração rápida das pupilas (Eye Pinning) acompanhada de penas eretas indica uma superexcitação que pode preceder uma bicada.",
+                "body_signals": [
+                    {
+                        "name": "Saltos em duas patas e rolar a brincar",
+                        "meaning": "Expressão de alegria e vontade de brincar; um sinal social totalmente saudável e amigável.",
+                        "response": "Forneça brinquedos para as patas ou materiais destruíveis e brinque com ele no seu playground."
+                    },
+                    {
+                        "name": "Contração das pupilas e penas levantadas (Eye Pinning)",
+                        "meaning": "Indica sobreestimulação, territorialidade ou sobrecarga emocional com risco de bicada.",
+                        "response": "Não tente tocar-lhe; pare a brincadeira imediatamente e mantenha distância até ele se acalmar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Remoção da capa da gaiola e servimento de alimento fresco e ração",
+                        "text": "Descubra a gaiola após 10–12 horas de sono, oferecendo água limpa, ração extrusada e mistura de vegetais picados (Chop)."
+                    },
+                    {
+                        "name": "Tarde: Rotação de brinquedos destruíveis e treino de reforço positivo",
+                        "text": "Roteie brinquedos de madeira ou papel para satisfazer a necessidade de roer e faça sessões de treino com clicker."
+                    },
+                    {
+                        "name": "Noite: Remoção de restos e preparação para 10–12 horas de escuridão",
+                        "text": "Retire restos de comida fresca para evitar bactérias e cubra a gaiola num quarto silencioso e escuro para o descanso."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os caiques precisam de tantos brinquedos para roer e destruir?",
+                        "answer": "Os caiques têm uma necessidade enorme de exercitar o bico e manter-se ocupados. Destruir madeira, papelão e papel alivia o estresse. Sem brinquedos destruíveis, podem roer móveis ou desenvolver o hábito de arrancar penas."
+                    },
+                    {
+                        "question": "Como posso reduzir as bicadas e a agressividade por excesso de excitação?",
+                        "answer": "Se o caique bicar enquanto brinca, nunca grite nem reaja dramaticamente, pois eles interpretam o barulho como recompensa. Fique imóvel e retire a atenção. Garanta também de 10 a 12 horas de sono noturno completamente no escuro."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Pengayaan Lingkungan Burung Caique Perut Putih, Rotasi Mainan, dan Rutin Latihan 3 Langkah",
+                "description": "Panduan perawatan esensial burung Caique Perut Putih (Pionites leucogaster). Pengayaan perilaku melompat, rotasi mainan kunyah kayu, jadwal tidur, dan pelatihan positif.",
+                "authority": "Pedoman Klinis Association of Avian Veterinarians (AAV) dan Standar Pemeliharaan World Parrot Trust (WPT)",
+                "profile": {
+                    "breed": "Burung Caique Perut Putih (White-bellied Caique / Pionites leucogaster)",
+                    "lifespan": "25 ~ 40 Tahun",
+                    "sleep_pattern": "Diurnal (Membutuhkan 10–12 Jam Tidur Gelap Tanpa Gangguan di Malam Hari)",
+                    "temperament": "Sangat Energetik, Lincah, Penasaran, Insting Melompat, Sangat Sosial"
+                },
+                "intro": "Burung Caique Perut Putih (Pionites leucogaster) adalah burung parrot ukuran sedang asal Amerika Selatan yang terkenal dengan bulunya yang cerah, dada putih, serta kebiasaannya melompat dengan dua kaki seperti kelinci—sehingga dijuluki 'Beagle-nya dunia burung parrot.' Sangat aktif dan penuh kasih sayang, caique menyukai permainan fisik dan akrobatik. Namun, rasa penasaran dan dorongan mengunyah yang kuat membutuhkan pasokan mainan penghancur secara terus-menerus; tanpa stimulasi mental, mereka bisa merusak furnitur, berteriak berlebihan, atau mencabut bulu. Selain itu, menjaga jadwal tidur gelap 10–12 jam sangat penting untuk mencegah agresi hormonal. Hari ini di PetSelf, kami membagikan panduan sinyal perilaku, pengayaan kandang, dan rutin harian 3 langkah.",
+                "whyTitle": "Insting Caique Perut Putih: Melompat Dua Kaki dan Pupil Menyempit (Eye Pinning)",
+                "whyDesc": "Caique melompat dengan dua kaki di lantai saat merasa senang. Namun, penyempitan pupil mata yang cepat (Eye Pinning) yang disertai bulu mengembang menandakan gairah berlebih atau peringatan sebelum menggigit.",
+                "body_signals": [
+                    {
+                        "name": "Melompat Dua Kaki & Berguling Bermain",
+                        "meaning": "Ekspresi kegembiraan dan keinginan untuk bermain; sinyal sosial yang sangat sehat dan bersahabat.",
+                        "response": "Sediakan mainan kaki atau bahan yang bisa dihancurkan dan ajak bermain di arena bermain (playgym)."
+                    },
+                    {
+                        "name": "Pupil Menyempit & Bulu Mengembang (Eye Pinning)",
+                        "meaning": "Menandakan stimulasi berlebih, teritorial, atau emosi meluap yang berisiko menggigit.",
+                        "response": "Jangan mencoba memegang; segera hentikan permainan dan jaga jarak sampai burung tenang kembali."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Membuka Penutup Kandang & Pemberian Pakan Pelet/Chop Segar",
+                        "text": "Buka penutup kandang setelah 10–12 jam tidur, berikan air bersih beserta pelet bernutrisi dan cacahan sayur/buah segar (chop)."
+                    },
+                    {
+                        "name": "Siang: Rotasi Mainan Penghancur & Pelatihan Penguatan Positif",
+                        "text": "Ganti mainan kayu/kertas untuk memuaskan insting mengunyah, serta lakukan latihan clicker untuk stimulasi kecerdasan."
+                    },
+                    {
+                        "name": "Malam: Pembersihan Sisa Makanan Segar & Pengondisian Tidur Gelap 10–12 Jam",
+                        "text": "Bersihkan sisa makanan segar agar tidak membusuk, lalu tutup kandang di ruangan yang tenang dan gelap untuk istirahat malam."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa caique membutuhkan sangat banyak mainan kunyah untuk dihancurkan?",
+                        "answer": "Caique memiliki kecerdasan tinggi dan dorongan merusak yang kuat untuk melatih paruh mereka. Menghancurkan kayu dan kertas membantu meredakan stres. Tanpa mainan penghancur, mereka akan merusak furnitur atau merusak bulunya sendiri."
+                    },
+                    {
+                        "question": "Bagaimana cara mengurangi gigitan dan agresi akibat terlalu bersemangat?",
+                        "answer": "Jika caique menggigit saat bermain, jangan berteriak atau bereaksi berlebihan karena mereka menganggap reaksi keras sebagai hadiah drama. Segera diam dan hentikan perhatian. Selain itu, pastikan 10–12 jam tidur gelap gulita setiap malam."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/white_bellied_caique_care.webp"
+    }
+}

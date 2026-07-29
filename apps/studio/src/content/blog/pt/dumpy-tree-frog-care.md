@@ -1,0 +1,186 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Guia de água desclorificada para rã-arborícola-de-white, manuseio seguro e rotina de umidade de 3 passos"
+description: "Guia essencial para a rã-arborícola-de-white (Litoria caerulea). Qualidade da água para pele permeável, manuseio com luvas de nitrilo e controle de umidade."
+pubDate: "2026-02-24"
+updatedDate: "2026-02-24"
+category: "FreshSelf"
+heroImage: "/images/blog/dumpy_tree_frog_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Amphibian Ark"
+steps:
+  - name: "Reações cutâneas da rã-arborícola-de-white: Mudança de cor e muda de pele (Molt)"
+    text: "A rã-arborícola-de-white altera a sua cor do verde brilhante ao castanho escuro com base na umidade, temperatura e estresse. Ela também muda de pele periodicamente e ingere a pele antiga para manter a saúde cutânea."
+  - name: "Linguagem corporal e sinais de comportamento do Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)"
+    text: "* Mudança para castanho escuro: Indica umidade excessiva, temperatura muito baixa ou irritação na pele por estresse ou bactérias. (Verifique a temperatura do terrário (24–28 °C), melhore a ventilação e limpe a água e o substrato.)
+
+* Movimentos corporais e bocejos (Muda de pele): Processo fisiológico normal no qual a rã solta a pele antiga e a engole para reciclar nutrientes. (Não puxe a pele manualmente; borrifa água para manter a umidade adequada para uma muda natural.)"
+  - name: "Rotina diária de 3 passos para cuidados com Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)"
+    text: "* STEP 1. Manhã: Troca de água por água desclorificada e limpeza do recipiente: Substitua a água diariamente utilizando água tratada com condicionador para anfíbios para eliminar o cloro.
+
+* STEP 2. Tarde: Ventilação e controle de umidade diurna (50-60%): Garante uma boa circulação de ar e mantém a umidade durante o dia entre 50 e 60% com temperatura de 24–28 °C.
+
+* STEP 3. Noite: Aumento da umidade noturna (70-80%) e alimentação: Borrife água para subir a umidade para 70-80% durante a noite e ofereça grilos com cálcio usando luvas de nitrilo."
+faqs:
+  - question: "Por que é perigoso tocar na rã-arborícola-de-white com as mãos desprotegidas?"
+    answer: "A pele dos anfíbios absorve facilmente produtos químicos, sabões, cremes e sais presentes nas mãos humanas, o que pode causar intoxicação grave. Use sempre luvas de nitrilo sem pó umedecidas com água limpa."
+  - question: "Posso usar água da torneira diretamente no recipiente de água?"
+    answer: "Não. O cloro, cloraminas e metais pesados causam queimaduras químicas graves na sua pele permeável. Use sempre um desclorificante para anfíbios ou água descansada por pelo menos 24 a 48 horas."
+---
+
+A rã-arborícola-de-white (Litoria caerulea) é um dos anfíbios mais populares do mundo devido ao seu corpo gordinho e temperamento dócil. Embora seja resistente, possui uma pele altamente permeável através da qual absorve água e oxigênio. A exposição ao cloro da água da torneira, metais pesados ou substâncias químicas das mãos (sabões, cremes, sal) pode causar queimaduras químicas graves. Além disso, a umidade excessiva constante favorece infecções bacterianas na pele. Hoje no PetSelf apresentamos os seus sinais cutâneos, cuidados de manuseio e rotina diária.
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Evidência Veterinária e Comportamental
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este conteúdo baseia-se em Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Amphibian Ark.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Reações cutâneas da rã-arborícola-de-white: Mudança de cor e muda de pele (Molt)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Reações cutâneas da rã-arborícola-de-white: Mudança de cor e muda de pele (Molt)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    A rã-arborícola-de-white altera a sua cor do verde brilhante ao castanho escuro com base na umidade, temperatura e estresse. Ela também muda de pele periodicamente e ingere a pele antiga para manter a saúde cutânea.
+  </p>
+</div>
+
+---
+
+## 2. Linguagem corporal e sinais de comportamento do Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Sinal Corporal 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Mudança para castanho escuro</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Significado
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Indica umidade excessiva, temperatura muito baixa ou irritação na pele por estresse ou bactérias.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Resposta
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Verifique a temperatura do terrário (24–28 °C), melhore a ventilação e limpe a água e o substrato.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Sinal Corporal 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Movimentos corporais e bocejos (Muda de pele)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> Significado
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Processo fisiológico normal no qual a rã solta a pele antiga e a engole para reciclar nutrientes.
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> Resposta
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        Não puxe a pele manualmente; borrifa água para manter a umidade adequada para uma muda natural.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 3. Rotina diária de 3 passos para cuidados com Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Manhã: Troca de água por água desclorificada e limpeza do recipiente</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Substitua a água diariamente utilizando água tratada com condicionador para anfíbios para eliminar o cloro.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tarde: Ventilação e controle de umidade diurna (50-60%)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Garante uma boa circulação de ar e mantém a umidade durante o dia entre 50 e 60% com temperatura de 24–28 °C.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Noite: Aumento da umidade noturna (70-80%) e alimentação</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Borrife água para subir a umidade para 70-80% durante a noite e ofereça grilos com cálcio usando luvas de nitrilo.
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Por que é perigoso tocar na rã-arborícola-de-white com as mãos desprotegidas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      A pele dos anfíbios absorve facilmente produtos químicos, sabões, cremes e sais presentes nas mãos humanas, o que pode causar intoxicação grave. Use sempre luvas de nitrilo sem pó umedecidas com água limpa.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Posso usar água da torneira diretamente no recipiente de água?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Não. O cloro, cloraminas e metais pesados causam queimaduras químicas graves na sua pele permeável. Use sempre um desclorificante para anfíbios ou água descansada por pelo menos 24 a 48 horas.
+    </p>
+  </details>
+</div>

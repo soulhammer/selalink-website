@@ -1,0 +1,186 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "AOSアオジタトカゲの雑食性フード比率とホットゾーン・クールゾーン温度管理・床材3ステップケア"
+description: "アオジタトカゲ（Blue-tongued Skink）飼育ガイド。雑食性の栄養バランス（タンパク質/野菜比率）、温度勾配（ホットゾーン/クールゾーン）、潜りやすい床材選びと3ステップルーティンを解説。"
+pubDate: "2026-03-17"
+updatedDate: "2026-03-17"
+category: "FreshSelf"
+heroImage: "/images/blog/blue_tongued_skink_care.webp"
+app: "petself"
+formatVersion: 4
+authority: "世界爬虫類・両生類獣医学会（ARAV）臨床ガイドラインおよび ReptiFiles 飼育基準"
+steps:
+  - name: "アオジタトカゲの威嚇行動とサイン：青い舌の提示と「シュー」という威嚇音"
+    text: "アオジタトカゲは威嚇を感じると、大きな口を開けて鮮やかな青い舌を突き出し、視覚的な警戒信号を送ります。同時に体を平らに膨らませ、「シュー（Hissing）」と音を立てて相手を牽制します。"
+  - name: "アオジタトカゲ (Blue-tongued Skink / Tiliqua spp.)のボディランゲージと行動サイン"
+    text: "* 青い舌を出す行動 (Blue Tongue Display): 強い恐怖を感じた際、自身に毒があるように見せかけて敵を驚かせようとする防御行動です。 (ハンドリングや掃除を直ちに中断し、手を引っ込めて落ち着くまでそっとしておきます。)
+
+* 体を平らに膨らませて威嚇音を出す (Body Flattening & Hissing): 体を大きく見せて相手を威嚇しようとする強い警戒状態を示しています。 (頭上から急に手を出さず、目線より低い位置からゆっくり接近して恐怖心を和らげます。)"
+  - name: "アオジタトカゲ (Blue-tongued Skink / Tiliqua spp.)のための3ステップホームケアルーティン"
+    text: "* STEP 1. 朝：ライト点灯とホットゾーン・クールゾーンの温度確認: UVBおよびバスキングライトを点灯し、ホットゾーン（35〜38℃）とクールゾーン（22〜26℃）の温度勾配を温度計で確認します。
+
+* STEP 2. 昼：床材の湿度・深さ調整と水入れの清掃: 潜り習性に合わせ床材（バークやココハスクなど）を十分な深さに維持し、新鮮で清潔な水を用意します。
+
+* STEP 3. 夜：年齢に合わせた雑食フード給餌とフンの清掃:  growth 段階に合わせたフード（成体：タンパク質40〜50%、野菜50%、果物10%未満）を与え、排泄物を清掃します。"
+faqs:
+  - question: "アオジタトカゲにキャットフードやドッグフードを与えてもいいですか？"
+    answer: "グレインフリーの高品質なドッグフードやキャットフードは優れたタンパク源になります。ただし、脂質が多いため単品で与えず、必ず細かく刻んだ小松菜やカルシウム剤を混ぜて栄養バランスを整えて与えてください。"
+  - question: "インドネシア産とオーストラリア産で飼育湿度を変える必要がありますか？"
+    answer: "はい、大きく異なります。オーストラリア産（キタアオジタトカゲなど）は乾燥〜半乾燥（湿度40〜50%）を好みますが、インドネシア産（ハルマヘラなど）は熱帯雨林原産のため高湿度（70〜90%）が必須となります。"
+---
+
+アオジタトカゲ（Tiliqua spp.）は、威嚇や探索時にのぞかせる鮮やかな青い舌と、短く愛らしい脚が特徴的なオーストラリア・インドネシア原産の地表性トカゲです。犬のように人によくなれ、賢い性格から、中・大型トカゲの入門種として世界中で高い人気を誇ります。しかし、野性では雑食性（Omnivorous）であるため、タンパク質と野菜の栄養バランスを適切に管理しないと、肥満やビタミン欠乏症、代謝性骨疾患（MBD）を引き起こす可能性があります。また、体温調節のためのホットゾーン（バスキングエリア）とクールゾーンの温度勾配の設定、潜り（バロー）習性を満たす床材選びが不可欠です。今回はPetSelfが、アオジタトカゲの警戒サインと雑食性の食餌、快適な環境を作る3ステップケアを解説します。
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      獣医学・行動学的根拠
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本コンテンツは、世界爬虫類・両生類獣医学会（ARAV）臨床ガイドラインおよび ReptiFiles 飼育基準に基づいています。
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. アオジタトカゲの威嚇行動とサイン：青い舌の提示と「シュー」という威嚇音
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">アオジタトカゲの威嚇行動とサイン：青い舌の提示と「シュー」という威嚇音</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    アオジタトカゲは威嚇を感じると、大きな口を開けて鮮やかな青い舌を突き出し、視覚的な警戒信号を送ります。同時に体を平らに膨らませ、「シュー（Hissing）」と音を立てて相手を牽制します。
+  </p>
+</div>
+
+---
+
+## 2. アオジタトカゲ (Blue-tongued Skink / Tiliqua spp.)のボディランゲージと行動サイン
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ボディシグナル 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">青い舌を出す行動 (Blue Tongue Display)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 意味
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        強い恐怖を感じた際、自身に毒があるように見せかけて敵を驚かせようとする防御行動です。
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 対処法
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        ハンドリングや掃除を直ちに中断し、手を引っ込めて落ち着くまでそっとしておきます。
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ボディシグナル 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">体を平らに膨らませて威嚇音を出す (Body Flattening & Hissing)</h4>
+  </div>
+  <div class="grid grid-cols-1 gap-4">
+    <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-emerald-500/15 text-emerald-800 dark:text-emerald-300 rounded-lg border border-emerald-500/20 flex items-center gap-1.5">
+          <span>🐾</span> 意味
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        体を大きく見せて相手を威嚇しようとする強い警戒状態を示しています。
+      </p>
+    </div>
+    <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="px-2.5 py-1 text-xs font-bold bg-indigo-500/15 text-indigo-800 dark:text-indigo-300 rounded-lg border border-indigo-500/20 flex items-center gap-1.5">
+          <span>💡</span> 対処法
+        </span>
+      </div>
+      <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
+        頭上から急に手を出さず、目線より低い位置からゆっくり接近して恐怖心を和らげます。
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 3. アオジタトカゲ (Blue-tongued Skink / Tiliqua spp.)のための3ステップホームケアルーティン
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">朝：ライト点灯とホットゾーン・クールゾーンの温度確認</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    UVBおよびバスキングライトを点灯し、ホットゾーン（35〜38℃）とクールゾーン（22〜26℃）の温度勾配を温度計で確認します。
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">昼：床材の湿度・深さ調整と水入れの清掃</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    潜り習性に合わせ床材（バークやココハスクなど）を十分な深さに維持し、新鮮で清潔な水を用意します。
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">夜：年齢に合わせた雑食フード給餌とフンの清掃</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+     growth 段階に合わせたフード（成体：タンパク質40〜50%、野菜50%、果物10%未満）を与え、排泄物を清掃します。
+  </p>
+</div>
+
+---
+
+
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> よくある質問 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">アオジタトカゲにキャットフードやドッグフードを与えてもいいですか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      グレインフリーの高品質なドッグフードやキャットフードは優れたタンパク源になります。ただし、脂質が多いため単品で与えず、必ず細かく刻んだ小松菜やカルシウム剤を混ぜて栄養バランスを整えて与えてください。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">インドネシア産とオーストラリア産で飼育湿度を変える必要がありますか？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      はい、大きく異なります。オーストラリア産（キタアオジタトカゲなど）は乾燥〜半乾燥（湿度40〜50%）を好みますが、インドネシア産（ハルマヘラなど）は熱帯雨林原産のため高湿度（70〜90%）が必須となります。
+    </p>
+  </details>
+</div>

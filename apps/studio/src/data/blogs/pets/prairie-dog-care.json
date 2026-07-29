@@ -1,0 +1,459 @@
+{
+    "prairie-dog-care": {
+        "pubDate": "2026-05-18",
+        "updatedDate": "2026-05-18",
+        "locales": {
+            "ko": {
+                "title": "검은꼬리 프레리도그 이빨 건강을 위한 건초 급여와 교감 스킨십·굴 사육장 3단계 루틴",
+                "description": "북미 원산 검은꼬리 프레리도그 사육 가이드. 평생 자라는 앞니 마모용 티모시 건초 급여, 사회적 키스 스킨십, 굴 파기 사육장 세팅 3단계 루틴을 소개합니다.",
+                "authority": "미국수의학협회(AVMA) 및 소동물 외래수의학 가이드라인",
+                "profile": {
+                    "breed": "검은꼬리 프레리도그 (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12년 (사육 환경 최적화 시)",
+                    "sleep_pattern": "10 ~ 12시간 (주행성 - 야간에 포근한 굴/은신처 수면)",
+                    "temperament": "사회적, 호기심 많음, 영역 의식 있음, 무리 생활, 외로움 탐"
+                },
+                "intro": "검은꼬리 프레리도그는 북미 원산의 소형 포유류로, 야생에서 거대한 지하 굴 시스템을 형성해 무리 생활을 하는 극도로 사회적인 동물입니다. 평생 자라는 절치(앞니) 마모를 위해 고섬유질 티모시 건초를 상시 공급해야 부정교합이나 치근 이상 자람(Odontoma)을 예방할 수 있습니다. 굴 파기 본능을 위한 깊은 바닥재와 깊은 애정 교감이 필수적입니다. 오늘 PetSelf에서 프레리도그 케어 3단계 루틴을 정리해 드립니다.",
+                "whyTitle": "프레리도그의 생태 본능: 인사 키스와 점프 짖음(Jump-Yip)",
+                "whyDesc": "동료나 보호자를 만났을 때 입을 맞추는 **'인사 키스(Greeting Kiss)'**로 애정을 확인합니다. 반면 경계 시에는 상체를 세우고 단발성 짖음 소리를 내는 **'점프 짖음(Jump-Yip)'** 신호를 보냅니다.",
+                "body_signals": [
+                    {
+                        "name": "인사 키스 및 스킨십 (Greeting Kiss & Nuzzling)",
+                        "meaning": "서로 입을 맞추고 몸을 비비며 애정을 표현하고 무리 유대감을 확인하는 사회적 인사입니다.",
+                        "response": "머리나 턱 밑을 부드럽게 쓰다듬어 주며 애정 교감을 나눕니다."
+                    },
+                    {
+                        "name": "상체 세우기 및 점프 짖음 (Jump-Yip / Alarm Call)",
+                        "meaning": "뒷다리로 서서 상체를 세우며 단발성 소리를 내는 행동으로, 낯선 자극에 대한 경계 신호입니다.",
+                        "response": "주변 위협 요소를 제거하고 안심할 수 있도록 조용히 다독여 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 무제한 티모시 건초 공급 및 깨끗한 물 교체",
+                        "text": "이빨 마모를 위해 고섬유질 티모시 건초를 상시 자율 급여하고 신선한 물을 채워줍니다."
+                    },
+                    {
+                        "name": "낮: 굴 바닥재 청결 및 사육장 온도(20~25℃) 점검",
+                        "text": "바닥재의 오염 부위를 청소하고, 굴 파기 공간과 적정 온도를 유지합니다."
+                    },
+                    {
+                        "name": "밤: 전용 펠렛 급여 및 1대1 교감 스킨십",
+                        "text": "영양 균형을 위한 펠렛을 소량 급여하고 방사 교감 시간을 가진 뒤 포근한 은신처에서 수면하게 합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "건초를 꼭 무제한으로 주어야 하나요?",
+                        "answer": "네, 필수입니다. 앞니가 평생 자라므로 건초를 계속 씹어 마모시키지 않으면 부정교합이나 치근이 두개골을 압박하는 치골종(Odontoma)이 발생하여 치명적입니다."
+                    },
+                    {
+                        "question": "프레리도그를 한 마리만 키워도 괜찮나요?",
+                        "answer": "권장하지 않습니다. 극도로 사회적인 동물이라 혼자 두면 극심한 외로움과 우울증, 공격성을 보입니다. 보호자가 매일 수시간 이상 교감하거나 쌍으로 사육하는 것이 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Black-tailed Prairie Dog Dental Care via Hay and 3-Step Social Bonding & Burrow Setup Routine",
+                "description": "Essential care guide for the Black-tailed Prairie Dog. Learn about unlimited Timothy hay for incisor wear, greeting kiss bonding, and a 3-step burrow enclosure routine.",
+                "authority": "American Veterinary Medical Association (AVMA) Guidelines",
+                "profile": {
+                    "breed": "Black-tailed Prairie Dog (Cynomys ludovicianus)",
+                    "lifespan": "8 - 12 Years (In optimized captive conditions)",
+                    "sleep_pattern": "10 - 12 Hours (Diurnal - Rests in dark burrows at night)",
+                    "temperament": "Social, Curious, Territorial, Herd-oriented, Prone to Loneliness"
+                },
+                "intro": "The Black-tailed Prairie Dog is a highly social rodent native to North American plains. Because their incisors grow continuously, providing unlimited high-fiber Timothy hay is critical to prevent fatal malocclusion and odontoma. Deep burrowing substrate and intense social interaction are essential. Today, PetSelf outlines a 3-step care routine.",
+                "whyTitle": "Prairie Dog Instincts: Greeting Kisses and Jump-Yip Alarm Calls",
+                "whyDesc": "They confirm social bonds through **'Greeting Kisses'**, touching teeth and mouth. When alarmed, they stand upright and emit a sharp **'Jump-Yip'** call to alert others.",
+                "body_signals": [
+                    {
+                        "name": "Greeting Kiss & Nuzzling",
+                        "meaning": "Touching mouth and teeth to express affection and confirm group identity.",
+                        "response": "Gently scratch under their chin and reward them with affection."
+                    },
+                    {
+                        "name": "Jump-Yip / Alarm Call",
+                        "meaning": "Standing on hind legs and barking sharply to signal alertness to strangers or noise.",
+                        "response": "Remove stressors and speak calmly to reassure them."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Unlimited Timothy Hay & Water Refill",
+                        "text": "Supply unlimited Timothy hay for tooth wear and refresh their water bottle."
+                    },
+                    {
+                        "name": "Afternoon: Substrate Hygiene & Temp Check (20–25°C)",
+                        "text": "Spot-clean digging substrate and ensure stable room temperatures."
+                    },
+                    {
+                        "name": "Evening: Pellet Feeding & One-on-One Bonding Time",
+                        "text": "Provide formulated pellets and enjoy interactive play before night sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is unlimited Timothy hay really mandatory?",
+                        "answer": "Yes. Their incisors grow continuously. Without hay to grind them down, severe malocclusion or fatal odontoma (root overgrowth) will occur."
+                    },
+                    {
+                        "question": "Can I keep a single prairie dog?",
+                        "answer": "Not recommended. They are herd animals and suffer severe depression when isolated. Keep pairs or spend hours bonding daily."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "オグロプレーリードッグの歯の健康用牧草給餌とコミュニケーション・3ステップ飼育ルーティン",
+                "description": "オグロプレーリードッグの飼育ガイド。伸び続ける前歯の摩耗用チモシー給餌、挨拶キス、掘削ケージ作成の3ステップを解説します。",
+                "authority": "アメリカ獣医学会 (AVMA) 臨床ガイドライン",
+                "profile": {
+                    "breed": "オグロプレーリードッグ (Cynomys ludovicianus)",
+                    "lifespan": "8 〜 12年 (最適な飼育環境下)",
+                    "sleep_pattern": "10 〜 12時間 (昼行性 - 夜間は巣穴で睡眠)",
+                    "temperament": "社会性あり、好奇心旺盛、縄張り意識あり、寂しがり屋"
+                },
+                "intro": "オグロプレーリードッグは非常に社会性の高い小動物です。一生伸び続ける前歯を摩耗させるため、高繊維なチモシー牧草の無制限給餌が不可欠です。深い床材とスキンシップが健康の鍵です。今回は3ステップルーティンを解説します。",
+                "whyTitle": "プレーリードッグの本能：挨拶キスとジャンプ鳴き(Jump-Yip)",
+                "whyDesc": "口を合わせる**「挨拶キス」**で絆を深めます。警戒時には体を起こして**「ジャンプ鳴き(Jump-Yip)」**で警告を発します。",
+                "body_signals": [
+                    {
+                        "name": "挨拶キスとスキンシップ (Greeting Kiss & Nuzzling)",
+                        "meaning": "口を合わせて愛着を示し、群れの仲間であることを確認する社会性挨拶です。",
+                        "response": "顎の下や頭を優しく撫でて交流を深めます。"
+                    },
+                    {
+                        "name": "直立とジャンプ鳴き (Jump-Yip / Alarm Call)",
+                        "meaning": "後脚で立ち上がり単発の声を発する行動で、刺激に対する警戒サインです。",
+                        "response": "不安要素を取り除き、落ち着ける環境を整えます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：チモシー牧草の補給と水交換",
+                        "text": "歯の摩耗のため新鮮なチモシー牧草を無制限に与え、水を交換します。"
+                    },
+                    {
+                        "name": "昼：床材掃除とケージ温度(20〜25℃)点検",
+                        "text": "穴掘り床材の汚れを掃除し、適温を維持します。"
+                    },
+                    {
+                        "name": "夜：ペレット給餌と1対1の放鳥スキンシップ",
+                        "text": "専用ペレットを与え、十分なコミュニケーションをとってから寝かせます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "牧草は必ず無制限に与える必要がありますか？",
+                        "answer": "必須です。前歯が伸び続けるため、牧草を噛んで削らないと不正咬合や歯根腫瘍(Odontoma)を引き起こします。"
+                    },
+                    {
+                        "question": "1匹だけで飼育しても大丈夫ですか？",
+                        "answer": "推奨されません。群れで暮らす動物のため、1匹では強い孤独感からうつ状態になります。ペア飼育か毎日のスキンシップが必要です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "黑尾黑尾土拨鼠（草原犬鼠）牙齿磨损干草喂食与社交互动及3阶段日常护理流程",
+                "description": "黑尾土拨鼠饲养指南。介绍用于磨损终生生长门齿的高纤维提摩西干草喂食、亲吻社交互动及挖掘笼舍搭建3阶段流程。",
+                "authority": "美国兽医学会 (AVMA) 临床指南",
+                "profile": {
+                    "breed": "黑尾土拨鼠 (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12年 (人工饲养环境最优化时)",
+                    "sleep_pattern": "10 ~ 12小时 (昼行性 - 夜间在洞穴中休息)",
+                    "temperament": "高度社会化、好奇心强、有领地意识、怕孤独"
+                },
+                "intro": "黑尾土拨鼠是群居的极高度社会化动物。由于门齿终生生长，必须无限量供应高纤维提摩西干草以防牙齿咬合不正及齿根瘤(Odontoma)。深层垫料与亲密互动至关重要。今天 PetSelf 为您整理3阶段护理流程。",
+                "whyTitle": "土拨鼠的生态本能：亲吻招呼与跃叫警报(Jump-Yip)",
+                "whyDesc": "它们通过**“亲吻招呼”**嘴对嘴确认群族纽带；遇警报时则直立身体发出**“跃叫(Jump-Yip)”**。",
+                "body_signals": [
+                    {
+                        "name": "亲吻招呼与贴贴 (Greeting Kiss & Nuzzling)",
+                        "meaning": "嘴对嘴磨牙表达喜爱，确认同伴身份的社会性招呼。",
+                        "response": "轻抚其头部或下巴，给予温柔回应。"
+                    },
+                    {
+                        "name": "直立与跃叫警报 (Jump-Yip / Alarm Call)",
+                        "meaning": "后肢站立并发出短促叫声，代表对陌生环境或噪音的警戒。",
+                        "response": "排除干扰因素，温柔安抚使其恢复平静。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：无限量提摩西干草与换水",
+                        "text": "无限量供应干草以磨牙，并更换干净饮用水。"
+                    },
+                    {
+                        "name": "白天：垫料打扫与温度（20~25°C）监测",
+                        "text": "局部清理垫料，保持挖掘空间与适宜温度。"
+                    },
+                    {
+                        "name": "晚上：专用滋养丸喂食与互动陪伴",
+                        "text": "投喂少量专用粮，进行放风互动陪伴后安排休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "干草必须无限量供应吗？",
+                        "answer": "是的。门齿会终生生长，若不靠咀嚼干草磨损，会导致严重的咬合不正或致命的齿根瘤。"
+                    },
+                    {
+                        "question": "可以单只饲养吗？",
+                        "answer": "不建议。它们是群居动物，单只极易患抑郁症。建议成对饲养或每天花费数小时陪伴。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cuidado dental del perro de la pradera mediante heno y rutina de 3 pasos de socialización y terrario",
+                "description": "Guía de cuidado del perro de la pradera de cola negra. Conozca la importancia del heno Timothy ilimitado para el desgaste dental, el beso de saludo y la rutina de 3 pasos.",
+                "authority": "Pautas de la American Veterinary Medical Association (AVMA)",
+                "profile": {
+                    "breed": "Perro de la Pradera de Cola Negra (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12 años (en condiciones optimizadas)",
+                    "sleep_pattern": "10 ~ 12 horas (diurno - duerme en madrigueras)",
+                    "temperament": "Social, curioso, territorial, de manada, propenso a soledad"
+                },
+                "intro": "El perro de la pradera de cola negra es un roedor altamente social. Sus incisivos crecen continuamente, por lo que el heno Timothy ilimitado es crucial para evitar maloclusión y odontomas. Requieren sustrato profundo para excavar y afecto constante. Hoy en PetSelf presentamos su rutina de 3 pasos.",
+                "whyTitle": "Instintos del perro de la pradera: Beso de saludo y llamada de alarma (Jump-Yip)",
+                "whyDesc": "Confirman vínculos con un **'Beso de saludo'** tocando sus dientes. Ante el peligro, se yerguen y emiten una llamada **'Jump-Yip'**.",
+                "body_signals": [
+                    {
+                        "name": "Beso de saludo y caricias (Greeting Kiss & Nuzzling)",
+                        "meaning": "Juntar bocas para expresar afecto y reconocer a miembros del grupo.",
+                        "response": "Acaricie suavemente su cabeza o barbilla."
+                    },
+                    {
+                        "name": "Postura erguida y llamada Jump-Yip (Jump-Yip / Alarm Call)",
+                        "meaning": "Ponerse de pie y emitir un ladrido agudo para alertar sobre extraños o ruidos.",
+                        "response": "Elimine la causa del susto y tranquilícelo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Heno Timothy ilimitado y agua fresca",
+                        "text": "Suministre heno ilimitado para el desgaste dental y renueve el agua."
+                    },
+                    {
+                        "name": "Tarde: Limpieza del sustrato y temperatura (20–25 °C)",
+                        "text": "Limpie zonas sucias del sustrato de excavación y mantenga el clima idóneo."
+                    },
+                    {
+                        "name": "Noche: Pienso específico y tiempo de juego interactivo",
+                        "text": "Ofrezca pienso formulado y disfrute de tiempo juntos antes de dormir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿El heno Timothy debe ser ilimitado?",
+                        "answer": "Sí, obligatorio. Sus incisivos crecen sin parar; sin heno para desgastarlos, sufrirán maloclusión u odontomas fatales."
+                    },
+                    {
+                        "question": "¿Puedo tener solo uno?",
+                        "answer": "No se recomienda. Son animales de manada y sufren depresión solos. Mantenga parejas o dedíquele varias horas al día."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Soin dentaire du chien de prairie par le foin et routine en 3 étapes de socialisation et d'habitat",
+                "description": "Guide de soin pour le chien de prairie à queue noire. Découvrez le foin de fléole à volonté pour l'usure des dents, le baiser de salutation et la routine en 3 étapes.",
+                "authority": "Directives de l'American Veterinary Medical Association (AVMA)",
+                "profile": {
+                    "breed": "Chien de Prairie à Queue Noire (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12 ans (en captivité optimisée)",
+                    "sleep_pattern": "10 ~ 12 heures (diurne - dort dans des terriers)",
+                    "temperament": "Très social, curieux, territorial, vit en groupe, craint la solitude"
+                },
+                "intro": "Le chien de prairie à queue noire est un rongeur très social. Ses incisives poussant en permanence, le foin de fléole à volonté est indispensable pour éviter la malocclusion et l'odontome. Un sustrat profond et des interactions régulières sont essentiels. PetSelf vous présente sa routine en 3 étapes.",
+                "whyTitle": "Instincts du chien de prairie : Baiser de salutation et cri d'alarme (Jump-Yip)",
+                "whyDesc": "Ils renforcent leurs liens par un **'Baiser de salutation'** en se touchant les dents. En cas d'alerte, ils se redressent et émettent un cri **'Jump-Yip'**.",
+                "body_signals": [
+                    {
+                        "name": "Baiser de salutation et câlins (Greeting Kiss & Nuzzling)",
+                        "meaning": "Toucher les bouches pour exprimer de l'affection et reconnaître le groupe.",
+                        "response": "Massez doucement sous son menton et caressez-le."
+                    },
+                    {
+                        "name": "Postura dressée et cri Jump-Yip (Jump-Yip / Alarm Call)",
+                        "meaning": "Se dresser sur les pattes arrière et aboyer pour alerter d'un danger.",
+                        "response": "Rassurez l'animal et calmez l'environnement."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Foin de fléole à volonté et eau fraîche",
+                        "text": "Fournissez du foin à volonté pour l'usure dentaire et changez l'eau."
+                    },
+                    {
+                        "name": "Après-midi : Entretien du substrat et température (20–25 °C)",
+                        "text": "Nettoyez le substrat de creusage et maintenez la température ambiante."
+                    },
+                    {
+                        "name": "Soir : Extrudés spécifiques et moment de complicité",
+                        "text": "Donnez des extrudés adaptés et partagez un moment de jeu avant la nuit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le foin doit-il vraiment être donné à volonté ?",
+                        "answer": "Oui, c'est vital. Leurs dents poussent constamment ; sans foin pour les limer, ils risquent une malocclusion ou un odontome mortel."
+                    },
+                    {
+                        "question": "Peut-on en élever un seul ?",
+                        "answer": "Déconseillé. Ce sont des animaux de clan qui dépriment seuls. Élevez-les en couple ou consacrez-lui plusieurs heures par jour."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Zahnpflege für das Schwarzschwanz-Präriehund durch Heu und 3-Schritt-Sozialisierungs- & Gehegeroutine",
+                "description": "Pflegeanleitung für das Schwarzschwanz-Präriehund. Erfahren Sie alles über unbegrenztes Timothy-Heu zum Zahnabrieb, den Begrüßungskuss und die 3-Schritt-Routine.",
+                "authority": "Richtlinien der American Veterinary Medical Association (AVMA)",
+                "profile": {
+                    "breed": "Schwarzschwanz-Präriehund (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12 Jahre (bei optimaler Haltung)",
+                    "sleep_pattern": "10 ~ 12 Stunden (tagaktiv - schläft nachts in Höhlen)",
+                    "temperament": "Sehr sozial, neugierig, territorial, Rudeltier, einsamkeitsanfällig"
+                },
+                "intro": "Präriehunde sind hochsoziale Nagetiere. Da ihre Schneidezähne lebenslang wachsen, ist unbegrenztes Timothy-Heu zur Vermeidung von Fehlstellungen und Odontomen überlebenswichtig. Tiefe Buddeleinstreu und viel Zuwendung sind Pflicht. Heute erklärt PetSelf die 3-Schritt-Routine.",
+                "whyTitle": "Instinkte des Präriehundes: Begrüßungskuss und Jump-Yip-Warnruf",
+                "whyDesc": "Sie festigen Bindungen durch einen **'Begrüßungskuss'**. Bei Gefahr richten sie sich auf und stoßen einen **'Jump-Yip'**-Warnruf aus.",
+                "body_signals": [
+                    {
+                        "name": "Begrüßungskuss & Kuscheln (Greeting Kiss & Nuzzling)",
+                        "meaning": "Befühlen der Schnauzen zur Zuneigung und Gruppenerkennung.",
+                        "response": "Kraulen Sie das Tier sanft am Kinn und Kopf."
+                    },
+                    {
+                        "name": "Männchen-Machen & Jump-Yip-Ruf (Jump-Yip / Alarm Call)",
+                        "meaning": "Aufrichten auf den Hinterbeinen und Bellen zur Warnung vor Gefahren.",
+                        "response": "Beseitigen Sie Störfaktoren und beruhigen Sie das Tier."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Unbegrenztes Timothy-Heu & frisches Wasser",
+                        "text": "Bieten Sie stets Heu zum Zahnabrieb an und erneuern Sie das Tränkwasser."
+                    },
+                    {
+                        "name": "Nachmittag: Einstreupflege & Temperaturkontrolle (20–25 °C)",
+                        "text": "Reinigen Sie die Buddeleinstreu stellenweise und achten Sie auf Raumtemperatur."
+                    },
+                    {
+                        "name": "Abend: Pellets & gemeinsame Interaktionszeit",
+                        "text": "Füttern Sie Spezialpellets und verbringen Sie direkte Spielzeit vor dem Schlafen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Muss Heu wirklich rund um die Uhr verfügbar sein?",
+                        "answer": "Ja, absolut. Die Zähne wachsen ständig nach. Ohne Heu entstehen schwere Zahnfehlstellungen oder tödliche Odontome (Zahnwurzelwucherungen)."
+                    },
+                    {
+                        "question": "Kann man ein Präriehund einzeln halten?",
+                        "answer": "Nicht empfohlen. Als Rudeltiere verkümmern sie alleine emotional. Halten Sie Pärchen oder schenken Sie täglich stundenlange Zuwendung."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Cuidado dental do cão-da-pradaria através de feno e rotina de 3 passos de socialização e alojamento",
+                "description": "Guia de cuidados com o cão-da-pradaria-de-cauda-negra. Saiba mais sobre o feno Timothy ilimitado para desgaste dental, o beijo de saudação e a rotina em 3 passos.",
+                "authority": "Diretrizes da American Veterinary Medical Association (AVMA)",
+                "profile": {
+                    "breed": "Cão-da-Pradaria-de-Cauda-Negra (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12 anos (em cativeiro otimizado)",
+                    "sleep_pattern": "10 ~ 12 horas (diurno - dorme em túneis à noite)",
+                    "temperament": "Muito social, curioso, territorial, vive em bando, odeia a solidão"
+                },
+                "intro": "O cão-da-pradaria é um roedor extremamente social. Como os dentes incisivos crescem continuamente, o feno Timothy ilimitado é essencial para evitar má oclusão e odontomas. Substrato profundo e afeto constante são vitais. Hoje no PetSelf apresentamos a rotina em 3 passos.",
+                "whyTitle": "Instintos do cão-da-pradaria: Beijo de saudação e alarme Jump-Yip",
+                "whyDesc": "Confirmam laços sociais com um **'Beijo de saudação'**. Perante perigos, erguem-se e emitem o alarme **'Jump-Yip'**.",
+                "body_signals": [
+                    {
+                        "name": "Beijo de saudação e carinhos (Greeting Kiss & Nuzzling)",
+                        "meaning": "Tocar com as bocas para demonstrar afeto e reconhecer membros do bando.",
+                        "response": "Acaricie suavemente debaixo do queixo e na cabeça."
+                    },
+                    {
+                        "name": "Postura ereta e alarme Jump-Yip (Jump-Yip / Alarm Call)",
+                        "meaning": "Ficar de pé nas patas traseiras e ganir para alertar sobre estranhos.",
+                        "response": "Acalme o ambiente e transmita-lhe segurança."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Feno Timothy ilimitado e água fresca",
+                        "text": "Forneça feno ilimitado para desgaste dental e mude a água."
+                    },
+                    {
+                        "name": "Tarde: Limpeza do substrato e temperatura (20–25 °C)",
+                        "text": "Limpe o substrato de escavação e mantenha a temperatura ambiente."
+                    },
+                    {
+                        "name": "Noite: Ração específica e tempo de interação",
+                        "text": "Ofereça ração própria e desfrute de tempo de jogo antes de dormir."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O feno Timothy precisa ser ilimitado?",
+                        "answer": "Sim, obrigatório. Os incisivos crescem sem parar; sem feno para os desgastar, sofrerão de más oclusões ou odontomas fatais."
+                    },
+                    {
+                        "question": "Posso criar apenas um cão-da-pradaria?",
+                        "answer": "Não recomendado. Vivem em bando e sofrem de depressão sozinhos. Crie em pares ou dedique-lhe várias horas diárias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Perawatan Gigi Anjing Prairie Lewat Jerami dan Rutinitas 3 Langkah Sosialisasi & Kandang Gali",
+                "description": "Panduan perawatan Anjing Prairie Ekor Hitam (Black-tailed Prairie Dog). Pelajari pentingnya jerami Timothy tanpa batas untuk mengikir gigi, ciuman salam, dan 3 langkah rutinitas harian.",
+                "authority": "Panduan American Veterinary Medical Association (AVMA)",
+                "profile": {
+                    "breed": "Anjing Prairie Ekor Hitam (Cynomys ludovicianus)",
+                    "lifespan": "8 ~ 12 tahun (pada kondisi penangkaran optimal)",
+                    "sleep_pattern": "10 ~ 12 jam (diurnal - tidur di lubang saat malam)",
+                    "temperament": "Sangat sosial, ingin tahu, teritorial, suka berkelompok, mudah kesepian"
+                },
+                "intro": "Anjing prairie ekor hitam adalah pengerat yang sangat sosial. Karena gigi seri mereka tumbuh terus-menerus, jerami Timothy tanpa batas sangat vital untuk mencegah maloklusi dan odontoma. Substrat gali yang dalam dan kasih sayang rutin sangat penting. Hari ini PetSelf membagikan 3 langkah rutinitas perawatan.",
+                "whyTitle": "Insting Anjing Prairie: Ciuman Salam dan Panggilan Bahaya (Jump-Yip)",
+                "whyDesc": "Mereka mempererat ikatan melalui **'Ciuman Salam'** menempelkan mulut. Saat waspada, mereka berdiri tegak dan mengeluarkan suara **'Jump-Yip'**.",
+                "body_signals": [
+                    {
+                        "name": "Ciuman Salam & Manja (Greeting Kiss & Nuzzling)",
+                        "meaning": "Menempelkan mulut untuk mengekspresikan kasih sayang dan mengenali sesama anggota kelompok.",
+                        "response": "Elus bagian bawah dagu atau kepalanya dengan lembut."
+                    },
+                    {
+                        "name": "Berdiri Tegak & Panggilan Jump-Yip (Jump-Yip / Alarm Call)",
+                        "meaning": "Berdiri dengan kaki belakang dan menggonggong untuk memberi tahu adanya bahaya.",
+                        "response": "Hilangkan gangguan dan tenangkan mereka dengan lembut."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Jerami Timothy Tanpa Batas & Air Bersih",
+                        "text": "Sediakan jerami Timothy tanpa batas untuk pengikisan gigi dan ganti air minum."
+                    },
+                    {
+                        "name": "Siang: Kebersihan Substrat & Cek Suhu (20–25 °C)",
+                        "text": "Bersihkan kotoran pada substrat menggali dan jaga suhu ruangan tetap stabil."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pelet Khusus & Waktu Interaksi Bersama",
+                        "text": "Berikan pelet formulasi khusus dan nikmati waktu bermain bersama sebelum tidur."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah jerami Timothy wajib diberikan tanpa batas?",
+                        "answer": "Ya, sangat wajib. Gigi seri mereka tumbuh terus. Tanpa jerami untuk mengikisnya, akan terjadi maloklusi parah atau odontoma yang mematikan."
+                    },
+                    {
+                        "question": "Bolehkah memelihara satu ekor saja?",
+                        "answer": "Sangat tidak disarankan. Mereka hewan berkelompok yang bisa depresi jika sendirian. Pelihara sepasang atau luangkan waktu berjam-jam setiap hari."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/prairie_dog_care.webp"
+    }
+}

@@ -1,0 +1,459 @@
+{
+    "maltipoo-care": {
+        "pubDate": "2026-06-09",
+        "updatedDate": "2026-06-09",
+        "locales": {
+            "ko": {
+                "title": "말티푸 슬개골 탈구 예방과 털 엉킴 방지 브러싱 및 분리불안 예방 3단계 케어 루틴",
+                "description": "전 세계 최고 인기 하이브리드견 말티푸(Maltipoo) 케어 가이드. 슬개골 탈구 방지 환경, 슬리커 브러싱 팁, 분리불안 예방 훈련 3단계 루틴을 알아봅니다.",
+                "authority": "세계소동물수의사회(WSAVA: World Small Animal Veterinary Association) 임상 가이드라인 및 미국케널클럽(AKC) 하이브리드견 케어 표준",
+                "profile": {
+                    "breed": "말티푸 (Maltipoo / Maltese x Toy Poodle Hybrid)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "주행성 (하루 12~14시간 수면 및 휴식)",
+                    "temperament": "애교 많음, 영리함, 높은 사교성, 사람 의존성 높음, 활발함"
+                },
+                "intro": "말티푸(Maltipoo)는 순백의 영리한 말티즈(Maltese)와 털 빠짐이 적고 지능이 높은 토이 푸들(Toy Poodle)의 장점만을 결합한 대표적인 하이브리드(Designer Dog)견입니다. 푹신하고 곱슬거리는 테디베어 같은 외모와 넘치는 애교, 뛰어난 학습 능력으로 전 세계 실내 반려견 선호도 최상위를 지키고 있습니다. 그러나 소형견 특유의 약한 관절 구조로 인해 슬개골 탈구(Patellar Luxation)에 노출되기 쉬우며, 푸들과 말티즈의 유전적 특성이 섞인 실크형 곱슬 털은 매일 브러싱을 해주지 않으면 피부 깊숙이 엉킴(Matting)이 발생해 세균성 피부염을 유발할 수 있습니다. 또한, 사람에 대한 높은 애정과 의존성으로 인해 분리불안(Separation Anxiety)이 발생하기 쉬우므로 어릴 때부터 올바른 독립성 훈련이 필수적입니다. 오늘 PetSelf에서는 말티푸의 카밍 시그널과 관절 보호, 3단계 케어 루틴을 다룹니다.",
+                "whyTitle": "말티푸의 감정 표현 신호: 하품하기·몸 털기(카밍 시그널)와 분리불안 과행동",
+                "whyDesc": "말티푸는 보호자의 기분을 예민하게 감지하며, 스트레스를 받거나 안정이 필요할 때 하품을 하거나 몸을 털어내는 카밍 시그널(Calming Signal)을 보냅니다. 반면 혼자 남겨졌을 때 지속적인 하울링이나 문 긁기 행동은 분리불안의 명확한 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "하품하기 및 몸 털기 (Calming Signals)",
+                        "meaning": "스스로 낯선 상황이나 스트레스 상황에서 안정을 찾으려 하거나, 상대방에게 적의가 없음을 전달하는 카밍 신호입니다.",
+                        "response": "차분하고 부드러운 목소리로 안심시켜 주고, 과도한 자극을 줄여 스킨십 대신 편안한 휴식 공간을 제공합니다."
+                    },
+                    {
+                        "name": "문 긁기 및 연속적인 하울링 (Separation Distress)",
+                        "meaning": "보호자와 떨어졌을 때 발생하는 심각한 불안감과 공포로 인한 분리불안 및 욕구 불만 신호입니다.",
+                        "response": "외출 전후 과도한 아는 척을 자제하고, 노즈워크 장난감이나 분리불안 완화 음악을 활용해 혼자 있는 시간을 긍정적으로 인식시킵니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 미끄럼 방지 환경 체크 및 슬리커 브러싱",
+                        "text": "슬개골 관절 보호를 위해 매트 상태를 점검하고, 털 엉킴을 막기 위해 핀 브러시와 슬리커로 속털부터 부드럽게 빗겨줍니다."
+                    },
+                    {
+                        "name": "낮: 관절 부담을 줄인 규칙적인 산책 및 독립성 훈련",
+                        "text": "높은 곳에서 뛰어내리는 행동을 제한하며 평지 위주의 20~30분 산책을 진행하고, 산책 후 5~10분간 짧은 외출 훈련으로 독립심을 길러줍니다."
+                    },
+                    {
+                        "name": "저녁: 발바닥 털·눈물 자국 케어 및 관절 마사지",
+                        "text": "미끄러짐 방지를 위해 발바닥 패드 사이 털을 정돈하고, 눈물 자국(눈물 착색)을 닦아준 뒤 다리 관절을 가볍게 마사지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "말티푸의 슬개골 탈구를 예방하려면 집안 환경을 어떻게 조성해야 하나요?",
+                        "answer": "거실과 복도 등 생활 공간 전체에 미끄럼 방지 매트를 깔아주고, 소파나 침대 옆에는 반려견 전용 슬라이드 계단을 설치해야 합니다. 또한, 발바닥 패드를 가리는 털을 주기적으로 정리해 미끄러짐을 방지하고, 높은 곳에서 뛰어내리는 행동을 엄격히 제한해야 합니다."
+                    },
+                    {
+                        "question": "말티푸의 털은 털 빠짐이 적은데 왜 매일 빗질해 주어야 하나요?",
+                        "answer": "말티푸는 털이 빠져 바닥에 떨어지는 대신 죽은 털이 곱슬거리는 속털 사이에 엉켜 붙는 특성이 있습니다. 이를 방치하면 겉에서는 보이지 않지만 피부에 밀착된 거대한 엉킴(Mat)이 형성되어 통풍을 막고 세균성 피부염과 통증을 유발하므로 슬리커 브러시와 콤(일자빗)으로 매일 빗어주어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Maltipoo Patellar Luxation Prevention, Grooming Brushing Tips, and 3-Step Separation Anxiety Routine",
+                "description": "Essential care guide for the popular hybrid dog Maltipoo (Maltese x Toy Poodle). Learn about patellar luxation safety, slicker brushing to prevent matting, and 3-step separation anxiety training.",
+                "authority": "World Small Animal Veterinary Association (WSAVA) Clinical Guidelines and American Kennel Club (AKC) Hybrid Dog Care Standards",
+                "profile": {
+                    "breed": "Maltipoo (Maltese x Toy Poodle Hybrid)",
+                    "lifespan": "12 ~ 15 Years",
+                    "sleep_pattern": "Diurnal (12–14 Hours of Sleep and Rest Daily)",
+                    "temperament": "Affectionate, Intelligent, Highly Social, Human-Dependent, Playful"
+                },
+                "intro": "The Maltipoo is a world-renowned designer hybrid dog combining the intelligence and low-shedding coat of the Toy Poodle with the affectionate, gentle nature of the Maltese. Adored for its teddy-bear appearance and playful charm, it ranks among the top choices for indoor companion dogs globally. However, as a small breed, Maltipoos are genetically predisposed to patellar luxation (slipping kneecaps), and their soft, wavy coat can easily form painful skin-level mats if not brushed daily. Additionally, their intense devotion to their human families makes them susceptible to separation anxiety, requiring early independence training. Today on PetSelf, we detail Maltipoo behavior signals, joint care strategies, and a 3-step daily routine.",
+                "whyTitle": "Maltipoo Behavior Signals: Calming Signals (Yawning) vs. Separation Distress",
+                "whyDesc": "Maltipoos are emotionally sensitive to their owners. When stressed, they display calming signals such as yawning or body shaking. Persistent howling or door-scratching when left alone indicates acute separation anxiety.",
+                "body_signals": [
+                    {
+                        "name": "Yawning & Body Shaking (Calming Signals)",
+                        "meaning": "A self-soothing response in unfamiliar situations or a signal communicating non-aggression to others.",
+                        "response": "Speak in a calm, soothing voice and reduce environmental stimuli to give them a comfortable resting space."
+                    },
+                    {
+                        "name": "Door Scratching & Continuous Howling (Separation Distress)",
+                        "meaning": "A distress signal caused by severe panic and anxiety when separated from their owner.",
+                        "response": "Avoid overly dramatic hellos or goodbyes, and use nosework toys or independence training to build confidence when alone."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Non-Slip Flooring Inspection & Slicker Brushing",
+                        "text": "Inspect non-slip mats for knee safety, and brush gently from the undercoat roots outward using a slicker brush to prevent matting."
+                    },
+                    {
+                        "name": "Afternoon: Joint-Friendly Walking & Independence Training",
+                        "text": "Conduct a 20–30 minute walk on flat terrain avoiding jumping, followed by a short 5–10 minute departure session to foster independence."
+                    },
+                    {
+                        "name": "Evening: Paw Pad Trimming, Tear Stain Care & Joint Massage",
+                        "text": "Trim fur between paw pads to prevent slipping, wipe away tear stains, and gently massage leg joints."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "How can I prevent patellar luxation in my Maltipoo at home?",
+                        "answer": "Lay non-slip mats across hard floors, install pet ramps or stairs near sofas and beds, keep paw pad fur trimmed, and strictly prevent them from jumping down from elevated furniture."
+                    },
+                    {
+                        "question": "Why do Maltipoos need daily brushing if they don't shed much?",
+                        "answer": "Instead of falling to the floor, shed hair becomes trapped within their wavy undercoat. If left unbrushed, it forms dense mats close to the skin, trapping moisture, causing bacterial dermatitis, and pulling painfully on the skin."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "マルプーのパテラ（膝蓋骨脱臼）予防と毛玉防止ブラッシング・分離不安対策3ステップ日常ケア",
+                "description": "大人気ミックス犬マルプー（Maltipoo）の飼育ガイド。膝蓋骨脱臼（パテラ）を防止する室内環境、スリッカーブラシのコツ、分離不安トレーニングの3ステップを解説。",
+                "authority": "世界小動物獣医師会（WSAVA）臨床ガイドラインおよびアメリカンケネルクラブ（AKC）ミックス犬飼育基準",
+                "profile": {
+                    "breed": "マルプー (Maltipoo / Maltese x Toy Poodle Hybrid)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "昼行性 (1日12〜14時間の睡眠と休息)",
+                    "temperament": "甘えん坊、賢い、社交的、人への依存度が高い、活発"
+                },
+                "intro": "マルプー（Maltipoo）は、賢く抜け毛が少ないトイプードルと、甘えん坊で愛らしいマルチーズの長所を併せ持った代表的な人気ミックス犬（ハイブリッド犬）です。テディベアのような愛くるしい姿と人懐っこさから、室内犬として世界中で絶大な人気を誇ります。しかし、小型犬特有の骨格構造から膝蓋骨脱臼（パテラ）を起こしやすく、シルク状のウェーブ毛は毎日ブラッシングしないと毛根付近で複雑に絡まり（毛玉・マット化）、皮膚炎の原因になります。また、飼い主への愛情が深い反面、分離不安症になりやすいため、幼少期からの適切な自立トレーニングが不可欠です。今回はPetSelfが、マルプーのカーミングシグナルと関節ケア、3ステップ日常ケアを解説します。",
+                "whyTitle": "マルプーの感情サイン：あくび・体を振る（カーミングシグナル）と分離不安行動",
+                "whyDesc": "マルプーは飼い主の感情に敏感で、緊張やストレスを感じるとあくびをしたり体を振るカーミングシグナルを出します。一方、留守番中の連続した遠吠えや扉をひっかく行動は分離不安の警戒サインです。",
+                "body_signals": [
+                    {
+                        "name": "あくび・体を大きく振る (Calming Signals)",
+                        "meaning": "緊張緩和や自身を落ち着かせる動作、または相手に敵意がないことを伝えるサインです。",
+                        "response": "落ち着いた声で安心させ、過度な刺激を避けてリラックスできる空間を与えます。"
+                    },
+                    {
+                        "name": "扉のひっかき・連続した遠吠え (Separation Distress)",
+                        "meaning": "飼い主と離れることへの強い不安やパニックから生じる分離不安のサインです。",
+                        "response": "外出や帰宅時の過剰な接触を控え、ノーズワークやお留守番の段階的練習で自立心を育てます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：滑り止めマットの確認とスリッカーブラッシング",
+                        "text": "パテラ予防のためにフロアマットの状態を点検し、毛根から優しくスリッカーブラシでブラッシングします。"
+                    },
+                    {
+                        "name": "昼：関節に優しい散歩と自立トレーニング",
+                        "text": "段差の飛び降りを避け平地で20〜30分の散歩を行い、帰宅後は5〜10分程度の短いお留守番練習を行います。"
+                    },
+                    {
+                        "name": "夜：足裏の毛のカット・涙やけケア・関節マッサージ",
+                        "text": "転倒防止のため足裏の毛を整え、目元の涙やけを拭き取った後、脚の関節を優しくマッサージします。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "マルプーのパテラ（膝蓋骨脱臼）を予防するにはどうすればよいですか？",
+                        "answer": "フローリングなどの滑りやすい床に滑り止めマットを敷き、ソファやベッドの横にペット用スロープを設置します。また、足裏のパットを覆う毛を定期的にカットし、高い場所からの飛び降りを厳しく制限してください。"
+                    },
+                    {
+                        "question": "抜け毛が少ないのになぜ毎日ブラッシングが必要なのですか？",
+                        "answer": "マルプーの抜け毛は床に落ちず、ウェーブした被毛の内部に留まる性質があります。これを放置すると皮膚付近で密着した大きな毛玉（マット）となり、通気性を損なって皮膚炎や痛みを引き起こすため、毎日のブラッシングが必須です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "马尔泰普（Maltipoo）髌骨脱位预防、梳毛防打结技巧与分离焦虑预防3阶段日常护理流程",
+                "description": "热门混血犬马尔泰普（Maltipoo）护理指南。了解预防髌骨脱位（Patella）的室内环境搭建、针梳梳毛技巧与分离焦虑训练3阶段日常护理。",
+                "authority": "世界小动物兽医师协会 (WSAVA) 临床指南及美国犬业俱乐部 (AKC) 混血犬护理标准",
+                "profile": {
+                    "breed": "马尔泰普 (Maltipoo / Maltese x Toy Poodle Hybrid)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "昼行性 (每天睡眠与休息 12~14 小时)",
+                    "temperament": "粘人、聪明、社交性强、依赖性高、活泼"
+                },
+                "intro": "马尔泰普（Maltipoo）是结合了贵宾犬（Toy Poodle）智商高、掉毛少与马尔济斯（Maltese）温顺粘人优点的代表性混血犬种（Designer Dog）。它们拥有毛绒玩具般的外表和极其讨喜的性格，在全球室内家庭犬中极受欢迎。然而，作为小型犬，它们天生容易患上髌骨脱位（Patellar Luxation）；其柔软卷曲的被毛若不每天梳理，脱落的废毛会卡在卷毛深处形成紧贴皮肤的毛结（Matting），引发细菌性皮肤炎。此外，对主人的极高依赖感使其极易患上分离焦虑症（Separation Anxiety），因此从小培养独立性至关重要。今天 PetSelf 将为您解析马尔泰普的行为信号、关节保护技巧与3阶段日常护理流程。",
+                "whyTitle": "马尔泰普的情感表达信号：打哈欠/抖动身体（抚慰信号）与分离焦虑预警",
+                "whyDesc": "马尔泰普对主人的情绪极其敏感，感到压力时会通过打哈欠或抖动身体来舒缓情绪（抚慰信号 Calming Signals）。而在独处时持续吠叫或刨门则是严重的分离焦虑信号。",
+                "body_signals": [
+                    {
+                        "name": "打哈欠与抖动身体 (Calming Signals)",
+                        "meaning": "在陌生环境自我安抚或向对方表达无敌意的抚慰信号。",
+                        "response": "用温和的声音安抚，减少环境刺激，为其提供舒适安静的休息空间。"
+                    },
+                    {
+                        "name": "刨门与持续嚎叫 (Separation Distress)",
+                        "meaning": "因与主人分离产生的极度恐慌和焦虑信号。",
+                        "response": "避免出入门时过于亲昵，使用嗅闻玩具或循序渐进的分离训练培养其独立性。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：防滑垫检查与针梳梳理",
+                        "text": "检查地面防滑垫以保护髌骨，用针梳由内而外柔和梳理卷曲底毛防止打结。"
+                    },
+                    {
+                        "name": "中午：保护关节的散步与独立性训练",
+                        "text": "进行20~30分钟平地散步并禁止高处跳跃，散步后练习5~10分钟的短暂离家独处训练。"
+                    },
+                    {
+                        "name": "晚上：脚底毛修剪、泪痕清洁与关节按摩",
+                        "text": "剪短脚底肉垫缝隙的毛发防滑，擦拭清理眼部泪痕，并轻柔按摩四肢关节。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "如何在家庭环境中预防马尔泰普的髌骨脱位？",
+                        "answer": "在客厅与走廊铺设防滑垫，在沙发和床边安装犬用斜坡梯，定期修剪脚底毛防滑，并严格禁止从高处跳下。"
+                    },
+                    {
+                        "question": "为什么掉毛少的马尔泰普也需要每天梳毛？",
+                        "answer": "马尔泰普脱落的废毛不会掉落到地上，而是卡在卷曲的底毛中。若不每天用针梳梳理，会形成贴近皮肤的巨大毛结，阻碍透气并诱发皮肤病与疼痛。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de prevención de luxación de rótula en el Maltipoo, cepillado anti-nudos y rutina de 3 pasos contra la ansiedad por separación",
+                "description": "Guía de cuidado esencial para el perro híbrido Maltipoo (Maltés x Caniche). Cuidados para prevenir luxación patelar, técnicas de cepillado con carda y entrenamiento de independencia.",
+                "authority": "Pautas Clínicas de la Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Estándares del American Kennel Club (AKC)",
+                "profile": {
+                    "breed": "Maltipoo (Híbrido de Maltés x Caniche Toy)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "Diurno (Duerme y descansa de 12 a 14 horas al día)",
+                    "temperament": "Afectuoso, inteligente, muy social, dependiente, activo"
+                },
+                "intro": "El Maltipoo es un perro híbrido de gran popularidad mundial que combina la inteligencia y el pelaje de baja muda del Caniche Toy con el carácter cariñoso del Bichón Maltés. Con su aspecto de oso de peluche y su alta capacidad de aprendizaje, es una de las mascotas familiares preferidas para vivir en pisos. Sin embargo, como perro de raza pequeña, es propenso a la luxación de rótula (patela). Además, su pelo rizado y suave exige un cepillado diario para evitar nudos (mats) pegados a la piel que provocan dermatitis. Su gran apego hacia sus dueños también lo hace susceptible a la ansiedad por separación. Hoy en PetSelf cubrimos sus señales, articulaciones y rutina diaria.",
+                "whyTitle": "Señales de comportamiento del Maltipoo: Señales de calma (Bostezos) vs. Ansiedad por separación",
+                "whyDesc": "Los Maltipoo son sensibles al estado emocional de sus dueños. Ante el estrés, muestran señales de calma como bostezar o sacudirse. Por el contrario, aullidos continuos o rascar puertas al quedarse solos son claros signos de ansiedad por separación.",
+                "body_signals": [
+                    {
+                        "name": "Bostezar y sacudir el cuerpo (Señales de calma)",
+                        "meaning": "Intento de tranquilizarse en situaciones extrañas o comunicar intenciones pacíficas.",
+                        "response": "Transmita calma con voz suave y reduzca estímulos para darle un espacio relajante."
+                    },
+                    {
+                        "name": "Rascar la puerta y aullidos continuos (Estrés por separación)",
+                        "meaning": "Pánico y angustia extrema generados por la ausencia de sus dueños.",
+                        "response": "Evite despedidas efusivas y use juegos de olfato (nosework) o salidas breves para fomentar la independencia."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de alfombras antideslizantes y cepillado con carda",
+                        "text": "Revise las alfombras antideslizantes para proteger sus rótulas y cepille el pelo ondulado desde la raíz con una carda suave."
+                    },
+                    {
+                        "name": "Tarde: Paseos aptos para articulaciones y entrenamiento de independencia",
+                        "text": "Realice un paseo de 20-30 min en terreno llano evitando saltos, y haga sesiones cortas de salida (5-10 min) para crear autonomía."
+                    },
+                    {
+                        "name": "Noche: Recorte de pelo de las almohadillas, cuidado de lagrimales y masaje",
+                        "text": "Recorte el pelo entre las almohadillas para evitar resbalones, limpie manchas de lágrimas y masajee suavemente las patas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Cómo puedo prevenir la luxación de rótula en mi Maltipoo en casa?",
+                        "answer": "Coloque alfombras antideslizantes en los suelos lisos, instale rampas o escaleras junto al sofá o la cama, mantenga despejado el pelo de las almohadillas y evite estrictamente los saltos desde muebles altos."
+                    },
+                    {
+                        "question": "Si el Maltipoo casi no suelta pelo, ¿por qué requiere cepillado diario?",
+                        "answer": "El pelo muerto no cae al suelo, sino que se enreda dentro del manto rizado. Si no se cepilla con una carda diariamente, se forman nudos compactos junto a la piel que retienen humedad y causan dolor e infecciones."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide Maltipoo : prévention de la luxation de la rotule, brossage anti-nœuds et routine en 3 étapes contre l'anxiété de séparation",
+                "description": "Guide de soin essentiel pour le chien hybride Maltipoo (Maltais x Caniche). Environnement antidérapant, brossage à la carde et entraînement à la solitude.",
+                "authority": "Directives Cliniques de la World Small Animal Veterinary Association (WSAVA) et Normes de l'American Kennel Club (AKC)",
+                "profile": {
+                    "breed": "Maltipoo (Hybride Bichon Maltais x Caniche Toy)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "Diurne (Dort et se repose 12 à 14 heures par jour)",
+                    "temperament": "Affectueux, intelligent, très social, dépendant de l'humain, vif"
+                },
+                "intro": "Le Maltipoo est un chien hybride célèbre mariant l'intelligence et le pelage hypoallergénique du Caniche Toy à la douceur du Bichon Maltais. Très apprécié pour son allure d'ours en peluche et son tempérament joueur, il figure parmi les chiens de compagnie d'intérieur les plus populaires au monde. Toutefois, en tant que petit chien, il est sujet à la luxation de la rotule (patelle). De plus, son pelage ondulé exige un brossage quotidien pour éviter la formation de nœuds serrés (bourres) contre la peau, source de dermatites. Très attaché à sa famille, il est également sensible à l'anxiété de séparation. Aujourd'hui sur PetSelf, découvrez ses signaux, le soin de ses articulations et sa routine quotidienne.",
+                "whyTitle": "Signaux comportementaux du Maltipoo : Signaux d'apaisement (Bâillements) et détresse de séparation",
+                "whyDesc": "Le Maltipoo perçoit finement les émotions. En cas de stress, il émet des signaux d'apaisement comme bâiller ou se secouer. À l'inverse, des hurlements continus ou des grattages de porte lorsqu'il est seul traduisent une anxiété de séparation aiguë.",
+                "body_signals": [
+                    {
+                        "name": "Bâillements et secouements du corps (Signaux d'apaisement)",
+                        "meaning": "Recherche de calme ou manifestation d'intentions pacifiques dans des situations stressantes.",
+                        "response": "Rassurez-le d'une voix douce et limitez les stimuli pour lui offrir un espace de repos paisible."
+                    },
+                    {
+                        "name": "Grattage des portes et hurlements répétés (Détresse de séparation)",
+                        "meaning": "Panique et détresse profonde causées par l'absence de son maître.",
+                        "response": "Évitez les départs et retours trop démonstratifs, et utilisez des jeux de fouille (nosework) pour développer son autonomie."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Vérification du sol antidérapant et brossage à la carde",
+                        "text": "Vérifiez l'état des tapis pour protéger ses rotules, puis brossez son pelage ondulé depuis la racine avec une brosse carde."
+                    },
+                    {
+                        "name": "Après-midi : Balade adaptée aux articulations et entraînement à l'autonomie",
+                        "text": "Faites une promenade de 20-30 min sur terrain plat sans sauts, suivie d'exercices d'absence courts (5-10 min)."
+                    },
+                    {
+                        "name": "Soir : Coupe des poils sous les coussinets, soin des yeux et massage",
+                        "text": "Dégagez les coussinets pour éviter les glissades, nettoyez les traces de larmes et massez doucement ses pattes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Comment prévenir la luxation de la rotule chez le Maltipoo à la maison ?",
+                        "answer": "Installez des tapis antidérapants sur le parquet, installez des rampes pour le canapé, coupez les poils sous les coussinets et interdisez les sauts depuis des meubles hauts."
+                    },
+                    {
+                        "question": "Pourquoi brosser tous les jours un Maltipoo s'il ne perd pas ses poils ?",
+                        "answer": "Les poils morts ne tombent pas au sol mais restent piégés dans le sous-poil ondulé. Sans brossage quotidien avec une brosse carde, ils forment des nœuds opaques contre la peau, provoquant des infections bactériennes."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Maltipoo Patellaluxation-Prävention, Fellpflege-Tipps gegen Verfilzung und 3-Schritte-Routine gegen Trennungsangst",
+                "description": "Leitfaden für den beliebten Hybridhund Maltipoo (Malteser x Pudel). Erfahren Sie alles über gelenkschonende Haltung, Zupfbürsten-Techniken und Unabhängigkeitstraining.",
+                "authority": "Klinische Richtlinien der World Small Animal Veterinary Association (WSAVA) und American Kennel Club (AKC) Standards",
+                "profile": {
+                    "breed": "Maltipoo (Malteser x Zwergpudel Hybrid)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "Tagaktiv (Schläft und ruht 12–14 Stunden täglich)",
+                    "temperament": "Anhänglich, intelligent, sehr sozial, menschenbezogen, lebhaft"
+                },
+                "intro": "Der Maltipoo ist ein weltweit beliebter Hybridhund, der die Intelligenz und das kaum haarende Fell des Zwergpudels mit dem liebevollen Wesen des Maltesers vereint. Mit seinem niedlichen Teddybären-Aussehen und seiner verspielten Art zählt er zu den gefragtesten Wohnungshunden überhaupt. Allerdings neigt er als kleiner Hund genetisch zu Kniescheibenverrenkungen (Patellaluxation). Zudem neigt sein weiches, lockiges Fell ohne tägliches Bürsten zu schmerzhaften Verfilzungen (Matting) direkt auf der Haut, was Hautentzündungen begünstigt. Durch seine starke Bindung an den Menschen entwickelt er zudem leicht Trennungsangst. Heute erklärt PetSelf Körpersprache, Gelenkschutz und die 3-Schritte-Tagesroutine.",
+                "whyTitle": "Körpersprache des Maltipoos: Beschwichtigungssignale (Gähnen) vs. Trennungsangst",
+                "whyDesc": "Maltipoos reagieren hochsensibel auf Stimmungen. Bei Stress zeigen sie Beschwichtigungssignale wie Gähnen oder Schütteln. Anhaltendes Heulen oder Kratzen an Türen beim Alleinsein sind hingegen deutliche Zeichen von Trennungsangst.",
+                "body_signals": [
+                    {
+                        "name": "Gähnen & Schütteln des Körpers (Beschwichtigungssignale)",
+                        "meaning": "Selbstberuhigung in ungewohnten Situationen oder Signal der Friedfertigkeit.",
+                        "response": "Sprechen Sie ruhig zu und vermeiden Sie Überreizung, um einen entspannten Rückzugsort zu bieten."
+                    },
+                    {
+                        "name": "Kratzen an Türen & Anhaltendes Heulen (Trennungsstress)",
+                        "meaning": "Starke Panik und Angst vor dem Alleinsein bei Abwesenheit der Bezugsperson.",
+                        "response": "Vermeiden Sie überschwängliche Begrüßungen und nutzen Sie Schnüffelspiele zur Förderung der Selbstständigkeit."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Rutschfeste Bodenprüfung & Zupfbürsten-Fellpflege",
+                        "text": "Prüfen Sie rutschfeste Matten für die Kniescheiben und bürsten Sie das lockige Fell mit einer Zupfbürste von der Wurzel an aus."
+                    },
+                    {
+                        "name": "Nachmittag: Gelenkschonender Spaziergang & Unabhängigkeitstraining",
+                        "text": "Gehen Sie 20–30 Minuten eben spazieren ohne Sprünge, gefolgt von kurzen Trennungsübungen (5–10 Min.)."
+                    },
+                    {
+                        "name": "Abend: Pfotenhaare schneiden, Tränenspuren-Pflege & Gelenkmassage",
+                        "text": "Schneiden Sie Pfotenballen für besseren Halt frei, reinigen Sie die Augenpartie und massieren Sie die Beine sanft."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wie kann man einer Patellaluxation beim Maltipoo im Alltag vorbeugen?",
+                        "answer": "Verlegen Sie rutschfeste Matten auf glatten Böden, nutzen Sie Hundetreppen am Sofa, halten Sie das Fell zwischen den Pfotenballen kurz und verhindern Sie das Herabspringen von hohen Möbeln."
+                    },
+                    {
+                        "question": "Warum muss der Maltipoo täglich gebürstet werden, wenn er kaum haart?",
+                        "answer": "Ausgefallene Haare fallen nicht auf den Boden, sondern verfangen sich im lockigen Fell. Ohne tägliches Bürsten entstehen nahe der Haut dichte Filzknoten, die die Belüftung blockieren und Schmerzen verursachen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de prevenção de luxação de patela para Maltipoo, escovação anti-nós e rotina de 3 passos contra ansiedade de separação",
+                "description": "Guia de cuidados essenciais para o cão híbrido Maltipoo (Maltês x Poodle). Dicas para proteger as articulações, escovação com rasqueadeira e treino de independência.",
+                "authority": "Diretrizes Clínicas da World Small Animal Veterinary Association (WSAVA) e Padrões do American Kennel Club (AKC)",
+                "profile": {
+                    "breed": "Maltipoo (Híbrido de Maltês x Poodle Toy)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "Diurno (Dorme e descansa de 12 a 14 horas por dia)",
+                    "temperament": "Afetuoso, inteligente, muito social, dependente do tutor, ativo"
+                },
+                "intro": "O Maltipoo é um cão híbrido imensamente popular no mundo inteiro, combinando a inteligência e o pelame de baixa queda do Poodle Toy com a doçura do Maltês. Com a sua aparência de urso de pelúcia e temperamento brincalhão, é uma das escolhas preferidas para viver em apartamentos. Contudo, sendo um cão de porte pequeno, é predisposto a luxações de patela (rótula). Além disso, o seu pelo ondulado e macio requer escovação diária para evitar nós profundos (mats) junto à pele que causam dermatites. O seu forte apego aos tutores também pode desencadear ansiedade de separação. Hoje no PetSelf cobrimos os seus sinais, articulações e rotina diária.",
+                "whyTitle": "Sinais de comportamento do Maltipoo: Sinais de calma (Bocejos) vs. Ansiedade de separação",
+                "whyDesc": "Os Maltipoos são muito sensíveis. Sob estresse, exibem sinais de calma como bocejar ou sacudir o corpo. Já uivos contínuos ou arranhar portas ao ficar sozinho são sinais claros de ansiedade de separação.",
+                "body_signals": [
+                    {
+                        "name": "Bocejar e sacudir o corpo (Sinais de calma)",
+                        "meaning": "Tentativa de se acalmar em situações estranhas ou demonstrar intenções amigáveis.",
+                        "response": "Transmita tranquilidade com voz suave e reduza estímulos para oferecer um espaço relaxante."
+                    },
+                    {
+                        "name": "Arranhar portas e uivos contínuos (Estresse de separação)",
+                        "meaning": "Pânico e angústia gerados pela ausência do tutor.",
+                        "response": "Evite despedidas ou chegadas efusivas e use brinquedos de olfato (nosework) para criar independência."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Verificação de tapetes antiderrapantes e escovação com rasqueadeira",
+                        "text": "Confira tapetes contra luxações e escove o pelo ondulado desde a raiz usando uma rasqueadeira suave."
+                    },
+                    {
+                        "name": "Tarde: Passeios adequados às articulações e treino de independência",
+                        "text": "Faça uma caminhada de 20-30 min em terreno plano sem saltos, e treinos curtos de saída de 5-10 min."
+                    },
+                    {
+                        "name": "Noite: Tosa entre as patas, cuidado com lágrimas e massagem articular",
+                        "text": "Apare os pelos entre os coxins das patas para não escorregar, limpe manchas de lágrima e massageie as pernas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Como posso prevenir a luxação de patela no meu Maltipoo em casa?",
+                        "answer": "Coloque tapetes antiderrapantes nos pisos lisos, instale rampas no sofá ou cama, mantenha os pelos das patas curtos e proíba saltos de superfícies altas."
+                    },
+                    {
+                        "question": "Se o Maltipoo quase não solta pelo, por que precisa de escovação diária?",
+                        "answer": "O pelo morto não cai no chão, ficando preso no pelo ondulado. Se não for escovado diariamente com rasqueadeira, formam-se nós densos junto à pele que retêm umidade e causam dor e infecções."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Pencegahan Dislokasi Tempurung Lutut Maltipoo, Grooming Anti-Kusut, dan Rutin 3 Langkah Kecemasan Perpisahan",
+                "description": "Panduan perawatan esensial anjing hibrida populer Maltipoo (Maltese x Poodle). Lingkungan aman patela, teknik sisir slicker anti-kusut, dan latihan kemandirian.",
+                "authority": "Pedoman Klinis World Small Animal Veterinary Association (WSAVA) dan Standar Pemeliharaan American Kennel Club (AKC)",
+                "profile": {
+                    "breed": "Maltipoo (Hibrida Maltese x Toy Poodle)",
+                    "lifespan": "12 ~ 15 Tahun",
+                    "sleep_pattern": "Diurnal (Tidur dan Istirahat 12–14 Jam Sehari)",
+                    "temperament": "Penyayang, Cerdas, Sangat Sosial, Sangat Tergantung Pemilik, Aktif"
+                },
+                "intro": "Maltipoo adalah anjing hibrida (designer dog) terkenal di dunia yang menggabungkan kecerdasan dan bulu minim rontok dari Toy Poodle dengan sifat ramah dan manja dari Maltese. Sangat disukai karena penampilannya yang mirip boneka beruang serta sifatnya yang ceria, Maltipoo menjadi favorit utama anjing peliharaan dalam rumah. Namun, sebagai ras kecil, mereka rentan terhadap dislokasi tempurung lutut (patellar luxation). Bulu ikal halus mereka juga memerlukan penyisiran harian agar tidak membentuk gumpalan kusut (matting) dekat kulit yang dapat memicu dermatitis. Ikatan emosional yang tinggi dengan pemiliknya juga membuat mereka mudah mengalami kecemasan perpisahan (separation anxiety). Hari ini di PetSelf, kami membagikan panduan sinyal perilaku, perawatan sendi, dan rutin 3 langkah harian.",
+                "whyTitle": "Sinyal Perilaku Maltipoo: Sinyal Penenang (Menguap) vs Kecemasan Perpisahan",
+                "whyDesc": "Maltipoo sangat sensitif terhadap perasaan pemiliknya. Saat mengalami stres, mereka menunjukkan sinyal penenang (calming signals) seperti menguap atau mengibaskan tubuh. Sebaliknya, melolong terus-menerus atau mencakar pintu saat ditinggal adalah sinyal kuat kecemasan perpisahan.",
+                "body_signals": [
+                    {
+                        "name": "Menguap & Mengibaskan Tubuh (Sinyal Penenang)",
+                        "meaning": "Upaya menenangkan diri dalam situasi asing atau menunjukkan ketidakberbahayaan kepada orang lain.",
+                        "response": "Tenangkan dengan suara lembut dan kurangi stimulasi berlebih untuk memberi ruang istirahat yang nyaman."
+                    },
+                    {
+                        "name": "Mencakar Pintu & Melolong Terus-menerus (Stres Perpisahan)",
+                        "meaning": "Panik dan cemas parah yang disebabkan oleh perpisahan dengan pemiliknya.",
+                        "response": "Hindari sambutan atau pamitan berlebihan, dan gunakan mainan nosework atau latihan keluar sebentar untuk membangun kemandirian."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Karpet Anti-Slip & Menyisir dengan Sisir Slicker",
+                        "text": "Periksa karpet anti-slip agar lutut aman, dan sisir bulu ikal dari akarnya menggunakan sisir slicker agar tidak kusut."
+                    },
+                    {
+                        "name": "Siang: Jalan Santai Ramah Sendi & Latihan Kemandirian",
+                        "text": "Jalan kaki 20–30 menit di permukaan rata tanpa melompat, diikuti latihan ditinggal sebentar (5–10 menit) untuk memupuk kemandirian."
+                    },
+                    {
+                        "name": "Malam: Cukur Bulu Telapak Kaki, Pembersihan Noda Air Mata & Pijat Sendi",
+                        "text": "Cukur bulu telapak kaki agar tidak licin, bersihkan noda air mata, dan pijat lembut sendi kakinya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bagaimana cara mencegah dislokasi tempurung lutut pada Maltipoo di rumah?",
+                        "answer": "Pasang karpet anti-slip di lantai licin, sediakan tangga atau rampa khusus anjing di sofa atau tempat tidur, potong bulu di sela telapak kaki, dan larang keras melompat dari tempat tinggi."
+                    },
+                    {
+                        "question": "Mengapa Maltipoo perlu disisir setiap hari padahal bulunya jarang rontok?",
+                        "answer": "Bulu mati tidak jatuh ke lantai, melainkan tersangkut di dalam bulu ikalnya. Jika tidak disisir dengan sisir slicker setiap hari, bulu mati akan membentuk gumpalan padat dekat kulit yang menahan kelembapan dan memicu infeksi kulit."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/maltipoo_care.webp"
+    }
+}

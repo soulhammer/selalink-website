@@ -1,0 +1,459 @@
+{
+    "crystal-red-shrimp-care": {
+        "pubDate": "2026-04-28",
+        "updatedDate": "2026-04-28",
+        "locales": {
+            "ko": {
+                "title": "크리스탈 레드 쉬림프(CRS) 미세 수질(TDS·GH) 관리와 소일 바닥재 및 탈피 부전 예방 3단계 케어 루틴",
+                "description": "프리미엄 관상용 새우 크리스탈 레드 쉬림프(CRS) 케어 가이드. 약산성 소일 바닥재, TDS/GH 수질 정밀 유지, 탈피 실패 예방 3단계 루틴을 알아봅니다.",
+                "authority": "관상용 수생생물 보존·사육 표준 및 관상용 수족관 무척추동물 케어 가이드라인(OATA)",
+                "profile": {
+                    "breed": "크리스탈 레드 쉬림프 (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1.5 ~ 2년",
+                    "sleep_pattern": "상시 활동성 (하루 종일 미생물막 및 미세 조류 탐식)",
+                    "temperament": "온순함, 평화로움, 군집 생활, 극도로 예민함"
+                },
+                "intro": "크리스탈 레드 쉬림프(Caridina logemanni var. 'Crystal Red', 이하 CRS)는 선명한 붉은색과 흰색이 대비되는 밴드 패턴으로 전 세계 물생활 집사들에게 반려 관상용으로 폭발적인 인기를 끌고 있는 프리미엄 소형 갑각류입니다. CRS는 수조 안에서 지속적으로 미생물막(Biofilm)을 갉아먹는 귀여운 행동으로 보는 즐거움을 주지만, 수질과 온도의 미세한 변화에도 극도로 예민하게 반응합니다. 특히 껍질을 벗는 탈피(Molt) 과정에서 질소 산화물(암모니아, 아질산) 수치나 총용존고형물(TDS), 총경도(GH)가 맞지 않으면 탈피 부전(Dysecdysis)으로 사망할 위험이 매우 높습니다. 따라서 영양염류를 흡수하고 약산성을 유지해 주는 소일(Active Soil) 바닥재 선택과 스펀지 여과기 세팅, RO(역삼투압)수 기반의 미세 수질 유지가 생명 연장의 핵심입니다. 오늘 PetSelf에서는 CRS의 행동 신호와 수질 관리, 안전한 탈피를 돕는 3단계 케어 루틴을 다룹니다.",
+                "whyTitle": "CRS의 행동 특성: 포란춤(Breeding Dance)과 수질 이상 신호(탈색 및 무기력)",
+                "whyDesc": "CRS 수컷들은 암컷이 탈피 후 페로몬을 방출하면 수조 전체를 활발히 헤엄치는 '포란춤'을 춥니다. 반대로 수조 벽면에 모여들거나 색상이 투명하게 탈색되는 행동은 수질 오염이나 질소 중독의 위험 신호입니다.",
+                "body_signals": [
+                    {
+                        "name": "수조 전체를 날아다니는 포란춤 (Shrimp Breeding Dance)",
+                        "meaning": "암컷이 탈피 직후 번식 준비가 되었음을 나타내는 자연스러운 수컷들의 번식 유인 행동입니다.",
+                        "response": "수조에 충격을 주지 말고 일정한 수온과 수질을 유지해 자연스러운 포란(Egg Bearing)을 유도합니다."
+                    },
+                    {
+                        "name": "발색 탈색 및 수면 부근 정체 (Color Fading & Surface Clustering)",
+                        "meaning": "수조 내 질산염 농도 상승, 용존산소 부족, 혹은 TDS/GH 급변으로 인한 중독 및 스트레스 신호입니다.",
+                        "response": "즉시 TDS와 환수용 RO수의 수치를 점검하고, 에어레이션을 강화하여 수질을 안정시킵니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온(20~24°C) 및 TDS(100~150 ppm) 수치 측정",
+                        "text": "수온계와 TDS 미터기를 이용해 수질 변화를 점검하고 스펀지 여과기의 출수량과 용존산소를 확인합니다."
+                    },
+                    {
+                        "name": "낮: 바닥재 소일 버퍼링 및 미생물막(바이오필름) 상태 점검",
+                        "text": "약산성(pH 6.0~6.8)을 유지해 주는 소일의 상태를 확인하고, 미네랄 분말이나 바이오필름 활성화제를 소량 투여합니다."
+                    },
+                    {
+                        "name": "저녁: 전용 침강성 사료 급여 및 탈피 껍질(탈피각) 점검",
+                        "text": "2시간 내 먹을 수 있는 전용 사료를 급여하고 남은 잔여물은 치우며, 무사히 탈피한 탈피각이 있는지 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "CRS가 탈피하다가 중간에 멈춰서 죽는(탈피 부전) 이유는 무엇인가요?",
+                        "answer": "CRS의 탈피 부전은 주로 수조의 총경도(GH)와 총용존고형물(TDS) 수치가 너무 낮거나 높을 때, 또는 삼투압 급변으로 발생합니다. 미네랄(칼슘, 마그네슘)이 부족하면 껍질이 형성되지 않거나 단단해지지 않아 탈피선이 찢어지지 않으므로, GH 3~6, TDS 100~150 ppm 수치를 정밀하게 유지해야 합니다."
+                    },
+                    {
+                        "question": "수돗물 대신 왜 RO(역삼투압)수와 리미네랄 보충제를 써야 하나요?",
+                        "answer": "수돗물은 계절과 지역에 따라 TDS, GH, 중금속, 잔류 염소 수치가 불규칙하게 변하여 예민한 CRS에게 치명적입니다. 불순물이 0에 가까운 RO수에 CRS 전용 GH 미네랄제를 타서 일정 수치를 맞춰 환수해 주는 것이 탈피 부전과 갑작스러운 사멸을 막는 가장 안전한 방법입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Crystal Red Shrimp (CRS) Micro-Water Quality (TDS & GH) Management, Active Soil Selection, and 3-Step Molting Care Routine",
+                "description": "Essential care guide for the premium ornamental Crystal Red Shrimp (CRS / Caridina logemanni). Learn about active soil buffering, precise TDS/GH parameter control, and a 3-step routine to prevent molting failure.",
+                "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines and International Freshwater Invertebrate Care Standards",
+                "profile": {
+                    "breed": "Crystal Red Shrimp (CRS / Caridina logemanni)",
+                    "lifespan": "1.5 ~ 2 Years",
+                    "sleep_pattern": "Continuously Active (Grazes on Biofilm and Micro-Algae All Day)",
+                    "temperament": "Peaceful, Docile, Colony-Oriented, Extremely Sensitive"
+                },
+                "intro": "The Crystal Red Shrimp (Caridina logemanni var. 'Crystal Red', commonly known as CRS) is a premium freshwater dwarf crustacean celebrated globally for its striking red and white banded patterns. Continuously grazing on micro-biofilm across aquarium plants and substrate, CRS offer captivating visual appeal. However, they are exceptionally sensitive to minute fluctuations in water parameters and temperature. In particular, improper levels of nitrogenous wastes (ammonia, nitrite), Total Dissolved Solids (TDS), or General Hardness (GH) during the molting process often result in fatal dysecdysis (molting failure). Maintaining an active soil substrate that buffers water to a slightly acidic pH, pairing it with sponge filtration, and using Remineralized Reverse Osmosis (RO) water are vital to their survival. Today on PetSelf, we explain CRS behavioral signals, precise water parameter controls, and a 3-step daily care routine.",
+                "whyTitle": "CRS Behavioral Signals: Breeding Dance vs. Water Quality Distress (Fading & Lethargy)",
+                "whyDesc": "When a female CRS molts and releases pheromones, male shrimp engage in an energetic 'Breeding Dance', swimming rapidly across the aquarium. Conversely, pale coloration or gathering near the water surface indicates severe nitrogen toxicity or water parameter shock.",
+                "body_signals": [
+                    {
+                        "name": "Shrimp Breeding Dance (Frantic Swimming)",
+                        "meaning": "A natural mating behavior triggered by female pheromones immediately after a successful molt.",
+                        "response": "Avoid disturbing the tank; maintain stable temperature and parameters to encourage successful egg-bearing."
+                    },
+                    {
+                        "name": "Color Fading & Surface Clustering",
+                        "meaning": "A critical distress signal caused by elevated nitrate levels, low dissolved oxygen, or sudden shifts in TDS/GH.",
+                        "response": "Immediately verify TDS and parameters of replenishment RO water, and increase aeration to stabilize water quality."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temperature (20-24°C) & TDS (100-150 ppm) Measurement",
+                        "text": "Check water parameters using a digital TDS meter and thermometer, confirming steady sponge filter output and oxygenation."
+                    },
+                    {
+                        "name": "Afternoon: Active Soil Buffering & Biofilm State Inspection",
+                        "text": "Ensure active soil maintains a slightly acidic pH (6.0–6.8) and supply small amounts of mineral powder or biofilm activators."
+                    },
+                    {
+                        "name": "Evening: Sinking Pellet Feeding & Exuviae (Molt Shell) Inspection",
+                        "text": "Provide specialized shrimp pellets consumable within 2 hours, remove leftover food, and check for intact shed exoskeletons."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do CRS die during molting (Molting Failure / Dysecdysis)?",
+                        "answer": "Molting failure occurs when General Hardness (GH) or TDS levels are outside safe ranges or when osmotic shock takes place. Without sufficient minerals (calcium and magnesium), the new exoskeleton cannot properly separate, trapping the shrimp. Keep GH at 3–6 dGH and TDS at 100–150 ppm."
+                    },
+                    {
+                        "question": "Why should I use remineralized RO water instead of tap water?",
+                        "answer": "Tap water fluctuates in TDS, GH, heavy metals, and chloramines depending on season and region, which can be lethal to sensitive dwarf shrimp. Re-mineralizing pure Reverse Osmosis (RO) water with a specialized GH mineral powder ensures absolute parameter consistency."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "クリスタルレッドシュリンプ(CRS)の微小水質(TDS・GH)管理とソイル選択・脱皮不全予防3ステップルーティン",
+                "description": "観賞用エビの最高峰クリスタルレッドシュリンプ(CRS)の飼育ガイド。弱酸性ソイルの機能、TDS/GHの精密管理、脱皮不全を防ぐ3ステップ日常ケアを解説。",
+                "authority": "観賞用水生生物保全・飼育基準および観賞魚無脊椎動物ケアガイドライン(OATA)",
+                "profile": {
+                    "breed": "クリスタルレッドシュリンプ (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1.5 〜 2年",
+                    "sleep_pattern": "常時活動性 (1日中微生物膜や微細藻類をツマツマ食す)",
+                    "temperament": "温和、平和的、群集性、極めて繊細"
+                },
+                "intro": "クリスタルレッドシュリンプ（Caridina logemanni var. 'Crystal Red'、通称CRS）は、鮮やかな赤と白のバンド模様が美しく、世界中のアクアリウム愛好家から絶大な人気を集めるプレミアム小型甲殻類です。水槽内で絶え間なくツマツマと微生物膜（バイオフィルム）を食べる姿は見る者を魅了しますが、水質や水温の微小な変化に対して非常に敏感です。特に脱皮（Molt）の際、アンモニアや亜硝酸塩、総蒸発残留物（TDS）、総硬度（GH）が不適切だと脱皮不全（Dysecdysis）を起こし、死亡するリスクが高まります。そのため、弱酸性を維持する吸着・栄養系ソイル（Active Soil）の選定、スポンジフィルターの設置、RO（逆浸透膜）水ベースの水質維持が長期飼育の鍵となります。今回はPetSelfが、CRSの行動サインと精密な水質管理、安全な脱皮を助ける3ステップ日常ケアを解説します。",
+                "whyTitle": "CRSの行動特徴：抱卵舞い（Breeding Dance）と水質悪化サイン（退色と不活発）",
+                "whyDesc": "メスが脱皮してフェロモンを放出すると、オスたちが水槽全体を激しく泳ぎ回る「抱卵舞い」を見せます。一方で、個体が退色して白濁したり、水面付近に溜まる行動は、窒素中毒や水質急変の危険サインです。",
+                "body_signals": [
+                    {
+                        "name": "水槽内を泳ぎ回る抱卵舞い (Shrimp Breeding Dance)",
+                        "meaning": "メスが脱皮直後に繁殖可能状態になったことを示す、オスの正常な求愛行動です。",
+                        "response": "水槽に刺激を与えず、一定の水温と水質を維持して自然な抱卵（Egg Bearing）へ誘導します。"
+                    },
+                    {
+                        "name": "体の退色および水面付近への停滞 (Color Fading & Surface Clustering)",
+                        "meaning": "硝酸塩濃度の上がりに加え、溶存酸素不足やTDS/GHの急変による中毒・ストレス反応です。",
+                        "response": "直ちにTDSと足し水用RO水の数値を点検し、エアレーションを強化して水質を安定させます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温(20〜24℃)およびTDS(100〜150 ppm)の測定",
+                        "text": "デジタルTDSメーターと水温計で水質を確認し、スポンジフィルターからの排水量と酸素供給を点検します。"
+                    },
+                    {
+                        "name": "昼：ソイルのpH緩衝能力とバイオフィルム状態の確認",
+                        "text": "ソイルが弱酸性（pH 6.0〜6.8）を維持しているか確認し、ミネラルパウダーやバイオフィルム活性剤を少投与します。"
+                    },
+                    {
+                        "name": "夜：沈下性エビ専用フードの給餌と抜け殻(脱皮殻)の点検",
+                        "text": "2時間以内に食べ切れる量の専用フードを与え、残餌は除去し、無事に脱皮した抜け殻があるか確認します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "CRSが脱皮の途中で止まって死んでしまう(脱皮不全)原因は何ですか？",
+                        "answer": "脱皮不全は主に水槽の総硬度(GH)やTDSの値が高すぎる、または低すぎる場合や、浸透圧の急変によって発生します。カルシウムやマグネシウムなどのミネラルが不足すると新しい脱皮殻が正常に形成されず失敗するため、GH 3〜6、TDS 100〜150 ppmを正確に維持する必要があります。"
+                    },
+                    {
+                        "question": "なぜ水道水ではなくRO(逆浸透膜)水とミネラル添加剤を使うべきなのですか？",
+                        "answer": "水道水は地域や季節によってTDS、GH、残留塩素、重金属の数値が大きく変動し、繊細なCRSにとって致死的になり得ます。不純物がほぼゼロのRO水にCRS専用GHミネラル剤を添加して一定の数値を保って換水することが、脱皮不全や突然死を防ぐ最も安全な方法です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "水晶虾(CRS)微水质(TDS与GH)精细管理、泥底床选择与预防脱壳失败3阶段日常护理流程",
+                "description": "观赏虾经典品种水晶虾（CRS / Caridina logemanni）护理指南。了解弱酸性水草泥底床缓冲、TDS/GH水质精细调控与预防脱壳失败3阶段日常护理。",
+                "authority": "观赏水生生物保育与饲育标准及观赏水族无脊椎动物护理指南 (OATA)",
+                "profile": {
+                    "breed": "水晶虾 (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1.5 ~ 2年",
+                    "sleep_pattern": "全天活跃 (全天不断啃食生物膜与微藻)",
+                    "temperament": "温和、和平、群居、极度敏感"
+                },
+                "intro": "水晶虾（Caridina logemanni var. 'Crystal Red'，简称CRS）是一种备受全球水族爱好者青睐的高级小型观赏甲壳动物，以其红白相间的鲜艳条纹而闻名。它们在水族箱中不停啃食生物膜（Biofilm）的可爱动作极具观赏价值，但对水质和水温的微小变化极度敏感。特别是在脱壳（Molt）过程中，如果氨氮毒物、总溶解固体（TDS）或总硬度（GH）不达标，极易发生致命的脱壳失败（Dysecdysis）。因此，选择能将水质缓冲至弱酸性的活性水草泥（Active Soil）、配置水妖精水绵过滤，并使用RO逆渗透水重矿化调配水质，是延长其寿命的核心。今天 PetSelf 将为您解析水晶虾的行为信号、精细水质控制及3阶段日常护理流程。",
+                "whyTitle": "水晶虾的行为习性：抱卵舞（Breeding Dance）与水质恶化信号（褪色与呆滞）",
+                "whyDesc": "当母虾脱壳并释放蜕皮激素与性外激素时，公虾会在水族箱中疯狂游动，展示标志性的“抱卵舞”。相反，如果虾体褪色发白或大量聚集在水面附近，则是硝酸盐积聚或水质剧烈波动的危险信号。",
+                "body_signals": [
+                    {
+                        "name": "全缸飞游的抱卵舞 (Shrimp Breeding Dance)",
+                        "meaning": "母虾脱壳后具备受精条件所引发的公虾正常求偶与交配诱导行为。",
+                        "response": "切勿惊扰水缸，保持水温与水质稳定，引导其自然抱卵（Egg Bearing）。"
+                    },
+                    {
+                        "name": "虾体褪色与聚集水面 (Color Fading & Surface Clustering)",
+                        "meaning": "因硝酸盐浓度过高、溶解氧不足或TDS/GH剧烈波动导致的中毒与严重应激反应。",
+                        "response": "立即检测TDS与补给用RO水参数，加大气泵打氧，稳定水质。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：水温(20~24°C)与TDS(100~150 ppm)检测",
+                        "text": "使用TDS笔和水温计检查水质参数，确认水妖精出水量与溶氧状况。"
+                    },
+                    {
+                        "name": "中午：水草泥pH缓冲与生物膜状态检查",
+                        "text": "确认水草泥维持在弱酸性（pH 6.0~6.8），补充微量矿物质粉或生物膜激活剂。"
+                    },
+                    {
+                        "name": "晚上：喂食沉底专用虾粮与虾壳(蜕壳)检查",
+                        "text": "喂食2小时内能吃完的专用虾粮并清理残渣，检查缸内是否有完整脱下的虾壳。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水晶虾在脱壳过程中卡住死亡（脱壳失败）的原因是什么？",
+                        "answer": "脱壳失败主要是由于总硬度（GH）或TDS过高/过低，或是渗透压剧烈变化引起的。缺少钙、镁等矿物质会导致新外壳无法正常形成或硬化，使旧壳无法开裂，因此必须将GH控制在 3~6 dGH、TDS控制在 100~150 ppm。"
+                    },
+                    {
+                        "question": "为什么必须使用RO逆渗透水加矿物质盐而不能直接用自来水？",
+                        "answer": "自来水的TDS、GH、重金属和余氯会随季节和地区剧烈波动，这对敏感的水晶虾是致命的。使用接近零杂质的RO水添加水晶虾专用GH矿物盐调配至固定数值，是预防脱壳失败和暴毙最有效的方法。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de micro-calidad del agua (TDS y GH) para la gamba Cristal Red, sustrato activo y rutina de 3 pasos contra la muda fallida",
+                "description": "Guía esencial de cuidado para la gamba Cristal Red (CRS / Caridina logemanni). Control del sustrato activo, mantenimiento de TDS/GH y rutina de 3 pasos para evitar fallos en la muda.",
+                "authority": "Pautas de la Ornamental Aquatic Trade Association (OATA) y Estándares Internacionales de Invertebrados de Agua Dulce",
+                "profile": {
+                    "breed": "Gamba Cristal Red (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1,5 ~ 2 años",
+                    "sleep_pattern": "Actividad continua (Pastorea biofilme y microalgas todo el día)",
+                    "temperament": "Pacífica, dócil, gregaria, extremadamente sensible"
+                },
+                "intro": "La gamba Cristal Red (Caridina logemanni var. 'Crystal Red', o CRS) es un crustáceo enano de agua dulce muy codiciado por sus intensos patrones a franjas rojas y blancas. Al pastorear continuamente la capa de microorganismos (biofilme) en el acuario, resultan fascinantes de observar. Sin embargo, son extremadamente sensibles a variaciones mínimas en la calidad y temperatura del agua. Especialmente durante la muda (exuvia), parámetros incorrectos de compuestos nitrogenados, Sólidos Disueltos Totales (TDS) o Dureza General (GH) desencadenan disecdisis (muda fallida) mortal. Mantener un sustrato activo (Soil) que acidifique levemente el agua, usar filtros de esponja y realizar cambios de agua con agua de ósmosis (RO) remineralizada son la clave de su supervivencia. Hoy en PetSelf explicamos sus señales de comportamiento, parámetros y rutina diaria.",
+                "whyTitle": "Señales de comportamiento de la CRS: Danza de apareamiento vs. Estrés por agua (Decoloración y letargo)",
+                "whyDesc": "Cuando una hembra muda y libera feromonas, los machos nadan frenéticamente por todo el acuario en la 'danza de apareamiento'. Por el contrario, un color pálido o la acumulación en la superficie señalan toxicidad o shock por parámetros.",
+                "body_signals": [
+                    {
+                        "name": "Danza de apareamiento (Nado frenético por el acuario)",
+                        "meaning": "Comportamiento reproductivo natural de los machos atraídos por las feromonas de una hembra recién mudada.",
+                        "response": "Evite alterar el acuario; mantenga la temperatura y parámetros estables para facilitar una puesta exitosa."
+                    },
+                    {
+                        "name": "Decoloración del cuerpo y acumulación en la superficie",
+                        "meaning": "Señal crítica de estrés producida por exceso de nitratos, falta de oxígeno disuelto o cambios bruscos de TDS/GH.",
+                        "response": "Verifique de inmediato los TDS y parámetros del agua de ósmosis y aumente la aireación."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura (20–24 °C) y TDS (100–150 ppm)",
+                        "text": "Mida los parámetros con un medidor de TDS digital y termómetro, confirmando el flujo del filtro de esponja y la oxigenación."
+                    },
+                    {
+                        "name": "Tarde: Inspección del sustrato activo y estado del biofilme",
+                        "text": "Compruebe que el sustrato mantenga un pH ligeramente ácido (6,0–6,8) y añada pequeñas dosis de polvos minerales o activadores de biofilme."
+                    },
+                    {
+                        "name": "Noche: Alimentación con alimento hundible y revisión de mudas",
+                        "text": "Suministre alimento específico consumible en 2 horas, retire sobrantes y revise si hay exuvias (mudas) intactas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué mueren las gambas CRS durante el proceso de muda (Disecdisis)?",
+                        "answer": "La muda fallida ocurre cuando los valores de GH o TDS están fuera del rango o hay un shock osmótico. Sin minerales suficientes (calcio y magnesio), el nuevo exoesqueleto no se ablanda ni se separa correctamente, atrapando a la gamba. Mantenga el GH entre 3 y 6 dGH y el TDS entre 100 y 150 ppm."
+                    },
+                    {
+                        "question": "¿Por qué se debe usar agua de ósmosis (RO) remineralizada en lugar de agua del grifo?",
+                        "answer": "El agua del grifo sufre oscilaciones impredecibles de TDS, GH, metales pesados y cloro según la estación, lo cual resulta letal para estas gambas. Remineralizar agua pura de ósmosis con sales específicas para CRS es la única forma segura de prevenir muertes masivas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de la crevette Crystal Red (CRS) : paramètres d'eau (TDS/GH), sol actif et routine en 3 étapes contre les échecs de mue",
+                "description": "Guide de soin essentiel pour la crevette Crystal Red (CRS / Caridina logemanni). Buffering par sol actif, gestion précise du TDS/GH et routine en 3 étapes pour prévenir la dysécdysis.",
+                "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Internationales pour Invertébrés d'Eau Douce",
+                "profile": {
+                    "breed": "Crevette Crystal Red (CRS / Caridina logemanni)",
+                    "lifespan": "1,5 ~ 2 ans",
+                    "sleep_pattern": "Activité continuous (Pâture le biofilm et les micro-algues toute la journée)",
+                    "temperament": "Paisible, docile, grégaire, extrêmement sensible"
+                },
+                "intro": "La crevette Crystal Red (Caridina logemanni var. 'Crystal Red', ou CRS) est un crustacé nain d'eau douce haut de gamme prisé dans le monde entier pour sa robe rayée rouge et blanche. Pâturant constamment le biofilm sur les plantes et le sol, les CRS offrent un spectacle captivant. Cependant, elles sont extrêmement sensibles aux moindres variations de paramètres d'eau et de température. En particulier lors de la mue, des taux inadaptés de nitrites/nitrates, de Solides Dissous Totaux (TDS) ou de Dureté Totale (GH) provoquent des échecs de mue (dysécdysis) souvent fatals. Un sol actif (Soil) qui maintient un pH légèrement acide, une filtration sur éponge et l'utilisation d'eau osmosée (RO) re-minéralisée sont indispensables. Aujourd'hui sur PetSelf, découvrez ses signaux, ses paramètres et sa routine de soin.",
+                "whyTitle": "Signaux comportementaux de la CRS : Danse prénuptiale vs Stress de l'eau (Pâleur et léthargie)",
+                "whyDesc": "Lorsqu'une femelle mue et libère des phéromones, les mâles nagent frénétiquement dans tout l'aquarium : c'est la 'danse prénuptiale'. À l'inverse, une décoloration du corps ou un regroupement près de la surface indique une toxicité ou un choc thermique/chimique.",
+                "body_signals": [
+                    {
+                        "name": "Danse prénuptiale (Nage frénétique des mâles)",
+                        "meaning": "Comportement reproducteur naturel déclenché par les phéromones d'une femelle venant de muer.",
+                        "response": "Ne perturbez pas l'aquarium ; conservez des paramètres stables pour favoriser une bonne fécondation."
+                    },
+                    {
+                        "name": "Pâleur du corps et regroupement en surface",
+                        "meaning": "Signal de détresse grave causé par un excès de nitrates, un manque d'oxygène ou un saut brutal du TDS/GH.",
+                        "response": "Vérifiez immédiatement les TDS et l'eau osmosée de renouvellement, puis augmentez l'aération."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Mesure de la température (20–24 °C) et du TDS (100–150 ppm)",
+                        "text": "Contrôlez les paramètres au stylo TDS et thermomètre, en vérifiant le débit du filtre éponge et l'oxygénation."
+                    },
+                    {
+                        "name": "Après-midi : Contrôle du sol actif et présence de biofilm",
+                        "text": "Assurez-vous que le sol actif maintient un pH acide (6,0–6,8) et distribuez une pincée de poudres minérales ou d'activateurs de biofilm."
+                    },
+                    {
+                        "name": "Soir : Distribution de nourriture spécifique et contrôle des exuvies",
+                        "text": "Donnez des granules coulants consommables en 2 heures, retirez les restes et vérifiez la présence de mues (exuvies) complètes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les crevettes CRS meurent-elles pendant la mue (Dysécdysis) ?",
+                        "answer": "L'échec de mue survient lorsque le GH ou le TDS sont hors normes ou lors d'un choc osmotique. Sans assez de minéraux (calcium et magnésium), la nouvelle carapace ne peut se former correctement et la crevette reste coincée dans son ancienne exuvie. Conservez un GH de 3 à 6 dGH et un TDS de 100 à 150 ppm."
+                    },
+                    {
+                        "question": "Pourquoi privilégier l'eau osmosée (RO) re-minéralisée à l'eau du robinet ?",
+                        "answer": "L'eau du robinet subit des variations imprévisibles de TDS, GH, métaux lourds et chlore selon les saisons, ce qui est mortel pour ces crevettes délicates. Re-minéraliser de l'eau osmosée pure avec des sels spécifiques CRS garantit une stabilité absolue."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Crystal Red Zwerggarnele (CRS) Mikrowasserwerte (TDS & GH), Soil-Bodengrund und 3-Schritte-Häutungspflege",
+                "description": "Leitfaden für die Crystal Red Zwerggarnele (CRS / Caridina logemanni). Erfahren Sie alles über aktiven Soil-Bodengrund, TDS/GH-Präzisionswerte und die Vorbeugung von Häutungsproblemen.",
+                "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) und Internationale Standards für Süßwasser-Invertebraten",
+                "profile": {
+                    "breed": "Crystal Red Zwerggarnele (CRS / Caridina logemanni)",
+                    "lifespan": "1,5 ~ 2 Jahre",
+                    "sleep_pattern": "Daueraktiv (Weidet ganztägig Biofilm und Mikroalgen ab)",
+                    "temperament": "Friedlich, ruhig, gesellig, extrem empfindlich"
+                },
+                "intro": "Die Crystal Red Zwerggarnele (Caridina logemanni var. 'Crystal Red', kurz CRS) ist eine hochwertige Süßwasser-Zwerggarnele, die weltweit für ihre rot-weiß gestreifte Färbung geliebt wird. Das ununterbrochene Abweiden von Biofilm auf Pflanzen und Deko macht sie zu einem faszinierenden Aquarienbewohner. Allerdings reagieren sie extrem empfindlich auf kleinste Schwankungen der Wasserwerte. Insbesondere beim Häutungsprozess (Molt) führen falsche Nitratwerte, Gesamtsalzgehalte (TDS) oder Gesamthärten (GH) zu tödlichen Häutungsproblemen (Dysecdysis). Ein aktiver Soil-Bodengrund zur Stabilisierung im leicht sauren pH-Bereich, Schwammfilterung und der Einsatz von remineralisiertem Osmosewasser (RO) sind überlebenswichtig. Heute erklärt PetSelf Verhalten, Wasserwerte und die 3-Schritte-Tagesroutine.",
+                "whyTitle": "Verhalten der CRS: Paarungsschwimmen vs. Stress durch Wasserwerte (Verblassen & Trägheit)",
+                "whyDesc": "Häutet sich ein Weibchen und gibt Pheromone ab, schwimmen die Männchen aufgeregt durch das gesamte Becken ('Paarungsschwimmen'). Verblasst dagegen die Körperfarbe oder sammeln sich die Garnelen an der Wasseroberfläche, liegt eine Vergiftung oder ein Parameter-Schock vor.",
+                "body_signals": [
+                    {
+                        "name": "Paarungsschwimmen im gesamten Becken",
+                        "meaning": "Natürliches Fortpflanzungsverhalten der Männchen, ausgelöst durch Pheromone eines frisch gehäuteten Weibchens.",
+                        "response": "Vermeiden Sie Erschütterungen des Beckens und halten Sie die Wasserwerte stabil, um das Eiertragen zu fördern."
+                    },
+                    {
+                        "name": "Verblassen der Körperfarbe & Ansammlung an der Wasseroberfläche",
+                        "meaning": "Kritisches Stresssignal durch erhöhte Nitratwerte, Sauerstoffmangel oder abrupte TDS/GH-Schwankungen.",
+                        "response": "Überprüfen Sie sofort TDS und Werte des Nachfüll-Osmosewassers und verstärken Sie die Belüftung."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Messung von Wassertemperatur (20–24 °C) und TDS (100–150 ppm)",
+                        "text": "Kontrollieren Sie die Wasserwerte mit einem TDS-Messgerät und prüfen Sie den Durchfluss des Schwammfilters."
+                    },
+                    {
+                        "name": "Nachmittag: Soil-Bodengrund-Pufferung & Biofilm-Inspektion",
+                        "text": "Stellen Sie sicher, dass der Soil-Bodengrund den leicht sauren pH-Wert (6,0–6,8) hält, und geben Sie Mineralpulver hinzu."
+                    },
+                    {
+                        "name": "Abend: Fütterung von Sinkfutter & Häutungshaut-Kontrolle",
+                        "text": "Füttern Sie Futter, das innerhalb von 2 Stunden gefressen wird, entfernen Sie Reste und suchen Sie nach Häutungsresten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sterben Crystal Red Garnelen während der Häutung (Häutungsprobleme)?",
+                        "answer": "Häutungsprobleme entstehen, wenn GH oder TDS außerhalb des Toleranzbereichs liegen oder ein osmotischer Schock eintritt. Fehlen Mineralien (Kalzium, Magnesium), bildet sich der neue Panzer nicht richtig aus. Halten Sie GH bei 3–6 dGH und TDS bei 100–150 ppm."
+                    },
+                    {
+                        "question": "Warum sollte man remineralisiertes Osmosewasser (RO) statt Leitungswasser verwenden?",
+                        "answer": "Leitungswasser schwankt je nach Saison stark in TDS, GH, Schwermetallen und Chlor. Das Remineralisieren von Osmosewasser mit speziellen GH-Salzen ist der sicherste Weg, um Häutungsausfälle zu vermeiden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de microqualidade da água (TDS e GH) para o camarão Crystal Red, substrato ativo e rotina de 3 passos contra a muda mal-sucedida",
+                "description": "Guia de cuidados essenciais para o camarão Crystal Red (CRS / Caridina logemanni). Controle do substrato ativo, manutenção de TDS/GH e rotina de 3 passos para evitar falhas na muda.",
+                "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Internacionais de Invertebrados de Água Doce",
+                "profile": {
+                    "breed": "Camarão Crystal Red (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1,5 ~ 2 anos",
+                    "sleep_pattern": "Atividade contínua (Pastoreia biofilme e microalgas o dia todo)",
+                    "temperament": "Pacífico, dócil, gregário, extremamente sensível"
+                },
+                "intro": "O camarão Crystal Red (Caridina logemanni var. 'Crystal Red', ou CRS) é um crustáceo anão de água doce premium muito apreciado mundialmente pelo seu padrão de listras vermelhas e brancas. Ao pastorear continuamente a camada de microorganismos (biofilme) no aquário, proporciona um espetáculo fascinante. No entanto, é extremamente sensível a variações mínimas na qualidade e temperatura da água. Especialmente durante a muda (exúvia), parâmetros incorretos de compostos nitrogenados, Sólidos Dissolvidos Totais (TDS) ou Dureza Geral (GH) causam falhas na muda (disecdisia) que podem ser fatais. Manter um substrato ativo (Soil) que acidifique levemente a água, usar filtros de esponja e realizar trocas com água de osmose (RO) remineralizada são a chave da sua sobrevivência. Hoje no PetSelf explicamos os seus sinais de comportamento, parâmetros e rotina diária.",
+                "whyTitle": "Sinais de comportamento do CRS: Dança do acasalamento vs. Estresse pela água (Descoloração e letargia)",
+                "whyDesc": "Quando uma fêmea muda e liberta feromônios, os machos nadam freneticamente por todo o aquário na 'dança do acasalamento'. Pelo contrário, uma cor pálida ou a acumulação na superfície sinalizam toxicidade ou choque de parâmetros.",
+                "body_signals": [
+                    {
+                        "name": "Dança do acasalamento (Nado frenético pelo aquário)",
+                        "meaning": "Comportamento reprodutivo natural dos machos atraídos pelos feromônios de uma fêmea recém-mudada.",
+                        "response": "Evite perturbar o aquário; mantenha a temperatura e os parâmetros estáveis para facilitar uma postura bem-sucedida."
+                    },
+                    {
+                        "name": "Descoloração do corpo e acumulação na superfície",
+                        "meaning": "Sinal crítico de estresse produzido por excesso de nitratos, falta de oxigênio dissolvido ou mudanças bruscas de TDS/GH.",
+                        "response": "Verifique imediatamente o TDS e os parâmetros da água de osmose de reposição e aumente a aeração."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controle de temperatura (20–24 °C) e TDS (100–150 ppm)",
+                        "text": "Meça os parâmetros com um medidor de TDS digital e termômetro, confirmando o fluxo do filtro de esponja e a oxigenação."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do substrato ativo e estado do biofilme",
+                        "text": "Verifique se o substrato mantém um pH ligeiramente ácido (6,0–6,8) e adicione pequenas doses de pós minerais ou ativadores de biofilme."
+                    },
+                    {
+                        "name": "Noite: Alimentação com alimento afundável e revisão de mudas",
+                        "text": "Forneça alimento específico consumível em 2 horas, retire as sobras e verifique se há exúvias (mudas) intactas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os camarões CRS morrem durante o processo de muda (Disecdisia)?",
+                        "answer": "A falha na muda ocorre quando os valores de GH ou TDS estão fora do intervalo ou há choque osmótico. Sem minerais suficientes (cálcio e magnésio), o novo exoesqueleto não se forma corretamente, prendendo o camarão. Mantenha o GH entre 3 e 6 dGH e o TDS entre 100 e 150 ppm."
+                    },
+                    {
+                        "question": "Por que se deve usar água de osmose (RO) remineralizada em vez de água da torneira?",
+                        "answer": "A água da torneira sofre oscilações imprevisíveis de TDS, GH, metais pesados e cloro dependendo da estação, o que é fatal para estes camarões. Remineralizar água pura de osmose com sais específicos para CRS é a única forma segura de prevenir mortes súbitas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Kualitas Air Mikro (TDS & GH) Udang Hias Crystal Red, Pilihan Substrat Active Soil, dan Rutin 3 Langkah Pencegahan Gagal Ganti Kulit",
+                "description": "Panduan perawatan esensial udang hias Crystal Red (CRS / Caridina logemanni). Pengondisian substrat active soil, kontrol parameter TDS/GH, dan rutin 3 langkah pencegahan gagal ganti kulit.",
+                "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) dan Standar Pemeliharaan Invertebrata Air Tawar Internasional",
+                "profile": {
+                    "breed": "Udang Hias Crystal Red (Crystal Red Shrimp / Caridina logemanni)",
+                    "lifespan": "1,5 ~ 2 Tahun",
+                    "sleep_pattern": "Aktif Terus-Menerus (Memakan Biofilm dan Mikroalga Sepanjang Hari)",
+                    "temperament": "Damai, Penurut, Koloni, Sangat Sensitif"
+                },
+                "intro": "Udang hias Crystal Red (Caridina logemanni var. 'Crystal Red', atau CRS) adalah krustasea kerdil air tawar premium yang sangat populer di seluruh dunia karena pola garis merah dan putihnya yang mencolok. Memakan lapisan mikroorganisme (biofilm) secara terus-menerus di akuarium, CRS memberikan pemandangan yang memikat. Namun, mereka sangat sensitif terhadap perubahan kecil pada parameter air dan suhu. Terutama saat ganti kulit (molting), kadar limbah nitrogen, Total Dissolved Solids (TDS), atau General Hardness (GH) yang tidak sesuai dapat menyebabkan gagal ganti kulit (dysecdysis) yang fatal. Menggunakan substrat active soil yang menjaga pH tetap sedikit asam, filter spons, serta air Reverse Osmosis (RO) yang diremineralisasi adalah kunci kelangsungan hidup mereka. Hari ini di PetSelf, kami membagikan panduan sinyal perilaku, kontrol parameter air, dan rutin harian 3 langkah.",
+                "whyTitle": "Sinyal Perilaku CRS: Tarian Perkawinan vs Stres Air (Pucat & Lemas)",
+                "whyDesc": "Saat betina ganti kulit dan melepaskan feromon, udang jantan akan berenang dengan cepat di seluruh akuarium dalam 'tarian perkawinan'. Sebaliknya, warna yang memucat atau berkumpul di permukaan air menandakan racun nitrogen atau syok parameter air.",
+                "body_signals": [
+                    {
+                        "name": "Tarian Perkawinan Udang (Berenang Cepat Keliling Akuarium)",
+                        "meaning": "Perilaku kawin alami jantan yang dipicu oleh feromon betina yang baru saja selesai ganti kulit.",
+                        "response": "Hindari mengganggu akuarium; jaga suhu dan parameter tetap stabil untuk mendukung proses pembuahan."
+                    },
+                    {
+                        "name": "Warna Memucat & Berkumpul di Permukaan",
+                        "meaning": "Sinyal bahaya akibat kadar nitrat tinggi, kurangnya oksigen terlarut, atau perubahan mendadak pada TDS/GH.",
+                        "response": "Segera periksa TDS dan parameter air RO pengganti, serta tingkatkan aerasi untuk menstabilkan kualitas air."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pengukuran Suhu Air (20–24 °C) & TDS (100–150 ppm)",
+                        "text": "Periksa parameter air dengan TDS meter digital dan termometer, serta pastikan aliran filter spons dan oksigen berjalan baik."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Penyangga Active Soil & Biofilm",
+                        "text": "Pastikan active soil menjaga pH tetap sedikit asam (6,0–6,8) dan berikan sedikit bubuk mineral atau aktivator biofilm."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Pelet Tenggelam & Pemeriksaan Cangkang",
+                        "text": "Berikan pelet khusus yang habis dalam 2 jam, bersihkan sisa pakan, dan periksa apakah ada cangkang bekas ganti kulit yang utuh."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa udang CRS mati saat proses ganti kulit (Gagal Ganti Kulit / Dysecdysis)?",
+                        "answer": "Gagal ganti kulit terjadi saat nilai GH atau TDS berada di luar batas aman atau terjadi syok osmotik. Tanpa mineral yang cukup (kalsium dan magnesium), cangkang baru tidak terbentuk dengan baik sehingga udang terjebak di cangkang lama. Jaga GH pada 3–6 dGH dan TDS pada 100–150 ppm."
+                    },
+                    {
+                        "question": "Mengapa harus menggunakan air RO yang diremineralisasi daripada air keran?",
+                        "answer": "Air keran memiliki fluktuasi TDS, GH, logam berat, dan klorin yang tidak menentu tergantung musim, yang sangat berbahaya bagi udang sensitif ini. Diremineralisasikannya air Reverse Osmosis (RO) murni dengan garam mineral khusus CRS adalah cara paling aman untuk mencegah kematian mendadak."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/crystal_red_shrimp_care.webp"
+    }
+}

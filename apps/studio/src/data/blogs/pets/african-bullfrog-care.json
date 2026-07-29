@@ -1,0 +1,459 @@
+{
+    "african-bullfrog-care": {
+        "pubDate": "2026-04-06",
+        "updatedDate": "2026-04-06",
+        "locales": {
+            "ko": {
+                "title": "아프리카 황소개구리(픽시프로그) 습조 사육장 세팅과 무염소 수질·하면 관리 3단계 루틴",
+                "description": "팩맨, 화이트트리프로그와 함께 세계 3대 대형 관상용 양서류인 아프리카 황소개구리 사육 가이드. 민감한 투과성 피부를 위한 탈염소 수질 관리, 하면(Estivation) 코쿤 해제, 거식 예방 3단계 루틴을 소개합니다.",
+                "authority": "세계파충류양서류수의학회(ARAV) 및 양서류 임상 가이드라인",
+                "profile": {
+                    "breed": "아프리카 황소개구리 / 픽시프로그 (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25년 (사육 환경 최적화 시)",
+                    "sleep_pattern": "14 ~ 16시간 (야행성/매복형 - 습한 바닥재 속 잠입 휴식)",
+                    "temperament": "대식가, 영역 의식 강함, 공격적 먹이 반응, 단독 생활"
+                },
+                "intro": "아프리카 황소개구리(픽시프로그)는 수컷 체중이 1~2kg에 달하는 대형 양서류로, 하악의 둔탁한 치골 돌기와 강한 치악력으로 피더 인섹트를 집어삼키는 매복 포식자입니다. 개구리 피부는 가스 및 수분 투과성이 높아 수돗물의 잔류 염소나 배설물의 암모니아 오염에 매우 민감합니다. 환경이 건조해지면 피부 점액을 말려 코쿤을 만들고 하면(Estivation)에 들어가 거식을 보일 수 있습니다. 오늘 PetSelf에서 수질 관리와 거식 예방을 위한 3단계 루틴을 정리해 드립니다.",
+                "whyTitle": "픽시프로그의 생태 본능: 몸 부풀리기 위협과 코쿤 하면 신호",
+                "whyDesc": "픽시프로그는 천적을 느끼면 폐에 공기를 채워 몸을 두 배로 부풀리는 **'몸 부풀리기(Lung Inflation)'** 태세를 취합니다. 환경이 건조해지면 피부 점액을 말려 딱딱한 누에고치 껍질을 형성하고 땅속에서 **'하면 코쿤(Cocoon Estivation)'** 휴면에 들어갑니다.",
+                "body_signals": [
+                    {
+                        "name": "몸 부풀리기 및 입 벌리기 (Lung Inflation & Gaping)",
+                        "meaning": "폐에 공기를 넣어 몸집을 부풀리고 입을 벌려 치골 돌기를 드러내는 방어 위협 신호입니다.",
+                        "response": "자극하지 말고 조용히 물러나 어둡고 안정적인 환경을 조성합니다."
+                    },
+                    {
+                        "name": "땅속 잠입 및 점액막 형성 (Burrowing & Cocoon Formation)",
+                        "meaning": "피부 점액이 굳은 껍질을 형성하고 땅속으로 잠입하는 현상으로, 건조함 및 온도 저하로 인한 하면(Estivation) 진입 신호입니다.",
+                        "response": "습도를 높이고 28~30℃ 미온수의 탈염소수로 온욕시켜 코쿤을 녹여냅니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 탈염소수 교체 및 수질 암모니아 확인",
+                        "text": "잔류 염소를 제거한 물로 물그릇을 교체하여 삼투압 독성 쇼크와 암모니아 중독을 예방합니다."
+                    },
+                    {
+                        "name": "낮: 바닥재 습도(70~80%) 및 온습도(25~28℃) 점검",
+                        "text": "코코피트 바닥재의 촉촉함을 유지하고 매립형 열선으로 적정 온도를 유지합니다."
+                    },
+                    {
+                        "name": "밤: 칼슘 급여 및 배설물 즉시 제거",
+                        "text": "체구에 맞게 칼슘제를 더한 생먹이를 급여하고 피부 감염을 유발하는 배설물을 청소합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "수돗물을 그대로 물그릇에 사용해도 되나요?",
+                        "answer": "절대 안 됩니다. 양서류 피부는 수분을 직접 흡수하므로 수돗물의 염소와 중금속이 독성 쇼크를 일으킵니다. 하루 이상 받아둔 물이나 염소 제거제를 사용해야 합니다."
+                    },
+                    {
+                        "question": "개구리가 땅속에서 먹이를 안 먹을(거식) 때 해결책은?",
+                        "answer": "온·습도 저하로 하면 코쿤을 만든 상태입니다. 온도를 26~28℃로 올리고 바닥재 수분을 보충한 뒤, 28~30℃ 따뜻한 탈염소수로 온욕시키면 코쿤이 녹아 먹이 반응이 회복됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "African Bullfrog Substrate Setup and 3-Step Dechlorinated Water & Estivation Care Routine",
+                "description": "Essential care guide for the African Bullfrog (Pixie Frog). Learn about permeable skin water management, estivation cocoon care, anorexia prevention, and a 3-step routine.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Guidelines",
+                "profile": {
+                    "breed": "African Bullfrog / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 - 25 Years (In optimized captive conditions)",
+                    "sleep_pattern": "14 - 16 Hours (Nocturnal - Rests buried in moist substrate)",
+                    "temperament": "Gluttonous, Highly Territorial, Aggressive Feeders, Solitary"
+                },
+                "intro": "The African Bullfrog is a massive amphibian reaching 1–2 kg. Armed with tooth-like odontoid processes, they are apex ambush predators. Due to permeable skin, they are highly sensitive to chlorine and ammonia. When conditions dry out, they form a cocoon and enter estivation, often refusing food. Today, PetSelf outlines water quality and anorexia prevention care.",
+                "whyTitle": "African Bullfrog Instincts: Lung Inflation Threats and Estivation Cocoon Cues",
+                "whyDesc": "When threatened, African Bullfrogs adopt a **'Lung Inflation'** posture, doubling in size. If humidity drops, they harden dried mucous into a sheath buried underground in **'Cocoon Estivation'**.",
+                "body_signals": [
+                    {
+                        "name": "Lung Inflation & Gaping",
+                        "meaning": "Puffing up with air and opening the mouth to reveal jaw spikes, signaling defensive aggression.",
+                        "response": "Avoid physical contact; retreat softly to maintain a quiet, dark environment."
+                    },
+                    {
+                        "name": "Substrate Burrowing & Cocoon Formation",
+                        "meaning": "Enclosing in a hardened sheath underground, signaling estivation due to low humidity or cold.",
+                        "response": "Increase humidity and warm-bathe the frog gently in lukewarm dechlorinated water (28–30°C) to dissolve the sheath."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Dechlorinated Water Refresh & Ammonia Check",
+                        "text": "Replace water daily using dechlorinated water to prevent toxic shock and ammonia buildup."
+                    },
+                    {
+                        "name": "Afternoon: Substrate Moisture (70–80%) & Temp Check (25–28°C)",
+                        "text": "Maintain moist substrate, mist thoroughly, and monitor temperatures with under-tank heat sources."
+                    },
+                    {
+                        "name": "Evening: Calcium-Dusted Feeding & Waste Cleaning",
+                        "text": "Feed calcium-dusted feeder insects and immediately scoop out waste to protect sensitive skin."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is tap water safe for an African Bullfrog?",
+                        "answer": "No. Amphibian skin absorbs water directly; chlorine and heavy metals cause toxic shock. Always use dechlorinated or conditioned water."
+                    },
+                    {
+                        "question": "What should I do if my Pixie Frog burrows and refuses food?",
+                        "answer": "It has entered estivation. Raise temperature to 26–28°C, moisten substrate, and bathe in 28–30°C dechlorinated water to dissolve the cocoon and revive appetite."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "アフリカウシガエル(ピクシーフログ)の湿地ケージと無塩素水質・夏眠ケア3ステップルーチン",
+                "description": "アフリカウシガエルの飼育ガイド。滲透性の高い皮膚を守る脱塩素水質管理、夏眠(Estivation)ココーン解体、拒食予防の3ステップを解説します。",
+                "authority": "世界爬虫類両生類獣医学会 (ARAV) 臨床ガイドライン",
+                "profile": {
+                    "breed": "アフリカウシガエル / ピクシーフログ (Pyxicephalus adspersus)",
+                    "lifespan": "15 〜 25年 (最適な飼育環境下)",
+                    "sleep_pattern": "14 〜 16時間 (夜行性 - 湿った床材の中に潜んで休息)",
+                    "temperament": "大食い、強い縄張り意識、攻撃的な餌反応、単独生活"
+                },
+                "intro": "アフリカウシガエルは体重1〜2kgに達する大型両生類で、下顎の擬歯突起と強い力で獲物を丸呑みするハンターです。透過性の高い皮膚を持つため、塩素やアンモニアに極めて脆弱です。乾燥すると皮膚粘液で繭を作り夏眠に入り、拒食を起こします。今回は水質管理と拒食予防の3ステップを解説します。",
+                "whyTitle": "ピクシーフログの本能：身体膨張威嚇と繭(ココーン)夏眠サイン",
+                "whyDesc": "敵を察知すると体に空気を溜めて膨らませる**「身体膨張威嚇」**をとります。湿度が低下すると粘液を固めて土中で**「繭夏眠」**に入り水分蒸発を防ぎます。",
+                "body_signals": [
+                    {
+                        "name": "身体の膨張と口開け (Lung Inflation & Gaping)",
+                        "meaning": "肺に空気を溜めて体躯を大きく見せ、口を開けて擬歯を見せる強い防衛威嚇サインです。",
+                        "response": "刺激を避け、静かに離れて落ち着ける暗い環境を維持します。"
+                    },
+                    {
+                        "name": "床材への潜伏と粘液繭の形成 (Burrowing & Cocoon Formation)",
+                        "meaning": "皮膚分泌物が固まり土中に潜る現象で、乾燥や温度低下による夏眠突入サインです。",
+                        "response": "加湿し、28〜30℃のぬるま湯のカルキ抜き水で温浴させて繭膜を溶かします。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：カルキ抜き水の交換とアンモニア点検",
+                        "text": "塩素を完全に除去した水で毎日水を取り替え、アンモニア中毒を予防します。"
+                    },
+                    {
+                        "name": "昼：床材湿度(70〜80%)とケージ温度(25〜28℃)確認",
+                        "text": "ヤシガラ土床材の湿り具合を点検して霧吹きを行い、適正温度を維持します。"
+                    },
+                    {
+                        "name": "夜：カルシウム添加の給餌とフンの即時清掃",
+                        "text": "カルシウムパウダーをまぶした生き餌を与え、皮膚感染を防ぐためフンをすぐに取り除きます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水道水をそのまま使ってもいいですか？",
+                        "answer": "不可能です。皮膚から直接水分を吸収するため、水道水の残留塩素が致死的なショックを引き起こします。必ずカルキ抜き処理を行ってください。"
+                    },
+                    {
+                        "question": "土に潜って餌を食べない(拒食)ときの対処法は？",
+                        "answer": "夏眠繭を作った状態です。温度を26〜28℃に上げて加湿し、28〜30℃のぬるま湯で温浴させると繭が溶けて自然に目覚めます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "非洲牛蛙（精灵角蛙）湿造景与去氯水质与夏眠护理3阶段日常流程",
+                "description": "非洲牛蛙（Pixie Frog）饲养指南。介绍针对敏感渗透性皮肤的去氯水质管理、夏眠（Estivation）与拒食预防及3阶段日常护理流程。",
+                "authority": "世界爬行动物与两栖动物兽医师协会 (ARAV) 临床指南",
+                "profile": {
+                    "breed": "非洲牛蛙 / 精灵角蛙 (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25年 (人工饲养环境最优化时)",
+                    "sleep_pattern": "14 ~ 16小时 (夜行性 - 潜伏于潮湿垫料中休息)",
+                    "temperament": "食量巨大、领地意识强、捕食攻击性强、独居"
+                },
+                "intro": "非洲牛蛙雄性体型庞大，体重可达1~2公斤。其下颚拥有齿状突起，是顶级伏击猎手。但由于渗透性皮肤，它们对水中的余氯和氨极度敏感。干燥时会结茧夏眠并拒绝进食。今天 PetSelf 为您梳理去氯水质与预防拒食的3阶段日常护理流程。",
+                "whyTitle": "非洲牛蛙的生态本能：鼓气威慑与结茧夏眠信号",
+                "whyDesc": "感受到威胁时，牛蛙会吸气使身体膨胀，摆出**“鼓气威慑”**姿态。环境干燥时，体表粘液凝固成硬茧，潜入泥土进行**“结茧夏眠”**以保水。",
+                "body_signals": [
+                    {
+                        "name": "鼓气膨体与张嘴威慑 (Lung Inflation & Gaping)",
+                        "meaning": "吸气膨胀身体并张嘴露出齿突，属于自我防卫的警告信号。",
+                        "response": "切勿上手触碰，保持安静黑暗的环境让其恢复平静。"
+                    },
+                    {
+                        "name": "潜入垫料与凝膜结茧 (Burrowing & Cocoon Formation)",
+                        "meaning": "体表分泌物凝固形成硬壳茧潜入深处，代表湿度或温度下降诱发了夏眠。",
+                        "response": "增加湿度，用28~30°C的温热无氯水温浴融化粘膜茧以唤醒牛蛙。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：无氯净水更换与水质检查",
+                        "text": "每日使用除氯水更换水盆，防止残留氯与氨造成毒性休克。"
+                    },
+                    {
+                        "name": "白天：垫料湿度（70~80%）与温度（25~28°C）监测",
+                        "text": "检查椰土垫料湿润度并喷水，保持适宜的养殖温度。"
+                    },
+                    {
+                        "name": "晚上：添钙投喂与排泄物清理",
+                        "text": "投喂添加钙粉的活体饲料，并及时清理引发皮肤感染的排泄物。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以直接用自来水供牛蛙使用吗？",
+                        "answer": "绝对不行！两栖类皮肤直接吸收水份，自来水中的余氯会导致致命休克。必须使用困水或除氯水。"
+                    },
+                    {
+                        "question": "牛蛙钻入土里并拒食该怎么办？",
+                        "answer": "牛蛙已结茧进入夏眠。将温度提升至26~28°C，加湿垫料，并用28~30°C温热无氯水温浴融化硬茧即可唤醒食欲。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Configuración de terrario para la rana toro africana y rutina de 3 pasos de agua sin cloro y estivación",
+                "description": "Guía de cuidado para la rana toro africana (Pixie Frog). Conozca el manejo del agua sin cloro para su piel permeable, el cuidado del capullo de estivación y la prevención de anorexia.",
+                "authority": "Pautas Clínicas de la ARAV & Protocolos de Anfibios",
+                "profile": {
+                    "breed": "Rana Toro Africana / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25 años (en condiciones optimizadas)",
+                    "sleep_pattern": "14 ~ 16 horas (nocturna - enterrada en sustrato húmedo)",
+                    "temperament": "Glotona, territorial, agresiva al comer, solitaria"
+                },
+                "intro": "La rana toro africana alcanza hasta 2 kg de peso. Armadas con espolones óseos, son depredadores de emboscada. Debido a su piel permeable, son muy vulnerables al cloro y al amoníaco. Si el entorno se seca, forman un capullo mucoso para estivar y dejan de comer. Hoy en PetSelf explicamos sus señales y una rutina de 3 pasos.",
+                "whyTitle": "Instintos de la rana toro africana: Inflado corporal defensivo y capullo de estivación",
+                "whyDesc": "Ante amenazas, inflan su cuerpo duplicando su tamaño en una postura de **'Inflado corporal'**. Si la humedad cae, endurecen secreciones mucosas para formar una funda protectora bajo tierra en **'Estivación en capullo'**.",
+                "body_signals": [
+                    {
+                        "name": "Inflado corporal y apertura bucal (Lung Inflation & Gaping)",
+                        "meaning": "Inflar el cuerpo con aire y abrir la boca para mostrar sus espolones, señalando defensa agresiva.",
+                        "response": "Evite manipularla; aléjese suavemente para mantener un entorno tranquilo."
+                    },
+                    {
+                        "name": "Enterramiento y formación de capullo (Burrowing & Cocoon Formation)",
+                        "meaning": "Cubrirse con una capa mucosa endurecida mientras se entierra, indicando estivación por sequedad o frío.",
+                        "response": "Aumente la humedad y déle un baño templado con agua sin cloro (28–30 °C) para disolver el capullo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Agua sin cloro y control de amoníaco",
+                        "text": "Renueve el agua diariamente con agua declorada para prevenir toxicidad cutánea."
+                    },
+                    {
+                        "name": "Tarde: Humedad del sustrato (70–80%) y temperatura (25–28 °C)",
+                        "text": "Verifique la humedad de la fibra de coco, pulverice y controle la temperatura con manta térmica."
+                    },
+                    {
+                        "name": "Noche: Alimentación suplementada y limpieza de desechos",
+                        "text": "Ofrezca insectos suplementados con calcio y retire de inmediato los desechos para proteger su piel."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo usar agua del grifo directamente?",
+                        "answer": "¡Nunca! La piel absorbe agua por ósmosis. El cloro del grifo produce un shock tóxico fatal. Utilice siempre agua declorada o tratada."
+                    },
+                    {
+                        "question": "¿Qué hacer si la rana se entierra y no quiere comer?",
+                        "answer": "Ha formado un capullo de estivación. Aumente la temperatura a 26–28 °C, humedezca el sustrato y déle un baño templado (28–30 °C) para disolver la capa mucosa."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Aménagement de l'habitat pour la grenouille taureau africaine et routine en 3 étapes d'eau déchlorée et d'estivation",
+                "description": "Guide de soin pour la grenouille taureau africaine (Pixie Frog). Découvrez la gestion de l'eau déchlorée pour sa peau perméable, les soins du cocon d'estivation et la prévention de l'anorexie.",
+                "authority": "Directives Cliniques de l'ARAV & Protocoles Amphibiens",
+                "profile": {
+                    "breed": "Grenouille Taureau Africaine / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25 ans (en captivité optimisée)",
+                    "sleep_pattern": "14 ~ 16 heures (nocturne - enfouie dans le substrat)",
+                    "temperament": "Gloutonne, très territoriale, prédatrice, solitaire"
+                },
+                "intro": "La grenouille taureau africaine peut peser jusqu'à 2 kg. Armée de saillies osseuses, c'est un prédateur d'affût. Sa peau perméable la rend vulnérable au chlore et à l'ammoniac. Si l'air s'assèche, elle forme un cocon protecteur et entre en estivation. Aujourd'hui, PetSelf vous présente une routine de soin en 3 étapes.",
+                "whyTitle": "Instincts de la grenouille taureau africaine : Gonflement défensif et cocon d'estivation",
+                "whyDesc": "En cas de menace, elle adopte une posture de **'Gonflement corporel'**, doublant de volume. Si l'humidité baisse, elle sécrète un cocon étanche lors de l'**'Estivation sous cocon'**.",
+                "body_signals": [
+                    {
+                        "name": "Gonflement corporel et ouverture buccale (Lung Inflation & Gaping)",
+                        "meaning": "Gonfler son corps d'air et ouvrir la bouche pour exposer ses piques osseuses, signalant une défense agressive.",
+                        "response": "Évitez toute manipulation ; éloignez-vous doucement et laissez l'animal dans un endroit calme."
+                    },
+                    {
+                        "name": "Enfouissement et formation d'un cocon (Burrowing & Cocoon Formation)",
+                        "meaning": "S'entourer d'une enveloppe séchée tout en s'enfouissant, signalant le début de l'estivation.",
+                        "response": "Augmentez l'humidité et donnez-lui un bain tiède avec de l'eau déchlorée (28–30 °C) pour dissoudre le cocon."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Eau déchlorée et contrôle de l'ammoniac",
+                        "text": "Remplacez l'eau du bac chaque jour avec de l'eau déchlorée pour éviter tout choc toxique sur la peau."
+                    },
+                    {
+                        "name": "Après-midi : Humidité du substrat (70–80%) et température (25–28 °C)",
+                        "text": "Vérifiez l'humidité de la fibre de coco, vaporisez abondamment et contrôlez le tapis chauffant."
+                    },
+                    {
+                        "name": "Soir : Distribution de proies enrichies et nettoyage",
+                        "text": "Nourrissez avec des insectes saupoudrés de calcium et retirez immédiatement les excréments."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on utiliser l'eau du robinet directement ?",
+                        "answer": "Absolument pas ! La peau absorbe l'eau par osmose. Le chlore provoque un choc toxique mortel. Utilisez toujours de l'eau déchlorée."
+                    },
+                    {
+                        "question": "Que faire si la grenouille reste enfouie et refuse de manger ?",
+                        "answer": "Elle a formé un cocon d'estivation. Montez la température à 26–28 °C, réhumidifiez le substrat et donnez-lui un bain tiède (28–30 °C) pour dissoudre la membrane."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Terrarien-Einrichtung für den Afrikanischen Ochsenfrosch und 3-Schritt-Entchlorung & Sommerruhe-Pflege",
+                "description": "Haltungsleitfaden für den Afrikanischen Ochsenfrosch (Pixie Frog). Erfahren Sie alles über die Pflege der durchlässigen Haut mit entchlortem Wasser, die Kokon-Sommerruhe und die 3-Schritt-Pflege.",
+                "authority": "Richtlinien der ARAV & Amphibien-Klinikprotokolle",
+                "profile": {
+                    "breed": "Afrikanischer Ochsenfrosch / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25 Jahre (bei optimaler Haltung)",
+                    "sleep_pattern": "14 ~ 16 Stunden (nachtaktiv - gräbt sich im Substrat ein)",
+                    "temperament": "Gefräßig, sehr territorial, aggressives Fressverhalten, Einzelgänger"
+                },
+                "intro": "Der Afrikanische Ochsenfrosch wiegt bis zu 2 kg. Mit zahnähnlichen Fortsätzen ist er ein mächtiger Lauerjäger. Wegen seiner durchlässigen Haut reagiert er sensibel auf Chlor und Ammoniak. Trocknet das Terrarium aus, bildet er einen Schleimkokon zur Sommerruhe (Estivation). Heute erklärt PetSelf eine 3-Schritt-Routine.",
+                "whyTitle": "Instincts des Ochsenfroschs: Körperaufblähen und Kokon-Sommerruhe",
+                "whyDesc": "Bei Bedrohung nimmt er eine **'Aufbläh- und Drohhaltung'** ein. Sinkt die Luftfeuchtigkeit, verhärtet sich seine Hautschleimschicht zu einem Schutzkokon unter der Erde (**'Kokon-Sommerruhe'**).",
+                "body_signals": [
+                    {
+                        "name": "Körperaufblähen und Maulaufsperren (Lung Inflation & Gaping)",
+                        "meaning": "Aufpumpen des Körpers mit Luft und Öffnen des Mauls als aggressive Abwehrwarnung.",
+                        "response": "Vermeiden Sie Berührungen; ziehen Sie sich zurück und sorgen Sie für Ruhe."
+                    },
+                    {
+                        "name": "Eingraben und Kokonbildung (Burrowing & Cocoon Formation)",
+                        "meaning": "Einhüllung in eine getrocknete Hülle beim Eingraben als Zeichen der Sommerruhe.",
+                        "response": "Erhöhen Sie die Feuchtigkeit und baden Sie den Frosch in 28–30 °C warmem, entchlortem Wasser."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Entchlorung des Wassers & Ammoniakkontrolle",
+                        "text": "Erneuern Sie das Wasser täglich mit entchlortem Wasser zur Vermeidung von Gift-Schocks."
+                    },
+                    {
+                        "name": "Nachmittag: Feuchtigkeit (70–80%) & Temperatur (25–28 °C)",
+                        "text": "Prüfen Sie die Feuchte der Kokosfaser, sprühen Sie reichlich und kontrollieren Sie die Heizmatte."
+                    },
+                    {
+                        "name": "Abend: Fütterung mit Kalzium & Kotbeseitigung",
+                        "text": "Füttern Sie bestäubte Futterinsekten und entfernen Sie Ausscheidungen umgehend."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man Leitungswasser direkt verwenden?",
+                        "answer": "Nein. Die Haut nimmt Wasser direkt auf. Chlor führt zu tödlichem Vergiftungsschock. Nutzen Sie stets entchlortes Wasser."
+                    },
+                    {
+                        "question": "Was tun, wenn der Frosch eingegraben bleibt und nicht frisst?",
+                        "answer": "Er befindet sich in Sommerruhe. Erhöhen Sie die Temperatur auf 26–28 °C, feuchten Sie das Substrat an und baden Sie ihn in 28–30 °C warmem Wasser."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Configuração do terrário para o rã-touro-africano e rotina de 3 passos de água sem cloro e estivação",
+                "description": "Guia de cuidados com o rã-touro-africano (Pixie Frog). Saiba mais sobre o manejo de água sem cloro para a sua pele permeável, cuidados com o casulo de estivação e prevenção da anorexia.",
+                "authority": "Diretrizes Clínicas da ARAV & Protocolos Herpetológicos",
+                "profile": {
+                    "breed": "Rã-touro-africano / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25 anos (em cativeiro otimizado)",
+                    "sleep_pattern": "14 ~ 16 horas (noturno - enterrado no substrato)",
+                    "temperament": "Glutão, muito territorial, predador agressivo, solitário"
+                },
+                "intro": "O rã-touro-africano pode pesar até 2 kg. Equipado com projeções ósseas nas mandíbulas, é um predador de emboscada. Sua pele permeável torna-o sensível ao cloro e à amónia. Em ambientes secos, forma um casulo e entra em estivação. Hoje no PetSelf explicamos uma rotina de 3 passos.",
+                "whyTitle": "Instintos do rã-touro-africano: Inflamento corporal defensivo e casulo de estivação",
+                "whyDesc": "Perante ameaças, adota uma postura de **'Inflamento corporal'**, duplicando de tamanho. Se a humidade cai, endurece secreções num casulo sob a terra em **'Estivação em casulo'**.",
+                "body_signals": [
+                    {
+                        "name": "Inflamento corporal e abertura bucal (Lung Inflation & Gaping)",
+                        "meaning": "Inflar o corpo com ar e abrir a boca para expor as projeções ósseas, sinalizando defesa agressiva.",
+                        "response": "Evite o manuseio; afaste-se suavemente e mantenha um ambiente calmo e escuro."
+                    },
+                    {
+                        "name": "Enterramento e formação de casulo (Burrowing & Cocoon Formation)",
+                        "meaning": "Envolver-se numa camada seca enquanto se enterra, indicando estivação por seca ou frio.",
+                        "response": "Aumente a humidade e dê-lhe um banho morno com água sem cloro (28–30 °C) para dissolver o casulo."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Água sem cloro e controlo de amónia",
+                        "text": "Mude a água do recipiente diariamente com água sem cloro para evitar choque tóxico."
+                    },
+                    {
+                        "name": "Tarde: Humidade do substrato (70–80%) e temperatura (25–28 °C)",
+                        "text": "Verifique a humidade da fibra de coco, borrife água e controle a placa de aquecimento."
+                    },
+                    {
+                        "name": "Noite: Alimentação suplementada e limpeza de resíduos",
+                        "text": "Ofereça insetos com cálcio e remova imediatamente os dejetos para proteger a pele."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso usar água da torneira diretamente?",
+                        "answer": "Nunca! A pele absorve água por osmose. O cloro da torneira causa choque tóxico fatal. Use sempre água tratada e sem cloro."
+                    },
+                    {
+                        "question": "O que fazer se a rã se enterrar e recusar comer?",
+                        "answer": "Entrou em estivação. Aumente a temperatura para 26–28 °C, humedeça o substrato e dê um banho morno (28–30 °C) para dissolver o casulo."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Pengaturan Kandang Katak Lembu Afrika dan Rutinitas 3 Langkah Air Bebas Klorin & Estivasi",
+                "description": "Panduan perawatan Katak Lembu Afrika (Pixie Frog). Pelajari pengelolaan air bebas klorin untuk kulit permeabelnya, perawatan kepompong estivasi, dan pencegahan anoreksia.",
+                "authority": "Panduan Klinis ARAV & Protokol Amfibi",
+                "profile": {
+                    "breed": "Katak Lembu Afrika / Pixie Frog (Pyxicephalus adspersus)",
+                    "lifespan": "15 ~ 25 tahun (pada kondisi penangkaran optimal)",
+                    "sleep_pattern": "14 ~ 16 jam (nokturnal - terkubur di substrat lembap)",
+                    "temperament": "Rakus, sangat teritorial, pemangsa agresif, soliter"
+                },
+                "intro": "Katak Lembu Afrika dapat mencapai bobot 1–2 kg. Dilengkapi tonjolan tulang rahang, katak ini adalah pemangsa penyergap yang tangguh. Karena kulitnya permeabel, mereka sangat sensitif terhadap klorin dan amonia. Jika lingkungan kering, mereka membentuk kepompong untuk estivasi dan berhenti makan. Hari ini PetSelf membagikan 3 langkah rutinitas perawatan.",
+                "whyTitle": "Insting Katak Lembu Afrika: Mengembangkan Tubuh Pertahanan dan Kepompong Estivasi",
+                "whyDesc": "Saat terancam, katak ini **'Mengembangkan Tubuh'** hingga dua kali lipat. Jika kelembapan turun, mereka mengeraskan lendir kulit menjadi pelindung saat **'Estivasi Kepompong'** di dalam tanah.",
+                "body_signals": [
+                    {
+                        "name": "Mengembangkan Tubuh & Membuka Mulut (Lung Inflation & Gaping)",
+                        "meaning": "Mengisi tubuh dengan udara dan membuka mulut lebar untuk menunjukkan tonjolan rahang sebagai pertahanan.",
+                        "response": "Hindari memegangnya; menjauhlah dengan perlahan dan sediakan lingkungan yang tenang."
+                    },
+                    {
+                        "name": "Mengubur Diri & Membentuk Kepompong (Burrowing & Cocoon Formation)",
+                        "meaning": "Membungkus diri dengan lapisan lendir kering saat mengubur diri, menandakan estivasi akibat kering atau dingin.",
+                        "response": "Tingkatkan kelembapan dan mandikan dengan air hangat tanpa klorin (28–30 °C) untuk melarutkan kepompong."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Penggantian Air Tanpa Klorin & Cek Amonia",
+                        "text": "Ganti air di wadah setiap hari dengan air bebas klorin untuk mencegah syok racun pada kulit."
+                    },
+                    {
+                        "name": "Siang: Kelembapan Substrat (70–80%) & Suhu (25–28 °C)",
+                        "text": "Periksa kelembapan serat kelapa, semprot air, dan pantau suhu dengan pemanas kandang."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Kalsium & Pembersihan Kotoran",
+                        "text": "Berikan pakan serangga yang ditaburi kalsium dan segera bersihkan kotoran untuk melindungi kulit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah menggunakan air keran secara langsung?",
+                        "answer": "Sangat tidak boleh! Kulit amfibi menyerap air secara langsung. Klorin dalam air keran menyebabkan syok racun yang mematikan. Selalu gunakan air tanpa klorin."
+                    },
+                    {
+                        "question": "Apa yang harus dilakukan jika katak terkubur dan mogok makan?",
+                        "answer": "Katak telah masuk ke fase estivasi. Naikkan suhu kandang ke 26–28 °C, basahi substrat, dan mandikan dengan air hangat (28–30 °C) untuk melarutkan kepompong."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/african_bullfrog_care.webp"
+    }
+}

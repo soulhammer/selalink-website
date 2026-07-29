@@ -1,0 +1,459 @@
+{
+    "milk-snake-care": {
+        "pubDate": "2026-03-16",
+        "updatedDate": "2026-03-16",
+        "locales": {
+            "ko": {
+                "title": "밀크스네이크 쿨존·핫존 온도 구배 세팅과 피딩·탈피 케어 3단계 사육 루틴",
+                "description": "콘스네이크, 볼파이톤과 함께 세계 3대 애완뱀으로 불리는 밀크스네이크 사육 가이드. 베이트형 의태 원리, 적정 온도(쿨존 24~26℃, 핫존 29~31℃) 구배 세팅, 피딩 주기 및 탈피 백탁 현상 관리 3단계 루틴을 소개합니다.",
+                "authority": "세계파충류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 및 양서파충류 임상 가이드라인",
+                "profile": {
+                    "breed": "밀크스네이크 (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20년 (사육 환경 최적화 시)",
+                    "sleep_pattern": "12 ~ 14시간 (야행성/박명성 - 주간에는 은신처에서 휴식)",
+                    "temperament": "겁이 많음, 독성 없음(베이트형 의태), 활동적, 순해짐"
+                },
+                "intro": "밀크스네이크(Milk Snake)는 콘스네이크, 볼파이톤과 함께 전 세계 애완뱀 시장에서 가장 사랑받는 3대 관상용 뱀 중 하나입니다. 강렬한 붉은색, 검은색, 노란색(또는 하얀색)의 선명한 밴드 패턴이 특징이며, 이는 치명적인 독뱀인 코랄스네이크(산호뱀)의 외형을 모방하여 포식자를 퇴치하는 생물학적 '베이트형 의태(Batesian Mimicry)'의 대표적 사례입니다. 아름다운 외형과 달리 완전한 무독성 뱀으로, 적절한 사육 환경만 갖추어지면 순하고 건강하게 자랍니다. 변온동물인 파충류 특성상 체온 조절을 위한 쿨존(24~26℃)과 핫존(29~31℃)의 온도 구배 세팅과 규칙적인 피딩, 탈피 관리가 필수적입니다. 오늘 PetSelf에서는 밀크스네이크의 방어·탈피 신호와 건강 유지를 위한 3단계 사육 케어 루틴을 정리해 드립니다.",
+                "whyTitle": "밀크스네이크의 생태 본능: 베이트형 의태와 꼬리 떨기·악취 분비 경고 신호",
+                "whyDesc": "밀크스네이크는 위협을 느낄 때 꼬리를 바닥에 격렬하게 진동시켜 건질구기(방울뱀) 소리를 흉내 내는 **'꼬리 떨기(Tail Rattling)'** 행동을 하거나 항문샘에서 악취 액체를 분비하는 **'머스킹(Musking)'** 반응을 보입니다. 또한 탈피 전에는 눈이 푸르스름하게 흐려지는 **'눈 백탁(Blue Eye Opacity)'** 현상이 나타나며 시야가 가려져 예민해집니다.",
+                "body_signals": [
+                    {
+                        "name": "꼬리 떨기 및 악취 분비 (Tail Rattling & Musking)",
+                        "meaning": "꼬리를 빠르게 떨어 소리를 내거나 악취 물질을 분비하는 행동으로, 포식자나 위협 요소에 대한 정당방위 경고 신호입니다.",
+                        "response": "핸들링을 즉시 중단하고 어둡고 조용한 은신처로 돌려보내 안정을 취하게 합니다."
+                    },
+                    {
+                        "name": "눈 백탁 및 발색 둔화 (Blue Eye Opacity / Dull Color)",
+                        "meaning": "눈동자가 푸른빛으로 백탁되고 체색이 어두워지는 현상으로, 기존 허물을 벗어던지는 탈피(Molting)가 임박했음을 의미합니다.",
+                        "response": "사육장 내 습도를 70% 이상으로 높여주거나 습계 은신처를 제공하고 피딩을 잠시 중단합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 쿨존(24~26℃)·핫존(29~31℃) 온도 및 깨끗한 물 점검",
+                        "text": "디지털 온도계로 쿨존과 핫존(하부 전기장판/열선)의 온도를 확인하고, 몸을 담글 수 있는 물그릇의 물을 신선하게 교체합니다."
+                    },
+                    {
+                        "name": "낮: 사육장 습도(40~60%) 모니터링 및 배설물 제거",
+                        "text": "기본 습도를 유지하고 배설물을 즉시 치워 스팟 청소를 진행하며, 은신처 내부 상태를 점검합니다."
+                    },
+                    {
+                        "name": "밤: 해동된 냉동 쥐 피딩 주기 점검 및 야간 관찰",
+                        "text": "유체는 5~7일, 성체는 10~14일 주기로 체구에 맞는 해동된 냉동 쥐(Pinkie/Fuzzy/Adult Mouse)를 급여하고, 삼킨 후 48시간 동안 핸들링을 금지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "밀크스네이크 두 마리를 한 사육장에서 합사해도 괜찮나요?",
+                        "answer": "절대 안 됩니다! 밀크스네이크는 킹스네이크속(Lampropeltis)에 속하는 뱀으로, 다른 뱀을 잡아먹는 뱀식성(Ophiophagy) 습성을 지니고 있습니다. 합사 시 서로를 먹이로 오인하여 잡아먹는 카니발리즘(Cannibalism)이 발생하므로 반드시 1케이지 1두 단독 사육을 원칙으로 해야 합니다."
+                    },
+                    {
+                        "question": "화려한 붉은색과 검은색 띠무늬가 있는데 정말 독이 없나요?",
+                        "answer": "네, 독이 전혀 없습니다. 치명적인 독을 가진 코랄스네이크(Coral Snake)의 색상을 본뜬 '베이트형 의태(Batesian Mimicry)' 현상입니다. 생물학적 구별법으로 'Red on Black, Friend of Jack / Red on Yellow, Kill a Fellow'라는 서양 속담이 있듯, 붉은색 띠가 검은색 띠와 붙어 있는 밀크스네이크는 무독성입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Milk Snake Temperature Gradient Setup and 3-Step Feeding & Shedding Care Routine",
+                "description": "Comprehensive care guide for the Milk Snake, one of the top three pet snake species worldwide. Learn about Batesian mimicry, establishing a thermal gradient (Cool Zone 24-26°C, Hot Zone 29-31°C), feeding cycles, and blue-eye shedding management.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Guidelines & Herpetological Clinical Protocols",
+                "profile": {
+                    "breed": "Milk Snake (Lampropeltis triangulum)",
+                    "lifespan": "15 - 20 Years (In optimized captive conditions)",
+                    "sleep_pattern": "12 - 14 Hours (Nocturnal / Crepuscular - Rests in hides during daylight)",
+                    "temperament": "Timid, Non-venomous (Batesian Mimic), Active, Docile with Handling"
+                },
+                "intro": "Alongside the Corn Snake and Ball Python, the Milk Snake is recognized as one of the top three most popular pet snakes globally. Known for its striking tri-color bands of red, black, and yellow or white, it serves as a textbook example of 'Batesian Mimicry'—harmlessly imitating the venomous Coral Snake to ward off predators. Despite their formidable appearance, Milk Snakes are completely non-venomous and become docile with gentle care. As ectotherms, establishing a thermal gradient featuring a Cool Zone (24–26°C / 75–78°F) and a Hot Zone (29–31°C / 84–88°F) is crucial for digestion and thermoregulation. Today, PetSelf outlines Milk Snake behavioral signals and shares a 3-step routine for optimal husbandry.",
+                "whyTitle": "Milk Snake Instincts: Batesian Mimicry, Tail Rattling, and Blue-Eye Shedding",
+                "whyDesc": "When threatened, Milk Snakes employ defensive instincts such as **'Tail Rattling'** against dry leaves to mimic a rattlesnake, or releasing a foul-smelling secretion known as **'Musking'**. Prior to ecdysis (shedding), their eyes turn opaque due to fluid buildup, a phase known as **'Blue Eye Opacity'**, which temporarily impairs vision and increases nervousness.",
+                "body_signals": [
+                    {
+                        "name": "Tail Rattling & Musking",
+                        "meaning": "Vibrating the tail rapidly or excreting unpleasant musking fluid, signaling defense warnings against perceived threats.",
+                        "response": "Halt handling immediately and return the snake to its quiet enclosure to calm down."
+                    },
+                    {
+                        "name": "Blue Eye Opacity & Dull Coloration",
+                        "meaning": "Clouding of the spectacle eyes and dulling of skin coloration, indicating imminent skin shedding (ecdysis).",
+                        "response": "Raise ambient humidity to 70%+ or provide a humid hide, and suspend feeding until shedding completes."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Thermal Gradient Check (Cool 24–26°C / Hot 29–31°C) & Fresh Water",
+                        "text": "Verify temperature zones using digital thermometers and replace water in a dish large enough for full body soaking."
+                    },
+                    {
+                        "name": "Afternoon: Humidity Monitoring (40–60%) & Spot Cleaning",
+                        "text": "Monitor baseline humidity, spot-clean fecal waste promptly, and inspect hide conditions."
+                    },
+                    {
+                        "name": "Evening: Thawed Rodent Feeding Schedule & Nighttime Observation",
+                        "text": "Offer appropriately sized thawed frozen mice (hatchlings every 5–7 days; adults every 10–14 days) and refrain from handling for 48 hours post-feeding to prevent regurgitation."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Can I cohabitate two Milk Snakes in the same enclosure?",
+                        "answer": "Absolutely not. Milk Snakes belong to the Kingsnake genus (Lampropeltis) and are famous for ophiophagy—the instinct to eat other snakes. Co-housing will inevitably lead to cannibalism where one snake consumes the other. House them individually at all times."
+                    },
+                    {
+                        "question": "Are Milk Snakes venomous despite their bright red warning pattern?",
+                        "answer": "No, they are completely non-venomous. Their bright pattern is a classic example of Batesian Mimicry, mimicking venomous Coral Snakes. In North America, the rhyme 'Red on black, friend of Jack; red on yellow, kill a fellow' helps distinguish harmless Milk Snakes (where red touches black) from venomous Coral Snakes."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ミルクスネークのクールゾーン・ホットゾーン温度勾配設定と給餌・脱皮ケア3ステップルーチン",
+                "description": "コーンスネーク、ボールパイソンと並ぶ世界3大ペットヘビ、ミルクスネークの飼育ガイド。ベイツ型擬態の仕組み、適正温度（クールゾーン24〜26℃、ホットゾーン29〜31℃）の勾配設定、給餌サイクルと脱皮白濁ケアの3ステップを解説します。",
+                "authority": "世界爬虫類両生類獣医学会 (ARAV) および 爬虫類臨床プロトコル",
+                "profile": {
+                    "breed": "ミルクスネーク (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 〜 20年 (最適な飼育環境下)",
+                    "sleep_pattern": "12 〜 14時間 (夜行性/薄明薄暮性 - 日中はシェルターで休む)",
+                    "temperament": "臆病、無毒(ベイツ型擬態)、活動的、ハンドリングで大人しくなる"
+                },
+                "intro": "ミルクスネーク（Milk Snake）は、コーンスネークやボールパイソンと並び、世界中のペットヘビ愛好家に親しまれている代表的なナミヘビです。鮮やかな赤、黒、黄色（または白）のバンド模様が特徴で、猛毒を持つコラールスネーク（サンゴヘビ）の外見を模倣して外敵から身を守る「ベイツ型擬態（Batesian Mimicry）」の典型例として知られています。派手な見た目とは裏腹に完全な無毒ヘビで、環境を整えれば大人しく飼育しやすい種類です。変温動物であるため、体温調節用のクールゾーン（24〜26℃）とホットゾーン（29〜31℃）の温度勾配の設置、定期的な給餌、脱皮管理が重要です。今回はPetSelfが、ミルクスネークの行動サインと健康維持のための3ステップルーチンを解説します。",
+                "whyTitle": "ミルクスネークの本能：ベイツ型擬態と尾の振動・臭い分泌警報サイン",
+                "whyDesc": "ミルクスネークは脅威を感じると、ガラガラヘビのように尾を激しく振る**「尾の振動（Tail Rattling）」**や、臭い液体の分泌**「マスキング（Musking）」**で威嚇します。また、脱皮前には目の表面が青白く濁る**「目の白濁（Blue Eye Opacity）」**が生じ、視界が遮られるため神経質になります。",
+                "body_signals": [
+                    {
+                        "name": "尾の振動と悪臭分泌 (Tail Rattling & Musking)",
+                        "meaning": "尾を素早く振って音を出したり、悪臭物質を放つ行為で、威嚇や自己防衛の警戒サインです。",
+                        "response": "ハンドリングを直ちに中止し、暗く quiet なケージに戻して落ち着かせます。"
+                    },
+                    {
+                        "name": "目の白濁と体色のくすみ (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "目が青白く濁り、体色がくすむ現象で、脱皮（Ecdysis）が間近に迫っているサインです。",
+                        "response": "ケージ内の湿度を70%以上に高めるかウェットシェルターを設置し、脱皮が終わるまで給餌を控えます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：クールゾーン(24〜26℃)・ホットゾーン(29〜31℃)の温度チェックと水交換",
+                        "text": "デジタル温度計で温度勾配を確認し、全身が浸かれる水入れの水を取り替えます。"
+                    },
+                    {
+                        "name": "昼：ケージ内湿度(40〜60%)の監視とフンの清掃",
+                        "text": "基本湿度を維持し、フンを発見したらすぐに取り除いて部分清掃を行い、シェルター内を点検します。"
+                    },
+                    {
+                        "name": "夜：解凍マウスの給餌サイクル確認と夜間観察",
+                        "text": "幼体は5〜7日、成体は10〜14日周期でサイズに合った解凍冷凍マウスを与え、食後48時間は吐き戻し防止のためハンドリングを禁止します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ミルクスネークを2匹同じケージで多頭飼いしてもいいですか？",
+                        "answer": "絶対にやめてください。ミルクスネークはキングスネーク属（Lampropeltis）に属し、他のヘビを捕食するヘビ食性（Ophiophagy）を持ちます。多頭飼いすると共喰い（Cannibalism）が発生するため、必ず1ケージ1匹の単独飼育を行ってください。"
+                    },
+                    {
+                        "question": "派手な赤と黒の模様がありますが、本当に毒はありませんか？",
+                        "answer": "はい、完全な無毒です。猛毒を持つコラールスネークの模様を模した「ベイツ型擬態」です。赤色の帯が黒色の帯と隣り合っているのが無毒のミルクスネークの特徴です（黄色と接しているのが猛毒のコラールスネーク）。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "奶蛇冷区热区温差梯度设置与喂食与脱皮管理3阶段日常护理流程",
+                "description": "与玉米蛇、球蟒并称为三大宠物蛇之一的奶蛇饲养指南。介绍贝氏拟态原理、适宜温度（冷区24~26°C，热区29~31°C）梯度搭建、喂食周期及蓝眼脱皮期管理的3阶段流程。",
+                "authority": "世界爬行动物与两栖动物兽医师协会 (ARAV) 及 爬行动物临床指南",
+                "profile": {
+                    "breed": "奶蛇 (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20年 (人工饲养环境最优化时)",
+                    "sleep_pattern": "12 ~ 14小时 (夜行性/晨昏性 - 白天在躲避穴中休息)",
+                    "temperament": "胆小、无毒(贝氏拟态)、活跃、上手后温顺"
+                },
+                "intro": "奶蛇（Milk Snake）与玉米蛇、球蟒并称为全球宠物蛇市场中最受欢迎的三大入门观赏蛇类。它们以鲜艳的红、黑、黄（或白）三色环状纹路而闻名，这是伪装成剧毒珊瑚蛇以吓退天敌的典型“贝氏拟态（Batesian Mimicry）”。虽然外观华丽，但奶蛇是完全无毒的温和蛇类。作为变温动物，饲养箱内建立冷区（24~26°C）与热区（29~31°C）的温差梯度对于其消化与体温调节至关重要。今天 PetSelf 将为您解析奶蛇的防御与脱皮信号，并提供维持其健康的3阶段日常护理流程。",
+                "whyTitle": "奶蛇的生态本能：贝氏拟态与震尾·喷臭防卫信号",
+                "whyDesc": "当感受到威胁时，奶蛇会快速摆动尾巴摩擦地面模仿响尾蛇发出警告，这一行为被称为**“震尾（Tail Rattling）”**；或从泄殖腔分泌刺鼻液体，即**“喷臭（Musking）”**。在蜕皮前，由于眼垫积液，会出现**“蓝眼白浊（Blue Eye Opacity）”**现象，此时其视线受阻，性格会变得敏感。",
+                "body_signals": [
+                    {
+                        "name": "震尾与喷臭防卫 (Tail Rattling & Musking)",
+                        "meaning": "快速摇晃尾巴发出声音或喷出恶臭液体，是面对威胁时的自我防卫警告信号。",
+                        "response": "立即停止上手互动（Handling），将蛇放回安静黑暗的饲养箱中让其恢复平静。"
+                    },
+                    {
+                        "name": "蓝眼白浊与体色暗淡 (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "眼球呈现浑浊的蓝色，体色变得暗淡，预示着即将进入蜕皮（Ecdysis）阶段。",
+                        "response": "将环境湿度提升至70%以上或提供湿润躲避穴，并暂停喂食直至蜕皮完成。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：冷区（24~26°C）与热区（29~31°C）温度检查及水盆换水",
+                        "text": "使用数显温度计检查温差梯度，并更换可供其全身浸泡的水盆中的饮用水。"
+                    },
+                    {
+                        "name": "白天：环境湿度（40~60%）监测与排泄物清理",
+                        "text": "维持基础湿度，发现排泄物及时局部清理，并检查躲避穴内的卫生状况。"
+                    },
+                    {
+                        "name": "晚上：解冻乳鼠喂食周期确认与夜间观察",
+                        "text": "幼体每5~7天、成体每10~14天投喂大小适宜的解冻冰鲜鼠，进食后48小时内严禁上手互动以防吐食。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "可以将两条奶蛇放在同一个饲养箱里混养吗？",
+                        "answer": "绝对不行！奶蛇属于王蛇属（Lampropeltis），具有食蛇性（Ophiophagy）本能。混养极易引发相残吞食（Cannibalism）悲剧，必须坚持一缸一蛇的单独饲养原则。"
+                    },
+                    {
+                        "question": "奶蛇拥有如此鲜艳的红黑斑纹，真的没有毒吗？",
+                        "answer": "是的，完全无毒。这是模拟剧毒珊瑚蛇的“贝氏拟态”现象。北美有句谚语“Red on black, friend of Jack; red on yellow, kill a fellow”，即红色与黑色相连的是无毒的奶蛇，而红色与黄色相连的才是剧毒的珊瑚蛇。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Configuración de gradiente térmico de la serpiente de leche y rutina de 3 pasos de alimentación y muda",
+                "description": "Guía esencial de cuidado para la serpiente de leche (Milk Snake). Conozca su mimetismo batesiano, la creación de gradientes de temperatura (Zona Fría 24-26 °C, Zona Caliente 29-31 °C), ciclos de alimentación y manejo de la muda con ojos azules.",
+                "authority": "Pautas de la Association of Reptilian and Amphibian Veterinarians (ARAV) y Protocolos Clínicos Herpetológicos",
+                "profile": {
+                    "breed": "Serpiente de Leche (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20 años (en condiciones optimizadas)",
+                    "sleep_pattern": "12 ~ 14 horas (nocturna / crepuscular: descansa en refugios de día)",
+                    "temperament": "Tímida, no venenosa (mimética batesiana), activa, dócil al manejo"
+                },
+                "intro": "Junto con la serpiente del maíz y el pitón bola, la serpiente de leche es una de las tres serpientes de compañía más populares del mundo. Destaca por sus vívidas bandas tricolores rojas, negras y amarillas o blancas, un ejemplo clásico de 'mimetismo batesiano' donde imita a la venenosa serpiente de coral para ahuyentar depredadores. A pesar de su apariencia, es completamente inofensiva y dócil. Al ser ectotérmicas, es crucial establecer un gradiente térmico con una Zona Fría (24–26 °C) y una Zona Caliente (29–31 °C) para su digestión. Hoy en PetSelf explicamos sus señales y una rutina de 3 pasos.",
+                "whyTitle": "Instintos de la serpiente de leche: Mimetismo batesiano, vibración de cola y muda de ojos azules",
+                "whyDesc": "Ante el peligro, las serpientes de leche emplean defensas como la **'Vibración de cola (Tail Rattling)'** o la liberación de un fluido maloliente conocido como **'Musking'**. Antes de mudar la piel, sus ojos se vuelven opacos, una fase llamada **'Ojos azules (Blue Eye Opacity)'**, que reduce su visión y aumenta su nerviosismo.",
+                "body_signals": [
+                    {
+                        "name": "Vibración de cola y secreción defensiva (Tail Rattling & Musking)",
+                        "meaning": "Vibrar la cola rápidamente o secretar un fluido fétido para advertir y defenderse ante posibles amenazas.",
+                        "response": "Detenga la manipulación de inmediato y regrésela a su terrario oscuro para que se tranquilice."
+                    },
+                    {
+                        "name": "Opacidad de ojos azules y color apagado (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "Ojos de color azul turbio y piel opaca, indicando la proximidad de la muda (ecdisis).",
+                        "response": "Aumente la humedad al 70%+ o proporcione un refugio húmedo, suspendiendo la alimentación hasta completar la muda."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de gradiente térmico (Fría 24–26 °C / Caliente 29–31 °C) y agua fresca",
+                        "text": "Verifique las temperaturas con termómetros digitales y renueve el agua de su recipiente para baño."
+                    },
+                    {
+                        "name": "Tarde: Monitoreo de humedad (40–60%) y limpieza focalizada",
+                        "text": "Mantenga la humedad adecuada, limpie los desechos fecales de inmediato y revise el estado de las cuevas."
+                    },
+                    {
+                        "name": "Noche: Alimentación con roedores descongelados y observación nocturna",
+                        "text": "Ofrezca ratones descongelados del tamaño adecuado (crías cada 5–7 días; adultos cada 10–14 días) y evite manipularla durante 48 horas tras comer."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Puedo mantener dos serpientes de leche en el mismo terrario?",
+                        "answer": "¡Jamás! Las serpientes de leche pertenecen al género Lampropeltis y poseen instinto ofiófago (comen otras serpientes). El alojamiento compartido provocará canibalismo. Manténgalas siempre en terrarios individuales."
+                    },
+                    {
+                        "question": "¿Son venenosas las serpientes de leche debido a sus colores brillantes?",
+                        "answer": "No, son totalmente inofensivas. Sus colores son un mimetismo batesiano. La regla tradicional dice: 'Rojo sobre negro, amigo de Diego; rojo sobre amarillo, veneno en el colmillo'. En las serpientes de leche, las bandas rojas tocan a las negras."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Configuration du gradient thermique du serpent laitier et routine en 3 étapes d'alimentation et de mue",
+                "description": "Guide de soin complet pour le serpent laitier (Milk Snake). Découvrez son mimétisme batesien, l'installation du gradient thermique (Zone Fraîche 24-26 °C, Zone Chaude 29-31 °C), les cycles de repas et la gestion de la mue aux yeux bleus.",
+                "authority": "Directives de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Protocoles Cliniques Herpétologiques",
+                "profile": {
+                    "breed": "Serpent Laitier (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20 ans (en captivité optimisée)",
+                    "sleep_pattern": "12 ~ 14 heures (nocturne / crépusculaire : se repose dans des cachottes le jour)",
+                    "temperament": "Craintif, non venimeux (mimétique batesien), actif, dócile aux manipulations"
+                },
+                "intro": "Aux côtés du serpent des blés et du python royal, le serpent laitier (Milk Snake) est l'un des trois serpents de compagnie les plus populaires au monde. Il est célèbre pour ses bandes tricolores vives rouge, noir et jaune/blanc, illustration parfaite du 'mimétisme batesien' imitant le serpent corail venimeux. Malgré cette apparence, il est totalement inoffensif. En tant qu'ectotherme, un gradient thermique comprenant une Zone Fraîche (24–26 °C) et une Zone Chaude (29–31 °C) est indispensable pour sa digestion. Aujourd'hui, PetSelf décrypte ses signaux et propose une routine en 3 étapes.",
+                "whyTitle": "Instincts du serpent laitier : Mimétisme batesien, vibration de la queue et mue aux yeux bleus",
+                "whyDesc": "Face au danger, le serpent laitier utilise la **'Vibration de la queue (Tail Rattling)'** ou sécrète un fluide nauséabond appelé **'Musking'**. Avant la mue (exuviation), ses yeux deviennent opaques, phase dite des **'Yeux bleus (Blue Eye Opacity)'**, ce qui réduit sa vision et le rend plus nerveux.",
+                "body_signals": [
+                    {
+                        "name": "Vibration de la queue et secrétion défensive (Tail Rattling & Musking)",
+                        "meaning": "Faire vibrer rapidement la queue ou émettre un fluide puant pour avertir et se défendre contre les menaces.",
+                        "response": "Cessez immédiatement toute manipulation et remettez le serpent dans son terrarium sombre."
+                    },
+                    {
+                        "name": "Opacité des yeux bleus et peau terne (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "Yeux vitreux bleuâtres et peau terne indiquant l'éminence de la mue (exuviation).",
+                        "response": "Augmentez l'humidité à plus de 70% ou fournissez une boîte humide, et suspendez les repas jusqu'à la fin de la mue."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle du gradient thermique (Fraîche 24–26 °C / Chaude 29–31 °C) et eau fraîche",
+                        "text": "Vérifiez les températures avec des thermomètres digitaux et remplacez l'eau du grand bac de baignade."
+                    },
+                    {
+                        "name": "Après-midi : Surveillance de l'humidité (40–60%) et nettoyage ciblé",
+                        "text": "Maintenez l'hygrométrie de base, retirez rapidement les déjections et inspectez l'intérieur des cachettes."
+                    },
+                    {
+                        "name": "Soir : Planning de repas de rongeurs décongelés et observation",
+                        "text": "Distribuez des souris décongelées adaptées (juvéniles tous les 5–7 jours ; adultes tous les 10–14 jours) et évitez toute manipulation pendant 48 h."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on faire cohabiter deux serpents laitiers dans le même terrarium ?",
+                        "answer": "Absolument pas ! Les serpents laitiers appartiennent au genre Lampropeltis et sont ophiophages (ils mangent d'autres serpents). La cohabitation entraînera inévitablement du cannibalisme. Élevez-les toujours séparément."
+                    },
+                    {
+                        "question": "Le serpent laitier est-il venimeux en raison de ses couleurs vives ?",
+                        "answer": "Non, il est 100% inoffensif. C'est un mimétisme batesien. Chez le serpent laitier, la bande rouge touche la bande noire, contrairement au serpent corail venimeux où le rouge touche le jaune."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kühllokations- & Wärmezonen-Gradienten für die Dreiecksnatter und 3-Schritt-Fütterungs- & Häutungsroutine",
+                "description": "Haltungsleitfaden für die Dreiecksnatter (Milchschlange / Milk Snake). Erfahren Sie mehr über Bates'sche Mimikry, Temperaturgradienten (Kühlzone 24–26 °C, Wärmezone 29–31 °C), Fütterungsintervalle und Häutungspflege.",
+                "authority": "Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Herpetologische Klinische Protokolle",
+                "profile": {
+                    "breed": "Dreiecksnatter / Milchschlange (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20 Jahre (bei optimaler Haltung)",
+                    "sleep_pattern": "12 ~ 14 Stunden (nacht- / dämmerungsaktiv - ruht tagsüber in Verstecken)",
+                    "temperament": "Scheu, ungiftig (Bates'sche Mimikry), aktiv, wird bei Handling ruhig"
+                },
+                "intro": "Neben der Kornnatter und dem Königspython gehört die Dreiecksnatter (Milchschlange) zu den drei beliebtesten Haustierschlangen weltweit. Bekannt für ihr dreifarbiges Bändermuster aus Rot, Schwarz und Gelb/Weiß ist sie ein Schulbeispiel für 'Bates'sche Mimikry', indem sie ungiftig die giftige Korallenschlange imitiert. Trotz ihres Aussehens ist sie völlig ungiftig. Als wechselwarmes Tier benötigt sie einen Temperaturgradienten aus Kühlzone (24–26 °C) und Wärmezone (29–31 °C). Heute erklärt PetSelf Abwehrsignale und eine 3-Schritt-Pflegeroutine.",
+                "whyTitle": "Instinkte der Dreiecksnatter: Bates'sche Mimikry, Schwanzrasseln und blaue Augen vor der Häutung",
+                "whyDesc": "Bei Bedrohung nutzen Dreiecksnattern **'Schwanzrasseln (Tail Rattling)'** oder sondern ein riuchendes Sekret ab (**'Musking'**). Vor der Häutung trüben sich die Augen blau trüb ein (**'Blaue Augen / Blue Eye Opacity'**), was ihr Sehvermögen vorübergehend einschränkt und sie nervös macht.",
+                "body_signals": [
+                    {
+                        "name": "Schwanzrasseln und Stinksekret-Abgabe (Tail Rattling & Musking)",
+                        "meaning": "Schnelles Vibrationsgeräusch mit dem Schwanz oder Abgabe von Abwehrsekret zur Abschreckung von Feinden.",
+                        "response": "Beenden Sie das Handling sofort und setzen Sie die Schlange zurück in ihr ruhiges Terrarium."
+                    },
+                    {
+                        "name": "Blaue Augentrübung und verblasste Haut (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "Milchig-blaue Augen und blasse Hautfarbe kündigen die bevorstehende Häutung (Ecdysis) an.",
+                        "response": "Erhöhen Sie die Luftfeuchtigkeit auf über 70% oder bieten Sie eine Wet-Box an; stellen Sie die Fütterung vorübergehend ein."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Kontrolle der Temperaturzonen (Kühl 24–26 °C / Warm 29–31 °C) & Frischwasser",
+                        "text": "Überprüfen Sie die Werte mit digitalen Thermometern und erneuern Sie das Wasser im Badeschale."
+                    },
+                    {
+                        "name": "Nachmittag: Überwachung der Luftfeuchte (40–60%) & Kotentfernung",
+                        "text": "Halten Sie die Grundfeuchte aufrecht, entfernen Sie Ausscheidungen umgehend und prüfen Sie die Verstecke."
+                    },
+                    {
+                        "name": "Abend: Fütterungsplan für aufgetaute Mäuse & Nachtbeobachtung",
+                        "text": "Füttern Sie aufgetaute Frostmäuse passender Größe (Jungtiere alle 5–7 Tage; Erwachsene alle 10–14 Tage) und vermeiden Sie Handling für 48 Stunden nach dem Fressen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man zwei Dreiecksnattern im selben Terrarium halten?",
+                        "answer": "Auf keinen Fall! Dreiecksnattern gehören zur Gattung Lampropeltis (Königsnattern) und neigen zu Ophiophagie (Fressen anderer Schlangen). Einzelhaltung ist absolut zwingend erforderlich."
+                    },
+                    {
+                        "question": "Sind Dreiecksnattern trotz ihrer auffälligen Warnfarben wirklich ungiftig?",
+                        "answer": "Ja, absolut ungiftig. Es handelt sich um Bates'sche Mimikry. Bei der ungiftigen Dreiecksnatter berühren die roten Bänder die schwarzen Bänder (Red on black, friend of Jack)."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Configuração do gradiente térmico da cobra-de-leite e rotina de 3 passos de alimentação e ecdise",
+                "description": "Guia de cuidados com a cobra-de-leite (Milk Snake). Saiba mais sobre o mimetismo batesiano, a criação de gradientes térmicos (Zona Fria 24-26 °C, Zona Quente 29-31 °C), ciclos de alimentação e manejo da ecdise.",
+                "authority": "Diretrizes da Association of Reptilian and Amphibian Veterinarians (ARAV) e Protocolos Clínicos Herpetológicos",
+                "profile": {
+                    "breed": "Cobra-de-leite (Lampropeltis triangulum / Milk Snake)",
+                    "lifespan": "15 ~ 20 anos (em cativeiro otimizado)",
+                    "sleep_pattern": "12 ~ 14 horas (noturna / crepuscular: descansa em esconderijos de dia)",
+                    "temperament": "Tímida, não peçonhenta (mimética batesiana), ativa, dócil ao manuseio"
+                },
+                "intro": "Junto com a cobra-do-milho e o píton-bola, a cobra-de-leite é uma das três cobras de estimação mais populares do mundo. Destaca-se pelas suas faixas tricolores vivas em vermelho, preto e amarelo/branco, um exemplo clássico de 'mimetismo batesiano' onde imita a venenosa cobra-coral. Apesar da aparência, é totalmente inofensiva e dócil. Sendo ectotérmica, é fundamental estabelecer um gradiente térmico com uma Zona Fria (24–26 °C) e uma Zona Quente (29–31 °C). Hoje no PetSelf explicamos os seus sinais e uma rotina em 3 passos.",
+                "whyTitle": "Instintos da cobra-de-leite: Mimetismo batesiano, vibração da cauda e olhos azuis pré-ecdise",
+                "whyDesc": "Perante ameaças, as cobras-de-leite usam defesas como a **'Vibração da cauda (Tail Rattling)'** ou a libertação de substâncias fétidas (**'Musking'**). Antes de trocar de pele, os olhos ficam opacos, fase chamada **'Olhos azuis (Blue Eye Opacity)'**, o que diminui a visão e aumenta a sua ansiedade.",
+                "body_signals": [
+                    {
+                        "name": "Vibração da cauda e secreção fétida (Tail Rattling & Musking)",
+                        "meaning": "Vibrar a cauda rapidamente ou libertar fluido fétido para avisar e defender-se contra ameaças.",
+                        "response": "Pare o manuseio imediatamente e devolva a cobra ao seu terrário escuro para que sossegue."
+                    },
+                    {
+                        "name": "Opacidade de olhos azuis e pele baça (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "Olhos tomados por um tom azul turvo e pele sem brilho, indicando ecdise (troca de pele) iminente.",
+                        "response": "Aumente a humidade para mais de 70% ou disponibilize uma toca húmida, pausando a alimentação até à ecdise."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controlo do gradiente térmico (Fria 24–26 °C / Quente 29–31 °C) e água fresca",
+                        "text": "Verifique as temperaturas com termómetros digitais e mude a água da bacia de banho."
+                    },
+                    {
+                        "name": "Tarde: Monitorização da humidade (40–60%) e limpeza pontual",
+                        "text": "Mantenha a humidade adequada, limpe fezes imediatamente e inspecione as tocas."
+                    },
+                    {
+                        "name": "Noite: Alimentação com roedores descongelados e observação noturna",
+                        "text": "Ofereça ratos descongelados de tamanho adequado (filhotes a cada 5–7 dias; adultos a cada 10–14 dias) e evite o manuseio por 48 horas após comer."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Posso manter duas cobras-de-leite no mesmo terrário?",
+                        "answer": "Nunca! As cobras-de-leite pertencem ao género Lampropeltis e possuem instinto ofiófago (comem outras cobras). O alojamento conjunto resulta em canibalismo. Mantenha-as sempre em terrários individuais."
+                    },
+                    {
+                        "question": "As cobras-de-leite são peçonhentas devido às suas cores vivas?",
+                        "answer": "Não, são totalmente inofensivas. As cores são mimetismo batesiano. Nas cobras-de-leite inofensivas, as faixas vermelhas tocam nas faixas pretas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Pengaturan Gradien Suhu Ular Susu (Milk Snake) dan Rutinitas 3 Langkah Perawatan Pakan & Ganti Kulit",
+                "description": "Panduan perawatan lengkap untuk Ular Susu (Milk Snake). Pelajari mimikri Batesian, pengaturan gradien suhu (Zona Dingin 24–26 °C, Zona Panas 29–31 °C), siklus pemberian pakan, dan perawatan ganti kulit mata biru.",
+                "authority": "Panduan Association of Reptilian and Amphibian Veterinarians (ARAV) dan Protokol Klinis Herpetologi",
+                "profile": {
+                    "breed": "Ular Susu / Milk Snake (Lampropeltis triangulum)",
+                    "lifespan": "15 ~ 20 tahun (pada kondisi penangkaran optimal)",
+                    "sleep_pattern": "12 ~ 14 jam (nokturnal / krepuskular - beristirahat di tempat sembunyi saat siang)",
+                    "temperament": "Pemalu, tidak berbisa (mimikri Batesian), aktif, jinak saat dipegang"
+                },
+                "intro": "Bersama Ular Jagung (Corn Snake) dan Piton Bola (Ball Python), Ular Susu (Milk Snake) adalah salah satu dari tiga jenis ular peliharaan paling populer di dunia. Terkenal dengan pola tiga warna merah, hitam, dan kuning/putih yang mencolok, hewan ini menjadi contoh klasik 'Mimikri Batesian'—meniru ular karang berbisa untuk menakuti pemangsa. Meskipun penampilannya mencolok, ular susu sama sekali tidak berbisa dan sangat jinak. Sebagai hewan ektoterm, penyediaan gradien suhu antara Zona Dingin (24–26 °C) dan Zona Panas (29–31 °C) sangat penting untuk pencernaan. Hari ini PetSelf membagikan sinyal perilaku dan 3 langkah rutinitas perawatan.",
+                "whyTitle": "Insting Ular Susu: Mimikri Batesian, Getaran Ekor, dan Mata Biru Sebelum Ganti Kulit",
+                "whyDesc": "Saat terancam, ular susu menggunakan pertahanan seperti **'Getaran Ekor (Tail Rattling)'** atau mengeluarkan cairan bau yang disebut **'Musking'**. Sebelum ganti kulit (ekdisis), mata mereka menjadi buram kebiruan yang dikenal sebagai **'Mata Biru (Blue Eye Opacity)'**, yang mengurangi penglihatan dan membuat mereka lebih sensitif.",
+                "body_signals": [
+                    {
+                        "name": "Getaran Ekor & Bau Pertahanan (Tail Rattling & Musking)",
+                        "meaning": "Mengarahkan dan menggetarkan ekor dengan cepat atau mengeluarkan cairan bau sebagai peringatan pertahanan diri.",
+                        "response": "Hentikan penanganan (handling) segera dan kembalikan ular ke kandangnya yang gelap dan tenang."
+                    },
+                    {
+                        "name": "Mata Biru Buram & Warna Kulit Kusam (Blue Eye Opacity / Dull Coloration)",
+                        "meaning": "Mata berubah keruh kebiruan dan warna kulit memudar, menandakan ganti kulit (ekdisis) akan segera terjadi.",
+                        "response": "Tingkatkan kelembapan hingga 70%+ atau sediakan tempat sembunyi lembap, dan hentikan pakan sampai ganti kulit selesai."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemeriksaan Gradien Suhu (Dingin 24–26 °C / Panas 29–31 °C) & Air Bersih",
+                        "text": "Periksa suhu dengan termometer digital dan ganti air di wadah minum yang cukup besar untuk berendam."
+                    },
+                    {
+                        "name": "Siang: Pemantauan Kelembapan (40–60%) & Pembersihan Kotoran",
+                        "text": "Jaga kelembapan dasar, bersihkan kotoran dengan cepat, dan periksa kondisi tempat sembunyi."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan Tikus Beku Bekas Defrost & Pengamatan Malam",
+                        "text": "Berikan tikus beku yang sudah didefrost dengan ukuran sesuai (anakan 5–7 hari sekali; dewasa 10–14 hari sekali) dan hindari handling selama 48 jam setelah makan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Bolehkah menggabungkan dua ekor Ular Susu dalam satu kandang?",
+                        "answer": "Sangat tidak boleh! Ular susu termasuk dalam genus Lampropeltis (Kingsnake) dan memiliki insting ofiofagi (memakan ular lain). Memelihara mereka bersama akan memicu kanibalisme. Selalu pelihara satu ekor per kandang."
+                    },
+                    {
+                        "question": "Apakah Ular Susu benar-benar tidak berbisa meskipun warnanya sangat cerah?",
+                        "answer": "Ya, sama sekali tidak berbisa. Warna cerahnya adalah mimikri Batesian. Pada ular susu yang tidak berbisa, pita warna merah bersentuhan langsung dengan pita warna hitam."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/milk_snake_care.webp"
+    }
+}
