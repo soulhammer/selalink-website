@@ -12,8 +12,8 @@ authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国�
 steps:
   - name: "购买后立即分装入密封容器（或塑料瓶） — 阻绝氧气与湿气 📦"
     text: "大米持续接触空气会导致脂肪氧化产生陈味并流失水分。💡储存小贴士：将干燥的大米分装入干净干燥的塑料瓶（PET瓶）或玻璃密封罐中并拧紧瓶盖。这能完美阻断氧气与外界湿气，长久维持理想含水量（约15%）。"
-  - name: "存放在10 ~ 15℃以下低温（冰箱冷藏） — 低温储存 (1年) ❄️"
-    text: "高于15℃的环境会促使米虫虫卵孵化并加速呼吸作用，破坏营养成分。💡储存小贴士：大米最宜存放在10 ~ 15℃以下的低温环境中。将密封好的大米放入冰箱蔬菜保鲜层，可彻底杜绝米虫滋生，保鲜长达1年以上。"
+  - name: "存放在10 ~ 15℃以下低温（冰箱冷藏） — 最佳口感保鲜 (3个月) ❄️"
+    text: "高于15℃的环境会促使米虫虫卵孵化并加速呼吸作用，破坏营养成分。💡储存小贴士：大米最宜存放在10 ~ 15℃以下的低温环境中。将密封好的大米放入冰箱蔬菜保鲜层，不仅能彻底杜绝米虫滋生，还能在约3个月（80天）内维持如新米般香甜软糯的最佳口感。"
   - name: "避光防晒并隔绝强烈异味 — 环境管理 🛡️"
     text: "阳光直射会导致米粒水分剧烈蒸发而产生裂纹，蒸煮时淀粉外溢致使米饭干瘪无味；大米还会像海绵一样吸收异味。💡储存小贴士：存放在阴凉干燥处，冷藏时请与大蒜、生鲜等异味较重的食材隔开并双层密封。"
 faqs:
@@ -60,10 +60,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">存放在10 ~ 15℃以下低温（冰箱冷藏） — 低温储存 (1年) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">存放在10 ~ 15℃以下低温（冰箱冷藏） — 最佳口感保鲜 (3个月) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    高于15℃的环境会促使米虫虫卵孵化并加速呼吸作用，破坏营养成分。💡储存小贴士：大米最宜存放在10 ~ 15℃以下的低温环境中。将密封好的大米放入冰箱蔬菜保鲜层，可彻底杜绝米虫滋生，保鲜长达1年以上。
+    高于15℃的环境会促使米虫虫卵孵化并加速呼吸作用，破坏营养成分。💡储存小贴士：大米最宜存放在10 ~ 15℃以下的低温环境中。将密封好的大米放入冰箱蔬菜保鲜层，不仅能彻底杜绝米虫滋生，还能在约3个月（80天）内维持如新米般香甜软糯的最佳口感。
   </p>
 </div>
 

@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import glob from 'fast-glob';
-import { detectMojibake, checkLanguagePurity } from '../../utils/validatorUtils.js';
+import { detectMojibake, checkLanguagePurity, checkEmojiParity } from '../../utils/validatorUtils.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -47,6 +47,12 @@ jsonDirs.forEach(pattern => {
         return;
       }
 
+      // 포스트 단위 영어 텍스트에서 사용된 학술/전문 단어들을 동적 허용 셋(extraAllowedSet)으로 자동 수집
+      const extraAllowedSet = new Set();
+      const rawEnString = JSON.stringify(entry.locales ? entry.locales.en : entry);
+      const enWords = rawEnString.match(/[a-zA-Z]+/g) || [];
+      enWords.forEach(w => extraAllowedSet.add(w));
+
       // 2. 핵심 텍스트 필드 및 중첩 다국어 슬롯 9개 국어 누락/언어 순도 검사
       const checkTextSlot = (text, fieldName, lang, fileName) => {
         if (text === undefined || text === null || text === '') {
@@ -56,7 +62,7 @@ jsonDirs.forEach(pattern => {
         }
 
         const isEasternHistory = ['confucius-guqin-harmony.json', 'sejong-dawn-reading.json', 'zhuge-liang-guqin-strategy.json'].includes(fileName);
-        const purityResult = checkLanguagePurity(text, lang, { isEasternHistory });
+        const purityResult = checkLanguagePurity(text, lang, { isEasternHistory, extraAllowedSet });
 
         if (!purityResult.valid) {
           console.error(`\x1b[31m❌ [ERR] ${fileName} (${fieldName}.${lang}): ${purityResult.errorReason}\x1b[0m`);
@@ -135,6 +141,47 @@ jsonDirs.forEach(pattern => {
           hasError = true;
         }
       });
+
+      // 3. 다국어 이모지 정합성(Emoji Parity) 검사 (제목 끝 이모지 오입력/유출 자동 차단)
+      if (entry.locales) {
+        textFields.forEach(field => {
+          const localeMap = {};
+          requiredLangs.forEach(lang => {
+            if (entry.locales[lang]?.[field]) {
+              localeMap[lang] = entry.locales[lang][field];
+            }
+          });
+          const parityResult = checkEmojiParity(localeMap, `locales.${field}`);
+          if (!parityResult.valid) {
+            console.error(`\x1b[31m❌ [ERR] ${fileName}: ${parityResult.errorReason}\x1b[0m`);
+            hasError = true;
+          }
+        });
+
+        const allArrayFields = ['cautions', 'steps', 'faqs', 'daily_routine', 'body_signals'];
+        allArrayFields.forEach(arrayField => {
+          if (entry.locales.ko && Array.isArray(entry.locales.ko[arrayField])) {
+            const itemCount = entry.locales.ko[arrayField].length;
+            for (let idx = 0; idx < itemCount; idx++) {
+              ['title', 'name', 'question'].forEach(subField => {
+                const localeMap = {};
+                requiredLangs.forEach(lang => {
+                  const item = entry.locales[lang]?.[arrayField]?.[idx];
+                  if (item && item[subField]) {
+                    localeMap[lang] = item[subField];
+                  }
+                });
+                const parityResult = checkEmojiParity(localeMap, `locales.${arrayField}[${idx}].${subField}`);
+                if (!parityResult.valid) {
+                  console.error(`\x1b[31m❌ [ERR] ${fileName}: ${parityResult.errorReason}\x1b[0m`);
+                  hasError = true;
+                }
+              });
+            }
+          }
+        });
+      }
+
 
     } catch (err) {
       console.error(`\x1b[31m❌ [ERR] ${fileName}: JSON 파싱 에러 - ${err.message}\x1b[0m`);

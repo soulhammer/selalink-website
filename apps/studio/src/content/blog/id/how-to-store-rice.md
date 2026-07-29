@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Bagi ke dalam wadah kedap udara (botol PET) segera — Kunci Oksigen & Kelembapan 📦"
     text: "Paparan udara terus-menerus mengoksidasi lemak beras, menyebabkan bau apek dan kehilangan kadar air. 💡 Tips Penyimpanan: Masukkan beras kering ke dalam botol plastik PET atau stoples kaca yang bersih dan benar-benar kering lalu tutup rapat. Langkah ini menjaga kadar air ideal ( ~ 15%) serta menghalangi oksigen luar."
-  - name: "Simpan pada suhu dingin di bawah 10–15°C — Penyimpanan Dingin (1 Tahun) ❄️"
-    text: "Suhu di atas 15°C merangsang telur kutu beras menetas dan meningkatkan respirasi yang merusak nutrisi. 💡 Tips Penyimpanan: Suhu terbaik untuk beras adalah di bawah 10–15°C. Menyimpan wadah kedap udara di laci sayur kulkas mencegah berkembangnya kutu secara total dan menjaga kesegaran hingga 1 tahun."
+  - name: "Simpan pada suhu dingin di bawah 10–15°C — Kesegaran Optimal (3 Bulan) ❄️"
+    text: "Suhu di atas 15°C merangsang telur kutu beras menetas dan meningkatkan respirasi yang merusak nutrisi. 💡 Tips Penyimpanan: Suhu terbaik untuk beras adalah di bawah 10–15°C. Menyimpan wadah kedap udara di laci sayur kulkas mencegah berkembangnya kutu secara total dan menjaga rasa serta kesegaran optimal hingga 3 bulan (80 hari)."
   - name: "Lindungi dari sinar matahari langsung dan bau menyengat — Kontrol Lingkungan 🛡️"
     text: "Sinar matahari langsung menguapkan air dalam beras dengan cepat, meretakkan bulir hingga pati keluar saat dimasak dan membuat nasi menjadi lembek berair. Beras juga mudah menyerap bau. 💡 Tips Penyimpanan: Simpan di tempat gelap dan sejuk, serta segel ganda di kulkas jauh dari bahan berbau tajam seperti bawang putih atau ikan."
 faqs:
@@ -60,10 +60,10 @@ Hari ini, FreshSnap membagikan panduan penyimpanan beras 3 langkah berbasis ilmi
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Simpan pada suhu dingin di bawah 10–15°C — Penyimpanan Dingin (1 Tahun) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Simpan pada suhu dingin di bawah 10–15°C — Kesegaran Optimal (3 Bulan) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Suhu di atas 15°C merangsang telur kutu beras menetas dan meningkatkan respirasi yang merusak nutrisi. 💡 Tips Penyimpanan: Suhu terbaik untuk beras adalah di bawah 10–15°C. Menyimpan wadah kedap udara di laci sayur kulkas mencegah berkembangnya kutu secara total dan menjaga kesegaran hingga 1 tahun.
+    Suhu di atas 15°C merangsang telur kutu beras menetas dan meningkatkan respirasi yang merusak nutrisi. 💡 Tips Penyimpanan: Suhu terbaik untuk beras adalah di bawah 10–15°C. Menyimpan wadah kedap udara di laci sayur kulkas mencegah berkembangnya kutu secara total dan menjaga rasa serta kesegaran optimal hingga 3 bulan (80 hari).
   </p>
 </div>
 

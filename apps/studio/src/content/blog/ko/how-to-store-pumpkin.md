@@ -20,7 +20,7 @@ faqs:
   - question: "단호박 꼭지에 하얀 가루나 피막이 생겼는데 먹어도 되나요?"
     answer: "꼭지 부위가 단단하게 마르면서 생기는 하얀 결정은 호박이 익어가며 수분이 날아가 당도가 올라가는 건조 현상일 수 있습니다. 다만 실처럼 피어나는 곰팡이거나 냄새가 시큼하다면 꼭지 주변 과육을 넓게 도려내거나 부패가 심할 경우 폐기해야 합니다."
   - question: "단호박 껍질을 쉽게 벗기거나 손질하는 꿀팁이 있나요?"
-    answer: "단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2 ~ 3 menit간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다."
+    answer: "단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2 ~ 3분간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다."
 ---
 
 단단하고 단맛이 깊은 단호박이나 호박을 사 왔는데, 얼마 지나지 않아 꼭지부터 곰팡이가 피거나 자른 단면이 하얗게 마르고 물러 버려본 경험 다들 있으시죠? 🎃
@@ -94,7 +94,7 @@ faqs:
 <div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
   <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
   <div class="flex-1 min-w-0">
-    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">손질 시 내부 씨와 무른 속을 완전히 파내세요 숟가락</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">손질 시 내부 씨와 무른 속을 완전히 파내세요 🥄</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
       자른 호박을 보관할 때 내부의 씨와 무른 섬유질(속)을 그대로 두면 수분이 고이고 효소 작용이 일어나 수일 내에 곰팡이가 번식하고 과육이 물러집니다.
     </p>
@@ -122,7 +122,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2 ~ 3 menit간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다.
+      단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2 ~ 3분간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다.
     </p>
   </details>
 </div>

@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Sofort nach dem Kauf in luftdichte Behälter (oder PET-Flaschen) umfüllen — Sauerstoff & Feuchtigkeit blockieren 📦"
     text: "Ständiger Kontakt mit Luft lässt die Fette im Reis oxidieren, was zu ranzigem Geruch und Feuchtigkeitsverlust führt. 💡 Lagerungstipp: Füllen Sie den trockenen Reis in saubere, trockene PET-Flaschen oder Glasbehälter und verschließen Sie diese fest. Dies bewahrt den idealen Wassergehalt ( ~ 15 %) und stoppt das Eindringen von Sauerstoff."
-  - name: "Bei kühlen Temperaturen unter 10–15 °C lagern — Kühllagerung (1 Jahr) ❄️"
-    text: "Bei Temperaturen über 15 °C schlüpfen Reiskäfereier und die Atmung des Korns nimmt zu, wodurch Nährstoffe abgebaut werden. 💡 Lagerungstipp: Die optimale Lagertemperatur liegt unter 10–15 °C. Das Lagern der verschlossenen Behälter im Gemüsefach des Kühlschranks verhindert Schädlingsbefall komplett und hält den Reis bis zu 1 Jahr frisch."
+  - name: "Bei kühlen Temperaturen unter 10–15 °C lagern — Optimaler Geschmack (3 Monate) ❄️"
+    text: "Bei Temperaturen über 15 °C schlüpfen Reiskäfereier und die Atmung des Korns nimmt zu, wodurch Nährstoffe abgebaut werden. 💡 Lagerungstipp: Die optimale Lagertemperatur liegt unter 10–15 °C. Das Lagern der verschlossenen Behälter im Gemüsefach des Kühlschranks verhindert Schädlingsbefall komplett und bewahrt den besten Geschmack und die Frische für etwa 3 Monate (80 Tage)."
   - name: "Vor direktem Sonnenlicht und starken Gerüchen schützen — Umweltkontrolle 🛡️"
     text: "Direktes Sonnenlicht führt zu rascher Verdunstung, wodurch Reiskörner Risse bekommen und beim Kochen Stärke austritt, was den Reis matschig macht. Reis nimmt zudem leicht Fremdgerüche auf. 💡 Lagerungstipp: Dunkel und kühl lagern sowie im Kühlschrank doppelt versiegelt getrennt von Knoblauch oder Fisch aufbewahren."
 faqs:
@@ -60,10 +60,10 @@ Heute stellt FreshSnap Ihnen einen von Agrar- und Lebensmittelsicherheitsexperte
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">SCHRITT 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Bei kühlen Temperaturen unter 10–15 °C lagern — Kühllagerung (1 Jahr) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Bei kühlen Temperaturen unter 10–15 °C lagern — Optimaler Geschmack (3 Monate) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Bei Temperaturen über 15 °C schlüpfen Reiskäfereier und die Atmung des Korns nimmt zu, wodurch Nährstoffe abgebaut werden. 💡 Lagerungstipp: Die optimale Lagertemperatur liegt unter 10–15 °C. Das Lagern der verschlossenen Behälter im Gemüsefach des Kühlschranks verhindert Schädlingsbefall komplett und hält den Reis bis zu 1 Jahr frisch.
+    Bei Temperaturen über 15 °C schlüpfen Reiskäfereier und die Atmung des Korns nimmt zu, wodurch Nährstoffe abgebaut werden. 💡 Lagerungstipp: Die optimale Lagertemperatur liegt unter 10–15 °C. Das Lagern der verschlossenen Behälter im Gemüsefach des Kühlschranks verhindert Schädlingsbefall komplett und bewahrt den besten Geschmack und die Frische für etwa 3 Monate (80 Tage).
   </p>
 </div>
 

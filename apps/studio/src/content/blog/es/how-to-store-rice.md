@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Porcione en recipientes herméticos (o botellas PET) al comprar — Bloqueo de oxígeno y humedad 📦"
     text: "La exposición continua al aire oxida las grasas del arroz, provocando olores rancios y pérdida de agua. 💡 Consejo de almacenamiento: Traslade el arroz seco a botellas de plástico o frascos de vidrio limpios y secos, cerrando bien la tapa. Esto conserva la humedad ideal ( ~ 15 %) y bloquea el oxígeno exterior."
-  - name: "Conserve a baja temperatura por debajo de 10-15 °C — Refrigeración (1 año) ❄️"
-    text: "A más de 15 °C, los huevos de gorgojo eclosionan y aumenta la respiración del grano, destruyendo nutrientes. 💡 Consejo de almacenamiento: La temperatura ideal para el arroz es inferior a 10-15 °C. Guardar los recipientes herméticos en el cajón de verduras del refrigerador previene plagas y mantiene la frescura hasta por 1 año."
+  - name: "Conserve a baja temperatura por debajo de 10-15 °C — Máxima frescura (3 meses) ❄️"
+    text: "A más de 15 °C, los huevos de gorgojo eclosionan y aumenta la respiración del grano, destruyendo nutrientes. 💡 Consejo de almacenamiento: La temperatura ideal para el arroz es inferior a 10-15 °C. Guardar los recipientes herméticos en el cajón de verduras del refrigerador previene plagas por completo y conserva su óptimo sabor y frescura hasta por 3 meses (80 días)."
   - name: "Proteja de la luz solar directa y de olores intensos — Control ambiental 🛡️"
     text: "La luz solar directa evapora rápidamente la humedad, agrietando el grano y provocando que el almidón se filtre al cocinar. Además, el arroz absorbe olores fácilmente. 💡 Consejo de almacenamiento: Guarde el arroz en un lugar oscuro y fresco, y manténgalo con doble sellado en la nevera lejos de ajo o pescado."
 faqs:
@@ -60,10 +60,10 @@ Hoy, FreshSnap presenta una guía de conservación del arroz en 3 pasos respalda
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserve a baja temperatura por debajo de 10-15 °C — Refrigeración (1 año) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserve a baja temperatura por debajo de 10-15 °C — Máxima frescura (3 meses) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    A más de 15 °C, los huevos de gorgojo eclosionan y aumenta la respiración del grano, destruyendo nutrientes. 💡 Consejo de almacenamiento: La temperatura ideal para el arroz es inferior a 10-15 °C. Guardar los recipientes herméticos en el cajón de verduras del refrigerador previene plagas y mantiene la frescura hasta por 1 año.
+    A más de 15 °C, los huevos de gorgojo eclosionan y aumenta la respiración del grano, destruyendo nutrientes. 💡 Consejo de almacenamiento: La temperatura ideal para el arroz es inferior a 10-15 °C. Guardar los recipientes herméticos en el cajón de verduras del refrigerador previene plagas por completo y conserva su óptimo sabor y frescura hasta por 3 meses (80 días).
   </p>
 </div>
 

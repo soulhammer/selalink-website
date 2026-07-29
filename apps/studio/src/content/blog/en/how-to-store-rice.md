@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Portion into airtight containers (or PET bottles) immediately — Block Oxygen & Moisture 📦"
     text: "Continuous exposure to air causes fats in rice to oxidize, producing stale smells and moisture loss. 💡 Storage Tip: Portion dry rice into completely clean, dry PET bottles or glass airtight containers and seal tightly. This preserves the ideal internal moisture content ( ~ 15%) and blocks oxygen and ambient humidity."
-  - name: "Keep in cold storage below 10–15°C — Refrigerated Storage (1 Year) ❄️"
-    text: "Temperatures above 15°C trigger rice weevil eggs to hatch and increase respiration, degrading nutrients. 💡 Storage Tip: Rice stays freshest at temperatures below 10–15°C. Storing sealed containers in the refrigerator crisper drawer or a cooler prevents pest reproduction entirely and retains freshness for up to a year."
+  - name: "Keep in cold storage below 10–15°C — Peak Flavor Storage (3 Months) ❄️"
+    text: "Temperatures above 15°C trigger rice weevil eggs to hatch and increase respiration, degrading nutrients. 💡 Storage Tip: Rice stays freshest at temperatures below 10–15°C. Storing sealed containers in the refrigerator crisper drawer or cooler prevents pests completely and retains peak flavor and freshness for up to 3 months (80 days)."
   - name: "Shield from direct sunlight and strong odors — Environmental Control 🛡️"
     text: "Direct sunlight causes rapid moisture evaporation, cracking the grains so starch leaks during cooking, making rice mushy. Rice also absorbs odors like a sponge. 💡 Storage Tip: Keep rice in a dark, cool spot, and double-seal it in the fridge away from odorous foods like garlic or fish."
 faqs:
@@ -60,10 +60,10 @@ Today, FreshSnap introduces a scientifically proven 3-step rice storage guide re
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Keep in cold storage below 10–15°C — Refrigerated Storage (1 Year) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Keep in cold storage below 10–15°C — Peak Flavor Storage (3 Months) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Temperatures above 15°C trigger rice weevil eggs to hatch and increase respiration, degrading nutrients. 💡 Storage Tip: Rice stays freshest at temperatures below 10–15°C. Storing sealed containers in the refrigerator crisper drawer or a cooler prevents pest reproduction entirely and retains freshness for up to a year.
+    Temperatures above 15°C trigger rice weevil eggs to hatch and increase respiration, degrading nutrients. 💡 Storage Tip: Rice stays freshest at temperatures below 10–15°C. Storing sealed containers in the refrigerator crisper drawer or cooler prevents pests completely and retains peak flavor and freshness for up to 3 months (80 days).
   </p>
 </div>
 

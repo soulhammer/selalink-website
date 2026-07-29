@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Porcionar em recipientes herméticos (ou garrafas PET) ao comprar — Bloqueio de oxigênio e umidade 📦"
     text: "O contato contínuo com o ar oxida as gorduras do arroz, causando cheiro de ranço e perda de umidade. 💡 Dica de conservação: Coloque o arroz seco em garrafas PET ou potes de vidro bem limpos e secos, vedando bem a tampa. Isso preserva a umidade ideal ( ~ 15%) e impede o contato com o ar."
-  - name: "Armazenar a baixas temperaturas abaixo de 10 a 15 °C — Refrigeração (1 ano) ❄️"
-    text: "Temperaturas acima de 15 °C fazem os ovos de caruncho eclodirem e aumentam a respiração do grão, degradando nutrientes. 💡 Dica de conservação: A temperatura ideal para o arroz é abaixo de 10 a 15 °C. Guardar potes herméticos na gaveta de legumes da geladeira evita pragas e mantém o frescor por até 1 ano."
+  - name: "Armazenar a baixas temperaturas abaixo de 10 a 15 °C — Frescor máximo (3 meses) ❄️"
+    text: "Temperaturas acima de 15 °C fazem os ovos de caruncho eclodirem e aumentam a respiração do grão, degradando nutrientes. 💡 Dica de conservação: A temperatura ideal para o arroz é abaixo de 10 a 15 °C. Guardar potes herméticos na gaveta de legumes da geladeira evita pragas por completo e mantém o sabor e o frescor ideais por até 3 meses (80 dias)."
   - name: "Proteger da luz solar direta e de odores fortes — Controle ambiental 🛡️"
     text: "A luz solar direta evapora rapidamente a umidade do arroz, trincando os grãos e fazendo o amido vazar no cozimento, deixando o arroz papado. O arroz também absorve cheiros facilmente. 💡 Dica de conservação: Guarde em local escuro e fresco e, na geladeira, mantenha com dupla vedação longe de alho ou peixe."
 faqs:
@@ -60,10 +60,10 @@ Hoje, o FreshSnap apresenta um guia prático de conservação de arroz em 3 etap
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Armazenar a baixas temperaturas abaixo de 10 a 15 °C — Refrigeração (1 ano) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Armazenar a baixas temperaturas abaixo de 10 a 15 °C — Frescor máximo (3 meses) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Temperaturas acima de 15 °C fazem os ovos de caruncho eclodirem e aumentam a respiração do grão, degradando nutrientes. 💡 Dica de conservação: A temperatura ideal para o arroz é abaixo de 10 a 15 °C. Guardar potes herméticos na gaveta de legumes da geladeira evita pragas e mantém o frescor por até 1 ano.
+    Temperaturas acima de 15 °C fazem os ovos de caruncho eclodirem e aumentam a respiração do grão, degradando nutrientes. 💡 Dica de conservação: A temperatura ideal para o arroz é abaixo de 10 a 15 °C. Guardar potes herméticos na gaveta de legumes da geladeira evita pragas por completo e mantém o sabor e o frescor ideais por até 3 meses (80 dias).
   </p>
 </div>
 

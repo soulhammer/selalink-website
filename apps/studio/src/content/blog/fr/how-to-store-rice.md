@@ -12,8 +12,8 @@ authority: "<strong>RDA & USDA & MFDS</strong>"
 steps:
   - name: "Portionner dans des récipients hermétiques (ou bouteilles en plastique) dès l'achat — Bloquer l'oxygène et l'humidité 📦"
     text: "Le contact continu avec l'air oxyde les graisses du riz, provoquant des odeurs rances et une perte d'humidité. 💡 Astuce de conservation : Répartissez le riz sec dans des bouteilles PET ou des bocaux en verre propres et bien secs. Cela préserve l'humidité idéale ( ~ 15 %) et bloque l'air extérieur."
-  - name: "Conserver à basse température en dessous de 10-15 °C — Réfrigération (1 an) ❄️"
-    text: "Au-delà de 15 °C, les œufs de charançon éclosent et la respiration du grain s'accélère, dégradant les nutriments. 💡 Astuce de conservation : La température optimale de conservation se situe sous 10-15 °C. Placer les récipients hermétiques dans le bac à légumes du réfrigérateur empêche les insectes de se développer et préserve la fraîcheur pendant 1 an."
+  - name: "Conserver à basse température en dessous de 10-15 °C — Saveur optimale (3 mois) ❄️"
+    text: "Au-delà de 15 °C, les œufs de charançon éclosent et la respiration du grain s'accélère, dégradant les nutriments. 💡 Astuce de conservation : La température optimale de conservation se situe sous 10-15 °C. Placer les récipients hermétiques dans le bac à légumes du réfrigérateur empêche totalement les insectes de se développer et préserve une saveur et une fraîcheur optimales pendant environ 3 mois (80 jours)."
   - name: "Protéger de la lumière directe du soleil et des odeurs fortes — Contrôle de l'environnement 🛡️"
     text: "Le soleil direct évapore rapidement l'eau du riz, provoquant des fissures qui libèrent l'amidon à la cuisson et rendent le riz pâteux. Le riz absorbe aussi les odeurs environnantes. 💡 Astuce de conservation : Conservez-le dans un endroit sombre et frais, et isolez-le au frigo des aliments odorants comme l'ail ou le poisson."
 faqs:
@@ -60,10 +60,10 @@ Aujourd'hui, FreshSnap vous présente un guide scientifique de conservation du r
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ÉTAPE 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserver à basse température en dessous de 10-15 °C — Réfrigération (1 an) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserver à basse température en dessous de 10-15 °C — Saveur optimale (3 mois) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Au-delà de 15 °C, les œufs de charançon éclosent et la respiration du grain s'accélère, dégradant les nutriments. 💡 Astuce de conservation : La température optimale de conservation se situe sous 10-15 °C. Placer les récipients hermétiques dans le bac à légumes du réfrigérateur empêche les insectes de se développer et préserve la fraîcheur pendant 1 an.
+    Au-delà de 15 °C, les œufs de charançon éclosent et la respiration du grain s'accélère, dégradant les nutriments. 💡 Astuce de conservation : La température optimale de conservation se situe sous 10-15 °C. Placer les récipients hermétiques dans le bac à légumes du réfrigérateur empêche totalement les insectes de se développer et préserve une saveur et une fraîcheur optimales pendant environ 3 mois (80 jours).
   </p>
 </div>
 

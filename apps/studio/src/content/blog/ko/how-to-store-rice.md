@@ -12,8 +12,8 @@ authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약
 steps:
   - name: "구매 즉시 밀폐 용기(PET병)에 소분하기 — 산소와 습기 차단 📦"
     text: "쌀이 공기와 지속적으로 접촉하면 유지방이 산화되어 묵은내가 발생하고 수분이 날아갑니다. 💡 보관 팁: 완전히 건조된 페트병이나 유리 밀폐 용기에 쌀을 소분하여 입구를 바짝 잠궈주세요. 산소와 외부 습기를 완벽히 차단하여 쌀의 수분 함량(15% 안팎)을 오랫동안 유지할 수 있습니다."
-  - name: "10 ~ 15℃ 이하 저온(냉장고) 보관하기 — 저온 보관 (1년) ❄️"
-    text: "15℃ 이상의 온도에서는 쌀벌레의 알이 부화하고 활동이 활발해지며, 호흡 작용으로 영양소가 파괴됩니다. 💡 보관 팁: 쌀이 가장 안정적으로 보관되는 온도는 10 ~ 15℃ 이하입니다. 밀폐 용기에 담은 쌀을 냉장고의 야채칸이나 김치냉장고에 보관하면 쌀벌레 번식을 완벽히 막고 1년 이상 신선하게 유지할 수 있습니다."
+  - name: "10 ~ 15℃ 이하 저온(냉장고) 보관하기 — 최상 밥맛 유지 (3개월) ❄️"
+    text: "15℃ 이상의 온도에서는 쌀벌레의 알이 부화하고 활동이 활발해지며, 호흡 작용으로 영양소가 파괴됩니다. 💡 보관 팁: 쌀이 가장 안정적으로 보관되는 온도는 10 ~ 15℃ 이하입니다. 밀폐 용기에 담아 냉장고 야채칸이나 김치냉장고에 보관하면 쌀벌레 번식을 완벽히 차단함은 물론, 약 3개월(80일) 동안 갓 도정한 듯한 최상의 밥맛과 신선도를 유지할 수 있습니다."
   - name: "직사광선과 강한 냄새 차단하기 — 환경 관리 🛡️"
     text: "쌀은 햇빛을 받으면 수분이 급격히 증발하면서 겉면에 금이 가고, 그 사이로 녹말이 새어 나와 밥이 푸석해집니다. 또한 주변 냄새를 스펀지처럼 흡수합니다. 💡 보관 팁: 어둡고 서늘한 곳에 보관하고, 냉장 보관 시에는 마늘, 생선 등 향이 강한 식재료와 격리하여 이중 밀봉하세요."
 faqs:
@@ -60,10 +60,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">10 ~ 15℃ 이하 저온(냉장고) 보관하기 — 저온 보관 (1년) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">10 ~ 15℃ 이하 저온(냉장고) 보관하기 — 최상 밥맛 유지 (3개월) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    15℃ 이상의 온도에서는 쌀벌레의 알이 부화하고 활동이 활발해지며, 호흡 작용으로 영양소가 파괴됩니다. 💡 보관 팁: 쌀이 가장 안정적으로 보관되는 온도는 10 ~ 15℃ 이하입니다. 밀폐 용기에 담은 쌀을 냉장고의 야채칸이나 김치냉장고에 보관하면 쌀벌레 번식을 완벽히 막고 1년 이상 신선하게 유지할 수 있습니다.
+    15℃ 이상의 온도에서는 쌀벌레의 알이 부화하고 활동이 활발해지며, 호흡 작용으로 영양소가 파괴됩니다. 💡 보관 팁: 쌀이 가장 안정적으로 보관되는 온도는 10 ~ 15℃ 이하입니다. 밀폐 용기에 담아 냉장고 야채칸이나 김치냉장고에 보관하면 쌀벌레 번식을 완벽히 차단함은 물론, 약 3개월(80일) 동안 갓 도정한 듯한 최상의 밥맛과 신선도를 유지할 수 있습니다.
   </p>
 </div>
 
