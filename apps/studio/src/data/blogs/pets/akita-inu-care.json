@@ -1,0 +1,459 @@
+{
+    "akita-inu-care": {
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "locales": {
+            "ko": {
+                "title": "아키타견 이중모 털갈이 관리와 리더십 복종 훈련·체온 케어 3단계 루틴",
+                "description": "'하치 이야기'로 유명한 아키타견 맞춤 케어. 빽빽한 이중모 털갈이 빗질법, 독립적인 대형견을 위한 리더십 구축 및 사회화 훈련, 여름철 서늘한 체온 관리법을 상세히 다룹니다.",
+                "authority": "일본애견협회(JKC) 견종 표준 및 세계소동물수의사회(WSAVA) 임상 케어 가이드라인",
+                "profile": {
+                    "breed": "아키타견 (Akita Inu / 秋田犬)",
+                    "lifespan": "10 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (대형견 특성의 다상성 수면 및 영역 감시 휴식)",
+                    "temperament": "충성스러움, 위엄 있음, 차분함, 경계심 강함, 독립적임, 지배적임"
+                },
+                "intro": "아키타견은 영화 '하치 이야기'의 주인공으로 잘 알려진 일본의 대표적인 대형 명품견으로, 보호자에 대한 절대적인 충성심과 위엄 있는 체구로 전 세계 반려인들에게 존경받는 품종입니다. 삼림과 산악 지대의 추운 기후에 적응한 매우 빽빽한 이중모(Double Coat)를 가져 사계절 중 특히 봄·가을 털갈이 시기에 엄청난 양의 죽은 털이 배출됩니다. 또한 지능이 높고 독립성이 강해 어릴 때부터 일관된 리더십 훈련과 사회화 교육이 이뤄지지 않으면 타인이나 다른 개에게 서열 주장 및 공격성을 보이기 쉽습니다. 오늘 PetSelf에서는 아키타견의 본능 시그널을 해석하고, 이중모 빗질, 리더십 구축, 서늘한 체온 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "아키타견의 본능 시그널: 정면 시선 고정과 꼬리·귀 곧게 세우기",
+                "whyDesc": "아키타견은 자존심이 세고 영역 의식이 강해 당당한 신체 시그널로 의사를 표현합니다. 낯선 대상이나 다른 개를 마주쳤을 때 귀를 앞으로 바짝 세우고 말린 꼬리를 높이 들어 올려 고개를 세운 채 정면으로 시선을 고정(Direct Stare)하는 것은 자신의 위엄을 드러내고 영역을 경계하는 강력한 지배성 시그널입니다.",
+                "body_signals": [
+                    {
+                        "name": "귀·꼬리 세우기와 정면 응시 (Pricked Ears & Direct Stare)",
+                        "meaning": "자신의 서열과 영역을 주장하거나 상대방을 경계하는 지배적 신호로, 흥분 시 공격으로 이어질 수 있습니다.",
+                        "response": "보호자가 차분하게 시선을 차단하고 '기다려' 명령으로 주의를 돌려 리더십을 발휘해야 합니다."
+                    },
+                    {
+                        "name": "과도한 헐떡임 및 바닥 엎드리기 (Heavy Panting & Floor Splay)",
+                        "meaning": "두꺼운 속털 때문에 체온이 급격히 상승했음을 나타내는 고열 스트레스 신호입니다.",
+                        "response": "즉시 시원한 실내(20~22°C)로 이동시키고 시원한 물을 제공하여 열사병을 예방합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 슬리커·핀 브러시 이중모 죽은 털 제거 및 서늘한 산책",
+                        "text": "기온이 올라가기 전 서늘한 아침 시간에 산책을 진행하고, 산책 후 슬리커 브러시로 빽빽한 속털 속 죽은 털을 꼼꼼히 빗겨 정돈합니다."
+                    },
+                    {
+                        "name": "낮: 서늘한 실내 체온 관리(20~22°C) 및 노즈워크 뇌 자극",
+                        "text": "더위에 취약한 체질을 고려해 에어컨으로 시원한 실내 환경을 유지하고, 높은 지능을 충족시킬 수 있는 노즈워크 장난감으로 정신적 자극을 줍니다."
+                    },
+                    {
+                        "name": "밤: 리더십 강화 단호한 복종 훈련 및 피모·관절 상태 점검",
+                        "text": "'앉아', '기다려', '옆에 서' 등 기본 복종 훈련을 매일 반복해 보호자의 서열을 명확히 하고, 대형견 관절 및 피부 상태를 점검합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "아키타견은 초보 반려인이 키우기에 적합한가요?",
+                        "answer": "아닙니다. 아키타견은 체구가 크고 힘이 셀 뿐만 아니라 고집과 지배 성향이 강해 초보자에게는 매우 어려운 품종입니다. 일관되고 단호한 규칙을 제시할 수 있는 경험 많은 보호자가 어릴 때부터 철저한 사회화 및 리더십 훈련을 제공해야 합니다."
+                    },
+                    {
+                        "question": "털 빠짐이 어느 정도로 심한가요? 여름철 체온 케어는 어떻게 하나요?",
+                        "answer": "아키타견은 1년에 2회 대대적인 털갈이(Blowout)를 겪으며, 이때 속털이 뭉텅이로 빠집니다. 매일 빗질로 속털을 제거해야 피부병을 막을 수 있습니다. 여름철에는 서늘한 온도(20~22°C)를 유지하고 낮 시간 야외 활동을 엄격히 제한해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Akita Inu Double Coat Care, Leadership Training, and 3-Step Cool Climate Routine",
+                "description": "Essential care for the legendary Akita Inu. Learn to manage heavy double coat blowouts, establish firm leadership and early socialization, and maintain cool indoor environments.",
+                "authority": "Japan Kennel Club (JKC) Standards and World Small Animal Veterinary Association (WSAVA) Clinical Guidelines",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 Years",
+                    "sleep_pattern": "12 ~ 14 Hours (Polyphasic - Deep Rest & Territorial Guarding)",
+                    "temperament": "Loyal, Dignified, Calm, Alert, Independent, Dominant"
+                },
+                "intro": "Famous globally through the legendary story of Hachiko, the Akita Inu is Japan's premier large breed, revered for its stoic dignity and fierce loyalty. Built for cold, mountainous origins, they possess a dense double coat that experiences massive seasonal shedding ('coat blowouts'). Highly intelligent and self-reliant, Akitas require consistent, assertive leadership and extensive early socialization from puppyhood to prevent dog-on-dog aggression and territorial overprotectiveness. Today, PetSelf decodes Akita behavioral signals and presents a 3-step homecare routine for coat maintenance, authority training, and cool temperature management.",
+                "whyTitle": "Akita Instincts: Direct Eye Contact and Raised Ears/Tail Posture",
+                "whyDesc": "Akitas are proud animals that communicate dominance and alertness through regal posture. When encountering strangers or other dogs, an Akita will stand tall, prick its triangular ears forward, raise its curled tail, and lock eyes in a 'Direct Stare'—a confident signal of territory guarding and dominant assessment.",
+                "body_signals": [
+                    {
+                        "name": "Pricked Ears, Raised Tail & Direct Stare",
+                        "meaning": "A dominant display of territorial alertness, dominance, or challenge toward unfamiliar dogs or strangers.",
+                        "response": "Intervene calmly by breaking eye contact, creating physical distance, and issuing a firm 'Leave it' or 'Heel' command."
+                    },
+                    {
+                        "name": "Heavy Panting & Floor Splay",
+                        "meaning": "An indicator of thermal distress due to their insulating undercoat trapping excess body heat.",
+                        "response": "Move the dog immediately into a climate-controlled room (20–22°C / 68–72°F) and provide fresh, cool water."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Slicker Brushing for Undercoat Deshedding & Cool Walk",
+                        "text": "Exercise during cool morning hours and thoroughly brush through the dense undercoat with a slicker brush to remove trapped dead fur."
+                    },
+                    {
+                        "name": "Afternoon: Climate-Controlled Cooling (20–22°C) & Mental Enrichment",
+                        "text": "Keep indoor temperatures cool with air conditioning to prevent heat stroke, offering food puzzles or nosework to engage their keen mind."
+                    },
+                    {
+                        "name": "Evening: Assertive Obedience Training & Joint/Skin Inspection",
+                        "text": "Reinforce leadership with daily 10-minute obedience drills ('Sit', 'Stay', 'Heel'), followed by an inspection of their large joints and skin health."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is the Akita Inu suitable for a first-time dog owner?",
+                        "answer": "No. The Akita's powerful build, strong willpower, and natural dominance over other dogs make them unsuitable for novice owners. They require an experienced handler capable of providing calm, firm, and consistent leadership without physical harshness."
+                    },
+                    {
+                        "question": "How severe is their shedding, and how do I manage summer heat?",
+                        "answer": "Akitas shed moderately year-round and experience intense double coat blowouts twice a year, releasing clumps of undercoat. Daily grooming with an undercoat rake is mandatory during mues. In summer, keep them in an air-conditioned room (20–22°C) and avoid midday sun."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "秋田犬のダブルコート換毛期ケアとリーダーシップしつけ・体温管理の3ステップルーティン",
+                "description": "「忠犬ハチ公」で知られる日本を代表する大型犬・秋田犬の専門ケア。密生したダブルコートのブラッシング法、独立心と支配性に対応するリーダーシップトレーニング、夏場の涼しい環境作りを解説します。",
+                "authority": "ジャパンケネルクラブ（JKC）犬種標準および世界小動物獣医師会（WSAVA）臨床ガイドライン",
+                "profile": {
+                    "breed": "秋田犬 (Akita Inu)",
+                    "lifespan": "10 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (大型犬特有の多相性睡眠と縄張り警戒)",
+                    "temperament": "忠実、威厳がある、落ち着きがある, 警戒心が強い、独立心、支配的"
+                },
+                "intro": "「忠犬ハチ公」のエピソードで世界的に有名な秋田犬は、飼い主への深い忠誠心と堂々とした体躯を持つ日本誇りの大型犬です。東北地方の寒冷な気候に適応した非常に密生したダブルコート（二重毛）を持ち、春と秋の換毛期には大量の抜け毛（アンダーコート）が吹き出します。また、非常に賢く自立心が強い反面、他の犬や他人に対して支配的になりやすいため、幼少期からの徹底した社会化と一貫したリーダーシップの確立が欠かせません。今回はPetSelfが、秋田犬の習性サインを解読し、被毛ケア・しつけ・熱中症予防を網羅した3ステップ日常ケアをご紹介します。",
+                "whyTitle": "秋田犬の習性サイン：耳と尾を立てた直視（アイコンタクト）",
+                "whyDesc": "秋田犬はプライドが高く縄張り意識が強いため、態度のシグナルで自分の立場を誇示します。見知らぬ人や他の犬に対して、三角耳を前方へピンと立て、巻き尾を高く上げて頭を高く掲げ、正面からじっと見つめる「直視（Direct Stare）」は、自身の威厳を示し警戒・主張する強い支配的サインです。",
+                "body_signals": [
+                    {
+                        "name": "耳・尾を立てた直視 (Pricked Ears & Direct Stare)",
+                        "meaning": "自身の立場や縄張りを主張する支配的なサインであり、興奮すると他の犬との威嚇合いに発展する可能性があります。",
+                        "response": "飼い主が冷静に視線を遮り、「待て」や「あとへ」の指示で注意を飼い主へ向けさせて落ち着かせます。"
+                    },
+                    {
+                        "name": "激しいあえぎと床伏せ (Heavy Panting & Floor Splay)",
+                        "meaning": "分厚いアンダーコートに熱がこもり、体温が急上昇している熱ストレス・熱中症のサインです。",
+                        "response": "すぐに涼しい室内（20〜22℃）へ移動させ、冷たいお水を与えて体を休ませます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：スリッカーブラシでの抜け毛除去と涼しい時間帯の散歩",
+                        "text": "気温が上がる前の涼しい早朝に散歩を行い、帰宅後はスリッカーブラシで密生したアンダーコートの死毛を丁寧に除去します。"
+                    },
+                    {
+                        "name": "昼：涼しい室内環境の維持（20〜22℃）と頭脳知育遊び",
+                        "text": "暑さに弱いためエアコンで涼しい室温を維持し、高い知能を満たすノーズワークやフードパズルで精神的な刺激を与えます。"
+                    },
+                    {
+                        "name": "夜：リーダーシップを強化する服従訓練と関節・皮膚点検",
+                        "text": "「座れ」「待て」などの基本訓練を毎日継続して飼い主との主従関係を明確にし、大型犬の関節や皮膚の状態を点検します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "秋田犬は初心者でも飼うことができますか？",
+                        "answer": "いいえ、初心者には非常に難易度が高い犬種です。体が大きく力が強い上に、強い自立心と他犬への支配性を持っています。一貫した毅然とした態度でルールを教えられる経験豊富な飼い主による、幼少期からの社会化訓練が不可欠です。"
+                    },
+                    {
+                        "question": "換毛期の抜け毛と夏の暑さ対策はどうすればいいですか？",
+                        "answer": "年に2回、アンダーコートがごっそり抜ける「毛吹き」の時期があります。毎日のブラッシングで死毛を取り除かないと皮膚炎の原因になります。夏場は20〜22℃の室内で過ごさせ、日中の屋外運動は厳禁です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "秋田犬双层毛发换毛期护理、主导力服从训练与降温避暑3阶段日常指南",
+                "description": "针对因“忠犬八公”闻名世界的秋田犬专属护理。掌握双层毛发换毛期梳理技巧、确立主导权与早期社会化训练，以及维持凉爽室内环境的体温管理。",
+                "authority": "日本犬业俱乐部 (JKC) 犬种标准与世界小型动物兽医师协会 (WSAVA) 临床指南",
+                "profile": {
+                    "breed": "秋田犬 (Akita Inu / 秋田犬)",
+                    "lifespan": "10 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (大型犬多相性睡眠与领地巡视警惕)",
+                    "temperament": "忠诚、威严、沉稳、警惕性强、独立、具主导性"
+                },
+                "intro": "秋田犬因电影《忠犬八公》而享誉全球，是日本代表性的顶级大型犬，以对主人的绝对忠诚和威严的身姿备受尊崇。它们拥有适应寒冷山地气候的极其丰厚的双层毛发（Double Coat），在春秋换毛季会脱落大量的绒毛。此外，秋田犬智商极高且独立性强，若从小缺乏一贯的领导力训练与社会化引导，容易对陌生人或同类展现出强烈的领地意识与主导攻击性。今天 PetSelf 将解析秋田犬的本能信号，并分享涵盖毛发梳理、主导权建立与避暑降温的3阶段日常护理流程。",
+                "whyTitle": "秋田犬的本能信号：直视凝视与竖耳耸尾姿态",
+                "whyDesc": "秋田犬自尊心强且领地意识浓厚，会通过堂堂正正的姿态表达意图。当遇到陌生人或其他犬只时，它们会竖直三角耳、高举卷曲的尾巴并抬高头部，进行“直视凝视（Direct Stare）”，这是展示自身威严、戒备与主导地位的强烈信号。",
+                "body_signals": [
+                    {
+                        "name": "竖耳耸尾与直视凝视 (Pricked Ears & Direct Stare)",
+                        "meaning": "宣示自身地位与领地的主导性信号，若受到挑衅极易爆发犬只间的冲突。",
+                        "response": "主人应冷静地挡住其视线，使用“等待”或“靠脚”指令拉开距离，重申掌控权。"
+                    },
+                    {
+                        "name": "剧烈喘气与贴地趴卧 (Heavy Panting & Floor Splay)",
+                        "meaning": "密实的底毛导致体内热量无法散发，表明犬只已处于过热应激状态。",
+                        "response": "立即将其转移至凉爽的空调房（20–22°C）中，并提供清凉饮用水以防中暑。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：针梳梳理双层底毛与清晨凉爽散步",
+                        "text": "趁清晨气温较低时外出散步，散步后使用针梳深度梳理密实的底毛，彻底清除积聚的死毛。"
+                    },
+                    {
+                        "name": "中午：维持凉爽室内环境（20–22°C）与嗅闻智力开发",
+                        "text": "鉴于其极度怕热的体质，保持室内空调开放，并使用嗅闻垫或藏食玩具满足其高智商的心理需求。"
+                    },
+                    {
+                        "name": "晚上：强化主导权的服从性训练与关节皮肤检查",
+                        "text": "每日坚持“坐下”、“等待”等服从训练以确立主人的领导地位，并检查大型犬的关节与皮肤状况。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "秋田犬适合新手主人饲养吗？",
+                        "answer": "不适合。秋田犬体型巨大、力量强劲，且具有强烈的独立性与对其他犬只的主导倾向。需要有经验、能够保持冷静坚决原则的主人，从小为其提供严格的社会化与主导力训练。"
+                    },
+                    {
+                        "question": "秋田犬掉毛严重吗？夏季如何防暑？",
+                        "answer": "秋田犬每年会经历2次剧烈的换毛爆发期（Blowout），底毛会成块脱落，必须每日梳理以防皮肤病。夏季必须将其置于20–22°C的空调房中，并严禁在正午高温时段进行户外运动。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de cuidado del doble pelaje del Akita Inu, entrenamiento de liderazgo y rutina de 3 pasos para clima fresco",
+                "description": "Cuidado esencial para el legendario Akita Inu. Aprenda a gestionar las mudas masivas de su doble manto, establecer un liderazgo firme con socialización temprana y mantener un ambiente fresco.",
+                "authority": "Estándares del Japan Kennel Club (JKC) y Guías Clínicas de la World Small Animal Veterinary Association (WSAVA)",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (sueño polifásico con descanso vigilante del territorio)",
+                    "temperament": "Leal, digno, calmado, alerta, independiente, dominante"
+                },
+                "intro": "Famoso mundialmente gracias a la conmovedora historia de Hachiko, el Akita Inu es el perro grande más representativo de Japón, admirado por su lealtad absoluta y su porte majestuoso. Adaptado a climas fríos y montañosos, posee un pelaje doble (Double Coat) sumamente denso que experimenta grandes mudas estacionales. Dada su alta inteligencia e independencia, el Akita requiere una educación firme y una socialización temprana desde cachorro para prevenir comportamientos dominantes o territoriales. Hoy en PetSelf desciframos sus señales conductuales y presentamos una rutina de 3 pasos para el cuidado del pelaje, entrenamiento de liderazgo y control de la temperatura.",
+                "whyTitle": "Instintos del Akita Inu: Mirada fija directa y postura firme con orejas y cola erguidas",
+                "whyDesc": "Los Akitas son animales orgullosos que comunican dominancia y alerta mediante una postura erguida. Al encontrar extraños u otros perros, se yguen, yerguen sus orejas triangulares hacia adelante, levantan su cola enroscada y fijan la vista en un **'Mirada Directa' (Direct Stare)**, señal clara de evaluación y protección territorial.",
+                "body_signals": [
+                    {
+                        "name": "Orejas erguidas, cola alta y mirada fija (Pricked Ears & Direct Stare)",
+                        "meaning": "Exhibición dominante de alerta territorial o desafío hacia otros perros o desconocidos.",
+                        "response": "Intervenga con calma interrumpiendo el contacto visual, cree distancia y dé la orden firme de 'Junto' o 'Sienta'."
+                    },
+                    {
+                        "name": "Jadeo excesivo y postura extendida en el suelo (Heavy Panting & Floor Splay)",
+                        "meaning": "Señal de estrés térmico debido a que su densa subcapa de pelo atrapa excesivo calor corporal.",
+                        "response": "Lleve al perro inmediatamente a una estancia con aire acondicionado (20-22 °C) y ofrézcale agua fresca."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Cepillado con carda para eliminar pelo muerto y paseo fresco",
+                        "text": "Pasee durante las horas frescas de la mañana y cepille a fondo la subcapa densa con un cepillo tipo carda para retirar el pelo suelto."
+                    },
+                    {
+                        "name": "Tarde: Climatización fresca (20-22 °C) y estimulación mental con nosework",
+                        "text": "Mantenga la vivienda fresca con aire acondicionado para prevenir golpes de calor y proporcione rompecabezas interactivos de olfato."
+                    },
+                    {
+                        "name": "Noche: Entrenamiento de obediencia firme y revisión de articulaciones y piel",
+                        "text": "Refuerce el liderazgo con ejercicios diarios de obediencia básica ('Quieto', 'Junto') e inspeccione la salud de sus articulaciones y piel."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es el Akita Inu adecuado para dueños principiantes?",
+                        "answer": "No. Su fuerza física, carácter independiente y tendencia a la dominancia frente a otros perros hacen del Akita una raza compleja para novatos. Requiere un guía experimentado capaz de ofrecer un liderazgo sereno, coherente y firme sin violencia física."
+                    },
+                    {
+                        "question": "¿Cuánto pelo suelta y cómo afrontar el calor del verano?",
+                        "answer": "El Akita experimenta dos mudas masivas al año (Blowout) donde pierde su subcapa a mechones, requiriendo cepillado diario. En verano, debe permanecer en ambientes climatizados (20-22 °C) y restringir totalmente los paseos en horas de sol."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de soin du double pelage de l'Akita Inu, entraînement au leadership et routine en 3 étapes pour un climat frais",
+                "description": "Soins essentiels pour le légendaire Akita Inu. Maîtrisez le brossage du double pelage lors des mues, établissez un leadership ferme et préservez une température fraîche en intérieur.",
+                "authority": "Normes du Japan Kennel Club (JKC) et Directives Cliniques de la World Small Animal Veterinary Association (WSAVA)",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (sommeil polyphasique avec phases de garde territoriale)",
+                    "temperament": "Loyal, digne, calme, vigilant, indépendant, dominant"
+                },
+                "intro": "Rendu célèbre dans le monde entier par l'histoire d'Hachiko, l'Akita Inu est le grand chien emblématique du Japon, révéré pour sa loyauté indéfectible et sa carrure majestueuse. Adapté aux climats froids et montagneux, il possède un pelage double (Double Coat) extrêmement dense qui subit de fortes mues saisonnières. Très intelligent et indépendant, l'Akita nécessite un leadership cohérent et une socialisation précoce dès son plus jeune âge pour prévenir toute agressivité territoriale ou envers d'autres chiens. Découvrez la routine PetSelf en 3 étapes.",
+                "whyTitle": "Instincts de l'Akita Inu : Regard fixe direct et posture oreilles/queue dressées",
+                "whyDesc": "L'Akita est un chien fier qui exprime sa dominance et sa vigilance par une posture imposante. Face à un inconnu ou un autre chien, il se dresse, pointe ses oreilles triangulaires vers l'avant, dresse sa queue enroulée et fixe son vis-à-vis (**'Regard Direct' / Direct Stare**), affirmant sa dominance et sa garde.",
+                "body_signals": [
+                    {
+                        "name": "Oreilles dressées, queue haute et regard fixe (Pricked Ears & Direct Stare)",
+                        "meaning": "Manifestation dominante de garde territoriale ou de défi envers d'autres chiens ou inconnus.",
+                        "response": "Intervenez calmement en coupant le contact visuel, créez de la distance et donnez l'ordre 'Pas bouger' ou 'Au pied'."
+                    },
+                    {
+                        "name": "Halètement excessif et étalement au sol (Heavy Panting & Floor Splay)",
+                        "meaning": "Signe de détresse thermique, son sous-poil dense emprisonnant la chaleur corporelle.",
+                        "response": "Déplacez immédiatement le chien dans une pièce rafraîchie (20–22 °C) et donnez-lui de l'eau fraîche."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Brossage à la carde du sous-poil et promenade à la fraîche",
+                        "text": "Effectuez la promenade pendant les heures fraîches du matin et brossez le sous-poil dense avec une brosse carde pour éliminer les poils morts."
+                    },
+                    {
+                        "name": "Après-midi : Climatisation fraîche (20–22 °C) et jeux de recherche olfactive",
+                        "text": "Maintenez une température intérieure fraîche grâce à la climatisation pour éviter le coup de chaleur et proposez des jeux de nosework."
+                    },
+                    {
+                        "name": "Soir : Entraînement à l'obéissance et inspection des articulations et de la peau",
+                        "text": "Renforcez votre statut de leader avec 10 minutes d'exercices d'obéissance quotidienne ('Assis', 'Reste') et contrôlez la santé des articulations."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "L'Akita Inu convient-il à un maître débutant ?",
+                        "answer": "Non. Sa puissance physique, son indépendance et sa tendance à la dominance envers les autres chiens rendent l'Akita inadapté aux débutants. Il demande un maître expérimenté, capable de fournir un leadership calme, ferme et cohérent."
+                    },
+                    {
+                        "question": "Quelle est l'intensité de la mue et comment gérer la chaleur estivale ?",
+                        "answer": "L'Akita subit deux mues impressionnantes par an (Blowout) où le sous-poil tombe par touffes, imposant un brossage quotidien. En été, il doit rester dans une pièce climatisée (20–22 °C) et éviter toute activité aux heures chaudes."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Akita Inu Doppelfell-Pflege, Führungstraining und 3-Schritte-Routine für kühles Klima",
+                "description": "Essenzielle Pflege für den legendären Akita Inu. Meistern Sie den Fellwechsel des dichten Doppelfells, etablieren Sie klare Führung und halten Sie das Raumklima kühl.",
+                "authority": "Japan Kennel Club (JKC) Standards und World Small Animal Veterinary Association (WSAVA) Klinische Richtlinien",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (polyphasischer Schlaf mit wachsamen Bewachungsphasen)",
+                    "temperament": "Treu, würdevoll, ruhig, wachsam, unabhängig, dominant"
+                },
+                "intro": "Weltberühmt durch die Geschichte von Hachiko ist der Akita Inu Japans imposantester Großhund, geschätzt für stoische Würde und Treue. Angepasst an kaltes Bergklima besitzen sie ein extrem dichtes Doppelfell (Double Coat), das im Frühjahr und Herbst stark abhaart. Durch ihre hohe Intelligenz und Unabhängigkeit benötigen Akitas ab dem Welpenalter eine konsequente Führung und Früherziehung, um Artgenossen-Aggressionen zu vermeiden. PetSelf zeigt die 3-Schritte-Routine für Fellpflege, Führung und Hitzeschutz.",
+                "whyTitle": "Instinkte des Akita Inu: Direkter Blickkontakt und aufgerichtete Ohren/Rute",
+                "whyDesc": "Akitas kommunizieren Dominanz und Wachsamkeit durch eine erhabene Körperhaltung. Bei Begegnungen mit Fremden oder anderen Hunden stellen sie die Ohren nach vorne, heben die eingerollte Rute und fixieren ihr Gegenüber mit einem **'Direkten Blick' (Direct Stare)** – ein selbstbewusstes Signal der Territorialverteidigung.",
+                "body_signals": [
+                    {
+                        "name": "Stehohren, hohe Rute & direkter Blick (Pricked Ears & Direct Stare)",
+                        "meaning": "Dominantes Signal zur Revierverteidigung oder Erprobung der Rangordnung gegenüber anderen Hunden.",
+                        "response": "Unterbrechen Sie ruhig den Blickkontakt, schaffen Sie Distanz und geben Sie das Kommando 'Fuss' oder 'Bleib'."
+                    },
+                    {
+                        "name": "Starkes Hecheln & Flachliegen (Heavy Panting & Floor Splay)",
+                        "meaning": "Anzeichen von Hitzestress, da die dichte Unterwolle die Körperwärme staut.",
+                        "response": "Bringen Sie den Hund sofort in einen klimatisierten Raum (20–22 °C) und stellen Sie kühles Wasser bereit."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Zupfbürsten-Pflege der Unterwolle & kühler Spaziergang",
+                        "text": "Nutzen Sie die kühlen Morgenstunden für den Auslauf und bürsten Sie das dichte Doppelfell gründlich mit einer Zupfbürste aus."
+                    },
+                    {
+                        "name": "Nachmittag: Klimatisierte Kühlung (20–22 °C) & Intelligenzspiele",
+                        "text": "Halten Sie die Innenräume mit einer Klimaanlage kühl und bieten Sie Nosework- oder Suchspiele für den klugen Kopf an."
+                    },
+                    {
+                        "name": "Abend: Konsequentes Gehorsamstraining & Gelenk-/Hautkontrolle",
+                        "text": "Festigen Sie Ihre Führungsrolle durch tägliche Gehorsamsübungen ('Sitz', 'Platz', 'Bleib') und kontrollieren Sie Haut und Gelenke."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist der Akita Inu für Anfänger geeignet?",
+                        "answer": "Nein. Seine Körperkraft, Unabhängigkeit und ausgeprägte Dominanz gegenüber anderen Hunden machen den Akita zu einem Hund für erfahrene Halter. Er benötigt eine souveräne, konsequente und liebevolle Führung von Klein auf."
+                    },
+                    {
+                        "question": "Wie stark ist der Fellwechsel und wie schützt man ihn vor Sommerhitze?",
+                        "answer": "Akitas verlieren zweimal im Jahr extrem viel Unterwolle ('Abhaaren'), was tägliches Ausbürsten erfordert. Im Sommer müssen sie in kühlen Räumen (20–22 °C) gehalten werden; Spaziergänge in der Mittagssonne sind strikt zu vermeiden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de cuidado da pelagem dupla do Akita Inu, treino de liderança e rotina de 3 passos para clima fresco",
+                "description": "Cuidados essenciais para o lendário Akita Inu. Aprenda a gerir as mudas intensas da pelagem dupla, estabelecer uma liderança firme e manter um ambiente interno fresco.",
+                "authority": "Padrões do Japan Kennel Club (JKC) e Diretrizes Clínicas da World Small Animal Veterinary Association (WSAVA)",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (sono polifásico de grande porte com vigilância territorial)",
+                    "temperament": "Leal, digno, calmo, alerta, independente, dominante"
+                },
+                "intro": "Famoso no mundo inteiro através da história de Hachiko, o Akita Inu é o cão de grande porte mais nobre do Japão, admirado pela sua lealdade inabalável e postura imponente. Adaptado ao clima frio das montanhas, possui uma pelagem dupla (Double Coat) extremamente densa que passa por intensas mudas sazonais. Muito inteligente e independente, o Akita exige uma liderança firme e uma socialização precoce desde cachorro para evitar comportamentos dominantes com outros cães. Conheça a rotina de 3 passos do PetSelf.",
+                "whyTitle": "Instintos do Akita Inu: Olhar direto fixo e postura firme com orelhas e cauda erguidas",
+                "whyDesc": "Os Akitas são animais orgulhosos que comunicam dominância e alerta através de uma postura imponente. Ao encontrar estranhos ou outros cães, erguem as orelhas triangulares para a frente, levantam a cauda encaracolada e fixam o olhar num **'Olhar Direto' (Direct Stare)**, um sinal claro de proteção territorial.",
+                "body_signals": [
+                    {
+                        "name": "Orelhas erguidas, cauda alta e olhar direto (Pricked Ears & Direct Stare)",
+                        "meaning": "Sinal dominante de alerta territorial ou desafio perante outros cães ou estranhos.",
+                        "response": "Intervenha com calma cortando o contacto visual, crie distância e dê a ordem de 'Junto' ou 'Fica'."
+                    },
+                    {
+                        "name": "Arfar excessivo e deitar-se totalmente no chão (Heavy Panting & Floor Splay)",
+                        "meaning": "Sinal de stresse térmico devido à subpelagem densa que retém o calor corporal.",
+                        "response": "Leve o cão imediatamente para uma divisão com ar condicionado (20–22 °C) e ofereça água fresca."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Escovagem da subpelagem com rasqueadeira e passeio fresco",
+                        "text": "Passeie durante as horas frescas da manhã e escove a subpelagem densa com uma rasqueadeira para remover o pelo morto."
+                    },
+                    {
+                        "name": "Tarde: Ambiante fresco (20–22 °C) e estimulação mental com nosework",
+                        "text": "Mantenha a casa fresca com ar condicionado para evitar golpes de calor e ofereça jogos olfativos de pesquisa de comida."
+                    },
+                    {
+                        "name": "Noite: Treino de obediência firme e inspeção de articulações e pele",
+                        "text": "Reforce a liderança com exercícios diários de obediência básica ('Senta', 'Fica', 'Junto') e inspecione as articulações e a pele."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O Akita Inu é adequado para tutores de primeira viagem?",
+                        "answer": "Não. O seu tamanho porte físico, temperamento independente e tendência à dominância com outros cães fazem do Akita uma raça exigente. Requer um tutor experiente capaz de demonstrar uma liderança firme, serena e consistente."
+                    },
+                    {
+                        "question": "Como lidar com a queda de pelo e o calor do verão?",
+                        "answer": "O Akita passa por duas mudas intensas por ano (Blowout) onde perde a subpelagem em tufos, exigindo escovagem diária. No verão, deve permanecer em ambientes climatizados (20–22 °C) e evitar passeios nas horas de sol."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Perawatan Bulu Ganda Akita Inu, Pelatihan Kepemimpinan, dan Rutinitas 3 Langkah Lingkungan Sejuk",
+                "description": "Perawatan esensial untuk ras legendaris Akita Inu. Pelajari cara mengelola rontoknya bulu ganda, membangun kepemimpinan tegas dengan sosialisasi dini, serta menjaga suhu ruangan tetap sejuk.",
+                "authority": "Standar Japan Kennel Club (JKC) dan Panduan Klinis World Small Animal Veterinary Association (WSAVA)",
+                "profile": {
+                    "breed": "Akita Inu",
+                    "lifespan": "10 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (tidur polifasik anjing besar dengan fase penjagaan wilayah)",
+                    "temperament": "Setia, anggun, tenang, waspada, mandiri, dominan"
+                },
+                "intro": "Terkenal di seluruh dunia melalui kisah legendaris Hachiko, Akita Inu adalah ras anjing besar paling terkemuka dari Jepang, dihormati karena kesetiaannya yang luar biasa dan perawakannya yang gagah. Berasal dari daerah pegunungan yang dingin, mereka memiliki bulu ganda (Double Coat) yang sangat tebal dan mengalami rontok hebat saat pergantian musim. Cerdas dan mandiri, Akita membutuhkan kepemimpinan yang konsisten serta sosialisasi sejak kecil untuk mencegah sifat dominan terhadap anjing lain. PetSelf menyajikan rutinitas 3 langkahnya.",
+                "whyTitle": "Insting Akita Inu: Tatapan Mata Langsung dan Postur Telinga/Ekor Tegak",
+                "whyDesc": "Akita Inu adalah anjing yang memiliki harga diri tinggi dan mengomunikasikan dominasi melalui postur tubuhnya. Saat bertemu orang asing atau anjing lain, Akita akan menegakkan telinganya ke depan, mengangkat ekornya yang melengkung, dan menatap langsung (**'Tatapan Langsung' / Direct Stare**), yang merupakan sinyal tegas dalam menjaga wilayahnya.",
+                "body_signals": [
+                    {
+                        "name": "Telinga Tegak, Ekor Tinggi & Tatapan Langsung (Pricked Ears & Direct Stare)",
+                        "meaning": "Tampilan dominan dalam menjaga wilayah atau tantangan terhadap anjing lain yang dapat memicu ketegangan.",
+                        "response": "Alihkan pandangannya secara tenang, ciptakan jarak fisik, dan berikan perintah tegas seperti 'Diam' atau 'Ikut'."
+                    },
+                    {
+                        "name": "Napas Terengah-engah & Terapat di Lantai (Heavy Panting & Floor Splay)",
+                        "meaning": "Tanda stres akibat suhu panas karena bulu bawahnya yang tebal memerangkap panas tubuh.",
+                        "response": "Segera pindahkan anjing ke ruangan ber-AC (20–22°C) dan sediakan air minum yang segar."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Menyisir Bulu Bawah dengan Sisir Slicker & Jalan Pagi yang Sejuk",
+                        "text": "Ajak berjalan-jalan pada pagi hari yang sejuk dan sisir bulu bawahnya yang tebal secara menyeluruh untuk merontokkan bulu mati."
+                    },
+                    {
+                        "name": "Siang: Pendinginan Suhu Ruangan (20–22°C) & Mainan Penciuman (Nosework)",
+                        "text": "Jaga suhu ruangan tetap sejuk dengan AC untuk mencegah sengatan panas, serta berikan mainan penciuman untuk menstimulasi kecerdasannya."
+                    },
+                    {
+                        "name": "Malam: Latihan Kepatuhan Tegas & Pemeriksaan Sendi dan Kulit",
+                        "text": "Perkuat kepemimpinan pemilik dengan latihan kepatuhan dasar harian ('Duduk', 'Diam') serta periksa kesehatan sendi dan kulitnya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah Akita Inu cocok untuk pemilik pemula?",
+                        "answer": "Tidak. Ukuran tubuhnya yang besar, kekuatannya, serta kecenderungan dominan terhadap anjing lain membuat Akita Inu kurang cocok untuk pemula. Mereka membutuhkan pemilik berpengalaman yang mampu memberikan kepemimpinan yang tenang, tegas, dan konsisten."
+                    },
+                    {
+                        "question": "Seberapa parah rontok bulunya dan bagaimana mengatasi panas musim panas?",
+                        "answer": "Akita mengalami rontok bulu ganda yang sangat masif dua kali setahun (Blowout), di mana bulu bawahnya lepas dalam jumlah besar sehingga butuh disisir setiap hari. Di musim panas, jaga mereka di ruangan ber-AC (20–22°C) dan hindari aktivitas di bawah terik matahari."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/akita_inu_care.webp"
+    }
+}

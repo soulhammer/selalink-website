@@ -8,16 +8,16 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const petTargetsWithDates = [
-  { slug: 'clownfish-care', date: '2026-01-12' },
-  { slug: 'emperor-scorpion-care', date: '2026-02-02' },
-  { slug: 'african-grey-parrot-care', date: '2026-02-23' },
-  { slug: 'milk-snake-care', date: '2026-03-16' },
-  { slug: 'african-bullfrog-care', date: '2026-04-06' },
-  { slug: 'electric-blue-crayfish-care', date: '2026-04-27' },
-  { slug: 'prairie-dog-care', date: '2026-05-18' },
-  { slug: 'sulcata-tortoise-care', date: '2026-06-08' },
-  { slug: 'papillon-care', date: '2026-06-29' },
-  { slug: 'birman-care', date: '2026-07-20' }
+  { slug: 'akita-inu-care', date: '2026-01-15' },
+  { slug: 'apple-snail-care', date: '2026-02-05' },
+  { slug: 'burmese-cat-care', date: '2026-02-26' },
+  { slug: 'cornish-rex-care', date: '2026-03-19' },
+  { slug: 'dwarf-gourami-care', date: '2026-04-09' },
+  { slug: 'fire-bellied-newt-care', date: '2026-04-30' },
+  { slug: 'flemish-giant-rabbit-care', date: '2026-05-21' },
+  { slug: 'indian-ringneck-care', date: '2026-06-11' },
+  { slug: 'italian-greyhound-care', date: '2026-07-02' },
+  { slug: 'panther-chameleon-care', date: '2026-07-23' }
 ];
 
 console.log('🗓️ 신규 10개 반려동물 블로그 날짜 분산 작업 시작...');

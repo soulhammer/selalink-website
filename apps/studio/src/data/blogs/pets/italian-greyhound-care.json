@@ -1,0 +1,459 @@
+{
+    "italian-greyhound-care": {
+        "pubDate": "2026-07-02",
+        "updatedDate": "2026-07-02",
+        "locales": {
+            "ko": {
+                "title": "이탈리안 그레이하운드 체온 관리법과 골절·슬개골 예방 3단계 루틴",
+                "description": "슬림하고 우아한 이탈리안 그레이하운드(IG) 맞춤 케어. 얇은 피부와 낮은 체지방을 위한 사계절 체온 관리와 다리 골절 예방 환경 조성법을 다룹니다.",
+                "authority": "미국애견협회(AKC) 견종 표준 및 수의 정형외과학 임상 가이드라인",
+                "profile": {
+                    "breed": "이탈리안 그레이하운드 (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "12 ~ 14시간 (체온 보존을 위해 따뜻한 곳에서 다상성 수면)",
+                    "temperament": "우아함, 애정 깊음, 민첩함, 예민함, 온순함"
+                },
+                "intro": "이탈리안 그레이하운드(IG)는 우아하고 날렵한 체형과 깔끔한 성격으로 도시 반려인들에게 큰 사랑을 받는 소형 시각하운드입니다. 체지방이 매우 적고 피하 지방층이 얇아 추위에 매우 취약하며, 가늘고 긴 다리 뼈 구조상 소파나 침대에서 뛰어내릴 때 요척골(앞다리 뼈) 골절이나 슬개골 탈구가 발생하기 쉽습니다. 오늘 PetSelf에서는 이탈리안 그레이하운드의 특유의 몸짓 시그널을 분석하고, 사계절 체온 보호와 관절·뼈 안전을 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "이탈리안 그레이하운드의 본능 시그널: 떨림 행동과 이불 파고들기",
+                "whyDesc": "이탈리안 그레이하운드는 추위뿐만 아니라 기쁨, 기대의 흥분, 불안 등 강한 감정을 느낄 때 몸을 떨거나 이빨을 틱틱 부딪히는 표현을 합니다. 또한 얇은 단모와 낮은 체지방 때문에 체온을 유지하고자 담요나 이불 속 깊이 파고들어 둥지를 틀어 자신만의 안식처를 만드는 본능적 행동을 보입니다.",
+                "body_signals": [
+                    {
+                        "name": "몸 떨기 및 이빨 부딪히기 (Trembling & Teeth Chattering)",
+                        "meaning": "체온 저하(추위) 외에도 산책 전의 극도 흥분, 불안, 혹은 기쁨 등의 감정 과부하 신호입니다.",
+                        "response": "실내외 온도를 점검하여 의류를 입혀주고, 흥분 상태일 때는 차분하게 다독여 안정감을 줍니다."
+                    },
+                    {
+                        "name": "이불 깊이 파고들기 (Burrowing / Nesting)",
+                        "meaning": "체온을 보존하고 주변 시선이나 소음으로부터 심리적 안정을 찾으려는 시각하운드의 체온 조절 본능입니다.",
+                        "response": "부드럽고 따뜻한 전용 담요나 쿠션을 제공하고, 답답하지 않게 통기성이 확보되었는지 확인해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 계절별 맞춤 보온 의류 착용 및 관절 스트레칭",
+                        "text": "외출 전 기온을 확인하여 보온 옷(겨울)이나 자외선 차단 옷(여름)을 입히고, 가볍게 다리를 마사지하여 관절 경직을 풀어준 뒤 짧은 산책을 시작합니다."
+                    },
+                    {
+                        "name": "낮: 실내 미끄럼 방지 매트 및 스텝 점검",
+                        "text": "소파나 침대 옆 슬라이드 스텝 설치 유무를 점검하고, 미끄러운 바닥에 푹신한 미끄럼 방지 매트를 깔아 골절 및 슬개골 탈구 위험을 차단합니다."
+                    },
+                    {
+                        "name": "밤: 다리 뼈·피부 상태 점검 및 온열 휴식",
+                        "text": "산책 후 발가락과 가느다란 다리에 긁힘이나 절뚝거림이 없는지 확인하고, 따뜻한 안식처에서 편안히 잘 수 있도록 온도 환경을 조성합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "이탈리안 그레이하운드는 아파트나 도시 환경에 적합한가요?",
+                        "answer": "네, 매우 적합합니다. 체취가 적고 털 빠짐이 적으며, 실내에서는 매우 정적인 '카우치 포테이토' 습성을 보입니다. 단, 하루 1~2회 짧고 집중적인 산책과 안전한 실내 운동이 필요합니다."
+                    },
+                    {
+                        "question": "겨울철 산책 시 의류 착용은 필수인가요?",
+                        "answer": "필수입니다. 피하지방이 거의 없고 피부가 매우 얇아 섭씨 10~15도 이하만 되어도 저체온증 위험이 커집니다. 방풍과 보온 기능이 있는 전용 올인원 의류나 패딩을 반드시 입혀야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Italian Greyhound Temperature Management and 3-Step Bone & Joint Safety Routine",
+                "description": "Essential care for the sleek, elegant Italian Greyhound. Learn how to manage 4-season temperature needs for their thin skin and low body fat, and setup a fracture-safe home.",
+                "authority": "American Kennel Club (AKC) Breed Standards and Veterinary Orthopedic Clinical Guidelines",
+                "profile": {
+                    "breed": "Italian Greyhound (Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 Years",
+                    "sleep_pattern": "12 ~ 14 Hours (Polyphasic - Deep Rest in Warm Nests)",
+                    "temperament": "Elegant, Affectionate, Agile, Sensitive, Gentle"
+                },
+                "intro": "The Italian Greyhound (IG) is a refined, slender sighthound beloved by urban pet parents for their gentle nature and clean habits. With extremely low body fat and thin single coats, they are highly sensitive to temperature drops. Furthermore, their long, delicate leg bones make them prone to radius/ulna fractures and patellar luxation if jumping from high furniture. Today, PetSelf decodes IG behavioral signals and shares a 3-step daily care routine for year-round thermal protection and joint safety.",
+                "whyTitle": "Italian Greyhound Instincts: Emotional Trembling and Burrowing",
+                "whyDesc": "Italian Greyhounds communicate intense emotions through physical signals. Beyond feeling cold, they often tremble or chatter their teeth when experiencing high excitement, anticipation, or anxiety. Additionally, due to their minimal body fat, they possess a strong natural instinct to burrow deep under blankets to conserve heat and seek psychological security.",
+                "body_signals": [
+                    {
+                        "name": "Trembling & Teeth Chattering",
+                        "meaning": "An indicator of cold temperature, or a sign of heightened emotional arousal such as excitement, anticipation, or mild stress.",
+                        "response": "Check room temperature and put on a sweater if chilly; offer calm, reassuring touch to soothe emotional excitement."
+                    },
+                    {
+                        "name": "Burrowing Under Blankets (Nesting)",
+                        "meaning": "A natural thermoregulation and security habit to retain body heat and rest away from drafts and bright lights.",
+                        "response": "Provide soft, warm fleece blankets and ensure their sleeping nook is cozy, well-ventilated, and safe."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Seasonal Apparel Fitting & Gentle Joint Warm-up",
+                        "text": "Check outdoor weather to dress them in warm coats (winter) or UV gear (summer). Lightly massage their slender legs before short walks to prevent muscle stiffness."
+                    },
+                    {
+                        "name": "Afternoon: Indoor Non-Slip Floor Check & Pet Step Setup",
+                        "text": "Inspect pet stairs beside sofas and beds, and ensure non-slip rugs cover smooth flooring to eliminate fracture and patellar luxation hazards."
+                    },
+                    {
+                        "name": "Evening: Leg & Skin Inspection and Warm Resting Setup",
+                        "text": "Examine their delicate limbs and thin skin for scratches or limping after activity, then set up a warm, draft-free nest for restorative sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Are Italian Greyhounds suitable for apartment living?",
+                        "answer": "Yes, exceptionally so. They have virtually no body odor, shed minimally, and act as quiet 'couch potatoes' indoors. They simply need short, quality daily walks and safe indoor play."
+                    },
+                    {
+                        "question": "Is clothing mandatory for Italian Greyhounds during cold weather?",
+                        "answer": "Yes. Because they lack insulating undercoats and body fat, temperatures below 10–15°C (50–60°F) pose a real hypothermia risk. Fitted sweaters, coats, or fleece overall suits are essential."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "イタリアン・グレーハウンドの体温管理と骨折・膝蓋骨予防の3ステップルーティン",
+                "description": "スリムでエレガントなイタリアン・グレーハウンド（イタグレ）の専門ケア。薄い皮膚と少ない体脂肪に合わせた四季の体温管理と骨折予防の住環境作りを解説します。",
+                "authority": "アメリカンケネルクラブ（AKC）犬種標準および獣医整形外科学臨床ガイドライン",
+                "profile": {
+                    "breed": "イタリアン・グレーハウンド (Italian Greyhound)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "12 〜 14時間 (体温保持のための暖かい場所での多相性睡眠)",
+                    "temperament": "優雅、愛情深い、敏捷、繊細、穏やか"
+                },
+                "intro": "スリムで気品ある体型と清潔な習慣で、都市部の飼い主に大人気のイタリアン・グレーハウンド（イタグレ）。体脂肪が非常に少なく被毛も薄いため寒さに極めて弱く、細く長い前脚の骨構造から、ソファやベッドからの飛び降りによる骨折や膝蓋骨脱臼（パテラ）を起こしやすい傾向があります。今回はPetSelfが、イタグレ特有のボディシグナルを解読し、年中通しての体温保護と骨・関節を守る3ステップのホームケアルーチンをご紹介します。",
+                "whyTitle": "イタグレの習性シグナル：体の震えと毛布への潜り込み",
+                "whyDesc": "イタリアン・グレーハウンドは、寒さだけでなく興奮や期待、不安などの強い感情を抱いたときにも体を震わせたり歯をガチガチと鳴らします。また、体脂肪が少ないため体温を逃がさないよう、毛布や布団の奥深くに潜り込んで「巣作り」をし、安心感を得ようとする本能的な行動を見せます。",
+                "body_signals": [
+                    {
+                        "name": "体の震えと歯の噛み鳴らし (Trembling & Teeth Chattering)",
+                        "meaning": "寒さによる体温低下のほか、お散歩前の極度の興奮や緊張、嬉しさなどの感情が高まったサインです。",
+                        "response": "室温や外気を確認して洋服を着せ、感情的な興奮時には優しく声をかけて落ち着かせてあげます。"
+                    },
+                    {
+                        "name": "毛布への潜り込み (Burrowing / Nesting)",
+                        "meaning": "体温を維持し、周囲の視線や冷気から身を守って精神的な安心感を得るための本能的な体温調節行動です。",
+                        "response": "柔らかく暖かい専用の毛布やクッションを用意し、息苦しくならないよう通気性を確保してあげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：季節に合わせたドッグウェア着用と軽めの関節ほぐし",
+                        "text": "外出前に気温を確認して防寒着（冬）やUVカット服（夏）を着せ、細い脚を優しくマッサージして関節の強張りをほぐしてから散歩に出かけます。"
+                    },
+                    {
+                        "name": "昼：室内滑り止めマットとペットステップの点検",
+                        "text": "ソファやベッド横にスロープやステップが設置されているか確認し、滑りやすい床には防音・滑り止めマットを敷いて骨折や脱臼のリスクを遮断します。"
+                    },
+                    {
+                        "name": "夜：脚・皮膚の点検と暖かい休息環境の整え",
+                        "text": "散歩後に細い脚や薄い皮膚に傷や歩行の違和感がないか点検し、風の当たらない暖かい寝床でぐっすり休ませます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "イタリアン・グレーハウンドはマンションや都市部での飼育に適していますか？",
+                        "answer": "はい、非常に適しています。体臭が少なく抜け毛もごくわずかで、室内では静かに過ごす「カウチポテト」な一面を持っています。1日1〜2回の短時間の質の良い散歩と安全な室内遊びで満足します。"
+                    },
+                    {
+                        "question": "寒い季節の散歩に洋服の着用は必須ですか？",
+                        "answer": "はい、必須です。下毛（アンダーコート）や皮下脂肪がほとんどないため、気温が10〜15度以下になると低体温症のリスクが高まります。保温性の高い専用ロンパースやコートを必ず着用させてください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "意大利灰狗体温管理指南与骨折·髌骨脱位预防3阶段日常护理",
+                "description": "针对修长优雅的意大利灰狗（Italian Greyhound）专属护理。学习如何根据其薄皮肤与低体脂特点进行四季体温管理，以及打造预防骨折的居家环境。",
+                "authority": "美国犬业俱乐部 (AKC) 犬种标准与兽医骨科学临床指南",
+                "profile": {
+                    "breed": "意大利灰狗 (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "12 ~ 14小时 (为维持体温在温暖处进行多相性睡眠)",
+                    "temperament": "优雅、深情、敏捷、敏感、温和"
+                },
+                "intro": "意大利灰狗（IG）凭借其优雅修长的体型和干净的习惯，深受城市宠主的喜爱。由于其体脂肪极低且皮下脂肪层较薄，对寒冷极其敏感；同时，其细长的前肢骨骼结构使其在从沙发或床头跳下时极易发生前臂骨折或髌骨脱位。今天 PetSelf 将解析意大利灰狗的肢体信号，并分享确保四季体温防护与骨骼关节安全的3阶段每日居家护理流程。",
+                "whyTitle": "意大利灰狗的本能信号：身体颤抖与钻被窝行为",
+                "whyDesc": "意大利灰狗不仅在受冻时会发抖，在感到极度兴奋、期待或焦虑等强烈情绪时，也会出现身体颤抖或牙齿发出咔哒声的情况。此外，为了保持体温，它们有着深钻进毯子或被窝中筑巢的本能，以此获取安全感与温暖。",
+                "body_signals": [
+                    {
+                        "name": "身体颤抖与牙齿打颤 (Trembling & Teeth Chattering)",
+                        "meaning": "除了代表体温过低外，也是外出前极度兴奋、紧张或情绪过载的信号。",
+                        "response": "检查室内外温度并穿戴保暖衣物；若因情绪兴奋发抖，可用温和抚摸进行安抚。"
+                    },
+                    {
+                        "name": "钻入毯子深处 (Burrowing / Nesting)",
+                        "meaning": "为保存体温并避开外界冷空气与光线干扰，寻找心理安全感的一种本能体温调节行为。",
+                        "response": "提供柔软温暖的专用毛毯或垫子，并确保环境通气顺畅不闷热。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：季节性保暖衣物穿戴与关节轻柔拉伸",
+                        "text": "出门前确认气温，穿戴保暖外套（冬季）或防晒衣（夏季），轻柔按摩其细长双腿以舒缓关节僵硬，随后进行短暂散步。"
+                    },
+                    {
+                        "name": "中午：室内防滑垫与宠物台阶安全检查",
+                        "text": "检查沙发与床边的斜坡台阶，并在光滑地面铺设厚实防滑垫，从源头上消除骨折与髌骨脱位隐患。"
+                    },
+                    {
+                        "name": "晚上：腿骨与皮肤健康检查及温热休息区布置",
+                        "text": "散步后检查其细小的腿骨与薄皮肤是否有划伤或跛行迹象，并布置无风且温暖的窝供其深度休息。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "意大利灰狗适合公寓和城市生活吗？",
+                        "answer": "非常适合。它们体味极小、掉毛极少，在室内是非常安静的“沙发土豆”。只需保证每天1-2次短途优质散步和安全的室内活动即可。"
+                    },
+                    {
+                        "question": "天冷散步时必须给意大利灰狗穿衣服吗？",
+                        "answer": "是的，非常必要。由于缺乏底毛和皮下脂肪，当气温低于10-15°C时，它们极易患低体温症。必须为其穿上贴身保暖连体衣或棉服。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de control de temperatura del galgo italiano y rutina de 3 pasos para la prevención de fracturas y luxación",
+                "description": "Cuidado esencial para el esbelto y elegante galgo italiano (Italian Greyhound). Aprenda a gestionar sus necesidades térmicas de 4 estaciones debido a su piel fina y baja grasa corporal, y prevenga lesiones óseas.",
+                "authority": "Estándares de Raza del American Kennel Club (AKC) y Guías Clínicas de Ortopedia Veterinaria",
+                "profile": {
+                    "breed": "Galgo Italiano (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "12 ~ 14 horas (polifásico: descanso profundo en nidos cálidos)",
+                    "temperament": "Elegante, cariñoso, ágil, sensible, dócil"
+                },
+                "intro": "El galgo italiano (IG) es un lebrel refinado y esbelto muy admirado por los cuidadores urbanos por su carácter dócil y hábitos limpios. Su escasa grasa corporal y pelaje fino los hacen muy vulnerables al frío, mientras que sus largas y delicadas patas delanteras sufren un alto riesgo de fracturas de radio/cúbito o luxación de rótula al saltar desde muebles. Hoy, PetSelf descifra los patrones de conducta del galgo italiano y comparte una rutina de 3 pasos para proteger su temperatura corporal y la salud de sus articulaciones durante todo el año.",
+                "whyTitle": "Instintividad del galgo italiano: Temblores emocionales y excavación en mantas",
+                "whyDesc": "El galgo italiano comunica emociones intensas con señales corporales. Además del frío, suelen temblar o castañetear los dientes ante momentos de gran excitación, alegría o ansiedad. Asimismo, debido a su mínima masa grasa, conservan un fuerte instinto de cavar bajo las mantas para formar un nido, reteniendo el calor y buscando seguridad psicológica.",
+                "body_signals": [
+                    {
+                        "name": "Temblores y castañeteo de dientes (Trembling & Teeth Chattering)",
+                        "meaning": "Indicador de baja temperatura corporal o respuesta física ante emociones intensas como emoción, expectación o estrés.",
+                        "response": "Verifique la temperatura del ambiente y póngale abrigo; brinde caricias suaves para calmar su sobreexcitación."
+                    },
+                    {
+                        "name": "Acurrucarse bajo las mantas (Burrowing / Nesting)",
+                        "meaning": "Comportamiento de termorregulación e instinto de búsqueda de refugio para retener calor y descansar sin corrientes de aire.",
+                        "response": "Proporciónele mantas de felpa suaves y asegúrese de que su rincón de descanso sea cálido, cómodo y bien ventilado."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Ropa de protección estacional y estiramiento articular suave",
+                        "text": "Compruebe el clima exterior para vestirle con abrigos cálidos (invierno) o ropa protectora de UV (verano), y déle un ligero masaje en las patas antes de un paseo corto."
+                    },
+                    {
+                        "name": "Tarde: Inspección de suelos antideslizantes y escaleras para mascotas",
+                        "text": "Verifique la colocación de rampa o escaleras junto a sofás o camas, y asegúrese de colocar alfombras antideslizantes en suelos resbaladizos para evitar fracturas."
+                    },
+                    {
+                        "name": "Noche: Examen de patas y piel y espacio de descanso cálido",
+                        "text": "Examine sus delgadas extremidades y piel fina tras el paseo en busca de arañazos o cojeras, y asegure un refugio cálido y reconfortante para la noche."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es el galgo italiano adecuado para vivir en apartamentos o entornos urbanos?",
+                        "answer": "Sí, excepcionalmente adecuado. Apenas tienen olor corporal, sueltan muy poco pelo y en interiores son tranquilos 'marmotas de sofá'. Solo necesitan paseos cortos de calidad y juegos seguros en casa."
+                    },
+                    {
+                        "question": "¿Es obligatorio abrigar al galgo italiano durante el invierno?",
+                        "answer": "Sí. Al carecer de subpelo protector y grasa corporal, las temperaturas inferiores a 10-15 °C suponen un riesgo real de hipotermia. Ropa térmica o abrigos ajustados son imprescindibles."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de gestion de la température du Petit Lévrier Italien et routine en 3 étapes pour la prévention des fractures",
+                "description": "Soins essentiels pour le petit lévrier italien (Italian Greyhound) à la silhouette élancée. Découvrez comment gérer ses besoins thermiques sur 4 saisons et aménager un habitat sans risque de fracture.",
+                "authority": "Normes de race de l'American Kennel Club (AKC) et Directives Cliniques d'Orthopédie Vétérinaire",
+                "profile": {
+                    "breed": "Petit Lévrier Italien (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 14 heures (polyphasique : repos profond dans des nids douillets)",
+                    "temperament": "Élégant, affectueux, agile, sensible, doux"
+                },
+                "intro": "Le petit lévrier italien (PLI) est un lévrier gracieux et fin très prisé des citadins pour sa douceur et sa propreté. Doté d'une masse graisseuse minime et d'un pelage très fin, il est extrêmement sensible au froid. De plus, la finesse de ses pattes avant le rend sujet aux fractures du radius/cubitus et à la luxation de la rotule en cas de saut depuis un canapé. Aujourd'hui, PetSelf décrypte le comportement du PLI et vous propose une routine en 3 étapes pour maintenir sa température et protéger ses os au quotidien.",
+                "whyTitle": "Instincts du lévrier italien : Tremblements émotionnels et enfouissement sous les couvertures",
+                "whyDesc": "Le petit lévrier italien exprime des émotions intenses par des signaux corporels. Au-delà du froid, il peut trembler ou claquer des dents sous l'effet de l'excitation, de l'impatience ou du stress. En outre, pour compenser son manque de graisse corporelle, il possède l'instinct de s'enfouir profondément sous les couvertures pour conserver sa chaleur et se sentir en sécurité.",
+                "body_signals": [
+                    {
+                        "name": "Tremblements et claquements de dents (Trembling & Teeth Chattering)",
+                        "meaning": "Indicateur de sensation de froid ou manifestation physique d'une émotion vive (joie, impatience, anxiété).",
+                        "response": "Vérifiez la température ambiante et habillez-le si besoin ; apaisez-le par des caresses douces en cas d'excitation."
+                    },
+                    {
+                        "name": "Enfouissement sous les couvertures (Burrowing / Nesting)",
+                        "meaning": "Comportement naturel de thermorégulation et de recherche de sécurité pour conserver la chaleur corporelle à l'abri des courants d'air.",
+                        "response": "Mettez à sa disposition des couvertures chaudes et douces en veillant à ce que son espace de repos reste bien ventilé."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Habillage de saison et étirement doux des articulations",
+                        "text": "Contrôlez la température extérieure pour équiper votre chien d'un manteau (hiver) ou d'un vêtement léger (été), puis massez doucement ses pattes fines avant une courte promenade."
+                    },
+                    {
+                        "name": "Après-midi : Contrôle du sol antidérapant et installation d'escaliers",
+                        "text": "Vérifiez la présence de rampes ou d'escaliers près des canapés et disposez des tapis antidérapants sur les sols glissants pour éviter tout choc ou fracture."
+                    },
+                    {
+                        "name": "Soir : Inspection des pattes et de la peau et repos bien chaud",
+                        "text": "Examinez ses membres délicats et sa peau fine à la recherche d'égratignures ou de boiterie après les sorties, puis préparez-lui un nid douillet et chaud."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le petit lévrier italien est-il adapté à la vie en appartement ?",
+                        "answer": "Oui, parfaitement. Sans odeur corporelle et perdant très peu de poils, il se comporte comme un compagnon très calme à l'intérieur. Il se contente de courtes promenades quotidiennes de qualité et de jeux sécurisés."
+                    },
+                    {
+                        "question": "Les vêtements sont-ils obligatoires en hiver pour le petit lévrier italien ?",
+                        "answer": "Oui. Dépourvu de sous-poil et de graisse sous-cutanée, il risque l'hypothermie dès que la température chute sous 10-15 °C. Un manteau ou un pull bien ajusté est indispensable."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Italienisches Windspiel Temperatur-Management und 3-Schritte-Routine zur Knochen- & Gelenksicherheit",
+                "description": "Essenzielle Pflege für das elegante Italienische Windspiel (Italian Greyhound). Erfahren Sie, wie Sie den Ganzjahres-Wärmebedarf decken und das Gehege bzw. Wohnumfeld fraktursicher gestalten.",
+                "authority": "American Kennel Club (AKC) Rassestandards und Veterinärmedizinische Orthopädie-Leitlinien",
+                "profile": {
+                    "breed": "Italienisches Windspiel (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 14 Stunden (polyphasisch - Ruhe in warmen Nestern)",
+                    "temperament": "Elegant, anhänglich, agil, sensibel, sanftmütig"
+                },
+                "intro": "Das Italienische Windspiel ist ein grazil gebauter Sichthund, der bei Stadtbewohnern wegen seines sanften Wesens und seiner Sauberkeit sehr beliebt ist. Durch extrem wenig Körperfett und ein sehr dünnes Fell reagieren sie hochsensibel auf Kälte. Zudem neigen die langen, filigranen Vorderlaufknochen beim Sprung von Sofas oder Betten zu Brüchen oder Kniescheibenluxationen (Patella). Heute entschlüsselt PetSelf die Körpersignale des Italienischen Windspiels und zeigt eine 3-Schritte-Routine für Wärmeschutz und Gelenksicherheit.",
+                "whyTitle": "Instinkte des Italienischen Windspiels: Emotionales Zittern und Einwühlen",
+                "whyDesc": "Italienische Windspiele drücken starke Emotionen über körperliche Signale aus. Neben Kälte zittern oder klappern sie mit den Zähnen auch bei großer Vorfreude, Aufregung oder Angst. Aufgrund des geringen Körperfetts besitzen sie außerdem den ausgeprägten Instinkt, sich tief unter Decken einzugraben, um Körperwärme zu speichern und Geborgenheit zu suchen.",
+                "body_signals": [
+                    {
+                        "name": "Zittern & Zähneklappern (Trembling & Teeth Chattering)",
+                        "meaning": "Anzeichen von Kälte oder physischer Ausdruck von starker emotionaler Erregung wie Freude, Erwartung oder Stress.",
+                        "response": "Überprüfen Sie die Raumtemperatur und ziehen Sie dem Hund Kleidung an; beruhigen Sie ihn bei Aufregung mit sanften Streicheleinheiten."
+                    },
+                    {
+                        "name": "Einwühlen unter Decken (Burrowing / Nesting)",
+                        "meaning": "Natürliches Verhalten zur Wärmeregulierung und Sicherheitssuche, um Zugluft zu meiden und Körperwärme zu halten.",
+                        "response": "Stellen Sie weiche, warme Kuscheldecken bereit und achten Sie auf eine gut belüftete, geschützte Schlafstelle."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Anziehen saisonaler Kleidung & sanftes Gelenkaufwärmen",
+                        "text": "Prüfen Sie das Wetter für passende Wärmekleidung (Winter) oder UV-Schutz (Sommer). Massieren Sie die dünnen Läufe vor kurzen Spaziergängen sanft an."
+                    },
+                    {
+                        "name": "Nachmittag: Kontrolle rutschfester Böden & Hundentreppen-Setup",
+                        "text": "Prüfen Sie Rampen oder Treppen an Sofas/Betten und sichern Sie glatte Böden mit rutschfesten Matten ab, um Knochenbrüche zu vermeiden."
+                    },
+                    {
+                        "name": "Abend: Kontrolle von Läufen und Haut & warmer Ruheplatz",
+                        "text": "Untersuchen Sie die dünnen Beine und die Haut nach dem Auslauf auf Kratzer oder Humpeln und bereiten Sie ein warmes, geschütztes Nest vor."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist das Italienische Windspiel für die Haltung in einer Stadtwohnung geeignet?",
+                        "answer": "Ja, hervorragend. Sie riechen kaum, haaren sehr wenig und verhalten sich im Haus wie ruhige 'Couch-Potatoes'. Kurze, qualitativ hochwertige Spaziergänge und sicheres Spielen reichen völlig aus."
+                    },
+                    {
+                        "question": "Ist Hundekleidung im Winter für das Italienische Windspiel Pflicht?",
+                        "answer": "Ja. Da ihnen Unterwolle und isolierendes Fettgewebe fehlen, besteht ab Temperaturen unter 10–15 °C Unterkühlungsgefahr. Ein gut sitzender Pullover oder Mantel ist unerlässlich."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de controle térmico do Galguinho Italiano e rotina de 3 passos para prevenção de fraturas e luxações",
+                "description": "Cuidados essenciais para o esbelto e elegante Galguinho Italiano (Italian Greyhound). Saiba como gerir as necessidades térmicas de 4 estações e proteger os seus ossos delicados.",
+                "authority": "Padrões de Raça do American Kennel Club (AKC) e Diretrizes Clínicas de Ortopedia Veterinária",
+                "profile": {
+                    "breed": "Galguinho Italiano (Italian Greyhound / Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 14 horas (polifásico: descanso profundo em ninhos quentes)",
+                    "temperament": "Elegante, afetuoso, ágil, sensível, dócil"
+                },
+                "intro": "O Galguinho Italiano (IG) é um lebrel gracioso e esbelto, muito amado por tutores urbanos pelo seu temperamento dócil e hábitos limpos. Com pouquíssima gordura corporal e pelagem fina, são extremamente sensíveis ao frio. Além disso, as suas pernas finas e longas correm elevado risco de fraturas de rádio/cúbito ou luxação de patela ao saltar de móveis altos. Hoje no PetSelf, descodificamos os sinais comportamentais do Galguinho Italiano e partilhamos uma rotina de 3 passos para a saúde térmica e articular.",
+                "whyTitle": "Instintos do Galguinho Italiano: Tremores emocionais e esconder-se sob cobertores",
+                "whyDesc": "Os Galguinhos Italianos comunicam emoções intensas através de sinais corporais. Além do frio, costumam tremer ou bater os dentes quando sentem grande excitação, expectativa ou ansiedade. Da mesma forma, devido à escassa gordura corporal, mantêm um forte instinto de cavar sob os mantos para construir um ninho aquecido e sentir segurança.",
+                "body_signals": [
+                    {
+                        "name": "Tremores e bater de dentes (Trembling & Teeth Chattering)",
+                        "meaning": "Sinal de baixa temperatura corporal ou manifestação de emoções fortes como excitação, ansiedade ou alegria.",
+                        "response": "Verifique a temperatura ambiente e vista-lhe um fato quente; acalme o animal com festas suaves se estiver agitado."
+                    },
+                    {
+                        "name": "Cavar sob cobertores (Burrowing / Nesting)",
+                        "meaning": "Comportamento natural de termorregulação e busca de segurança para reter calor e descansar longe de correntes de ar.",
+                        "response": "Forneça mantas de feltro macias e assegure-se de que o seu cantinho de dormir permanece bem ventilado e quente."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Vestuário de proteção sazonal e alongamento articular suave",
+                        "text": "Verifique o tempo antes de sair para vestir casacos quentes (inverno) ou roupas leves (verão), e faça uma massagem leve nas pernas antes de passeios curtos."
+                    },
+                    {
+                        "name": "Tarde: Inspeção de pisos antiderrapantes e rampa para animais",
+                        "text": "Confirme a presença de rampas/escadas junto ao sofá ou cama, e coloque tapetes antiderrapantes em pisos escorregadios para evitar fraturas."
+                    },
+                    {
+                        "name": "Noite: Exame de pernas e pele e espaço de descanso aquecido",
+                        "text": "Examine os membros finos e a pele delicada após o passeio em busca de arranhões ou manqueira, garantindo um ninho bem protegido para a noite."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O Galguinho Italiano é adequado para viver em apartamento?",
+                        "answer": "Sim, perfeitamente. Têm pouquíssimo odor corporal, soltam quase nenhum pelo e comportam-se como tranquilos 'animais de sofá' em casa. Apenas necessitam de passeios diários curtos e de qualidade."
+                    },
+                    {
+                        "question": "É obrigatório usar roupa no Galguinho Italiano em dias frios?",
+                        "answer": "Sim. Por não possuírem subpelo isolante nem gordura suficiente, temperaturas abaixo de 10-15 °C representam risco de hipotermia. Roupas térmicas ou casacos bem ajustados são indispensáveis."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Manajemen Suhu Italian Greyhound dan Rutinitas 3 Langkah Pencegahan Patah Tulang & Patella",
+                "description": "Perawatan esensial untuk Italian Greyhound yang anggun dan ramping. Pelajari cara mengelola suhu tubuh 4 musim untuk kulit tipis dan lemak tubuh yang minim, serta menciptakan rumah yang aman dari risiko patah tulang.",
+                "authority": "Standar Ras American Kennel Club (AKC) dan Panduan Klinis Ortopedi Kedokteran Hewan",
+                "profile": {
+                    "breed": "Italian Greyhound (Piccolo Levriero Italiano)",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 14 jam (polifasik - istirahat di tempat hangat)",
+                    "temperament": "Anggun, penyayang, lincah, sensitif, lembut"
+                },
+                "intro": "Italian Greyhound (IG) adalah anjing sighthound bertubuh ramping dan anggun yang sangat disukai oleh pemilik hewan di perkotaan karena sifatnya yang lembut dan bersih. Dengan lemak tubuh yang sangat sedikit dan bulu yang tipis, mereka sangat sensitif terhadap dingin. Selain itu, struktur tulang kaki depan mereka yang panjang dan ramping membuat mereka rentan mengalami patah tulang atau dislokasi tempurung lutut (patella) saat melompat dari furnitur tinggi. Hari ini, PetSelf mengulas sinyal perilaku Italian Greyhound dan membagikan 3 langkah rutinitas harian untuk menjaga suhu tubuh dan keamanan tulang mereka.",
+                "whyTitle": "Insting Italian Greyhound: Tubuh Gemetar dan Bersembunyi di Bawah Selimut",
+                "whyDesc": "Italian Greyhound mengekspresikan emosi yang kuat melalui sinyal fisik. Selain rasa dingin, mereka sering gemetar atau menggertakkan gigi saat merasa sangat gembira, antusias, atau cemas. Selain itu, karena lemak tubuh yang sangat minim, mereka memiliki insting alami untuk menggali ke dalam selimut guna menahan panas tubuh dan mencari rasa aman.",
+                "body_signals": [
+                    {
+                        "name": "Tubuh Gemetar & Gigi Menggertak (Trembling & Teeth Chattering)",
+                        "meaning": "Indikator suhu dingin atau tanda emosi tinggi seperti rasa gembira, antusiasme, atau kecemasan.",
+                        "response": "Periksa suhu ruangan dan kenakan pakaian hangat; berikan elusan lembut untuk menenangkan emosi mereka yang berlebihan."
+                    },
+                    {
+                        "name": "Menggali ke Bawah Selimut (Burrowing / Nesting)",
+                        "meaning": "Perilaku termoregulasi dan pencarian rasa aman alami untuk mempertahankan panas tubuh dari hembusan angin.",
+                        "response": "Sediakan selimut hangat yang lembut dan pastikan tempat tidurnya tetap nyaman serta memiliki sirkulasi udara yang baik."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemasangan Pakaian Musiman & Pemanasan Sendi Lembut",
+                        "text": "Periksa cuaca luar untuk mengenakan baju hangat (musim dingin) atau baju pelindung (musim panas), lalu pijat lembut kaki mereka sebelum jalan-jalan singkat."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Lantai Anti-Slip & Pemasangan Tangga Hewan",
+                        "text": "Pastikan tangga khusus hewan terpasang di samping sofa atau tempat tidur, serta pasang karpet anti-slip di lantai licin untuk mencegah risiko patah tulang."
+                    },
+                    {
+                        "name": "Malam: Pemeriksaan Tulang Kaki & Kulit serta Tempat Istirahat Hangat",
+                        "text": "Periksa kaki ramping dan kulit tipis mereka dari goresan atau tanda kepincangan setelah beraktivitas, lalu siapkan sarang hangat yang aman dari angin."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah Italian Greyhound cocok untuk dipelihara di apartemen atau lingkungan perkotaan?",
+                        "answer": "Ya, sangat cocok. Mereka hampir tidak berbau, sedikit mengalami kerontokan bulu, dan sangat tenang di dalam rumah. Mereka hanya membutuhkan jalan-jalan singkat yang berkualitas dan area bermain yang aman."
+                    },
+                    {
+                        "question": "Apakah pakaian wajib dikenakan saat jalan-jalan di cuaca dingin?",
+                        "answer": "Ya, wajib. Tanpa bulu lapisan dalam dan lemak tubuh yang cukup, suhu di bawah 10–15°C dapat menimbulkan risiko hipotermia. Pakaian hangat atau mantel khusus yang pas sangat diperlukan."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/italian_greyhound_care.webp"
+    }
+}

@@ -1,0 +1,459 @@
+{
+    "burmese-cat-care": {
+        "pubDate": "2026-02-26",
+        "updatedDate": "2026-02-26",
+        "locales": {
+            "ko": {
+                "title": "버미즈 고양이 분리불안 예방과 실내 풍부화·영양 관리 3단계 루틴",
+                "description": "실크 같은 모질과 황금빛 눈동자를 가진 버미즈 고양이 맞춤 케어. 높은 사교성과 '개냥이' 성향에 맞춘 분리불안 예방법, 실내 환경 풍부화, 고단백 영양 관리를 다룹니다.",
+                "authority": "Cat Fanciers' Association (CFA) 품종 표준 및 세계고양이의학회(ISFM) 임상 가이드라인",
+                "profile": {
+                    "breed": "버미즈 고양이 (Burmese Cat)",
+                    "lifespan": "12 ~ 18년",
+                    "sleep_pattern": "12 ~ 16시간 (보호자 곁에서 수면을 취하는 다상성 수면)",
+                    "temperament": "애정 깊음, 외향적임, 호기심 많음, 충성스러움, 사람을 좋아함"
+                },
+                "intro": "버미즈 고양이는 실크처럼 부드럽고 단단한 단모, 깊은 황금빛 눈동자, 그리고 사람을 끈질기게 따라다니는 '고양이 탈을 쓴 강아지(개냥이)' 성격으로 북미와 유럽에서 폭발적인 인기를 누리는 품종입니다. 매우 사교적이고 영리하지만, 보호자에 대한 의존도가 높아 오랜 시간 혼자 남겨지면 심각한 분리불안과 스트레스를 겪기 쉽습니다. 오늘 PetSelf에서는 버미즈 고양이 특유의 애정 표현 및 불안 시그널을 분석하고, 분리불안 예방과 실내 활동성 충족, 건강한 체중 유지를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "버미즈 고양이의 소통 방식: 지속적인 부비부비와 다정한 울음소리",
+                "whyDesc": "버미즈 고양이는 보호자와 끊임없이 소통하고자 하는 욕구가 매우 강합니다. 머리와 뺨을 연신 문지르는 **'헤드 번팅(Head Bunting)'**으로 깊은 애정과 페로몬을 나누며, 부드럽고 매력적인 목소리로 보호자에게 대화를 걸 듯 자주 울어 자신의 요구와 반가움을 표현합니다.",
+                "body_signals": [
+                    {
+                        "name": "머리 문지르기 및 발로 건드리기 (Head Bunting & Pawing)",
+                        "meaning": "보호자에 대한 깊은 신뢰와 애정 표시이자, 관심과 함께하는 놀이를 강력히 요구하는 시그널입니다.",
+                        "response": "즉시 부드럽게 쓰다듬어 주거나 낚싯대 장난감 등으로 교감 놀이를 진행하여 욕구를 충족시켜 줍니다."
+                    },
+                    {
+                        "name": "과도한 울음소리 및 문 앞 서성이기 (Excessive Vocalization & Pacing)",
+                        "meaning": "보호자의 부재나 관심 부족으로 인한 외로움 및 분리불안 초기 스트레스 시그널입니다.",
+                        "response": "외출 전 퍼즐 장난감이나 먹이 탐색 완구를 세팅하고, 단계별 둔감화 훈련을 통해 혼자 있는 시간에 대한 불안을 줄여줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 고단백 영양 식사 급여 및 감각 자극 퍼즐 놀이",
+                        "text": "근육질 체형 보존을 위해 영양가 높은 고단백 사료를 급여하고, 외출 전 퍼즐 정글 장난감을 세팅하여 혼자 있는 동안의 지루함을 예방합니다."
+                    },
+                    {
+                        "name": "낮: 캣타워 중심의 수평·수직 실내 환경 풍부화",
+                        "text": "창가에 캣타워와 해먹을 배치하여 외부 풍경을 관찰하게 하고, 은신처와 터널 장난감으로 활발한 실내 탐색 및 운동량을 보장합니다."
+                    },
+                    {
+                        "name": "밤: 15분 이상 인터랙티브 낚싯대 놀이 및 체중 점검",
+                        "text": "사냥 본능을 해소하는 낚싯대 놀이로 에너지 소비와 스트레스를 해소하고, 비만 예방을 위한 체중 점검 후 편안하게 함께 수면을 취합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "버미즈 고양이는 혼자 오래 있는 집에 적합한가요?",
+                        "answer": "아닙니다. 버미즈는 극도로 사교적이라 장시간 홀로 방치될 경우 깊은 우울감과 분리불안을 겪습니다. 집을 자주 비우는 환경이라면 다른 호환성 높은 반려동물과 함께 기르거나 자동 장난감 및 환경 풍부화를 필수적으로 갖춰야 합니다."
+                    },
+                    {
+                        "question": "버미즈 고양이의 모질 관리는 어떻게 해야 하나요?",
+                        "answer": "버미즈는 속털(언더코트)이 적은 단모종으로 털 빠짐이 비교적 적습니다. 주 1~2회 고무 브러시나 실리콘 장갑으로 가볍게 빗어주면 실크 같은 특유의 윤기와 단단한 모질 상태를 완벽하게 유지할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Burmese Cat Separation Anxiety Prevention and 3-Step Indoor Enrichment & Nutrition Routine",
+                "description": "Essential care for the Burmese cat with silky fur and golden eyes. Learn how to prevent separation anxiety for this highly social 'dog-like' breed, enrich indoor environments, and manage high-protein nutrition.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standards and International Society of Feline Medicine (ISFM) Clinical Guidelines",
+                "profile": {
+                    "breed": "Burmese Cat",
+                    "lifespan": "12 ~ 18 Years",
+                    "sleep_pattern": "12 ~ 16 Hours (Polyphasic - Deep Rest Beside Owners)",
+                    "temperament": "Affectionate, Outgoing, Curious, Loyal, People-oriented"
+                },
+                "intro": "The Burmese cat is globally adored for its satin-like short coat, striking golden eyes, and affectionate 'dog-like' personality. Highly social and intelligent, they form strong emotional bonds with their families; however, this intense loyalty makes them susceptible to separation anxiety if left alone for extended periods. Today on PetSelf, we analyze Burmese body language and vocal signals, providing a 3-step homecare routine for anxiety prevention, indoor environmental enrichment, and optimal body weight maintenance.",
+                "whyTitle": "Burmese Cat Communication: Persistent Head Bunting and Vocal Expressiveness",
+                "whyDesc": "Burmese cats possess a strong desire to interact continuously with their humans. They share facial pheromones and deep affection through frequent **'Head Bunting'**, and use a soft, expressive purr-like voice to engage in 'conversations' and demand active playtime.",
+                "body_signals": [
+                    {
+                        "name": "Head Bunting & Pawing",
+                        "meaning": "A display of deep trust, affection, and territory marking, as well as a direct request for interactive play and human attention.",
+                        "response": "Acknowledge them immediately with gentle petting or initiate a wand toy session to fulfill their social interaction needs."
+                    },
+                    {
+                        "name": "Excessive Vocalization & Pacing",
+                        "meaning": "Early stress signals of loneliness and separation distress caused by prolonged solitude or lack of environmental stimulation.",
+                        "response": "Provide puzzle feeders and foraging toys before leaving, and implement gradual desensitization training to reduce solitude anxiety."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: High-Protein Feeding & Food Puzzle Enrichment",
+                        "text": "Serve a premium high-protein diet to support their athletic, muscular build, and hide kibble in puzzle toys before leaving to prevent daytime boredom."
+                    },
+                    {
+                        "name": "Afternoon: Vertical & Horizontal Territory Enrichment",
+                        "text": "Set up cat trees and window hammocks to offer outdoor views, complemented by tunnels and hideaways to encourage active indoor exploration."
+                    },
+                    {
+                        "name": "Evening: 15-Minute Interactive Wand Play & Weight Check",
+                        "text": "Engage in energetic hunting games using feather wands to release stored energy, perform a routine weight check, and share a quiet, cozy night's sleep."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is a Burmese cat suitable for households where owners are away all day?",
+                        "answer": "No. Burmese cats are extremely social and can suffer severe depression or separation anxiety if left alone for long periods. If your home is often empty, consider adopting a companion pet or providing extensive automated toys and environmental enrichment."
+                    },
+                    {
+                        "question": "How do I maintain the silky coat of a Burmese cat?",
+                        "answer": "Burmese cats have a short, fine single coat with minimal undercoat, resulting in low shedding. Grooming once or twice a week with a soft rubber brush or silicone grooming glove is sufficient to maintain their signature satin sheen."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "バーミーズの分離不安予防と室内環境充実・栄養管理の3ステップルーティン",
+                "description": "シルクのような被毛と黄金色の瞳を持つバーミーズの専門ケア。高い社交性と「犬のような性格（デビルキャット）」に合わせた分離不安予防、室内環境の充実、高タンパク栄養管理を解説します。",
+                "authority": "Cat Fanciers' Association (CFA) 犬種・猫種標準および世界猫医学会 (ISFM) 臨床ガイドライン",
+                "profile": {
+                    "breed": "バーミーズ (Burmese Cat)",
+                    "lifespan": "12 〜 18年",
+                    "sleep_pattern": "12 〜 16時間 (飼い主のそばで眠る多相性睡眠)",
+                    "temperament": "愛情深い、外向的、好奇心旺盛、忠実、人好き"
+                },
+                "intro": "サテンのように滑らかな短毛、深みのある黄金色の瞳、そして人にベッタリ甘える「犬のような性格」で世界中から愛されるバーミーズ。非常に社交的で頭が良い一方、飼い主への依存度が高いため長時間の留守番では深刻な分離不安やストレスを抱えやすい特徴があります。今回はPetSelfが、バーミーズの感情表現と不安サインを解読し、分離不安予防・室内運動量の確保・健康体型維持を叶える3ステップの日常ケア法をご紹介します。",
+                "whyTitle": "バーミーズのコミュニケーション：すりすり行動と愛らしい鳴き声",
+                "whyDesc": "バーミーズは飼い主と常にコミュニケーションを取りたいという欲求が非常に強い猫種です。頭や頬をすり寄せる**「ヘッドバンティング（Head Bunting）」**でフェロモンと深い愛情を分かち合い、柔らかく魅力的な声で会話するように語りかけて自分をアピールします。",
+                "body_signals": [
+                    {
+                        "name": "頭のすり寄せと足タッチ (Head Bunting & Pawing)",
+                        "meaning": "飼い主への強い信頼と愛情を示すサインであり、「もっと遊んで！かまって！」という積極的な要求です。",
+                        "response": "すぐに優しく撫でたり、じゃらしおもちゃで遊んであげることで、コミュニケーションの欲求を満たしてあげましょう。"
+                    },
+                    {
+                        "name": "過度な鳴き声とうろつき (Excessive Vocalization & Pacing)",
+                        "meaning": "放置や留守番による寂しさ、分離不安の初期ストレスサインです。",
+                        "response": "外出前に知育トイやおやつ隠しおもちゃを設置し、短時間の留守番から慣らす練習をして不安を和らげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：高タンパクフードの給餌と知育パズル運動",
+                        "text": "筋肉質な体型を維持するため高品質な高タンパクフードを与え、外出前にパズルおもちゃをセットして留守中の退屈を防ぎます。"
+                    },
+                    {
+                        "name": "昼：キャットタワーを中心とした立体的な環境充実",
+                        "text": "窓辺にキャットタワーやハンモックを配置して外の景色を楽しめるようにし、トンネルや隠れ家で室内の探検意欲を満たします。"
+                    },
+                    {
+                        "name": "夜：15分間のじゃらし遊戯と体重チェック",
+                        "text": "狩猟本能を刺激するおもちゃでしっかり運動させてストレスを解消し、肥満予防のための体重測定を行った後、一緒に就寝します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "バーミーズは長い留守番が多い家庭に向いていますか？",
+                        "answer": "いいえ、あまり向いていません。バーミーズは非常に寂しがり屋で社交的なため、長時間の放置は重度のうつ状態や分離不安を引き起こします。留守がちな場合は、多頭飼いを検討するか、自動おもちゃなどの環境充実が必須となります。"
+                    },
+                    {
+                        "question": "バーミーズの被毛のお手入れ方法は？",
+                        "answer": "バーミーズはアンダーコート（下毛）が少ないシングルコートの短毛種のため、抜け毛は少なめです。週に1〜2回、ラバーブラシやシルコン手袋で優しくブラッシングするだけで、シルクのような輝きを維持できます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "缅甸猫分离焦虑预防与室内环境丰富化·营养管理3阶段日常护理",
+                "description": "针对拥有丝绸般被毛与黄金眼眸的缅甸猫（Burmese Cat）专属护理。学习如何根据其极高社交性与“像狗一样的猫”特点预防分离焦虑，进行室内环境丰富化及高蛋白营养管理。",
+                "authority": "国际猫协会 (TICA) / 纯种猫协会 (CFA) 标准与世界猫科医学会 (ISFM) 临床指南",
+                "profile": {
+                    "breed": "缅甸猫 (Burmese Cat)",
+                    "lifespan": "12 ~ 18年",
+                    "sleep_pattern": "12 ~ 16小时 (喜欢睡在主旁的多相性睡眠)",
+                    "temperament": "充满感情、外向、好奇心强、忠诚、亲人"
+                },
+                "intro": "缅甸猫凭借缎子般光滑紧致的短毛、深邃的黄金眼眸以及如狗狗般黏人的性格，在欧美风靡一时。它们智商极高且非常社交化，但对主人的依赖度极高，若长时间独自在家，极易患上严重的分离焦虑和抑郁。今天 PetSelf 将分析缅甸猫独特的表达与焦虑信号，并分享预防分离焦虑、满足室内运动量以及维持健康体重的3阶段每日居家护理流程。",
+                "whyTitle": "缅甸猫的沟通方式：频繁蹭人与温柔啼鸣",
+                "whyDesc": "缅甸猫与人类沟通的欲望极其强烈。它们会频繁使用头部和脸颊蹭人，这种行为被称为 **“头部碰撞（Head Bunting）”**，用以分享费洛蒙与爱意；同时它们还会发出如打呼噜般温柔有磁性的声音，像是在与主人“聊天”交流。",
+                "body_signals": [
+                    {
+                        "name": "头顶蹭人与用爪搭人 (Head Bunting & Pawing)",
+                        "meaning": "对主人极度信任与依赖的表达，同时也是强烈要求关注和共同游戏的信号。",
+                        "response": "立即给予温柔抚摸，或使用逗猫棒进行互动游戏，满足其强烈的社交需求。"
+                    },
+                    {
+                        "name": "过度叫唤与门前踱步 (Excessive Vocalization & Pacing)",
+                        "meaning": "因缺乏陪伴或长时间独自在家产生的孤独感及分离焦虑初期应激信号。",
+                        "response": "出门前布置漏食玩具或益智寻食盘，并通过脱敏训练逐步减轻其对独处的恐惧。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：高蛋白营养喂食与益智寻食游戏",
+                        "text": "提供高品质高蛋白猫粮以维持其紧实肌肉，出门前隐藏益智寻食玩具，防止白天独处时感到无聊。"
+                    },
+                    {
+                        "name": "中午：以猫树为中心的垂直与水平环境丰富化",
+                        "text": "在窗边放置猫树和吊床方便观赏室外风景，结合隧道与隐蔽窝，鼓励其在室内积极探索和运动。"
+                    },
+                    {
+                        "name": "晚上：15分钟逗猫棒互动与体重监测",
+                        "text": "通过逗猫棒游戏消耗剩余精力并释放压力，测量体重以防肥胖，随后享受温馨的陪伴与睡眠。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "缅甸猫适合经常需要长时间出门的家庭吗？",
+                        "answer": "不适合。缅甸猫极度依赖人类陪伴，长期独处会导致严重的心理问题和分离焦虑。如果家中经常无人，建议考虑多宠家庭模式或配备丰富的自动化玩具与环境设施。"
+                    },
+                    {
+                        "question": "如何保养缅甸猫的被毛？",
+                        "answer": "缅甸猫属于底毛较少单层短毛猫，掉毛量相对较少。每周只需使用橡胶梳或硅胶手套轻轻梳理1-2次，即可完美保持其丝绸般的光泽与紧致触感。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de prevención de la ansiedad por separación del gato birmano y rutina de 3 pasos de enriquecimiento interior y nutrición",
+                "description": "Cuidado esencial para el gato birmano (Burmese) de pelaje sedoso y ojos dorados. Aprenda a prevenir la ansiedad por separación en esta raza sociable y 'gatoperro', enriquecer su entorno y administrar nutrición alta en proteínas.",
+                "authority": "Estándares de Raza de Cat Fanciers' Association (CFA) y Directrices Clínicas de la Sociedad Internacional de Medicina Felina (ISFM)",
+                "profile": {
+                    "breed": "Gato Birmano (Burmese Cat)",
+                    "lifespan": "12 ~ 18 años",
+                    "sleep_pattern": "12 ~ 16 horas (polifásico: descanso cerca de sus cuidadores)",
+                    "temperament": "Afectuoso, extrovertido, curioso, leal, amigable"
+                },
+                "intro": "El gato birmano (Burmese) es admirado mundialmente por su pelaje corto y satinado, sus intensos ojos dorados y su personalidad afectuosa similar a la de un perro. Son felinos extremadamente sociables e inteligentes que forman lazos profundos con sus familias. Sin embargo, esta devoción los hace vulnerables a la ansiedad por separación si pasan mucho tiempo solos. Hoy en PetSelf analizamos sus señales de lenguaje corporal y vocal, ofreciendo una rutina de 3 pasos para prevenir el estrés, enriquecer su vida de interior y mantener un peso saludable.",
+                "whyTitle": "Comunicación del gato birmano: Frotamiento cefálico y maullidos expresivos",
+                "whyDesc": "Los gatos birmanos sienten un fuerte deseo de comunicarse continuamente con sus humanos. Comparten feromonas de afecto mediante el **'Cabeceo' (Head Bunting)** y utilizan una voz suave y melodiosa para entablar 'conversaciones' y pedir atención constante.",
+                "body_signals": [
+                    {
+                        "name": "Cabeceo y toque con la pata (Head Bunting & Pawing)",
+                        "meaning": "Muestra de profunda confianza y cariño, además de ser una petición directa de juego e interacción social.",
+                        "response": "Corresponda de inmediato con caricias suaves o inicie una sesión con caña de pescar para satisfacer sus necesidades de afecto."
+                    },
+                    {
+                        "name": "Maullidos excesivos y deambulación (Excessive Vocalization & Pacing)",
+                        "meaning": "Signos tempranos de estrés y soledad provocados por la falta de estimulación o tiempo prolongado en soledad.",
+                        "response": "Deje dispensadores de comida interactivos antes de salir y aplique un entrenamiento de desensibilización progresiva."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Alimentación alta en proteínas y rompecabezas interactivo",
+                        "text": "Ofrézcale una dieta rica en proteínas para mantener su complexión musculosa y esconda juguetes interactivos antes de salir."
+                    },
+                    {
+                        "name": "Tarde: Enriquecimiento ambiental vertical y horizontal",
+                        "text": "Instale rascadores altos y hamacas cerca de ventanas para la observación exterior, añadiendo túneles para fomentar el ejercicio en casa."
+                    },
+                    {
+                        "name": "Noche: Juego interactivo con caña (15 min) y control de peso",
+                        "text": "Satisfeche su instinto cazador con juegos activos para canalizar la energía, supervise su peso para evitar la obesidad y disfrute de un descanso tranquilo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es el gato birmano adecuado para personas que pasan todo el día fuera de casa?",
+                        "answer": "No. Son felinos extremadamente sociales que pueden sufrir depresión severa o ansiedad por separación si se quedan solos prolongadamente. Se recomienda convivir con otras mascotas compatibles o proporcionar juguetes automáticos."
+                    },
+                    {
+                        "question": "¿Cómo se debe cuidar el pelaje del gato birmano?",
+                        "answer": "Al ser un gato de pelo corto con muy poca capa interna, apenas suelta pelo. Cepillarle una o dos veces por semana con un cepillo de goma suave es suficiente para mantener su característico brillo satinado."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de prévention de l'anxiété de séparation du chat birman (Burmese) et routine en 3 étapes d'enrichissement et nutrition",
+                "description": "Soins essentiels pour le chat birman (Burmese) au pelage soyeux et aux yeux d'or. Découvrez cómo prévenir l'anxiété de séparation chez ce 'chat-chien' très social, enrichir son environnement et gérer sa nutrition.",
+                "authority": "Normes de race de la Cat Fanciers' Association (CFA) et Directives Cliniques de la International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Chat Birman / Burmese (Burmese Cat)",
+                    "lifespan": "12 ~ 18 ans",
+                    "sleep_pattern": "12 ~ 16 heures (polyphasique : sommeil réparateur près de son humain)",
+                    "temperament": "Affectueux, extraverti, curieux, loyal, proche de l'humain"
+                },
+                "intro": "Le Burmese (ou chat birman) est une race extrêmement populaire pour son pelage court et satiné, ses yeux dorés envoûtants et son caractère très affectueux s'apparentant a celui d'un chien. Très intelligent et démonstratif, il développe un attachement profond envers son foyer. En contrepartie, une solitude prolongée peut provoquer chez lui une anxiété de séparation marquée. Aujourd'hui, PetSelf décrypte le langage corporel du Burmese et vous propose une routine en 3 étapes pour stimuler son mental, enrichir son habitat et préserver sa santé.",
+                "whyTitle": "Communication du Burmese : Coups de tête affectueux et vocalises douces",
+                "whyDesc": "Le chat Burmese éprouve un besoin permanent d'échanger avec ses proches. Il dépose ses phéromones apaisantes par des **'Coups de tête' (Head Bunting)** fréquents et s'exprime à travers des vocalises douces et variées pour réclamer de l'attention ou participer à la vie de famille.",
+                "body_signals": [
+                    {
+                        "name": "Coups de tête et sollicitation de la patte (Head Bunting & Pawing)",
+                        "meaning": "Preuve d'affection sincère, de marquage amical et demande explicite de câlins ou de séances de jeu.",
+                        "response": "Répondez-lui immédiatement par des caresses ou une session de jeu avec un plumet pour nourrir ce lien social."
+                    },
+                    {
+                        "name": "Miaulement excessif et va-et-vient (Excessive Vocalization & Pacing)",
+                        "meaning": "Signes précoces de détresse liés à la solitude, l'ennui ou l'angoisse de la séparation.",
+                        "response": "Proposez-lui des jouets distributeurs de croquettes avant vos départs et mettez en place un entraînement progressif à la solitude."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Repas riche en protéines et jouets de réflexion",
+                        "text": "Servez-lui une alimentation de haute qualité riche en protéines pour soutenir sa musculature, et cachez des jouets d'occupation avant de partir."
+                    },
+                    {
+                        "name": "Après-midi : Enrichissement environnemental vertical et horizontal",
+                        "text": "Placez un arbre à chat près d'une fenêtre pour lui offrir un poste d'observation, complété par des tunnels pour encourager l'exercice."
+                    },
+                    {
+                        "name": "Soir : 15 minutes de jeu interactif et pesée de contrôle",
+                        "text": "Stimulez son instinct de chasseur avec une canne à pêche pour libérer son énergie, contrôlez son poids régulièrement et partagez une nuit paisible."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le Burmese peut-il rester seul toute la journée ?",
+                        "answer": "Non. Le Burmese est un chat très dépendant de la présence humaine. Une solitude prolongée peut causer de la dépression ou des troubles du comportement. La présence d'un autre animal ou un habitat très enrichi est vivement recommandée si vous êtes souvent absent."
+                    },
+                    {
+                        "question": "Comment entretenir le pelage du chat Burmese ?",
+                        "answer": "Possédant très peu de sous-poil, le Burmese perd peu de poils. Un brossage hebdomadaire à l'aide d'une brosse en caoutchouc ou d'un gant en silicone suffit amplement à maintenir la brillance de son pelage."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Burma-Katze Trennungsangst-Prävention und 3-Schritte-Routine für Indoor-Enrichment & Ernährung",
+                "description": "Essenzielle Pflege für die Burma-Katze mit seidigem Fell und goldenen Augen. Erfahren Sie, wie Sie Trennungsangst bei dieser sozialen 'Hund-Katze' vermeiden, die Wohnung bereichern und sie optimal ernähren.",
+                "authority": "Rassestandards der Cat Fanciers' Association (CFA) und Klinische Leitlinien der International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Burma-Katze (Burmese Cat)",
+                    "lifespan": "12 ~ 18 Jahre",
+                    "sleep_pattern": "12 ~ 16 Stunden (polyphasisch - schläft bevorzugt nahe beim Menschen)",
+                    "temperament": "Anhänglich, aufgeschlossen, neugierig, loyal, menschenbezogen"
+                },
+                "intro": "Die Burma-Katze begeistert Katzenliebhaber weltweit durch ihr seidenweiches, kurzes Fell, ihre tiefgoldenen Augen und ihr anhängliches, fast hundeähnliches Wesen. Sie ist außerordentlich sozial und menschenbezogen, neigt jedoch bei langer Isolation schnell zu Trennungsangst. Heute analysiert PetSelf die Körpersprache und Lautäußerungen der Burma-Katze und präsentiert eine 3-Schritte-Tagesroutine für emotionale Ausgeglichenheit, abwechslungsreiche Innenhaltung und gesundes Gewicht.",
+                "whyTitle": "Kommunikation der Burma-Katze: Sanftes Köpfchengeben und melodische Laute",
+                "whyDesc": "Burma-Katzen haben das starke Bedürfnis, ständig mit ihren Haltern zu interagieren. Sie verteilen Wohlfühl-Pheromone durch liebevolles **'Köpfchengeben' (Head Bunting)** und nutzen ihre sanfte, melodische Stimme, um regelrechte 'Gespräche' zu führen.",
+                "body_signals": [
+                    {
+                        "name": "Köpfchengeben & Pfoteln (Head Bunting & Pawing)",
+                        "meaning": "Zeichen tiefen Vertrauens und der Zugehörigkeit sowie eine deutliche Aufforderung zu Aufmerksamkeit und Spiel.",
+                        "response": "Erwidern Sie die Geste sofort mit sanften Streicheleinheiten oder starten Sie ein kurzes Spiel mit der Angel."
+                    },
+                    {
+                        "name": "Übermäßiges Maunzen & Umherwandern (Excessive Vocalization & Pacing)",
+                        "meaning": "Frühe Stresssignale von Einsamkeit und Trennungsangst durch fehlende Beschäftigung oder zu langes Alleinsein.",
+                        "response": "Bieten Sie vor dem Verlassen der Wohnung Intelligenzspielzeuge an und führen Sie ein schrittweises Alleinseins-Training durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Proteinreiche Fütterung & Intelligenzspielzeuge",
+                        "text": "Füttern Sie hochwertiges, proteinreiches Futter zur Unterstützung der Muskulatur und verstecken Sie Leckerlis in Futterpuzzles."
+                    },
+                    {
+                        "name": "Nachmittag: Dreidimensionale Wohnungsbereicherung",
+                        "text": "Platzieren Sie Kratzbäume an Fenstern für spannende Ausblicke und nutzen Sie Tunnelsysteme für aktive Bewegung im Haus."
+                    },
+                    {
+                        "name": "Abend: 15 Minuten Interaktives Angel-Spiel & Gewichtskontrolle",
+                        "text": "Befriedigen Sie den Jagdtrieb mit einer Federangel zum Energieabbau, wiegen Sie die Katze regelmäßig zur Adipositas-Prävention und genießen Sie den Abend."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Ist die Burma-Katze für Personen geeignet, die den ganzen Tag außer Haus sind?",
+                        "answer": "Nein. Burma-Katzen sind extrem gesellig und leiden bei langer Einsamkeit unter Depressionen oder Verhaltensstörungen. Eine Zweitkatze oder eine sehr abwechslungsreiche Umgebung sind bei Berufstätigen unerlässlich."
+                    },
+                    {
+                        "question": "Wie pflegt man das Fell einer Burma-Katze richtig?",
+                        "answer": "Da die Burma-Katze kaum Unterwolle besitzt, haart sie sehr wenig. Einmal wöchentliches sanftes Bürsten mit einer Gummi- oder Silikonbürste reicht völlig aus, um den seidigen Glanz zu bewahren."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de prevenção da ansiedade de separação do gato Burmês e rotina de 3 passos de enriquecimento e nutrição",
+                "description": "Cuidados essenciais para o gato Burmês (Burmese) de pelo sedoso e olhos dourados. Aprenda a prevenir a ansiedade de separação nesta raça sociável, enriquecer o ambiente e gerir a nutrição de alto teor proteico.",
+                "authority": "Padrões de Raça da Cat Fanciers' Association (CFA) e Diretrizes Clínicas da International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Gato Burmês (Burmese Cat)",
+                    "lifespan": "12 ~ 18 anos",
+                    "sleep_pattern": "12 ~ 16 horas (polifásico: descanso ao lado dos tutores)",
+                    "temperament": "Afetuoso, extrovertido, curioso, leal, sociável"
+                },
+                "intro": "O gato Burmês é adorado mundialmente pelo seu pelo curto de toque acetinado, olhos dourados profundos e personalidade afetuosa semelhante à de um cão. Extremamente inteligente e sociável, cria laços intensos com a família; porém, essa profunda dedicação torna-o propenso à ansiedade de separação se ficar sozinho por longos períodos. Hoje no PetSelf, analisamos os sinais de comunicação do Burmês e apresentamos uma rotina de 3 passos para prevenir o stresse, enriquecer o ambiente doméstico e manter o peso ideal.",
+                "whyTitle": "Comunicação do gato Burmês: Fregas faciais e vocalizações afetuosas",
+                "whyDesc": "Os gatos Burmeses sentem uma forte necessidade de interagir continuamente com os seus humanos. Partilham feromónias e carinho através do **'Cabeceio' (Head Bunting)** e usam uma voz suave e expressiva para conversar e pedir atenção.",
+                "body_signals": [
+                    {
+                        "name": "Cabeceio e toque com a pata (Head Bunting & Pawing)",
+                        "meaning": "Sinal de profunda confiança e afeto, além de ser um pedido direto para brincar e receber atenção.",
+                        "response": "Responda de imediato com festas suaves ou inicie uma brincadeira com varinha para satisfazer a sua necessidade de contacto."
+                    },
+                    {
+                        "name": "Vocalização excessiva e andar inquieto (Excessive Vocalization & Pacing)",
+                        "meaning": "Sinais precoces de ansiedade e solidão causados por falta de estimulação ou isolamento prolongado.",
+                        "response": "Deixe brinquedos dispensadores de comida antes de sair e faça um treino de dessensibilização gradual à solidão."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Alimentação rica em proteínas e quebra-cabeças alimentares",
+                        "text": "Ofereça uma dieta rica em proteínas para manter a sua musculatura atlética e esconda alimento em brinquedos interativos antes de sair."
+                    },
+                    {
+                        "name": "Tarde: Enriquecimento ambiental vertical e horizontal",
+                        "text": "Coloque arranhadores e redes junto às janelas para observação externa, e adicione túneis para incentivar a atividade física."
+                    },
+                    {
+                        "name": "Noite: Brincadeira interativa (15 min) e controlo de peso",
+                        "text": "Estimule o seu instinto caçador com uma varinha para gastar energia acumulada, faça a pesagem de rotina e desfrute de um descanso tranquilo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "O gato Burmês é adequado para quem passa o dia fora de casa?",
+                        "answer": "Não. Os Burmeses são extremamente sociáveis e podem sofrer de depressão ou ansiedade severa se ficarem sozinhos por muito tempo. Recomenda-se a convivência com outros animais ou a disponibilização de brinquedos automáticos."
+                    },
+                    {
+                        "question": "Como cuidar do pelo do gato Burmês?",
+                        "answer": "Por possuir pouca subpelagem, o Burmês larga muito pouco pelo. Escovar uma a duas vezes por semana com uma escova de borracha macia é suficiente para manter o seu brilho acetinado característico."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Pencegahan Kecemasan Perpisahan Kucing Burmese dan Rutinitas 3 Langkah Pengayaan Ruangan & Nutrisi",
+                "description": "Perawatan esensial untuk kucing Burmese berbulu sutra dan bermata emas. Pelajari cara mencegah kecemasan perpisahan pada ras yang sangat sosial dan ramah ini, mengayakan lingkungan dalam ruangan, serta mengelola nutrisi tinggi protein.",
+                "authority": "Standar Ras Cat Fanciers' Association (CFA) dan Panduan Klinis International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Kucing Burmese (Burmese Cat)",
+                    "lifespan": "12 ~ 18 tahun",
+                    "sleep_pattern": "12 ~ 16 jam (polifasik - suka tidur di dekat pemiliknya)",
+                    "temperament": "Penyayang, ramah, penasaran, setia, menyukai manusia"
+                },
+                "intro": "Kucing Burmese sangat dicintai di seluruh dunia karena bulu pendeknya yang halus bagai sutra, mata emas yang memikat, serta kepribadiannya yang sangat ramah bagaikan anjing ('dog-like cat'). Kucing ini sangat cerdas dan memiliki ikatan emosional yang kuat dengan pemiliknya; namun, kesetiaan tinggi ini membuat mereka rentan mengalami kecemasan perpisahan jika ditinggal sendirian dalam waktu lama. Hari ini di PetSelf, kami menganalisis sinyal bahasa tubuh kucing Burmese dan memberikan 3 langkah rutinitas harian untuk mencegah stres, mengayakan lingkungan rumah, dan menjaga berat badan ideal.",
+                "whyTitle": "Komunikasi Kucing Burmese: Gosokan Kepala dan Suara yang Ramah",
+                "whyDesc": "Kucing Burmese memiliki keinginan yang sangat kuat untuk terus berinteraksi dengan pemiliknya. Mereka berbagi feromon dan kasih sayang melalui perilaku **'Menyundulkan Kepala' (Head Bunting)**, serta menggunakan suara lembutnya yang khas untuk 'berbicara' dan meminta perhatian.",
+                "body_signals": [
+                    {
+                        "name": "Menyundulkan Kepala & Menyentuh dengan Cakar (Head Bunting & Pawing)",
+                        "meaning": "Tanda kepercayaan dan rasa sayang yang mendalam, sekaligus permintaan langsung untuk mengajak bermain dan berinteraksi.",
+                        "response": "Segera tanggapi dengan belaian lembut atau ajak bermain menggunakan tongkat mainan untuk memenuhi kebutuhan sosialnya."
+                    },
+                    {
+                        "name": "Suara Meong Berlebihan & Bolak-balik (Excessive Vocalization & Pacing)",
+                        "meaning": "Sinyal stres awal dari rasa kesepian dan kecemasan perpisahan akibat kurangnya stimulasi atau terlalu lama sendirian.",
+                        "response": "Sediakan mainan puzzle makanan sebelum bepergian dan lakukan latihan desensitisasi secara bertahap untuk mengurangi kecemasan."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pemberian Makanan Tinggi Protein & Mainan Puzzle",
+                        "text": "Berikan makanan berkualitas tinggi yang kaya protein untuk mendukung otot tubuhnya yang padat, dan sembunyikan makanan dalam mainan puzzle sebelum pergi."
+                    },
+                    {
+                        "name": "Siang: Pengayaan Lingkungan Vertikal & Horizontal",
+                        "text": "Pasang tempat pemanjatan kucing di dekat jendela agar mereka bisa melihat pemandangan luar, dilengkapi dengan terowongan mainan untuk mendorong aktivitas."
+                    },
+                    {
+                        "name": "Malam: Permainan Interaktif (15 Menit) & Pemeriksaan Berat Badan",
+                        "text": "Salurkan insting berburu mereka dengan mainan tongkat bulu untuk melepaskan energi, lakukan penimbangan berat badan secara rutin, dan nikmati waktu istirahat bersama."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah kucing Burmese cocok untuk pemilik yang sering keluar rumah sepanjang hari?",
+                        "answer": "Tidak. Kucing Burmese sangat sosial dan dapat mengalami depresi berat atau kecemasan perpisahan jika ditinggal sendirian dalam jangka waktu lama. Disarankan untuk memelihara hewan peliharaan lain sebagai teman atau menyediakan mainan otomatis yang lengkap."
+                    },
+                    {
+                        "question": "Bagaimana cara merawat bulu kucing Burmese?",
+                        "answer": "Kucing Burmese memiliki bulu pendek dengan lapisan bulu bawah yang sangat tipis sehingga kerontokannya relatif sedikit. Menyisir bulunya 1–2 kali seminggu menggunakan sisir karet lembut atau sarung tangan silikon sudah cukup untuk menjaga kilau sutranya."
+                    }
+                ]
+            }
+        },
+        "heroImage": "/images/blog/burmese_cat_care.webp"
+    }
+}

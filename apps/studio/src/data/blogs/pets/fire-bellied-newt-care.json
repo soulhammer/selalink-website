@@ -1,0 +1,459 @@
+{
+    "fire-bellied-newt-care": {
+        "pubDate": "2026-04-30",
+        "updatedDate": "2026-04-30",
+        "heroImage": "/images/blog/fire_bellied_newt_care.webp",
+        "locales": {
+            "ko": {
+                "title": "파이어 벨리 뉴트 팔루다리움 환경 구축과 수온·약물살·먹이 적응 3단계 루틴",
+                "description": "붉은 배의 파이어 벨리 뉴트(붉은배영원) 맞춤 케어. 팔루다리움 육지·수중 환경, 약한 수류 조절, 서늘한 수온(18~22°C) 유지, 생먹이 및 펠렛 사료 적응법을 상세히 다룹니다.",
+                "authority": "세계파충류양서류수의학회 (ARAV) 임상 가이드라인 및 양서류 보전 행동학 표준",
+                "profile": {
+                    "breed": "파이어 벨리 뉴트 / 붉은배영원 (Fire-bellied Newt / Cynops spp.)",
+                    "lifespan": "10 ~ 15년 (적정 환경 시 20년 이상)",
+                    "sleep_pattern": "야행성·다상성 수면 (주간에는 수초나 육지 은신처에서 정지 휴식)",
+                    "temperament": "온순함, 차분함, 반수생, 예민한 피부, 느린 수영"
+                },
+                "intro": "파이어 벨리 뉴트(붉은배영원)는 배 부분의 선명한 붉은색 경고색(Aposematism) 패턴과 귀여운 외형, 강인한 생명력으로 전 세계 소형 수생 양서류 마니아들에게 가장 인기 있는 뉴트 품종입니다. 약한 독성을 가진 피부 점액으로 포식자로부터 자신을 보호하며, 수중 생활과 육지 생활을 병행하는 반수생 습성을 지니고 있습니다. 수영 능력이 다소 떨어져 강한 수류에 취약하고, 24°C 이상의 고수온에 노출되면 면역력이 급격히 떨어져 사망에 이를 수 있습니다. 따라서 약한 수류를 유지하는 여과기 설정, 서늘한 수온 관리(18~22°C), 육지와 수중이 조화로운 팔루다리움 구축, 그리고 핀셋을 활용한 먹이 적응 훈련이 건강 유지를 위한 핵심입니다. 오늘 PetSelf에서는 파이어 벨리 뉴트의 본능 시그널을 해석하고, 수온·수류 관리, 환경 구축, 영양 공급을 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "파이어 벨리 뉴트의 본능 시그널: 배 경고색 노출과 수조 벽 기어오르기",
+                "whyDesc": "파이어 벨리 뉴트는 포식자나 위협을 느꼈을 때 몸을 뒤집거나 꺾어 붉은 배를 노출하는 본능적 방어 자세(Unkenreflex)를 취합니다. 또한 수조 내 용존 산소가 부족하거나, 수온이 너무 높을 때, 혹은 수질이 악화되었을 때 수조 벽을 타고 육지로 탈출하려는 신체 시그널을 보입니다.",
+                "body_signals": [
+                    {
+                        "name": "배 경고색 노출 및 몸 뒤틀기 (Warning Pose / Unkenreflex)",
+                        "meaning": "포식자나 외부 자극에 대해 피부 독성을 경고하는 본능적인 방어 자세이자 극심한 스트레스 신호입니다.",
+                        "response": "자극을 즉시 중단하고 외부 시선을 차단하여 차분하게 안정할 수 있도록 수조 주변을 조용하게 유지해 줍니다."
+                    },
+                    {
+                        "name": "수조 벽 기어오르기 및 육지 상주 (Glass Climbing & Land Staying)",
+                        "meaning": "수온 상승(24°C 이상), 강한 수류로 인한 피로, 혹은 여과 부족에 따른 수질 오염(아질산/암모니아 상승) 경고입니다.",
+                        "response": "수온계를 즉시 확인하여 18~22°C로 낮추고, 여과기 수류를 약하게 조절한 후 부분 환수를 실시합니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 수온 점검(18~22°C) 및 여과기 약한 수류 조절",
+                        "text": "양서류에게 치명적인 고수온을 막기 위해 냉각 팬 등을 활용해 18~22°C를 유지하고, 레인바나 스펀지를 이용해 물살을 최대한 약하게 만듭니다."
+                    },
+                    {
+                        "name": "낮: 팔루다리움 육지·수초 환경 및 피부 습도 점검",
+                        "text": "뉴트가 쉽게 올라갈 수 있는 유목, 코르크 보드 육지와 수초 상태를 점검하고, 육지 은신처의 적정 습도가 유지되는지 확인합니다."
+                    },
+                    {
+                        "name": "밤: 핀셋을 이용한 생먹이·전용 사료 급여 및 잔반 제거",
+                        "text": "냉동 냉동장구벌레나 사육 전용 펠렛을 핀셋 끝에 잡아 뉴트 입앞에서 유인하여 급여하고, 수질 오염을 막기 위해 남은 먹이는 30분 내로 즉시 회수합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "여름철 수온이 높아지면 왜 위험하고 어떻게 관리해야 하나요?",
+                        "answer": "파이어 벨리 뉴트는 서늘한 계곡과 저수지 출신의 양서류로 수온이 24°C를 넘어가면 거식증, 피부 곰팡이병, 면역 결핍이 발생하여 사망률이 급증합니다. 여름철에는 수조용 냉각 팬을 가동하거나 시원한 실내로 이동시키고, 아이스팩을 수조 외부에 대어 18~22°C를 반드시 유지해야 합니다."
+                    },
+                    {
+                        "question": "파이어 벨리 뉴트를 맨손으로 만져도 되나요?",
+                        "answer": "절대 안 됩니다. 사람의 체온(약 36.5°C)은 약 20°C 환경에 사는 양서류의 얇고 투과성 높은 피부에 화상을 입힐 수 있습니다. 또한 뉴트의 피부 점액에는 미량의 알칼로이드 독소(테트로도톡신 계열)가 포함되어 있으므로, 이동 시에는 반드시 뜰채를 사용하고 만약 손에 닿았다면 즉시 흐르는 물에 손을 깨끗이 씻어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Fire-Bellied Newt Paludarium Setup, Water Flow Control, and 3-Step Care Routine",
+                "description": "Essential care for the vibrant Fire-Bellied Newt. Learn to construct a paludarium, maintain cool water (18–22°C / 64–72°F), control filter currents, and feed live or pellet foods.",
+                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) and Amphibian Conservation Guidelines",
+                "profile": {
+                    "breed": "Fire-bellied Newt (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 Years (Up to 20+ years with optimal care)",
+                    "sleep_pattern": "Nocturnal & Polyphasic (Rests quietly among aquatic plants or land hides during the day)",
+                    "temperament": "Peaceful, Gentle, Semi-aquatic, Highly Sensitive Skin, Slow Swimmer"
+                },
+                "intro": "The Fire-Bellied Newt (Cynops species) is one of the most beloved small aquatic amphibians worldwide, renowned for its striking red or orange-red aposematic belly pattern and hardy nature. Naturally protected by mild defensive skin toxins, these semi-aquatic creatures split their time between shallow water and moist land. Because they are weak swimmers, strong filter currents easily exhaust them. Furthermore, exposure to water temperatures above 24°C (75°F) rapidly suppresses their immune system and can prove fatal. Maintaining a gentle water flow, cool temperatures (18–22°C / 64–72°F), a well-balanced paludarium layout, and target feeding using tweezers are essential for their health. Today, PetSelf decodes Fire-Bellied Newt behavioral signals and presents a 3-step daily homecare routine for water management, habitat enrichment, and nutrition.",
+                "whyTitle": "Fire-Bellied Newt Instincts: Aposematic Belly Display and Wall Climbing",
+                "whyDesc": "Fire-Bellied Newts possess distinct physical survival signals. When feeling threatened by predators, they exhibit a reflex posture (Unkenreflex) by arching their back to display their bright red warning belly. Conversely, climbing glass walls or remaining exclusively on land indicates poor water quality, high water temperatures, or exhaustion from strong filter currents.",
+                "body_signals": [
+                    {
+                        "name": "Belly Warning Pose & Back Arching (Unkenreflex)",
+                        "meaning": "An instinctual defensive reflex warning predators of toxic skin secretions, indicating severe environmental stress or fear.",
+                        "response": "Stop all handling immediately, dim ambient lighting, and keep the surrounding area quiet so the newt can calm down."
+                    },
+                    {
+                        "name": "Glass Climbing & Excessive Land Staying",
+                        "meaning": "A distress signal caused by elevated water temperatures (>24°C), dangerous ammonia/nitrite buildup, or exhausting water currents.",
+                        "response": "Check the water thermometer immediately to lower temp to 18–22°C, baffle filter flow using spray bars or sponges, and perform a partial water change."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Water Temperature Check (18–22°C) & Filter Flow Baffling",
+                        "text": "Ensure water temperatures stay cool using cooling fans if necessary, and adjust spray bars or sponge filters to keep water currents gentle."
+                    },
+                    {
+                        "name": "Afternoon: Paludarium Land/Aquatic Plant & Humidity Inspection",
+                        "text": "Inspect floating cork platforms, driftwood land areas, and aquatic plants to ensure easy water-to-land access and proper moisture in land hides."
+                    },
+                    {
+                        "name": "Evening: Tweezer Feeding of Frozen/Live Foods & Leftover Cleanup",
+                        "text": "Target-feed frozen bloodworms or carnivore pellets by wiggling them on tweezer tips in front of their snout, removing uneaten food within 30 minutes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is high water temperature dangerous in summer, and how should it be managed?",
+                        "answer": "Fire-Bellied Newts originate from cool mountain streams and ponds. Water temperatures exceeding 24°C (75°F) cause thermal stress, anorexia, fatal fungal infections, and organ failure. During summer, use aquarium cooling fans, keep the tank in a climate-controlled room, or place sealed ice packs against the outside glass to maintain 18–22°C."
+                    },
+                    {
+                        "question": "Can I handle a Fire-Bellied Newt with my bare hands?",
+                        "answer": "No. Human skin temperature (~36.5°C / 98°F) can cause thermal burns on delicate, permeable amphibian skin suited for ~20°C environments. Additionally, their skin secretes mild toxins (tetrodotoxin family). Always use a soft aquarium net to move them, and wash your hands thoroughly if accidental contact occurs."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "アカハライモリ（ファイアベリーニュート）のパルダリウム環境構築と水温・弱水流・餌付け3ステップルーティン",
+                "description": "鮮やかな赤いお腹を持つアカハライモリ（ファイアベリーニュート）の専門ケア。パルダリウムの陸地・水中環境、弱水流の調整、適正水温（18〜22℃）、生餌・人工飼料の餌付け法を詳しく解説します。",
+                "authority": "世界爬虫類・両生類獣医学会 (ARAV) 臨床ガイドラインおよび両生類保全行動学標準",
+                "profile": {
+                    "breed": "アカハライモリ / ファイアベリーニュート (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 〜 15年 (適切な飼育下では20年以上)",
+                    "sleep_pattern": "夜行性・多相性睡眠 (日中は水草や陸地の隠れ家で静止して休息)",
+                    "temperament": "温和、穏やか、半水生、繊細な皮膚、ゆっくりとした泳ぎ"
+                },
+                "intro": "アカハライモリ（ファイアベリーニュート）は、鮮やかな赤いお腹の警告色（Aposematism）パターンと愛くるしい姿、丈夫な生命力で世界中の小型水生両生類ファンから愛されているイモリです。皮膚から分泌される微量の毒性粘液で身を守り、水中と陸地を行き来する半水生の習性を持っています。泳ぎがそれほど得意ではないため強い水流に弱く、24℃以上の高水温に 晒されると免疫力が急激に低下し死亡するリスクが高まります。そのため、水流を抑えたフィルター設定、涼しい水温管理（18〜22℃）、水陸のバランスが取れたパルダリウムの構築、ピンセットを使用した餌付けトレーニングが健康維持の鍵となります。今回はPetSelfがアカハライモリの習性サインを解読し、3ステップ日常ケアをご紹介します。",
+                "whyTitle": "アカハライモリの習性サイン：赤腹の威嚇ポーズと水槽壁のよじ登り",
+                "whyDesc": "アカハライモリは外敵や脅威を感じた際、体を反らせて赤いお腹を見せる防御姿勢（Unkenreflex）をとります。また、水中の溶存酸素不足、高水温、または水質悪化が生じると、水槽のガラス壁を登って陸地へ避難しようとするサインを示します。",
+                "body_signals": [
+                    {
+                        "name": "赤腹の露出と体反らせ (Unkenreflex / 警告ポーズ)",
+                        "meaning": "外敵に対して皮膚毒を警告する本能的な防御姿勢であり、強いストレスや恐怖を感じているサインです。",
+                        "response": "刺激をすぐにやめ、周囲を暗くして静かな環境を作り、落ち着くのを待ちます。"
+                    },
+                    {
+                        "name": "水槽壁登りと陸地への長居 (Glass Climbing & Land Staying)",
+                        "meaning": "水温上昇（24℃以上）、強い水流による疲労、またはアンモニア・亜硝酸上昇による水質悪化の警告です。",
+                        "response": "水温計を確認して18〜22℃に下げ、フィルターの水流を弱め、水換えを行ってください。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：水温確認（18〜22℃）とフィルターの弱水流調整",
+                        "text": "両生類に致命的な高水温を防ぐため冷却ファン等で18〜22℃を維持し、レインバーやスパンジで水流を極力弱くします。"
+                    },
+                    {
+                        "name": "昼：パルダリウムの陸地・水草環境と湿度の点検",
+                        "text": "イモリが登りやすい流木やコルクの陸地、水草の状態を確認し、陸上の隠れ家の湿度が保たれているか点検します。"
+                    },
+                    {
+                        "name": "夜：ピンセットでの生餌・人工飼料の給餌と残餌回収",
+                        "text": "冷凍アカムシや専用ペレットをピンセットで挟み、口元で揺らして与え、水質悪化を防ぐため残った餌は30分以内に回収します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "夏の高水温はなぜ危険で、どのように管理すべきですか？",
+                        "answer": "アカハライモリは涼しい山間部の小川や池に生息する両生類で、水温が24℃を超えると拒食症、皮膚カビ病、器官不全を引き起こし死亡率が急増します。夏場は水槽用冷却ファンを稼働させ、エアコンの効いた部屋に配置するか、水槽の外側に保冷剤を当てて18〜22℃を確実に維持してください。"
+                    },
+                    {
+                        "question": "アカハライモリを素手で触ってもいいですか？",
+                        "answer": "絶対にしないでください。人間の体温（約36.5℃）は、約20℃の環境で生きる両生類の薄く透水性の高い皮膚に火傷を負わせます。また、皮膚粘液には微量の毒素（テトロドトキシン系）が含まれているため、移動時はネットを使用し、誤って触れた場合はすぐに手を洗ってください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "火腹蝾螈水陆缸环境构建、水温控制与3阶段日常护理指南",
+                "description": "针对腹部鲜红的火腹蝾螈（Fire-bellied Newt）专属护理。学习水陆生态缸（Paludarium）布置、弱水流调节、保持凉爽水温（18–22°C）以及活饵与人工饲料训饵技巧。",
+                "authority": "国际爬行动物与两栖动物兽医师协会 (ARBA) 临床指南与两栖类保育行为学标准",
+                "profile": {
+                    "breed": "火腹蝾螈 / 东方蝾螈 (Fire-bellied Newt / Cynops orientalis)",
+                    "lifespan": "10 ~ 15年 (环境优良可达20年以上)",
+                    "sleep_pattern": "夜行性·多相性睡眠 (白天在水草或陆地躲避处静止休息)",
+                    "temperament": "温和、沉稳、半水生、皮肤极其敏感、游泳缓慢"
+                },
+                "intro": "火腹蝾螈因其腹部鲜艳的红色警戒色（Aposematism）图案、可爱的外形以及顽强的生命力，成为全球最受欢迎的小型水生两栖动物之一。它们通过皮肤分泌的微量毒素自我保护，具有兼顾水生与陆栖的半水生习性。由于游泳能力较弱，它们非常害怕强水流；若暴露于24°C以上的高温水中，免疫力会急剧下降甚至导致死亡。因此，保持缓和的水流设置、凉爽的水温管理（18–22°C）、水陆平衡的水陆生态缸布置以及使用镊子诱食，是维持其健康的核心。今天 PetSelf 将解析火腹蝾螈的本能信号，并分享涵盖水温管理、环境构建与营养投喂的3阶段日常护理流程。",
+                "whyTitle": "火腹蝾螈的本能信号：展示红腹警告姿势与爬缸上陆",
+                "whyDesc": "火腹蝾螈在感知到威胁或捕食者时，会拱起背部展示鲜红的腹部，这是一种本能的防御反射姿势（Unkenreflex）。此外，当水体溶氧量不足、水温过高或水质恶化（氨/亚硝酸盐超标）时，它们会爬上水族箱缸壁并长时间留在陆地上。",
+                "body_signals": [
+                    {
+                        "name": "拱背展示红腹 (Unkenreflex / 警戒姿势)",
+                        "meaning": "向捕食者发出皮肤毒性警告的本能防御反射，表明其处于高度恐惧或强应激状态。",
+                        "response": "立即停止触摸，调暗周围灯光并保持环境安静，让其自然恢复平静。"
+                    },
+                    {
+                        "name": "爬缸与长时间滞留陆地 (Glass Climbing & Land Staying)",
+                        "meaning": "水温过高（>24°C）、强水流导致体能耗尽或水质严重污染的警示信号。",
+                        "response": "检查水温计降至18–22°C，调小过滤器水流，并立即进行局部换水。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：检查水温（18–22°C）与调节过滤器为弱水流",
+                        "text": "使用散热风扇将水温维持在18–22°C，并通过雨淋管或过滤棉缓冲，将水流调至极其缓和的状态。"
+                    },
+                    {
+                        "name": "中午：水陆缸陆地·水草环境与湿度检查",
+                        "text": "检查沉木、树皮陆地平台与水草状态，确保蝾螈能轻松爬上陆地，并确认陆地躲避穴的湿度合适。"
+                    },
+                    {
+                        "name": "晚上：使用镊子投喂冻干/活饵与及时清理残渣",
+                        "text": "用镊子夹取赤虫或沉底颗粒在蝾螈嘴前轻轻晃动诱食，并在30分钟内清理未吃完的食物以防污染水质。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "夏季水温升高为什么危险？应该如何管理？",
+                        "answer": "火腹蝾螈原生于凉爽的山间溪流与池塘，当水温超过24°C时，极易引发拒食、皮肤真菌感染和器官衰竭。夏季必须开启水族箱水冷风扇，将其置于空调房内，或在缸外贴冰袋，严格将水温控制在18–22°C。"
+                    },
+                    {
+                        "question": "可以用徒手抓握火腹蝾螈吗？",
+                        "answer": "绝对不可以。人类约36.5°C的体温会对适应20°C环境的两栖类透水性皮肤造成灼伤。此外，其皮肤分泌物含有微量毒素（河豚毒素类），移动时请务必使用鱼网，若不慎接触请立即用流动清水冲洗双手。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de montaje de paludario del Tritón de Vientre de Fuego, control de corriente y rutina de 3 pasos",
+                "description": "Cuidado esencial para el colorido Tritón de Vientre de Fuego. Aprenda a diseñar un paludario, controlar la corriente del filtro, mantener agua fresca (18-22 °C) y alimentar con comida viva o pellets.",
+                "authority": "Directrices Clínicas de la Association of Reptilian and Amphibian Veterinarians (ARAV) y Pautas de Conservación de Anfibios",
+                "profile": {
+                    "breed": "Tritón de Vientre de Fuego (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 años (Hasta 20+ años con excelentes cuidados)",
+                    "sleep_pattern": "Nocturno y polifásico (descanso entre plantas acuáticas o refugios terrestres de día)",
+                    "temperament": "Pacífico, dócil, semiacuático, piel extremadamente sensible, nadador lento"
+                },
+                "intro": "El Tritón de Vientre de Fuego (especies de Cynops) es uno de los anfibios acuáticos más populares del mundo debido a su llamativo patrón abdominal rojo/naranja de advertencia (aposematismo) y su gran resistencia. Protegidos por suaves toxinas cutáneas defensivas, estos animales semiacuáticos dividen su tiempo entre el agua poco profunda y la tierra húmeda. Como son nadadores lentos, las corrientes fuertes del filtro los agotan rápidamente. Además, temperaturas del agua superiores a 24 °C comprometen su sistema inmunitario y pueden ser fatales. Mantener una corriente suave, agua fresca (18–22 °C), un paludario bien estructurado y alimentación dirigida con pinzas es vital. Descubra la rutina de PetSelf.",
+                "whyTitle": "Instintos del Tritón de Vientre de Fuego: Reflejo de advertencia y trepado de cristales",
+                "whyDesc": "Los tritones de vientre de fuego poseen señales claras de supervivencia. Ante una amenaza, arquean su cuerpo para mostrar su abdomen rojo brillante (Unkenreflex). Por otro lado, trepar por los cristales o permanecer exclusivamente en tierra indica agua demasiado cálida, mala calidad del agua o fatiga por fuertes corrientes.",
+                "body_signals": [
+                    {
+                        "name": "Postura de advertencia y arquèo corporal (Unkenreflex)",
+                        "meaning": "Reflejo defensivo instintivo que advierte de las toxinas cutáneas; indica estrés ambiental severo o miedo.",
+                        "response": "Detenga el manejo de inmediato, atenué la iluminación y mantenga el entorno silencioso para que se tranquilice."
+                    },
+                    {
+                        "name": "Trepado de cristales y estancia prolongada en tierra",
+                        "meaning": "Señal de alerta por agua demasiado caliente (>24 °C), amonio/nitritos elevados o fatiga por fuerte corriente.",
+                        "response": "Verifique el termómetro para reducir la temperatura a 18–22 °C, reduzca el flujo del filtro y realice un cambio parcial de agua."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Control de temperatura del agua (18–22 °C) y reducción de corriente",
+                        "text": "Asegúrese de mantener el agua fresca mediante ventiladores si es necesario y ajuste el filtro para generar un flujo muy suave."
+                    },
+                    {
+                        "name": "Tarde: Inspección del paludario, plantas y humedad de la zona terrestre",
+                        "text": "Examine las zonas de corcho, troncos y plantas acuáticas asegurando un fácil acceso al agua y humedad adecuada en los refugios."
+                    },
+                    {
+                        "name": "Noche: Alimentación dirigida con pinzas y retirada de restos",
+                        "text": "Alimente con larvas de mosquito o pellets carnívoros moviéndolos frente a su boca con pinzas, retirando el sobrante en 30 minutos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué es peligrosa la temperatura alta en verano y cómo gestionarla?",
+                        "answer": "Los tritones de vientre de fuego proceden de arroyos y estanques fríos. Temperaturas del agua superiores a 24 °C causan estrés térmico, inapetencia, infecciones fúngicas fatales y fallo orgánico. En verano, utilice ventiladores de acuario, manténgalo en una estancia climatizada o aplique compresas frías en el exterior del tanque para mantener 18–22 °C."
+                    },
+                    {
+                        "question": "¿Puedo manipular un Tritón de Vientre de Fuego con las manos descubiertas?",
+                        "answer": "No. La temperatura corporal humana (~36.5 °C) puede causar quemaduras térmicas en la piel permeable y delicada del anfibio adaptado a 20 °C. Además, su piel segrega sustancias levemente tóxicas. Utilice siempre una red suave para moverlo y lávese las manos si hay contacto accidental."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide d'aménagement du paludarium du Triton à ventre de feu, contrôle du courant et routine en 3 étapes",
+                "description": "Soins essentiels pour le Triton à ventre de feu. Découvrez comment aménager un paludarium, régler un faible courant, maintenir une eau fraîche (18-22 °C) et l'habituer aux granulés ou proies vivantes.",
+                "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de Conservation des Amphibiens",
+                "profile": {
+                    "breed": "Triton à ventre de feu (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 ans (Plus de 20 ans avec des soins optimaux)",
+                    "sleep_pattern": "Nocturne & polyphasique (repos parmi les plantes ou dans les cachottes terrestres le jour)",
+                    "temperament": "Paisible, doux, semi-aquatique, peau très sensible, nageur lent"
+                },
+                "intro": "Le Triton à ventre de feu (espèce Cynops) est l'un des petits amphibiens aquatiques les plus appréciés au monde grâce a son motif abdominal rouge vif d'avertissement (aposematisme) et sa rusticité. Protégé par de légères toxines cutanées défensives, cet animal semi-aquatique partage son temps entre l'eau peu profonde et la terre humide. Mauvais nageur, il s'épuise vite dans un courant fort. De plus, une eau dépassant 24 °C affaiblit son système immunitaire et peut lui être fatale. Un faible courant, une eau fraîche (18–22 °C), un paludarium adapté et un nourrissage à la pince sont indispensables. Découvrez la routine PetSelf.",
+                "whyTitle": "Instincts du Triton à ventre de feu : Posture d'avertissement et escalade des vitres",
+                "whyDesc": "Le Triton à ventre de feu possède des signaux de survie évidents. S'il se sent menacé, il arque son dos pour exhiber son ventre rouge vif (Unkenreflex). En revanche, escalader les vitres ou rester exclusivement sur terre indique une eau trop chaude, une mauvaise qualité d'eau ou un courant trop violent.",
+                "body_signals": [
+                    {
+                        "name": "Posture d'avertissement & dos arqué (Unkenreflex)",
+                        "meaning": "Réflexe défensif avertissant de la présence de toxines cutanées ; témoigne d'un stress intense ou d'une frayeur.",
+                        "response": "Cessez toute manipulation, tamisez l'éclairage et conservez un environnement calme."
+                    },
+                    {
+                        "name": "Escalade des vitres & séjour prolongé sur terre",
+                        "meaning": "Signal d'alerte causé par une eau trop chaude (>24 °C), de l'ammoniac/nitrites ou un courant épuisant.",
+                        "response": "Vérifiez le thermomètre pour abaisser la température à 18–22 °C, réduisez le débit du filtre et faites un changement d'eau."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Contrôle de la température (18–22 °C) & atténuation du courant",
+                        "text": "Maintenez l'eau fraîche à l'aide de ventilateurs si nécessaire et réglez la pompe pour obtenir un flux d'eau très doux."
+                    },
+                    {
+                        "name": "Après-midi : Inspection du paludarium, des plantes et de l'humidité",
+                        "text": "Vérifiez les plages de liège, la végétation aquatique et l'accès facile à la terre ainsi que l'humidité des cachettes."
+                    },
+                    {
+                        "name": "Soir : Nourrissage ciblé à la pince & nettoyage des restes",
+                        "text": "Distribuez des vers de vase ou des granulés en les agitant au bout d'une pince devant sa bouche, puis retirez les restes après 30 minutes."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la chaleur est-elle dangereuse en été et comment la gérer ?",
+                        "answer": "Originaire de ruisseaux et étangs frais, le triton ne supporte pas une eau supérieure à 24 °C, qui entraîne anorexie, mycoses cutanées fatales et défaillance organique. En été, utilisez des ventilateurs d'aquarium, installez le bac dans une pièce climatisée ou appliquez des poches de glace sur les vitres extérieures pour garder 18–22 °C."
+                    },
+                    {
+                        "question": "Peut-on manipuler un Triton à ventre de feu à mains nues ?",
+                        "answer": "Absolument pas. La température du corps humain (~36,5 °C) provoque des brûlures thermiques sur la peau perméable de cet amphibien adapté à 20 °C. De plus, sa peau sécrète de légères toxines. Utilisez toujours une épuisette douce pour le déplacer et lavez-vous les mains en cas de contact fortuit."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Chinesischer/Japanischer Feuerbauchmolch Paludarium-Einrichtung, Strömungssteuerung & 3-Schritte-Routine",
+                "description": "Essenzielle Pflege für den Feuerbauchmolch. Lernen Sie, ein Paludarium einzurichten, kühles Wasser (18–22 °C) zu halten, Filterströmungen zu reduzieren und Lebend- oder Pelletfutter zu füttern.",
+                "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Amphibien-Schutzstandards",
+                "profile": {
+                    "breed": "Feuerbauchmolch (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 Jahre (Bei optimaler Pflege über 20 Jahre)",
+                    "sleep_pattern": "Nachtaktiv & polyphasisch (tagsüber Ruhe in Wasserpflanzen oder Landverstecken)",
+                    "temperament": "Friedlich, sanft, halb-aquatisch, empfindliche Haut, langsamer Schwimmer"
+                },
+                "intro": "Der Feuerbauchmolch (Cynops-Arten) gehört aufgrund seiner leuchtend roten Warnfärbung auf der Unterseite (Aposematismus) und seiner robusten Natur zu den weltweit beliebtesten kleinen Amphibien. Geschützt durch ein leichtes Abwehrgift in der Haut, leben diese Tiere sowohl im flachen Wasser als auch an feuchten Landzonen. Da sie schlechte Schwimmer sind, erschöpfen sie starke Filterströmungen schnell. Wassertemperaturen über 24 °C schwächen ihr Immunsystem drastisch und können tödlich sein. Eine sanfte Strömung, kühles Wasser (18–22 °C), ein gut strukturiertes Paludarium und die Pinzettenfütterung sind essenziell. PetSelf zeigt die 3-Schritte-Routine.",
+                "whyTitle": "Instinkte des Feuerbauchmolchs: Warnhaltung und Klettern an den Scheiben",
+                "whyDesc": "Feuerbauchmolche besitzen klare Überlebenssignale. Bei Bedrohung krümmen sie den Rücken, um den roten Bauch zu zeigen (Unkenreflex). Klettern an den Scheiben oder dauerhaftes Verbleiben an Land deutet auf zu warmes Wasser, schlechte Wasserwerte oder Erschöpfung durch Strömung hin.",
+                "body_signals": [
+                    {
+                        "name": "Warnhaltung & Bankrücken (Unkenreflex)",
+                        "meaning": "Instinktiver Abwehrreflex zur Warnung vor Hautgiften; zeigt starken Umweltstress oder Angst an.",
+                        "response": "Stoppen Sie jegliche Handhabung, dimmen Sie das Licht und sorgen Sie für eine ruhige Umgebung."
+                    },
+                    {
+                        "name": "Scheibenklettern & Landaufenthalt",
+                        "meaning": "Warnsignal bei zu hohem Wassertemperaturen (>24 °C), Anstieg von Ammoniak/Nitrit oder zu starker Strömung.",
+                        "response": "Prüfen Sie das Thermometer (Ziel: 18–22 °C), drosseln Sie den Filter und führen Sie einen Teilwasserwechsel durch."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Wassertemperatur prüfen (18–22 °C) & Strömung drosseln",
+                        "text": "Halten Sie das Wasser mithilfe von Lüftern kühl und stellen Sie Düsenrohre so ein, dass kaum Strömung entsteht."
+                    },
+                    {
+                        "name": "Nachmittag: Paludarium-Landteil & Feuchtigkeit kontrollieren",
+                        "text": "Überprüfen Sie Korkinseln, Wasserpflanzen und die Feuchtigkeit in den Landverstecken."
+                    },
+                    {
+                        "name": "Abend: Gezielte Pinzettenfütterung & Futterreste entfernen",
+                        "text": "Füttern Sie Frostmückenlarven oder Pellets mit der Pinzette vor dem Maul und entfernen Sie Reste nach 30 Minuten."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sind hohe Temperaturen im Sommer gefährlich und wie steuert man sie?",
+                        "answer": "Feuerbauchmolche stammen aus kühlen Gebirgsbächen. Temperaturen über 24 °C führen zu Hitzestress, Fressunlust, Pilzinfektionen und Organversagen. Nutzen Sie Aquarienkühler, halten Sie das Becken in kühlen Räumen oder nutzen Sie Kühlakkus an den Außenwänden für 18–22 °C."
+                    },
+                    {
+                        "question": "Darf man Feuerbauchmolche mit bloßen Händen anfassen?",
+                        "answer": "Nein, niemals. Die menschliche Hauttemperatur (~36,5 °C) verursacht Verbrennungen auf der durchlässigen Haut des an 20 °C angepassten Amphibiums. Zudem enthält ihr Hautsekret schwache Giftstoffe. Nutzen Sie Fangnetze und waschen Sie bei Kontakt gründlich die Hände."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de montagem de paludário do Tritão-de-ventre-de-fogo, controlo de fluxo de água e rotina de 3 passos",
+                "description": "Cuidados essenciais para o Tritão-de-ventre-de-fogo. Aprenda a montar um paludário, controlar a corrente do filtro, manter a água fresca (18-22 °C) e alimentar com comida viva ou ração.",
+                "authority": "Diretrizes Clínicas da Association of Reptilian and Amphibian Veterinarians (ARAV) e Padrões de Conservação de Anfíbios",
+                "profile": {
+                    "breed": "Tritão-de-ventre-de-fogo (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 anos (Mais de 20 anos com cuidados ideais)",
+                    "sleep_pattern": "Noturno e polifásico (descanso entre plantas aquáticas ou esconderijos terrestres de dia)",
+                    "temperament": "Pacífico, dócil, semi-aquático, pele muito sensível, nadador lento"
+                },
+                "intro": "O Tritão-de-ventre-de-fogo (espécie Cynops) é um dos pequenos anfíbios aquáticos mais populares do mundo devido ao seu padrão abdominal vermelho/laranja de aviso (aposematismo) e resistência. Protegidos por toxinas cutâneas defensivas suaves, dividem o tempo entre água rasa e terra húmida. Como são nadadores lentos, correntes fortes exaurem-nos facilmente. Além disso, águas acima de 24 °C prejudicam gravemente o seu sistema imunitário. Manter fluxo suave, água fresca (18–22 °C), um paludário equilibrado e alimentação orientada com pinça é fundamental. Conheça a rotina do PetSelf.",
+                "whyTitle": "Instintos do Tritão-de-ventre-de-fogo: Postura de aviso e escalada em vidro",
+                "whyDesc": "Os tritões-de-ventre-de-fogo possuem sinais claros de sobrevivência. Perante ameaças, curvam as costas para exibir o ventre vermelho (Unkenreflex). Por outro lado, escalar vidros ou permanecer apenas em terra indica água quente, má qualidade da água ou exaustão por correntes fortes.",
+                "body_signals": [
+                    {
+                        "name": "Postura de aviso e curvatura das costas (Unkenreflex)",
+                        "meaning": "Reflexo defensivo instintivo que avisa sobre toxinas na pele; indica stresse ambiental grave ou medo.",
+                        "response": "Interrompa o manuseio imediatamente, reduza a iluminação e mantenha o ambiente silencioso."
+                    },
+                    {
+                        "name": "Escalada em vidro e permanência em terra",
+                        "meaning": "Sinal de alerta por água quente (>24 °C), amónia/nitritos elevados ou exaustão por corrente forte.",
+                        "response": "Verifique o termómetro para reduzir a temperatura para 18–22 °C, diminua o fluxo do filtro e faça uma troca parcial de água."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Controlo de temperatura da água (18–22 °C) e redução de fluxo",
+                        "text": "Mantenha a água fresca utilizando ventoinhas se necessário e ajuste o filtro para criar uma corrente muito suave."
+                    },
+                    {
+                        "name": "Tarde: Inspeção do paludário, plantas e humidade em terra",
+                        "text": "Inspecione plataformas de cortiça, troncos e plantas aquáticas garantindo fácil acesso e humidade adequada nos esconderijos."
+                    },
+                    {
+                        "name": "Noite: Alimentação orientada com pinça e remoção de restos",
+                        "text": "Alimente com larvas de mosquito ou ração carnívora movimentando-as com a pinça à frente do focinho, retirando restos após 30 minutos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que a temperatura alta no verão é perigosa e como geri-la?",
+                        "answer": "Os tritões-de-ventre-de-fogo são originários de riachos e lagos frescos. Água acima de 24 °C causa stresse térmico, falta de apetite, infeções fúngicas fatais e falência de órgãos. No verão, use ventoinhas para aquário, mantenha o aquário numa divisão climatizada ou aplique sacos de gelo na parte externa para manter 18–22 °C."
+                    },
+                    {
+                        "question": "Posso manusear um Tritão-de-ventre-de-fogo com as mãos desnudas?",
+                        "answer": "Não. A temperatura do corpo humano (~36,5 °C) causa queimaduras térmicas na pele permeável do anfíbio adaptado a 20 °C. Além disso, a sua pele segrega toxinas suaves. Utilize sempre um camaroeiro macio para o mover e lave as mãos se houver contacto acidental."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Pembuatan Paludarium Fire-Bellied Newt, Pengaturan Arus Air, dan Rutinitas Care 3 Langkah",
+                "description": "Perawatan esensial untuk Fire-Bellied Newt (Kadal Air Perut Merah). Pelajari cara merancang paludarium, menjaga suhu air sejuk (18–22°C), mengatur arus filter yang lembut, serta melatih pemberian pakan.",
+                "authority": "Panduan Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Konservasi Amfibi",
+                "profile": {
+                    "breed": "Fire-bellied Newt (Cynops orientalis / Cynops pyrrhogaster)",
+                    "lifespan": "10 ~ 15 tahun (Hingga 20+ tahun dengan perawatan optimal)",
+                    "sleep_pattern": "Nokturnal & Polifasik (beristirahat tenang di antara tanaman air atau daratan saat siang)",
+                    "temperament": "Damai, lembut, semi-akuatik, kulit sangat sensitif, perenang lambat"
+                },
+                "intro": "Fire-Bellied Newt (spesies Cynops) adalah salah satu amfibi akuatik kecil paling populer di dunia karena pola perut merah/oranye yang mencolok sebagai warna peringatan (Aposematisme) dan daya tahannya. Dilindungi oleh racun kulit pertahanan yang ringan, hewan semi-akuatik ini membagi waktunya antara air dangkal dan daratan lembap. Karena mereka perenang yang lambat, arus filter yang kuat mudah membuat mereka kelelahan. Selain itu, suhu air di atas 24°C dapat menurunkan sistem kekebalan tubuh mereka dan berakibat fatal. Menjaga arus air tetap lembut, suhu sejuk (18–22°C), tata letak paludarium yang seimbang, dan pemberian pakan dengan pinset sangat penting bagi kesehatannya. PetSelf menyajikan rutinitas perawatan 3 langkahnya.",
+                "whyTitle": "Insting Fire-Bellied Newt: Tampilan Perut Peringatan dan Memanjat Kaca",
+                "whyDesc": "Fire-Bellied Newt memiliki sinyal bertahan hidup yang jelas. Saat merasa terancam, mereka melengkungkan punggung untuk memperlihatkan perut merahnya yang cerah (Unkenreflex). Sebaliknya, memanjat dinding kaca atau diam di daratan menandakan air terlalu panas, kualitas air buruk, atau kelelahan akibat arus deras.",
+                "body_signals": [
+                    {
+                        "name": "Postur Peringatan Perut & Punggung Melengkung (Unkenreflex)",
+                        "meaning": "Refleks pertahanan naluriah untuk memperingatkan racun kulit; menandakan stres lingkungan parah atau rasa takut.",
+                        "response": "Hentikan semua penanganan segera, redupkan pencahayaan, dan jaga suasana sekitar tetap tenang."
+                    },
+                    {
+                        "name": "Memanjat Kaca & Berada di Daratan Terlalu Lama",
+                        "meaning": "Sinyal bahaya akibat suhu air terlalu tinggi (>24°C), penumpukan amonia/nitrit, atau kelelahan akibat arus deras.",
+                        "response": "Periksa termometer untuk menurunkan suhu ke 18–22°C, kurangi arus filter, dan lakukan penggantian air sebagian."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Cek Suhu Air (18–22°C) & Pengaturan Arus Lembut",
+                        "text": "Pastikan suhu air tetap sejuk menggunakan kipas pendingin jika perlu, dan atur aliran filter agar tetap sangat lembut."
+                    },
+                    {
+                        "name": "Siang: Pemeriksaan Daratan Paludarium & Kelembapan",
+                        "text": "Periksa area daratan gabus, kayu, dan tanaman air untuk memastikan akses keluar-masuk air mudah serta kelembapan tempat sembunyi terjaga."
+                    },
+                    {
+                        "name": "Malam: Pemberian Pakan dengan Pinset & Pembersihan Sisa Makanan",
+                        "text": "Berikan cacing darah beku atau pelet khusus dengan menggerakkannya di ujung pinset di depan mulutnya, lalu bersihkan sisa makanan dalam 30 menit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa suhu air tinggi di musim panas berbahaya dan bagaimana mengelolanya?",
+                        "answer": "Fire-Bellied Newt berasal dari sungai dan kolam pegunungan yang sejuk. Suhu air melebihi 24°C menyebabkan stres panas, kehilangan nafsu makan, infeksi jamur fatal, dan kegagalan organ. Saat musim panas, gunakan kipas pendingin akuarium, letakkan akuarium di ruangan ber-AC, atau tempelkan kompres es di luar kaca untuk menjaga suhu 18–22°C."
+                    },
+                    {
+                        "question": "Bolehkah memegang Fire-Bellied Newt dengan tangan telanjang?",
+                        "answer": "Sangat tidak boleh. Suhu tubuh manusia (~36.5°C) dapat menyebabkan luka bakar termal pada kulit amfibi yang halus dan permeabel yang terbiasa di suhu ~20°C. Selain itu, kulit mereka mengeluarkan racun ringan. Selalu gunakan jaring lembut untuk memindahkannya, dan cuci tangan hingga bersih jika tidak sengaja bersentuhan."
+                    }
+                ]
+            }
+        }
+    }
+}

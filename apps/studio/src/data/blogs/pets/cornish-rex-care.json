@@ -1,0 +1,459 @@
+{
+    "cornish-rex-care": {
+        "pubDate": "2026-03-19",
+        "updatedDate": "2026-03-19",
+        "heroImage": "/images/blog/cornish_rex_care.webp",
+        "locales": {
+            "ko": {
+                "title": "코니시 렉스 피부 유분 관리와 체온 유지·고에너지 해소 3단계 루틴",
+                "description": "곱슬거리는 털과 요정 같은 외모를 가진 코니시 렉스 맞춤 케어. 속털만 있는 얇은 피모의 피부 유분 케어 및 목욕법, 추위에 약한 체질을 위한 보온 대책, 넘치는 에너지를 해소하는 캣타워 환경을 상세히 다룹니다.",
+                "authority": "Cat Fanciers' Association (CFA) 품종 표준 및 세계고양이의학회(ISFM) 임상 가이드라인",
+                "profile": {
+                    "breed": "코니시 렉스 (Cornish Rex)",
+                    "lifespan": "12 ~ 15년",
+                    "sleep_pattern": "12 ~ 16시간 (체온 유지를 위해 보호자 품이나 따뜻한 장소에서 수면)",
+                    "temperament": "장난기 많음, 에너제틱함, 영리함, 애정 깊음, 요정 같은 외모, 호기심 왕성"
+                },
+                "intro": "코니시 렉스는 단단하게 불꽃처럼 부드럽게 물결치는 곱슬 털, 커다란 귀, 그리고 슬림한 체형으로 '고양이계의 요정'이라 불리는 매력적인 품종입니다. 겉털(가드 헤어)이 없고 부드러운 속털(다운 헤어)로만 이루어져 있어 털 빠짐이 매우 적은 편이지만, 피부에서 분비되는 피지와 유분을 털이 충분히 흡수하지 못해 피부 주름, 발가락 사이, 귓속에 유분이 쉽게 쌓입니다. 또한 피하 지방이 적고 단모 특성상 추위에 대단히 취약하며, 성체가 되어도 영원한 아기 고양이처럼 에너지가 넘쳐 고공 점프와 활발한 놀이를 즐깁니다. 오늘 PetSelf에서는 코니시 렉스의 본능 시그널을 해석하고, 피부 유분 케어, 사계절 체온 보호, 고에너지 해소를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+                "whyTitle": "코니시 렉스의 본능 시그널: 어깨 기어오르기와 따뜻한 곳 둥지 틀기",
+                "whyDesc": "코니시 렉스는 호기심이 많고 친화력이 뛰어나 보호자의 몸이나 어깨 위로 자유롭게 기어올라가 애정을 표현하고 높은 시야를 확보하려 합니다. 또한 체온 조절 능력이 낮아 햇볕이 드는 따뜻한 바닥이나 모니터 위, 전기장판, 혹은 담요 속 깊숙이 파고들어 둥지를 트는 행동으로 체온을 보존합니다.",
+                "body_signals": [
+                    {
+                        "name": "어깨 기어오르기 및 골골송 (Shoulder Climbing & Purring)",
+                        "meaning": "보호자에 대한 깊은 신뢰와 호기심의 표시이자, 높은 곳에서 관찰하고 교감하려는 고에너지 고양이의 애정 신호입니다.",
+                        "response": "몸을 안정적으로 받쳐주고 다정하게 쓰다듬어 주며, 캣타워나 높은 마운트를 제공하여 욕구를 충족시켜 줍니다."
+                    },
+                    {
+                        "name": "몸을 웅크리고 옷/이불 파고들기 (Curling Up & Burrowing)",
+                        "meaning": "얇은 피모로 인해 추위를 느끼고 체온을 보존하려는 체온 유지 시그널입니다.",
+                        "response": "실내 온도를 높이고(22~24°C), 따뜻한 전용 옷을 입히거나 푹신한 온열 쿠션을 제공해 줍니다."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "아침: 피부 주름·귓속 유분 세정 닦기 및 사계절 보온 의류 착용",
+                        "text": "피부 유분이 쌓이기 쉬운 턱 밑, 귓속, 발가락 사이를 고양이 전용 무알코올 닦개로 가볍게 닦아주고, 계절에 맞춘 전용 보온 옷을 입힙니다."
+                    },
+                    {
+                        "name": "낮: 다층 구조 수직 캣타워 및 햇살 따뜻한 바스킹 존 점검",
+                        "text": "높은 점프력을 충족시키는 천장형 캣타워와 캣폴을 제공하고, 창가에 체온을 유지할 수 있는 따뜻한 쿠션과 해먹을 설치합니다."
+                    },
+                    {
+                        "name": "밤: 15분 이상 인터랙티브 우다다 놀이 및 미온수 스파 목욕(주기적)",
+                        "text": "체력을 소모시키는 활발한 낚싯대 놀이로 에너지를 발산시키고, 2~4주에 한 번씩 미온수로 유분 샴푸 목욕을 진행하여 피부 건강을 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "코니시 렉스는 털이 적으니 목욕을 안 시켜도 되나요?",
+                        "answer": "아닙니다. 오히려 속털만 있는 특성 때문에 피부에서 분비되는 천연 피지가 털에 흡수되지 못하고 피부 표면에 남아 끈적거립니다. 이를 방지하기 위해 2~4주에 한 번씩 저자극 약용/보습 샴푸로 미온수 목욕을 시켜 유분을 제거해야 피부염과 악취를 막을 수 있습니다."
+                    },
+                    {
+                        "question": "겨울철에 추위를 많이 타는데 실내 환경은 어떻게 유지해야 하나요?",
+                        "answer": "코니시 렉스는 단모와 적은 체지방으로 인해 섭씨 20도 이하만 되어도 감기나 체온 저하 위험이 큽니다. 실내 온도를 22~24°C로 유지하고, 부드러운 전용 니트나 실내복을 입히며, 온열 매트나 극세사 굴 안식처를 마련해 주어야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "Cornish Rex Skin Oil Management, Thermal Protection, and 3-Step High-Energy Care Routine",
+                "description": "Essential care for the pixie-like Cornish Rex. Master skin oil buildup management and bathing tips for their thin single coat, warm thermal protection strategies, and vertical cat tower setups for high energy.",
+                "authority": "Cat Fanciers' Association (CFA) Breed Standards and International Society of Feline Medicine (ISFM) Clinical Guidelines",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 Years",
+                    "sleep_pattern": "12 ~ 16 Hours (Polyphasic - Seeks Warm Nests & Human Lap Heat)",
+                    "temperament": "Playful, Energetic, Highly Intelligent, Affectionate, Pixie-like, Curious"
+                },
+                "intro": "The Cornish Rex is an enchanting breed often dubbed the 'pixie of the cat fancy' thanks to its tight, marcel-waved coat, large bat-like ears, and slender greyhound-like silhouette. Because they possess only a soft down undercoat with no guard hairs, shedding is minimal. However, without outer fur to absorb natural skin sebum, oils quickly accumulate on their skin fold, ears, and paw pads. Additionally, their minimal body fat makes them highly sensitive to cold temperatures, while their boundless, kitten-like energy drives them to perform high-flying acrobatic jumps. Today, PetSelf decodes Cornish Rex behavioral signals and presents a 3-step daily homecare routine for skin oil hygiene, thermal warmth, and high-energy vertical enrichment.",
+                "whyTitle": "Cornish Rex Instincts: Shoulder Riding and Warm Nest Burrowing",
+                "whyDesc": "Cornish Rexes are exceptionally social and athletic, frequently climbing onto their human's shoulders to express affection and gain a high vantage point. Due to their low cold tolerance, they naturally seek out heat sources—burrowing under blankets, nesting on warm laptops, or curling up in sunny spots to conserve body heat.",
+                "body_signals": [
+                    {
+                        "name": "Shoulder Riding & Loud Purring",
+                        "meaning": "A display of deep affection, curiosity, and high athletic drive to explore elevated perches alongside their human.",
+                        "response": "Support their body securely, pet them gently, and provide high cat trees and wall shelves to satisfy their vertical climbing drive."
+                    },
+                    {
+                        "name": "Tightly Curled Body & Blanket Burrowing",
+                        "meaning": "An indicator that the cat is feeling cold due to their thin coat, seeking to conserve core body temperature.",
+                        "response": "Increase ambient room temperature (22–24°C / 72–75°F), dress them in a soft cat sweater, and offer a heated bed."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morning: Skin Fold & Ear Oil Wipe-down & Thermal Apparel Fitting",
+                        "text": "Wipe sebum buildup from chin, ears, and between toes with alcohol-free pet wipes, and dress them in a comfortable cat sweater during cooler seasons."
+                    },
+                    {
+                        "name": "Afternoon: Multi-Level Cat Tree & Sunny Basking Nook Setup",
+                        "text": "Provide tall cat trees to accommodate their jumping ability, and place cozy padded hammocks in sunny window spots for warm resting."
+                    },
+                    {
+                        "name": "Evening: High-Energy Interactive Wand Play & Regular Warm Bathing",
+                        "text": "Engage in energetic feather wand play to burn off surplus energy, and conduct gentle warm baths every 2–4 weeks to cleanse skin oil."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Since Cornish Rexes have very short hair, do they still need regular baths?",
+                        "answer": "Yes, absolutely. Because they lack guard hairs, natural skin oils cannot be absorbed by fur and remain on the skin, becoming greasy and causing odor or seborrheic dermatitis. Bathing them every 2–4 weeks with a gentle, moisturizing cat shampoo keeps their skin healthy and clean."
+                    },
+                    {
+                        "question": "How should I keep my Cornish Rex warm during cold winter months?",
+                        "answer": "Cornish Rexes are very sensitive to drafty, cold air. Keep indoor temperatures between 22–24°C (72–75°F), provide soft fleece sweaters, and offer heated cat beds or micro-fleece burrow nests away from chilly windows."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "コーニッシュレックスの皮脂ケアと保温対策・高エネルギー解消3ステップルーティン",
+                "description": "ウェーブした被毛と妖精のような外見を持つコーニッシュレックスの専門ケア。アンダーコートのみの薄い被毛の皮脂・耳掃除法、寒がりな体質のための保温対策、豊富な運動量を解消するキャットタワー環境を詳しく解説します。",
+                "authority": "Cat Fanciers' Association (CFA) 犬種・猫種標準および世界猫医学会 (ISFM) 臨床ガイドライン",
+                "profile": {
+                    "breed": "コーニッシュレックス (Cornish Rex)",
+                    "lifespan": "12 〜 15年",
+                    "sleep_pattern": "12 〜 16時間 (体温維持のため飼い主の膝や暖か場所で睡眠)",
+                    "temperament": "陽気、エネルギッシュ、賢い、甘えん坊、妖精のような外見、好奇心旺盛"
+                },
+                "intro": "コーニッシュレックスは、炎のように美しいウェーブ状の短毛、大きなコウモリ耳、そしてスリムな体型で「猫界の妖精」と称される魅力的な猫種です。オーバーコート（上毛）がなく柔らかいアンダーコート（下毛）のみで構成されているため抜け毛はごくわずかですが、皮脂腺から分泌される油分を被毛が吸収しきれず、皮膚のシワや足指の間、耳の中に皮脂が溜まりやすい特徴があります。また皮下脂肪も少ないため非常に寒がりで、大人になっても子猫のようにエネルギッシュでアクロバティックなジャンプを好みます。今回はPetSelfが習性サインを解読し、皮脂ケア・保温・運動量解消の3ステップ日常ケアをご紹介します。",
+                "whyTitle": "コーニッシュレックスの習性サイン：肩乗り行動と暖かい場所での巣作り",
+                "whyDesc": "コーニッシュレックスは好奇心が強く親しみやすいため、飼い主の肩や背中に登って愛情を表現し高所を確保しようとします。また体温調節が得意ではないため、日当たりの良い場所やパソコンの上、布団の中に潜り込んで「巣作り」をし体温を保持する本能行動を見せます。",
+                "body_signals": [
+                    {
+                        "name": "肩乗りと大音量のゴロゴロ音 (Shoulder Climbing & Purring)",
+                        "meaning": "飼い主への深い信頼と好奇心の現れであり、高い場所から観察して交流したいエネルギッシュな愛情表現です。",
+                        "response": "体をしっかり支えて優しく撫でてあげ、高高さのあるキャットタワーやウォールシェルフを用意して欲求を満たします。"
+                    },
+                    {
+                        "name": "体を丸めて服や毛布に潜り込む (Curling Up & Burrowing)",
+                        "meaning": "薄い被毛のため寒さを感じ、体温を逃がさないようにしている保温シグナルです。",
+                        "response": "室温を上げ（22〜24℃）、暖かい服を着せたり、ふわふわの温熱クッションを提供してあげます。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "朝：皮膚のシワ・耳の皮脂拭き取りと防寒ウェア着用",
+                        "text": "皮脂が溜まりやすい顎の下、耳の中、指の間をペット用ノンアルコールシートで拭き、寒冷期は暖かい服を着せます。"
+                    },
+                    {
+                        "name": "昼：多層構造キャットタワーと日当たりの良いバスキングゾーン確認",
+                        "text": "優れた跳躍力を満たす天井突っ張り型キャットタワーを配置し、窓辺に体温を維持できる暖かいハンモックを設置します。"
+                    },
+                    {
+                        "name": "夜：15分間の運動遊びと定期的なぬるま湯スキンケア沐浴",
+                        "text": "じゃらしおもちゃで運動させてエネルギーを放散させ、2〜4週間に1回ぬるま湯で低刺激シャンプーを行い皮脂を洗い流します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "コーニッシュレックスは毛が少ないですがお風呂は不要ですか？",
+                        "answer": "いいえ、必要です。アンダーコートしかないため皮脂腺からの油分が毛に吸収されず、皮膚表面に溜まってベタつきや匂い、皮膚炎の原因になります。2〜4週間に1回、低刺激の保湿シャンプーでぬるま湯沐浴を行い皮脂を洗い流す必要があります。"
+                    },
+                    {
+                        "question": "冬場の寒さ対策はどのように行えばいいですか？",
+                        "answer": "被毛が薄く体脂肪が少ないため室温20℃以下で体調を崩すリスクが高まります。室温を22〜24℃に保ち、柔らかい洋服を着せ、ペット用ヒーターやドーム型ベッドを用意して防寒してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "柯尼斯卷毛猫皮肤油脂管理与保温防寒·高能量消耗3阶段日常指南",
+                "description": "针对拥有卷曲被毛与精灵般外貌的柯尼斯卷毛猫（Cornish Rex）专属护理。学习仅有单层绒毛的皮肤油脂护理与沐浴技巧、怕冷体质的保暖措施，以及消耗充沛精力的猫爬架环境布置。",
+                "authority": "国际猫协会 (TICA) / 纯种猫协会 (CFA) 标准与世界猫科医学会 (ISFM) 临床指南",
+                "profile": {
+                    "breed": "柯尼斯卷毛猫 (Cornish Rex)",
+                    "lifespan": "12 ~ 15年",
+                    "sleep_pattern": "12 ~ 16小时 (为维持体温喜欢睡在主人怀里或温暖处)",
+                    "temperament": "贪玩、精力充沛、聪明、极度亲人、精灵般外貌、好奇心旺盛"
+                },
+                "intro": "柯尼斯卷毛猫因其像火焰般紧密弯曲的短毛、巨大的蝙蝠耳以及纤细如灰狗般的体型，被称为“猫界小精灵”。由于它们没有外层护毛，仅有一层极为柔软的下层绒毛（Down Hair），掉毛量极少；但也正因如此，皮脂腺分泌的油脂无法被外毛吸收，极易在皮肤褶皱、脚趾间和耳朵内堆积。此外，较低的体脂和薄毛使它们极其怕冷，且即使成年也依然像小猫般精力充沛，热爱高空跳跃。今天 PetSelf 将解析柯尼斯卷毛猫的本能信号，并分享涵盖皮肤油脂清理、四季保暖与高能量释放的3阶段日常护理流程。",
+                "whyTitle": "柯尼斯卷毛猫的本能信号：爬肩膀与寻找温暖处筑巢",
+                "whyDesc": "柯尼斯卷毛猫极具社交性与运动天赋，频繁爬上主人的肩膀表达爱意并获取高处视野。同时，由于体温调节能力较弱，它们会本能地寻找暖气片、温热的键盘、日照区或钻入被窝深处筑巢，以保存身体热量。",
+                "body_signals": [
+                    {
+                        "name": "爬肩膀与大声打呼噜 (Shoulder Climbing & Purring)",
+                        "meaning": "对主人高度信任与好奇的表达，也是高能量猫咪渴望从高处观察并进行亲密互动的信号。",
+                        "response": "稳托其身体并给予温柔抚摸，同时为其提供高耸的猫爬架与墙面跳板以满足需求。"
+                    },
+                    {
+                        "name": "身体蜷缩与钻被窝 (Curling Up & Burrowing)",
+                        "meaning": "由于被毛稀薄感到寒冷，试图减少热量散失的体温保暖信号。",
+                        "response": "提高室内温度（22–24°C），为其穿上舒适的猫咪衣服，并提供发热猫窝。"
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "早上：皮肤褶皱与耳道油脂擦拭及保暖衣物穿戴",
+                        "text": "使用宠物无酒精湿巾擦拭下巴、耳道及脚趾间堆积的皮脂，并在寒冷季节穿上专用的保暖衣物。"
+                    },
+                    {
+                        "name": "中午：多层高耸猫爬架与阳光日光浴区布置",
+                        "text": "提供满足其惊人弹跳力的通天猫爬架，并在采光良好的窗边布置温暖的猫吊床供其保暖休息。"
+                    },
+                    {
+                        "name": "晚上：15分钟高强度逗猫棒互动与定期温水沐浴",
+                        "text": "使用逗猫棒进行剧烈游戏以消耗其充沛精力，并每2–4周进行一次温水低敏洗澡，清理皮肤油脂。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "柯尼斯卷毛猫毛很少，还需要定期洗澡吗？",
+                        "answer": "是的，非常需要。正因为缺乏外层护毛，皮脂腺分泌的天然油脂无法被毛发吸收，会留在皮肤表面变油并产生异味或导致皮脂腺炎。每2–4周使用温和保湿的猫咪专用洗发水进行温水沐浴，能保持其皮肤健康清洁。"
+                    },
+                    {
+                        "question": "冬季如何为柯尼斯卷毛猫做好室内保暖？",
+                        "answer": "柯尼斯卷毛猫对冷空气极其敏感，室内温度低于20°C易导致感冒。应将室温维持在22–24°C，为其穿上柔软的针织衫，并准备电热毯或绒布包围式猫窝。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Guía de control de grasa cutánea del Cornish Rex, protección térmica y rutina de 3 pasos para alta energía",
+                "description": "Cuidado esencial para el duendecillo Cornish Rex. Domine la limpieza de grasa cutánea y baños para su manto fino, estrategias de protección térmica y zonas verticales en rascadores para su gran energía.",
+                "authority": "Estándares de Raza de la Cat Fanciers' Association (CFA) y Directrices Clínicas de la Sociedad Internacional de Medicina Felina (ISFM)",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 años",
+                    "sleep_pattern": "12 ~ 16 horas (polifásico: busca nidos cálidos y el regazo humano)",
+                    "temperament": "Juguetón, enérgico, muy inteligente, afectuoso, aspecto de duende, curioso"
+                },
+                "intro": "El Cornish Rex es un gato fascinante apodado el 'duendecillo del mundo felino' por su pelaje rizado, sus grandes orejas de murciélago y su estilizada silueta. Al poseer únicamente un suave pelo de cobertura inferior (down hair) sin capa exterior, apenas suelta pelo. Sin embargo, al no haber pelaje exterior que absorba el sebo natural de la piel, la grasa se acumula rápidamente en los pliegues cutáneos, orejas y almohadillas. Además, su escasa grasa corporal los hace vulnerables al frío, mientras que su energía desbordante los impulsa a realizar saltos acrobáticos. Descubra la rutina de 3 pasos de PetSelf para su cuidado.",
+                "whyTitle": "Instintos del Cornish Rex: Trepar a los hombros y acurrucarse en zonas cálidas",
+                "whyDesc": "Los Cornish Rex son sumamente sociales y atléticos; con frecuencia trepan hasta los hombros de su tutor para mostrar afecto y tener una vista elevada. Debido a su baja tolerancia al frío, buscan constantemente fuentes de calor, acurrucándose bajo mantas o sobre mantas eléctricas para conservar la temperatura.",
+                "body_signals": [
+                    {
+                        "name": "Trepar a los hombros y ronroneo intenso (Shoulder Climbing & Purring)",
+                        "meaning": "Muestra de profunda confianza, curiosidad e impulso atlético para observar el entorno desde las alturas.",
+                        "response": "Sostenga su cuerpo con firmeza, acarícielo suavemente y proporcione rascadores altos para satisfacer su necesidad de altura."
+                    },
+                    {
+                        "name": "Cuerpo enroscado y acurrucamiento en mantas (Curling Up & Burrowing)",
+                        "meaning": "Señal de que el gato siente frío debido a su fina capa de pelo, intentando conservar el calor corporal.",
+                        "response": "Aumente la temperatura ambiente (22–24 °C), vístalo con un jersey suave para gatos y ofrézcale una cama térmica."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Mañana: Limpieza de grasa en pliegues y orejas y abrigo térmico",
+                        "text": "Limpie el exceso de sebo en la barbilla, orejas y entre los dedos con toallitas húmedas sin alcohol, y póngale un jersey en época de frío."
+                    },
+                    {
+                        "name": "Tarde: Rascador multinivel y zona de descanso al sol",
+                        "text": "Disponga rascadores altos para sus grandes saltos y coloque hamacas acolchadas en ventanas soleadas para que descanse caliente."
+                    },
+                    {
+                        "name": "Noche: Juego interactivo de alta energía y baño templado periódico",
+                        "text": "Realice sesiones intensas con cañas de pescar para quemar su energía sobrante y dele un baño templado cada 2–4 semanas para retirar el sebo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Si el Cornish Rex tiene el pelo muy corto, necesita baños regulares?",
+                        "answer": "Sí, absolutamente. Al carecer de capa exterior de pelo, la grasa cutánea natural no es absorbida y permanece en la piel, volviéndose grasienta y causando mal olor o dermatitis. Bañarlo cada 2–4 semanas con un champú hidratante suave mantiene su piel limpia y sana."
+                    },
+                    {
+                        "question": "¿Cómo mantener caliente a un Cornish Rex durante el invierno?",
+                        "answer": "Son muy sensibles a las corrientes de aire frío. Mantenga la temperatura interior entre 22–24 °C, póngale jerseys de felpa suaves y proporciónele camas térmicas o nidos tipo cueva lejos de las ventanas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Guide de gestion du sébum du Cornish Rex, protection thermique et routine en 3 étapes pour chat à haute énergie",
+                "description": "Soins essentiels pour le Cornish Rex aux allures de lutin. Maîtrisez le nettoyage du sébum et le bain pour son pelage fin, les stratégies de confort thermique et l'aménagement d'arbres à chat pour dépenser son énergie.",
+                "authority": "Normes de race de la Cat Fanciers' Association (CFA) et Directives Cliniques de la International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 ans",
+                    "sleep_pattern": "12 ~ 16 heures (polyphasique : recherche les nids douillets et les genoux humains)",
+                    "temperament": "Joueur, énergique, très intelligent, affectueux, allure de lutin, curieux"
+                },
+                "intro": "Le Cornish Rex est un chat envoûtant souvent qualifié de 'lutin du monde félin' grâce à son pelage ondulé en cranté, ses grandes oreilles de chauve-souris et sa silhouette élancée. Ne possédant qu'un duvet sous-jacent très doux sans poil de couverture, il ne perd presque pas de poils. Cependant, l'absence de pelage externe pour absorber le sébum naturel entraîne une accumulation d'huile sur la peau, dans les oreilles et entre les coussinets. De plus, sa faible graisse corporelle le rend très sensible au froid, tandis que son énergie débordante l'incite à faire des sauts acrobatiques. Découvrez la routine PetSelf en 3 étapes.",
+                "whyTitle": "Instincts du Cornish Rex : Escalade sur les épaules et enfouissement au chaud",
+                "whyDesc": "Le Cornish Rex est un chat extrêmement sociable et athlétique, grimpant fréquemment sur les épaules de ses humains pour exprimer son affection et observer les alentours. Frle face au froid, il cherche constamment les sources de chaleur, s'enfouissant sous les couvertures ou se blottissant près des radiateurs.",
+                "body_signals": [
+                    {
+                        "name": "Escalade sur les épaules et ronronnement fort (Shoulder Climbing & Purring)",
+                        "meaning": "Marque de confiance profonde, de curiosité et besoin athlétique d'explorer les hauteurs aux côtés de son humain.",
+                        "response": "Soutenez son corps en toute sécurité, caressez-le doucement et installez de grands arbres à chat pour répondre à son besoin de hauteur."
+                    },
+                    {
+                        "name": "Corps en boule et enfouissement sous les couvertures (Curling Up & Burrowing)",
+                        "meaning": "Signe que le chat a froid en raison de son pelage très fin, cherchant à conserver sa chaleur corporelle.",
+                        "response": "Augmentez la température ambiante (22–24 °C), habillez-le d'un pull doux pour chat et mettez à sa disposition un panier chauffant."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Matin : Nettoyage du sébum (plis et oreilles) et habillage thermique",
+                        "text": "Nettoyez l'excès de sébum sur le menton, les oreilles et entre les doigts avec des lingettes humides sans alcool, et mettez-lui un pull en période fraîche."
+                    },
+                    {
+                        "name": "Après-midi : Arbre à chat multiniveau et coin bain de soleil",
+                        "text": "Installez un grand arbre à chat pour ses grands sauts et placez des hamacs moelleux près des fenêtres ensoleillées pour des siestes bien chaudes."
+                    },
+                    {
+                        "name": "Soir : Jeu interactif intense et bain tiède périodique",
+                        "text": "Faites des séances de jeu soutenues avec des cannes à pêche pour brûler son trop-plein d'énergie et donnez-lui un bain tiède toutes les 2 à 4 semaines pour éliminer le sébum."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le Cornish Rex ayant les poils très courts, a-t-il vraiment besoin de bains ?",
+                        "answer": "Oui, absolument. En l'absence de poil de couverture, le sébum naturel n'est pas absorbé et reste sur la peau, devenant gras et causant des odeurs ou des dermatites. Un bain toutes les 2 à 4 semaines avec un shampooing doux réhydratant garde sa peau saine."
+                    },
+                    {
+                        "question": "Comment garder un Cornish Rex bien au chaud en hiver ?",
+                        "answer": "Il est très sensible aux courants d'air et au froid. Maintenez la température intérieure entre 22 et 24 °C, habillez-le avec des pulls en polaire doux et mettez à sa disposition des paniers chauffants ou des nids de type crique loin des fenêtres."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Cornish Rex Talg- & Hautpflege, Wärmeschutz und 3-Schritte-Routine für hochenergetische Katzen",
+                "description": "Essenzielle Pflege für die elfenhafte Cornish Rex. Meistern Sie die Talg- und Hautpflege bei dünnem Fell, Wärmeschutzstrategien gegen Kälte und vertikale Kletterlandschaften für viel Energie.",
+                "authority": "Rassestandards der Cat Fanciers' Association (CFA) und Klinische Richtlinien der International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 Jahre",
+                    "sleep_pattern": "12 ~ 16 Stunden (polyphasisch - sucht warme Nester & Menschenschöße)",
+                    "temperament": "Verspielt, energetisch, hochintelligent, anhänglich, elfenhaft, neugierig"
+                },
+                "intro": "Die Cornish Rex ist wegen ihres gelockten Fells, ihrer großen Fledermausohren und ihrer schlanken Statur als 'Elfe der Katzenwelt' bekannt. Da sie nur weiches Unterfell ohne Deckhaar besitzt, haart sie kaum. Ohne Deckhaar wird der natürliche Hauttalg jedoch nicht aufgesaugt und sammelt sich in Hautfalten, Ohren und den Zehenzwischenräumen. Zudem macht sie das geringe Körperfett sehr kälteempfindlich, während ihre enorme Energie zu akrobatischen Sprüngen antreibt. PetSelf präsentiert die 3-Schritte-Routine für Hauthygiene, Wärme und Bewegung.",
+                "whyTitle": "Instinkte der Cornish Rex: Schulterklettern und Einwühlen an warmen Orten",
+                "whyDesc": "Cornish Rex Katzen sind extrem sozial und sportlich. Sie klettern oft auf die Schultern ihrer Menschen, um Zuneigung zu zeigen und den Überblick zu behalten. Wegen ihrer Kälteempfindlichkeit suchen sie stets Wärmequellen – sie wühlen sich unter Decken, schlafen auf warmen Laptops oder liegen in der Sonne.",
+                "body_signals": [
+                    {
+                        "name": "Schulterklettern & lautes Schnurren (Shoulder Climbing & Purring)",
+                        "meaning": "Zeichen von tiefem Vertrauen, Neugier und dem sportlichen Drang, erhöhte Aussichtspunkte zu erkunden.",
+                        "response": "Stützen Sie den Körper sicher ab, streicheln Sie sanft und bieten Sie hohe Kratzbäume an, um den Drang nach Höhe zu stillen."
+                    },
+                    {
+                        "name": "Einrollen des Körpers & Einwühlen in Decken (Curling Up & Burrowing)",
+                        "meaning": "Signal, dass der Katze aufgrund des dünnen Fells kalt ist und sie Körperwärme speichern möchte.",
+                        "response": "Erhöhen Sie die Raumtemperatur (22–24 °C), ziehen Sie der Katze einen weichen Pullover an und bieten Sie ein Wärmebett an."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Morgen: Reinigung von Hautfalten & Ohrentalg sowie Wärmekleidung",
+                        "text": "Wischen Sie Talgansammlungen an Kinn, Ohren und Zehen mit alkoholfreien Pflegetüchern ab und ziehen Sie ihr in kühlen Zeiten einen Pullover an."
+                    },
+                    {
+                        "name": "Nachmittag: Mehrstöckiger Kratzbaum & sonniger Liegeplatz",
+                        "text": "Bieten Sie hohe Kratzbäume für ihre Sprungkraft und platzieren Sie weiche Hängematten an sonnigen Fenstern."
+                    },
+                    {
+                        "name": "Abend: Hochenergetisches Angelspiel & regelmäßiges warmes Bad",
+                        "text": "Powern Sie die Katze mit Spielangeln aus und baden Sie sie alle 2–4 Wochen mit lauwarmem Wasser und mildem Shampoo gegen Talg."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Braucht eine Cornish Rex trotz des kurzen Fells regelmäßige Bäder?",
+                        "answer": "Ja, unbedingt. Da Deckhaare fehlen, wird der Hauttalg nicht aufgenommen und bleibt auf der Haut liegen. Das führt zu fettiger Haut, Geruch oder Hautentzündungen. Ein Bad alle 2–4 Wochen mit einem feuchtigkeitsspendenden Katzenshampoo hält die Haut sauber."
+                    },
+                    {
+                        "question": "Wie hält man eine Cornish Rex im kalten Winter warm?",
+                        "answer": "Sie ist sehr empfindlich gegen Zugluft und Kälte. Halten Sie die Raumtemperatur bei 22–24 °C, nutzen Sie weiche Fleece-Pullover und bieten Sie beheizbare Katzenbetten oder Höhlen abseits von Fenstern an."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Guia de controlo de oleosidade da pele do Cornish Rex, proteção térmica e rotina de 3 passos para alta energia",
+                "description": "Cuidados essenciais para o gracioso Cornish Rex. Domine a limpeza de oleosidade da pele para a sua pelagem fina, estratégias de proteção térmica e torres de escalada para gastar energia.",
+                "authority": "Padrões de Raça da Cat Fanciers' Association (CFA) e Diretrizes Clínicas da International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 anos",
+                    "sleep_pattern": "12 ~ 16 horas (polifásico: procura ninhos quentes e o colo humano)",
+                    "temperament": "Brcalhão, enérgico, muito inteligente, afetuoso, aspeto de duende, curioso"
+                },
+                "intro": "O Cornish Rex é um gato fascinante apelidado de 'duende do mundo felino' devido à sua pelagem ondulada, grandes orelhas de morcego e silhueta esbelta. Por possuir apenas a subpelagem macia (down hair) sem pelo de cobertura, quase não larga pelo. No entanto, sem pelo externo para absorver o sebo natural, a oleosidade acumula-se rapidamente nas dobras da pele, orelhas e patas. Além disso, a pouca gordura corporal torna-o muito sensível ao frio, enquanto a sua energia inagotável o impele a saltos acrobáticos. Descubra a rotina de 3 passos do PetSelf.",
+                "whyTitle": "Instintos do Cornish Rex: Subir para os ombros e esconder-se em locais quentes",
+                "whyDesc": "Os Cornish Rex são extremamente sociais e atléticos, subindo frequentemente para os ombros dos tutores para demonstrar afeto e ter uma visão elevada. Devido à baixa tolerância ao frio, procuram constantemente fontes de calor, escondendo-se sob cobertores ou aconchegando-se em mantas térmicas.",
+                "body_signals": [
+                    {
+                        "name": "Subir para os ombros e ronronar forte (Shoulder Climbing & Purring)",
+                        "meaning": "Sinal de profunda confiança, curiosidade e impulso atlético para observar o ambiente do alto.",
+                        "response": "Apoie o seu corpo com firmeza, faça-lhe carinho e disponibilize arranhadores altos para satisfazer a sua necessidade de altura."
+                    },
+                    {
+                        "name": "Corpo enroscado e esconder-se em cobertores (Curling Up & Burrowing)",
+                        "meaning": "Sinal de que o gato está com frio devido à sua pelagem fina, tentando reter o calor corporal.",
+                        "response": "Aumente a temperatura ambiente (22–24 °C), vista-lhe uma camisola macia para gatos e ofereça uma cama térmica."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Manhã: Limpeza de oleosidade das dobras e orelhas e roupa térmica",
+                        "text": "Limpe o excesso de sebo no queixo, orelhas e entre os dedos com toalhetes sem álcool, e vista-lhe uma camisola em dias frios."
+                    },
+                    {
+                        "name": "Tarde: Arranhador multinível e zona de descanso ao sol",
+                        "text": "Disponibilize arranhadores altos para os seus grandes saltos e coloque redes acolchoadas em janelas ensolaradas."
+                    },
+                    {
+                        "name": "Noite: Brincadeira interativa de alta energia e banho morno periódico",
+                        "text": "Faça sessões intensas com varinhas para gastar a energia acumulada e dê um banho morno a cada 2–4 semanas para remover o sebo."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Se o Cornish Rex tem o pelo muito curto, precisa de banhos regulares?",
+                        "answer": "Sim, com certeza. Como não tem pelo de cobertura, o sebo natural da pele não é absorvido e permanece na superfície, ficando oleoso e causando maus odores ou dermatite. Tomar banho a cada 2–4 semanas com um champô hidratante suave mantém a sua pele limpa e saudável."
+                    },
+                    {
+                        "question": "Como manter um Cornish Rex quente durante o inverno?",
+                        "answer": "Eles são muito sensíveis ao ar frio e correntes de ar. Mantenha a temperatura interna entre 22–24 °C, vista-lhe camisolas de lã macia e ofereça camas térmicas ou nichos fechados longe de janelas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Panduan Pengelolaan Minyak Kulit Cornish Rex, Perlindungan Suhu, dan Rutinitas Care 3 Langkah Energi Tinggi",
+                "description": "Perawatan esensial untuk kucing mungil Cornish Rex. Kuasai pengelolaan penumpukan minyak kulit dan mandi untuk bulu tipisnya, strategi perlindungan suhu hangat, serta pembuatan tempat memanjat vertikal untuk energinya yang tinggi.",
+                "authority": "Standar Ras Cat Fanciers' Association (CFA) dan Panduan Klinis International Society of Feline Medicine (ISFM)",
+                "profile": {
+                    "breed": "Cornish Rex",
+                    "lifespan": "12 ~ 15 tahun",
+                    "sleep_pattern": "12 ~ 16 jam (polifasik - mencari tempat hangat & memangku pemilik)",
+                    "temperament": "Lincah, energik, sangat cerdas, penyayang, seperti peri, penasaran"
+                },
+                "intro": "Cornish Rex adalah ras kucing memikat yang sering dijuluki 'peri dunia kucing' berkat bulunya yang keriting bergelombang, telinga besar seperti kelelawar, dan tubuhnya yang ramping. Karena mereka hanya memiliki bulu halus bagian dalam (down hair) tanpa bulu pelindung luar, kerontokannya sangat minim. Namun, tanpa bulu luar untuk menyerap minyak alami kulit, minyak cepat menumpuk di lipatan kulit, telinga, dan sela-sela jari. Selain itu, lemak tubuhnya yang sedikit membuat mereka sangat sensitif terhadap suhu dingin, sementara energinya yang melimpah mendorong mereka melakukan lompatan akrobatik. PetSelf menyajikan rutinitas perawatan 3 langkahnya.",
+                "whyTitle": "Insting Cornish Rex: Memanjat Bahu dan Bersembunyi di Tempat Hangat",
+                "whyDesc": "Cornish Rex sangat sosial dan atletis, sering memanjat ke bahu pemiliknya untuk menunjukkan kasih sayang dan mendapatkan pandangan dari ketinggian. Karena toleransi dingin yang rendah, mereka secara naluriah mencari sumber panas—bersembunyi di bawah selimut, tidur di atas laptop hangat, atau meringkuk di area yang terkena sinar matahari.",
+                "body_signals": [
+                    {
+                        "name": "Memanjat Bahu & Dengkur Keras (Shoulder Climbing & Purring)",
+                        "meaning": "Tanda kepercayaan mendalam, rasa penasaran, dan dorongan atletis untuk menjelajahi tempat tinggi bersama pemiliknya.",
+                        "response": "Sangga tubuhnya dengan aman, elus dengan lembut, dan sediakan pohon kucing (cat tree) yang tinggi untuk memenuhi keinginannya memanjat."
+                    },
+                    {
+                        "name": "Meringkuk Rapat & Bersembunyi di Selimut (Curling Up & Burrowing)",
+                        "meaning": "Sinyal bahwa kucing merasa kedinginan akibat bulunya yang tipis, berusaha mempertahankan suhu tubuhnya.",
+                        "response": "Nyalakan pemanas/naikkan suhu ruangan (22–24°C), kenakan baju kucing yang lembut, dan sediakan tempat tidur hangat."
+                    }
+                ],
+                "daily_routine": [
+                    {
+                        "name": "Pagi: Pembersihan Minyak Lipatan Kulit/Telinga & Baju Hangat",
+                        "text": "Bersihkan penumpukan minyak di dagu, telinga, dan sela jari dengan tisu basah khusus hewan tanpa alkohol, serta kenakan baju hangat saat udara dingin."
+                    },
+                    {
+                        "name": "Siang: Pohon Kucing Bertingkat & Area Berjemur Hangat",
+                        "text": "Sediakan pohon kucing yang tinggi untuk mengakomodasi kemampuan melompatnya, dan tempatkan tempat tidur gantung di dekat jendela yang terkena sinar matahari."
+                    },
+                    {
+                        "name": "Malam: Permainan Interaktif Energi Tinggi & Mandi Air Hangat Rutin",
+                        "text": "Lakukan permainan tangkap mainan yang aktif untuk membakar sisa energi, serta mandikan dengan air hangat setiap 2–4 minggu untuk membersihkan minyak kulit."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Karena bulu Cornish Rex sangat pendek, apakah mereka masih perlu dimandikan secara rutin?",
+                        "answer": "Ya, sangat perlu. Karena tidak memiliki bulu pelindung luar, minyak alami kulit tidak terserap dan tetap menempel di kulit, menyebabkan kulit berminyak, bau, atau dermatitis. Memandikannya setiap 2–4 minggu dengan shampo kucing pelembap yang lembut menjaga kulitnya tetap bersih dan sehat."
+                    },
+                    {
+                        "question": "Bagaimana cara menjaga Cornish Rex tetap hangat selama musim dingin?",
+                        "answer": "Kucing ini sangat sensitif terhadap udara dingin. Jaga suhu ruangan antara 22–24°C, kenakan pakaian baju hangat yang lembut, dan sediakan tempat tidur khusus berpenghangat atau gua kain empuk jauh dari jendela dingin."
+                    }
+                ]
+            }
+        }
+    }
+}
