@@ -9,14 +9,16 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **구도 및 묘사**: 각 위인의 **시대적 배경**과 **습관이 수행되는 실제 상황**이 시각적으로 명확하게 드러나야 합니다.
 *   **인물/피사체 묘사 및 잘림 방지(Centered Subject & Safe Margins)**: 인물이나 동물 등 피사체가 이미지의 중심에 명확히 부각되어야 합니다. 블로그 목록 카드 썸네일이나 상세페이지 헤더 크롭 시 주인공이 잘리지 않도록, **캔버스 중앙(Eye-level Center)에 위치시키고 상하좌우에 충분한 여여백(Safe Margins)**을 확보해야 합니다. (프롬프트 작성 시 `perfectly centered subject, well-centered composition with ample safe margins` 명시)
 *   **배색(Color Palette)**: 사이트의 대표 테마인 어두운 인디고, 바이올렛, 슬레이트 그레이 등의 차분한 다크 모드 톤을 배경으로 깔고, 금색(Gold)이나 앰버(Amber) 컬러의 부드러운 하이라이트/조명 효과를 활용하여 고급스러운(Premium) 느낌을 연출합니다.
-*   **기타 규칙**: 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
+*   **논리적 및 물리적 무결성 원칙 (Logical & Physical Integrity)**: 이미지 내 손가락/팔이 3개 이상으로 변형되거나 거울 비침 시 2명의 인물로 합성되는 등의 해부학적 기형, 피사체 간의 공간 왜곡, 불자연스러운 그림자/빛 반사 등 **논리적으로나 물리적으로 이상이 발생하는 어색한 구도를 엄격히 금지**하고, 자연스럽고 완벽한 물리적 정합성을 유지하며 직사각형 꽉 찬 캔버스 구도를 채택합니다.
+*   **텍스트 표기 규칙 (위인 습관 전용)**: 위인 습관 카테고리의 대표 이미지에서는 씬의 개연성과 역사적 시대감을 살리기 위해 서재 책 표지, 초상화 액자 명판, 문서, 두루마리, 거리 간판 등에 고풍스럽고 세련된 텍스트 및 표기를 자연스럽게 표현하도록 권장합니다. (※ 반려동물/식재료 카테고리는 기존 No Text 원칙 유지)
+*   **인물 및 초상화 이목구비 정밀 묘사 원칙 (Distinct Facial Features)**: 화면 내 등장하는 위인 주인공 및 벽에 걸린 초상화/액자 속 인물은 눈, 코, 입 등 **이목구비(Facial Features)와 생생한 표정(Detailed expressive facial features)**이 뚜렷하고 정밀하게 묘사되어야 합니다. 눈·코·입이 비어있거나 달걀 귀신처럼 생략된 기형적 표현을 엄격히 금지합니다.
 
 ---
 
 ## 2. 이미지 생성 프롬프트 예시 (Prompt Templates)
 아래의 프롬프트 공식을 참고하여 작성합니다.
 
-> "A stylized modern vector illustration of [위인 이름] [습관 수행 상황]. [시대적/장소적 배경 묘사]. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Purple and indigo color scheme with gold accents]. Minimalist and premium design style for a blog post header. No text, high quality."
+> "A stylized modern vector illustration of [위인 이름] [습관 수행 상황]. [시대적/장소적 배경 묘사]. [조명 및 효과, 예: Warm ambient lighting, soft glowing lines]. [색상 조합, 예: Purple and indigo color scheme with gold accents]. Minimalist and premium design style for a blog post header. High quality."
 
 ### 3가지 성공 사례 레퍼런스
 1.  **알베르트 아인슈타인 (`einstein_violin_thinking.png`)**:
@@ -42,7 +44,7 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
     *   **고품질 감성 실사 스튜디오 사진 (High-Quality Realistic Studio Photography)**: 기존 일러스트 스타일 대신, 해당 반려동물 품종 고유의 생생한 털/갑각 디테일과 귀여운 표정, 실제 케어 환경을 고급스럽게 담아내는 감성 실사 사진으로 생성합니다.
     *   **배색 및 분위기(Color Palette)**: 어두운 딥 인디고, 다크 바이올렛, 슬레이트 그레이 등 차분하고 기품 있는 다크 톤 배경을 깔고, 부드러운 스튜디오 조명(Soft moody lighting) 및 금색/앰버 컬러의 하이라이트 효과를 조화시켜 웹사이트 UI 테마와의 일관성을 확보합니다.
     *   **중앙 피사체 및 잘림 방지 (Centered Subject & Safe Margins)**: 블로그 카드 및 헤더 썸네일 크롭 시 주인공이 잘리지 않도록 **피사체(주인공 반려동물)가 캔버스 중앙(Eye-level Center)에 위치하고 상하좌우에 충분한 여유 마진(Safe Margins)**을 확보해야 합니다. (프롬프트에 `perfectly centered subject with ample safe margins on top and sides, eye-level composition` 명시)
-    *   **기타 규칙**: 이미지 내 불필요한 텍스트(글자)는 절대 삽입하지 않습니다.
+    *   **논리적/물리적 무결성 및 무텍스트 원칙**: 동물 몸체/발가락 수 변형 등 해부학적·물리적 기형이 없어야 하며, 이미지 내 불필요한 텍스트(글자)는 절대 삽입하지 않습니다.
 *   **프롬프트 공식 예시**:
     > "A professional studio photograph of a [반려동물 품종 이름] [상황/장소 묘사, 예: resting comfortably on a luxury dark velvet cushion / inside a crystal clear aquarium]. Perfectly centered subject with ample safe margins on top and sides, eye-level macro composition. Soft moody studio lighting with subtle warm amber highlights, deep dark indigo and slate grey background depth. High detail fur/shell texture, realistic and adorable expression. Premium magazine quality, no text, high quality."
 
@@ -53,7 +55,7 @@ BuildSelf 앱의 위인 습관 관련 블로그 포스트 헤더 이미지(`hero
 *   **구도 및 묘사**: 각 식재료가 신선하게 보관되고 있는 실제 행동 상태(예: 비닐 랩으로 밀봉된 모습, 키친타월에 싸인 모습, 전용 수납 용기나 바구니에 정리된 모습 등)가 중심 피사체로 선명하고 위생적으로 드러나야 합니다.
 *   **배색(Color Palette)**: 화이트, 원목, 연한 베이지 등 내추럴하고 밝은 색상의 주방 환경을 기본 톤으로 활용하며, 부드러운 자연광(Soft natural window light)과 아웃포커싱(Shallow depth of field)을 조화시켜 프리미엄 푸드 매거진 같은 느낌을 연출합니다.
 *   **용기 및 병류 무인쇄/라벨 제거 원칙 (Clean Unlabeled Container Rule)**: 오일, 소스, 유제품, 시럽 등 병(Bottle)이나 유리 용기(Jar)에 담긴 모습으로 식재료를 연출할 경우, 용기 표면에 어색한 백지 종이 스티커나 라벨(Blank Paper Label)을 그리는 것을 **엄격히 금지**합니다. 라벨 종이를 완전히 없앤 **매끄럽고 맑은 투명 스튜디오 유리 용기(Clean Unlabeled Glass Bottle/Jar)** 본연의 질감과 내용물의 투광 색감을 강조해야 하며, 프롬프트에 `completely clean unlabeled smooth glass surface, no paper labels, no stickers`를 명시합니다.
-*   **기타 규칙**: 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
+*   **논리적/물리적 무결성 및 무텍스트 원칙**: 식재료 형태 왜곡이나 그림자/빛의 물리적 왜곡이 없어야 하며, 이미지 내에 어떠한 불필요한 텍스트(글자)도 삽입하지 않습니다.
 *   **프롬프트 공식**:
     > "A high-quality realistic photo of [식재료 상태 묘사] on a clean kitchen countertop. In the background, a bright, airy modern kitchen with soft natural window light, shallow depth of field. Professional food styling, clean and hygienic presentation. No text, high quality."
 
