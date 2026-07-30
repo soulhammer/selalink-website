@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Exotic Shorthair Behavioral Signals and 3-Step Daily Routine for Brachycephalic Airway Syndrome (BAS) and Polycystic Kidney Disease (PKD) Care"
-description: "Care guide for the adorable Exotic Shorthair. Interpret bunting and purring signals, manage tear stains, airflow, and prevent PKD in 3 steps."
+title: "Exotic Shorthair Behavioral Signals and 3-Step Daily Routine for Brachycephalic Airway Syndrome (BAS) and Polycystic Kidney Disease (PKDef) Care"
+description: "Care guide for the adorable Exotic Shorthair. Interpret bunting and purring signals, manage tear stains, airflow, and prevent PKDef in 3 steps."
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
@@ -17,7 +17,7 @@ steps:
 
 * Lying Relaxed with Half-Closed Eyes while Purring Softly (Purring): Indicates complete emotional comfort, contentment, and a stress-free state in their current surroundings. (Maintain a quiet, warm environment so they can continue to rest peacefully without sudden disruptions.)"
   - name: "Customized 3-Step Home Care Routine for Exotic Shorthair"
-    text: "* STEP 1. Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKD Prevention: Wipe facial folds and tear overflow gently with a damp wipe due to short tear ducts, and feed wet food to ensure high hydration for kidney health.
+    text: "* STEP 1. Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKDef Prevention: Wipe facial folds and tear overflow gently with a damp wipe due to short tear ducts, and feed wet food to ensure high hydration for kidney health.
 
 * STEP 2. Afternoon: Climate Control (Airway Protection) & Low-Impact Weight Management Play: Keep indoor temperature cool (22°C–24°C) as flat-faced breeds overheat easily, engaging in gentle rod toy play to prevent obesity.
 
@@ -25,11 +25,11 @@ steps:
 faqs:
   - question: "Why does my Exotic Shorthair snore or breathe noisily?"
     answer: "Exotic Shorthairs have a shortened facial structure with compressed nasal passages (Brachycephalic Airway Syndrome, BAS), causing mild snorting or snoring naturally. However, if you observe open-mouth breathing, bluish gums, or severe wheezing, consult a veterinarian immediately."
-  - question: "How should Polycystic Kidney Disease (PKD) be managed and prevented?"
-    answer: "Polycystic Kidney Disease (PKD) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKD DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food."
+  - question: "How should Polycystic Kidney Disease (PKDef) be managed and prevented?"
+    answer: "Polycystic Kidney Disease (PKDef) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKDef DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food."
 ---
 
-Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished worldwide for its flat face, round eyes, and quiet, sweet personality. Combining the placid nature of the Persian with the playful friendliness of the American Shorthair, they are wonderful companions. However, their brachycephalic (flat-faced) facial structure makes them highly susceptible to Brachycephalic Airway Syndrome (BAS) and tear duct overflow. Additionally, they carry a genetic risk for Polycystic Kidney Disease (PKD). In this guide, presents a 3-step daily care routine to decode your Exotic Shorthair's body language and protect their health.
+Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished worldwide for its flat face, round eyes, and quiet, sweet personality. Combining the placid nature of the Persian with the playful friendliness of the American Shorthair, they are wonderful companions. However, their brachycephalic (flat-faced) facial structure makes them highly susceptible to Brachycephalic Airway Syndrome (BAS) and tear duct overflow. Additionally, they carry a genetic risk for Polycystic Kidney Disease (PKDef). In this guide, presents a 3-step daily care routine to decode your Exotic Shorthair's body language and protect their health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -128,7 +128,7 @@ Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKD Prevention</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKDef Prevention</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Wipe facial folds and tear overflow gently with a damp wipe due to short tear ducts, and feed wet food to ensure high hydration for kidney health.
@@ -176,11 +176,11 @@ Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">How should Polycystic Kidney Disease (PKD) be managed and prevented?</span>
+      <span class="pr-4">How should Polycystic Kidney Disease (PKDef) be managed and prevented?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Polycystic Kidney Disease (PKD) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKD DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food.
+      Polycystic Kidney Disease (PKDef) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKDef DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food.
     </p>
   </details>
 </div>

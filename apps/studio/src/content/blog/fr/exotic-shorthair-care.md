@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Signaux comportementaux de l'Exotic Shorthair et routine quotidienne en 3 étapes pour le syndrome brachycéphale (BAS) et la polykystose rénale (PKD)"
-description: "Guide de soins pour l'adorable Exotic Shorthair. Décryptez le frottement facial et le ronronnement, nettoyez les plis du visage, préservez sa respiration et prévenez la PKD en 3 étapes."
+title: "Signaux comportementaux de l'Exotic Shorthair et routine quotidienne en 3 étapes pour le syndrome brachycéphale (BAS) et la polykystose rénale (PKDef)"
+description: "Guide de soins pour l'adorable Exotic Shorthair. Décryptez le frottement facial et le ronronnement, nettoyez les plis du visage, préservez sa respiration et prévenez la PKDef en 3 étapes."
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
@@ -17,7 +17,7 @@ steps:
 
 * Être allongé les yeux mi-clos en ronronnant doucement (Purring): Signe d'un bien-être parfait, d'un sentiment de sécurité et d'une absence totale de stress. (Conservez une atmosphère calme et chaleureuse pour qu'il puisse continuer à se reposer paisiblement.)"
   - name: "Routine quotidienne en 3 étapes pour le soin du Exotic Shorthair"
-    text: "* STEP 1. Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKD: Nettoyez délicatement les plis du visage sujets aux traces de larmes, et donnez de la nourriture humide pour favoriser l'hydratation rénale.
+    text: "* STEP 1. Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKDef: Nettoyez délicatement les plis du visage sujets aux traces de larmes, et donnez de la nourriture humide pour favoriser l'hydratation rénale.
 
 * STEP 2. Après-midi : Contrôle de la température (protection respiratoire) & jeu doux: Maintenez la pièce fraîche (22°C–24°C) car les races à nez plat supportent mal la chaleur, et stimulez-le doucement avec un plumet.
 
@@ -25,11 +25,11 @@ steps:
 faqs:
   - question: "Pourquoi mon Exotic Shorthair ronfle-t-il ou a-t-il une respiration bruyante ?"
     answer: "L'Exotic Shorthair possède des canaux nasaux raccourcis (Syndrome Respiratoire Brachycéphale, BAS), ce qui provoque naturellement de légers ronflements. Cependant, si votre chat respire la bouche ouverte, a les gencives bleutées ou siffle fortement en respirant, consultez immédiatement un vétérinaire."
-  - question: "Comment prévenir et gérer la Polykystose Rénale (PKD) ?"
-    answer: "La Polykystose Rénale (PKD) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKD) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée."
+  - question: "Comment prévenir et gérer la Polykystose Rénale (PKDef) ?"
+    answer: "La Polykystose Rénale (PKDef) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKDef) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée."
 ---
 
-Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exotic Shorthair est apprécié dans le monde entier pour sa tête plate, ses grands yeux ronds et sa douceur. Il combine le calme du Persan et la gentillesse de l'American Shorthair. Toutefois, sa morphologie brachycéphale le rend sensible au Syndrome Respiratoire des Races Brachycéphales (BAS) et aux écoulements lacrymaux. Il présente aussi un risque génétique de Polykystose Rénale (PKD). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.
+Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exotic Shorthair est apprécié dans le monde entier pour sa tête plate, ses grands yeux ronds et sa douceur. Il combine le calme du Persan et la gentillesse de l'American Shorthair. Toutefois, sa morphologie brachycéphale le rend sensible au Syndrome Respiratoire des Races Brachycéphales (BAS) et aux écoulements lacrymaux. Il présente aussi un risque génétique de Polykystose Rénale (PKDef). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -128,7 +128,7 @@ Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exot
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKD</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKDef</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Nettoyez délicatement les plis du visage sujets aux traces de larmes, et donnez de la nourriture humide pour favoriser l'hydratation rénale.
@@ -176,11 +176,11 @@ Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exot
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Comment prévenir et gérer la Polykystose Rénale (PKD) ?</span>
+      <span class="pr-4">Comment prévenir et gérer la Polykystose Rénale (PKDef) ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      La Polykystose Rénale (PKD) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKD) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée.
+      La Polykystose Rénale (PKDef) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKDef) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée.
     </p>
   </details>
 </div>

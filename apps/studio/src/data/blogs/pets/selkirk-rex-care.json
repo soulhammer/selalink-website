@@ -4,8 +4,8 @@
         "updatedDate": "2026-06-08",
         "locales": {
             "ko": {
-                "title": "셀커크 렉스 곱슬털 케어와 귀 세정·PKD 관리: 모질 유지와 건강 보호 3단계 데일리 루틴",
-                "description": "양털 같은 곱슬털을 가진 셀커크 렉스 케어법. 털 엉킴 방지, 귀지 관리, 다낭성 신장질환(PKD) 예방 3단계 루틴을 다룹니다.",
+                "title": "셀커크 렉스 곱슬털 케어와 귀 세정·PKDef 관리: 모질 유지와 건강 보호 3단계 데일리 루틴",
+                "description": "양털 같은 곱슬털을 가진 셀커크 렉스 케어법. 털 엉킴 방지, 귀지 관리, 다낭성 신장질환(PKDef) 예방 3단계 루틴을 다룹니다.",
                 "authority": "세계고양이소유자협회(CFA) 품종 표준 및 국제고양이협회(TICA) 임상 가이드라인",
                 "profile": {
                     "breed": "셀커크 렉스 (Selkirk Rex)",
@@ -13,7 +13,7 @@
                     "sleep_pattern": "12 ~ 16시간 (성묘의 수면 및 휴식 수면)",
                     "temperament": "느긋함, 다정함, 참을성 있음, 활발함, 애교 많음"
                 },
-                "intro": "'양의 탈을 쓴 고양이'로 불리는 셀커크 렉스는 풍성하고 부드러운 곱슬털과 순한 성격으로 사랑받는 묘종입니다. 다른 렉스 종과 달리 우성 유전자로 형성된 느슨하고 풍성한 곱슬털을 가지고 있어 털 엉킴과 헤어볼 발생 위험이 높으며, 귀 안쪽 털로 인해 귓속 분비물(귀지)이 쌓이기 쉽습니다. 또한 페르시안 혈통의 영향을 받아 다낭성 신장질환(PKD)에 유의해야 합니다. 이번 가이드에서는 셀커크 렉스의 모질 및 신체 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.",
+                "intro": "'양의 탈을 쓴 고양이'로 불리는 셀커크 렉스는 풍성하고 부드러운 곱슬털과 순한 성격으로 사랑받는 묘종입니다. 다른 렉스 종과 달리 우성 유전자로 형성된 느슨하고 풍성한 곱슬털을 가지고 있어 털 엉킴과 헤어볼 발생 위험이 높으며, 귀 안쪽 털로 인해 귓속 분비물(귀지)이 쌓이기 쉽습니다. 또한 페르시안 혈통의 영향을 받아 다낭성 신장질환(PKDef)에 유의해야 합니다. 이번 가이드에서는 셀커크 렉스의 모질 및 신체 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.",
                 "whyTitle": "셀커크 렉스의 신체 시그널: 잦은 과도한 털 핥기(헤어볼 신호)와 귀 터는 행동",
                 "whyDesc": "셀커크 렉스가 **'음식을 토하려 하거나 억질하는 듯한 잦은 헤어볼 구토 신호'**를 보인다면 빗질되지 않은 죽은 곱슬 털을 과도하게 삼켰다는 뜻입니다. 또한 **'머리를 자주 흔들거나 귀를 발로 긁는 모습'**은 귓속 분비물 과다 적체나 외이염 발생을 나타냅니다.",
                 "body_signals": [
@@ -35,7 +35,7 @@
                     },
                     {
                         "name": "낮: 신장 건강을 위한 다수분 자극 & 적정 실내 환경",
-                        "text": "다낭성 신장질환(PKD) 예방을 위해 집안 곳곳에 수분 공급용 음수대를 배치하고 적정 온도(20~24℃)를 유지합니다."
+                        "text": "다낭성 신장질환(PKDef) 예방을 위해 집안 곳곳에 수분 공급용 음수대를 배치하고 적정 온도(20~24℃)를 유지합니다."
                     },
                     {
                         "name": "저녁: 잇몸 및 눈가 점검 & 헤어볼 케어 영양제 급여",
@@ -48,14 +48,14 @@
                         "answer": "너무 자주 촘촘한 빗으로 빗으면 특유의 아름다운 곱슬 컬이 풀리거나 피부에 자극을 줄 수 있습니다. 주 2~3회 간격으로 듬성한 빗(와이드 와이어 빗)을 사용해 죽은 털만 부드럽게 제거해 주는 것이 가장 좋습니다."
                     },
                     {
-                        "question": "다낭성 신장질환(PKD)이란 무엇이며 어떻게 예방하나요?",
-                        "answer": "신장에 물혹(낭종)이 생겨 신장 기능을 떨어뜨리는 유전 질환입니다. 입양 전 부모묘의 PKD 음성 유전자 검사 여부를 확인하고, 평소 신선한 물을 충분히 마시게 하며 정기적인 초음파 및 혈액 검사를 받는 것이 중요합니다."
+                        "question": "다낭성 신장질환(PKDef)이란 무엇이며 어떻게 예방하나요?",
+                        "answer": "신장에 물혹(낭종)이 생겨 신장 기능을 떨어뜨리는 유전 질환입니다. 입양 전 부모묘의 PKDef 음성 유전자 검사 여부를 확인하고, 평소 신선한 물을 충분히 마시게 하며 정기적인 초음파 및 혈액 검사를 받는 것이 중요합니다."
                     }
                 ]
             },
             "en": {
-                "title": "Selkirk Rex Curly Coat & Ear Wax Care: A 3-Step Daily Routine for Hairball Prevention and PKD Management",
-                "description": "Essential care guide for the plush, curly-coated Selkirk Rex. Learn how to manage loose curls, prevent ear infections, and reduce risks of Polycystic Kidney Disease (PKD).",
+                "title": "Selkirk Rex Curly Coat & Ear Wax Care: A 3-Step Daily Routine for Hairball Prevention and PKDef Management",
+                "description": "Essential care guide for the plush, curly-coated Selkirk Rex. Learn how to manage loose curls, prevent ear infections, and reduce risks of Polycystic Kidney Disease (PKDef).",
                 "authority": "Cat Fanciers' Association (CFA) Breed Standard and The International Cat Association (TICA) Clinical Guidelines",
                 "profile": {
                     "breed": "Selkirk Rex",
@@ -63,7 +63,7 @@
                     "sleep_pattern": "12 ~ 16 Hours (Adult Cat Sleep Pattern)",
                     "temperament": "Patient, Affectionate, Relaxed, Playful, Cuddly"
                 },
-                "intro": "Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its plush, sheep-like curly fur and patient, affectionate personality. Unlike other Rex breeds, their dominant curly coat gene creates thick, loose waves that can trap dead hair, increasing the risk of hairballs and matting. Furthermore, curling ear hair can trap sebum, requiring regular ear hygiene, while their Persian heritage requires monitoring for Polycystic Kidney Disease (PKD). In this guide, details a 3-step daily routine for optimal coat and kidney health.",
+                "intro": "Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its plush, sheep-like curly fur and patient, affectionate personality. Unlike other Rex breeds, their dominant curly coat gene creates thick, loose waves that can trap dead hair, increasing the risk of hairballs and matting. Furthermore, curling ear hair can trap sebum, requiring regular ear hygiene, while their Persian heritage requires monitoring for Polycystic Kidney Disease (PKDef). In this guide, details a 3-step daily routine for optimal coat and kidney health.",
                 "whyTitle": "Selkirk Rex Physical Signals: Retching (Hairball Distress) and Head Shaking",
                 "whyDesc": "If a Selkirk Rex displays **'frequent dry retching or coughing up hairballs'**, it indicates excessive ingestion of unbrushed dead curly fur during grooming. On the other hand, **'frequent head shaking or ear scratching'** points toward excess earwax buildup or ear canal irritation.",
                 "body_signals": [
@@ -85,7 +85,7 @@
                     },
                     {
                         "name": "Afternoon: Hydration Station Management & Indoor Climate Control",
-                        "text": "Encourage fluid intake to protect kidney health against PKD by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F)."
+                        "text": "Encourage fluid intake to protect kidney health against PKDef by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F)."
                     },
                     {
                         "name": "Evening: Facial Fold Wipe & Hairball Paste Administration",
@@ -98,14 +98,14 @@
                         "answer": "Avoid daily brushing with fine-toothed brushes, as this can break the curls and irritate skin. Brushing 2 to 3 times a week with a wide-toothed comb or wire pin brush is ideal to remove dead hair while preserving their lush wave pattern."
                     },
                     {
-                        "question": "What is Polycystic Kidney Disease (PKD) and how is it managed?",
-                        "answer": "PKD is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKD Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels."
+                        "question": "What is Polycystic Kidney Disease (PKDef) and how is it managed?",
+                        "answer": "PKDef is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKDef Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels."
                     }
                 ]
             },
             "ja": {
-                "title": "セルカークレックスの巻き毛＆耳掃除ケア：毛玉予防とPKD対策のための3ステップ日常ルーティン",
-                "description": "羊のような愛くるしい巻き毛を持つセルカークレックス。被毛の絡まり防止、耳垢ケア、多発性嚢胞腎（PKD）予防を網羅した3ステップケアを解説します。",
+                "title": "セルカークレックスの巻き毛＆耳掃除ケア：毛玉予防とPKDef対策のための3ステップ日常ルーティン",
+                "description": "羊のような愛くるしい巻き毛を持つセルカークレックス。被毛の絡まり防止、耳垢ケア、多発性嚢胞腎（PKDef）予防を網羅した3ステップケアを解説します。",
                 "authority": "CFA（愛猫協会）猫種標準およびTICA（国際猫協会）臨床ガイドライン",
                 "profile": {
                     "breed": "セルカークレックス (Selkirk Rex)",
@@ -113,7 +113,7 @@
                     "sleep_pattern": "12 〜 16時間 (成猫の睡眠および休息)",
                     "temperament": "穏やか、甘えん坊、忍耐強い、活発、人懐っこい"
                 },
-                "intro": "「羊の皮を着た猫」と称されるセルカークレックスは、豊かで柔らかいカールした被毛と温厚な性格で親しまれています。ほかのレックス種と異なり優性遺伝によるボリュームあるカール毛を持つため、抜け毛が内部に溜まりやすく毛玉（ヘアボール）ができやすい特徴があります。また耳の中の巻き毛により耳垢が溜まりやすく、ペルシャの血統を受け継ぐため多発性嚢胞腎（PKD）への配慮が必要です。今回はセルカークレックスの健康を守る3ステップ日常ルーティンをご紹介します。",
+                "intro": "「羊の皮を着た猫」と称されるセルカークレックスは、豊かで柔らかいカールした被毛と温厚な性格で親しまれています。ほかのレックス種と異なり優性遺伝によるボリュームあるカール毛を持つため、抜け毛が内部に溜まりやすく毛玉（ヘアボール）ができやすい特徴があります。また耳の中の巻き毛により耳垢が溜まりやすく、ペルシャの血統を受け継ぐため多発性嚢胞腎（PKDef）への配慮が必要です。今回はセルカークレックスの健康を守る3ステップ日常ルーティンをご紹介します。",
                 "whyTitle": "セルカークレックスのボディランゲージ：頻繁な吐き戻し（毛玉サイン）と耳を振る動作",
                 "whyDesc": "セルカークレックスが**「えづくような動作や頻繁な毛玉吐き」**を見せる場合、抜け落ちたカール毛を グルーミングで大量に飲み込んでしまったサインです。一方**「頭を頻繁に振ったり耳を足で掻く」**行動は、耳道内の皮脂や耳垢の過剰蓄積を示しています。",
                 "body_signals": [
@@ -134,7 +134,7 @@
                         "text": "耳内の状態を確認し、カールの美しさを損なわないよう目の粗いコームや手ぐしで抜け毛を優しく取り除きます。"
                     },
                     {
-                        "name": "昼：PKD予防のための十分な水分補給環境と室温維持",
+                        "name": "昼：PKDef予防のための十分な水分補給環境と室温維持",
                         "text": "腎臓の健康を守るため部屋の複数場所に給水器を設置し、快適な室温（20〜24℃）を保ちます。"
                     },
                     {
@@ -148,14 +148,14 @@
                         "answer": "目の細かいブラシで毎日ブラッシングすると美しいカールが伸びてしまいます。週2〜3回、目の粗いコーム（ピンブラシ）を使って抜け毛だけを優しく取り除くのが理想的です。"
                     },
                     {
-                        "question": "多発性嚢胞腎（PKD）とはどのような遺伝性の病気ですか？",
-                        "answer": "腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKD Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。"
+                        "question": "多発性嚢胞腎（PKDef）とはどのような遺伝性の病気ですか？",
+                        "answer": "腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKDef Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。"
                     }
                 ]
             },
             "zh": {
-                "title": "赛尔凯克卷毛猫被毛护理与耳道清洁·PKD管理：维持卷毛与健康保护的日常3步护理流程",
-                "description": "针对拥有被称为“披着羊皮的猫”的赛尔凯克卷毛猫护理。介绍防止毛发打结、耳垢清理及多囊肾病（PKD）预防的3步日常护理流程。",
+                "title": "赛尔凯克卷毛猫被毛护理与耳道清洁·PKDef管理：维持卷毛与健康保护的日常3步护理流程",
+                "description": "针对拥有被称为“披着羊皮的猫”的赛尔凯克卷毛猫护理。介绍防止毛发打结、耳垢清理及多囊肾病（PKDef）预防的3步日常护理流程。",
                 "authority": "国际爱猫联合会 (CFA) 猫种标准与国际猫协会 (TICA) 临床护理指南",
                 "profile": {
                     "breed": "赛尔凯克卷毛猫 (Selkirk Rex)",
@@ -163,7 +163,7 @@
                     "sleep_pattern": "12 ~ 16小时 (成猫睡眠与休息)",
                     "temperament": "温和、粘人、耐性强、活泼、亲切"
                 },
-                "intro": "赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKD）。本指南为您解析其肢体警示信号，并提供3步日常护理流程。",
+                "intro": "赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKDef）。本指南为您解析其肢体警示信号，并提供3步日常护理流程。",
                 "whyTitle": "赛尔凯克卷毛猫的肢体语言：频繁干呕（毛球症）与甩头抓耳",
                 "whyDesc": "当赛尔凯克卷毛猫出现 **“频繁干呕或吐毛球”** 时，意味着其在舔毛时吞下了大量未梳理掉的脱落卷毛。而 **“频繁甩头或用脚抓耳”** 则提示耳道内耳垢堆积过多或存在炎症。",
                 "body_signals": [
@@ -184,7 +184,7 @@
                         "text": "检查耳道分泌物，使用宽齿梳或手指顺着卷毛纹理轻轻理顺，保持卷度自然。"
                     },
                     {
-                        "name": "中午：增加饮水量以预防PKD与适宜室温",
+                        "name": "中午：增加饮水量以预防PKDef与适宜室温",
                         "text": "在家里多处放置饮水机以保护肾脏健康，并维持 20–24°C 的舒适室温。"
                     },
                     {
@@ -198,14 +198,14 @@
                         "answer": "不需要。频繁使用密齿梳会破坏其独特的卷曲纹理并刺激皮肤。建议每周 2–3 次使用宽齿梳轻柔清除脱落毛发即可。"
                     },
                     {
-                        "question": "什么是多囊肾病（PKD）？如何预防？",
-                        "answer": "这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKD 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。"
+                        "question": "什么是多囊肾病（PKDef）？如何预防？",
+                        "answer": "这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKDef 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。"
                     }
                 ]
             },
             "es": {
-                "title": "Cuidado del pelaje rizado, oídos y PKD del Selkirk Rex: Rutina diaria de 3 pasos para prevenir bolas de pelo y proteger la salud",
-                "description": "Guía de cuidado para el Selkirk Rex y su pelaje suave estilo oveja. Aprenda a evitar nudos, controlar el cerumen y reducir riesgos de Enfermedad Poliquística Renal (PKD).",
+                "title": "Cuidado del pelaje rizado, oídos y PKDef del Selkirk Rex: Rutina diaria de 3 pasos para prevenir bolas de pelo y proteger la salud",
+                "description": "Guía de cuidado para el Selkirk Rex y su pelaje suave estilo oveja. Aprenda a evitar nudos, controlar el cerumen y reducir riesgos de Enfermedad Poliquística Renal (PKDef).",
                 "authority": "Estándar de la Cat Fanciers' Association (CFA) y Directrices Clínicas de The International Cat Association (TICA)",
                 "profile": {
                     "breed": "Selkirk Rex",
@@ -213,7 +213,7 @@
                     "sleep_pattern": "12 ~ 16 horas (patrón de descanso de gato adulto)",
                     "temperament": "Paciente, Afectuoso, Relajado, Juguetón, Cariñoso"
                 },
-                "intro": "Llamado a menudo 'el gato con piel de oveja', el Selkirk Rex es famoso por su pelaje rizado espeso y su carácter paciente y dulce. A diferencia de otros gatos Rex, su gen dominante crea rizos densos que retienen pelo muerto, aumentando el riesgo de bolas de pelo. Además, el pelo rizado dentro de sus orejas acumula cerumen y su herencia persa requiere vigilancia contra la Enfermedad Poliquística Renal (PKD). En esta guía, presenta una rutina de 3 pasos para su bienestar.",
+                "intro": "Llamado a menudo 'el gato con piel de oveja', el Selkirk Rex es famoso por su pelaje rizado espeso y su carácter paciente y dulce. A diferencia de otros gatos Rex, su gen dominante crea rizos densos que retienen pelo muerto, aumentando el riesgo de bolas de pelo. Además, el pelo rizado dentro de sus orejas acumula cerumen y su herencia persa requiere vigilancia contra la Enfermedad Poliquística Renal (PKDef). En esta guía, presenta una rutina de 3 pasos para su bienestar.",
                 "whyTitle": "Señales corporales del Selkirk Rex: Arcadas frecuentes (bolas de pelo) y sacudidas de cabeza",
                 "whyDesc": "Si un Selkirk Rex muestra **'arcadas frecuentes para expulsar bolas de pelo'**, indica la ingesta de pelo rizado suelto durante su acicalamiento. Por otro lado, **'sacudir la cabeza o rascarse las orejas'** señala la acumulación excesiva de cerumen o irritación.",
                 "body_signals": [
@@ -234,7 +234,7 @@
                         "text": "Revise el cerumen y peine suavemente con un peine ancho o con los dedos para mantener la definición del rizo."
                     },
                     {
-                        "name": "Tarde: Estaciones de hidratación para prevenir PKD y clima adecuado",
+                        "name": "Tarde: Estaciones de hidratación para prevenir PKDef y clima adecuado",
                         "text": "Coloque varias fuentes de agua para proteger la salud renal y mantenga la casa a 20–24 °C."
                     },
                     {
@@ -248,14 +248,14 @@
                         "answer": "No lo cepille a diario con peines tupidos, ya que romperá los rizos. Cepillarlo 2 o 3 veces por semana con un peine de púas anchas es suficiente para eliminar el pelo muerto manteniendo sus hermosas ondas."
                     },
                     {
-                        "question": "¿Qué es la Enfermedad Poliquística Renal (PKD)?",
-                        "answer": "Es un trastorno hereditario donde se forman quistes en los riñones. Asegúrese de que los padres sean negativos (PKD Clear), promueva la hidratación y realice ecografías renales periódicas."
+                        "question": "¿Qué es la Enfermedad Poliquística Renal (PKDef)?",
+                        "answer": "Es un trastorno hereditario donde se forman quistes en los riñones. Asegúrese de que los padres sean negativos (PKDef Clear), promueva la hidratación y realice ecografías renales periódicas."
                     }
                 ]
             },
             "fr": {
-                "title": "Soins du Selkirk Rex (Pelage Bouclé, Hygiène Auriculaire et PKD) : Routine quotidienne en 3 étapes pour la santé et le pelage",
-                "description": "Guide de soin pour le Selkirk Rex et sa fourrure ondulée. Apprenez a gérer les boucles, prévenir les otites et surveiller la Polykystose Rénale (PKD).",
+                "title": "Soins du Selkirk Rex (Pelage Bouclé, Hygiène Auriculaire et PKDef) : Routine quotidienne en 3 étapes pour la santé et le pelage",
+                "description": "Guide de soin pour le Selkirk Rex et sa fourrure ondulée. Apprenez a gérer les boucles, prévenir les otites et surveiller la Polykystose Rénale (PKDef).",
                 "authority": "Standard de la Cat Fanciers' Association (CFA) et Directives Cliniques de The International Cat Association (TICA)",
                 "profile": {
                     "breed": "Selkirk Rex",
@@ -263,7 +263,7 @@
                     "sleep_pattern": "12 ~ 16 heures (sommeil et repos du chat adulte)",
                     "temperament": "Patient, Affectueux, Calme, Joueur, Câlin"
                 },
-                "intro": "Surnommé 'le chat en peau de mouton', le Selkirk Rex est célèbre pour sa fourrure bouclée et son tempérament doux. Son gène dominant crée des boucles épaisses qui retiennent les poils morts, augmentant le risque de boules de poils. De plus, les poils frisés dans ses oreilles favorisent l'accumulation de cérumen, et son ascendance Persan impose de surveiller la Polykystose Rénale (PKD). Ce guide vous propose une routine quotidienne en 3 étapes.",
+                "intro": "Surnommé 'le chat en peau de mouton', le Selkirk Rex est célèbre pour sa fourrure bouclée et son tempérament doux. Son gène dominant crée des boucles épaisses qui retiennent les poils morts, augmentant le risque de boules de poils. De plus, les poils frisés dans ses oreilles favorisent l'accumulation de cérumen, et son ascendance Persan impose de surveiller la Polykystose Rénale (PKDef). Ce guide vous propose une routine quotidienne en 3 étapes.",
                 "whyTitle": "Langage corporel du Selkirk Rex : Nausées fréquentes (boules de poils) et secouements de tête",
                 "whyDesc": "Si un Selkirk Rex présente des **« nausées fréquentes pour recracher des boules de poils »**, cela signifie qu'il a ingéré trop de poils frisés morts. En revanche, **« secouer la tête ou se gratter les oreilles »** indique un excès de cérumen ou une irritation du conduit auditif.",
                 "body_signals": [
@@ -284,7 +284,7 @@
                         "text": "Vérifiez le cérumen et peignez délicatement avec un peigne à dents larges ou vos doigts pour conserver le dessin des boucles."
                     },
                     {
-                        "name": "Midi : Hydratation contre la PKD et température idéale",
+                        "name": "Midi : Hydratation contre la PKDef et température idéale",
                         "text": "Multipliez les points d'eau pour stimuler la boisson et préserver les reins, et maintenez le logement à 20–24 °C."
                     },
                     {
@@ -298,14 +298,14 @@
                         "answer": "Évitez le brossage quotidien avec des brosses fines qui détruiraient les boucles. Un brossage 2 à 3 fois par semaine avec un peigne à dents larges est idéal pour retirer le poil mort."
                     },
                     {
-                        "question": "Qu'est-ce que la Polykystose Rénale (PKD) ?",
-                        "answer": "C'est une maladie héréditaire entraînant la formation de kystes dans les reins. Veillez à ce que les parents soient testés négatifs (PKD Clear) et encouragez une excellente hydratation."
+                        "question": "Qu'est-ce que la Polykystose Rénale (PKDef) ?",
+                        "answer": "C'est une maladie héréditaire entraînant la formation de kystes dans les reins. Veillez à ce que les parents soient testés négatifs (PKDef Clear) et encouragez une excellente hydratation."
                     }
                 ]
             },
             "de": {
-                "title": "Selkirk Rex Lockenfell-, Ohren- & PKD-Pflege: Tägliche 3-Schritte-Routine für Fellpflege und Gesundheitsschutz",
-                "description": "Pflegeanleitung für die Selkirk Rex mit schafähnlichem Lockenfell. Erfahren Sie, wie Sie Verfilzungen vermeiden, Ohrenschmalz entfernen und PKD vorbeugen.",
+                "title": "Selkirk Rex Lockenfell-, Ohren- & PKDef-Pflege: Tägliche 3-Schritte-Routine für Fellpflege und Gesundheitsschutz",
+                "description": "Pflegeanleitung für die Selkirk Rex mit schafähnlichem Lockenfell. Erfahren Sie, wie Sie Verfilzungen vermeiden, Ohrenschmalz entfernen und PKDef vorbeugen.",
                 "authority": "Standard der Cat Fanciers' Association (CFA) und Klinische Leitlinien der The International Cat Association (TICA)",
                 "profile": {
                     "breed": "Selkirk Rex",
@@ -313,7 +313,7 @@
                     "sleep_pattern": "12 ~ 16 Stunden (Schlaf und Ruhe der ausgewachsenen Katze)",
                     "temperament": "Geduldig, Anhänglich, Entspannt, Verspielt, Verschmust"
                 },
-                "intro": "Oft als 'Katze im Schafspelz' bezeichnet, ist die Selkirk Rex für ihr weiches Lockenfell und ihr sanftes Wesen bekannt. Ihr dominantes Lockengen führt zu dichtem, gewelltem Fell, das tote Haare leicht festhält und so das Risiko von Haarballen erhöht. Zudem sammelt sich durch die gekräuselten Haare in den Ohren leicht Ohrenschmalz an, und ihr Persianer-Erbgut erfordert Vorsorge gegen die Polyzystische Nierenerkrankung (PKD). Dieser Ratgeber zeigt eine tägliche 3-Schritte-Routine vor.",
+                "intro": "Oft als 'Katze im Schafspelz' bezeichnet, ist die Selkirk Rex für ihr weiches Lockenfell und ihr sanftes Wesen bekannt. Ihr dominantes Lockengen führt zu dichtem, gewelltem Fell, das tote Haare leicht festhält und so das Risiko von Haarballen erhöht. Zudem sammelt sich durch die gekräuselten Haare in den Ohren leicht Ohrenschmalz an, und ihr Persianer-Erbgut erfordert Vorsorge gegen die Polyzystische Nierenerkrankung (PKDef). Dieser Ratgeber zeigt eine tägliche 3-Schritte-Routine vor.",
                 "whyTitle": "Körpersprache der Selkirk Rex: Würgen (Haarballen-Stress) und Schütteln des Kopfes",
                 "whyDesc": "Zeigt eine Selkirk Rex **'häufiges Würgen oder Herauswürgen von Haarballen'**, deutet dies auf das Verschlucken loser Lockenhaare hin. **'Häufiges Schütteln des Kopfes oder Kratzen an den Ohren'** weist dagegen auf Ohrenschmalz oder Gehörgangsreizungen hin.",
                 "body_signals": [
@@ -334,7 +334,7 @@
                         "text": "Überprüfen Sie die Ohren auf Schmalz und kämmen Sie das Fell sanft mit einem groben Kamm durch, um die Lockenstruktur zu erhalten."
                     },
                     {
-                        "name": "Mittag: Trinkgelegenheiten zur PKD-Vorsorge & Raumklima",
+                        "name": "Mittag: Trinkgelegenheiten zur PKDef-Vorsorge & Raumklima",
                         "text": "Stellen Sie mehrere Trinkbrunnen auf, um die Nierengesundheit zu fördern, und halten Sie die Raumtemperatur bei 20–24 °C."
                     },
                     {
@@ -348,14 +348,14 @@
                         "answer": "Kämmen Sie das Fell nicht täglich mit feinen Bürsten, da dies die Locken zerstört. Ein sanftes Durchkämmen 2 bis 3 Mal pro Woche mit einem weitzahnigen Kamm reicht aus."
                     },
                     {
-                        "question": "Was ist die Polyzystische Nierenerkrankung (PKD)?",
-                        "answer": "Eine erblich bedingte Krankheit, bei der sich Zysten in den Nieren bilden. Achten Sie auf PKD-freie Elterntiere (PKD Clear) und sorgen Sie für eine hohe Wasseraufnahme."
+                        "question": "Was ist die Polyzystische Nierenerkrankung (PKDef)?",
+                        "answer": "Eine erblich bedingte Krankheit, bei der sich Zysten in den Nieren bilden. Achten Sie auf PKDef-freie Elterntiere (PKDef Clear) und sorgen Sie für eine hohe Wasseraufnahme."
                     }
                 ]
             },
             "pt": {
-                "title": "Cuidado do Pelo Encaracolado, Ouvidos e PKD do Selkirk Rex: Rotina diária de 3 passos para prevenção de bolas de pelo e saúde renal",
-                "description": "Guia de cuidados para o Selkirk Rex e sua pelagem encaracolada. Saiba como evitar nós, controlar cerúmen e prevenir a Doença Policística Renal (PKD).",
+                "title": "Cuidado do Pelo Encaracolado, Ouvidos e PKDef do Selkirk Rex: Rotina diária de 3 passos para prevenção de bolas de pelo e saúde renal",
+                "description": "Guia de cuidados para o Selkirk Rex e sua pelagem encaracolada. Saiba como evitar nós, controlar cerúmen e prevenir a Doença Policística Renal (PKDef).",
                 "authority": "Padrão da Cat Fanciers' Association (CFA) e Diretrizes Clínicas da The International Cat Association (TICA)",
                 "profile": {
                     "breed": "Selkirk Rex",
@@ -363,7 +363,7 @@
                     "sleep_pattern": "12 ~ 16 horas (padrão de descanso de gato adulto)",
                     "temperament": "Paciente, Afetuoso, Tranquilo, Brincalhão, Carinhoso"
                 },
-                "intro": "Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKD). O Este guia  uma rotina de 3 passos para o seu bem-estar.",
+                "intro": "Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKDef). O Este guia  uma rotina de 3 passos para o seu bem-estar.",
                 "whyTitle": "Sinais corporais do Selkirk Rex: Anseias frequentes (bolas de pelo) e sacudir de cabeça",
                 "whyDesc": "Se um Selkirk Rex apresentar **'anseias frequentes para expelir bolas de pelo'**, significa que engoliu pelos encaracolados mortos. Já o hábito de **'sacudir a cabeça ou coçar as orelhas'** indica acúmulo de cerúmen ou irritação no canal auditivo.",
                 "body_signals": [
@@ -384,7 +384,7 @@
                         "text": "Verifique a cera e passe suavemente um pente de dentes largos para manter a forma natural dos caracóis."
                     },
                     {
-                        "name": "Tarde: Estações de água contra PKD e clima estável",
+                        "name": "Tarde: Estações de água contra PKDef e clima estável",
                         "text": "Coloque várias fontes de água para proteger a saúde renal e mantenha a temperatura em 20–24 °C."
                     },
                     {
@@ -398,14 +398,14 @@
                         "answer": "Não escove diariamente com pentes finos para não desfazer os caracóis. Escovar 2 a 3 vezes por semana com um pente de dentes largos é suficiente para remover o pelo morto."
                     },
                     {
-                        "question": "O que é a Doença Policística Renal (PKD)?",
-                        "answer": "É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKD Clear) e estimule a ingestão constante de água."
+                        "question": "O que é a Doença Policística Renal (PKDef)?",
+                        "answer": "É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKDef Clear) e estimule a ingestão constante de água."
                     }
                 ]
             },
             "id": {
-                "title": "Panduan Perawatan Kucing Selkirk Rex: Perawatan Bulu Keriting, Telinga, dan PKD melalui 3 Langkah Rutinitas Harian",
-                "description": "Perawatan esensial untuk kucing Selkirk Rex berbulu keriting lebat. Pelajari cara mencegah bulu menggumpal, merawat kotoran telinga, dan mengelola risiko Penyakit Ginjal Polikistik (PKD).",
+                "title": "Panduan Perawatan Kucing Selkirk Rex: Perawatan Bulu Keriting, Telinga, dan PKDef melalui 3 Langkah Rutinitas Harian",
+                "description": "Perawatan esensial untuk kucing Selkirk Rex berbulu keriting lebat. Pelajari cara mencegah bulu menggumpal, merawat kotoran telinga, dan mengelola risiko Penyakit Ginjal Polikistik (PKDef).",
                 "authority": "Standar Trah Cat Fanciers' Association (CFA) & Pedoman Klinis The International Cat Association (TICA)",
                 "profile": {
                     "breed": "Kucing Selkirk Rex",
@@ -413,7 +413,7 @@
                     "sleep_pattern": "12 ~ 16 jam (pola tidur dan istirahat kucing dewasa)",
                     "temperament": "Sabar, Penyayang, Tenang, Ceria, Manja"
                 },
-                "intro": "Sering dijuluki 'kucing berbulu domba', Selkirk Rex terkenal dengan bulu keritingnya yang lebat dan sifatnya yang sangat sabar serta penyayang. Gen keriting dominan pada ras ini membuat bulunya tebal dan mudah memerangkap bulu mati, meningkatkan risiko hairball. Selain itu, bulu keriting di dalam telinganya mudah menampung kotoran telinga, dan garis keturunan Persian menuntut kewaspadaan terhadap Penyakit Ginjal Polikistik (PKD). Dalam panduan ini, menyajikan 3 langkah rutinitas harian.",
+                "intro": "Sering dijuluki 'kucing berbulu domba', Selkirk Rex terkenal dengan bulu keritingnya yang lebat dan sifatnya yang sangat sabar serta penyayang. Gen keriting dominan pada ras ini membuat bulunya tebal dan mudah memerangkap bulu mati, meningkatkan risiko hairball. Selain itu, bulu keriting di dalam telinganya mudah menampung kotoran telinga, dan garis keturunan Persian menuntut kewaspadaan terhadap Penyakit Ginjal Polikistik (PKDef). Dalam panduan ini, menyajikan 3 langkah rutinitas harian.",
                 "whyTitle": "Bahasa Tubuh Kucing Selkirk Rex: Sering Mual (Muntah Hairball) dan Menggelengkan Kepala",
                 "whyDesc": "Jika Selkirk Rex **'sering mual atau berusaha muntah hairball'**, ini menandakan terlalu banyak bulu mati keriting yang tertelan saat grooming. Sementara itu, **'sering menggelengkan kepala atau menggaruk telinga'** menandakan penumpukan kotoran telinga yang berlebihan.",
                 "body_signals": [
@@ -434,8 +434,8 @@
                         "text": "Periksa kotoran telinga, lalu sisir bulunya secara perlahan menggunakan sisir bergigi jarang agar gelombang keritingnya tetap indah."
                     },
                     {
-                        "name": "Siang: Fasilitas Hidrasi untuk Pencegahan PKD & Suhu Ruangan",
-                        "text": "Sediakan beberapa tempat minum air bersih untuk menjaga kesehatan ginjal dari PKD dan jaga suhu pada 20–24 °C."
+                        "name": "Siang: Fasilitas Hidrasi untuk Pencegahan PKDef & Suhu Ruangan",
+                        "text": "Sediakan beberapa tempat minum air bersih untuk menjaga kesehatan ginjal dari PKDef dan jaga suhu pada 20–24 °C."
                     },
                     {
                         "name": "Malam: Pembersihan Lipatan Wajah & Pemberian Gel Hairball",
@@ -448,8 +448,8 @@
                         "answer": "Jangan menyisir setiap hari dengan sisir rapat karena dapat merusak gelombang keritingnya. Menyisir 2 hingga 3 kali seminggu dengan sisir bergigi jarang sudah sangat cukup."
                     },
                     {
-                        "question": "Apa itu Penyakit Ginjal Polikistik (PKD)?",
-                        "answer": "Penyakit genetik di mana kista tumbuh di ginjal dan menurunkan fungsinya. Pastikan induknya bebas PKD (PKD Clear) dan dorong kucing untuk banyak minum air."
+                        "question": "Apa itu Penyakit Ginjal Polikistik (PKDef)?",
+                        "answer": "Penyakit genetik di mana kista tumbuh di ginjal dan menurunkan fungsinya. Pastikan induknya bebas PKDef (PKDef Clear) dan dorong kucing untuk banyak minum air."
                     }
                 ]
             }

@@ -29,7 +29,7 @@ faqs:
     answer: "매우 위험합니다! 뉴칼레도니아 저온종인 가고일 게코는 28°C 이상의 고온에 노출되면 열스트레스로 사망할 수 있습니다. 에어컨이나 냉각 팬을 이용해 22°C ~ 25°C를 유지해야 합니다."
 ---
 
-머리의 작은 뿔 모양 돌기와 오묘한 패턴이 가고일 석상을 닮은 가고일 게코(Gargoyle Gecko)는 뉴칼레도니아 남부가 원산지인 매력적인 붙붙이도마뱀입니다. 국제 파충류학회(IHS) 프로토콜에 따르면, 가고일 게코는 28°C 이상의 고온에 극도로 취약하며 서늘한 온도는 물론 주기적인 습도 구배(주간 50 ~ 60%, 야간 70 ~ 80%) 관리가 필수적입니다. 특히 크레스티드 게코와 달리 꼬리가 자르면 완벽히 재생된다는 특징이 있으며, 전용 슈퍼푸드(CGD) 급여와 적정 수온/습도 유지가 건강의 핵심입니다.
+머리의 작은 뿔 모양 돌기와 오묘한 패턴이 가고일 석상을 닮은 가고일 게코(Gargoyle Gecko)는 뉴칼레도니아 남부가 원산지인 매력적인 붙이도마뱀입니다. 국제 파충류학회(IHS) 프로토콜에 따르면, 가고일 게코는 28°C 이상의 고온에 극도로 취약하며 서늘한 온도는 물론 주기적인 습도 구배(주간 50 ~ 60%, 야간 70 ~ 80%) 관리가 필수적입니다. 특히 크레스티드 게코와 달리 꼬리가 자르면 완벽히 재생된다는 특징이 있으며, 전용 슈퍼푸드(CGD) 급여와 적정 수온/습도 유지가 건강의 핵심입니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

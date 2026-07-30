@@ -13,7 +13,7 @@ steps:
   - name: "볼파이톤의 바디 랭귀지: 방어적 공 마기(Balling Up)와 거친 호흡 소리(Wheezing)"
     text: "볼파이톤은 몸의 고임 상태와 호흡 소리로 스트레스 및 질병 상태를 알립니다. 머리를 중심에 숨기고 단단하게 몸을 꼬아 공 모양을 만드는 '방어적 공 마기(Balling Up)'는 위협을 느꼈을 때 나타내는 대표적인 공포 신호입니다. 반면 입가에 침 방울이 맺히거나 슉슉 거리는 가래 소리와 함께 입을 벌리고 숨을 쉬는 '거친 호흡 및 개구 호흡(Wheezing & Bubbling)'은 환경 악화로 인한 급성 호흡기 감염증의 경고 신호입니다."
   - name: "볼파이톤 / 공단구렁이 (Ball Python / Python regius)의 몸짓 언어와 바디 시그널"
-    text: "* 머리를 안으로 숨기고 단단하게 공처럼 몸을 긺 (Balling Up): 포식자나 급작스러운 핸들링으로 인해 극심한 공포와 스트레스를 느낄 때 자신을 보호하려는 방어 반응입니다. (핸들링을 즉시 중단하고 어둡고 안전한 은신처로 돌아가 스킨십 자극 없이 안정을 취하게 합니다.)
+    text: "* 머리를 안으로 숨기고 단단하게 공처럼 몸을 감음 (Balling Up): 포식자나 급작스러운 핸들링으로 인해 극심한 공포와 스트레스를 느낄 때 자신을 보호하려는 방어 반응입니다. (핸들링을 즉시 중단하고 어둡고 안전한 은신처로 돌아가 스킨십 자극 없이 안정을 취하게 합니다.)
 
 * 입가에 침 방울이 생기거나 슉슉거리는 소리를 내며 입을 벌림 (Wheezing & Bubbling): 사육장 온도 저하나 과도한 습도로 인한 세균/곰팡이성 호흡기 감염(Respiratory Infection)의 병리 신호입니다. (즉시 핫존 온도를 31°C ~ 33°C로 올리고 사육장 바닥재를 건조하게 교체한 후 파충류 수의사의 진료를 받습니다.)"
   - name: "볼파이톤 / 공단구렁이 (Ball Python / Python regius) 맞춤형 3단계 홈케어 루틴"
@@ -66,7 +66,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">머리를 안으로 숨기고 단단하게 공처럼 몸을 긺 (Balling Up)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">머리를 안으로 숨기고 단단하게 공처럼 몸을 감음 (Balling Up)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "콘스네이크의 방어 신호 해석과 거식·구토 예방을 위한 3단계 데일리 케어"
-description: "온순하고 화려한 뱀 콘스네이크(Corn Snake). 꼬리 떨기·S자 응수 신호 해석, 적정 온도(22°C ~ 30°C) 및 먹이 구토 예방을 위한 3단계 홈케어 루틴을 소개합니다."
+description: "온순하고 화려한 뱀 콘스네이크(Corn Snake). 꼬리 떨기·S자 공격 자세 신호 해석, 적정 온도(22°C ~ 30°C) 및 먹이 구토 예방을 위한 3단계 홈케어 루틴을 소개합니다."
 pubDate: "2026-05-28"
 updatedDate: "2026-07-26"
 category: "FreshSelf"

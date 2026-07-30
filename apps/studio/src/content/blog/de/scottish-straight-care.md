@@ -19,17 +19,17 @@ steps:
   - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Scottish Straight (Scottish Straight)"
     text: "* STEP 1. Morgen: Gewichtskontrolle, proteinreiche Fütterung nach Maß & Augenpflege: Füttern Sie abgemessenes High-Protein-Futter gegen Adipositas und wischen Sie die Augenwinkel mit steriler Gaze ab.
 
-* STEP 2. Mittag: Leicht zugängliche Schlafplätze & Frische Tränken (Nierenpflege): Stellen Sie Trinkbrunnen auf, um PKD und Blasenentzündungen vorzubeugen, und bieten Sie gut erreichbare Liegeplätze an.
+* STEP 2. Mittag: Leicht zugängliche Schlafplätze & Frische Tränken (Nierenpflege): Stellen Sie Trinkbrunnen auf, um PKDef und Blasenentzündungen vorzubeugen, und bieten Sie gut erreichbare Liegeplätze an.
 
 * STEP 3. Abend: Schonendes Spiel am Boden (15–20 Min.) & Fellpflege: Spielen Sie am Boden mit der Angel, um gelenkschonend Kalorien zu verbrennen, und bürsten Sie das dichte Fell."
 faqs:
   - question: "Was ist der Unterschied zwischen Scottish Fold und Straight, und haben Straights Erbkrankheiten?"
-    answer: "Scottish Folds besitzen das Gen (Fd) für Knorpeldefekte und schmerzhafte Gelenkerkrankungen. Scottish Straights haben stehende Ohren und gesunde Knorpel. Aufgrund der Einkreuzung von British Shorthairs sollten jedoch regelmäßig Herz (HCM) und Nieren (PKD) per Ultraschall geprüft werden."
+    answer: "Scottish Folds besitzen das Gen (Fd) für Knorpeldefekte und schmerzhafte Gelenkerkrankungen. Scottish Straights haben stehende Ohren und gesunde Knorpel. Aufgrund der Einkreuzung von British Shorthairs sollten jedoch regelmäßig Herz (HCM) und Nieren (PKDef) per Ultraschall geprüft werden."
   - question: "Scottish Straights neigen zu Übergewicht – wie halte ich meine Katze schlank?"
     answer: "Ihre ruhige Art begünstigt Gewichtszunahme. Füttern Sie kontrollierte Portionen proteinreichen, kohlenhydratarmen Futters und spielen Sie täglich 15–20 Minuten am Boden, um die Muskelmasse zu erhalten und das Herz zu schützen."
 ---
 
-Geschätzt für ihr rundes Gesicht und ihre stehenden Ohren, vereint die Scottish Straight den rundlichen Charme der Rasse ohne das Genrisiko für Knorpeldefekte der Scottish Fold. Da ihnen das Faltohr-Gen fehlt, haben sie normale Knorpel, neigen aber aufgrund ihres kräftigen Körperbaus zu Übergewicht. Adipositas belastet die Gelenke und erhöht das Risiko für Hypertrophe Kardiomyopathie (HCM) und Polyzystische Nierenerkrankung (PKD). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Scottish Straight.
+Geschätzt für ihr rundes Gesicht und ihre stehenden Ohren, vereint die Scottish Straight den rundlichen Charme der Rasse ohne das Genrisiko für Knorpeldefekte der Scottish Fold. Da ihnen das Faltohr-Gen fehlt, haben sie normale Knorpel, neigen aber aufgrund ihres kräftigen Körperbaus zu Übergewicht. Adipositas belastet die Gelenke und erhöht das Risiko für Hypertrophe Kardiomyopathie (HCM) und Polyzystische Nierenerkrankung (PKDef). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Scottish Straight.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Geschätzt für ihr rundes Gesicht und ihre stehenden Ohren, vereint die Scottis
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Mittag: Leicht zugängliche Schlafplätze & Frische Tränken (Nierenpflege)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Stellen Sie Trinkbrunnen auf, um PKD und Blasenentzündungen vorzubeugen, und bieten Sie gut erreichbare Liegeplätze an.
+    Stellen Sie Trinkbrunnen auf, um PKDef und Blasenentzündungen vorzubeugen, und bieten Sie gut erreichbare Liegeplätze an.
   </p>
 </div>
 
@@ -170,7 +170,7 @@ Geschätzt für ihr rundes Gesicht und ihre stehenden Ohren, vereint die Scottis
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Scottish Folds besitzen das Gen (Fd) für Knorpeldefekte und schmerzhafte Gelenkerkrankungen. Scottish Straights haben stehende Ohren und gesunde Knorpel. Aufgrund der Einkreuzung von British Shorthairs sollten jedoch regelmäßig Herz (HCM) und Nieren (PKD) per Ultraschall geprüft werden.
+      Scottish Folds besitzen das Gen (Fd) für Knorpeldefekte und schmerzhafte Gelenkerkrankungen. Scottish Straights haben stehende Ohren und gesunde Knorpel. Aufgrund der Einkreuzung von British Shorthairs sollten jedoch regelmäßig Herz (HCM) und Nieren (PKDef) per Ultraschall geprüft werden.
     </p>
   </details>
 

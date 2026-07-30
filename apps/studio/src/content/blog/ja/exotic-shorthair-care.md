@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "エキゾチックショートヘアの親愛サイン解読と短頭種気道症候群(BAS)・多胞性腎病変(PKD)管理のための3ステップデイリールーティン"
-description: "愛くるしいぺちゃ顔が魅力のエキゾチックショートヘア（Exotic Shorthair）。スリスリ（フェイシャルバンティング）やゴロゴロ音の解読、目元・気道ケアおよびPKD予防のための3ステップホームケアを紹介します。"
+title: "エキゾチックショートヘアの親愛サイン解読と短頭種気道症候群(BAS)・多胞性腎病変(PKDef)管理のための3ステップデイリールーティン"
+description: "愛くるしいぺちゃ顔が魅力のエキゾチックショートヘア（Exotic Shorthair）。スリスリ（フェイシャルバンティング）やゴロゴロ音の解読、目元・気道ケアおよびPKDef予防のための3ステップホームケアを紹介します。"
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
@@ -17,7 +17,7 @@ steps:
 
 * 目を半開きにしてリラックスした姿勢で静かに喉を鳴らす (Purring): 現在の環境や飼い主の存在に対して完全な安心感とストレスのない快適さを感じているサインです。 (無理に動かさず、そのまま安心して休めるよう静かで温かい環境を保ちましょう。)"
   - name: "エキゾチックショートヘア (Exotic Shorthair)のための3ステップホームケアルーティン"
-    text: "* STEP 1. 朝：顔のシワ・涙やけの衛生ケア＆PKD予防のためのウェットフード給餌: 鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKD予防）のためにウェットフードで水分を補給します。
+    text: "* STEP 1. 朝：顔のシワ・涙やけの衛生ケア＆PKDef予防のためのウェットフード給餌: 鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKDef予防）のためにウェットフードで水分を補給します。
 
 * STEP 2. 昼：室内温湿度管理（気道保護）と適正体重維持のための低強度な遊び: 体温調節が苦手で暑さに弱いため室温を22〜24℃に保ち、体に負担のかからないじゃらし遊びで肥満を予防します。
 
@@ -25,11 +25,11 @@ steps:
 faqs:
   - question: "エキゾチックショートヘアはなぜいびきをかいたり荒い息をするのですか？"
     answer: "エキゾチックショートヘアは鼻腔が短く鼻孔が狭い短頭種構造（短頭種気道症候群、BAS）を持つため、正常な状態でも軽いいびきや鼻音がすることがあります。しかし、口を開けて息をする（開口呼吸）、歯茎が紫っぽくなる（チアノーゼ）、呼吸音がゼーゼーと激しくなる場合は、直ちに獣医師の診察を受けてください。"
-  - question: "多胞性腎病変（PKD）はどのように予防・管理すればよいですか？"
-    answer: "多胞性腎病変（PKD）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKD DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
+  - question: "多胞性腎病変（PKDef）はどのように予防・管理すればよいですか？"
+    answer: "多胞性腎病変（PKDef）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKDef DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
 ---
 
-「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKD）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本記事では、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。
+「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKDef）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本記事では、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -128,10 +128,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">朝：顔のシワ・涙やけの衛生ケア＆PKD予防のためのウェットフード給餌</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">朝：顔のシワ・涙やけの衛生ケア＆PKDef予防のためのウェットフード給餌</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKD予防）のためにウェットフードで水分を補給します。
+    鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKDef予防）のためにウェットフードで水分を補給します。
   </p>
 </div>
 
@@ -176,11 +176,11 @@ faqs:
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">多胞性腎病変（PKD）はどのように予防・管理すればよいですか？</span>
+      <span class="pr-4">多胞性腎病変（PKDef）はどのように予防・管理すればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      多胞性腎病変（PKD）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKD DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。
+      多胞性腎病変（PKDef）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKDef DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。
     </p>
   </details>
 </div>

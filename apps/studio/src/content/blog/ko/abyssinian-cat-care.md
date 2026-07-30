@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "아비시니안 고양이의 교감 신호 해석과 빈혈·치주염 예방을 위한 3단계 데일리 케어"
-description: "날렵하고 사교적인 아비시니안(Abyssinian). 헤드버팅·눈인사 신호 해석, 유전성 빈혈(PKD) 예방 및 치아·수직 공간 관리를 위한 3단계 홈케어 루틴을 소개합니다."
+description: "날렵하고 사교적인 아비시니안(Abyssinian). 헤드버팅·눈인사 신호 해석, 유전성 빈혈(PKDef) 예방 및 치아·수직 공간 관리를 위한 3단계 홈케어 루틴을 소개합니다."
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "아비시니안 (Abyssinian)의 몸짓 언어와 바디 시그널"
     text: "* 머리를 콩 찍고 볼을 문지름 (Head-Butting / Bunting): 보호자를 안전한 자신의 영역이자 가족으로 인식하여 페로몬을 묻히는 깊은 애정 및 신뢰 신호입니다. (손을 내밀어 턱 아래나 이마를 부드럽게 긁어주며 적극적으로 애정 반응을 화답해 줍니다.)
 
-* 잇몸이 하얗게 바래고 무기력하게 숨어있음 (Pale Gums & Lethargy): 적혈구가 파괴되는 유전성 피루베이트 키나아제 결핍증(PKD) 빈혈 또는 급성 치주염 통증 신호입니다. (즉시 잇몸 색상을 관찰하고 신속히 동물병원에서 혈액 검사(CBC) 및 유전자 검사를 진행합니다.)"
+* 잇몸이 하얗게 바래고 무기력하게 숨어있음 (Pale Gums & Lethargy): 적혈구가 파괴되는 유전성 피루베이트 키나아제 결핍증(PKDef) 빈혈 또는 급성 치주염 통증 신호입니다. (즉시 잇몸 색상을 관찰하고 신속히 동물병원에서 혈액 검사(CBC) 및 유전자 검사를 진행합니다.)"
   - name: "아비시니안 (Abyssinian) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 잇몸·치아 양치질 케어 및 유전성 빈혈/기력 모니터링: 치주염에 취약하므로 고양이 전용 치약으로 양치질을 실시하고, 잇몸 색상과 아침 식욕 상태를 체크합니다.
 
@@ -24,12 +24,12 @@ steps:
 * STEP 3. 저녁: 사냥 놀이(20 ~ 30분) 및 신선한 수분 공급: 왕성한 에너지를 발산하도록 오뎅꼬치나 레이저 사냥 놀이를 진행하고, 요로 질환 방지를 위해 깨끗한 음수대를 관리합니다."
 faqs:
   - question: "아비시니안 고양이가 갑자기 구석에 숨고 잇몸이 창백해졌는데 유전병인가요?"
-    answer: "유전성 '피루베이트 키나아제 결핍증(PKD / Pyruvate Kinase Deficiency)'에 의한 용혈성 빈혈일 가능성이 높습니다. 적혈구 효소 부족으로 피가 부족해져 잇몸이 창백해지고 호흡이 빨라지며 기력이 떨어집니다. 방치 시 생명이 위험하므로 즉시 동물병원에서 혈액 검사 및 수혈/약물 치료를 받아야 합니다."
+    answer: "유전성 '피루베이트 키나아제 결핍증(PKDef / Pyruvate Kinase Deficiency)'에 의한 용혈성 빈혈일 가능성이 높습니다. 적혈구 효소 부족으로 피가 부족해져 잇몸이 창백해지고 호흡이 빨라지며 기력이 떨어집니다. 방치 시 생명이 위험하므로 즉시 동물병원에서 혈액 검사 및 수혈/약물 치료를 받아야 합니다."
   - question: "아비시니안이 하루 종일 집안을 뛰어다니고 우두커니 높은 곳만 찾아 올라가요."
     answer: "아비시니안은 고양이계의 아크로바틱 선수라 불릴 만큼 높은 수직 공간 욕구와 에너지를 가진 품종입니다. 높은 캣타워, 캣폴, 벽선반이 부족하면 스트레스를 받아 가구를 긁거나 야간 줌키(Zoomies) 행동을 보일 수 있으므로 수직 공간을 적극 조성해 주고 매일 20분 이상 강도 높은 사냥 놀이를 해주세요."
 ---
 
-퓨마를 연상시키는 날렵한 체형과 빛나는 태비(Ticked Tabby) 코트를 가진 아비시니안(Abyssinian)은 고양이계의 클라운(광대)이라 불릴 만큼 유쾌하고 지능이 뛰어난 품종입니다. 아비시니안은 왕성한 호기심과 수직 공간 열망이 강해 캣타워와 캣폴 등의 고공 환경이 부족할 경우 스트레스 반응을 보이기 쉽습니다. 또한 적혈구 파괴를 유발하는 유전성 질환인 '피루베이트 키나아제 결핍증(PKD 빈혈)'과 초기 치은염/치주염, 진행성 망막 위축증(PRA)에 취약합니다. 이번 가이드에서는 아비시니안의 교감 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 전해드립니다.
+퓨마를 연상시키는 날렵한 체형과 빛나는 태비(Ticked Tabby) 코트를 가진 아비시니안(Abyssinian)은 고양이계의 클라운(광대)이라 불릴 만큼 유쾌하고 지능이 뛰어난 품종입니다. 아비시니안은 왕성한 호기심과 수직 공간 열망이 강해 캣타워와 캣폴 등의 고공 환경이 부족할 경우 스트레스 반응을 보이기 쉽습니다. 또한 적혈구 파괴를 유발하는 유전성 질환인 '피루베이트 키나아제 결핍증(PKDef 빈혈)'과 초기 치은염/치주염, 진행성 망막 위축증(PRA)에 취약합니다. 이번 가이드에서는 아비시니안의 교감 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 전해드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ faqs:
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        적혈구가 파괴되는 유전성 피루베이트 키나아제 결핍증(PKD) 빈혈 또는 급성 치주염 통증 신호입니다.
+        적혈구가 파괴되는 유전성 피루베이트 키나아제 결핍증(PKDef) 빈혈 또는 급성 치주염 통증 신호입니다.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
@@ -170,7 +170,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      유전성 '피루베이트 키나아제 결핍증(PKD / Pyruvate Kinase Deficiency)'에 의한 용혈성 빈혈일 가능성이 높습니다. 적혈구 효소 부족으로 피가 부족해져 잇몸이 창백해지고 호흡이 빨라지며 기력이 떨어집니다. 방치 시 생명이 위험하므로 즉시 동물병원에서 혈액 검사 및 수혈/약물 치료를 받아야 합니다.
+      유전성 '피루베이트 키나아제 결핍증(PKDef / Pyruvate Kinase Deficiency)'에 의한 용혈성 빈혈일 가능성이 높습니다. 적혈구 효소 부족으로 피가 부족해져 잇몸이 창백해지고 호흡이 빨라지며 기력이 떨어집니다. 방치 시 생명이 위험하므로 즉시 동물병원에서 혈액 검사 및 수혈/약물 치료를 받아야 합니다.
     </p>
   </details>
 

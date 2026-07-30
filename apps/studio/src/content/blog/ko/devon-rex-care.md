@@ -15,7 +15,7 @@ steps:
   - name: "데본 렉스 (Devon Rex)의 몸짓 언어와 바디 시그널"
     text: "* 보호자의 어깨 위로 올라와 목과 뺨을 문지름 (Shoulder Riding / Cheeking): 보호자에 대한 깊은 유대감과 애정, 그리고 따뜻한 체온을 나누려는 데본 렉스 대표 친밀 신호입니다. (어깨에서 떨어지지 않도록 안전하게 받쳐주고 부드러운 목소리로 응답하며 교감을 나눕니다.)
 
-* 꼬리 끝을 빠르게 좌우로 파르르 떨며 귀를 마중물 형태로 옆으로 돌림 (Tail Twitching / Ear Flicking): 놀이 시 감정이 과도하게 흥분했거나 피부 스킨십 자극이 길어져 스트레스를 받는 자극 과부하 신호입니다. (즉시 사냥 놀이나 터치를 멈추고 혼자 편안히 열을 식힐 수 있도록 공간을 비워줍니다.)"
+* 꼬리 끝을 빠르게 좌우로 파르르 떨며 귀를 비행기 모양으로 옆으로 돌림 (Tail Twitching / Ear Flicking): 놀이 시 감정이 과도하게 흥분했거나 피부 스킨십 자극이 길어져 스트레스를 받는 자극 과부하 신호입니다. (즉시 사냥 놀이나 터치를 멈추고 혼자 편안히 열을 식힐 수 있도록 공간을 비워줍니다.)"
   - name: "데본 렉스 (Devon Rex) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 피부 주름·귓속 피지 세정(말라세지아 예방) 및 HCM 관리를 위한 습식 식사 급여: 피지 분비가 많은 발가락 사이, 귓속, 피부 주름을 닦아주어 효모균 감염을 막고, 심장 및 신장 건강을 위해 습식 사료를 급여합니다.
 
@@ -95,7 +95,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">꼬리 끝을 빠르게 좌우로 파르르 떨며 귀를 마중물 형태로 옆으로 돌림 (Tail Twitching / Ear Flicking)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">꼬리 끝을 빠르게 좌우로 파르르 떨며 귀를 비행기 모양으로 옆으로 돌림 (Tail Twitching / Ear Flicking)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

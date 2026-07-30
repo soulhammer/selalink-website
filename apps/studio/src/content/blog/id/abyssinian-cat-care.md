@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Kasih Sayang dan Kesehatan Kucing Abyssinian serta Rutinitas Harian 3 Langkah Perawatan Anemia dan Gigi"
-description: "Panduan perawatan Kucing Abyssinian yang lincah. Pahami sundulan kepala (head-butting) dan gusi pucat, cegah anemia defisiensi piruvat kinase (PKD), serta kelola ruang vertikal dalam 3 langkah."
+description: "Panduan perawatan Kucing Abyssinian yang lincah. Pahami sundulan kepala (head-butting) dan gusi pucat, cegah anemia defisiensi piruvat kinase (PKDef), serta kelola ruang vertikal dalam 3 langkah."
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "Bahasa Tubuh dan Sinyal Perilaku Kucing Abyssinian (Abyssinian)"
     text: "* Menyundulkan Kepala & Menggosok Pipi (Head-Butting / Bunting): Sinyal kasih sayang dan rasa percaya mendalam, menandai Anda dengan feromon wajah sebagai bagian dari wilayah keluarganya. (Beri respon hangat dengan mengelus lembut bagian bawah dagu atau dahinya.)
 
-* Gusi Putih Pucat & Lemas Bersembunyi (Pale Gums & Lethargy): Tanda klinis darurat anemia hemolitik akibat Defisiensi Piruvat Kinase (PKD) genetik atau nyeri gigi akut. (Segera periksa gusinya dan bawa ke dokter hewan untuk tes darah lengkap (CBC) dan skrining genetik.)"
+* Gusi Putih Pucat & Lemas Bersembunyi (Pale Gums & Lethargy): Tanda klinis darurat anemia hemolitik akibat Defisiensi Piruvat Kinase (PKDef) genetik atau nyeri gigi akut. (Segera periksa gusinya dan bawa ke dokter hewan untuk tes darah lengkap (CBC) dan skrining genetik.)"
   - name: "Rutinitas Perawatan Harian 3 Langkah untuk Kucing Abyssinian (Abyssinian)"
     text: "* STEP 1. Pagi: Perawatan Sikat Gigi Kucing & Pemantauan Warna Gusi serta Nafsu Makan: Sikat gigi menggunakan pasta gigi khusus kucing karena risiko radang gusi yang tinggi, sambil memeriksa warna gusi.
 
@@ -24,12 +24,12 @@ steps:
 * STEP 3. Malam: Permainan Berburu Interaktif Energi Tinggi (20–30 menit) & Air Minum Segar: Ajak bermain dengan tongkat bulu untuk menyalurkan energinya, dan jaga kebersihan tempat minum agar terhindar dari penyakit saluran kemih."
 faqs:
   - question: "Mengapa Kucing Abyssinian saya bersembunyi dan gusinya pucat?"
-    answer: "Kemungkinan besar terjadi anemia hemolitik akibat genetik 'Defisiensi Piruvat Kinase (PKD)'. Kekurangan enzim PK menghancurkan sel darah merah sehingga gusi menjadi pucat, napas cepat, dan lemas berat. Karena kondisi ini mengancam nyawa, segera bawa ke dokter hewan darurat untuk pemeriksaan darah."
+    answer: "Kemungkinan besar terjadi anemia hemolitik akibat genetik 'Defisiensi Piruvat Kinase (PKDef)'. Kekurangan enzim PK menghancurkan sel darah merah sehingga gusi menjadi pucat, napas cepat, dan lemas berat. Karena kondisi ini mengancam nyawa, segera bawa ke dokter hewan darurat untuk pemeriksaan darah."
   - question: "Mengapa Kucing Abyssinian saya terus berlarian dan mencari tempat yang sangat tinggi?"
     answer: "Kucing Abyssinian adalah 'pesenam alami' yang memiliki energi dan kebutuhan ruang vertikal yang sangat tinggi. Jika kekurangan cat tree atau papan panjatan di dinding, rasa frustrasi akan membuat mereka menggaruk furnitur atau berlarian malam hari (zoomies). Sediakan ruang vertikal yang luas dan ajak bermain setidaknya 20 menit sehari."
 ---
 
-Terkenal dengan tubuh atletis mirip puma dan bulu berpolanya yang berkilau (Ticked Tabby), Kucing Abyssinian adalah ras cerdas yang sering dijuluki 'badut di kerajaan kucing'. Memiliki energi yang sangat melimpah dan kecintaan pada ketinggian, Abyssinian membutuhkan tempat memanjat vertikal untuk mencegah stres. Secara medis, mereka rentan terhadap Defisiensi Piruvat Kinase (PKD)—sejenis anemia hemolitik genetik—serta radang gusi/gigi sejak dini dan Atrofi Retina Progresif (PRA). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Kucing Abyssinian Anda.
+Terkenal dengan tubuh atletis mirip puma dan bulu berpolanya yang berkilau (Ticked Tabby), Kucing Abyssinian adalah ras cerdas yang sering dijuluki 'badut di kerajaan kucing'. Memiliki energi yang sangat melimpah dan kecintaan pada ketinggian, Abyssinian membutuhkan tempat memanjat vertikal untuk mencegah stres. Secara medis, mereka rentan terhadap Defisiensi Piruvat Kinase (PKDef)—sejenis anemia hemolitik genetik—serta radang gusi/gigi sejak dini dan Atrofi Retina Progresif (PRA). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Kucing Abyssinian Anda.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ Terkenal dengan tubuh atletis mirip puma dan bulu berpolanya yang berkilau (Tick
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        Tanda klinis darurat anemia hemolitik akibat Defisiensi Piruvat Kinase (PKD) genetik atau nyeri gigi akut.
+        Tanda klinis darurat anemia hemolitik akibat Defisiensi Piruvat Kinase (PKDef) genetik atau nyeri gigi akut.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
@@ -170,7 +170,7 @@ Terkenal dengan tubuh atletis mirip puma dan bulu berpolanya yang berkilau (Tick
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Kemungkinan besar terjadi anemia hemolitik akibat genetik 'Defisiensi Piruvat Kinase (PKD)'. Kekurangan enzim PK menghancurkan sel darah merah sehingga gusi menjadi pucat, napas cepat, dan lemas berat. Karena kondisi ini mengancam nyawa, segera bawa ke dokter hewan darurat untuk pemeriksaan darah.
+      Kemungkinan besar terjadi anemia hemolitik akibat genetik 'Defisiensi Piruvat Kinase (PKDef)'. Kekurangan enzim PK menghancurkan sel darah merah sehingga gusi menjadi pucat, napas cepat, dan lemas berat. Karena kondisi ini mengancam nyawa, segera bawa ke dokter hewan darurat untuk pemeriksaan darah.
     </p>
   </details>
 

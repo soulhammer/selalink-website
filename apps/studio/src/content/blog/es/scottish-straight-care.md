@@ -19,17 +19,17 @@ steps:
   - name: "Rutina diaria de 3 pasos para el cuidado de Scottish Straight (Scottish Straight)"
     text: "* STEP 1. Mañana: Control de peso, ración medida alta en proteína e higiene ocular: Suministre comida rica en proteína medida para evitar la obesidad, limpiando las lagañas con gasa estéril.
 
-* STEP 2. Tarde: Zonas de descanso a baja altura y fuentes de agua (Cuidado renal): Instale fuentes de agua limpia para prevenir complicaciones de PKD o cistitis, ofreciendo camas accesibles.
+* STEP 2. Tarde: Zonas de descanso a baja altura y fuentes de agua (Cuidado renal): Instale fuentes de agua limpia para prevenir complicaciones de PKDef o cistitis, ofreciendo camas accesibles.
 
 * STEP 3. Noche: Juego interactivo de bajo impacto (15–20 min) y cepillado del manto: Juegue con plumeros a nivel del suelo para quemar calorías sin dañar articulaciones, cepillando su denso pelo."
 faqs:
   - question: "¿Cuál es la diferencia entre Scottish Fold y Straight, y tienen enfermedades genéticas los Straight?"
-    answer: "Los Scottish Fold poseen la mutación genética (Fd) que causa displasia de cartílago y dolor articular grave, mientras que los Scottish Straight tienen orejas erguidas y cartílago normal. Sin embargo, por su ascendencia con el British Shorthair, los Straight deben examinarse periódicamente de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKD)."
+    answer: "Los Scottish Fold poseen la mutación genética (Fd) que causa displasia de cartílago y dolor articular grave, mientras que los Scottish Straight tienen orejas erguidas y cartílago normal. Sin embargo, por su ascendencia con el British Shorthair, los Straight deben examinarse periódicamente de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKDef)."
   - question: "El Scottish Straight engorda con facilidad, ¿cómo debo gestionar su peso?"
     answer: "Su temperamento tranquilo favorece el aumento de peso. Ofrezca un pienso medido rico en proteínas y bajo en carbohidratos, y realice sesiones diarias de juego de 15 a 20 minutos a ras de suelo para mantener su masa muscular sin dañar las articulaciones."
 ---
 
-Adorado por su cara redonda y orejas erguidas, el Scottish Straight posee todo el encanto tierno de la raza sin los riesgos genéticos de la osteocondrodisplasia presente en los Scottish Fold. Aunque no tienen el gen de las orejas plegadas, su estructura robusta los predispone al sobrepeso. La obesidad en esta raza sobrecarga las articulaciones y acelera el riesgo de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKD). En esta guía, presenta una rutina de 3 pasos para proteger su salud.
+Adorado por su cara redonda y orejas erguidas, el Scottish Straight posee todo el encanto tierno de la raza sin los riesgos genéticos de la osteocondrodisplasia presente en los Scottish Fold. Aunque no tienen el gen de las orejas plegadas, su estructura robusta los predispone al sobrepeso. La obesidad en esta raza sobrecarga las articulaciones y acelera el riesgo de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKDef). En esta guía, presenta una rutina de 3 pasos para proteger su salud.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Adorado por su cara redonda y orejas erguidas, el Scottish Straight posee todo e
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tarde: Zonas de descanso a baja altura y fuentes de agua (Cuidado renal)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Instale fuentes de agua limpia para prevenir complicaciones de PKD o cistitis, ofreciendo camas accesibles.
+    Instale fuentes de agua limpia para prevenir complicaciones de PKDef o cistitis, ofreciendo camas accesibles.
   </p>
 </div>
 
@@ -170,7 +170,7 @@ Adorado por su cara redonda y orejas erguidas, el Scottish Straight posee todo e
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Los Scottish Fold poseen la mutación genética (Fd) que causa displasia de cartílago y dolor articular grave, mientras que los Scottish Straight tienen orejas erguidas y cartílago normal. Sin embargo, por su ascendencia con el British Shorthair, los Straight deben examinarse periódicamente de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKD).
+      Los Scottish Fold poseen la mutación genética (Fd) que causa displasia de cartílago y dolor articular grave, mientras que los Scottish Straight tienen orejas erguidas y cartílago normal. Sin embargo, por su ascendencia con el British Shorthair, los Straight deben examinarse periódicamente de Cardiomiopatía Hipertrófica (HCM) y Poliquistosis Renal (PKDef).
     </p>
   </details>
 

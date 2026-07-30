@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Körpersprache der Abessinierkatze und 3-Schritte-Tagesroutine zur Vorbeugung von Anämie und Zahnerkrankungen"
-description: "Pflegeanleitung für die elegante Abessinierkatze (Abyssinian). Kopfstupsen und blasse Schleimhäute verstehen, PK-Defizienz-Anämie (PKD) vermeiden und Kletterraum sowie Zähne in 3 Schritten pflegen."
+description: "Pflegeanleitung für die elegante Abessinierkatze (Abyssinian). Kopfstupsen und blasse Schleimhäute verstehen, PK-Defizienz-Anämie (PKDef) vermeiden und Kletterraum sowie Zähne in 3 Schritten pflegen."
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "Körpersprache und Verhaltenssignale von Abessinierkatze (Abyssinian)"
     text: "* Kopfstupsen und Wangenreiben (Head-Butting / Bunting): Zeichen großer Zuneigung und Vertrauen, das Sie mit Gesichtspheromonen als sicheres Familienmitglied markiert. (Antworten Sie liebevoll durch sanftes Kraulen am Kinn oder an der Stirn.)
 
-* Blasses Zahnfleisch und apathisches Verkriechen (Pale Gums & Lethargy): Notfallsignal für erblich bedingte Anämie durch Pyruvatkinasedefizienz (PKD) oder akute Zahnfleischschmerzen. (Kontrollieren Sie sofort das Zahnfleisch und suchen Sie für ein Blutbild (CBC) und Gentests umgehend einen Tierarzt auf.)"
+* Blasses Zahnfleisch und apathisches Verkriechen (Pale Gums & Lethargy): Notfallsignal für erblich bedingte Anämie durch Pyruvatkinasedefizienz (PKDef) oder akute Zahnfleischschmerzen. (Kontrollieren Sie sofort das Zahnfleisch und suchen Sie für ein Blutbild (CBC) und Gentests umgehend einen Tierarzt auf.)"
   - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Abessinierkatze (Abyssinian)"
     text: "* STEP 1. Morgen: Zahnpflege mit Katzenzahnpasta & Kontrolle von Zahnfleisch und Appetit: Putzen Sie die Zähne mit spezieller Katzenzahnpasta gegen frühe Parodontitis und prüfen Sie die Farbe des Zahnfleisches.
 
@@ -24,12 +24,12 @@ steps:
 * STEP 3. Abend: Intensives Jagdspiel mit der Angel (20–30 Min.) & Frisches Trinkwasser: Powern Sie die Katze mit Reizangeln aus, um aufgestaute Energie abzubauen, und reinigen Sie den Trinkbrunnen."
 faqs:
   - question: "Meine Abessinierkatze zieht sich zurück und hat blasses Zahnfleisch. Ist das eine Erbkrankheit?"
-    answer: "Es besteht der dringende Verdacht auf eine hämolytische Anämie durch 'Pyruvatkinasedefizienz (PKD)'. Der Enzymmangel zerstört rote Blutkörperchen und führt zu blassem Zahnfleisch, Kurzatmigkeit und schwerer Apathie. Da Lebensgefahr besteht, suchen Sie sofort den Tiernotdienst für Blutuntersuchungen auf."
+    answer: "Es besteht der dringende Verdacht auf eine hämolytische Anämie durch 'Pyruvatkinasedefizienz (PKDef)'. Der Enzymmangel zerstört rote Blutkörperchen und führt zu blassem Zahnfleisch, Kurzatmigkeit und schwerer Apathie. Da Lebensgefahr besteht, suchen Sie sofort den Tiernotdienst für Blutuntersuchungen auf."
   - question: "Meine Abessinierkatze rennt ständig herum und klettert auf die höchsten Möbel."
     answer: "Abessinier sind geborene Akrobaten mit extremem Bewegungsdrang und Höhenbedürfnis. Fehlen Kratzbäume oder Kletterwände, führt die Frustration zu Möbelkratzen oder nächtlichen Zoomies. Bieten Sie ausreichend Klettermöglichkeiten und spielen Sie täglich mindestens 20 Minuten intensiv."
 ---
 
-Berühmt für ihren athletischen, pumaartigen Körperbau und ihr geticktes Fell (Ticked Tabby), ist die Abessinierkatze eine hochintelligente Rasse, die auch als 'Clown des Katzenreichs' bekannt ist. Abessinier besitzen einen enormen Bewegungsdrang und eine große Vorliebe für Höhen, weshalb Kratzbäume und Kletterwände unerlässlich sind. Medizinisch neigen sie zur Pyruvatkinasedefizienz (PKD) – einer erblichen Blutarmut – sowie zu früher Zahnfleischentzündung (Gingivitis) und Progressiver Retinaatrophie (PRA). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihre Abessinierkatze.
+Berühmt für ihren athletischen, pumaartigen Körperbau und ihr geticktes Fell (Ticked Tabby), ist die Abessinierkatze eine hochintelligente Rasse, die auch als 'Clown des Katzenreichs' bekannt ist. Abessinier besitzen einen enormen Bewegungsdrang und eine große Vorliebe für Höhen, weshalb Kratzbäume und Kletterwände unerlässlich sind. Medizinisch neigen sie zur Pyruvatkinasedefizienz (PKDef) – einer erblichen Blutarmut – sowie zu früher Zahnfleischentzündung (Gingivitis) und Progressiver Retinaatrophie (PRA). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihre Abessinierkatze.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ Berühmt für ihren athletischen, pumaartigen Körperbau und ihr geticktes Fell 
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        Notfallsignal für erblich bedingte Anämie durch Pyruvatkinasedefizienz (PKD) oder akute Zahnfleischschmerzen.
+        Notfallsignal für erblich bedingte Anämie durch Pyruvatkinasedefizienz (PKDef) oder akute Zahnfleischschmerzen.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
@@ -170,7 +170,7 @@ Berühmt für ihren athletischen, pumaartigen Körperbau und ihr geticktes Fell 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Es besteht der dringende Verdacht auf eine hämolytische Anämie durch 'Pyruvatkinasedefizienz (PKD)'. Der Enzymmangel zerstört rote Blutkörperchen und führt zu blassem Zahnfleisch, Kurzatmigkeit und schwerer Apathie. Da Lebensgefahr besteht, suchen Sie sofort den Tiernotdienst für Blutuntersuchungen auf.
+      Es besteht der dringende Verdacht auf eine hämolytische Anämie durch 'Pyruvatkinasedefizienz (PKDef)'. Der Enzymmangel zerstört rote Blutkörperchen und führt zu blassem Zahnfleisch, Kurzatmigkeit und schwerer Apathie. Da Lebensgefahr besteht, suchen Sie sofort den Tiernotdienst für Blutuntersuchungen auf.
     </p>
   </details>
 

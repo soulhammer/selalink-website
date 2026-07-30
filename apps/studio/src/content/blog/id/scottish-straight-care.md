@@ -19,17 +19,17 @@ steps:
   - name: "Rutinitas Perawatan Harian 3 Langkah untuk Scottish Straight (Scottish Straight)"
     text: "* STEP 1. Pagi: Kontrol Berat Badan, Pakan Tinggi Protein Terukur & Kebersihan Mata: Beri pakan tinggi protein dengan porsi terukur untuk mencegah obesitas, serta bersihkan sudut mata dengan kasa steril.
 
-* STEP 2. Siang: Tempat Istirahat yang Mudah Dijangkau & Air Minum Segar (Perawatan Ginjal): Sediakan dispenser air bersih untuk mencegah komplikasi PKD dan sistitis, serta sediakan tempat tidur yang nyaman.
+* STEP 2. Siang: Tempat Istirahat yang Mudah Dijangkau & Air Minum Segar (Perawatan Ginjal): Sediakan dispenser air bersih untuk mencegah komplikasi PKDef dan sistitis, serta sediakan tempat tidur yang nyaman.
 
 * STEP 3. Malam: Permainan Interaktif Ringan di Lantai (15–20 menit) & Penyisiran Bulu: Ajak bermain tongkat bulu di lantai untuk membakar kalori tanpa membebani sendi, lalu sisir bulunya yang tebal."
 faqs:
   - question: "Apa perbedaan Scottish Fold dan Straight, serta apakah Straight memiliki penyakit genetik?"
-    answer: "Scottish Fold memiliki gen mutasi (Fd) yang menyebabkan kelainan tulang dan nyeri sendi parah, sedangkan Scottish Straight memiliki telinga tegak dan tulang yang normal. Namun, karena garis keturunan dari British Shorthair, Scottish Straight tetap perlu skrining rutin Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKD)."
+    answer: "Scottish Fold memiliki gen mutasi (Fd) yang menyebabkan kelainan tulang dan nyeri sendi parah, sedangkan Scottish Straight memiliki telinga tegak dan tulang yang normal. Namun, karena garis keturunan dari British Shorthair, Scottish Straight tetap perlu skrining rutin Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKDef)."
   - question: "Scottish Straight mudah gemuk, bagaimana cara mengontrol berat badannya?"
     answer: "Sifatnya yang tenang membuat mereka mudah mengalami obesitas. Berikan pakan tinggi protein dan rendah karbohidrat dengan porsi terukur, serta ajak bermain di lantai selama 15–20 menit setiap hari untuk menjaga massa otot dan kesehatan jantung."
 ---
 
-Dicintai karena wajahnya yang bulat dan telinganya yang tegak, Scottish Straight memiliki semua pesona menggemaskan dari ras Scottish tanpa risiko genetik kelainan tulang seperti pada Scottish Fold. Walau tidak memiliki gen telinga lipat, tubuh mereka yang padat membuat mereka mudah mengalami kenaikan berat badan. Obesitas pada ras ini memberatkan sendi serta meningkatkan risiko Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKD). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Scottish Straight Anda.
+Dicintai karena wajahnya yang bulat dan telinganya yang tegak, Scottish Straight memiliki semua pesona menggemaskan dari ras Scottish tanpa risiko genetik kelainan tulang seperti pada Scottish Fold. Walau tidak memiliki gen telinga lipat, tubuh mereka yang padat membuat mereka mudah mengalami kenaikan berat badan. Obesitas pada ras ini memberatkan sendi serta meningkatkan risiko Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKDef). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Scottish Straight Anda.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Dicintai karena wajahnya yang bulat dan telinganya yang tegak, Scottish Straight
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Siang: Tempat Istirahat yang Mudah Dijangkau & Air Minum Segar (Perawatan Ginjal)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Sediakan dispenser air bersih untuk mencegah komplikasi PKD dan sistitis, serta sediakan tempat tidur yang nyaman.
+    Sediakan dispenser air bersih untuk mencegah komplikasi PKDef dan sistitis, serta sediakan tempat tidur yang nyaman.
   </p>
 </div>
 
@@ -170,7 +170,7 @@ Dicintai karena wajahnya yang bulat dan telinganya yang tegak, Scottish Straight
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Scottish Fold memiliki gen mutasi (Fd) yang menyebabkan kelainan tulang dan nyeri sendi parah, sedangkan Scottish Straight memiliki telinga tegak dan tulang yang normal. Namun, karena garis keturunan dari British Shorthair, Scottish Straight tetap perlu skrining rutin Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKD).
+      Scottish Fold memiliki gen mutasi (Fd) yang menyebabkan kelainan tulang dan nyeri sendi parah, sedangkan Scottish Straight memiliki telinga tegak dan tulang yang normal. Namun, karena garis keturunan dari British Shorthair, Scottish Straight tetap perlu skrining rutin Kardiomiopati Hipertrofik (HCM) dan Penyakit Ginjal Polikistik (PKDef).
     </p>
   </details>
 

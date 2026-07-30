@@ -1,6 +1,6 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "디스커스의 수형·체색 신호 해석과 구멍병(Hexamita) 및 수질 부적응 예방을 위한 3단계 데일리 케어"
+title: "디스커스의 수영·체색 신호 해석과 구멍병(Hexamita) 및 수질 부적응 예방을 위한 3단계 데일리 케어"
 description: "열대어의 왕 디스커스(Discus Fish). 체색 어두워짐 및 지느러미 접기 신호 해석, 약산성 고온 수질 관리, 홀인더헤드(구멍병) 예방을 위한 3단계 홈케어 루틴을 소개합니다."
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"

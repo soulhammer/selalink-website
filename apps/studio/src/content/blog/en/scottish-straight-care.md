@@ -19,17 +19,17 @@ steps:
   - name: "Customized 3-Step Home Care Routine for Scottish Straight (Scottish Straight)"
     text: "* STEP 1. Morning: Weight Check, High-Protein Portion Control Feeding & Eye Hygiene: Feed measured high-protein kibble to prevent obesity, gently cleaning eye corners with sterile gauze.
 
-* STEP 2. Afternoon: Low-Height Resting Spaces & Fresh Hydration Setup (Kidney Care): Place multiple clean water fountains to prevent PKD/FLUTD complications, ensuring accessible resting perches.
+* STEP 2. Afternoon: Low-Height Resting Spaces & Fresh Hydration Setup (Kidney Care): Place multiple clean water fountains to prevent PKDef/FLUTD complications, ensuring accessible resting perches.
 
 * STEP 3. Evening: Low-Impact Interactive Play (15–20 min) & Coat Brushing: Engage in floor-level feather wand chasing to burn calories safely without joint strain, brushing their plush coat."
 faqs:
   - question: "What is the difference between a Scottish Fold and a Scottish Straight, and do Straights have genetic issues?"
-    answer: "Scottish Folds possess the mutated Fold gene (Fd) causing cartilage defect and severe joint pain, whereas Scottish Straights have normal straight ears and no cartilage dysplasia. However, due to shared British/American Shorthair ancestry, Straights require screening for Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKD)."
+    answer: "Scottish Folds possess the mutated Fold gene (Fd) causing cartilage defect and severe joint pain, whereas Scottish Straights have normal straight ears and no cartilage dysplasia. However, due to shared British/American Shorthair ancestry, Straights require screening for Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKDef)."
   - question: "Scottish Straights gain weight easily—how should I manage my cat's weight?"
     answer: "Their calm nature and sturdy build facilitate easy weight gain. Feed measured portions of high-protein, low-carbohydrate food and engage them in 15–20 minutes of daily floor-level wand play to maintain muscle mass and protect heart health."
 ---
 
-Cherished for their round faces and erect ears, the Scottish Straight carries all the sweet, round charm of the Scottish breed without the genetic risk of osteochondrodysplasia found in Scottish Folds. While they lack the folded ear gene, their sturdy, cobby build makes them prone to weight gain. Obesity in this breed severely strains joints and accelerates risks of Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKD). In this guide, presents a 3-step daily care routine to read your Scottish Straight's body language and maintain its health.
+Cherished for their round faces and erect ears, the Scottish Straight carries all the sweet, round charm of the Scottish breed without the genetic risk of osteochondrodysplasia found in Scottish Folds. While they lack the folded ear gene, their sturdy, cobby build makes them prone to weight gain. Obesity in this breed severely strains joints and accelerates risks of Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKDef). In this guide, presents a 3-step daily care routine to read your Scottish Straight's body language and maintain its health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Cherished for their round faces and erect ears, the Scottish Straight carries al
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Afternoon: Low-Height Resting Spaces & Fresh Hydration Setup (Kidney Care)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Place multiple clean water fountains to prevent PKD/FLUTD complications, ensuring accessible resting perches.
+    Place multiple clean water fountains to prevent PKDef/FLUTD complications, ensuring accessible resting perches.
   </p>
 </div>
 
@@ -170,7 +170,7 @@ Cherished for their round faces and erect ears, the Scottish Straight carries al
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Scottish Folds possess the mutated Fold gene (Fd) causing cartilage defect and severe joint pain, whereas Scottish Straights have normal straight ears and no cartilage dysplasia. However, due to shared British/American Shorthair ancestry, Straights require screening for Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKD).
+      Scottish Folds possess the mutated Fold gene (Fd) causing cartilage defect and severe joint pain, whereas Scottish Straights have normal straight ears and no cartilage dysplasia. However, due to shared British/American Shorthair ancestry, Straights require screening for Hypertrophic Cardiomyopathy (HCM) and Polycystic Kidney Disease (PKDef).
     </p>
   </details>
 

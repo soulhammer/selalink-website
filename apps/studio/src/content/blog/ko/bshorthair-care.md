@@ -10,7 +10,7 @@ app: "petself"
 formatVersion: 4
 authority: "GCCF 브리티시 숏헤어 표준 및 AAFP 고양이 비만 지침"
 steps:
-  - name: "브리티시 숏헤어의 바디 랭귀지: 멀리서 돕는 눈인사와 꼬리 신호"
+  - name: "브리티시 숏헤어의 바디 랭귀지: 지긋이 바라보는 눈인사와 꼬리 신호"
     text: "브리티시 숏헤어는 억압적인 스킨십을 싫어하며 일정한 거리를 둔 채 보호자를 바라보는 '지긋이 바라보기(Soft Staring)'를 통해 안정감을 표시합니다. 이는 독립적인 관계를 원하지만 신뢰한다는 뜻입니다. 반면에 불편하거나 귀찮을 때는 누운 채 꼬리 끝만 바닥을 툭툭 치는 '꼬리 치기(Tail Swishing)' 행동을 보입니다. 이때 억지로 안으면 스트레스 지수가 올라갑니다."
   - name: "브리티시 숏헤어 (British Shorthair)의 몸짓 언어와 바디 시그널"
     text: "* 지긋이 바라보기 (Soft Staring): 한 공간에 함께 머무는 것만으로도 행복하고 안정감을 느낀다는 독립적이고 성숙한 사랑 표현입니다. (눈을 천천히 깜빡이며 사랑을 확인해주고, 억지로 다가가 안아 올리지 말고 말없이 지켜보세요.)
@@ -47,12 +47,12 @@ faqs:
 
 ---
 
-## 1. 브리티시 숏헤어의 바디 랭귀지: 멀리서 돕는 눈인사와 꼬리 신호
+## 1. 브리티시 숏헤어의 바디 랭귀지: 지긋이 바라보는 눈인사와 꼬리 신호
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">브리티시 숏헤어의 바디 랭귀지: 멀리서 돕는 눈인사와 꼬리 신호</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">브리티시 숏헤어의 바디 랭귀지: 지긋이 바라보는 눈인사와 꼬리 신호</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     브리티시 숏헤어는 억압적인 스킨십을 싫어하며 일정한 거리를 둔 채 보호자를 바라보는 '지긋이 바라보기(Soft Staring)'를 통해 안정감을 표시합니다. 이는 독립적인 관계를 원하지만 신뢰한다는 뜻입니다. 반면에 불편하거나 귀찮을 때는 누운 채 꼬리 끝만 바닥을 툭툭 치는 '꼬리 치기(Tail Swishing)' 행동을 보입니다. 이때 억지로 안으면 스트레스 지수가 올라갑니다.

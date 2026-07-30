@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Señales de afecto y salud en el Gato Abisinio y rutina diaria de 3 pasos para el cuidado de anemia y salud dental"
-description: "Guía de cuidado para el ágil Gato Abisinio (Abyssinian). Interprete los topetazos con la cabeza y encías pálidas, prevenga la anemia por deficiencia de PK (PKD) y gestione el espacio vertical en 3 pasos."
+description: "Guía de cuidado para el ágil Gato Abisinio (Abyssinian). Interprete los topetazos con la cabeza y encías pálidas, prevenga la anemia por deficiencia de PK (PKDef) y gestione el espacio vertical en 3 pasos."
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "Lenguaje corporal y señales de conducta de Gato Abisinio (Abyssinian)"
     text: "* Topetazo con la cabeza y frotado de mejillas (Head-Butting / Bunting): Señal de afecto profundo y confianza que deposita feromonas faciales marcándote como su territorio seguro. (Responda con entusiasmo rascando suavemente debajo de su barbilla o frente.)
 
-* Encías pálidas y aislamiento con apatía (Pale Gums & Lethargy): Signo clínico urgente de anemia hemolítica por Deficiencia de Piruvato Kinasa (PKD) o dolor periodontal agudo. (Revise las encías de inmediato y acuda al veterinario para un hemograma completo (CBC) y prueba genética.)"
+* Encías pálidas y aislamiento con apatía (Pale Gums & Lethargy): Signo clínico urgente de anemia hemolítica por Deficiencia de Piruvato Kinasa (PKDef) o dolor periodontal agudo. (Revise las encías de inmediato y acuda al veterinario para un hemograma completo (CBC) y prueba genética.)"
   - name: "Rutina diaria de 3 pasos para el cuidado de Gato Abisinio (Abyssinian)"
     text: "* STEP 1. Mañana: Cepillado dental felino y control de color de encías y apetito: Limpie sus dientes con dentífrico felino dada su alta propensión a la gingivitis, inspeccionando encías y apetito.
 
@@ -24,12 +24,12 @@ steps:
 * STEP 3. Noche: Juego interactivo de cacería (20–30 min) y fuente de agua fresca: Realice sesiones de juego intensas con plumeros para quemar energía, desinfectando la fuente para proteger su sistema urinario."
 faqs:
   - question: "Mi Abisinio se esconde y tiene las encías pálidas, ¿es una enfermedad genética?"
-    answer: "Existe un alto riesgo de anemia hemolítica por 'Deficiencia de Piruvato Kinasa (PKD)'. La falta de esta enzima destruye glóbulos rojos, causando encías blancas, respiración rápida y letargo severo. Al ser una urgencia médica, acuda inmediatamente al veterinario para análisis de sangre y tratamiento."
+    answer: "Existe un alto riesgo de anemia hemolítica por 'Deficiencia de Piruvato Kinasa (PKDef)'. La falta de esta enzima destruye glóbulos rojos, causando encías blancas, respiración rápida y letargo severo. Al ser una urgencia médica, acuda inmediatamente al veterinario para análisis de sangre y tratamiento."
   - question: "Mi Abisinio no para de correr por toda la casa y busca los puntos más altos."
     answer: "Los abisinios son acróbatas natos con altísima energía e instinto de exploración vertical. Si carecen de árboles altos o repisas de pared, sufrirán estrés que deriva en conductas destructivas o carreras nocturnas (zoomies). Proporcione un entorno vertical rico y juegue con él al menos 20 minutos al día."
 ---
 
-Admirado por su cuerpo atlético tipo puma y su pelaje punteado (Ticked Tabby), el Gato Abisinio (Abyssinian) es una raza inteligente conocida como el 'payaso del mundo felino'. Poseen una energía inagotable y una gran pasión por las alturas, necesitando rascadores altos para prevenir el estrés. Clínicamente, son propensos a la Deficiencia de Piruvato Kinasa (PKD/anemia hemolítica genética), así como a gingivitis/periodontitis prematura y Atrofia Progresiva de Retina (PRA). En esta guía, presenta una rutina de 3 pasos para proteger su salud.
+Admirado por su cuerpo atlético tipo puma y su pelaje punteado (Ticked Tabby), el Gato Abisinio (Abyssinian) es una raza inteligente conocida como el 'payaso del mundo felino'. Poseen una energía inagotable y una gran pasión por las alturas, necesitando rascadores altos para prevenir el estrés. Clínicamente, son propensos a la Deficiencia de Piruvato Kinasa (PKDef/anemia hemolítica genética), así como a gingivitis/periodontitis prematura y Atrofia Progresiva de Retina (PRA). En esta guía, presenta una rutina de 3 pasos para proteger su salud.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ Admirado por su cuerpo atlético tipo puma y su pelaje punteado (Ticked Tabby), 
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        Signo clínico urgente de anemia hemolítica por Deficiencia de Piruvato Kinasa (PKD) o dolor periodontal agudo.
+        Signo clínico urgente de anemia hemolítica por Deficiencia de Piruvato Kinasa (PKDef) o dolor periodontal agudo.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
@@ -170,7 +170,7 @@ Admirado por su cuerpo atlético tipo puma y su pelaje punteado (Ticked Tabby), 
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Existe un alto riesgo de anemia hemolítica por 'Deficiencia de Piruvato Kinasa (PKD)'. La falta de esta enzima destruye glóbulos rojos, causando encías blancas, respiración rápida y letargo severo. Al ser una urgencia médica, acuda inmediatamente al veterinario para análisis de sangre y tratamiento.
+      Existe un alto riesgo de anemia hemolítica por 'Deficiencia de Piruvato Kinasa (PKDef)'. La falta de esta enzima destruye glóbulos rojos, causando encías blancas, respiración rápida y letargo severo. Al ser una urgencia médica, acuda inmediatamente al veterinario para análisis de sangre y tratamiento.
     </p>
   </details>
 

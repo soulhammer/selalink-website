@@ -19,17 +19,17 @@ steps:
   - name: "Routine quotidienne en 3 étapes pour le soin du Scottish Straight (Scottish Straight)"
     text: "* STEP 1. Matin : Suivi du poids, repas dosé riche en protéines & hygiène des yeux: Donnez une quantité mesurée de croquettes protéinées pour éviter l'obésité et nettoyez les yeux avec une compresse stérile.
 
-* STEP 2. Après-midi : Zones de repos accessibles & fontaines d'eau (Soin des reins): Installez des fontaines d'eau propre contre les risques de PKD ou cystites, et prévoyez des reposoirs faciles d'accès.
+* STEP 2. Après-midi : Zones de repos accessibles & fontaines d'eau (Soin des reins): Installez des fontaines d'eau propre contre les risques de PKDef ou cystites, et prévoyez des reposoirs faciles d'accès.
 
 * STEP 3. Soir : Jeu interactif doux au sol (15–20 min) & brossage du pelage: Jouez au ras du sol avec un plumet pour brûler des calories sans fatiguer les articulations, et brossez son pelage dense."
 faqs:
   - question: "Quelle différence entre un Scottish Fold et un Straight, et le Straight a-t-il des maladies génétiques ?"
-    answer: "Le Scottish Fold possède le gène mutant (Fd) responsable d'ostéochondrodysplasie et de douleurs articulaires, tandis que le Scottish Straight a des oreilles droites et un cartilage normal. Cependant, en raison de ses croisements avec le British Shorthair, le Straight doit être dépisté pour la Cardiomyopathie Hypertrophique (HCM) et la Polykystose Rénale (PKD)."
+    answer: "Le Scottish Fold possède le gène mutant (Fd) responsable d'ostéochondrodysplasie et de douleurs articulaires, tandis que le Scottish Straight a des oreilles droites et un cartilage normal. Cependant, en raison de ses croisements avec le British Shorthair, le Straight doit être dépisté pour la Cardiomyopathie Hypertrophique (HCM) et la Polykystose Rénale (PKDef)."
   - question: "Le Scottish Straight grossit facilement, comment gérer son poids ?"
     answer: "Leur caractère calme et leur ossature trapue favorisent l'embonpoint. Donnez des repas dosés riches en protéines et pauvres en glucides, et proposez 15 à 20 minutes de jeu quotidien au sol pour préserver la masse musculaire et le cœur."
 ---
 
-Apprécié pour sa tête ronde et ses oreilles droites, le Scottish Straight possède tout le charme rond du Scottish sans les risques génétiques d'ostéochondrodysplasie du Scottish Fold. Bien qu'ils n'aient pas le gène des oreilles pliées, leur constitution robuste les rend sujets à la prise de poids. L'obésité chez cette race fatigue les articulations et accroît le risque de Cardiomyopathie Hypertrophique (HCM) et de Polykystose Rénale (PKD). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.
+Apprécié pour sa tête ronde et ses oreilles droites, le Scottish Straight possède tout le charme rond du Scottish sans les risques génétiques d'ostéochondrodysplasie du Scottish Fold. Bien qu'ils n'aient pas le gène des oreilles pliées, leur constitution robuste les rend sujets à la prise de poids. L'obésité chez cette race fatigue les articulations et accroît le risque de Cardiomyopathie Hypertrophique (HCM) et de Polykystose Rénale (PKDef). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Apprécié pour sa tête ronde et ses oreilles droites, le Scottish Straight pos
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Après-midi : Zones de repos accessibles & fontaines d'eau (Soin des reins)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Installez des fontaines d'eau propre contre les risques de PKD ou cystites, et prévoyez des reposoirs faciles d'accès.
+    Installez des fontaines d'eau propre contre les risques de PKDef ou cystites, et prévoyez des reposoirs faciles d'accès.
   </p>
 </div>
 
@@ -170,7 +170,7 @@ Apprécié pour sa tête ronde et ses oreilles droites, le Scottish Straight pos
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Le Scottish Fold possède le gène mutant (Fd) responsable d'ostéochondrodysplasie et de douleurs articulaires, tandis que le Scottish Straight a des oreilles droites et un cartilage normal. Cependant, en raison de ses croisements avec le British Shorthair, le Straight doit être dépisté pour la Cardiomyopathie Hypertrophique (HCM) et la Polykystose Rénale (PKD).
+      Le Scottish Fold possède le gène mutant (Fd) responsable d'ostéochondrodysplasie et de douleurs articulaires, tandis que le Scottish Straight a des oreilles droites et un cartilage normal. Cependant, en raison de ses croisements avec le British Shorthair, le Straight doit être dépisté pour la Cardiomyopathie Hypertrophique (HCM) et la Polykystose Rénale (PKDef).
     </p>
   </details>
 

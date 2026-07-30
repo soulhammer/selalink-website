@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "セルカークレックスの巻き毛＆耳掃除ケア：毛玉予防とPKD対策のための3ステップ日常ルーティン"
-description: "羊のような愛くるしい巻き毛を持つセルカークレックス。被毛の絡まり防止、耳垢ケア、多発性嚢胞腎（PKD）予防を網羅した3ステップケアを解説します。"
+title: "セルカークレックスの巻き毛＆耳掃除ケア：毛玉予防とPKDef対策のための3ステップ日常ルーティン"
+description: "羊のような愛くるしい巻き毛を持つセルカークレックス。被毛の絡まり防止、耳垢ケア、多発性嚢胞腎（PKDef）予防を網羅した3ステップケアを解説します。"
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "FreshSelf"
@@ -19,17 +19,17 @@ steps:
   - name: "セルカークレックス (Selkirk Rex)のための3ステップホームケアルーティン"
     text: "* STEP 1. 朝：耳のチェックと目の粗いコームでの毛並み整え: 耳内の状態を確認し、カールの美しさを損なわないよう目の粗いコームや手ぐしで抜け毛を優しく取り除きます。
 
-* STEP 2. 昼：PKD予防のための十分な水分補給環境と室温維持: 腎臓の健康を守るため部屋の複数場所に給水器を設置し、快適な室温（20〜24℃）を保ちます。
+* STEP 2. 昼：PKDef予防のための十分な水分補給環境と室温維持: 腎臓の健康を守るため部屋の複数場所に給水器を設置し、快適な室温（20〜24℃）を保ちます。
 
 * STEP 3. 夜：ヒゲ周りのケアとヘアボールケアペーストの給与: カールしたヒゲや顔周りの汚れを拭き取り、胃の中の毛玉排出を助けるペースト状サプリメントを与えます。"
 faqs:
   - question: "セルカークレックスは毎日ブラッシングすべきですか？"
     answer: "目の細かいブラシで毎日ブラッシングすると美しいカールが伸びてしまいます。週2〜3回、目の粗いコーム（ピンブラシ）を使って抜け毛だけを優しく取り除くのが理想的です。"
-  - question: "多発性嚢胞腎（PKD）とはどのような遺伝性の病気ですか？"
-    answer: "腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKD Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。"
+  - question: "多発性嚢胞腎（PKDef）とはどのような遺伝性の病気ですか？"
+    answer: "腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKDef Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。"
 ---
 
-「羊の皮を着た猫」と称されるセルカークレックスは、豊かで柔らかいカールした被毛と温厚な性格で親しまれています。ほかのレックス種と異なり優性遺伝によるボリュームあるカール毛を持つため、抜け毛が内部に溜まりやすく毛玉（ヘアボール）ができやすい特徴があります。また耳の中の巻き毛により耳垢が溜まりやすく、ペルシャの血統を受け継ぐため多発性嚢胞腎（PKD）への配慮が必要です。今回はセルカークレックスの健康を守る3ステップ日常ルーティンをご紹介します。
+「羊の皮を着た猫」と称されるセルカークレックスは、豊かで柔らかいカールした被毛と温厚な性格で親しまれています。ほかのレックス種と異なり優性遺伝によるボリュームあるカール毛を持つため、抜け毛が内部に溜まりやすく毛玉（ヘアボール）ができやすい特徴があります。また耳の中の巻き毛により耳垢が溜まりやすく、ペルシャの血統を受け継ぐため多発性嚢胞腎（PKDef）への配慮が必要です。今回はセルカークレックスの健康を守る3ステップ日常ルーティンをご紹介します。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -138,7 +138,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">昼：PKD予防のための十分な水分補給環境と室温維持</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">昼：PKDef予防のための十分な水分補給環境と室温維持</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     腎臓の健康を守るため部屋の複数場所に給水器を設置し、快適な室温（20〜24℃）を保ちます。
@@ -176,11 +176,11 @@ faqs:
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">多発性嚢胞腎（PKD）とはどのような遺伝性の病気ですか？</span>
+      <span class="pr-4">多発性嚢胞腎（PKDef）とはどのような遺伝性の病気ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKD Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。
+      腎臓に嚢胞（水のたまった袋）ができ、機能を低下させる遺伝性疾患です。親猫の遺伝子検査（PKDef Clear）を確認し、十分に水分を摂らせ、定期的な超音波検査を受けましょう。
     </p>
   </details>
 </div>

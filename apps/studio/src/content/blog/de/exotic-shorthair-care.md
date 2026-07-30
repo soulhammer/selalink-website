@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Verhaltenssignale der Exotic Shorthair und 3-Schritte-Tagesroutine für das brachyzephale Atemwegssyndrom (BAS) und Polyzystische Nierenerkrankung (PKD)"
-description: "Pflegeanleitung für die niedliche Exotic Shorthair (Exotische Kurzhaarkatze). Köpfchengeben und Schnurren verstehen, Gesichtsfalten pflegen, Atemwege schützen und PKD in 3 Schritten vorbeugen."
+title: "Verhaltenssignale der Exotic Shorthair und 3-Schritte-Tagesroutine für das brachyzephale Atemwegssyndrom (BAS) und Polyzystische Nierenerkrankung (PKDef)"
+description: "Pflegeanleitung für die niedliche Exotic Shorthair (Exotische Kurzhaarkatze). Köpfchengeben und Schnurren verstehen, Gesichtsfalten pflegen, Atemwege schützen und PKDef in 3 Schritten vorbeugen."
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
@@ -17,7 +17,7 @@ steps:
 
 * Mit halb geschlossenen Augen entspannt liegen und leise brummen (Purring): Zeichen für vollkommenes Wohlbefinden, Sicherheitsgefühl und Schmerzfreiheit in der Umgebung. (Bewahren Sie ein ruhiges, warmes Umfeld, damit das Tier ungestört weiterschlafen kann.)"
   - name: "Maßgeschneiderte 3-Schritte-Tagesroutine für Exotic Shorthair (Exotische Kurzhaarkatze)"
-    text: "* STEP 1. Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKD-Vorsorge: Wischen Sie Augenränder und Falten wegen des Tränenflusses vorsichtig ab, und füttern Sie Nassfutter zur Durchspülung der Nieren.
+    text: "* STEP 1. Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKDef-Vorsorge: Wischen Sie Augenränder und Falten wegen des Tränenflusses vorsichtig ab, und füttern Sie Nassfutter zur Durchspülung der Nieren.
 
 * STEP 2. Mittag: Angenehmes Raumklima (Atemwegsschutz) & Sanftes Spiel zur Gewichtskontrolle: Halten Sie den Raum kühl (22 °C–24 °C), da Rassen mit flachem Gesicht Hitze schlecht ausgleichen; schonendes Spiel beugt Übergewicht vor.
 
@@ -25,11 +25,11 @@ steps:
 faqs:
   - question: "Warum schnarcht meine Exotic Shorthair oder atmet manchmal laut?"
     answer: "Die Exotic Shorthair hat verkürzte Nasenwege und engere Nasenlöcher (Brachyzephales Atemwegssyndrom, BAS), weshalb leichtes Schnorcheln vollkommen normal sein kann. Sollte die Katze jedoch durch den Mund atmen, blaue Schleimhäute zeigen oder schwer nach Luft ringen, suchen Sie sofort einen Tierarzt auf."
-  - question: "Wie beuge ich der Polyzystischen Nierenerkrankung (PKD) vor?"
-    answer: "Die Polyzystische Nierenerkrankung (PKD) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme."
+  - question: "Wie beuge ich der Polyzystischen Nierenerkrankung (PKDef) vor?"
+    answer: "Die Polyzystische Nierenerkrankung (PKDef) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme."
 ---
 
-Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr flaches Gesicht, ihre großen Kugelaugen und ihr ruhiges, liebevolles Wesen weltbekannt. Sie vereint die Sanftmut der Perserkatze mit der unkomplizierten Art der Amerikanischen Kurzhaarkatze. Aufgrund ihrer flachen Gesichtsstruktur (Brachyzephalie) neigt sie jedoch zum Brachyzephalen Atemwegssyndrom (BAS) und Tränenkanalverstopfungen. Zudem besteht ein genetisches Risiko für die Polyzystische Nierenerkrankung (PKD). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Exotic Shorthair.
+Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr flaches Gesicht, ihre großen Kugelaugen und ihr ruhiges, liebevolles Wesen weltbekannt. Sie vereint die Sanftmut der Perserkatze mit der unkomplizierten Art der Amerikanischen Kurzhaarkatze. Aufgrund ihrer flachen Gesichtsstruktur (Brachyzephalie) neigt sie jedoch zum Brachyzephalen Atemwegssyndrom (BAS) und Tränenkanalverstopfungen. Zudem besteht ein genetisches Risiko für die Polyzystische Nierenerkrankung (PKDef). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Exotic Shorthair.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -128,7 +128,7 @@ Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr f
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKD-Vorsorge</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKDef-Vorsorge</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Wischen Sie Augenränder und Falten wegen des Tränenflusses vorsichtig ab, und füttern Sie Nassfutter zur Durchspülung der Nieren.
@@ -176,11 +176,11 @@ Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr f
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Wie beuge ich der Polyzystischen Nierenerkrankung (PKD) vor?</span>
+      <span class="pr-4">Wie beuge ich der Polyzystischen Nierenerkrankung (PKDef) vor?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Die Polyzystische Nierenerkrankung (PKD) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme.
+      Die Polyzystische Nierenerkrankung (PKDef) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme.
     </p>
   </details>
 </div>

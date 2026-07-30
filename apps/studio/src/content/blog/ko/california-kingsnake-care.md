@@ -29,7 +29,7 @@ faqs:
     answer: "먹성이 강해 손에 먹이 냄새가 남아있으면 손가락을 먹이로 오인할 수 있습니다. 피딩 핀셋을 사용하고 핸들링 전 손을 비누로 깨끗이 씻어야 합니다."
 ---
 
-캘리포니아 킹스네이크(*Lampropeltis californiae*)는 볼파이톤, 콘스네이크와 함께 세계 3대 입문용 애완뱀으로 손꼽히는 북미 원산의 대표적인 유혈목이과 파충류입니다. 선명한 흑백 밴드 무늬와 매끈한 비늘, 강인한 생명력으로 오랜 기간 사랑받아 왔습니다. 다른 뱀을 사냥해 먹는 '동종포식(Ophidiophagy)' 본능이 있어 반드시 1사육장 1개체 단독 사육을 원칙으로 해야 합니다. 올바른 핸들링 수칙과 온·습도 조절이 필수적인 캘리포니아 킹스네이크의 3단계 데일리 케어 루틴을 다룹니다.
+캘리포니아 킹스네이크(*Lampropeltis californiae*)는 볼파이톤, 콘스네이크와 함께 세계 3대 입문용 애완뱀으로 손꼽히는 북미 원산의 대표적인 뱀과(Colubridae) 파충류입니다. 선명한 흑백 밴드 무늬와 매끈한 비늘, 강인한 생명력으로 오랜 기간 사랑받아 왔습니다. 다른 뱀을 사냥해 먹는 '동종포식(Ophidiophagy)' 본능이 있어 반드시 1사육장 1개체 단독 사육을 원칙으로 해야 합니다. 올바른 핸들링 수칙과 온·습도 조절이 필수적인 캘리포니아 킹스네이크의 3단계 데일리 케어 루틴을 다룹니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">

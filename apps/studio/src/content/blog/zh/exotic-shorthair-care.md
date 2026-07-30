@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "异国短毛猫行为信号解读与短头颅呼吸道综合征 (BAS) 及多囊肾病 (PKD) 预防的 3 步日常流程"
-description: "拥有扁平可爱面容的异国短毛猫（Exotic Shorthair/加菲猫）护理指南。解读蹭脸与咕噜声信号，护理面部褶皱与眼痕，预防 PKD 的 3 步骤家庭护理。"
+title: "异国短毛猫行为信号解读与短头颅呼吸道综合征 (BAS) 及多囊肾病 (PKDef) 预防的 3 步日常流程"
+description: "拥有扁平可爱面容的异国短毛猫（Exotic Shorthair/加菲猫）护理指南。解读蹭脸与咕噜声信号，护理面部褶皱与眼痕，预防 PKDef 的 3 步骤家庭护理。"
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "FreshSelf"
@@ -17,7 +17,7 @@ steps:
 
 * 半合双眼，呈放松姿态并发出安静的咕噜声 (Purring): 表达对当下环境和主人陪伴感到绝对放松、无压力与无比舒适。 (保持环境安静温暖，切勿突然惊扰，让其安心休息。)"
   - name: "异国短毛猫 (Exotic Shorthair / 加菲猫) 定制化 3 步家庭护理流程"
-    text: "* STEP 1. 早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKD): 因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKD）。
+    text: "* STEP 1. 早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKDef): 因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKDef）。
 
 * STEP 2. 中午：室内温湿度控制（保护呼吸道）与适度温和的游戏: 短头结构散热能力差、怕热，应将室温维持在 22°C ~ 24°C，并进行温和的逗猫棒互动以控制体重。
 
@@ -25,11 +25,11 @@ steps:
 faqs:
   - question: "异国短毛猫为什么经常打呼噜或发出粗重的呼吸声？"
     answer: "异国短毛猫面部结构平扁、鼻道较短且鼻孔狭窄（短头颅呼吸道综合征，BAS），因此在正常状态下也可能发出轻微的呼噜声或鼾声。但如果出现张口呼吸、牙龈发绀（紫绀）或剧烈的哮喘声，必须立即送往宠物医院就诊。"
-  - question: "如何预防与管理多囊肾病（PKD）？"
-    answer: "多囊肾病（PKD）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
+  - question: "如何预防与管理多囊肾病（PKDef）？"
+    answer: "多囊肾病（PKDef）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
 ---
 
-被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKD）风险，控制体重对维持呼吸顺畅至关重要。本指南将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
+被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKDef）风险，控制体重对维持呼吸顺畅至关重要。本指南将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -128,10 +128,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKD)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKDef)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKD）。
+    因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKDef）。
   </p>
 </div>
 
@@ -176,11 +176,11 @@ faqs:
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">如何预防与管理多囊肾病（PKD）？</span>
+      <span class="pr-4">如何预防与管理多囊肾病（PKDef）？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      多囊肾病（PKD）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。
+      多囊肾病（PKDef）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。
     </p>
   </details>
 </div>

@@ -1,14 +1,14 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "슈가글라이더의 위협 신호 해석과 후지 마비·외로움 예방을 위한 3단계 데일리 케어"
-description: "주머니유랑류 슈가글라이더(Sugar Glider). 크래빙(개굴음) 신호 해석, 칼슘 결핍성 후지 마비(MBD) 및 외로움 방지를 위한 3단계 홈케어 루틴을 소개합니다."
+description: "주머니유낭류 슈가글라이더(Sugar Glider). 크래빙(개굴음) 신호 해석, 칼슘 결핍성 후지 마비(MBD) 및 외로움 방지를 위한 3단계 홈케어 루틴을 소개합니다."
 pubDate: "2026-07-08"
 updatedDate: "2026-07-26"
 category: "FreshSelf"
 heroImage: "/images/blog/sugar_glider_care.webp"
 app: "petself"
 formatVersion: 4
-authority: "국제 유랑류·야생동물 수의학회 (Association of Exotic Mammal Veterinarians) 케어 스탠다드"
+authority: "국제 유낭류·야생동물 수의학회 (Association of Exotic Mammal Veterinarians) 케어 스탠다드"
 steps:
   - name: "슈가글라이더의 바디 랭귀지: 크래빙(Crabbing) 소리와 포켓 안기(Pouch Cuddling)"
     text: "슈가글라이더는 특유의 소리와 울림으로 감정을 명확히 전달합니다. 위협을 느끼거나 낯선 자극에 깜짝 놀랐을 때 '드르륵-개굴' 거리는 고주파 마찰음을 내는 '크래빙(Crabbing)' 소리는 극심한 공포와 경계 신호입니다. 반면 전용 포켓 파우치 안에서 체온을 나누며 침착하게 머무는 '포켓 안기(Pouch Cuddling)'는 유대감이 형성되었음을 뜻하는 애정 신호입니다."
@@ -29,7 +29,7 @@ faqs:
     answer: "절대 권장하지 않습니다. 슈가글라이더는 야생에서 6 ~ 10마리씩 그룹을 형성해 사는 지극히 사회적인 유주류입니다. 1마리만 외롭게 키우면 우울증에 걸려 자신의 꼬리나 꼬리뼈, 주머니를 씹어 뜯는 자해(Self-mutilation) 행동을 보입니다. 가급적 2마리 이상 함께 사육해야 합니다."
 ---
 
-비막을 펼쳐 유연하게 활공하는 슈가글라이더(Sugar Glider / Petaurus breviceps)는 포유류 중 유랑류(유주류)에 속하는 소형 반려동물입니다. 야생에서 무리를 지어 생활하는 강한 사회적 본능을 가져 단독 사육 시 극심한 외로움으로 자해(Self-mutilation) 행동을 일으키기 쉽습니다. 또한 곤충과 수액 위주의 특수 식단으로 인해 칼슘과 인의 비율(2:1)이 무너지면 뒷다리가 마비되는 '후지 마비(MBD/영양성 골이형성증)'가 자주 발생합니다. 이번 가이드에서는 슈가글라이더의 바디 랭귀지를 파악하고 후지 마비와 스트레스를 예방하는 3단계 홈케어 루틴을 소개합니다.
+비막을 펼쳐 유연하게 활공하는 슈가글라이더(Sugar Glider / Petaurus breviceps)는 포유류 중 유낭류(유주류)에 속하는 소형 반려동물입니다. 야생에서 무리를 지어 생활하는 강한 사회적 본능을 가져 단독 사육 시 극심한 외로움으로 자해(Self-mutilation) 행동을 일으키기 쉽습니다. 또한 곤충과 수액 위주의 특수 식단으로 인해 칼슘과 인의 비율(2:1)이 무너지면 뒷다리가 마비되는 '후지 마비(MBD/영양성 골이형성증)'가 자주 발생합니다. 이번 가이드에서는 슈가글라이더의 바디 랭귀지를 파악하고 후지 마비와 스트레스를 예방하는 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -40,7 +40,7 @@ faqs:
       수의학적 & 행동학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 국제 유랑류·야생동물 수의학회 (Association of Exotic Mammal Veterinarians) 케어 스탠다드에 기반하고 있습니다.
+      본 콘텐츠는 국제 유낭류·야생동물 수의학회 (Association of Exotic Mammal Veterinarians) 케어 스탠다드에 기반하고 있습니다.
     </p>
   </div>
 </div>

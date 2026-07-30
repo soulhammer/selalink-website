@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "싱가푸라 고양이 추위 민감성과 PK 결핍증 관리: 체온 유지와 수직 공간 3단계 데일리 루틴"
-description: "세계에서 가장 작은 고양이 싱가푸라 케어법. 추위 민감성 예방, 피루베이트 키나아제 결핍증(PKD) 주의사항, 수직 공간 활용 3단계 루틴을 다룹니다."
+description: "세계에서 가장 작은 고양이 싱가푸라 케어법. 추위 민감성 예방, 피루베이트 키나아제 결핍증(PKDef) 주의사항, 수직 공간 활용 3단계 루틴을 다룹니다."
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "싱가푸라 고양이 (Singapura Cat)의 몸짓 언어와 바디 시그널"
     text: "* 몸을 웅크리고 구석에 들어감 (Huddling & Seeking Warmth): 작은 체구와 얇은 단모로 인해 추위를 쉽게 느껴 체온이 저하되었거나 한기를 느끼는 상태입니다. (실내 온도를 22 ~ 25℃로 유지하고, 따뜻한 난방 방석이나 담요를 제공하며 찬바람(드래프트)을 차단합니다.)
 
-* 과도한 잇몸 창백함 및 무기력 (Pale Gums & Lethargy): 피루베이트 키나아제 결핍증(PKD) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다. (즉시 잇몸과 귓속 색상을 확인하고 무기력증이 지속되면 동물병원에서 유전자 검사 및 혈액 검사를 받아야 합니다.)"
+* 과도한 잇몸 창백함 및 무기력 (Pale Gums & Lethargy): 피루베이트 키나아제 결핍증(PKDef) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다. (즉시 잇몸과 귓속 색상을 확인하고 무기력증이 지속되면 동물병원에서 유전자 검사 및 혈액 검사를 받아야 합니다.)"
   - name: "싱가푸라 고양이 (Singapura Cat) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 체온 및 잇몸 상태 확인 & 단모 빗질: 기상 후 잇몸 색상과 귀·발바닥 체온을 체크하고, 실리콘 브러시로 단모를 부드럽게 빗어주어 피지 분비를 촉진합니다.
 
@@ -29,7 +29,7 @@ faqs:
     answer: "적혈구 에너지를 만드는 효소가 부족해 용혈성 빈혈을 일으키는 유전 질환입니다. 입양 전 부모묘의 유전자 검사(PK Clear) 여부를 확인하고, 평소 잇몸 색상과 기력 변화를 유심히 살펴야 합니다."
 ---
 
-크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKD)에 유의해야 합니다. 이번 가이드에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.
+크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKDef)에 유의해야 합니다. 이번 가이드에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ faqs:
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        피루베이트 키나아제 결핍증(PKD) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다.
+        피루베이트 키나아제 결핍증(PKDef) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">

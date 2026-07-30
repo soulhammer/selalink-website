@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux d'affection et de santé du Chat Abyssin et routine quotidienne en 3 étapes pour la prévention de l'anémie et les soins dentaires"
-description: "Guide de soins pour le vif Chat Abyssin (Abyssinian). Décryptez le coup de tête affectueux et les gencives pâles, prévenez la déficience en pyruvate kinase (PKD) et gérez l'espace vertical en 3 étapes."
+description: "Guide de soins pour le vif Chat Abyssin (Abyssinian). Décryptez le coup de tête affectueux et les gencives pâles, prévenez la déficience en pyruvate kinase (PKDef) et gérez l'espace vertical en 3 étapes."
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "FreshSelf"
@@ -15,7 +15,7 @@ steps:
   - name: "Langage corporel et signaux comportementaux du Chat Abyssin (Abyssinian)"
     text: "* Coup de tête et frottement des joues (Head-Butting / Bunting): Signe d'affection et de confiance marquant son territoire sécurisé avec des phéromones faciales. (Répondez chaleureusement en lui grattant doucement le sous-menton ou le front.)
 
-* Gencives blanches et léthargie prostrée (Pale Gums & Lethargy): Signal d'urgence d'anémie hémolytique due à une Déficience en Pyruvate Kinase (PKD) ou d'une gingivite aiguë. (Examinez ses gencives et emmenez-le d'urgence chez le vétérinaire pour un bilan sanguin (NF) et un test génétique.)"
+* Gencives blanches et léthargie prostrée (Pale Gums & Lethargy): Signal d'urgence d'anémie hémolytique due à une Déficience en Pyruvate Kinase (PKDef) ou d'une gingivite aiguë. (Examinez ses gencives et emmenez-le d'urgence chez le vétérinaire pour un bilan sanguin (NF) et un test génétique.)"
   - name: "Routine quotidienne en 3 étapes pour le soin du Chat Abyssin (Abyssinian)"
     text: "* STEP 1. Matin : Brossage dentaire félin & contrôle des gencives et de l'appétit: Brosser les dents avec un dentifrice pour chat contre le tartre précoce, en observant la couleur des gencives.
 
@@ -24,12 +24,12 @@ steps:
 * STEP 3. Soir : Jeu de chasse intense (20–30 min) & fontaine d'eau propre: Jouez activement avec un plumet pour évacuer son trop-plein d'énergie et nettoyez sa fontaine d'eau."
 faqs:
   - question: "Mon Abyssin se cache et a les gencives pâles, est-ce une maladie génétique ?"
-    answer: "Il y a un fort risque d'anémie hémolytique due à la 'Déficience en Pyruvate Kinase (PKD)'. L'absence de cette enzyme détruit les globules rouges, entraînant gencives blanches, essoufflement et prostration. Consultez immédiatement en urgence vétérinaire pour des analyses sanguines et un traitement."
+    answer: "Il y a un fort risque d'anémie hémolytique due à la 'Déficience en Pyruvate Kinase (PKDef)'. L'absence de cette enzyme détruit les globules rouges, entraînant gencives blanches, essoufflement et prostration. Consultez immédiatement en urgence vétérinaire pour des analyses sanguines et un traitement."
   - question: "Mon Abyssin court partout dans la maison et cherche toujours à monter très haut."
     answer: "L'Abyssin est un athlète félin doté d'une énergie débordante et d'un besoin vital de hauteur. Sans arbres à chat ou étagères murale, la frustration provoquera des griffages ou des folies nocturnes (zoomies). Offrez-lui un environnement vertical complet et au moins 20 minutes de jeu quotidien."
 ---
 
-Réputé pour son allure athlétique rappelant le puma et son pelage tiqueté (Ticked Tabby), l'Abyssin est une race brillante surnommée le 'clown du monde félin'. Très énergique et fasciné par la hauteur, il a absolument besoin d'arbres à chat et de parcours muraux pour éviter le stress. Sur le plan médical, l'Abyssin est sujet à la Déficience en Pyruvate Kinase (PKD/anémie hémolytique génétique), aux gingivites précoces et à l'Atrophie Progressive de la Rétine (PRA). Dans ce guide, vous présente une routine en 3 étapes.
+Réputé pour son allure athlétique rappelant le puma et son pelage tiqueté (Ticked Tabby), l'Abyssin est une race brillante surnommée le 'clown du monde félin'. Très énergique et fasciné par la hauteur, il a absolument besoin d'arbres à chat et de parcours muraux pour éviter le stress. Sur le plan médical, l'Abyssin est sujet à la Déficience en Pyruvate Kinase (PKDef/anémie hémolytique génétique), aux gingivites précoces et à l'Atrophie Progressive de la Rétine (PRA). Dans ce guide, vous présente une routine en 3 étapes.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -105,7 +105,7 @@ Réputé pour son allure athlétique rappelant le puma et son pelage tiqueté (T
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        Signal d'urgence d'anémie hémolytique due à une Déficience en Pyruvate Kinase (PKD) ou d'une gingivite aiguë.
+        Signal d'urgence d'anémie hémolytique due à une Déficience en Pyruvate Kinase (PKDef) ou d'une gingivite aiguë.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">
@@ -170,7 +170,7 @@ Réputé pour son allure athlétique rappelant le puma et son pelage tiqueté (T
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Il y a un fort risque d'anémie hémolytique due à la 'Déficience en Pyruvate Kinase (PKD)'. L'absence de cette enzyme détruit les globules rouges, entraînant gencives blanches, essoufflement et prostration. Consultez immédiatement en urgence vétérinaire pour des analyses sanguines et un traitement.
+      Il y a un fort risque d'anémie hémolytique due à la 'Déficience en Pyruvate Kinase (PKDef)'. L'absence de cette enzyme détruit les globules rouges, entraînant gencives blanches, essoufflement et prostration. Consultez immédiatement en urgence vétérinaire pour des analyses sanguines et un traitement.
     </p>
   </details>
 

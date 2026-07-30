@@ -5,7 +5,7 @@
         "locales": {
             "ko": {
                 "title": "싱가푸라 고양이 추위 민감성과 PK 결핍증 관리: 체온 유지와 수직 공간 3단계 데일리 루틴",
-                "description": "세계에서 가장 작은 고양이 싱가푸라 케어법. 추위 민감성 예방, 피루베이트 키나아제 결핍증(PKD) 주의사항, 수직 공간 활용 3단계 루틴을 다룹니다.",
+                "description": "세계에서 가장 작은 고양이 싱가푸라 케어법. 추위 민감성 예방, 피루베이트 키나아제 결핍증(PKDef) 주의사항, 수직 공간 활용 3단계 루틴을 다룹니다.",
                 "authority": "세계고양이소유자협회(CFA) 품종 표준 및 국제고양이협회(TICA) 임상 가이드라인",
                 "profile": {
                     "breed": "싱가푸라 고양이 (Singapura Cat)",
@@ -13,7 +13,7 @@
                     "sleep_pattern": "12 ~ 16시간 (성묘의 수면 및 휴식 수면)",
                     "temperament": "호기심 많음, 다정함, 활발함, 장난기 많음, 애교 많음"
                 },
-                "intro": "크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKD)에 유의해야 합니다. 이번 가이드에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.",
+                "intro": "크고 밝은 눈과 작은 몸집, 틱트 세피아(Ticked Sepia) 단모를 가진 싱가푸라는 '세계에서 가장 작은 묘종'으로 알려진 사랑스러운 고양이입니다. 몸집이 작고 속털이 없는 단일 단모를 가지고 있어 추위에 매우 취약하며, 체중 대비 활동량이 많아 수직 공간과 충족감이 필수적입니다. 또한 유전적으로 피루베이트 키나아제 결핍증(PKDef)에 유의해야 합니다. 이번 가이드에서는 싱가푸라의 행동 및 건강 신호를 분석하고 3단계 홈케어 루틴을 소개합니다.",
                 "whyTitle": "싱가푸라 고양이의 신체 시그널: 구석으로 들어가 몸을 웅크림(추위 반응)과 고지대 상주 행동",
                 "whyDesc": "싱가푸라가 **'이불이나 구석 깊숙이 들어가 몸을 떨거나 웅크리는 모습'**을 보인다면 실내 온도가 낮아 체온 유지가 힘겹다는 신호입니다. 반면 **'캣타워 최고층이나 냉장고 위를 선호하는 행동'**은 높은 곳에서 영역을 관찰하고자 하는 높은 에너지 수준을 나타냅니다.",
                 "body_signals": [
@@ -24,7 +24,7 @@
                     },
                     {
                         "name": "과도한 잇몸 창백함 및 무기력 (Pale Gums & Lethargy)",
-                        "meaning": "피루베이트 키나아제 결핍증(PKD) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다.",
+                        "meaning": "피루베이트 키나아제 결핍증(PKDef) 등으로 인한 유전성 용혈성 빈혈 또는 적혈구 파괴의 경고 신호일 수 있습니다.",
                         "response": "즉시 잇몸과 귓속 색상을 확인하고 무기력증이 지속되면 동물병원에서 유전자 검사 및 혈액 검사를 받아야 합니다."
                     }
                 ],
@@ -63,7 +63,7 @@
                     "sleep_pattern": "12 ~ 16 Hours (Adult Cat Sleep Pattern)",
                     "temperament": "Curious, Affectionate, Active, Playful, Extroverted"
                 },
-                "intro": "Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKD) is crucial. In this guide, outlines a 3-step daily routine for temperature regulation and behavioral enrichment.",
+                "intro": "Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKDef) is crucial. In this guide, outlines a 3-step daily routine for temperature regulation and behavioral enrichment.",
                 "whyTitle": "Singapura Cat Physical Signals: Huddling under Blankets (Cold Response) and High Perch Seeking",
                 "whyDesc": "If a Singapura **'burrows deep under blankets or shivers in corners'**, it indicates they are struggling to maintain body temperature. Conversely, **'constantly seeking the top of cat trees or high cabinets'** showcases their high energy level and desire to survey their environment.",
                 "body_signals": [
@@ -73,7 +73,7 @@
                         "response": "Maintain ambient temperatures at 22–25°C (72–77°F), provide heating pads or warm blankets, and eliminate cold drafts."
                     },
                     {
-                        "name": "Pale Gums & Lethargy (Potential Anemia/PKD)",
+                        "name": "Pale Gums & Lethargy (Potential Anemia/PKDef)",
                         "meaning": "A warning sign of inherited hemolytic anemia caused by Pyruvate Kinase Deficiency or red blood cell destruction.",
                         "response": "Inspect gum and inner ear color immediately; if lethargy persists, visit a vet for genetic and complete blood count (CBC) testing."
                     }
@@ -105,7 +105,7 @@
             },
             "ja": {
                 "title": "シンガプーラの寒さ対策＆PK欠損症ケア：体温維持と垂直空間を活用する3ステップ日常ルーティン",
-                "description": "世界最小の猫種シンガプーラの飼育ガイド。寒さへの対策、ピルビン酸キナーゼ欠損症（PKD）の注意点、キャットタワー等の活用法を解説します。",
+                "description": "世界最小の猫種シンガプーラの飼育ガイド。寒さへの対策、ピルビン酸キナーゼ欠損症（PKDef）の注意点、キャットタワー等の活用法を解説します。",
                 "authority": "CFA（愛猫協会）猫種標準およびTICA（国際猫協会）臨床ガイドライン",
                 "profile": {
                     "breed": "シンガプーラ (Singapura Cat)",
@@ -113,7 +113,7 @@
                     "sleep_pattern": "12 〜 16時間 (成猫の睡眠および休息)",
                     "temperament": "好奇心旺盛、甘えん坊、活発、遊び好き、人懐っこい"
                 },
-                "intro": "大きな瞳と小さな体、セピア色の美しい短毛を持つシンガプーラは「世界最小の純血種」として愛されています。小柄でアンダーコートのないシングルコートのため寒さに極めて弱く、体重のわりに運動量が多く高所を好むため垂直空間の確保が欠かせません。また遺伝性のピルビン酸キナーゼ欠損症（PKD）にも注意が必要です。今回はシンガプーラの体温・健康サインを読み解き、3ステップの日常ケアをご紹介します。",
+                "intro": "大きな瞳と小さな体、セピア色の美しい短毛を持つシンガプーラは「世界最小の純血種」として愛されています。小柄でアンダーコートのないシングルコートのため寒さに極めて弱く、体重のわりに運動量が多く高所を好むため垂直空間の確保が欠かせません。また遺伝性のピルビン酸キナーゼ欠損症（PKDef）にも注意が必要です。今回はシンガプーラの体温・健康サインを読み解き、3ステップの日常ケアをご紹介します。",
                 "whyTitle": "シンガプーラのボディランゲージ：布団に潜り込む行動（寒さ反応）と高所への執着",
                 "whyDesc": "シンガプーラが**「布団や部屋の隅に潜り込んで丸まる」**場合、室温が低く体温を維持できていないサインです。一方**「キャットタワーの最上階や冷蔵庫の上ばかりに登る」**のは、高い場所から領地を見渡したい活発なエネルギーの現れです。",
                 "body_signals": [
@@ -124,7 +124,7 @@
                     },
                     {
                         "name": "歯茎の蒼白と無気力 (Pale Gums & Lethargy)",
-                        "meaning": "ピルビン酸キナーゼ欠損症（PKD）などによる遺伝性溶血性貧血の警戒シグナルです。",
+                        "meaning": "ピルビン酸キナーゼ欠損症（PKDef）などによる遺伝性溶血性貧血の警戒シグナルです。",
                         "response": "すぐに歯茎や耳の裏の色を確認し、ぐったりしている場合は動物病院で DNA 検査や血液検査を受けてください。"
                     }
                 ],
@@ -155,7 +155,7 @@
             },
             "zh": {
                 "title": "新加坡猫畏寒与PK缺乏症护理：维持体温与利用垂直空间的日常3步护理流程",
-                "description": "针对世界最小猫种新加坡猫（Singapura）的护理。介绍预防畏寒应激、丙酮酸激酶缺乏症（PKD）注意事项及垂直空间利用的3步日常护理流程。",
+                "description": "针对世界最小猫种新加坡猫（Singapura）的护理。介绍预防畏寒应激、丙酮酸激酶缺乏症（PKDef）注意事项及垂直空间利用的3步日常护理流程。",
                 "authority": "国际爱猫联合会 (CFA) 猫种标准与国际猫协会 (TICA) 临床护理指南",
                 "profile": {
                     "breed": "新加坡猫 (Singapura Cat)",
@@ -163,7 +163,7 @@
                     "sleep_pattern": "12 ~ 16小时 (成猫睡眠与休息)",
                     "temperament": "充满好奇、粘人、活泼、爱玩、外向"
                 },
-                "intro": "新加坡猫拥有硕大明亮的眼睛、娇小的体型和独特的古铜刺棒色（Ticked Sepia）短毛，被称为“世界上最小的猫咪”。由于体型小巧且缺乏底层绒毛，它们极度畏寒；同时其活动量相对较大，需要充足的垂直活动空间（如猫树）。此外，遗传性丙酮酸激酶缺乏症（PKD）也是需要重点关注的健康隐患。本指南为您解析新加坡猫的体温与健康信号，并提供3步日常护理流程。",
+                "intro": "新加坡猫拥有硕大明亮的眼睛、娇小的体型和独特的古铜刺棒色（Ticked Sepia）短毛，被称为“世界上最小的猫咪”。由于体型小巧且缺乏底层绒毛，它们极度畏寒；同时其活动量相对较大，需要充足的垂直活动空间（如猫树）。此外，遗传性丙酮酸激酶缺乏症（PKDef）也是需要重点关注的健康隐患。本指南为您解析新加坡猫的体温与健康信号，并提供3步日常护理流程。",
                 "whyTitle": "新加坡猫的肢体语言：钻入被窝蜷缩（畏寒反应）与高处占据行为",
                 "whyDesc": "当新加坡猫出现 **“频繁钻入被窝深处或角落发抖蜷缩”** 时，这是室内温度过低导致其无法维持体温的信号。而 **“热衷于攀爬至猫树顶层或冰箱顶部”**，则展现了其高能量水平和巡视领地的本能需求。",
                 "body_signals": [
@@ -174,7 +174,7 @@
                     },
                     {
                         "name": "牙龈苍白与精神萎靡 (Pale Gums & Lethargy)",
-                        "meaning": "可能是由于丙酮酸激酶缺乏症（PKD）引发的遗传性溶血性贫血或红细胞破坏的前兆。",
+                        "meaning": "可能是由于丙酮酸激酶缺乏症（PKDef）引发的遗传性溶血性贫血或红细胞破坏的前兆。",
                         "response": "立即检查牙龈和耳朵内侧颜色，若伴随持续嗜睡萎靡，应送医进行基因检测及血常规检查。"
                     }
                 ],
@@ -213,7 +213,7 @@
                     "sleep_pattern": "12 ~ 16 horas (patrón de descanso de gato adulto)",
                     "temperament": "Curioso, Afectuoso, Activo, Juguetón, Extrovertido"
                 },
-                "intro": "Con sus grandes ojos luminosos, cuerpo compacto y pelaje corto sepia punteado, el Singapura es famoso por ser una de las razas de gatos más pequeñas del mundo. Debido a su pequeña masa corporal y manto único sin subpelo, son extremadamente sensibles a las corrientes de aire frío, mientras que su alta energía requiere espacios verticales bien estructurados como árboles para gatos. Además, el control genético de la Deficiencia de Piruvato Kinasa (PKD) es fundamental. En esta guía, presenta una rutina de cuidado diario de 3 pasos para su bienestar.",
+                "intro": "Con sus grandes ojos luminosos, cuerpo compacto y pelaje corto sepia punteado, el Singapura es famoso por ser una de las razas de gatos más pequeñas del mundo. Debido a su pequeña masa corporal y manto único sin subpelo, son extremadamente sensibles a las corrientes de aire frío, mientras que su alta energía requiere espacios verticales bien estructurados como árboles para gatos. Además, el control genético de la Deficiencia de Piruvato Kinasa (PKDef) es fundamental. En esta guía, presenta una rutina de cuidado diario de 3 pasos para su bienestar.",
                 "whyTitle": "Señales corporales del Gato Singapura: Acurrucarse bajo las mantas (respuesta al frío) y búsqueda de alturas",
                 "whyDesc": "Si un Singapura **'se esconde profundamente bajo las mantas o tiembla en los rincones'**, indica que le cuesta mantener su temperatura corporal. Por el contrario, **'buscar constantemente la cima del árbol para gatos o muebles altos'** muestra su elevado nivel de energía y deseo de observar su territorio.",
                 "body_signals": [
@@ -263,7 +263,7 @@
                     "sleep_pattern": "12 ~ 16 heures (sommeil et repos du chat adulte)",
                     "temperament": "Curieux, Affectueux, Actif, Joueur, Extraverti"
                 },
-                "intro": "Arborant de grands yeux expressifs, un gabarit miniature et un pelage sepia ticked très doux, le Singapura est célèbre pour être la plus petite race de chat au monde. En raison de sa faible masse corporelle et de son poil court sans sous-poil, il redoute le froid, tandis que son énergie débordante nécessite un environnement vertical adapté (arbres à chat). De plus, un suivi génétique du Déficit en Pyruvate Kinase (PKD) est indispensable. Ce guide vous propose une routine en 3 étapes pour prendre soin de votre Singapura.",
+                "intro": "Arborant de grands yeux expressifs, un gabarit miniature et un pelage sepia ticked très doux, le Singapura est célèbre pour être la plus petite race de chat au monde. En raison de sa faible masse corporelle et de son poil court sans sous-poil, il redoute le froid, tandis que son énergie débordante nécessite un environnement vertical adapté (arbres à chat). De plus, un suivi génétique du Déficit en Pyruvate Kinase (PKDef) est indispensable. Ce guide vous propose une routine en 3 étapes pour prendre soin de votre Singapura.",
                 "whyTitle": "Langage corporel du Chat Singapura : Blottissement sous les couvertures (réponse au froid) et recherche de hauteur",
                 "whyDesc": "Si un Singapura **« s'enfonce profondément sous les couvertures ou frissonne dans un coin »**, cela montre qu'il a du mal à maintenir sa température corporelle. En revanche, **« chercher sans cesse le sommet de l'arbre à chat »** témoigne de sa grande énergie et de son envie d'observer son territoire.",
                 "body_signals": [
@@ -363,7 +363,7 @@
                     "sleep_pattern": "12 ~ 16 horas (padrão de descanso de gato adulto)",
                     "temperament": "Curioso, Afetuoso, Ativo, Brincalhão, Extrovertido"
                 },
-                "intro": "Com grandes olhos brilhantes, porte compacto e uma pelagem curta sépia pontilhada, o Singapura é famoso por ser a menor raça de gato do mundo. Devido ao seu tamanho reduzido e à ausência de subpelo denso, eles são extremamente sensíveis ao frio, enquanto sua grande energia exige espaços verticais seguros (como arranhadores altos). Além disso, o acompanhamento genético para a Deficiência de Piruvato Quinase (PKD) é fundamental. O  traz uma rotina de 3 passos para proteger a saúde do seu gato.",
+                "intro": "Com grandes olhos brilhantes, porte compacto e uma pelagem curta sépia pontilhada, o Singapura é famoso por ser a menor raça de gato do mundo. Devido ao seu tamanho reduzido e à ausência de subpelo denso, eles são extremamente sensíveis ao frio, enquanto sua grande energia exige espaços verticais seguros (como arranhadores altos). Além disso, o acompanhamento genético para a Deficiência de Piruvato Quinase (PKDef) é fundamental. O  traz uma rotina de 3 passos para proteger a saúde do seu gato.",
                 "whyTitle": "Sinais corporais do Gato Singapura: Encolher-se debaixo de cobertas (resposta ao frio) e busca por lugares altos",
                 "whyDesc": "Se um Singapura **'se esconder profundamente sob cobertas ou tremer nos cantos'**, significa que ele está com dificuldades para manter a temperatura corporal. Já o hábito de **'buscar sempre o topo do arranhador ou móveis altos'** reflete seu alto nível de energia e o desejo de vigiar o ambiente.",
                 "body_signals": [

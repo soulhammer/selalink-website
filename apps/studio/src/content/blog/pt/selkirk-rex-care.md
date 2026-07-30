@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Cuidado do Pelo Encaracolado, Ouvidos e PKD do Selkirk Rex: Rotina diária de 3 passos para prevenção de bolas de pelo e saúde renal"
-description: "Guia de cuidados para o Selkirk Rex e sua pelagem encaracolada. Saiba como evitar nós, controlar cerúmen e prevenir a Doença Policística Renal (PKD)."
+title: "Cuidado do Pelo Encaracolado, Ouvidos e PKDef do Selkirk Rex: Rotina diária de 3 passos para prevenção de bolas de pelo e saúde renal"
+description: "Guia de cuidados para o Selkirk Rex e sua pelagem encaracolada. Saiba como evitar nós, controlar cerúmen e prevenir a Doença Policística Renal (PKDef)."
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "FreshSelf"
@@ -19,17 +19,17 @@ steps:
   - name: "Rotina diária de 3 passos para cuidados com Selkirk Rex"
     text: "* STEP 1. Manhã: Inspeção de orelhas e escovação com dentes largos: Verifique a cera e passe suavemente um pente de dentes largos para manter a forma natural dos caracóis.
 
-* STEP 2. Tarde: Estações de água contra PKD e clima estável: Coloque várias fontes de água para proteger a saúde renal e mantenha a temperatura em 20–24 °C.
+* STEP 2. Tarde: Estações de água contra PKDef e clima estável: Coloque várias fontes de água para proteger a saúde renal e mantenha a temperatura em 20–24 °C.
 
 * STEP 3. Noite: Higiene facial e administração de pasta para bolas de pelo: Limpe os bigodes encaracolados e o rosto, e dê pasta veterinária para facilitar a eliminação dos pelos."
 faqs:
   - question: "Com que frequência devo escovar o Selkirk Rex?"
     answer: "Não escove diariamente com pentes finos para não desfazer os caracóis. Escovar 2 a 3 vezes por semana com um pente de dentes largos é suficiente para remover o pelo morto."
-  - question: "O que é a Doença Policística Renal (PKD)?"
-    answer: "É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKD Clear) e estimule a ingestão constante de água."
+  - question: "O que é a Doença Policística Renal (PKDef)?"
+    answer: "É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKDef Clear) e estimule a ingestão constante de água."
 ---
 
-Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKD). O Este guia  uma rotina de 3 passos para o seu bem-estar.
+Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo encaracolado e denso e pela personalidade afetuosa. O seu gene dominante cria ondas densas que retêm pelos mortos, aumentando o risco de bolas de pelo. Além disso, os pelos encaracolados nas orelhas acumulam cera, e a sua ascendência Persa exige atenção com a Doença Policística Renal (PKDef). O Este guia  uma rotina de 3 passos para o seu bem-estar.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -138,7 +138,7 @@ Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo en
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tarde: Estações de água contra PKD e clima estável</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tarde: Estações de água contra PKDef e clima estável</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Coloque várias fontes de água para proteger a saúde renal e mantenha a temperatura em 20–24 °C.
@@ -176,11 +176,11 @@ Conhecido como 'o gato em pele de ovelha', o Selkirk Rex destaca-se pelo pelo en
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">O que é a Doença Policística Renal (PKD)?</span>
+      <span class="pr-4">O que é a Doença Policística Renal (PKDef)?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKD Clear) e estimule a ingestão constante de água.
+      É uma doença hereditária na qual se formam cistos nos rins. Exija testes genéticos negativos dos pais (PKDef Clear) e estimule a ingestão constante de água.
     </p>
   </details>
 </div>

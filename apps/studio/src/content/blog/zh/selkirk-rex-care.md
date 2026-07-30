@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "赛尔凯克卷毛猫被毛护理与耳道清洁·PKD管理：维持卷毛与健康保护的日常3步护理流程"
-description: "针对拥有被称为“披着羊皮的猫”的赛尔凯克卷毛猫护理。介绍防止毛发打结、耳垢清理及多囊肾病（PKD）预防的3步日常护理流程。"
+title: "赛尔凯克卷毛猫被毛护理与耳道清洁·PKDef管理：维持卷毛与健康保护的日常3步护理流程"
+description: "针对拥有被称为“披着羊皮的猫”的赛尔凯克卷毛猫护理。介绍防止毛发打结、耳垢清理及多囊肾病（PKDef）预防的3步日常护理流程。"
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "FreshSelf"
@@ -19,17 +19,17 @@ steps:
   - name: "赛尔凯克卷毛猫 (Selkirk Rex) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：耳道检查与宽齿梳理被毛: 检查耳道分泌物，使用宽齿梳或手指顺着卷毛纹理轻轻理顺，保持卷度自然。
 
-* STEP 2. 中午：增加饮水量以预防PKD与适宜室温: 在家里多处放置饮水机以保护肾脏健康，并维持 20–24°C 的舒适室温。
+* STEP 2. 中午：增加饮水量以预防PKDef与适宜室温: 在家里多处放置饮水机以保护肾脏健康，并维持 20–24°C 的舒适室温。
 
 * STEP 3. 晚上：面部清洁与喂食化毛膏: 清理卷曲胡须及面部周围的分泌物，喂食适量化毛膏促进胃肠道毛球排出。"
 faqs:
   - question: "赛尔凯克卷毛猫需要每天梳毛吗？"
     answer: "不需要。频繁使用密齿梳会破坏其独特的卷曲纹理并刺激皮肤。建议每周 2–3 次使用宽齿梳轻柔清除脱落毛发即可。"
-  - question: "什么是多囊肾病（PKD）？如何预防？"
-    answer: "这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKD 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。"
+  - question: "什么是多囊肾病（PKDef）？如何预防？"
+    answer: "这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKDef 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。"
 ---
 
-赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKD）。本指南为您解析其肢体警示信号，并提供3步日常护理流程。
+赛尔凯克卷毛猫因其如羊毛般丰满柔软的卷曲被毛和温顺的性格而被称为“披着羊皮的猫”。与其他卷毛猫不同，其显性基因造就的松软卷毛极易积聚落毛，增加毛球症风险；耳道内的卷毛也容易积聚耳垢。此外，受波斯猫血统影响，需关注多囊肾病（PKDef）。本指南为您解析其肢体警示信号，并提供3步日常护理流程。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -138,7 +138,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-gradient-to-b from-indigo-500/[0.04] to-transparent dark:border-indigo-500/20 dark:bg-indigo-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-indigo-500/10 text-indigo-700 dark:bg-indigo-500/20 dark:text-indigo-300 rounded-full border border-indigo-500/30 shadow-xs">ROUTINE 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">中午：增加饮水量以预防PKD与适宜室温</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">中午：增加饮水量以预防PKDef与适宜室温</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     在家里多处放置饮水机以保护肾脏健康，并维持 20–24°C 的舒适室温。
@@ -176,11 +176,11 @@ faqs:
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">什么是多囊肾病（PKD）？如何预防？</span>
+      <span class="pr-4">什么是多囊肾病（PKDef）？如何预防？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKD 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。
+      这是一种肾脏长出囊肿并导致肾功能衰竭的遗传性疾病。领养前应确认繁育亲本具有 PKDef 阴性检测证明，日常保证充足饮水并定期进行 B 超及血液检查。
     </p>
   </details>
 </div>

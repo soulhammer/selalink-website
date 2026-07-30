@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Selkirk Rex Curly Coat & Ear Wax Care: A 3-Step Daily Routine for Hairball Prevention and PKD Management"
-description: "Essential care guide for the plush, curly-coated Selkirk Rex. Learn how to manage loose curls, prevent ear infections, and reduce risks of Polycystic Kidney Disease (PKD)."
+title: "Selkirk Rex Curly Coat & Ear Wax Care: A 3-Step Daily Routine for Hairball Prevention and PKDef Management"
+description: "Essential care guide for the plush, curly-coated Selkirk Rex. Learn how to manage loose curls, prevent ear infections, and reduce risks of Polycystic Kidney Disease (PKDef)."
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "FreshSelf"
@@ -19,17 +19,17 @@ steps:
   - name: "Customized 3-Step Home Care Routine for Selkirk Rex"
     text: "* STEP 1. Morning: Ear Inspection & Wide-Toothed Comb Coat Care: Inspect ears for excess wax. Lightly comb loose fur using a wide-toothed comb or fingers to maintain natural curl definition without causing frizz.
 
-* STEP 2. Afternoon: Hydration Station Management & Indoor Climate Control: Encourage fluid intake to protect kidney health against PKD by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F).
+* STEP 2. Afternoon: Hydration Station Management & Indoor Climate Control: Encourage fluid intake to protect kidney health against PKDef by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F).
 
 * STEP 3. Evening: Facial Fold Wipe & Hairball Paste Administration: Wipe secretions from around the curly whiskers and face, and administer a veterinary hairball remedy to facilitate gastrointestinal passage."
 faqs:
   - question: "How often should I brush a Selkirk Rex?"
     answer: "Avoid daily brushing with fine-toothed brushes, as this can break the curls and irritate skin. Brushing 2 to 3 times a week with a wide-toothed comb or wire pin brush is ideal to remove dead hair while preserving their lush wave pattern."
-  - question: "What is Polycystic Kidney Disease (PKD) and how is it managed?"
-    answer: "PKD is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKD Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels."
+  - question: "What is Polycystic Kidney Disease (PKDef) and how is it managed?"
+    answer: "PKDef is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKDef Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels."
 ---
 
-Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its plush, sheep-like curly fur and patient, affectionate personality. Unlike other Rex breeds, their dominant curly coat gene creates thick, loose waves that can trap dead hair, increasing the risk of hairballs and matting. Furthermore, curling ear hair can trap sebum, requiring regular ear hygiene, while their Persian heritage requires monitoring for Polycystic Kidney Disease (PKD). In this guide, details a 3-step daily routine for optimal coat and kidney health.
+Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its plush, sheep-like curly fur and patient, affectionate personality. Unlike other Rex breeds, their dominant curly coat gene creates thick, loose waves that can trap dead hair, increasing the risk of hairballs and matting. Furthermore, curling ear hair can trap sebum, requiring regular ear hygiene, while their Persian heritage requires monitoring for Polycystic Kidney Disease (PKDef). In this guide, details a 3-step daily routine for optimal coat and kidney health.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its pl
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Afternoon: Hydration Station Management & Indoor Climate Control</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Encourage fluid intake to protect kidney health against PKD by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F).
+    Encourage fluid intake to protect kidney health against PKDef by setting up multiple water fountains and maintaining a stable temperature (20–24°C / 68–75°F).
   </p>
 </div>
 
@@ -176,11 +176,11 @@ Often called the 'cat in sheep's clothing', the Selkirk Rex is famous for its pl
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">What is Polycystic Kidney Disease (PKD) and how is it managed?</span>
+      <span class="pr-4">What is Polycystic Kidney Disease (PKDef) and how is it managed?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      PKD is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKD Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels.
+      PKDef is an inherited condition causing fluid-filled cysts to develop in the kidneys. Ensure parents are DNA-tested negative (PKDef Clear), promote abundant hydration, and schedule annual veterinary kidney ultrasounds and blood panels.
     </p>
   </details>
 </div>

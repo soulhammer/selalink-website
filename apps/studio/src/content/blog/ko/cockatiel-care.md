@@ -19,7 +19,7 @@ steps:
   - name: "왕관앵무 (Nymphicus hollandicus / Cockatiel) 맞춤형 3단계 홈케어 루틴"
     text: "* STEP 1. 아침: 자연광 환기, 깃털 청결 점검 및 신선한 펠릿 급여: 아침 덮개를 개봉한 후 펠릿 사료와 깨끗한 물을 교체하고, 깃털 손상이나 눈곱이 없는지 비행 상태를 살핍니다.
 
-* STEP 2. 낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용: 창문과 펜슬을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
+* STEP 2. 낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용: 창문과 창문을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
 
 * STEP 3. 저녁: 깃털 파우더 닦기 및 나이트 파닉 방지용 암막·미등 커버링: 새장 주변 깃털 파우더를 청소하고, 완전히 깜깜한 것보다는 은은한 수면 미등을 켜둔 뒤 암막 커튼을 씌워 숙면을 유도합니다."
 faqs:
@@ -141,7 +141,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    창문과 펜슬을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
+    창문과 창문을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다.
   </p>
 </div>
 

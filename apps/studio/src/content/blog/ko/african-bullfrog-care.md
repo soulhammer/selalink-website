@@ -13,7 +13,7 @@ steps:
   - name: "픽시프로그의 생태 본능: 몸 부풀리기 위협과 코쿤 하면 신호"
     text: "픽시프로그는 천적을 느끼면 폐에 공기를 채워 몸을 두 배로 부풀리는 '몸 부풀리기(Lung Inflation)' 태세를 취합니다. 환경이 건조해지면 피부 점액을 말려 딱딱한 누에고치 껍질을 형성하고 땅속에서 '하면 코쿤(Cocoon Estivation)' 휴면에 들어갑니다."
   - name: "아프리카 황소개구리 / 픽시프로그 (Pyxicephalus adspersus)의 몸짓 언어와 바디 시그널"
-    text: "* 몸 부풀리기 및 입 벌리기 (Lung Inflation & Gaping): 폐에 공기를 넣어 몸집을 부풀리고 입을 벌려 치골 돌기를 드러내는 방어 위협 신호입니다. (자극하지 말고 조용히 물러나 어둡고 안정적인 환경을 조성합니다.)
+    text: "* 몸 부풀리기 및 입 벌리기 (Lung Inflation & Gaping): 폐에 공기를 넣어 몸집을 부풀리고 입을 벌려 치상 돌기(의치 돌기)를 드러내는 방어 위협 신호입니다. (자극하지 말고 조용히 물러나 어둡고 안정적인 환경을 조성합니다.)
 
 * 땅속 잠입 및 점액막 형성 (Burrowing & Cocoon Formation): 피부 점액이 굳은 껍질을 형성하고 땅속으로 잠입하는 현상으로, 건조함 및 온도 저하로 인한 하면(Estivation) 진입 신호입니다. (습도를 높이고 28 ~ 30℃ 미온수의 탈염소수로 온욕시켜 코쿤을 녹여냅니다.)"
   - name: "아프리카 황소개구리 / 픽시프로그 (Pyxicephalus adspersus) 맞춤형 3단계 홈케어 루틴"
@@ -29,7 +29,7 @@ faqs:
     answer: "온·습도 저하로 하면 코쿤을 만든 상태입니다. 온도를 26 ~ 28℃로 올리고 바닥재 수분을 보충한 뒤, 28 ~ 30℃ 따뜻한 탈염소수로 온욕시키면 코쿤이 녹아 먹이 반응이 회복됩니다."
 ---
 
-아프리카 황소개구리(픽시프로그)는 수컷 체중이 1 ~ 2kg에 달하는 대형 양서류로, 하악의 둔탁한 치골 돌기와 강한 치악력으로 피더 인섹트를 집어삼키는 매복 포식자입니다. 개구리 피부는 가스 및 수분 투과성이 높아 수돗물의 잔류 염소나 배설물의 암모니아 오염에 매우 민감합니다. 환경이 건조해지면 피부 점액을 말려 코쿤을 만들고 하면(Estivation)에 들어가 거식을 보일 수 있습니다. 이번 가이드에서 수질 관리와 거식 예방을 위한 3단계 루틴을 정리해 드립니다.
+아프리카 황소개구리(픽시프로그)는 수컷 체중이 1 ~ 2kg에 달하는 대형 양서류로, 하악의 둔탁한 치상 돌기(의치 돌기)와 강한 치악력으로 피더 인섹트를 집어삼키는 매복 포식자입니다. 개구리 피부는 가스 및 수분 투과성이 높아 수돗물의 잔류 염소나 배설물의 암모니아 오염에 매우 민감합니다. 환경이 건조해지면 피부 점액을 말려 코쿤을 만들고 하면(Estivation)에 들어가 거식을 보일 수 있습니다. 이번 가이드에서 수질 관리와 거식 예방을 위한 3단계 루틴을 정리해 드립니다.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -76,7 +76,7 @@ faqs:
         </span>
       </div>
       <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base leading-relaxed m-0 font-normal">
-        폐에 공기를 넣어 몸집을 부풀리고 입을 벌려 치골 돌기를 드러내는 방어 위협 신호입니다.
+        폐에 공기를 넣어 몸집을 부풀리고 입을 벌려 치상 돌기(의치 돌기)를 드러내는 방어 위협 신호입니다.
       </p>
     </div>
     <div class="p-4 md:p-5 rounded-2xl border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-950/30">

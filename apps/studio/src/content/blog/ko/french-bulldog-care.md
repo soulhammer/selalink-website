@@ -11,9 +11,9 @@ formatVersion: 4
 authority: "미국 켄넬 클럽(AKC) 프렌치 불독 공식 케어 가이드 & 단두종 수의학 가이드라인"
 steps:
   - name: "프렌치 불독 바디 시그널: 단두종 거친 숨소리와 체온 상승 신호"
-    text: "좁은 기도로 인해 공기 흐름이 제한될 때 프렌치 불독은 특유의 '협심음(Stridor) 또는 코골이 숨소리(Stertor)'를 냅니다. 목을 길게 뺀 채 혀를 내밀고 가쁘게 숨을 쉰다면 체온이 급격히 올라간 위험 신호이므로 즉시 열을 식혀주어야 합니다."
+    text: "좁은 기도로 인해 공기 흐름이 제한될 때 프렌치 불독은 특유의 '천명음(협착음)(Stridor) 또는 코골이 숨소리(Stertor)'를 냅니다. 목을 길게 뺀 채 혀를 내밀고 가쁘게 숨을 쉰다면 체온이 급격히 올라간 위험 신호이므로 즉시 열을 식혀주어야 합니다."
   - name: "프렌치 불독 (French Bulldog)의 몸짓 언어와 바디 시그널"
-    text: "* 거친 숨소리 및 협심음 (Stridor / Stertor): 좁은 비강 구조로 인해 공기 흐름이 제한되거나 흥분 상태에서 체온이 상승했음을 나타냅니다. (즉시 에어컨이 켜진 실내나 서늘한 그늘로 이동시키고 시원한 음수대를 제공해 휴식을 취하게 합니다.)
+    text: "* 거친 숨소리 및 천명음(협착음) (Stridor / Stertor): 좁은 비강 구조로 인해 공기 흐름이 제한되거나 흥분 상태에서 체온이 상승했음을 나타냅니다. (즉시 에어컨이 켜진 실내나 서늘한 그늘로 이동시키고 시원한 음수대를 제공해 휴식을 취하게 합니다.)
 
 * 목을 뺀 채 가쁜 헐떡임 (Neck-Extended Panting): 체내의 과도한 열을 식히기 위해 목을 길게 늘어뜨려 산소를 인위적으로 흡입하려는 위험 신호입니다. (실내 온도를 22-24°C로 조절하고 젖은 시원한 수건으로 발바닥과 몸을 닦아 체온을 낮춰줍니다.)"
   - name: "프렌치 불독 (French Bulldog) 맞춤형 3단계 홈케어 루틴"
@@ -55,7 +55,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">프렌치 불독 바디 시그널: 단두종 거친 숨소리와 체온 상승 신호</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    좁은 기도로 인해 공기 흐름이 제한될 때 프렌치 불독은 특유의 '협심음(Stridor) 또는 코골이 숨소리(Stertor)'를 냅니다. 목을 길게 뺀 채 혀를 내밀고 가쁘게 숨을 쉰다면 체온이 급격히 올라간 위험 신호이므로 즉시 열을 식혀주어야 합니다.
+    좁은 기도로 인해 공기 흐름이 제한될 때 프렌치 불독은 특유의 '천명음(협착음)(Stridor) 또는 코골이 숨소리(Stertor)'를 냅니다. 목을 길게 뺀 채 혀를 내밀고 가쁘게 숨을 쉰다면 체온이 급격히 올라간 위험 신호이므로 즉시 열을 식혀주어야 합니다.
   </p>
 </div>
 
@@ -66,7 +66,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">바디 시그널 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">거친 숨소리 및 협심음 (Stridor / Stertor)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">거친 숨소리 및 천명음(협착음) (Stridor / Stertor)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">

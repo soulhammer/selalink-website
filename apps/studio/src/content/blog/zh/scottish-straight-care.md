@@ -19,17 +19,17 @@ steps:
   - name: "苏格兰直耳猫 (Scottish Straight) 定制化 3 步家庭护理流程"
     text: "* STEP 1. 早上：体重监测与高蛋白定量投喂及眼部清洁: 严格定时定量投喂高蛋白猫粮以防肥胖，用无菌纱布清理圆脸结构易积聚的眼角分泌物。
 
-* STEP 2. 中午：低高度休息区布置与新鲜饮水补充（预防肾病）: 布置多处干净饮水点以防多囊性肾病（PKD）与尿路结石，并提供阳光充足的休息台。
+* STEP 2. 中午：低高度休息区布置与新鲜饮水补充（预防肾病）: 布置多处干净饮水点以防多囊性肾病（PKDef）与尿路结石，并提供阳光充足的休息台。
 
 * STEP 3. 晚上：低冲击捕猎游戏（15 ~ 20分钟）与毛发梳理: 使用逗猫棒进行贴地捕猎游戏以消耗热量而不伤关节，并定期梳理浓密的毛发以防毛球症。"
 faqs:
   - question: "苏格兰折耳猫和直耳猫有什么区别？直耳猫会有遗传病吗？"
-    answer: "苏格兰折耳猫带有基因突变的折耳基因（Fd），极易发生骨软骨发育不良与关节剧痛；而直耳猫耳朵直立，没有软骨发育不良的风险。但由于杂交血统，直耳猫仍需定期筛查肥厚型心肌病（HCM）与多囊性肾病（PKD）。"
+    answer: "苏格兰折耳猫带有基因突变的折耳基因（Fd），极易发生骨软骨发育不良与关节剧痛；而直耳猫耳朵直立，没有软骨发育不良的风险。但由于杂交血统，直耳猫仍需定期筛查肥厚型心肌病（HCM）与多囊性肾病（PKDef）。"
   - question: "苏格兰直耳猫非常容易发胖，应该如何管理体重？"
     answer: "由于性格安静且活动量较小，它们很容易过重。应投喂高蛋白、低碳水化合物的猫粮并控制喂食量，每天陪伴其进行 15 ~ 20 分钟的贴地逗猫棒游戏，维持肌肉量的同时保护心脏与关节。"
 ---
 
-拥有圆滚滚的面庞与直立双耳的苏格兰直耳猫（Scottish Straight），不仅完美继承了苏格兰猫圆润可爱的外貌，还避免了折耳猫骨骼软骨发育不良的遗传痛苦。虽然没有折耳基因，但其紧凑结实的体型使其极易发胖；过度肥胖会加重关节负担，并增加肥厚型心肌病（HCM）与多囊性肾病（PKD）的发病风险。本指南将带您准确解读苏格兰直耳猫的身体语言，并通过 3 步骤日常护理维护其健康。
+拥有圆滚滚的面庞与直立双耳的苏格兰直耳猫（Scottish Straight），不仅完美继承了苏格兰猫圆润可爱的外貌，还避免了折耳猫骨骼软骨发育不良的遗传痛苦。虽然没有折耳基因，但其紧凑结实的体型使其极易发胖；过度肥胖会加重关节负担，并增加肥厚型心肌病（HCM）与多囊性肾病（PKDef）的发病风险。本指南将带您准确解读苏格兰直耳猫的身体语言，并通过 3 步骤日常护理维护其健康。
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -141,7 +141,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">中午：低高度休息区布置与新鲜饮水补充（预防肾病）</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    布置多处干净饮水点以防多囊性肾病（PKD）与尿路结石，并提供阳光充足的休息台。
+    布置多处干净饮水点以防多囊性肾病（PKDef）与尿路结石，并提供阳光充足的休息台。
   </p>
 </div>
 
@@ -170,7 +170,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      苏格兰折耳猫带有基因突变的折耳基因（Fd），极易发生骨软骨发育不良与关节剧痛；而直耳猫耳朵直立，没有软骨发育不良的风险。但由于杂交血统，直耳猫仍需定期筛查肥厚型心肌病（HCM）与多囊性肾病（PKD）。
+      苏格兰折耳猫带有基因突变的折耳基因（Fd），极易发生骨软骨发育不良与关节剧痛；而直耳猫耳朵直立，没有软骨发育不良的风险。但由于杂交血统，直耳猫仍需定期筛查肥厚型心肌病（HCM）与多囊性肾病（PKDef）。
     </p>
   </details>
 

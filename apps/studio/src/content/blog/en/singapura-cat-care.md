@@ -15,7 +15,7 @@ steps:
   - name: "Singapura Cat's Body Language & Behavioral Signals"
     text: "* Huddling & Seeking Warmth (Cold Response): Their small body mass and thin single coat make them lose body heat rapidly in cool environments. (Maintain ambient temperatures at 22–25°C (72–77°F), provide heating pads or warm blankets, and eliminate cold drafts.)
 
-* Pale Gums & Lethargy (Potential Anemia/PKD): A warning sign of inherited hemolytic anemia caused by Pyruvate Kinase Deficiency or red blood cell destruction. (Inspect gum and inner ear color immediately; if lethargy persists, visit a vet for genetic and complete blood count (CBC) testing.)"
+* Pale Gums & Lethargy (Potential Anemia/PKDef): A warning sign of inherited hemolytic anemia caused by Pyruvate Kinase Deficiency or red blood cell destruction. (Inspect gum and inner ear color immediately; if lethargy persists, visit a vet for genetic and complete blood count (CBC) testing.)"
   - name: "Customized 3-Step Home Care Routine for Singapura Cat"
     text: "* STEP 1. Morning: Temperature & Gum Check & Short-Coat Grooming: Check gum color and warmth of ears/paws. Gently brush their single coat with a silicone brush to distribute natural skin oils.
 
@@ -29,7 +29,7 @@ faqs:
     answer: "It is an inherited hemolytic anemia caused by an enzyme deficiency in red blood cells. Ensure parent cats are DNA-tested (PK Clear) and monitor gum pallor and energy levels regularly."
 ---
 
-Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKD) is crucial. In this guide, outlines a 3-step daily routine for temperature regulation and behavioral enrichment.
+Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the Singapura is famous as one of the smallest cat breeds. Due to their small body mass and short single coat, they are highly sensitive to cold drafts, while their high energy demands structured vertical spaces like cat trees. Additionally, genetic monitoring for Pyruvate Kinase Deficiency (PKDef) is crucial. In this guide, outlines a 3-step daily routine for temperature regulation and behavioral enrichment.
 
 <div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
   <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
@@ -95,7 +95,7 @@ Boasting large luminous eyes, a compact size, and a silky ticked sepia coat, the
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md">
   <div class="flex flex-wrap items-center gap-3 mb-5">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">Body Signal 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Pale Gums & Lethargy (Potential Anemia/PKD)</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Pale Gums & Lethargy (Potential Anemia/PKDef)</h4>
   </div>
   <div class="grid grid-cols-1 gap-4">
     <div class="p-4 md:p-5 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-950/30">
