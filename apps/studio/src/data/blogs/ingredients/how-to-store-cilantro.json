@@ -1,0 +1,406 @@
+{
+    "how-to-store-cilantro": {
+        "ingId": "cilantro",
+        "pubDate": "2026-02-02",
+        "updatedDate": "2026-02-02",
+        "heroImage": "/images/blog/cilantro_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "고수 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 고수의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
+                "intro": "싱싱한 고수를 사다 두고 며칠 지나지 않아 줄기가 푹 시들고 잎이 노랗게 변해 버린 경험 있으시죠? 🌿\n\n고수는 특유의 풍미로 전 세계 다양한 요리에 쓰이는 대표적 향신 채소이지만, 잎 세포가 얇아 증산 작용(Transpiration)이 활발하게 일어납니다. 상온 노출 시 세포 내 수분 팽윤압(Turgor Pressure)이 급격히 저하되어 쉽게 시들며, 에틸렌 가스에 매우 민감하여 엽록소가 빠르게 파괴(황화 현상)되는 특성을 가지고 있습니다.\n\n이번 가이드에서는 UC Davis 사후수확관리센터 및 USDA의 공인 가이드라인을 바탕으로, 고수의 상큼한 향과 아삭함을 3주간 신선하게 유지하는 3단계 과학적 수경 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "상온 방치 및 물기 있는 잎 밀폐는 시듦과 부패의 원인입니다 ⚠️",
+                        "desc": "상온에 고수를 방치하면 수분 증산 작용으로 수분 팽윤압이 급격히 떨어져 몇 시간 만에 줄기가 시듭니다. 또한 잎 표면에 물기가 축축하게 남은 상태로 밀폐하면 세균성 부패가 촉진되므로 주의해야 합니다."
+                    },
+                    {
+                        "title": "에틸렌 방출 과일과의 접촉을 차단하세요 🛑",
+                        "desc": "고수는 에틸렌 가스에 극도로 민감합니다. 사과, 바나나, 토마토 등 에틸렌을 방출하는 과일과 함께 두면 엽록소가 빠르게 파괴되어 잎이 누렇게 변색(황화 현상)되고 수명이 단축됩니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "줄기 하단을 자르고 물병에 세워 수경 보관하기 — 수공급 보관 (14~21일) 🌿",
+                        "text": "고수 줄기 끝을 1~2cm 잘라낸 뒤 물이 담긴 용기에 꽃병처럼 세워 보관하세요. 💡 보관 팁: 줄기 하단이 물에 잠기도록 하되, 물에 직접 닿는 아래쪽 잎은 떼어내어야 물이 오염되거나 썩는 것을 방지할 수 있습니다."
+                    },
+                    {
+                        "name": "비닐봉지로 잎 부위를 느슨하게 덮어 저온 보관하기 — 저온 습도 유지 (1~4℃) ❄️",
+                        "text": "잎 주변의 상대 습도를 높이면 기공(Stomata)이 닫혀 수분 증발이 억제됩니다. 💡 보관 팁: 물에 세운 고수 위에 비닐봉지나 지퍼백을 느슨하게 덮은 후 냉장고(1~4℃)에 보관하세요. 세포 수명이 3배 이상 연장됩니다."
+                    },
+                    {
+                        "name": "단기 보관 시 키친타월로 감싸 밀폐 용기 보관하기 — 습도 조절 밀봉 (7~10일) 🧻",
+                        "text": "1주일 이내로 바로 사용할 경우 물세축 없이 적절한 미세 수분만 유지하는 것이 좋습니다. 💡 보관 팁: 씻지 않은 고수를 키친타월로 감싸 수분을 조절한 뒤 밀폐 용기에 넣어 냉장 보관하면 싱싱함이 오래 유지됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "고수를 냉장고에 넣었는데도 왜 노랗게 변하거나 시드는 걸까요?",
+                        "answer": "에틸렌 가스에 노출되면 엽록소가 파괴되어 노랗게 변(황화 현상)합니다. 또한 습도가 낮아 잎의 수분이 증발하면 수분 팽윤압이 떨어져 시들게 되므로, 습도를 유지하는 수경 보관법과 에틸렌 차단이 필수적입니다."
+                    },
+                    {
+                        "question": "고수를 시들지 않게 오래 보관하기 위한 핵심 포인트는 무엇인가요?",
+                        "answer": "줄기 끝을 잘라 물병에 세우고(수분 공급), 잎 부분을 비닐로 느슨하게 덮어(습도 유지 및 기공 닫힘), 에틸렌 방출 과일과 격리하여 1~4℃ 저온 냉장 보관하는 것입니다. 이렇게 하면 최대 2~3주간 신선하게 유지됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Cilantro Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for cilantro based on official safety guidelines.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Have you ever bought a fresh bundle of cilantro only to find its stems wilted and leaves yellowing within days? 🌿\n\nCilantro is a popular aromatic herb used globally, but its thin leaf cells undergo rapid transpiration. Exposure to ambient temperatures causes a quick drop in cell turgor pressure, leading to wilting. Additionally, cilantro is highly sensitive to ethylene gas, which triggers rapid chlorophyll degradation (yellowing).\n\nBased on official guidelines from the UC Davis Postharvest Technology Center and USDA, this 3-step scientific storage guide demonstrates how hydroponic cold storage preserves cilantro's aroma and crispness for up to 3 weeks. 🛡️",
+                "whyTitle": "Why Store Cilantro This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Room temperature exposure and soggy leaves cause rapid wilting and decay ⚠️",
+                        "desc": "Leaving cilantro at room temperature accelerates transpiration, leading to a loss of cell turgor pressure and wilting within hours. Sealing cilantro with excess surface water also speeds up bacterial rot."
+                    },
+                    {
+                        "title": "Isolate from ethylene-producing fruits 🛑",
+                        "desc": "Cilantro is extremely sensitive to ethylene gas. Storing it near fruits like apples, bananas, or tomatoes destroys chlorophyll, turning leaves yellow and shortening shelf life."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Trim stem bottoms and store upright in a jar of water — Hydroponic Supply (14–21 Days) 🌿",
+                        "text": "Trim 1–2 cm off the stem ends and place upright in a glass of water like a bouquet. 💡 Storage Tip: Ensure stem bases are submerged, but strip off lower leaves that touch the water to prevent bacterial contamination."
+                    },
+                    {
+                        "name": "Loosely cover leaf top with a plastic bag and refrigerate — Cold Humidity Control (1–4°C) ❄️",
+                        "text": "Increasing relative humidity around leaves causes leaf stomata to close, suppressing water evaporation. 💡 Storage Tip: Cover the jar loosely with a plastic bag and place it in the fridge (1–4°C / 34–39°F) to triple cellular lifespan."
+                    },
+                    {
+                        "name": "Wrap in paper towels inside an airtight container for short-term use — Moisture Balance (7–10 Days) 🧻",
+                        "text": "If using within a week, maintaining mild moisture without washing is ideal. 💡 Storage Tip: Wrap unwashed cilantro loosely in dry paper towels to absorb excess moisture and store inside an airtight container in the fridge."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why does my cilantro turn yellow or wilt inside the refrigerator?",
+                        "answer": "Ethylene gas exposure destroys chlorophyll, turning leaves yellow. Low humidity causes water evaporation and loss of cell turgor pressure, causing wilting. Hydroponic water supply and ethylene isolation are essential."
+                    },
+                    {
+                        "question": "What is the single best scientific method to store cilantro?",
+                        "answer": "Trim stem ends in a jar of water, cover leaves loosely with a plastic bag (closing stomata), isolate from ethylene-producing fruits, and keep cold at 1–4°C. This preserves freshness for up to 2–3 weeks."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "パクチー（コリアンダー）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくパクチーの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
+                "intro": "新鮮なパクチーを買ってきたのに、数日で茎がしおれたり葉が黄色く 変色してしまった経験はありませんか？🌿\n\nパクチーは世界中の料理で愛されるハーブですが、葉の細胞が薄いため蒸散作用（Transpiration）が非常に活発です。常温に晒すと細胞内の水膨圧（Turgor Pressure）が急激に低下してしおれやすく、またエチレンガスに敏感なため葉緑素が急速に破壊（黄化現象）される特徴を持っています。\n\n本記事では、UC Davis事後収穫管理センターおよびUSDAの公式ガイドラインに基づき、パクチーの爽やかな香りとシャキシャキ感を3週間維持する3段階の科学的水耕保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "常温放置や水気のついた葉の密閉は傷みの原因になります ⚠️",
+                        "desc": "パクチーを常温放置すると蒸散作用で水膨圧が下がり、数時間で茎がへたり込みます。また、葉の表面に水分が多く残ったまま密閉すると細菌性腐敗が促進されるため注意が必要です。"
+                    },
+                    {
+                        "title": "エチレンガスを発生する果物から遠ざけてください 🛑",
+                        "desc": "パクチーはエチレンガスに極めて敏感です。リンゴやバナナ、トマトなどエチレンを放出する果物と一緒に保存すると、葉緑素が破壊されて葉が黄色く変色（黄化現象）し寿命が縮まります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "茎の末端をカットし水瓶に立てて水耕保存する — 水分補給保存 (14〜21日間) 🌿",
+                        "text": "茎の切り口を1〜2cmカットし、水の入った容器に花瓶のように立てて保存します。💡保存のコツ：茎の下部が水に浸かるようにし、水に直接触れる下方の葉は取り除いて水の腐敗を防ぎましょう。"
+                    },
+                    {
+                        "name": "ポリ袋で葉全体をふんわり覆い低温保存する — 低温湿度維持 (1〜4℃) ❄️",
+                        "text": "葉周辺の相対湿度を高めることで気孔（Stomata）が閉じ、水分の蒸発が抑えられます。💡保存のコツ：水に立てたパクチーの上にポリ袋をふんわり被せ、冷蔵庫（1〜4℃）で保管すると細胞寿命が3倍以上延びます。"
+                    },
+                    {
+                        "name": "短期保存はキッチンペーパーで包んで密閉容器へ — 湿度調整密閉 (7〜10日間) 🧻",
+                        "text": "1週間以内に使い切る場合は、洗わずに適切な微小水分のみを維持するのがベストです。💡保存のコツ：洗っていないパクチーをキッチンペーパーで包んで水分を調整し、密閉容器に入れて冷蔵保存します。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "パクチーを冷蔵庫に入れていても黄色くなったりしおれるのはなぜですか？",
+                        "answer": "エチレンガスに暴露されると葉緑素が破壊されて黄色く変色（黄化）します。また、湿度不足で水膨圧が下がるとしおれるため、水耕補給とポリ袋による湿度維持、エチレンの遮断が不可欠です。"
+                    },
+                    {
+                        "question": "パクチーをしおらせずに長持ちさせる一番のポイントは何ですか？",
+                        "answer": "茎をカットして水瓶に立て（水分補給）、葉をポリ袋で覆い（気孔を閉じて湿度維持）、エチレンを出す果物から離して1〜4℃で冷やして保存することです。これで最大2〜3週間新鮮さが保たれます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持香菜（芫荽）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解香菜的最佳储存温度、方式及保鲜时长。",
+                "authority": "UC Davis Postharvest Center & USDA & MFDS",
+                "intro": "您是否遇到过刚买回来的新鲜香菜，没过几天茎干就委萎、叶子发黄变烂的情况？🌿\n\n香菜是全球料理中广泛使用的代表性香草，但其薄叶细胞的蒸腾作用（Transpiration）极其活跃。暴露在常温下会导致细胞内膨压（Turgor Pressure）迅速下降而枯萎；同时它对乙烯气体极度敏感，极易导致叶绿素破坏（黄化现象）。\n\n本指南基于UC Davis采后技术中心及USDA的权威指南，为您介绍3步科学水培保存法，帮您锁住香菜的爽脆与浓郁香气达3周之久。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "常温随意摆放及带水湿叶密封是腐烂主因 ⚠️",
+                        "desc": "将香菜置于常温下会因蒸腾作用丢失膨压，数小时内即萎蔫。若在叶片潮湿状态下密封，会加速细菌性腐烂。"
+                    },
+                    {
+                        "title": "务必切断与释放乙烯的水果接触 🛑",
+                        "desc": "香菜对乙烯气体极其敏感。与苹果、香蕉、番茄等释放乙烯的水果存放在一起，会导致叶绿素迅速分解，叶片快速变黄（黄化现象）。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "剪短茎部末端并插入水瓶中水培 — 持续补水法 (14~21天) 🌿",
+                        "text": "将香菜根茎末端剪去1~2厘米，像插花一样直立放入盛有小半瓶水的容器中。💡储存小贴士：保证茎部浸入水中，但需剥除浸在水中的下部叶片，防止水质变质发臭。"
+                    },
+                    {
+                        "name": "用塑料袋宽松套住叶部并低温冷藏 — 控温控湿 (1~4℃) ❄️",
+                        "text": "提高叶片周围的相对湿度可促使气孔（Stomata）关闭，抑制水分蒸发。💡储存小贴士：在水培香菜上方松松地套上保鲜袋，放入冰箱（1~4℃）冷藏，可延长细胞寿命3倍以上。"
+                    },
+                    {
+                        "name": "短期食用可用厨房纸巾包裹密封 — 控湿密封 (7~10天) 🧻",
+                        "text": "若打算在1周内食用完毕，建议先不清洗，保持微湿即可。💡储存小贴士：用干纸巾包裹未洗的香菜以吸收多余水分，装入密封盒后冷藏。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么香菜放在冰箱里还是会发黄或萎蔫？",
+                        "answer": "接触乙烯气体会破坏叶绿素导致发黄；湿度不足导致水分蒸发、细胞膨压下降则会萎蔫。因此，水培补水、袋套保湿以及远离乙烯源是关键。"
+                    },
+                    {
+                        "question": "长期保存香菜最核心的科学方法是什么？",
+                        "answer": "剪茎插水瓶（补水）、套袋罩叶（保湿闭气孔）、隔绝乙烯水果，并保持1~4℃低温冷藏。这能最大化保持香菜2~3周的新鲜度。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el cilantro fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el cilantro según las directrices oficiales de seguridad.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "¿Alguna vez compró un manojo de cilantro fresco y descubrió que sus tallos se marchitaban y sus hojas se ponían amarillas en pocos días? 🌿\n\nEl cilantro es una hierba aromática popular en la cocina mundial, pero sus finas hojas experimentan una rápida transpiración. La exposición a temperatura ambiente provoca una rápida caída de la presión de turgencia celular, lo que causa su marchitamiento. Además, es muy sensible al gas etileno, que destruye rápidamente la clorofila (amarillamiento).\n\nBasado en directrices del Centro de Tecnología Postcosecha de UC Davis y el USDA, esta guía paso a paso le enseña a conservar el cilantro crujiente y fresco hasta por 3 semanas mediante refrigeración hidropónica. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Dejarlo a temperatura ambiente u hojas empapadas causa marchitamiento y pudrición ⚠️",
+                        "desc": "Exponer el cilantro a temperatura ambiente acelera la pérdida de presión de turgencia celular. Sellarlo con agua en las hojas acelera la pudrición bacteriana."
+                    },
+                    {
+                        "title": "Aíslelo de las frutas que producen etileno 🛑",
+                        "desc": "El cilantro es extremadamente sensible al etileno. Guardarlo cerca de manzanas, plátanos o tomates destruye la clorofila, volviendo las hojas amarillas rápidamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Recorte los tallos y colóquelos erguidos en un frasco con agua — Conservación hidropónica (14–21 días) 🌿",
+                        "text": "Corte 1–2 cm de la base de los tallos y colóquelos erguidos en un vaso con agua como un ramo de flores. 💡 Consejo de almacenamiento: Retire las hojas inferiores que queden sumergidas para evitar que se pudran."
+                    },
+                    {
+                        "name": "Cubra suavemente las hojas con una bolsa de plástico y refrigere — Control de humedad y frío (1–4 °C) ❄️",
+                        "text": "Aumentar la humedad relativa rodeando las hojas hace que los estomas (Stomata) se cierren, frenando la evaporación. 💡 Consejo de almacenamiento: Cubra el frasco con una bolsa sin apretar y guárdelo en el refrigerador (1–4 °C)."
+                    },
+                    {
+                        "name": "Para uso a corto plazo, envuelva en papel de cocina en un recipiente hermético — Control de humedad (7–10 días) 🧻",
+                        "text": "Si lo usará en una semana, lo ideal es mantener humedad equilibrada sin lavar. 💡 Consejo de almacenamiento: Envuelva el cilantro sin lavar en papel absorbente dentro de un contenedor cerrado en el refrigerador."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué el cilantro se pone amarillo o se marchita dentro del refrigerador?",
+                        "answer": "La exposición al etileno destruye la clorofila y lo vuelve amarillo. La falta de humedad hace que se evapore el agua celular perdiendo turgencia. El suministro de agua hidropónico y aislarlo del etileno son indispensables."
+                    },
+                    {
+                        "question": "¿Cuál es la mejor manera científica de mantener el cilantro fresco?",
+                        "answer": "Cortar tallos en agua, cubrir hojas con bolsa plástica (cerrando estomas), mantener lejos de frutas con etileno y refrigerar a 1–4 °C. Mantiene la frescura durante 2–3 semanas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la coriandre fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la coriandre selon les directives officielles de sécurité.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Avez-vous déjà acheté un bouquet de coriandre fraîche pour retrouver ses tiges flétries et ses feuilles jaunies en quelques jours ? 🌿\n\nLa coriandre est une herbe aromatique très prisée, mais ses fines feuilles subissent une transpiration rapide. À température ambiante, la pression de turgescence cellulaire chute rapidement, provoquant le flétrissement. De plus, elle est extrêmement sensible à l'éthylène, qui dégrade la chlorophylle (jaunissement).\n\nBasé sur les recommandations du UC Davis Postharvest Technology Center et de l'USDA, ce guide en 3 étapes explique comment la conservation hydroponique au frais préserve la fraîcheur et l'arôme de la coriandre jusqu'à 3 semaines. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Conserver à température ambiante ou avec des feuilles trempées entraîne le flétrissement ⚠️",
+                        "desc": "Laisser la coriandre à température ambiante fait chuter la turgescence cellulaire. Conserver la coriandre avec des feuilles mouillées dans un sac fermé accélère la pourriture bactérienne."
+                    },
+                    {
+                        "title": "Isoler des fruits producteurs d'éthylène 🛑",
+                        "desc": "La coriandre est très sensible à l'éthylène. La placer près de pommes, bananes ou tomates détruit la chlorophylle et fait jaunir rapidement les feuilles."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Tailler le bas des tiges et placer dans un verre d'eau — Conservation hydroponique (14–21 jours) 🌿",
+                        "text": "Coupez 1 à 2 cm au bas des tiges et placez le bouquet dans un verre d'eau. 💡 Astuce de conservation : Immergez les tiges, mais effeuillez la partie basse pour éviter que les feuilles ne trempent dans l'eau."
+                    },
+                    {
+                        "name": "Recouvrir la partie supérieure d'un sac en plastique et réfrigérer — Contrôle d'humidité (1–4 °C) ❄️",
+                        "text": "Augmenter l'humidité autour des feuilles entraîne la fermeture des stomates, stoppant l'évaporation. 💡 Astuce de conservation : Recouvrez le tout sans serrer d'un sac en plastique et placez au réfrigérateur (1–4 °C)."
+                    },
+                    {
+                        "name": "Pour un usage rapide, envelopper dans du papier absorbant en boîte hermétique — Équilibre d'humidité (7–10 jours) 🧻",
+                        "text": "Si vous l'utilisez dans la semaine, gardez-la non lavée. 💡 Astuce de conservation : Enveloppez la coriandre non lavée dans du papier essuie-tout absorbant et placez-la dans une boîte hermétique au frais."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la coriandre jaunit-elle ou flétrit-elle même au réfrigérateur ?",
+                        "answer": "L'éthylène détruit la chlorophylle et jaunit les feuilles. Un manque d'humidité fait évaporer l'eau des cellules qui perdent leur turgescence. La méthode hydroponique et l'isolation de l'éthylène sont indispensables."
+                    },
+                    {
+                        "question": "Quelle est la meilleure méthode scientifique pour garder la coriandre fraîche ?",
+                        "answer": "Couper les tiges dans un verre d'eau, couvrir les feuilles d'un sac en plastique (fermant les stomates), éloigner des fruits à éthylène et conserver entre 1 et 4 °C. Elle reste fraîche 2 à 3 semaines."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Koriander richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Koriander basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Haben Sie schon einmal frischen Koriander gekauft, nur um nach wenigen Tagen schlaffe Stängel und vergilbte Blätter vorzufinden? 🌿\n\nKoriander ist ein beliebtes Küchenkraut, doch seine dünnen Blattzellen unterliegen einer hohen Transpiration. Bei Raumtemperatur fällt der zelluläre Turgordruck schnell ab, was zum Welken führt. Zudem reagiert Koriander extrem empfindlich auf Ethylengas, welches den Chlorophyllabbau (Vergilbung) beschleunigt.\n\nBasierend auf offiziellen Empfehlungen des UC Davis Postharvest Technology Center und der USDA zeigt Ihnen dieser Ratgeber eine hydroponische Kühlmethode, mit der Koriander bis zu 3 Wochen lang frisch bleibt. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Raumtemperatur und nasse Blätter führen zu schnellem Welken und Fäulnis ⚠️",
+                        "desc": "Bei Raumtemperatur verliert Koriander durch Wasserverdunstung rasch seinen Turgordruck. Werden nasse Blätter luftdicht verschlossen, beschleunigt das die bakterielle Fäulnis."
+                    },
+                    {
+                        "title": "Vor ethylenabgebenden Früchten schützen 🛑",
+                        "desc": "Koriander ist hochsensibel gegenüber Ethylen. Eine Lagerung neben Äpfeln, Bananen oder Tomaten zerstört das Chlorophyll und lässt die Blätter gelb werden."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Stängelenden kürzen und aufrecht in ein Wasserglas stellen — Hydroponische Wasserversorgung (14–21 Tage) 🌿",
+                        "text": "Schneiden Sie 1–2 cm der Stängel ab und stellen Sie den Koriander wie einen Blumenstrauß in ein Glas Wasser. 💡 Lagerungstipp: Entfernen Sie untere Blätter, damit sie nicht im Wasser hängen und faulen."
+                    },
+                    {
+                        "name": "Blätter mit einem Plastikbeutel locker abdecken und kühlen — Feuchtigkeitskontrolle (1–4 °C) ❄️",
+                        "text": "Erhöhte Luftfeuchtigkeit um die Blätter schließt die Stomata (Spaltöffnungen) und stoppt die Verdunstung. 💡 Lagerungstipp: Stülpen Sie eine Plastiktüte locker über das Glas und stellen Sie es bei 1–4 °C in den Kühlschrank."
+                    },
+                    {
+                        "name": "Für kurze Lagerung in Küchenpapier gewickelt in einer Dose aufbewahren — Feuchtigkeitsbalance (7–10 Tage) 🧻",
+                        "text": "Bei Verbrauch innerhalb einer Woche lagern Sie das Kraut am besten ungewaschen. 💡 Lagerungstipp: Ungewaschenen Koriander locker in Küchenpapier wickeln und in einer Frischhaltedose kühl stellen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum wird mein Koriander selbst im Kühlschrank gelb oder welk?",
+                        "answer": "Ethylengas baut Chlorophyll ab und führt zur Vergilbung. Zu geringe Feuchtigkeit lässt Wasser verdunsten, wodurch der Turgordruck sinkt. Hydroponische Wasserzufuhr und Ethylenschutz sind essenziell."
+                    },
+                    {
+                        "question": "Was ist die beste wissenschaftliche Methode zur Korianderlagerung?",
+                        "answer": "Stängel anschneiden, ins Wasserglas stellen, Blätter locker mit einem Beutel abdecken (Stomata schließen), vor Ethylen schützen und bei 1–4 °C kühlen. Hält bis zu 2–3 Wochen frisch."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar coentro fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o coentro com base em diretrizes oficiais de segurança.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Você já comprou um maço de coentro fresco e percebeu que suas folhas murcharam e amarelaram em poucos dias? 🌿\n\nO coentro é uma erva aromática essencial na culinária, mas suas folhas finas passam por rápida transpiração. A exposição à temperatura ambiente reduz a pressão de turgor celular, fazendo com que murche rapidamente. Além disso, é muito sensível ao gás etileno, que degrada a clorofila (amarelecimento).\n\nCom base em diretrizes do UC Davis Postharvest Technology Center e do USDA, este guia em 3 etapas mostra como o armazenamento hidropônico refrigerado mantém o coentro fresco e saboroso por até 3 semanas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Temperatura ambiente e folhas molhadas causam murchamento e podridão ⚠️",
+                        "desc": "Deixar o coentro em temperatura ambiente causa perda de pressão de turgor. Guardar o coentro com folhas muito molhadas num recipiente fechado acelera a deterioração bacteriana."
+                    },
+                    {
+                        "title": "Isole de frutas que produzem etileno 🛑",
+                        "desc": "O coentro é extremamente sensível ao etileno. Armazená-lo perto de maçãs, bananas ou tomates destrói a clorofila, amarelando as folhas rapidamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Corte a base dos talos e coloque em um copo com água — Conservação hidropônica (14–21 dias) 🌿",
+                        "text": "Corte 1–2 cm da base dos talos e coloque o maço em um copo com água como um buquê. 💡 Dica de conservação: Retire as folhas inferiores para que não fiquem submersas na água apodrecendo."
+                    },
+                    {
+                        "name": "Cubra as folhas com um saco plástico e refrigere — Controle de umidade (1–4 °C) ❄️",
+                        "text": "Aumentar a umidade relativa ao redor das folhas faz com que os estômatos se fechem, reduzindo a evaporação. 💡 Dica de conservação: Cubra o copo com um saco plástico sem apertar e guarde na geladeira (1–4 °C)."
+                    },
+                    {
+                        "name": "Para curto prazo, envolva em papel-toalha num pote hermético — Equilíbrio de umidade (7–10 dias) 🧻",
+                        "text": "Se for consumir em até uma semana, mantenha o coentro sem lavar. 💡 Dica de conservação: Envolva o coentro seco em papel-toalha e guarde em um pote fechado na geladeira."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o coentro amarela ou murcha mesmo dentro da geladeira?",
+                        "answer": "A exposição ao gás etileno destrói a clorofila e amarela as folhas. A falta de umidade faz com que as células percam água e turgor. A hidratação hidropônica e o isolamento do etileno são fundamentais."
+                    },
+                    {
+                        "question": "Qual é a melhor forma científica de conservar o coentro fresco?",
+                        "answer": "Cortar os talos em um copo d'água, cobrir as folhas com saco plástico (fechando estômatos), afastar de frutas que emitem etileno e refrigerar a 1–4 °C. Preserva o frescor por 2–3 semanas."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Daun Ketumbar (Cilantro) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun ketumbar berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Pernahkah Anda membeli daun ketumbar segar lalu mendapati batangnya layu dan daunnya menguning hanya dalam beberapa hari? 🌿\n\nDaun ketumbar adalah bumbu segar yang populer, namun sel daunnya yang tipis mengalami proses transpirasi yang sangat cepat. Paparan suhu ruang menyebabkan tekanan turgor sel turun drastis sehingga cepat layu. Selain itu, daun ketumbar sangat sensitif terhadap gas etilen yang merusak klorofil (penguningan).\n\nBerdasarkan pedoman UC Davis Postharvest Technology Center dan USDA, panduan 3 langkah ini menjelaskan metode penyimpanan hidroponik dingin untuk menjaga kesegaran daun ketumbar hingga 3 minggu. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Suhu ruang dan daun yang basah menyebabkan kelayuan dan pembusukan ⚠️",
+                        "desc": "Membiarkan daun ketumbar di suhu ruang mempercepat hilangnya tekanan turgor sel. Menyimpan daun ketumbar dalam kondisi basah tergenang air akan mempercepat pembusukan bakteri."
+                    },
+                    {
+                        "title": "Jauhkan dari buah yang menghasilkan gas etilen 🛑",
+                        "desc": "Daun ketumbar sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pisang, atau tomat dapat merusak klorofil dan membuat daun cepat menguning."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Potong pangkal batang lalu berdirikan di dalam wadah berisi air — Pasokan Hidroponik (14–21 Hari) 🌿",
+                        "text": "Potong 1–2 cm pangkal batang lalu berdirikan di dalam gelas berisi air seperti buket bunga. 💡 Tips Penyimpanan: Pastikan bagian bawah batang terendam air, namun petik daun bagian bawah agar tidak terendam dan membusuk."
+                    },
+                    {
+                        "name": "Tutup bagian daun dengan kantong plastik lalu simpan di kulkas — Kontrol Kelembapan Dingin (1–4°C) ❄️",
+                        "text": "Meningkatkan kelembapan di sekitar daun membuat stomata menutup sehingga menahan penguapan air. 💡 Tips Penyimpanan: Tutup wadah dengan kantong plastik secara longgar lalu simpan di kulkas (1–4°C)."
+                    },
+                    {
+                        "name": "Bungkus dengan tisu dapur dalam wadah kedap udara untuk penggunaan jangka pendek — Keseimbangan Kelembapan (7–10 Hari) 🧻",
+                        "text": "Jika ingin digunakan dalam waktu seminggu, simpan dalam kondisi belum dicuci. 💡 Tips Penyimpanan: Bungkus daun ketumbar belum dicuci dengan tisu dapur kering lalu masukkan ke wadah kedap udara di kulkas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa daun ketumbar saya menguning atau layu meskipun berada di dalam kulkas?",
+                        "answer": "Paparan gas etilen merusak klorofil sehingga daun menguning. Kurangnya kelembapan membuat air sel menguap dan kehilangan tekanan turgor. Pasokan air hidroponik dan penyekatan etilen sangat penting."
+                    },
+                    {
+                        "question": "Apa metode ilmiah terbaik untuk menjaga daun ketumbar tetap segar?",
+                        "answer": "Potong pangkal batang dalam gelas berisi air, tutup daun dengan kantong plastik (menutup stomata), jauhkan dari buah penghasil etilen, dan simpan pada suhu 1–4°C. Kesegarannya bertahan 2–3 minggu."
+                    }
+                ]
+            }
+        }
+    }
+}

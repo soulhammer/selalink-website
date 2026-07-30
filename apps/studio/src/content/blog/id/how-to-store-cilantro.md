@@ -1,0 +1,128 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Cara Menyimpan Daun Ketumbar (Cilantro) agar Tetap Segar: Panduan Penyimpanan Ilmiah"
+description: "Ketahui suhu, metode, dan masa simpan terbaik untuk daun ketumbar berdasarkan pedoman keselamatan resmi."
+pubDate: "2026-02-02"
+updatedDate: "2026-02-02"
+category: "FreshSnap"
+heroImage: "/images/blog/cilantro_storage_hack.webp"
+app: "freshsnap"
+formatVersion: 4
+authority: "USDA & MFDS & UC Davis Postharvest Center"
+steps:
+  - name: "Potong pangkal batang lalu berdirikan di dalam wadah berisi air — Pasokan Hidroponik (14–21 Hari) 🌿"
+    text: "Potong 1–2 cm pangkal batang lalu berdirikan di dalam gelas berisi air seperti buket bunga. 💡 Tips Penyimpanan: Pastikan bagian bawah batang terendam air, namun petik daun bagian bawah agar tidak terendam dan membusuk."
+  - name: "Tutup bagian daun dengan kantong plastik lalu simpan di kulkas — Kontrol Kelembapan Dingin (1–4°C) ❄️"
+    text: "Meningkatkan kelembapan di sekitar daun membuat stomata menutup sehingga menahan penguapan air. 💡 Tips Penyimpanan: Tutup wadah dengan kantong plastik secara longgar lalu simpan di kulkas (1–4°C)."
+  - name: "Bungkus dengan tisu dapur dalam wadah kedap udara untuk penggunaan jangka pendek — Keseimbangan Kelembapan (7–10 Hari) 🧻"
+    text: "Jika ingin digunakan dalam waktu seminggu, simpan dalam kondisi belum dicuci. 💡 Tips Penyimpanan: Bungkus daun ketumbar belum dicuci dengan tisu dapur kering lalu masukkan ke wadah kedap udara di kulkas."
+faqs:
+  - question: "Mengapa daun ketumbar saya menguning atau layu meskipun berada di dalam kulkas?"
+    answer: "Paparan gas etilen merusak klorofil sehingga daun menguning. Kurangnya kelembapan membuat air sel menguap dan kehilangan tekanan turgor. Pasokan air hidroponik dan penyekatan etilen sangat penting."
+  - question: "Apa metode ilmiah terbaik untuk menjaga daun ketumbar tetap segar?"
+    answer: "Potong pangkal batang dalam gelas berisi air, tutup daun dengan kantong plastik (menutup stomata), jauhkan dari buah penghasil etilen, dan simpan pada suhu 1–4°C. Kesegarannya bertahan 2–3 minggu."
+---
+
+Pernahkah Anda membeli daun ketumbar segar lalu mendapati batangnya layu dan daunnya menguning hanya dalam beberapa hari? 🌿
+
+Daun ketumbar adalah bumbu segar yang populer, namun sel daunnya yang tipis mengalami proses transpirasi yang sangat cepat. Paparan suhu ruang menyebabkan tekanan turgor sel turun drastis sehingga cepat layu. Selain itu, daun ketumbar sangat sensitif terhadap gas etilen yang merusak klorofil (penguningan).
+
+Berdasarkan pedoman UC Davis Postharvest Technology Center dan USDA, panduan 3 langkah ini menjelaskan metode penyimpanan hidroponik dingin untuk menjaga kesegaran daun ketumbar hingga 3 minggu. 🛡️
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Keamanan Pangan & Bukti Ilmiah
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Konten ini didasarkan pada USDA & MFDS & UC Davis Postharvest Center.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Panduan Penyimpanan yang Terbukti Secara Ilmiah
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Potong pangkal batang lalu berdirikan di dalam wadah berisi air — Pasokan Hidroponik (14–21 Hari) 🌿</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Potong 1–2 cm pangkal batang lalu berdirikan di dalam gelas berisi air seperti buket bunga. 💡 Tips Penyimpanan: Pastikan bagian bawah batang terendam air, namun petik daun bagian bawah agar tidak terendam dan membusuk.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tutup bagian daun dengan kantong plastik lalu simpan di kulkas — Kontrol Kelembapan Dingin (1–4°C) ❄️</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Meningkatkan kelembapan di sekitar daun membuat stomata menutup sehingga menahan penguapan air. 💡 Tips Penyimpanan: Tutup wadah dengan kantong plastik secara longgar lalu simpan di kulkas (1–4°C).
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Bungkus dengan tisu dapur dalam wadah kedap udara untuk penggunaan jangka pendek — Keseimbangan Kelembapan (7–10 Hari) 🧻</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Jika ingin digunakan dalam waktu seminggu, simpan dalam kondisi belum dicuci. 💡 Tips Penyimpanan: Bungkus daun ketumbar belum dicuci dengan tisu dapur kering lalu masukkan ke wadah kedap udara di kulkas.
+  </p>
+</div>
+
+---
+
+## 2. Aturan Penting dan Peringatan Penyimpanan
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Suhu ruang dan daun yang basah menyebabkan kelayuan dan pembusukan ⚠️</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      Membiarkan daun ketumbar di suhu ruang mempercepat hilangnya tekanan turgor sel. Menyimpan daun ketumbar dalam kondisi basah tergenang air akan mempercepat pembusukan bakteri.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Jauhkan dari buah yang menghasilkan gas etilen 🛑</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      Daun ketumbar sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pisang, atau tomat dapat merusak klorofil dan membuat daun cepat menguning.
+    </p>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Mengapa daun ketumbar saya menguning atau layu meskipun berada di dalam kulkas?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Paparan gas etilen merusak klorofil sehingga daun menguning. Kurangnya kelembapan membuat air sel menguap dan kehilangan tekanan turgor. Pasokan air hidroponik dan penyekatan etilen sangat penting.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Apa metode ilmiah terbaik untuk menjaga daun ketumbar tetap segar?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Potong pangkal batang dalam gelas berisi air, tutup daun dengan kantong plastik (menutup stomata), jauhkan dari buah penghasil etilen, dan simpan pada suhu 1–4°C. Kesegarannya bertahan 2–3 minggu.
+    </p>
+  </details>
+</div>

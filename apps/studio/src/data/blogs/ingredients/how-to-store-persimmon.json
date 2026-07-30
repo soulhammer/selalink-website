@@ -1,0 +1,406 @@
+{
+    "how-to-store-persimmon": {
+        "ingId": "persimmon",
+        "pubDate": "2026-06-29",
+        "updatedDate": "2026-06-29",
+        "heroImage": "/images/blog/persimmon_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "감·홍시 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 단감과 홍시의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+                "intro": "아삭한 단감을 사 왔다가 금방 무물무물해지거나, 달콤한 홍시를 보관하려다 터지고 상해서 버려본 적 있으시죠? 柿\n\n감의 떫은맛은 수용성 탄닌(Didi-tannin) 성분 때문이며, 숙성 과정에서 불용성으로 전환되면서 달콤해집니다. 특히 감은 에틸렌 가스(Ethylene) 감수성이 극도로 높아 에틸렌에 노출되면 펙티나아제(Pectinase) 효소가 활성화되고, 세포벽의 펙틴이 분해되어 조직이 급격히 물러지면서 홍시로 변하게 됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 단감의 아삭함을 2~3개월간 유지하고 홍시를 1년 내내 달콤하게 즐기는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "단감 상태를 유지하려면 에틸렌 노출을 절대 피하세요 ⚠️",
+                        "desc": "단감을 사과, 바나나, 토마토 등 에틸렌 방출 과일과 함께 두면 펙티나아제(Pectinase) 효소가 즉각 활성화되어 며칠 만에 펙틴이 분해되고 물러져 홍시로 변합니다."
+                    },
+                    {
+                        "title": "홍시를 상온에 오래 두거나 과습 상태로 밀폐하지 마세요 🛑",
+                        "desc": "홍시로 전환된 감은 과육 세포벽이 이미 무너진 상태이므로 상온에 방치하면 초파리와 세균이 쉽게 번식하여 부패합니다. 즉시 저온 냉장하거나 냉동 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "단감은 0~2℃에서 비닐로 개별 밀폐 보관하기 — 저온 밀폐 보관 (60~90일) 🍊",
+                        "text": "단감은 0~2℃ 저온과 높은 습도에서 호흡률이 최소화됩니다. 💡 보관 팁: 씻지 않은 단감을 키친타월로 감싸 비닐봉지에 넣고 밀폐한 뒤 김치냉장고나 냉장고 신선실(0~2℃)에 두면 2~3개월간 아삭함이 유지됩니다."
+                    },
+                    {
+                        "name": "에틸렌 방출 과일과 완벽히 격리하기 — 에틸렌 차단 🚫",
+                        "text": "에틸렌 가스는 단감의 조직 파괴를 유발하는 결정적 요인입니다. 💡 보관 팁: 사과, 배, 바나나와 같은 공간에 두지 않고 독립된 비닐 밀폐 상태를 유지해야 단감의 아삭한 식감이 오랫동안 보존됩니다."
+                    },
+                    {
+                        "name": "홍시는 낱개 포장 후 -18℃ 이하에서 냉동 보관하기 — 아이스 홍시 냉동 (365일 이상) 🧊",
+                        "text": "완전 숙성된 홍시는 냉동 시 조직감과 달콤한 풍미가 완벽히 고정됩니다. 💡 보관 팁: 홍시를 랩이나 낱개 팩으로 포장하여 냉동실(-18℃ 이하)에 보관하세요. 1년 내내 아이스홍시 상태로 맛과 영양 손실 없이 즐길 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "단감을 사과 옆에 두었더니 왜 금방 무르고 홍시가 되는 건가요?",
+                        "answer": "사과에서 방출되는 에틸렌 가스가 감의 펙티나아제(Pectinase) 효소를 활성화하기 때문입니다. 이 효소가 감 세포벽의 펙틴을 빠르게 분해하여 단단했던 조직이 물러지고 홍시로 변하게 됩니다."
+                    },
+                    {
+                        "question": "홍시를 냉동 보관할 때 맛과 식감을 손상시키지 않는 방법은 무엇인가요?",
+                        "answer": "홍시를 씻어 물기를 완전히 닦아낸 뒤 낱개로 랩 포장하거나 밀폐용기에 담아 -18℃ 이하에서 급속 냉동하는 것입니다. 살짝 해동하여 스푼으로 떠먹으면 조직감 손실 없이 샤베트 같은 최상의 맛을 즐길 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Persimmons & Soft Persimmons Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for firm and soft persimmons based on official safety guidelines.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "Have you ever bought crisp persimmons only to find them turn mushy within days, or struggled to store sweet soft persimmons without them bursting and spoiling?\n\nThe astringency of unripe persimmons comes from soluble didi-tannin, which transforms into insoluble tannin as the fruit ripens, unlocking its natural sweetness. Persimmons are extremely sensitive to ethylene gas. Exposure to ethylene triggers pectinase enzymes, breaking down cell wall pectin and rapidly softening the fruit tissue into soft persimmon (Hongsi).\n\nBased on official guidelines from the Rural Development Administration (RDA) and USDA, this 3-step scientific storage guide explains how to keep firm persimmons crisp for 2 to 3 months and preserve soft persimmons frozen for up to a year. 🛡️",
+                "whyTitle": "Why Store Persimmons This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Avoid ethylene exposure completely to maintain firm crispness ⚠️",
+                        "desc": "Placing crisp persimmons near ethylene-producing fruits like apples or bananas activates pectinase enzymes. This rapidly breaks down pectin and softens the fruit tissue into soft persimmon within days."
+                    },
+                    {
+                        "title": "Do not leave soft persimmons at room temperature 🛑",
+                        "desc": "Once turned into soft persimmon, the fruit's cell walls are broken down. Leaving soft persimmons at room temperature invites fruit flies and bacterial spoilage. Refrigerate or freeze them immediately."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store firm persimmons in sealed plastic bags at 0–2°C — Cold Sealed Storage (60–90 Days) 🍊",
+                        "text": "Respiration rates of firm persimmons drop significantly at 0–2°C (32–35°F) with high relative humidity. 💡 Storage Tip: Wrap unwashed firm persimmons in paper towels, place them in sealed plastic bags, and store in a cold crisper drawer for 2 to 3 months."
+                    },
+                    {
+                        "name": "Isolate strictly from ethylene-releasing fruits — Ethylene Block 🚫",
+                        "text": "Ethylene gas is the primary trigger for persimmon cell wall breakdown. 💡 Storage Tip: Never store persimmons in the same space as apples, pears, or bananas. Keep them sealed independently to maintain crispness."
+                    },
+                    {
+                        "name": "Freeze soft persimmons individually below -18°C — Frozen Hongsi Storage (365+ Days) 🧊",
+                        "text": "Freezing fully ripened soft persimmons locks in their gelatinous texture and rich sweetness. 💡 Storage Tip: Wrap individual soft persimmons in plastic wrap and freeze below -18°C (0°F) to enjoy sorbet-like iced persimmons for over a year."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do crisp persimmons turn soft so quickly when stored near apples?",
+                        "answer": "Ethylene gas emitted by apples triggers persimmon pectinase enzymes. These enzymes break down the pectin structural bonds in the fruit's cell walls, converting the firm texture into soft persimmon (Hongsi)."
+                    },
+                    {
+                        "question": "How do I freeze soft persimmons without ruining their texture?",
+                        "answer": "Wash and dry soft persimmons thoroughly, wrap them individually in plastic wrap, and freeze below -18°C. When slightly thawed and eaten with a spoon, they deliver a ice-sorbet texture without quality loss."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "柿・熟柿を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく硬柿と熟柿（ホンシ）の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "農村振興庁(RDA) & USDA & 食品医薬品安全処(MFDS)",
+                "intro": "シャキシャキした固い柿を買ってきたのにすぐ柔らかくなってしまったり、甘い熟柿（ホンシ）を保存しようとしてつぶれて傷んでしまった経験はありませんか？柿\n\n柿の渋みは水溶性タンニン（Didi-tannin）によるもので、熟成の過程で不溶性に変化することで甘みを感じるようになります。特に柿はエチレンガスに対する感度が極めて高く、エチレンに晒されるとペクチナーゼ（Pectinase）酵素が活性化し、細胞壁のペクチンが分解されて組織が急激に柔らかくなり熟柿へと変化します。\n\n本記事では、韓国農村振興庁（RDA）およびUSDAの公式ガイドラインに基づき、固い柿の食感を2〜3ヶ月維持し、熟柿を1年中甘く楽しむ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存のか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "固い柿の食感を保つにはエチレンとの接触を絶対に避けてください ⚠️",
+                        "desc": "固い柿をリンゴやバナナなどエチレンを放出する果物と一緒に置くと、ペクチナーゼ酵素が即座に活性化し、数日でペクチンが分解されて熟柿に変わってしまいます。"
+                    },
+                    {
+                        "title": "熟柿を常温で長期間放置しないでください 🛑",
+                        "desc": "熟柿になった柿は細胞壁がすでに崩れているため、常温放置するとコバエや細菌が繁殖しやすく腐敗します。すぐに低温冷蔵または冷凍保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "固い柿は0〜2℃でポリ袋に入れ個別密閉保存する — 低温密閉保存 (60〜90日間) 🍊",
+                        "text": "固い柿は0〜2℃の低温と高湿度環境で呼吸量が最小限に抑えられます。💡保存のコツ：洗っていない柿をキッチンペーパーで包みポリ袋で密閉してチルド室等（0〜2℃）に入れると、2〜3ヶ月間食感が保たれます。"
+                    },
+                    {
+                        "name": "エチレン放出果物と完全に隔離する — エチレン遮断 🚫",
+                        "text": "エチレンガスは柿の組織崩壊を引き起こす決定的な要因です。💡保存のコツ：リンゴやバナナと同じ空間に置かず、独立したポリ袋密閉状態で保管してください。"
+                    },
+                    {
+                        "name": "熟柿はラップで個包装し-18℃以下で冷凍保存する — アイス熟柿冷凍 (365日以上) 🧊",
+                        "text": "完全に熟した熟柿は冷凍することで食感と甘みが完璧に固定されます。💡保存のコツ：熟柿をラップで1個ずつ包み冷凍庫（-18℃以下）で保存すると、1年中アイス柿として美味しく楽しめます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "固い柿をリンゴの隣に置くとなぜすぐ熟柿になってしまうのですか？",
+                        "answer": "リンゴから放出されるエチレンガスが柿のペクチナーゼ（Pectinase）酵素を活性化させるためです。この酵素が柿の細胞壁のペクチンを急速に分解し、固い組織を柔らかい熟柿に変えてしまいます。"
+                    },
+                    {
+                        "question": "熟柿を冷凍保存する際に食感や味を損なわないコツは何ですか？",
+                        "answer": "水気をしっかり拭き取り、1個ずつラップで包んで-18℃以下で急速冷凍することです。少し解凍してスプーンですくって食べると、シャーベットのような極上の食感を損なわずに味わえます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持柿子与软柿/红柿（Persimmon）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解硬柿子与软柿子的最佳储存温度、方式及保鲜时长。",
+                "authority": "韩国农村振兴厅(RDA) & USDA & MFDS",
+                "intro": "您是否遇到过买回来的清脆硬柿子没过几天就变软变烂，或者想保存甜美的软柿（红柿）却因破裂变质而丢弃的情况？柿\n\n柿子的涩味源于可溶性单宁（Didi-tannin），在成熟过程中转变为不溶性单宁，从而显现出甜味。柿子对乙烯气体（Ethylene）极度敏感，暴露于乙烯中会激活果胶酶（Pectinase），分解细胞壁中的果胶，使组织急剧变软成为软柿。\n\n本指南基于韩国农村振兴厅（RDA）与USDA的权威指南，为您介绍3步科学保存秘诀，让硬柿子保持清脆达2~3个月，软柿冷冻保鲜长达1年。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "欲保持硬柿清脆，切勿接触乙烯气体 ⚠️",
+                        "desc": "将硬柿子与苹果、香蕉等释放乙烯的水果存放在一起，会立即激活果胶酶（Pectinase），使果胶迅速分解，数天内即催熟变软成软柿。"
+                    },
+                    {
+                        "title": "切勿将软柿常温久放 🛑",
+                        "desc": "转变为软柿后，果实细胞壁已被破除。常温放置极易招引果蝇并滋生细菌导致腐烂，必须立即低温冷藏或冷冻保存。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "硬柿在0~2℃用塑料袋单独密封保存 — 低温密封保存 (60~90天) 🍊",
+                        "text": "硬柿子在0~2℃低温及高湿环境中呼吸率最低。💡储存小贴士：未清洗的硬柿子用厨房纸巾包裹，装入塑料袋密封后放入冰箱冷藏室（0~2℃），可保持清脆口感2~3个月。"
+                    },
+                    {
+                        "name": "严格与释放乙烯的水果隔绝 — 阻断乙烯 🚫",
+                        "text": "乙烯气体是导致柿子组织崩解变软的决定性因素。💡储存小贴士：切勿与苹果、梨、香蕉共存一处，保持独立密封存放。"
+                    },
+                    {
+                        "name": "软柿单体包装后在-18℃以下冷冻保存 — 冻柿冷冻保存 (365天以上) 🧊",
+                        "text": "完全成熟的软柿冷冻后，可完美锁定其果冻般的质感与甜美风味。💡储存小贴士：用保鲜膜单体包裹软柿，置于冷冻室（-18℃以下），可四季享用冻柿冰沙。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么硬柿子放在苹果旁边很快就会变软成红柿？",
+                        "answer": "因为苹果释放的乙烯气体激活了柿子中的果胶酶（Pectinase）。该酶能迅速分解柿子细胞壁的果胶结构，使坚硬的组织软化变为软柿。"
+                    },
+                    {
+                        "question": "冷冻软柿时，如何保存才能不破坏其口感与风味？",
+                        "answer": "将软柿擦干水分后用保鲜膜逐个包裹，放入-18℃以下冷冻室急冻。食用时稍微解冻，用勺子挖取，即可品尝到沙冰般的口感。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los caquis y caquis maduros frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para caquis firmes y blandos según las directrices oficiales de seguridad.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "¿Alguna vez compró caquis firmes y crujientes y descubrió que se ablandaban en pocos días, o tuvo problemas para conservar caquis maduros sin que se estropearan?\n\nLa astringencia de los caquis verdes se debe al tanino soluble, que se transforma en tanino insoluble a medida que la fruta madura, liberando su dulzura. Los caquis son extremadamente sensibles al gas etileno. La exposición al etileno activa las enzimas pectinasa, desintegrando la pectina de las paredes celulares y ablandando rápidamente la pulpa.\n\nBasado en directrices de la Administración de Desarrollo Rural (RDA) y el USDA, esta guía le enseña a conservar caquis firmes crujientes durante 2 a 3 meses y mantener caquis maduros congelados hasta por 1 año. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Evite por completo la exposición al etileno para mantener la firmeza ⚠️",
+                        "desc": "Colocar caquis firmes cerca de frutas que emiten etileno (como manzanas o plátanos) activa las enzimas pectinasa, ablandando la pulpa en pocos días."
+                    },
+                    {
+                        "title": "No deje los caquis maduros a temperatura ambiente 🛑",
+                        "desc": "Cuando el caquí se vuelve blando y maduro, la estructura celular ya se ha degradado. Dejarlo a temperatura ambiente atrae moscas de la fruta y bacterias. Refrigere o congele de inmediato."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserve caquis firmes sellados en bolsas de plástico a 0–2 °C — Almacenamiento hermético en frío (60–90 días) 🍊",
+                        "text": "La tasa de respiración del caqui firme se reduce al mínimo a 0–2 °C. 💡 Consejo de almacenamiento: Envuelva los caquis secos en papel de cocina, séllelos en bolsas de plástico y guárdelos en el cajón de frío."
+                    },
+                    {
+                        "name": "Aíslelos estrictamente de frutas emisoras de etileno — Bloqueo de etileno 🚫",
+                        "text": "El gas etileno es el desencadenante principal de la descomposición celular del caqui. 💡 Consejo de almacenamiento: No los guarde junto a manzanas o plátanos; manténgalos sellados por separado."
+                    },
+                    {
+                        "name": "Congele caquis maduros individualmente por debajo de -18 °C — Congelación (365+ días) 🧊",
+                        "text": "Congelar caquis blando-maduros preserva su textura gelatinosa y su intenso dulzor. 💡 Consejo de almacenamiento: Envuelva los caquis maduros en film transparente e introdúzcalos en el congelador (-18 °C) para disfrutarlos como sorbete."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los caquis firmes se ablandan tan rápido al ponerlos junto a las manzanas?",
+                        "answer": "El gas etileno liberado por las manzanas activa las enzimas pectinasa del caqui. Estas enzimas rompen los enlaces de pectina de las paredes celulares, transformando la textura firme en pulpa blanda."
+                    },
+                    {
+                        "question": "¿Cómo congelar caquis maduros sin arruinar su textura?",
+                        "answer": "Lave y seque bien los caquis maduros, envuélvalos individualmente con film transparente y congélelos a -18 °C. Al descongelar ligeramente y comer con cuchara, obtendrá una textura tipo sorbete intacta."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les kakis fermes et mûrs frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les kakis fermes et mûrs selon les directives officielles de sécurité.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "Avez-vous déjà acheté des kakis fermes pour les retrouver mous en quelques jours, ou eu du mal à conserver des kakis très mûrs sans qu'ils ne pourrissent ?\n\nL'astringence des kakis vient du tannin soluble, qui se transforme en tannin insoluble au cours du mûrissement. Les kakis sont extrêmement sensibles au gaz éthylène. L'exposition à l'éthylène active les enzymes pectinases, détruisant la pectine des parois cellulaires et ramollissant très rapidement la chair du fruit.\n\nBasé sur les recommandations officielles de la RDA et du USDA, ce guide en 3 étapes explique comment conserver des kakis fermes pendant 2 à 3 mois et garder des kakis très mûrs au congélateur pendant un an. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Éviter l'exposition à l'éthylène pour préserver la fermeté ⚠️",
+                        "desc": "Placer des kakis fermes près de fruits émetteurs d'éthylène (pommes, bananes) active les enzymes pectinases. La chair ramollit alors en quelques jours."
+                    },
+                    {
+                        "title": "Ne pas laisser les kakis très mûrs à température ambiante 🛑",
+                        "desc": "Un kaki devenu mou a ses cellules déjà dégradées. Le laisser à température ambiante attire les moucherons et accélère le pourrissement. Réfrigérez ou congelez immédiatement."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver les kakis fermes en sacs plastiques scellés à 0–2 °C — Stockage étanche au frais (60–90 jours) 🍊",
+                        "text": "Le taux de respiration des kakis fermes diminue fortement entre 0 et 2 °C. 💡 Astuce de conservation : Enveloppez les kakis fermes dans du papier essuie-tout, placez-les en sac étanche au bas du réfrigérateur."
+                    },
+                    {
+                        "name": "Isoler strictement des fruits émetteurs d'éthylène — Barrière anti-éthylène 🚫",
+                        "text": "L'éthylène déclenche la dégradation cellulaire du kaki. 💡 Astuce de conservation : Ne conservez jamais les kakis dans le même panier que les pommes ou les bananes."
+                    },
+                    {
+                        "name": "Congeler les kakis mûrs individuellement sous -18 °C — Congélation du kaki mûr (365+ jours) 🧊",
+                        "text": "Congeler un kaki très mûr verrouille sa texture fondante et sa saveur sucrée. 💡 Astuce de conservation : Enveloppez chaque kaki mûr de film étirable et congelez-le à -18 °C pour le déguster comme un sorbet."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les kakis fermes ramollissent-ils rapidement près des pommes ?",
+                        "answer": "L'éthylène dégagé par les pommes active les enzymes pectinases du kaki. Ces enzymes décomposent la pectine des parois cellulaires, transformant la chair ferme en texture très molle."
+                    },
+                    {
+                        "question": "Comment congeler les kakis mûrs sans altérer leur texture ?",
+                        "answer": "Séchez soigneusement les kakis mûrs, enveloppez-les individuellement de film étirable et placez-les à -18 °C. En les dégustant légèrement décongelés à la cuillère, vous obtiendrez une texture glacée parfaite."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Kakis und weiche Kakis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für feste und weiche Kakis basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "Haben Sie schon einmal feste Kakis gekauft, nur um festzustellen, dass sie nach wenigen Tagen matschig wurden, oder hatten Sie Mühe, süße weiche Kakis zu lagern?\n\nDie Adstringenz unreifer Kakis stammt von löslichem Tannin, das beim Reifen in unlösliches Tannin umgewandelt wird. Kakis reagieren extrem empfindlich auf Ethylengas. Die Einwirkung von Ethylen aktiviert Pektinase-Enzyme, die das Zellwandpektin abbauen und das Gewebe rasch aufweichen.\n\nBasierend auf offiziellen Empfehlungen der RDA und USDA zeigt Ihnen dieser 3-Schritte-Ratgeber, wie Sie feste Kakis 2 bis 3 Monate lang knackig halten und weiche Kakis bis zu 1 Jahr im Tiefkühlfach aufbewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Ethylenkontakt strikt vermeiden, um die Festigkeit zu bewahren ⚠️",
+                        "desc": "Werden feste Kakis neben ethylenabgebenden Früchten wie Äpfeln gelagert, aktiviert dies Pektinase-Enzyme. Das Fruchtfleisch wird innerhalb weniger Tage weich."
+                    },
+                    {
+                        "title": "Weiche Kakis nicht bei Raumtemperatur lagern 🛑",
+                        "desc": "Sobald Kakis weich sind, ist das Zellgewebe abgebaut. Raumtemperatur zieht Fruchtfliegen an und führt zu Fäulnis. Sofort kühlen oder einfrieren."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Feste Kakis luftdicht in Plastikbeuteln bei 0–2 °C lagern — Kaltlagerung (60–90 Tage) 🍊",
+                        "text": "Die Atmungsrate fester Kakis sinkt bei 0–2 °C stark. 💡 Lagerungstipp: Ungewaschene feste Kakis in Küchenpapier wickeln, in Plastikbeuteln verschließen und im Kaltfach lagern."
+                    },
+                    {
+                        "name": "Strikt von ethylenausstoßenden Früchten isolieren — Ethylensperre 🚫",
+                        "text": "Ethylengas ist der Hauptauslöser für den Zellwandabbau der Kaki. 💡 Lagerungstipp: Kakis nicht zusammen mit Äpfeln oder Bananen aufbewahren, sondern separat dicht verschließen."
+                    },
+                    {
+                        "name": "Weiche Kakis einzeln bei unter -18 °C einfrieren — Gefrierlagerung (365+ Tage) 🧊",
+                        "text": "Das Einfrieren vollreifer weicher Kakis konserviert die geleeartige Textur. 💡 Lagerungstipp: Weiche Kakis einzeln in Frischhaltefolie wickeln und bei -18 °C einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum werden feste Kakis neben Äpfeln so schnell weich?",
+                        "answer": "Das von Äpfeln abgegebene Ethylengas aktiviert Pektinase-Enzyme in der Kaki. Diese Enzym spalten das Pektin der Zellwände auf und verwandeln die feste Frucht in eine weiche Masse."
+                    },
+                    {
+                        "question": "Wie friert man weiche Kakis ein, ohne die Textur zu beschädigen?",
+                        "answer": "Weiche Kakis abtrocknen, einzeln in Folie wickeln und bei -18 °C tiefkühlen. Leicht angetaut mit dem Löffel gegessen, bieten sie eine sorbetartige Textur."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar caquis firmes e caquis moles frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para caquis firmes e moles com base em diretrizes oficiais de segurança.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "Você já comprou caquis firmes e crocantes e percebeu que eles amoleceram em poucos dias, ou teve dificuldades para armazenar caquis moles sem que estragassem?\n\nA adstringência do caqui verde se deve ao tanino solúvel, que se transforma em tanino insolúvel à medida que a fruta amadurece. Os caquis são extremamente sensíveis ao gás etileno. A exposição ao etileno ativa enzimas pectinases, degradando a pectina das paredes celulares e amolecendo a polpa rapidamente.\n\nCom base em diretrizes da Administração de Desenvolvimento Rural (RDA) e do USDA, este guia em 3 etapas ensina como manter caquis firmes por 2 a 3 meses e conservar caquis moles congelados por até 1 ano. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Evite a exposição ao etileno para manter a firmeza crocante ⚠️",
+                        "desc": "Colocar caquis firmes perto de frutas que emitem etileno (como maçãs ou bananas) ativa enzimas pectinases, amolecendo a polpa em poucos dias."
+                    },
+                    {
+                        "title": "Não deixe caquis moles em temperatura ambiente 🛑",
+                        "desc": "Quando o caqui amolece, a estrutura celular já foi degradada. Deixá-lo em temperatura ambiente atrai moscas e bactérias. Refrigere ou congele imediatamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde caquis firmes selados em sacos plásticos a 0–2 °C — Armazenamento selado a frio (60–90 dias) 🍊",
+                        "text": "A taxa de respiração do caqui firme é reduzida ao mínimo a 0–2 °C. 💡 Dica de conservação: Envolva os caquis em papel-toalha, sele-os em sacos plásticos e guarde na gaveta de refrigeração."
+                    },
+                    {
+                        "name": "Isole rigorosamente de frutas que emitem etileno — Bloqueio de etileno 🚫",
+                        "text": "O gás etileno é o principal causador da degradação celular do caqui. 💡 Dica de conservação: Nunca guarde caquis no mesmo recipiente que maçãs ou bananas."
+                    },
+                    {
+                        "name": "Congele caquis moles individualmente abaixo de -18 °C — Congelamento (365+ dias) 🧊",
+                        "text": "Congelar caquis moles bem maduros fixa sua textura gelatinosa e sabor doce. 💡 Dica de conservação: Envolva cada caqui mole em filme plástico e guarde no freezer (-18 °C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os caquis firmes amolecem tão rápido perto de maçãs?",
+                        "answer": "O gás etileno liberado pelas maçãs ativa as enzimas pectinases do caqui. Essas enzimas quebram a pectina das paredes celulares, transformando a textura firme em polpa mole."
+                    },
+                    {
+                        "question": "Como congelar caquis moles sem estragar sua textura?",
+                        "answer": "Lave e seque bem os caquis moles, envolva cada um individualmente em filme plástico e congele a -18 °C. Ao descongelar levemente e comer de colher, você terá uma textura tipo sorvete intacta."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kesemek Keras & Kesemek Lunak (Hongsi) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah kesemek keras dan lunak berdasarkan pedoman keselamatan resmi.",
+                "authority": "RDA & USDA & MFDS",
+                "intro": "Pernahkah Anda membeli buah kesemek yang renyah lalu mendapatinya mendadak lembek hanya dalam beberapa hari, atau kesulitan menyimpan kesemek lunak (hongsi) tanpa menjadi busuk?\n\nRasa kelat pada kesemek berasal dari tanin terlarut yang berubah menjadi tanin tak larut seiring pematangan buah. Kesemek sangat sensitif terhadap gas etilen. Paparan etilen mengaktifkan enzim pektinase yang memecah ikatan pektin dinding sel sehingga tekstur buah melunak secara drastis.\n\nBerdasarkan pedoman RDA dan USDA, panduan 3 langkah ini menjelaskan cara menjaga kesemek keras tetap renyah selama 2 hingga 3 bulan dan menyimpan kesemek lunak di freezer hingga 1 tahun. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Hindari paparan etilen untuk mempertahankan kerenyahan ⚠️",
+                        "desc": "Menaruh kesemek keras di dekat buah penghasil etilen (apel/pisang) akan mengaktifkan enzim pektinase dan dengan cepat melunakkan daging buah dalam beberapa hari."
+                    },
+                    {
+                        "title": "Jangan membiarkan kesemek lunak di suhu ruang 🛑",
+                        "desc": "Saat kesemek menjadi lunak, struktur dinding selnya sudah pecah. Membiarkannya di suhu ruang akan mengundang lalat buah dan pembusukan bakteri. Segera dinginkan atau bekukan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan kesemek keras tertutup di kantong plastik pada suhu 0–2°C — Simpan Dingin Tertutup (60–90 Hari) 🍊",
+                        "text": "Laju respirasi kesemek keras menurun drastis pada suhu 0–2°C. 💡 Tips Penyimpanan: Bungkus kesemek kering dengan tisu dapur, masukkan ke kantong plastik tertutup rapat, lalu simpan di kulkas."
+                    },
+                    {
+                        "name": "Isolasi secara ketat dari buah penghasil gas etilen — Penyekat Etilen 🚫",
+                        "text": "Gas etilen adalah pemicu utama kerusakan sel buah kesemek. 💡 Tips Penyimpanan: Jangan pernah menyimpan kesemek di wadah yang sama dengan apel atau pisang."
+                    },
+                    {
+                        "name": "Bekukan kesemek lunak secara individual di bawah suhu -18°C — Beku Kesemek Lunak (365+ Hari) 🧊",
+                        "text": "Membekukan kesemek yang matang sempurna mengunci tekstur lembut dan rasa manisnya. 💡 Tips Penyimpanan: Bungkus tiap kesemek lunak dengan plastik wrap lalu bekukan di freezer (-18°C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa kesemek keras cepat menjadi lembek saat ditaruh di dekat apel?",
+                        "answer": "Gas etilen yang dikeluarkan apel mengaktifkan enzim pektinase pada kesemek. Enzim ini memecah pektin dinding sel sehingga tekstur yang tadinya renyah berubah melunak."
+                    },
+                    {
+                        "question": "Bagaimana cara membekukan kesemek lunak tanpa merusak teksturnya?",
+                        "answer": "Cuci dan keringkan kesemek lunak, bungkus satu per satu dengan plastik wrap, lalu bekukan pada suhu -18°C. Saat didefrost sedikit dan dimakan dengan sendok, teksturnya terasa lezat seperti sorbet."
+                    }
+                ]
+            }
+        }
+    }
+}

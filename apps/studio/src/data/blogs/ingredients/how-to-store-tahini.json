@@ -1,0 +1,406 @@
+{
+    "how-to-store-tahini": {
+        "ingId": "tahini",
+        "pubDate": "2026-04-27",
+        "updatedDate": "2026-04-27",
+        "heroImage": "/images/blog/tahini_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "타히니 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 타히니(참깨 페이스트)의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & EFSA",
+                "intro": "허머스나 소스를 만들려고 타히니 병을 열었다가 위에는 기름만 둥둥 떠 있고 밑바닥은 돌처럼 딱딱하게 굳어 당황하신 적 있으시죠? 🫙\n\n볶은 참깨를 미세하게 갈아 만든 타히니는 참깨 오일 속에 미세한 고형 입자가 떠 있는 현탁액(Suspension) 상태입니다. 시간이 지나면 중력에 의해 자연스러운 유분 분리(Oil Separation) 현상이 일어나 상층에는 맑은 기름이 띄고 하층에는 고형분이 단단하게 뭉치게 됩니다. 다행히 참깨 속 세사몰(Sesamol)과 세사몰린(Sesamolin)이라는 강력한 천연 항산화 성분 덕분에 지질 산화 저항성이 매우 뛰어납니다.\n\n이번 가이드에서는 유럽식품안전청(EFSA)과 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 타히니의 하층 굳어짐을 방지하고 1년 이상 부드럽고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "용기를 방치하여 밑바닥 입자가 진흙처럼 굳지 않게 하세요 ⚠️",
+                        "desc": "타히니를 한 방향으로 오래 방치하면 중력에 의해 고형 입자가 바닥으로 가라앉아 점토처럼 단단하게 굳어버립니다. 기름과 다시 섞기 매우 힘들어지므로 정기적으로 용기를 뒤집어 주어야 합니다."
+                    },
+                    {
+                        "title": "수분 유입 및 이물질 접촉을 완벽히 차단하세요 🛑",
+                        "desc": "타히니 자체는 수분이 거의 없어 세균 번식이 어렵지만, 물기나 음식물이 묻은 스푼을 사용하면 수분이 유입되어 점도가 변하고 표면에 곰팡이가 피거나 세균이 증식할 수 있습니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "미개봉 제품은 정기적으로 용기를 거꾸로 뒤집어 상온 보관하기 — 상온 뒤집기 보관 (180~365일) 🫙",
+                        "text": "참깨의 세사몰 성분 덕분에 개봉 전에는 상온에서도 산패가 거의 일어나지 않습니다. 💡 보관 팁: 1~2주에 한 번씩 타히니 병을 거꾸로 뒤집어 놓으면 중력의 방향이 바뀌어 바닥에 고형분이 단단하게 굳는 것을 자연스럽게 방지할 수 있습니다."
+                    },
+                    {
+                        "name": "개봉 후 골고루 섞은 뒤 냉장 보관하기 — 저온 냉장 보관 (365일 이상) ❄️",
+                        "text": "개봉 후 기름과 페이스트를 골고루 섞은 뒤 냉장 보관하면 침전 속도가 둔화됩니다. 💡 보관 팁: 깨끗한 저어주기로 유분과 고형분을 완전히 재결합시킨 뒤 밀폐하여 냉장고(0~4℃)에 보관하세요. 기름의 점도가 올라가 유분 분리 속도가 획기적으로 줄어듭니다."
+                    },
+                    {
+                        "name": "수분이 없는 깨끗한 건조 스푼만 사용하기 — 수분 차단 밀봉 🥄",
+                        "text": "수분 유입은 타히니의 유상액 구조를 파괴하여 덩어리 지게 만듭니다. 💡 보관 팁: 반드시 물기가 없는 전용 건조 스푼으로 필요한 만큼만 떠내고, 용기 입구를 깨끗이 닦은 뒤 뚜껑을 완벽히 밀폐하여 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "타히니 위에 기름이 가득 떠 있고 바닥이 굳었는데 상한 건가요?",
+                        "answer": "절대 상한 것이 아닙니다! 이는 중력에 의해 유분과 고형분이 분리된 자연스러운 물리적 현상입니다. 참깨 속 세사몰(Sesamol) 성분이 기름의 산패를 막아주므로 안심하시고, 아래쪽까지 긴 스푼이나 포크로 잘 저어 섞어 드시면 됩니다."
+                    },
+                    {
+                        "question": "바닥에 단단하게 굳어 잘 섞이지 않는 타히니는 어떻게 풀어주나요?",
+                        "answer": "타히니 병을 따뜻한 물에 5~10분간 담가두면 오일의 점도가 낮아져 훨씬 잘 섞입니다. 또는 필요한 만큼 그릇에 덜어낸 뒤 따뜻한 물이나 레몬즙을 조금씩 넣으며 저어주면 순식간에 부드럽고 크리미한 질감으로 되돌아옵니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Tahini Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for tahini based on official safety guidelines.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "Have you ever opened a jar of tahini to make hummus or dressing, only to find liquid oil floating on top and a rock-hard layer at the bottom? 🫙\n\nTahini, made from finely ground roasted sesame seeds, is a suspension of solid particles suspended in sesame oil. Over time, gravity induces natural lipid-solid phase separation: clear sesame oil floats to the top while solid particles settle densely at the bottom. Fortunately, sesame seeds contain powerful natural antioxidants—sesamol and sesamolin—giving tahini exceptional resistance to lipid oxidation.\n\nBased on official guidelines from the European Food Safety Authority (EFSA) and the USDA, this 3-step scientific storage guide explains how to prevent solid hardening and keep tahini smooth and fresh for over a year. 🛡️",
+                "whyTitle": "Why Store Tahini This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not leave jars stationary to prevent bottom solids from hardening ⚠️",
+                        "desc": "Leaving a jar of tahini in one position for months allows gravity to pack solid particles into a clay-like mass at the bottom, making re-emulsification difficult. Turn the jar upside down periodically."
+                    },
+                    {
+                        "title": "Prevent moisture intrusion and foreign contamination completely 🛑",
+                        "desc": "While low moisture in pure tahini prevents bacterial growth, introducing water from wet spoons seizes the paste, ruining its texture and inviting bacterial or fungal spoilage."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Periodically flip unopened jars upside down at room temperature — Sealed Pantry Flipping (180–365 Days) 🫙",
+                        "text": "Sesamol in sesame seeds resists rancidity even at room temperature before opening. 💡 Storage Tip: Flip the jar upside down every 1–2 weeks to reverse gravitational force and naturally prevent hard sediment compaction."
+                    },
+                    {
+                        "name": "Stir thoroughly after opening and refrigerate — Cold Storage (365+ Days) ❄️",
+                        "text": "Refrigeration increases oil viscosity and dramatically slows down phase separation rate. 💡 Storage Tip: Thoroughly recombine oil and solids with a fork, seal tightly, and store in the fridge (0–4°C / 32–39°F) to keep it smooth."
+                    },
+                    {
+                        "name": "Use only clean, dry utensils to scoop — Moisture Sealing 🥄",
+                        "text": "Water droplets break the oil emulsion, causing the paste to seize into gritty lumps. 💡 Storage Tip: Always scoop with a completely dry spoon, wipe the container rim clean, and seal the lid tightly after each use."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "My tahini has oil separated on top and a hard layer on the bottom. Has it gone bad?",
+                        "answer": "Not at all! This is a natural physical phase separation caused by gravity in a suspension. Sesame's natural sesamol protects the oil from oxidation. Simply stir thoroughly with a sturdy spoon or butter knife to re-combine the oil and solids."
+                    },
+                    {
+                        "question": "How can I fix tahini that has hardened solidly at the bottom of the jar?",
+                        "answer": "Place the sealed jar in a bowl of warm water for 5–10 minutes to reduce oil viscosity and make stirring easy. Alternatively, scoop the needed portion into a bowl and whisk in a splash of warm water or lemon juice to restore a creamy consistency."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "タヒニ（練りごま/ごまペースト）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくタヒニ（ごまペースト）の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "欧州食品安全機関(EFSA) & USDA & 食品医薬品安全処(MFDS)",
+                "intro": "フムスやドレッシングを作ろうとタヒニ（練りごま）の瓶を開けた際、上に油が浮いて底がカチカチに 固まっていた経験はありませんか？🫙\n\n焙煎したごまを細かくすり潰したタヒニは、ごま油の中に微細な固形粒子が浮游している懸濁液（サスペンション）状態です。時間が経つと重力によって自然な油分分離（Oil Separation）が起き、上層に油が浮き下層に固形分が沈殿して硬くなります。幸いなことに、ごまに含まれるセサモール（Sesamol）やセサモリン（Sesamolin）という強力な天然抗酸化成分のおかげで、酸化に対する耐性が極めて高い特徴を持っています。\n\n本記事では、欧州食品安全機関（EFSA）およびUSDAの公式ガイドラインに基づき、底の固まりを防ぎ1年以上滑らかで新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "瓶を同じ向きで放置し底の粒子を固まらせないでください ⚠️",
+                        "desc": "タヒニを長期間同じ向きで放置すると、重力により固形粒子が底に沈んで粘土のように硬く固まります。油と再結合させるのが難しくなるため、定期的に瓶を上下逆さにしてください。"
+                    },
+                    {
+                        "title": "水分や異物の混入を完全に遮断してください 🛑",
+                        "desc": "タヒニ自体は水分がほとんどなく細菌が繁殖しにくいですが、水気や食べかすのついたスプーンを使用すると水分が混入してボソボソになり、カビや細菌繁殖の原因となります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "未開封品は定期的に瓶を逆さにして常温保存する — 常温反転保存 (180〜365日間) 🫙",
+                        "text": "ごまに含まれるセサモール成分のおかげで、開封前は常温でも酸敗がほとんど起きません。💡保存のコツ：1〜2週間に1回瓶を上下逆さに置くと重力の方向が変わり、底に固形分が凝固するのを自然に防げます。"
+                    },
+                    {
+                        "name": "開封後はよく混ぜてから冷蔵保存する — 低温冷蔵保存 (365日以上) ❄️",
+                        "text": "開封後に油とペーストをしっかり混ぜて冷蔵保存すると沈殿速度が鈍化します。💡保存のコツ：清潔なスプーン等で油分と固形分を完全に再結合させてから密閉し、冷蔵庫（0〜4℃）で保管すると分離を大幅に抑えられます。"
+                    },
+                    {
+                        "name": "水気のない清潔な乾燥スプーンのみを使用する — 水分遮断密閉 🥄",
+                        "text": "水分が入るとタヒニのエマルション構造が破壊されダマになります。💡保存のコツ：必ず乾いたスプーンで必要な分だけすくい取り、容器の口をきれいに拭き取ってから蓋を密閉してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "タヒニの上に油が浮いて底が固まっていますが、腐っているのでしょうか？",
+                        "answer": "決して腐っているわけではありません！重力によって油分と固形分が分離した自然な物理現象です。ごまに含まれるセサモールが油の酸化を防いでいるため安全です。清潔なフォークやスプーンで下からしっかりかき混ぜてご使用ください。"
+                    },
+                    {
+                        "question": "底に硬く固まってうまく混ぜられないタヒニはどうすれば柔らかくなりますか？",
+                        "answer": "タヒニの瓶を5〜10分ほど温かいお湯につけて湯煎すると、油の粘度が下がって混ざりやすくなります。また、必要な分を器に取り出し、ぬるま湯やレモン汁を少しずつ加えながら混ぜるとクリーミーな質感に戻ります。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持芝麻酱/塔希尼（Tahini）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解塔希尼（纯芝麻酱）的最佳储存温度、方式及保鲜时长。",
+                "authority": "EFSA & USDA & 韩国食品医药品安全处(MFDS)",
+                "intro": "当您打开一瓶塔希尼（Tahini/纯芝麻酱）准备制作鹰嘴豆泥或沙拉酱时，是否遇到过表面浮着一层油、底部却结成坚硬如石的硬块的情况？🫙\n\n由烘焙芝麻精细研磨而成的塔希尼是一种微粒悬浮于芝麻油中的悬浮液（Suspension）。随着时间推移，在重力作用下会发生自然的分层油水分离（Oil Separation）现象：清澈的芝麻油浮于上层，而固形物颗粒则沉淀于底层结块。所幸芝麻中富含芝麻酚（Sesamol）与芝麻林素（Sesamolin）等强效天然抗氧化成分，使其具有极佳的抗脂质氧化能力。\n\n本指南基于欧洲食品安全局（EFSA）与USDA的权威指南，为您介绍3步科学保存秘诀，防止底层硬化，保持塔希尼顺滑新鲜达1年以上。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿长期单向摆放，防止底部固形物结成黏土状硬块 ⚠️",
+                        "desc": "如果将芝麻酱长期朝一个方向摆放，重力会让固体颗粒堆积在底部结成坚硬块状，极难重新搅拌均匀。请定期颠倒瓶身。"
+                    },
+                    {
+                        "title": "严防水分混入与外来污染 🛑",
+                        "desc": "纯芝麻酱本身水分极低不易滋生细菌，但若使用沾有水气或食物残渣的勺子挖取，混入的水分会破坏乳化结构使其凝结成疙瘩，并诱发发霉变质。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "未开封产品定期颠倒瓶身常温保存 — 常温倒置保存 (180~365天) 🫙",
+                        "text": "芝麻中的芝麻酚抗氧化成分使未开封的芝麻酱在常温下也不易酸败。💡储存小贴士：每隔1~2周将酱瓶倒置一次，改变重力方向，可自然防止底部沉淀结块。"
+                    },
+                    {
+                        "name": "开封后充分搅拌均匀并放入冰箱冷藏 — 低温冷藏保存 (365天以上) ❄️",
+                        "text": "开封后将油脂与酱体混合均匀冷藏，可显著减缓沉淀分层速度。💡储存小贴士：用干净的餐具将油脂与固形物充分重新融合后密封冷藏（0~4℃），冷藏可提高油脂粘度，大幅降低油水分离速度。"
+                    },
+                    {
+                        "name": "仅使用干燥无水的干净勺子挖取 — 严防水分密封 🥄",
+                        "text": "水分混入会破坏芝麻酱的油包水/水包油平衡，导致酱体结块变质。💡储存小贴士：务必使用无水的干燥专用勺挖取，用完后拭净瓶口并盖紧瓶盖。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "塔希尼芝麻酱上面浮了一层油、下面变硬了，是变质了吗？",
+                        "answer": "完全没有变质！这是悬浮液在重力作用下的自然物理分层现象。芝麻中的芝麻酚成分能保护油脂不被氧化酸败，您只需用较硬的勺子或叉子从底部向上充分搅拌均匀即可放心食用。"
+                    },
+                    {
+                        "question": "沉淀在底部硬成一块、很难搅拌的塔希尼该如何恢复顺滑？",
+                        "answer": "将盖紧的酱瓶放入温水中浸泡5~10分钟，油脂粘度降低后就会非常容易搅拌。或者挖出所需份量放入碗中，边搅拌边加入少许温水或柠檬汁，即可快速恢复浓稠顺滑的质感。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el tahini fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el tahini según las directrices oficiales de seguridad.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "¿Alguna vez ha abierto un frasco de tahini para preparar humus y ha encontrado aceite separado en la superficie y una capa dura en el fondo? 🫙\n\nEl tahini, elaborado con sésamo tostado molido, es una suspensión de partículas sólidas en aceite de sésamo. Con el tiempo, la gravedad provoca una separación física de fases: el aceite fluye hacia arriba mientras los sólidos se asientan en el fondo. Afortunadamente, el sésamo contiene potentes antioxidantes naturales (sesamol y sesamolina) que le otorgan una gran resistencia a la oxidación lipídica.\n\nBasado en directrices de la Autoridad Europea de Seguridad Alimentaria (EFSA) y el USDA, esta guía le enseña a conservar el tahini cremoso y fresco durante más de 1 año. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No deje el frasco inmóvil para evitar que el fondo se endurezca ⚠️",
+                        "desc": "Dejar el frasco en una sola posición permite que la gravedad compacte los sólidos en el fondo formando una pasta dura difícil de mezclar. Voltee el frasco periódicamente."
+                    },
+                    {
+                        "title": "Evite por completo la entrada de agua y contaminación externa 🛑",
+                        "desc": "Aunque el tahini puro no tiene agua suficiente para bacterias, usar cucharas húmedas altera su emulsión, formando grumos y promoviendo el crecimiento de moho."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Voltee el frasco sin abrir periódicamente a temperatura ambiente — Conservación en despensa (180–365 días) 🫙",
+                        "text": "El sesamol del sésamo evita que se enrancie a temperatura ambiente antes de abrir. 💡 Consejo de almacenamiento: Invierta el frasco cada 1–2 semanas para evitar que los sólidos se compacten en el fondo."
+                    },
+                    {
+                        "name": "Mezcle bien tras abrir y mantenga en refrigeración — Refrigeración en frío (365+ días) ❄️",
+                        "text": "El frío aumenta la viscosidad del aceite y frena la separación de fases. 💡 Consejo de almacenamiento: Remueva bien el aceite y la pasta hasta homogeneizar, selle y guarde en el refrigerador (0–4 °C)."
+                    },
+                    {
+                        "name": "Utilice únicamente utensilios secos y limpios — Sellado anti-humedad 🥄",
+                        "text": "El agua rompe la estructura de suspensión del tahini. 💡 Consejo de almacenamiento: Use siempre una cuchara seca para servir, limpie el borde del frasco y cierre la tapa herméticamente."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mi tahini tiene aceite flotando y una capa dura en el fondo, ¿se ha estropeado?",
+                        "answer": "¡Para nada! Es una separación física natural por gravedad. El sesamol natural del sésamo protege el aceite contra la rancidez. Simplemente remueva con una cuchara firme o tenedor desde el fondo hasta homogenizar."
+                    },
+                    {
+                        "question": "¿Cómo puedo ablandar un tahini que se ha endurecido en el fondo del frasco?",
+                        "answer": "Sumerja el frasco cerrado en agua templada durante 5–10 minutos para reducir la viscosidad del aceite. O bien, sirva la cantidad necesaria en un bol y bata añadiendo un hilo de agua tibia o jugo de limón hasta recuperar la textura cremosa."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le tahini frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le tahini selon les directives officielles de sécurité.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "Avez-vous déjà ouvert un pot de tahini pour préparer du houmous et trouvé de l'huile séparée en surface et un bloc dur au fond ? 🫙\n\nLe tahini, produit à partir de graines de sésame grillées et broyées, est une suspension de particules solides dans de l'huile de sésame. Avec le temps, la gravité entraîne une séparation naturelle des phases : l'huile flotte en surface et les solides se déposent au fond. Heureusement, le sésame contient de puissants antioxydants naturels (sésamol et sésamoline) lui conférant une très haute résistance à l'oxydation.\n\nBasé sur les recommandations de l'EFSA et du USDA, ce guide en 3 étapes vous explique comment éviter le durcissement du tahini et le conserver fluide et frais pendant plus d'un an. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne pas laisser le pot immobile pour éviter le durcissement du fond ⚠️",
+                        "desc": "Laisser le pot dans la même position pendant des mois tasse les solides au fond en une masse compacte. Retournez régulièrement le pot pour inverser l'effet de la gravité."
+                    },
+                    {
+                        "title": "Éviter toute intrusion d'eau et de résidus alimentaires 🛑",
+                        "desc": "Le tahini pur ne contient presque pas d'eau, mais l'utilisation d'une cuillère humide brise l'émulsion, forme des grumeaux et favorise les moisissures."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Retourner régulièrement le pot fermé à température ambiante — Conservation en placard (180–365 jours) 🫙",
+                        "text": "Le sésamol protège l'huile du rancissement avant ouverture. 💡 Astuce de conservation : Inversez le pot tous les 15 jours pour éviter que le dépôt solide ne se compacte trop au fond."
+                    },
+                    {
+                        "name": "Bien mélanger après ouverture et placer au réfrigérateur — Stockage au frais (365+ jours) ❄️",
+                        "text": "Le froid augmente la viscosité de l'huile et ralentit la séparation de phase. 💡 Astuce de conservation : Homogénéisez bien l'huile et la pâte avec une fourchette, fermez hermétiquement et réfrégérez (0–4 °C)."
+                    },
+                    {
+                        "name": "Utiliser uniquement des ustensiles propres et secs — Isolation d'humidité 🥄",
+                        "text": "Les gouttes d'eau fige la pâte de tahini. 💡 Astuce de conservation : Prélevez toujours avec une cuillère bien sèche, essuyez le rebord du pot et refermez soigneusement."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mon tahini s'est séparé avec de l'huile sur le dessus et un bloc dur au fond, est-il périmé ?",
+                        "answer": "Pas du tout ! C'est un phénomène physique naturel dû à la gravité. Le sésamol naturel protège l'huile du rancissement. Il suffit de mélanger vigoureusement avec une fourchette ou un couteau à beurre pour réincorporer l'huile."
+                    },
+                    {
+                        "question": "Comment assouplir du tahini qui a durci au fond du pot ?",
+                        "answer": "Plongez le pot fermé dans un bain-marie d'eau tiède pendant 5 à 10 minutes pour réduire la viscosité de l'huile. Vous pouvez aussi prélever la quantité souhaitée dans un bol et fouetter avec un peu d'eau tiède ou de jus de citron pour retrouver une texture crémeuse."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Tahini (Sesammus) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tahini basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "Haben Sie schon einmal ein Glas Tahini geöffnet, um Hummus zuzubereiten, und festgestellt, dass oben Öl schwimmt und der Boden steinhart ist? 🫙\n\nTahini besteht aus feingemahlenem geröstetem Sesam und ist eine Suspension fester Partikel in Sesamöl. Im Laufe der Zeit führt die Schwerkraft zu einer Phasentrennung: Das klare Öl steigt nach oben, während sich die festen Bestandteile am Boden absetzen. Glücklicherweise enthält Sesam starke natürliche Antioxidantien wie Sesamol und Sesamolin, die das Öl extrem oxidationsbeständig machen.\n\nBasierend auf Richtlinien der EFSA und USDA zeigt Ihnen dieser 3-Schritte-Ratgeber, wie Sie das Verfestigen verhindern und Tahini über 1 Jahr lang geschmeidig halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Das Glas nicht dauerhaft unbewegt lassen, um Verfestigung zu vermeiden ⚠️",
+                        "desc": "Wenn das Glas monatelang in einer Position steht, verdichtet die Schwerkraft die festen Partikel zu einer festen Masse. Drehen Sie das Glas regelmäßig auf den Kopf."
+                    },
+                    {
+                        "title": "Eindringen von Feuchtigkeit und Verunreinigungen verhindern 🛑",
+                        "desc": "Reines Tahini ist sehr wasserarm. Gelangt jedoch Wasser durch feuchte Löffel hinein, klumpt die Paste und kann Schimmel bilden."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungeöffnete Gläser regelmäßig auf den Kopf drehen und bei Raumtemperatur lagern — Vorratslagerung (180–365 Tage) 🫙",
+                        "text": "Das im Sesam enthaltene Sesamol schützt das Öl vor dem Ranzigwerden. 💡 Lagerungstipp: Drehen Sie das Glas alle 1–2 Wochen um, damit sich die Feststoffe gar nicht erst am Boden festsetzen."
+                    },
+                    {
+                        "name": "Nach dem Öffnen gründlich durchrühren und kühlen — Kühllagerung (365+ Tage) ❄️",
+                        "text": "Kälte erhöht die Viskosität des Öls und verlangsamt die Entmischung. 💡 Lagerungstipp: Verrühren Sie Öl und Paste mit einer Gabel gründlich, verschließen Sie das Glas dicht und stellen Sie es in den Kühlschrank (0–4 °C)."
+                    },
+                    {
+                        "name": "Nur sauberes, trockenes Besteck zum Entnehmen verwenden — Feuchtigkeitsschutz 🥄",
+                        "text": "Wassertropfen zerstören die feine Suspension. 💡 Lagerungstipp: Nutzen Sie stets einen trockenen Löffel, wischen Sie den Glasrand ab und schließen Sie den Deckel sofort fest."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mein Tahini hat sich getrennt – oben Öl, unten hart. Ist es verdorben?",
+                        "answer": "Nein, überhaupt nicht! Das ist eine natürliche physikalische Entmischung durch die Schwerkraft. Das natürliche Sesamol schützt das Öl vor Oxidation. Rühren Sie die Paste einfach mit einer Gabel oder einem Messer kräftig durch."
+                    },
+                    {
+                        "question": "Wie bekomme ich hart gewordenes Tahini wieder geschmeidig?",
+                        "answer": "Stellen Sie das geschlossene Glas für 5–10 Minuten in ein warmes Wasserbad, um das Öl flüssiger zu machen. Alternativ entnehmen Sie die gewünschte Menge und verrühren sie in einer Schüssel mit etwas warmem Wasser oder Zitronensaft, bis sie wieder cremig wird."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar tahine fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para o tahine com base em diretrizes oficiais de segurança.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "Você já abriu um pote de tahine para fazer homus e encontrou uma camada de óleo por cima e uma massa dura no fundo? 🫙\n\nO tahine, feito de sementes de gergelim torradas e moídas, é uma suspensão de partículas sólidas no óleo de gergelim. Com o tempo, a gravidade provoca a separação física de fases: o óleo flutua e os sólidos se acumulam no fundo. Felizmente, o gergelim contém antioxidantes naturais potentes (susamol e sesamolina) que garantem excelente resistência à oxidação.\n\nCom base em diretrizes da EFSA e do USDA, este guia em 3 etapas ensina como evitar o endurecimento e manter o tahine cremoso e fresco por mais de 1 ano. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não deixe o pote imóvel para evitar o endurecimento no fundo ⚠️",
+                        "desc": "Deixar o pote na mesma posição por meses compacta os sólidos no fundo numa massa rígida. Vire o pote de cabeça para baixo periodicamente."
+                    },
+                    {
+                        "title": "Evite a entrada de umidade e contaminação externa 🛑",
+                        "desc": "O tahine puro não tem água suficiente para bactérias, mas introduzir água com colheres molhadas estraga a emulsão e favorece o mofo."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Vire potes fechados de cabeça para baixo periodicamente em temp. ambiente — Armazenamento na despensa (180–365 dias) 🫙",
+                        "text": "O sesamol do gergelim evita o rancificamento em temperatura ambiente antes de abrir. 💡 Dica de conservação: Inverta o pote a cada 1–2 semanas para evitar que a parte sólida se compacte."
+                    },
+                    {
+                        "name": "Misture bem após abrir e refrigere — Conservação refrigerada (365+ dias) ❄️",
+                        "text": "O frio aumenta a viscosidade do óleo e reduz a taxa de separação de fases. 💡 Dica de conservação: Misture bem o óleo e a pasta, feche hermeticamente e guarde na geladeira (0–4 °C)."
+                    },
+                    {
+                        "name": "Use apenas utensílios limpos e secos — Vedação contra umidade 🥄",
+                        "text": "Gotas de água empelotam o tahine. 💡 Dica de conservação: Retire a porção desejada sempre com uma colher seca, limpe a borda do pote e feche bem a tampa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Meu tahine separou óleo no topo e endureceu no fundo. Ele estragou?",
+                        "answer": "De forma alguma! Trata-se de uma separação física natural provocada pela gravidade. O sesamol protege o óleo contra a oxidação. Basta misturar vigorosamente com um garfo ou colher até homogeneizar."
+                    },
+                    {
+                        "question": "Como amolecer o tahine que endureceu no fundo do pote?",
+                        "answer": "Coloque o pote fechado em banho-maria morno por 5 a 10 minutos para amolecer o óleo. Se preferir, retire a quantidade desejada para uma tigela e bata com um fio de água morna ou suco de limão até ficar cremoso."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Tahini (Pasta Wijen) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tahini berdasarkan pedoman keselamatan resmi.",
+                "authority": "EFSA & USDA & MFDS",
+                "intro": "Pernahkah Anda membuka stoples tahini untuk membuat hummus lalu mendapati minyak mengapung di atas dan lapisan keras di dasar stoples? 🫙\n\nTahini, yang terbuat dari biji wijen sangrai yang dihaluskan, adalah suspensi partikel padat di dalam minyak wijen. Seiring waktu, gravitasi menyebabkan pemisahan fase minyak dan padatan: minyak wijen naik ke atas sementara endapan padat mengendap keras di dasar. Beruntung, biji wijen mengandung antioksidan alami yang kuat yaitu sesamol dan sesamolin yang membuatnya sangat tahan terhadap oksidasi minyak.\n\nBerdasarkan pedoman EFSA dan USDA, panduan 3 langkah ini menjelaskan cara mencegah pengerasan endapan dan menjaga tahini tetap lembut segar hingga lebih dari 1 tahun. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan membiarkan stoples dalam satu posisi agar endapan tidak mengeras ⚠️",
+                        "desc": "Membiarkan stoples tahini tidak bergerak dalam waktu lama membuat gravitasi memadatkan endapan menjadi keras seperti tanah liat. Balikkan posisi stoples secara berkala."
+                    },
+                    {
+                        "title": "Cegah masuknya air dan kontaminasi luar 🛑",
+                        "desc": "Tahini murni sangat minim air sehingga bakteri sulit tumbuh. Namun, menggunakan sendok basah akan merusak struktur emulsi dan memicu tumbuhnya jamur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Balikkan posisi stoples yang belum dibuka secara berkala di suhu ruang — Simpan Rak Dapur (180–365 Hari) 🫙",
+                        "text": "Kandungan sesamol mencegah ketengikan minyak di suhu ruang sebelum dibuka. 💡 Tips Penyimpanan: Balikkan posisi stoples tiap 1–2 minggu untuk membalik arah gravitasi dan mencegah pengendapan keras."
+                    },
+                    {
+                        "name": "Aduk rata setelah dibuka lalu simpan di dalam kulkas — Simpan Dingin (365+ Hari) ❄️",
+                        "text": "Suhu dingin meningkatkan viskositas minyak sehingga memperlambat pemisahan fase. 💡 Tips Penyimpanan: Aduk minyak dan padatan hingga menyatu sempurna, tutup rapat, lalu simpan di kulkas (0–4°C)."
+                    },
+                    {
+                        "name": "Gunakan sendok kering dan bersih — Penyekat Kelembapan 🥄",
+                        "text": "Tetesan air merusak emulsi tahini dan membuatnya menggumpal. 💡 Tips Penyimpanan: Selalu ambil tahini dengan sendok yang benar-benar kering, lap bibir stoples, lalu tutup rapat kembali."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Minyak tahini saya mengapung di atas dan dasarnya mengeras. Apakah sudah basi?",
+                        "answer": "Sama sekali tidak basi! Ini adalah pemisahan fase fisik alami akibat gravitasi. Antioksidan sesamol alami dalam wijen melindungi minyak dari ketengikan. Aduk rata kembali dengan garfo atau sendok hingga menyatu."
+                    },
+                    {
+                        "question": "Bagaimana cara melembutkan tahini yang sudah mengeras keras di dasar stoples?",
+                        "answer": "Rendam stoples tertutup di dalam wadah berisi air hangat selama 5–10 menit untuk menurunkan viskositas minyak sehingga mudah diaduk. Atau, ambil secukupnya ke mangkuk lalu kocok bersama sedikit air hangat atau perasan lemon hingga kembali krimi."
+                    }
+                ]
+            }
+        }
+    }
+}
