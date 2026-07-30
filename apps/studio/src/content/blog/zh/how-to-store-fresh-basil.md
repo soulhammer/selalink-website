@@ -1,0 +1,128 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "如何保持鲜罗勒新鲜：科学储存指南"
+description: "根据官方食品安全指南，了解鲜罗勒的最佳储存温度、防止冷害的方法及保鲜时长。"
+pubDate: "2026-01-15"
+updatedDate: "2026-01-15"
+category: "FreshSnap"
+heroImage: "/images/blog/fresh_basil_storage_hack.webp"
+app: "freshsnap"
+formatVersion: 4
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center"
+steps:
+  - name: "剪短茎部如插花般常温水插保存 — 常温水插保存 (7 ~ 14天) 🌿"
+    text: "罗勒像鲜花一样在常温（12 ~ 15℃）下水插保存最持久。💡储存小贴士：斜切茎部末端，直立放入装水的玻璃瓶中，顶部松松地罩上塑料袋。这既能防止水分蒸发，又能避免冷害，保持1 ~ 2周新鲜。"
+  - name: "避开阳光直射与热源，置于阴凉处 — 环境管理 ☀️"
+    text: "常温保存时，若暴露于窗边强光或灶台旁的高热，叶片会迅速萎蔫发黄。💡储存小贴士：置于避光的厨房阴凉处（12 ~ 15℃），每1 ~ 2天更换一次瓶中的清水。"
+  - name: "长期保存可将切碎的罗勒与橄榄油一同冷冻 — 油块冷冻保存 (90 ~ 180天) 🧊"
+    text: "若需保存2周以上，将罗勒叶采下与橄榄油一同冷冻是最佳方法。💡储存小贴士：将彻底干燥的罗勒叶切碎放入冰格，倒入橄榄油封满后冷冻。油脂能彻底隔绝氧气，防止褐变与香气散失，可直接用于意面或炖菜。"
+faqs:
+  - question: "因放冰箱而变黑的罗勒还能吃吗？"
+    answer: "因冷害变黑的罗勒并无毒性，但细胞破裂导致其风味、香气和口感严重流失。若无霉变或异味，可用于加热烹饪（如做酱汁或炖菜），但不建议直接生食。"
+  - question: "罗勒保存前需要清洗吗？"
+    answer: "不需要！保存前清洗罗勒会导致水分残留在叶片之间，引发迅速萎蔫和发霉。保存前切勿清洗，只需轻轻拂去泥土，在临用前用流水冲洗并擦干水分即可。"
+---
+
+您是否曾买回新鲜的罗勒，放入冰箱保鲜抽屉后，仅仅一天就发现它完全变黑腐烂了？🌿
+
+罗勒属于热带和亚热带香草，对低温环境极度敏感。当暴露于10℃以下的低温环境（如普通冰箱约4℃）时，会遭受“冷害（Chilling Injury）”，导致细胞膜破裂，叶片迅速变黑。
+
+本指南基于美国农务部(USDA)及加州大学戴维斯分校(UC Davis)采后技术中心的科学指南，为您介绍3步科学保存秘诀，长久锁定罗勒的清香与新鲜。🛡️
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      食品安全与科学依据
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center。
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. 科学验证的储存指南
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">剪短茎部如插花般常温水插保存 — 常温水插保存 (7 ~ 14天) 🌿</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    罗勒像鲜花一样在常温（12 ~ 15℃）下水插保存最持久。💡储存小贴士：斜切茎部末端，直立放入装水的玻璃瓶中，顶部松松地罩上塑料袋。这既能防止水分蒸发，又能避免冷害，保持1 ~ 2周新鲜。
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">避开阳光直射与热源，置于阴凉处 — 环境管理 ☀️</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    常温保存时，若暴露于窗边强光或灶台旁的高热，叶片会迅速萎蔫发黄。💡储存小贴士：置于避光的厨房阴凉处（12 ~ 15℃），每1 ~ 2天更换一次瓶中的清水。
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">长期保存可将切碎的罗勒与橄榄油一同冷冻 — 油块冷冻保存 (90 ~ 180天) 🧊</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    若需保存2周以上，将罗勒叶采下与橄榄油一同冷冻是最佳方法。💡储存小贴士：将彻底干燥的罗勒叶切碎放入冰格，倒入橄榄油封满后冷冻。油脂能彻底隔绝氧气，防止褐变与香气散失，可直接用于意面或炖菜。
+  </p>
+</div>
+
+---
+
+## 2. 储存必需规则及注意事项
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">切勿保存在10℃以下的冰箱中 ⚠️</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      将鲜罗勒暴露于10℃以下的低温中会导致细胞组织破坏，激活多酚氧化酶（PPO），使叶片迅速褐变发黑。短短几小时内，叶片就会变软并失去特有的香气成分（如芳樟醇、丁香酚）。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">切勿在叶片带水的状态下密封保存 💧</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      如果叶片表面残留水滴，会导致霉菌和细菌迅速滋生，加速腐烂。务必在烹饪前才清洗，保存时需确保叶片完全干燥。
+    </p>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> 常见问题 (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">因放冰箱而变黑的罗勒还能吃吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      因冷害变黑的罗勒并无毒性，但细胞破裂导致其风味、香气和口感严重流失。若无霉变或异味，可用于加热烹饪（如做酱汁或炖菜），但不建议直接生食。
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">罗勒保存前需要清洗吗？</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      不需要！保存前清洗罗勒会导致水分残留在叶片之间，引发迅速萎蔫和发霉。保存前切勿清洗，只需轻轻拂去泥土，在临用前用流水冲洗并擦干水分即可。
+    </p>
+  </details>
+</div>

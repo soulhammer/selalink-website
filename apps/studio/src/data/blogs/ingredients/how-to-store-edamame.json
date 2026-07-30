@@ -1,0 +1,406 @@
+{
+    "how-to-store-edamame": {
+        "ingId": "edamame",
+        "pubDate": "2026-07-21",
+        "updatedDate": "2026-07-21",
+        "heroImage": "/images/blog/edamame_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "에다마메(풋콩) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 에다마메의 최적 보관 온도, 자당 분해 방지 블랜칭(데치기) 냉동법 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
+                "intro": "일식당이나 샐러드바에서 즐겨 먹는 고소하고 달콤한 에다마메(풋콩)를 사와서 냉장고에 넣어두었다가 단 며칠 만에 특유의 단맛이 사라지고 밋밋해지거나 쉽게 무러버린 적 있으시죠? 🫛\n\n에다마메는 수확 후 호흡 작용이 매우 왕성한 채소로, 수확 후 12~24시간 이내에 고유의 고소한 단맛을 내는 자당(Sucrose) 성분의 50% 이상이 급속히 분해되어 손실됩니다. 생 상태로는 수분과 당분이 순식간에 줄어들기 때문에 구매 즉시 적절한 처리를 해주는 것이 핵심입니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 UC Davis 포스트하베스트 센터의 검증된 가이드라인을 바탕으로, 에다마메의 달콤함과 아삭한 식감을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "생 상태로 상온이나 냉장고에 오래 방치하지 마세요 ⚠️",
+                        "desc": "에다마메는 수확 직후부터 당분 분해 효소 작용과 호흡 작용이 극도로 활성화됩니다. 생 상태로 냉장 보관하더라도 1~2일이 지나면 자당(Sucrose)과 비타민이 대부분 파괴되어 고유의 달콤하고 고소한 풍미를 완전히 잃게 됩니다."
+                    },
+                    {
+                        "title": "블랜칭(데치기) 시 얼음물 식히기와 물기 제거를 스킵하지 마세요 💧",
+                        "desc": "데친 후 즉시 얼음물에 담가 잔열을 식히지 않으면 잔열로 인해 조직이 무르고 색이 변합니다. 또한 냉동 전 표면 수분을 제대로 제거하지 않으면 빙결정이 생겨 세포막이 파괴되고 식감이 떨어집니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "생 상태는 구매 즉시 단기 냉장 보관하기 — 생 상태 단기 냉장 보관 (1~2일) 🫛",
+                        "text": "데치지 않은 생 에다마메는 당분 손실이 매우 빠르므로 가급적 당일 소비해야 합니다. 💡 보관 팁: 씻지 않은 상태로 키친타월로 감싸 비닐팩이나 밀폐 용기에 담아 냉장고 야채칸(1~4℃)에 보관하고, 최대 1~2일 이내에 조리하세요."
+                    },
+                    {
+                        "name": "소금물에 1~2분간 짧게 블랜칭(데치기) 후 얼음물에 식히기 — 당분 분해 효소 불활성화 ♨️",
+                        "text": "에다마메의 단맛을 보존하는 가장 핵심적인 과학적 방법입니다. 💡 보관 팁: 끓는 물에 소금(물 1L당 소금 1스푼)을 넣고 꼬투리째 1~2분간 짧게 데친 뒤, 즉시 얼음물에 담가 열을 식혀주세요. 당분 분해 효소가 불활성화되어 단맛과 선명한 초록색이 동결 고정됩니다."
+                    },
+                    {
+                        "name": "표면 물기를 완벽히 제거 후 밀봉하여 냉동 보관하기 — 블랜칭 냉동 보관 (180~360일) 🧊",
+                        "text": "데친 에다마메를 냉동하면 반년에서 1년 동안 신선한 상태로 즐길 수 있습니다. 💡 보관 팁: 얼음물에서 꺼낸 에다마메의 표면 물기를 키친타월로 완전히 말린 후, 냉동용 지퍼백에 담아 공기를 빼고 밀봉하여 냉동실(-18℃ 이하)에 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "에다마메를 구매하자마자 왜 소금물에 데쳐야(블랜칭) 하나요?",
+                        "answer": "에다마메는 수확 후 12~24시간 이내에 내부의 자당(Sucrose) 성분의 50% 이상이 당분 분해 효소에 의해 소모됩니다. 구매 즉시 소금물에 1~2분간 짧게 데치면 이 효소가 불활성화되어 단맛의 손실을 즉시 멈추고 선명한 초록색과 영양소를 고정시킬 수 있습니다."
+                    },
+                    {
+                        "question": "냉동된 에다마메는 어떻게 해동하여 먹는 것이 가장 좋은가요?",
+                        "answer": "이미 블랜칭 후 냉동된 에다마메는 끓는 물에 소금을 약간 넣고 2~3분간 살짝 데워내거나, 냉장실에서 자연 해동하여 바로 드시면 됩니다. 너무 오래 삶으면 잔열과 과도한 가열로 인해 특유의 아삭한 식감이 손상될 수 있으므로 따뜻해질 정도로만 짧게 데우는 것이 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Edamame Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, blanching method to prevent sucrose loss, and shelf life for edamame based on official safety guidelines.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Have you ever stored fresh edamame in the refrigerator only to find that its sweet, nutty flavor faded and the pods became bland within just a couple of days? 🫛\n\nEdamame (green soybeans) has an extremely high respiration rate post-harvest. Within 12 to 24 hours of harvesting, over 50% of its sucrose content—the source of its sweet flavor—is rapidly degraded by internal enzymes. Because moisture and sugars drop dramatically in raw pods, immediate pretreatment after purchase is essential.\n\nIn this guide, based on official guidelines from the USDA and the UC Davis Postharvest Technology Center, we share a 3-step scientific storage method to lock in edamame's sweetness and crisp texture. 🛡️",
+                "whyTitle": "Why Store Edamame This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not leave raw edamame at room temperature or in the fridge for long ⚠️",
+                        "desc": "Respiration and sugar-degrading enzymes are highly active in raw edamame. Even under refrigeration, raw pods lose most of their sucrose and vitamins within 1 to 2 days, resulting in a complete loss of their sweet, savory taste."
+                    },
+                    {
+                        "title": "Do not skip cooling in ice water and thorough drying after blanching 💧",
+                        "desc": "Failing to shock blanched pods in ice water causes residual heat to soften the texture and dull the green color. Furthermore, freezing pods with excess surface moisture causes ice crystals that rupture cell walls, ruining texture."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Keep raw edamame refrigerated briefly if cooking immediately — Short-Term Raw Cold Storage (1–2 Days) 🫛",
+                        "text": "Unblanched raw edamame loses sugars very quickly and should be cooked as soon as possible. 💡 Storage Tip: Wrap unwashed pods in paper towels, place them in a plastic bag or airtight container, refrigerate at 1–4°C (34–39°F), and cook within 1 to 2 days."
+                    },
+                    {
+                        "name": "Blanch in salted boiling water for 1–2 minutes then shock in ice water — Inactivate Sugar-Degrading Enzymes ♨️",
+                        "text": "This is the most critical scientific step to preserve edamame's natural sweetness. 💡 Storage Tip: Boil pods in salted water (1 tbsp salt per 1L water) for 1–2 minutes, then immediately submerge in an ice bath. This deactivates enzymes, locking in sucrose and bright green chlorophyll."
+                    },
+                    {
+                        "name": "Dry surfaces completely and seal for frozen storage — Blanched Freezing (180–360 Days) 🧊",
+                        "text": "Freezing blanched edamame allows you to enjoy fresh pods for 6 to 12 months. 💡 Storage Tip: Dry blanched pods completely with paper towels, place them in a freezer-safe zip-top bag, squeeze out excess air, and store at -18°C (0°F) or below."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why should edamame be blanched in salted water immediately after purchase?",
+                        "answer": "Within 12 to 24 hours post-harvest, sugar-degrading enzymes consume more than 50% of the sucrose in edamame. Blanching in boiling salted water for 1 to 2 minutes inactivates these enzymes, instantly stopping sweetness loss and fixing the vivid green color and nutrients."
+                    },
+                    {
+                        "question": "What is the best way to thaw and eat frozen blanched edamame?",
+                        "answer": "Because it is already blanched before freezing, simply warm the frozen pods in salted boiling water for 2 to 3 minutes or thaw them naturally in the refrigerator. Avoid overboiling so the pods retain their signature crisp, tender bite."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "エダマメ（枝豆）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくエダマメの最適な保存温度、ショ糖分解を防ぐブランチング（下ゆで）冷凍法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
+                "intro": "居酒屋や家庭で人気の香ばしく甘いエダマメ（枝豆）を買って冷蔵庫に入れておいたら、わずか数日で特有の甘みが抜けて味が落ちたり、傷んでしまった経験はありませんか？🫛\n\nエダマメは収穫後の呼吸作用が非常に盛んな野菜で、収穫後12〜24時間以内に甘みの主成分であるショ糖（Sucrose）の50%以上が急速に分解・ lossされます。生のままだと水分と甘みが一気に失われるため、購入後すぐに適切な下処理を行うことが重要です。\n\n本記事では、米国農務省（USDA）およびUC Davisポストハーベストセンターのガイドラインに基づき、エダマメの甘みとシャキシャキした食感を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "生のまま常温や冷蔵庫に長く放置しないでください ⚠️",
+                        "desc": "エダマメは収穫直後から糖分分解酵素の働きと呼吸作用が非常に活発になります。生のまま冷蔵保存しても1〜2日でショ糖やビタミンが大幅に破壊され、本来の甘みや風味が失われます。"
+                    },
+                    {
+                        "title": "ブランチング時の氷水冷却と水分除去を怠らないでください 💧",
+                        "desc": "ゆでた後すぐに氷水につけて冷やさないと、余熱で食感が柔らかくなり色も悪くなります。また、冷凍前に表面の水分をしっかり拭き取らないと、氷の結晶ができて細胞膜が破壊され食感が損なわれます。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "生のまますぐ調理しない場合は短期冷蔵保存する — 生のまま短期冷蔵保存 (1〜2日間) 🫛",
+                        "text": "下ゆでしていない生のエダマメは糖分の損失が非常に早いため、可能な限り当日に消費すべきです。💡保存のコツ：洗わずにキッチンペーパーで包み、ポリ袋や密閉容器に入れて野菜室（1〜4℃）で保存し、1〜2日以内に調理してください。"
+                    },
+                    {
+                        "name": "塩水で1〜2分間サッとブランチング（下ゆで）して氷水で冷やす — 糖分分解酵素の失活 ♨️",
+                        "text": "エダマメの甘みを保持するための最も重要な科学的方法です。💡保存のコツ：沸騰したお湯に塩（水1Lに対し塩大さじ1）を入れ、サヤごと1〜2分間サッとゆでた後、すぐに氷水につけて冷やしてください。酵素が不活性化され、甘みと鮮やかな緑色が固定されます。"
+                    },
+                    {
+                        "name": "水気を完全に拭き取って密閉し冷凍保存する — ブランチング冷凍保存 (180〜360日間) 🧊",
+                        "text": "下ゆでしたエダマメを冷凍すると半年から1年間新鮮な状態で楽しめます。💡保存のコツ：氷水から揚げたエダマメの表層の水分をキッチンペーパーで完全に拭き取り、冷凍用ジッパーバッグに入れて空気を抜いて冷凍庫（-18℃以下）で保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "エダマメを購入後すぐに塩ゆで（ブランチング）しなければならない理由は何ですか？",
+                        "answer": "エダマメは収穫後12〜24時間以内に内部のショ糖（Sucrose）の50%以上が分解酵素によって消費されます。購入後すぐに塩水で1〜2分間サッと下ゆですることでこの酵素が不活性化され、甘みの損失を即座に止め、鮮やかな緑色と栄養素を保持できます。"
+                    },
+                    {
+                        "question": "冷凍したエダマメはどのように解凍して食べるのが一番良いですか？",
+                        "answer": "すでに下ゆでして冷凍されたエダマメは、沸騰したお湯に少量の塩を入れて2〜3分間サッと温めるか、冷蔵室で自然解凍してそのまま召し上がれます。長くゆですぎると過加熱で食感が損なわれるため、温まる程度にサッと加熱するのがコツです。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持毛豆（Edamame）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解毛豆的最佳储存温度、防止蔗糖分解的焯水（杀青）冷冻法及保鲜时长。",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center",
+                "intro": "买回鲜美可口的毛豆，放入冰箱没过几天，您是否发现它原本浓郁的甜香味消失殆尽、口感变得平淡甚至发软变质？🫛\n\n毛豆采收后的呼吸作用极其旺盛，在采收后的12~24小时内，其中赋予其鲜甜风味的蔗糖（Sucrose）成分就会急剧分解流失50%以上。生毛豆的水分与糖分下降极快，因此买回后立即进行科学预处理是保鲜的关键。\n\n本指南基于美国农务部(USDA)及加州大学戴维斯分校(UC Davis)采后技术中心的权威指南，为您介绍3步科学保存秘诀，长久锁定毛豆的鲜甜与脆嫩口感。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将生毛豆长期置于常温或冷藏室中 ⚠️",
+                        "desc": "生毛豆采收后分解糖分的酶与呼吸作用高度活跃。即使冷藏，1~2天后蔗糖和维生素大部分也会被破坏，彻底失去其特有的鲜甜与豆香。"
+                    },
+                    {
+                        "title": "焯水后切勿省略冰镇降温与擦干水分 💧",
+                        "desc": "焯水后若不立即浸入冰水，余热会导致豆粒变软、颜色发黄。冷冻前若未彻底擦干表皮水分，形成的大冰晶会刺破细胞壁，破坏脆嫩食感。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "生毛豆若近期食用需短期冷藏 — 生毛豆短期冷藏 (1~2天) 🫛",
+                        "text": "未经焯水的生毛豆糖分流失极快，应尽量当天食用。💡储存小贴士：带壳不洗，用厨房纸巾包裹后装入保鲜袋，置于冰箱蔬菜抽屉（1~4℃），并在1~2天内烹饪完毕。"
+                    },
+                    {
+                        "name": "盐水沸水焯水1~2分钟后迅速冰镇 — 灭活糖分分解酶 ♨️",
+                        "text": "这是锁住毛豆鲜甜风味最为核心的科学步骤。💡储存小贴士：水烧开后加盐（每升水加1汤匙盐），连荚下锅焯水1~2分钟，捞出后立即浸入冰水中冷却，灭活酶活性并锁住鲜绿翠色。"
+                    },
+                    {
+                        "name": "彻底擦干表皮水分后密封冷冻 — 焯水冷冻保存 (180~360天) 🧊",
+                        "text": "焯水后的毛豆冷冻保存可鲜美如初半年至一年。💡储存小贴士：将冰镇后的毛豆用厨房纸巾彻底擦干表皮水分，装入冷冻保鲜袋，排出空气密封后置于冷冻室（-18℃以下）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "买回毛豆后为什么必须立刻用盐水焯水（杀青）？",
+                        "answer": "毛豆采收后12~24小时内，其内部50%以上的蔗糖会被糖分分解酶消耗。买回后立即用盐水焯水1~2分钟，可使该酶迅速灭活，及时阻止甜分流失，同时固定其鲜艳的绿色与营养成分。"
+                    },
+                    {
+                        "question": "冷冻的焯水毛豆如何解冻食用最佳？",
+                        "answer": "已焯水冷冻的毛豆无需长时间蒸煮。只需在加少许盐的沸水中热烫2~3分钟，或放入冷藏室自然解冻后即可食用。切烫时间过长，以免余热破坏其特有的脆嫩口感。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el edamame fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura de almacenamiento, el método de escaldado para prevenir la pérdida de sacarosa y la vida útil del edamame.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "¿Alguna vez guardó edamame fresco en el refrigerador y a los pocos días notó que perdió su sabor dulce y sabroso, volviéndose insípido? 🫛\n\nEl edamame (soja verde) tiene una tasa de respiración extremadamente alta tras la cosecha. En solo 12 a 24 horas después de recolectarse, las enzimas internas degradan más del 50% de su contenido de sacarosa, la fuente de su dulzura. Como la humedad y el azúcar caen drásticamente en las vainas crudas, el tratamiento inmediato tras la compra es vital.\n\nEn esta guía, basada en directrices oficiales del USDA y el Centro de Postcosecha de UC Davis, compartimos un método en 3 pasos para fijar su dulzura y textura crujiente. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No deje el edamame crudo a temperatura ambiente ni mucho tiempo en el refrigerador ⚠️",
+                        "desc": "Las enzimas de degradación de azúcar y la respiración son muy activas en el edamame crudo. Incluso refrigerado, el edamame crudo pierde la mayor parte de su sacarosa y vitaminas en 1 o 2 días, perdiendo su sabor característico."
+                    },
+                    {
+                        "title": "No omita el enfriamiento en agua con hielo ni el secado tras el escaldado 💧",
+                        "desc": "No enfriar las vainas escaldadas en agua helada hace que el calor residual ablande la textura y desvanezca el color verde. Además, congelar vainas con humedad superficial genera cristales de hielo que rompen las paredes celulares."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Refrigere el edamame crudo brevemente solo si va a cocinarlo pronto — Refrigeración cruda corta (1–2 días) 🫛",
+                        "text": "El edamame crudo sin escaldar pierde azúcares rápidamente y debe cocinarse lo antes posible. 💡 Consejo de almacenamiento: Envuelva las vainas sin lavar en papel de cocina dentro de una bolsa o recipiente a 1–4 °C y cocínelas en 1 a 2 días."
+                    },
+                    {
+                        "name": "Escalde en agua hirviendo con sal durante 1–2 minutos y enfríe en hielo — Inactivación enzimática ♨️",
+                        "text": "Este es el paso científico más importante para conservar la dulzura natural del edamame. 💡 Consejo de almacenamiento: Hierva las vainas en agua salada durante 1–2 minutos e sumérjalas de inmediato en un baño de hielo para inactivar enzimas y fijar la clorofila."
+                    },
+                    {
+                        "name": "Seque muy bien la superficie y selle para congelar — Congelación previa escaldado (180–360 días) 🧊",
+                        "text": "Congelar el edamame escaldado permite disfrutar de vainas frescas durante 6 a 12 meses. 💡 Consejo de almacenamiento: Seque las vainas escaldadas completamente con papel absorbente, colóquelas en bolsas herméticas para congelador sin aire y congele a -18 °C o menos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué se debe escaldar el edamame en agua salada inmediatamente después de comprarlo?",
+                        "answer": "En las primeras 12 a 24 horas tras la cosecha, las enzimas consumen más del 50% de la sacarosa del edamame. Escaldar en agua hirviendo con sal durante 1 a 2 minutos inactiva estas enzimas, deteniendo la pérdida de dulzura y fijando su color verde vivo y nutrientes."
+                    },
+                    {
+                        "question": "¿Cuál es la mejor manera de descongelar y consumir el edamame congelado?",
+                        "answer": "Como ya fue escaldado antes de congelar, simplemente caliente las vainas congeladas en agua hirviendo con un poco de sal durante 2 o 3 minutos o déjelas descongelar de forma natural en el refrigerador. Evite hervir demasiado para mantener su mordida crujiente."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver l'édamame frais : Guide scientifique de conservation",
+                "description": "Découvrez la température de stockage, la méthode de blanchiment pour stopper la dégradation du sucrose et la durée de conservation de l'édamame.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Avez-vous déjà conservé de l'édamame frais au réfrigérateur pour constater après deux jours seulement qu'il avait perdu sa saveur douce et son croquant ? 🫛\n\nL'édamame (soja frais) a un taux de respiration extrêmement élevé après la récolte. En 12 à 24 heures seulement, plus de 50 % de sa teneur en sucrose (le sucre responsable de sa saveur douce) est dégradée par des enzymes internes. Pour éviter cette perte, un prétraitement rapide après l'achat est essentiel.\n\nDans ce guide basé sur les recommandations du USDA et du centre Postharvest de UC Davis, découvrez une méthode en 3 étapes pour verrouiller la douceur et la texture ferme de l'édamame. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne laissez pas l'édamame cru trop longtemps à température ambiante ou au réfrigérateur ⚠️",
+                        "desc": "Les enzymes de dégradation des sucres sont très actives dans l'édamame cru. Même au réfrigérateur, les gousses crues perdent la majeure partie de leur sucrose et vitamines en 1 à 2 jours, devenant fades."
+                    },
+                    {
+                        "title": "Ne négligez pas le bain d'eau glacée et le séchage après le blanchiment 💧",
+                        "desc": "Ne pas refroidir immédiatement les gousses dans de l'eau glacée fait ramollir la chair sous l'effet de la chaleur résiduelle. De plus, congelées humides, les gousses forment des cristaux de glace qui déchirent les cellules."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Réfrigérer brièvement l'édamame cru en cas de cuisson rapide — Réfrigération courte produit cru (1–2 jours) 🫛",
+                        "text": "L'édamame cru non blanchi perd très rapidement ses sucres et doit être cuit au plus vite. 💡 Astuce de conservation : Enveloppez les gousses non lavées dans de l'essuie-tout dans une boîte hermétique au bac à légumes (1–4 °C) et cuisinez sous 1 à 2 jours."
+                    },
+                    {
+                        "name": "Blanchir 1 à 2 minutes dans de l'eau bouillante salée puis refroidir dans la glace — Inactivation des enzymes ♨️",
+                        "text": "C'est l'étape scientifique clé pour préserver la douceur naturelle de l'édamame. 💡 Astuce de conservation : Plongez les gousses 1 à 2 min dans l'eau bouillante salée, puis immédiatement dans un bain d'eau glacée. Les enzymes sont inactivées, fixant le sucrose et le vert vif."
+                    },
+                    {
+                        "name": "Sécher parfaitement et sceller pour la congélation — Congélation après blanchiment (180–360 jours) 🧊",
+                        "text": "Congeler l'édamame blanchi permet de profiter de gousses fraîches pendant 6 à 12 mois. 💡 Astuce de conservation : Séchez parfaitement les gousses blanchies avec de l'essuie-tout, placez-les dans un sac de congélation en vuidant l'air et congelez à -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi faut-il blanchir l'édamame dans de l'eau salée immédiatement après l'achat ?",
+                        "answer": "Dans les 12 à 24 heures suivant la récolte, les enzymes dégradent plus de 50 % du sucrose contenu dans l'édamame. Le blanchir 1 à 2 minutes dans l'eau bouillante salée inactif ces enzymes, stoppe immédiatement la perte de sucre et préserve la couleur verte et les vitamines."
+                    },
+                    {
+                        "question": "Quelle est la meilleure façon de décongeler et consommer l'édamame blanchi congelé ?",
+                        "answer": "Comme il a déjà été blanchi avant congélation, réchauffez simplement les gousses congelées dans de l'eau bouillante salée pendant 2 à 3 minutes ou laissez-les décongeler naturellement au réfrigérateur. Évitez de trop les cuire pour conserver leur texture ferme et croquante."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Edamame richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, die Blanchiermethode gegen Saccharoseabbau und die Haltbarkeit für Edamame basierend auf offiziellen Richtlinien.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Haben Sie frisches Edamame im Kühlschrank gelagert und festgestellt, dass die süße, nussige Note nach wenigen Tagen verflogen war und die Schoten fad schmeckten? 🫛\n\nEdamame (grüne Sojabohnen) weist nach der Ernte eine extrem hohe Atmungsrate auf. Innerhalb von 12 bis 24 Stunden nach der Ernte werden über 50 % des Saccharosegehalts (der Quelle der natürlichen Süße) durch enzymatische Prozesse abgebaut. Da Feuchtigkeit und Zucker rasch sinken, ist eine sofortige Vorbehandlung nach dem Kauf entscheidend.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und des UC Davis Postharvest Center, um Süße und Knackigkeit zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lassen Sie rohes Edamame nicht lange bei Raumtemperatur oder im Kühlschrank ⚠️",
+                        "desc": "Atmung und zuckerabbauende Enzyme sind in rohem Edamame extrem aktiv. Selbst gekühlt verliert rohes Edamame binnen 1 bis 2 Tagen die meiste Saccharose und Vitamine und schmeckt fad."
+                    },
+                    {
+                        "title": "Verzichten Sie nach dem Blanchieren nicht auf Eiswasser und gründliches Trocknen 💧",
+                        "desc": "Wird Edamame nach dem Blanchieren nicht sofort in Eiswasser abgeschreckt, gart es durch die Nachhitze weich und verliert die grüne Farbe. Nasse Schoten bilden beim Einfrieren zudem Eiskristalle, die das Gewebe schädigen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Rohes Edamame kurz im Kühlschrank lagern, wenn es schnell gekocht wird — Kurze Roh-Kaltlagerung (1–2 Tage) 🫛",
+                        "text": "Unblanchiertes rohes Edamame verliert sehr schnell Zucker und sollte bald verarbeitet werden. 💡 Lagerungstipp: Ungewaschen in Küchenpapier gewickelt im Gemüsefach (1–4 °C) aufbewahren und innerhalb von 1 bis 2 Tagen kochen."
+                    },
+                    {
+                        "name": "In Salzwasser 1–2 Minuten kurz blanchieren und in Eiswasser abschrecken — Enzym-Inaktivierung ♨️",
+                        "text": "Dies ist der wichtigste wissenschaftliche Schritt zur Erhaltung der Süße. 💡 Lagerungstipp: Schoten in kochendem Salzwasser (1 EL Salz pro 1L) 1–2 Min. blanchieren und sofort in Eiswasser abkühlen. Das inaktiviert die Zersetzungsenzyme."
+                    },
+                    {
+                        "name": "Oberfläche komplett trocknen und luftdicht einfrieren — Gefrieren nach Blanchieren (180–360 Tage) 🧊",
+                        "text": "Gefrorenes blanchiertes Edamame bleibt 6 bis 12 Monate lang frisch. 💡 Lagerungstipp: Blanchierte Schoten mit Küchenpapier komplett abtrocknen, in Gefrierbeutel füllen, Luft herausdrücken und bei mindestens -18 °C einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sollte man Edamame sofort nach dem Kauf in Salzwasser blanchieren?",
+                        "answer": "Innerhalb von 12 bis 24 Stunden nach der Ernte bauen Enzyme mehr als 50 % der enthaltenen Saccharose ab. Ein kurzes 1- bis 2-minütiges Blanchieren in kochendem Salzwasser inaktiviert diese Enzyme, stoppt den Süßeverlust sofort und fixiert die grüne Farbe sowie die Vitamine."
+                    },
+                    {
+                        "question": "Wie taut man gefrorenes blanchiertes Edamame am besten auf?",
+                        "answer": "Da es vor dem Einfrieren bereits blanchiert wurde, erwärmen Sie die gefrorenen Schoten einfach 2 bis 3 Minuten in kochendem Salzwasser oder lassen Sie sie im Kühlschrank auftauen. Vermeiden Sie zu langes Kochen, damit der knackige Biss erhalten bleibt."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar edamame fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura de armazenamento, o método de branqueamento para evitar a perda de sacarose e a durabilidade do edamame.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Você já guardou edamame fresco na geladeira e poucos dias depois percebeu que ele perdeu o sabor adocicado e ficou insosso? 🫛\n\nO edamame (soja verde) apresenta uma taxa de respiração extremamente alta após a colheita. Em apenas 12 a 24 horas, mais de 50% do seu teor de sacarose (o açúcar responsável pelo seu sabor doce) é degradado por enzimas internas. Como a umidade e os açúcares caem rapidamente nas vagens cruas, o pré-tratamento imediato é fundamental.\n\nNeste guia baseado em diretrizes do USDA e do Centro de Pós-Colheita da UC Davis, apresentamos um método em 3 etapas para preservar a doçura e a textura crocante do edamame. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não deixe o edamame cru em temperatura ambiente ou na geladeira por muito tempo ⚠️",
+                        "desc": "A respiração e as enzimas de degradação de açúcar são muito ativas no edamame cru. Mesmo sob refrigeração, as vagens cruas perdem a maior parte da sacarose e vitaminas em 1 a 2 dias."
+                    },
+                    {
+                        "title": "Não pule o resfriamento em água com gelo e a secagem após o branqueamento 💧",
+                        "desc": "Não resfriar as vagens branqueadas em água gelada faz com que o calor residual amoleça a textura e desbote a cor verde. Além disso, congelar vagens úmidas forma cristais de gelo que rompem as células."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Refrigere o edamame cru brevemente apenas se for cozinhar em breve — Refrigeração curta produto cru (1–2 dias) 🫛",
+                        "text": "O edamame cru perde açúcares muito rápido e deve ser cozido o quanto antes. 💡 Dica de conservação: Envolva as vagens sem lavar em papel-toalha num pote ou saco na geladeira (1–4 °C) e cozinhe em 1 a 2 dias."
+                    },
+                    {
+                        "name": "Branqueie em água fervente com sal por 1–2 minutos e resfrie em gelo — Inativação enzimática ♨️",
+                        "text": "Este é o passo científico mais importante para preservar a doçura natural do edamame. 💡 Dica de conservação: Ferva as vagens em água salgada por 1 a 2 minutos e mergulhe em banho de gelo para inativar enzimas."
+                    },
+                    {
+                        "name": "Seque a superfície totalmente e sele para congelar — Congelamento com branqueamento (180–360 dias) 🧊",
+                        "text": "Congelar o edamame branqueado permite saborear vagens frescas por 6 a 12 meses. 💡 Dica de conservação: Seque totalmente as vagens branqueadas com papel-toalha, coloque em sacos herméticos para freezer e congele a -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que o edamame deve ser branqueado em água salgada logo após a compra?",
+                        "answer": "Nas primeiras 12 a 24 horas após a colheita, enzimas consomem mais de 50% da sacarose do edamame. Branquear em água fervente com sal por 1 a 2 minutos inativa essas enzimas, interrompendo a perda de doçura e fixando a cor verde e os nutrientes."
+                    },
+                    {
+                        "question": "Qual é a melhor forma de descongelar e consumir o edamame congelado?",
+                        "answer": "Como ele já foi branqueado antes de congelar, basta aquecer as vagens congeladas em água fervente com sal por 2 a 3 minutos ou deixar descongelar naturalmente na geladeira. Evite ferver demais para manter a textura crocante."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Edamame (Kedelai Jepang) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu penyimpanan, metode blanching untuk mencegah hilangnya sukrosa, dan masa simpan edamame berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Pernahkah Anda menyimpan edamame segar di dalam kulkas lalu mendapati rasa manis dan gurihnya hilang serta polongnya menjadi hambar hanya dalam 2 hari? 🫛\n\nEdamame memiliki tingkat respirasi yang sangat tinggi setelah dipanen. Dalam waktu 12 hingga 24 jam setelah dipetik, lebih dari 50% kandungan sukrosa (sumber rasa manis alami) akan terurai dengan cepat oleh enzim internal. Karena kadar gula dan air pada polong mentah merosot tajam, pengolahan awal segera setelah dibeli adalah kuncinya.\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan UC Davis Postharvest Center, kami membagikan metode penyimpanan 3 langkah untuk mengunci rasa manis dan tekstur renyah edamame. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan membiarkan edamame mentah lama di suhu ruang atau kulkas ⚠️",
+                        "desc": "Enzim pemecah gula dan respirasi sangat aktif pada edamame mentah. Bahkan di dalam kulkas, polong mentah kehilangan sebagian besar sukrosa dan vitaminnya dalam 1 hingga 2 hari, merusak cita rasanya secara total."
+                    },
+                    {
+                        "title": "Jangan melewatkan perendaman air es dan pengeringan setelah blanching 💧",
+                        "desc": "Tidak merendam polong yang baru direbus ke dalam air es membuat panas tersisa melunakkan teksturnya dan memudarkan warna hijau. Selain itu, membekukan polong yang basah memicu kristal es yang merusak dinding sel."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan edamame mentah di kulkas sebentar jika akan segera dimasak — Simpan Dingin Mentah Singkat (1–2 Hari) 🫛",
+                        "text": "Edamame mentah yang belum di-blanching kehilangan gula sangat cepat dan harus segera dimasak. 💡 Tips Penyimpanan: Bungkus polong mentah yang belum dicuci dengan tisu dapur di wadah tertutup pada suhu 1–4°C dan masak dalam 1 hingga 2 hari."
+                    },
+                    {
+                        "name": "Rebus singkat (blanching) dalam air garam mendidih selama 1–2 menit lalu rendam air es — Inaktivasi Enzim Pemecah Gula ♨️",
+                        "text": "Langkah ilmiah paling penting untuk mengunci rasa manis alami edamame. 💡 Tips Penyimpanan: Rebus polong dalam air garam mendidih selama 1–2 menit, lalu segera pindahkan ke air es. Enzim pemecah gula akan mati, mengunci sukrosa dan warna hijau cerah."
+                    },
+                    {
+                        "name": "Keringkan permukaan hingga tuntas lalu bekukan — Pembekuan Blanching (180–360 Hari) 🧊",
+                        "text": "Membekukan edamame yang telah di-blanching membuat Anda dapat menikmatinya selama 6 hingga 12 bulan. 💡 Tips Penyimpanan: Keringkan polong dengan tisu dapur, masukkan ke kantong pembeku kedap udara, buang udaranya, lalu simpan pada suhu -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa edamame harus segera di-blanching dengan air garam setelah dibeli?",
+                        "answer": "Dalam 12 hingga 24 jam setelah dipanen, enzim internal menguraikan lebih dari 50% sukrosa pada edamame. Merebus singkat selama 1–2 menit dalam air garam mendidih mematikan enzim tersebut, menghentikan hilangnya rasa manis secara seketika dan mengunci warna hijau serta nutrisinya."
+                    },
+                    {
+                        "question": "Bagaimana cara terbaik mencairkan dan menyajikan edamame beku?",
+                        "answer": "Karena sudah di-blanching sebelum dibekukan, cukup panaskan polong beku dalam air garam mendidih selama 2 hingga 3 menit atau cairkan secara alami di dalam kulkas. Hindari merebus terlalu lama agar tekstur renyahnya tetap terjaga."
+                    }
+                ]
+            }
+        }
+    }
+}

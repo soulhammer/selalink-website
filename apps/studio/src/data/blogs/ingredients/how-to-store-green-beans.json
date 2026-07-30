@@ -1,0 +1,406 @@
+{
+    "how-to-store-green-beans": {
+        "ingId": "green-beans",
+        "pubDate": "2026-02-05",
+        "updatedDate": "2026-02-05",
+        "heroImage": "/images/blog/green_beans_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "그린 빈스(풋강낭콩) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 그린 빈스의 최적 보관 온도, 블랜칭(데치기) 냉동법 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
+                "intro": "싱싱한 그린 빈스를 냉장고에 넣어두었다가 수분이 빠져 주름지고 질겨지거나 금세 무러버린 적 있으시죠? 🫘\n\n그린 빈스는 수확 후 호흡 작용과 비타민 C 손실 속도가 매우 빠른 채소입니다. 보관 시 수분을 잃으면 식감이 질겨지고, 제대로 된 사전 처리 없이 냉동하면 리폭시게나아제(Lipoxygenase) 효소 작용으로 인해 악취가 나고 색이 변하게 됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 UC Davis 포스트하베스트 센터의 검증된 가이드라인을 바탕으로, 그린 빈스의 아삭한 식감과 영양을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "블랜칭(데치기) 없이 그대로 냉동하지 마세요 ⚠️",
+                        "desc": "그린 빈스를 세척 후 곧바로 냉동하면 내부의 리폭시게나아제(Lipoxygenase) 효소가 활성화된 상태로 남아 지방산 분해와 산화가 일어납니다. 이로 인해 냉동 저장 중 변색이 발생하고 산패 악취(Off-flavor)가 나게 됩니다."
+                    },
+                    {
+                        "title": "냉장 보관 시 건조하거나 밀폐 없이 방치하지 마세요 💧",
+                        "desc": "수확 후 그린 빈스는 수분 증발 속도가 매우 빠릅니다. 보관 시 습도가 낮으면 표면이 주름지고 조직이 질겨지므로, 키친타월로 수분을 조절하며 상대습도 95% 내외 환경을 유지해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "세척하지 않고 키친타월로 감싸 냉장 보관 — 냉장 보관 (7~10일) 🫘",
+                        "text": "그린 빈스는 4~7℃의 저온과 높은 상대습도(약 95%)에서 가장 신선하게 유지됩니다. 💡 보관 팁: 씻지 않은 그린 빈스를 수분을 조절해 줄 키친타월로 감싸 밀폐 용기나 지퍼백에 넣은 뒤 냉장고 야채칸에 보관하세요. 수분 증발을 차단하여 7~10일간 아삭함이 유지됩니다."
+                    },
+                    {
+                        "name": "장기 보관 시 30초간 블랜칭(데치기) 후 얼음물에 식히기 — 효소 불활성화 ♨️",
+                        "text": "장기간 보관하려면 반드시 데치는 과정이 필요합니다. 💡 보관 팁: 끓는 물에 그린 빈스를 넣고 30초 동안 짧게 블랜칭한 후, 즉시 얼음물에 담가 잔열을 식혀주세요. 리폭시게나아제 효소가 불활성화되어 색과 영양이 완벽히 보존됩니다."
+                    },
+                    {
+                        "name": "물기 완벽 제거 후 밀봉하여 냉동 보관 — 블랜칭 냉동 보관 (180~240일) 🧊",
+                        "text": "데친 그린 빈스를 냉동하면 반년 이상 신선하게 사용할 수 있습니다. 💡 보관 팁: 얼음물에서 꺼낸 그린 빈스의 표면 물기를 키친타월로 완벽히 제거한 뒤 밀폐 지퍼백에 담아 공기를 빼고 냉동실(-18℃ 이하)에 보관하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "그린 빈스를 냉동하기 전에 왜 꼭 블랜칭(데치기)을 해야 하나요?",
+                        "answer": "블랜칭을 하지 않고 냉동하면 내부의 리폭시게나아제 효소가 계속 작용하여 세포가 파괴되고 냉동 중 군내(악취)가 나며 비타민 C가 급격히 파괴됩니다. 끓는 물에 30초간 데치면 이 효소가 완전히 불활성화되어 풍미와 색상이 6~8개월간 유지됩니다."
+                    },
+                    {
+                        "question": "냉장 보관 중 그린 빈스가 질겨지고 주름이 생겼는데 원인이 무엇인가요?",
+                        "answer": "수확 후 높은 호흡 작용으로 인해 수분이 증발했기 때문입니다. 그린 빈스는 높은 상대습도(95%)가 필요하므로, 보관 시 수분 손실을 막기 위해 키친타월로 감싼 후 밀폐 용기에 담아 4~7℃ 야채칸에 보관하는 것이 핵심입니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Green Beans Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, blanching method for freezing, and shelf life for green beans based on official safety guidelines.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Have you ever put fresh green beans in the refrigerator only to find them shriveled, rubbery, or spoiled over time? 🫘\n\nGreen beans are high-respiration vegetables that experience rapid moisture loss and Vitamin C degradation after harvest. When frozen without proper pretreatment, the active lipoxygenase enzyme causes bad odors, off-flavors, and discoloration.\n\nIn this guide, based on official guidelines from the USDA and the UC Davis Postharvest Technology Center, we share a 3-step scientific storage guide to preserve the crisp texture and nutrition of green beans. 🛡️",
+                "whyTitle": "Why Store Green Beans This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never freeze green beans without blanching ⚠️",
+                        "desc": "Freezing raw green beans leaves lipoxygenase enzymes active, which breaks down fatty acids and causes off-flavors and browning during frozen storage. Brief blanching is essential to deactivate these enzymes."
+                    },
+                    {
+                        "title": "Do not leave exposed or unsealed during refrigeration 💧",
+                        "desc": "Green beans lose moisture rapidly post-harvest. Low storage humidity causes wrinkling and tough textures. Wrap them in paper towels inside an airtight container to maintain ~95% relative humidity."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap unwashed green beans in paper towels and refrigerate — Cold Storage (7–10 Days) 🫘",
+                        "text": "Green beans thrive at 4–7°C (39–45°F) with high relative humidity (~95%). 💡 Storage Tip: Place unwashed green beans wrapped in paper towels into an airtight container or zip-top bag in the crisper drawer to prevent moisture evaporation."
+                    },
+                    {
+                        "name": "Blanch in boiling water for 30 seconds and cool in ice water — Enzyme Inactivation ♨️",
+                        "text": "Blanching is required for long-term storage. 💡 Storage Tip: Submerge green beans in boiling water for 30 seconds, then immediately transfer to an ice bath to stop cooking. This inactivates lipoxygenase while locking in color and nutrients."
+                    },
+                    {
+                        "name": "Dry thoroughly and seal for frozen storage — Blanched Freezing (180–240 Days) 🧊",
+                        "text": "Blanched green beans can be stored frozen for over six months. 💡 Storage Tip: Pat blanched green beans completely dry with paper towels, place in a freezer-safe airtight bag, remove excess air, and store at -18°C (0°F) or below."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why is blanching necessary before freezing green beans?",
+                        "answer": "Freezing raw green beans keeps lipoxygenase enzymes active, leading to nutrient loss, off-odors, and loss of green color during storage. A quick 30-second blanch inactivates these enzymes, locking in flavor and color for 6 to 8 months."
+                    },
+                    {
+                        "question": "Why did my refrigerated green beans become wrinkled and tough?",
+                        "answer": "This occurs due to moisture loss caused by high post-harvest respiration. Green beans require ~95% humidity; wrapping them in paper towels inside an airtight container at 4–7°C is essential to prevent drying."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "グリーンビーンズ（サヤインゲン）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくグリーンビーンズの最適な保存温度、ブランチング（下ゆで）冷凍法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
+                "intro": "新鮮なグリーンビーンズを冷蔵庫に入れておいたら、水分が抜けてシワシワになったり固くなったりした経験はありませんか？🫘\n\nグリーンビーンズは収穫後の呼吸作用が非常に盛んで、ビタミンCの損失速度が速い野菜です。保存時に水分を失うと食感が悪くなり、加熱処理なしで冷凍するとリポキシゲナーゼ（Lipoxygenase）酵素の働きで異臭や変色が発生します。\n\n本記事では、米国農務省（USDA）およびUC Davisポストハーベストセンターのガイドラインに基づき、シャキシャキした食感と栄養を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "ブランチング（下ゆで）せずにそのまま冷凍しないでください ⚠️",
+                        "desc": "グリーンビーンズを洗ってそのまま冷凍すると、内部のリポキシゲナーゼ酵素が活性化したまま残り、脂肪酸の分解や酸化が進みます。その結果、冷凍保存中に変色や酸敗臭（嫌な匂い）が発生します。"
+                    },
+                    {
+                        "title": "冷蔵保存時に乾燥させたり密閉せずに放置しないでください 💧",
+                        "desc": "収穫後のグリーンビーンズは水分の蒸発が非常に早いです。保存環境の湿度が低いと表面がシワシワになり食感が硬くなるため、キッチンペーパーで水分を調節し相対湿度95%前後を維持する必要があります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "洗わずにキッチンペーパーで包んで冷蔵保存 — 冷蔵保存 (7〜10日間) 🫘",
+                        "text": "グリーンビーンズは4〜7℃の低温と高い相対湿度（約95%）で最も新鮮に保たれます。💡保存のコツ：洗っていないグリーンビーンズをキッチンペーパーで包み、密閉容器やジッパーバッグに入れて野菜室で保存してください。水分の蒸発を防ぎ7〜10日間シャキシャキ感を維持できます。"
+                    },
+                    {
+                        "name": "長期保存時は30秒間ブランチング（下ゆで）して氷水で冷やす — 酵素失活 ♨️",
+                        "text": "長期間保存する場合は必ず下ゆで処理が必要です。💡保存のコツ：沸騰したお湯にグリーンビーンズを入れ、30秒間サッと下ゆでした後、すぐに氷水につけて予熱を取りましょう。リポキシゲナーゼ酵素が失活し、色と栄養が完璧に保持されます。"
+                    },
+                    {
+                        "name": "水気をしっかり拭き取って密閉し冷凍保存 — ブランチング冷凍保存 (180〜240日間) 🧊",
+                        "text": "下ゆでしたグリーンビーンズを冷凍すると半年以上新鮮に使えます。💡保存のコツ：氷水から揚げたグリーンビーンズの表面の水分をキッチンペーパーで完全に拭き取り、冷凍用密閉バッグに入れて空気を抜いて冷凍庫（-18℃以下）で保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "グリーンビーンズを冷凍する前に、なぜ必ずブランチング（下ゆで）が必要なのですか？",
+                        "answer": "下ゆでせずに冷凍すると内部の酵素が作用し続け、細胞が破壊されて不快なにおいが発生し、ビタミンCが急激に破壊されます。沸騰したお湯で30秒間下ゆですることで酵素が完全に失活し、風味と美しい緑色が6〜8ヶ月間保持されます。"
+                    },
+                    {
+                        "question": "冷蔵保存中にグリーンビーンズが硬くなりシワができた原因は何ですか？",
+                        "answer": "収穫後の盛んな呼吸作用により水分が蒸発したためです。グリーンビーンズは高い湿度（95%）を必要とするため、キッチンペーパーで包んで密閉容器に入れ、4〜7℃の野菜室で保存して水分蒸発を防ぐことが重要です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持四季豆（绿刀豆）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解四季豆的最佳储存温度、焯水（杀青）冷冻法及保鲜时长。",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center",
+                "intro": "您是否曾将新鲜的四季豆放入冰箱，结果发现它失水变皱、口感发柴甚至迅速腐烂？🫘\n\n四季豆采收后呼吸作用非常旺盛，维生素C的流失速度极快。如果在保存过程中失去水分，口感会变得干硬；而如果不经过适当预处理直接冷冻，其中的脂氧合酶（Lipoxygenase）会导致异味和变色。\n\n本指南基于美国农务部(USDA)及加州大学戴维斯分校(UC Davis)采后技术中心的权威指南，为您介绍3步科学保存秘诀，长久锁定四季豆的脆嫩口感与营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿未经焯水（杀青）直接冷冻 ⚠️",
+                        "desc": "洗净后直接冷冻四季豆会导致其内部的脂氧合酶保持活性，加速脂肪酸分解与氧化，从而在冷冻保存期间产生变色和异味（哈喇味）。"
+                    },
+                    {
+                        "title": "冷藏时切勿裸露或无密封存放 💧",
+                        "desc": "四季豆采收后水分蒸发极快。如果保存环境湿度过低，表皮会起皱且组织变柴。需用厨房纸巾包裹调节湿度，并保持95%左右的相对湿度环境。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "无需清洗，用厨房纸巾包裹后冷藏 — 冷藏储存 (7~10天) 🫘",
+                        "text": "四季豆在4~7℃的低温和高相对湿度（约95%）下能保持最佳新鲜度。💡储存小贴士：将未清洗的四季豆用厨房纸巾包裹，放入密封盒或保鲜袋中，置于冰箱蔬菜抽屉。这样可阻断水分蒸发，保持7~10天脆嫩。"
+                    },
+                    {
+                        "name": "长期保存时沸水焯水30秒后冰镇 — 灭活酶活性 ♨️",
+                        "text": "若要长期保存，必须经过焯水杀青。💡储存小贴士：将四季豆放入沸水中焯水30秒，随后立即捞出浸入冰水中降温。这能灭活脂氧合酶，完美保留颜色与营养。"
+                    },
+                    {
+                        "name": "彻底擦干水分后密封冷冻 — 焯水冷冻保存 (180~240天) 🧊",
+                        "text": "焯水后的四季豆冷冻可保存半年以上。💡储存小贴士：将冰镇后的四季豆用厨房纸巾彻底擦干表皮水分，装入冷冻专用密封袋，排出空气后放入冷冻室（-18℃以下）。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么四季豆冷冻前一定要焯水？",
+                        "answer": "未焯水直接冷冻会导致四季豆内部的脂氧合酶继续起作用，破坏细胞组织并产生冷冻异味，同时造成维生素C急剧流失。沸水焯水30秒可完全灭活该酶，使风味和鲜绿颜色维持6~8个月。"
+                    },
+                    {
+                        "question": "冷藏期间四季豆变皱发柴的原因是什么？",
+                        "answer": "这是由于采收后旺盛的呼吸作用导致水分蒸发。四季豆需要较高的湿度（95%），因此保存时用厨房纸巾包裹并装入密封盒置于4~7℃蔬菜抽屉是防止失水的关键。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las judías verdes frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura de almacenamiento, el método de escaldado para congelación y la vida útil de las judías verdes según las directrices oficiales.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "¿Alguna vez guardó judías verdes frescas en el refrigerador y terminó con un producto arrugado, correoso o echado a perder? 🫘\n\nLas judías verdes son hortalizas con una alta tasa de respiración que sufren una rápida pérdida de humedad y degradación de vitamina C tras la cosecha. Si se congelan sin un tratamiento previo, la enzima lipoxigenasa genera malos olores y decoloración.\n\nEn esta guía, basada en las directrices oficiales del USDA y el Centro de Postcosecha de UC Davis, compartimos un método de conservación en 3 pasos para mantener la textura crujiente y los nutrientes de las judías verdes. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele las judías verdes sin escaldar ⚠️",
+                        "desc": "Congelar judías verdes crudas mantiene activa la enzima lipoxigenasa, la cual descompone los ácidos grasos causando decoloración y malos olores durante el congelamiento. Un breve escaldado es esencial para inactivarla."
+                    },
+                    {
+                        "title": "No las deje expuestas o sin sellar en el refrigerador 💧",
+                        "desc": "Las judías verdes pierden humedad rápidamente. La baja humedad hace que la piel se arrugue y la textura se vuelva dura. Envuélvalas en papel de cocina dentro de un recipiente hermético para mantener un ~95% de humedad relativa."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva las judías sin lavar en papel de cocina y refrigere — Refrigeración (7–10 días) 🫘",
+                        "text": "Las judías verdes se conservan mejor a 4–7 °C con una alta humedad relativa (~95%). 💡 Consejo de almacenamiento: Coloque las judías sin lavar envueltas en papel absorbente dentro de un recipiente hermético en el cajón de verduras para evitar la evaporación."
+                    },
+                    {
+                        "name": "Escalde en agua hirviendo durante 30 segundos y enfríe en agua con hielo — Inactivación enzimática ♨️",
+                        "text": "El escaldado es obligatorio para el almacenamiento a largo plazo. 💡 Consejo de almacenamiento: Sumerja las judías en agua hirviendo durante 30 segundos e inmediatamente páselas a un baño de hielo. Esto inactiva la lipoxigenasa fijando el color y los nutrientes."
+                    },
+                    {
+                        "name": "Seque completamente y selle para congelar — Congelación previa escaldado (180–240 días) 🧊",
+                        "text": "Las judías verdes escaldadas pueden congelarse durante más de seis meses. 💡 Consejo de almacenamiento: Seque muy bien las judías con papel de cocina, colóquelas en una bolsa para congelador, retire el aire y guárdelas a -18 °C o menos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué es necesario escaldar las judías verdes antes de congelarlas?",
+                        "answer": "Congelar las judías verdes crudas permite que las enzimas lipoxigenasas destruyan las células, causando pérdida de vitamina C, mal olor y pérdida del color verde. Escaldarlas 30 segundos inactiva estas enzimas, conservando el sabor de 6 a 8 meses."
+                    },
+                    {
+                        "question": "¿Por qué mis judías verdes refrigeradas se pusieron arrugadas y duras?",
+                        "answer": "Esto se debe a la pérdida de humedad por la alta respiración tras la cosecha. Las judías requieren un 95% de humedad; envolverlas en papel absorbente dentro de un recipiente hermético a 4–7 °C es clave para evitar que se sequen."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les haricots verts frais : Guide scientifique de conservation",
+                "description": "Découvrez la température de stockage, la méthode de blanchiment pour la congélation et la durée de conservation des haricots verts selon les directives officielles.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Avez-vous déjà mis des haricots verts frais au réfrigérateur pour les retrouver flétris, coriaces ou abîmés au bout de quelques jours ? 🫘\n\nLes haricots verts sont des légumes à forte respiration qui subissent une perte d'humidité et une dégradation rapide de la vitamine C après la récolte. S'ils sont congelés sans prétraitement, l'enzyme lipoxygénase provoque de mauvaises odeurs et une altération de la couleur.\n\nDans ce guide basé sur les recommandations du USDA et du centre Postharvest de UC Davis, découvrez une méthode en 3 étapes pour préserver le croquant et les nutriments des haricots verts. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne congelez jamais les haricots verts sans les blanchir ⚠️",
+                        "desc": "Congeler des haricots verts crus laisse la lipoxygénase active, ce qui décompose les acides gras et entraîne des mauvaises odeurs et un brunissement pendant la congélation. Un court blanchiment est indispensable."
+                    },
+                    {
+                        "title": "Ne les laissez pas à l'air libre dans le réfrigérateur 💧",
+                        "desc": "Les haricots verts se déshydratent très vite. Un environnement trop sec fait flétrir la peau. Enveloppez-les dans de l'essuie-tout dans une boîte hermétique pour maintenir une humidité relative d'environ 95 %."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper les haricots non lavés dans de l'essuie-tout et réfrigérer — Stockage au frais (7–10 jours) 🫘",
+                        "text": "Les haricots verts se conservent idéalement entre 4 et 7 °C avec une forte humidité relative (~95 %). 💡 Astuce de conservation : Placez les haricots non lavés enveloppés d'essuie-tout dans un récipient hermétique au bac à légumes."
+                    },
+                    {
+                        "name": "Blanchir dans l'eau bouillante pendant 30 secondes et refroidir dans la glace — Inactivation enzymatique ♨️",
+                        "text": "Le blanchiment est obligatoire pour une conservation à long terme. 💡 Astuce de conservation : Plongez les haricots 30 secondes dans l'eau bouillante puis immédiatement dans un bain d'eau glacée pour stopper la cuisson et bloquer les enzymes."
+                    },
+                    {
+                        "name": "Sécher soigneusement et sceller pour la congélation — Congélation après blanchiment (180–240 jours) 🧊",
+                        "text": "Les haricots verts blanchis se conservent plus de six mois au congélateur. 💡 Astuce de conservation : Séchez parfaitement les haricots avec de l'essuie-tout, placez-les dans un sac de congélation hermétique en chassant l'air, puis congelez à -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi faut-il obligatoirement blanchir les haricots verts avant de les meztre au congélateur ?",
+                        "answer": "Sans blanchiment, la lipoxygénase reste active, ce qui altère les cellules, détruit la vitamine C et dégage une odeur rance pendant le stockage. Un passage de 30 secondes dans l'eau bouillante inactive cette enzyme, préservant la couleur et la saveur pendant 6 à 8 mois."
+                    },
+                    {
+                        "question": "Pourquoi mes haricots verts sont-ils devenus ridés et durs au réfrigérateur ?",
+                        "answer": "Cela provient de l'évaporation de l'eau due à leur forte respiration. Les haricots ont besoin d'une humidité de 95 % ; les envelopper dans de l'essuie-tout à l'intérieur d'une boîte hermétique à 4–7 °C permet d'éviter cette déshydratation."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Grüne Bohnen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, die Blanchiermethode zum Einfrieren und die Haltbarkeit für grüne Bohnen basierend auf offiziellen Richtlinien.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Haben Sie schon einmal grüne Bohnen in den Kühlschrank gelegt und feststellen müssen, dass sie schrumpflig, zäh oder ungenießbar wurden? 🫘\n\nGrüne Bohnen weisen nach der Ernte eine hohe Atmungsrate auf, was zu raschem Feuchtigkeitsverlust und Vitamin-C-Abbau führt. Werden sie ohne Vorbehandlung eingefroren, sorgt das Enzym Lipoxygenase für unangenehme Gerüche und Verfärbungen.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und des UC Davis Postharvest Center, um Frische und Nährstoffe zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Frieren Sie grüne Bohnen niemals ohne Blanchieren ein ⚠️",
+                        "desc": "Das Einfrieren roh gelassener Bohnen hält das Enzym Lipoxygenase aktiv, wodurch Fettsäuren gespalten werden und während der Gefrierlagerung Fehlgerüche sowie Verfärbungen entstehen."
+                    },
+                    {
+                        "title": "Nicht unverschlossen im Kühlschrank liegen lassen 💧",
+                        "desc": "Grüne Bohnen verlieren schnell Feuchtigkeit. Niedrige Luftfeuchtigkeit macht die Haut schrumpflig und zäh. Wickeln Sie sie in Küchenpapier und lagern Sie sie luftdicht bei ca. 95 % Luftfeuchtigkeit."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungewaschene Bohnen in Küchenpapier wickeln und kühlen — Kühllagerung (7–10 Tage) 🫘",
+                        "text": "Grüne Bohnen halten sich bei 4–7 °C und hoher Luftfeuchtigkeit (~95 %) am besten. 💡 Lagerungstipp: Geben Sie die in Küchenpapier gewickelten, ungewaschenen Bohnen in eine Dose oder einen Beutel ins Gemüsefach."
+                    },
+                    {
+                        "name": "30 Sekunden in kochendem Wasser blanchieren und in Eiswasser abschrecken — Enzyminaktivierung ♨️",
+                        "text": "Für die Langzeitlagerung ist Blanchieren unerlässlich. 💡 Lagerungstipp: Bohnen 30 Sekunden blanchieren und sofort in Eiswasser abkühlen. Das inaktiviert die Lipoxygenase und fixiert Farbe sowie Nährstoffe."
+                    },
+                    {
+                        "name": "Gründlich trocknen und luftdicht einfrieren — Gefrieren nach Blanchieren (180–240 Tage) 🧊",
+                        "text": "Blanchierte grüne Bohnen können über ein halbes Jahr eingefroren werden. 💡 Lagerungstipp: Bohnen mit Küchenpapier komplett trocknen, in Gefrierbeutel füllen, Luft herausdrücken und bei mindestens -18 °C lagern."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum muss man grüne Bohnen vor dem Einfrieren blanchieren?",
+                        "answer": "Ohne Blanchieren bleibt das Enzym Lipoxygenase aktiv, zerstört Zellen, baut Vitamin C ab und erzeugt einen muffigen Geruch. Ein kurzes 30-sekündiges Blanchieren inaktiviert das Enzym und erhält Geschmack sowie Farbe für 6 bis 8 Monate."
+                    },
+                    {
+                        "question": "Warum sind meine Bohnen im Kühlschrank schrumpflig und zäh geworden?",
+                        "answer": "Das liegt am Feuchtigkeitsverlust durch die hohe Atmung nach der Ernte. Bohnen benötigen ca. 95 % Luftfeuchtigkeit. Das Einwickeln in Küchenpapier in einem dichten Behälter bei 4–7 °C schützt vor dem Austrocknen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar vagem (feijão-verde) fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura de armazenamento, o método de branqueamento para congelamento e o tempo de conservação da vagem com base em diretrizes oficiais.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Você já guardou vagem fresca na geladeira e depois a encontrou murcha, rugosa ou estragada? 🫘\n\nA vagem possui alta taxa de respiração, sofrendo rápida perda de umidade e degradação de vitamina C após a colheita. Se for congelada sem tratamento prévio, a enzima lipoxigenase causa maus odores e alteração na cor.\n\nNeste guia baseado em diretrizes do USDA e do Centro de Pós-Colheita da UC Davis, apresentamos um método em 3 etapas para manter a vagem crocante e nutritiva. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca congele a vagem sem antes branqueá-la ⚠️",
+                        "desc": "Congelar a vagem crua mantém a enzima lipoxigenase ativa, quebrando ácidos graxos e causando odores desagradáveis e escurecimento no congelador. O branqueamento curto é essencial."
+                    },
+                    {
+                        "title": "Não deixe a vagem exposta ou desprotegida na geladeira 💧",
+                        "desc": "A vagem perde água rapidamente. A baixa umidade torna a casca rugosa e dura. Envolva em papel-toalha dentro de um pote hermético para manter cerca de 95% de umidade relativa."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolva a vagem sem lavar em papel-toalha e refrigere — Armazenamento refrigerado (7–10 dias) 🫘",
+                        "text": "A vagem conserva-se idealmente entre 4 e 7 °C com alta umidade relativa (~95%). 💡 Dica de conservação: Coloque a vagem sem lavar envolta em papel-toalha dentro de um recipiente hermético na gaveta de legumes."
+                    },
+                    {
+                        "name": "Ferva em água por 30 segundos e resfrie em água com gelo — Inativação enzimática ♨️",
+                        "text": "O branqueamento é obrigatório para longa conservação. 💡 Dica de conservação: Mergulhe a vagem em água fervente por 30 segundos e transfira imediatamente para água gelada para cessar o cozimento e inativar enzimas."
+                    },
+                    {
+                        "name": "Seque bem e sele para congelar — Congelamento com branqueamento (180–240 dias) 🧊",
+                        "text": "A vagem branqueada pode ser congelada por mais de seis meses. 💡 Dica de conservação: Seque totalmente a vagem com papel-toalha, coloque em um saco hermético removendo o ar e guarde no freezer a -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que é preciso branquear a vagem antes de congelar?",
+                        "answer": "Sem o branqueamento, a enzima lipoxigenase continua ativa no freezer, destruindo a vitamina C e gerando cheiro râncio. Ferver por 30 segundos destrói essa enzima, preservando a cor verde e o sabor por 6 a 8 meses."
+                    },
+                    {
+                        "question": "Por que minha vagem ficou rugosa e dura na geladeira?",
+                        "answer": "Isso acontece devido à perda de água provocada pela alta taxa de respiração da vagem. Ela exige cerca de 95% de umidade; mantê-la envolta em papel-toalha num pote fechado a 4–7 °C evita o desidratamento."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buncis (Green Beans) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu penyimpanan, metode blanching untuk pembekuan, dan masa simpan buncis berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & MFDS & UC Davis Postharvest Center",
+                "intro": "Pernahkah Anda menyimpan buncis segar di dalam kulkas lalu mendapatinya keriput, liat, atau membusuk? 🫘\n\nBuncis adalah sayuran dengan tingkat respirasi tinggi yang mengalami kehilangan kelembapan dan penurunan vitamin C secara cepat setelah dipanen. Jika dibekukan tanpa pengolahan awal, enzim lipoksigenase akan memicu bau tidak sedap dan perubahan warna.\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan UC Davis Postharvest Center, kami membagikan metode penyimpanan 3 langkah untuk menjaga tekstur renyah dan nutrisi buncis. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah membekukan buncis tanpa proses blanching ⚠️",
+                        "desc": "Membekukan buncis mentah membiarkan enzim lipoksigenase tetap aktif, memecah asam lemak dan menyebabkan bau tengik serta perubahan warna selama disimpan di freezer."
+                    },
+                    {
+                        "title": "Jangan biarkan buncis terbuka tanpa segel di dalam kulkas 💧",
+                        "desc": "Buncis kehilangan cairan dengan sangat cepat. Kelembapan yang rendah membuat kulit keriput dan tekstur menjadi liat. Bungkus dengan tisu dapur di dalam wadah kedap udara untuk menjaga kelembapan ~95%."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus buncis mentah dengan tisu dapur lalu dinginkan — Simpan Dingin (7–10 Hari) 🫘",
+                        "text": "Buncis bertahan paling baik pada suhu 4–7°C dengan kelembapan relatif tinggi (~95%). 💡 Tips Penyimpanan: Masukkan buncis mentah yang dibungkus tisu dapur ke dalam wadah kedap udara di laci sayuran kulkas."
+                    },
+                    {
+                        "name": "Rebus dalam air mendidih selama 30 detik lalu rendam air es — Inaktivasi Enzim ♨️",
+                        "text": "Proses blanching wajib dilakukan untuk penyimpanan jangka panjang. 💡 Tips Penyimpanan: Rebus buncis selama 30 detik lalu segera pindahkan ke air es untuk menghentikan pematangan dan mematikan enzim."
+                    },
+                    {
+                        "name": "Keringkan hingga tuntas lalu masukkan freezer — Pembekuan Blanching (180–240 Hari) 🧊",
+                        "text": "Buncis yang telah di-blanching dapat disimpan di freezer selama lebih dari 6 bulan. 💡 Tips Penyimpanan: Keringkan buncis dengan tisu dapur, masukkan ke kantong kedap udara, buang udaranya, lalu simpan pada suhu -18°C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa buncis harus di-blanching sebelum dibekukan?",
+                        "answer": "Tanpa blanching, enzim lipoksigenase tetap merusak sel, menghilangkan vitamin C, dan menimbulkan bau tidak sedap. Merebus singkat selama 30 detik mematikan enzim ini sehingga warna hijau dan rasanya bertahan 6 hingga 8 bulan."
+                    },
+                    {
+                        "question": "Mengapa buncis saya menjadi keriput dan liat di dalam kulkas?",
+                        "answer": "Hal ini terjadi akibat penguapan air karena tingginya respirasi buncis setelah dipanen. Buncis membutuhkan kelembapan 95%; membungkusnya dengan tisu dapur dalam wadah tertutup pada suhu 4–7°C adalah kunci mencegah kekeringan."
+                    }
+                ]
+            }
+        }
+    }
+}

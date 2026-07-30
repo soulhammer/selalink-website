@@ -1,0 +1,406 @@
+{
+    "how-to-store-quail-eggs": {
+        "ingId": "quail-eggs",
+        "pubDate": "2026-04-28",
+        "updatedDate": "2026-04-28",
+        "heroImage": "/images/blog/quail_eggs_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "메추리알 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 메추리알의 최적 보관 온도, 둔반부 위향 보관법 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 한국축산물품질평가원(KAPE)",
+                "intro": "앙증맞고 고소해 장조림이나 샐러드에 자주 쓰는 메추리알을 냉장고에 보관하다가 생각보다 금방 수분이 마르고 노른자가 터지거나 무러버린 적 있으시죠? 🥚\n\n메추리알은 일반 계란에 비해 난각(Eggshell)과 큐티클층이 매우 얇아 내부의 수분과 이산화탄소 증발 속도가 계란보다 2배 이상 빠르며, 살모넬라(Salmonella) 등 외부 미생물 침투에 상대적으로 취약한 생리적 특성을 가지고 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처의 검증된 가이드라인을 바탕으로, 메추리알의 신선도와 영양을 수분 손실 없이 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "뾰족한 부분을 위로 가게 보관하지 마세요 ⚠️",
+                        "desc": "메추리알의 뭉툭한 부분(둔반부)에는 호흡 작용을 돕는 공기집(Air cell)이 위치해 있습니다. 뾰족한 부분을 위로 두면 노른자가 떠올라 공기집과 직접 접촉하면서 노른자 막이 쉽게 손상되고 세균 감염 위험이 높아집니다."
+                    },
+                    {
+                        "title": "보관 직전에 물로 세척하지 마세요 💧",
+                        "desc": "메추리알 표면을 물로 씻으면 세균 침투를 막아주는 천연 보호막인 큐티클층이 녹아 사라집니다. 미세공을 통해 외부 세균이 내부로 쉽게 침투하여 부패가 급격히 진행됩니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "공기집이 있는 뭉툭한 곳을 위로 향하게 냉장 보관 — 1~4℃ 저온 보관 (21일) 🥚",
+                        "text": "메추리알은 계란보다 수분 증발이 빠르므로 1~4℃ 저온 유지가 필수적입니다. 💡 보관 팁: 뭉툭한 둔반부가 위로 향하게 전용 용기나 팩에 담아 냉장고 안쪽에 보관하세요. 노른자가 중앙을 유지하며 3주간 신선도가 보존됩니다."
+                    },
+                    {
+                        "name": "냉장고 문 쪽이 아닌 안쪽 깊은 곳에 보관하기 — 온도 변동 방지 ❄️",
+                        "text": "냉장고 문을 열고 닫을 때 발생하는 온도 변화는 얇은 난각을 통해 내부 이산화탄소 증발을 가속화합니다. 💡 보관 팁: 문 쪽은 온도 변화가 크므로 온도가 일정하게 유지되는 냉장고 안쪽 선반에 보관해 주세요."
+                    },
+                    {
+                        "name": "삶은 메추리알은 껍질째 밀폐 용기에 담아 보관 — 삶은 메추리알 보관 (3~7일) 🍲",
+                        "text": "삶은 메추리알은 껍질을 까면 세균 침투가 쉬워집니다. 💡 보관 팁: 삶은 후 껍질을 까기 전 상태라면 냉장 7일, 껍질을 깐 상태라면 찬물이나 양념장에 담가 밀폐 보관 시 3~5일 내 소비해야 합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "메추리알은 왜 계란보다 보관 기한이 짧은가요?",
+                        "answer": "메추리알은 크기가 작아 표면적 대비 난각과 큐티클층이 계란보다 훨씬 얇습니다. 이 때문에 이산화탄소와 수분 증발 속도가 계란보다 2배 이상 빠르며 외부 살모넬라균 등 병원균 침투에 취약해 냉장 보관 시 약 3주가 최대 보관 기한입니다."
+                    },
+                    {
+                        "question": "메추리알의 뭉툭한 부분을 위로 향하게 놓아야 하는 과학적 이유는 무엇인가요?",
+                        "answer": "메추리알의 뭉툭한 끝(둔반부)에는 호흡 작용을 돕는 공기집(Air cell)이 있습니다. 공기집이 위로 가도록 놓아야 알 내부에서 떠오르는 노른자가 공기집과 직접 접촉하는 것을 막아 노른자 막이 손상되지 않고 중앙에 위치해 신선도가 가장 길게 유지됩니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Quail Eggs Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, blunt-end-up position, and shelf life for quail eggs based on official safety guidelines.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "Have you ever stored quail eggs in the refrigerator only to find them dried out or with broken yolks faster than expected? 🥚\n\nQuail eggs have significantly thinner eggshells and cuticle layers compared to chicken eggs. This causes carbon dioxide and moisture to evaporate more than twice as fast, making them relatively more vulnerable to external pathogens like Salmonella.\n\nIn this guide, based on official guidelines from the USDA and MFDS, we share a 3-step scientific storage method to preserve the freshness and nutrition of quail eggs without moisture loss. 🛡️",
+                "whyTitle": "Why Store Quail Eggs This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not store quail eggs with the pointed end facing up ⚠️",
+                        "desc": "The air cell is located at the blunt end of the quail egg. Storing the pointed end up causes the yolk to float against the air cell, damaging the yolk membrane and increasing the risk of bacterial contamination."
+                    },
+                    {
+                        "title": "Do not wash quail eggs before refrigerating 💧",
+                        "desc": "Washing quail eggs dissolves the cuticle layer—a natural protective barrier that blocks bacterial entry. Microscopic pores are exposed, allowing external pathogens to penetrate rapidly."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store refrigerated with the blunt end (air cell) facing up — Cold Storage at 1–4°C (21 Days) 🥚",
+                        "text": "Quail eggs lose moisture faster than chicken eggs, making 1–4°C (34–39°F) cold storage essential. 💡 Storage Tip: Keep eggs in their original carton with the blunt end pointing up on an interior refrigerator shelf to keep the yolk centered for 3 weeks."
+                    },
+                    {
+                        "name": "Store deep inside the refrigerator rather than on the door — Temperature Control ❄️",
+                        "text": "Frequent temperature fluctuations from opening the refrigerator door accelerate CO2 loss through thin shells. 💡 Storage Tip: Keep quail eggs on an inner shelf where temperatures remain consistently cold."
+                    },
+                    {
+                        "name": "Keep hard-boiled quail eggs sealed in airtight containers — Boiled Egg Storage (3–7 Days) 🍲",
+                        "text": "Peeled hard-boiled quail eggs are susceptible to bacterial contamination. 💡 Storage Tip: Unpeeled boiled eggs last up to 7 days in the fridge; peeled eggs stored in cold water or marinade should be consumed within 3 to 5 days."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do quail eggs have a shorter shelf life than chicken eggs?",
+                        "answer": "Quail eggs have a much higher surface-area-to-volume ratio with thinner shells and cuticle layers than chicken eggs. Moisture and carbon dioxide escape more than twice as fast, making them more vulnerable to bacteria and limiting their refrigerated shelf life to about 3 weeks."
+                    },
+                    {
+                        "question": "What is the scientific reason for storing quail eggs blunt-end-up?",
+                        "answer": "The air cell is located at the blunt end. Storing the egg blunt-end-up prevents the buoyant yolk from pressing directly against the inner shell membrane and air cell, keeping the yolk membrane intact and centered to maximize freshness."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ウズラの卵を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくウズラの卵の最適な保存温度、丸い側（気室）を上にする保存法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & KAPE",
+                "intro": "サラダや煮物で人気のウズラの卵を冷蔵庫に入れておいたら、思ったより早く水分が抜けて黄身が崩れてしまった経験はありませんか？🥚\n\nウズラの卵は一般的な鶏卵に比べて卵殻（Eggshell）とキューティクル層が非常に薄く、内部の水分や二酸化炭素の蒸発速度が鶏卵の2倍以上早い特徴があります。そのため、サルモネラ菌などの外部の病原菌が侵入しやすい生理的特性を持っています。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処のガイドラインに基づき、ウズラの卵の鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "尖った方を上にして保存しないでください ⚠️",
+                        "desc": "ウズラの卵の丸い側（鈍端部）には気室（Air cell）が存在します。尖った方を上にすると黄身が浮き上がって気室に直接接触し、黄身の膜が破れやすくなり雑菌感染のリスクが高まります。"
+                    },
+                    {
+                        "title": "保存直前に水洗いしないでください 💧",
+                        "desc": "ウズラの卵を水洗いすると、雑菌の侵入を防ぐ天然の保護膜であるキューティクル層が溶けて失われます。気孔を通じて外部の細菌が内部に侵入し腐敗が急激に進みます。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "気室のある丸い方を上にして冷蔵保存する — 1〜4℃低温保存 (21日間) 🥚",
+                        "text": "ウズラの卵は水分蒸発が早いため1〜4℃の低温維持が必須です。💡保存のコツ：丸い側を上に向けてパックやケースに入れ、冷蔵庫の奥で保存してください。黄身が中央に維持され3週間鮮度が保たれます。"
+                    },
+                    {
+                        "name": "ドアポケットではなく冷蔵庫の奥深くに保存する — 温度変化の防止 ❄️",
+                        "text": "ドアの開閉による温度変化は薄い卵殻を通じて二酸化炭素の蒸発を加速させます。💡保存のコツ：温度が一定に保たれる冷蔵庫内部の棚で保存してください。"
+                    },
+                    {
+                        "name": "茹でたウズラの卵は密閉容器に入れて保存する — 茹で卵保存 (3〜7日間) 🍲",
+                        "text": "殻を剥いた茹で卵は雑菌が繁殖しやすくなります。💡保存のコツ：茹でた後殻付きなら冷蔵で7日間、殻を剥いた状態なら冷水やタレに浸して密閉保存し3〜5日以内に消費してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "なぜウズラの卵は鶏卵よりも賞味期限が短いのですか？",
+                        "answer": "ウズラの卵は小ぶりなため表面積の割合が高く、卵殻やキューティクル層が鶏卵より非常に薄いです。そのため水分や二酸化炭素が2倍以上の速さで抜け、細菌も侵入しやすいため冷蔵保存での上限は約3週間となります。"
+                    },
+                    {
+                        "question": "ウズラの卵の丸い方を上にして置く科学的理由は何ですか？",
+                        "answer": "丸い端（鈍端部）には呼吸を助ける気室（Air cell）があります。丸い方を上にすることで内部で浮き上がる黄身が気室と直接触れ合うのを防ぎ、黄身膜が傷つかずに中央にとどまるため鮮度が最も長く維持されます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持鹌鹑蛋新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解鹌鹑蛋的最佳储存温度、大头朝上存放法及保鲜时长。",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & KAPE",
+                "intro": "买回小巧香浓的鹌鹑蛋放在冰箱里，您是否发现它比想象中失水更快，甚至蛋黄破裂变质？🥚\n\n与普通鸡蛋相比，鹌鹑蛋的蛋壳（Eggshell）和角质层极薄，内部水分和二氧化碳的蒸发速度是鸡蛋的2倍以上，因此更容易受到沙门氏菌等外部病原体侵入。\n\n本指南基于美国农务部(USDA)及韩国MFDS的权威指南，为您介绍3步科学保存秘诀，锁定鹌鹑蛋的新鲜与营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将尖头朝上存放 ⚠️",
+                        "desc": "鹌鹑蛋较圆的钝端有气室（Air cell）。若尖头朝上存放，浮起的蛋黄会直接压迫气室，导致蛋黄膜破裂并增加细菌感染风险。"
+                    },
+                    {
+                        "title": "储存前切勿用水清洗 💧",
+                        "desc": "用水清洗鹌鹑蛋会溶解阻挡细菌侵入的天然角质层保护膜，导致气孔暴露，外部细菌会迅速渗透入蛋内部引发腐败。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "气室所在的钝端朝上冷藏 — 1~4℃低温储存 (21天) 🥚",
+                        "text": "鹌鹑蛋失水极快，保持1~4℃低温至关重要。💡储存小贴士：将钝端朝上立于蛋盒中，放入冰箱内侧 shelf，可使蛋黄居中，保鲜3周。"
+                    },
+                    {
+                        "name": "存放在冰箱内侧而非冰箱门侧 — 防止温度波动 ❄️",
+                        "text": "频繁开关冰箱门引起的温度变化会加速二氧化碳透过薄蛋壳逸散。💡储存小贴士：请存放在温度恒定的冰箱内部隔板上。"
+                    },
+                    {
+                        "name": "水煮鹌鹑蛋装入密封盒保存 — 煮鹌鹑蛋储存 (3~7天) 🍲",
+                        "text": "剥壳的水煮鹌鹑蛋极易滋生细菌。💡储存小贴士：带壳煮蛋在冰箱可保存7天；剥壳后浸泡在凉开水或卤汁中密封冷藏，需在3~5天内食用完。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么鹌鹑蛋的保质期比鸡蛋短？",
+                        "answer": "鹌鹑蛋体积小、相对表面积大，且蛋壳和角质层比鸡蛋薄得多。这导致其水分和二氧化碳蒸发速度快2倍以上，更容易感染沙门氏菌等，因此冷藏保存上限约为3周。"
+                    },
+                    {
+                        "question": "将鹌鹑蛋钝端（大头）朝上存放的科学依据是什么？",
+                        "answer": "鹌鹑蛋的大头存在气室（Air cell）。大头朝上可以防止上浮的蛋黄与蛋壳膜及气室直接摩擦破裂，使蛋黄保持在中心位置，从而最大程度延长新鲜度。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los huevos de codorniz frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura de almacenamiento, la posición con el extremo ancho hacia arriba y la vida útil de los huevos de codorniz.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "¿Alguna vez guardó huevos de codorniz en el refrigerador y notó que se secaban o se echaban a perder más rápido de lo esperado? 🥚\n\nLos huevos de codorniz tienen una cáscara y una capa de cutícula significativamente más delgadas que los huevos de gallina. Esto hace que el dióxido de carbono y la humedad se evaporen más del doble de rápido, haciéndolos más vulnerables a bacterias externas como Salmonella.\n\nEn esta guía, basada en directrices del USDA y el MFDS, compartimos un método en 3 pasos para preservar la frescura y nutrición de los huevos de codorniz. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No guarde los huevos con la parte puntiaguda hacia arriba ⚠️",
+                        "desc": "La cámara de aire se encuentra en el extremo ancho del huevo. Si se coloca la punta hacia arriba, la yema flota hacia la cámara de aire, dañando la membrana de la yema e incrementando el riesgo de contaminación."
+                    },
+                    {
+                        "title": "No lave los huevos de codorniz antes de refrigerarlos 💧",
+                        "desc": "Lavar los huevos disuelve la cutícula, la barrera natural que impide la entrada de bacterias. Esto deja al descubierto los poros de la cáscara, permitiendo el ingreso de patógenos."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Almacene refrigerado con el extremo ancho (cámara de aire) hacia arriba — Refrigeración a 1–4 °C (21 días) 🥚",
+                        "text": "Los huevos de codorniz pierden agua rápido, por lo que 1–4 °C es vital. 💡 Consejo de almacenamiento: Mantenga los huevos en su cartón con la parte ancha hacia arriba en un estante interior para mantener la yema centrada durante 3 semanas."
+                    },
+                    {
+                        "name": "Guarde en el fondo del refrigerador y no en la puerta — Control de temperatura ❄️",
+                        "text": "Los cambios de temperatura al abrir la puerta aceleran la pérdida de CO2 a través de la cáscara delgada. 💡 Consejo de almacenamiento: Colóquelos en un estante interior donde la temperatura sea constante."
+                    },
+                    {
+                        "name": "Conserve los huevos cocidos en recipientes herméticos — Huevos cocidos (3–7 días) 🍲",
+                        "text": "Los huevos cocidos pelados son vulnerables a las bacterias. 💡 Consejo de almacenamiento: Sin pelar duran hasta 7 días en refrigeración; pelados en agua fría o marinada deben consumirse en 3 a 5 días."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué los huevos de codorniz duran menos que los de gallina?",
+                        "answer": "Tienen una mayor proporción de superficie frente a su volumen y cáscaras mucho más delgadas. La humedad y el gas CO2 se escapan más de dos veces más rápido, haciéndolos sensibles a bacterias y limitando su vida útil a unas 3 semanas."
+                    },
+                    {
+                        "question": "¿Cuál es la razón científica para guardarlos con el lado ancho hacia arriba?",
+                        "answer": "En el extremo ancho se ubica la cámara de aire (Air cell). Mantener este lado arriba evita que la yema que flota presione la membrana interna de la cáscara, manteniéndola centrada e intacta para prolongar la frescura."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les œufs de caille frais : Guide scientifique de conservation",
+                "description": "Découvrez la température de stockage, le positionnement gros bout vers le haut et la durée de conservation des œufs de caille.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "Avez-vous déjà conservé des œufs de caille au réfrigérateur pour constater qu'ils desséchaient ou s'altéraient plus vite que prévu ? 🥚\n\nLes œufs de caille ont une coquille et une cuticule nettement plus fines que les œufs de poule. Le gaz carbonique et l'eau s'en évaporent plus de deux fois plus vite, ce qui les rend plus vulnérables aux bactéries comme la Salmonelle.\n\nDans ce guide basé sur les recommandations du USDA et du MFDS, découvrez une méthode en 3 étapes pour préserver la fraîcheur des œufs de caille. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne stockez pas la pointe vers le haut ⚠️",
+                        "desc": "La chambre à air se situe du côté le plus gros (bout obtus). Placer la pointe en haut fait flotter le jaune contre la chambre à air, ce qui peut rompre sa membrane et favoriser l'intrusion bactérienne."
+                    },
+                    {
+                        "title": "Ne lavez pas les œufs de caille avant de les réfrigérer 💧",
+                        "desc": "Laver les œufs dissout la cuticule, le film naturel protecteur contre les microbes. Les pores de la coquille se retrouvent exposés aux bactéries extérieures."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver au frais le gros bout (chambre à air) vers le haut — Réfrigération à 1–4 °C (21 jours) 🥚",
+                        "text": "Les œufs de caille se déshydratent vite, une température de 1–4 °C est donc requise. 💡 Astuce de conservation : Laissez-les dans leur boîte, le gros bout vers le haut, sur une étagère intérieure pour garder le jaune centré pendant 3 semaines."
+                    },
+                    {
+                        "name": "Ranger dans le fond du réfrigérateur et non dans la porte — Stabilité thermique ❄️",
+                        "text": "Les variations de température dues à l'ouverture de la porte accélèrent la fuite de CO2 à travers la fine coquille. 💡 Astuce de conservation : Préférez une étagère centrale bien fraîche."
+                    },
+                    {
+                        "name": "Garder les œufs de caille durs en boîte hermétique — Conservation œufs durs (3–7 jours) 🍲",
+                        "text": "Écalés, les œufs durs sont sensibles aux contaminations. 💡 Astuce de conservation : Non écalés, ils se gardent 7 jours au frais. Écalés dans de l'eau froide, consommez-les en 3 à 5 jours."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les œufs de caille se conservent-ils moins longtemps que les œufs de poule ?",
+                        "answer": "En raison de leur petite taille, leur coquille et leur cuticule sont très fines. L'humidité et le CO2 s'échappent deux fois plus vite, ce qui facilite la pénétration des bactéries et limite leur durée de conservation à 3 semaines au frais."
+                    },
+                    {
+                        "question": "Pourquoi faut-il placer le gros bout vers le haut ?",
+                        "answer": "La chambre à air se trouve au niveau du gros bout. Orienter ce côté vers le haut empêche le jaune (qui a tendance à remonter) d'entrer en contact direct avec la membrane interne, préservant ainsi la membrane du jaune et sa position centrale."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Wachteleier richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, die Lagerung mit der stumpfen Seite nach oben und die Haltbarkeit für Wachteleier.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "Haben Sie Wachteleier im Kühlschrank gelagert und bemerkt, dass sie schneller austrockneten oder verderben als gedacht? 🥚\n\nWachteleier besitzen eine deutlich dünnere Eischale und Cuticula als Hühnereier. Dadurch verdunsten Kohlendioxid und Feuchtigkeit mehr als doppelt so schnell, was sie anfälliger für Keime wie Salmonellen macht.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und der MFDS, um die Frische der Wachteleier zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lagern Sie die Eier nicht mit der spitzen Seite nach oben ⚠️",
+                        "desc": "Die Luftkammer befindet sich am stumpfen Ende des Wachteleis. Steht die Spitze oben, steigt der Dotter zur Luftkammer auf, wodurch die Dottermembran beschädigt werden kann."
+                    },
+                    {
+                        "title": "Waschen Sie Wachteleier nicht vor dem Kühlen 💧",
+                        "desc": "Beim Waschen wird die Cuticula – die natürliche Schutzschicht gegen Bakterien – zerstört. Durch die Poren der Schale können Keime ungehindert eindringen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Mit der stumpfen Seite (Luftkammer) nach oben gekühlt lagern — Kaltlagerung bei 1–4 °C (21 Tage) 🥚",
+                        "text": "Da Wachteleier schnell austrocknen, sind 1–4 °C ideal. 💡 Lagerungstipp: Lagern Sie die Eier im Karton mit der stumpfen Seite nach oben im Kühlschrankinneren, um den Dotter 3 Wochen lang zentriert zu halten."
+                    },
+                    {
+                        "name": "Im Kühlschrankinneren statt in der Tür aufbewahren — Temperaturstabilität ❄️",
+                        "text": "Temperaturschwankungen an der Tür beschleunigen den CO2-Verlust durch die dünne Schale. 💡 Lagerungstipp: Platzieren Sie die Eier auf einem inneren Regalboden."
+                    },
+                    {
+                        "name": "Hartgekochte Wachteleier luftdicht im Kühlschrank aufbewahren — Gekochte Eier (3–7 Tage) 🍲",
+                        "text": "Geschälte gekochte Wachteleier sind anfällig für Bakterien. 💡 Lagerungstipp: Ungeschält halten sie gekühlt bis zu 7 Tage; geschält in kaltem Wasser gelagert sollten sie binnen 3 bis 5 Tagen verzehrt werden."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum sind Wachteleier kürzer haltbar als Hühnereier?",
+                        "answer": "Wachteleier haben ein höheres Oberflächen-Volumen-Verhältnis sowie eine dünnere Schale und Cuticula. Feuchtigkeit und CO2 entweichen doppelt so schnell, wodurch Keime leichter eindringen und die Haltbarkeit im Kühlschrank auf ca. 3 Wochen begrenzt ist."
+                    },
+                    {
+                        "question": "Warum gehört die stumpfe Seite nach oben?",
+                        "answer": "Am stumpfen Ende liegt die Luftkammer (Air cell). Wenn die stumpfe Seite oben steht, drückt der aufsteigende Dotter nicht direkt gegen die innere Schalenmembran. Dadurch bleibt die Dottermembran intakt und das Ei länger frisch."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ovos de codorna frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura de armazenamento, a posição da ponta arredondada para cima e o tempo de conservação dos ovos de codorna.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "Você já guardou ovos de codorna na geladeira e percebeu que eles ressecaram ou estragaram mais rápido do que o esperado? 🥚\n\nOs ovos de codorna têm casca e cutícula significativamente mais finas do que os ovos de galinha. Isso faz com que a água e o gás carbônico se evaporem duas vezes mais rápido, tornando-os mais vulneráveis a bactérias como a Salmonella.\n\nNeste guia baseado em diretrizes do USDA e do MFDS, apresentamos um método em 3 etapas para manter os ovos de codorna frescos e nutritivos. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não guarde os ovos com a ponta fina para cima ⚠️",
+                        "desc": "A câmara de ar fica na extremidade arredondada (mais larga). Guardar com a ponta para cima faz a gema flutuar contra a câmara de ar, rompendo a membrana da gema e aumentando o risco de contaminação."
+                    },
+                    {
+                        "title": "Não lave os ovos de codorna antes de refrigerar 💧",
+                        "desc": "Lavar os ovos dissolve a cutícula — a película protetora natural contra micróbios. Isso expõe os poros da casca para a entrada de bactérias."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde na geladeira com a ponta arredondada (câmara de ar) para cima — Refrigeração a 1–4 °C (21 dias) 🥚",
+                        "text": "Como perdem água rapidamente, a temperatura de 1–4 °C é fundamental. 💡 Dica de conservação: Mantenha na embalagem original com a parte larga para cima nas prateleiras internas da geladeira por 3 semanas."
+                    },
+                    {
+                        "name": "Guarde nas prateleiras internas e não na porta da geladeira — Controle térmico ❄️",
+                        "text": "A oscilação de temperatura na porta acelera a perda de CO2 pela casca fina. 💡 Dica de conservação: Coloque em uma prateleira funda da geladeira onde a temperatura seja estável."
+                    },
+                    {
+                        "name": "Conserve ovos cozidos em potes herméticos — Ovos cozidos (3–7 dias) 🍲",
+                        "text": "Ovos de codorna cozidos e descascados estragam fácil. 💡 Dica de conservação: Com casca duram até 7 dias na geladeira; descascados em água fria devem ser consumidos em 3 a 5 dias."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que os ovos de codorna duram menos que os de galinha?",
+                        "answer": "Os ovos de codorna são pequenos e possuem casca e cutícula muito finas. A umidade e o dióxido de carbono evaporam mais que o dobro da velocidade, tornando-os vulneráveis a bactérias e limitando a durabilidade na geladeira a cerca de 3 semanas."
+                    },
+                    {
+                        "question": "Qual é a explicação científica para deixar o lado arredondado para cima?",
+                        "answer": "A câmara de ar fica no lado arredondado. Deixar esse lado para cima impede que a gema flutuante pressione diretamente a membrana interna da casca, mantendo a gema centralizada e intacta."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Telur Puyuh (Quail Eggs) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu penyimpanan, posisi bagian tumpul di atas, dan masa simpan telur puyuh berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & MFDS & KAPE",
+                "intro": "Pernahkah Anda menyimpan telur puyuh di dalam kulkas lalu mendapatinya mengering atau kuning telurnya pecah lebih cepat dari yang dikira? 🥚\n\nTelur puyuh memiliki cangkang dan lapisan kutikula yang jauh lebih tipis dibandingkan telur ayam. Hal ini menyebabkan penguapan karbon dioksida dan cairan terjadi 2 kali lebih cepat, membuatnya lebih rentan terhadap bakteri luar seperti Salmonella.\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan MFDS, kami membagikan metode penyimpanan 3 langkah untuk menjaga kesegaran dan nutrisi telur puyuh. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan telur puyuh dengan bagian runcing di atas ⚠️",
+                        "desc": "Kantung udara (air cell) berada di bagian tumpul telur. Menyimpan dengan bagian runcing di atas membuat kuning telur mengapung menekan kantung udara, merusak membran kuning telur dan memicu kontaminasi bakteri."
+                    },
+                    {
+                        "title": "Jangan mencuci telur puyuh sebelum disimpan di kulkas 💧",
+                        "desc": "Mencuci telur puyuh akan melarutkan lapisan kutikula—pelindung alami dari bakteri. Pori-pori cangkang akan terbuka dan memudahkan kuman masuk."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan di kulkas dengan bagian tumpul (kantung udara) menghadap ke atas — Simpan Dingin 1–4°C (21 Hari) 🥚",
+                        "text": "Karena cairan telur puyuh cepat menguap, suhu 1–4°C sangat penting. 💡 Tips Penyimpanan: Letakkan telur di wadahnya dengan bagian tumpul di atas pada rak bagian dalam kulkas agar kuning telur tetap di tengah selama 3 minggu."
+                    },
+                    {
+                        "name": "Simpan di rak dalam kulkas, bukan di pintu kulkas — Kontrol Suhu ❄️",
+                        "text": "Perubahan suhu saat membuka pintu kulkas mempercepat penguapan gas CO2 lewat cangkang yang tipis. 💡 Tips Penyimpanan: Simpan di rak dalam kulkas yang suhunya stabil."
+                    },
+                    {
+                        "name": "Simpan telur puyuh rebus dalam wadah kedap udara — Telur Rebus (3–7 Hari) 🍲",
+                        "text": "Telur puyuh rebus yang sudah dikupas mudah terkontaminasi bakteri. 💡 Tips Penyimpanan: Telur rebus utuh dengan cangkang tahan 7 hari di kulkas; jika sudah dikupas dan direndam air dingin/bumbu, habiskan dalam 3 hingga 5 hari."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa telur puyuh memiliki masa simpan lebih singkat daripada telur ayam?",
+                        "answer": "Telur puyuh berukuran kecil dengan rasio luas permukaan tinggi serta cangkang dan kutikula yang sangat tipis. Cairan dan gas CO2 menguap 2 kali lebih cepat, membuatnya mudah kemasukan bakteri sehingga masa simpannya di kulkas maksimal sekitar 3 minggu."
+                    },
+                    {
+                        "question": "Apa alasan ilmiah menyimpan telur puyuh dengan bagian tumpul di atas?",
+                        "answer": "Kantung udara (air cell) terletak di bagian tumpul. Posisinya yang di atas mencegah kuning telur mengapung menekan membran dalam cangkang, sehingga membran kuning telur tetap utuh dan berada di tengah."
+                    }
+                ]
+            }
+        }
+    }
+}

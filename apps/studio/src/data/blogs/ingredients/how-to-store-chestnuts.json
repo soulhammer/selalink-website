@@ -1,0 +1,406 @@
+{
+    "how-to-store-chestnuts": {
+        "ingId": "chestnuts",
+        "pubDate": "2026-05-19",
+        "updatedDate": "2026-05-19",
+        "heroImage": "/images/blog/chestnut_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "밤 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 밤의 최적 보관 온도, 저온 당화 숙성법 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 국립농업과학원(RDA)",
+                "intro": "가을철 고소하고 달콤한 밤을 사와서 상온에 두었다가 며칠 만에 하얗게 곰팡이가 피거나 속살이 바싹 마르고 벌레가 생겨 버린 경험 있으시죠? 🌰\n\n밤은 지방이 주성분인 다른 견과류와 달리 수분 함량이 약 50%에 달하고 전분질로 이루어진 특이한 견과류입니다. 상온에 그대로 두면 수분이 증발해 과육이 수축하고 푸사리움이나 페니실리움(Penicillium) 곰팡이가 쉽게 증식하며, 내부의 밤바구미 애벌레 활동이 활성화됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 국립농업과학원의 검증된 가이드라인을 바탕으로, 밤의 수분 손실과 곰팡이를 막고 '저온 당화(Saccharification)' 반응을 통해 단맛을 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "상온에 그대로 방치하지 마세요 ⚠️",
+                        "desc": "밤은 수분 함량이 약 50%로 매우 높아 상온(15℃ 이상)에 노출되면 수분이 빠르게 증발하여 과육이 수축되고, 3~5일 내에 페니실리움 곰팡이 감염 및 밤바구미 벌레 발생이 급격히 늘어납니다."
+                    },
+                    {
+                        "title": "물에 적신 채 밀폐하거나 바싹 건조한 채 냉장하지 마세요 💧",
+                        "desc": "밤 표면에 과도한 수분이 남아있는 채 밀폐하면 곰팡이가 번식하고, 반대로 건조한 상태로 노출되면 속살이 줄어듭니다. 소금물 침지 후 표면 수분을 적당히 말려 구멍 뚫린 비닐팩이나 키친타월과 함께 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "소금물 선별 후 0~2℃에서 저온 당화 숙성 보관하기 — 저온 당화 냉장 보관 (30~60일) 🌰",
+                        "text": "밤을 0~2℃ 저온과 높은 습도(85~90%)에서 보관하면 아밀라아제(Amylase) 효소가 활성화되어 전분이 포도당과 당류로 전환되는 '저온 당화' 현상이 일어나 단맛이 극대화됩니다. 💡 보관 팁: 밤을 소금물(물 1L당 소금 1~2스푼)에 1~2시간 담가 떠오르는 밤을 솎아낸 뒤, 표면 물기를 바싹 말려 구멍 낸 지퍼백이나 키친타월로 감싸 김치냉장고/신선실(0~2℃)에 보관하세요."
+                    },
+                    {
+                        "name": "염수 침지로 벌레 먹은 밤 솎아내기 및 수분 관리 — 위생 및 세척 관리 🧂",
+                        "text": "소금물에 담그면 내부가 비거나 밤바구미 애벌레가 먹은 밤은 위로 떠오릅니다. 💡 보관 팁: 떠오른 밤은 골라내어 폐기하고, 건진 밤은 세척 후 그늘에서 표면 수분을 바싹 말려 보관해야 곰팡이 생성을 완벽히 차단할 수 있습니다."
+                    },
+                    {
+                        "name": "장기 보관 시 살짝 삶거나 찐 후 깐 밤으로 냉동 보관하기 — 가열 후 냉동 보관 (180~360일) 🧊",
+                        "text": "밤을 반년 이상 장기 보관하려면 사전 가열 후 냉동하는 것이 최고의 방법입니다. 💡 보관 팁: 밤을 끓는 물에 5~10분간 살짝 삶거나 찐 뒤, 식혀서 껍질을 까고 밀폐 용기/지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 전분 구조가 안정화되어 해동 후에도 요리에 바로 활용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "밤을 저온(김치냉장고) 보관하면 왜 더 달아지나요?",
+                        "answer": "밤을 0~2℃ 저온에 보관하면 식물 생리 반응으로 내부 아밀라아제(Amylase) 효소가 활성화됩니다. 이 효소가 밤 속의 전분을 포도당과 당류로 분해하는 '저온 당화(Saccharification)' 현상을 일으켜 숙성될수록 단맛이 비약적으로 증가하게 됩니다."
+                    },
+                    {
+                        "question": "밤에 벌레(밤바구미)가 생기는 것을 예방하는 방법은 무엇인가요?",
+                        "answer": "구매 직후 소금물(물 1L당 소금 1~2스푼)에 1~2시간 담가두는 '염수 선별'이 핵심입니다. 소금물에 떠오르는 밤은 내부에 알이나 애벌레가 찬 밤이므로 솎아내고, 알맞은 밤은 겉면을 바싹 말려 0~2℃ 저온에 보관하면 벌레 발태를 억제할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Chestnuts Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, chilling saccharification method, and shelf life for chestnuts based on official safety guidelines.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "Have you ever stored fresh chestnuts at room temperature only to find them covered in white mold, shriveled, or infested with weevil larvae within a few days? 🌰\n\nUnlike most nuts that are rich in fats, chestnuts have a unique composition containing about 50% water and a high starch content. Storing them at room temperature causes rapid moisture loss, shrinkage, Fusarium and Penicillium mold growth, and activation of chestnut weevil larvae.\n\nIn this guide, based on official guidelines from the USDA and the Rural Development Administration (RDA), we share a 3-step scientific storage method to prevent moisture loss, stop mold growth, and maximize sweetness through 'chilling saccharification.' 🛡️",
+                "whyTitle": "Why Store Chestnuts This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never leave chestnuts at room temperature ⚠️",
+                        "desc": "Chestnuts contain nearly 50% water. Exposing them to room temperature (above 15°C / 59°F) leads to rapid water evaporation, flesh shrinkage, Penicillium mold infection, and weevil infestation within 3 to 5 days."
+                    },
+                    {
+                        "title": "Do not seal while wet or refrigerate completely dry 💧",
+                        "desc": "Sealing chestnuts with excess surface water promotes fungal decay, whereas keeping them completely exposed causes shriveling. Soak in saltwater to filter damaged nuts, thoroughly dry the surface, and store in perforated plastic bags or with paper towels."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store at 0–2°C for cold saccharification ripening — Cold Saccharification Storage (30–60 Days) 🌰",
+                        "text": "Storing chestnuts at 0–2°C (32–36°F) and 85–90% relative humidity activates amylase enzymes. This triggers 'chilling saccharification,' converting starch into glucose and sugars to maximize sweetness. 💡 Storage Tip: Soak in saltwater for 1–2 hours, discard floating nuts, dry surfaces thoroughly, and store in perforated bags at 0–2°C."
+                    },
+                    {
+                        "name": "Filter floating infested nuts using saltwater immersion — Saltwater Screening 🧂",
+                        "text": "Submerging chestnuts in saltwater causes hollow or insect-damaged nuts to float to the surface. 💡 Storage Tip: Skim off and discard floating nuts. Wash remaining good chestnuts, dry surfaces completely in the shade, and proceed to cold storage to block mold growth."
+                    },
+                    {
+                        "name": "Parboil or steam before peeling and freezing for long-term storage — Parboiled Freezing (180–360 Days) 🧊",
+                        "text": "For storage exceeding six months, parboiling prior to freezing is the best method. 💡 Storage Tip: Parboil chestnuts in boiling water for 5–10 minutes, cool, peel off shells, and store in airtight freezer bags at -18°C (0°F) or below. Starch structures stabilize, making them ready to cook."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do chestnuts become sweeter when stored at cold temperatures (0–2°C)?",
+                        "answer": "Cold storage at 0–2°C triggers a physiological reaction that activates the internal amylase enzyme. This enzyme breaks down complex starch into glucose and simple sugars through 'chilling saccharification,' dramatically increasing the sweetness over time."
+                    },
+                    {
+                        "question": "How can I prevent worms (chestnut weevils) in my chestnuts?",
+                        "answer": "Soak chestnuts in saltwater (1–2 tablespoons of salt per liter of water) for 1–2 hours right after purchase. Discard any floating nuts as they contain air pockets or larvae. Thoroughly dry the remaining sound chestnuts and store at 0–2°C to suppress insect hatching."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "栗（チェストナッツ）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく栗の最適な保存温度、低温糖化熟成法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 韓国国立農業科学院(RDA)",
+                "intro": "秋の味覚である甘い栗を買って常温に置いておいたら、数日で白いカビが生えたり、身がカサカサに縮んで虫が湧いてしまった経験はありませんか？🌰\n\n栗は脂質が主成分である他のナッツ類とは異なり、水分含有量が約50%に達し、デンプン質で構成された特殊な果実です。常温に放置すると水分が蒸発して実が縮み、ペニシリウム（Penicillium）などのカビが繁殖しやすく、クリシギゾウムシの幼虫の活動が活発化します。\n\n本記事では、米国農務省（USDA）および国立農業科学院のガイドラインに基づき、栗の水分損失とカビを防ぎ「低温糖化（Saccharification）」反応によって甘みを最大限に引き出す3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "常温にそのまま放置しないでください ⚠️",
+                        "desc": "栗は水分含有量が約50%と非常に高いため、常温（15℃以上）に晒されると水分が急速に蒸発して果肉が縮み、3〜5日以内にペニシリウムカビの発生や虫食いが急増します。"
+                    },
+                    {
+                        "title": "濡れたまま密閉したり、乾燥させたまま冷やさないでください 💧",
+                        "desc": "栗の表面に余分な水分が残ったまま密閉するとカビが繁殖し、逆に乾燥したまま冷やすと実が小さくなります。塩水選別後に表面の水分をしっかり乾かし、穴を開けたポリ袋やキッチンペーパーと共に保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "塩水選別後、0〜2℃で低温糖化熟成保存する — 低温糖化冷蔵保存 (30〜60日間) 🌰",
+                        "text": "栗を0〜2℃の低温と高い湿度（85〜90%）で保存すると、アミラーゼ（Amylase）酵素が活性化し、デンプンがブドウ糖や糖類に分解される「低温糖化」が起きて甘みが極限まで増します。💡保存のコツ：塩水（水1Lに対して塩大さじ1〜2）に1〜2時間浸して浮いてくる栗を取り除き、表面をしっかり乾かして穴あきジッパーバッグに入れ、チルド室（0〜2℃）で保存してください。"
+                    },
+                    {
+                        "name": "塩水選別で虫食い栗を取り除き水分を管理する — 衛生・選別管理 🧂",
+                        "text": "塩水に浸すと、中身がスカスカだったり虫食いのある栗は浮き上がってきます。💡保存のコツ：浮いてきた栗は取り除き、残った良い栗は洗って日陰で表面の水分を完全に乾かしてから保存することで、カビの発生を完全に防ぐことができます。"
+                    },
+                    {
+                        "name": "長期保存時は軽く茹でるか蒸してから皮を剥き冷凍保存する — 加熱後冷凍保存 (180〜360日間) 🧊",
+                        "text": "栗を半年以上長期保存するには、加熱処理してから冷凍するのが最適な方法です。💡保存のコツ：沸騰したお湯で5〜10分間サッと茹でるか蒸し、冷ましてから皮を剥き、密閉容器やジッパーバッグに入れて冷凍庫（-18℃以下）で保存してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "栗を低温（0〜2℃）で保存すると、なぜ甘くなるのですか？",
+                        "answer": "栗を0〜2℃の低温で保存すると、自己防衛反応により内部のアミラーゼ（Amylase）酵素が活性化します。この酵素がデンプンをブドウ糖や糖分に分解する「低温糖化（Saccharification）」を引き起こすため、熟成が進むほど甘みが飛躍的に強くなります。"
+                    },
+                    {
+                        "question": "栗の虫（クリシギゾウムシ）の発生を防ぐにはどうすればよいですか？",
+                        "answer": "購入直後に塩水（水1Lあたり塩大さじ1〜2）に1〜2時間浸す「塩水選別」が効果的です。水に浮く栗は内部に虫や卵がいるため取り除き、沈んだ栗は表面をしっかり乾かして0〜2℃の低温で保存することで虫の孵化を抑制できます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持板栗（栗子 Chestnuts）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解板栗的最佳储存温度、低温糖化熟化法及保鲜时长。",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国国立农业科学院(RDA)",
+                "intro": "买回甘甜香浓的板栗，放在常温下没几天，您是否遇到过表面发霉长白毛、果肉干瘪缩水甚至长虫的情况？🌰\n\n与富含油脂的坚果不同，板栗水分含量高达50%左右，且以淀粉质为主。常温存放会导致水分迅速蒸发而缩水，极易滋生青霉菌（Penicillium）等霉菌，并促使栗实象甲虫卵孵化。\n\n本指南基于美国农务部(USDA)及韩国国立农业科学院的权威指南，为您介绍3步科学保存秘诀，防止失水发霉，并通过“低温糖化（Saccharification）”反应锁定并倍增板栗的甜度。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿置于常温下裸露摆放 ⚠️",
+                        "desc": "板栗含水量高达50%，暴露于常温（15℃以上）会导致水分急剧蒸发、果肉萎缩，3~5天内青霉菌感染与栗虫爆发的概率极高。"
+                    },
+                    {
+                        "title": "切勿带水密封或干瘪冷藏 💧",
+                        "desc": "板栗表面有残留水分时密封极易发霉；反之彻底干透裸露冷藏会导致果肉干硬。盐水挑选后应晾干表面水分，与扎孔保鲜袋或纸巾一同冷藏。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "盐水筛选后在0~2℃下低温糖化熟化 — 低温糖化冷藏 (30~60天) 🌰",
+                        "text": "将板栗存放在0~2℃低温及高湿度（85~90%）环境中，可激活淀粉酶（Amylase），促使淀粉转化为葡萄糖和糖类，发生“低温糖化”增甜。💡储存小贴士：将板栗浸泡于盐水中1~2小时，挑出浮籽，擦干表面水分，装入扎孔保鲜袋置于0~2℃保鲜抽屉。"
+                    },
+                    {
+                        "name": "通过盐水浸泡筛选剔除坏籽并调控水分 — 卫生与筛选 🧂",
+                        "text": "浸泡在盐水中时，内部空鼓或被虫蛀的板栗会浮出水面。💡储存小贴士：捞出并丢弃浮在水面上的坏栗子，将沉底的好栗子洗净并在阴凉处彻底晾干表面水分后再保存，可完全阻断霉菌滋生。"
+                    },
+                    {
+                        "name": "长期保存可蒸煮后剥壳冷冻 — 加热后冷冻保存 (180~360天) 🧊",
+                        "text": "若需保存半年以上，先加热预处理再冷冻是最佳方案。💡储存小贴士：将板栗放入沸水中煮5~10分钟，冷却后剥去外壳，装入密封袋置于冷冻室（-18℃以下）。淀粉结构得以稳定，解冻后可直接用于做菜或煮饭。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "为什么板栗冷藏（0~2℃）保存后会变得更甜？",
+                        "answer": "板栗在0~2℃的低温下会触发生理防御，激活内部的淀粉酶（Amylase）。该酶能将淀粉持续分解为葡萄糖和糖分，这种“低温糖化（Saccharification）”过程会让板栗随着贮藏时间的增加而甜度倍增。"
+                    },
+                    {
+                        "question": "如何防止板栗生虫（栗实象甲）？",
+                        "answer": "买回后立即用盐水（每升水加1~2汤匙盐）浸泡1~2小时进行“盐水筛选”是关键。浮在水面上的栗子内含虫卵或已被蛀空，应予剔除；沉底的完好栗子彻底晾干表面后存放在0~2℃低温下，可有效抑制虫卵孵化。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las castañas frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura de almacenamiento, el método de sacarificación por frío y la vida útil de las castañas según las directrices oficiales.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "¿Alguna vez guardó castañas frescas a temperatura ambiente y a los pocos días descubrió que estaban cubiertas de moho blanco, arrugadas o con gusanos? 🌰\n\nA diferencia de la mayoría de los frutos secos ricos en grasas, las castañas tienen un alto contenido de agua (alrededor del 50%) y son ricas en almidón. Almacenarlas a temperatura ambiente causa una rápida pérdida de humedad, contracción de la pulpa, proliferación de mohos Penicillium y activación de larvas de gorgojo.\n\nEn esta guía, basada en directrices del USDA y la Administración de Desarrollo Rural (RDA), compartimos un método en 3 pasos para evitar la pérdida de humedad y aumentar su dulzura mediante 'sacarificación por frío'. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca deje las castañas a temperatura ambiente ⚠️",
+                        "desc": "Las castañas contienen cerca de un 50% de agua. Exponerlas a más de 15 °C provoca deshidratación rápida, contracción de la carne, mohos Penicillium e infestación de gusanos en solo 3 a 5 días."
+                    },
+                    {
+                        "title": "No las selle con exceso de humedad ni las refrigere totalmente secas 💧",
+                        "desc": "Sellar las castañas con humedad superficial favorece el moho, mientras que dejarlas expuestas las seca. Sumérjalas en agua salada para filtrar las dañadas, seque bien la piel y guárdelas en bolsas perforadas con papel absorbente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Almacene a 0–2 °C para lograr sacarificación por frío — Refrigeración dulce (30–60 días) 🌰",
+                        "text": "Guardar las castañas a 0–2 °C y una humedad relativa del 85–90% activa la enzima amilasa. Esto inicia la 'sacarificación por frío', convirtiendo el almidón en glucosa para maximizar su dulzura. 💡 Consejo de almacenamiento: Remoje en agua salada por 1–2 horas, descarte las que flotan, seque y mantenga a 0–2 °C."
+                    },
+                    {
+                        "name": "Filtre las castañas agusanadas mediante inmersión en agua salada — Selección por agua salada 🧂",
+                        "text": "Sumergir las castañas en agua con sal hace que las piezas vacías o con larvas floten a la superficie. 💡 Consejo de almacenamiento: Retire las que flotan. Lave las buenas, séquelas a la sombra y guárdelas en frío para evitar el moho."
+                    },
+                    {
+                        "name": "Hierva ligeramente o cocine al vapor antes de pelar y congelar — Congelación previa cocción (180–360 días) 🧊",
+                        "text": "Para conservar más de seis meses, hervir ligeramente antes de congelar es la mejor opción. 💡 Consejo de almacenamiento: Hierva las castañas en agua durante 5–10 minutos, enfríe, pele la cáscara y congele en recipientes herméticos a -18 °C o menos."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué las castañas se vuelven más dulces al guardarlas en frío (0–2 °C)?",
+                        "answer": "El frío de 0–2 °C activa la enzima amilasa interna de la castaña como respuesta fisiológica. Esta enzima descompone el almidón en glucosa mediante la 'sacarificación por frío', haciendo que el fruto se vuelva significativamente más dulce con el paso de las semanas."
+                    },
+                    {
+                        "question": "¿Cómo puedo evitar que le salgan gusanos (gorgojos) a las castañas?",
+                        "answer": "Sumerja las castañas en agua salada (1–2 cucharadas de sal por litro de agua) durante 1–2 horas al comprarlas. Las castañas con gusanos flotarán y deben desecharse; las que se hunden deben secarse bien y guardarse a 0–2 °C para frenar e inactivar la eclosión de larvas."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les châtaignes fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température de stockage, la méthode de saccharification par le froid et la durée de conservation des châtaignes selon les directives officielles.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "Avez-vous déjà conservé des châtaignes à température ambiante pour les retrouver couvertes de moisissure blanche, desséchées ou attaquées par des vers après quelques jours ? 🌰\n\nContrairement aux autres fruits à coque riches en graisses, la châtaigne est constituée d'environ 50 % d'eau et est riche en amidon. À température ambiante, l'eau s'évapore vite, entraînant un flétrissement, l'apparition de moisissures Penicillium et l'éclosion des larves de charançons.\n\nDans ce guide basé sur les recommandations du USDA et de l'Administration du Développement Rural (RDA), découvrez une méthode en 3 étapes pour prévenir le dessèchement et booster leur douceur par 'saccharification par le froid'. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne laissez jamais les châtaignes à température ambiante ⚠️",
+                        "desc": "Contenant près de 50 % d'eau, exposer les châtaignes à plus de 15 °C provoque une déshydratation rapide, le rétrécissement de la chair, le développement de Penicillium et des vers en 3 à 5 jours."
+                    },
+                    {
+                        "title": "Ne les enfermez pas mouillées et ne les séchez pas excessivement 💧",
+                        "desc": "Enfermer les châtaignes avec de l'eau en surface crée de la moisissure, mais les laisser à l'air libre les assèche. Trempez-les dans de l'eau salée pour trier, séchez la coquille et gardez en sachet perforé avec de l'essuie-tout."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver à 0–2 °C pour la saccharification par le froid — Stockage au frais (30–60 jours) 🌰",
+                        "text": "Maintenir les châtaignes entre 0 et 2 °C sous 85–90 % d'humidité active l'amylase. L'amidon se transforme en glucose ('saccharification par le froid'), décuplant leur saveur sucrée. 💡 Astuce de conservation : Trempez dans l'eau salée 1 à 2 h, jetez les châtaignes flottantes, séchez et conservez à 0–2 °C."
+                    },
+                    {
+                        "name": "Trier les châtaignes gâtées par immersion dans l'eau salée — Tri à l'eau salée 🧂",
+                        "text": "Plonger les châtaignes dans l'eau salée fait remonter à la surface celles qui sont creuses ou attaquées par les vers. 💡 Astuce de conservation : Éliminez les châtaignes qui flottent. Lavez les bonnes, séchez-les bien à l'ombre avant de les stocker au frais."
+                    },
+                    {
+                        "name": "Ébouillanter ou cuire à la vapeur avant d'éplucher et congeler — Congélation après cuisson (180–360 jours) 🧊",
+                        "text": "Pour conserver les châtaignes plus de 6 mois, la précuisson avant congélation est idéale. 💡 Astuce de conservation : Faites bouillir les châtaignes 5 à 10 min, laissez refroidir, épluchez la coque et congelez en sachet hermétique à -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi les châtaignes deviennent-elles plus sucrées au réfrigérateur (0–2 °C) ?",
+                        "answer": "Le stockage à 0–2 °C déclenche une réaction de défense qui active l'enzyme amylase. Cette enzyme dégrade l'amidon en glucose et sucres simples par 'saccharification par le froid', augmentant considérablement la teneur en sucre au fil des semaines."
+                    },
+                    {
+                        "question": "Comment éviter les vers (charançons) dans les châtaignes ?",
+                        "answer": "Plongez les châtaignes dans de l'eau salée (1 à 2 cuillères à soupe de sel par litre d'eau) pendant 1 à 2 heures après l'achat. Les châtaignes infectées flottent et doivent être jetées ; séchez soigneusement les bonnes et conservez-les à 0–2 °C pour bloquer l'éclosion des larves."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Esskastanien (Maronen) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, die Methode der Kältesaccharifizierung und die Haltbarkeit für Esskastanien.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "Haben Sie frische Esskastanien gelagert und nach wenigen Tagen festgestellt, dass sie verschimmelt, ausgetrocknet oder von Würmern befallen waren? 🌰\n\nIm Gegensatz zu fettreichen Nüssen bestehen Esskastanien zu rund 50 % aus Wasser und enthalten viel Stärke. Bei Raumtemperatur verdunstet Wasser rasch, die Frucht schrumpft, Penicillium-Schimmel breitet sich aus und Kastanienbohrer-Larven werden aktiv.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und der Rural Development Administration (RDA), um Schimmel zu stoppen und durch 'Kältesaccharifizierung' maximale Süße zu erzielen. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Lassen Sie Esskastanien niemals bei Raumtemperatur liegen ⚠️",
+                        "desc": "Kastanien enthalten fast 50 % Wasser. Bei über 15 °C kommt es rasch zu Verfeuchtung, Schrumpfung der Frucht, Penicillium-Schimmelbefall und Wurmentwicklung innerhalb von 3 bis 5 Tagen."
+                    },
+                    {
+                        "title": "Nicht nass verschließen und nicht völlig ausgetrocknet kühlen 💧",
+                        "desc": "Eingeschlossene Oberflächenfeuchte führt zu Schimmel, während offene Lagerung das Fleisch austrocknet. Erst im Salzwasser schwimmende Kastanien aussortieren, Schale trocknen und im gelochten Beutel kühlen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bei 0–2 °C lagern zur Kältesaccharifizierung (Verzuckerung) — Süße Kaltlagerung (30–60 Tage) 🌰",
+                        "text": "Bei 0–2 °C und 85–90 % Luftfeuchtigkeit aktiviert sich das Enzym Amylase. Dadurch wird Stärke in Glukose umgewandelt ('Kältesaccharifizierung') und die Süße maximiert. 💡 Lagerungstipp: 1–2 Std. in Salzwasser einlegen, beschädigte Kastanien aussortieren, abtrocknen und im gelochten Beutel bei 0–2 °C aufbewahren."
+                    },
+                    {
+                        "name": "Wurmstichige Kastanien durch Schwimmprobe in Salzwasser aussortieren — Salzwasser-Aussortierung 🧂",
+                        "text": "Im Salzwasser schwimmen hohle oder von Larven befallene Kastanien oben. 💡 Lagerungstipp: Schwimmende Exemplare entsorgen. Gute Kastanien abspülen, im Schatten gut trocknen und danach gekühlt lagern, um Schimmel zu vermeiden."
+                    },
+                    {
+                        "name": "Vor dem Schälen kurz blanchieren/dämpfen und einfrieren — Gefrierlagerung nach Erhitzen (180–360 Tage) 🧊",
+                        "text": "Für eine Lagerung von mehr als einem halben Jahr ist kurzes Ankochen vor dem Einfrieren optimal. 💡 Lagerungstipp: Kastanien 5–10 Min. kochen, abkühlen lassen, Schale entfernen und im Gefrierbeutel bei -18 °C einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum werden Kastanien bei kühler Lagerung (0–2 °C) süßer?",
+                        "answer": "Die Lagerung bei 0–2 °C aktiviert als physiologische Reaktion das Enzym Amylase. Dieses Enzym baut Stärke in Glukose und Zucker um ('Kältesaccharifizierung'), wodurch die Kastanien im Laufe der Wochen deutlich süßer schmecken."
+                    },
+                    {
+                        "question": "Wie kann man Wurmbefall (Kastanienbohrer) bei Esskastanien verhindern?",
+                        "answer": "Legen Sie die Kastanien nach dem Kauf 1–2 Stunden in Salzwasser (1–2 EL Salz pro Liter Wasser). Oben schwimmende Kastanien enthalten Larven und sollten entsorgt werden; die guten Kastanien gut trocknen und bei 0–2 °C kühlen, um das Ausbrüten von Larven zu stoppen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar castanhas frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura de armazenamento, o método de sacarificação por frio e o tempo de conservação das castanhas.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "Você já guardou castanhas frescas em temperatura ambiente e poucos dias depois descobriu que estavam mofadas, murchas ou com lagartas? 🌰\n\nAo contrário de outras oleaginosas ricas em gorduras, a castanha possui cerca de 50% de água e é rica em amido. Armazená-la em temperatura ambiente provoca perda rápida de umidade, encolhimento, proliferação de fungos Penicillium e ativação de larvas do gorgulho.\n\nNeste guia baseado em diretrizes do USDA e da Administração de Desenvolvimento Rural (RDA), apresentamos um método em 3 etapas para evitar o ressecamento e aumentar a doçura através da 'sacarificação por frio'. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca deixe as castanhas em temperatura ambiente ⚠️",
+                        "desc": "As castanhas contêm cerca de 50% de água. Deixá-las acima de 15 °C causa desidratação rápida, mofo Penicillium e infestação de lagartas em apenas 3 a 5 dias."
+                    },
+                    {
+                        "title": "Não guarde molhadas nem totalmente secas e expostas 💧",
+                        "desc": "Guardar castanhas com umidade na casca gera mofo, enquanto deixá-las totalmente secas e expostas encolhe a polpa. Faça o teste da água salgada, seque a casca e guarde em sacos perfurados com papel-toalha."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde entre 0 e 2 °C para promover a sacarificação por frio — Refrigeração doce (30–60 dias) 🌰",
+                        "text": "Manter as castanhas entre 0 e 2 °C com umidade de 85–90% ativa a enzima amilase. Isso transforma o amido em glicose ('sacarificação por frio'), elevando a doçura. 💡 Dica de conservação: Deixe de molho na água salgada por 1–2h, elimine as que flutuarem, seque e guarde a 0–2 °C."
+                    },
+                    {
+                        "name": "Filtre as castanhas estragadas usando imersão em água salgada — Teste da água salgada 🧂",
+                        "text": "Mergulhar as castanhas em água salgada faz as castanhas ocas ou estragadas por insetos flutuarem. 💡 Dica de conservação: Descarte as castanhas que flutuarem. Lave as boas, seque bem à sombra e guarde sob refrigeração."
+                    },
+                    {
+                        "name": "Cozinhe levemente antes de descascar e congelar — Congelamento pós-cozimento (180–360 dias) 🧊",
+                        "text": "Para guardar por mais de 6 meses, pré-cozinhar antes de congelar é a melhor opção. 💡 Dica de conservação: Ferva as castanhas em água por 5 a 10 minutos, espere esfriar, remova a casca e congele em pote hermético a -18 °C."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que as castanhas ficam mais doces quando guardadas no frio (0–2 °C)?",
+                        "answer": "O frio entre 0 e 2 °C ativa a enzima amilase interna da castanha. Essa enzima converte o amido em glicose e açúcares simples através da 'sacarificação por frio', tornando a castanha muito mais adocicada ao longo das semanas."
+                    },
+                    {
+                        "question": "Como posso evitar lagartas (gorgulhos) nas castanhas?",
+                        "answer": "Mergulhe as castanhas em água salgada (1 a 2 colheres de sopa de sal por litro de água) por 1 a 2 horas logo após a compra. As castanhas com larvas vão flutuar e devem ser descartadas; as boas devem ser secas e guardadas entre 0 e 2 °C para inibir ovos de insetos."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kacang Kastanye (Chestnuts) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu penyimpanan, metode sakarifikasi suhu rendah untuk pematangan, dan masa simpan kastanye berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & MFDS & RDA",
+                "intro": "Pernahkah Anda menyimpan kastanye segar pada suhu ruang lalu mendapatinya berjamur putih, mengkerut, atau berulat dalam beberapa hari? 🌰\n\nBerbeda dari jenis kacang-kacangan lain yang kaya lemak, kastanye memiliki kadar air tinggi sekitar 50% dan didominasi oleh pati. Menyimpannya pada suhu ruang menyebabkan penguapan air yang cepat, pembusukan jamur Penicillium, dan aktifnya ulat larva serangga.\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan Badan Pengembangan Pedesaan (RDA), kami membagikan metode penyimpanan 3 langkah untuk mencegah pengerutan, menghentikan jamur, dan meningkatkan rasa manis melalui 'sakarifikasi suhu rendah'. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah membiarkan kastanye di suhu ruang ⚠️",
+                        "desc": "Kastanye mengandung hampir 50% air. Paparan suhu ruang (di atas 15°C) memicu penguapan air yang cepat, pengerutan daging, pembusukan jamur Penicillium, dan kemunculan ulat dalam 3 hingga 5 hari."
+                    },
+                    {
+                        "title": "Jangan menyimpan dalam keadaan basah tertutup atau terlalu kering 💧",
+                        "desc": "Sisa air di permukaan cangkang memicu jamur, sedangkan membiarkannya terbuka di udara membuat dagingnya mengering. Rendam dalam air garam untuk menyaring kastanye busuk, keringkan permukaan cangkang, lalu simpan dalam plastik berlubang."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan pada suhu 0–2°C untuk pematangan sakarifikasi dingin — Simpan Dingin Sakarifikasi (30–60 Hari) 🌰",
+                        "text": "Menyimpan kastanye pada suhu 0–2°C dengan kelembapan 85–90% mengaktifkan enzim amilase. Ini memicu proses 'sakarifikasi dingin' yang mengubah pati menjadi glukosa sehingga rasanya makin manis. 💡 Tips Penyimpanan: Rendam dalam air garam 1–2 jam, buang yang mengapung, keringkan, lalu simpan di kulkas (0–2°C)."
+                    },
+                    {
+                        "name": "Saring kastanye berulat dengan perendaman air garam — Penyeleksian Air Garam 🧂",
+                        "text": "Merendam kastanye di dalam air garam membuat kastanye yang kosong atau berulat mengapung ke permukaan. 💡 Tips Penyimpanan: Buang kastanye yang mengapung. Cuci kastanye yang tenggelam, keringkan anginkan di tempat teduh, lalu simpan di kulkas."
+                    },
+                    {
+                        "name": "Rebus sebentar atau kukus sebelum dikupas dan dibekukan — Pembekuan Rebus (180–360 Hari) 🧊",
+                        "text": "Untuk penyimpanan lebih dari 6 bulan, merebus kastanye sebentar sebelum dibekukan adalah metode terbaik. 💡 Tips Penyimpanan: Rebus kastanye dalam air mendidih selama 5–10 menit, dingin/kupas kulitnya, lalu simpan dalam wadah kedap udara di freezer (-18°C)."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa kastanye menjadi lebih manis saat disimpan pada suhu dingin (0–2°C)?",
+                        "answer": "Penyimpanan pada suhu 0–2°C memicu respons alami yang mengaktifkan enzim amilase di dalam kastanye. Enzim ini mengurai pati menjadi glukosa dan gula sederhana melalui 'sakarifikasi dingin', membuat rasanya jauh lebih manis seiring berjalannya waktu."
+                    },
+                    {
+                        "question": "Bagaimana cara mencegah ulat serangga pada kastanye?",
+                        "answer": "Rendam kastanye dalam air garam (1–2 sendok makan garam per liter air) selama 1–2 jam setelah dibeli. Kastanye yang berulat akan mengapung dan harus dibuang; keringkan kastanye yang tenggelam lalu simpan pada suhu 0–2°C untuk mencegah telur menetas."
+                    }
+                ]
+            }
+        }
+    }
+}

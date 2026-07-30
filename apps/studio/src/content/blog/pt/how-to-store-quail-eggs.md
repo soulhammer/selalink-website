@@ -1,0 +1,128 @@
+---
+layout: "../../../layouts/BlogPostLayout.astro"
+title: "Como conservar ovos de codorna frescos: Guia científico de armazenamento"
+description: "Descubra a temperatura de armazenamento, a posição da ponta arredondada para cima e o tempo de conservação dos ovos de codorna."
+pubDate: "2026-04-28"
+updatedDate: "2026-04-28"
+category: "FreshSnap"
+heroImage: "/images/blog/quail_eggs_storage_hack.webp"
+app: "freshsnap"
+formatVersion: 4
+authority: "USDA & MFDS & KAPE"
+steps:
+  - name: "Guarde na geladeira com a ponta arredondada (câmara de ar) para cima — Refrigeração a 1–4 °C (21 dias) 🥚"
+    text: "Como perdem água rapidamente, a temperatura de 1–4 °C é fundamental. 💡 Dica de conservação: Mantenha na embalagem original com a parte larga para cima nas prateleiras internas da geladeira por 3 semanas."
+  - name: "Guarde nas prateleiras internas e não na porta da geladeira — Controle térmico ❄️"
+    text: "A oscilação de temperatura na porta acelera a perda de CO2 pela casca fina. 💡 Dica de conservação: Coloque em uma prateleira funda da geladeira onde a temperatura seja estável."
+  - name: "Conserve ovos cozidos em potes herméticos — Ovos cozidos (3–7 dias) 🍲"
+    text: "Ovos de codorna cozidos e descascados estragam fácil. 💡 Dica de conservação: Com casca duram até 7 dias na geladeira; descascados em água fria devem ser consumidos em 3 a 5 dias."
+faqs:
+  - question: "Por que os ovos de codorna duram menos que os de galinha?"
+    answer: "Os ovos de codorna são pequenos e possuem casca e cutícula muito finas. A umidade e o dióxido de carbono evaporam mais que o dobro da velocidade, tornando-os vulneráveis a bactérias e limitando a durabilidade na geladeira a cerca de 3 semanas."
+  - question: "Qual é a explicação científica para deixar o lado arredondado para cima?"
+    answer: "A câmara de ar fica no lado arredondado. Deixar esse lado para cima impede que a gema flutuante pressione diretamente a membrana interna da casca, mantendo a gema centralizada e intacta."
+---
+
+Você já guardou ovos de codorna na geladeira e percebeu que eles ressecaram ou estragaram mais rápido do que o esperado? 🥚
+
+Os ovos de codorna têm casca e cutícula significativamente mais finas do que os ovos de galinha. Isso faz com que a água e o gás carbônico se evaporem duas vezes mais rápido, tornando-os mais vulneráveis a bactérias como a Salmonella.
+
+Neste guia baseado em diretrizes do USDA e do MFDS, apresentamos um método em 3 etapas para manter os ovos de codorna frescos e nutritivos. 🛡️
+
+<div class="my-8 p-6 md:p-7 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-transparent dark:border-emerald-500/30 dark:from-emerald-950/30 dark:to-slate-900/40 flex items-start sm:items-center gap-4 shadow-xs backdrop-blur-md">
+  <div class="flex-shrink-0 w-11 h-11 rounded-2xl bg-white/80 dark:bg-slate-800/80 border border-slate-200/50 dark:border-white/10 flex items-center justify-center text-2xl shadow-xs">
+    🛡️
+  </div>
+  <div class="flex-1 min-w-0">
+    <h5 class="text-sm md:text-base text-emerald-900 dark:text-emerald-200 font-extrabold m-0 tracking-tight">
+      Segurança Alimentar e Evidência Científica
+    </h5>
+    <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
+      Este conteúdo baseia-se em USDA & MFDS & KAPE.
+    </p>
+  </div>
+</div>
+
+---
+
+## 1. Guia de armazenamento comprovado cientificamente
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde na geladeira com a ponta arredondada (câmara de ar) para cima — Refrigeração a 1–4 °C (21 dias) 🥚</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Como perdem água rapidamente, a temperatura de 1–4 °C é fundamental. 💡 Dica de conservação: Mantenha na embalagem original com a parte larga para cima nas prateleiras internas da geladeira por 3 semanas.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 2</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde nas prateleiras internas e não na porta da geladeira — Controle térmico ❄️</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    A oscilação de temperatura na porta acelera a perda de CO2 pela casca fina. 💡 Dica de conservação: Coloque em uma prateleira funda da geladeira onde a temperatura seja estável.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
+  <div class="flex flex-wrap items-center gap-3 mb-4">
+    <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 3</span>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserve ovos cozidos em potes herméticos — Ovos cozidos (3–7 dias) 🍲</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
+    Ovos de codorna cozidos e descascados estragam fácil. 💡 Dica de conservação: Com casca duram até 7 dias na geladeira; descascados em água fria devem ser consumidos em 3 a 5 dias.
+  </p>
+</div>
+
+---
+
+## 2. Regras essenciais e precauções no armazenamento
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Não guarde os ovos com a ponta fina para cima ⚠️</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      A câmara de ar fica na extremidade arredondada (mais larga). Guardar com a ponta para cima faz a gema flutuar contra a câmara de ar, rompendo a membrana da gema e aumentando o risco de contaminação.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 md:p-6 rounded-r-2xl rounded-l-md border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 bg-amber-500/[0.06] dark:bg-amber-500/10 border-amber-500/30 flex items-start gap-4 shadow-xs backdrop-blur-xs">
+  <span class="text-xl md:text-2xl flex-shrink-0 mt-0.5">⚠️</span>
+  <div class="flex-1 min-w-0">
+    <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Não lave os ovos de codorna antes de refrigerar 💧</strong>
+    <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
+      Lavar os ovos dissolve a cutícula — a película protetora natural contra micróbios. Isso expõe os poros da casca para a entrada de bactérias.
+    </p>
+  </div>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/60 dark:border-white/10 dark:bg-slate-900/40 shadow-sm backdrop-blur-md">
+  <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
+    <span>📌</span> Preguntas Frecuentes (FAQ)
+  </h3>
+  
+  <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
+      <span class="pr-4">Por que os ovos de codorna duram menos que os de galinha?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      Os ovos de codorna são pequenos e possuem casca e cutícula muito finas. A umidade e o dióxido de carbono evaporam mais que o dobro da velocidade, tornando-os vulneráveis a bactérias e limitando a durabilidade na geladeira a cerca de 3 semanas.
+    </p>
+  </details>
+
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
+      <span class="pr-4">Qual é a explicação científica para deixar o lado arredondado para cima?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
+    </summary>
+    <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
+      A câmara de ar fica no lado arredondado. Deixar esse lado para cima impede que a gema flutuante pressione diretamente a membrana interna da casca, mantendo a gema centralizada e intacta.
+    </p>
+  </details>
+</div>

@@ -8,16 +8,16 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const ingredientTargetsWithDates = [
-  { slug: 'how-to-store-walnut', date: '2026-01-12' },
-  { slug: 'how-to-store-cilantro', date: '2026-02-02' },
-  { slug: 'how-to-store-mussel', date: '2026-02-23' },
-  { slug: 'how-to-store-shallot', date: '2026-03-16' },
-  { slug: 'how-to-store-miso', date: '2026-04-06' },
-  { slug: 'how-to-store-tahini', date: '2026-04-27' },
-  { slug: 'how-to-store-salami', date: '2026-05-18' },
-  { slug: 'how-to-store-balsamic-vinegar', date: '2026-06-08' },
-  { slug: 'how-to-store-persimmon', date: '2026-06-29' },
-  { slug: 'how-to-store-buckwheat', date: '2026-07-20' }
+  { slug: 'how-to-store-fresh-basil', date: '2026-01-15' },
+  { slug: 'how-to-store-green-beans', date: '2026-02-05' },
+  { slug: 'how-to-store-leek', date: '2026-02-24' },
+  { slug: 'how-to-store-apple-cider-vinegar', date: '2026-03-17' },
+  { slug: 'how-to-store-sunflower-seeds', date: '2026-04-07' },
+  { slug: 'how-to-store-quail-eggs', date: '2026-04-28' },
+  { slug: 'how-to-store-chestnuts', date: '2026-05-19' },
+  { slug: 'how-to-store-coconut-water', date: '2026-06-09' },
+  { slug: 'how-to-store-mascarpone-cheese', date: '2026-06-30' },
+  { slug: 'how-to-store-edamame', date: '2026-07-21' }
 ];
 
 console.log('🗓️ 새로 생성된 10개 식재료 블로그 날짜 분산 작업 시작 (2026년 1월 ~ 7월)...');
