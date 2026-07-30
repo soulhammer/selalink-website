@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Ripen whole melons at cool room temperature (18–22°C) — Room Temp Ripening (2–5 Days) 🧺"
     text: "Keep uncut melons in a cool room away from direct sunlight. 💡 Storage Tip: A melon is ripe when the blossom end yields slightly to gentle pressure and gives off a sweet fragrance. Chill in the fridge for 2–3 hours before serving for optimal sweetness."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step melon storage guide bas
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "密閉容器に移し替えて空気を最小限に抑える — 二次汚染の防止 📦"
     text: "ガラス瓶や缶に残ったソースをそのままにしておくと、フタの隙間から空気が入り込み、汚染リスクが高まります。💡保存のコツ：清潔で乾燥した密閉容器（ガラスまたはプラスチック）に残りのソースを移し替え、フタをしっかり閉めてください。空気に触れる面積を減らすことで鮮度が長持ちします。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

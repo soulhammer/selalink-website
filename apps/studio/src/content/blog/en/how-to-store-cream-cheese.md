@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Wrap tightly with plastic wrap after opening — Block Air & Prevent Mold 📦"
     text: "Exposing cream cheese to air dries out its surface and accelerates mold growth. 💡 Storage Tip: After opening, press food-grade plastic wrap directly onto the cut surface without leaving air bubbles."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

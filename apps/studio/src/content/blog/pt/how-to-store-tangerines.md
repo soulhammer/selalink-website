@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tangerine_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Lave em água salgada e seque completamente — Remoção de esporos & Secagem 💧"
     text: "Lavar os esporos de mofo da casca aumenta significativamente o tempo de conservação. 💡 Dica de conservação: Deixe as tangerinas de molho em água com um pouco de sal ou bicarbonato por 1 a 2 minutos e seque cada uma com papel-toalha."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

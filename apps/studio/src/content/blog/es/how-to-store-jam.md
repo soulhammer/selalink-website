@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde los frascos cerrados en una despensa fresca y oscura — Temperatura ambiente (1 año) 📦"
     text: "Los frascos cerrados al vacío se conservan a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde los frascos en una despensa fresca (15-20 °C) lejos del fuego y la luz solar. Se mantendrán frescos hasta por 1 año sin abrir."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

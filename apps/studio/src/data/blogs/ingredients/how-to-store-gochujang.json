@@ -8,7 +8,7 @@
             "ko": {
                 "title": "고추장 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 고추장의 개봉 후 최적 보관 온도, 곰팡이 방지법 및 소비기한 관리 가이드를 확인하세요.",
-                "authority": "<strong>식품의약품안전처(MFDS) & 한국식품연구원(KFRI)</strong>",
+                "authority": "식품의약품안전처(MFDS) & 한국식품연구원(KFRI)",
                 "intro": "비빔밥, 떡볶이, 제육볶음 등 한국 요리의 깊은 감칠맛과 매콤함을 책임지는 전통 발효 양념 고추장! 🌶️\n\n대용량 고추장을 사와 개봉한 후 찬장이나 씽크대에 오래 두었다가 겉면에 흰색 막이 생기거나 딱딱하게 굳어 버린 경험 다들 있으시죠?\n\n고추장은 염도가 높은 전통 발효 식품이지만, 일단 개봉하면 외부 공기(산소)와 미생물에 노출되어 산막효모(골지)나 곰팡이가 생기기 쉽고 수분이 날아가 맛과 색이 변질됩니다. 이번 가이드에서는 식품 안전 전문 기관의 검증된 원리를 바탕으로, 개봉 후 고추장을 마지막 한 숟가락까지 깔끔하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "고추장의 발효 생리적 특성과 미생물 증식 원리를 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 위생 관리와 풍미 유지를 위해 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Gochujang Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, mold prevention techniques, and shelf life for Gochujang (Korean Chili Paste) based on official safety guidelines.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "Gochujang (Korean chili paste) brings a deep savory flavor and spicy richness to bibimbap, tteokbokki, and marinades. But have you ever opened a large tub, stored it in the cupboard, and later found a white film on top or the paste hardened? 🌶️\n\nAlthough Gochujang is a traditionally fermented food with high salt content, opening the container exposes it to oxygen and airborne microorganisms, leading to white film yeast, mold growth, and moisture loss. In this guide, introduces a scientifically proven 3-step storage guide based on guidelines from food safety authorities to keep your Gochujang fresh until the very last spoonful. 🛡️",
                 "whyTitle": "Why Store Gochujang This Way? Scientific Facts",
                 "whyDesc": "Understanding the fermented physiology and microbial growth characteristics of Gochujang is essential for maintaining hygiene and flavor quality.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "コチュジャンを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくコチュジャンの開封後の最適保存温度、カビ防止法、消費期限管理法をご確認ください。",
-                "authority": "<strong>食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)</strong>",
+                "authority": "食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)",
                 "intro": "ビビンバ、トッポッキ、タッカルビなど韓国料理の旨味と辛味の決め手となる伝統発酵調味料コチュジャン！🌶️\n\n大容量のコチュジャンを購入して開封後、シンク下や棚に放置していたら表面に白い膜が張ったりカビが生えたりした経験はありませんか？\n\nコチュジャンは塩分濃度が高い発酵食品ですが、開封すると空気中の酸素や雑菌に触れ、産膜酵母（白い膜）やカビが発生しやすくなります。本記事では、食品安全機関の検証済み原理に基づき、コチュジャンを最後まで美味しく衛生的に保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "コチュジャンの発酵特性と微生物の増殖メカニズムを理解し、適切な保存法を実践することは風味の維持と hygenic な管理に不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保存韩式辣酱（Gochujang）：科学储存指南",
                 "description": "根据官方食品安全指南，了解韩式辣酱开封后的最佳储存温度、防霉技巧及保质期管理。",
-                "authority": "<strong>韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)</strong>",
+                "authority": "韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)",
                 "intro": "无论是拌饭、炒年糕还是辣炒猪肉，韩式辣酱（Gochujang）都是带来醇厚鲜辣风味的灵魂调料！🌶️\n\n您是否买过大盒辣酱，开封后放在橱柜里，没过多久表面就长出一层白膜或硬化变干？\n\n虽然韩式辣酱是高盐度的传统发酵食品，但开封后一旦接触空气中的氧气与微生物，极易滋生产膜酵母（白膜）或霉菌，水分蒸发也会影响口感与颜色。本指南基于权威机构验证的原理，带您掌握3步科学保鲜法，让辣酱吃到最后一勺都干净新鲜。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解韩式辣酱的发酵生理特性与微生物繁殖原理，对于保持食品卫生与风味至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el Gochujang fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura de almacenamiento, técnicas antimohos y tiempo de conservación del Gochujang (pasta de chile coreana) según directrices oficiales.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "El Gochujang (pasta de chile coreana) aporta un profundo sabor umami y picante al bibimbap, tteokbokki y marinados. ¿Pero alguna vez abrió un envase grande, lo guardó en la alacena y días después encontró una capa blanca en la superficie o la pasta endurecida? 🌶️\n\nAunque es un alimento fermentado con alto contenido de sal, al abrirlo queda expuesto al oxígeno y microorganismos, lo que genera levadura de película blanca, mohos y pérdida de humedad. En esta guía se presenta una guía en 3 pasos respaldada por autoridades sanitarias para mantener su Gochujang perfecto hasta la última cucharada. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender la fisiología fermentativa del Gochujang y los factores de proliferación microbiana es esencial para mantener la higiene y calidad.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le Gochujang frais : Guide scientifique de conservation",
                 "description": "Découvrez la température de stockage optimale, les techniques anti-moisissure et la durée de conservation du Gochujang selon les directives officielles.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "Le Gochujang (pâte de piment coréenne) apporte une saveur umami profonde et pimentée au bibimbap, tteokbokki et marinades. Mais avez-vous déjà ouvert un grand pot, l'avez laissé dans le placard, pour y découvrir plus tard un voile blanc ou une pâte durcie ? 🌶️\n\nBien qu'il s'agisse d'un produit fermenté salé, l'ouverture l'expose à l'oxygène et aux micro-organismes, favorisant l'apparition de levures de surface, de moisissures et le dessèchement. Dans ce guide, vous présente un guide de conservation en 3 étapes pour préserver votre Gochujang jusqu'à la dernière cuillère. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques de fermentation du Gochujang et la prolifération microbienne est essentiel pour maintenir l'hygiène et la qualité gustative.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Gochujang richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Schimmelprävention und Haltbarkeit für Gochujang (Koreanische Chilipaste) basierend auf offiziellen Richtlinien.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "Gochujang (koreanische Chilipaste) verleiht Bibimbap, Tteokbokki und Marinaden eine tiefe Würze und scharfe Note. Doch haben Sie schon einmal eine große Dose geöffnet, im Schrank gelagert und später einen weißen Film oder eine verhärtete Paste vorgefunden? 🌶️\n\nObwohl Gochujang ein traditionell fermentiertes Produkt mit hohem Salzgehalt ist, führt der Kontakt mit Sauerstoff nach dem Öffnen zu wilden Hefen (Weißfilm), Schimmel und Austrocknung. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Ihre Chilipaste bis zum letzten Löffel frisch zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Fermentationsphysiologie von Gochujang und des mikrobiellen Wachstums ist entscheidend für Hygiene und Geschmackserhalt.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar Gochujang fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura de armazenamento, técnicas anti-mofo e tempo de conservação do Gochujang (pasta de pimenta coreana) com base em diretrizes oficiais.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "O Gochujang (pasta de pimenta coreana) dá um sabor umami profundo e picante ao bibimbap, tteokbokki e marinadas. Mas você já abriu um pote grande, guardou no armário e depois encontrou uma película branca na superfície ou a pasta endurecida? 🌶️\n\nEmbora seja um alimento fermentado com alto teor de sal, após aberto fica exposto ao oxigênio e micro-organismos, gerando leveduras de película branca, mofo e ressecamento. Neste guia, apresentamos um guia de armazenamento em 3 etapas para manter seu Gochujang perfeito até a última colherada. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a fisiologia de fermentação do Gochujang e a proliferação microbiana é essencial para manter a higiene e qualidade do sabor.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Gochujang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal, teknik pencegahan jamur, dan masa simpan Gochujang (Pasta Cabai Korea) berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>MFDS & KFRI & USDA</strong>",
+                "authority": "MFDS & KFRI & USDA",
                 "intro": "Gochujang (pasta cabai Korea) memberikan rasa gurih umami yang kaya dan pedas pada bibimbap, tteokbokki, serta marinasi daging. Namun, pernahkah Anda membuka kemasan besar, menyimpannya di lemari, lalu menemukan lapisan putih di atasnya atau teksturnya mengeras? 🌶️\n\nMeskipun merupakan makanan fermentasi tinggi garam, begitu dibuka, Gochujang terpapar oksigen dan mikroorganisme yang memicu lapisan ragi putih, jamur, serta penguapan air. Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga Gochujang Anda tetap segar hingga sendok terakhir. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fermentasi Gochujang dan pertumbuhan mikroba sangat penting untuk menjaga kebersihan dan kualitas rasa.",

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bacon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Luftdicht verpacken und kühlen — Nach dem Öffnen gekühlt (7 Tage) 📦"
     text: "Der Schlüssel zur Lagerung von geöffnetem Bacon im Kühlschrank ist der vollständige Ausschluss von Sauerstoff. 💡 Lagerungstipp: Wickeln Sie den Bacon eng in Frischhaltefolie, geben Sie ihn in einen Ziploc-Beutel und lagern Sie ihn bei 0–4 °C auf einem kühlen Regal. Innerhalb von 7 Tagen verbrauchen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

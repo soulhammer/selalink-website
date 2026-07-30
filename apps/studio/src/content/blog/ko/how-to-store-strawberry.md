@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "씻지 않고 꼭지를 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓"
     text: "딸기는 씻어서 꼭지를 떼면 과실 상단에 미세한 상처가 생깁니다. 💡 보관 팁: 상처 난 단면으로 삼투압 현상이 일어나 물을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 곰팡이 번식의 주원인이 되므로 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼지 마세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

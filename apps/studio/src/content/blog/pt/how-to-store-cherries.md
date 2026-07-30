@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cherry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Separe cerejas machucadas e mantenha os talos — Seleção e proteção 📦"
     text: "Frutas machucadas estragam rapidamente as que estão sadias. 💡 Dica de conservação: Separe as cerejas danificadas para comer primeiro e guarde apenas as frutas firmes e secas com talo."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Trockenen, ungewaschenen Spinat in Zeitung oder Küchenpapier wickeln — Feuchtigkeitskontrolle 📦"
     text: "Spinatblätter verfaulen bei direktem Kontakt mit freiem Wasser rasch. 💡 Lagerungstipp: Belassen Sie die Erde am Spinat und wickeln Sie ihn locker in Küchenpapier oder Zeitungspapier. Das Papier absorbiert Kondenswasser und hält die Blätter trocken."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & EFSA & FSA</strong>.
+      Dieser Inhalt basiert auf RDA & EFSA & FSA.
     </p>
   </div>
 </div>

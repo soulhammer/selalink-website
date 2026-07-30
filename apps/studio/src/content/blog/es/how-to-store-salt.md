@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Guarde en recipientes herméticos no metálicos (Vidrio, Cerámica, Plástico) — Sellado y Anticorrosión 📦"
     text: "Las tapas o recipientes metálicos reaccionan con la sal produciendo óxido y contaminación. 💡 Consejo de almacenamiento: Use frascos de vidrio, recipientes de cerámica o plástico hermético para proteger la sal de la humedad del aire y prevenir el óxido."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía en 3 pasos respaldada por expertos en seguri
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "배 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 배의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "아삭하고 시원한 즙이 가득한 배를 구매한 뒤 냉장고에 그대로 두었다가 금세 바람이 들거나 수분이 날아가 푸석해진 경험이 있으신가요? 🍐\n\n배는 수분 함량이 85% 이상으로 높아 상온이나 건조한 환경에 노출되면 빠르게 수분을 잃고 식감이 변하는 과일입니다. 특히 사과나 바나나처럼 에틸렌 가스를 많이 방출하는 식재료와 함께 두면 순식간에 물러지고 무를 수 있어 특별한 주의가 필요합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문 기관의 검증된 연구 결과를 바탕으로, 배의 시원하고 아삭한 식감과 단맛을 1~2개월 동안 오랫동안 유지할 수 있는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Pears Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for pears based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever bought juicy, crisp pears only to find them dry and mealy inside after storing them in the fridge? 🍐\n\nPears consist of over 85% water, making them highly susceptible to moisture loss and texture changes when exposed to ambient room air or dry environments. Furthermore, because pears are exceptionally sensitive to ethylene gas emitted by fruits like apples and bananas, improper storage leads to rapid softening and decay.\n\nIn this guide, introduces a scientifically proven 3-step pear storage guide recommended by agriculture and food safety experts to keep your pears crisp, sweet, and juicy for 1 to 2 months. 🛡️",
                 "whyTitle": "Why Store Pears This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "梨を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく梨の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "ジューシーでシャキシャキとした梨を買ってきたものの、冷蔵庫に入れておいたらすぐに水分が抜けてパサパサになってしまった経験はありませんか？🍐\n\n梨は水分含有量が85%以上と非常に高いため、常温や乾燥した環境にさらされると急速に水分を失い、食感が変化してしまいます。特にリンゴやバナナのようにエチレンガスを多く放出する食材と一緒に保存すると、あっという間に柔らかくなり傷んでしまうため特別な注意が必要です。\n\n本記事では、農学および食品安全機関の研究に基づき、梨のシャキシャキとした食感と甘みを1〜2ヶ月間長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持梨新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解梨的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否买过鲜嫩多汁、口感爽脆的梨，但放入冰箱一段时间后却发现水分流失、果肉变干变绵？🍐\n\n梨的水分含量高达85%以上，暴露在常温或干燥环境中会迅速失去水分，导致口感变差。特别是梨对苹果、香蕉等水果释放的乙烯气体极其敏感，如果混放储存会导致梨迅速变软腐烂。\n\n本指南基于农业及食品安全权威机构的研究成果，为您带来3步科学保鲜秘诀，帮您将梨的清甜爽脆口感延长至1~2个月。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener las peras frescas: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las peras según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez compró peras jugosas y crujientes, solo para descubrir que tras unos días en el refrigerador se volvieron secas y harinosas? 🍐\n\nLas peras contienen más de un 85 % de agua, lo que las hace muy susceptibles a la pérdida de humedad y a cambios de textura si se exponen al aire ambiente o a entornos secos. Además, al ser extremadamente sensibles al gas etileno que emiten frutas como manzanas o plátanos, un almacenamiento inadecuado provoca un ablandamiento y deterioro acelerados.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener sus peras crujientes, dulces y jugosas de 1 a 2 meses. 🛡️",
                 "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les poires fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les poires selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà acheté des poires bien juteuses et croquantes, pour constater après quelques jours au réfrigérateur qu'elles étaient devenues sèches et cotonneuses ? 🍐\n\nLes poires contiennent plus de 85 % d'eau, ce qui les rend particulièrement vulnérables à la déshydratation et aux altérations de texture. De plus, les poires étant extrêmement sensibles au gaz éthylène libéré par les pommes ou les bananes, une mauvaise conservation entraîne un ramollissement et un pourrissement très rapides.\n\nDans ce guide, vous présente un guide de conservation en 3 étapes basé sur des travaux scientifiques pour préserver le croquant, la douceur et le jus de vos poires pendant 1 à 2 mois. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Birnen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Birnen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie schon einmal saftige, knackige Birnen gekauft, nur um festzustellen, dass sie im Kühlschrank nach einigen Tagen mehlig und trocken wurden? 🍐\n\nBirnen bestehen zu über 85 % aus Wasser und verlieren an Raumluft oder in trockener Umgebung schnell Feuchtigkeit und Struktur. Da Birnen extrem empfindlich auf Ethylengas reagieren, das von Äpfeln oder Bananen abgegeben wird, führt eine falsche Lagerung zu raschem Weichwerden und Verderb.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Ihre Birnen 1 bis 2 Monate lang knackig, süß und saftig zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar peras frescas: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para peras com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já comprou peras suculentas e crocantes e percebeu que, após alguns dias na geladeira, elas ficaram secas e farinhentas? 🍐\n\nAs peras são compostas por mais de 85% de água, o que as torna muito suscetíveis à perda de umidade e alterações na textura. Além disso, por serem extremamente sensíveis ao gás etileno liberado por frutas como maçãs e bananas, o armazenamento incorreto acelera a deterioração e o amolecimento.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas científicas para manter suas peras crocantes, doces e suculentas por 1 a 2 meses. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Buah Pir agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah pir berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membeli buah pir yang manis dan renyah, tetapi setelah disimpan di kulkas beberapa hari daging buahnya menjadi kering dan empuk bertepung? 🍐\n\nBuah pir memiliki kadar air lebih dari 85%, menjadikannya sangat rentan terhadap kehilangan kelembapan dan perubahan tekstur jika terpapar udara luar atau lingkungan kering. Selain itu, buah pir sangat sensitif terhadap gas etilen yang dipancarkan oleh buah seperti apel dan pisang, sehingga penyimpanan yang salah dapat mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan buah pir 3 langkah berbasis ilmiah untuk menjaga tekstur renyah, manis, dan kesegarannya hingga 1–2 bulan. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

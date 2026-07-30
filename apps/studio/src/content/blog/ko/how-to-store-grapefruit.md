@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
-  - name: "신문지나 키친타올로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️"
-    text: "자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타올로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요."
+  - name: "신문지나 키친타월로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️"
+    text: "자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타월로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요."
   - name: "10 ~ 12℃ 서늘한 암소 보관하기 — 적정 저온 보관 (1 ~ 2주 상온 / 3 ~ 4주 적정 저온) 🌡️"
     text: "냉해를 방지하면서 신선도를 극대화하는 최적의 온도입니다. 💡 보관 팁: 베란다, 다용도실, 와인 셀러 등 10 ~ 12℃의 서늘하고 통풍이 잘되는 어두운 장소에 보관하세요. 이 환경에서는 3 ~ 4주간 아삭함과 즙을 유지할 수 있습니다."
   - name: "가정용 냉장고(0 ~ 4℃) 보관 시 10일 이내 단기 소비하기 — 냉해 방지 ❄️"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">신문지나 키친타올로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">신문지나 키친타월로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타올로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요.
+    자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타월로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">비닐봉지에 밀폐하여 둔 채 상온에 두지 마세요 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      자몽은 자체 수분 증산 작용을 합니다. 비닐봉지 안쪽에 습도가 갇히면 표면이 짓무르고 곰팡이가 피기 쉬우므로 신문지나 키친타올로 감싸 통풍이 잘되게 보관해야 합니다.
+      자몽은 자체 수분 증산 작용을 합니다. 비닐봉지 안쪽에 습도가 갇히면 표면이 짓무르고 곰팡이가 피기 쉬우므로 신문지나 키친타월로 감싸 통풍이 잘되게 보관해야 합니다.
     </p>
   </div>
 </div>

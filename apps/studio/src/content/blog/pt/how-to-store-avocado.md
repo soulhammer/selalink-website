@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Guarde em um saco de papel em temperatura ambiente antes de maduro — Temp. Ambiente (5 dias) 🥑"
     text: "Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C) para amadurecerem normalmente. 💡 Dica de conservação: Coloque os abacates em um saco de papel junto com uma maçã ou banana. O gás etileno liberado por essas frutas se concentra no saco, acelerando e estabilizando o amadurecimento."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação científico em 3 etapas basead
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>CAC & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em CAC & USDA & MFDS.
     </p>
   </div>
 </div>

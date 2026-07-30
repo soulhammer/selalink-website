@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 플라스틱 비닐 포장지 제거하기 — 혐기 환경 탈피 📦"
     text: "시판용 비닐 랩이나 꽉 막힌 플라스틱 비닐은 치즈의 가스 교환을 막아 수분을 가두고 곰팡이를 번식시킵니다. 💡 보관 팁: 구매 후 개봉한 치즈는 답답한 비닐 포장지를 완벽히 제거해 주는 것이 과학적 보관의 첫 단계입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

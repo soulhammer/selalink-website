@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Conserver en grains entiers dans des bocaux hermétiques — Conservation de l'arôme & anti-oxydation 📦"
     text: "Dès que le poivre est moulu, ses huiles volatiles s'oxydent vite au contact de l'air. 💡 Astuce de conservation : Achetez du poivre en grains et moulez-le au dernier moment pour préserver pleinement ses arômes."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour garder vot
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS.
     </p>
   </div>
 </div>

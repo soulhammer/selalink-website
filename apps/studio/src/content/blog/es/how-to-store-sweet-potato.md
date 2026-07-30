@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Extienda sobre papel periódico al comprar para secar — Eliminación de humedad 📦"
     text: "La humedad en la superficie es la causa principal del moho. 💡 Consejo de almacenamiento: Saque las batatas de la caja y extiéndalas sobre papel periódico en un lugar fresco y ventilado durante un día sin que se encimen para secar la humedad."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de batatas en 3 pasos respa
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

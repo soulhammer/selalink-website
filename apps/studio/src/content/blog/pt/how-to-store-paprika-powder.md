@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Guarde em latas metálicas ou frascos de vidro escuro — Proteção Anti-Fotoxidação 📦"
     text: "Evitar a degradação da capsantina pela luz e pelo ar é essencial. 💡 Dica de conservação: Guarde a páprica em latas metálicas herméticas ou potes de vidro âmbar. Potes transparentes permitem que a luz desbote a cor e traga gosto amargo."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & FDA & MFDS.
     </p>
   </div>
 </div>

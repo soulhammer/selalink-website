@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Gantung Pisang di Gantungan — Penyimpanan Suhu Ruang (7 Hari) 🍌"
     text: "Meletakkan pisang langsung di atas permukaan datar akan membuat buah bagian bawah memar akibat beratnya sendiri. Bagian memar mempercepat pelepasan gas etilen dan pembusukan. 💡 Tips Penyimpanan: Gantung pisang pada gantungan khusus. Cara ini meniru lingkungan tumbuh alaminya, menjaga buah tetap kokoh dan bebas memar lebih lama."
@@ -34,7 +34,7 @@ Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & WHO</strong>.
+      Konten ini didasarkan pada USDA & WHO.
     </p>
   </div>
 </div>

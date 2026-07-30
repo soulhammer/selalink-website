@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)"
 steps:
   - name: "냉장고 문 쪽이 아닌 안쪽 깊숙한 선반 보관하기 — 저온 신선 보관 (7일) ❄️"
     text: "냉장고 문 포켓은 열고 닫을 때마다 실온 노출로 온도 변화가 극심합니다. 💡 보관 팁: 우유의 신선도를 지키려면 외부 공기 노출이 적고 온도가 0 ~ 4℃로 항상 일정하게 유지되는 냉장고 본체 중앙 깊은 선반 안쪽에 보관해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

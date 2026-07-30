@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Simpan di dapur sebelum dibuka, segera masukkan kulkas setelah dibuka — Simpan Dingin (180 Hari) ❄️"
     text: "Sebelum dibuka, saus tomat dapat disimpan di tempat sejuk. Namun setelah dibuka, paparan oksigen mempercepat oksidasi dan perubahan warna. 💡 Tips Penyimpanan: Selalu simpan saus tomat yang sudah dibuka di kulkas dan habiskan dalam waktu 6 bulan (180 hari)."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

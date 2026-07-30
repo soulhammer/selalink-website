@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Taburkan gula dan tisu dapur di dasar wadah untuk bawang putih kupas — Simpan Dingin (14–21 Hari) 🪙"
     text: "Bawang putih kupas cepat membusuk jika terkena kelembapan. 💡 Tips Penyimpanan: Taburkan gula setebal 1 cm di dasar wadah kedap udara, lapisi dengan 2–3 lembar tisu dapur, lalu masukkan bawang putih kupas. Gula bertindak sebagai penyerap kelembapan alami agar bawang putih tetap kering."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & MFDS & USDA</strong>.
+      Konten ini didasarkan pada RDA & MFDS & USDA.
     </p>
   </div>
 </div>

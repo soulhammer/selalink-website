@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Faire mûrir les melons entiers à température ambiante fraîche (18–22 °C) — Mûrissage ambiant (2–5 jours) 🧺"
     text: "Conservez le melon entier dans un endroit frais à l'abri du soleil. 💡 Astuce de conservation : Le melon est mûr lorsque le pédoncule cède sous une légère pression et qu'une douce odeur s'en dégage. Mettez-le au frais 2 à 3 heures avant de servir."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation en 3 étapes basé sur le
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

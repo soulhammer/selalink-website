@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "殻付き牡蠣は濡れタオルをかけて保存する — 生存環境の維持 🦪"
     text: "殻付きの生牡蠣は生存状態を維持することが鮮度の鍵です。💡保存のコツ：洗っていない殻付き牡蠣を深めの容器に並べ、塩水で湿らせた濡れタオルやキッチンペーパーを被せて冷蔵室（1〜4℃）に置きます。約2〜3日間生き生きと新鮮に保てます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

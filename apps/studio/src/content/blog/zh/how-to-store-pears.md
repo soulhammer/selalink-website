@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用报纸或厨房纸巾单颗包裹，再用保鲜膜密封 — 锁水防干包裹 📦"
     text: "不沾水逐个包裹是延长保鲜期的核心。💡储存小贴士：将未清洗的梨先用报纸或厨房纸巾包裹一层以调节湿度，再用食品级保鲜膜将每颗梨紧密无缝包裹。纸张吸收多余湿气，保鲜膜阻断水分蒸发，可长久保持爽脆。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

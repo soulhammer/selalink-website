@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Remova a embalagem plástica justa — Evite o acúmulo anaeróbico 📦"
     text: "O filme plástico sufoca o queijo, prendendo a umidade e os gases que aceleram a deterioração. 💡 Dica de conservação: Remover a embalagem plástica original após a abertura é o primeiro passo para uma boa conservação."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FSA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FSA & MFDS.
     </p>
   </div>
 </div>

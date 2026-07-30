@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/corn_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Mit Lieschblättern gekühlt aufbewahren — Kurzeitige Kühllagerung (2–3 Tage) 📦"
     text: "Die äußeren Hüllblätter schützen den Mais von Natur aus vor dem Austrocknen. 💡 Lagerungstipp: Belassen Sie 1–2 Schichten der inneren Blätter am Kolben, verpacken Sie ihn in Plastikbeuteln und legen Sie ihn ins Gemüsefach (0–2 °C). Das verlangsamt den Zuckerabbau für 2 bis 3 Tage."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexpe
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

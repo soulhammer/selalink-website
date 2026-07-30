@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & CDC"
 steps:
   - name: "完熟前は必ず常温の日陰で追熟させる — 常温保存 (5〜7日) 🌿"
     text: "青みが残るトマトは15〜20℃の涼しい常温で直射日光の当たらない日陰に置きます。💡保存のコツ：ヘタを取り除き、固い肩部分（ヘタのあった側）を下にして平らな場所に置くと、重みが分散して下部がつぶれるのを防げます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & CDC</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & CDCに基づいています。
     </p>
   </div>
 </div>

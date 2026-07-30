@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Conserve los frascos cerrados en un lugar fresco y oscuro — Despensa (más de 1 año) 🏺"
     text: "El jarabe de arce sin abrir ha sido pasteurizado con calor, siendo muy estable a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde las botellas cerradas en una despensa fresca y seca (10–20 °C) lejos de la luz solar. Conserva su sabor hasta la fecha de caducidad."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & CFIA & MFDS & RDA</strong>.
+      Este contenido se basa en USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

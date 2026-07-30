@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "ワックスペーパーやポリ袋で1本ずつ包む — 空気接触と乾燥の防止 📜"
     text: "バニラビーンズをワックスペーパー（Wax Paper）や食品用ポリ袋で優しく包み、摩擦を減らして水分蒸発を一次的に防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">バニラビーンズを絶対に冷蔵庫や冷凍庫に入れないでください ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      冷蔵庫にバニラビーンズを入れると、取り出した際の温度差で表面に水滴がつく結露（Condensation）が発生します。これにより水分活性度（$A_w$）が高まり、カビが最も繁殖しやすい環境が作られバニリンの結晶構造が破壊されます。
+      冷蔵庫にバニラビーンズを入れると、取り出した際の温度差で表面に水滴がつく結露（Condensation）が発生します。これにより水分活性度（水分活性 (Aw)）が高まり、カビが最も繁殖しやすい環境が作られバニリンの結晶構造が破壊されます。
     </p>
   </div>
 </div>

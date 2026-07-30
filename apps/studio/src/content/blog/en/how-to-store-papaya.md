@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Ripen green papayas at room temperature (18–25°C) — Ambient Ripening 🥭"
     text: "Keep greenish papayas in a cool, well-ventilated area away from direct sunlight at 18–25°C (65–77°F). 💡 Storage Tip: Papayas are fully ripe when skin turns 70–80% yellow/orange and yields slightly to gentle pressure. To speed up ripening, seal in a paper bag with an apple or banana."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & RDA & MFDS</strong>.
+      This content is based on USDA & RDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 유럽식품안전청(EFSA)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 유럽식품안전청(EFSA)"
 steps:
   - name: "줄기 밑동을 살짝 자르고 젖은 키친타월로 감싸기 — 줄기 수분 공급 🥦"
     text: "브로콜리의 단단한 줄기(대)는 상단 꽃봉오리로 수분과 영양을 전달하는 핵심 통로입니다. 💡 보관 팁: 줄기 밑동 끝부분을 0.5cm 정도 살짝 잘라낸 후, 물에 적셔 꽉 짠 키친타월로 줄기 밑동을 감싸주세요. 마치 꽃병에 꽃을 꽂아두듯 지속적으로 수분을 공급해주어 꽃봉오리가 수분을 잃고 피어나는 것을 막아줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 유럽식품안전청(EFSA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 유럽식품안전청(EFSA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

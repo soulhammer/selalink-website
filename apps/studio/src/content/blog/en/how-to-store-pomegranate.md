@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap whole fruit in plastic wrap at 5–7°C and 80–85% RH — Prevent Rind Transpiration (2–3 Months) 📦"
     text: "For whole, uncut pomegranates, preventing water loss through the skin is paramount. 💡 Storage Tip: Wrap whole pomegranates in plastic wrap or place in perforated plastic bags at 5–7°C (41–45°F) with 80–85% relative humidity (crisper drawer). This prevents chilling injury and moisture loss for 2 to 3 months."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step pomegranate storage g
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

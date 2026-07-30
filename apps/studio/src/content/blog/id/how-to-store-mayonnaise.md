@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mayonnaise_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Simpan di dapur sebelum dibuka, segera masukkan kulkas setelah dibuka — Simpan Dingin (60–90 Hari) ❄️"
     text: "Sebelum dibuka, mayones dapat disimpan di tempat sejuk dan kering. Namun setelah dibuka, paparan oksigen dan mikroba mulai terjadi. 💡 Tips Penyimpanan: Selalu simpan mayones yang sudah dibuka di dalam kulkas dan habiskan dalam waktu 2–3 bulan (60–90 hari) demi keamanan dan cita rasa terbaik."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

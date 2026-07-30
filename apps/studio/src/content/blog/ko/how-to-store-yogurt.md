@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "깨끗한 건조 숟가락으로 덜어내고 밀봉하기 — 오염 차단 및 위생 관리 📦"
-    text: "대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타올로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다."
+    text: "대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타월로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다."
   - name: "0 ~ 4℃ 저온 냉장 보관하기 — 냉장 보관 (개봉 후 3 ~ 7일) ❄️"
     text: "요거트 속 유산균의 과도한 산생성과 유청 분리를 막기 위해서는 고온 노출을 방지해야 합니다. 💡 보관 팁: 냉장고 가장 차가운 안쪽 선반(0 ~ 4℃)에 보관하세요. 미개봉 상태에서는 소비기한까지 안전하지만, 개봉 후에는 3 ~ 7일 이내에 소비하는 것이 가장 신선합니다."
   - name: "유청(맑은 물)은 버리지 말고 섞어 먹기 — 유청 관리 🥣"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">깨끗한 건조 숟가락으로 덜어내고 밀봉하기 — 오염 차단 및 위생 관리 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타올로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다.
+    대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타월로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다.
   </p>
 </div>
 

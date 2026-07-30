@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Store on deep inner shelves instead of the refrigerator door — Cold Storage (7 Days) ❄️"
     text: "The refrigerator door pocket suffers drastic temperature swings every time it opens. 💡 Storage Tip: To maintain milk freshness, store it on a deep inner shelf in the main compartment where the temperature remains constantly cold at 0–4°C (32–39°F)."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on hygi
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA & FDA</strong>.
+      This content is based on MFDS & USDA & FDA.
     </p>
   </div>
 </div>

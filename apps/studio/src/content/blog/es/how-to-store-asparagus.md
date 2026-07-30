@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Corte las bases y colóquelos de pie en un recipiente con agua — Método florero 🥛"
     text: "Los espárragos necesitan humedad constante en su base para mantenerse crujientes. 💡 Consejo de almacenamiento: Recorte 1 cm del extremo inferior y colóquelos erguidos en un frasco con 1–2 cm de agua."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Este contenido se basa en RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

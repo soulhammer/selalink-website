@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Simpan kemasan yang belum dibuka di tempat sejuk suhu ruang (15–25°C) — Simpan Sebelum Dibuka (Hingga Kedaluwarsa) 📦"
     text: "Kemasan susu kedelai UHT yang belum dibuka aman disimpan pada suhu ruang. 💡 Tips Penyimpanan: Letakkan di tempat sejuk dan kering terhindar dari sinar matahari. Menjaga suhu di bawah 25°C menjaga stabilitas emulsi."
@@ -38,7 +38,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

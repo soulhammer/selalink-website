@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Before Ripening] Store at cool room temperature (20–25°C) — Natural Ripening (3–7 Days) 🌡️"
     text: "Mangoes slowly develop their sweetness at room temperature. 💡 Storage Tip: Keep them in a well-ventilated spot away from direct sunlight until the skin develops a sheen, the stem area smells sweet, and the fruit yields slightly to a gentle squeeze, like a ripe peach."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS & RDA</strong>.
+      This content is based on USDA & MFDS & RDA.
     </p>
   </div>
 </div>

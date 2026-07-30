@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "未開封品は直射日光を避けて涼しい場所に保存する — 未開封常温保存 (1年以上) 🏺"
     text: "未開封のメープルシロップは加熱殺菌処理されており、常温で非常に安定しています。💡保存のコツ：直射日光が当たらない涼しく乾燥したパントリー（10〜20℃）で保存してください。賞味期限まで本来の風味と品質が保たれます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

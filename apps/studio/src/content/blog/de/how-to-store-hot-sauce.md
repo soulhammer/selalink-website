@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Tülle nach Gebrauch abwischen und Verschluss fest schließen — Sauerstoffkontakt stoppen 🧻"
     text: "Saucenreste an der Tülle sind das Haupteinfallstor für Sauerstoff. 💡 Lagerungstipp: Wischen Sie die Öffnung direkt nach dem Ausgießen mit Küchenpapier sauber und verschließen Sie den Deckel fest."
@@ -34,7 +34,7 @@ Haben Sie schon einmal eine Flasche Hot Sauce oder Sriracha für Pizza, Tacos od
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS.
     </p>
   </div>
 </div>

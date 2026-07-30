@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "干面装入密封盒或塑料瓶中密封，置于阴凉处 — 防潮防虫 (1 ~ 2年) 📦"
     text: "干面若放在原装薄塑料袋中，烟草甲或甲虫幼虫会咬破塑料袋钻入产卵。💡储存小贴士：拆封干面后，连同干燥剂（硅胶）一起装入高的密封罐、广口塑料瓶或密封拉链袋中完全密封。避光存放在20℃以下的阴凉处，可保存1 ~ 2年无虫无潮。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

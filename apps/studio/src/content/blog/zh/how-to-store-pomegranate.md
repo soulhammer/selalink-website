@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "整石榴用保鲜膜包裹置于5 ~ 7℃及80 ~ 85%湿度下 — 防果皮蒸发 (2 ~ 3个月) 📦"
     text: "未切开的整石榴核心在于防止果皮水分蒸发。💡储存小贴士：用保鲜膜包裹整石榴或装入带孔保鲜袋，置于5 ~ 7℃及80 ~ 85%相对湿度的环境（冰箱冷藏保鲜抽屉）。这能防止冷害与水分流失，保鲜2 ~ 3个月。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

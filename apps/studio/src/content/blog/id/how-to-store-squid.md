@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Buang isi perut, kantong tinta, dan kotoran tentakel sepenuhnya — Cegah Bau Amis & Pembusukan 🦑"
     text: "Jeroan cumi dan kotoran pada alat hisap tentakel adalah sumber utama bau amis dan bakteri. 💡 Tips Penyimpanan: Belah bagian badan cumi, buang jeroan, kantong tinta, dan tulang transparan. Gosok tentakel dengan garam kasar atau tepung di bawah air mengalir untuk membersihkan cincin kitin."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NIFS & MFDS & USDA</strong>.
+      Konten ini didasarkan pada NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

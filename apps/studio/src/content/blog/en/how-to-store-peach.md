@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ripen at cool room temperature — Maximize Sweetness & Aroma 📦"
     text: "Allow firm or unripened peaches to sit at cool room temperature (15–20°C / 59–68°F) out of direct sunlight for 1–3 days to ripen naturally. 💡 Storage Tip: Ensure peaches do not touch each other. Wait until they yield slightly to gentle pressure and emit a sweet fragrance."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

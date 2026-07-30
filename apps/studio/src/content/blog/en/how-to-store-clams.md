@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NOAA & USDA & MFDS</strong>"
+authority: "NOAA & USDA & MFDS"
 steps:
   - name: "Purge in saltwater in a dark environment — Sand Purging & Cleaning 🌊"
     text: "Submerge clams in a 3% saltwater solution (approx. 30g salt per 1L water). Add a stainless steel spoon, cover with a dark plastic bag, and place in a cool spot (0–4°C) for 2–3 hours to purge sand."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NOAA & USDA & MFDS</strong>.
+      This content is based on NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

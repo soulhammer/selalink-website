@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Wipe bottle neck and cap clean after use — Prevent Contamination & Mold 🧻"
     text: "Sauce residue left around the bottle mouth combines with moisture in the air to become a breeding ground for mold spores. 💡 Storage Tip: Thoroughly wipe the rim with a clean paper towel immediately after use and seal tightly. This vital step stops mold from penetrating inside."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step oyster sauce storage guide 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & MFDS & RDA & USDA</strong>.
+      This content is based on FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

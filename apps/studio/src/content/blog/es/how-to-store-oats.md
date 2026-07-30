@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oats_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Pase la avena a frascos de vidrio herméticos o recipientes sin BPA — Proteja contra aire, humedad y plagas 📦"
     text: "La clave para conservar la avena es bloquear completamente el oxígeno, la humedad y los insectos. 💡 Consejo de almacenamiento: Vierta la avena abierta en un frasco de vidrio con sellado de goma o en un contenedor hermético de plástico."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

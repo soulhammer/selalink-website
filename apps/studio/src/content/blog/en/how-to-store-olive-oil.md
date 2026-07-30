@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>IOC & USDA & MFDS</strong>"
+authority: "IOC & USDA & MFDS"
 steps:
   - name: "Never store in the refrigerator — Prevent Solidification & Flavor Loss ❌❄️"
     text: "Placing olive oil in the fridge causes fatty acids to solidify into a butter-like white paste. 💡 Storage Tip: Repeated melting and freezing destroys the oil's delicate aromas and natural polyphenols. The ideal temperature for olive oil is cool room temperature at 14–18°C (57–64°F)."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on inte
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>IOC & USDA & MFDS</strong>.
+      This content is based on IOC & USDA & MFDS.
     </p>
   </div>
 </div>

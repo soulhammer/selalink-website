@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)</strong>"
+authority: "食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)"
 steps:
   - name: "開封後はしっかり parent 密閉して冷蔵（0〜5℃）保存する — 冷蔵保存 (6〜12ヶ月) ❄️"
     text: "未開封時は常温保存可能なコチュジャンも、開封後は酸素と触れて劣化が始まります。💡保存のコツ：フタを閉める前に容器のふちに付いたコチュジャンを綺麗に拭き取り、フタをしっかり閉めて0〜5℃で冷蔵保存します。低温管理により過度な発酵や変色、カビの発生を防げます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 韓国食品研究院(KFRI)に基づいています。
     </p>
   </div>
 </div>

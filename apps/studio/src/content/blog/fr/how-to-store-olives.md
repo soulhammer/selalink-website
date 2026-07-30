@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Conserver totalement immergées dans la saumure dans un bocal en verre — Barrière anti-oxygène & oxydation 📦"
     text: "Exposer la surface des olives à l'air provoque leur ramollissement. 💡 Astuce de conservation : Ne laissez pas les olives dans leur boîte en conserve entamée ; transvasez-les dans un bocal en verre et immergez-les complètement dans leur jus."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

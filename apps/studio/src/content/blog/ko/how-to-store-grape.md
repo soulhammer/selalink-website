@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "먹기 직전까지 물 세척 절대 금지 — 천연 보호막(블룸) 보존 🍇"
     text: "포도알 표면의 부드러운 하얀 가루는 먼지가 아닌 과실 스스로 분비한 천연 왁스 보호막인 '과분(Bloom)'입니다. 수분 증발을 막고 미생물 침입을 차단하므로, 보관 전에 물로 씻으면 과분이 손상되고 물기가 갇혀 부패가 빨라집니다. 💡 보관 팁: 씻지 않은 상태 그대로 보관하는 것이 신선도 유지의 기본입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

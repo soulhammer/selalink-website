@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Bungkus rapat dengan plastik wrap setelah dibuka — Tahan Udara & Cegah Jamur 📦"
     text: "Membiarkan krim keju terpapar udara akan mengeringkan permukaannya dan mempercepat tumbuhnya jamur. 💡 Tips Penyimpanan: Tempelkan plastik wrap secara langsung pada permukaan keju tanpa ada rongga udara."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

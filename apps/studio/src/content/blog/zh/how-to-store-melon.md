@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "整瓜置于阴凉常温（18 ~ 22℃）催熟 — 常温催熟 (2 ~ 5天) 🧺"
     text: "未切开的甜瓜应存放在避光的阴凉常温处。💡储存小贴士：用手轻压甜瓜底部（脐部）微软且散发出浓郁甜香时，说明已催熟完成。食用前2 ~ 3小时放入冰箱冰镇，口感最为冰爽香甜。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

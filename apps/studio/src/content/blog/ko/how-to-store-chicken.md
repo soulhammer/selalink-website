@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)"
 steps:
   - name: "물 세척 절대 금지 — 싱크대 교차 오염 차단 ❌💧"
     text: "생닭 표면에 묻어있는 식중독균은 흐르는 물로 씻을 때 물방울과 함께 반경 50cm 이내의 식기, 도마, 싱크대로 사방에 튑니다. 💡 보관 팁: 절대 생닭을 물에 씻지 마세요. 표면의 수분과 불순물은 키친타월로 지긋이 눌러 닦아내거나, 끓는 물에 짧게 데쳐서(블랜칭) 소독한 뒤 조리하는 것이 안전합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 질병통제예방센터(CDC)에 기반하고 있습니다.
     </p>
   </div>
 </div>

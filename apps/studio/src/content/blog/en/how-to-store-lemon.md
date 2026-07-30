@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Remove all surface moisture completely — Prevent Mold & Soft Rot 🍋"
     text: "Despite their thick rind, any moisture left on the skin allows fungal spores to invade. 💡 Storage Tip: Thoroughly wipe off any moisture with paper towels or a dry cloth, then air-dry them in a shady, ventilated spot for 5–10 minutes before storing."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FSA & MFDS</strong>.
+      This content is based on USDA & FSA & MFDS.
     </p>
   </div>
 </div>

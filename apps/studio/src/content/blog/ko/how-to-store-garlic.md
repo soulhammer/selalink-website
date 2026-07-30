@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "밀폐용기 바닥에 설탕과 키친타월 깔고 깐 마늘 보관하기 — 냉장 보관 (14 ~ 21일) 🪙"
     text: "깐 마늘은 수분에 노출되면 무름 현상과 곰팡이 번식이 순식간에 일어납니다. 💡 보관 팁: 밀폐용기 바닥에 설탕을 1cm 두께로 고르게 깔고, 그 위에 키친타월을 2 ~ 3겹 덮은 뒤 깐 마늘을 담으세요. 설탕은 주변 습기를 강력하게 흡수하는 천연 제습제 역할을 하여 마늘 표면을 송골송골 건조하게 유지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

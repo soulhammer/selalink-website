@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_paste_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Pindahkan ke wadah kaca & lapisi dengan minyak zaitun — Penghalang Oksida 📦"
     text: "Meminimalkan kontak dengan udara adalah kunci mencegah pembusukan. 💡 Tips Penyimpanan: Pindahkan sisa pasta dari kaleng ke stoples kaca bersih, ratakan permukaannya, lalu tuangkan sedikit minyak zaitun di atasnya. Minyak menjadi penyegel alami terhadap udara."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

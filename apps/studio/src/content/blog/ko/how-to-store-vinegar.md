@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "직사광선과 열원 차단하기 — 서늘한 상온 보관 (15 ~ 25℃) 📦"
     text: "식초는 햇빛이나 가스레인지 주변의 열기에 노출되면 산화가 촉진되고 색상 및 풍미가 변할 수 있습니다. 💡 보관 팁: 창가나 가스레인지 옆을 피해 직사광선이 들지 않는 어둡고 서늘한 찬장(15 ~ 25℃)에 보관해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

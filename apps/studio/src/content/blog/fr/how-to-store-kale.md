@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kale_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envelopper la base des tiges dans du papier absorbant humide — Maintien de l'hydratation 🧻"
     text: "La transpiration fait perdre de l'eau, réduisant la pression de turgescence. 💡 Astuce de conservation : Enveloppez la coupe des tiges de kale non lavé dans du papier absorbant humide pour fournir de l'eau en continu."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation du kale en 3 étapes reco
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

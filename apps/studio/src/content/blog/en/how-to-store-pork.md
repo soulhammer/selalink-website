@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pork_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wipe off purge and coat lightly with cooking oil — Moisture Retention & Microbial Barrier 📦"
     text: "After removing all excess moisture with paper towels, applying a light coat of cooking oil or olive oil forms a protective barrier against air. 💡 Storage Tip: This oil layer prevents oxidation, stops moisture evaporation to preserve juices, and inhibits microbial growth."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step pork storage guide reco
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

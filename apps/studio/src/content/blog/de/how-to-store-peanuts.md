@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Luftdichte Verpackung zum Schutz vor Sauerstoff und Feuchtigkeit — Luftdichte Isolation 📦"
     text: "Werden Erdnüsse (mit oder ohne Schale) der Raumluft ausgesetzt, beginnt sofort die Fettoxidation. 💡 Lagerungstipp: Geben Sie die Erdnüsse in Ziploc-Beutel oder luftdichte Behälter mit Silikagel-Trockenbeuteln oder Sauerstoffabsorbern. Die Minimierung von Sauerstoff ist die erste Schutzmauer."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

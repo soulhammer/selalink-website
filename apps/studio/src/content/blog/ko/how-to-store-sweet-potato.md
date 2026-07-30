@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "구매 직후 신문지에 펼쳐 습기 말리기 — 수분 제거 및 건조 📦"
     text: "고구마 표면의 습기는 곰팡이 발생과 부패의 주원인입니다. 💡 보관 팁: 박스를 개봉하여 서늘하고 바람이 잘 통하는 곳에 신문지를 깔고 고구마를 서로 겹치지 않게 펼쳐 하루 정도 습기를 완전히 말려주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

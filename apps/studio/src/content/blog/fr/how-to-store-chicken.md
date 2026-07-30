@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & CDC</strong>"
+authority: "USDA & MFDS & CDC"
 steps:
   - name: "Ne lavez jamais la volaille crue à l'eau — Éviter la contamination croisée ❌💧"
     text: "Laver le poulet projette des gouttelettes invisibles contenant des bactéries (Campylobacter, Salmonelle) jusqu'à 50 cm autour de l'évier. 💡 Astuce de conservation : Ne rincez jamais le poulet à l'eau. Épongez la surface avec du papier absorbant ou ébouillantez-le très rapidement avant la cuisson."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS & CDC</strong>.
+      Ce contenu est basé sur USDA & MFDS & CDC.
     </p>
   </div>
 </div>

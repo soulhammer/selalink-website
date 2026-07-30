@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tangerine_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wash in diluted saltwater and dry thoroughly — Mold Spore Removal & Drying 💧"
     text: "Washing away microscopic mold spores and impurities from the peel dramatically extends shelf life. 💡 Storage Tip: Soak tangerines in mild saltwater (or baking soda water) for 1–2 minutes, then dry each fruit completely with paper towels or a dry cloth."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step tangerine storage guide
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

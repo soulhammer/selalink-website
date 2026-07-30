@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "丸ごとのザクロはラップで包み5〜7℃＆相対湿度80〜85%で保存する — 果皮蒸散遮断 (2〜3ヶ月) 📦"
     text: "カットしていない玉ザクロは、皮からの水分蒸発を防ぐことが最優先です。💡保存のコツ：玉ザクロをラップで包むか穴あきポリ袋に入れ、5〜7℃・相対湿度80〜85%の環境（野菜室）で保存します。低温障害を防ぎつつ水分を保持し、2〜3ヶ月間新鮮さを保てます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

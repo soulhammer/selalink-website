@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)"
 steps:
   - name: "開封後すぐに密閉容器へ移し替えて冷蔵保存する — 開封後冷蔵保存 (3〜5日間) ❄️"
     text: "開封後はすぐに元の缶からハムを取り出してください。💡保存のコツ：ハムを缶から全て出し、ガラスやプラスチックの密閉容器に入れるか、ラップで隙間なく包んで冷蔵庫（0〜4℃）で保存します。表面の乾燥と冷蔵庫のにおい移りを防ぐことができます。"
@@ -34,7 +34,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "깨끗한 스푼으로 표면을 평평하게 정돈하기 — 유청 분리 및 오염 차단 🥄"
     text: "사워크림을 사용한 뒤 표면이 파여 있으면 움푹 파인 부분에 유청(물)이 고여 미생물이 번식하기 좋습니다. 💡 보관 팁: 사용 후 깨끗한 스푼으로 표면을 꾹꾹 눌러 평평하게 정돈해 주세요. 유청 고임을 최소화하여 신선도를 오래 유지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "알루미늄 오리지널 포장지 유지하기 — 빛과 산소 차단 📦"
     text: "버터의 오리지널 은박(알루미늄) 포장지는 자외선과 산소를 강력하게 차단하여 유지방의 산화를 막아주는 최적의 보호재입니다. 💡 보관 팁: 오리지널 포장지를 버리고 일반 투명 용기나 비닐 랩으로 교체하면 빛과 산소에 노출되어 산패 속도가 훨씬 빨라집니다. 포장지를 그대로 유지하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

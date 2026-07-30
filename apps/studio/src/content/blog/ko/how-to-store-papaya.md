@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "덜 익은 파파야는 상온(18 ~ 25℃)에서 후숙시키기 — 상온 후숙 🥭"
     text: "초록빛이 도는 파파야는 직사광선을 피해 서늘하고 통풍이 잘되는 상온(18 ~ 25℃)에 두세요. 💡 보관 팁: 껍질이 70 ~ 80% 노랗게 변하고 손으로 살짝 눌렀을 때 약간 들어갈 때가 최적의 후숙 상태입니다. 빠른 후숙을 원하면 사과나 바나나와 함께 종이봉투에 담아두세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Utilice botellas de vidrio marrón o envuelva con papel de aluminio — Bloqueo total de luz y rayos UV 🍾"
     text: "Bloquear la luz es la regla más importante para prevenir la oxidación del aceite. 💡 Consejo de almacenamiento: Guarde el aceite en botellas de vidrio opacas. Si usa una botella transparente, envuélvala por completo con papel de aluminio o periódico."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

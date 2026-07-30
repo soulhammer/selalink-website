@@ -8,7 +8,7 @@
             "ko": {
                 "title": "오렌지 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 오렌지의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "오렌지를 박스째 사 왔다가 며칠 지나지 않아 껍질이 말라 딱딱해지거나 푸른곰팡이가 피어 버린 경험 있으시죠? 🍊\n\n오렌지는 수분과 비타민 C가 풍부한 대표적인 감귤류 과일로, 수확 후에도 지속적으로 호흡하며 수분을 배출합니다. 상온에 오래 방치하면 과육의 수분이 빠져나가 무르고 맛이 없어지며, 습기가 차면 녹색·푸른곰팡이균이 급격히 번식해 주변 오렌지까지 빠르게 부패시킵니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "보관하기 전에 물로 씻지 마세요 💧",
-                        "desc": "오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타올로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요."
+                        "desc": "오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타월로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요."
                     },
                     {
                         "title": "곰팡이가 피거나 겉면이 무른 오렌지는 즉시 격리하세요 🍊",
@@ -26,8 +26,8 @@
                 ],
                 "steps": [
                     {
-                        "name": "키친타올이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦",
-                        "text": "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타올이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
+                        "name": "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦",
+                        "text": "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타월이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
                     },
                     {
                         "name": "4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️",
@@ -41,7 +41,7 @@
                 "faqs": [
                     {
                         "question": "오렌지를 상온에 보관해도 괜찮나요?",
-                        "answer": "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타올로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
+                        "answer": "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타월로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
                     },
                     {
                         "question": "오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Oranges Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for oranges based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever bought a box of oranges only to find their skins shreveeled and dry, or covered in blue-green mold after a few days? 🍊\n\nOranges are rich in moisture and vitamin C, but as citrus fruits, they continue to respire and release water even after harvesting. Leaving them at room temperature causes moisture loss that makes the flesh soft and tasteless, while trapped humidity rapidly breeds green and blue molds that infect neighboring fruit.\n\nIn this guide, introduces a scientifically proven 3-step orange storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
                 "whyTitle": "Why Store Oranges This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "オレンジを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくオレンジの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "オレンジを箱で買ってきたものの、数日経つと皮が乾燥して硬くなったり、青カビが生えて捨ててしまった経験はありませんか？🍊\n\nオレンジは水分とビタミンCが豊富な代表的カンキツ類で、収穫後も呼吸を続けて水分を放出しています。常温に長く放置すると果肉の水分が抜けて味が落ち、湿気がこもると青カビ菌（ペニシリウム）が急増して周囲のオレンジまであっという間に傷ませてしまいます。\n\n本記事では、専門家が推奨するオレンジの鮮度とジューシーさを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持橙子新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解橙子的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾整箱买回橙子，没过几天就发现果皮发干变硬，甚至长出青霉菌发霉变质？🍊\n\n橙子富含水分和维生素C，是代表性的柑橘类水果，采摘后依然会持续呼吸并蒸发水分。常温下长时间摆放会导致果肉失水变软、口感变差；而环境过于潮湿则会导致青霉菌剧烈滋生，迅速传染并腐蚀周边的橙子。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步橙子保鲜秘诀，帮您最大程度锁定酸甜多汁。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener las naranjas frescas: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las naranjas según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez compró una caja de naranjas solo para descubrir a los pocos días que su piel se secaba y endurecía, o que se cubrían de moho verde o azul? 🍊\n\nLas naranjas son cítricos ricos en agua y vitamina C, pero continúan respirando e intercambiando humedad tras la cosecha. Dejarlas a temperatura ambiente hace que pierdan agua, volviendo la pulpa blanda e insípida, mientras que la humedad atrapada favorece la rápida aparición de mohos que infectan a las frutas vecinas.\n\nEn esta guía se presenta una guía de conservación de naranjas en 3 pasos respaldada por expertos para maximizar su frescura y jugosidad. 🛡️",
                 "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les oranges fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les oranges selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà acheté une cagette d'oranges pour constater quelques jours plus tard que leur peau s'asséchait ou qu'elles se couvraient de moisissure bleue ou verte ? 🍊\n\nL'orange est un agrume riche en eau et en vitamine C, qui continue de respirer et d'émettre de l'humidité après la récolte. À température ambiante, elle perd son jus et sa fermeté, tandis que l'humidité stagnante favorise le développement rapide de moisissures qui contaminent les fruits voisins.\n\nDans ce guide, vous présente un guide scientifique de conservation des oranges en 3 étapes recommandé par des experts pour préserver leur fraîcheur et leur jus. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Orangen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Orangen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie schon einmal eine Kiste Orangen gekauft, nur um nach wenigen Tagen festzustellen, dass die Schale austrocknete oder sich grüner/blauer Schimmel bildete? 🍊\n\nOrangen sind wasser- und vitamin-C-reiche Zitrusfrüchte, die auch nach der Ernte weiteratmen und Feuchtigkeit abgeben. Bei Raumtemperatur verliert das Fruchtfleisch rasch an Saftigkeit, während gestaute Feuchtigkeit die Schimmelbildung begünstigt und umliegende Früchte ansteckt.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und den Saftgehalt Ihrer Orangen zu maximieren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar laranjas frescas: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para as laranjas com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já comprou uma caixa de laranjas e percebeu que em poucos dias a casca ressecou ou surgiram bolores azuis ou verdes nas frutas? 🍊\n\nA laranja é um cítrico rico em água e vitamina C, continuando a respirar e a liberar umidade após a colheita. Em temperatura ambiente, a polpa perde suco e fica murcha, enquanto a umidade acumulada favorece o crescimento rápido de fungos que infectam as frutas ao redor.\n\nNeste guia, apresentamos um guia prático de conservação de laranjas em 3 etapas recomendado por especialistas para manter o frescor e a suculência das suas frutas. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Jeruk agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membeli satu kotak jeruk lalu mendapati kulitnya mengering keras atau ditumbuhi jamur biru-hijau setelah beberapa hari? 🍊\n\nJeruk adalah buah sitrus kaya air dan vitamin C yang terus bernapas serta mengeluarkan kelembapan setelah dipanen. Membiarkannya di suhu ruang menyebabkan kadar air menguap sehingga bulirnya lembek dan hambar, sedangkan kelembapan terperangkap memicu tumbuhnya jamur yang cepat menulari jeruk lainnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jeruk 3 langkah berbasis ilmiah yang direkomondesikan oleh ahli keamanan pangan untuk menjaga kesegaran dan kandungan airnya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

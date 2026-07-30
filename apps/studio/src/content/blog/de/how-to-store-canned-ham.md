@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Sofort in einen luftdichten Behälter umfüllen und kühlen — Kühllagerung (3–5 Tage) ❄️"
     text: "Entnehmen Sie den Schinken nach dem Öffnen immer direkt aus der Metalldose. 💡 Lagerungstipp: Nehmen Sie den Schinken aus der Dose und geben Sie ihn in eine Glas- oder Plastikdose oder wickeln Sie ihn fest in Frischhaltefolie, bevor Sie ihn im Kühlschrank (0–4 °C) aufbewahren."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS & FDA</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS & FDA.
     </p>
   </div>
 </div>

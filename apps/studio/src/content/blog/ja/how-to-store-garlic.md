@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)"
 steps:
   - name: "密閉容器の底に砂糖とキッチンペーパーを敷いてむきにんにくを保存する — 冷蔵保存 (14〜21日間) 🪙"
     text: "むきにんにくは水分に触れると一気に傷んでカビが繁殖します。💡保存のコツ：密閉容器の底に砂糖を1cmほどの厚さで均一に敷き、その上にキッチンペーパーを2〜3重に重ねてからむきにんにくを入れてください。砂糖が湿気を吸収する天然の除湿剤となり、表面を乾燥状態に保ちます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

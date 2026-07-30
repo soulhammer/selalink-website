@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/orange_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Einzeln in Küchenpapier oder Zeitungspapier einwickeln — Feuchtigkeitsschutz & Schimmelbarriere 📦"
     text: "Direkter Kontakt zwischen Orangen staut Feuchtigkeit und beschleunigt den Verderb. 💡 Lagerungstipp: Wickeln Sie jede trockene Orange einzeln fest in Küchenpapier oder Zeitungspapier ein. Das bewahrt die Saftigkeit und stoppt Schimmelsporen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

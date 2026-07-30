@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "In einer blickdichten Teedose oder Alufolie versiegeln — Völliger Licht- & Sauerstoffschutz 📦"
     text: "Sauerstoff und Licht sind die größten Feinde der Teequalität. 💡 Lagerungstipp: Füllen Sie geöffneten Tee in eine lichtundurchlässige Metalldose mit Doppeldeckel oder einen Aluminium-Ziploc-Beutel um und drücken Sie die Luft vor dem Verschließen heraus."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

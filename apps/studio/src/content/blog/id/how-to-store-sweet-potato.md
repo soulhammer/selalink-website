@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Tebarkan di atas kertas koran segera setelah dibeli — Pengeringan Kelembapan 📦"
     text: "Kelembapan pada permukaan ubi adalah penyebab utama tumbuhnya jamur. 💡 Tips Penyimpanan: Keluarkan ubi dari kotak dan tebarkan di atas kertas koran di tempat yang sejuk dan berangin tanpa bertumpuk selama sehari hingga benar-benar kering."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan ubi jalar 3 langkah berba
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

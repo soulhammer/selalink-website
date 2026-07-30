@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Pindahkan ke wadah kedap udara atau jepit rapat — Penghalang Udara & Kelembapan 📦"
     text: "Meminimalkan kontak dengan udara setelah dibuka adalah kunci menjaga kerenyahan. 💡 Tips Penyimpanan: Lipat mulut kantong dalam 2–3 kali lalu jepit rapat dengan klip kemasan, atau pindahkan sereal ke wadah kaca/plastik kedap udara."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

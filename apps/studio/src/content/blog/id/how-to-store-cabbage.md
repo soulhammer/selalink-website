@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Potong dan buang bagian inti berbentuk kerucut segitiga — Hentikan Kehilangan Nutrisi 🔪"
     text: "Bagian inti tengah bertindak sebagai pusat pertumbuhan yang menyedot air dan nutrisi daun setelah dipanen. 💡 Tips Penyimpanan: Gunakan ujung pisau tajam untuk mengeruk bagian inti berbentuk kerucut secara mendalam. Membuang inti menghancurkan pusat utama mulainya pembusukan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & EFSA & FSA</strong>.
+      Konten ini didasarkan pada RDA & EFSA & FSA.
     </p>
   </div>
 </div>

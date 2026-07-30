@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "生地と生地の間にクッキングシートを挟む — 貼り付き防止分離層 📄"
     text: "トルティーヤ同士がくっつかないようにする最大のポイントです。💡保存のコツ：トルティーヤを1枚敷き、その上にトルティーヤの大きさに切ったクッキングシート（オーブンペーパー）を重ね、さらにトルティーヤを重ねていきます。シートが水分の移動を遮断するため、冷凍後も1枚ずつ簡単に剥がれます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Vor der Vollreife schattig bei Raumtemperatur nachreifen lassen — Raumtemperatur (5–7 Tage) 🌿"
     text: "Lagern Sie unreife Tomaten bei kühler Raumtemperatur (15–20 °C) ohne direkte Sonneneinstrahlung. 💡 Lagerungstipp: Entfernen Sie die grünen Stängel und lagern Sie die Tomaten mit der Stängelseite nach unten auf einer ebener Fläche."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & CDC</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & CDC.
     </p>
   </div>
 </div>

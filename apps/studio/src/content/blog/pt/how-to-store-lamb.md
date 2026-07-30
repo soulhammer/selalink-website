@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lamb_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Seque o suco e envolva firmemente em filme plástico — Remover suco & Bloquear oxigênio 📦"
     text: "O suco acumulado na superfície causa mau cheiro e deterioração, enquanto o oxigênio oxida as gorduras. 💡 Dica de conservação: Seque a superfície com papel-toalha e envolva cada pedaço firmemente com filme plástico sem deixar bolhas de ar para evitar escurecimento e ressecamento."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e do 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

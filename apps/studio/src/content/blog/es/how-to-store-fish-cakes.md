@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Escalde brevemente en agua hirviendo para quitar grasa oxidada — Escaldado desengrasante 🫖"
     text: "El aceite de la superficie se oxida rápido con el aire y acelera la descomposición. 💡 Consejo de almacenamiento: Escalde los pasteles de pescado en agua hirviendo durante 10 a 20 segundos o vierta agua hirviendo encima. Esto elimina grasas oxidadas, impurezas y microbios superficiales."
@@ -36,7 +36,7 @@ Los pasteles de pescado tienen un alto contenido de agua y proteína, y su super
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA & FDA</strong>.
+      Este contenido se basa en MFDS & USDA & FDA.
     </p>
   </div>
 </div>

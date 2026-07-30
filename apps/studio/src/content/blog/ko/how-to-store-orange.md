@@ -8,17 +8,17 @@ category: "FreshSnap"
 heroImage: "/images/blog/orange_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
-  - name: "키친타올이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦"
-    text: "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타올이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
+  - name: "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦"
+    text: "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타월이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
   - name: "4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️"
     text: "오렌지가 가장 신선함을 오래 유지하는 온도는 4 ~ 8℃입니다. 💡 보관 팁: 종이로 감싼 오렌지를 구멍이 뚫린 비닐봉지나 밀폐 용기에 담아 냉장고 야채칸(신선실)에 보관하세요. 상온보다 호흡 작용이 둔화되어 3 ~ 4주 이상 아삭하고 상큼한 맛을 유지할 수 있습니다."
   - name: "장기 보관 시 껍질을 벗겨 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️"
     text: "오렌지를 껍질째 통째로 냉동하면 과육 세포가 파괴되어 해동 후 식감이 무러집니다. 💡 보관 팁: 껍질을 벗기고 흰 속껍질과 씨를 정리한 뒤 과육만 소분하여 지퍼백에 넣고 냉동실(-18℃ 이하)에 보관하세요. 스무디나 주스용으로 2 ~ 3개월간 유용하게 활용할 수 있습니다."
 faqs:
   - question: "오렌지를 상온에 보관해도 괜찮나요?"
-    answer: "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타올로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
+    answer: "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타월로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
   - question: "오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?"
     answer: "유통 과정에서 수분 증발을 막기 위해 칠하는 식용 천연 코팅제(식품첨가물)이거나 칼슘제일 가능성이 높습니다. 인체에 무해하지만 먹기 전 따뜻한 물에 베이킹소다나 식초를 풀어 깨끗이 씻어낸 후 섭취하는 것을 권장합니다."
 ---
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">키친타올이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타올이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다.
+    오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타월이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">보관하기 전에 물로 씻지 마세요 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타올로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요.
+      오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타월로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타올로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다.
+      겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타월로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다.
     </p>
   </details>
 

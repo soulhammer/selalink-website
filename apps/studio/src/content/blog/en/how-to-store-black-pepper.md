@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Store whole peppercorns in airtight containers whenever possible — Preserve Aroma & Prevent Oxidation 📦"
     text: "Once pepper is ground, its essential oils begin to oxidize rapidly upon contact with air. 💡 Storage Tip: Purchasing whole peppercorns rather than pre-ground pepper and grinding them right before cooking is the most effective way to preserve aroma and flavor."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "少量は遮光密閉容器に小分けする — 光と酸素の遮断 📦"
     text: "唐辛子粉は空気や光に晒されると色が褪せ風味も落ちます。💡保存のコツ：すぐに使う少量は、光を遮る不透明な密閉容器や茶色のガラス瓶に入れ、涼しい場所に保管してください。赤色を長く保存できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

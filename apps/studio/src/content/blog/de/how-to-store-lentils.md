@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — $A_w < 0,65$ halten & Schädlingsschutz 🫙"
+  - name: "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — Wasseraktivität (Aw) < 0,65 halten & Schädlingsschutz 🫙"
     text: "Füllen Sie trockene Linsen sofort in Glasbehälter oder PET/PP-Dosen um und legen Sie ein lebensmittelechtes Trockenmittel (Silikagel) bei. 💡 Lagerungstipp: Die Kontrolle der Feuchtigkeit unter 10–12 % hält die Wasseraktivität unter 0,65 und stoppt Gifte sowie Käferbefall."
   - name: "An einem kühlen, dunklen Ort (15–20 °C) aufbewahren — Vorratskammer (1–2 Jahre) 🚪"
     text: "Bewahren Sie die Behälter in einem kühlen Küchenschrank ohne Sonneneinstrahlung auf. 💡 Lagerungstipp: In kühler, trockener Umgebung bei 15–20 °C halten Linsen Nährstoffe und Farbe ohne Qualitätsverlust für 1 bis 2 Jahre."
@@ -25,7 +25,7 @@ faqs:
 
 Linsen (Lentils) sind ein weltweit geschätztes Superfood voller pflanzlicher Proteine, Ballaststoffe und Eisen! 🫘
 
-Linsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität ($A_w$) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.
+Linsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität (Wasseraktivität (Aw)) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.
 
 In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Linsen sicher, frisch und schädlingsfrei aufzubewahren. 🛡️
 
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">SCHRITT 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — $A_w < 0,65$ halten & Schädlingsschutz 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — Wasseraktivität (Aw) < 0,65 halten & Schädlingsschutz 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Füllen Sie trockene Linsen sofort in Glasbehälter oder PET/PP-Dosen um und legen Sie ein lebensmittelechtes Trockenmittel (Silikagel) bei. 💡 Lagerungstipp: Die Kontrolle der Feuchtigkeit unter 10–12 % hält die Wasseraktivität unter 0,65 und stoppt Gifte sowie Käferbefall.

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store in lightproof, airtight containers (glass/metal/PP) — Prevent Volatility & Moisture 🫙"
     text: "Immediately transfer cinnamon sticks or powder into opaque glass jars, metal tins, or lightproof airtight pouches. 💡 Storage Tip: Complete sealing prevents cinnamaldehyde evaporation and blocks moisture absorption from the surrounding air."
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

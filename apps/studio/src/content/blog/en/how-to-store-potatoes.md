@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Wrap unwashed potatoes individually in newspaper or paper bags — Block Light Completely 📦"
     text: "Exposure to light (even indoor lighting) triggers chlorophyll production, turning the skin green and synthesizing toxic solanine. 💡 Storage Tip: Leave the soil on the potatoes—it acts as a natural moisture regulator—and wrap them in newspaper or opaque brown paper bags to block 100% of light."
@@ -38,7 +38,7 @@ Furthermore, exposure to light causes potato skins to turn green, synthesizing a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & RDA & FSA</strong>.
+      This content is based on MFDS & RDA & FSA.
     </p>
   </div>
 </div>

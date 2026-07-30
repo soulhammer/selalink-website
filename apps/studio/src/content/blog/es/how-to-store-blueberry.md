@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "No lavar hasta justo antes de consumir — Conserve la pruina natural 🫐"
     text: "La capa blanca que cubre los arándanos es la 'Pruina' (Bloom), una cera natural producida por la propia fruta. Funciona como un escudo vital contra la pérdida de agua, plagas y moho. 💡 Consejo de almacenamiento: Lavar los frutos antes de guardarlos elimina la pruina y altera la presión osmótica de la pulpa, ablandándolos rápido. Mantenerlos secos es la regla de oro."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & RDA & MFDS</strong>.
+      Este contenido se basa en USDA & RDA & MFDS.
     </p>
   </div>
 </div>

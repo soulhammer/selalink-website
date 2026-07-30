@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cherry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "상처 난 체리 골라내고 꼭지 유지하기 — 선별 & 꼭지 보호 📦"
     text: "상처가 나거나 무른 체리는 주변의 싱싱한 체리까지 빠르게 부패시킵니다. 💡 보관 팁: 구멍이 나거나 무른 체리는 미리 골라내어 먼저 드시고, 싱싱한 체리는 꼭지를 떼지 않은 마른 상태 그대로 준비하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

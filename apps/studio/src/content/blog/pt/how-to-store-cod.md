@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Seque a umidade e embrulhe bem — Papel Absorvente & Filme Plástico 📦"
     text: "Seque completamente a umidade da superfície do filé, envolva em papel absorvente e sele bem com filme plástico. 💡 Dica de conservação: Absorver o líquido e bloquear o ar evita a conversão de TMAO e a degradação dos tecidos."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Toujours conserver au réfrigérateur entre 0 et 4 °C — Stockage Réfrigéré (30–60 jours) ❄️"
     text: "Contrairement à l'huile de sésame, l'huile de périlla ne contient pas de sésamol et regorge d'oméga-3 très réactifs, ce qui la fait rancir en quelques jours à température ambiante. 💡 Astuce de conservation : Réfrigérez l'huile de périlla (0–4 °C) dès l'achat pour ralentir fortement l'oxydation."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur RDA & MFDS & USDA.
     </p>
   </div>
 </div>

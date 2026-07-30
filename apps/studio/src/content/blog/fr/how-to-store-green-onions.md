@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Envelopper non lavé dans du journal et stocker debout — Temp. Ambiante (5 jours) 🌿"
     text: "Enveloppez les oignons verts secs non lavés dans du papier journal ou du papier cuisson. 💡 Astuce de conservation : Placez-les debout, racines vers le bas, dans un endroit frais, aéré et à l'ombre (10-15 °C). Conserver les oignons verts verticalement imite leur croissance naturelle et retarde le flétrissement."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur RDA & MFDS & USDA.
     </p>
   </div>
 </div>

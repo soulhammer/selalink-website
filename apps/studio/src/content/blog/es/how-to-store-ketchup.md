@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Despensa antes de abrir, refrigeración inmediata después — Almacenamiento refrigerado (180 días) ❄️"
     text: "Antes de abrir se puede guardar en la despensa fresca; pero tras abrirla, la exposición al oxígeno acelera la pérdida de sabor y el oscurecimiento. 💡 Consejo de almacenamiento: Guarde siempre la kétchup abierta en el refrigerador y consúmala en un plazo de 6 meses (180 días)."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

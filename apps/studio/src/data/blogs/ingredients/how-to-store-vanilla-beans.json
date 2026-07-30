@@ -8,7 +8,7 @@
             "ko": {
                 "title": "바닐라 빈 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 바닐라 빈의 핵심 향미(바닐린) 결정 보호법, 냉장 결로 곰팡이 방지법 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "고급 디저트와 베이킹에서 단연 으뜸가는 풍미를 더해주는 천연 바닐라 빈(Vanilla Beans)! 🍦✨\n\n바닐라 빈은 특유의 우아하고 달콤한 향을 내는 '바닐린(Vanillin)' 성분이 함유된 보석 같은 식재료입니다. 하지만 많은 분들이 바닐라 빈을 비싼 몸값 때문에 무심코 냉장고에 넣어 보관하곤 합니다. 바닐라 빈을 냉장고에 넣으면 꺼낼 때 온도 차로 인해 이슬이 맺히는 결로(Condensation) 현상이 발생하여 수분활성도가 급격히 상승하고, 표면에 곰팡이가 피어나는 치명적인 결과로 이어집니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 바닐린 결정을 보호하고 곰팡이 위험을 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "바닐라 빈의 핵심 향미 물질인 바닐린(Vanillin)의 안정적 유지 조건과 냉장 보관 시 발생하는 결로 현상에 따른 미생물/곰팡이 증식 메커니즘을 이해하는 것이 보존의 핵심입니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "바닐라 빈을 절대로 냉장고나 냉동고에 넣지 마세요 ⚠️",
-                        "desc": "냉장고에 바닐라 빈을 넣으면 내부의 차가운 공기와 상온의 온도 차로 인해 표면에 수분이 맺히는 결로(Condensation) 현상이 발생합니다. 이는 수분활성도($A_w$)를 높여 아스페르길루스 등 곰팡이가 번식하기 가장 좋은 환경을 조성하고 바닐린 결정 구조를 파괴합니다."
+                        "desc": "냉장고에 바닐라 빈을 넣으면 내부의 차가운 공기와 상온의 온도 차로 인해 표면에 수분이 맺히는 결로(Condensation) 현상이 발생합니다. 이는 수분 활성도(Aw)를 높여 아스페르길루스 등 곰팡이가 번식하기 가장 좋은 환경을 조성하고 바닐린 결정 구조를 파괴합니다."
                     },
                     {
                         "title": "공기 중에 그대로 노출시키거나 통풍이 너무 잘 되는 곳에 두지 마세요 🌿",
@@ -52,8 +52,8 @@
             "en": {
                 "title": "How to Keep Vanilla Beans Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods to protect vanillin crystals, prevent condensation mold from refrigeration, and maintain freshness based on official USDA & FDA food safety standards.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Natural vanilla beans add an exquisite, sweet flavor and aroma to fine desserts and pastries! 🍦✨\n\nVanilla beans owe their iconic aroma to 'vanillin,' a delicate aromatic compound. However, due to their high cost, many people mistakenly store vanilla beans in the refrigerator. Cold refrigeration causes condensation to form on the pods upon temperature changes, drastically increasing surface water activity ($A_w$) and creating the ideal environment for mold to thrive.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to preserve vanillin crystals and completely eliminate mold risks. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Natural vanilla beans add an exquisite, sweet flavor and aroma to fine desserts and pastries! 🍦✨\n\nVanilla beans owe their iconic aroma to 'vanillin,' a delicate aromatic compound. However, due to their high cost, many people mistakenly store vanilla beans in the refrigerator. Cold refrigeration causes condensation to form on the pods upon temperature changes, drastically increasing surface water activity (Aw) and creating the ideal environment for mold to thrive.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to preserve vanillin crystals and completely eliminate mold risks. 🛡️",
                 "whyTitle": "Why Store Vanilla Beans This Way? Scientific Facts",
                 "whyDesc": "Understanding the optimal stability conditions for vanillin and preventing moisture condensation triggered by refrigeration temperature fluctuations is essential for long-term preservation.",
                 "guideTitle": "Scientifically Proven Storage Guide",
@@ -61,7 +61,7 @@
                 "cautions": [
                     {
                         "title": "Never store vanilla beans in the refrigerator or freezer ⚠️",
-                        "desc": "Placing vanilla beans in the fridge causes moisture condensation when exposed to ambient air upon retrieval. This spikes surface water activity ($A_w$), encouraging Aspergillus and Penicillium mold growth while breaking down the delicate vanillin crystal structure."
+                        "desc": "Placing vanilla beans in the fridge causes moisture condensation when exposed to ambient air upon retrieval. This spikes surface water activity (Aw), encouraging Aspergillus and Penicillium mold growth while breaking down the delicate vanillin crystal structure."
                     },
                     {
                         "title": "Do not leave exposed to air or stored in overly ventilated areas 🌿",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "バニラビーンズ（Vanilla Beans）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づくバニラビーンズのバニリン結晶保護法、冷蔵結露カビ防止法および正しい常温暗所保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "高級スイーツや製菓に上品で甘い香りを添える天然のバニラビーンズ（Vanilla Beans）！ 🍦✨\n\nバニラビーンズは特有の芳醇な香り成分である「バニリン（Vanillin）」を含んだ貴重な食材です。しかし高価なため、ついつい冷蔵庫で保管してしまう方が多くいらっしゃいます。バニラビーンズを冷蔵庫に入れると、出し入れの際の温度差で水滴がつく「結露（Condensation）」現象が発生し、水分活性度が急上昇して表面にカビが発生する原因になります。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、バニリン結晶を守りカビのリスクを遮断する3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "バニラビーンズの核心香気成分であるバニリン（Vanillin）の安定保持条件と、冷蔵保管時に発生する結露によるカビ増殖の仕組みを理解することが長期間の保存の鍵です。",
@@ -105,7 +105,7 @@
                 "cautions": [
                     {
                         "title": "バニラビーンズを絶対に冷蔵庫や冷凍庫に入れないでください ⚠️",
-                        "desc": "冷蔵庫にバニラビーンズを入れると、取り出した際の温度差で表面に水滴がつく結露（Condensation）が発生します。これにより水分活性度（$A_w$）が高まり、カビが最も繁殖しやすい環境が作られバニリンの結晶構造が破壊されます。"
+                        "desc": "冷蔵庫にバニラビーンズを入れると、取り出した際の温度差で表面に水滴がつく結露（Condensation）が発生します。これにより水分活性度（水分活性 (Aw)）が高まり、カビが最も繁殖しやすい環境が作られバニリンの結晶構造が破壊されます。"
                     },
                     {
                         "title": "空気中にそのまま露出させたり風通しの良すぎる場所に置かないでください 🌿",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持香草豆荚（Vanilla Beans）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解保护香草豆荚核心香气（香草酚）结晶的方法、防止冷藏结露发霉的方法及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "天然香草豆荚（Vanilla Beans）能为高级甜点和烘焙带来无与伦比的优雅香甜风味！ 🍦✨\n\n香草豆荚含有极其宝贵的天然香气成分“香草酚/香草素（Vanillin）”。然而因其价格昂贵，许多人习惯性地将其放入冰箱冷藏。殊不知将香草豆荚放入冰箱后，取用时的温差会导致表面凝结水珠（Condensation），使水分活性急剧上升，极易引发表面发霉。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护香草酚结晶并彻底阻断发霉风险。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解香草豆荚核心风味物质香草酚（Vanillin）的稳定保存条件，以及避免因冷藏温差结露引发霉菌滋生的机制，是实现长期保存的关键所在。",
@@ -149,7 +149,7 @@
                 "cautions": [
                     {
                         "title": "切勿将香草豆荚放入冰箱冷藏或冷冻 ⚠️",
-                        "desc": "将香草豆荚放进冰箱，取出时室内温差会导致表皮结露（Condensation）。这会大幅提高水分活性（$A_w$），为曲霉菌等霉菌提供绝佳繁殖环境，并破坏香草酚结晶结构。"
+                        "desc": "将香草豆荚放进冰箱，取出时室内温差会导致表皮结露（Condensation）。这会大幅提高水分活性（水活性 (Aw)），为曲霉菌等霉菌提供绝佳繁殖环境，并破坏香草酚结晶结构。"
                     },
                     {
                         "title": "切勿直接暴露在空气中或置于过度通风处 🌿",
@@ -184,8 +184,8 @@
             "es": {
                 "title": "Cómo mantener frescas las vainas de vainilla: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de conservación para proteger los cristales de vanillina, evitar el moho por condensación de la refrigeración y mantener la frescura según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "¡Las vainas de vainilla naturales (vanilla beans) aportan un aroma y sabor dulce inigualable a la repostería de alta gama! 🍦✨\n\nLas vainas de vainilla contienen 'vanillina', el delicado compuesto responsable de su icónico aroma. Sin embargo, debido a su alto costo, muchas personas cometen el error de guardarlas en el refrigerador. La refrigeración provoca condensación en la superficie de las vainas ante los cambios de temperatura, lo que aumenta exponencialmente la actividad de agua ($A_w$) y fomenta la aparición de moho.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para preservar los cristales de vanillina y eliminar el riesgo de moho. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "¡Las vainas de vainilla naturales (vanilla beans) aportan un aroma y sabor dulce inigualable a la repostería de alta gama! 🍦✨\n\nLas vainas de vainilla contienen 'vanillina', el delicado compuesto responsable de su icónico aroma. Sin embargo, debido a su alto costo, muchas personas cometen el error de guardarlas en el refrigerador. La refrigeración provoca condensación en la superficie de las vainas ante los cambios de temperatura, lo que aumenta exponencialmente la actividad de agua (actividad de agua (Aw)) y fomenta la aparición de moho.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para preservar los cristales de vanillina y eliminar el riesgo de moho. 🛡️",
                 "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
                 "whyDesc": "Comprender las condiciones de estabilidad de la vanillina y evitar la condensación de humedad causada por fluctuaciones de temperatura es fundamental para una conservación prolongada.",
                 "guideTitle": "Guía de almacenamiento científicamente probada",
@@ -193,7 +193,7 @@
                 "cautions": [
                     {
                         "title": "Nunca guarde las vainas de vainilla en el refrigerador o congelador ⚠️",
-                        "desc": "Refrigerar las vainas causa condensación al sacarlas al aire ambiente. Esto aumenta drásticamente la actividad de agua ($A_w$) en la superficie, creando un ambiente ideal para hongos como Aspergillus y arruinando la estructura cristalina de la vanillina."
+                        "desc": "Refrigerar las vainas causa condensación al sacarlas al aire ambiente. Esto aumenta drásticamente la actividad de agua (actividad de agua (Aw)) en la superficie, creando un ambiente ideal para hongos como Aspergillus y arruinando la estructura cristalina de la vanillina."
                     },
                     {
                         "title": "No las deje expuestas al aire ni en lugares muy ventilados 🌿",
@@ -228,8 +228,8 @@
             "fr": {
                 "title": "Comment conserver les gousses de vanille fraîches : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales pour protéger les cristaux de vanilline, éviter la moisissure due à la condensation du réfrigérateur et prolonger la conservation selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Les gousses de vanille naturelles (vanilla beans) apportent un arôme doux et élégant incomparable à la pâtisserie fine ! 🍦✨\n\nCes gousses renferment un précieux composé aromatique : la vanilline. En raison de leur prix élevé, beaucoup commettent l'erreur de les conserver au réfrigérateur. Or, le froid provoque une condensation d'eau sur la gousse lors des variations de température, augmentant l'activité de l'eau ($A_w$) et favorisant l'apparition de moisissures.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour préserver la vanilline et éliminer tout risque de moisissure. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Les gousses de vanille naturelles (vanilla beans) apportent un arôme doux et élégant incomparable à la pâtisserie fine ! 🍦✨\n\nCes gousses renferment un précieux composé aromatique : la vanilline. En raison de leur prix élevé, beaucoup commettent l'erreur de les conserver au réfrigérateur. Or, le froid provoque une condensation d'eau sur la gousse lors des variations de température, augmentant l'activité de l'eau (activité de l'eau (Aw)) et favorisant l'apparition de moisissures.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour préserver la vanilline et éliminer tout risque de moisissure. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les conditions de stabilité de la vanilline et éviter la condensation d'humidité provoquée par les écarts de température au réfrigérateur est essentiel pour une conservation réussie.",
                 "guideTitle": "Guide de conservation scientifiquement prouvé",
@@ -237,7 +237,7 @@
                 "cautions": [
                     {
                         "title": "Ne conservez jamais vos gousses de vanille au réfrigérateur ou au congélateur ⚠️",
-                        "desc": "Le passage au frais provoque de la condensation dès que la gousse entre en contact avec l'air ambiant. Cela fait grimper l'activité de l'eau ($A_w$), offrant un terrain idéal aux moisissures (Aspergillus) et dégradant la structure de la vanilline."
+                        "desc": "Le passage au frais provoque de la condensation dès que la gousse entre en contact avec l'air ambiant. Cela fait grimper l'activité de l'eau (activité de l'eau (Aw)), offrant un terrain idéal aux moisissures (Aspergillus) et dégradant la structure de la vanilline."
                     },
                     {
                         "title": "Ne les laissez pas à l'air libre ou dans un endroit trop aéré 🌿",
@@ -272,8 +272,8 @@
             "de": {
                 "title": "Vanilleschoten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden zum Schutz von Vanillinkristallen, zur Vermeidung von Kondensschimmel durch Kühlung und die Haltbarkeit nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Echte Vanilleschoten (Vanilla Beans) verleihen feinen Desserts und Gebäck ein unvergleichlich edles, süßes Aroma! 🍦✨\n\nDie Schoten verdanken ihr Aroma dem wertvollen Duftstoff Vanillin. Wegen des hohen Preises lagern viele Menschen Vanilleschoten jedoch fälschlicherweise im Kühlschrank. Das kühle Umgebungsklima führt beim Herausnehmen zu Kondenswasserbildung (Condensation) auf der Schote, was die Wasseraktivität ($A_w$) sprunghaft ansteigen lässt und Schimmelbildung begünstigt.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Vanillinkristalle zu schützen und Schimmelrisiken auszuschließen. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Echte Vanilleschoten (Vanilla Beans) verleihen feinen Desserts und Gebäck ein unvergleichlich edles, süßes Aroma! 🍦✨\n\nDie Schoten verdanken ihr Aroma dem wertvollen Duftstoff Vanillin. Wegen des hohen Preises lagern viele Menschen Vanilleschoten jedoch fälschlicherweise im Kühlschrank. Das kühle Umgebungsklima führt beim Herausnehmen zu Kondenswasserbildung (Condensation) auf der Schote, was die Wasseraktivität (Wasseraktivität (Aw)) sprunghaft ansteigen lässt und Schimmelbildung begünstigt.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Vanillinkristalle zu schützen und Schimmelrisiken auszuschließen. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Stabilitätsbedingungen von Vanillin sowie das Vermeiden von Feuchtigkeitskondensation durch Temperaturschwankungen ist der Schlüssel zur erfolgreichen Haltbarmachung.",
                 "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -281,7 +281,7 @@
                 "cautions": [
                     {
                         "title": "Vanilleschoten niemals im Kühlschrank oder Gefrierfach lagern ⚠️",
-                        "desc": "Im Kühlschrank bildet sich beim Entnehmen Kondenswasser auf den Schoten. Dies erhöht die Oberflächen-Wasseraktivität ($A_w$) stark und schafft ideale Nährböden für Schimmelpilze (Aspergillus), während die Vanillinstruktur zerstört wird."
+                        "desc": "Im Kühlschrank bildet sich beim Entnehmen Kondenswasser auf den Schoten. Dies erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) stark und schafft ideale Nährböden für Schimmelpilze (Aspergillus), während die Vanillinstruktur zerstört wird."
                     },
                     {
                         "title": "Nicht ungeschützt an der Luft oder an zu zugigen Orten aufbewahren 🌿",
@@ -316,8 +316,8 @@
             "pt": {
                 "title": "Como conservar as favas de baunilha frescas: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais para proteger os cristais de vanilina, evitar o mofo por condensação da refrigeração e manter a frescura segundo a USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "As favas de baunilha naturais (vanilla beans) conferem um aroma doce e sofisticado inigualável para sobremesas finas e confeitaria! 🍦✨\n\nEssas favas contêm vanilina, o precioso composto aromático responsável por seu aroma icônico. Contudo, devido ao alto valor, muitas pessoas cometem o erro de guardá-las na geladeira. O frio da geladeira causa condensação na superfície da fava ao ser retirada, elevando a atividade de água ($A_w$) e criando o ambiente perfeito para o surgimento de mofo.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para preservar a vanilina e eliminar os riscos de mofo. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "As favas de baunilha naturais (vanilla beans) conferem um aroma doce e sofisticado inigualável para sobremesas finas e confeitaria! 🍦✨\n\nEssas favas contêm vanilina, o precioso composto aromático responsável por seu aroma icônico. Contudo, devido ao alto valor, muitas pessoas cometem o erro de guardá-las na geladeira. O frio da geladeira causa condensação na superfície da fava ao ser retirada, elevando a atividade de água (atividade de água (Aw)) e criando o ambiente perfeito para o surgimento de mofo.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para preservar a vanilina e eliminar os riscos de mofo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as condições de estabilidade da vanilina e evitar a condensação de umidade causada por variações de temperatura é fundamental para uma conservação duradoura.",
                 "guideTitle": "Guia de armazenamento comprovado cientificamente",
@@ -325,7 +325,7 @@
                 "cautions": [
                     {
                         "title": "Nunca guarde as favas de baunilha na geladeira ou no congelador ⚠️",
-                        "desc": "Guardar as favas na geladeira causa condensação de umidade ao entrar em contato com o ar ambiente. Isso eleva a atividade de água ($A_w$) na superfície, favorecendo fungos como Aspergillus e destruindo a estrutura da vanilina."
+                        "desc": "Guardar as favas na geladeira causa condensação de umidade ao entrar em contato com o ar ambiente. Isso eleva a atividade de água (atividade de água (Aw)) na superfície, favorecendo fungos como Aspergillus e destruindo a estrutura da vanilina."
                     },
                     {
                         "title": "Não deixe as favas expostas ao ar ou em locais muito ventilados 🌿",
@@ -360,8 +360,8 @@
             "id": {
                 "title": "Cara Menyimpan Polong Vanili (Vanilla Beans) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal untuk melindungi kristal vanilin, mencegah jamur embun akibat pendinginan, serta masa simpan berdasarkan panduan resmi USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Polong vanili alami (Vanilla Beans) menghadirkan aroma dan rasa manis nan mewah yang tak tertandingi untuk hidangan penutup! 🍦✨\n\nPolong vanili mengandung senyawa aromatik berharga yang disebut 'vanilin'. Namun karena harganya yang mahal, banyak orang secara keliru menyimpannya di dalam kulkas. Mendinginkan vanili menyebabkan terbentuknya embun (kondensasi) saat dikeluarkan ke suhu ruang, melonjakkan aktivitas air ($A_w$) dan memicu tumbuhnya jamur.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk melindungi kristal vanilin dan memblokir risiko jamur secara total. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Polong vanili alami (Vanilla Beans) menghadirkan aroma dan rasa manis nan mewah yang tak tertandingi untuk hidangan penutup! 🍦✨\n\nPolong vanili mengandung senyawa aromatik berharga yang disebut 'vanilin'. Namun karena harganya yang mahal, banyak orang secara keliru menyimpannya di dalam kulkas. Mendinginkan vanili menyebabkan terbentuknya embun (kondensasi) saat dikeluarkan ke suhu ruang, melonjakkan aktivitas air (aktivitas air (Aw)) dan memicu tumbuhnya jamur.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk melindungi kristal vanilin dan memblokir risiko jamur secara total. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami kondisi stabilitas senyawa vanilin dan mencegah kondensasi kelembapan akibat perubahan suhu kulkas adalah kunci utama penyimpanan jangka panjang.",
                 "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -369,7 +369,7 @@
                 "cautions": [
                     {
                         "title": "Jangan pernah menyimpan polong vanili di dalam kulkas atau freezer ⚠️",
-                        "desc": "Menyimpan vanili di kulkas memicu kondensasi embun saat terkena udara ruang. Hal ini meningkatkan aktivitas air ($A_w$) permukaan, menciptakan lingkungan ideal bagi jamur Aspergillus dan merusak struktur kristal vanilin."
+                        "desc": "Menyimpan vanili di kulkas memicu kondensasi embun saat terkena udara ruang. Hal ini meningkatkan aktivitas air (aktivitas air (Aw)) permukaan, menciptakan lingkungan ideal bagi jamur Aspergillus dan merusak struktur kristal vanilin."
                     },
                     {
                         "title": "Jangan membiarkan vanili terpapar udara terbuka atau di tempat berangin 🌿",

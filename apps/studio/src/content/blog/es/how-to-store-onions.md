@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & FSA</strong>"
+authority: "RDA & USDA & FSA"
 steps:
   - name: "Cuelgue las cebollas enteras en un lugar fresco y bien ventilado — Temp. Ambiente (30 días) 🌬️"
     text: "Las cebollas con cáscara se conservan mejor en un espacio fresco, a la sombra y bien ventilado (10-15 °C). 💡 Consejo de almacenamiento: Coloque las cebollas individualmente en una red o medias de nylon, atando un nudo entre cada una antes de colgar. Esto evita que se toquen, eliminando rozaduras y pudrición."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en investigaci
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & FSA</strong>.
+      Este contenido se basa en RDA & USDA & FSA.
     </p>
   </div>
 </div>

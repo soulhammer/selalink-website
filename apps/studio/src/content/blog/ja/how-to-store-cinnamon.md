@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "光と空気を遮断する遮光密閉容器（ガラス/金属/PP）に入れる — 精油の揮発＆吸湿遮断 🫙"
     text: "シナモンスティックやパウダーを開封したらすぐに遮光ガラス瓶、不透明密閉容器、または遮光ジッパーバッグに移し替えてください。💡保存のコツ：空気との接触を完全に遮断することで、シンナムアルデヒド精油の揮発を防ぎ湿気の吸湿をブロックできます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/quinoa_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 유엔식량농업기구(FAO) & 食品医薬品安全処(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 유엔식량농업기구(FAO) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "수분 활성도($A_w < 0.65$) 통제를 위한 밀폐 차광 보관하기 — 밀폐 차광 포장 (1 ~ 2년) 📦"
-    text: "익히지 않은 건조 퀴노아는 공기 및 빛과의 접촉을 줄이는 것이 핵심입니다. 💡 보관 팁: 퀴노아를 불투명한 차광 유리병이나 밀폐 용기에 담고, 실리카겔(건조제)을 넣어 밀봉해 주세요. 수분 활성도($A_w$)를 0.65 미만으로 유지하면 자가산화 속도가 현저히 지연되어 서늘하고 어두운 상온(15 ~ 20℃ 이하)에서 1 ~ 2년 이상 영양소를 유지할 수 있습니다."
+  - name: "수분 활성도(Aw< 0.65) 통제를 위한 밀폐 차광 보관하기 — 밀폐 차광 포장 (1 ~ 2년) 📦"
+    text: "익히지 않은 건조 퀴노아는 공기 및 빛과의 접촉을 줄이는 것이 핵심입니다. 💡 보관 팁: 퀴노아를 불투명한 차광 유리병이나 밀폐 용기에 담고, 실리카겔(건조제)을 넣어 밀봉해 주세요. 수분 활성도(Aw)를 0.65 미만으로 유지하면 자가산화 속도가 현저히 지연되어 서늘하고 어두운 상온(15 ~ 20℃ 이하)에서 1 ~ 2년 이상 영양소를 유지할 수 있습니다."
   - name: "냉장/냉동 보관으로 지질 산패 완전 억제하기 — 장기 냉장/냉동 보관 (2년 이상) ❄️"
     text: "여름철 습도가 높거나 대량의 퀴노아를 장기간 안전하게 보관하고 싶다면 저온 보관이 가장 확실합니다. 💡 보관 팁: 밀폐 용기나 지퍼백에 이중 밀봉하여 냉장실(0 ~ 4℃) 또는 냉동실(-18℃ 이하)에 보관하세요. 지질 산패 반응과 효소 활성이 극도로 억제되어 2년 이상 처음의 구수한 맛을 보존할 수 있습니다."
   - name: "익힌 퀴노아는 밀폐 용기에 담아 냉장/냉동 보관하기 — 익힌 퀴노아 보관 (냉장 5 ~ 7일 / 냉동 8 ~ 12개월) 🧊"
@@ -25,7 +25,7 @@ faqs:
 
 남미 안데스산맥에서 유래한 슈퍼푸드로, 단백질과 미네랄이 풍부해 전 세계 웰빙 및 대체 곡물의 대명사로 자리 잡은 퀴노아! 하지만 대량으로 사두었다가 시간이 지나면서 상온에서 쩐내가 나거나 눅눅해져 버린 경험 다들 있으시죠? 🌾
 
-퀴노아는 일반 곡류에 비해 불포화지방산 함량(약 6%)이 상대적으로 높아, 공기 중 산소와 접촉 시 지질 히드로페르옥사이드(Lipid hydroperoxide)가 형성되며 지방산 자가산화(Auto-oxidation) 반응이 빠르게 일어납니다. 이 과정에서 악취와 함께 산패가 진행되고 영양소가 파괴됩니다. 또한 표면의 천연 사포닌(Saponin) 보호층이 제거된 후 수분 활성도($A_w$)가 0.65 이상으로 올라가면 곰팡이와 쌀벌레가 생기기 쉬운 환경이 됩니다.
+퀴노아는 일반 곡류에 비해 불포화지방산 함량(약 6%)이 상대적으로 높아, 공기 중 산소와 접촉 시 지질 히드로페르옥사이드(Lipid hydroperoxide)가 형성되며 지방산 자가산화(자가 산화) 반응이 빠르게 일어납니다. 이 과정에서 악취와 함께 산패가 진행되고 영양소가 파괴됩니다. 또한 표면의 천연 사포닌(Saponin) 보호층이 제거된 후 수분 활성도(Aw)가 0.65 이상으로 올라가면 곰팡이와 쌀벌레가 생기기 쉬운 환경이 됩니다.
 
 이번 가이드에서는 국제 식량 및 식품 안전 기관의 공인된 지침을 바탕으로, 퀴노아의 산패를 막고 최대 2년 이상 영양과 구수한 맛을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 유엔식량농업기구(FAO) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 유엔식량농업기구(FAO) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">수분 활성도($A_w < 0.65$) 통제를 위한 밀폐 차광 보관하기 — 밀폐 차광 포장 (1 ~ 2년) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">수분 활성도(Aw< 0.65) 통제를 위한 밀폐 차광 보관하기 — 밀폐 차광 포장 (1 ~ 2년) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    익히지 않은 건조 퀴노아는 공기 및 빛과의 접촉을 줄이는 것이 핵심입니다. 💡 보관 팁: 퀴노아를 불투명한 차광 유리병이나 밀폐 용기에 담고, 실리카겔(건조제)을 넣어 밀봉해 주세요. 수분 활성도($A_w$)를 0.65 미만으로 유지하면 자가산화 속도가 현저히 지연되어 서늘하고 어두운 상온(15 ~ 20℃ 이하)에서 1 ~ 2년 이상 영양소를 유지할 수 있습니다.
+    익히지 않은 건조 퀴노아는 공기 및 빛과의 접촉을 줄이는 것이 핵심입니다. 💡 보관 팁: 퀴노아를 불투명한 차광 유리병이나 밀폐 용기에 담고, 실리카겔(건조제)을 넣어 밀봉해 주세요. 수분 활성도(Aw)를 0.65 미만으로 유지하면 자가산화 속도가 현저히 지연되어 서늘하고 어두운 상온(15 ~ 20℃ 이하)에서 1 ~ 2년 이상 영양소를 유지할 수 있습니다.
   </p>
 </div>
 

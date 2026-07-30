@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NOAA & USDA & MFDS</strong>"
+authority: "NOAA & USDA & MFDS"
 steps:
   - name: "Purque a areia em água salgada e no escuro — Purga de areia 🌊"
     text: "Mergulhe os mariscos em água salgada a 3% (30g de sal por litro de água). Adicione uma colher de metal, cubra com saco escuro e deixe em local fresco (0 a 4 °C) por 2 a 3 horas."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NOAA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

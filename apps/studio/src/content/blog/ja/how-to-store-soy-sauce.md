@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 日本醤油協会(JSA) & 米国農務省(USDA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 日本醤油協会(JSA) & 米国農務省(USDA)"
 steps:
   - name: "開封後はすぐに冷蔵（0〜5℃）保存する — 開封後冷蔵保存 (180〜360日間) ❄️"
     text: "開封前は涼しい常温で保存可能ですが、開封後は酸素と触れて酸化が進みます。💡保存のコツ：開封した醤油はすぐに冷蔵庫（0〜5℃）へ入れてください。低温環境は酸化速度を極限まで抑え、醤油本来の芳醇な香りとキレのあるうま味を6ヶ月〜1年以上維持します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 日本醤油協会(JSA) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 日本醤油協会(JSA) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

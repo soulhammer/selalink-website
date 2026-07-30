@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "置于阴凉常温下催熟 — 激发浓郁甜香 📦"
     text: "较硬或未熟透的桃子请避开阳光直射，置于通风阴凉的常温（15 ~ 20℃）下放置1 ~ 3天进行自然催熟。💡储存小贴士：注意不要让桃子互相挤压，待手感微软且散发甜香时即催熟完成。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

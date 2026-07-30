@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Madure los melones enteros a temperatura ambiente fresca (18–22 °C) — Maduración (2–5 días) 🧺"
     text: "Mantenga los melones enteros en un lugar fresco lejos de la luz solar. 💡 Consejo de almacenamiento: El melón está maduro cuando la base cede ligeramente a la presión suave y desprende un aroma dulce. Refrigere 2–3 horas antes de servir."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

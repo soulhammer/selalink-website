@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & Japan Soy Sauce Association (JSA) & USDA</strong>"
+authority: "MFDS & Japan Soy Sauce Association (JSA) & USDA"
 steps:
   - name: "Refrigerate (0–5°C) immediately after opening — Refrigerated Storage (180–360 Days) ❄️"
     text: "Unopened soy sauce can be kept in a cool pantry, but opening it accelerates oxidation. 💡 Storage Tip: Store opened soy sauce in the refrigerator (0–5°C / 32–41°F). Cold temperatures drastically slow oxidation, preserving its distinct aroma and clean umami flavor for 6 months to over 1 year."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step soy sauce storage guide bas
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & Japan Soy Sauce Association (JSA) & USDA</strong>.
+      This content is based on MFDS & Japan Soy Sauce Association (JSA) & USDA.
     </p>
   </div>
 </div>

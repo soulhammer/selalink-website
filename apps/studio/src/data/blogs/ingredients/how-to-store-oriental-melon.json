@@ -8,7 +8,7 @@
             "ko": {
                 "title": "참외 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 참외의 최적 보관 온도, 수분 차단 랩핑법 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "선명한 노란 껍질 속 아삭한 과육과 달콤한 태자리가 매력적인 대표 여름 과일 참외! 💛\n\n참외 한 상자를 사왔다가 상온이나 냉장고에 그대로 두어 껍질이 쭈글쭈글해지고 내부 씨 부분(태자리)이 먼저 물러 발효된 냄새가 나 버려본 경험 다들 있으시죠?\n\n참외는 당도가 높고 수분 함량이 90% 이상인 과일로, 특히 씨가 들어있는 '태자리(Placenta)' 부위는 수분과 당분이 집중되어 있어 부패 세균과 효모가 가장 먼저 번식하는 취약한 부위입니다. 또한, 공기 중에 그대로 노출되면 껍질을 통해 수분이 계속 증발하여 특유의 아삭한 식감을 잃게 됩니다. 이번 가이드에서는 전문 기관의 검증된 원리를 바탕으로, 참외의 씨 부위 변질을 막고 아삭함과 단맛을 2주 이상(최대 14~20일) 오랫동안 유지해 주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "참외 태자리(씨 부위)의 높은 당도 및 발효 반응 특성과 표피 수분 증발 기전을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식감 유지와 위생 관리에 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Oriental Melons Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, moisture-locking plastic wrap method, and shelf life for Korean/Oriental melons based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Oriental melons (Korean melons) are a beloved summer fruit with vibrant yellow skin, crisp white flesh, and a sweet seed center (placenta)! 💛\n\nHave you ever bought a box of Korean melons, left them out or in the fridge, only to find their skins wrinkled and the inner seed cavity fermented with a sour smell?\n\nOriental melons have over 90% water content and high sugar levels. The inner seed cavity ('placenta') is particularly concentrated with moisture and sugar, making it the most vulnerable area where spoilage bacteria and yeasts proliferate first. Furthermore, exposing them directly to ambient air causes continuous moisture loss through the rind, ruining their signature crunch. In this guide, introduces a scientifically proven 3-step storage guide based on expert standards to protect the seed core and preserve sweetness and crispness for over 2 weeks (14 to 20 days). 🛡️",
                 "whyTitle": "Why Store Oriental Melons This Way? Scientific Facts",
                 "whyDesc": "Understanding the high sugar concentration and fermentation characteristics of the placenta core, as well as rind transpiration mechanisms, is essential for preserving crunch and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "チャメ（韓国メロン）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくチャメ（オリエンタルメロン）の最適保存温度、水分遮断ラッピング法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "鮮やかな黄色い皮とシャキシャキとした果肉、甘い種周り（胎座）が魅力的な夏の代表果物チャメ（韓国メロン）！💛\n\n一箱買ってきたものの常温や冷蔵庫にそのまま置いておいたら皮がシワシワになり、内部の種周り（胎座）が真っ先に傷んで発酵したような臭いがして捨ててしまった経験はありませんか？\n\nチャメは糖度が高く水分含有量が90%以上の果物で、特に種が入っている「胎座（Placenta）」部分は水分と糖分が集中しているため、腐敗細菌や酵母が最も繁殖しやすい脆弱な部位です。また、空気にそのまま露出すると皮から水分がどんどん蒸発し、特徴であるシャキシャキした食感が失われます。本記事では専門機関の検証済み原理に基づき、種周りの変質を防ぎシャキシャキ感と甘みを2週間以上（最大14〜20日間）保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "チャメの胎座（種周り）の高い糖度と発酵反応の特性、果皮の水分蒸発メカニズムを理解し、適切な保存法を実践することが食感と衛生の維持に不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持韩国甜瓜/香瓜新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解韩国甜瓜（Chameh）的最佳储存温度、保鲜膜锁水包裹法及保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "鲜黄色的外皮下包裹着爽脆果肉与香甜瓜瓤，韩国甜瓜（香瓜/Chameh）是极具特色的夏日代表水果！💛\n\n您是否买过一箱甜瓜，放在常温或直接丢进冰箱，没过几天果皮就发皱，内部的瓜籽部位（瓜瓤）首先变软发酵散发出发酸的气味？\n\n韩国甜瓜含水量高达90%以上且含糖量高，尤其是带有甜籽的“瓜瓤（Placenta）”部位，水分与糖分高度集中，是腐败细菌与酵母菌最先滋生的脆弱部位。此外，直接暴露于空气中会导致水分透过果皮不断蒸发，丧失特有的爽脆口感。本指南基于权威机构验证的指南，带您掌握3步科学保鲜秘诀，防止瓜瓤变质，保持清甜爽脆长达2周以上（最长14~20天）。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解甜瓜瓜瓤（籽部）的高糖度与发酵特性，以及果皮蒸腾失水机制，对于保持清脆口感与食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los melones orientales frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura de almacenamiento, técnica de envoltura para retener la humedad y tiempo de conservación para melones coreanos/orientales según directrices oficiales.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¡El melón oriental (melón coreano/Chameh) es una popular fruta de verano con su brillante piel amarilla, pulpa crujiente y dulce centro de semillas (placenta)! 💛\n\n¿Alguna vez compró una caja de melones coreanos, los dejó en la despensa o el refrigerador, y pocos días después encontró la piel arrugada y el centro fermentado con olor agrio?\n\nLos melones orientales contienen más de un 90 % de agua y un alto nivel de azúcar. La cavidad interna de las semillas ('placenta') concentra mucha humedad y azúcares, siendo la zona más vulnerable donde proliferan primero bacterias y levaduras. Además, exponerlos al aire provoca la pérdida constante de agua por la cáscara, arruinando su textura crujiente. En esta guía se presenta una guía en 3 pasos respaldada por expertos para proteger el centro de las semillas y mantener su dulzura y textura crocante por más de 2 semanas (14 a 20 días). 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender la concentración de azúcares y fermentación de la placenta, así como la transpiración de la cáscara, es fundamental para mantener la textura crujiente y la higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le melon oriental frais : Guide scientifique de conservation",
                 "description": "Découvrez la température de stockage optimale, la technique d'emballage sous film étirable et la durée de conservation du melon coréen selon les normes officielles.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Le melon oriental (melon coréen/Chameh) est un fruit d'été incontournable avec sa peau jaune vif, sa chair croquante et son cœur de graines très doux (placenta) ! 💛\n\nAvez-vous déjà acheté un carton de melons coréens pour les retrouver flétris avec un cœur fermenté dégageant une odeur aigre après quelques jours ?\n\nContenant plus de 90 % d'eau et riche en sucre, le melon oriental possède une cavités centrale ('placenta') très concentrée en eau et nutriments, ce qui en fait la zone la plus vulnérable où prolifèrent bactéries et levures. L'exposition à l'air ambiant entraîne une évaporation continue. Dans ce guide, vous présente un guide de conservation en 3 étapes pour protéger le cœur et préserver le croquant et le sucre pendant plus de 2 semaines (14 à 20 jours). 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre la concentration en sucre et la fermentescibilité de la cavité centrale, ainsi que la transpiration de l'écorce, est essentiel pour maintenir le croquant et la sécurité alimentaire.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Orientalische Melonen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, die Folien-Einwickelmethode zum Feuchtigkeitsschutz und die Haltbarkeit für koreanische Melonen nach offiziellen Richtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Die orientalische Melone (koreanische Melone/Chameh) ist eine beliebte Sommerfrucht mit leuchtend gelber Schale, knackigem weißem Fleisch und süßem Kerngehäuse! 💛\n\nHaben Sie schon einmal eine Kiste koreanischer Melonen gekauft und im Schrank oder Kühlschrank gelagert, nur um nach wenigen Tagen schrumpelige Schalen und ein vergorenes Kerngehäuse vorzufinden?\n\nOrientalische Melonen bestehen zu über 90 % aus Wasser und sind sehr zuckerreich. Das innere Kerngehäuse ('Plazenta') ist besonders zucker- und feuchtigkeitsreich und somit die anfälligste Stelle für Bakterien und Hefen. Ungeschützt verdunstet zudem Wasser über die Schale, was den Biss ruiniert. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um das Kerngehäuse zu schützen und die Knackigkeit über 2 Wochen (14 bis 20 Tage) zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Zuckergehalte und Fermentationsneigung im Kerngehäuse sowie der Schalentranspiration ist entscheidend für Knackigkeit und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar melão oriental fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura de armazenamento, técnica de embalagem em filme plástico e tempo de conservação do melão coreano segundo diretrizes oficiais.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "O melão oriental (melão coreano/Chameh) é uma fruta de verão amada pela casca amarela vibrante, polpa crocante e centro de sementes doce (placenta)! 💛\n\nVocê já comprou uma caixa de melões coreanos, deixou na dispensa ou geladeira e poucos dias depois encontrou a casca murcha e o centro fermentado com cheiro azedo?\n\nOs melões orientais contêm mais de 90% de água e alto teor de açúcar. A cavidade interna das sementes ('placenta') é concentrada em umidade e açúcares, sendo a área mais vulnerável onde bactérias e leveduras proliferam primeiro. Além disso, a exposição ao ar causa perda contínua de água pela casca. Neste guia, apresentamos um guia em 3 etapas para proteger o centro de sementes e manter a crocância e o doçor por mais de 2 semanas (14 a 20 dias). 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a concentração de açúcares e fermentação da placenta, bem como a transpiração da casca, é essencial para manter a textura crocante e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Melon Oriental (Melon Korea) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal, teknik membungkus plastik wrap penahan kelembapan, dan masa simpan melon Korea berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Melon Oriental (melon Korea/Chameh) adalah buah musim panas favorit dengan kulit kuning cerah, daging buah renyah, dan pusat biji (plasenta) yang sangat manis! 💛\n\nPernahkah Anda membeli satu kotak melon Korea, meninggalkannya di luar atau di kulkas, lalu menemukan kulitnya keriput dan rongga biji bagian dalamnya membusuk berbau asam?\n\nMelon Oriental memiliki kadar air lebih dari 90% dan kadar gula tinggi. Rongga biji bagian dalam ('plasenta') sangat terkonsentrasi air dan gula, menjadikannya area paling rentan tempat bakteri pembusuk dan ragi berkembang biak lebih dulu. Selain itu, membiarkannya terpapar udara luar menyebabkan penguapan air terus-menerus melalui kulit, merusak tekstur renyahnya. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk melindungi bagian biji dan menjaga kerenyahan serta kemanisannya selama lebih dari 2 minggu (14 hingga 20 hari). 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami konsentrasi gula tinggi dan sifat fermentasi pada plasenta biji, serta transpirasi kulit buah sangat penting untuk menjaga kerenyahan dan kebersihan.",

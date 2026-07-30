@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bell_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Secar a superfície e embrulhar individualmente em papel-toalha — Controle de umidade 📦"
     text: "Controlar a umidade evita o apodrecimento. 💡 Dica de conservação: Sem lavar, seque a umidade da casca e envolva cada pimentão com papel-toalha mantendo o cabinho para cima."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático de conservação de pimentões em 3 et
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

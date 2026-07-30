@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Corte as folhas superiores deixando cerca de 2 cm de talo — Bloqueio de perda de umidade e nutrientes ✂️"
     text: "Parar a transpiração das folhas é o primeiro passo fundamental. 💡 Dica de conservação: Cortar os talos rente ao bulbo gera feridas que vazam o suco de betacianina. Deixe 2 cm de talo para selar as vias de perda de água."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de beterraba em 3 etapas recom
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

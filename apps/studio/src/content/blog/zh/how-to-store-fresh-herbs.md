@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心"
 steps:
   - name: "罗勒：切除茎部放入水瓶，常温（15 ~ 20℃）保存 — 常温插花水培法 🌸"
     text: "怕冷的罗勒核心在于常温保存。💡储存小贴士：剪去罗勒茎部末端，垂直插入装有1 ~ 2厘米清水的玻璃瓶中，顶部松松地罩上保鲜袋，置于常温（15 ~ 20℃）下可保鲜7 ~ 10天。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心。
     </p>
   </div>
 </div>

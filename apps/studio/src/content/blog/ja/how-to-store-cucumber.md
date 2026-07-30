@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "表面を洗ったら水分を完全に乾かす — 腐敗とカビの防止 🥒"
     text: "きゅうりは水分量が非常に高いため、表面に水分が溜まるとすぐに柔らかく傷んでしまいます。💡保存のコツ：表面の汚れを水で洗い流した場合は、ペーパータオルや乾いた布で水気を一滴残さず拭き取り、風通しの良い日陰で10分ほど乾かしてください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

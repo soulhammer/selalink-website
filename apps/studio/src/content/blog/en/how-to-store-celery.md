@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/celery_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Separate leaves from stalks — Prevent Moisture Loss ✂️"
     text: "Celery leaves continuously draw moisture away from the stalks, causing them to wilt faster. 💡 Storage Tip: Cut the leaves off the stalks immediately after buying. Store leaves separately wrapped in paper towels and keep the stalks whole or cut to fit your storage container."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step celery storage guide re
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

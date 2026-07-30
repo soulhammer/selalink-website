@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_chives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "세척 없이 키친타월로 감싸 수분 조절하기 — 수분 통제 📦"
     text: "부추 보관의 핵심은 잎 표면에 수분이 맺히지 않도록 통제하는 것입니다. 💡 보관 팁: 씻지 않은 부추의 시든 잎과 이물질을 털어낸 후, 뿌리부터 잎 끝까지 키친타월이나 신문지로 줄기 전체를 감싸주세요. 종이가 내부 습기를 흡수하여 과도한 수분으로 인한 부패를 방지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

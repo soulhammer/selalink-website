@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde em recipientes herméticos e opacos (vidro/metal/PP) — Prevenir volatilidade e umidade 🫙"
     text: "Transfira imediatamente as canelas em pau ou em pó para potes de vidro opaco, latas de metal ou sacos herméticos escuros. 💡 Dica de conservação: A vedação completa evita a evaporação do cinnamaldeído e bloqueia a umidade do ar."
@@ -38,7 +38,7 @@ Neste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

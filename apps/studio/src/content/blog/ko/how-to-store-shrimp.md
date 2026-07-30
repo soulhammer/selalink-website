@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/shrimp_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "옅은 소금물로 씻고 물기 제거하기 — 신선도 및 감칠맛 보존 📦"
-    text: "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타올로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
+    text: "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타월로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
   - name: "1 ~ 2일 내 섭취 시 얼음과 함께 냉장 보관하기 — 단기 냉장 (1 ~ 2일) ❄️"
     text: "새우는 일반 냉장 온도(4℃)에서도 부패가 진행될 만큼 저온 관리가 중요합니다. 💡 보관 팁: 밀폐 용기 바닥에 얼음을 깔고 비닐을 덮은 후 새우를 올리거나, 얼음물과 함께 담아 냉장고 가장 차가운 신선실(0 ~ 2℃)에 보관하세요."
   - name: "장기 보관 시 얼음막(Ice Glaze) 형성하여 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">옅은 소금물로 씻고 물기 제거하기 — 신선도 및 감칠맛 보존 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타올로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다.
+    민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타월로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다.
   </p>
 </div>
 

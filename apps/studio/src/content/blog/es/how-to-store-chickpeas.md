@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde los garbanzos secos en recipientes herméticos con humedad menor al 60% — Prevenir aflatoxinas (1–2 años) 📦"
     text: "Los garbanzos secos deben mantenerse con menos del 12% de humedad y 60% de humedad relativa. 💡 Consejo de almacenamiento: Guárdelos en un recipiente hermético con desecante (gel de sílice) en una despensa fresca. Evita la germinación de hongos y dura de 1 a 2 años."
@@ -40,7 +40,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

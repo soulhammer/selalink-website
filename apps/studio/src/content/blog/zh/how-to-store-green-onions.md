@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "带泥不洗用报纸包裹竖立常温保存 — 常温保存 (5天) 🌿"
     text: "带泥未清洗的大葱切勿沾水，用报纸或草纸宽松包裹。💡储存小贴士：将根部朝下，竖直存放在阴凉通风的常温（10 ~ 15℃）阴影处。维持与其生长姿态一致的直立状态，能最大程度减少重力应激造成的能量消耗与发黄。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

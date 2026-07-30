@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Potong mahkota (daun) dan simpan dalam posisi terbalik — Trik Meratakan Rasa Manis 🔄"
     text: "Gula alami nanas mengendap di bagian bawah buah. 💡 Tips Penyimpanan: Potong mahkota daunnya, bungkus nanas dengan tisu dapur atau koran, lalu berdirikan secara terbalik (bagian potongan di bawah) selama 1–2 hari. Gravitasi akan menyebarkan kadar gula ke seluruh daging buah."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

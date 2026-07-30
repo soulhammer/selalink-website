@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Conserver les bouteilles fermées dans un endroit frais et sombre — Placard (plus d'1 an) 🏺"
     text: "Le sirop d'érable non ouvert est stérilisé à la chaleur et très stable à température ambiante. 💡 Astuce de conservation : Gardez les bouteilles fermées dans un placard frais et sec (10–20 °C) à l'abri de la lumière. Il conserve son goût jusqu'à la date de péremption."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & CFIA & MFDS & RDA</strong>.
+      Ce contenu est basé sur USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

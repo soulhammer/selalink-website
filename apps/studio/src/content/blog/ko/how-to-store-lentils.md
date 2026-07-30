@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
-  - name: "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분활성도 $A_w < 0.65$ 유지 및 해충 차단 🫙"
+  - name: "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분 활성도(Aw) < 0.65 유지 및 해충 차단 🫙"
     text: "건조 렌틸콩을 구매한 즉시 밀폐력이 뛰어난 유리병이나 식품용 PET/PP 밀폐 용기에 담고, 실리카겔 등 식품용 제습제를 함께 넣어주세요. 💡 보관 팁: 렌틸콩의 수분 함량을 10 - 12% 이하로 통제하여 수분활성도를 0.65 미만으로 유지하면 미생물 생육 한계를 낮춰 곰팡이독소 생성 및 팥바구미 침입을 원천 차단합니다."
   - name: "직사광선이 없는 서늘한 암소(15 - 20℃)에 보관하기 — 상온 건소 보관 (1 - 2년) 🚪"
     text: "밀폐 용기에 담은 렌틸콩을 햇빛이 들지 않는 주방 하부장이나 팬트리 같은 서늘한 장소에 보관하세요. 💡 보관 팁: 15 - 20℃ 이하의 서늘하고 건조한 환경에서는 영양소 파괴와 변색 없이 1 - 2년 이상 장기 보존이 가능합니다."
@@ -25,7 +25,7 @@ faqs:
 
 풍부한 단백질과 식이섬유, 철분을 자랑하며 세계적인 5대 슈퍼푸드로 꼽히는 렌틸콩(Lentils)! 🫘
 
-렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분활성도($A_w$)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.
+렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분 활성도(Aw)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.
 
 이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 렌틸콩을 해충과 독소 없이 신선하게 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️
 
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분활성도 $A_w < 0.65$ 유지 및 해충 차단 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분 활성도(Aw) < 0.65 유지 및 해충 차단 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     건조 렌틸콩을 구매한 즉시 밀폐력이 뛰어난 유리병이나 식품용 PET/PP 밀폐 용기에 담고, 실리카겔 등 식품용 제습제를 함께 넣어주세요. 💡 보관 팁: 렌틸콩의 수분 함량을 10 - 12% 이하로 통제하여 수분활성도를 0.65 미만으로 유지하면 미생물 생육 한계를 낮춰 곰팡이독소 생성 및 팥바구미 침입을 원천 차단합니다.

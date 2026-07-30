@@ -8,7 +8,7 @@
             "ko": {
                 "title": "케일 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 케일의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "디톡스 주스나 샐러드용으로 신선한 케일을 사 왔는데, 며칠 만에 잎이 누렇게 변하고 시들어버려 버린 적 있으시죠? 🥬\n\n케일은 전 세계적으로 사랑받는 대표 슈퍼푸드 채소이지만, 에틸렌(Ethylene) 가스 감수성이 극도로 높은 엽채류입니다. 사과나 바나나 등 에틸렌을 분출하는 과일과 함께 두면 엽록소 분해 효소(Chlorophyllase)가 촉진되어 잎이 노랗게 변하는 황화 현상이 일어납니다. 또한 증산 작용으로 수분을 잃으면 세포 팽창압(Turgor Pressure)을 저하당해 급격히 시듭니다.\n\n이번 가이드에서는 국제 식품 안전 및 농업 기관에서 권장하는 과학적이고 확실한 케일 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -27,7 +27,7 @@
                 "steps": [
                     {
                         "name": "줄기 하단을 젖은 타월로 감싸 수분 공급하기 — 수분 손실 방지 🧻",
-                        "text": "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타올로 감싸 수분을 지속적으로 공급해 주세요."
+                        "text": "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타월로 감싸 수분을 지속적으로 공급해 주세요."
                     },
                     {
                         "name": "밀폐 용기나 지퍼백에 넣어 0~4℃ 냉장 보관하기 — 냉장 보관 (7~10일) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Kale Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for kale based on official safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Have you ever bought fresh kale for smoothies or salads, only to find its leaves turned yellow and wilted within just a few days? 🥬\n\nKale is a globally recognized superfood, but as a leafy green, it is extremely sensitive to ethylene gas. Storing it near ethylene-emitting fruits like apples or bananas accelerates chlorophyllase enzyme activity, leading to leaf yellowing (chlorosis). Furthermore, moisture loss from transpiration reduces turgor pressure, causing the leaves to wilt rapidly.\n\nIn this guide, we introduce a scientifically proven 3-step kale storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
                 "whyTitle": "Why Store Kale This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ケールを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくケールの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "スムージーやサラダ用に新鮮なケールを買ってきたものの、わずか数日で葉が黄色く変色し、しなびて捨ててしまった経験はありませんか？🥬\n\nケールは世界的に有名なスーパーフードですが、エチレン（Ethylene）ガスへの感度が極めて高い葉物野菜です。リンゴやバナナなどのエチレン放出果物と一緒に保存すると、葉緑素分解酵素（Chlorophyllase）が活性化して黄化現象を起こし、蒸散作用で水分が抜けると細胞膨張圧（Turgor Pressure）を失って急速にしおれます。\n\n本記事では、国際的な専門機関が推奨するケールの鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持羽衣甘蓝新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解羽衣甘蓝的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "当您买回新鲜的羽衣甘蓝准备做沙拉或青汁，却发现没过几天叶子就发黄干瘪，不得不丢弃？🥬\n\n羽衣甘蓝是公认的超级食物，但作为叶菜类，它对乙烯（Ethylene）气体极其敏感。若与苹果、香蕉等释放乙烯的水果放在一起，会激活叶绿素分解酶（Chlorophyllase），加速叶片发黄；同时蒸腾作用导致水分流失，使细胞膨压（Turgor Pressure）降低而快速萎蔫。\n\n本指南基于权威机构建议，为您带来3步科学羽衣甘蓝保鲜秘诀，锁住营养与爽脆。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la col rizada (kale) fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la col rizada según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¿Alguna vez compró col rizada fresca para batidos o ensaladas y descubrió que sus hojas se ponían amarillas y marchitas en pocos días? 🥬\n\nEl kale o col rizada es un superalimento reconocido mundialmente, pero como hortaliza de hoja es extremadamente sensible al gas etileno. Guardarla junto a frutas que emiten etileno, como manzanas o plátanos, acelera la enzima clorofilasa, causando el amarillamiento foliar. Además, la pérdida de agua por transpiración reduce la presión de turgencia, haciendo que se marchite rápidamente.\n\nEn esta guía se presenta una guía de conservación de la col rizada en 3 pasos respaldada por expertos en seguridad alimentaria. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le chou frisé (kale) frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou frisé selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Avez-vous déjà acheté du chou frisé (kale) frais pour des smoothies ou des salades, pour constater que ses feuilles jaunissaient et se flétrissaient en quelques jours ? 🥬\n\nLe kale est un superaliment reconnu mondialement, mais en tant que légume feuille, il est extrêmement sensible au gaz éthylène. Le stocker près de fruits émetteurs d'éthylène comme les pommes ou les bananes stimule l'enzyme chlorophyllase, provoquant le jaunissement des feuilles. De plus, la transpiration entraîne une perte d'eau qui réduit la pression de turgescence, provoquant un flétrissement rapide.\n\nDans ce guide, vous présente un guide de conservation du kale en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Grünkohl (Kale) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Grünkohl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Haben Sie schon einmal frischen Grünkohl (Kale) für Smoothies oder Salate gekauft, nur um nach wenigen Tagen festzustellen, dass die Blätter gelb und welk wurden? 🥬\n\nGrünkohl ist ein weltweit bekanntes Superfood, aber als Blattgemüse extrem empfindlich gegenüber Ethylengas. Die Lagerung neben ethylenabgebenden Früchten wie Äpfeln oder Bananen aktiviert das Enzym Chlorophyllase, was zur Vergilbung führt. Zudem verringert der Wasserverlust durch Transpiration den Turgordruck, sodass die Blätter rasch erschlaffen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Grünkohl-Lagerung. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar couve-crespa (kale) fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-crespa com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Você já comprou couve-crespa (kale) fresca para sucos ou saladas e descobriu que as folhas ficaram amareladas e murchas em poucos dias? 🥬\n\nA couve-crespa é um superalimento reconhecido mundialmente, mas por ser uma hortaliça folhosa, é extremamente sensível ao gás etileno. Guardá-la perto de frutas que emitem etileno, como maçãs ou bananas, acelera a ação da enzima clorofilase, provocando o amarelamento. Além disso, a perda de água por transpiração reduz a pressão de turgor, fazendo com que murche rapidamente.\n\nNeste guia, apresentamos um guia científico de conservação de kale em 3 etapas para preservar o frescor e os nutrientes. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Daun Kale agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun kale berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Pernahkah Anda membeli daun kale segar untuk jus atau salad, tetapi dalam beberapa hari daunnya menguning dan layu? 🥬\n\nKale adalah superfood yang diakui dunia, tetapi sebagai sayuran daun, kale sangat sensitif terhadap gas etilen. Menyimpannya dekat buah-buahan penghasil etilen seperti apel atau pisang mempercepat aktivitas enzim klorofilase, memicu penguningan daun. Selain itu, kehilangan air akibat transpirasi mengurangi tekanan turgor, menyebabkan kale layu dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kale 3 langkah berbasis ilmiah untuk menjaga kesegaran dan nutrisinya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

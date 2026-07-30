@@ -8,7 +8,7 @@
             "ko": {
                 "title": "청경채 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 청경채의 최적 보관 온도, 세포 팽창압 유지를 통한 시듦 방지 및 냉해 차단 가이드를 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "아삭한 식감과 깔끔한 맛으로 마라탕, 샤브샤브, 볶음 요리 등 전 세계 아시안 푸드에서 빠질 수 없는 대표 엽채류 청경채! 하지만 사온 지 며칠 지나지 않아 잎이 누렇게 시들고 줄기가 물러져 버린 경험 다들 있으시죠? 🥬\n\n청경채는 넓은 잎의 기공을 통한 증산 작용(Transpiration) 속도가 매우 빠른 채소입니다. 수분이 조금만 손실되어도 세포 팽창압(Turgor Pressure)이 급격히 떨어져 아삭함을 잃고 시듦 현상이 발생합니다. 또한 0°C 이하의 극저온에 노출되면 냉해(Chilling Injury)로 인해 세포막이 붕괴하고 짓물림이 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 청경채의 수분 손실을 막고 생육 방향을 유지하여 아삭함을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Bok Choy Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for bok choy based on official safety guidelines to prevent wilting and chilling injury.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Celebrated for its crisp texture and clean flavor, bok choy is an essential leafy green in Asian stir-fries, soups, and global cuisine! However, have you ever stored bok choy only to find its leaves yellowing and stalks turning mushy within days? 🥬\n\nBok choy has a very rapid transpiration rate through its broad leaf stomata. Even minimal moisture loss drastically drops turgor pressure, causing rapid wilting. Furthermore, exposing bok choy to freezing temperatures below 0°C causes chilling injury, collapsing cell membranes and causing water-soaking breakdown.\n\nIn this guide, we introduce a scientifically proven 3-step bok choy storage guide based on guidelines from agricultural and food safety authorities to prevent water loss, maintain vertical growth alignment, and keep it crisp. 🛡️",
                 "whyTitle": "Why Store Bok Choy This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "チンゲンサイを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくチンゲンサイの最適な保存温度、細胞膨張圧の維持による shidare 防止、低温障害の遮断ガイドをご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "シャキシャキした食感とクセのない味で、炒め物やスープ、鍋料理に欠かせない 代表的葉物野菜のチンゲンサイ！ですが、買ってきて数日経つと葉が黄色く萎れたり、茎がドロドロに溶けて捨ててしまった経験はありませんか？🥬\n\nチンゲンサイは広い葉の気孔を通じた蒸散作用（Transpiration）の速度が非常に早い野菜です。水分が少しでも失われると細胞膨張圧（Turgor Pressure）が急激に低下し、シャキシャキ感を失って萎れが発生します。また、0℃以下の極低温に露出されると低温障害（Chilling Injury）によって細胞膜が破壊され、軟化・腐敗を起こします。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、チンゲンサイの水分損失を防ぎ、生育方向を維持してシャキシャキ感を長く保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持上海青（青梗菜/小油菜）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解上海青（青梗菜）的最佳储存温度、通过维持细胞膨压防止萎蔫及避免冷害的科学方法。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "上海青（青梗菜/小油菜）凭其爽脆的口感和清爽的味道，是麻辣烫、火锅、炒菜等各类亚裔美食中不可或缺的代表性绿叶蔬菜！但您是否有过买回来没几天叶子就发黄萎蔫、菜茎发软变烂的经历？🥬\n\n上海青叶片宽大，通过气孔发生的蒸腾作用（Transpiration）速率极快。哪怕流失少量水分，细胞膨压（Turgor Pressure）也会急剧下降，导致失去爽脆度并迅速萎蔫。此外，若暴露于0°C以下的极低温环境中，会因冷害（Chilling Injury）导致细胞膜崩溃而水渍化腐烂。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学上海青保存秘诀，防止水分流失并维持立向生长，长久锁住爽脆口感。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el bok choy fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bok choy según las directrices oficiales para evitar el marchitamiento y el daño por frío.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¡Celebrado por su textura crujiente y sabor suave, el bok choy es una verdura de hoja verde esencial en salteados, sopas y la cocina internacional! Sin embargo, ¿alguna vez lo guardó solo para ver cómo sus hojas se ponían amarillas y sus tallos se ablandaban en pocos días? 🥬\n\nEl bok choy tiene una tasa de transpiración muy rápida a través de sus estomas. Incluso una mínima pérdida de humedad reduce drásticamente la presión de turgencia, provocando un rápido marchitamiento. Además, exponerlo a temperaturas bajo 0 °C causa daño por frío (chilling injury), colapsando las membranas celulares.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para evitar la pérdida de agua, mantener la alineación vertical y conservar su frescura crujiente. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le bok choy frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le bok choy selon les directives officielles pour éviter le flétrissement et les dégâts dus au froid.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Célébré pour sa texture croquante et sa saveur douce, le bok choy est un légume feuille indispensable des sautés, potages et de la cuisine asiatique ! Cependant, vous est-il déjà arrivé de le conserver pour retrouver ses feuilles jaunies et ses tiges molles en quelques jours ? 🥬\n\nLe bok choy a un taux de transpiration très élevé par les stomates de ses feuilles. La moindre perte d'humidité chute brutalement sa pression de turgescence, provoquant son flétrissement. De plus, l'exposer à des températures négatives sous 0 °C entraîne des dégâts dus au froid (chilling injury).\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour éviter la perte d'eau, maintenir la verticalité et conserver sa fraîcheur croquante. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Pak Choi richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pak Choi basierend auf offiziellen Sicherheitsrichtlinien zum Schutz vor Welken und Kälteschäden.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Geschätzt für seinen knackigen Biss und milden Geschmack ist Pak Choi ein unverzichtbares Blattgemüse in Wokgerichten, Suppen und der asiatischen Küche! Doch haben Sie Pak Choi schon einmal gelagert und festgestellt, dass seine Blätter gelb und die Stiele weich wurden? 🥬\n\nPak Choi weist eine sehr hohe Transpirationsrate über die Blattporen auf. Bereits ein geringer Feuchtigkeitsverlust lässt den Turgordruck der Zellen drastisch sinken, was zum Welken führt. Zudem führen Temperaturen unter 0 °C zu Kälteschäden (Chilling Injury), die die Zellmembranen zerstören.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Wasserverlust zu verhindern und Knackigkeit zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar bok choy fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para o bok choy com base em diretrizes oficiais para evitar o murchamento e danos por frio.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Celebrado pela sua textura crocante e sabor suave, o bok choy é uma hortaliça essencial em refogados, sopas e na culinária internacional! No entanto, você já o guardou e percebeu que as folhas amarelaram e os talos amoleceram em poucos dias? 🥬\n\nO bok choy tem uma taxa de transpiração muito rápida através dos estômatos de suas folhas. Mesmo uma pequena perda de umidade reduz drasticamente a pressão de turgor, causando murchamento rápido. Além disso, expô-lo a temperaturas abaixo de 0 °C causa Danos por Frio (chilling injury).\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para evitar a perda de água, manter o alinhamento vertical e preservar a crocância. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Sendok/Sawi Daging (Bok Choy) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bok choy berdasarkan pedoman keselamatan resmi untuk mencegah pemuaian dan kerusakan akibat dingin.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Terkenal dengan tekstur renyah dan rasa yang segar, bok choy (sawi sendok) adalah sayuran hijau wajib dalam tumisan, sup, dan masakan internasional! Namun, pernahkah Anda menyimpannya lalu mendapati daunnya menguning dan batangnya melunak hanya dalam beberapa hari? 🥬\n\nBok choy memiliki laju transpirasi yang sangat cepat melalui stomata daunnya. Kehilangan sedikit kelembapan saja dapat menurunkan tekanan turgor sel secara drastis sehingga menyebabkan layu. Selain itu, paparan suhu di bawah 0°C memicu kerusakan dingin (chilling injury) yang merusak membran sel.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bok choy 3 langkah berbasis ilmiah untuk mencegah kehilangan air dan menjaga tekstur renyahnya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

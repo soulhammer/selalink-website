@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oats_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transférer dans des bocaux en verre hermétiques ou des boîtes sans BPA — Protection contre l'air, l'humidité et les insectes 📦"
     text: "La clé de la conservation de l'avoine est d'empêcher l'accès à l'oxygène, à l'humidité et aux parasites. 💡 Astuce de conservation : Versez l'avoine ouverte dans un bocal en verre avec joint en caoutchouc ou dans une boîte hermétique."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & MFDS.
     </p>
   </div>
 </div>

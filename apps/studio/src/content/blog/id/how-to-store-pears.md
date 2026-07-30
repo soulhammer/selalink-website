@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Bungkus satu per satu dengan koran atau tisu dapur, lalu lapisi plastik wrap — Perlindungan Kelembapan 📦"
     text: "Membungkus buah pir secara individual tanpa paparan air adalah kuncinya. 💡 Tips Penyimpanan: Bungkus pir kering dengan kertas koran atau tisu dapur untuk mengatur kelembapan, lalu bungkus rapat satu per satu dengan plastik wrap bening. Kertas menyerap kelembapan berlebih dan plastik wrap mencegah penguapan air internal."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan buah pir 3 langkah berbas
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

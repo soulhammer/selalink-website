@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Seal in an opaque tin canister or multi-layer foil bag — Complete Light & Oxygen Barrier 📦"
     text: "Oxygen and light are the greatest enemies of tea quality. 💡 Storage Tip: Transfer opened tea leaves into an opaque double-lidded metal tin or a heavy-duty aluminum foil Ziploc bag, squeeze out excess air, and seal tightly."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step tea storage guide recom
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

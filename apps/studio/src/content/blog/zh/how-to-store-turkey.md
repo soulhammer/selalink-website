@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部食品安全检验局(USDA FSIS) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>"
+authority: "美国农务部食品安全检验局(USDA FSIS) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)"
 steps:
   - name: "无需水洗，擦干血水与水分 — 防止交叉污染 🧼"
     text: "请勿用水冲洗。打开包装后，用干净的厨房纸巾仔细擦干表面及内部的血水和水分。💡储存小贴士：清除细菌喜爱的表面水分，并避免水洗飞溅病菌，是预防食物中毒的第一步。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部食品安全检验局(USDA FSIS) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>。
+      本内容基于 美国农务部食品安全检验局(USDA FSIS) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)。
     </p>
   </div>
 </div>

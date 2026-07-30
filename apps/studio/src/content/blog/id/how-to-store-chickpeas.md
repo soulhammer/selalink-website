@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Simpan kacang arab kering dalam wadah kedap udara dengan kelembapan di bawah 60% — Cegah Aflatoksin (1–2 Tahun) 📦"
     text: "Kacang arab kering harus dijaga agar kadar airnya di bawah 12% dan kelembapan di bawah 60%. 💡 Tips Penyimpanan: Simpan dalam wadah kedap udara bersama desikan (silica gel) di lemari dapur yang sejuk. Ini mencegah spora jamur tumbuh dan bertahan 1 hingga 2 tahun."
@@ -40,7 +40,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

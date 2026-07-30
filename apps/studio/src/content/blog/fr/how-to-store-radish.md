@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/radish_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Couper le collet et les fanes — Stopper la déshydratation 🪓"
     text: "C'est l'étape essentielle pour éviter la perte d'eau. 💡 Astuce de conservation : Coupez le haut avec les feuilles près du collet pour éliminer le point de croissance. Les fanes peuvent être cuisinées séparément."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

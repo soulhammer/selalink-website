@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Guarde en frascos de vidrio ámbar u opacos — Bloqueo de Fotooxidadón 📦"
     text: "Conserve la cúrcuma en polvo o seca en frascos de vidrio ámbar, violeta o recipientes opacos herméticos. 💡 Consejo de almacenamiento: El plástico o vidrio transparente permite que la luz degrade la curcumina, por lo que el recipiente opaco es esencial."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & FDA & MFDS</strong>.
+      Este contenido se basa en RDA & FDA & MFDS.
     </p>
   </div>
 </div>

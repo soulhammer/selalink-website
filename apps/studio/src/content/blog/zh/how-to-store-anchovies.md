@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "去除湿气后分装 — 祛除腥味与防潮 📦"
     text: "若鳀鱼表皮受潮发软，可放入无油平底锅中用小火无油干炒1 ~ 2分钟驱散湿气。💡储存小贴士：待其彻底冷却后，按单次用量分装入保鲜袋或拉链袋中。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

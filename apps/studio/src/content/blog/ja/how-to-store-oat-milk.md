@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oat_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "未開封状態は涼しい常温（15〜25℃）で保存する — 開封前常温保存 (賞味期限まで) 📦"
     text: "開封していないUHT滅菌パックのオーツミルクは常温保存が可能です。💡保存のコツ：直射日光や熱気を避け、パントリーなど涼しく乾燥した場所に保管してください。温度が高すぎると澱粉の変質が起きるため、25℃以下を維持するのが望ましいです。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

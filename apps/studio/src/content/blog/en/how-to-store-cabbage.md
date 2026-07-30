@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Carve out the core in a triangular cone shape — Block Nutrient Loss Path 🔪"
     text: "The central core serves as a growth center that drains moisture and nutrients from outer leaves post-harvest. 💡 Storage Tip: Use a sharp knife tip to carve out the core deeply in a triangular cone shape. Removing the core eliminates the primary site where spoilage begins."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & EFSA & FSA</strong>.
+      This content is based on RDA & EFSA & FSA.
     </p>
   </div>
 </div>

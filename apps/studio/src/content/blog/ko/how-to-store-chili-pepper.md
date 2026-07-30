@@ -8,12 +8,12 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
-  - name: "물기 제거 후 꼭지 살려 키친타올로 감싸기 — 습기 및 수분 조절 📦"
-    text: "고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타올로 5 ~ 10개씩 감싸주세요."
+  - name: "물기 제거 후 꼭지 살려 키친타월로 감싸기 — 습기 및 수분 조절 📦"
+    text: "고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타월로 5 ~ 10개씩 감싸주세요."
   - name: "지퍼백에 담아 야채칸(7 ~ 10℃) 보관하기 — 냉장 보관 (1 ~ 2주) ❄️"
-    text: "키친타올로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다."
+    text: "키친타월로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다."
   - name: "송송 썰거나 다져서 지퍼백에 냉동 보관하기 — 냉동 보관 (3 ~ 6개월) ❄️"
     text: "장기 보관이 필요할 때는 미리 요리용으로 손질하여 냉동하는 것이 가장 좋습니다. 💡 보관 팁: 고추를 깨끗이 씻어 물기를 바짝 말린 뒤 송송 썰거나 다져서 지퍼백에 얇게 펼쳐 넣고 냉동실(-18℃ 이하)에 보관하세요. 3 ~ 6개월간 매콤한 풍미가 유지됩니다."
 faqs:
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">물기 제거 후 꼭지 살려 키친타올로 감싸기 — 습기 및 수분 조절 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">물기 제거 후 꼭지 살려 키친타월로 감싸기 — 습기 및 수분 조절 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타올로 5 ~ 10개씩 감싸주세요.
+    고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타월로 5 ~ 10개씩 감싸주세요.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">지퍼백에 담아 야채칸(7 ~ 10℃) 보관하기 — 냉장 보관 (1 ~ 2주) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    키친타올로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다.
+    키친타월로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">보관하기 전에 물로 씻지 마세요 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      고추 꼭지와 표면에 수분이 남아있으면 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 보관 전에는 물을 묻히지 말고 마른 키친타올로 흙이나 먼지만 가볍게 닦아내야 하며, 씻는 것은 조리 직전에 하셔야 합니다.
+      고추 꼭지와 표면에 수분이 남아있으면 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 보관 전에는 물을 묻히지 말고 마른 키친타월로 흙이나 먼지만 가볍게 닦아내야 하며, 씻는 것은 조리 직전에 하셔야 합니다.
     </p>
   </div>
 </div>

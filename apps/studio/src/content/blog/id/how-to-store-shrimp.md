@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/shrimp_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Cuci dengan air garam ringan dan lap hingga kering — Penjagaan Cita Rasa 📦"
     text: "Cuci udang perlahan dalam air garam (1 sendok makan garam per 1 liter air) lalu keringkan dengan tisu dapur. 💡 Tips Penyimpanan: Menjaga kadar garam mencegah keluarnya cairan rasa gurih dan memperlambat oksidasi."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan udang 3 langkah berbasis 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

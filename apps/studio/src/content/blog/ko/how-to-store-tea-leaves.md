@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "불투명 차통(차호)이나 은박 봉투에 밀봉하기 — 빛과 공기 완벽 차단 📦"
     text: "찻잎 보관의 최고 적은 산소와 빛입니다. 💡 보관 팁: 개봉한 찻잎은 이중 뚜껑이 있는 불투명 금속 캔(차통)이나 은박 알루미늄 지퍼백에 담아 공기를 완전히 빼고 밀봉해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

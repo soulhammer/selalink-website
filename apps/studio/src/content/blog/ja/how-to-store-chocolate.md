@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chocolate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "アルミホイルや密閉容器で密封する — ニオイと湿気の遮断 📦"
     text: "チョコレート保存の基本は外気とニオイを完全に断つことです。💡保存のコツ：開封後のチョコレートをアルミホイルやラップでぴったり包み、ジッパーバッグや密閉容器に入れて二重に遮断してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

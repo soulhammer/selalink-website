@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC"
 steps:
   - name: "未熟透前务必在常温阴凉处后熟 — 常温保存 (5 ~ 7天) 🌿"
     text: "青色未熟的西红柿请存放在15 ~ 20℃凉爽、无阳光直射的阴凉处。💡储存小贴士：摘除绿色蒂头后，将较硬的蒂部（肩部）朝下平放，可分散重力，防止底部果肉受压变软。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & CDC。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/celery_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Separe las hojas de los tallos — Evite la pérdida de humedad ✂️"
     text: "Las hojas del apio extraen continuamente el agua de los tallos, haciendo que se marchiten más rápido. 💡 Consejo de almacenamiento: Corte las hojas de los tallos inmediatamente. Envuelva las hojas en papel de cocina y guarde los tallos por separado."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

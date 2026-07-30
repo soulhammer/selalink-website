@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "[통호박] 꼭지 건조 후 10 ~ 15℃ 서늘한 상온 보관하기 — 적정 상온 보관 (1 ~ 2개월) ☀️"
     text: "통호박은 통풍이 잘되고 서늘한 그늘이 최고의 보관 장소입니다. 💡 보관 팁: 흙을 가볍게 털어낸 통호박을 신문지나 키친타월 위에 꼭지가 위로 향하게 두세요. 통풍이 잘되는 10 ~ 15℃ 찬장에 두면 후숙되어 당도가 더욱 높아집니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

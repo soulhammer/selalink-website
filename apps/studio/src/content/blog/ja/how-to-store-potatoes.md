@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)"
 steps:
   - name: "洗わずに新聞紙や紙袋で個別に包む — 光を100%遮断 📦"
     text: "じゃがいもが光（直射日光や蛍光灯）に晒されると、光合成により表面が緑色に変わりソラニン毒素を生成します。💡保存のコツ：土がついた状態のまま新聞紙や不透明な紙袋で包み、光を完全に遮断してください。土はじゃがいもの水分を適切に保つ天然の保湿剤の役割を果たします。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 農村振興庁(RDA) & 英国食品基準庁(FSA)に基づいています。
     </p>
   </div>
 </div>

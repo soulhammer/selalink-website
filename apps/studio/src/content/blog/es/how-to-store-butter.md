@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Mantenga el envoltorio original de papel de aluminio — Bloquee la luz y el oxígeno 📦"
     text: "El envoltorio de aluminio original actúa como una barrera superior contra la luz UV y el oxígeno, protegiendo las grasas lácteas de la oxidación. 💡 Consejo de almacenamiento: Desechar el envoltorio original para pasar la mantequilla a un recipiente transparente o film de plástico acelera drásticamente el enranciamiento."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

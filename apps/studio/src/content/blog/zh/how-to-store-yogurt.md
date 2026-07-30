@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用干净干燥的勺子舀出并盖紧 — 阻绝污染 📦"
     text: "大桶酸奶切勿直接对嘴食用，应用干净干燥的勺子舀出单次食用量。💡储存小贴士：舀完后用厨房纸巾擦净瓶口残余酸奶，紧扣盖子密封，防止空气中的霉菌孢子飘入。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

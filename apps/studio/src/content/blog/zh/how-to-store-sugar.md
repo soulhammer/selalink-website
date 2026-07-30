@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sugar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "倒入完全密封的容器中保存 — 隔绝湿气与异味 📦"
     text: "直接保留在已拆封的纸袋或塑料袋中，空气中的湿气和厨房异味会从缝隙渗入。💡储存小贴士：请将拆封后的食糖转移至密封性极佳的玻璃瓶或食品级塑料密封盒中，彻底阻断湿气与异味。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

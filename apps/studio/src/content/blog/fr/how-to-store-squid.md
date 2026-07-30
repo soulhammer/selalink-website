@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Retirer viscères, poche d'encre et nettoyer les ventouses — Bloquer l'odeur de marée 🦑"
     text: "Les entrailles et les ventouses sales sont les sources majeures de mauvaises odeurs et de bactéries. 💡 Astuce de conservation : Ouvrez le manteau, ôtez les viscères, la poche d'encre et la plume. Frottez les tentaculess au gros sel ou à la farine sous l'eau pour enlever les anneaux chitineux."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>NIFS & MFDS & USDA</strong>.
+      Ce contenu est basé sur NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

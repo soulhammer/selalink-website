@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/flour_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 용기나 유리병에 담기 — 습기 및 해충 완벽 차단 📦"
     text: "밀가루 보관의 핵심은 공기와 습기, 해충의 유입을 원천 차단하는 것입니다. 💡 보관 팁: 개봉한 밀가루는 고무 패킹이 있는 밀폐 용기나 유리병에 담고 뚜껑을 단단히 닫아주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

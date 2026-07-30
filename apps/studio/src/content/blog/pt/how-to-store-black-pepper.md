@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Guarde em grãos inteiros em potes herméticos — Retenção de aroma e anticorrosão/oxidação 📦"
     text: "Ao moer a pimenta, os óleos voláteis oxidam rapidamente em contato com o ar. 💡 Dica de conservação: Comprar pimenta em grãos e moer na hora de cozinhar é a forma mais eficaz de preservar todo o sabor e aroma."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de espec
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

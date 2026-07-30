@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "무조건 0 ~ 4℃ 냉장실에 보관하기 — 냉장 보관 (30 ~ 60일) ❄️"
     text: "들기름은 참기름과 달리 자체 보존제 역할을 하는 세사몰이 거의 없고, 반응성이 매우 큰 오메가-3 지방산이 과다 포함되어 있어 상온에 두면 수일 내에 산패가 시작됩니다. 💡 보관 팁: 들기름은 구매 즉시 0 ~ 4℃의 차가운 냉장고 신선실에 보관해야 지방 산화 속도를 수십 배 지연시킬 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

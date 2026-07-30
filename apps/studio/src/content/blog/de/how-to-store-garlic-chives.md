@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_chives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ungewaschen in Küchenpapier einwickeln — Feuchtigkeitskontrolle 📦"
     text: "Die Kontrolle der Blattoberflächenfeuchte ist der Schlüssel. 💡 Lagerungstipp: Ungewaschen von Schmutz befreien. Wickeln Sie den gesamten Bund von den Wurzeln bis zu den Spitzen in Küchenpapier oder Zeitungspapier. Das Papier saugt überschüssige Feuchtigkeit auf."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

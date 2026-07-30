@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)"
 steps:
   - name: "必ず0〜4℃の冷蔵室で保存する — 冷蔵保存 (30〜60日) ❄️"
     text: "エゴマ油はごま油と異なり、セサモールなどの保存成分がほとんどなく、反応性の高いオメガ3脂肪酸が多いため、常温に置くと数日で酸化が始まります。💡保存のコツ：購入後すぐに0〜4℃の冷えた冷蔵庫のチルド室や野菜室で保存することで、脂質の酸化速度を大幅に遅らせることができます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

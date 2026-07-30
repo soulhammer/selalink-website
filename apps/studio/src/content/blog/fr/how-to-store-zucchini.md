@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/zucchini_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper individuellement dans du papier absorbant — Contrôle de l'humidité 🧻"
     text: "La condensation issue de la respiration naturelle de la courgette ramollit la peau. 💡 Astuce de conservation : Enveloppez chaque courgette sèche et non lavée dans du papier essuie-tout ou du journal. Le papier absorbe l'humidité rejetée, évitant le pourrissement."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes recommandé par
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

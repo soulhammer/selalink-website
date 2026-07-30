@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "전용 밀폐 용기에 담거나 집게로 완벽 밀봉하기 — 습기 및 공기 차단 📦"
     text: "개봉 후 공기 노출을 최소화하는 것이 아삭함을 지키는 핵심입니다. 💡 보관 팁: 개봉한 시리얼은 비닐 입구를 2 ~ 3번 접어 밀폐 집게(클립)로 단단히 고정하거나, 플라스틱·유리 밀폐 용기에 옮겨 담아 공기와 습기를 완벽히 차단해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

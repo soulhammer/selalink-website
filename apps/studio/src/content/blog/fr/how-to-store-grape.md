@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ne lavez jamais à l'eau avant le stockage — Préserver la pruine naturelle 🍇"
     text: "Le fin voile blanc qui recouvre le raisin est la 'Pruine' (Bloom), une cire naturelle sécrétée par le fruit. Elle protège de la déshydratation et des germes. Laver le raisin avant le stockage détruit ce bouclier et piège l'eau. 💡 Astuce de conservation : Gardez-les secs jusqu'au moment de déguster."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

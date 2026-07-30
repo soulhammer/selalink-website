@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "[Ganz] Aufrecht bei 10–15 °C kühl und trocken lagern — Optimale Vorratslagerung (1–2 Monate) ☀️"
     text: "Ganze Kürbisse gedeihen am besten an dunklen, gut belüfteten Orten bei Raumtemperatur. 💡 Lagerungstipp: Kürbis trocken abreiben und mit dem Stiel nach oben auf Papier in einen kühlen Schrank (10–15 °C) stellen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

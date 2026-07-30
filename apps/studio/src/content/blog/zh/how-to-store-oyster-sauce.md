@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA)"
 steps:
   - name: "使用后及时擦净瓶口与瓶盖 — 阻断污染与霉菌 🧻"
     text: "使用蚝油后瓶口周围残留的酱汁与空气中的湿气结合，极易成为霉菌温床。💡储存小贴士：使用后立即用干净厨房纸巾仔细擦净瓶口并盖紧。这是阻断霉菌侵入瓶内的关键一步。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

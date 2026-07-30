@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Portion with a clean, dry spoon and seal tightly — Contamination Prevention 📦"
     text: "Avoid eating directly from large yogurt tubs. Portion out what you need using a clean, dry spoon. 💡 Storage Tip: Wipe any yogurt drips around the rim with a paper towel and seal the lid tightly to prevent airborne mold spores from entering."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step yogurt storage guide recomm
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

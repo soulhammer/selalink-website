@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Envelopper les pommes de terre terreuses dans du journal ou du papier — Bloquer la lumière 📦"
     text: "L'exposition à la lumière (même artificielle) déclenche la production de chlorophylle, verdissant la peau et créant de la solanine toxique. 💡 Astuce de conservation : Laissez la terre sur les pommes de terre (elle régule l'humidité) et enveloppez-les dans du papier journal ou un sac opaque."
@@ -38,7 +38,7 @@ De plus, l'exposition à la lumière fait verdir la peau des pommes de terre, qu
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & RDA & FSA</strong>.
+      Ce contenu est basé sur MFDS & RDA & FSA.
     </p>
   </div>
 </div>

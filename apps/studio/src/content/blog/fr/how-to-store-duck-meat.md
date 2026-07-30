@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/duck_meat_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Éponger l'humidité et emballer sous vide — Scellage Anti-Oxygène 📦"
     text: "Épongez soigneusement le sang et l'humidité de surface avec du papier absorbant, puis scellez sous vide ou avec du film étirable. 💡 Astuce de conservation : L'emballage sous vide (Vacuum Packaging) bloque l'air, supprimant l'auto-oxydation des acides gras insaturés."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

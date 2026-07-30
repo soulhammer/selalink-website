@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Nach dem Öffnen flach in einem Ziploc-Beutel versiegeln — Feuchtigkeitsschutz & Rissvermeidung 📦"
     text: "Der Schutz der Stärkestruktur vor Luftfeuchtigkeitsschwankungen ist der wichtigste erste Schritt. 💡 Lagerungstipp: Die Originalverpackung lässt nach dem Öffnen Luft hinein. Legen Sie die Blätter flach in einen Ziploc-Beutel oder eine Dose und drücken Sie die Luft heraus."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & EFSA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

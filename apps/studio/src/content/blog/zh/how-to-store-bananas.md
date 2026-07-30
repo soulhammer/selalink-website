@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>"
+authority: "美国农务部(USDA) & 世界卫生组织(WHO)"
 steps:
   - name: "使用香蕉架悬挂保存 — 常温储存 (7天) 🍌"
     text: "如果将香蕉直接平放在桌面上，下方的香蕉会因自身重力受压产生褐斑。受损部位释放更多乙烯并加速变黑。💡储存小贴士：用香蕉架或挂钩将香蕉悬空挂起。这能模拟香蕉在树上的自然生长环境，防止挤压，长久保持坚挺新鲜。"
@@ -34,7 +34,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>。
+      本内容基于 美国农务部(USDA) & 世界卫生组织(WHO)。
     </p>
   </div>
 </div>

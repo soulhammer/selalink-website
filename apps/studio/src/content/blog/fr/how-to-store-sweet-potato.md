@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Étaler sur du papier journal dès l'achat pour faire sécher — Élimination de l'humidité 📦"
     text: "L'humidité de surface est la cause principale de moisissure. 💡 Astuce de conservation : Sortez les patates douces du carton et étalez-les sans qu'elles se touchent sur du papier journal dans un endroit frais et aéré pendant une journée."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

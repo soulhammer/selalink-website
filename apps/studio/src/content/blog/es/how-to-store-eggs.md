@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Nunca lave los huevos con agua — Conserve la cutícula natural y refrigere (45 días) 💧"
     text: "El cascarón contiene entre 7,000 y 17,000 poros microscópicos. 💡 Consejo de almacenamiento: Lavar los huevos destruye la capa protectora de la cutícula, permitiendo que el agua y las bacterias (como la Salmonella) entren por los poros. Limpie la suciedad en seco con una toalla de papel."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA & FDA</strong>.
+      Este contenido se basa en MFDS & USDA & FDA.
     </p>
   </div>
 </div>

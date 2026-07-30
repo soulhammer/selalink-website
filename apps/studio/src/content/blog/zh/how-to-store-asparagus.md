@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心"
 steps:
   - name: "切除根部并竖立于装水的容器中 — 插花式水培保存 🥛"
     text: "芦笋需要通过根部持续吸收水分来维持爽脆。💡储存小贴士：切除根部0.5 ~ 1厘米，在玻璃瓶或长筒容器中注入1 ~ 2厘米深的清水，将芦笋垂直竖立插入水中。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心。
     </p>
   </div>
 </div>

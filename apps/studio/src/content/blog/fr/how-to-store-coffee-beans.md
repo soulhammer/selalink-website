@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & USDA</strong>"
+authority: "SCA & USDA"
 steps:
   - name: "Utiliser un récipient opaque et hermétique avec valve fraîcheur — Bloquer l'oxygène et évacuer le CO2 📦"
     text: "Le café torréfié émettant du gaz, une valve unidirectionnelle est indispensable pour évacuer le CO2 sans laisser pénétrer l'oxygène. 💡 Astuce de conservation : Conservez le café dans son emballage d'origine à valve ou dans une boîte opaque sous vide."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>SCA & USDA</strong>.
+      Ce contenu est basé sur SCA & USDA.
     </p>
   </div>
 </div>

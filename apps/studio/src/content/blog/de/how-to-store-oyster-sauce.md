@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Flaschenhals und Deckel abwischen — Kontamination & Schimmel stoppen 🧻"
     text: "Reste am Flaschenrand verbinden sich mit Luftfeuchtigkeit zu einem Nährboden für Schimmel. 💡 Lagerungstipp: Wischen Sie den Flaschenrand direkt nach der Verwendung mit Küchenpapier ab und verschließen Sie die Flasche fest. Dies schützt das Innere vor Sporen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & MFDS & RDA & USDA</strong>.
+      Dieser Inhalt basiert auf FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

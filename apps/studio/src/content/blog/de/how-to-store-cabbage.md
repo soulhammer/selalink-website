@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Den Strunk keilförmig ausschneiden — Nährstoff- und Wasserverlust stoppen 🔪"
     text: "Der zentrale Strunk dient nach der Ernte als Wachstumszentrum, das den Blättern Feuchtigkeit entzieht. 💡 Lagerungstipp: Schneiden Sie den Strunk mit einer Messer-Spitze tief und keilförmig aus. Das Entfernen des Strunks schaltet die Hauptursache für schnellen Verderb aus."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & EFSA & FSA</strong>.
+      Dieser Inhalt basiert auf RDA & EFSA & FSA.
     </p>
   </div>
 </div>

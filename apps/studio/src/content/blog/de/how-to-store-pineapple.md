@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Krone (Blätter) abschneiden und auf den Kopf stellen — Süße-Verteilungs-Trick 🔄"
     text: "Der Fruchtzucker sinkt nach unten und sammelt sich am Boden. 💡 Lagerungstipp: Schneiden Sie den Blätterschopf ab, wickeln Sie die Ananas in Papier und stellen Sie sie für 1–2 Tage auf den Kopf (auf die Schnittfläche). Die Schwerkraft verteilt den Zucker gleichmäßig."
@@ -38,7 +38,7 @@ HIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ra
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

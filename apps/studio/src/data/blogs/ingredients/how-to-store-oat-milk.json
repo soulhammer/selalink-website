@@ -8,7 +8,7 @@
             "ko": {
                 "title": "귀리유(오트밀크) 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 귀리유의 개봉 전·후 최적 보관 방법, 층 분리 원인 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "고소하고 깔끔한 맛으로 우유 대용품으로 각광받는 귀리유(오트밀크)! 🥛🌾\n\n귀리는 수용성 식이섬유인 '베타글루칸(Beta-glucan)'과 풍부한 전분을 함유하고 있어 건강에 매우 좋은 식물성 음료입니다. 하지만 귀리유는 개봉 전과 후의 보관 규칙이 완전히 다른 음료입니다. 미개봉 상태에서는 멸균(UHT) 처리 덕분에 상온 보관이 가능하지만, 일단 뚜껑을 열면 공기 중의 미생물 및 슈도모나스(Pseudomonas) 속 균에 노출되어 세균이 빠르게 증식할 수 있습니다.\n\n이번 가이드에서는 미국 USDA 및 FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 귀리유의 영양과 아침의 신선함을 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "귀리 속 베타글루칸의 물리적 침전 특성과 개봉 후 미생물 증식 메커니즘을 이해하고 올바른 보관법을 적용하는 것이 영양 손실과 식중독을 예방하는 핵심입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Oat Milk Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods before and after opening, cause of layer separation, and shelf life for oat milk based on official USDA & FDA safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Oat milk has become a widely popular plant-based milk alternative known for its nutty and smooth flavor! 🥛🌾\n\nOats are rich in 'beta-glucan,' a soluble dietary fiber, along with natural starches, making oat milk a highly nutritious plant-based beverage. However, storage rules for oat milk differ drastically before and after opening. Unopened aseptic UHT packages can be kept at room temperature. Once opened, however, exposure to air introduces spoilage microorganisms and bacteria like Pseudomonas, which can multiply rapidly.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to preserve the nutrient content and fresh flavor of oat milk. 🛡️",
                 "whyTitle": "Why Store Oat Milk This Way? Scientific Facts",
                 "whyDesc": "Understanding the physical precipitation behavior of beta-glucan and starches, as well as post-opening microbial growth mechanisms, is essential for preventing nutrient loss and foodborne illness.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "オーツミルク（Oat Milk）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づくオーツミルクの開封前・後の最適保存法、層分離の原因および保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "香ばしくすっきりとした味わいで牛乳の代替品として大人気のオーツミルク（燕麦ミルク）！🥛🌾\n\nオーツ麦は水溶性食物繊維である「β-グルカン（Beta-glucan）」や豊富な澱粉を含んでおり、健康に非常に優れた植物性飲料です。しかし、オーツミルクは開封前と開封後で保存ルールが全く異なります。未開封の状態では滅菌（UHT）処理のおかげで常温保存が可能ですが、一度キャップを開けると空気中の微生物やシュードモナス（Pseudomonas）属の細菌に晒され、急激に細菌が増殖する可能性があります。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、オーツミルクの栄養と朝の鮮度を長く守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "オーツ麦に含まれるβ-グルカンの物理的沈殿特性と開封後の微生物増殖メカニズムを理解し、正しい保存法を実践することが栄養損失と食中毒の予防につながります。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持燕麦奶（Oat Milk）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解燕麦奶开封前后的最佳储存方式、层分离原因及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "燕麦奶（Oat Milk）因其浓郁醇厚的口感和植物营养，已成为替代牛奶的极佳选择！🥛🌾\n\n燕麦富含水溶性膳食纤维“β-葡聚糖（Beta-glucan）”及天然淀粉，是一种营养丰富的植物性饮品。然而，燕麦奶在开封前与开封后的储存规则截然不同。未开封时得益于超高温灭菌（UHT）技术可常温保存；但一旦打开盖子，就会暴露于空气中的微生物及假单胞菌（Pseudomonas）中，导致细菌迅速滋生。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，长久锁住燕麦奶的营养与新鲜口感。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解燕麦中β-葡聚糖与淀粉的物理沉淀特性以及开封后的微生物滋生机制，是防止营养流失和预防食物中毒的关键所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener fresca la leche de avena: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento antes y después de abrir, la causa de la separación en capas y el tiempo de conservación según las pautas de la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¡La leche de avena (oat milk) se ha convertido en una alternativa vegetal sumamente popular por su sabor suave y cremoso! 🥛🌾\n\nLa avena es rica en 'beta-glucano', una fibra dietética soluble, y almidones naturales, lo que la convierte en una bebida vegetal altamente nutritiva. Sin embargo, las reglas de conservación cambian radicalmente antes y después de abrir el envase. Los envases asépticos UHT cerrados pueden guardarse a temperatura ambiente. No obstante, una vez abiertos, la exposición al aire permite que proliferen bacterias de alteración como Pseudomonas.\n\nEn esta guía, basada en datos científicos de la USDA, la FDA y la MFDS, presentamos una estrategia de almacenamiento en 3 pasos para proteger los nutrientes y la frescura de la leche de avena. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender la precipitación física del beta-glucano y los almidones, así como la proliferación microbiana tras la apertura, es esencial para prevenir pérdidas nutricionales e intoxicaciones alimentarias.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le lait d'avoine frais : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales de conservation avant et après ouverture, la cause du déphasage et la durée de conservation du lait d'avoine selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Le lait d'avoine est devenu une alternative végétale extrêmement populaire grâce à son goût doux et onctueux ! 🥛🌾\n\nL'avoine est riche en 'bêta-glucane', une fibre alimentaire soluble, ainsi qu'en amidons naturels, ce qui en fait une boisson végétale très nutritive. Cependant, les règles de conservation diffèrent radicalement avant et après ouverture. Les briques stériles UHT fermées se conservent à température ambiante. En revanche, une fois ouvertes, l'exposition à l'air favorise la prolifération de bactéries d'altération comme Pseudomonas.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour préserver la qualité nutritionnelle et la fraîcheur du lait d'avoine. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre la sédimentation physique du bêta-glucane et des amidons, ainsi que la prolifération microbienne après ouverture, est essentiel pour éviter les pertes nutritionnelles et les intolérances.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Hafermilch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden vor und nach dem Öffnen, die Ursachen von Phasentrennung und die Haltbarkeit von Hafermilch nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Hafermilch hat sich dank ihres cremigen, leicht nussigen Geschmacks als beliebte pflanzliche Milchalternative etabliert! 🥛🌾\n\nHafer ist reich an dem löslichen Ballaststoff 'Beta-Glucan' und natürlicher Stärke, was Hafermilch zu einem nahrhaften Drink macht. Allerdings unterscheiden sich die Regeln für die Lagerung vor und nach dem Öffnen grundlegend. Ungeöffnete UHT-Packungen können bei Raumtemperatur gelagert werden. Einmal geöffnet, begünstigt der Kontakt mit Luft jedoch das Wachstum von Verderbskeimen wie Pseudomonas.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Geschmack und Frische von Hafermilch optimal zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der physikalischen Sedimentation von Beta-Glucan und Stärke sowie des mikrobiellen Wachstums nach dem Öffnen ist der Schlüssel zur Vermeidung von Qualitätsverlust und Infektionen.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o leite de aveia fresco: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação antes e depois de abrir, as causas da separação de fases e a validade do leite de aveia com base nas diretrizes da USDA e da FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "O leite de aveia (oat milk) tornou-se uma alternativa vegetal extremamente popular pelo seu sabor suave e cremoso! 🥛🌾\n\nA aveia é rica em 'beta-glucana', uma fibra alimentar solúvel, além de amidos naturais, tornando o leite de aveia uma bebida vegetal altamente nutritiva. No entanto, as regras de conservação mudam radicalmente antes e depois de abrir a embalagem. Embalagens assépticas UHT fechadas podem ser guardadas em temperatura ambiente. Contudo, uma vez abertas, a exposição ao ar permite que bactérias de deterioração como Pseudomonas proliferem rapidamente.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para preservar a frescura e os nutrientes do leite de aveia. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a precipitação física da beta-glucana e dos amidos, bem como a proliferação microbiana após a abertura, é fundamental para evitar perdas nutricionais e contaminações.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Susu Oat (Oat Milk) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal sebelum dan sesudah dibuka, penyebab pemisahan lapisan, serta masa simpan susu oat berdasarkan panduan resmi USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Susu oat (Oat Milk) telah menjadi alternatif susu nabati yang sangat populer karena rasanya yang gurih dan lembut! 🥛🌾\n\nOat kaya akan 'beta-glukan', serat pangan larut, serta pati alami yang membuat susu oat sangat bernutrisi. Namun, aturan penyimpanan susu oat sangat berbeda sebelum dan sesudah kemasan dibuka. Kemasan steril UHT yang belum dibuka dapat disimpan pada suhu ruang. Namun setelah dibuka, paparan udara memicu berkembangnya mikroorganisme pembusuk seperti Pseudomonas.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan metode penyimpanan 3 langkah untuk menjaga nutrisi dan kesegaran susu oat. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami pengendapan fisik beta-glukan dan pati, serta pertumbuhan mikroba setelah kemasan dibuka, sangat penting untuk mencegah kehilangan nutrisi dan keracunan makanan.",

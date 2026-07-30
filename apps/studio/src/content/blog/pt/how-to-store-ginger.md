@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ginger_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Escovar a terra e embrulhar em papel-toalha — Controle de umidade (1 a 2 semanas) 📦"
     text: "Controlar a umidade e evitar o ressecamento é o segredo. 💡 Dica de conservação: Retire a terra com escova seca, embrulhe cada pedaço em papel-toalha ou jornal e guarde em local fresco (10-15 °C) ou na gaveta de legumes."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do gengibre em 3 etapas recome
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

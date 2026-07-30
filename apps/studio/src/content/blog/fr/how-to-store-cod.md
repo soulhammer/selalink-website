@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Sécher et envelopper hermétiquement — Papier Absorbant & Film Étirable 📦"
     text: "Épongez parfaitement l'humidité de surface du filet de cabillaud, enveloppez-le dans du papier absorbant, puis scellez-le hermétiquement avec du film plastique. 💡 Astuce de conservation : Éliminer l'eau de surface empêche la dégradation du TMAO et protège les tissus."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous présentons une méthode scientifique en 3 étapes bas�
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      Ce contenu est basé sur NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

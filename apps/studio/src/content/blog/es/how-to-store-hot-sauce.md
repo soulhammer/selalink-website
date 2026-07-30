@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Limpie la boquilla y cierre bien la tapa tras el uso — Bloqueo del oxígeno 🧻"
     text: "Los residuos en la boquilla son la vía principal de entrada de aire. 💡 Consejo de almacenamiento: Limpie el exceso de salsa de la boquilla con papel de cocina inmediatamente después de servir y cierre la tapa con firmeza."
@@ -34,7 +34,7 @@ faqs:
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

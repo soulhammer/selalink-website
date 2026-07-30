@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Rebus sebentar dengan air mendidih untuk menghilangkan minyak teroksidasi — Menyiram Air Panas 🫖"
     text: "Minyak goreng pada permukaan teroksidasi cepat oleh udara dan mempercepat pembusukan. 💡 Tips Penyimpanan: Rebus fish cake dalam air mendidih selama 10–20 detik atau siram dengan air panas mendidih. Ini menghilangkan minyak teroksidasi, kotoran, dan mikroba permukaan."
@@ -36,7 +36,7 @@ Fish cake memiliki kadar air dan protein tinggi, serta permukaannya dilapisi min
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & USDA & FDA</strong>.
+      Konten ini didasarkan pada MFDS & USDA & FDA.
     </p>
   </div>
 </div>

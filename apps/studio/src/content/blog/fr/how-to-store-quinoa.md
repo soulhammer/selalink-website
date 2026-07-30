@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/quinoa_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FAO & MFDS</strong>"
+authority: "USDA & FAO & MFDS"
 steps:
-  - name: "Conserver en récipients hermétiques et opaques pour contrôler l'activité de l'eau ($A_w < 0,65$) — Stockage Hermétique (1–2 ans) 📦"
-    text: "Pour le quinoa cru et sec, il est primordial de réduire le contact avec l'air et la lumière. 💡 Astuce de conservation : Placez le quinoa dans un bocal opaque ou une boîte hermétique avec un sachet de gel de silice. Maintenir l'activité de l'eau ($A_w$) sous 0,65 ralentit l'auto-oxydation pendant 1 à 2 ans dans un placard frais et sombre (sous 15–20 °C)."
+  - name: "Conserver en récipients hermétiques et opaques pour contrôler l'activité de l'eau (activité de l'eau (Aw) < 0,65) — Stockage Hermétique (1–2 ans) 📦"
+    text: "Pour le quinoa cru et sec, il est primordial de réduire le contact avec l'air et la lumière. 💡 Astuce de conservation : Placez le quinoa dans un bocal opaque ou une boîte hermétique avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 ralentit l'auto-oxydation pendant 1 à 2 ans dans un placard frais et sombre (sous 15–20 °C)."
   - name: "Réfrigérer ou congeler pour stopper le rancissement des lipides — Stockage au Froid/Congélateur (2 ans et plus) ❄️"
     text: "Si vous vivez dans un climat humide ou souhaitez conserver de grandes quantités de quinoa, le stockage à basse température est idéal. 💡 Astuce de conservation : Scellez dans des boîtes étanches ou des sachets congélation et placez au réfrigérateur (0–4 °C) ou au congélateur (-18 °C). Le grand froid stoppe l'oxydation et préserve la saveur pendant plus de 2 ans."
   - name: "Conserver le quinoa cuit en boîte hermétique au frais ou au congélateur — Quinoa Cuit (Frais 5–7 jours / Congelé 8–12 mois) 🧊"
@@ -25,7 +25,7 @@ faqs:
 
 Originaire des Andes sud-américaines, le quinoa est un superaliment riche en protéines reconnu mondialement comme un substitut sain aux céréales ! Cependant, vous est-il déjà arrivé d'acheter du quinoa en quantité pour constater qu'il sentait le rance ou devenait humide avec le temps ? 🌾
 
-Contrairement à la plupart des grains, le quinoa a une teneur élevée en acides gras insaturés (environ 6 %). Lorsqu'il est exposé à l'oxygène de l'air, des hydroperoxydes de lipides se forment, déclenchant une auto-oxydation rapide. Ce processus crée des odeurs rances et détruit les nutriments. De plus, si la couche naturelle de saponine est lavée prématurément et que l'activité de l'eau ($A_w$) dépasse 0,65, cela favorise les moisissures et les insectes.
+Contrairement à la plupart des grains, le quinoa a une teneur élevée en acides gras insaturés (environ 6 %). Lorsqu'il est exposé à l'oxygène de l'air, des hydroperoxydes de lipides se forment, déclenchant une auto-oxydation rapide. Ce processus crée des odeurs rances et détruit les nutriments. De plus, si la couche naturelle de saponine est lavée prématurément et que l'activité de l'eau (activité de l'eau (Aw)) dépasse 0,65, cela favorise les moisissures et les insectes.
 
 Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée sur les recommandations internationales pour prévenir le rancissement et conserver ses qualités nutritionnelles pendant plus de 2 ans. 🛡️
 
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FAO & MFDS</strong>.
+      Ce contenu est basé sur USDA & FAO & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ÉTAPE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserver en récipients hermétiques et opaques pour contrôler l'activité de l'eau ($A_w < 0,65$) — Stockage Hermétique (1–2 ans) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Conserver en récipients hermétiques et opaques pour contrôler l'activité de l'eau (activité de l'eau (Aw) < 0,65) — Stockage Hermétique (1–2 ans) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Pour le quinoa cru et sec, il est primordial de réduire le contact avec l'air et la lumière. 💡 Astuce de conservation : Placez le quinoa dans un bocal opaque ou une boîte hermétique avec un sachet de gel de silice. Maintenir l'activité de l'eau ($A_w$) sous 0,65 ralentit l'auto-oxydation pendant 1 à 2 ans dans un placard frais et sombre (sous 15–20 °C).
+    Pour le quinoa cru et sec, il est primordial de réduire le contact avec l'air et la lumière. 💡 Astuce de conservation : Placez le quinoa dans un bocal opaque ou une boîte hermétique avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 ralentit l'auto-oxydation pendant 1 à 2 ans dans un placard frais et sombre (sous 15–20 °C).
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Ne lavez pas le quinoa avant de le stocker 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Rincer la couche protectrice de saponine avant le stockage laisse de l'humidité, ce qui augmente l'activité de l'eau ($A_w$) et accélère le développement de moisissures ainsi que l'auto-oxydation des lipides. Ne le lavez qu'au moment de le cuire.
+      Rincer la couche protectrice de saponine avant le stockage laisse de l'humidité, ce qui augmente l'activité de l'eau (activité de l'eau (Aw)) et accélère le développement de moisissures ainsi que l'auto-oxydation des lipides. Ne le lavez qu'au moment de le cuire.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bacon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "紧密包裹并冷藏保存 — 拆封冷藏 (7天) 📦"
     text: "拆封培根保存的核心在于彻底隔绝氧气。💡储存小贴士：用保鲜膜将培根紧密包裹排尽空气，装入密封拉链袋中，存放在冰箱内侧深处（0 ~ 4℃）。拆封后建议在7天内食用完毕。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

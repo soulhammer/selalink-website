@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cherry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Sort damaged cherries and keep stems attached — Sorting & Stem Protection 📦"
     text: "Bruised or soft cherries rapidly rot nearby healthy fruit. 💡 Storage Tip: Separate damaged cherries for immediate consumption, and store only firm, unwashed cherries with intact stems."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step cherry storage guide re
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

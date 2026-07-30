@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Oberfläche leicht mit Olivenöl Extra Vergine einstreichen — Sauerstoff-Schutzbarriere 🫒"
     text: "Das Bestreichen mit Speiseöl ist der effektivste Schutz vor Luftkontakt. 💡 Lagerungstipp: Ein leichtes Bestreichen der Scheiben mit Olivenöl Extra Vergine bildet einen natürlichen Schutzfilm, der Feuchtigkeit einschließt und Oxidation verhindert."
@@ -25,7 +25,7 @@ faqs:
 
 Haben Sie schon einmal edlen Prosciutto oder Jamón zum Wein genossen und die restlichen Scheiben im Kühlschrank aufbewahrt, nur um nach wenigen Tagen festzustellen, dass sie hart, ausgetrocknet und gelblich geworden waren? 🥓
 
-Rohschinken durchläuft eine lange Pökelung und Reifung, wodurch die Wasseraktivität ($A_w < 0,85$) gesenkt wird, um Keimwachstum zu hemmen. Da er jedoch reich an ungesättigten Fettsäuren ist, führt Sauerstoffkontakt zur Lipidperoxidation (Autoxidation). Dies oxidiert das Myoglobin, was zu Vergilbung, ranzigem Geruch und Verhärtung führt.
+Rohschinken durchläuft eine lange Pökelung und Reifung, wodurch die Wasseraktivität (Wasseraktivität (Aw) < 0,85) gesenkt wird, um Keimwachstum zu hemmen. Da er jedoch reich an ungesättigten Fettsäuren ist, führt Sauerstoffkontakt zur Lipidperoxidation (Autoxidation). Dies oxidiert das Myoglobin, was zu Vergilbung, ranzigem Geruch und Verhärtung führt.
 
 In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Rohschinken. 🛡️
 
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & EFSA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sugar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Transvaser dans un récipient hermétique — Isolation de l'humidité et des odeurs 📦"
     text: "Laisser le sucre dans son emballage papier ou plastique ouvert permet à l'humidité ambiante et aux odeurs de cuisine de s'y infiltrer. 💡 Astuce de conservation : Versez le sucre dans un bocal en verre ou une boîte en plastique hermétique pour bloquer l'air."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS.
     </p>
   </div>
 </div>

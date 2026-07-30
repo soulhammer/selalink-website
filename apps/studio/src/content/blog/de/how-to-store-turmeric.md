@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "In Braun- oder Violettglasgläsern lagern — Lichtschutz 📦"
     text: "Bewahren Sie Kurkumapulver in braunen oder violetten Glasbehältnissen oder dunklen Dose auf. 💡 Lagerungstipp: Transparente Behälter lassen Licht durch, was das Curcumin zerstört. Lichtundurchlässige Gefäße sind essenziell."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & FDA & MFDS.
     </p>
   </div>
 </div>

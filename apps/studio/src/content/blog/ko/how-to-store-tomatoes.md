@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)"
 steps:
   - name: "완숙 전에는 꼭 상온 그늘에서 후숙하기 — 실온 보관 (5 ~ 7일) 🌿"
     text: "덜 익은 토마토는 15 ~ 20℃ 서늘한 상온의 직사광선이 들지 않는 그늘에 보관하세요. 💡 보관 팁: 꼭지를 뗀 후 단단한 어깨 부위(꼭지 부분)가 바닥을 향하도록 뒤집어 놓으면 무게 중심이 분산되어 밑부분이 짓눌리는 것을 예방할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 미국 질병통제예방센터(CDC)에 기반하고 있습니다.
     </p>
   </div>
 </div>

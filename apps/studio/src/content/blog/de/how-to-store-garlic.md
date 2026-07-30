@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Zucker und Küchenpapier für geschälten Knoblauch auslegen — Kühlen (14–21 Tage) 🪙"
     text: "Geschälter Knoblauch verfault bei Feuchtigkeit sehr schnell. 💡 Lagerungstipp: Verteilen Sie eine 1 cm dicke Zuckerschicht auf dem Boden eines luftdichten Behälters, decken Sie diese mit 2–3 Lagen Küchenpapier ab und legen Sie die Zehen darauf. Zucker zieht Feuchtigkeit an und hält die Zehen trocken."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf RDA & MFDS & USDA.
     </p>
   </div>
 </div>

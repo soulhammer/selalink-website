@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Eier niemals mit Wasser waschen — Natürliche Kutikula erhalten & kühlen (45 Tage) 💧"
     text: "Eierschalen besitzen zwischen 7.000 und 17.000 mikroskopische Poren. 💡 Lagerungstipp: Das Waschen zerstört die Schutzschicht (Kutikula), sodass Wasser und Bakterien (wie Salmonellen) eintreten können. Reiben Sie Schmutz stattdessen nur trocken mit Küchenpapier ab."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA & FDA</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA & FDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/flour_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transférer dans un récipient hermétique ou un bocal en verre — Barrière totale contre l'humidité et les nuisibles 📦"
     text: "La clé de la conservation de la farine est de bloquer complètement l'air, l'humidité et les parasites. 💡 Astuce de conservation : Versez la farine ouverte dans un bocal en verre ou une boîte plastique hermétique munie d'un joint en caoutchouc et fermez bien."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & MFDS.
     </p>
   </div>
 </div>

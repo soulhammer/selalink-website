@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用压盘（或保鲜膜）将泡菜完全压入汤汁中以隔绝空气 — 维持厌氧状态 📦"
     text: "主导泡菜发酵的乳酸菌（Leuconostoc, Lactobacillus）是在无氧环境中良好生长的厌氧菌，而形成白膜的酵母则需要氧气。💡储存小贴士：泡菜装至容器80%满即可，然后用压盘、保鲜膜或外层白菜叶将顶部紧紧压实，使泡菜完全浸没在汤汁中。彻底阻绝空气可从源头杜绝氧化与产膜酵母的产生。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

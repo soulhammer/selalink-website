@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/zucchini_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "수분을 흡수하는 키친타월로 감싸기 — 수분 조절 포장 🧻"
     text: "애호박 표면에서 나오는 자체 수분이 맺히면 표면이 물러지는 원인이 됩니다. 💡 보관 팁: 씻지 않은 애호박을 키친타월이나 신문지로 한 개씩 감싸주세요. 키친타월이 애호박의 자체 호흡으로 생기는 습기를 흡수하여 무름 현상을 방지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

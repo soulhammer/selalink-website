@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Transfira para um recipiente hermético para minimizar o contato com o ar — Evite contaminação 📦"
     text: "Deixar o molho na lata ou frasco original aberto permite a entrada de ar e aumenta o risco de contaminação. 💡 Dica de conservação: Passe o molho restante para um recipiente hermético limpo e seco (vidro ou plástico próprio) e feche bem. Reduzir a exposição ao ar preserva o frescor."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretr
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

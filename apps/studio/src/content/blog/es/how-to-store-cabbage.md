@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Retire el corazón en forma de cono triangular — Bloquee la pérdida de nutrientes 🔪"
     text: "El corazón central actúa como centro de crecimiento que consume agua y nutrientes de las hojas tras la cosecha. 💡 Consejo de almacenamiento: Use la punta de un cuchillo para excavar profundamente el corazón en forma de cono. Eliminar el tallo suprime el punto de inicio de la descomposición."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las recomen
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & EFSA & FSA</strong>.
+      Este contenido se basa en RDA & EFSA & FSA.
     </p>
   </div>
 </div>

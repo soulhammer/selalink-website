@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envolva cada fava firmemente em papel amanteigado ou filme plástico — Barreira de Umidade 📜"
     text: "Envolva cada fava individualmente em papel amanteigado (Wax Paper) ou filme plástico alimentar para reduzir o atrito e evitar a evaporação de umidade."
@@ -25,7 +25,7 @@ faqs:
 
 As favas de baunilha naturais (vanilla beans) conferem um aroma doce e sofisticado inigualável para sobremesas finas e confeitaria! 🍦✨
 
-Essas favas contêm vanilina, o precioso composto aromático responsável por seu aroma icônico. Contudo, devido ao alto valor, muitas pessoas cometem o erro de guardá-las na geladeira. O frio da geladeira causa condensação na superfície da fava ao ser retirada, elevando a atividade de água ($A_w$) e criando o ambiente perfeito para o surgimento de mofo.
+Essas favas contêm vanilina, o precioso composto aromático responsável por seu aroma icônico. Contudo, devido ao alto valor, muitas pessoas cometem o erro de guardá-las na geladeira. O frio da geladeira causa condensação na superfície da fava ao ser retirada, elevando a atividade de água (atividade de água (Aw)) e criando o ambiente perfeito para o surgimento de mofo.
 
 Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para preservar a vanilina e eliminar os riscos de mofo. 🛡️
 
@@ -38,7 +38,7 @@ Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um m
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um m
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Nunca guarde as favas de baunilha na geladeira ou no congelador ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Guardar as favas na geladeira causa condensação de umidade ao entrar em contato com o ar ambiente. Isso eleva a atividade de água ($A_w$) na superfície, favorecendo fungos como Aspergillus e destruindo a estrutura da vanilina.
+      Guardar as favas na geladeira causa condensação de umidade ao entrar em contato com o ar ambiente. Isso eleva a atividade de água (atividade de água (Aw)) na superfície, favorecendo fungos como Aspergillus e destruindo a estrutura da vanilina.
     </p>
   </div>
 </div>

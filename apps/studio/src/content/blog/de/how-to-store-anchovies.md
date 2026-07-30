@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Kürzlich trocken anrösten und portionieren — Feuchtigkeit & Geruch entfernen 📦"
     text: "Wenn die Sardellen feucht wirken, rösten Sie sie ohne Öl 1–2 Minuten bei schwacher Hitze in der Pfanne. 💡 Lagerungstipp: Vor dem Portionieren in Gefrierbeuteln komplett abkühlen lassen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NIFS & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

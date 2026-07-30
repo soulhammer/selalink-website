@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Keringkan kelembapan permukaan secara total — Cegah Jamur & Pembusukan 🍋"
     text: "Meskipun kulitnya tebal, air yang menggenang di permukaan memungkinkan spora jamur masuk. 💡 Tips Penyimpanan: Lap setiap tetes air hingga benar-benar kering dengan tisu dapur, lalu angin-anginkan di tempat teduh selama 5–10 menit sebelum disimpan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FSA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FSA & MFDS.
     </p>
   </div>
 </div>

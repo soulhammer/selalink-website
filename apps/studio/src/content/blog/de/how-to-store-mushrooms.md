@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Vor der Lagerung niemals mit Wasser waschen — Wasseraufnahme verhindern ❌💧"
     text: "Pilze haben eine poröse Struktur, die Feuchtigkeit sofort aufsaugt. 💡 Lagerungstipp: Das Waschen vor der Lagerung lässt die Zellen volllaufen, zerstört die feste Textur und das Guanylsäure-Umami-Aroma und beschleunigt Schimmel. Erde erst direkt vor dem Kochen mit einem Tuch oder Pinsel abreiben."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf RDA & MFDS & USDA.
     </p>
   </div>
 </div>

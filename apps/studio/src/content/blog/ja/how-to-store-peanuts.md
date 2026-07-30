@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "酸素と湿気を遮断する密閉包装をする — 水分・酸素遮断 📦"
     text: "むき実でも殻付きでも、空気に触れると酸素と結合して脂質の酸化が始まります。💡保存のコツ：ピーナッツをジッパー付き保存袋や密閉容器に入れ、食品用乾燥剤（シリカゲル）や脱酸素剤を一緒に入れて密閉してください。空気との接触を最小限に抑え、水分活性を下げるのが鮮度保持の第一防衛線です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

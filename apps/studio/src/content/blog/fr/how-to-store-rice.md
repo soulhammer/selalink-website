@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Portionner dans des récipients hermétiques (ou bouteilles en plastique) dès l'achat — Bloquer l'oxygène et l'humidité 📦"
     text: "Le contact continu avec l'air oxyde les graisses du riz, provoquant des odeurs rances et une perte d'humidité. 💡 Astuce de conservation : Répartissez le riz sec dans des bouteilles PET ou des bocaux en verre propres et bien secs. Cela préserve l'humidité idéale ( ~ 15 %) et bloque l'air extérieur."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation du riz en 3 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

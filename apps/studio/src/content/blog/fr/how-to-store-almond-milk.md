@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Agiter doucement avant de servir — Ré-émulsionner le dépôt naturel 🥛"
     text: "Le lait d'amande est une suspension d'amandes dans l'eau; les solides se déposent naturellement avec le temps. 💡 Astuce de conservation : Ce dépôt est un phénomène physique normal, pas une altération. Agitez doucement la brique avant de servir pour retrouver une consistance homogène."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation du lait d'am
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS & RDA</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Matangkan pada suhu ruang di tempat teduh sebelum matang sempurna — Suhu Ruang (5–7 Hari) 🌿"
     text: "Simpan tomat mentah berwarna hijau/merah muda pada suhu ruang sejuk (15–20°C) jauh dari sinar matahari langsung. 💡 Tips Penyimpanan: Lepas tangkai hijau dan letakkan tomat dengan bagian bekas tangkai menghadap ke bawah di atas permukaan datar."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & CDC</strong>.
+      Konten ini didasarkan pada RDA & USDA & CDC.
     </p>
   </div>
 </div>

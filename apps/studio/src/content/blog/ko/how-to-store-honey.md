@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/honey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐력이 뛰어난 유리 용기에 보관하기 — 습기 및 냄새 차단 📦"
     text: "꿀 보관의 핵심은 외부 습기와 산소의 유입을 완벽히 막는 것입니다. 💡 보관 팁: 개봉 후에는 산성 성분에 반응하지 않는 유리병이나 식품용 밀폐 플라스틱 용기에 담아 뚜껑을 꼭 닫아 보관하세요. 플라스틱보다는 내화학성이 강한 유리 용기가 가장 좋습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

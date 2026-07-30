@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Disposer les framboises non lavées en une seule couche (Single Layer) sur du papier absorbant — Contrôle de l'humidité 🧻"
     text: "Empiler les framboises écrase les couches inférieures sous leur propre poids, piégeant l'humidité et favorisant la moisissure. 💡 Astuce de conservation : Tapissez le fond d'une boîte hermétique avec du papier absorbant et déposez les framboises non lavées sur un seul rang sans qu'elles se chevauchent."
@@ -18,14 +18,14 @@ steps:
     text: "Les framboises fraîches se gardant très peu de temps, la congélation est indispensable si vous ne les consommez pas sous 3 jours. 💡 Astuce de conservation : Rincez délicatement les framboises, séchez-les complètement, congelez-les à plat sur un plateau puis transférez-les dans des sachets Ziploc au congélateur (-18 °C) pendant 10 à 12 mois."
 faqs:
   - question: "Pourquoi ne faut-il pas laver les framboises avant de les stocker ?"
-    answer: "Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau ($A_w$) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures."
+    answer: "Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau (activité de l'eau (Aw)) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures."
   - question: "Pourquoi les framboises congelées ramollissent-elles à la décongélation et comment les utiliser ?"
     answer: "Les parois cellulaires des framboises se rompent lors de la congélation ; en décongelant, le jus s'échappe et les fruits ramollissent. Il est recommandé d'utiliser les framboises congelées directement sans décongélation dans vos smoothies, yaourts ou pâtisseries."
 ---
 
 Avez-vous déjà acheté de belles framboises pour constater qu'elles étaient moisies ou écrasées deux jours seulement après les avoir mises au réfrigérateur ? 🍓
 
-Bien que les framboises soient un fruit vedette des petits-déjeuners et desserts du monde entier, leur peau très fine et leur cœur creux leur confèrent un taux de respiration (Respiration Rate) extrêmement élevé, accélérant leur détérioration. Le lavage amène l'activité de l'eau en surface ($A_w$) proche de 1,0, incitant les spores de moisissure grise (*Botrytis cinerea*) à détruire les parois cellulaires en quelques heures.
+Bien que les framboises soient un fruit vedette des petits-déjeuners et desserts du monde entier, leur peau très fine et leur cœur creux leur confèrent un taux de respiration (Respiration Rate) extrêmement élevé, accélérant leur détérioration. Le lavage amène l'activité de l'eau en surface (activité de l'eau (Aw)) proche de 1,0, incitant les spores de moisissure grise (*Botrytis cinerea*) à détruire les parois cellulaires en quelques heures.
 
 Dans ce guide, vous présente un guide scientifique de conservation des framboises en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️
 
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des frambois
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des frambois
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Ne lavez jamais les framboises immédiatement après l'achat 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Laver les framboises avant le stockage porte l'activité de l'eau en surface ($A_w$) près de 1,0. Cela active les spores de moisissure grise (*Botrytis cinerea*), qui décomposent les cellules et altèrent le fruit en quelques heures. N'effectuez le lavage qu'immédiatement avant de consommer.
+      Laver les framboises avant le stockage porte l'activité de l'eau en surface (activité de l'eau (Aw)) près de 1,0. Cela active les spores de moisissure grise (*Botrytis cinerea*), qui décomposent les cellules et altèrent le fruit en quelques heures. N'effectuez le lavage qu'immédiatement avant de consommer.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des frambois
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau ($A_w$) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures.
+      Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau (activité de l'eau (Aw)) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures.
     </p>
   </details>
 

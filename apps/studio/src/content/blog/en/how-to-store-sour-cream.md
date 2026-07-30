@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS & RDA</strong>"
+authority: "USDA & FDA & MFDS & RDA"
 steps:
   - name: "Smooth the top surface with a clean spoon — Block Whey Separation & Contamination 🥄"
     text: "After scooping sour cream, leaving deep crater-like depressions allows liquid whey to collect in the pockets, creating a breeding ground for microbes. 💡 Storage Tip: Use a clean spoon to smooth down the top surface flat before closing. Smoothing the surface minimizes whey pooling and keeps it fresh longer."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step sour cream storage guide ba
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS & RDA</strong>.
+      This content is based on USDA & FDA & MFDS & RDA.
     </p>
   </div>
 </div>

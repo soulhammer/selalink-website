@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Simpan botol yang belum dibuka di dapur sejuk — Simpan di Dapur (15–25°C) 📦"
     text: "Mustard yang belum dibuka tetap stabil pada suhu ruang berkat bahan pengawet alami seperti cuka dan garam. 💡 Tips Penyimpanan: Simpan di dalam lemari yang gelap dan sejuk jauh dari sinar matahari."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & MFDS & USDA</strong>.
+      Konten ini didasarkan pada FDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,8 +8,8 @@
             "ko": {
                 "title": "두유 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA·MFDS)에 따른 두유의 개봉 전·후 최적 보관 방법, 단백질 응고(엉김) 원인 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
-                "intro": "고소하고 영양이 풍부하여 남녀노소 즐겨 마시는 두유(Soy Milk)! 🥛🫘\n\n두유는 대두에서 추출한 식물성 단백질과 지방, 수분이 풍부하여 대표적인 건강 음료로 손꼽힙니다. 하지만 미개봉 멸균 두유는 상온 보관이 가능한 반면, 일단 개봉하면 높은 수분활성도(Aw)와 풍부한 영양 성분 때문에 대장균군이나 바실러스 세레우스(Bacillus cereus) 같은 세균이 증식하기 매우 쉬운 환경이 됩니다. 섭씨 10°C 이상에 방치되면 산도가 급격히 올라가 단백질 앙금이 순두부처럼 엉기는 응고 현상이 발생합니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 두유의 고소한 풍미와 영양을 신선하게 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+                "intro": "고소하고 영양이 풍부하여 남녀노소 즐겨 마시는 두유(Soy Milk)! 🥛🫘\n\n두유는 대두에서 추출한 식물성 단백질과 지방, 수분이 풍부하여 대표적인 건강 음료로 손꼽힙니다. 하지만 미개봉 멸균 두유는 상온 보관이 가능한 반면, 일단 개봉하면 높은 수분 활성도(Aw)와 풍부한 영양 성분 때문에 대장균군이나 바실러스 세레우스(Bacillus cereus) 같은 세균이 증식하기 매우 쉬운 환경이 됩니다. 섭씨 10°C 이상에 방치되면 산도가 급격히 올라가 단백질 앙금이 순두부처럼 엉기는 응고 현상이 발생합니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 두유의 고소한 풍미와 영양을 신선하게 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "두유의 높은 단백질·지방 함량 및 수분활성도로 인한 미생물 증식과 산도 증가에 따른 단백질 응고(변성) 메커니즘을 이해하는 것이 위생적 보관의 핵심입니다.",
                 "guideTitle": "과학적으로 검증된 보관 가이드",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Soy Milk Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods before and after opening, cause of protein coagulation, and shelf life for soy milk based on official USDA & FDA safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Soy milk is a fragrant, nutrient-rich plant beverage enjoyed by people of all ages! 🥛🫘\n\nExtracted from soybeans, soy milk is packed with plant-based protein, healthy fats, and moisture, making it a cornerstone healthy drink. While unopened aseptic UHT packages can be kept at room temperature, opening the container creates an environment with high water activity (Aw) and rich nutrients ideal for bacterial growth, such as coliform bacteria and Bacillus cereus. If left above 10°C (50°F), acidity rises rapidly, causing protein coagulation where the liquid clumps into curds like soft tofu.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to preserve the nutty flavor and rich nutrients of soy milk. 🛡️",
                 "whyTitle": "Why Store Soy Milk This Way? Scientific Facts",
                 "whyDesc": "Understanding the mechanism of microbial proliferation and protein coagulation (denaturation) caused by rising acidity in high-protein, high-moisture soy milk is key to hygienic storage.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "豆乳（Soy Milk）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づく豆乳の開封前・後の最適保存法、タンパク質凝固（分離）の原因および保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "香ばしく栄養豊かな豆乳（Soy Milk）！🥛🫘\n\n大豆から抽出された豆乳は植物性タンパク質や脂質、水分が豊富で代表的な健康飲料です。未開封の滅菌パックは常温保存が可能ですが、一度開封すると高い水分活性度（Aw）と豊富な栄養成分のため、大腸菌群やバシラス・セレウス（Bacillus cereus）などの細菌が増殖しやすい環境になります。10℃以上の常温に放置されると酸度が急激に上がり、タンパク質が凝固して豆腐状に固まる現象が発生します。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、豆乳の香ばしい風味と栄養を新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "豆乳のタンパク質・脂質含有量と水分活性度による微生物増殖、および酸度上昇に伴うタンパク質凝固（変性）のメカニズムを理解することが衛生的な保存の核心です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持豆浆/豆奶（Soy Milk）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解豆浆/豆奶开封前后的最佳储存方式、蛋白质凝固原因及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "豆浆/豆奶（Soy Milk）香浓可口、营养丰富，是老少皆宜的健康饮品！🥛🫘\n\n豆浆萃取自大豆，富含植物蛋白、优质脂肪和水分。未开封的灭菌包装可在常温下保存；但一旦开封，高水分活性（Aw）与丰富的营养成分使其极易滋生大肠菌群和蜡样芽孢杆菌（Bacillus cereus）。若置于10℃以上的环境，酸度会迅速上升，导致蛋白质变性并凝结成豆腐花状的沉淀。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，长久锁住豆浆的香浓风味与营养。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解高蛋白、高水分豆浆因酸度上升导致微生物滋生与蛋白质凝固（变性）的机制，是实现卫生储存的关键所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener fresca la leche de soja: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento antes y después de abrir, la causa de la coagulación de la proteína y la vida útil de la leche de soja según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¡La leche de soja (soy milk) es una bebida nutritiva y sabrosa disfrutada por personas de todas las edades! 🥛🫘\n\nExtraída de los granos de soja, está repleta de proteína vegetal, grasas saludables y humedad. Aunque los envases asépticos UHT cerrados pueden guardarse a temperatura ambiente, una vez abiertos, la alta actividad de agua (Aw) y los ricos nutrientes crean el entorno ideal para bacterias como coliformes y Bacillus cereus. Si se deja a más de 10 °C, la acidez se eleva rápidamente, haciendo que las proteínas se coagulen en grumos similares al tofu blando.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para preservar el sabor suave y los nutrientes de la leche de soja. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender el mecanismo de proliferación microbiana y la coagulación (desnaturalización) de las proteínas por el aumento de acidez es la clave para un almacenamiento higiénico.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le lait de soja frais : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales de conservation avant et après ouverture, la cause de la coagulation des protéines et la durée de conservation du lait de soja selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Le lait de soja (soy milk) est une boisson végétale onctueuse et nutritive appréciée de tous ! 🥛🫘\n\nExtrait des graines de soja, il est riche en protéines végétales, en lipides de qualité et en eau. Si les briques stériles UHT fermées se conservent à température ambiante, l'ouverture crée un milieu à forte activité de l'eau (Aw) et riche en nutriments favorisant la multiplication de bactéries comme les coliformes et Bacillus cereus. Au-delà de 10 °C, l'acidité augmente rapidement, provoquant la coagulation des protéines en grumeaux semblables au tofu tendre.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour préserver l'onctuosité et la valeur nutritionnelle du lait de soja. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre la prolifération microbienne et la dénaturation (coagulation) des protéines causée par la hausse de l'acidité est la clé d'un stockage hygiénique.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Sojamilch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden vor und nach dem Öffnen, die Ursachen der Proteinkoagulation und die Haltbarkeit von Sojamilch nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Sojamilch (Soy Milk) ist ein nährstoffreicher, pflanzlicher Drink, der bei Jung und Alt beliebt ist! 🥛🫘\n\nHergestellt aus Sojabohnen, steckt sie voller pflanzlichem Eiweiß, gesunden Fetten und Feuchtigkeit. Ungeöffnete UHT-Packungen können ungekühlt gelagert werden. Nach dem Öffnen bietet die hohe Wasseraktivität (Aw) zusammen mit den Nährstoffen jedoch ein ideales Milieu für Bakterien wie Coliforme und Bacillus cereus. Bei über 10 °C steigt die Säure rasch an und lässt das Eiweiß wie Seidentofu ausflocken.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Geschmack und Nährstoffe der Sojamilch optimal zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Keimvermehrung und der Proteinkoagulation (Denaturierung) durch steigenden Säuregehalt ist der Schlüssel zur hygienischen Lagerung.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o leite de soja fresco: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação antes e depois de abrir, a causa da coagulação de proteínas e a validade do leite de soja segundo a USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "O leite de soja (soy milk) é uma bebida vegetal saborosa e nutritiva apreciada por todas as idades! 🥛🫘\n\nExtraído dos grãos de soja, é repleto de proteína vegetal, gorduras saudáveis e umidade. Embora embalagens UHT fechadas possam ser guardadas em temperatura ambiente, uma vez abertas, a alta atividade de água (Aw) e os nutrientes criam o ambiente ideal para bactérias como coliformes e Bacillus cereus. Se mantido acima de 10 °C, a acidez sobe rapidamente, fazendo com que a proteína se coagule em grumos semelhantes ao tofu macio.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para preservar a cremosidade e os nutrientes do leite de soja. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a proliferação microbiana e a coagulação (desnaturação) de proteínas provocada pelo aumento da acidez é a chave para o armazenamento higiênico.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Susu Kedelai (Soy Milk) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal sebelum dan sesudah dibuka, penyebab penggumpalan protein, serta masa simpan susu kedelai berdasarkan panduan resmi USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Susu kedelai (Soy Milk) adalah minuman nabati yang gurih, kaya nutrisi, dan disukai semua kalangan! 🥛🫘\n\nDiekstrak dari biji kedelai, susu kedelai kaya akan protein nabati, lemak sehat, dan kadar air tinggi. Kemasan steril UHT yang belum dibuka dapat disimpan pada suhu ruang. Namun setelah dibuka, aktivitas air (Aw) yang tinggi dan nutrisi melimpah menciptakan lingkungan ideal bagi bakteri seperti koliform dan Bacillus cereus. Jika dibiarkan di atas suhu 10°C, tingkat keasaman akan naik dengan cepat, menyebabkan protein menggumpal seperti tahu lembut.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan metode penyimpanan 3 langkah untuk menjaga nutrisi dan kelezatan susu kedelai. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami perkembangbiakan mikroba dan penggumpalan (denaturasi) protein akibat kenaikan asam pada susu kedelai adalah kunci utama penyimpanan yang higienis.",

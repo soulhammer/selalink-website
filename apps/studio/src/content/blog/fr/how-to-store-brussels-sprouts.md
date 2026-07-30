@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Retirer les feuilles abîmées et sécher la surface — Nettoyage préalable 🥬"
     text: "Retirez les feuilles jaunies ou endommagées dès l'achat et séchez délicatement la surface avec du papier essuie-tout. 💡 Astuce de conservation : Enlever les feuilles flétries évite la propagation du pourrissement. Laissez le talon intact pour limiter l'évaporation."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & RDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & RDA & MFDS.
     </p>
   </div>
 </div>

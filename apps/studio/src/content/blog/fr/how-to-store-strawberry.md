@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Ne pas laver et garder les queues vertes — Bloquer l'absorption d'eau 🍓"
     text: "Laver les fraises ou retirer leurs queues crée des micro-blessures sur la peau. 💡 Astuce de conservation : L'eau s'infiltre par ces ouvertures, faisant éclater les cellules et s'écouler le jus, ce qui déclenche la moisissure grise. Gardez-les bien sèches jusqu'au moment de dégustation."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)"
 steps:
   - name: "内臓、スミ袋、吸盤の汚れを完全に除去する — 臭みと腐敗の原因を遮断 🦑"
     text: "イカの内臓や吸盤の汚れは生臭さや雑菌繁殖の主な原因です。💡保存のコツ：胴体を開いて内臓、スミ袋、軟骨を取り除き、足の吸盤についたリング状の角質汚れを粗塩や小麦粉でもみ洗いしながら流れる水で綺麗に洗い流してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

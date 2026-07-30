@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Seque com papel-toalha sem lavar com água — Evite contaminação cruzada 🧼"
     text: "Não lave na torneira. Ao abrir a embalagem, seque cuidadosamente a superfície interna e externa com papel-toalha. 💡 Dica de conservação: Remover a umidade superficial priva as bactérias de um meio de cultura e evita a dispersão de patógenos."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA FSIS & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

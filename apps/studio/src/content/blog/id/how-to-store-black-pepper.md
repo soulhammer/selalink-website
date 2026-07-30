@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Simpan dalam bentuk biji utuh di wadah kedap udara — Menjaga Aroma & Cegah Oksidasi 📦"
     text: "Saat lada dihaluskan, minyak atsirinya teroksidasi dengan cepat saat terkena udara. 💡 Tips Penyimpanan: Membeli biji lada utuh lalu menghaluskannya dengan grinder sesaat sebelum dimasak adalah cara terbaik menjaga aromanya."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

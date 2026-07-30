@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "바나나 걸이(행거) 사용하기 — 실온 보관 (7일) 🍌"
     text: "바나나를 바닥에 그냥 두면 자체 무게로 인해 아랫부분이 눌려 멍이 듭니다. 멍든 부위는 세포벽이 파괴되어 에틸렌 가스가 과다하게 분출되고 갈변이 가속화됩니다. 💡 보관 팁: 바나나 전용 걸이나 옷걸이에 매달아 공중에 띄워 보관하세요. 바나나는 나무에 매달려 있는 상태로 착각하여 눌림 없이 훨씬 오랫동안 단단함을 유지합니다. Hanging을 통해 자연 생장 환경을 그대로 모사해주는 원리입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>USDA & WHO</strong>에 기반하고 있습니다.
+      본 콘텐츠는 USDA & WHO에 기반하고 있습니다.
     </p>
   </div>
 </div>

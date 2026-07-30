@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Bananen an einem Bananenständer aufhängen — Lagerung bei Raumtemperatur (7 Tage) 🍌"
     text: "Bananen direkt auf eine Oberfläche zu legen, führt zu Druckstellen durch ihr eigenes Gewicht. Diese Stellen setzen vermehrt Ethylengas frei. 💡 Lagerungstipp: Hängen Sie die Bananen auf einen Bananenständer. Dies ahmt die natürliche Wuchsform nach, verhindert Druckstellen und hält sie länger fest."
@@ -34,7 +34,7 @@ Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, das
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & WHO</strong>.
+      Dieser Inhalt basiert auf USDA & WHO.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "存放在防腐蚀密封容器（玻璃·陶瓷·塑料）中 — 密封防锈 📦"
     text: "金属材质的容器或盖子容易与盐发生化学反应产生锈迹，污染食盐。💡储存小贴士：将食盐装入玻璃瓶、陶瓷罐或塑料密封盒内并盖紧盖子，既能防潮又能防止生锈。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

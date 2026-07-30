@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>WiKim & RDA & MFDS</strong>"
+authority: "WiKim & RDA & MFDS"
 steps:
   - name: "Presser avec un presse-aliment (ou film étirable) pour bloquer l'air — Maintenir l'anaérobiose 📦"
     text: "Les bactéries lactiques (Leuconostoc, Lactobacillus) responsables de la fermentation s'épanouissent en milieu anaérobie (sans oxygène), tandis que les levures ont besoin d'oxygène. 💡 Astuce de conservation : Remplissez le récipient à 80% seulement et pressez fermement le dessus pour que le kimchi reste entièrement immergé dans son jus. Bloquer l'air élimine l'oxydation et le voile blanc."
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des faits scientifiques vérifiés par l'Institut Mondi
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>WiKim & RDA & MFDS</strong>.
+      Ce contenu est basé sur WiKim & RDA & MFDS.
     </p>
   </div>
 </div>

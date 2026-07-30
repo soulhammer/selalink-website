@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Abtrocknen und fest einwickeln — Feuchtigkeitsaufnahme & Luftschutz 📦"
     text: "Tupfen Sie das Kabeljaufilet trocken, wickeln Sie es in Küchenpapier oder Absorbierpapier und verschließen Sie es lückenlos mit Frischhaltefolie. 💡 Lagerungstipp: Das Aufsaugen der Feuchtigkeit verhindert den TMAO-Abbau und schützt das Gewebe."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Selar massa seca em potes herméticos ou garrafas — Barreira contra umidade e pragas (1–2 anos) 📦"
     text: "Manter a massa seca na embalagem plástica fina permite que larvas de besouro perfurem o plástico e ponham ovos. 💡 Dica de conservação: Guarde a massa seca com sílica-gel em potes herméticos ou garrafas plásticas. Conserve no armário abaixo de 20 °C por 1 a 2 anos sem pragas."
@@ -38,7 +38,7 @@ O macarrão é dividido em 'massa seca' (umidade abaixo de 14%) e 'massa fresca/
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & FDA & MFDS.
     </p>
   </div>
 </div>

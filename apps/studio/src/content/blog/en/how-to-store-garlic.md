@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Spread sugar and paper towels at the bottom for peeled garlic — Cold Storage (14–21 Days) 🪙"
     text: "Peeled garlic rots and molds rapidly when exposed to surface moisture. 💡 Storage Tip: Spread a 1 cm layer of sugar evenly at the bottom of an airtight container, cover it with 2–3 layers of paper towels, and place peeled garlic cloves on top. Sugar acts as a natural desiccant that draws in moisture, keeping the garlic dry and fresh."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & MFDS & USDA</strong>.
+      This content is based on RDA & MFDS & USDA.
     </p>
   </div>
 </div>

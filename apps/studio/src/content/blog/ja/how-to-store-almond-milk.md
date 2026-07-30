@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "使用前に軽く振る — 天然沈殿物の再乳化 🥛"
     text: "アーモンドミルクは不飽和脂肪酸と固形分が水分に懸濁した状態のため、静置すると自然に分離します。💡保存のコツ：傷みではなく自然な物理現象ですので、飲む前や使用前に容器をゆっくり振ってあげると再び滑らかな状態に戻ります。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

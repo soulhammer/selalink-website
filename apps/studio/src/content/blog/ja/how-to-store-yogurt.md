@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "清潔で乾いたスプーンで取り分けて密閉する — 汚染防止と衛生管理 📦"
     text: "大容量容器から直接食べず、食べる分だけ清潔で乾いたスプーンですくって取り分けましょう。💡保存のコツ：すくった後、容器のフチについたヨーグルトを軽く拭き取り、フタをしっかり閉めて空気中のカビ胞子の侵入を防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

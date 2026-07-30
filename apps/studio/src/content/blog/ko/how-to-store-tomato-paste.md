@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_paste_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "유리 밀폐 용기에 담고 올리브 오일 덮기 — 산소 차단 및 산화 방지 📦"
     text: "공기와의 접촉을 최소화하는 것이 변질을 막는 핵심입니다. 💡 보관 팁: 캔에서 꺼낸 토마토 페이스트를 깨끗한 유리병이나 밀폐 용기에 담고, 표면이 평평해지도록 누른 후 엑스트라버진 올리브 오일을 얇게 부어 유막을 형성해 주세요. 공기 차단 효과로 산화와 곰팡이를 방지합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

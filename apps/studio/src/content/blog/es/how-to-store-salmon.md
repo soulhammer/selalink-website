@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Seque el aceite superficial y el líquido (drip) por completo — Evite bacterias y malos olores 🍣"
     text: "La humedad superficial y el aceite del salmón crudo son la causa principal de los olores a trimetilamina (TMA) y la multiplicación bacteriana. 💡 Consejo de almacenamiento: Presione firmemente toallas de papel sobre ambos lados del salmón para absorber todo el líquido antes de guardarlo."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

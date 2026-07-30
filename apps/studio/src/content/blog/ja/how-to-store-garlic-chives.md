@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_chives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "洗わずにキッチンペーパーで包んで水分を調節する — 水分コントロール 📦"
     text: "ニラ保存のポイントは葉の表面に水気を溜めないことです。💡保存のコツ：水洗いせず、黄色くなった葉や汚れを払い落とした後、根元から葉先まで束全体をキッチンペーパーや新聞紙で包みます。紙が余分な湿気を吸収し、蒸れによる腐敗を防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

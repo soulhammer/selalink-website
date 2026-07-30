@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chia_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "光を完全に遮断する遮光密閉容器（茶色瓶・不透明容器）に入れる — 紫外線および酸素遮断 🫙"
     text: "チアシードを開封した後は、茶色のガラス瓶、不透明な密閉容器、または遮光ジッパーバッグに移し替えてください。💡保存のコツ：容器の口を完全に密閉して酸素の接触と紫外線の透過を同時に遮断することが過酸化物価（PV）の上昇を防ぐ第一防衛線です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "메이플 시럽 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 메이플 시럽의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>",
+                "authority": "미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)",
                 "intro": "팬케이크나 와플에 풍미를 더해주는 달콤한 100% 순수 메이플 시럽, 개봉 후 일반 핫케이크 시럽처럼 식탁이나 팬트리에 두었다가 표면에 흰색이나 초록색 곰팡이가 피어 버린 경험 있으시죠? 🍁\n\n일반 인공 시럽(옥수수 시럽 기반)과 달리 순수 메이플 시럽은 단풍나무 수액만을 농축하여 만든 천연 식품으로, 방부제가 전혀 들어있지 않습니다. 당도가 약 66% 수준으로 높지만, 개봉 후 상온 공기에 노출되면 내건성 곰팡이 포자가 번식하기 매우 쉬운 환경이 됩니다. 따라서 개봉 즉시 반드시 냉장 보관해야 합니다.\n\n이번 가이드에서는 USDA와 CFIA의 과학적 가이드라인에 기반하여, 메이플 시럽의 곰팡이 발생을 차단하고 신선한 풍미를 오랫동안 지키는 3단계 보관 비법을 전해드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "천연 당류 식재료의 물리화학적 특성과 미생물 생성 메커니즘을 이해하고 올바른 보관법을 적용하는 것은 식품 안전과 품질 유지에 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Maple Syrup Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for maple syrup based on official safety guidelines.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "Have you ever poured sweet 100% pure maple syrup over pancakes or waffles, left the bottle in the pantry like imitation pancake syrup, only to find fuzzy white or green mold growing on top a few weeks later? 🍁\n\nUnlike artificial pancake syrups made from corn syrup, pure maple syrup is a 100% natural product concentrated solely from maple tree sap, containing zero preservatives. Although its sugar content is high (around 66% Brix), once opened and exposed to ambient air, it creates an environment where xerophilic mold spores can easily thrive. Therefore, immediate refrigeration after opening is vital.\n\nIn this guide, shares a scientifically proven 3-step maple syrup storage guide based on guidelines from the USDA and CFIA to block mold growth and preserve rich maple flavor safely. 🛡️",
                 "whyTitle": "Why Store Maple Syrup This Way? Scientific Facts",
                 "whyDesc": "Understanding the physicochemical traits of natural liquid sweeteners and microbial growth mechanisms is essential for maintaining food safety and quality.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "メープルシロップを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくメープルシロップの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>",
+                "authority": "米国農務省(USDA) & カナダ食品検査庁(CFIA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)",
                 "intro": "パンケーキやワッフルにかける甘くて美味しい100%純粋メープルシロップ、開封後に一般的なケーキシロップと同じ感覚で常温の棚に置いておいたら、表面に白いカビが生えてしまった経験はありませんか？ 🍁\n\nコーンシロップで作られた人工シロップと異なり、純粋なメープルシロップはカエデの樹液のみを濃縮した天然食品で、防腐剤が一切含まれていません。糖度は約66%と高いものの、開封して常温の空気に触れると耐乾性カビ胞子が非常に繁殖しやすい環境になります。そのため、開封後は直ちに冷蔵保存することが不可欠です。\n\n本記事では、USDAやCFIAの科学的ガイドラインに基づき、カビの発生を遮断し風味を safe に保つ3段階の保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "天然甘味料の物理化学的特性と微生物発生のメカニズムを理解し、正しい保存方法を実践することは食品安全と品質維持において不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持枫糖浆新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解枫糖浆的最佳储存温度、方式和保质时长。",
-                "authority": "<strong>美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>",
+                "authority": "美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)",
                 "intro": "淋在松饼或华夫饼上香甜美味的100%纯枫糖浆，开封后像普通糖浆一样随手放在餐桌或储藏柜里，结果没过多久表面就长出了白色或绿色的霉菌，您遇到过这种情况吗？ 🍁\n\n与用玉米糖浆调配的勾兑糖浆不同，纯枫糖浆是完全由枫树汁液浓缩而成的天然食品，绝不含防腐剂。虽然其含糖量高达约66%，但开封接触常温空气后，极易成为耐旱霉菌孢子滋生的温床。因此开封后必须立即冷藏保存。\n\n本指南将基于 USDA 和 CFIA 的科学指南，为您介绍阻断霉菌滋生、安全保持枫糖浆浓郁风味的 3 步储存秘诀。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解天然糖类食材的理化特性与微生物滋生机制，并采用正确的储存方法，对于保障食品安全和品质至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el jarabe de arce (miel de maple) fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el jarabe de arce según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "¿Alguna vez sirvió un delicioso jarabe de arce 100% puro sobre sus panqueques, dejó la botella en la despensa como si fuera jarabe artificial, solo para descubrir moho blanco o verde en la superficie semanas después? 🍁\n\nA diferencia de los jarabes artificiales hechos a base de jarabe de maíz, el jarabe de arce puro es un producto 100% natural concentrado únicamente a partir de la savia del arce, sin conservantes. Aunque su contenido de azúcar es alto (alrededor del 66%), una vez abierto y expuesto al aire, se crea un ambiente propenso al crecimiento de moho. Por ello, refrigerarlo de inmediato tras abrirlo es fundamental.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y la CFIA para prevenir el moho y conservar el rico sabor del arce. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las propiedades fisicoquímicas de los endulzantes naturales y los mecanismos de desarrollo microbiano es esencial para mantener la seguridad y calidad alimentaria.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le sirop d'érable frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le sirop d'érable selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "Avez-vous déjà versé du pur sirop d'érable 100% naturel sur vos crêpes, puis laissé la bouteille dans le placard comme un sirop de coulis classique, pour y découvrir de la moisissure blanche ou verte quelques semaines plus tard ? 🍁\n\nContrairement aux sirops artificiels à base de sirop de maïs, le pur sirop d'érable est un produit 100% naturel concentré uniquement à partir de la sève d'érable, sans aucun conservateur. Bien que sa teneur en sucre soit élevée (environ 66%), une fois ouvert et exposé à l'air ambiant, il devient un terrain propice au développement des moisissures. Une réfrigération immédiate après ouverture est donc essentielle.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et de l'ACIA (CFIA) pour prévenir les moisissures et préserver la saveur de l'érable. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les propriétés physico-chimiques des édulcorants naturels et les mécanismes de développement microbien est essentiel pour maintenir la sécurité et la qualité des aliments.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Ahornsirup richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Ahornsirup basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "Haben Sie schon einmal süßen, 100% reinen Ahornsirup über Pfannkuchen gegossen und die Flasche wie gewöhnlichen Sirup in der Vorratskammer gelagert, nur um Wochen später weißen oder grünen Schimmel auf der Oberfläche zu entdecken? 🍁\n\nIm Gegensatz zu künstlichem Sirup aus Maissirup ist reiner Ahornsirup ein 100% natürliches Produkt, das ausschließlich aus Ahornsaft eingekocht wird und keinerlei Konservierungsstoffe enthält. Obwohl der Zuckergehalt hoch ist (ca. 66%), bietet er nach dem Öffnen an der Luft Nährboden für Schimmelpilzsporen. Die sofortige Kühlung nach dem Öffnen ist daher unerlässlich.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der USDA und CFIA basiert, um Schimmelbildung zu verhindern und das Ahornaroma zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der physikalisch-chemischen Eigenschaften natürlicher Süßungsmittel und der Prozesse der Mikrobildung ist entscheidend für Lebensmittelssicherheit und Qualität.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar xarope de bordo (maple syrup) fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para o xarope de bordo com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "Você já serviu um delicioso xarope de bordo 100% puro sobre panquecas, deixou a garrafa na despensa como se fosse uma calda artificial, apenas para encontrar mofo branco ou verde na superfície semanas depois? 🍁\n\nAo contrário das caldas artificiais feitas com xarope de milho, o xarope de bordo puro é um produto 100% natural concentrado apenas da seiva da árvore de bordo, sem conservantes. Embora seu teor de açúcar seja alto (cerca de 66%), uma vez aberto e exposto ao ar, torna-se um ambiente propício para o crescimento de mofo. Refrigerar logo após abrir é essencial.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da CFIA para evitar mofo e preservar o sabor do bordo com segurança. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as propriedades físico-químicas de adoçantes naturais e os processos de desenvolvimento microbiano é essencial para manter a segurança e qualidade dos alimentos.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Sirup Maple (Maple Syrup) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk sirup maple berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & CFIA & MFDS & RDA</strong>",
+                "authority": "USDA & CFIA & MFDS & RDA",
                 "intro": "Pernahkah Anda menuangkan sirup maple murni 100% di atas pancake atau waffle lalu menyimpan botolnya di lemari dapur seperti sirup biasa, hanya untuk menemukan jamur putih atau hijau tumbuh di permukaannya beberapa minggu kemudian? 🍁\n\nBerbeda dari sirup buatan yang terbuat dari sirup jagung, sirup maple murni adalah produk 100% alami yang dikondensasikan murni dari getah pohon maple tanpa pengawet. Meskipun kadar gulanya tinggi (sekitar 66%), setelah dibuka dan terpapar udara, sirup ini menjadi media yang disukai spora jamur. Menyimpannya di kulkas segera setelah dibuka adalah hal yang wajib.\n\nDalam panduan ini, kami membagikan panduan penyimpanan sirup maple 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan CFIA untuk mencegah jamur dan menjaga rasa khas maple secara aman. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami sifat fisikokimia pemanis alami dan mekanisme pertumbuhan mikroba sangat penting untuk menjaga keamanan dan kualitas pangan.",

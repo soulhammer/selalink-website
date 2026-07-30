@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Cut off the crown (top leaves) and store upside down — Sweetness Redistribution Hack 🔄"
     text: "Natural sugars sink and concentrate at the base of the fruit. 💡 Storage Tip: Slice off the leafy crown, wrap the pineapple in paper towels or newspaper, and stand it upside down on its top end for 1–2 days at room temperature or in the fridge. This allows gravity to redistribute sugars evenly throughout the flesh."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step pineapple storage guide
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

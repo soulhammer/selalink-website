@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "严禁放入冷藏室 — 防止淀粉迅速老化重结晶 ❌🍞"
     text: "面包中的淀粉分子在1 ~ 6℃的冷藏温度下，水分流失并硬化结晶的“老化”反应会达到峰值。💡储存小贴士：在冷藏室变干的面包，即使重新加热也很难恢复原本的蓬松感。若想保持湿润口感，请选择常温保存或直接冷冻。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

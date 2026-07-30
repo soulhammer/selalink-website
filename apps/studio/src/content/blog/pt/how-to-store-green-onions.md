@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Embrulhe sem lavar em jornal e guarde de pé — Temp. Ambiente (5 dias) 🌿"
     text: "Embrulhe a cebolinha seca e sem lavar em papel jornal ou papel manteiga. 💡 Dica de conservação: Coloque-a de pé com as raízes para baixo em um local fresco, ventilado e à sombra (10-15 °C). Manter a posição vertical imita o crescimento natural e atrasa o murchamento."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água ($A_w < 0,60$) 📦"
-    text: "Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água ($A_w$) abaixo de 0,60 inibe a amilase e previne germes."
+  - name: "Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água (atividade de água (Aw) < 0.60) 📦"
+    text: "Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água (atividade de água (Aw)) abaixo de 0,60 inibe a amilase e previne germes."
   - name: "Guarde em armário fresco e escuro abaixo de 10–15 °C — Armazenamento (1 a 2 anos) 🧺"
     text: "Mantenha a cevada longe da luz solar e do calor para desacelerar as reações enzimáticas. 💡 Dica de conservação: Armazene os potes em um armário escuro e ventilado abaixo de 10–15 °C, longe do fogão. Isso preserva a $\beta$-glucana por 1 a 2 anos."
   - name: "Refrigere em estações úmidas ou armazenamento a granel — Refrigeração (2 anos ou mais) ❄️"
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água ($A_w < 0,60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água (atividade de água (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água ($A_w$) abaixo de 0,60 inibe a amilase e previne germes.
+    Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água (atividade de água (Aw)) abaixo de 0,60 inibe a amilase e previne germes.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Evite alta umidade e temperaturas elevadas ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      A alta umidade relativa e o calor aceleram a degradação do amido na cevada e aumentam o risco de micotoxinas. Mantenha o teor de umidade abaixo de 12% e a atividade de água ($A_w < 0,60$).
+      A alta umidade relativa e o calor aceleram a degradação do amido na cevada e aumentam o risco de micotoxinas. Mantenha o teor de umidade abaixo de 12% e a atividade de água (atividade de água (Aw) < 0.60).
     </p>
   </div>
 </div>

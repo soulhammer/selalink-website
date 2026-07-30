@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "天然ピーナッツバターは逆さまにして保存する — 油分の分離防止 🔄"
     text: "乳化剤が入っていない100%天然のピーナッツバターは、保存中に上部にピーナッツオイルが分離して層を作ります。💡保存のコツ：フタをしっかり閉めた後、容器を逆さまにして保存してみてください。上になろうとする油分が下に向かってゆっくり浸透し自然に混ざり合うため、毎回混ぜる手間が省け、底が硬く乾燥するのを防げます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

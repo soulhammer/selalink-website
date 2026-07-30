@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Sécher à l'essuie-tout sans laver à l'eau — Éviter la contamination croisée 🧼"
     text: "Ne rincez pas sous le robinet. Après ouverture, épongez soigneusement les surfaces extérieure et intérieure avec du papier essuie-tout. 💡 Astuce de conservation : Éliminer l'humidité de surface prive les bactéries de leur milieu de culture et évite la dispersion de germes par aérosols."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA FSIS & MFDS & RDA</strong>.
+      Ce contenu est basé sur USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

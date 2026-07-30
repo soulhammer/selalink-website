@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Blätter abschneiden, ca. 2 cm Stängel belassen — Wasser- und Nährstoffverlust stoppen ✂️"
     text: "Das Stoppen der Transpiration durch die Blätter ist der wichtigste erste Schritt. 💡 Lagerungstipp: Schneiden Sie die Stängel nicht direkt an der Knolle ab, da sonst Saft austritt. Lassen Sie ca. 2 cm Stängel stehen, um den Feuchtigkeitsverlust zu verhindern."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

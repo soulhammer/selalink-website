@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "키친타월로 표면 핏물(드립) 완벽히 제거하기 — 잡내 및 부패 방지 🥩"
     text: "소고기 표면에 배어 나오는 핏물(드립)은 잡내를 유발하고 세균(부패균)이 번식하는 최적의 영양 공급원이 됩니다. 💡 보관 팁: 조리 및 보관 직전, 키친타월로 고기 표면을 지긋이 눌러 핏물과 수분을 빈틈없이 닦아내야 미생물 증식과 산패를 원천 차단할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

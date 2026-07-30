@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Nach dem Öffnen fest in Frischhaltefolie wickeln — Luftabschluss & Schimmelschutz 📦"
     text: "Sauerstoff trocknet die Oberfläche aus und beschleunigt den Schimmelbefall. 💡 Lagerungstipp: Drücken Sie Frischhaltefolie direkt ohne Luftblasen auf die Schnittfläche des Frischkäses."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

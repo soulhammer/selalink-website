@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Tueste ligeramente sin aceite y porcione — Eliminar humedad y olores 📦"
     text: "Si las anchoas están húmedas, tuéstelas brevemente en una sartén sin aceite a fuego lento durante 1-2 minutos. 💡 Consejo de almacenamiento: Deje enfriar por completo antes de dividir en porciones."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NIFS & USDA & MFDS</strong>.
+      Este contenido se basa en NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

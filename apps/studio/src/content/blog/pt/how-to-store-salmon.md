@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Seque completamente o óleo e o líquido (drip) da superfície — Evite bactérias e maus odores 🍣"
     text: "A umidade e o óleo do salmão cru são as causas principais do cheiro de trimetilamina (TMA) e da multiplicação de bactérias. 💡 Dica de conservação: Pressione toalhas de papel firmemente em ambos os lados do salmão para absorver todo o líquido antes de guardar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Packungswasser wegwerfen und gründlich unter fließendem Wasser abspülen — Bakterien stoppen 🚿"
     text: "Das Wasser in der Tofupackung enthält gelöste Proteine und ist extrem anfällig für Keimwachstum. 💡 Lagerungstipp: Gießen Sie das Wasser weg und spülen Sie den Tofu sanft unter fließendem kaltem Wasser ab."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA & Mayo Clinic</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

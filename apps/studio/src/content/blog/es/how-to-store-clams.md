@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NOAA & USDA & MFDS</strong>"
+authority: "NOAA & USDA & MFDS"
 steps:
   - name: "Purgue la arena en agua salada y en la oscuridad — Purgado de arena 🌊"
     text: "Sumerja las almejas en una solución de agua salada al 3% (30 g de sal por litro de agua). Añada una cuchara metálica, cubra con una bolsa oscura y deje en un lugar fresco (0-4 °C) durante 2-3 horas."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NOAA & USDA & MFDS</strong>.
+      Este contenido se basa en NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

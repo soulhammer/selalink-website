@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "단단한 자두는 서늘한 상온(18 ~ 22℃)에서 후숙하기 — 상온 후숙 (2 ~ 4일) 🧺"
     text: "자두의 당도와 향을 극대화하는 후숙 단계입니다. 💡 보관 팁: 씻지 않은 자두를 직사광선이 들지 않고 통풍이 잘되는 서늘한 상온에 종이 상자나 쟁반에 펼쳐 두세요. 자두 꼭지 주변이 살짝 말랑해지고 달콤한 향이 풍기면 후숙이 완료된 상태입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

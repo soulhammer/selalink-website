@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Colgar los plátanos en un soporte — Conservación a Temp. Ambiente (7 Días) 🍌"
     text: "Dejar los plátanos apoyados en una superficie aplasta los frutos inferiores por su propio peso. Las partes golpeadas liberan más etileno y se oscurecen. 💡 Consejos de almacenamiento: Cuelgue los plátanos en un soporte. Esto imita su estado natural en el árbol, manteniéndolos firmes y sin abolladuras por más tiempo."
@@ -34,7 +34,7 @@ faqs:
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & WHO</strong>.
+      Este contenido se basa en USDA & WHO.
     </p>
   </div>
 </div>

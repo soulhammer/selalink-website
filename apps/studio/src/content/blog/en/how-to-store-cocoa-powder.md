@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Store in airtight, opaque containers — Complete Sealing 🫙"
     text: "The greatest enemies of cocoa powder are atmospheric moisture and light. 💡 Storage Tip: After opening, transfer the powder from its original pouch into an opaque glass, stainless steel, or light-blocking airtight container, and seal tightly to prevent air entry."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven cocoa powder storage guide r
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & EFSA & MFDS</strong>.
+      This content is based on FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "剥除受损外叶并擦干表面水分 — 整理清洁 🥬"
     text: "购买后剥除发黄、变软或破损的外叶，用干厨房纸巾轻擦表面水分。💡储存小贴士：防止外叶腐烂向内蔓延，控制表面湿气是保鲜的第一步。保留根部切口勿剪，可减少水分蒸发。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

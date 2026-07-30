@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)"
 steps:
   - name: "开封后立即转移至密封容器并冷藏 — 开封冷藏保存 (3 ~ 5天) ❄️"
     text: "开封后必须立即将剩余午餐肉从原金属罐中取出。💡储存小贴士：将午餐肉整块取出放入玻璃或塑料密封盒中，或用食品级保鲜膜紧密包裹后放入冰箱（0 ~ 4℃）冷藏，可防止表面干硬并阻隔冰箱异味。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)。
     </p>
   </div>
 </div>

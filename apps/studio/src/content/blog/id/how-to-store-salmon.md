@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Lap minyak permukaan dan cairan (drip) secara total — Cegah Bakteri & Bau Amis 🍣"
     text: "Kelembapan dan minyak ikan di permukaan salmon mentah adalah pemicu utama bau amis trimetilamina (TMA) dan perkembangbiakan bakteri. 💡 Tips Penyimpanan: Tekan rapat tisu dapur di kedua sisi salmon untuk menyerap semua cairan drip sebelum disimpan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

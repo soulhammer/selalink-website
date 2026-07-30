@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Seal flat in an airtight Ziploc bag after opening — Humidity Barrier & Cracking Prevention 📦"
     text: "Protecting the starch structure from atmospheric humidity fluctuations is the essential first step. 💡 Storage Tip: Original packaging lets in air once opened. Transfer sheets into a flat, airtight Ziploc bag or hard plastic container without bending, squeeze out air, and seal."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step rice paper storage gu
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & EFSA & MFDS</strong>.
+      This content is based on FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

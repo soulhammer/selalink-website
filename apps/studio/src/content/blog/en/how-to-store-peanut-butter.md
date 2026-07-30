@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store natural peanut butter upside down — Prevent Oil Separation 🔄"
     text: "100% natural peanut butter without added emulsifiers separates into peanut oil and solids during storage. 💡 Storage Tip: Tighten the lid and store the jar upside down. As the natural oil slowly floats upward through the solids, it blends back in naturally, saving you from stirring every time and preventing the bottom from drying out."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step peanut butter storage g
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

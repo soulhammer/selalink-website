@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Ungeöffnete Packungen kühl bei Raumtemperatur (15–25 °C) lagern — Lagerung ungeöffnet (Bis Mindesthaltbarkeitsdatum) 📦"
     text: "Ungeöffnete UHT-Sojamilch kann bei Raumtemperatur aufbewahrt werden. 💡 Lagerungstipp: An einem kühlen Ort ohne direkte Sonne lagern. Temperaturen unter 25 °C schützen die Emulsionsstabilität."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

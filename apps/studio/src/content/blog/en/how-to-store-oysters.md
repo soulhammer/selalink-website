@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Keep live shell oysters covered with a damp towel — Preserve Live Environment 🦪"
     text: "Keeping oysters in the shell alive is key to freshness. 💡 Storage Tip: Place unwashed oysters cupped-side down in a deep open bowl, cover with a damp paper towel or cloth moistened with saltwater, and store in the refrigerator (1–4°C / 34–39°F). They will stay alive for 2–3 days."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

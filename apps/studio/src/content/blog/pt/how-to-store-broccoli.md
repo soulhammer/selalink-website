@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & EFSA</strong>"
+authority: "RDA & USDA & EFSA"
 steps:
   - name: "Corte a base do caule e embrulhe com papel-toalha úmido — Hidratação do caule 🥦"
     text: "O caule grosso do brócolis é o canal principal que leva água e nutrientes para as flores superiores. 💡 Dica de conservação: Recorte cerca de 0,5 cm da base do caule e embrulhe com papel-toalha úmido bem espremido. Manter a umidade evita que os botões sequem e abram."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & EFSA</strong>.
+      Este conteúdo baseia-se em RDA & USDA & EFSA.
     </p>
   </div>
 </div>

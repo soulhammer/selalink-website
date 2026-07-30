@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/shrimp_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Lave en agua salada suave y seque completamente — Conservación del sabor 📦"
     text: "Lave suavemente en agua salada (1 cucharada de sal por litro) y seque bien con papel absorbente. 💡 Consejo de almacenamiento: Mantener la salinidad evita la pérdida del sabor umami y retrasa la oxidación."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de camarones en 3 pasos res
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

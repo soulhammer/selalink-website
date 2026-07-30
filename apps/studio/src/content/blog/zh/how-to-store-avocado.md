@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑"
     text: "未成熟的硬牛油果应保存在15 ~ 20℃的常温环境中以正常后熟。💡储存小贴士：将牛油果放入纸袋中，并放入苹果或香蕉。这些水果释放的乙烯气体会积聚在袋内，显著加速并稳定牛油果的催熟过程。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 CAC & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

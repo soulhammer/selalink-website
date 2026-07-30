@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Remova o miolo em formato de cone triangular — Bloqueie a perda de nutrientes 🔪"
     text: "O miolo central funciona como um centro de crescimento que consome água e nutrientes das folhas. 💡 Dica de conservação: Use a ponta de uma faca para cavar o miolo profundamente em formato de cone. Remover o miolo elimina a causa principal do apodrecimento."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & EFSA & FSA</strong>.
+      Este conteúdo baseia-se em RDA & EFSA & FSA.
     </p>
   </div>
 </div>

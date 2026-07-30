@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Envelopper les épinards secs non lavés dans du journal ou de l'essuie-tout — Contrôle de l'humidité 📦"
     text: "Les feuilles d'épinards pourrissent très vite au contact de l'eau libre. 💡 Astuce de conservation : Gardez la terre d'origine et enveloppez les épinards secs sans serrer dans de l'essuie-tout ou du journal. Le papier absorbe la condensation et maintient les feuilles au sec."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & EFSA & FSA</strong>.
+      Ce contenu est basé sur RDA & EFSA & FSA.
     </p>
   </div>
 </div>

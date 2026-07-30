@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "사용 후 입구를 깨끗이 닦고 단단히 밀봉하기 — 공기 접촉 차단 🧻"
-    text: "소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타올로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요."
+    text: "소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타월로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요."
   - name: "개봉 후 4°C 이하의 냉장실에 보관하기 — 냉장 보관 (개봉 후 6개월 ~ 1년) ❄️"
     text: "산화 반응과 카로티노이드 색소의 광분해 속도를 늦추는 핵심 단계입니다. 💡 보관 팁: 개봉한 소스는 4°C 이하의 냉장고 문 쪽이나 안쪽에 보관하세요. 상온 보관 시 3개월인 보관 기한이 냉장 보관 시 6개월에서 최대 1년까지 연장되며 선명한 붉은색과 매콤한 풍미가 보존됩니다."
   - name: "직사광선이 차단되는 서늘한 암소 보관하기 — 미개봉 상온 보관 (2년) 🌡️"
@@ -34,7 +34,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -49,7 +49,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">사용 후 입구를 깨끗이 닦고 단단히 밀봉하기 — 공기 접촉 차단 🧻</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타올로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요.
+    소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타월로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요.
   </p>
 </div>
 

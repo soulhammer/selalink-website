@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "开封后紧贴切面包裹保鲜膜 — 阻绝空气与防霉 📦"
     text: "奶油奶酪切面暴露于空气中会导致水分流失并快速长霉。💡储存小贴士：使用后用食品级保鲜膜无缝紧贴切面包裹，排除空气。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

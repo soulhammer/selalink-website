@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/napa_cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Buang daun yang layu lalu bungkus dengan kertas — Kontrol Kelembapan 📰"
     text: "Buang daun bagian luar yang rusak lalu bungkus sawi putih yang kering dengan kertas koran atau tisu dapur. 💡 Tips Penyimpanan: Membiarkan daun luar yang kokoh berfungsi sebagai pelindung alami untuk menjaga kelembapan bagian dalam."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

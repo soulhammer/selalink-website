@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Albahaca: Corte los tallos y guarde en un frasco con agua a temperatura ambiente (15–20 °C) — Método florero 🌸"
     text: "La albahaca es sensible al frío y prospera a temperatura ambiente. 💡 Consejo de almacenamiento: Recorte 1 cm de los tallos, colóquelos erguidos en un frasco con 1–2 cm de agua y cubra holgadamente con una bolsa de plástico a 15–20 °C durante 7–10 días."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de hierbas en 3 pasos respa
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Este contenido se basa en RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

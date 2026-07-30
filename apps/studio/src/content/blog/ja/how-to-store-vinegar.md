@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "直射日光とコンロの熱を避ける — 冷暗所保存 (15〜25℃) 📦"
     text: "お酢は日光やコンロ周囲の熱に晒されると酸化が進み、色や香りが劣化しやすくなります。💡保存のコツ：窓際やコンロ横を避け、直射日光の当たらない涼しく暗い戸棚（15〜25℃）で保存してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

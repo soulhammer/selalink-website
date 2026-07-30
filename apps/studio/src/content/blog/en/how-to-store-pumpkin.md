@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "[Whole] Store upright in a cool, dry place at 10–15°C — Optimal Pantry Storage (1–2 Months) ☀️"
     text: "Whole pumpkins thrive in dark, well-ventilated room temperature environments. 💡 Storage Tip: Wipe off dry dirt and place the pumpkin stem-side up on newspaper or cardboard in a cool cabinet (10–15°C / 50–59°F). Curing at room temperature enhances sweetness."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

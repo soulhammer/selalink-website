@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS</strong>"
+authority: "FDA & MFDS"
 steps:
   - name: "Jauhkan dari sinar matahari langsung dan sumber panas — Simpan di Dapur Sejuk (15–25°C) 📦"
     text: "Membiarkan cuka terpapar panas dan cahaya mempercepat proses oksidasi. 💡 Tips Penyimpanan: Simpan cuka di dalam lemari dapur atau kabinet yang gelap dan sejuk (15–25°C) jauh dari jendela dan kompor."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & MFDS.
     </p>
   </div>
 </div>

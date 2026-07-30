@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cauliflower_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "洗わずにキッチンペーパーで包む — 水分調節＆黄化防止 📦"
     text: "カリフラワー表面の汚れを払い落とし、キッチンペーパーや新聞紙で外側を包みます。💡保存のコツ：葉がついている場合は切り落とさずそのまま包む方が水分保持に効果的です。ペーパーが余分な湿気を吸収し乾燥を防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

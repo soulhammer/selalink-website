@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "빛과 공기를 차단하는 불투명 밀폐 용기에 담기 — 완벽 밀폐 보관 🫙"
     text: "카카오 파우더의 가장 큰 적은 공기 중의 습기와 빛입니다. 💡 보관 팁: 개봉 후에는 원래 봉투째 보관하기보다 자외선이 차단되는 불투명한 유리는 밀폐 용기나 스텐 용기, 또는 차광 지퍼백에 옮겨 담고 공기가 들어가지 않도록 밀봉하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

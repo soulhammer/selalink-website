@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "[Utuh] Simpan berdiri di tempat sejuk dan kering pada suhu 10–15°C — Simpan Lemari Optimal (1–2 Bulan) ☀️"
     text: "Labu utuh paling awet disimpan di lingkungan suhu ruang yang gelap dan berventilasi baik. 💡 Tips Penyimpanan: Bersihkan kotoran kering lalu letakkan labu dengan posisi tangkai di atas kertas di lemari sejuk (10–15°C)."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

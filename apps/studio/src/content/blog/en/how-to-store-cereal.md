@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Transfer to an airtight container or seal tightly with a bag clip — Air & Moisture Barrier 📦"
     text: "Minimizing air exposure after opening is key to preserving crunchiness. 💡 Storage Tip: Fold the inner bag opening 2–3 times and seal tightly with a bag clip, or transfer the cereal into a dedicated glass or plastic airtight container."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

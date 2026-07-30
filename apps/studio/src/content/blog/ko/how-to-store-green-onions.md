@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "씻지 않은 통대파는 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿"
     text: "흙이 묻은 씻지 않은 대파는 물기를 묻히지 않은 상태로 신문지나 한지에 넓게 감싸줍니다. 💡 보관 팁: 뿌리가 아래로 향하도록 서늘하고 바람이 통하는 그늘(10 ~ 15℃)에 '수직으로 세워서' 보관하세요. 자연 생장 환경과 동일한 직립 상태를 유지해주면 중력 스트레스로 인한 에너지 소비와 황화(시듦) 현상을 최소화할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

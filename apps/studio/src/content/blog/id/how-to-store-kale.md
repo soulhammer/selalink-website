@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kale_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Bungkus ujung batang dengan tisu dapur basah — Perlindungan Kelembapan 🧻"
     text: "Transpirasi menyebabkan kehilangan air yang menurunkan tekanan turgor dan membuat daun layu. 💡 Tips Penyimpanan: Bungkus bagian bawah batang kale yang belum dicuci dengan tisu dapur basah untuk hidrasi berkelanjutan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan kale 3 langkah berbasis i
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

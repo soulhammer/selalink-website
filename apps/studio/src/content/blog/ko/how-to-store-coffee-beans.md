@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 스페셜티 커피 협회(SCA) & 미국 농무부(USDA)</strong>"
+authority: "미국 스페셜티 커피 협회(SCA) & 미국 농무부(USDA)"
 steps:
   - name: "아로마 밸브가 있는 불투명 밀폐 용기 사용하기 — 산소 차단 및 가스 배출 📦"
     text: "갓 볶은 원두는 이산화탄소를 배출하므로 이를 내부에서 꺼내고 외부 산소 진입은 막아주는 '아로마 밸브(원웨이 밸브)' 포장이 필수적입니다. 💡 보관 팁: 아로마 밸브가 달린 오리지널 지퍼백이나 전용 불투명 밀폐 용기(진공 밀폐 용기)에 담아 보관하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 스페셜티 커피 협회(SCA) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 스페셜티 커피 협회(SCA) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

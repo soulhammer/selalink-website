@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Erst kurz vor dem Verzehr waschen — Natürliche Pruina erhalten 🫐"
     text: "Der weiße Belag auf den Blaubeeren ist die 'Pruina' (Bloom), ein natürliches Wachs der Frucht. Sie dient als wichtiger Schutzschild gegen Austrocknung, Schädlinge und Schimmel. 💡 Lagerungstipp: Wenn Sie Beeren vor dem Lagern waschen, wird die Pruina entfernt und Wasser dringt ein, wodurch sie schnell weich werden. Trocken halten ist die oberste Regel."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & RDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & RDA & MFDS.
     </p>
   </div>
 </div>

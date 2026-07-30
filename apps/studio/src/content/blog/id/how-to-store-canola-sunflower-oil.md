@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Simpan di lemari gelap yang jauh dari panas (15–20°C) — Simpan Suhu Ruang Sejuk (1–2 Tahun Belum Dibuka / 3–6 Bulan Setelah Dibuka) 🌡️"
     text: "Menghalangi panas dan cahaya serta menjaga suhu pada 15–20°C adalah hal utama. 💡 Tips Penyimpanan: Simpan botol minyak di lemari dapur bawah yang gelap dan jauh dari kompor. Minyak yang belum dibuka bertahan 1–2 tahun, sedangkan yang sudah dibuka sebaiknya habis dalam 3–6 bulan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan minyak kanola dan biji bu
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & EFSA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

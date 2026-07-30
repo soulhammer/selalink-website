@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Getrocknete Kichererbsen bei unter 60 % Luftfeuchtigkeit luftdicht lagern — Aflatoxin-Schutz (1–2 Jahre) 📦"
     text: "Getrocknete Kichererbsen müssen trocken gelagert werden (Feuchtigkeit unter 12 %). 💡 Lagerungstipp: Bewahren Sie sie mit einem Trockenmittel (Silikagel) in einem luftdichten Behälter an einem kühlen, dunklen Ort auf. Dies verhindert Schimmelbildung für 1 bis 2 Jahre."
@@ -40,7 +40,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

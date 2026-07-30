@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sausage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "密閉包装して冷蔵保存する — 開封後冷蔵 (生ソーセージ 1〜2日 / 加熱済み 7日) 📦"
     text: "ソーセージ保存の基本は空気と余分な水分との接触を最小限に抑えることです。💡保存のコツ：表面の水分をキッチンペーパーで軽く拭き取り、ラップで隙間なく包んでからチャック付き密閉袋に入れ、冷蔵庫奥の棚（0〜4℃）で保存します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

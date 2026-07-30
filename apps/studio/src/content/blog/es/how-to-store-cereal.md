@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Traslade a un recipiente hermético o selle con una pinza — Barrera de aire y humedad 📦"
     text: "Minimizar la exposición al aire tras abrir es clave para conservar el crujido. 💡 Consejo de almacenamiento: Doble la bolsa interior 2 o 3 veces y séllela bien con una pinza, o pásela a un recipiente hermético de vidrio o plástico."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía en 3 pasos respaldada por expertos para mant
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fig_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ungewaschene Feigen einzeln in Küchenpapier wickeln — Feuchtigkeits- & Stoßschutz 📦"
     text: "Wichtiger Schritt gegen Feuchtigkeit und Erschütterungen. 💡 Lagerungstipp: Wickeln Sie ungewaschene Feigen vorsichtig einzeln in Küchenpapier, um Kondenswasser aufzusaugen und vor Stößen zu schützen."
@@ -38,7 +38,7 @@ Feigen haben eine extrem dünne Schale, einen Wassergehalt von über 80 % und si
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Conserver dans un placard sombre à l'abri de la chaleur (15–20 °C) — Stockage ambiant frais (1 à 2 ans non ouvert / 3 à 6 mois ouvert) 🌡️"
     text: "Protéger de la chaleur et de la lumière en maintenant une température de 15–20 °C est capital. 💡 Astuce de conservation : Rangez vos bouteilles dans un placard bas et sombre, loin des plaques. L'huile non ouverte se conserve 1 à 2 ans, et 3 à 6 mois après ouverture."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation de l'huile de canola et d
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & EFSA & MFDS</strong>.
+      Ce contenu est basé sur FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

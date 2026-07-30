@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"
+authority: "農村振興庁(RDA) & EFSA & FSA"
 steps:
   - name: "洗わずに新聞紙やキッチンペーパーで包む — 結露と湿気の調整 📦"
     text: "ほうれん草は葉の表面に直接水分がつくと傷みが急速に進みます。💡保存のコツ：土がついたまま水気をつけず、新聞紙やキッチンペーパーでふんわり包んでください。紙が内部の結露や余分な湿気を吸収し、葉が溶けるのを防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & EFSA & FSA</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & EFSA & FSAに基づいています。
     </p>
   </div>
 </div>

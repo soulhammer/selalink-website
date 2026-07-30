@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Badigeonner la surface d'huile d'olive vierge extra — Protection anti-oxygène 🫒"
     text: "Enduire les tranches d'huile alimentaire est le moyen le plus efficace d'éviter le contact avec l'air. 💡 Astuce de conservation : Appliquer un peu d'huile d'olive vierge extra sur les tranches crée un film naturel qui retient l'humidité et bloque l'oxydation."
@@ -25,7 +25,7 @@ faqs:
 
 Avez-vous déjà servi du jambon cru d'exception (Prosciutto ou Jamón) avec du vin, pour retrouver les tranches restantes dures et jaunies quelques jours après les avoir mises au réfrigérateur ? 🥓
 
-Le jambon subit un salage et un séchage prolongés, réduisant l'activité de l'eau ($A_w < 0,85$) pour stopper le développement bactérien. Toutefois, sa richesse en acides gras insaturés le rend très vulnérable à la peroxydation lipidique (auto-oxydation) dès qu'il est exposé à l'air. La myoglobine s'oxyde, provoquant un jaunissement, une odeur rance et un dessèchement.
+Le jambon subit un salage et un séchage prolongés, réduisant l'activité de l'eau (activité de l'eau (Aw) < 0,85) pour stopper le développement bactérien. Toutefois, sa richesse en acides gras insaturés le rend très vulnérable à la peroxydation lipidique (auto-oxydation) dès qu'il est exposé à l'air. La myoglobine s'oxyde, provoquant un jaunissement, une odeur rance et un dessèchement.
 
 Dans ce guide, vous présente un guide de conservation du jambon cru en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️
 
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation du jambon cru en 3 étape
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & EFSA & MFDS</strong>.
+      Ce contenu est basé sur USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

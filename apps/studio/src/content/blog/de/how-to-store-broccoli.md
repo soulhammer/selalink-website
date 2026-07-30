@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & EFSA</strong>"
+authority: "RDA & USDA & EFSA"
 steps:
   - name: "Stielende anschneiden und mit feuchtem Küchenpapier umwickeln — Stiel-Hydratisierung 🥦"
     text: "Der dicke Stiel des Brokkolis ist der Hauptkanal, der Wasser zu den Röschen leitet. 💡 Lagerungstipp: Schneiden Sie etwa 0,5 cm vom Stielende ab und umwickeln Sie es mit einem feuchten, gut ausgedrückten Küchenpapier. Die ständige Feuchtigkeitszufuhr verhindert das Austrocknen der Knospen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & EFSA</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & EFSA.
     </p>
   </div>
 </div>

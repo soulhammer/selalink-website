@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "냉장실 보관 절대 금지 — 전분의 급격한 노화(결정화) 방지 ❌🍞"
     text: "빵 속 전분 분자는 1 ~ 6℃의 냉장실 온도에서 수분을 방출하고 서로 결합하여 단단해지는 '노화' 현상이 최고조에 달합니다. 💡 보관 팁: 냉장실에 들어간 빵은 데워도 원래의 푹신함을 회복하기 어렵습니다. 촉촉한 식감을 원한다면 냉장실이 아닌 상온 보관이나 즉시 냉동 보관을 선택하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "껍질굴은 젖은 타월을 덮어 보관하기 — 생존 환경 유지 🦪"
     text: "껍질이 있는 생굴은 살아있는 상태를 유지하는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 껍질굴을 움푹한 용기에 담고 그 위에 바닷물이나 소금물로 적신 젖은 키친타월/천을 덮어 냉장실(1 ~ 4℃)에 두세요. 약 2 ~ 3일간 살아있는 상태로 신선하게 유지됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

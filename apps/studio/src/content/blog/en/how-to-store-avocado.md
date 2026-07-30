@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5 Days) 🥑"
     text: "Firm, unripe avocados must be kept at a room temperature of 15–20°C (59–68°F) to ripen normally. 💡 Storage Tip: Place avocados in a paper bag with an apple or banana. The ethylene gas released by these fruits concentrates inside the bag, accelerating and stabilizing the avocado's ripening process."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on offi
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>CAC & USDA & MFDS</strong>.
+      This content is based on CAC & USDA & MFDS.
     </p>
   </div>
 </div>

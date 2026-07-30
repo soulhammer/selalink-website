@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Guarde em recipiente hermético e opaco — Vedação completa 🫙"
     text: "Os maiores inimigos do cacau em pó são a umidade do ar e a luz. 💡 Dica de conservação: Após aberto, transfira o pó da embalagem original para um pote opaco de vidro, inox ou saco hermético que bloqueie a luz, e vede bem."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia científico de conservação de cacau em pó re
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & EFSA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

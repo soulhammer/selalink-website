@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transfer to a glass or plastic airtight container immediately — Block Metal Leaching & Oxygen 📦"
     text: "Preventing inner can oxidation and minimizing exposure to air is essential. 💡 Storage Tip: After opening, transfer leftover tuna and its oil/brine into a clean glass container or BPA-free plastic container, seal tightly, and store."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step tuna storage guide reco
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

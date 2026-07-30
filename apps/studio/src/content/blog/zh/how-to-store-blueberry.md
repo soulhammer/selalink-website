@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "食用前切勿清洗 — 保护天然果粉(Bloom) 🫐"
     text: "蓝莓表面覆盖的白霜是果实自身分泌的天然蜡质层“果粉（Bloom）”。它是防止水分流失、阻挡外部病虫害和霉菌入侵的核心屏障。💡储存小贴士：储存前洗水会导致果粉流失，水分渗透会使果肉迅速变软。保持干燥状态是延长保鲜期的第一步。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

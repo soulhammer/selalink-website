@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lettuce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Regulate moisture with paper towels — Prevent Moisture Imbalance 🧻"
     text: "Maintaining correct humidity without free water is key to preventing both dehydration and bacterial rot. 💡 Storage Tip: Wrap dry, unwashed lettuce in paper towels or place sheets between layers in your container. The paper towels absorb excess condensation while retaining sufficient humidity."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step lettuce storage guide r
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

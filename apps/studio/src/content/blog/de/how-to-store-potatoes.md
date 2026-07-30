@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Erdige Kartoffeln einzeln in Zeitungspapier/Papiertüten wickeln — Licht zu 100 % blockieren 📦"
     text: "Lichteinfall (auch Raumbeleuchtung) löst die Chlorophyllproduktion aus, macht die Schale grün und synthetisiert giftiges Solanin. 💡 Lagerungstipp: Lassen Sie die Erde an den Kartoffeln – sie wirkt als natürlicher Feuchtigkeitsregler – und wickeln Sie sie in Zeitungspapier oder undurchsichtige Papiertüten."
@@ -38,7 +38,7 @@ Zudem lässt Lichteinfall die Kartoffelschale grün werden und bildet das giftig
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & RDA & FSA</strong>.
+      Dieser Inhalt basiert auf MFDS & RDA & FSA.
     </p>
   </div>
 </div>

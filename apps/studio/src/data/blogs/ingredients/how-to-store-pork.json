@@ -8,7 +8,7 @@
             "ko": {
                 "title": "돼지고기 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 돼지고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "돼지고기를 냉장고에 넣어두었다가 핏물이 고이고 누린내가 나거나 표면이 하얗게 말라 버린 경험 있으시죠? 🥩\n\n돼지고기는 수분(드립)과 단백질, 지방이 풍부하여 도축 후 세균 번식과 지방 산화에 매우 취약한 식재료입니다. 특히 표면에 흘러나온 핏물을 그대로 두면 미생물이 빠르게 증식해 악취와 변색을 유발하고 식감을 망치게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 돼지고기 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "흘러나온 핏물(드립)을 닦지 않고 보관하지 마세요 ⚠️",
-                        "desc": "돼지고기 표면의 핏물(드립)은 세균과 미생물이 가장 좋아하고 빠르게 번식하는 영양 원천입니다. 드립을 방치하면 고기의 누린내가 심해지고 부패가 촉진되므로, 보관 전 반드시 키친타올로 누르듯 닦아내야 합니다."
+                        "desc": "돼지고기 표면의 핏물(드립)은 세균과 미생물이 가장 좋아하고 빠르게 번식하는 영양 원천입니다. 드립을 방치하면 고기의 누린내가 심해지고 부패가 촉진되므로, 보관 전 반드시 키친타월로 누르듯 닦아내야 합니다."
                     },
                     {
                         "title": "해동과 재냉동을 반복하지 마세요 🚫",
@@ -27,7 +27,7 @@
                 "steps": [
                     {
                         "name": "핏물 제거 후 식용유(올리브유) 바르기 — 수분 보호 및 미생물 차단 📦",
-                        "text": "키친타올로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다."
+                        "text": "키친타월로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다."
                     },
                     {
                         "name": "랩으로 밀착 포장 후 밀폐 용기 보관하기 — 냉장 보관 (2 ~ 3일) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Pork Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for pork based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever stored pork in the refrigerator only to find a pool of blood (drip), a gamey smell, or a dried-out, discolored surface? 🥩\n\nPork is rich in moisture, protein, and fat, making it highly susceptible to bacterial growth and lipid oxidation after slaughter. In particular, leaving accumulated purge/drip on the meat's surface creates an ideal environment for microorganisms, leading to foul odors, discoloration, and ruined texture.\n\nIn this guide, introduces a scientifically proven 3-step pork storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
                 "whyTitle": "Why Store Pork This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "豚肉を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく豚肉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "豚肉を冷蔵庫に入れておいたら、ドリップ（赤い肉汁）が溜まって臭みが出たり、表面が乾燥して変色してしまった経験はありませんか？🥩\n\n豚肉は水分やタンパク質、脂質が豊富で、解体後に細菌が繁殖しやすく、脂質が酸化しやすい繊細な食材です。特に表面に出たドリップをそのままにしておくと、微生物が急速に増殖して悪臭や変色を引き起こし、食感を著しく損ねてしまいます。\n\n本記事では、農学および食品安全の専門家が推奨する、豚肉の鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持猪肉新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解猪肉的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾将猪肉放入冰箱冷藏，结果却发现渗出大量血水、散发腥臭味，甚至表面干瘪变色？🥩\n\n猪肉富含水分、蛋白质和脂肪，在宰杀后极易滋生细菌和发生脂肪氧化。特别是表面渗出的血水（血水渗出液），是微生物快速繁殖的温床，会导致恶臭、变色并严重破坏肉质口感。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步猪肉保鲜秘诀，帮您最大程度延长新鲜度。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la carne de cerdo fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la carne de cerdo según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez guardó carne de cerdo en el refrigerador solo para encontrar una acumulación de jugos (sangre/drip), un olor fuerte o una superficie seca y descolorida? 🥩\n\nLa carne de cerdo es rica en humedad, proteínas y grasa, lo que la hace sumamente vulnerable a la proliferación bacteriana y a la oxidación lipídica. En particular, dejar que los jugos liberados permanezcan en la superficie crea un medio ideal para las bacterias, provocando malos olores, decoloración y la ruina de su textura.\n\nEn esta guía se presenta una guía de conservación de carne de cerdo en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la viande de porc fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande de porc selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà conservé de la viande de porc au réfrigérateur pour constater qu'elle baignait dans son jus (sang/exsudat), dégageait une odeur forte ou présentait une surface asséchée et décolorée ? 🥩\n\nLe porc est riche en eau, en protéines et en lipides, ce qui le rend particulièrement vulnérable à la prolifération bactérienne et à l'oxydation des graisses. Laisser le jus stagner à la surface favorise la multiplication rapide des bactéries, entraînant de mauvaises odeurs, des altérations de couleur et une dégradation de la texture.\n\nDans ce guide, vous présente un guide scientifique de conservation du porc en 3 étapes recommandé par des experts en sécurité alimentaire pour maximiser sa fraîcheur. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Schweinefleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Schweinefleisch basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie Schweinefleisch im Kühlschrank gelagert, nur um festzustellen, dass sich Fleischsaft sammelte, ein strenger Geruch entstand oder die Oberfläche austrocknete? 🥩\n\nSchweinefleisch ist reich an Feuchtigkeit, Protein und Fett, wodurch es nach der Schlachtung extrem anfällig für Bakterienwachstum und Fettoxidation ist. Das Belassen von ausgetretenem Fleischsaft auf der Oberfläche bietet Mikroorganismen einen idealen Nährboden, was zu üblen Gerüchen, Verfärbungen und Texturverlust führt.\n\nIn diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische von Schweinefleisch zu maximieren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar carne de porco fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de porco com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já guardou carne de porco na geladeira e depois encontrou uma poça de suco (sangue/drip), cheiro forte ou a superfície ressecada e desbotada? 🥩\n\nA carne de porco é rica em umidade, proteínas e gorduras, tornando-a altamente vulnerável à proliferação bacteriana e à oxidação lipídica. Deixar o suco acumulado na superfície cria o ambiente ideal para bactérias, causando maus odores, alteração na cor e perda de textura.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter a carne de porco fresca pelo maior tempo possível. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Daging Babi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging babi berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda menyimpan daging babi di kulkas lalu mendapati cairan darah (drip) menggenang, bau amis menyengat, atau permukaannya mengering dan berubah warna? 🥩\n\nDaging babi kaya akan kadar air, protein, dan lemak, menjadikannya sangat rentan terhadap pertumbuhan bakteri dan oksidasi lemak setelah dipotong. Membiarkan cairan drip menggenang di permukaan daging menciptakan media ideal bagi mikroorganisme untuk berkembang biak, memicu bau tidak sedap, perubahan warna, dan merusak teksturnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan daging babi 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk memaksimalkan kesegarannya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

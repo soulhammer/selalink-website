@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir $A_w < 0,65$ & Anti-parasites 🫙"
+  - name: "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir activité de l'eau (Aw) < 0,65 & Anti-parasites 🫙"
     text: "Transférez immédiatement les lentilles sèches dans des bocaux en verre ou boîtes étanches en PET/PP avec un sachet déshydratant alimentaire (gel de silice). 💡 Astuce de conservation : Maintenir l'humidité sous 10–12 % garde l'activité de l'eau sous 0,65, éliminant tout risque de moisissure et de charançons."
   - name: "Garder dans un endroit frais et sombre (15–20 °C) — Placard sec (1–2 ans) 🚪"
     text: "Conservez les récipients étanches dans un placard de cuisine sombre et frais. 💡 Astuce de conservation : Dans un environnement sec à 15–20 °C, les lentilles préservent leurs valeurs nutritionnelles et leur couleur sans dégradation pendant 1 à 2 ans."
@@ -25,7 +25,7 @@ faqs:
 
 Les lentilles (lentils) sont un superaliment de renommée mondiale, gorgé de protéines végétales, de fibres et de fer ! 🫘
 
-Les lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau ($A_w$) sous 0,65 est essentiel pour bloquer les moisissures et parasites.
+Les lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 est essentiel pour bloquer les moisissures et parasites.
 
 Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos lentilles fraîches, sûres et sans toxines. 🛡️
 
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ÉTAPE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir $A_w < 0,65$ & Anti-parasites 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir activité de l'eau (Aw) < 0,65 & Anti-parasites 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Transférez immédiatement les lentilles sèches dans des bocaux en verre ou boîtes étanches en PET/PP avec un sachet déshydratant alimentaire (gel de silice). 💡 Astuce de conservation : Maintenir l'humidité sous 10–12 % garde l'activité de l'eau sous 0,65, éliminant tout risque de moisissure et de charançons.

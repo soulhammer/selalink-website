@@ -8,7 +8,7 @@
             "ko": {
                 "title": "시리얼 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 시리얼의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "바삭하고 고소한 시리얼을 봉지째 대충 접어두었다가, 며칠 뒤 눅눅해져 바삭함이 사라지거나 퀴퀴한 기름 냄새가 나서 버린 경험 있으시죠? 🥣\n\n시리얼은 곡물을 가공해 수분 함량을 3~5% 이하로 극소화한 건조 식품입니다. 습기를 끌어당기는 흡습성이 매우 강해 공기 중 수분에 노출되면 녹말 구조가 연화되어 눅눅해지며, 곡물 속 지방 성분이 산소와 반응해 쉽게 산패(산화)됩니다. 또한 화랑곡나방 등 곡물 해충이 매우 좋아하는 환경이 됩니다.\n\n이번 가이드에서는 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 시리얼의 아삭바삭한 식감과 고소함을 변질 없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Cereal Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for cereal based on official safety guidelines.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Have you ever opened a box of crisp cereal, rolled the inner bag loosely, and found it soggy, stale, or smelling rancid a few days later? 🥣\n\nCereal is a processed grain food engineered to have an extremely low moisture content below 3–5%. Because it is highly hygroscopic (moisture-attracting), exposure to ambient air softens its starch matrix and turns it soggy. Furthermore, grain lipids react with oxygen over time, causing rancidity, while also attracting pantry pests like mealmoths.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on food safety guidelines to keep your cereal crunchy, flavorful, and fresh for a long time. 🛡️",
                 "whyTitle": "Why Store Cereal This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "シリアルを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくシリアルの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "サクサクと香ばしいシリアルを開封後、袋の口を適当に折って放置したら、数日後に湿気て食感が失われたり油くさくなって捨ててしまった経験はありませんか？🥣\n\nシリアルは穀物を加工して水分含有量を3〜5%以下に抑えた乾燥食品です。吸湿性が非常に強いため、空気中の湿気に晒されるとデンプン構造が柔らかくなって湿気てしまい、含まれる脂質成分が酸素と反応して酸化（酸敗）しやすくなります。また、メイガなどの害虫が寄ってきやすい環境にもなります。\n\n本記事では、専門家のガイドラインに基づき、シリアルのサクサクとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持麦片/谷物早餐新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解麦片/谷物早餐的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾将香脆的麦片/谷物早餐开封后随手卷起内袋，几天后拿出来吃却发现变软受潮，甚至带有陈腐油脂味？🥣\n\n麦片是经过加工将水分含量降至3~5%以下的干货食品。由于其吸湿性极强，暴露在空气中会吸收水分导致淀粉结构软化失去香脆感，且谷物中的脂肪成分易与氧气反应发生氧化酸败。此外，它也是印度谷螟等粮食害虫非常喜欢的食物。\n\n本指南基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持麦片的香脆口感与浓郁谷香。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los cereales frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los cereales según las directrices oficiales de seguridad.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "¿Alguna vez abrió una caja de cereales crujientes, dobló ligeramente la bolsa interior y días después descubrió que estaban blandos, rancios o con mal olor? 🥣\n\nEl cereal es un alimento procesado a base de granos diseñado para tener un contenido de humedad inferior al 3–5%. Al ser muy higroscópico (atrae la humedad), la exposición al aire ablanda su matriz de almidón y lo vuelve pastoso. Además, los lípidos de los cereales reaccionan con el oxígeno provocando enranciamiento y atrayendo plagas como las polillas de la harina.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos para mantener sus cereales crujientes, sabrosos y frescos por mucho tiempo. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les céréales fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les céréales selon les directives officielles de sécurité.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Avez-vous déjà ouvert un paquet de céréales croustillantes, roulé sommairement le sachet intérieur pour constater quelques jours plus tard qu'elles étaient devenues molles, rancies ou qu'elles avaient perdu leur goût ? 🥣\n\nLes céréales sont un produit transformé conçu pour avoir une teneur en eau extrêmement faible (moins de 3 à 5 %). Très hygroscopiques (elles absorbent l'eau), l'exposition à l'air ambiant ramollit leur structure d'amidon. De plus, les lipides des grains réagissent avec l'oxygène, provoquant le rancissement et attirant les mites alimentaires.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour garder vos céréales bien croustillantes, savoureuses et fraîches pendant longtemps. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Müsli & Céréalien richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Céréalien basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Haben Sie schon einmal knusprige Céréalien oder Müsli geöffnet, den Innenbeutel nur leicht zusammengerollt und nach wenigen Tagen feststellen müssen, dass sie pappig wurden oder ranzig rochen? 🥣\n\nCéréalien sind verarbeitete Getreideprodukte mit einem sehr geringen Wassergehalt von unter 3–5 %. Da sie stark hygroskopisch (wasseranziehend) sind, weicht Luftfeuchtigkeit die Stärkematrix auf. Zudem oxidieren Fette an der Luft, was zu ranzigem Geschmack führt und Lebensmittelmotten anlockt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Céréalien dauerhaft knusprig, lecker und frisch zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar cereais frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para cereais matinais com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Você já abriu uma caixa de cereal crocante, enrolou o saco interno de qualquer jeito e dias depois descobriu que ficou murcho, velho ou com cheiro râncio? 🥣\n\nO cereal matinal é um alimento processado com teor de umidade extremamente baixo (abaixo de 3-5%). Por ser muito higroscópico (atrai umidade), a exposição ao ar amolece o amido e o deixa murcho. Além disso, as gorduras do grão reagem com o oxigênio causando rancificação e atraindo pragas como traças da farinha.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter seu cereal crocante, saboroso e fresco por muito tempo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Sereal agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk sereal berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membuka kotak sereal renyah, menggulung kantong dalamnya asal-asalan, lalu mendapatinya menjadi melempem, bau tengik, atau kehilangan renyahnya beberapa hari kemudian? 🥣\n\nSereal adalah makanan olahan biji-bijian yang dirancang memiliki kadar air sangat rendah di bawah 3–5%. Karena bersifat sangat higroskopis (mudah menyerap air), paparan udara membuat tekstur pati melunak dan melempem. Selain itu, lemak pada biji-bijian bereaksi dengan oksigen menyebabkan bau tengik dan mengundang hama beras/makanan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga sereal Anda tetap renyah, gurih, dan segar dalam waktu lama. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

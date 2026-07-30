@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Seal tightly and refrigerate at 0–5°C after opening — Cold Storage (6–12 Months) ❄️"
     text: "While unopened Gochujang can be kept at room temperature, oxygen contact after opening starts deterioration. 💡 Storage Tip: Clean the rim of the container before closing, seal the lid tightly, and store in the fridge at 0–5°C (32–41°F). Cold temperatures prevent excessive fermentation, darkening, and mold growth."
@@ -36,7 +36,7 @@ Although Gochujang is a traditionally fermented food with high salt content, ope
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & KFRI & USDA</strong>.
+      This content is based on MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

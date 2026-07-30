@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & CDC</strong>"
+authority: "USDA & MFDS & CDC"
 steps:
   - name: "Nunca lave o frango cru com água — Evite contaminação cruzada na pia ❌💧"
     text: "Lavar o frango lança microgotas contendo bactérias como Campylobacter ou Salmonella a até 50 cm ao redor da pia. 💡 Dica de conservação: Nunca enxágue o frango. Seque a superfície pressionando com papel-toalha ou passe rapidamente em água fervente antes de cozinhar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS & CDC</strong>.
+      Este conteúdo baseia-se em USDA & MFDS & CDC.
     </p>
   </div>
 </div>

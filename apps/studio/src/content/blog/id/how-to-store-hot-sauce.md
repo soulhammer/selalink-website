@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Bersihkan mulut botol dan tutup rapat setelah digunakan — Hentikan Kontak Oksigen 🧻"
     text: "Sisa saus pada mulut botol adalah jalur utama masuknya udara. 💡 Tips Penyimpanan: Segera bersihkan sisa saus di mulut botol dengan tisu dapur bersih setelah dituang, lalu tutup rapat untuk menghalangi masuknya udara."
@@ -34,7 +34,7 @@ Pernahkah Anda membuka botol saus sambal atau Sriracha untuk pizza, taco, atau t
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS.
     </p>
   </div>
 </div>

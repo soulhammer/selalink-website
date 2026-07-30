@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Simpan selai kacang alami dalam posisi terbalik — Mencegah Pemisahan Minyak 🔄"
     text: "Selai kacang 100% alami tanpa tambahan emulsifier akan terpisah menjadi minyak dan padatan kacang. 💡 Tips Penyimpanan: Tutup rapat lalu simpan toples dalam posisi terbalik. Minyak alami akan perlahan naik melewati padatan kacang dan tercampur secara alami tanpa perlu selalu diaduk."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan selai kacang 3 langkah be
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

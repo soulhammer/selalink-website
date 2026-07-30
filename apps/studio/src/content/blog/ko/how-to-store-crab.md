@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/crab_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "살아있는 게는 젖은 천으로 감싸 단기 냉장하기 — 단기 생존 보관 🦀"
     text: "생물 게를 바로 조리할 수 없다면 짧은 시간 동안 신선도를 유지해야 합니다. 💡 보관 팁: 씻지 않은 살아있는 게를 젖은 신문지나 젖은 타월로 감싸 톱밥이나 전용 용기에 담은 뒤 냉장실(1 ~ 4℃)에 두세요. 약 1일 동안 살아있는 상태를 유지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

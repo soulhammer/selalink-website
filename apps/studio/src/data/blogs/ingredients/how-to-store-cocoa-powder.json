@@ -8,7 +8,7 @@
             "ko": {
                 "title": "카카오 파우더 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 카카오 파우더의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
                 "intro": "홈 베이킹이나 따뜻한 코코아를 만들려고 카카오 파우더를 꺼냈다가, 덩어리가 단단하게 뭉쳐 있거나 눅눅한 냄새가 나서 당황하신 적 있으시죠? 🍫\n\n카카오 파우더는 수분 함량이 2~5%에 불과한 건조 식품이지만, 주변 수분을 강력하게 끌어당기는 흡습성(Hygroscopic)이 매우 뛰어납니다. 공기 중의 수분을 흡수하면 분자끼리 엉겨 붙어 굳어지는 케이킹(Caking) 현상이 발생하고, 포함된 코코아 버터 지방이 수분해(Lipolysis)되면서 쩐내(산패취)가 나기 쉽습니다.\n\n이번 가이드에서는 국제 식품 안전 전문가들이 권장하는 과학적이고 확실한 카카오 파우더 품질 유지 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Cocoa Powder Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for cocoa powder based on official safety guidelines.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Have you ever opened your cocoa powder for home baking or a warm mug of hot chocolate, only to find it clumped into hard lumps or smelling stale? 🍫\n\nAlthough cocoa powder is a dry food with a moisture content of only 2–5%, it is exceptionally hygroscopic, meaning it greedily absorbs moisture from the surrounding air. Absorbing humidity causes molecules to bind together in a process known as caking, while the cocoa butter fat inside undergoes hydrolysis (lipolysis), producing rancid off-odors.\n\nIn this guide, we introduce a scientifically proven cocoa powder storage guide recommended by international food safety experts to preserve its quality and rich flavor. 🛡️",
                 "whyTitle": "Why Store Cocoa Powder This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ココアパウダーを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくココアパウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)",
                 "intro": "お菓子作りや温かいココアを淹れようとココアパウダーを取り出した際、ダマになって固まっていたり、古い油のような臭いがして困ったことはありませんか？🍫\n\nココアパウダーは水分含有量がわずか2〜5%の乾燥食品ですが、周囲の湿気を強力に引き寄せる非常に高い吸湿性（Hygroscopic）を持っています。空気中の水分を吸収すると分子同士が結合して固まる「ケーキング（Caking）現象」が発生し、含まれるココアバターの脂質が加水分解（Lipolysis）を起こして酸化臭（戻り臭）が生じやすくなります。\n\n本記事では、国際的な食品安全専門家が推奨する、ココアパウダーの品質と風味が長持ちする科学的な保存方法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持可可粉新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解可可粉的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "当您打算烘焙或冲泡一杯热可可而取出可可粉时，是否曾遇到过它结成硬块或散发出油酸味的情况？🍫\n\n可可粉虽然是水分含量仅为2~5%的干燥食品，但具有极强的吸湿性（Hygroscopic），会疯狂吸收空气中的水分。吸湿后分子间互相黏结会导致“结块（Caking）”现象，同时其中含有的可可脂成分会发生水解酸败（Lipolysis），从而产生异味。\n\n本指南基于国际食品安全专家的权威建议，为您带来保持可可粉高品质与浓郁风味的科学储存秘诀。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el cacao en polvo fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el cacao en polvo según las directrices oficiales de seguridad.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "¿Alguna vez ha ido a sacar cacao en polvo para repostería o para preparar un tazón caliente y se ha encontrado con que estaba endurecido en grumos o tenía un olor rancio? 🍫\n\nAunque el cacao en polvo es un alimento seco con un contenido de humedad de tan solo el 2–5 %, es sumamente higroscópico, lo que significa que absorbe con avidez la humedad del aire. La absorción de agua hace que sus moléculas se aglomeren en un proceso llamado apelmazamiento (caking), mientras que la manteca de cacao que contiene sufre hidrólisis (lipólisis), generando olores rancios.\n\nEn esta guía se presenta una guía de conservación del cacao en polvo respaldada por expertos internacionales en seguridad alimentaria para preservar su calidad y sabor. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la poudre de cacao fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la poudre de cacao selon les directives officielles de sécurité.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Avez-vous déjà voulu utiliser de la poudre de cacao pour de la pâtisserie ou un chocolat chaud, pour découvrir qu'elle avait formé de durs grumeaux ou dégageait une odeur rance ? 🍫\n\nBien que la poudre de cacao soit un aliment sec ne contenant que 2 à 5 % d'humidité, elle est extrêmement hygroscopique, absorbant rapidement l'humidité de l'air. L'absorption d'eau agglutine les molécules (mottage ou caking), tandis que le beurre de cacao qu'elle contient subit une hydrolyse (lipolyse), générant des odeurs de rance.\n\nDans ce guide, vous présente un guide de conservation de la poudre de cacao recommandé par des experts internationaux en sécurité alimentaire pour préserver sa qualité et sa richesse aromatique. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kakaopulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kakaopulver basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Wollten Sie schon einmal Kakaopulver zum Backen oder für eine heiße Schokolade verwenden und haben festgestellt, dass es zu harten Klumpen verkrustet war oder ranzig roch? 🍫\n\nObwohl Kakaopulver ein trockenes Lebensmittel mit nur 2–5 % Feuchtigkeitsgehalt ist, besitzt es eine extrem hohe Hygroskopie (Feuchtigkeitsaufnahme). Nimmt es Luftfeuchtigkeit auf, verkleben die Partikel miteinander (Verklumpung / Caking), während das enthaltene Kakaobutter-Fett eine Hydrolyse (Lipolyse) erleidet und ranzige Gerüche entwickelt.\n\nIn diesem Ratgeber erfahren Sie einen von internationalen Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften Ratgeber zur Kakaopulver-Lagerung, um Aroma und Qualität zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar cacau em pó fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para o cacau em pó com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Você já foi pegar cacau em pó para fazer uma receita de bolo ou preparar um chocolate quente e descobriu que ele estava empelotado em blocos duros ou com cheiro râncio? 🍫\n\nEmbora o cacau em pó seja um alimento seco com teor de umidade de apenas 2 a 5%, ele possui altíssima higroscopia, o que significa que absorve a umidade do ar com facilidade. A absorção de água faz com que as partículas se aglomerem (empedramento/caking), enquanto a manteiga de cacau presente sofre hidrólise (lipólise), gerando odores desagradáveis.\n\nNeste guia, apresentamos um guia científico de conservação de cacau em pó recomendado por especialistas internacionais em segurança alimentar para manter sua qualidade e sabor. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Bubuk Kakao agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk kakao berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Pernahkah Anda ingin mengambil bubuk kakao untuk membuat kue atau minuman cokelat hangat, lalu mendapati bubuknya menggumpal keras atau berbau tengik? 🍫\n\nMeskipun bubuk kakao adalah makanan kering dengan kadar air hanya 2–5%, bahan ini memiliki sifat higroskopis yang sangat tinggi, artinya sangat mudah menyerap kelembapan udara. Penyerapan air menyebabkan partikel saling menempel (penggumpalan / caking), sementara lemak cokelat (cocoa butter) di dalamnya mengalami hidrolisis (lipolisis) yang menghasilkan bau tengik.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bubuk kakao berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan internasional untuk menjaga kualitas dan aromanya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

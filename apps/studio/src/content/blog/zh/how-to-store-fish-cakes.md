@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)"
 steps:
   - name: "开水轻烫去除表面油脂与酸败物质 — 焯水去油法 🫖"
     text: "鱼饼表面残存的炸油接触空气后会快速氧化酸败，引致细菌繁殖。💡储存小贴士：将鱼饼放入沸水中轻烫10 ~ 20秒，或用滚烫开水均匀浇淋表面。此举可去除表面氧化油脂、杂质与表面微生物，让口感更清爽卫生。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)。
     </p>
   </div>
 </div>

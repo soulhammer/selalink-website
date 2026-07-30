@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "구매 즉시 밀폐 용기(PET병)에 소분하기 — 산소와 습기 차단 📦"
     text: "쌀이 공기와 지속적으로 접촉하면 유지방이 산화되어 묵은내가 발생하고 수분이 날아갑니다. 💡 보관 팁: 완전히 건조된 페트병이나 유리 밀폐 용기에 쌀을 소분하여 입구를 바짝 잠궈주세요. 산소와 외부 습기를 완벽히 차단하여 쌀의 수분 함량(15% 안팎)을 오랫동안 유지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

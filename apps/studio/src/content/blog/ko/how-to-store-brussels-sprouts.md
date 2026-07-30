@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "상처 난 겉잎 정리 및 수분 제거하기 — 이물질 정리 🥬"
     text: "구매 후 노랗게 변하거나 상처 입은 겉잎을 떼어내고, 마른 키친타월로 표면 수분을 가볍게 닦아주세요. 💡 보관 팁: 겉잎의 부패가 안쪽까지 전이되는 것을 막고, 표면 습기를 통제하는 것이 신선도 유자의 첫걸음입니다. 밑동은 잘라내지 말고 그대로 두어야 수분 손실이 적습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

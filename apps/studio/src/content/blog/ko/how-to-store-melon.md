@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "통멜론은 서늘한 상온(18 ~ 22℃)에서 후숙하기 — 상온 후숙 (2 ~ 5일) 🧺"
     text: "자르지 않은 멜론은 직사광선을 피한 서늘한 상온에 보관하세요. 💡 보관 팁: 멜론 밑동(배꼽) 부분을 살짝 눌렀을 때 약간 들어가는 느낌이 들고 달콤한 향이 풍기면 후숙이 완료된 것입니다. 드시기 2 ~ 3시간 전에 냉장고에 넣으면 가장 시원하고 달콤하게 드실 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

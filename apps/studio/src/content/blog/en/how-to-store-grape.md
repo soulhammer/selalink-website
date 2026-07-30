@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Never wash with water before storage — Preserve Natural Bloom 🍇"
     text: "The fine white powder coating grape skins is 'Bloom', a natural epicuticular wax produced by the fruit. It prevents water loss and protects against pathogens. Washing grapes before storage damages this layer and traps water, accelerating rot. 💡 Storage Tip: Keep them dry until right before eating."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

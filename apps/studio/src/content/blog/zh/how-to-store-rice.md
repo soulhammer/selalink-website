@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "购买后立即分装入密封容器（或塑料瓶） — 阻绝氧气与湿气 📦"
     text: "大米持续接触空气会导致脂肪氧化产生陈味并流失水分。💡储存小贴士：将干燥的大米分装入干净干燥的塑料瓶（PET瓶）或玻璃密封罐中并拧紧瓶盖。这能完美阻断氧气与外界湿气，长久维持理想含水量（约15%）。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

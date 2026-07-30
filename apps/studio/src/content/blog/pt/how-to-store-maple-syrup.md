@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Mantenha garrafas fechadas em local fresco e escuro — Despensa (mais de 1 ano) 🏺"
     text: "O xarope de bordo fechado é esterilizado pelo calor e muito estável à temperatura ambiente. 💡 Dica de conservação: Mantenha as garrafas fechadas em uma despensa fresca e seca (10–20 °C). Preserva seu sabor até a data de validade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & CFIA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

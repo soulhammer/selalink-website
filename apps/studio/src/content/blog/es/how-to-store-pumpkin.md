@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "[Entera] Guarde en un lugar fresco y seco a 10–15 °C — Almacenamiento óptimo en alacena (1 a 2 meses) ☀️"
     text: "La calabaza entera se conserva mejor en ambientes oscuros y bien ventilados. 💡 Consejo de almacenamiento: Limpie el polvo y colóquela con el tallo hacia arriba sobre papel en un armario fresco (10–15 °C)."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

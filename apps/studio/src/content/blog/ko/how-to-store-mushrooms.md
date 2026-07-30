@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "보관 전 물 세척 절대 금지 — 수분 흡수 및 조직 붕괴 방지 ❌💧"
     text: "버섯은 스펀지 구조로 수분을 빠르게 흡수합니다. 💡 보관 팁: 보관 전 물로 씻으면 과육 세포가 물을 머금어 쫄깃한 식감과 구아닐산 감칠맛 성분이 손실되고 곰팡이가 급격히 번식합니다. 흙이나 이물질은 요리 직전에 마른 천이나 요리용 솔로 가볍게 털어내세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

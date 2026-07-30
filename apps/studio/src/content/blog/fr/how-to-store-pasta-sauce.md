@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Transférer dans un contenant hermétique pour minimiser l'air — Éviter la contamination 📦"
     text: "Laisser la sauce dans sa boîte ou son bocal d'origine ouvert permet à l'air de s'infiltrer et augmente les risques de contamination. 💡 Astuce de conservation : Transvasez la sauce restante dans un récipient hermétique propre et sec (en verre ou plastique alimentaire) et fermez bien. Réduire l'exposition à l'air préserve sa fraîcheur."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

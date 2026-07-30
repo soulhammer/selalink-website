@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "装入金属罐或棕色/紫色避光玻璃瓶 — 阻断光氧化 📦"
     text: "防止光线与空气分解辣椒红素是红椒粉保鲜的核心。💡储存小贴士：装入密封性极佳的金属罐或能阻隔紫外线的棕色、紫色避光玻璃瓶中。透明容器会让红椒粉在光照下迅速褪色并产生苦味。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

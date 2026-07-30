@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store dry chickpeas in sealed containers below 60% humidity — Prevent Aflatoxin Mold (1–2 Years) 📦"
     text: "Dry chickpeas must be kept below 12% moisture content and 60% relative humidity. 💡 Storage Tip: Store them in an airtight container or Ziploc bag with a desiccant (silica gel) in a cool, dark pantry. This completely prevents mold germination, keeping dry chickpeas safe for 1 to 2 years."
@@ -40,7 +40,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

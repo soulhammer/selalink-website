@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Raumtemperatur (5 Tage) 🌿"
     text: "Wickeln Sie trockene, ungewaschene Frühlingszwiebeln locker in Zeitungspapier oder Einschlagpapier. 💡 Lagerungstipp: Stellen Sie sie mit den Wurzeln nach unten an einem kühlen, schattigen Ort (10–15 °C) aufrecht hin. Die aufrechte Lagerung entspricht der natürlichen Wuchsrichtung und zögert das Welken hinaus."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf RDA & MFDS & USDA.
     </p>
   </div>
 </div>

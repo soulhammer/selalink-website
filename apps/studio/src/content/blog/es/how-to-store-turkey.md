@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Seque con papel en lugar de lavar con agua — Evite contaminación cruzada 🧼"
     text: "No lave bajo el grifo. Al abrir el empaque, seque minuciosamente la superficie interior y exterior con toallas de papel absorbente. 💡 Consejo de almacenamiento: Eliminar la humedad superficial priva a las bacterias de un entorno propicio y evita dispersar patógenos por aerosolización."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de carne de pavo en 3 pasos
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA FSIS & MFDS & RDA</strong>.
+      Este contenido se basa en USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

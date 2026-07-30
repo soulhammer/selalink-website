@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA"
 steps:
   - name: "切除少量茎部末端并用湿纸巾包裹 — 茎部补水 🥦"
     text: "西兰花粗壮的茎部是向上方花蕾输送水分和营养的核心通道。💡储存小贴士：将茎部末端切除约0.5厘米，用浸湿后拧干的厨房纸巾包裹住茎部末端。像插花一样持续补水，可以防止花蕾因失水而散开开花。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA。
     </p>
   </div>
 </div>

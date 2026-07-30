@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Do not wash until right before consumption — Preserve Natural Bloom 🫐"
     text: "The white powder coating blueberries is 'Bloom', a natural epicuticular wax produced by the fruit itself. It serves as a vital shield preventing water loss and blocking external pests and fungal pathogens. 💡 Storage Tip: Washing berries prior to storage strips away the bloom and causes moisture to alter osmotic pressure, making them soft rapidly. Keeping them dry is the first rule of freshness."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & RDA & MFDS</strong>.
+      This content is based on USDA & RDA & MFDS.
     </p>
   </div>
 </div>

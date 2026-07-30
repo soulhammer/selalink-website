@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envolva cada toranja individualmente em jornal ou papel-toalha — Controle de umidade 🗞️"
     text: "Proteger a casca do acúmulo de umidade e atrito é o primeiro passo essencial. 💡 Dica de conservação: Envolva as toranjas secas em jornal ou papel-toalha para regular a umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de toranja em 3 etapas recomen
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

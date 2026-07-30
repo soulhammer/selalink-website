@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS</strong>"
+authority: "FDA & MFDS"
 steps:
   - name: "Proteja de la luz solar directa y fuentes de calor — Despensa fresca (15–25 °C) 📦"
     text: "Exponer el vinagre al calor o a la luz acelera la oxidación, alterando su color y sabor. 💡 Consejo de almacenamiento: Guárdelo en un armario oscuro y fresco (15–25 °C) lejos de ventanas y electrodomésticos calientes."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por a
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & MFDS</strong>.
+      Este contenido se basa en FDA & MFDS.
     </p>
   </div>
 </div>

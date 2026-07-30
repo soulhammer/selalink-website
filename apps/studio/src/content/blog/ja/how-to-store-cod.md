@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "水分を拭き取りペーパーとラップで密着包装する — 水分吸収＆空気遮断 📦"
     text: "タラの切り身の表面の水分を完全に拭き取った後、ペーパータオルで包み、ラップで隙間なく密着密閉します。💡保存のコツ：染み出る水分を吸収し空気との接触を遮断することで、TMAOの還元反応と組織の破壊を一次的に防ぐことができます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

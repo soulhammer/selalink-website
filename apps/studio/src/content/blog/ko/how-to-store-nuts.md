@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)"
 steps:
   - name: "개봉 후 무조건 밀봉하여 냉장 및 냉동실 보관하기 — 냉장 (90일), 냉동 (180일) ❄️"
     text: "견과류는 온도가 높고 습한 상온에 두면 불포화지방산이 공기 중 산소와 결합해 찌든 내가 나고 아플라톡신 독소가 생성됩니다. 💡 보관 팁: 개봉한 견과류는 즉시 밀봉하여 냉장실(0 ~ 4℃)에 보관 시 3개월, 냉동실(-18℃ 이하) 보관 시 6개월 이상 변질 없이 안전하게 보관할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

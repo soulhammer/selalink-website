@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC"
 steps:
   - name: "20 ~ 24℃의 서늘하고 어두운 상온에 보관하기 — 상온 밀봉 보관 (360 ~ 720일) 📦"
     text: "코코넛 오일은 반드시 냉장 보관할 필요가 없으며, 서늘한 상온에서 가장 사용하기 편리합니다. 💡 보관 팁: 직사광선이 닿지 않는 팬트리나 찬장(20 ~ 24℃)에 보관하세요. 개봉 후에도 이 조건에서는 1 ~ 2년 동안 특유의 고소한 풍미와 신선함이 완벽히 유지됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC에 기반하고 있습니다.
     </p>
   </div>
 </div>

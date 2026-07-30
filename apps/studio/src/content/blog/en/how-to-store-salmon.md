@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Wipe off surface oil and liquid (drip) completely — Prevent Bacterial Growth & Odors 🍣"
     text: "Surface moisture and fish oil leaking from raw salmon are the primary triggers for trimethylamine (TMA) fishy odors and bacterial multiplication. 💡 Storage Tip: Firmly press paper towels onto both sides of the salmon to absorb all liquid drip before storing."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on hygi
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

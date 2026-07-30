@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pumpkin_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "[Inteira] Guarde em local fresco e seco a 10–15 °C — Armazenamento ideal no armário (1 a 2 meses) ☀️"
     text: "A abóbora inteira conserva-se melhor em locais escuros e bem ventilados. 💡 Dica de conservação: Limpe o pó e coloque-a com o talo para cima sobre papel em um armário fresco (10–15 °C)."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por es
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

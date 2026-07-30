@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Lightly brush surfaces with Extra Virgin Olive Oil — Create an Oxygen-Barrier Shield 🫒"
     text: "Coating slices with edible oil is a highly effective way to block atmospheric oxygen. 💡 Storage Tip: Lightly brushing Extra Virgin Olive Oil over the slice surfaces or cut edges forms a natural barrier that seals in moisture and prevents oxidation."
@@ -25,7 +25,7 @@ faqs:
 
 Have you ever served premium prosciutto or jamón for wine pairings, stored the leftover slices in the fridge, only to find them dry, stiff, and yellowed a few days later? 🥓
 
-Prosciutto and dry-cured ham undergo extended salting and curing, reducing water activity ($A_w < 0.85$) to inhibit pathogenic bacterial growth. However, because they are rich in unsaturated fatty acids, exposure to atmospheric oxygen triggers lipid peroxidation (auto-oxidation). This oxidizes myoglobin, leading to browning, rancid off-odors, and a tough dried-out texture.
+Prosciutto and dry-cured ham undergo extended salting and curing, reducing water activity (Aw< 0.85) to inhibit pathogenic bacterial growth. However, because they are rich in unsaturated fatty acids, exposure to atmospheric oxygen triggers lipid peroxidation (auto-oxidation). This oxidizes myoglobin, leading to browning, rancid off-odors, and a tough dried-out texture.
 
 In this guide, we introduce a scientifically proven 3-step storage guide recommended by food safety experts to preserve the texture and delicate flavor of dry-cured hams. 🛡️
 
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step storage guide recomme
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & EFSA & MFDS</strong>.
+      This content is based on USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

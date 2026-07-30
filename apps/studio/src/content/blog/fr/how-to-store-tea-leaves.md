@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Sceller dans une boîte en métal opaque ou un sachet en aluminium — Barrière totale contre lumière et oxygène 📦"
     text: "L'oxygène et la lumière sont les pires ennemis du thé. 💡 Astuce de conservation : Transférez le thé ouvert dans une boîte métallique opaque à double couvercle ou un sachet en aluminium zip, videz l'air et scellez."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lamb_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Fleischsaft abtupfen und fest in Frischhaltefolie wickeln — Saft entfernen & Sauerstoff blockieren 📦"
     text: "Oberflächensaft ist die Hauptursache für Gerüche und Verderb, während Sauerstoff Fette oxidieren lässt. 💡 Lagerungstipp: Tupfen Sie die Oberfläche mit Küchenpapier ab und wickeln Sie jedes Stück luftdicht in Frischhaltefolie ein, um Verfärbung und Austrocknung zu verhindern."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

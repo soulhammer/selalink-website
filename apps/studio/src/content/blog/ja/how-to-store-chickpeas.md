@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "乾燥ひよこ豆は湿度60%以下の涼しい場所で密閉保存する — カビ毒（アフラトキシン）防止 (1〜2年間) 📦"
     text: "乾燥ひよこ豆は水分含有量12%以下、相対湿度60%以下の乾燥保管が必須です。💡保存のコツ：密閉容器やチャック付き袋に乾燥剤（シリカゲル）と一緒に入れ、直射日光の当たらない涼しいパントリー等で保管してください。カビ胞子の発芽を根本から防ぎ、1〜2年以上安全に保存できます。"
@@ -40,7 +40,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

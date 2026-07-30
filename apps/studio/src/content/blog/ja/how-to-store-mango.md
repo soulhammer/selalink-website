@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "[追熟前] 20〜25℃の涼しい常温で保存する — 自然追熟 (3〜7日間) 🌡️"
     text: "マンゴーは常温で徐々に糖度を上げていきます。💡保存のコツ：皮にツヤが出て、ヘタの周りから甘い香りが漂い、軽く握った時に桃のように柔らかく感じるようになるまで、直射日光の当たらない風通しの良い常温で保存してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

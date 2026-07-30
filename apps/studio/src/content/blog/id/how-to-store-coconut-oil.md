@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & APCC</strong>"
+authority: "USDA & MFDS & APCC"
 steps:
   - name: "Simpan di rak dapur sejuk dan gelap pada suhu 20–24°C — Simpan Wadah Tertutup (360–720 Hari) 📦"
     text: "Minyak kelapa tidak wajib disimpan di kulkas dan paling nyaman digunakan pada suhu ruang sejuk. 💡 Tips Penyimpanan: Simpan di lemari dapur yang gelap (20–24°C). Dalam kondisi ini, minyak kelapa yang sudah dibuka dapat bertahan 1 hingga 2 tahun dengan rasa dan kesegaran yang terjaga."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS & APCC</strong>.
+      Konten ini didasarkan pada USDA & MFDS & APCC.
     </p>
   </div>
 </div>

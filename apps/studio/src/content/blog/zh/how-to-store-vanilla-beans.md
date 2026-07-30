@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用蜡纸或保鲜膜逐根包裹 — 阻隔空气与防止干硬 📜"
     text: "用蜡纸（Wax Paper）或食品级保鲜膜将每根香草豆荚紧密包裹，减少豆荚间的摩擦并初级阻隔水分蒸发。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">切勿将香草豆荚放入冰箱冷藏或冷冻 ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      将香草豆荚放进冰箱，取出时室内温差会导致表皮结露（Condensation）。这会大幅提高水分活性（$A_w$），为曲霉菌等霉菌提供绝佳繁殖环境，并破坏香草酚结晶结构。
+      将香草豆荚放进冰箱，取出时室内温差会导致表皮结露（Condensation）。这会大幅提高水分活性（水活性 (Aw)），为曲霉菌等霉菌提供绝佳繁殖环境，并破坏香草酚结晶结构。
     </p>
   </div>
 </div>

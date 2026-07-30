@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Retire el empaque de plástico ajustado — Evite trampas anaeróbicas 📦"
     text: "El plástico apretado asfixia al queso, atrapando la humedad y los gases metabólicos que aceleran su descomposición. 💡 Consejo de almacenamiento: Retirar por completo el envoltorio plástico después de abrirlo es el primer paso indispensable."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FSA & MFDS</strong>.
+      Este contenido se basa en USDA & FSA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Segel dalam kaleng buram atau kantong alumunium foil — Pelindung Total dari Cahaya & Oksigen 📦"
     text: "Oksigen dan cahaya adalah musuh utama kualitas teh. 💡 Tips Penyimpanan: Pindahkan daun teh yang sudah dibuka ke dalam kaleng logam buram ganda atau kantong Ziploc alumunium foil, buang udara di dalamnya lalu tutup rapat."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

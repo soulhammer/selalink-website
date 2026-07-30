@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "新聞紙やキッチンペーパーで1個ずつ包み、ラップで密閉する — 水分蒸発防止 📦"
     text: "梨を水分にさらさず1個ずつ個別包装することがポイントです。💡保存のコツ：洗っていない梨をまず新聞紙やキッチンペーパーで包んで余分な湿気を調節し、その上から食品用ラップで隙間なくぴったり包みます。紙が余分な湿気を吸収し、ラップが梨内部の水分蒸発を防ぐため、長期間シャキシャキ感が持続します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Harte Pflaumen bei kühler Raumtemperatur (18–22 °C) nachreifen lassen — Nachreifen (2–4 Tage) 🧺"
     text: "Der Reifeschritt für beste Süße und Aroma. 💡 Lagerungstipp: Ungewaschene Pflaumen einlagig in einem Karton oder einer Schale an einem schattigen, kühlen Ort auslegen. Sie sind reif, wenn der Stielansatz auf sanften Druck leicht nachgibt."
@@ -38,7 +38,7 @@ Pflaumen sind klimakterische Früchte mit einer sehr dünnen, empfindlichen Scha
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

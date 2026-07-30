@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Manjericão: Corte os talos e guarde num copo com água em temperatura ambiente (15–20 °C) — Método buquê ambiente 🌸"
     text: "Sensível ao frio, o manjericão se desenvolve melhor em temperatura ambiente fresca. 💡 Dica de conservação: Corte 1 cm dos talos, coloque em pé num copo com 1–2 cm de água e cubra com um saco plástico a 15–20 °C por 7 a 10 dias."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por es
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Este conteúdo baseia-se em RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제($A_w < 0.60$) 📦"
-    text: "건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도($A_w$)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다."
+  - name: "실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제(수분 활성도(Aw) < 0.60) 📦"
+    text: "건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도(Aw)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다."
   - name: "10 ~ 15℃ 이하 서늘한 암소에 실온 보관하기 — 서늘한 암소 보관 (1 ~ 2년) 🧺"
     text: "보리를 직사광선이 들지 않는 서늘한 곳에 보관하여 효소 반응과 전분 노화를 지연시킵니다. 💡 보관 팁: 가스레인지나 전자레인지 주변 등 열기가 있는 곳을 피해 10 ~ 15℃ 이하의 어둡고 바람이 잘 통하는 찬장에 보관하세요. 베타글루칸 손실 없이 1 ~ 2년 동안 고소한 풍미가 유지됩니다."
   - name: "습한 여름철이나 대량 보관 시 저온 냉장 보관하기 — 저온 냉장 보관 (2년 이상) ❄️"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제($A_w < 0.60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제(수분 활성도(Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도($A_w$)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다.
+    건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도(Aw)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">습도가 높고 온도가 상승하는 장소를 피하세요 ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      상대습도가 높거나 온도가 오르면 보리의 전분 분해 속도가 빨라지고 곰팡이독소가 생성될 위험이 커집니다. 반드시 수분 함량 12% 이하, 수분 활성도($A_w < 0.60$) 상태를 유지하도록 건조하고 서늘한 곳에 밀폐 보관해야 합니다.
+      상대습도가 높거나 온도가 오르면 보리의 전분 분해 속도가 빨라지고 곰팡이독소가 생성될 위험이 커집니다. 반드시 수분 함량 12% 이하, 수분 활성도(Aw< 0.60) 상태를 유지하도록 건조하고 서늘한 곳에 밀폐 보관해야 합니다.
     </p>
   </div>
 </div>

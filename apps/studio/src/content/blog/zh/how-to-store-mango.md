@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "[催熟前] 存放在20 ~ 25℃的阴凉常温处 — 自然催熟 (3 ~ 7天) 🌡️"
     text: "芒果会在常温下缓慢积累糖分。💡储存小贴士：请将其放置在避开阳光直射且通风良好的常温环境中，直到果皮泛起光泽、果蒂处散发甜香，且轻轻按压时像熟透的桃子一样微微凹陷即可。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

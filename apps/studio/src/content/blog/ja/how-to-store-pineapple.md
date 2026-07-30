@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "クラウン（葉）を切り落とし、逆さまに立てて保存する — 甘みの再分散裏ワザ 🔄"
     text: "パイナップルの糖分は底に沈んで集中しています。💡保存のコツ：上部の葉（クラウン）を包丁で切り落とし、新聞紙やキッチンペーパーで包んで上下逆さまにして常温（1〜2日）または冷蔵庫で保存します。底に溜まっていた甘みが全体に行き渡ります。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

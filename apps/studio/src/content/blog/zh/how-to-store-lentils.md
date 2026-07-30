@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
-  - name: "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 $A_w < 0.65$ 并防虫 🫙"
+  - name: "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 水活性 (Aw) < 0.65 并防虫 🫙"
     text: "购买干燥小扁豆后请立即倒入密封性极佳的玻璃瓶或食品级PET/PP密封盒中，并放入食品级硅胶干燥剂。💡储存小贴士：将水分含量控制在10 - 12%以下、水分活性控制在0.65以下，可抑制微生物生长，从源头杜绝霉菌毒素与害虫。"
   - name: "存放在无阳光直射的阴凉暗处（15 - 20℃） — 常温干燥保存（1 - 2年） 🚪"
     text: "将密封容器装的小扁豆存放在避光的橱柜或食品柜中。💡储存小贴士：在15 - 20℃以下的阴凉干燥环境中，可保持营养不流失、不变色，安全保存1 - 2年。"
@@ -25,7 +25,7 @@ faqs:
 
 小扁豆（Lentils）富含植物蛋白、膳食纤维和铁质，是享誉世界的五大超级食物之一！ 🫘
 
-小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（$A_w$）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。
+小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（水活性 (Aw)）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。
 
 本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护小扁豆远离害虫与毒素，长久保持新鲜。🛡️
 
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 $A_w < 0.65$ 并防虫 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 水活性 (Aw) < 0.65 并防虫 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     购买干燥小扁豆后请立即倒入密封性极佳的玻璃瓶或食品级PET/PP密封盒中，并放入食品级硅胶干燥剂。💡储存小贴士：将水分含量控制在10 - 12%以下、水分活性控制在0.65以下，可抑制微生物生长，从源头杜绝霉菌毒素与害虫。

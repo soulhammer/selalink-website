@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Interleave parchment paper between each tortilla — Non-Stick Separation Layer 📄"
     text: "The key secret to preventing tortillas from sticking together. 💡 Storage Tip: Place one tortilla down, cover it with a piece of parchment (baking) paper cut to size, then place the next tortilla on top. Repeat for the whole stack. The paper blocks moisture transfer, allowing individual tortillas to peel apart easily after freezing."
@@ -38,7 +38,7 @@ Both flour and corn tortillas have a moisture content of around 25–35%. Once o
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

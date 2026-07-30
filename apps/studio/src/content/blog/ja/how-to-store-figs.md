@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fig_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "洗わずにキッチンペーパーで1個ずつ包む — 水分・衝撃保護 📦"
     text: "水分への露出と物理的衝撃を同時に防ぐステップです。💡保存のコツ：水洗いしていないイチジクのゴミを払い、キッチンペーパーや新聞紙で1個ずつやさしく包みます。紙が結露を吸収し、果実同士の摩擦や衝撃を和らげます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "금속 캔이나 갈색/자색 차광 유리병에 보관하기 — 광산화 차단 📦"
     text: "파프리카 가루는 빛과 공기에 의한 캡산틴 분해를 막는 것이 핵심입니다. 💡 보관 팁: 밀폐성이 우수한 금속 캔이나 자외선을 차단하는 갈색, 자색 차광 유리병에 담아 보관하세요. 투명 용기를 사용할 경우 빛에 의해 선명한 붉은빛이 순식간에 탈색되고 쓴맛이 생깁니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

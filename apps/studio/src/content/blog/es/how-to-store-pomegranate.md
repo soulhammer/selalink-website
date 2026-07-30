@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envuelva la fruta entera en film plástico a 5–7 °C y 80–85 % HR — Evite la Transpiración (2 a 3 meses) 📦"
     text: "Para granadas enteras, evitar la pérdida de agua a través de la piel es esencial. 💡 Consejo de almacenamiento: Envuelva la fruta en film transparente a 5–7 °C y 80–85 % de humedad relativa (cajón de verduras). Esto evita el daño por frío y la pérdida de agua durante 2 a 3 meses."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Potong pangkalnya lalu berdirikan tegak dalam wadah berisi air — Metode Vas Bunga 🥛"
     text: "Asparagus membutuhkan pasokan air terus-menerus di bagian pangkalnya agar tetap renyah. 💡 Tips Penyimpanan: Potong 1 cm pangkalnya dan berdirikan tegak di dalam stoples berisi air setinggi 1–2 cm."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Konten ini didasarkan pada RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

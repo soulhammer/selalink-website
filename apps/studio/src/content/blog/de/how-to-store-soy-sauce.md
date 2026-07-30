@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & Japanischer Sojasaucen-Verband (JSA) & USDA</strong>"
+authority: "MFDS & Japanischer Sojasaucen-Verband (JSA) & USDA"
 steps:
   - name: "Nach dem Öffnen sofort kühlen (0–5 °C) — Kühllagerung (180–360 Tage) ❄️"
     text: "Ungeöffnet hält sich Sojasauce im Vorratsschrank, doch nach dem Öffnen beschleunigt Sauerstoff die Oxidation. 💡 Lagerungstipp: Bewahren Sie geöffnete Sojasauce im Kühlschrank (0–5 °C) auf. Kälte verlangsamt die Oxidation drastisch und erhält Aroma und Umami für 6 Monate bis über 1 Jahr."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & Japanischer Sojasaucen-Verband (JSA) & USDA</strong>.
+      Dieser Inhalt basiert auf MFDS & Japanischer Sojasaucen-Verband (JSA) & USDA.
     </p>
   </div>
 </div>

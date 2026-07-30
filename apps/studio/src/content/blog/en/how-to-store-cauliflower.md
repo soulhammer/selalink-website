@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cauliflower_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap unwashed head in paper towels — Moisture Control & Browning Protection 📦"
     text: "Brush off any dirt without washing and wrap the head in paper towels. 💡 Storage Tip: Leaving outer leaves attached helps retain moisture. Paper towels absorb excess humidity and prevent drying out, providing a barrier against yellowing."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step cauliflower storage g
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Simpan mi kering dalam wadah kedap udara atau botol — Pelindung Lembap & Kutu (1–2 Tahun) 📦"
     text: "Membiarkan mi kering di kemasan plastik tipisnya memudahkan larva kutu menembus plastik dan bertelur. 💡 Tips Penyimpanan: Masukkan mi kering bersama silica gel ke dalam toples tinggi kedap udara atau botol plastik. Simpan di tempat sejuk di bawah 20°C selama 1 hingga 2 tahun bebas hama."
@@ -38,7 +38,7 @@ Mi terbagi menjadi 'mi kering' (kadar air di bawah 14%) dan 'mi segar/matang' (k
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & FDA & MFDS.
     </p>
   </div>
 </div>

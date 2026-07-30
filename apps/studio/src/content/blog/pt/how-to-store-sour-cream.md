@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS & RDA</strong>"
+authority: "USDA & FDA & MFDS & RDA"
 steps:
   - name: "Nivele a superfície com uma colher limpa — Evite a separação do soro 🥄"
     text: "Deixar buracos no creme azedo após servir permite que o soro líquido se acumule nas cavidades, criando um ambiente propício a micróbios. 💡 Dica de conservação: Alise a superfície com uma colher limpa antes de fechar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do creme azedo em 3 etapas bas
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS & RDA.
     </p>
   </div>
 </div>

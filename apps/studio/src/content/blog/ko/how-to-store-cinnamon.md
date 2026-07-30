@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "빛과 공기를 차단하는 차광 밀폐 용기(유리/금속/PP)에 담기 — 정유 휘발 및 흡습 차단 🫙"
     text: "계피 스틱이나 계피 가루를 개봉한 즉시 차광 유리병, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담으세요. 💡 보관 팁: 공기와의 접촉을 완벽히 차단하면 시남알데하이드 정유 성분의 휘발을 막고 공기 중 습기 흡수를 차단할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

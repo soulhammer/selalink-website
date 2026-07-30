@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Store in metal cans or dark amber/purple glass jars — Block Photo-Oxidation 📦"
     text: "Preventing light and oxygen breakdown of capsanthin is paramount for paprika powder. 💡 Storage Tip: Keep powder in airtight metal cans or dark amber/purple glass jars. Clear containers allow light to rapidly bleach the red pigment and introduce bitter flavors."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step paprika powder storag
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & FDA & MFDS</strong>.
+      This content is based on RDA & FDA & MFDS.
     </p>
   </div>
 </div>

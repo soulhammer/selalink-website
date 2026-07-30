@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Faire mûrir à température ambiante à l'ombre avant maturité — Temp. Ambiante (5–7 jours) 🌿"
     text: "Conservez les tomates vertes/rosées à température ambiante fraîche (15–20 °C) à l'abri du soleil. 💡 Astuce de conservation : Retirez les pédoncules verts et posez les tomates côté pédoncule vers le bas sur une surface plate pour répartir le poids."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & CDC</strong>.
+      Ce contenu est basé sur RDA & USDA & CDC.
     </p>
   </div>
 </div>

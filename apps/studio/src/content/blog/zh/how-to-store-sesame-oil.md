@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "使用棕色遮光玻璃瓶或包裹铝箔纸 — 彻底阻绝紫外线与光线 🍾"
     text: "避光是防止芝麻油氧化的首要原则。💡储存小贴士：请存放在不透明的棕色玻璃瓶中；若是透明瓶，可用铝箔纸或报纸将整瓶包裹避光。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

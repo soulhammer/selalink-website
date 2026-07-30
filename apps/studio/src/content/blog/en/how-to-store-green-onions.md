@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Wrap dry, unwashed green onions in newspaper and store upright — Room Temp Storage (5 Days) 🌿"
     text: "Wrap dry, unwashed green onions loosely in newspaper or parchment paper. 💡 Storage Tip: Stand them vertically in a cool, well-ventilated, shaded area (10–15°C / 50–59°F) with the roots pointing down. Maintaining a vertical position matching their natural growth direction minimizes gravity stress and delays wilting."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & MFDS & USDA</strong>.
+      This content is based on RDA & MFDS & USDA.
     </p>
   </div>
 </div>

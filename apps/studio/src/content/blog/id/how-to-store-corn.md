@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/corn_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Simpan di kulkas dengan kulit tetap menempel — Simpan Dingin (2–3 Hari) 📦"
     text: "Kulit luar jagung berfungsi sebagai pelindung alami dari penguapan air. 💡 Tips Penyimpanan: Biarkan 1–2 lapis kulit dalam tetap menempel, masukkan jagung ke dalam kantong plastik tertutup, dan simpan di laci sayur kulkas (0–2°C). Langkah ini memperlambat kerja enzim."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan jagung 3 langkah berbasis
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

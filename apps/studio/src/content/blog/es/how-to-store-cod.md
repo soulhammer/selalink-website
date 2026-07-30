@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Seque la humedad y envuelva firmemente — Absorción & Bloqueo de Aire 📦"
     text: "Seque completamente la humedad superficial del filete de bacalao, envuélvalo en papel absorbente y séllelo bien con film transparente. 💡 Consejo de almacenamiento: Absorber el líquido retenido y bloquear el aire evita la conversión de TMAO y el deterioro del tejido."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía científica de conservación en 3 pasos resp
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      Este contenido se basa en NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

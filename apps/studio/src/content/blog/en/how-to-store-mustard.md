@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Store unopened bottles in a cool pantry away from heat — Pantry Storage (15–25°C) 📦"
     text: "Unopened mustard maintains stability at room temperature thanks to natural preservatives like vinegar and salt. 💡 Storage Tip: Keep unopened bottles in a dark, cool cabinet away from direct sunlight."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step mustard storage guide b
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & MFDS & USDA</strong>.
+      This content is based on FDA & MFDS & USDA.
     </p>
   </div>
 </div>

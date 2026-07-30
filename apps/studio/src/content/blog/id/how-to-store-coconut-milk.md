@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Segera pindahkan ke wadah kedap udara — Cegah Oksidasi Logam 🫙"
     text: "Saat kaleng dibuka, kontak dengan udara langsung memicu oksidasi logam kaleng. 💡 Tips Penyimpanan: Tuang sisa santan ke dalam wadah kaca atau wadah plastik bebas BPA yang bersih dan tutup rapat. Ini mencegah kontaminasi rasa logam dan bau kulkas."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan santan 3 langkah berbasis
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/curry_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Guarde en recipientes opacos y herméticos — Bloqueo de luz y evaporación de aromas 🫙"
     text: "Evitar la fotodegradación de la curcumina y la evaporación de terpenos es el primer paso vital. 💡 Consejo de almacenamiento: Tras abrirlo, pase el polvo de recipientes transparentes a latas de metal, frascos opacos o bolsas con cierre hermético que bloqueen la luz."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación del curry en polvo en 3 pas
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & EFSA & MFDS</strong>.
+      Este contenido se basa en FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

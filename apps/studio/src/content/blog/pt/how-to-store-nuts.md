@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Sele e refrigere/congele após aberto — Armazenamento (90 dias na geladeira, 180 dias no freezer) ❄️"
     text: "Deixar oleaginosas em temperatura ambiente oxida as gorduras e cria risco de aflatoxinas. 💡 Dica de conservação: Guarde as castanhas abertas bem seladas na geladeira (0-4 °C) por até 3 meses ou no freezer (-18 °C) por mais de 6 meses."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA & FDA</strong>.
+      Este conteúdo baseia-se em MFDS & USDA & FDA.
     </p>
   </div>
 </div>

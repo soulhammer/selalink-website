@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & USDA</strong>"
+authority: "SCA & USDA"
 steps:
   - name: "Blickdichten, luftdichten Behälter mit Einwegventil nutzen — Sauerstoff blockieren & CO2 abführen 📦"
     text: "Frisch geröstete Bohnen gasen aus. Ein Einweg-Aromaventil lässt CO2 entweichen, ohne dass Sauerstoff eindringt. 💡 Lagerungstipp: Belassen Sie die Bohnen in der Ventiltüte oder nutzen Sie spezielle vakuumierte Edelstahldosen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>SCA & USDA</strong>.
+      Dieser Inhalt basiert auf SCA & USDA.
     </p>
   </div>
 </div>

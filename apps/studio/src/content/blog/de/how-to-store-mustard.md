@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Ungeöffnete Gläser/Tuben kühl und dunkel lagern — Vorratslagerung (15–25 °C) 📦"
     text: "Ungeöffnet bleibt Senf durch die natürlichen Konservierungsmittel Essig und Salz bei Raumtemperatur stabil. 💡 Lagerungstipp: Vor Sonnenlicht und Herdhitze geschützt im Küchenschrank aufbewahren."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf FDA & MFDS & USDA.
     </p>
   </div>
 </div>

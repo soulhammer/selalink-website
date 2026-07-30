@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Sangrai sebentar lalu bagi porsi — Hilangkan Kelembapan & Bau 📦"
     text: "Jika teri terasa lembap, sangrai di wajan tanpa minyak dengan api kecil selama 1–2 menit. 💡 Tips Penyimpanan: Biarkan dingin sepenuhnya sebelum dibagi ke dalam kantong plastik sekali pakai."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NIFS & USDA & MFDS</strong>.
+      Konten ini didasarkan pada NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

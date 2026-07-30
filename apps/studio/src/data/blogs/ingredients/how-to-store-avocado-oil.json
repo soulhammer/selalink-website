@@ -8,7 +8,7 @@
             "ko": {
                 "title": "아보카도 오일 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 아보카도 오일의 광산화 방지법, 차광병 보관법 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "높은 발연점과 풍부한 영양으로 볶음, 튀김, 샐러드 드레싱에 다양하게 활용되는 건강한 지방의 대명사 아보카도 오일(Avocado Oil)! 🥑🫒\n\n아보카도 오일은 건강에 좋은 단일불포화지방산인 '올레산(Oleic Acid)'이 풍부한 최고급 식물성 기름입니다. 하지만 정제되지 않은 미정제(버진/엑스트라 버진) 아보카도 오일 속 잔류 엽록소(Chlorophyll)는 빛을 받았을 때 '감광제(Photosensitizer)' 역할을 하여 오일의 광산화(Photo-oxidation)를 급격히 촉진시킵니다. 빛에 지속적으로 노출되면 하이드로퍼옥사이드(Hydroperoxide)가 생성되어 오일이 산패하고 영양소가 파괴됩니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 광산화를 차단하고 아보카도 오일의 신선함을 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "아보카도 오일 내 엽록소가 자외선/빛을 받아 유발하는 광산화 메커니즘과 하이드로퍼옥사이드 생성을 억제하기 위한 차광 및 열원 차단의 과학적 원리를 이해하는 것이 핵심입니다.",
@@ -27,7 +27,7 @@
                 "steps": [
                     {
                         "name": "빛을 차단하는 자외선 차단 차광병(어두운 유리병)에 보관하기 — 광산화 및 하이드로퍼옥사이드 차단 🍾",
-                        "text": "아보카도 오일은 구매할 때부터 어두운 갈색이나 초록색 유리병(Dark Glass Bottle)에 담긴 제품을 선택하고, 투명한 용기라면 차광 용기로 이송하세요. 💡 보관 팁: 어두운 차광병은 자외선과 가시광선을 물리적으로 차단하여 엽록소에 의한 광산화 및 하이드로퍼옥사이드 생성을 막아줍니다."
+                        "text": "아보카도 오일은 구매할 때부터 어두운 갈색이나 초록색 유리병에 담긴 제품을 선택하고, 투명한 용기라면 차광 용기로 이송하세요. 💡 보관 팁: 어두운 차광병은 자외선과 가시광선을 물리적으로 차단하여 엽록소에 의한 광산화 및 하이드로퍼옥사이드 생성을 막아줍니다."
                     },
                     {
                         "name": "가스레인지 등 열원과 떨어진 서늘한 암소(15 - 25℃)에 보관하기 — 상온 암소 보관 (개봉 후 6 - 8개월) 🚪",
@@ -35,7 +35,7 @@
                     },
                     {
                         "name": "사용 후 즉시 마개를 꽉 닫아 산소 접촉 최소화하기 — 밀폐 관리 뚜껑 밀봉 🔒",
-                        "text": "공기 중의 산소 역시 오일의 자가산화(Auto-oxidation)를 유발하는 주요 원인입니다. 💡 보관 팁: 오일을 사용한 직후에는 병 입구를 깨끗이 닦아내고 마개를 빈틈없이 꼭 닫아주세요. 공기 노출을 줄이면 오일의 산화 안정성이 극대화됩니다."
+                        "text": "공기 중의 산소 역시 오일의 자가산화(자가 산화)를 유발하는 주요 원인입니다. 💡 보관 팁: 오일을 사용한 직후에는 병 입구를 깨끗이 닦아내고 마개를 빈틈없이 꼭 닫아주세요. 공기 노출을 줄이면 오일의 산화 안정성이 극대화됩니다."
                     }
                 ],
                 "faqs": [
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Avocado Oil Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods to prevent photo-oxidation, dark glass bottle techniques, and shelf life for avocado oil based on official USDA & FDA safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Avocado oil is a gold-standard healthy fat known for its high smoke point and rich nutritional profile, perfect for sautéing, frying, and salad dressings! 🥑🫒\n\nAvocado oil is exceptionally high in heart-healthy monounsaturated fatty acids, particularly oleic acid. However, unrefined or virgin avocado oil contains residual chlorophyll, which acts as a potent 'photosensitizer' when exposed to light, dramatically accelerating photo-oxidation. Continuous light exposure produces unstable hydroperoxides, causing rancidity and destroying valuable nutrients.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to block photo-oxidation and preserve the freshness of avocado oil. 🛡️",
                 "whyTitle": "Why Store Avocado Oil This Way? Scientific Facts",
                 "whyDesc": "Understanding the chemical photo-oxidation mechanism triggered by residual chlorophyll under UV/light exposure and blocking hydroperoxide formation through dark glass and heat isolation is essential.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "アボカドオイル（Avocado Oil）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づくアボカドオイルの光酸化防止法、遮光瓶保存法および保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "高い発煙点と豊富な栄養で炒め物や揚げ物、ドレッシングまで幅広く活躍する健康オイルの代名詞、アボカドオイル（Avocado Oil）！ 🥑🫒\n\nアボカドオイルは健康に良い一価不飽和脂肪酸である「オレイン酸（Oleic Acid）」が豊富な最高級の植物油です。しかし、未精製（バージン/エキストラバージン）のアボカドオイルに含まれる残留葉緑素（クロロフィル/Chlorophyll）は、光を浴びると「感光剤（Photosensitizer）」として働き、オイルの光酸化（Photo-oxidation）を急激に促進させます。光に露出され続けるとヒドロペルオキシド（Hydroperoxide）が生成され、オイルが酸化して栄養素が破壊されます。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、光酸化を遮断しアボカドオイルの新鮮さを守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "アボカドオイル内の葉緑素が紫外線や光を受けて引き起こす光酸化メカニズムと、ヒドロペルオキシドの生成を抑制するための遮光および熱源遮断の科学的原理を理解することが核心です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持牛油果油/牛油果油（Avocado Oil）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解牛油果油防止光氧化的方法、避光瓶储存法及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "牛油果油（Avocado Oil）拥有极高的烟点和丰富的营养，是煎炒、炸制及沙拉酱汁的健康油脂代表！ 🥑🫒\n\n牛油果油富含有益健康的单不饱和脂肪酸——“油酸（Oleic Acid）”。然而，未精制的初榨牛油果油中残留的叶绿素（Chlorophyll）在光照下会充当“感光剂（Photosensitizer）”，大幅加速油脂的光氧化（Photo-oxidation）反应。持续的光照会产生不稳定的氢过氧化物（Hydroperoxide），导致油脂酸败并破坏营养成分。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，阻断光氧化并锁住牛油果油的新鲜度。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解牛油果油中的叶绿素在紫外线/光照下引发光氧化的化学机制，以及通过避光和隔绝热源抑制氢过氧化物生成的科学原理，是保持品质的关键所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener fresco el aceite de aguacate: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento para prevenir la fotooxidación, el uso de botellas de vidrio oscuro y la vida útil según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¡El aceite de aguacate (avocado oil) es la grasa saludable de referencia por su alto punto de humo y perfil nutricional, ideal para saltear, freír y aderezos! 🥑🫒\n\nEl aceite de aguacate es excepcionalmente rico en ácido oleico, un ácido graso monoinsaturado muy beneficioso. Sin embargo, el aceite no refinado o virgen contiene clorofila residual, la cual actúa como un potente 'fotosensibilizador' bajo la luz, acelerando dramáticamente la fotooxidación (Photo-oxidation). La exposición continua a la luz genera hidroperóxidos inestables que vuelven rancio el aceite y destruyen sus nutrientes.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para bloquear la fotooxidación y preservar la frescura del aceite de aguacate. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender el mecanismo de fotooxidación desencadenado por la clorofila residual bajo la luz UV y evitar la formación de hidroperóxidos mediante botellas oscuras y aislamiento térmico es fundamental.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver l'huile d'avocat fraîche : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales pour éviter la photo-oxydation, l'utilisation de bouteilles en verre foncé et la durée de conservation de l'huile d'avocat selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "L'huile d'avocat (avocado oil) est la référence des matières grasses saines grâce à son point de fumée élevé et sa richesse nutritionnelle, parfaite pour saisir, frire et assaisonner ! 🥑🫒\n\nL'huile d'avocat est exceptionnellement riche en acide oléique, un acide gras mono-insaturé très bénéfique. Cependant, l'huile non raffinée ou vierge contient de la chlorophylle résiduelle qui agit comme un puissant « photosensibilisateur » sous l'effet de la lumière, accélérant la photo-oxydation. Une exposition continue produit des hydroperoxydes instables qui rendent l'huile rance et détruisent ses nutriments.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour bloquer la photo-oxydation et préserver l'huile d'avocat. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre le mécanisme de photo-oxydation déclenché par la chlorophylle résiduelle sous les UV et bloquer la formation d'hydroperoxydes par le verre foncé et l'isolation thermique est essentiel.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Avocadoöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung von Fotooxidation, Dunkelglas-Versiegelung und die Haltbarkeit von Avocadoöl nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Avocadoöl (Avocado Oil) gilt dank seines hohen Rauchpunkts und wertvollen Nährstoffprofils als Goldstandard unter den gesunden Speiseölen – ideal zum Braten, Frittieren und für Salatdressings! 🥑🫒\n\nAvocadoöl ist besonders reich an herzgesunder Ölsäure, einer einfach ungesättigten Fettsäure. Unraffiniertes Avocadoöl enthält jedoch verbleibendes Chlorophyll (Blattgrün), das unter Lichteinfluss als starker „Fotosensibilisator“ wirkt und die Fotooxidation (Photo-oxidation) extrem beschleunigt. Ständige Lichteinwirkung bildet instabile Hydroperoxide, was zu Ranzigkeit führt und Nährstoffe zerstört.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Fotooxidation zu stoppen und die Frische von Avocadoöl zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis des chemischen Fotooxidationsmechanismus durch Restchlorophyll unter UV-/Lichteinfluss und das Blockieren der Hydroperoxidbildung durch Dunkelglas und Hitzeisolierung ist der Schlüssel.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o óleo de abacate fresco: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação para prevenir a foto-oxidação, o uso de garrafas de vidro escuro e a validade do óleo de abacate segundo a USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "O óleo de abacate (avocado oil) é uma gordura saudável de referência devido ao seu alto ponto de fumaça e rico perfil nutricional, perfeito para saltear, fritar e preparar molhos! 🥑🫒\n\nO óleo de abacate é extremamente rico em ácido oleico, um ácido graxo monoinsaturado muito benéfico. No entanto, o óleo não refinado ou virgem contém clorofila residual que atua como um potente 'fotossensibilizador' sob a luz, acelerando drasticamente a foto-oxidação (Photo-oxidation). A exposição contínua à luz gera hidroperóxidos instáveis que tornam o óleo rançoso e destroem seus nutrientes.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para bloquear a foto-oxidação e preservar o óleo de abacate. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender o mecanismo de foto-oxidação desencadeado pela clorofila residual sob a luz UV e bloquear a formação de hidroperóxidos com recipientes escuros e isolamento térmico é fundamental.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Minyak Alpukat (Avocado Oil) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal untuk mencegah foto-oksidasi, penggunaan botol kaca gelap, dan masa simpan minyak alpukat berdasarkan panduan resmi USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Minyak alpukat (Avocado Oil) adalah standar tertinggi lemak sehat yang terkenal dengan titik asapnya yang tinggi dan nutrisi melimpah, sangat cocok untuk menumis, menggoreng, dan salad dressing! 🥑🫒\n\nMinyak alpukat sangat kaya akan asam oleat, jenis asam lemak tak jenuh tunggal yang baik untuk kesehatan. Namun, minyak alpukat murni (unrefined/virgin) mengandung klorofil residual yang bertindak sebagai 'fotosensitizer' kuat saat terpapar cahaya, mempercepat foto-oksidasi (Photo-oxidation) secara drastis. Paparan cahaya terus-menerus menghasilkan hidroperoksida yang merusak nutrisi dan memicu ketengikan.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk memblokir foto-oksidasi dan menjaga kesegaran minyak alpukat. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami mekanisme kimia foto-oksidasi yang dipicu klorofil residual saat terpapar cahaya UV serta memblokir pembentukan hidroperoksida dengan botol kaca gelap dan isolasi suhu panas adalah kuncinya.",

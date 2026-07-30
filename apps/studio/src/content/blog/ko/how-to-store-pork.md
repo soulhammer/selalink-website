@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/pork_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "핏물 제거 후 식용유(올리브유) 바르기 — 수분 보호 및 미생물 차단 📦"
-    text: "키친타올로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다."
+    text: "키친타월로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다."
   - name: "랩으로 밀착 포장 후 밀폐 용기 보관하기 — 냉장 보관 (2 ~ 3일) ❄️"
     text: "공기 중 산소와 접촉하면 유지방이 산화되어 변색(갈변)과 산패가 일어납니다. 💡 보관 팁: 1회분씩 랩으로 빈틈없이 바짝 감싼 뒤 밀폐 용기나 지퍼백에 넣어 냉장고의 가장 차가운 신선실(0 ~ 2℃)에 보관하세요. 2 ~ 3일 이내에 소비하는 것이 가장 좋습니다."
   - name: "소분 후 이중 밀봉하여 급속 냉동하기 — 냉동 보관 (3 ~ 4개월) ❄️"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">핏물 제거 후 식용유(올리브유) 바르기 — 수분 보호 및 미생물 차단 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    키친타올로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다.
+    키친타월로 핏물을 완전히 제거한 뒤 고기 표면에 식용유나 올리브유를 살짝 바르면 공기 접촉을 차단하는 보호막이 형성됩니다. 💡 보관 팁: 유막을 형성하면 산화와 수분 증발을 막아 육즙을 보존하고 미생물 증식을 억제할 수 있습니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">흘러나온 핏물(드립)을 닦지 않고 보관하지 마세요 ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      돼지고기 표면의 핏물(드립)은 세균과 미생물이 가장 좋아하고 빠르게 번식하는 영양 원천입니다. 드립을 방치하면 고기의 누린내가 심해지고 부패가 촉진되므로, 보관 전 반드시 키친타올로 누르듯 닦아내야 합니다.
+      돼지고기 표면의 핏물(드립)은 세균과 미생물이 가장 좋아하고 빠르게 번식하는 영양 원천입니다. 드립을 방치하면 고기의 누린내가 심해지고 부패가 촉진되므로, 보관 전 반드시 키친타월로 누르듯 닦아내야 합니다.
     </p>
   </div>
 </div>

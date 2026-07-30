@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>"
+authority: "美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)"
 steps:
   - name: "未开封产品避光置于阴凉处 — 未开封常温保存 (1年以上) 🏺"
     text: "未开封的枫糖浆经过高温加热灭菌，在常温下非常稳定。💡储存小贴士：置于避光、干燥阴凉的橱柜或储藏室（10 ~ 20℃）中，在标注的保质期内均可保持原本的风味与品质。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>。
+      本内容基于 美国农务部(USDA) & 加拿大食品检验局(CFIA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)。
     </p>
   </div>
 </div>

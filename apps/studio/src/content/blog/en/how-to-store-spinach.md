@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Wrap dry, unwashed spinach in newspaper or paper towels — Moisture Control 📦"
     text: "Spinach leaves decay rapidly upon direct contact with free water. 💡 Storage Tip: Keep the soil intact and wrap the dry spinach loosely in paper towels or newspaper. The paper acts as a moisture buffer, absorbing condensation and keeping the leaves dry."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & EFSA & FSA</strong>.
+      This content is based on RDA & EFSA & FSA.
     </p>
   </div>
 </div>

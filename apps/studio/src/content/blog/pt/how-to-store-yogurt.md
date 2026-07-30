@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Servir com colher limpa e seca e vedar bem — Prevenção de contaminação 📦"
     text: "Evite comer direto no pote grande. Retire a quantidade desejada com uma colher limpa e seca. 💡 Dica de conservação: Limpe o excesso na borda com papel-toalha e feche bem a tampa para evitar a entrada de esporos de mofo."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

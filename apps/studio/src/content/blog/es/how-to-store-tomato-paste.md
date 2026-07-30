@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_paste_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Pase a un frasco de vidrio y cubra con aceite de oliva — Barrera de oxígeno y oxidación 📦"
     text: "Minimizar el contacto con el aire es clave. 💡 Consejo de almacenamiento: Pase la pasta sobrante a un frasco de vidrio limpio, aplane la superficie y vierta una fina capa de aceite de oliva virgen extra. El aceite actúa como un sello natural contra el moho y el aire."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía en 3 pasos respaldada por expertos para cons
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "고추 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 고추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "찌개나 볶음 요리에 매콤한 감칠맛을 더해주는 고추를 사 왔다가 며칠 만에 꼭지 부위부터 무르고 곰팡이가 피어 버린 경험 있으시죠? 🌶️\n\n고추는 수분이 85 ~ 90%를 차지하는 채소로, 습기에 취약하고 7℃ 이하의 너무 낮은 온도에서는 세포 조직이 무르는 '냉해(Chilling Injury)'를 입기 쉽습니다. 특히 꼭지 부분에 물기가 고이면 곰팡이 포자가 빠르게 증식하여 고추 전체가 무르고 부패하게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 고추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "보관하기 전에 물로 씻지 마세요 💧",
-                        "desc": "고추 꼭지와 표면에 수분이 남아있으면 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 보관 전에는 물을 묻히지 말고 마른 키친타올로 흙이나 먼지만 가볍게 닦아내야 하며, 씻는 것은 조리 직전에 하셔야 합니다."
+                        "desc": "고추 꼭지와 표면에 수분이 남아있으면 곰팡이와 세균이 번식하기 매우 좋은 환경이 됩니다. 보관 전에는 물을 묻히지 말고 마른 키친타월로 흙이나 먼지만 가볍게 닦아내야 하며, 씻는 것은 조리 직전에 하셔야 합니다."
                     },
                     {
                         "title": "통째로 보관할 때 꼭지를 떼어내지 마세요 ⚠️",
@@ -26,12 +26,12 @@
                 ],
                 "steps": [
                     {
-                        "name": "물기 제거 후 꼭지 살려 키친타올로 감싸기 — 습기 및 수분 조절 📦",
-                        "text": "고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타올로 5 ~ 10개씩 감싸주세요."
+                        "name": "물기 제거 후 꼭지 살려 키친타월로 감싸기 — 습기 및 수분 조절 📦",
+                        "text": "고추 표면의 습기는 흡수하고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 고추의 물기를 마른 천으로 닦은 후, 꼭지가 손상되지 않도록 키친타월로 5 ~ 10개씩 감싸주세요."
                     },
                     {
                         "name": "지퍼백에 담아 야채칸(7 ~ 10℃) 보관하기 — 냉장 보관 (1 ~ 2주) ❄️",
-                        "text": "키친타올로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다."
+                        "text": "키친타월로 감싼 고추를 지퍼백에 넣고 공기를 살짝 뺀 뒤 밀봉해 주세요. 💡 보관 팁: 5℃ 이하의 너무 차가운 곳 대신 냉장고 야채칸(7 ~ 10℃)에 꼭지가 위를 향하도록 세워 보관하면 1 ~ 2주간 아삭함을 유지할 수 있습니다."
                     },
                     {
                         "name": "송송 썰거나 다져서 지퍼백에 냉동 보관하기 — 냉동 보관 (3 ~ 6개월) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Chili Peppers Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for chili peppers based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever bought fresh chili peppers for spicy cooking, only to find their stems turning soft and covered in mold after just a few days? 🌶️\n\nChili peppers consist of 85–90% water, making them vulnerable to humidity and prone to 'chilling injury' if stored below 7°C. When moisture collects around the stems, mold spores multiply rapidly, causing soft rot throughout the pepper.\n\nIn this guide, introduces a scientifically proven 3-step chili pepper storage guide recommended by agriculture and food safety experts to maximize crispness and spiciness. 🛡️",
                 "whyTitle": "Why Store Chili Peppers This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "トウガラシ（唐辛子）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく唐辛子の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "料理にピリッとした辛みを加える唐辛子を買っておいたら、数日でヘタの周りから柔らかくなってカビが生えてしまった経験はありませんか？🌶️\n\n唐辛子は水分量が85〜90%と高く湿気に弱い上、7℃ shelter以下の低温では「低温障害（Chilling Injury）」を起こして細胞が傷みやすい繊細な野菜です。特にヘタに水気が残るとカビの胞子が急増し、全体が腐敗してしまいます。\n\n本記事では、専門家が推奨する唐辛子の鮮度と辛みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持辣椒新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解辣椒的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾买回新鲜辣椒做菜，结果没过几天蒂头就开始发软发霉？🌶️\n\n辣椒的水分含量高达85 ~ 90%，对湿度非常敏感，且在7℃以下的低温环境中极易遭遇“冷害（Chilling Injury）”，导致细胞结构受损。尤其是蒂头部位积聚水汽时，霉菌孢子会迅速滋生，引发整颗辣椒发软腐烂。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步辣椒保鲜秘诀，帮您最大程度锁定爽脆与香辣。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los chiles frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los chiles según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez compró chiles frescos para cocinar y descubrió que en unos pocos días el tallo se ponía blando y se cubría de moho? 🌶️\n\nLos chiles contienen entre un 85 y un 90 % de agua, lo que los hace muy sensibles a la humedad excesiva y propensos a sufrir 'daño por frío' (chilling injury) por debajo de 7 °C. Cuando el agua se acumula alrededor del tallo, los hongos se multiplican rápidamente, provocando pudrición blanda.\n\nEn esta guía se presenta una guía de conservación de chiles en 3 pasos respaldada por expertos para mantener su frescura y picor al máximo. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les piments frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les piments selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà acheté des piments frais pour cuisiner et constaté après quelques jours que leur tige ramollissait et se couvrait de moisissure ? 🌶️\n\nLe piment est composé à 85–90 % d'eau, ce qui le rend très vulnérable à l'humidité et sujet aux 'blessures de froid' (Chilling Injury) sous 7 °C. Lorsque l'eau stagne autour du pédoncule, les moisissures prolifèrent rapidement, entraînant la pourriture molle.\n\nDans ce guide, vous présente un guide scientifique de conservation des piments en 3 étapes recommandé par des experts pour préserver leur piquant et leur fraîcheur. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Chilis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Chilis basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie frische Chilis gekauft, nur um nach wenigen Tagen festzustellen, dass der Stiel weich wurde und sich Schimmel bildete? 🌶️\n\nChilis bestehen zu 85–90 % aus Wasser und reagieren extrem empfindlich auf Feuchtigkeit sowie Kälte unter 7 °C ('Chilling Injury'). Staunässe am Stielansatz führt zu rascher Schimmelbildung und Weichfäule.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Schärfe und Knackigkeit Ihrer Chilis zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar pimentas (chilis) frescas: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para as pimentas com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já comprou pimentas frescas para cozinhar e em poucos dias percebeu que o cabinho ficou mole e coberto de mofo? 🌶️\n\nAs pimentas contêm de 85 a 90% de água, tornando-se muito sensíveis à umidade e sujeitas a 'danos por frio' (chilling injury) abaixo de 7 °C. Quando a água acumula ao redor do cabinho, os fungos se multiplicam rapidamente, causando podridão mole.\n\nNeste guia, apresentamos um guia prático de conservação de pimentas em 3 etapas recomendado por especialistas para manter a ardência e o frescor. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Cabai agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cabai berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membeli cabai segar untuk masakan pedas lalu mendapati tangkainya menjadi lembek dan berjamur hanya dalam beberapa hari? 🌶️\n\nCabai terdiri dari 85–90% air, menjadikannya rentan terhadap kelembapan dan mudah mengalami 'chilling injury' (kerusakan akibat dingin) jika disimpan di bawah suhu 7°C. Saat air terperangkap di sekitar tangkai, spora jamur berkembang biak dengan cepat dan menyebabkan pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan cabai 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa pedasnya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

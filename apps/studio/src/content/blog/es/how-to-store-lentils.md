@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener $A_w < 0,65$ y control de plagas 🫙"
+  - name: "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener actividad de agua (Aw) < 0,65 y control de plagas 🫙"
     text: "Trasvase inmediatamente las lentejas secas a frascos de vidrio o recipientes herméticos de PET/PP con un desecante de sílice para alimentos. 💡 Consejo de almacenamiento: Controlar la humedad por debajo del 10–12% mantiene la actividad de agua en $< 0,65$, frenando toxinas y plagas."
   - name: "Conserve en un lugar fresco y oscuro (15–20 °C) sin luz solar — Almacenamiento en despensa seca (1–2 años) 🚪"
     text: "Guarde los recipientes en un armario de cocina fresco o despensa oscura. 💡 Consejo de almacenamiento: En un ambiente fresco y seco a 15–20 °C, las lentejas conservan sus nutrientes y color sin degradación durante 1 a 2 años."
@@ -25,7 +25,7 @@ faqs:
 
 ¡Las lentejas (lentils) son un superalimento reconocido mundialmente por su alto contenido de proteína vegetal, fibra y hierro! 🫘
 
-Las lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua ($A_w$) por debajo de 0,65 es esencial para frenar microorganismos y plagas.
+Las lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 es esencial para frenar microorganismos y plagas.
 
 En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus lentejas seguras, frescas y libres de toxinas. 🛡️
 
@@ -38,7 +38,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener $A_w < 0,65$ y control de plagas 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener actividad de agua (Aw) < 0,65 y control de plagas 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Trasvase inmediatamente las lentejas secas a frascos de vidrio o recipientes herméticos de PET/PP con un desecante de sílice para alimentos. 💡 Consejo de almacenamiento: Controlar la humedad por debajo del 10–12% mantiene la actividad de agua en $< 0,65$, frenando toxinas y plagas.

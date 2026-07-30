@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kale_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envolva a base dos talos com papel-toalha úmido — Retenção de umidade 🧻"
     text: "A transpiração causa perda de água, reduzindo a pressão de turgor e murchando as folhas. 💡 Dica de conservação: Envolva a base cortada dos talos com papel-toalha úmido para fornecer hidratação constante."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia científico de conservação de kale em 3 etapa
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Nach Möglichkeit als ganze Pfefferkörner dicht verschlossen lagern — Aromaschutz 📦"
     text: "Sobald Pfeffer gemahlen wird, oxidieren die ätherischen Öle an der Luft extrem schnell. 💡 Lagerungstipp: Kaufen Sie ganze Pfefferkörner statt Fertigmahlgut und mahlen Sie diese erst direkt vor der Zubereitung frisch mit einer Mühle."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS.
     </p>
   </div>
 </div>

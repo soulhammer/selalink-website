@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/curry_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Simpan dalam wadah buram kedap udara — Hentikan Fotodegradasi dan Penguapan Aroma 🫙"
     text: "Mencegah fotodegradasi kurkumin dan penguapan minyak terpene adalah langkah paling utama. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan transparan ke kaleng logam, toples buram, atau kantong Ziploc kedap cahaya."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan bubuk kari 3 langkah berb
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & EFSA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

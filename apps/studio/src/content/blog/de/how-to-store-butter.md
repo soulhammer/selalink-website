@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Original-Alufolie behalten — Licht & Sauerstoff blockieren 📦"
     text: "Die Original-Alufolie der Butter schützt hervorragend vor UV-Licht und Sauerstoff und bewahrt das Fett vor Oxidation. 💡 Lagerungstipp: Wenn Sie die Alufolie entfernen und Butter in transparente Plastikdosen legen, beschleunigen Licht und Luft das Ranzigwerden drastisch. Belassen Sie die Butter in der Alufolie."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "装入意面专用密封容器 — 彻底阻绝湿气与害虫 📦"
     text: "保存干意面的核心在于彻底隔绝空气与湿气。💡储存小贴士：请将干意面竖直放入高款玻璃瓶或不含BPA的密封塑料盒中。这能有效阻隔外部湿气，并从根本上杜绝害虫侵入。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

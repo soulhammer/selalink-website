@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "キムチが汁に完全に浸かるよう押し蓋（またはポリ袋）で空気を遮断する — 嫌気状態の維持 📦"
     text: "キムチの発酵を担う乳酸菌（Leuconostoc, Lactobacillus）は酸素のない環境でよく育つ嫌気性菌であり、白い膜を作る酵母は酸素を必要とします。💡保存のコツ：容器にキムチを80%ほど詰め、押し蓋や衛生ポリ袋、外葉などで上部をしっかり押さえて汁の中に完全に沈めてください。空気との接触を徹底的に防ぐことで酸化と産膜酵母の発生を根本から遮断できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

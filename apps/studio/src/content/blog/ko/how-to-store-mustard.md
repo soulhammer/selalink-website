@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "개봉 전 직사광선 차단 및 서늘한 상온 보관하기 — 개봉 전 상온 보관 (15 ~ 25℃) 📦"
     text: "미개봉 머스타드는 식초와 소금의 천연 보존 작용으로 상온에서 안전하게 보존됩니다. 💡 보관 팁: 직사광선과 가열 기구 주변을 피해 서늘하고 어두운 찬장에 보관해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

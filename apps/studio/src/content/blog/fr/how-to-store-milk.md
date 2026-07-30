@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Conserver sur les étagères intérieures plutôt que dans la porte — Réfrigération (7 jours) ❄️"
     text: "La porte du réfrigérateur subit de fortes variations de température à chaque ouverture. 💡 Astuce de conservation : Pour préserver la fraîcheur du lait, rangez-le au fond d'une étagère intérieure où la température reste stable entre 0 et 4 °C."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA & FDA</strong>.
+      Ce contenu est basé sur MFDS & USDA & FDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/flour_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "In ein luftdichtes Gefäß oder Glas umfüllen — Vollständiger Schutz vor Feuchtigkeit und Schädlingen 📦"
     text: "Der Schlüssel zur Mehlaufbewahrung ist der absolute Ausschluss von Luft, Feuchtigkeit und Schädlingen. 💡 Lagerungstipp: Füllen Sie geöffnetes Mehl in ein Schraubglas oder eine luftdichte Kunststoffdose mit Gummidichtung um und verschließen Sie den Deckel fest."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

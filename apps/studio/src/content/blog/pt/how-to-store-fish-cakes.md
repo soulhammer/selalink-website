@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Escaldar rapidamente em água fervente para remover o óleo oxidado — Branqueamento desengordurante 🫖"
     text: "O óleo da superfície oxida rápido no ar e acelera a deterioração. 💡 Dica de conservação: Escalde em água fervente por 10 a 20 segundos ou despeje água fervendo por cima. Isso remove gordura oxidada, impurezas e germes superficiais."
@@ -36,7 +36,7 @@ Com alto teor de água e proteína, os bolinhos de peixe têm a superfície cobe
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA & FDA</strong>.
+      Este conteúdo baseia-se em MFDS & USDA & FDA.
     </p>
   </div>
 </div>

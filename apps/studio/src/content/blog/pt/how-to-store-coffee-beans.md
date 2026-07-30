@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & USDA</strong>"
+authority: "SCA & USDA"
 steps:
   - name: "Use um recipiente opaco e hermético com válvula desgasificadora — Bloqueie oxigênio e libere CO2 📦"
     text: "Grãos recém-torrados liberam gás; portanto, a embalagem precisa de uma válvula unidirecional que permita a saída do dióxido de carbono sem entrada de oxigênio. 💡 Dica de conservação: Mantenha na embalagem original de fábrica com válvula ou em potes opacos a vácuo."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas recomendado pela S
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>SCA & USDA</strong>.
+      Este conteúdo baseia-se em SCA & USDA.
     </p>
   </div>
 </div>

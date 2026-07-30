@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sugar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "In einen luftdichten Behälter umfüllen — Schutz vor Feuchtigkeit & Gerüchen 📦"
     text: "In der geöffneten Papier- oder Plastikverpackung dringen Luftfeuchtigkeit und Küchengerüche leicht ein. 💡 Lagerungstipp: Füllen Sie den Zucker in ein luftdicht verschließbares Glas oder eine Vorratsdose aus Kunststoff um, um Feuchtigkeit auszusperren."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS.
     </p>
   </div>
 </div>

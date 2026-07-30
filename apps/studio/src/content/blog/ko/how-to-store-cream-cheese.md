@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 후 밀착 랩핑하기 — 공기 차단 & 곰팡이 방지 📦"
     text: "크림치즈 표면이 공기와 산소에 노출되면 수분이 마르고 곰팡이가 빠르게 피어납니다. 💡 보관 팁: 사용 후 단면에 식품용 랩을 공기 방울이 생기지 않도록 빈틈없이 밀착시켜 감싸주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & 米国農務省(USDA)</strong>"
+authority: "SCA & 米国農務省(USDA)"
 steps:
   - name: "アロマバルブ付き不透明密閉容器を使用する — 酸素遮断とガス排出 📦"
     text: "焙煎したての豆はガスを放出するため、外部酸素を遮断しつつ内部ガスを逃がす「逆止弁（ワンウェイバルブ）」付きパッケージが不可欠です。💡保存のコツ：バルブ付きの元袋のままチャックを閉めるか、光を通さない専用の真空密閉キャニスターに移して保存してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>SCA & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、SCA & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Faire mûrir la papaye verte à température ambiante (18 à 25 °C) — Maturation 🥭"
     text: "Placez la papaye verte dans un endroit frais et aéré, à l'abri de la lumière directe (18 à 25 °C). 💡 Astuce de conservation : La papaye est mûre lorsque la peau est jaune à 70–80%. Pour accélérer le mûrissement, placez-la dans un sachet en papier avec une pomme ou une banane."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & RDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & RDA & MFDS.
     </p>
   </div>
 </div>

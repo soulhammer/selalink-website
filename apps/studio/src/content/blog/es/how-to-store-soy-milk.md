@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Almacene los envases cerrados en un lugar fresco (15–25 °C) — Conservación sin abrir (Hasta caducidad) 📦"
     text: "Los envases UHT asépticos cerrados pueden guardarse a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde en un lugar fresco lejos de la luz solar directa. Mantener la temperatura por debajo de 25 °C preserva la estabilidad de la emulsión."
@@ -38,7 +38,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)</strong>"
+authority: "国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)"
 steps:
   - name: "乾燥剤（シリカゲル）と共に密閉容器に入れる — 湿気遮断 📦"
     text: "開封した海苔をそのまま常温に放置すると、わずか数時間で湿気を吸ってパリパリ感が失われます。💡保存のコツ：残った海苔はチャック付き密閉袋や密閉容器に移し、乾燥剤（シリカゲル）やキッチンペーパーを一緒に入れて湿気の侵入をブロックしましょう。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)</strong>に基づいています。
+      本コンテンツは、国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)に基づいています。
     </p>
   </div>
 </div>

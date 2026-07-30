@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Éviscérer et nettoyer le sang — Stopper l'autolyse et les odeurs 🔪"
     text: "Retirez les ouïes et les entrailles, puis rincez le sang et la membrane noire le long de la colonne vertébrale sous l'eau courante. 💡 Astuce de conservation : Les viscères s'altèrent en premier. Sécher l'intérieur et l'extérieur avec de l'essuie-tout est la première étape essentielle contre les bactéries."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation du maquereau
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>NIFS & RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

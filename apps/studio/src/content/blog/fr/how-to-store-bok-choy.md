@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bok_choy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper le bok choy non lavé dans du papier absorbant — Contrôle de l'Humidité 📦"
     text: "Épongez l'humidité superficielle et enveloppez le bok choy non lavé dans du papier absorbant. 💡 Astuce de conservation : Le papier absorbe l'excès d'eau pour éviter la pourriture tout en retenant l'humidité nécessaire à la turgescence."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour �
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

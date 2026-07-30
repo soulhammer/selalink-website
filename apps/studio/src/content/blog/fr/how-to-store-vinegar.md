@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS</strong>"
+authority: "FDA & MFDS"
 steps:
   - name: "Éloigner de la lumière directe et de la chaleur — Placard frais et sombre (15–25 °C) 📦"
     text: "L'exposition à la chaleur et à la lumière accélère l'oxydation. 💡 Astuce de conservation : Rangez le vinaigre dans un placard sombre et frais (15–25 °C), à l'écart des fenêtres et des sources de chaleur."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & MFDS.
     </p>
   </div>
 </div>

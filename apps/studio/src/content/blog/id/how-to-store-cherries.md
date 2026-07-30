@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cherry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Pisahkan ceri yang rusak dan biarkan tangkainya — Sortir & Perlindungan Tangkai 📦"
     text: "Ceri yang memar dapat dengan cepat membusukkan ceri lain di sekitarnya. 💡 Tips Penyimpanan: Pisahkan ceri yang cacat untuk segera dikonsumsi, lalu simpan ceri yang padat dan kering bersama tangkainya."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

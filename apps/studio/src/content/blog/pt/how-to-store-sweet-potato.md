@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Espalhar sobre jornal logo após a compra para secar — Remoção de umidade 📦"
     text: "A umidade na superfície é a principal causa de mofo e podridão. 💡 Dica de conservação: Retire as batatas da caixa e espalhe-as sobre jornal em local fresco e arejado por um dia sem sobrepô-las para secar a umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático de conservação de batata-doce em 3 e
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oats_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transfer to airtight glass jars or BPA-free containers — Complete Air, Moisture & Pest Barrier 📦"
     text: "The key to preserving oats is completely blocking oxygen, moisture, and pests. 💡 Storage Tip: Pour opened oats or oatmeal into a glass jar with a rubber seal or an airtight plastic container and lock the lid tightly."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

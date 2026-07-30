@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "건면은 밀폐 용기나 페트병에 밀봉하여 서늘한 곳에 보관하기 — 건면 습기·벌레 차단 (1 ~ 2년) 📦"
     text: "건면을 비닐 포장째 찬장에 두면 권련벌레나 화랑곡나방 애벌레가 포장 비닐을 뚫고 들어가 알을 낳습니다. 💡 보관 팁: 건면 포장을 푼 뒤 실리카겔(건조제)과 함께 긴 밀폐 용기, 입구가 넓은 페트병, 또는 지퍼백에 담아 완전 밀봉하세요. 직사광선을 피한 서늘한 상온(15 ~ 20℃ 이하)에 두면 1 ~ 2년 이상 벌레와 습기 없이 아삭함을 유지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "务必保存在0 ~ 4℃的冷藏室中 — 冷藏保存 (30 ~ 60天) ❄️"
     text: "与芝麻油不同，紫苏油几乎不含具有天然防腐作用的芝麻酚，且含有大量极易反应的Omega-3脂肪酸，放在常温下数天内就会开始酸败。💡储存小贴士：买回后请立即放入0 ~ 4℃的冰箱冷藏室或保鲜抽屉中，可将油脂氧化速度延缓数十倍。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

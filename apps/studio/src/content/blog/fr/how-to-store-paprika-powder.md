@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Conserver en boîte métallique ou pot en verre ambré — Anti-Photo-Oxydation 📦"
     text: "Éviter la dégradation de la capsanthine par la lumière est essentiel. 💡 Astuce de conservation : Gardez le paprika dans une boîte métallique étanche ou un pot en verre ambré. Les contenants transparents laissent la lumière décolorer l'épice et altérer son goût."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour �
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & FDA & MFDS.
     </p>
   </div>
 </div>

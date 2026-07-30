@@ -1,17 +1,17 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "キヌアを新鮮に保つ保存方法：科学的保管ガイド"
-description: "公的安全基準に基づくキヌアの最適な保存温度、脂質酸化（変敗）防止、水分活性（$A_w$）制御ガイドをご確認ください。"
+description: "公的安全基準に基づくキヌアの最適な保存温度、脂質酸化（変敗）防止、水分活性（水分活性 (Aw)）制御ガイドをご確認ください。"
 pubDate: "2026-04-29"
 updatedDate: "2026-04-29"
 category: "FreshSnap"
 heroImage: "/images/blog/quinoa_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 国連食糧農業機関(FAO) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 国連食糧農業機関(FAO) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "水分活性（$A_w < 0.65$）制御のために密閉遮光保存する — 密閉遮光保存 (1〜2年間) 📦"
-    text: "加熱していない乾燥キヌアは、空気と光との接触を減らすことが最優先です。💡保存のコツ：不透明な遮光ガラス瓶や密閉容器にキヌアを入れ、シリカゲル（乾燥剤）を入れて密封します。水分活性（$A_w$）を0.65未満に維持すると自動酸化が大幅に遅れ、涼しい暗所（15〜20℃以下）で1〜2年間栄養を保てます。"
+  - name: "水分活性（水分活性 (Aw) < 0.65）制御のために密閉遮光保存する — 密閉遮光保存 (1〜2年間) 📦"
+    text: "加熱していない乾燥キヌアは、空気と光との接触を減らすことが最優先です。💡保存のコツ：不透明な遮光ガラス瓶や密閉容器にキヌアを入れ、シリカゲル（乾燥剤）を入れて密封します。水分活性（水分活性 (Aw)）を0.65未満に維持すると自動酸化が大幅に遅れ、涼しい暗所（15〜20℃以下）で1〜2年間栄養を保てます。"
   - name: "冷蔵・冷凍保存で脂質酸化を完全に抑制する — 長期冷蔵/冷凍保存 (2年以上) ❄️"
     text: "高温多湿な季節や、大量のキヌアを長期保存したい場合は低温保存が確実です。💡保存のコツ：密閉容器やジッパー袋で二重密閉し、冷蔵室（0〜4℃）または冷凍室（-18℃以下）で保管します。極低温では脂質酸化反応と酵素活性が抑制され、2年以上香ばしさを維持できます。"
   - name: "加熱調理後のキヌアは密閉容器で冷蔵/冷凍保存する — 加熱後保存 (冷蔵5〜7日 / 冷凍8〜12ヶ月) 🧊"
@@ -25,7 +25,7 @@ faqs:
 
 南米アンデス山脈原産のスーパーフードで、タンパク質やミネラルが豊富で世界中で愛される代替穀物の代名詞キヌア！ですが、大量に購入して保存しているうちに酸化臭（油臭さ）がしたり、湿気ってしまった経験はありませんか？🌾
 
-キヌアは一般的な穀類に比べて不飽和脂肪酸の含有量（約6%）が高く、空気中の酸素と接触すると脂質ヒドロペルオキシド（Lipid hydroperoxide）が形成され、脂肪酸の自動酸化（Auto-oxidation）反応が急速に進みます。この過程で酸敗臭が発生し栄養素が破壊されます。また、表面の天然サポニン（Saponin）保護層が除去され、水分活性（$A_w$）が0.65以上に上がるとカビや害虫が発生しやすい環境になります。
+キヌアは一般的な穀類に比べて不飽和脂肪酸の含有量（約6%）が高く、空気中の酸素と接触すると脂質ヒドロペルオキシド（Lipid hydroperoxide）が形成され、脂肪酸の自動酸化（Auto-oxidation）反応が急速に進みます。この過程で酸敗臭が発生し栄養素が破壊されます。また、表面の天然サポニン（Saponin）保護層が除去され、水分活性（水分活性 (Aw)）が0.65以上に上がるとカビや害虫が発生しやすい環境になります。
 
 本記事では、国際機関の公認ガイドラインに基づき、キヌアの酸化を防ぎ2年以上栄養と風味を保つ3段階の科学的保存法をご紹介します。🛡️
 
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 国連食糧農業機関(FAO) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 国連食糧農業機関(FAO) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ステップ 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">水分活性（$A_w < 0.65$）制御のために密閉遮光保存する — 密閉遮光保存 (1〜2年間) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">水分活性（水分活性 (Aw) < 0.65）制御のために密閉遮光保存する — 密閉遮光保存 (1〜2年間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    加熱していない乾燥キヌアは、空気と光との接触を減らすことが最優先です。💡保存のコツ：不透明な遮光ガラス瓶や密閉容器にキヌアを入れ、シリカゲル（乾燥剤）を入れて密封します。水分活性（$A_w$）を0.65未満に維持すると自動酸化が大幅に遅れ、涼しい暗所（15〜20℃以下）で1〜2年間栄養を保てます。
+    加熱していない乾燥キヌアは、空気と光との接触を減らすことが最優先です。💡保存のコツ：不透明な遮光ガラス瓶や密閉容器にキヌアを入れ、シリカゲル（乾燥剤）を入れて密封します。水分活性（水分活性 (Aw)）を0.65未満に維持すると自動酸化が大幅に遅れ、涼しい暗所（15〜20℃以下）で1〜2年間栄養を保てます。
   </p>
 </div>
 

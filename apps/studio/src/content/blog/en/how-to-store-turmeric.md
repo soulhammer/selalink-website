@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Store in amber or dark glass jars — Block Photo-Oxidation 📦"
     text: "Keep turmeric powder or dried turmeric in amber, dark purple glass jars, or opaque airtight containers that block UV and visible light. 💡 Storage Tip: Using clear plastic or glass containers allows ambient light to break down curcumin, making light-blocking containers essential."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step turmeric storage guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & FDA & MFDS</strong>.
+      This content is based on RDA & FDA & MFDS.
     </p>
   </div>
 </div>

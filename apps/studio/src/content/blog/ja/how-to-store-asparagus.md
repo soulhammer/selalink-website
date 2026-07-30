@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター"
 steps:
   - name: "根元をカットして水を張った容器に立てて入れる — 水挿し保存 🥛"
     text: "アスパラガスは根元から水分を補給することでみずみずしさを保ちます。💡保存のコツ：根元を0.5〜1cm切り落とし、水を1〜2cm張った瓶や縦長の容器に立てて入れましょう。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンターに基づいています。
     </p>
   </div>
 </div>

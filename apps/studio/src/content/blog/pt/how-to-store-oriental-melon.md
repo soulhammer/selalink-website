@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oriental_melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envolver os melões secos individualmente em filme plástico — Barreira de umidade 📦"
     text: "O segredo para manter a textura crocante. 💡 Dica de conservação: Sem lavar, envolva cada melão firmemente em filme plástico sem deixar frestas. Isso impede a evaporação de água e evita que a casca murche."
@@ -38,7 +38,7 @@ Os melões orientais contêm mais de 90% de água e alto teor de açúcar. A cav
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

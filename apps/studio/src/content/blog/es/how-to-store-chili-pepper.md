@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Seque la superficie y envuelva en papel de cocina con el tallo — Control de humedad 📦"
     text: "Gestionar la humedad es la clave para evitar que se pudran. 💡 Consejo de almacenamiento: Sin lavar, limpie la humedad con papel seco y envuelva grupos de 5 a 10 chiles con su tallo intacto."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de chiles en 3 pasos respal
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

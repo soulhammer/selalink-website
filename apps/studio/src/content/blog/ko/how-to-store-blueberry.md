@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "먹기 직전까지 세척 금지 — 천연 보호막(블룸) 보존 🫐"
     text: "블루베리 표면을 덮고 있는 하얀 가루는 과실 스스로 만들어낸 천연 왁스층인 '블룸(Bloom)'입니다. 수분 소실을 막아주고 외부 병해충이나 곰팡이균의 침입을 방지하는 핵심 보호막입니다. 💡 보관 팁: 보관 전에 물로 씻으면 블룸이 사라지고 물기가 과육 삼투압에 영향을 주어 급격히 무르게 됩니다. 물을 묻히지 않은 상태 그대로 보관하는 것이 신선도 유자의 첫걸음입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

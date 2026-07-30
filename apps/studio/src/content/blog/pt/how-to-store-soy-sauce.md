@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & Associação Japonesa de Molho de Soja (JSA) & USDA</strong>"
+authority: "MFDS & Associação Japonesa de Molho de Soja (JSA) & USDA"
 steps:
   - name: "Refrigere (0–5 °C) imediatamente após abrir — Refrigeração (180–360 dias) ❄️"
     text: "Antes de abrir pode ficar no armário, mas abri-lo acelera a oxidação. 💡 Dica de conservação: Mantenha o shoyu aberto na geladeira (0–5 °C). O frio desacelera a oxidação, preservando o aroma e o umami de 6 meses a mais de 1 ano."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em recomen
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & Associação Japonesa de Molho de Soja (JSA) & USDA</strong>.
+      Este conteúdo baseia-se em MFDS & Associação Japonesa de Molho de Soja (JSA) & USDA.
     </p>
   </div>
 </div>

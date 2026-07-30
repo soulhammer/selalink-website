@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/octopus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀가루와 소금으로 점액 및 빨판 불순물 세척하기 — 위생 손질 🐙"
     text: "문어 표면의 진액과 빨판 속 뻘을 제거하지 않으면 수분 손실과 부패가 빠르게 일어납니다. 💡 보관 팁: 내장과 눈, 입을 제거한 뒤 밀가루나 굵은소금으로 치대어 점액과 이물질을 말끔히 씻어내고 물기를 완전히 제거해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

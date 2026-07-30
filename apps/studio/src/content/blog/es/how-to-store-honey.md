@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/honey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Guarde en frascos de vidrio herméticos — Bloquee la humedad y olores 📦"
     text: "La clave para conservar la miel es bloquear el aire y la humedad. 💡 Consejo de almacenamiento: Guarde la miel en frascos de vidrio o recipientes plásticos herméticos libres de BPA. El vidrio es la opción ideal."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

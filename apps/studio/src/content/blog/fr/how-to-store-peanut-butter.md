@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver le beurre de cacahuète naturel tête en bas — Prévenir la séparation de l'huile 🔄"
     text: "Le beurre de cacahuète 100 % naturel sans émulsifiants se sépare en une couche d'huile et une pâte solide pendant le stockage. 💡 Astuce de conservation : Fermez bien le couvercle et stockez le pot à l'envers. L'huile naturelle remontera doucement à travers la pâte, se réintégrant d'elle-même sans effort."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bok_choy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap unwashed bok choy in paper towels — Moisture Control 📦"
     text: "Wipe away surface moisture and wrap the unwashed bok choy in paper towels. 💡 Storage Tip: Paper towels absorb exuded moisture to prevent bacterial decay while retaining enough humidity to maintain turgor pressure and prevent wilting."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step bok choy storage guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

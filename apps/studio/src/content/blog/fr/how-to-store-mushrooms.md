@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Ne lavez jamais à l'eau avant le stockage — Éviter l'absorption d'eau ❌💧"
     text: "Les champignons ont une structure poreuse qui absorbe l'eau instantanément. 💡 Astuce de conservation : Laver les champignons avant stockage détruit leur texture ferme et leur saveur umami tout en accélérant les moisissures. Essuyez la terre avec un chiffon sec ou une brosse douce juste avant la cuisson."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur RDA & MFDS & USDA.
     </p>
   </div>
 </div>

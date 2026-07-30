@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Never store in the refrigerator compartment — Prevent Rapid Starch Retrogradation ❌🍞"
     text: "At refrigerator temperatures (1–6°C), starch molecules in bread expel moisture and realign into a rigid crystalline structure, causing staling to peak. 💡 Storage Tip: Bread dried out in the fridge cannot regain its soft texture even after heating. For a moist texture, choose room temperature or immediate freezing instead of the fridge."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FSA & MFDS</strong>.
+      This content is based on USDA & FSA & MFDS.
     </p>
   </div>
 </div>

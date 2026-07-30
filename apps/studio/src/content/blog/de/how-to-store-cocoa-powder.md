@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "In lichtundurchlässige, luftdichte Behälter umfüllen — Vollständiger Verschluss 🫙"
     text: "Die größten Feinde von Kakaopulver sind Luftfeuchtigkeit und Licht. 💡 Lagerungstipp: Füllen Sie das Pulver nach dem Öffnen aus der Verpackung in eine dunkel getönte Glasdüse, eine Edelstahldose oder einen lichtgeschützten Ziploc-Beutel um und verschließen Sie ihn fest."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen von internationalen Lebensmittelsicherheit
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & EFSA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

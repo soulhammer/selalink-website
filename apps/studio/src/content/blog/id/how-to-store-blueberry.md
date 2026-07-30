@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Jangan dicuci hingga tepat sebelum dikonsumsi — Jaga Lapisan Bloom Alami 🫐"
     text: "Serbuk putih yang melapisi blueberry adalah 'Bloom', yaitu lapisan lilin alami yang dihasilkan oleh buah itu sendiri. Lapisan ini berfungsi sebagai perisai penting yang mencegah dehidrasi dan infeksi jamur. 💡 Tips Penyimpanan: Mencuci buah sebelum disimpan akan menghilangkan bloom dan membuat air masuk, menyebabkannya cepat lembek. Menjaganya tetap kering adalah aturan utama."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & RDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & RDA & MFDS.
     </p>
   </div>
 </div>

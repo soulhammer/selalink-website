@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Trasfiera inmediatamente a un recipiente hermético de vidrio o plástico — Bloquee la lixiviación metálica y el oxígeno 📦"
     text: "Evitar la oxidación del interior de la lata y reducir la exposición al aire es fundamental. 💡 Consejo de almacenamiento: Vierta el atún y su aceite/caldo en un contenedor hermético de vidrio o plástico libre de BPA y cierre bien."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

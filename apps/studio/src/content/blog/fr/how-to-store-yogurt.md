@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Prélever avec une cuillère propre et sèche puis fermer hermétiquement — Prévention des contaminations 📦"
     text: "Évitez de manger directement dans le grand pot. Prélevez la quantité souhaitée avec une cuillère propre et sèche. 💡 Astuce de conservation : Essuyez les bords du pot avec de l'essuie-tout et refermez bien le couvercle pour empêcher les spores de moisissure d'entrer."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation du yaourt en
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & MFDS.
     </p>
   </div>
 </div>

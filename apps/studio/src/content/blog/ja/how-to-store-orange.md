@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/orange_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "キッチンペーパーや新聞紙で1個ずつ包む — 水分保護とカビ予防 📦"
     text: "オレンジ同士が直接触れ合うと摩擦や湿気で傷みやすくなります。💡保存のコツ：洗っていないオレンジを1個ずつキッチンペーパーや新聞紙でぴったり包みます。水分の蒸発を防ぎつつ、カビ胞子の移動を遮断できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

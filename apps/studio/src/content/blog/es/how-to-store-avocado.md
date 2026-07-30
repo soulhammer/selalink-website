@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Temp. Ambiente (5 días) 🥑"
     text: "Los aguacates duros y verdes deben mantenerse a temperatura ambiente (15-20 °C) para madurar normalmente. 💡 Consejo de almacenamiento: Coloque los aguacates en una bolsa de papel junto con una manzana o un plátano. El gas etileno liberado por estas frutas se concentra en la bolsa, acelerando y estabilizando el proceso de maduración."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación científica en 3 pasos basa
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>CAC & USDA & MFDS</strong>.
+      Este contenido se basa en CAC & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Guarde en una despensa fresca y oscura — Almacenamiento a temperatura ambiente (Indefinido) 🏺"
     text: "Gracias a su alto contenido de alcohol, el extracto puro de vainilla puede conservarse de forma casi indefinida a temperatura ambiente. 💡 Consejo de almacenamiento: Mantenlo en una despensa oscura a 15–24 °C lejos del calor. Mantiene su aroma profundo durante años."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de extracto de vainilla en 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este contenido se basa en FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

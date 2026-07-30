@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/corn_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "带皮低温冷藏 — 短期冷藏 (2 ~ 3天) 📦"
     text: "采收后的外皮是防止水分蒸发的天然保护屏障。💡储存小贴士：保留1 ~ 2层内皮，放入保鲜袋密封，存放在冰箱冷藏室或蔬菜保鲜层（0 ~ 2℃）。这能减缓酶反应，锁住2 ~ 3天的甜度。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

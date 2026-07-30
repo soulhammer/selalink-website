@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wipe dry and wrap in paper towels with stems intact — Moisture Control 📦"
     text: "Managing humidity while preventing dehydration is key. 💡 Storage Tip: Do not wash. Gently wipe off moisture with a dry cloth, then wrap small batches (5–10 peppers) in paper towels, leaving stems intact."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step chili pepper storage gu
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

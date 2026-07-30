@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver dans des bouteilles en verre foncé anti-UV (verre ambré ou vert) — Bloquer la photo-oxydation et les hydroperoxydes 🍾"
     text: "Achetez ou transférez toujours l'huile d'avocat dans des bouteilles en verre foncé (Dark Glass Bottle). 💡 Astuce de conservation : Le verre foncé filtre les rayons UV et la lumière visible, stoppant la photo-oxydation liée à la chlorophylle et la formation d'hydroperoxydes."
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

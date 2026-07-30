@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Pertahankan pembungkus kertas aluminium asli — Menahan Cahaya & Oksigen 📦"
     text: "Pembungkus aluminium foil asli mentega adalah pelindung luar biasa dari sinar UV dan oksigen, mencegah oksidasi lemak susu. 💡 Tips Penyimpanan: Membuang pembungkus aluminium dan memindahkan mentega ke wadah transparan atau plastik wrap akan mempercepat proses ketengikan secara drastis."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

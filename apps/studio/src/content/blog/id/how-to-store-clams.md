@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NOAA & USDA & MFDS</strong>"
+authority: "NOAA & USDA & MFDS"
 steps:
   - name: "Bersihkan pasir dalam air garam di tempat gelap — Pembersihan Pasir & Kotoran 🌊"
     text: "Rendam kerang dalam larutan air garam 3% (sekitar 30g garam per 1L air). Masukkan sendok logam, tutup dengan plastik gelap, lalu simpan di tempat sejuk (0–4°C) selama 2–3 jam."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NOAA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pork_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "ドリップを拭き取りサラダ油（オリーブオイル）を薄く塗る — 水分保護と微生物遮断 📦"
     text: "キッチンペーパーで水分をしっかり除去した後、肉の表面にサラダ油やオリーブオイルを薄く塗ることで、空気との接触を防ぐ保護膜が形成されます。💡保存のコツ：油膜を作ることで酸化と水分の蒸発を防いで旨味（肉汁）を閉じ込め、微生物の増殖を抑制できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

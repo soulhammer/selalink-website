@@ -8,7 +8,7 @@
             "ko": {
                 "title": "생크림(헤비크림) 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 생크림(헤비크림)의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "파스타나 디저트를 만들고 남은 생크림을 냉장고에 넣어두었다가, 며칠 뒤 몽글몽글 덩어리지고 시큼한 냄새가 나서 버려본 경험 있으시죠? 🥛\n\n생크림(헤비크림)은 유지방 함량이 30% 이상인 다량의 유지방 미세 입자가 수분 속에 분산된 미세 에멀전 형태의 유제품입니다. 온도 변화, 세균 유입, 공기 노출에 매우 민감하여 개봉 후 부패 속도가 매우 빠르고 냉장고 잡내를 흡수하는 특성이 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 가이드라인을 바탕으로, 생크림의 고소한 풍미와 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Heavy Cream Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for heavy cream based on official safety guidelines.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Have you ever bought heavy cream for a pasta or dessert recipe, left the remainder in the fridge, only to find it curdled and smelling sour a few days later? 🥛\n\nHeavy cream is a delicate dairy emulsion containing over 36% milk fat suspended in liquid. It is exceptionally sensitive to temperature changes, bacterial contamination, and oxygen exposure, making it spoil rapidly once opened while easily absorbing fridge odors.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert USDA and MFDS guidelines to preserve the rich flavor and fresh quality of your heavy cream. 🛡️",
                 "whyTitle": "Why Store Heavy Cream This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "生クリーム（ヘビークリーム）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく生クリーム（ヘビークリーム）の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "パスタやスイーツを作って余った生クリームを冷蔵庫に入れておいたら、数日後にダマができて酸っぱいニオイがして捨ててしまった経験はありませんか？🥛\n\n生クリームは乳脂肪分が30%以上含まれる繊細なエマルジョン（乳化）状態の乳製品です。温度変化、雑菌の混入、空気との接触に非常に敏感で、開封後は傷みやすく、冷蔵庫の生活臭を吸収しやすい特徴があります。\n\n本記事では、専門家のガイドラインに基づき、生クリームのコクと新鮮さを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持淡奶油（鲜奶油）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解淡奶油（鲜奶油）的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾买来淡奶油做意面或甜品，剩下的放在冰箱里，几天后却发现它结块发酸不得不丢弃？🥛\n\n淡奶油是脂肪含量高达30%以上的微细乳脂颗粒分散在水中的乳化状态乳制品。它对温度变化、细菌侵入和空气暴露极其敏感，开封后极易腐败且极易吸收冰箱里的异味。\n\n本指南基于专家权威指南，为您介绍3步科学保存秘诀，帮您锁定淡奶油的浓郁醇香与新鲜品质。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la nata para montar (crema de leche) fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la nata para montar según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "¿Alguna vez compró crema de leche o nata para una receta, dejó lo que sobró en el refrigerador y días después descubrió que se cortó y olía agrio? 🥛\n\nLa nata para montar es una emulsión láctea delicada con más de un 30% de grasa. Es sumamente sensible a los cambios de temperatura, contaminación bacteriana y contacto con el aire. Una vez abierta, se deteriora rápido y absorbe los olores del refrigerador.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos para conservar el sabor rico y la frescura de su crema de leche. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la crème liquide entière (crème fleurette) fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la crème liquide entière selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Avez-vous déjà acheté de la crème liquide entière pour une sauce ou un dessert, laissé le reste au réfrigérateur pour constater quelques jours plus tard qu'elle avait tourné et senti l'aigre ? 🥛\n\nLa crème liquide entière est une émulsion délicate contenant plus de 30 % de matière grasse. Elle est très sensible aux écarts de température, à l'exposition à l'air et aux bactéries. Une fois ouverte, elle s'altère vite et absorbe facilement les odeurs du frigo.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour préserver la fraîcheur et la saveur de votre crème liquide. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Schlagsahne (Flüssige Sahne) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Schlagsahne basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Haben Sie schon einmal flüssige Schlagsahne gekauft, den Rest im Kühlschrank stehen lassen und nach wenigen Tagen festgestellt, dass sie flockig wurde und sauer roch? 🥛\n\nSchlagsahne ist eine empfindliche Fett-in-Wasser-Emulsion mit über 30 % Fettgehalt. Sie reagiert extrem empfindlich auf Temperaturschwankungen, Bakterien und Sauerstoff. Einmal geöffnet verdirbt sie schnell und nimmt fremde Kühlschrankgerüche an.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um den frischen Geschmack und die Qualität Ihrer Sahne zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar creme de leite fresco fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para creme de leite fresco com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Você já comprou creme de leite fresco para uma receita, guardou o restante na geladeira e dias depois descobriu que ele coalhou e ficou com cheiro azedo? 🥛\n\nO creme de leite fresco é uma emulsão láctea delicada com mais de 30% de gordura. Ele é extremamente sensível a variações de temperatura, contaminação bacteriana e oxigênio. Após aberto, estraga rapidamente e absorve odores da geladeira.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter o sabor rico e o frescor do seu creme de leite. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Krim Kental (Heavy Cream) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk heavy cream berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Pernahkah Anda membeli heavy cream untuk saus atau dessert, menyimpan sisanya di kulkas, lalu mendapatinya menggumpal dan berbau asam beberapa hari kemudian? 🥛\n\nHeavy cream adalah emulsi susu yang sensitif dengan kandungan lemak lebih dari 30%. Krim ini sangat peka terhadap perubahan suhu, kontaminasi bakteri, dan paparan udara. Setelah dibuka, krim cepat membusuk dan mudah menyerap bau makanan di kulkas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga kesegaran dan cita rasa gurih heavy cream Anda. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

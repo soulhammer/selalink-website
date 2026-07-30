@@ -8,7 +8,7 @@
             "ko": {
                 "title": "콩(건조 콩) 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 콩(건조 콩)의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "영양가가 풍부한 건조 콩을 사 두었다가 바구미 같은 벌레가 생기거나, 오랫동안 방치해 아무리 오랫동안 삶아도 딱딱해서 못 먹게 된 경험 있으시죠? 🫘\n\n건조 콩은 수분 함량이 낮아 장기 보관이 비교적 용이한 식재료이지만, 공기 중의 습기, 빛, 열, 그리고 곡물 해충에 매우 취약합니다. 올바르지 않게 보관하면 수분이 지나치게 빠져나가 고온 다습한 환경에서 껍질이 단단해지는 '난소성(Hard-to-cook)' 현상이 발생하거나 곰팡이와 벌레가 번식하게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 콩의 영양과 아삭·부드러운 식감을 변질 없이 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Beans (Dried Beans) Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for dried beans based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever bought nutrient-rich dried beans only to find pantry pests in them later, or struggled to cook them soft because they became rock-hard over time? 🫘\n\nDried beans are a wonderful shelf-stable staple due to their low moisture content, but they are highly sensitive to humidity, light, heat, and pantry pests like bean weevils. Improper storage causes moisture loss and heat damage, leading to the 'hard-to-cook' defect where beans won't soften even after hours of boiling, as well as mold or pest infestation.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on guidelines from agricultural and food safety experts to preserve the nutrition, flavor, and texture of your beans for a long time. 🛡️",
                 "whyTitle": "Why Store Beans This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "豆類（乾燥豆）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく豆（乾燥豆）の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "栄養豊富な乾燥豆を買っておいたものの、ゾウムシなどの虫が発生してしまったり、長期間放置して煮ても硬くて食べられなくなってしまった経験はありませんか？🫘\n\n乾燥豆は水分含有量が低いため長期保存が比較的水易い食材ですが、空気中の湿気、光、熱、穀物害虫に非常に敏感です。不適切な保存方法は水分が抜けすぎたり、高温多湿な環境で皮が硬くなる「難煮性（Hard-to-cook）」現象を引き起こしたり、カビや虫の発生原因になります。\n\n本記事では、専門家のガイドラインに基づき、豆の栄養と柔らかい食感を長期間損なわずに保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持豆类（干豆）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解豆类（干豆）的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾买回营养丰富的干豆，一段时间后却发现长了豆象等害虫，或是无论怎么煮都硬邦邦煮不烂？🫘\n\n干豆因水分含量低而属于较易长期保存的食材，但它对空气中的湿气、光线、热量及粮食害虫非常敏感。不当的储存方式会导致水分过度流失，在高温潮湿环境下发生表皮变硬的“难煮性（Hard-to-cook）”现象，甚至滋生霉菌与害虫。\n\n本指南基于权威专家指南，为您介绍3步科学保存秘诀，帮您长久锁定干豆的营养与软糯口感。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener las legumbres (frijoles secos) frescas: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los frijoles secos según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez compró frijoles secos nutritivos solo para descubrir que les salieron gorgojos o que, tras mucho tiempo guardados, no se ablandaban ni hirviéndolos durante horas? 🫘\n\nLos frijoles secos son un alimento básico excelente debido a su bajo contenido de humedad, pero son altamente sensibles a la humedad ambiental, la luz, el calor y las plagas. Un almacenamiento inadecuado provoca la pérdida de humedad y altera su estructura, causando el defecto de 'dureza al cocer' (hard-to-cook), además de moho y gorgojos.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos para conservar la nutrición, el sabor y la textura suave de sus frijoles por mucho tiempo. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les haricots (haricots secs) frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les haricots secs selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà acheté des haricots secs très nourrissants pour constater plus tard qu'ils s'étaient infestés d'insectes, ou qu'ils restaient durs même après des heures de cuisson ? 🫘\n\nLes haricots secs se conservent très bien grâce à leur faible teneur en eau, mais ils sont très sensibles à l'humidité, à la lumière, à la chaleur et aux bruches (charançons). Un stockage inadéquat entraîne une perte d'eau excessive et le phénomène de 'durcissement à la cuisson', rendant les grains impossibles à ramollir.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour préserver la valeur nutritive, la saveur et la tendreté de vos haricots secs pendant longtemps. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Bohnen (Getrocknete Bohnen) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Bohnen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie schon einmal nährstoffreiche getrocknete Bohnen gekauft, nur um später Schädlingsbefall festzustellen oder dass sie trotz stundenlangem Kochen steinhart blieben? 🫘\n\nGetrocknete Bohnen sind aufgrund ihres geringen Wassergehalts sehr lange haltbar, reagieren jedoch empfindlich auf Feuchtigkeit, Licht, Hitze und Bohnenkäfer. Falsche Lagerung führt zu Feuchtigkeitsverlust und Zellwandveränderungen ('Hard-to-cook'-Effekt), wodurch die Bohnen ungenießbar hart bleiben.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Nährstoffe, Geschmack und die weiche Textur Ihrer Bohnen langfristig zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar feijões (feijões secos) frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para feijões secos com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já comprou feijões secos cheios de nutrientes e percebeu mais tarde que surgiram carunchos ou que eles ficaram duros demais para cozinhar, mesmo após horas no fogo? 🫘\n\nOs feijões secos são excelentes para armazenamento prolongado devido ao baixo teor de umidade, mas são muito sensíveis à umidade do ar, luz, calor e pragas como o caruncho. O armazenamento inadequado causa perda excessiva de umidade e o defeito de 'dureza ao cozinhar', tornando os grãos rígidos.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter seus feijões macios, saborosos e nutritivos por muito tempo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Kacang-kacangan (Kacang Kering) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang kering berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membeli kacang kering kaya nutrisi, lalu menemukan kutu di dalamnya beberapa waktu kemudian, atau kacang menjadi sangat keras dan sulit empuk meskipun sudah direbus lama? 🫘\n\nKacang kering adalah bahan makanan yang sangat awet karena kadar airnya yang rendah, tetapi sangat sensitif terhadap kelembapan udara, cahaya, panas, dan hama seperti kutu kacang. Penyimpanan yang salah menyebabkan hilangnya kadar air dan memicu efek 'hard-to-cook' (sulit empuk saat dimasak) serta tumbuhnya jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga nutrisi, rasa, dan tekstur empuk kacang kering Anda dalam jangka panjang. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Transférer dans des récipients hermétiques — Protection contre l'humidité & nuisibles 📦"
     text: "Laisser les haricots dans leur sachet d'origine ouvert favorise l'absorption d'humidité et l'apparition d'insectes. 💡 Astuce de conservation : Transvasez-les dans un bocal en verre, une boîte en plastique épais ou un sac congélation hermétique pour bloquer l'air."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

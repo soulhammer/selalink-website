@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde en recipientes herméticos e impermeables a la luz (vidrio/metal/PP) — Prevenir volatilidad y humedad 🫙"
     text: "Trasvase inmediatamente las ramas o el polvo de canela a frascos opacos, latas de metal o bolsas herméticas oscuras. 💡 Consejo de almacenamiento: El sellado completo evita la evaporación del cinnamaldehído y bloquea la humedad ambiental."
@@ -38,7 +38,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

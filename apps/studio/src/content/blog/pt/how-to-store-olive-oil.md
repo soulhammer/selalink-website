@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>IOC & USDA & MFDS</strong>"
+authority: "IOC & USDA & MFDS"
 steps:
   - name: "Nunca guarde na geladeira — Evite a solidificação e perda de aroma ❌❄️"
     text: "Colocar azeite de oliva na geladeira faz com que a gordura congele em uma pasta branca. 💡 Dica de conservação: Descongelar e congelar repetidamente destrói os polifenóis e aromas frutados. A temperatura ideal para o azeite de oliva é a temperatura ambiente fresca, entre 14 e 18 °C."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>IOC & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em IOC & USDA & MFDS.
     </p>
   </div>
 </div>

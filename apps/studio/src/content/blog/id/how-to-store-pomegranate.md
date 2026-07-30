@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Bungkus buah utuh dengan plastic wrap pada suhu 5–7°C & kelembapan 80–85% — Cegah Pengeringan Kulit (2–3 Bulan) 📦"
     text: "Untuk delima utuh, mencegah kehilangan air melalui kulit adalah hal utama. 💡 Tips Penyimpanan: Bungkus buah utuh dengan plastic wrap pada suhu 5–7°C dan kelembapan 80–85% (laci sayur). Ini mencegah kerusakan dingin dan kehilangan air selama 2–3 bulan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan delima 3 langkah berbasis
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

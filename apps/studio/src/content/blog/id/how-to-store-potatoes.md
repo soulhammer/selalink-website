@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Bungkus kentang berbalut tanah satu per satu di koran atau kantong kertas — Halangi Cahaya Sepenuhnya 📦"
     text: "Paparan cahaya (bahkan cahaya lampu ruangan) memicu produksi klorofil, mengubah kulit menjadi hijau dan mensintesis solanin beracun. 💡 Tips Penyimpanan: Biarkan tanah tetap menempel pada kentang—tanah bertindak sebagai pengatur kelembapan alami—dan bungkus dalam koran atau kantong kertas cokelat buram untuk menghalangi 100% cahaya."
@@ -38,7 +38,7 @@ Selain itu, paparan cahaya membuat kulit kentang berubah menjadi hijau, mensinte
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & RDA & FSA</strong>.
+      Konten ini didasarkan pada MFDS & RDA & FSA.
     </p>
   </div>
 </div>

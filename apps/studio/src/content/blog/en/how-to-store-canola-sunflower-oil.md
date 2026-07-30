@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Store in a cool, dark cabinet away from heat (15–20°C / 59–68°F) — Cool Room Temp Storage (1–2 Years Unopened / 3–6 Months Opened) 🌡️"
     text: "Blocking heat and light while keeping ambient temperatures at 15–20°C is critical. 💡 Storage Tip: Keep oil bottles inside a dark lower pantry or cupboard away from stovetops. Unopened oil lasts 1–2 years, while opened oil should be used within 3–6 months."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step canola and sunflower 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & EFSA & MFDS</strong>.
+      This content is based on FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

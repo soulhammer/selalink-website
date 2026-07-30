@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Conserver dans un récipient hermétique non métallique (Verre, Céramique, Plastique) — Étanchéité & Anti-Rouille 📦"
     text: "Les couvercles ou pots en métal réagissent avec le sel et produisent de la rouille. 💡 Astuce de conservation : Privilégiez les bocaux en verre, les poteries en céramique ou les boîtes en plastique hermétiques pour bloquer l'humidité et empêcher la corrosion."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour garder vot
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS.
     </p>
   </div>
 </div>

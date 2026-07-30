@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Backpapier zwischen jede Tortilla legen — Anti-Haft-Trennbschicht 📄"
     text: "Der entscheidende Trick gegen das Festkleben. 💡 Lagerungstipp: Eine Tortilla hinlegen, ein zugeschnittenes Stück Backpapier darauflegen und die nächste Tortilla darauf platzieren. Das Papier blockiert den Feuchtigkeitstransfer, sodass sich die Tortillas nach dem Einfrieren einzeln entnehmen lassen."
@@ -38,7 +38,7 @@ Tortillas weisen einen Feuchtigkeitsgehalt von etwa 25–35 % auf. Nach dem Öff
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

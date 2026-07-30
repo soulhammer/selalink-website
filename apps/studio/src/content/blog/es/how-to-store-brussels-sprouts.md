@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Retire las hojas dañadas y elimine la humedad — Limpieza previa 🥬"
     text: "Retire las hojas amarillentas o dañadas al comprarlas y seque la superficie suavemente con toallas de papel. 💡 Consejo de almacenamiento: Quitar las hojas marchitas evita que la pudrición avance. Mantenga el tallo intacto para evitar pérdidas de agua."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & RDA & MFDS</strong>.
+      Este contenido se basa en USDA & RDA & MFDS.
     </p>
   </div>
 </div>

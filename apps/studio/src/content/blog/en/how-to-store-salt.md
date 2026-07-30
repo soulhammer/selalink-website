@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Store in non-corrosive airtight containers (Glass, Ceramic, Plastic) — Sealed & Anti-Corrosion 📦"
     text: "Metal containers or lids react with salt over time, leading to rust and contamination. 💡 Storage Tip: Store salt in glass jars, ceramic pots, or airtight plastic containers and seal tightly to block ambient moisture and prevent rust."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

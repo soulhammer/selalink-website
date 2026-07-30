@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Traslade a un recipiente hermético inmediatamente — Evite la oxidación metálica 🫙"
     text: "Una vez abierta la lata, el contacto con el aire inicia la oxidación del metal. 💡 Consejo de almacenamiento: Vierta la leche de coco en un frasco de vidrio limpio o contenedor libre de BPA y cierre bien. Esto evita la contaminación metálica y aísla de olores del refrigerador."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de leche de coco en 3 pasos
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este contenido se basa en FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

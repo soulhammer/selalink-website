@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Simpan kaleng yang belum dibuka di lemari sejuk dan kering — Suhu Ruang (2–5 Tahun) 📦"
     text: "Tuna kaleng yang belum dibuka telah disterilkan dengan panas dan tahan lama. 💡 Tips Penyimpanan: Simpan kaleng di tempat sejuk dan kering (15–20°C). Setelah kaleng dibuka, diamkan tuna selama 5 menit agar gas furan volatil dapat menguap secara alami ke udara."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

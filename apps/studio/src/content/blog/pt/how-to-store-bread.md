@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Nunca guarde na gaveta/prateleira da geladeira — Evite a retrogradação rápida do amido ❌🍞"
     text: "Nas temperaturas da geladeira (1-6 °C), as moléculas de amido do pão expelem água e se reorganizam em uma estrutura rígida, acelerando o envelhecimento ao máximo. 💡 Dica de conservação: O pão ressecado na geladeira não recuperará a maciez original mesmo aquecido. Prefira temperatura ambiente ou congelamento imediato."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FSA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FSA & MFDS.
     </p>
   </div>
 </div>

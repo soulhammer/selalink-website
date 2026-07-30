@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "青いパパイヤは常温(18〜25℃)で追熟させる — 常温追熟 🥭"
     text: "青みが残るパパイヤは直射日光を避け、風通しの良い涼しい常温（18〜25℃）に置きます。💡保存のコツ：皮の70〜80%が黄色くなり、手で優しく押したときに少し凹むくらいが最高の食べ頃です。早く追熟させたい場合はリンゴやバナナと一緒に紙袋に入れておきます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

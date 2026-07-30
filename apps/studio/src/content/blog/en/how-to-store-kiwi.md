@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Ripen hard kiwis at room temperature (18–22°C) — Room Temp Ripening (3–7 Days) 🧺"
     text: "Keep firm kiwis at cool room temperature until they yield slightly to gentle thumb pressure. 💡 Storage Tip: To speed up ripening, seal hard kiwis in a paper bag with an apple or banana. The trapped ethylene gas will ripen them sweetly within 2–3 days."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step ripening and storage gu
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      This content is based on RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

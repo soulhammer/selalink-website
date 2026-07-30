@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Nunca lave com água antes de guardar — Evite absorção de água ❌💧"
     text: "Os cogumelos têm uma estrutura porosa que absorve água instantaneamente. 💡 Dica de conservação: Lavar antes de guardar encharca as células, destruindo a textura firme e o sabor umami, além de acelerar o mofo. Limpe a sujeira a seco com um pano ou escova macia antes de cozinhar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em RDA & MFDS & USDA.
     </p>
   </div>
 </div>

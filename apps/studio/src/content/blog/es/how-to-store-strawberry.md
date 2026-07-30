@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "No las lave y conserve los tallos verdes — Bloquee la absorción de agua 🍓"
     text: "Lavar las fresas o retirarles el tallo crea microheridas en la superficie. 💡 Consejo de almacenamiento: El agua entra rápidamente por estas heridas rompiendo las células y derramando jugo, lo que detona el moho gris. Manténgalas secas hasta justo antes de comer."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en investigaci
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & MFDS & USDA</strong>.
+      Este contenido se basa en RDA & MFDS & USDA.
     </p>
   </div>
 </div>

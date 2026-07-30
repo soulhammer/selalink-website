@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "습기 제거 후 소분하기 — 비린내 제거 & 수분 차단 📦"
     text: "멸치 표면에 습기가 있다면 기름 없는 달군 팬에 약불로 1 ~ 2분간 살짝 볶아 수분을 날려줍니다. 💡 보관 팁: 열기를 완전히 식힌 후, 1회 요리 분량씩 나뉘어 비닐 팩이나 지퍼백에 소분해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

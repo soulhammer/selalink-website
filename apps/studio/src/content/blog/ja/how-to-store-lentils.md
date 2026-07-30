@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 $A_w < 0.65$ 維持＆害虫遮断 🫙"
+  - name: "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 水分活性 (Aw) < 0.65 維持＆害虫遮断 🫙"
     text: "乾燥レンズ豆を購入したらすぐに密閉性の高いガラス瓶や食品用PET/PP密閉容器に入れ、シリカゲルなどの食品用乾燥剤を一緒に入れてください。💡保存のコツ：水分含有量を10〜12%以下にコントロールして水分活性度を0.65未満に保つことで、カビ毒の発生や害虫の侵入を根本から防ぎます。"
   - name: "直射日光の当たらない涼しい暗所（15〜20℃）で保存する — 常温乾燥保存 (1〜2年間) 🚪"
     text: "密閉容器に入れたレンズ豆を日光の当たらない戸棚やパントリーなどの涼しい場所に保管してください。💡保存のコツ：15〜20℃以下の涼しく乾燥した環境では、栄養素の破壊や変色なく1〜2年以上長期保存が可能です。"
@@ -25,7 +25,7 @@ faqs:
 
 豊富なタンパク質と食物繊維、鉄分を誇り、世界5大スーパーフードに数えられるレンズ豆（Lentils）！ 🫘
 
-レンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（$A_w$）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。
+レンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（水分活性 (Aw)）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。
 
 本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、レンズ豆を害虫や毒素から守り新鮮に長く保つ3段階の科学的保存法をご紹介します。🛡️
 
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ステップ 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 $A_w < 0.65$ 維持＆害虫遮断 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 水分活性 (Aw) < 0.65 維持＆害虫遮断 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     乾燥レンズ豆を購入したらすぐに密閉性の高いガラス瓶や食品用PET/PP密閉容器に入れ、シリカゲルなどの食品用乾燥剤を一緒に入れてください。💡保存のコツ：水分含有量を10〜12%以下にコントロールして水分活性度を0.65未満に保つことで、カビ毒の発生や害虫の侵入を根本から防ぎます。

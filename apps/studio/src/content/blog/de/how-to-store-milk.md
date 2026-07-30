@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Im tiefen Innenregal statt in der Kühlschranktür lagern — Kühllagerung (7 Tage) ❄️"
     text: "Die Türfächer unterliegen bei jedem Öffnen extremen Temperaturschwankungen. 💡 Lagerungstipp: Um die Frische der Milch zu bewahren, lagern Sie sie auf einem tiefen Regalfach im Inneren des Kühlschranks bei konstant 0–4 °C."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA & FDA</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA & FDA.
     </p>
   </div>
 </div>

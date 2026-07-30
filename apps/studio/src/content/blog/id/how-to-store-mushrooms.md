@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Jangan pernah mencuci dengan air sebelum disimpan — Cegah Penyerapan Air ❌💧"
     text: "Jamur memiliki struktur berpori yang menyerap kelembapan secara instan. 💡 Tips Penyimpanan: Mencuci jamur sebelum disimpan membuat selnya tergenang air, merusak tekstur kenyal dan rasa umami asam guanilat sekaligus mempercepat jamur. Lap kotoran dengan kain kering atau kuas lembut sebelum dimasak."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & MFDS & USDA</strong>.
+      Konten ini didasarkan pada RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "소량은 차광 밀폐 용기에 담아 소분하기 — 빛과 산소 차단 📦"
     text: "고춧가루는 공기와 빛에 노출되면 색이 바래고 풍미가 저하됩니다. 💡 보관 팁: 바로 사용할 소량은 빛을 차단하는 불투명 밀폐 용기나 갈색 유리병에 담아 서늘한 곳에 보관하세요. 공기와 빛을 차단하여 붉은 색상을 오랫동안 보존해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Remova vísceras, bolsa de tinta e sujeira das ventosas — Bloqueie o cheiro de peixe 🦑"
     text: "As vísceras e a sujeira nas ventosas são as principais fontes de maus odores e bactérias. 💡 Dica de conservação: Abra o manto, retire as tripas, a bolsa de tinta e a concha interna. Esfregue os tentáculos com sal grosso ou farinha em água corrente para remover os anéis de quitina."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NIFS & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

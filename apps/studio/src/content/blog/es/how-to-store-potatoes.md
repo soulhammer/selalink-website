@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Envuelva patatas con tierra en papel periódico o bolsas de papel opacas — Bloquee la luz 📦"
     text: "La luz desencadena la producción de clorofila y la síntesis de solanina tóxica. 💡 Consejo de almacenamiento: Deje la tierra en la patata (actúa como regulador natural de humedad) y envuélvala en papel periódico o bolsas opacas para bloquear el 100% de la luz."
@@ -38,7 +38,7 @@ Además, la exposición a la luz vuelve verde la piel de la patata, sintetizando
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & RDA & FSA</strong>.
+      Este contenido se basa en MFDS & RDA & FSA.
     </p>
   </div>
 </div>

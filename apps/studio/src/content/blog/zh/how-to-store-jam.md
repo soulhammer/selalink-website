@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "未开封果酱置于阴凉干燥橱柜 — 常温储存 (1年) 📦"
     text: "未开封的密封果酱经过加热真空包装，可在常温下保存。💡储存小贴士：请存放在避开阳光直射和燃气灶热源的阴凉干燥橱柜（15 ~ 20℃）中。未开封前可保鲜1年以上。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

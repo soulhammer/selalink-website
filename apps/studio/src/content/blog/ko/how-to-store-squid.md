@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "내장, 먹물주머니, 빨판 이물질 완벽 제거하기 — 비린내 및 부패 원인 차단 🦑"
     text: "오징어의 내장과 빨판의 이물질은 비린내와 세균 번식의 주원인입니다. 💡 보관 팁: 몸통을 갈라 내장, 먹물주머니, 뼈를 깨끗이 떼어내고, 다리 빨판의 링 이물질을 굵은소금이나 밀가루로 문질러 흐르는 물에 깨끗이 씻어내세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

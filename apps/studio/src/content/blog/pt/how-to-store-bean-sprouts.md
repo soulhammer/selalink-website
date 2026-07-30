@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bean_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Separe hastes danificadas e lave suavemente — Eliminar focos de deterioração 📦"
     text: "Hastes escuras ou amolecidas estragam os brotos sadios. 💡 Dica de conservação: Retire as partes danificadas e lave em água corrente fria para remover cascas."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

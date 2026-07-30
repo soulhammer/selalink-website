@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "在盐水中避光吐沙 — 吐沙与清除杂质 🌊"
     text: "将蛤蜊浸泡在接近海水浓度的盐水（约3%浓度，1升水加30克盐）中，放入一把不锈钢勺子并盖上黑塑料袋，置于阴凉处（0 ~ 4℃）吐沙2 ~ 3小时。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

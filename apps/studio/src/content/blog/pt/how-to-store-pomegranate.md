@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envolva a fruta inteira em filme plástico a 5–7 °C e 80–85 % de UR — Evite a Transpiração (2 a 3 meses) 📦"
     text: "Para romãs inteiras, evitar a perda de água pela casca é fundamental. 💡 Dica de conservação: Envolva a fruta em filme plástico a 5–7 °C e 80–85 % de umidade relativa (gaveta de legumes) para manter a umidade por 2 a 3 meses."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

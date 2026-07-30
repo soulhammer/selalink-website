@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fig_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "无需清洗，用厨房纸巾逐颗包裹 — 防潮防磕碰 📦"
     text: "同时阻隔水分接触与物理碰撞的核心步骤。💡储存小贴士：不清洗，清理底部杂质后，用厨房纸巾或报纸将无花果逐颗柔软包裹。纸张吸收冷凝水并缓冲果实间的摩擦与碰撞。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

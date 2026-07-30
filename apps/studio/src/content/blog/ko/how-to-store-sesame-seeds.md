@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "차광되는 유리병이나 밀폐 용기에 담아 산소 차단하기 — 차광·공기 밀봉 📦"
     text: "산소와 빛을 동시에 차단하는 것이 산패 방지의 첫 걸음입니다. 💡 보관 팁: 볶음깨를 열기가 완전히 식은 후 어두운 색 유리병, 불투명 밀폐 용기, 또는 차광 봉투(아포지/갈색병)에 담고, 습기 제거용 실리카겔을 넣어 공기를 최대한 빼낸 뒤 밀봉해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

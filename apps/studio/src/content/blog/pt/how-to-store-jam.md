@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde os potes fechados em local fresco e escuro — Temperatura ambiente (1 ano) 📦"
     text: "Potes fechados a vácuo duram em temperatura ambiente. 💡 Dica de conservação: Mantenha os potes em local fresco e escuro (15-20 °C) longe do sol e do calor do fogão. Conservam-se por até 1 ano sem abrir."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretr
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

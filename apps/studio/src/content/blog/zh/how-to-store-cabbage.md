@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>"
+authority: "韩国农村振兴厅(RDA) & EFSA & FSA"
 steps:
   - name: "将卷心菜菜芯呈锥形挖除 — 阻断水分与营养消耗通道 🔪"
     text: "卷心菜中央的硬芯是采收后继续消耗外叶水分与营养的生长点。💡储存小贴士：用尖刀将菜芯以锥形（三角形）深挖去除。从源头上切断营养消耗途径并拔除最容易开始腐烂的根源，是长期保鲜的关键。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & EFSA & FSA。
     </p>
   </div>
 </div>

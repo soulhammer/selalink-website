@@ -8,7 +8,7 @@
             "ko": {
                 "title": "무화과 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 무화과의 최적 보관 온도, 과육 보호 개별 포장법 및 냉장·냉동 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "샐러드, 디저트, 와인 안주 등에 고급스러운 달콤함과 은은한 풍미를 더해주는 인기 과일 무화과! 🍯\n\n무화과 한 상자를 사왔다가 찬장이나 냉장고에 그대로 두어 단 2~3일 만에 무르고 곰팡이가 피어 몽땅 버려본 경험 다들 있으시죠?\n\n무화과는 껍질이 극도로 얇고 수분 함량이 80% 이상으로 높을 뿐만 아니라, 자가 분해 효소(피신 등)와 당분이 풍부하여 수확 후 부패 속도가 전 과일 중 가장 빠른 고위험 과일입니다. 특히 겹쳐두면 과육 마찰과 자체 무게에 의해 즉시 짓물러버리게 됩니다. 이번 가이드에서는 전문 기관의 검증된 가이드라인을 바탕으로, 무화과를 상처 없이 5일 이상 냉장 보관하고, 4등분 냉동법으로 최대 6개월까지 달콤하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "무화과 표피의 얇은 보호층과 단백질 분해 효소(피신), 높은 수분 활성도 및 잿빛곰팡이(Botrytis) 증식 기전을 이해하고 올바른 보관법을 적용하는 것은 식감 유지와 위생 관리에 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Figs Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, individual paper-wrapping technique, and shelf life for refrigerating and freezing figs based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Figs add an elegant, rich sweetness and delicate flavor to salads, desserts, cheese platters, and wine pairings! 🍯\n\nHave you ever bought a box of fresh figs, stored them in the pantry or fridge, only to find them mushy and covered in mold just 2 to 3 days later?\n\nFigs have extremely thin skins, high moisture content (over 80%), and are rich in natural proteolytic enzymes (ficin) and sugars, making them one of the most perishable fruits with a very short post-harvest shelf life. Stacking them causes immediate pressure bruising and rapid decay. In this guide, introduces a scientifically proven 3-step storage guide based on expert standards to keep figs fresh for over 5 days in the fridge and up to 6 months in the freezer. 🛡️",
                 "whyTitle": "Why Store Figs This Way? Scientific Facts",
                 "whyDesc": "Understanding the delicate skin barrier, ficin enzymatic self-digestion, high water activity, and Botrytis mold infection mechanisms is essential for preserving texture and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "いちじく（無花果）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくイチジクの最適保存温度、果肉保護の個別包装法、冷蔵・冷凍保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "サラダ、デザート、チーズのおつまみなどに上品な甘みと風味を添える人気果物イチジク！🍯\n\nイチジクを一箱買ってきたものの、棚や冷蔵庫に入れておいたらわずか2〜3日で柔らかくなりカビが生えて丸ごと捨ててしまった経験はありませんか？\n\nイチジクは皮が極めて薄く水分含有量が80%以上と高いだけでなく、タンパク質分解酵素（フィシン）と糖分が豊富なため、収穫後の傷みが全果物の中で最も早い高リスク果物です。特に重ねて置くと果肉の摩擦と自重で一瞬でドロドロに傷んでしまいます。本記事では専門機関の検証済みガイドラインに基づき、イチジクを傷つけずに5日以上冷蔵保存し、4等分冷凍で最大6ヶ月間甘く保存する3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "イチジクの薄い皮の保護層やタンパク質分解酵素（フィシン）、高い水分活性度および灰色カビ病（Botrytis）の増殖メカニズムを理解し、正しい保存法を実践することが食感と衛生の維持に不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持无花果新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解无花果的最佳储存温度、厨房纸巾单颗包裹防压技巧及冷藏冷冻保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "无论是制作沙拉、甜品、芝士拼盘还是配酒，无花果都能带来高雅软糯的浓郁甜香！🍯\n\n您是否买过一盒鲜无花果，放在橱柜或冰箱里，短短2~3天就发软变烂甚至发霉，不得不整盒扔掉？\n\n无花果表皮极薄，含水量高达80%以上，且富含无花果蛋白酶（Ficin）与糖分，是采后腐败速度最快的高风险水果之一。特别是一旦重叠挤压，果肉会因摩擦与自重迅速渗水腐烂。本指南基于权威机构验证的指南，带您掌握3步科学保鲜秘诀，让无花果在冷藏下无损保存5天以上，4等分冷冻保存长达6个月。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解无花果薄弱的表皮屏障、无花果蛋白酶的自溶作用、高水活性及灰霉病菌（Botrytis）侵染机制，对于保持果肉口感与食品安全至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los higos frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura de almacenamiento, técnica de envolver individualmente en papel y tiempo de conservación para refrigerar y congelar higos según directrices oficiales.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¡Los higos aportan una dulzura elegante e intensa a ensaladas, postres, tablas de quesos y maridajes! 🍯\n\n¿Alguna vez compró una caja de higos frescos, los guardó en la despensa o el refrigerador, y a los 2 o 3 días estaban blandos y cubiertos de moho?\n\nLos higos tienen una piel extremadamente fina, un contenido de agua superior al 80% y son ricos en enzimas proteolíticas (ficina) y azúcares, lo que los convierte en una de las frutas más perecederas. Apilarlos causa magulladuras inmediatas por presión y peso. En esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para mantener sus higos frescos durante más de 5 días en el refrigerador y hasta 6 meses en el congelador. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender la delicada barrera de la piel, la autodigestión por ficina, la alta actividad de agua y los mecanismos de infección por moho Botrytis es fundamental para preservar la textura y la higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les figues fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température de stockage optimale, la technique d'emballage individuel au papier et la durée de conservation au réfrigérateur et au congélateur selon les directives officielles.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Les figues apportent une douceur raffinée et gourmande aux salades, desserts, plateaux de fromage et associations sucrées-salées ! 🍯\n\nAvez-vous déjà acheté une barquette de figues fraîches pour les retrouver molles et couvertes de moisissure après seulement 2 ou 3 jours ?\n\nPossédant une peau extrêmement fine, une teneur en eau supérieure à 80 % et une grande richesse en ficine (enzyme protéolytique) et en sucres, la figue est l'un des fruits les plus périssables. L'empilement provoque des meurtrissures immédiates. Dans ce guide, vous présente un guide de conservation en 3 étapes pour préserver vos figues plus de 5 jours au frais et jusqu'à 6 mois au congélateur. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre la fragilité de l'épiderme, l'autodigestion enzymatique par la ficine, l'activité de l'eau élevée et les risques de moisissures (Botrytis) est essentiel pour préserver la texture et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Feigen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, die Einzelverpackungs-Methode mit Papier und die Haltbarkeit beim Kühlen und Einfrieren von Feigen nach offiziellen Richtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Frische Feigen verleihen Salaten, Desserts, Käseplatten und Snacks eine edle, feine Süße! 🍯\n\nHaben Sie schon einmal eine Schale frischer Feigen gekauft, im Schrank oder Kühlschrank gelagert und nach nur 2 bis 3 Tagen matschige, verschimmelte Früchte vorgefunden?\n\nFeigen haben eine extrem dünne Schale, einen Wassergehalt von über 80 % und sind reich an Ficin (Protease-Enzym) sowie Fruchtzucker. Dadurch gehören sie zu den empfindlichsten Früchten überhaupt. Gestapelt entstehen sofort Druckstellen durch Eigengewicht. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Feigen im Kühlschrank über 5 Tage und im Gefrierfach bis zu 6 Monate frisch zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der zarten Schalenbarriere, der enzymatischen Selbstverdauung durch Ficin, der hohen Wasseraktivität und der Infektionswege von Grauschimmel ist entscheidend für Textur und Sicherheit.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar figos frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura de armazenamento, técnica de embalagem individual em papel e tempo de conservação para refrigerar e congelar figos segundo diretrizes oficiais.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Os figos adicionam um doçor refinado e marcante a saladas, sobremesas, tábuas de queijos e harmonizações! 🍯\n\nVocê já comprou uma caixa de figos frescos, guardou na dispensa ou geladeira e em apenas 2 ou 3 dias encontrou os frutos moles e cobertos de mofo?\n\nOs figos têm uma casca extremamente fina, teor de água superior a 80% e são ricos em ficina (enzima proteolítica) e açúcares, sendo uma das frutas mais perecíveis do mundo. Empilhá-los causa machucados imediatos por pressão e peso. Neste guia, apresentamos um guia de conservação em 3 etapas para manter seus figos frescos por mais de 5 dias na geladeira e até 6 meses no freezer. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a fragilidade da casca, a autodigestão enzimática pela ficina, a alta atividade de água e os mecanismos de infecção por mofo Botrytis é essencial para preservar a textura e a segurança alimentar.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Buah Tin / Ara (Figs) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal, teknik membungkus kertas per buah, dan masa simpan kulkas serta freezer untuk buah tin berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Buah tin (figs) memberikan rasa manis lezat dan aroma mewah pada salad, hidangan penutup, hingga olahan keju! 🍯\n\nPernahkah Anda membeli satu kotak buah tin segar, menyimpannya di lemari atau kulkas, lalu menemukannya membusuk lembek dan berjamur hanya dalam 2 hingga 3 hari?\n\nBuah tin memiliki kulit yang sangat tipis, kadar air di atas 80%, serta kaya akan enzim ficin dan gula, menjadikannya salah satu buah paling mudah membusuk pascapanen. Menumpuknya langsung akan menyebabkan memar akibat tekanan dan bobotnya. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk menjaga buah tin tetap segar selama lebih dari 5 hari di kulkas dan hingga 6 bulan di freezer. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami kerapuhan kulit buah tin, autodigest enzymic ficin, aktivitas air tinggi, dan infeksi jamur Botrytis sangat penting untuk menjaga tekstur dan keselamatan pangan.",

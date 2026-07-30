@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "表面轻涂特级初榨橄榄油 — 形成隔氧保护膜 🫒"
     text: "用食用油涂层是阻绝空气极科学的方法。💡储存小贴士：在薄火腿片表面或切口处轻轻抹上一层特级初榨橄榄油，可防止水分蒸发，形成隔绝氧气的天然屏障。"
@@ -25,7 +25,7 @@ faqs:
 
 当您开封顶级伊比利亚火腿或帕尔玛火腿佐酒后，将剩余的火腿片放入冰箱，是否发现几天后它变得干硬发黄？🥓
 
-风干火腿经过长期的盐渍与发酵干燥，水分活度（$A_w < 0.85$）降至很低，能有效抑制致病菌生长。但因其富含不饱和脂肪酸，一旦接触空气中的氧气，就会发生脂质自氧化(Lipid Peroxidation)反应。这会导致肌红蛋白氧化变色、发黄发褐，并散发油哈味（酸败味）及干硬变质。
+风干火腿经过长期的盐渍与发酵干燥，水分活度（水活性 (Aw) < 0.85）降至很低，能有效抑制致病菌生长。但因其富含不饱和脂肪酸，一旦接触空气中的氧气，就会发生脂质自氧化(Lipid Peroxidation)反应。这会导致肌红蛋白氧化变色、发黄发褐，并散发油哈味（酸败味）及干硬变质。
 
 本指南基于食品安全专家的建议，为您带来3步科学风干火腿保鲜秘诀，锁住细腻口感与油脂香气。🛡️
 
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

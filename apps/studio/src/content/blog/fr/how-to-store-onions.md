@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & FSA</strong>"
+authority: "RDA & USDA & FSA"
 steps:
   - name: "Suspendre les oignons entiers non pelés dans un endroit frais et aéré — Temp. Ambiante (30 jours) 🌬️"
     text: "Les oignons non pelés se conservent idéalement à l'ombre dans un espace frais et ventilé (10-15 °C). 💡 Astuce de conservation : Glissez les oignons un par un dans un filet ou un bas propre en faisant un nœud entre chaque oignon avant de suspendre. Cela évite qu'ils ne se touchent et ne s'écrasent."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & FSA</strong>.
+      Ce contenu est basé sur RDA & USDA & FSA.
     </p>
   </div>
 </div>

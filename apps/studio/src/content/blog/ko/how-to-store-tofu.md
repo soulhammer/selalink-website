@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)"
 steps:
   - name: "팩 충전수 완전히 버리고 흐르는 찬물에 헹구기 — 미생물 번식 차단 🚿"
     text: "두부 포장 팩 안의 물은 단백질이 배어나와 세균이 가장 쉽게 번식하는 상태입니다. 💡 보관 팁: 팩 안의 충전수를 완벽히 버린 뒤, 두부를 흐르는 차가운 수돗물에 가볍게 헹궈 표면의 단백질 잔여물과 미생물을 씻어내세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)에 기반하고 있습니다.
     </p>
   </div>
 </div>

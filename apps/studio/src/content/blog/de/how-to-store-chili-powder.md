@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Kleine Mengen in lichtundurchlässige Behälter füllen — Licht & Sauerstoff blockieren 📦"
     text: "Sauerstoff und Licht bauen Farbstoffe und ätherische Öle ab. 💡 Lagerungstipp: Bewahren Sie kleine Alltagsmengen in einer undurchsichtigen Dose oder einem Braunglas an einem kühlen, dunklen Ort auf."
@@ -38,7 +38,7 @@ Heute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, u
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

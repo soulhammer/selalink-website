@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "개봉 즉시 밀폐 용기(유리/보관용기)로 옮기기 — 금속 산화 차단 🫙"
     text: "캔 제품은 개봉하는 순간 공기와 접촉하여 내부 금속 산화가 시작됩니다. 💡 보관 팁: 남은 코코넛 밀크는 개봉 즉시 깨끗한 밀폐 유리병이나 BPA-Free 플라스틱 용기에 옮겨 담고 뚜껑을 완벽히 닫아주세요. 이렇게 하면 금속 성분 용출을 막고 냉장고 내부 냄새 흡수를 차단할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

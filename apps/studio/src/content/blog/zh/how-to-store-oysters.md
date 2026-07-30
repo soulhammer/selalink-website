@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "带壳生蚝盖湿毛巾保存 — 维持活体环境 🦪"
     text: "保持带壳生蚝存活是保鲜的关键。💡储存小贴士：将未清洗的带壳生蚝凹面朝下放入深容器中，盖上一块用淡盐水打湿的湿纸巾或湿布，置于冰箱冷藏室（1 ~ 4℃），可保活2 ~ 3天。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

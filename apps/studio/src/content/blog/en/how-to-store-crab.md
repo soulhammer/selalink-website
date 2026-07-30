@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/crab_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap live crabs with a damp cloth for short-term refrigeration — Short-term Survival Storage 🦀"
     text: "If you cannot cook live crabs immediately, keep them moist and cold. 💡 Storage Tip: Wrap unwashed live crabs in a damp towel or damp newspaper and place them in a cool container in the refrigerator (1–4°C / 34–39°F). They can stay alive for up to 1 day."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step crab storage guide base
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

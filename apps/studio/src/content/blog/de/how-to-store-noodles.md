@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Trockennudeln in luftdichten Dosen oder Flaschen versiegeln — Feuchtigkeits- & Schädlingsschutz (1–2 Jahre) 📦"
     text: "Lässt man Trockennudeln in der dünnen Plastikfolie, bohren sich Käferlarven hindurch. 💡 Lagerungstipp: Nudeln mit Trockenmittel (Kieselgel) in hohe luftdichte Dosen oder Weithalsflaschen umfüllen. Bei unter 20 °C im Schrank 1 bis 2 Jahre schädlingsfrei haltbar."
@@ -38,7 +38,7 @@ Nudeln unterteilen sich in 'Trockennudeln' (Feuchtigkeit unter 14 %) und 'Frisch
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & FDA & MFDS.
     </p>
   </div>
 </div>

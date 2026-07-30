@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Tata rasberi kering satu lapis (Single Layer) di atas tisu dapur — Kontrol Kelembapan 🧻"
     text: "Menumpuk rasberi membuat lapisan bawah hancur tertindih beban, merangkap kelembapan dan memicu jamur. 💡 Tips Penyimpanan: Lapisi dasar wadah kedap udara dengan tisu dapur untuk menyerap kelembapan, lalu tata rasberi yang belum dicuci dalam satu lapisan tanpa saling bertumpuk."
@@ -18,14 +18,14 @@ steps:
     text: "Karena rasberi segar memiliki masa simpan sangat singkat, membekukannya adalah opsi wajib jika tidak habis dalam 3 hari. 💡 Tips Penyimpanan: Cuci rasberi dengan lembut, keringkan total dengan tisu dapur, bekukan satu lapis di atas nampan, lalu pindahkan ke kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
 faqs:
   - question: "Mengapa rasberi tidak boleh dicuci sebelum disimpan?"
-    answer: "Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan ($A_w$) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam."
+    answer: "Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam."
   - question: "Mengapa rasberi beku menjadi hancur lembek saat dicairkan dan bagaimana cara menggunakannya?"
     answer: "Rasberi memiliki dinding sel yang rapuh dan pecah saat dibekukan; saat dicairkan, cairan sel keluar sehingga teksturnya menjadi lembek. Sebaiknya gunakan rasberi beku secara langsung tanpa dicairkan ke dalam smoothie, topping yoghurt, atau adonan kue."
 ---
 
 Pernahkah Anda membeli buah rasberi segar yang manis, tetapi beberapa hari setelah disimpan di kulkas buahnya menjadi berjamur atau lembek? 🍓
 
-Rasberi adalah buah beri favorit untuk sarapan dan pencuci mulut di seluruh dunia. Namun, karena kulitnya sangat tipis dan bagian tengahnya berongga, rasberi memiliki laju respirasi (Respiration Rate) yang sangat tinggi dan paling cepat membusuk. Mencuci buah ini sebelum disimpan membuat aktivitas air permukaan ($A_w$) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) merusak dinding sel dan berkembang biak dengan cepat dalam hitungan jam.
+Rasberi adalah buah beri favorit untuk sarapan dan pencuci mulut di seluruh dunia. Namun, karena kulitnya sangat tipis dan bagian tengahnya berongga, rasberi memiliki laju respirasi (Respiration Rate) yang sangat tinggi dan paling cepat membusuk. Mencuci buah ini sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) merusak dinding sel dan berkembang biak dengan cepat dalam hitungan jam.
 
 Dalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️
 
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasi
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasi
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Jangan pernah langsung mencuci rasberi setelah dibeli 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Mencuci rasberi sebelum disimpan membuat aktivitas air permukaan ($A_w$) mencapai hampir 1,0. Hal ini mengaktifkan spora *Botrytis cinerea* (kapang kelabu) yang merusak dinding sel dan merusak buah dalam hitungan jam. Cucilah tepat sebelum dimakan.
+      Mencuci rasberi sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mencapai hampir 1,0. Hal ini mengaktifkan spora *Botrytis cinerea* (kapang kelabu) yang merusak dinding sel dan merusak buah dalam hitungan jam. Cucilah tepat sebelum dimakan.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasi
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan ($A_w$) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam.
+      Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam.
     </p>
   </details>
 

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "수박 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 수박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>한국소비자원(KCA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>",
+                "authority": "한국소비자원(KCA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
                 "intro": "여름철 먹다 남은 수박을 반으로 자른 채 무심코 비닐 랩만 씌워 냉장고에 보관해 본 적 있으시죠? 🍉\n\n한국소비자원(KCA)의 실증 실험 결과에 따르면, 자른 수박 단면에 비닐 랩을 직접 밀착시켜 보관할 경우 표면의 세균 농도가 보관 전보다 최대 3,000배 이상 폭발적으로 증식합니다. 수박 껍질에 서식하던 미생물과 자른 단면에서 배어나온 수액(드립)이 랩 내부에 갇혀 세균 배양기 역할을 하기 때문입니다.\n\n이번 가이드에서는 한국소비자원과 식품의약품안전처(MFDS)의 검증된 가이드라인을 바탕으로 식중독균 증식을 완벽히 차단하고 7일 이상 아삭함과 당도를 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Watermelon Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for watermelon based on official safety guidelines.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "Have you ever cut a watermelon in half and loosely covered the exposed face with plastic wrap before putting it in the fridge? 🍉\n\nAccording to clinical testing by the Korea Consumer Agency (KCA), covering cut watermelon directly with plastic wrap causes bacterial levels on the cut surface to explode by over 3,000 times compared to initial counts. Moisture and nutrient-rich exudate (drip) from the fruit get trapped beneath the plastic film, turning the surface into an ideal bacterial incubator.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the KCA, MFDS, and USDA to completely prevent foodborne bacteria, preserve sweetness, and keep your cubed watermelon crisp for over a week. 🛡️",
                 "whyTitle": "Why Store Watermelon This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "スイカを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくスイカの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>韓国消費者院(KCA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+                "authority": "韓国消費者院(KCA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)",
                 "intro": "食べ残したスイカを半分に切ったまま、直接ラップを被せて冷蔵庫に入れていませんか？🍉\n\n韓国消費者院（KCA）の検証実験によると、カットしたスイカの断面に直接ラップを貼って保存した場合、切り口の細菌濃度が保存前と比べて最大3,000倍以上に爆発的増殖することが判明しています。皮に付着していた細菌や断面から出た果汁（ドリップ）がラップ内部に閉じ込められ、細菌の培養器となってしまうためです。\n\n本記事では、韓国消費者院および食品医薬品安全処（MFDS）のガイドラインに基づき、食中毒菌の繁殖を遮断し、7日以上シャキシャキ感と甘みを保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持西瓜新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解西瓜的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+                "authority": "韩国消费者院(KCA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)",
                 "intro": "吃剩的半个西瓜，您是否习惯性地直接覆上一层保鲜膜就丢进冰箱冷藏？🍉\n\n根据韩国消费者院（KCA）的实证对比实验，如果在切开的西瓜切面上直接贴覆保鲜膜保存，一周后切面上的细菌浓度会比保存前暴增3,000倍以上！这是因为西瓜表皮残留的细菌以及切面渗出的富含营养的水汽被困在保鲜膜内，使保鲜膜变成了细菌温床。\n\n本指南基于韩国消费者院和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您彻底阻断致病菌滋生，保持西瓜清脆甜美达7天以上。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la sandía fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la sandía según las directrices oficiales de seguridad.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "¿Alguna vez cortó una sandía por la mitad y cubrió directamente la superficie expuesta con film plástico antes de meterla al refrigerador? 🍉\n\nSegún ensayos clínicos de la Agencia de Consumidores de Corea (KCA), cubrir la sandía cortada directamente con papel film plástico hace que las bacterias en la superficie se multipliquen de forma explosiva ¡más de 3,000 veces! La humedad y los jugos ricos en nutrientes quedan atrapados bajo el plástico, convirtiendo la superficie en una incubadora bacteriana.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las directrices de la KCA, el MFDS y el USDA para bloquear las bacterias, conservar la dulzura y mantener sus cubos de sandía crujientes por más de una semana. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la pastèque fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la pastèque selon les directives officielles de sécurité.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "Avez-vous déjà coupé une pastèque en deux et recouvert directement la chair d'un film plastique avant de la mettre au réfrigérateur ? 🍉\n\nSelon les tests cliniques de l'Agence Coréenne des Consommateurs (KCA), recouvrir directement de la pastèque coupée avec du film étirable fait exploser la concentration bactérienne à la surface de plus de 3 000 fois ! L'humidité et l'exsudat sucré restent emprisonnés sous le plastique, transformant la chair en une véritable couveuse à microbes.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la KCA, du MFDS et du USDA pour bloquer les bactéries, préserver le sucre et garder vos dés de pastèque croquants pendant plus d'une semaine. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Wassermelone richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Wassermelonen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "Haben Sie eine angeschnittene Wassermelone schon einmal direkt mit Frischhaltefolie abgedeckt und in den Kühlschrank gestellt? 🍉\n\nNach klinischen Tests der Verbraucherbehörde Korea (KCA) führt das direkte Abdecken der Schnittfläche mit Frischhaltefolie dazu, dass sich die Bakterien auf der Oberfläche um das Mehr als 3.000-Fache vermehren! Feuchtigkeit und nährstoffreicher Fruchtsaft werden unter der Folie eingeschlossen und machen die Oberfläche zur perfekten Bakterienbrutstätte.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von KCA, MFDS und USDA basiert, um Bakterien zu stoppen, Süße zu bewahren und Ihre gewürfelte Wassermelone über eine Woche lang knackig zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar melancia fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para melancia com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "Você já cortou uma melancia ao meio e cobriu a parte exposta diretamente com filme plástico antes de colocar na geladeira? 🍉\n\nSegundo testes clínicos da Agência de Consumidores da Coreia (KCA), cobrir a melancia cortada diretamente com filme plástico faz com que as bactérias na superfície se multipliquem de forma assustadora: mais de 3.000 vezes! A umidade e o suco rico em nutrientes ficam presos sob o plástico, transformando a superfície em uma incubadora de bactérias.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da KCA, MFDS e USDA para bloquear bactérias, preservar a doçura e manter seus cubos de melancia crocantes por mais de uma semana. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Semangka agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk semangka berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>KCA & MFDS & USDA</strong>",
+                "authority": "KCA & MFDS & USDA",
                 "intro": "Pernahkah Anda memotong semangka menjadi dua lalu menutup permukaan daging buahnya secara langsung dengan plastik wrap sebelum dimasukkan ke kulkas? 🍉\n\nMenurut pengujian klinis oleh Korea Consumer Agency (KCA), menutup semangka potong secara langsung dengan plastik wrap membuat kadar bakteri di permukaannya melonjak secara drastis hingga lebih dari 3.000 kali lipat! Kelembapan dan cairan manis hasil respirasi terperangkap di bawah plastik wrap, mengubah permukaan semangka menjadi inkubator bakteri yang berbahaya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman KCA, MFDS, dan USDA untuk memblokir bakteri penyebab keracunan makanan, menjaga rasa manis, dan menjaga potongan dadu semangka Anda tetap renyah selama lebih dari seminggu. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Guardar em frascos escuros ou potes opacos para bloquear oxigênio — Barreira de luz e ar 📦"
     text: "Bloquear oxigênio e luz ao mesmo tempo é o primeiro passo contra o ranço. 💡 Dica de conservação: Deixe o gergelim torrado esfriar totalmente, passe para frascos escuros ou potes opacos com sachê de sílica-gel e sele hermeticamente."
@@ -38,7 +38,7 @@ O gergelim é um condimento rico em gordura (mais de 50% de ácidos graxos insat
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>"
+authority: "米国農務省(USDA) & 世界保健機関(WHO)"
 steps:
   - name: "バナナスタンド（ハンガー）に吊るす — 常温保存 (7日間) 🍌"
     text: "バナナをテーブルなどに直に置いておくと、自重によって下の部分が潰れて傷んでしまいます。潰れた部分は傷みやすく、エチレンガスが過剰に発生して変色が進みます。💡保存のコツ：専用のスタンドやフックを使って吊るして保存してください。木に実っている状態に近い環境を作ることで、傷みを防ぎ長持ちします。"
@@ -34,7 +34,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 世界保健機関(WHO)に基づいています。
     </p>
   </div>
 </div>

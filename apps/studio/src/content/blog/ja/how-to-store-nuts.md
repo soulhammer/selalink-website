@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)"
 steps:
   - name: "開封後は必ず密閉して冷蔵または冷凍保存する — 冷蔵 (90日), 冷凍 (180日) ❄️"
     text: "ナッツ類は高温多湿の常温に置くと不飽和脂肪酸が空気中の酸素と結合して酸化し、悪臭を放つとともにアフラトキシンが発生します。💡保存のコツ：開封したナッツはすぐに密閉して冷蔵室（0〜4℃）で3ヶ月、冷凍室（-18℃以下）で6ヶ月以上安全に保存できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)に基づいています。
     </p>
   </div>
 </div>

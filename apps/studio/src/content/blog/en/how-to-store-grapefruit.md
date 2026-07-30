@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Wrap each grapefruit individually in paper or paper towels — Moisture Control 🗞️"
     text: "Protecting the peel from humidity build-up and friction is the essential first step. 💡 Storage Tip: Wrap dry, unwashed grapefruits individually in newspaper or paper towels to absorb excess moisture and prevent rind damage."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step grapefruit storage gu
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

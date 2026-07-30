@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lime_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap dry unwashed limes in paper towels & seal in a Ziploc bag — Moisture & Humidity Control 📦"
     text: "Prevent moisture loss while avoiding excess moisture buildup. 💡 Storage Tip: Wrap each dry, unwashed lime individually in a paper towel, place them in a Ziploc bag, and squeeze out excess air. The paper towel absorbs moisture, preventing mold while retaining juiciness."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

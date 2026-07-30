@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS & RDA</strong>"
+authority: "USDA & FDA & MFDS & RDA"
 steps:
   - name: "Aplane la superficie con una cuchara limpia — Evite la separación de suero 🥄"
     text: "Al usar crema agria, dejar cráteres o hendiduras permite que el suero líquido se acumule, creando un ambiente propicio para microbios. 💡 Consejo de almacenamiento: Alise la superficie plana con una cuchara limpia antes de cerrar el envase para evitar que el líquido se pozole."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de crema agria en 3 pasos r
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS & RDA</strong>.
+      Este contenido se basa en USDA & FDA & MFDS & RDA.
     </p>
   </div>
 </div>

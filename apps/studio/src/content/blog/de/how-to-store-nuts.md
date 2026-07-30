@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Nach dem Öffnen fest verschließen und kühlen/einfrieren — Kühllagerung (90 Tage im Kühlschrank, 180 Tage im Gefrierfach) ❄️"
     text: "Raumtemperatur lässt ungesättigte Fette oxidieren und ranzig werden. 💡 Lagerungstipp: Verschließen Sie geöffnete Nüsse luftdicht im Kühlschrank (0–4 °C) für bis zu 3 Monate oder im Gefrierschrank (-18 °C) für über 6 Monate."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA & FDA</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA & FDA.
     </p>
   </div>
 </div>

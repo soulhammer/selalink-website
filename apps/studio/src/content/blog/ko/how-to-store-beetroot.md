@@ -8,17 +8,17 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "상부 잎을 2cm 남기고 잘라내기 — 수분 및 영양 유출 차단 ✂️"
     text: "잎에 의한 증산 작용을 차단하는 것이 비트 보관의 가장 첫 단계입니다. 💡 보관 팁: 줄기를 바짝 자르면 구근에 상처가 생겨 베타시아닌 즙이 새어나오므로, 줄기를 2cm 정도 남겨두고 잘라내어 수분과 영양분의 유출 경로를 차단해 주세요."
-  - name: "신문지나 키친타올로 감싸 0 ~ 4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3 ~ 4주) ❄️"
-    text: "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타올로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0 ~ 4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3 ~ 4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
+  - name: "신문지나 키친타월로 감싸 0 ~ 4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3 ~ 4주) ❄️"
+    text: "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타월로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0 ~ 4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3 ~ 4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
   - name: "살짝 찌거나 삶은 후 깍둑썰기하여 냉동 보관하기 — 냉동 보관 (10 ~ 12개월) 🧊"
     text: "생비트를 그대로 냉동하면 해동 시 조직이 모두 깨지고 물러집니다. 💡 보관 팁: 비트를 껍질째 찌거나 삶아 익힌 후, 껍질을 벗기고 깍둑썰기하여 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 주스나 수프용으로 10 ~ 12개월간 영양소 손실 없이 활용할 수 있습니다."
 faqs:
-  - question: "비트를 감싼 키친타올이 젖으면 어떻게 해야 하나요?"
-    answer: "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타올이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타올로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
+  - question: "비트를 감싼 키친타월이 젖으면 어떻게 해야 하나요?"
+    answer: "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타월이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타월로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
   - question: "비트 잎은 버려야 하나요, 아니면 따로 활용할 수 있나요?"
     answer: "잘라낸 비트 잎은 버릴 필요가 없습니다! 비트 잎에는 철분, 칼슘, 비타민 A가 풍부합니다. 잘라낸 즉시 씻어서 시금치처럼 나물로 무치거나 샐러드, 찌개용으로 활용하시면 좋습니다. 단, 잎은 부패가 빠르므로 1 ~ 2일 이내에 소비해야 합니다."
 ---
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -60,10 +60,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 2</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">신문지나 키친타올로 감싸 0 ~ 4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3 ~ 4주) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">신문지나 키친타월로 감싸 0 ~ 4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3 ~ 4주) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타올로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0 ~ 4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3 ~ 4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)
+    빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타월로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0 ~ 4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3 ~ 4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)
   </p>
 </div>
 
@@ -108,11 +108,11 @@ faqs:
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">비트를 감싼 키친타올이 젖으면 어떻게 해야 하나요?</span>
+      <span class="pr-4">비트를 감싼 키친타월이 젖으면 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타올이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타올로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다.
+      비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타월이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타월로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다.
     </p>
   </details>
 

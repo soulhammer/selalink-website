@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用厨房纸巾彻底吸干表面油脂与水分(血水) — 阻断细菌滋生与腥味 🍣"
     text: "生三文鱼表面的水分与渗出的鱼油是产生三甲胺（TMA）腥味和细菌滋生的主因。💡储存小贴士：储存前用厨房纸巾按压三文鱼正反面，彻底吸干表面水分与血汁，是长期保鲜的基础。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "光と空気を遮断する不透明な密閉容器に入れる — 完全密閉保存 🫙"
     text: "ココアパウダーの最大の敵は空気中の湿気と光です。💡保存のコツ：開封後は元の袋のまま保管せず、紫外線を通さない不透明なガラス瓶、ステンレス容器、または遮光チャック付き袋に移し替え、空気が入らないようしっかり密閉してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

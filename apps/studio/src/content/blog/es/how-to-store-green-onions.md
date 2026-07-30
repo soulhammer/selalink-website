@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Envuelva sin lavar en periódico y guarde de pie — Temp. Ambiente (5 días) 🌿"
     text: "Envuelva los cebollines secos y no lavados en papel periódico o papel vegetal. 💡 Consejo de almacenamiento: Colóquelos de pie con las raíces hacia abajo en un lugar fresco, ventilado y en sombra (10-15 °C). Mantenerlos en posición vertical imita su crecimiento natural y retrasa el deterioro."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las pautas 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & MFDS & USDA</strong>.
+      Este contenido se basa en RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Harte Kiwis bei Raumtemperatur (18–22 °C) nachreifen lassen — Nachreifen (3–7 Tage) 🧺"
     text: "Lassen Sie feste Kiwis bei kühler Raumtemperatur stehen, bis sie auf leichten Daumendruck nachgeben. 💡 Lagerungstipp: Um das Nachreifen zu beschleunigen, geben Sie die harten Kiwis zusammen mit einem Apfel oder einer Banane in eine Papiertüte. Das eingeschlossene Ethylen lässt sie in 2–3 Tagen süß werden."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

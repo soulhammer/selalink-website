@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Couper les talons et maintenir debout dans un fond d'eau — Méthode du vase 🥛"
     text: "L'asperge a besoin d'une hydratation continue à sa base pour rester croquante. 💡 Astuce de conservation : Recoupez 1 cm au bas des tiges et placez-les debout dans un bocal contenant 1 à 2 cm d'eau."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Ce contenu est basé sur RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

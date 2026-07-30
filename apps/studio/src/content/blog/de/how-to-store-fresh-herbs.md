@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Basilikum: Stängel anschneiden und im Wasserglas bei Raumtemperatur (15–20 °C) lagern — Strauß-Methode 🌸"
     text: "Basilikum gedeiht am besten bei kühler Raumtemperatur. 💡 Lagerungstipp: Schneiden Sie 1 cm der Stängel ab, stellen Sie das Basilikum in ein Glas mit 1–2 cm Wasser und stülpen Sie eine Plastiktüte bei 15–20 °C für 7–10 Tage locker darüber."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

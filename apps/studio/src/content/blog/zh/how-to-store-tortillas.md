@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "在每张饼皮之间垫入烘焙纸 — 防粘隔层法 📄"
     text: "这是防止卷饼皮粘连的核心技巧。💡储存小贴士：铺一张饼皮，上面盖一张裁切成合适大小的烘焙纸（油纸），再叠放下一张饼皮。烘焙纸可阻断饼皮间的物理水分传递，冷冻后也能轻松单张拿取。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

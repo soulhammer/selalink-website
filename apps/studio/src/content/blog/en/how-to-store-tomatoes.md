@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Ripen at room temperature in the shade before fully ripe — Room Temp Storage (5–7 Days) 🌿"
     text: "Keep unripe green/pink tomatoes at cool room temperature (15–20°C / 59–68°F) away from direct sunlight. 💡 Storage Tip: Remove the green stems and store tomatoes stem-side down on a flat surface to distribute weight and prevent bottom bruising."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & CDC</strong>.
+      This content is based on RDA & USDA & CDC.
     </p>
   </div>
 </div>

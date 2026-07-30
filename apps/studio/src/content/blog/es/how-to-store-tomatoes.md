@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Madure a temperatura ambiente a la sombra antes de que estén maduros — Temp. Ambiente (5–7 días) 🌿"
     text: "Conserve los tomates verdes o rosados a temperatura ambiente fresca (15–20 °C) sin sol directo. 💡 Consejo de almacenamiento: Retire los tallos verdes y coloque los tomates con la parte del tallo hacia abajo sobre una superficie plana para distribuir el peso."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & CDC</strong>.
+      Este contenido se basa en RDA & USDA & CDC.
     </p>
   </div>
 </div>

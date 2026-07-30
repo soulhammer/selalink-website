@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC"
 steps:
   - name: "存放在20 ~ 24℃的阴凉避光常温处 — 常温密封保存 (360 ~ 720天) 📦"
     text: "椰子油无需强制冷藏，在阴凉常温下最方便取用。💡储存小贴士：存放在避光的食品柜或橱柜中（20 ~ 24℃）。开封后在此条件下，其特有的浓郁香味与新鲜度可完美保持1 ~ 2年。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Antes de madurar] Almacenar a temperatura ambiente fresca (20-25 °C) — Maduración natural (3 a 7 días) 🌡️"
     text: "Los mangos desarrollan su dulzura lentamente a temperatura ambiente. 💡 Consejo de almacenamiento: Manténgalos en un lugar ventilado y lejos de la luz solar directa hasta que la piel adquiera brillo, la zona del tallo huela dulce y la fruta ceda ligeramente al apretarla con suavidad, como un melocotón maduro."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS & RDA</strong>.
+      Este contenido se basa en USDA & MFDS & RDA.
     </p>
   </div>
 </div>

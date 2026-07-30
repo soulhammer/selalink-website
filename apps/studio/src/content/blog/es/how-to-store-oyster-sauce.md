@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Limpie la boquilla y la tapa tras usar — Evite contaminación y moho 🧻"
     text: "Los residuos de salsa alrededor de la boquilla absorben la humedad del aire y se convierten en criadero de moho. 💡 Consejo de almacenamiento: Limpie bien la boquilla con papel de cocina tras su uso y tape herméticamente. Esto evita que el moho penetre al interior."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & MFDS & RDA & USDA</strong>.
+      Este contenido se basa en FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

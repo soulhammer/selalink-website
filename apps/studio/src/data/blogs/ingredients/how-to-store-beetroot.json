@@ -8,7 +8,7 @@
             "ko": {
                 "title": "비트 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 비트의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "건강 주스나 샐러드용으로 뿌리채소인 비트를 사 왔는데, 며칠 지나지 않아 표면이 쭈글쭈글해지고 속이 푸석하게 변해 버린 적 있으시죠? 붉은 뿌리채소 비트는 동유럽의 보르시 수프부터 글로벌 클렌즈 주스까지 널리 쓰이는 슈퍼푸드입니다.\n\n하지만 비트 상부에 잎과 줄기가 붙어있으면 **증산 작용(Transpiration)**이 지속되어 구근 속 수분과 영양분을 위쪽으로 계속 끌어당깁니다. 이로 인해 뿌리 조직이 섬유화되고 급격히 무르게 됩니다. 또한 비트의 강력한 항산화 성분이자 수용성 색소인 **베타시아닌(Betacyanin)**은 빛과 열에 노출되면 유기 분자 구조가 파괴되어 영양 가치가 크게 떨어집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 검증한 과학적인 비트 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -30,8 +30,8 @@
                         "text": "잎에 의한 증산 작용을 차단하는 것이 비트 보관의 가장 첫 단계입니다. 💡 보관 팁: 줄기를 바짝 자르면 구근에 상처가 생겨 베타시아닌 즙이 새어나오므로, 줄기를 2cm 정도 남겨두고 잘라내어 수분과 영양분의 유출 경로를 차단해 주세요."
                     },
                     {
-                        "name": "신문지나 키친타올로 감싸 0~4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3~4주) ❄️",
-                        "text": "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타올로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0~4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3~4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
+                        "name": "신문지나 키친타월로 감싸 0~4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3~4주) ❄️",
+                        "text": "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타월로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0~4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3~4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
                     },
                     {
                         "name": "살짝 찌거나 삶은 후 깍둑썰기하여 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
@@ -40,8 +40,8 @@
                 ],
                 "faqs": [
                     {
-                        "question": "비트를 감싼 키친타올이 젖으면 어떻게 해야 하나요?",
-                        "answer": "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타올이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타올로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
+                        "question": "비트를 감싼 키친타월이 젖으면 어떻게 해야 하나요?",
+                        "answer": "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타월이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타월로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
                     },
                     {
                         "question": "비트 잎은 버려야 하나요, 아니면 따로 활용할 수 있나요?",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Beetroot Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for beetroot based on official safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Have you ever bought beetroot for healthy juices or salads, only to find it shriveled and spongy after just a few days? Beetroot is a vibrant root vegetable and global superfood used in everything from Eastern European borscht to detox smoothies.\n\nHowever, leaving the top leaves and stems attached causes continuous **transpiration**, drawing stored moisture and nutrients out of the bulb to nourish the leaves. This causes the root flesh to become woody and soft. Furthermore, **betacyanin**, the powerful antioxidant water-soluble pigment that gives beetroot its deep red color, easily degrades under light and heat.\n\nIn this guide, we introduce a scientifically proven 3-step beetroot storage guide recommended by agriculture and food safety experts to preserve freshness and nutrition. 🛡️",
                 "whyTitle": "Why Store Beetroot This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ビート（ビーツ）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくビートの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "健康ジュースやサラダ用に根菜のビート（ビーツ）を買ってきたものの、数日もしないうちに 表面がシワシワになり、中がパサついてしまった経験はありませんか？鮮やかな赤い根菜であるビートは、東欧のボルシチからデトックスジュースまで広く愛されているスーパーフードです。\n\nしかし、ビートの上部に葉や茎がついて居ると**蒸散作用(Transpiration)**が継続し、根に蓄えられた水分や栄養素を上部に吸い上げて消費してしまいます。これにより根の組織が繊維化し、急激に柔らかくなります。また、ビートの強力な抗酸化成分であり水溶性色素である**ベタシアニン(Betacyanin)**は、光や熱に晒されると有機分子構造が破壊され、栄養価値が大きく低下します。\n\n本記事では、専門家が検証したビートの鮮度と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持甜菜根新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解甜菜根的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "当您买回新鲜的根茎蔬菜甜菜根准备打汁或做沙拉，却发现没过几天表皮就起皱变软、内部发棉？甜菜根是一种营养丰富的红色根茎蔬菜，从东欧罗宋汤到全球流行的排毒青汁，都是极受欢迎的超级食物。\n\n然而，如果保留甜菜根顶部的叶子和茎，**蒸腾作用(Transpiration)**会持续发生，不断汲取根部储存的水分和营养向上方输送，导致根部肉质纤维化并迅速变软。此外，甜菜根中富含的强效抗氧化水溶性色素**甜菜红素(Betacyanin)**在光照和高温下极易发生分子结构破坏，降低营养价值。\n\n本指南基于权威机构建议，为您带来3步科学甜菜根保鲜秘诀，锁住水分与营养。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la remolacha (remolacha roja) fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la remolacha según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¿Alguna vez compró remolacha para jugos saludables o ensaladas y descubrió que se volví arrugada y esponjosa a los pocos días? La remolacha es un hortaliza de raíz vibrante y un superalimento global utilizado desde la sopa borscht oriental hasta los batidos detox.\n\nSin embargo, dejar las hojas y tallos unidos provoca una **transpiración** continua, extrayendo la humedad y los nutrientes almacenados en el bulbo para nutrir las hojas. Esto hace que la pulpa de la raíz se vuelva leñosa y blanda. Además, la **betacianina**, el potente pigmento antioxidante hidrosoluble que le da su característico color rojo, se degrada fácilmente bajo la luz y el calor.\n\nEn esta guía se presenta una guía de conservación de la remolacha en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la betterave rouge fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la betterave rouge selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Avez-vous déjà acheté de la betterave rouge pour des jus sains ou des salades, pour constater qu'elle devenait flétrie et spongieuse en quelques jours ? La betterave est un légume racine très prisé, utilisé du borscht d'Europe de l'Est aux smoothies detox du monde entier.\n\nCependant, laisser les feuilles et tiges attachées maintient une **transpiration** continue, tirant l'eau et les nutriments stockés dans la racine vers le haut. La chair devient alors fibreuse et ramollit vite. De plus, la **bétacyanine**, un puissant pigment antioxydant hydrosoluble qui lui donne sa couleur rouge, se dégrade facilement sous l'action de la lumière et de la chaleur.\n\nDans ce guide, vous présente un guide de conservation de la betterave en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Rote Bete (Beetroot) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rote Bete basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Haben Sie schon einmal Rote Bete für gesunde Säfte oder Salate gekauft, nur um festzustellen, dass sie nach wenigen Tagen schrumpelig und schwammig wurde? Rote Bete ist eine leuchtende Knolle und ein weltweites Superfood, das von osteuropäischem Borschtsch bis zu Detox-Smoothies geschätzt wird.\n\nBleiben jedoch Blätter und Stängel an der Knolle, findet kontinuierlich **Transpiration** statt, die der Knolle Feuchtigkeit und Nährstoffe entzieht, um die Blätter zu versorgen. Dadurch wird das Fleisch holzig und weich. Zudem wird das wertvolle Antioxidans **Betacyanin**, der wasserlösliche rote Farbstoff, durch Licht und Hitze leicht zersetzt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Roter Bete. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar beterraba fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a beterraba com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Você já comprou beterraba para sucos saudáveis ou saladas e descobriu que ela ficou murcha e esponjosa em poucos dias? A beterraba é uma raiz vibrante e um superalimento global usado desde a sopa borscht até sucos detox.\n\nContudo, deixar as folhas e talos anexados mantém uma **transpiração** contínua, puxando a água e os nutrientes armazenados na raiz em direção às folhas. Isso faz com que a polpa fique fibrosa e murcha. Além disso, a **betacianina**, o potente pigmento antioxidante hidrossolúvel que dá a cor vermelha, degrada-se facilmente com luz e calor.\n\nNeste guia, apresentamos um guia de conservação de beterraba em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Bit (Beetroot) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bit berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Pernahkah Anda membeli buah bit untuk jus sehat atau salad, lalu mendapati teksturnya menjadi keriput dan lembek hanya dalam beberapa hari? Bit adalah sayuran umbi berwarna merah cerah yang populer dari Sup Borscht Eropa Timur hingga jus detoks dunia.\n\nNamun, membiarkan daun dan batang atasnya tetap menempel memicu **transpirasi** berkelanjutan, yang menyedot cadangan air dan nutrisi dari umbi ke bagian atas. Hal ini membuat daging umbi menjadi berserat dan keras/lembek. Selain itu, **betasianin (Betacyanin)**, pigmen merah antioksidan larut air yang kuat, sangat mudah rusak akibat paparan cahaya dan panas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bit 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

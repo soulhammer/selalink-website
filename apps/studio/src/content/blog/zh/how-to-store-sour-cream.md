@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)"
 steps:
   - name: "用干净勺子将表面抹平 — 阻断乳清分离与污染 🥄"
     text: "舀取酸奶油后若留有深坑，坑洼处极易积聚液体乳清，成为微生物滋生的温床。💡储存小贴士：每次使用后用干净勺子将表面压实抹平。抹平表面能有效减少乳清积聚，延长保鲜期。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)。
     </p>
   </div>
 </div>

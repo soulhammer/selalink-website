@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bacon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 포장으로 냉장 보관하기 — 개봉 후 냉장 (7일) 📦"
     text: "개봉된 베이컨 보관의 핵심은 공기와의 접촉을 완벽히 차단하는 것입니다. 💡 보관 팁: 남은 베이컨 전체를 식품용 랩으로 공기 없이 밀착하여 감싼 뒤, 밀폐 지퍼백에 담아 냉장고 깊은 선반(0 ~ 4℃)에 보관하세요. 개봉 후 7일 이내에 소비하는 것이 가장 안전합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

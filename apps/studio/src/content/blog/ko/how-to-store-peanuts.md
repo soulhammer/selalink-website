@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "산소와 습기를 차단하는 밀폐 포장하기 — 수분·산소 차단 📦"
     text: "알땅콩이나 피땅콩 모두 공기 중에 그대로 노출되면 산소와 결합하여 산패가 시작됩니다. 💡 보관 팁: 땅콩을 지퍼백이나 밀폐 용기에 담고, 시중에 판매하는 식품용 건조제(실리카겔)나 산소흡수제를 함께 넣어 봉하세요. 공기 접촉을 최소화하고 수분 활성도를 낮추는 것이 신선도 유지를 위한 1차 방어선입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "硬李子置于阴凉常温（18 ~ 22℃）催熟 — 常温催熟 (2 ~ 4天) 🧺"
     text: "这是聚糖增香的关键催熟步骤。💡储存小贴士：将未清洗的李子平铺在纸箱或托盘上，放在避光、通风良好的阴凉常温处。当果蒂周围微微发软并散发甜香时，即表示催熟完成。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

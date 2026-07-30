@@ -8,12 +8,12 @@ category: "FreshSnap"
 heroImage: "/images/blog/cauliflower_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "씻지 않은 상태로 키친타올 감싸기 — 수분 조절 및 착색 방지 📦"
-    text: "콜리플라워 표면에 묻은 이물질만 털어내고, 키친타올이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타올이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다."
+  - name: "씻지 않은 상태로 키친타월 감싸기 — 수분 조절 및 착색 방지 📦"
+    text: "콜리플라워 표면에 묻은 이물질만 털어내고, 키친타월이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타월이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다."
   - name: "0 ~ 2℃ 및 상대습도 90 ~ 95% 저온 냉장 보관하기 — 저온 신선 보관 (1 ~ 2주) ❄️"
-    text: "콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0 ~ 2℃입니다. 💡 보관 팁: 키친타올로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0 ~ 2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1 ~ 2주간 신선하게 유지됩니다."
+    text: "콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0 ~ 2℃입니다. 💡 보관 팁: 키친타월로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0 ~ 2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1 ~ 2주간 신선하게 유지됩니다."
   - name: "살짝 데친 후 -18℃ 이하 장기 냉동 보관하기 — 데침(Blanching) 냉동 보관 (10 ~ 12개월) 🧊"
     text: "콜리플라워를 오랫동안 보관하려면 데침(Blanching) 과정을 거쳐 효소 활성을 정지시켜야 합니다. 💡 보관 팁: 한 입 크기로 잘라 소금물에 1 ~ 2분간 살짝 데친 후 찬물에 식히고 수분을 완전 제거하세요. 그 후 지퍼백에 밀봉해 냉동실(-18℃ 이하)에 보관하면 영양 손실 없이 10 ~ 12개월간 활용할 수 있습니다."
 faqs:
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">씻지 않은 상태로 키친타올 감싸기 — 수분 조절 및 착색 방지 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">씻지 않은 상태로 키친타월 감싸기 — 수분 조절 및 착색 방지 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    콜리플라워 표면에 묻은 이물질만 털어내고, 키친타올이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타올이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다.
+    콜리플라워 표면에 묻은 이물질만 털어내고, 키친타월이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타월이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">0 ~ 2℃ 및 상대습도 90 ~ 95% 저온 냉장 보관하기 — 저온 신선 보관 (1 ~ 2주) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0 ~ 2℃입니다. 💡 보관 팁: 키친타올로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0 ~ 2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1 ~ 2주간 신선하게 유지됩니다.
+    콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0 ~ 2℃입니다. 💡 보관 팁: 키친타월로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0 ~ 2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1 ~ 2주간 신선하게 유지됩니다.
   </p>
 </div>
 

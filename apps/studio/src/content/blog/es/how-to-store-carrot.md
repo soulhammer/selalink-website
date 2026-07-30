@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Seque la humedad superficial por completo — Evite la pudrición 📦"
     text: "La humedad atrapada en la piel de la zanahoria provoca moho y pudrición bacteriana rápida. 💡 Consejo de almacenamiento: Deje las zanahorias con tierra sin lavar y séquelas a la sombra. Si son zanahorias lavadas, séquelas bien con toallas de papel antes de guardarlas."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en investigaci
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

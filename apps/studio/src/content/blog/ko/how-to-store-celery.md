@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/celery_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "줄기와 잎 분리하여 보관하기 — 수분 증발 차단 ✂️"
     text: "셀러리의 잎은 줄기의 수분을 빠르게 흡수하여 매출시킵니다. 💡 보관 팁: 구매 후 바로 줄기와 잎을 칼로 분리해 주세요. 잎은 키친타월에 싸서 따로 보관하고, 줄기는 보관 용기 길이에 맞게 손질합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

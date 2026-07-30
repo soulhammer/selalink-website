@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/paprika_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "In Metalldosen oder Braun-/Violettglas gläsern lagern — Lichtschutz 📦"
     text: "Der Schutz von Capsanthin vor Licht und Luft ist essenziell. 💡 Lagerungstipp: Lagern Sie das Pulver in luftdichten Metalldosen oder dunklen Glasbehältern. Transparente Gefäße lassen das Pulver im Licht schnell verblassen und bitter werden."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transfira para um recipiente hermético próprio para massa — Proteção total contra umidade e pragas 📦"
     text: "O segredo para conservar massa seca é bloquear o ar e a umidade. 💡 Dica de conservação: Guarde a massa em potes altos de vidro ou recipientes herméticos sem BPA. Isso impede a umidade e a entrada de insetos."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

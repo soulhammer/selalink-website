@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Guarde nas prateleiras internas profundas, não na porta — Refrigeração (7 dias) ❄️"
     text: "A porta da geladeira sofre alterações térmicas severas a cada abertura. 💡 Dica de conservação: Para preservar o frescor do leite, guarde-o em uma prateleira interna profunda do compartimento principal, onde a temperatura fica estável entre 0 e 4 °C."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA & FDA</strong>.
+      Este conteúdo baseia-se em MFDS & USDA & FDA.
     </p>
   </div>
 </div>

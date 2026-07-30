@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Buang daun luar yang rusak dan keringkan permukaan — Pembersihan Awal 🥬"
     text: "Buang daun luar yang menguning atau rusak saat dibeli, lalu lap permukaannya hingga kering dengan tisu dapur. 💡 Tips Penyimpanan: Membuang daun yang layu mencegah pembusukan merambat ke dalam. Biarkan batang tetap utuh untuk mengurangi penguapan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan kubis Brussels 3 langkah 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & RDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & RDA & MFDS.
     </p>
   </div>
 </div>

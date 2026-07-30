@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Sirva con una cuchara limpia y seca y selle bien — Prevención de contaminación 📦"
     text: "Evite comer directamente del envase grande. Sirva la cantidad necesaria usando una cuchara limpia y seca. 💡 Consejo de almacenamiento: Limpie cualquier residuo alrededor del borde con papel absorbente y cierre la tapa herméticamente para evitar que entren esporas de moho."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación del yogurt en 3 pasos respa
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

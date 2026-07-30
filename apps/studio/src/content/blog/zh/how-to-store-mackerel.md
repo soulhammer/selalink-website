@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国国立水产科学院(NIFS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国国立水产科学院(NIFS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "清除内脏与血迹 — 阻断自溶与腥味 🔪"
     text: "去除青花鱼的鱼鳃和内脏，在流动水下彻底洗净脊骨附近的血块和黑色腹膜。💡储存小贴士：内脏周边是腐败最快的部位。处理后用厨房纸巾将内外水分彻底擦干，是防止腥味和细菌滋生的第一步。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国国立水产科学院(NIFS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国国立水产科学院(NIFS) & 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

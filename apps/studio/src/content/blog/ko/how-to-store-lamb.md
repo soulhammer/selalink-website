@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lamb_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "핏물 제거 후 랩으로 밀착 포장하기 — 핏물 닦기 & 산소 차단 📦"
     text: "양고기 표면의 핏물은 잡내와 부패의 주원인이 되며, 공기 중 산소와 만나면 지방이 쉽게 산화됩니다. 💡 보관 팁: 키친타월로 표면의 수분과 핏물을 닦아낸 후, 식품용 랩으로 공기가 통하지 않게 고기를 한 덩이씩 빈틈없이 밀착 포장해 주세요. 변색과 수분 증발을 완벽히 막아줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

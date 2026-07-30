@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>WiKim & RDA & MFDS</strong>"
+authority: "WiKim & RDA & MFDS"
 steps:
   - name: "Tekan dengan alat penekan (atau plastik wrap) untuk memblokir udara — Pertahankan Kondisi Anaerobik 📦"
     text: "Bakteri asam laktat (Leuconostoc, Lactobacillus) yang berperan dalam fermentasi berkembang baik di lingkungan anaerobik (tanpa oksigen), sedangkan ragi membutuhkan oksigen. 💡 Tips Penyimpanan: Isi wadah hingga 80% saja, lalu tekan bagian atas secara rapat dengan alat penekan, plastik wrap, atau daun kubis luar agar kimchi terendam sepenuhnya dalam kuah. Memblokir udara mencegah oksidasi dan lapisan ragi putih."
@@ -38,7 +38,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh World Institu
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>WiKim & RDA & MFDS</strong>.
+      Konten ini didasarkan pada WiKim & RDA & MFDS.
     </p>
   </div>
 </div>

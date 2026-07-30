@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/basil_pesto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Pour a layer of extra virgin olive oil over the surface — Oil Film Oxygen Barrier 🫒"
     text: "Transfer pesto into a container, smooth the top surface flat with a spoon, and pour a 2–3 mm layer of extra virgin olive oil over it. This oil film completely blocks oxygen contact, preventing chlorophyll from oxidizing into brown pheophytin."
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/curry_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Store in opaque, airtight containers — Block Light and Aroma Evaporation 🫙"
     text: "Preventing curcumin photodegradation and terpene oil evaporation is the critical first step. 💡 Storage Tip: After opening, transfer the powder from clear jars or original plastic bags into metal tins, opaque airtight containers, or light-blocking Ziploc pouches."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step curry powder storage 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & EFSA & MFDS</strong>.
+      This content is based on FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

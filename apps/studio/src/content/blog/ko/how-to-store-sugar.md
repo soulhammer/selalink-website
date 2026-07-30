@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sugar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "완벽 밀폐 용기에 담아 보관하기 — 습기 및 냄새 완벽 차단 📦"
     text: "종이 포장이나 비닐 봉지째 그대로 두면 공기 중의 습기와 주변 냄새가 봉지 틈새로 스며듭니다. 💡 보관 팁: 개봉한 설탕은 밀폐력이 뛰어난 유리 병이나 플라스틱 밀폐 용기에 담아 보관하세요. 외부 습기 유입을 차단하고 주변 요리 냄새가 배는 것을 방지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

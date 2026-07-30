@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Pincele la superficie con aceite de oliva virgen extra — Barrera protectora contra el oxígeno 🫒"
     text: "Cubrir las lonchas con aceite comestible es el método más eficaz contra la oxidación. 💡 Consejo de almacenamiento: Pincelar ligeramente las lonchas con aceite de oliva virgen extra crea una barrera natural que sella la humedad y evita el contacto con el aire."
@@ -25,7 +25,7 @@ faqs:
 
 ¿Alguna vez ha servido jamón ibérico o prosciutto para maridar con vino y, al guardar las lonchas sobrantes en el refrigerador, descubrió que a los pocos días estaban duras y amarillentas? 🥓
 
-El prosciutto y el jamón curado se someten a una salazón y curación prolongadas, reduciendo la actividad de agua ($A_w < 0.85$) para inhibir patógenos. Sin embargo, al ser ricos en ácidos grasos insaturados, el contacto con el oxígeno desencadena la peroxidación lipídica (autooxidación). Esto oxida la mioglobina, produciendo amarillamiento, olores rancios y dureza.
+El prosciutto y el jamón curado se someten a una salazón y curación prolongadas, reduciendo la actividad de agua (actividad de agua (Aw) < 0.85) para inhibir patógenos. Sin embargo, al ser ricos en ácidos grasos insaturados, el contacto con el oxígeno desencadena la peroxidación lipídica (autooxidación). Esto oxida la mioglobina, produciendo amarillamiento, olores rancios y dureza.
 
 En esta guía se presenta una guía de conservación del jamón curado en 3 pasos respaldada por expertos en seguridad alimentaria. 🛡️
 
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación del jamón curado en 3 paso
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & EFSA & MFDS</strong>.
+      Este contenido se basa en USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

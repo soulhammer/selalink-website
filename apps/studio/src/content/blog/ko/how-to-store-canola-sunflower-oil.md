@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "열기와 자외선이 닿지 않는 어두운 찬장(15 ~ 20℃)에 보관하기 — 상온 암소 보관 (미개봉 1 ~ 2년 / 개봉 후 3 ~ 6개월) 🌡️"
     text: "열원과 빛을 차단하고 15 ~ 20℃를 유지하는 것이 핵심입니다. 💡 보관 팁: 가스레인지 주변을 피해 다용도실이나 하부장 안쪽처럼 빛이 들지 않고 서늘한 곳에 보관하세요. 미개봉 시 1 ~ 2년, 개봉 후에는 3 ~ 6개월 이내에 소비하는 것이 가장 안전합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

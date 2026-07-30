@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Transvaser dans une boîte hermétique ou sceller avec une pince — Barrière anti-air & humidité 📦"
     text: "Réduire l'exposition à l'air après ouverture est crucial pour préserver le croquant. 💡 Astuce de conservation : Pliez le sachet 2 à 3 fois et fermez-le avec une pince hermétique, ou transvasez les céréales dans une boîte hermétique en verre ou en plastique."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour garder vos
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS.
     </p>
   </div>
 </div>

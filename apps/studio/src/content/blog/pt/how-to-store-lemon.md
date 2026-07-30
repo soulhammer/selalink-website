@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Seque a umidade da superfície completamente — Evite mofo e apodrecimento 🍋"
     text: "Embora a casca seja grossa, a água acumulada permite que os fungos invadam a fruta. 💡 Dica de conservação: Seque cada gota de água com papel-toalha e deixe secar à sombra por 5 a 10 minutos antes de guardar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FSA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FSA & MFDS.
     </p>
   </div>
 </div>

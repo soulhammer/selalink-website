@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "保留原厂铝箔纸包装 — 阻绝光线与氧气 📦"
     text: "黄油原厂的银色铝箔包装是阻挡紫外线和氧气的极佳屏障，能有效防止乳脂氧化。💡储存小贴士：剥离原厂铝箔纸而改用普通塑料膜或透明盒包装，会使黄油暴露于光线和氧气中，极大加速酸败过程。请务必保留原包装。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

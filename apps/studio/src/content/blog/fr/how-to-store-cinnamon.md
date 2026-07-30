@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Placer dans un récipient étanche et opaque (verre/métal/PP) — Éviter la volatilisation et l'humidité 🫙"
     text: "Transférez immédiatement les bâtons ou la poudre de cannelle dans un bocal opaque, une boîte métallique ou un sachet étanche à la lumière. 💡 Astuce de conservation : Une fermeture hermétique stoppe la volatilisation du cinnamaldéhyde et l'absorption d'eau."
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

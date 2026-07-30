@@ -8,7 +8,7 @@
             "ko": {
                 "title": "석류 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 석류의 최적 보관 온도, 폴리페놀 산화효소(PPO) 활성 억제 및 안토시아닌·엘라그산 영양소 보존 가이드를 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "새콤달콤한 맛과 풍부한 여성호르몬 유사업성분, 강력한 항산화 성분으로 전 세계에서 사랑받는 대표적인 건강 과일 석류! 하지만 사온 지 얼마 안 되어 껍질이 마르고 쭈글쭈글해지거나, 알맹이를 까두었더니 갈색으로 변해 버린 경험 다들 있으시죠? 붉은 보석 같은 석류 💎\n\n석류 알맹이(과육)는 공기와 접촉하는 순간 **폴리페놀 산화효소(PPO, Polyphenol Oxidase)**가 활성화되어 항산화 물질인 안토시아닌과 엘라그산(Ellagic Acid)이 빠르게 산화 갈변하며 영양소가 소실됩니다. 또한 자르지 않은 통석류는 껍질(과피)을 통한 증산 작용으로 인해 내부 수분이 마르고 과육이 탄력을 잃기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 석류의 수분 증발을 막고 PPO 활성을 낮추어 항산화 성분을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -31,7 +31,7 @@
                     },
                     {
                         "name": "알맹이 분리 후 수분 제거하여 밀폐 용기 냉장 보관하기 — PPO 산화 억제 (1~2주) ❄️",
-                        "text": "석류 알맹이의 산화 갈변을 막으려면 산소 접촉과 효소 활성을 최소화해야 합니다. 💡 보관 팁: 분리한 석류 알맹이의 물기를 키친타올로 완벽히 wiping한 뒤, 밀폐 용기나 산소 흡착 밀폐 용기에 담아 냉장 보관(0~4℃)하세요. PPO 효소 활성이 억제되어 1~2주간 붉은 빛깔과 영양소를 유지합니다."
+                        "text": "석류 알맹이의 산화 갈변을 막으려면 산소 접촉과 효소 활성을 최소화해야 합니다. 💡 보관 팁: 분리한 석류 알맹이의 물기를 키친타월로 완벽히 닦아낸 뒤, 밀폐 용기나 산소 흡착 밀폐 용기에 담아 냉장 보관(0~4℃)하세요. PPO 효소 활성이 억제되어 1~2주간 붉은 빛깔과 영양소를 유지합니다."
                     },
                     {
                         "name": "알맹이를 쟁반에 펼쳐 급속 동결 후 냉동 보관하기 — 장기 냉동 보관 (1년) 🧊",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Pomegranates Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, PPO enzyme inhibition, and antioxidant preservation guide for pomegranates based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pomegranates are a beloved health fruit worldwide, prized for their sweet-tart flavor, rich phytoestrogens, and powerful antioxidants! However, have you ever stored pomegranates only to find their rind drying and shriveling, or their extracted arils turning brown? Ruby-red gems of nature 💎\n\nThe moment extracted pomegranate arils come into contact with air, **polyphenol oxidase (PPO)** becomes activated, rapidly oxidizing antioxidants like anthocyanins and ellagic acid, resulting in browning and nutrient loss. Furthermore, whole pomegranates lose internal moisture through rind transpiration if left unmanaged.\n\nIn this guide, we introduce a scientifically proven 3-step pomegranate storage guide based on guidelines from agricultural and food safety authorities to prevent moisture loss and suppress PPO activity to preserve antioxidants. 🛡️",
                 "whyTitle": "Why Store Pomegranates This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ザクロ（石榴）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくザクロの最適な保存温度、ポリフェノール酸化酵素（PPO）活性抑制、アントシアニン・エラグ酸の栄養保持ガイドをご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "甘酸っぱい味と豊富な植物性エストロゲン、強力な抗酸化成分で世界中で愛される健康果物のザクロ！ですが、買ってきて間もないのに皮が乾燥してシワシワになったり、実（果粒）を取り出しておいたら褐色に変色してしまった経験はありませんか？赤い宝石のような果実 💎\n\nザクロの実（果粒）は空気と接触した瞬間、**ポリフェノール酸化酵素（PPO, Polyphenol Oxidase）**が活性化し、抗酸化物質であるアントシアニンやエラグ酸（Ellagic Acid）が急速に酸化褐変して栄養素が失われます。また、丸ごとのザクロは果皮からの蒸散作用によって内部の水分が抜けやすくなります。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、ザクロの水分蒸発を防ぎPPO活性を抑えて抗酸化成分を守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持石榴新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解石榴的最佳储存温度、抑制多酚氧化酶（PPO）活性及保留花青素和鞣花酸营养的科学方法。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "石榴凭借其酸甜可口的口感、丰富的天然植物雌激素及强效抗氧化成分，是深受全球喜爱的代表性健康水果！但您是否有过整石榴买回家没几天果皮就干瘪起褶，或是剥出的石榴籽变褐色的经历？如红宝石般的果实 💎\n\n剥出的石榴籽（果肉）一旦接触空气，**多酚氧化酶（PPO, Polyphenol Oxidase）**会被迅速激活，导致抗氧化成分花青素与鞣花酸（Ellagic Acid）快速氧化褐变，造成营养流失。此外，未切开的整石榴会通过果皮蒸腾作用流失水分，导致果肉失去弹性。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学石榴保存秘诀，防止水分蒸发并降低PPO活性，锁住抗氧化营养。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la granada fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la granada según las directrices oficiales para inhibir la enzima PPO y preservar antioxidantes.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¡La granada es una fruta saludable amada en todo el mundo por su sabor agridulce, fitoestrógenos y potentes antioxidantes! Sin embargo, ¿alguna vez guardó granadas solo para ver cómo su cáscara se secaba o sus arilos extraídos se volvían marrones? Gemas de color rojo rubí 💎\n\nAl extraer los arilos de granada, el contacto con el aire activa la **polifenol oxidasa (PPO)**, oxidando rápidamente antioxidantes como antocianinas y ácido elágico, lo que genera oscurecimiento y pérdida de nutrientes. Además, la fruta entera pierde humedad por la cáscara si no se cuida.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades de seguridad alimentaria para evitar la pérdida de agua e inhibir la enzima PPO. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la grenade fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la grenade selon les directives officielles pour inhiber l'enzyme PPO et préserver les antioxydants.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "La grenade est un fruit santé apprécié dans le monde entier pour sa saveur douce-acide, ses phytoestrogènes et ses puissants antioxydants ! Cependant, vous est-il déjà arrivé de la conserver pour retrouver sa peau desséchée ou ses arilles devenues brunes ? Véritables rubis de la nature 💎\n\nDès que les arilles (grains) de grenade sont extraites, le contact avec l'air active la **polyphénol oxydase (PPO)**, ce qui oxyde rapidement les antioxydants comme les anthocyanes et l'acide éllagique, provoquant un brunissement. De plus, le fruit entier perd son eau par transpiration de l'écorce.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour éviter la perte d'eau et limiter l'activité de la PPO afin de préserver ses antioxydants. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Granatapfel richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Granatäpfel basierend auf offiziellen Sicherheitsrichtlinien zur Hemmung von PPO-Enzymen und Erhalt von Antioxidantien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Der Granatapfel ist ein weltweit geschätztes Superfood – bekannt für seinen süß-säuerlichen Geschmack, Phytoöstrogene und wertvolle Antioxidantien! Doch haben Sie Granatäpfel schon einmal gelagert und festgestellt, dass die Schale vertrocknete oder die ausgelösten Kerne braun wurden? Rubine der Natur 💎\n\nSobald Granatapfelkerne (Arili) mit Luft in Kontakt kommen, wird die **Polyphenoloxidase (PPO)** aktiviert. Sie oxidiert Antioxidantien wie Anthocyane und Ellagsäure, was zu Bräunung und Nährstoffverlust führt. Ungeschnittene Früchte verlieren zudem Feuchtigkeit über die Schale.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Feuchtigkeitsverlust zu verhindern und PPO-Aktivität zu stoppen. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar a romã fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a romã com base em diretrizes oficiais para inibir a enzima PPO e preservar antioxidantes.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "A romã é uma fruta saudável amada no mundo todo pelo seu sabor agridoce, fitoestrógenos e potentes antioxidantes! No entanto, você já a guardou e percebeu que a casca secou ou que as sementes (arilos) ficaram marrons depois de retiradas? Joias vermelho-rubi da natureza 💎\n\nNo momento em que as sementes da romã entram em contato com o ar, a **polifenol oxidase (PPO)** é ativada, oxidando rapidamente antioxidantes como antocianinas e ácido elágico, causando escurecimento e perda de nutrientes. Além disso, a fruta inteira perde umidade pela casca.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para evitar a perda de água e inibir a enzima PPO. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Delima agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah delima berdasarkan pedoman keselamatan resmi untuk menekan enzim PPO dan menjaga antioksidan.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Delima adalah buah kesehatan populer di seluruh dunia yang kaya akan fitoestrogen dan antioksidan tinggi! Namun, pernahkah Anda menyimpannya lalu mendapati kulitnya mengering atau bijinya berubah menjadi cokelat setelah dikeluarkan? Permata merah alami 💎\n\nSaat biji (bulir) delima terpapar udara, **polifenol oksidase (PPO)** langsung aktif, mengoksidasi antioksidan seperti antosianin dan asam elagat dengan cepat sehingga warnanya kecokelatan dan nutrisi hilang. Selain itu, buah delima utuh kehilangan air melalui kulitnya jika tidak disimpan dengan benar.\n\nDalam panduan ini, kami membagikan panduan penyimpanan delima 3 langkah berbasis ilmiah untuk mencegah kehilangan air dan menekan aktivitas PPO demi menjaga kandungan antioksidannya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

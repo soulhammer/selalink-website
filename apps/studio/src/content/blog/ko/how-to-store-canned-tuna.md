@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 전 서늘하고 건조한 팬트리에 보관하기 — 상온 보관 (2 ~ 5년) 📦"
     text: "미개봉 참치캔은 열처리 멸균 보관되어 상온에서 오랫동안 신선도가 유지됩니다. 💡 보관 팁: 가스레인지 주변이나 직사광선이 드는 창가를 피해 서늘하고 건조한 찬장(15 ~ 20℃)에 보관하세요. 캔을 딴 후 약 5분간 두면 멸균 과정에서 생성된 휘발성 물질인 퓨란(Furan)이 공기 중으로 자연 소멸됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

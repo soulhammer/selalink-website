@@ -8,7 +8,7 @@
             "ko": {
                 "title": "병아리콩(칙피) 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 건조 병아리콩의 곰팡이독소(아플라톡신) 방지법, 통조림 캔 개봉 후 용기 이송 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "고소하고 담백하여 샐러드, 후무스, 카레 등 다양한 요리에 활용되는 병아리콩(칙피)! 🫘 \n\n병아리콩은 풍부한 단백질과 식이섬유를 자랑하는 대표적인 슈퍼푸드입니다. 하지만 보관 형태(건조 콩 vs 통조림 캔)에 따라 보관 수칙이 완전히 달라집니다. 건조 병아리콩은 습기에 노출되면 발암물질인 아플라톡신(Aflatoxin)을 유발하는 곰팡이가 번식하기 쉽고, 통조림 캔은 개봉 후 캔 그대로 냉장고에 넣으면 내벽의 금속 성분(주석·철)이 산화 용출되어 건강을 위협할 수 있습니다. \n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 병아리콩을 영양 손실 없이 안전하게 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "건조 상태에서의 아스페르길루스(Aspergillus) 곰팡이 포자 발아 조건 및 캔 개봉 후 산소 반응에 따른 금속 이온 용출 반응을 이해하는 것이 식품 안전의 핵심입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Chickpeas Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods for dry and canned chickpeas, mycotoxin (aflatoxin) prevention, container transfer guidelines, and shelf life based on official USDA & FDA standards.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Chickpeas (garbanzo beans) are versatile, delicious legumes popular in salads, hummus, curries, and stews! 🫘 \n\nPacked with plant-based protein and fiber, chickpeas are a beloved superfood. However, their storage rules differ dramatically depending on the form (dry vs. canned). Dry chickpeas exposed to moisture can breed dangerous molds that produce cancer-causing aflatoxins. On the other hand, leaving opened canned chickpeas in their original metal cans allows tin and iron ions to leach into the food due to oxidation.\n\n\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your chickpeas safe and nutritious. 🛡️",
                 "whyTitle": "Why Store Chickpeas This Way? Scientific Facts",
                 "whyDesc": "Understanding Aspergillus mold spore germination conditions in dry beans and metal leaching reactions triggered by oxygen in opened cans is key to ensuring food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ひよこ豆（Chickpeas）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づく乾燥ひよこ豆のカビ毒（アフラトキシン）防止法、缶詰開封後の容器移し替えおよび保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "ホクホクとした食感でサラダやフムス、カレーなどに幅広く使われる「ひよこ豆（チックピー）」！ 🫘 \n\n豊富な植物性タンパク質と食物繊維を含み、スーパーフードとして親しまれています。しかし、保存状態（乾燥豆 vs 缶詰）によって保存ルールが全く異なります。乾燥豆は湿気に晒されると発がん性物質であるアフラトキシンを生成するカビが繁殖しやすく、缶詰は開封後に缶のまま冷蔵庫に放置すると、内壁の金属成分（スズ・鉄）が酸化・溶出して体に悪影響を及ぼす恐れがあります。\n\n\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、ひよこ豆の栄養と safe な品質を守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "乾燥豆におけるアスペルギルス（Aspergillus）カビ胞子の発芽条件と、缶開封後の酸素反応による金属イオン溶出の仕組みを理解することが食品安全の核心です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持鹰嘴豆（Chickpeas）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解干燥鹰嘴豆防霉菌毒素（黄曲霉毒素）的方法、罐头开封后换盒保存及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "鹰嘴豆（Chickpeas/Garbanzo Beans）口感绵密香浓，是沙拉、鹰嘴豆泥（Hummus）、咖喱和炖菜中的明星食材！ 🫘 \n\n鹰嘴豆富含植物蛋白与膳食纤维，是深受喜爱的超级食物。然而，干燥豆与罐头装鹰嘴豆的保存规则截然不同。干燥鹰嘴豆受潮极易滋生会产生致癌物黄曲霉毒素（Aflatoxin）的霉菌；而罐头开封后若直接连罐放进冰箱，罐壁中的锡、铁等金属成分会在氧气作用下溶出，危害健康。\n\n\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，锁住鹰嘴豆的营养并确保食品安全。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解干燥豆中曲霉菌（Aspergillus）孢子的发芽条件，以及开封罐头因氧气反应导致的金属离子溶出原理，是实现食品安全的核心所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener frescos los garbanzos: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento para garbanzos secos y en conserva, prevención de micotoxinas (aflatoxinas), trasvase de recipientes y vida útil según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¡Los garbanzos (chickpeas) son legumbres sabrosas y versátiles perfectas para ensaladas, hummus, guisos y curris! 🫘 \n\nLlenos de proteína vegetal y fibra, son un superalimento imprescindible. Sin embargo, sus reglas de conservación varían radicalmente según la presentación (secos vs. en lata). Los garbanzos secos expuestos a la humedad pueden desarrollar hongos que producen aflatoxinas cancerígenas; por otro lado, dejar garbanzos en lata abiertos en su envase metálico original provoca la lixiviación de estaño e hierro debido a la oxidación.\n\n\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus garbanzos seguros y nutritivos. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las condiciones de germinación del hongo Aspergillus en granos secos y las reacciones de lixiviación metálica en latas abiertas es clave para la seguridad alimentaria.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les pois chiches frais : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales de conservation des pois chiches secs et en conserve, la prévention des mycotoxines (aflatoxines), le transfert de récipient et la durée de conservation selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Les pois chiches (chickpeas) sont des légumineuses savoureuses et polyvalentes, idéales pour les salades, le houmous, les currys et les mijotés ! 🫘 \n\nRiches en protéines végétales et en fibres, c'est un superaliment incontournable. Cependant, les règles de conservation varient fortement selon le conditionnement (secs vs en conserve). Les pois chiches secs exposés à l'humidité peuvent développer des moisissures sécrétant des aflatoxines cancérigènes. D'autre part, laisser des pois chiches ouverts dans leur boîte en métal entraîne la migration d'ions d'étain et de fer par oxydation.\n\n\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos pois chiches en toute sécurité. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les conditions de germination des spores d'Aspergillus sur les grains secs et les réactions de migration métallique dans les boîtes ouvertes est la clé de la sécurité alimentaire.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kichererbsen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden für getrocknete Kichererbsen und Dosenware, Mykotoxin-Schutz (Aflatoxin), Umfüllregeln und Haltbarkeit nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Kichererbsen (Chickpeas) sind köstliche und vielseitige Hülsenfrüchte, perfekt für Salate, Hummus, Currys und Eintöpfe! 🫘 \n\nGepackt mit pflanzlichem Protein und Ballaststoffen sind sie ein echtes Superfood. Die Lagerung unterscheidet sich jedoch stark je nach Form (getrocknet vs. Dosenware). Getrocknete Kichererbsen neigen bei Feuchtigkeit zu Schimmelpilzen, die krebserregende Aflatoxine bilden. Geöffnete Konservendosen hingegen führen durch Sauerstoffeinfluss zum Herauslösen von Zinn und Eisen aus der Dosenwand.\n\n\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Kichererbsen sicher und nährstoffreich aufzubewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Keimungsbedingungen von Aspergillus-Schimmelpilzen bei Trockenware sowie der Metallauswaschung in geöffneten Dosen ist der Schlüssel zur Lebensmittelsicherheit.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o grão-de-bico fresco: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação para grão-de-bico seco e em lata, prevenção de micotoxinas (aflatoxinas), transferência de recipientes e validade segundo a USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "O grão-de-bico (chickpeas) é uma leguminosa saborosa e versátil, perfeita para saladas, homus, ensopados e curries! 🫘 \n\nRepleto de proteínas vegetais e fibras, é um superalimento indispensável. No entanto, suas regras de conservação mudam radicalmente conforme a apresentação (seco vs. em lata). O grão-de-bico seco exposto à umidade pode criar fungos que produzem aflatoxinas cancerígenas; por outro lado, deixar o grão-de-bico em lata aberto na embalagem metálica provoca a lixiviação de estanho e ferro devido à oxidação.\n\n\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter o seu grão-de-bico seguro e nutritivo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as condições de germinação do fungo Aspergillus nos grãos secos e as reações de lixiviação metálica em latas abertas é a chave para a segurança alimentar.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Kacang Arab (Chickpeas) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal untuk kacang arab kering dan kalengan, pencegahan mikotoksin (aflatoksin), pemindahan wadah, dan masa simpan berdasarkan panduan resmi USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Kacang arab (chickpeas/garbanzo beans) adalah polong-polongan lezat nan serbaguna yang cocok untuk salad, hummus, kari, dan sup! 🫘 \n\nKaya akan protein nabati dan serat, kacang arab adalah superfood favorit. Namun, aturan penyimpanannya sangat berbeda tergantung bentuknya (kering vs kalengan). Kacang arab kering yang terpapar kelembapan dapat memicu jamur penghasil aflatoksin berbahaya. Di sisi lain, membiarkan kacang arab kalengan yang sudah dibuka di dalam kaleng logamnya memicu pelarutan zat timah dan besi akibat oksidasi.\n\n\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan metode penyimpanan 3 langkah untuk menjaga kacang arab Anda tetap aman dan bernutrisi. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami kondisi perkecambahan spora jamur Aspergillus pada kacang kering serta reaksi pelarutan ion logam akibat oksigen pada kaleng terbuka adalah kunci keselamatan pangan.",

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "신문지나 키친타월로 낱개 감싸고 랩 포장하기 — 수분 증발 차단 📦"
     text: "배를 수분 노출 없이 낱개로 포장하는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 배를 신문지나 키친타월로 먼저 1차로 감싸 습기를 조절한 뒤, 식품용 비닐이나 랩으로 한 알씩 빈틈없이 꽁꽁 밀봉해 주세요. 신문지가 과도한 습기를 흡수하고, 랩은 배 내부의 수분이 외부로 증발하는 것을 차단해 오래도록 아삭함을 유지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

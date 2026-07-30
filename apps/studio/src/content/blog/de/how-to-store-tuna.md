@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Sofort in ein luftdichtes Glas- oder Kunststoffgefäß umfüllen — Metallabgabe und Sauerstoff blockieren 📦"
     text: "Die Oxidation der Doseninnenseite zu verhindern und Luftkontakt zu minimieren, ist entscheidend. 💡 Lagerungstipp: Geben Sie Thunfisch samt Öl/Aufguss in eine saubere Glas- oder BPA-freie Kunststoffdose und verschließen Sie diese fest."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

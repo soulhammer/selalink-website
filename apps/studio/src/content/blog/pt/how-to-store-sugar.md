@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sugar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Guarde em um recipiente hermético — Isolamento de umidade e odores 📦"
     text: "Manter o açúcar na embalagem original aberta permite que a umidade do ar e os cheiros da cozinha entrem. 💡 Dica de conservação: Transfira o açúcar para um pote de vidro ou plástico com vedação hermética para bloquear a umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de espec
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

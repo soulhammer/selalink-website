@@ -8,7 +8,7 @@
             "ko": {
                 "title": "카놀라유·해바라기씨유 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 카놀라유 및 해바라기씨유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
                 "intro": "전 세계 가정과 외식업계에서 볶음이나 튀김 요리를 할 때 가장 많이 사용하는 카놀라유와 해바라기씨유, 혹시 편리하다는 이유로 가스레인지나 조리대 바로 옆에 두고 쓰고 계시진 않나요? 🍳\n\n카놀라유와 해바라기씨유는 리놀레산 등 다가불포화지방산(PUFA) 비율이 매우 높은 식물성 기름입니다. 이러한 불포화지방산은 공기 중의 산소, 빛(자외선), 그리고 열원에 노출되는 순간 자유 라디칼(Free Radical) 산화 반응이 유발됩니다. 이 자가산화 과정에서 헥사날(Hexanal)과 같이 불쾌한 쩐내를 유발하는 알데하이드 계열의 독성 부산물이 형성되어 기름이 산패됩니다.\n\n이번 가이드에서는 국제 식품 안전 기관들이 검증한 과학적이고 확실한 카놀라유·해바라기씨유 신선도 및 품질 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Canola & Sunflower Oil Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for canola and sunflower oil based on official safety guidelines.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Canola and sunflower oils are among the most consumed vegetable oils worldwide for frying and sautéing. However, are you keeping them right next to the stovetop or oven for convenience? 🍳\n\nCanola and sunflower oils contain high proportions of polyunsaturated fatty acids (PUFAs), such as linoleic acid. When exposed to atmospheric oxygen, ultraviolet light, or heat, a radical auto-oxidation chain reaction is triggered. This process forms toxic aldehyde byproducts like hexanal, causing rancidity and unpleasant off-odors.\n\nIn this guide, we introduce a scientifically proven 3-step canola and sunflower oil storage guide recommended by international food safety authorities to preserve oil freshness and quality. 🛡️",
                 "whyTitle": "Why Store Cooking Oils This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "キャノーラ油・ひまわり油を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくキャノーラ油およびひまわり油の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)",
                 "intro": "炒め物や揚げ物に世界中で広く使われているキャノーラ油やひまわり油。便利だからという理由でコンロや調理台のすぐ脇に置いていませんか？🍳\n\nキャノーラ油やひまわり油には、リノール酸などの多価不飽和脂肪酸（PUFA）が高い割合で含まれています。これらの脂肪酸は、空気中の酸素、光（紫外線）、そして熱源に晒されるとラジカル自動酸化反応が引き起こされます。この酸化過程でヘキサナール（Hexanal）などの不快な戻り臭（酸化臭）を発生させる有害なアルデヒド副産物が形成され、油脂の酸敗が進行します。\n\n本記事では、国際機関が検証したキャノーラ油・ひまわり油の品質を保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
                 "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持芥花籽油与葵花籽油新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解芥花籽油（Canola Oil）及葵花籽油（Sunflower Oil）的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "芥花籽油与葵花籽油是全球家庭与餐饮界烹饪煎炸使用率极高的植物食用油。为了使用方便，您是否习惯将它们直接放在灶台或烤箱旁？🍳\n\n芥花籽油和葵花籽油富含亚麻酸等多不饱和脂肪酸（PUFA）。当这些不饱和脂肪酸暴露于空气中的氧气、光线（紫外线）以及热源时，会诱发自由基自氧化链式反应。在此自氧化过程中，会形成带有令人不适的油哈味的己醛（Hexanal）等有毒醛类副产物，从而导致油脂酸败。\n\n本指南基于权威机构建议，为您带来3步科学食用油保鲜秘诀，锁住品质与健康。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener frescos los aceites de canola y girasol: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el aceite de canola y de girasol según las directrices oficiales de seguridad.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Los aceites de canola y girasol se encuentran entre los aceites vegetales más consumidos en todo el mundo para freír y saltear. Sin embargo, ¿los guarda justo al lado de la cocina o el horno por conveniencia? 🍳\n\nEstos aceites contienen elevadas proporciones de ácidos grasos poliinsaturados (AGPI), como el ácido linoleico. Al exponerse al oxígeno del aire, la luz ultravioleta o fuentes de calor, se desencadena una reacción en cadena de autooxidación por radicales libres. Este proceso forma subproductos aldehídicos tóxicos como el hexanal, provocando enranciamiento y olores desagradables.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades internacionales de seguridad alimentaria para mantener la frescura y calidad del aceite. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver l'huile de canola et de tournesol fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'huile de canola et de tournesol selon les directives officielles de sécurité.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Les huiles de canola et de tournesol figurent parmi les huiles végétales les plus consommées au monde pour la friture et la cuisson. Cependant, les gardez-vous juste à côté de vos plaques de cuisson par commodité ? 🍳\n\nCes huiles contiennent une proportion élevée d'acides gras polyinsaturés (AGPI) comme l'acide linoléique. Exposées à l'oxygène, aux rayons UV ou à la chaleur, une réaction d'auto-oxydation par radicaux libres est déclenchée. Ce processus forme des sous-produits aldéhydiques toxiques comme l'hexanal, provoquant un rancissement et des odeurs désagréables.\n\nDans ce guide, vous présente un guide de conservation de l'huile de canola et de tournesol en 3 étapes recommandé par les autorités internationales de sécurité alimentaire. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Rapsöl & Sonnenblumenöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rapsöl und Sonnenblumenöl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Rapsöl und Sonnenblumenöl gehören weltweit zu den am meisten genutzten Pflanzenölen zum Braten und Frittieren. Stehen Ihre Flaschen aus Bequemlichkeit direkt neben dem Herd oder Backofen? 🍳\n\nRaps- und Sonnenblumenöl enthalten hohe Anteile an mehrfach ungesättigten Fettsäuren (PUFA) wie Linolsäure. Bei Kontakt mit Sauerstoff, UV-Licht oder Hitze wird eine radikalische Autoxidationskette ausgelöst. Dabei entstehen toxische Aldehyd-Nebenprodukte wie Hexanal, die zu Ranzigkeit und üble Gerüche führen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Raps- und Sonnenblumenöl. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar óleos de canola e girassol frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para os óleos de canola e girassol com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Os óleos de canola e girassol estão entre os óleos vegetais mais consumidos no mundo para frituras e refogados. No entanto, você os guarda ao lado do fogão ou forno por conveniência? 🍳\n\nEstes óleos contêm altas proporções de ácidos graxos poli-insaturados (AGPI), como o ácido linoleico. Ao serem expostos ao oxigênio do ar, à luz ultravioleta ou a fontes de calor, dispara-se uma reação em cadeia de auto-oxidação por radicais livres. Esse processo forma subprodutos aldeídicos tóxicos, como o hexanal, causando ranço e odores desagradáveis.\n\nNeste guia, apresentamos um guia de conservação de óleos de canola e girassol em 3 etapas recomendado por autoridades internacionais de segurança alimentar. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Minyak Kanola & Biji Bunga Matahari agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak kanola dan minyak biji bunga matahari berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>FDA & EFSA & MFDS</strong>",
+                "authority": "FDA & EFSA & MFDS",
                 "intro": "Minyak kanola dan minyak biji bunga matahari adalah salah satu minyak nabati yang paling banyak dikonsumsi di seluruh dunia untuk menggoreng dan menumis. Namun, apakah Anda menyimpannya tepat di samping kompor atau oven karena alasan kepraktisan? 🍳\n\nMinyak kanola dan biji bunga matahari mengandung proporsi asam lemak tak jenuh ganda (PUFA) yang tinggi, seperti asam linoleat. Saat terpapar oksigen udara, cahaya ultraviolet, atau sumber panas, reaksi berantai auto-oksidasi radikal bebas akan terpicu. Proses ini membentuk produk sampingan aldehida beracun seperti heksanal, memicu bau tengik dan kerusakan kualitas minyak.\n\nDalam panduan ini, kami membagikan panduan penyimpanan minyak kanola dan biji bunga matahari 3 langkah berbasis ilmiah yang direkomendasikan oleh lembaga keamanan pangan internasional. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

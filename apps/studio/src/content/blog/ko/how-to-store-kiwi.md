@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터"
 steps:
   - name: "단단한 키위는 상온(18 ~ 22℃)에서 후숙시키기 — 상온 후숙 (3 ~ 7일) 🧺"
     text: "손으로 살짝 쥐었을 때 부드러운 느낌이 들 때까지 단단한 키위는 서늘한 상온에서 보관하세요. 💡 보관 팁: 빠르게 후숙시켜 먹고 싶다면 사과나 바나나와 함께 종이 봉투에 넣어 밀봉해 두면 에틸렌 가스의 영향으로 2 ~ 3일 만에 달콤하게 익습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터에 기반하고 있습니다.
     </p>
   </div>
 </div>

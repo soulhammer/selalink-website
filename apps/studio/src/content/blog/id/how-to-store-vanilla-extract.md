@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Simpan di lemari dapur yang sejuk dan gelap — Simpan Suhu Ruang (Tak Terbatas) 🏺"
     text: "Berkat kandungan alkoholnya yang tinggi, ekstrak vanila murni dapat disimpan hampir tanpa batas waktu di suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang sejuk dan gelap (15–24°C) jauh dari panas dan sinar matahari. Aromanya akan tetap kaya selama bertahun-tahun."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan ekstrak vanila 3 langkah 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

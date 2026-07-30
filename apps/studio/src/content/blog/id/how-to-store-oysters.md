@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Tutup tiram bercangkang dengan kain basah — Menjaga Lingkungan Hidup 🦪"
     text: "Menjaga tiram bercangkang tetap hidup adalah kunci kesegaran. 💡 Tips Penyimpanan: Letakkan tiram di wadah terbuka dengan bagian cangkang cembung di bawah, tutup dengan kain yang dibasahi air garam, lalu simpan di kulkas (1–4°C). Tiram akan bertahan hidup 2–3 hari."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan tiram 3 langkah berbasis 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/ginger_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
-  - name: "흙을 털어내고 신문지/키친타올로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦"
-    text: "생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타올이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요."
+  - name: "흙을 털어내고 신문지/키친타월로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦"
+    text: "생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타월이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요."
   - name: "편으로 썰거나 다져서 용도별로 손질하기 — 활용도 극대화 🔪"
     text: "생강은 통째로 오래 보관하기보다 요리 용도에 맞게 미리 손질해 두는 것이 수분 손실을 막고 위생적입니다. 💡 보관 팁: 껍질을 벗긴 뒤 찌개·탕용 편생강이나 양념용 다진 생강으로 구분하여 손질하세요."
   - name: "지퍼백에 평평하게 담아 소분 냉동 보관하기 — 냉동 보관 (6개월 ~ 1년) ❄️"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">흙을 털어내고 신문지/키친타올로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">흙을 털어내고 신문지/키친타월로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타올이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요.
+    생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타월이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요.
   </p>
 </div>
 

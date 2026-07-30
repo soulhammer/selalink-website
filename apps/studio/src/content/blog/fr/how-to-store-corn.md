@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/corn_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Conserver au frais avec les feuilles — Réfrigération courte durée (2-3 jours) 📦"
     text: "Les spathes (feuilles) extérieures constituent un bouclier naturel contre la déshydratation. 💡 Astuce de conservation : Conservez 1 ou 2 épaisseurs de feuilles, placez les épis dans un sachet plastique fermé et rangez-les dans le bac à légumes (0–2 °C). Cela ralentit l'action enzymatique."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation du maïs en 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/eggplant_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 냉기 완충 🧻"
     text: "가지 표면의 수분 증발을 막으면서도 차가운 냉기가 직접 과피에 닿는 것을 방지하는 것이 핵심입니다. 💡 보관 팁: 물을 묻히지 않은 건조한 가지를 키친타월이나 신문지로 한 개씩 빈틈없이 감싸주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

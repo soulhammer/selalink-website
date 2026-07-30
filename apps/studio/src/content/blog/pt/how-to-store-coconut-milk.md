@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Transfira para um recipiente hermético imediatamente — Evite oxidação metálica 🫙"
     text: "Assim que a lata é aberta, o contato com o ar inicia a oxidação do metal. 💡 Dica de conservação: Despeje o leite de coco em um pote de vidro limpo ou pote livre de BPA e feche bem. Isso evita a contaminação metálica e isola contra odores da geladeira."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do leite de coco em 3 etapas b
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

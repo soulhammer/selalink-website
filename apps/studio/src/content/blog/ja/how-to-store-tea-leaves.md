@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "不透明な茶筒やアルミ袋に密封する — 光と空気の完全遮断 📦"
     text: "茶葉保存の最大の敵は酸素と光です。💡保存の コツ：開封した茶葉は、中蓋が付いた不透明な金属製の茶筒や、アルミ箔のチャック付き袋に入れ、しっかりと空気を抜いて密閉してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

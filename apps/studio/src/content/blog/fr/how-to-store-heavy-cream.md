@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/heavy_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Essuyer le bec verseur et sceller avec une pince — Barrière anti-oxygène & odeurs 📦"
     text: "La matière grasse de la crème absorbe les odeurs ambiantes et l'oxygène. 💡 Astuce de conservation : Nettoyez les coulures sur le brique après usage et refermez fermement avec une pince à dessin ou un clip hermétique."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & MFDS.
     </p>
   </div>
 </div>

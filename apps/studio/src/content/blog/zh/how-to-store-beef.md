@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "用厨房纸巾彻底吸干表面血水 — 防止异味与腐败 🥩"
     text: "牛肉表面渗出的血水（血汁）是产生肉腥味以及致病菌（腐败菌）滋生的绝佳营养源。💡储存小贴士：烹饪及保存前，用厨房纸巾轻轻按压肉块表面，彻底吸干血水和水分，从源头上阻断微生物繁殖与酸败。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

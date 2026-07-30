@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC"
 steps:
   - name: "水洗いは絶対に避ける — シンク周りの二次汚染を完全遮断 ❌💧"
     text: "生鶏肉に付着している食中毒菌は、流れる水で洗うと水滴とともに半径50cm以内の食器やまな板、シンクへ一気に飛び散ります。💡保存のコツ：生鶏肉は絶対に水洗いしないでください。表面の水分や汚れはペーパータオルで優しく拭き取るか、沸騰したお湯にサッと通して下茹で（ブランチング）消毒してから調理するのが safe です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDCに基づいています。
     </p>
   </div>
 </div>

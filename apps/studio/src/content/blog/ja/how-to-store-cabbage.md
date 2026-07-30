@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & EFSA & FSA</strong>"
+authority: "農村振興庁(RDA) & EFSA & FSA"
 steps:
   - name: "キャベツの芯を三角形のコーン状にくり抜く — 水分・栄養の消費ルート遮断 🔪"
     text: "キャベツの中心にある芯は、収穫後も外葉の水分と栄養分を吸い上げる生長点です。💡保存のコツ：包丁の刃先を使って芯の部分を深い円すい状（三角形）にくり抜いてください。最も傷みが始まりやすい場所を根本から取り除くことが長持ちの秘訣です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & EFSA & FSA</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & EFSA & FSAに基づいています。
     </p>
   </div>
 </div>

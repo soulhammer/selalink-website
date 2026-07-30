@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/eggplant_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Embrulhe individualmente em papel-toalha ou jornal — Proteção contra perda de umidade e frio 🧻"
     text: "Evitar a evaporação de água na casca e protegê-la do ar frio direto é essencial. 💡 Dica de conservação: Envolva cada berinjela seca e sem lavar em uma folha de papel-toalha ou jornal."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

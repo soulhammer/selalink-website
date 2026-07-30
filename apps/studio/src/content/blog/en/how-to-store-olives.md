@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Keep fully submerged in brine in a glass container — Oxygen & Oxidation Barrier 📦"
     text: "Exposing olive surfaces to air causes softening and mold growth. 💡 Storage Tip: Do not leave olives in open cans; transfer them to a glass jar or airtight plastic container and submerge them completely in their brine. Preventing surface exposure is key."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

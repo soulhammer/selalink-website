@@ -1,17 +1,17 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
 title: "大麦（ボリ）を新鮮に保つ保存方法：科学的保管ガイド"
-description: "公的安全基準に基づく大麦の最適な保存温度、β-グルカンの保持、水分活性（$A_w$）制御によるアミラーゼ酵素不活化ガイドをご確認ください。"
+description: "公的安全基準に基づく大麦の最適な保存温度、β-グルカンの保持、水分活性（水分活性 (Aw)）制御によるアミラーゼ酵素不活化ガイドをご確認ください。"
 pubDate: "2026-07-22"
 updatedDate: "2026-07-22"
 category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "シリカゲルを入れて密閉容器に保管する — 水分活性制御（$A_w < 0.60$） 📦"
-    text: "乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（$A_w$）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。"
+  - name: "シリカゲルを入れて密閉容器に保管する — 水分活性制御（水分活性 (Aw) < 0.60） 📦"
+    text: "乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（水分活性 (Aw)）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。"
   - name: "10〜15℃以下の涼しい暗所に常温保存する — 冷暗所保存 (1〜2年間) 🧺"
     text: "大麦を直射日光の当たらない涼しい場所に保存し、酵素反応とデンプンの老化を遅らせます。💡保存のコツ：コンロ周辺などの熱気を避け、10〜15℃以下の暗く風通しの良い棚で保存します。β-グルカンを損なうことなく1〜2年間香ばしい風味を維持できます。"
   - name: "湿気の多い時期や大量保存時は低温冷蔵保存する — 低温冷蔵保存 (2年以上) ❄️"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ステップ 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">シリカゲルを入れて密閉容器に保管する — 水分活性制御（$A_w < 0.60$） 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">シリカゲルを入れて密閉容器に保管する — 水分活性制御（水分活性 (Aw) < 0.60） 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（$A_w$）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。
+    乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（水分活性 (Aw)）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">湿度が高く温度が上がる場所を避けてください ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      相対湿度が高かったり温度が上がると、大麦のデンプン分解速度が早くなりカビ毒が生成されるリスクが高まります。必ず水分含有量12%以下、水分活性（$A_w < 0.60$）の状態を維持できるよう乾燥した涼しい場所で密閉保存してください。
+      相対湿度が高かったり温度が上がると、大麦のデンプン分解速度が早くなりカビ毒が生成されるリスクが高まります。必ず水分含有量12%以下、水分活性（水分活性 (Aw) < 0.60）の状態を維持できるよう乾燥した涼しい場所で密閉保存してください。
     </p>
   </div>
 </div>

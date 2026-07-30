@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Fechar bem e refrigerar a 0–5 °C após aberto — Refrigeração (6–12 meses) ❄️"
     text: "Enquanto fechado pode ficar em temperatura ambiente, o Gochujang aberto começa a deteriorar com o oxigênio. 💡 Dica de conservação: Limpe as bordas do pote, feche bem a tampa e guarde na geladeira a 0–5 °C para evitar fermentação excessiva e mofo."
@@ -36,7 +36,7 @@ Embora seja um alimento fermentado com alto teor de sal, após aberto fica expos
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & KFRI & USDA</strong>.
+      Este conteúdo baseia-se em MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

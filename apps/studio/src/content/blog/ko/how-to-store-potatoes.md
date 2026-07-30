@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)</strong>"
+authority: "식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)"
 steps:
   - name: "씻지 않고 신문지나 종이봉투로 개별 포장하기 — 완벽한 빛 차단 📦"
     text: "감자가 빛(직사광선 및 형광등)에 노출되면 광합성을 통해 표면이 초록색으로 변하며 솔라닌 독소를 생성합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 신문지나 불투명한 종이봉투로 감싸 빛을 100% 차단해 주세요. 흙은 감자의 수분을 적절히 유지해주는 천연 보습제 역할을 합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 영국 식품기준청(FSA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

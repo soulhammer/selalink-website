@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "食べる直前まで絶対に水洗いしない — 天然ブルームの保護 🍇"
     text: "ぶどうの表面を覆う白い粉は汚れではなく、果実自ら分泌した天然のワックス保護膜「ブルーム（Bloom）」です。水分蒸発を防ぎ病原菌の侵入を遮断するため、保存前に洗うと保護膜が落ち、水気がこもって傷みやすくなります。💡保存のコツ：水気をつけずそのまま保存するのが基本です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

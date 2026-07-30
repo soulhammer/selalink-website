@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Envuelva las espinacas secas sin lavar en periódico o toallas de papel — Control de humedad 📦"
     text: "Las hojas de espinaca se descomponen rápidamente en contacto directo con agua libre. 💡 Consejo de almacenamiento: Deje la tierra y envuelva las espinacas secas suavemente en papel de cocina o periódico. El papel actúa como amortiguador, absorbiendo la condensación."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en pautas de l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & EFSA & FSA</strong>.
+      Este contenido se basa en RDA & EFSA & FSA.
     </p>
   </div>
 </div>

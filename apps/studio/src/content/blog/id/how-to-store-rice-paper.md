@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Tutup rapat secara rata/datar dalam kantong Ziploc setelah dibuka — Perlindungan Kelembapan & Cegah Retakan 📦"
     text: "Melindungi struktur pati dari perubahan kelembapan udara adalah langkah utama. 💡 Tips Penyimpanan: Kemasan asli membiarkan udara masuk setelah dibuka. Pindahkan lembaran ke kantong Ziploc kedap udara atau wadah plastik keras secara rata tanpa melengkung."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan rice paper 3 langkah berb
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & EFSA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

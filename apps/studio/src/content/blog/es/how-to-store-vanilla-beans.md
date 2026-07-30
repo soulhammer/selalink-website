@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envuelva cada vaina firmemente en papel encerado o film plástico — Barrera de humedad 📜"
     text: "Envuelva cada vaina de vainilla en papel encerado (Wax Paper) o film plástico para reducir el roce entre vainas y evitar la evaporación inicial de agua."
@@ -25,7 +25,7 @@ faqs:
 
 ¡Las vainas de vainilla naturales (vanilla beans) aportan un aroma y sabor dulce inigualable a la repostería de alta gama! 🍦✨
 
-Las vainas de vainilla contienen 'vanillina', el delicado compuesto responsable de su icónico aroma. Sin embargo, debido a su alto costo, muchas personas cometen el error de guardarlas en el refrigerador. La refrigeración provoca condensación en la superficie de las vainas ante los cambios de temperatura, lo que aumenta exponencialmente la actividad de agua ($A_w$) y fomenta la aparición de moho.
+Las vainas de vainilla contienen 'vanillina', el delicado compuesto responsable de su icónico aroma. Sin embargo, debido a su alto costo, muchas personas cometen el error de guardarlas en el refrigerador. La refrigeración provoca condensación en la superficie de las vainas ante los cambios de temperatura, lo que aumenta exponencialmente la actividad de agua (actividad de agua (Aw)) y fomenta la aparición de moho.
 
 En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para preservar los cristales de vanillina y eliminar el riesgo de moho. 🛡️
 
@@ -38,7 +38,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Nunca guarde las vainas de vainilla en el refrigerador o congelador ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Refrigerar las vainas causa condensación al sacarlas al aire ambiente. Esto aumenta drásticamente la actividad de agua ($A_w$) en la superficie, creando un ambiente ideal para hongos como Aspergillus y arruinando la estructura cristalina de la vanillina.
+      Refrigerar las vainas causa condensación al sacarlas al aire ambiente. Esto aumenta drásticamente la actividad de agua (actividad de agua (Aw)) en la superficie, creando un ambiente ideal para hongos como Aspergillus y arruinando la estructura cristalina de la vanillina.
     </p>
   </div>
 </div>

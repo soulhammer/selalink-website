@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Pincele a superfície com azeite de oliva extra virgem — Barreira protetora contra oxigênio 🫒"
     text: "Pincelar as fatias com azeite é o método mais eficaz contra a oxidação. 💡 Dica de conservação: Pincelar um pouco de azeite extra virgem nas fatias cria uma barreira natural que veda a umidade e impede o contato com o ar."
@@ -25,7 +25,7 @@ faqs:
 
 Você já abriu um presunto cru nobre (Prosciutto ou Jamón) para acompanhar um vinho e, ao guardar as fatias restantes na geladeira, descobriu que em poucos dias estavam duras e amareladas? 🥓
 
-O presunto cru passa por longa salga e maturação, reduzindo a atividade de água ($A_w < 0,85$) para inibir bactérias. Contudo, por ser rico em ácidos graxos insaturados, o contato com o oxigênio dispara a peroxidação lipídica (auto-oxidação). Isso oxida a mioglobina, causando amarelamento, cheiro râncio e ressecamento.
+O presunto cru passa por longa salga e maturação, reduzindo a atividade de água (atividade de água (Aw) < 0,85) para inibir bactérias. Contudo, por ser rico em ácidos graxos insaturados, o contato com o oxigênio dispara a peroxidação lipídica (auto-oxidação). Isso oxida a mioglobina, causando amarelamento, cheiro râncio e ressecamento.
 
 Neste guia, apresentamos um guia de conservação de presunto cru em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️
 
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de presunto cru em 3 etapas re
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & EFSA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Eviscerar y limpiar la sangre — Detenga la autólisis y el mal olor 🔪"
     text: "Retire las agallas y las vísceras, y enjuague los restos de sangre y la membrana negra del abdomen bajo agua fría. 💡 Consejo de almacenamiento: Las vísceras son lo primero en descomponerse. Secar bien el interior y exterior con papel absorbente es el primer paso indispensable contra las bacterias y el olor."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NIFS & RDA & USDA & MFDS</strong>.
+      Este contenido se basa en NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

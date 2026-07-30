@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Avant maturation] Conserver à température ambiante fraîche (20-25 °C) — Maturation naturelle (3 à 7 jours) 🌡️"
     text: "Les mangues développent lentement leur douceur à température ambiante. 💡 Astuce de conservation : Gardez-les dans un endroit bien ventilé, à l'abri de la lumière directe du soleil, jusqu'à ce que la peau devienne brillante, que la zone du pédoncule sente bon, et que le fruit cède légèrement sous une pression douce, comme une pêche mûre."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS & RDA</strong>.
+      Ce contenu est basé sur USDA & MFDS & RDA.
     </p>
   </div>
 </div>

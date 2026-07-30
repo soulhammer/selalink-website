@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)"
 steps:
   - name: "熱湯でサッと油抜きして表面の酸化脂質を除去する — 油抜き熱湯処理 🫖"
     text: "練り物の表面に残った油は空気中の酸素に触れると急速に酸化し、雑菌繁殖の原因になります。💡保存のコツ：沸騰したお湯に10〜20秒ほどサッとくぐらせるか、熱湯を表面にまんべんなく回しかけてください。表面の酸化した油や不純物、表面の雑菌が除去され、衛生的に美味しく仕上がります。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)に基づいています。
     </p>
   </div>
 </div>

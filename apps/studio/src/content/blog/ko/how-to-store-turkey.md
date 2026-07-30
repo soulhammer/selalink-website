@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부 식품안전검사국(USDA FSIS) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 농무부 식품안전검사국(USDA FSIS) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "물 세척 대신 핏물 및 표면 수분 제거하기 — 교차 오염 방지 🧼"
     text: "흐르는 물에 씻지 말고, 포장을 뜯은 뒤 깨끗한 키친타월로 표면과 내부의 핏물 수분을 꼼꼼히 닦아내세요. 💡 보관 팁: 세균이 좋아하는 표면 수분을 제거하고 수돗물 세척에 의한 세균 비산을 막는 것이 식중독 예방의 첫걸음입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부 식품안전검사국(USDA FSIS) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부 식품안전검사국(USDA FSIS) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Eviscerar e limpar o sangue — Interrompa a autólise e o odor 🔪"
     text: "Remova as guelras e vísceras e enxágue os restos de sangue e a membrana preta da cavidade abdominal em água corrente. 💡 Dica de conservação: As vísceras estragam primeiro. Secar o interior e o exterior com papel-toalha é o passo inicial indispensável contra bactérias e odores."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NIFS & RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

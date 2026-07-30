@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Mantenha os frascos fechados em local fresco e escuro — Armário (15–25 °C) 📦"
     text: "A mostarda fechada preserva-se perfeitamente em temperatura ambiente graças ao sal e ao vinagre. 💡 Dica de conservação: Guarde em um armário escuro e longe do calor do fogão."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de autoridade
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em FDA & MFDS & USDA.
     </p>
   </div>
 </div>

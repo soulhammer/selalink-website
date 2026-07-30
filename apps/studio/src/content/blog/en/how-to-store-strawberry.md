@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Keep unwashed and leave green stems attached — Block Moisture Absorption 🍓"
     text: "Washing strawberries or hulling their green stems creates microscopic wounds on the surface. 💡 Storage Tip: Water rushes into these wounds via osmotic pressure, causing cell walls to rupture and leak juice, which triggers gray mold growth. Keep them completely dry until right before eating."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & MFDS & USDA</strong>.
+      This content is based on RDA & MFDS & USDA.
     </p>
   </div>
 </div>

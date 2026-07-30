@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>WiKim & RDA & MFDS</strong>"
+authority: "WiKim & RDA & MFDS"
 steps:
   - name: "Pressione com um disco prensador (ou filme plástico) para bloquear o ar — Mantenha condições anaeróbicas 📦"
     text: "As bactérias do ácido lático (Leuconostoc, Lactobacillus) responsáveis pela fermentação prosperam em ambientes anaeróbicos (sem oxigênio), enquanto as leveduras precisam de oxigênio. 💡 Dica de conservação: Preencha o recipiente até 80% e pressione firmemente o topo para que o kimchi fique totalmente submerso em seu caldo. Bloquear o ar evita oxidação e o surgimento da camada branca."
@@ -38,7 +38,7 @@ Neste guia, baseado em fatos científicos verificados pelo Instituto Mundial do 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>WiKim & RDA & MFDS</strong>.
+      Este conteúdo baseia-se em WiKim & RDA & MFDS.
     </p>
   </div>
 </div>

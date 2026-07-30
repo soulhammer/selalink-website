@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Ungeöffnete Flaschen kühl und dunkel lagern — Vorratskammer (über 1 Jahr) 🏺"
     text: "Ungeöffneter Ahornsirup ist heiß abgefüllt und bei Raumtemperatur äußerst stabil. 💡 Lagerungstipp: Lagern Sie ungeöffnete Flaschen an einem kühlen, trockenen Ort (10–20 °C) ohne direkte Sonneneinstrahlung. Er behält seinen Geschmack bis zum Mindesthaltbarkeitsdatum."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & CFIA & MFDS & RDA</strong>.
+      Dieser Inhalt basiert auf USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

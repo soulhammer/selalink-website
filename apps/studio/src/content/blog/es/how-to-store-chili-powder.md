@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Porcione cantidades pequeñas en recipientes opacos herméticos — Bloquee luz y oxígeno 📦"
     text: "La luz y el aire degradan los pigmentos y aceites volátiles de la especia. 💡 Consejo de almacenamiento: Guarde las porciones diarias en un frasco opaco hermético o de vidrio ámbar en un lugar fresco y oscuro para proteger el color rojo de la oxidación."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_chives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envolver o nirá sem lavar em papel-toalha — Controle de umidade 📦"
     text: "Controlar a umidade nas folhas é a chave para a conservação. 💡 Dica de conservação: Sem lavar, remova a terra e folhas amarelas. Envolva todo o maço, das raízes às pontas, em papel-toalha ou jornal. O papel absorve o excesso de umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas para manter o fres
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

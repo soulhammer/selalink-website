@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lime_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper dans du papier essuie-tout et sceller dans un sac Ziploc — Maintien de l'humidité & contrôle 📦"
     text: "Évitez l'évaporation sans créer de condensation excessive. 💡 Astuce de conservation : Enveloppez chaque citron vert sec et non lavé dans une feuille de papier essuie-tout, placez-les dans un sac Ziploc et chassez l'air. Le papier absorbe l'excès d'humidité."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour garder vos
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

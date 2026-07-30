@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)"
 steps:
   - name: "饮用前轻轻摇匀 — 使天然沉淀充分乳化 🥛"
     text: "杏仁奶中的不饱和脂肪酸与固体颗粒悬浮于水中，静置时会自然分层。💡储存小贴士：这是正常的物理现象而非变质，饮用或使用前将包装轻轻摇匀即可恢复顺滑细腻。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)。
     </p>
   </div>
 </div>

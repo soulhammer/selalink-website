@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & MAFF</strong>"
+authority: "NIFS & MFDS & MAFF"
 steps:
   - name: "Store in an airtight container with a desiccant (silica gel) — Moisture Barrier 📦"
     text: "Leaving opened seaweed at room temperature causes it to absorb humidity and lose its crunch within hours. 💡 Storage Tip: Place leftover seasoned or unseasoned seaweed in an airtight Ziploc bag or container along with a desiccant packet (silica gel) or paper towel to seal out moisture."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NIFS & MFDS & MAFF</strong>.
+      This content is based on NIFS & MFDS & MAFF.
     </p>
   </div>
 </div>

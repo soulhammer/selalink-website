@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envuelva cada pomelo individualmente en papel o papel de cocina — Control de humedad 🗞️"
     text: "Proteger la cáscara de la humedad ambiental y la fricción es el primer paso clave. 💡 Consejo de almacenamiento: Envuelva los pomelos secos individualmente en papel periódico o de cocina para regular la humedad."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación del pomelo en 3 pasos respa
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

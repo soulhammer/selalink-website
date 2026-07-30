@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Madure ciruelas firmes a temperatura ambiente fresca (18–22 °C) — Maduración (2–4 días) 🧺"
     text: "Paso clave para elevar azúcares y aroma. 💡 Consejo de almacenamiento: Coloque ciruelas sin lavar en una sola capa sobre una caja de papel o bandeja en un lugar fresco y sin luz solar directa. Estarán maduras cuando ceda ligeramente la zona del pedúnculo."
@@ -38,7 +38,7 @@ La ciruela es una fruta climatérica con una piel delgada y delicada. Conocer el
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

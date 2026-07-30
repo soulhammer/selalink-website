@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "装入防光防空气的不透明密封容器 — 完全密封 🫙"
     text: "可可粉最大的敌人是空气中的湿气与光线。💡储存小贴士：开封后切勿直接用原包装袋保存，请转存至不透光的玻璃罐、不锈钢密封罐或避光拉链袋中，并紧密盖封以防空气进入。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Ungewaschen und mit grünem Stiel aufbewahren — Wasseraufnahme verhindern 🍓"
     text: "Das Waschen von Erdbeeren oder das Entfernen des Stiels erzeugt mikroskopische Wunden. 💡 Lagerungstipp: Durch diese Schnittstellen dringt Wasser ein, zerstört die Zellwände und lässt Saft austreten, was Grauschimmel auslöst. Erst direkt vor dem Verzehr waschen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf RDA & MFDS & USDA.
     </p>
   </div>
 </div>

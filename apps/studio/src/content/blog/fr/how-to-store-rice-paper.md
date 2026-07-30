@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Sceller à plat dans un sachet Ziploc hermétique après ouverture — Barrière anti-humidité 📦"
     text: "Protéger la structure de l'amidon des variations d'humidité est la première étape cruciale. 💡 Astuce de conservation : L'emballage d'origine laisse passer l'air une fois ouvert. Placez les feuilles bien à plat dans un sachet Ziploc hermétique ou une boîte rigide et chassant l'air."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation des feuilles de riz en 3 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & EFSA & MFDS</strong>.
+      Ce contenu est basé sur FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

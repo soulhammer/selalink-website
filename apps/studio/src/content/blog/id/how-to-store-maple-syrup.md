@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Simpan botol yang belum dibuka di tempat sejuk dan gelap — Lemari Dapur (1+ Tahun) 🏺"
     text: "Sirup maple yang belum dibuka telah disterilkan dengan panas dan sangat stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan botol yang belum dibuka di lemari dapur yang sejuk dan kering (10–20°C). Sirup akan mempertahankan rasa alaminya hingga tanggal kedaluwarsa."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan sirup maple 3 langkah ber
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & CFIA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

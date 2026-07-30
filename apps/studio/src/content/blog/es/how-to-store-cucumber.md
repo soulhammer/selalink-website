@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cucumber_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Lave la superficie y seque el agua por completo — Evite la pudrición blanda y el moho 🥒"
     text: "Los pepinos tienen un alto contenido de agua, por lo que la humedad atrapada acelera el deterioro exterior. 💡 Consejo de almacenamiento: Si enjuaga la tierra de la piel, seque cada gota con toallas de papel o un paño seco y déjelos airear a la sombra durante 10 minutos."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las recomen
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

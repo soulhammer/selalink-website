@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & MAFF</strong>"
+authority: "NIFS & MFDS & MAFF"
 steps:
   - name: "Guarde en un recipiente hermético con un desecante (gel de sílice) — Barrera antihumedad 📦"
     text: "Dejar el alga abierta a temperatura ambiente hace que absorba humedad en pocas horas. 💡 Consejo de almacenamiento: Coloque el alga sazonada o nori en una bolsa Ziploc o recipiente hermético junto con una bolsita de gel de sílice o papel de cocina para aislar la humedad."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NIFS & MFDS & MAFF</strong>.
+      Este contenido se basa en NIFS & MFDS & MAFF.
     </p>
   </div>
 </div>

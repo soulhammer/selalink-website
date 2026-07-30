@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Couper les feuilles en laissant environ 2 cm de tige — Bloquer la perte d'eau ✂️"
     text: "Stopper la transpiration causée par les feuilles est la première étape cruciale. 💡 Astuce de conservation : Couper les tiges à ras crée des ouvertures qui laissent couler le jus de bétacyanine. Laissez 2 cm de tige pour sceller les voies de perte d'eau et de nutriments."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation de la betterave en 3 éta
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

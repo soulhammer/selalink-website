@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Transfiera inmediatamente a un recipiente hermético y refrigere — Almacenamiento refrigerado (3–5 días) ❄️"
     text: "Retire siempre el jamón sobrante de la lata de metal justo después de abrirla. 💡 Consejo de almacenamiento: Extraiga el jamón y colóquelo en un recipiente hermético de cristal o plástico, o envuélvalo firmemente con film transparente antes de refrigerar (0–4 °C) para evitar el resecamiento."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS & FDA</strong>.
+      Este contenido se basa en USDA & MFDS & FDA.
     </p>
   </div>
 </div>

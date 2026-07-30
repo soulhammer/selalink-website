@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Blanch briefly in boiling water to remove surface oil — Oil-Removing Blanching 🫖"
     text: "The frying oil on fish cake surfaces oxidizes quickly upon air exposure, accelerating spoilage. 💡 Storage Tip: Blanch fish cakes in boiling water for 10 to 20 seconds or pour hot boiling water evenly over them. This removes oxidized oil, impurities, and surface microbes, ensuring a cleaner taste and improved hygiene."
@@ -36,7 +36,7 @@ Fish cakes have high moisture and protein content, and their surfaces are coated
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA & FDA</strong>.
+      This content is based on MFDS & USDA & FDA.
     </p>
   </div>
 </div>

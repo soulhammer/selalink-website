@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grape_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Nunca las lave con agua antes de almacenarlas — Conserve la pruina natural 🍇"
     text: "El polvo blanco que cubre la piel de la uva es la 'Pruina' (Bloom), una cera natural secretada por la fruta que evita la pérdida de agua y la protege contra bacterias. Lavarlas elimina esta capa y atrapa humedad, acelerando la descomposición. 💡 Consejo de almacenamiento: Manténgalas secas hasta justo antes de comer."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las pautas 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

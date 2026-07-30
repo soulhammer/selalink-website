@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Guarde em um armário fresco e escuro — Temperatura ambiente (Indefinido) 🏺"
     text: "Graças ao alto teor alcoólico, o extrato puro de baunilha pode ser conservado quase indefinidamente à temperatura ambiente. 💡 Dica de conservação: Mantenha-o em uma despensa fresca e escura (15–24 °C) longe do calor. Mantém seu aroma profundo por anos."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do extrato de baunilha em 3 et
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

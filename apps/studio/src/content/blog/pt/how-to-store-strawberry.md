@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/strawberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Não lave e mantenha os talos verdes — Bloqueie a absorção de água 🍓"
     text: "Lavar os morangos ou retirar seus talos cria microferidas na casca. 💡 Dica de conservação: A água entra por essas aberturas por pressão osmótica, rompendo as células e derramando suco, o que ativa o mofo cinzento. Mantenha-os secos até o momento de comer."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em RDA & MFDS & USDA.
     </p>
   </div>
 </div>

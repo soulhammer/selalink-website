@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Innereien entfernen und Blut säubern — Autolyse & Geruch stoppen 🔪"
     text: "Entfernen Sie Kiemen und Innereien und spülen Sie Blutreste sowie die schwarze Bauchhaut an der Wirbelsäule unter fließendem Wasser ab. 💡 Lagerungstipp: Innereien verderben am schnellsten. Das gründliche Abtupfen innen und außen mit Küchenpapier ist der wichtigste erste Schritt gegen Bakterien."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NIFS & RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

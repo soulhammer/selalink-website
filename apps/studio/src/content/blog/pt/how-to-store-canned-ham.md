@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Transfira imediatamente para um pote hermético e refrigere — Refrigeração (3–5 dias) ❄️"
     text: "Retire todo o presunto restante da lata de metal logo após a abertura. 💡 Dica de conservação: Retire o bloco e coloque-o num pote hermético de vidro ou plástico, ou envolva-o firmemente em filme plástico antes de refrigerar (0–4 °C) para evitar o ressecamento."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS & FDA</strong>.
+      Este conteúdo baseia-se em USDA & MFDS & FDA.
     </p>
   </div>
 </div>

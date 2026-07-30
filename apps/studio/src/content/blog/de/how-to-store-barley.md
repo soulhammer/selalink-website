@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle ($A_w < 0,60$) 📦"
-    text: "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität ($A_w$) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
+  - name: "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle (Wasseraktivität (Aw) < 0.60) 📦"
+    text: "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
   - name: "In einer kühlen, dunklen Speisekammer unter 10–15 °C aufbewahren — Vorratskammer (1–2 Jahre) 🧺"
     text: "Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um $\beta$-Glucan 1–2 Jahre zu erhalten."
   - name: "Bei feuchtem Wetter oder Großmengen im Kühlschrank lagern — Kühllagerung (2+ Jahre) ❄️"
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">SCHRITT 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle ($A_w < 0,60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle (Wasseraktivität (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität ($A_w$) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime.
+    Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Hohe Luftfeuchtigkeit und warme Temperaturen meiden ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Hohe Luftfeuchtigkeit und Hitze beschleunigen den Stärkeabbau in der Gerste und erhöhen das Mykotoxinrisiko. Halten Sie den Feuchtigkeitsgehalt unter 12 % und die Wasseraktivität ($A_w < 0,60$).
+      Hohe Luftfeuchtigkeit und Hitze beschleunigen den Stärkeabbau in der Gerste und erhöhen das Mykotoxinrisiko. Halten Sie den Feuchtigkeitsgehalt unter 12 % und die Wasseraktivität (Wasseraktivität (Aw) < 0.60).
     </p>
   </div>
 </div>

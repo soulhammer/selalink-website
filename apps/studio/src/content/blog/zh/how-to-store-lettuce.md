@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lettuce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "用厨房纸巾调节湿度 — 防止湿度失衡 🧻"
     text: "既要防止生菜水分蒸发，又要避免水汽凝结导致烂叶，保持适宜湿度是关键。💡储存小贴士：用厨房纸巾将未清洗的生菜包裹起来，或在保鲜盒底部及层间铺上纸巾。纸巾能吸收多余水汽，同时维持生菜所需的适度湿润。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

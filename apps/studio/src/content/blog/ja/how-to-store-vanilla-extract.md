@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "直射日光の当たらない涼しく暗いパントリーに保管する — 常温保存 (半永久的) 🏺"
     text: "未開封および開封済みの純バニラエキストラクトは、アルコール分のおかげで常温でほぼ半永久的に保存できます。💡保存のコツ：直射日光や熱気のない15〜24℃の涼しいパントリーや戸棚で保存してください。数年経っても濃密なバニラの香りを維持できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

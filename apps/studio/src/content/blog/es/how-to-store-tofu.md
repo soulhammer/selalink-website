@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Deseche el agua del empaque y enjuague bien bajo agua corriente — Bloquee microbios 🚿"
     text: "El líquido del paquete contiene proteínas disueltas muy propensas a la floración bacteriana. 💡 Consejo de almacenamiento: Elimine el agua del empaque y enjuague el tofu suavemente bajo agua fría corriente para quitar residuos de la superficie."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las normas 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA & Mayo Clinic</strong>.
+      Este contenido se basa en MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

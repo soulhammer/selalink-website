@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga $A_w < 0,65$ & Bebas Hama 🫙"
+  - name: "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga aktivitas air (Aw) < 0,65 & Bebas Hama 🫙"
     text: "Segera pindahkan lentil kering ke dalam toples kaca atau wadah kedap udara PET/PP khusus makanan dan masukkan desikan (silica gel). 💡 Tips Penyimpanan: Mengontrol kadar air di bawah 10–12% menjaga aktivitas air di bawah 0,65, menghentikan racun dan hama."
   - name: "Simpan di tempat sejuk dan gelap (15–20°C) — Simpan Lemari Dapur Kering (1–2 Tahun) 🚪"
     text: "Simpan wadah lentil di lemari dapur yang sejuk dan gelap. 💡 Tips Penyimpanan: Di lingkungan sejuk dan kering pada suhu 15–20°C, lentil mempertahankan nilai gizi dan warnanya tanpa penurunan kualitas selama 1 hingga 2 tahun."
@@ -25,7 +25,7 @@ faqs:
 
 Kacang lentil (Lentils) adalah superfood yang terkenal di seluruh dunia, kaya akan protein nabati, serat pangan, dan zat besi! 🫘
 
-Kacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air ($A_w$) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.
+Kacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air (aktivitas air (Aw)) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.
 
 Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk menjaga kacang lentil Anda tetap aman, segar, dan bebas dari racun. 🛡️
 
@@ -38,7 +38,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga $A_w < 0,65$ & Bebas Hama 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga aktivitas air (Aw) < 0,65 & Bebas Hama 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Segera pindahkan lentil kering ke dalam toples kaca atau wadah kedap udara PET/PP khusus makanan dan masukkan desikan (silica gel). 💡 Tips Penyimpanan: Mengontrol kadar air di bawah 10–12% menjaga aktivitas air di bawah 0,65, menghentikan racun dan hama.

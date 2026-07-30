@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Embrulhe o espinafre seco e sem lavar em jornal ou papel-toalha — Controle de umidade 📦"
     text: "As folhas de espinafre estragam rápido em contato direto com água livre. 💡 Dica de conservação: Mantenha a terra de origem e embrulhe o espinafre seco em papel-toalha ou jornal. O papel absorve a condensação e mantém as folhas secas."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & EFSA & FSA</strong>.
+      Este conteúdo baseia-se em RDA & EFSA & FSA.
     </p>
   </div>
 </div>

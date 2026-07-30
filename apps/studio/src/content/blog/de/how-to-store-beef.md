@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Fleischsaft und Blut gründlich abtupfen — Gerüche und Verderb verhindern 🥩"
     text: "Der auf der Oberfläche austretende Fleischsaft (Drip) verursacht unangenehme Gerüche und dient Bakterien als idealer Nährboden. 💡 Lagerungstipp: Tupfen Sie die Fleischoberfläche direkt vor dem Kochen oder Lagern fest mit Küchenpapier ab, um überschüssige Feuchtigkeit zu entfernen und Bakterienwachstum zu stoppen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA.
     </p>
   </div>
 </div>

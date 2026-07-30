@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "風通しの良い涼しい常温で追熟させる — 甘みと香りを最大化 📦"
     text: "かたい桃や未熟な桃は直射日光を避け、風通しの良い涼しい常温（15〜20℃）に1〜3日置いて自然追熟させます。💡保存のコツ：桃同士が当たらないように離して置き、軽く触れて柔らかくなり甘い香りが立つまで待ちます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

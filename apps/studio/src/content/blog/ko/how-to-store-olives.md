@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olives_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "절임물에 완전히 잠기도록 유리 용기에 보관하기 — 산소 차단 및 산화 방지 📦"
     text: "올리브 표면이 공기에 노출되면 무르고 곰팡이가 생기기 쉽습니다. 💡 보관 팁: 개봉 후 남은 올리브는 캔 채로 두지 말고 유리병이나 식품용 밀폐 용기에 옮긴 뒤, 절임물에 완전히 잠기도록 눌러 보관하세요. 표면이 노출되는 것을 막는 것이 핵심입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

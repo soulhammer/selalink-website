@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Buang air kemasan dan bilas hingga bersih di bawah air mengalir — Cegah Mikroba 🚿"
     text: "Cairan di dalam kemasan tahu kaya akan protein terlarut yang sangat memicu perkembangan bakteri. 💡 Tips Penyimpanan: Buang air kemasan secara total dan bilas tahu secara lembut di bawah air kran dingin untuk membersihkan sisa protein di permukaan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & USDA & Mayo Clinic</strong>.
+      Konten ini didasarkan pada MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

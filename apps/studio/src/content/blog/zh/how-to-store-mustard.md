@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "开封前避光置于阴凉常温处 — 开封前常温保存 (15 ~ 25℃) 📦"
     text: "未开封的芥末酱凭借醋和盐的防腐作用，在常温下非常稳定。💡储存小贴士：远离阳光直射与灶台热源，置于阴凉干燥的橱柜中。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

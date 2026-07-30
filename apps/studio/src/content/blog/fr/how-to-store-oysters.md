@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Recouvrir les huîtres en coquille d'un linge humide — Préserver l'état vivant 🦪"
     text: "Maintenir les huîtres vivantes est la clé de la fraîcheur. 💡 Astuce de conservation : Placez les huîtres non lavées côté bombé vers le bas dans un plat creux ouvert, recouvrez-les d'un torchon humidifié à l'eau salée et réfrégérez (1–4 °C). Elles resteront vivantes 2 à 3 jours."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

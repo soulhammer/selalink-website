@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "转移至密封容器中 — 隔绝湿气与害虫 📦"
     text: "直接保留在拆封包装袋中易吸收空气湿气并诱发虫害。💡储存小贴士：将干燥的豆子装入玻璃瓶、厚塑料密封盒或拉链袋中紧密密封。这能阻断氧气与湿气，有效防止害虫滋生。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

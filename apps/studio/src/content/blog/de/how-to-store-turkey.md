@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Mit Küchenpapier abtupfen statt waschen — Kreuzkontamination vermeiden 🧼"
     text: "Nicht unter fließendem Wasser waschen. Nach dem Öffnen der Verpackung die Oberfläche innen und außen mit sauberem Küchenpapier gründlich trocken tupfen. 💡 Lagerungstipp: Das Entfernen der Oberflächenfeuchtigkeit entzieht Bakterien den Nährboden und verhindert Erregerverbreitung."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA FSIS & MFDS & RDA</strong>.
+      Dieser Inhalt basiert auf USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/kale_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "줄기 하단을 젖은 타월로 감싸 수분 공급하기 — 수분 손실 방지 🧻"
-    text: "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타올로 감싸 수분을 지속적으로 공급해 주세요."
+    text: "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타월로 감싸 수분을 지속적으로 공급해 주세요."
   - name: "밀폐 용기나 지퍼백에 넣어 0 ~ 4℃ 냉장 보관하기 — 냉장 보관 (7 ~ 10일) ❄️"
     text: "에틸렌 가스를 차단하고 상대습도 90 ~ 95%를 유지하는 것이 핵심입니다. 💡 보관 팁: 줄기를 감싼 케일을 밀폐 용기나 지퍼백에 담아 에틸렌 및 공기 접촉을 차단한 뒤, 냉장고 야채칸(0 ~ 4℃)에 세워 보관하세요. 최대 7 ~ 10일간 아삭함을 유지할 수 있습니다."
   - name: "손질 후 밀폐 지퍼백에 냉동 보관하기 — 냉동 보관 (10 ~ 12개월) 🧊"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">줄기 하단을 젖은 타월로 감싸 수분 공급하기 — 수분 손실 방지 🧻</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타올로 감싸 수분을 지속적으로 공급해 주세요.
+    케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타월로 감싸 수분을 지속적으로 공급해 주세요.
   </p>
 </div>
 

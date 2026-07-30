@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/quinoa_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FAO & MFDS</strong>"
+authority: "USDA & FAO & MFDS"
 steps:
-  - name: "In luftdichten, dunklen Behältern lagern zur Kontrolle der Wasseraktivität ($A_w < 0,65$) — Luftdichte Lagerung (1–2 Jahre) 📦"
-    text: "Für ungekochte, trockene Quinoa ist die Minimierung des Luft- und Lichtkontakts entscheidend. 💡 Lagerungstipp: Füllen Sie Quinoa in ein dunkles Glas oder eine luftdichte Dose mit Silikagel-Päckchen. Eine Wasseraktivität ($A_w$) unter 0,65 verlangsamt die Autooxidation für 1 bis 2 Jahre in einer kühlen, dunklen Speisekammer (unter 15–20 °C)."
+  - name: "In luftdichten, dunklen Behältern lagern zur Kontrolle der Wasseraktivität (Wasseraktivität (Aw) < 0,65) — Luftdichte Lagerung (1–2 Jahre) 📦"
+    text: "Für ungekochte, trockene Quinoa ist die Minimierung des Luft- und Lichtkontakts entscheidend. 💡 Lagerungstipp: Füllen Sie Quinoa in ein dunkles Glas oder eine luftdichte Dose mit Silikagel-Päckchen. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,65 verlangsamt die Autooxidation für 1 bis 2 Jahre in einer kühlen, dunklen Speisekammer (unter 15–20 °C)."
   - name: "Kühlen oder Einfrieren zur vollständigen Verhinderung von Lipidranzigkeit — Kühl-/Gefrierlagerung (2+ Jahre) ❄️"
     text: "Bei feuchtem Klima oder großen Mengen ist die Lagerung bei niedrigen Temperaturen am effektivsten. 💡 Lagerungstipp: Verschließen Sie Quinoa doppelt in luftdichten Dosen oder Gefrierbeuteln im Kühlschrank (0–4 °C) oder Gefrierfach (-18 °C). Die Kälte stoppt die Oxidation über 2 Jahre lang."
   - name: "Gekochte Quinoa luftdicht gekühlt oder eingefroren aufbewahren — Gekochte Quinoa (Kühlschrank 5–7 Tage / Gefrierfach 8–12 Monate) 🧊"
@@ -25,7 +25,7 @@ faqs:
 
 Quinoa stammt aus den südamerikanischen Anden und ist ein eiweißreiches Superfood, das weltweit als gesunde Getreidealternative geschätzt wird! Doch haben Sie Quinoa schon einmal auf Vorrat gekauft und festgestellt, dass sie nach einiger Zeit ranzig roch oder feucht wurde? 🌾
 
-Im Gegensatz zu den meisten Getreidesorten hat Quinoa einen relativ hohen Gehalt an ungesättigten Fettsäuren (ca. 6 %). Bei Kontakt mit Luftsauerstoff bilden sich Lipidhydroperoxide, was eine schnelle Autooxidation der Fettsäuren auslöst. Dieser Prozess führt zu ranzigem Geruch und zerstört Nährstoffe. Wenn zudem die natürliche Saponinschicht vorzeitig abgewaschen wird und die Wasseraktivität ($A_w$) über 0,65 steigt, entsteht ein idealer Nährboden für Schimmel und Schädlinge.
+Im Gegensatz zu den meisten Getreidesorten hat Quinoa einen relativ hohen Gehalt an ungesättigten Fettsäuren (ca. 6 %). Bei Kontakt mit Luftsauerstoff bilden sich Lipidhydroperoxide, was eine schnelle Autooxidation der Fettsäuren auslöst. Dieser Prozess führt zu ranzigem Geruch und zerstört Nährstoffe. Wenn zudem die natürliche Saponinschicht vorzeitig abgewaschen wird und die Wasseraktivität (Wasseraktivität (Aw)) über 0,65 steigt, entsteht ein idealer Nährboden für Schimmel und Schädlinge.
 
 In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Ranzigkeit zu verhindern und Geschmack sowie Nährstoffe über 2 Jahre lang zu erhalten. 🛡️
 
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FAO & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FAO & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">SCHRITT 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">In luftdichten, dunklen Behältern lagern zur Kontrolle der Wasseraktivität ($A_w < 0,65$) — Luftdichte Lagerung (1–2 Jahre) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">In luftdichten, dunklen Behältern lagern zur Kontrolle der Wasseraktivität (Wasseraktivität (Aw) < 0,65) — Luftdichte Lagerung (1–2 Jahre) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Für ungekochte, trockene Quinoa ist die Minimierung des Luft- und Lichtkontakts entscheidend. 💡 Lagerungstipp: Füllen Sie Quinoa in ein dunkles Glas oder eine luftdichte Dose mit Silikagel-Päckchen. Eine Wasseraktivität ($A_w$) unter 0,65 verlangsamt die Autooxidation für 1 bis 2 Jahre in einer kühlen, dunklen Speisekammer (unter 15–20 °C).
+    Für ungekochte, trockene Quinoa ist die Minimierung des Luft- und Lichtkontakts entscheidend. 💡 Lagerungstipp: Füllen Sie Quinoa in ein dunkles Glas oder eine luftdichte Dose mit Silikagel-Päckchen. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,65 verlangsamt die Autooxidation für 1 bis 2 Jahre in einer kühlen, dunklen Speisekammer (unter 15–20 °C).
   </p>
 </div>
 
@@ -86,7 +86,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Quinoa vor der Lagerung nicht waschen 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Das Abwaschen der Saponinschicht vor der Lagerung hinterlässt Restfeuchtigkeit, was die Wasseraktivität ($A_w$) erhöht und Schimmel sowie die Autooxidation beschleunigt. Waschen Sie Quinoa erst direkt vor dem Kochen.
+      Das Abwaschen der Saponinschicht vor der Lagerung hinterlässt Restfeuchtigkeit, was die Wasseraktivität (Wasseraktivität (Aw)) erhöht und Schimmel sowie die Autooxidation beschleunigt. Waschen Sie Quinoa erst direkt vor dem Kochen.
     </p>
   </div>
 </div>

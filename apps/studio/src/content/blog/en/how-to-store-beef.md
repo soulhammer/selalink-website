@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Wipe off surface moisture and blood (drip) thoroughly — Prevent Off-Odors & Spoilage 🥩"
     text: "The blood and liquid (drip) exuded on the beef surface cause gamey odors and serve as an ideal nutrient medium for spoilage bacteria. 💡 Storage Tip: Right before cooking or storing, firmly press paper towels onto the meat surface to absorb all excess moisture and drip, suppressing microbial growth and rancidity."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on fres
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA</strong>.
+      This content is based on MFDS & USDA.
     </p>
   </div>
 </div>

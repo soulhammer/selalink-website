@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & MAFF</strong>"
+authority: "NIFS & MFDS & MAFF"
 steps:
   - name: "Placer dans une boîte hermétique avec un sachet dessiccant (silica gel) — Barrière antihumidité 📦"
     text: "Laisser des algues ouvertes à température ambiante leur fait absorber l'humidité en quelques heures. 💡 Astuce de conservation : Mettez les algues dans un sachet Ziploc ou une boîte hermétique avec un sachet de gel de silice ou du papier absorbant."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>NIFS & MFDS & MAFF</strong>.
+      Ce contenu est basé sur NIFS & MFDS & MAFF.
     </p>
   </div>
 </div>

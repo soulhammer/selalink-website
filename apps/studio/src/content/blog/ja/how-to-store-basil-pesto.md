@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/basil_pesto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "表面にエキストラバージンオリーブオイルを注いで密封する — オイルフィルム酸素遮断 🫒"
     text: "ペーストを容器に入れ、スプーンで表面を平らに整えた後、エキストラバージンオリーブオイルを2〜3mmの厚さで注いで表面を覆います。このオイル膜が酸素との接触を遮断し、クロロフィルがフェオフィチンへ変色する褐変を防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

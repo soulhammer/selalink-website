@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Simpan dalam toples kaca gelap/amber — Perlindungan Foto-Oksidasi 📦"
     text: "Simpan bubuk kunyit atau kunyit kering dalam toples kaca gelap (amber/ungu) atau wadah buram kedap udara. 💡 Tips Penyimpanan: Wadah transparan membiarkan cahaya merusak kurkumin, sehingga wadah buram adalah hal utama."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan kunyit 3 langkah berbasis
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & FDA & MFDS.
     </p>
   </div>
 </div>

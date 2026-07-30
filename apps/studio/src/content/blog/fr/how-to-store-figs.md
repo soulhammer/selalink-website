@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fig_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper chaque figue non lavée dans du papier absorbant — Protection humidité et chocs 📦"
     text: "Étape clé pour bloquer l'humidité et les chocs. 💡 Astuce de conservation : Enveloppez délicatement chaque figue sèche dans du papier essuie-tout pour absorber la condensation et éviter les frottements."
@@ -38,7 +38,7 @@ Possédant une peau extrêmement fine, une teneur en eau supérieure à 80 % et 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

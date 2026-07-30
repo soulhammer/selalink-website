@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)"
 steps:
   - name: "ドアポケットではなく冷蔵庫奥の棚に保存する — 低温鮮度保持 (7日間) ❄️"
     text: "ドアポケットは開閉のたびに常温に晒され温度変化が極めて激しい場所です。💡保存のコツ：牛乳の鮮度を守るには、外部の空気の影響を受けにくく、温度が常に0〜4℃で一定に保たれる冷蔵庫本体の中央奥の棚で保存してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)に基づいています。
     </p>
   </div>
 </div>

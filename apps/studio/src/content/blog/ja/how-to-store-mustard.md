@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)"
 steps:
   - name: "開封前は直射日光を避け涼しい常温で保管する — 開封前常温保存 (15〜25℃) 📦"
     text: "未開封のマスタードはお酢と塩分の保全作用により常温で安全に保存できます。💡保存のコツ：直射日光やコンロ周囲の熱を避け、暗く涼しい戸棚に保管してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

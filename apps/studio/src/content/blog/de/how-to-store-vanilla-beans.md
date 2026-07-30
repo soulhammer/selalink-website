@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Jede Schote einzeln in Wachspapier oder Folie wickeln — Schutz vor Austrocknung 📜"
     text: "Wickeln Sie jede Vanilleschote einzeln in Wachspapier (Wax Paper) oder Lebensmittelfolie ein, um Reibung zu reduzieren und Feuchtigkeitsverlust zu verhindern."
@@ -25,7 +25,7 @@ faqs:
 
 Echte Vanilleschoten (Vanilla Beans) verleihen feinen Desserts und Gebäck ein unvergleichlich edles, süßes Aroma! 🍦✨
 
-Die Schoten verdanken ihr Aroma dem wertvollen Duftstoff Vanillin. Wegen des hohen Preises lagern viele Menschen Vanilleschoten jedoch fälschlicherweise im Kühlschrank. Das kühle Umgebungsklima führt beim Herausnehmen zu Kondenswasserbildung (Condensation) auf der Schote, was die Wasseraktivität ($A_w$) sprunghaft ansteigen lässt und Schimmelbildung begünstigt.
+Die Schoten verdanken ihr Aroma dem wertvollen Duftstoff Vanillin. Wegen des hohen Preises lagern viele Menschen Vanilleschoten jedoch fälschlicherweise im Kühlschrank. Das kühle Umgebungsklima führt beim Herausnehmen zu Kondenswasserbildung (Condensation) auf der Schote, was die Wasseraktivität (Wasseraktivität (Aw)) sprunghaft ansteigen lässt und Schimmelbildung begünstigt.
 
 In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Vanillinkristalle zu schützen und Schimmelrisiken auszuschließen. 🛡️
 
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Vanilleschoten niemals im Kühlschrank oder Gefrierfach lagern ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Im Kühlschrank bildet sich beim Entnehmen Kondenswasser auf den Schoten. Dies erhöht die Oberflächen-Wasseraktivität ($A_w$) stark und schafft ideale Nährböden für Schimmelpilze (Aspergillus), während die Vanillinstruktur zerstört wird.
+      Im Kühlschrank bildet sich beim Entnehmen Kondenswasser auf den Schoten. Dies erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) stark und schafft ideale Nährböden für Schimmelpilze (Aspergillus), während die Vanillinstruktur zerstört wird.
     </p>
   </div>
 </div>

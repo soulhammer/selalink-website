@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & EFSA</strong>"
+authority: "RDA & USDA & EFSA"
 steps:
   - name: "Trim the stem base and wrap with a damp paper towel — Stem Hydration 🥦"
     text: "The thick stem of broccoli is the main channel supplying water and nutrients to the upper florets. 💡 Storage Tip: Trim about 0.5 cm off the bottom of the stem and wrap the stem base with a wet paper towel that has been wrung out. Supplying continuous moisture like flowers in a vase prevents the florets from drying out and blooming."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on reco
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & EFSA</strong>.
+      This content is based on RDA & USDA & EFSA.
     </p>
   </div>
 </div>

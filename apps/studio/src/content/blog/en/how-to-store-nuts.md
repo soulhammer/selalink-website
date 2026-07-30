@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Seal tightly and store in the fridge or freezer once opened — Cold Storage (90 Days Refrigerated, 180 Days Frozen) ❄️"
     text: "Leaving nuts at warm room temperatures causes unsaturated fats to oxidize quickly, releasing offensive odors and risking aflatoxin contamination. 💡 Storage Tip: Seal opened nuts in airtight containers and store in the fridge (0–4°C) for up to 3 months, or in the freezer (-18°C) for over 6 months."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA & FDA</strong>.
+      This content is based on MFDS & USDA & FDA.
     </p>
   </div>
 </div>

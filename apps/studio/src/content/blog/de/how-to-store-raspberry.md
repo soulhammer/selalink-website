@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Ungewaschene Beeren einlagig (Single Layer) auf Küchenpapier auslegen — Feuchtigkeitsschutz 🧻"
     text: "Das Stapeln von Himbeeren führt dazu, dass untere Beeren unter dem Eigengewicht zerdrückt werden, was Feuchtigkeit staut und Schimmel fördert. 💡 Lagerungstipp: Legen Sie eine Dosis mit Küchenpapier aus und platzieren Sie die ungewaschenen Himbeeren nebeneinander in einer einzelnen Schicht."
@@ -18,14 +18,14 @@ steps:
     text: "Da frische Himbeeren nur kurz haltbar sind, ist Einfrieren ideal, wenn Sie sie nicht binnen 3 Tagen verbrauchen. 💡 Lagerungstipp: Himbeeren vorsichtig waschen, mit Küchenpapier gründlich trocknen, auf einem Blech einzeln vorfrieren und dann in Ziploc-Beutel (-18 °C) umfüllen. Hält 10–12 Monate für Smoothies."
 faqs:
   - question: "Warum sollte man Himbeeren vor der Lagerung nicht waschen?"
-    answer: "Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität ($A_w$) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen."
+    answer: "Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen."
   - question: "Warum werden gefrorene Himbeeren beim Auftauen matschig und wie verwendet man sie am besten?"
     answer: "Himbeeren haben empfindliche Zellwände, die beim Einfrieren platzen; beim Auftauen tritt Zellsaft aus. Am besten verwendet man gefrorene Himbeeren direkt ohne Auftauen für Smoothies, Joghurt-Toppings oder zum Backen."
 ---
 
 Haben Sie schon einmal wunderschöne Himbeeren gekauft, nur um festzustellen, dass sie bereits zwei Tage nach dem Einräumen in den Kühlschrank schimmelig oder matschig waren? 🍓
 
-Himbeeren sind ein beliebter Klassiker für Frühstück und Desserts. Da sie jedoch eine sehr dünne Fruchtschale und eine hohle Innenstruktur besitzen, weisen sie eine extrem hohe Atmungsrate (Respiration Rate) auf und verderben schneller als fast jedes andere Obst. Durch Waschen steigt die Wasseraktivität an der Oberfläche ($A_w$) auf nahe 1,0, was dazu führt, dass Sporen des Grauschimmels (*Botrytis cinerea*) die Zellwände innerhalb weniger Stunden zerstören.
+Himbeeren sind ein beliebter Klassiker für Frühstück und Desserts. Da sie jedoch eine sehr dünne Fruchtschale und eine hohle Innenstruktur besitzen, weisen sie eine extrem hohe Atmungsrate (Respiration Rate) auf und verderben schneller als fast jedes andere Obst. Durch Waschen steigt die Wasseraktivität an der Oberfläche (Wasseraktivität (Aw)) auf nahe 1,0, was dazu führt, dass Sporen des Grauschimmels (*Botrytis cinerea*) die Zellwände innerhalb weniger Stunden zerstören.
 
 In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Himbeeren, um deren Frische zu maximieren. 🛡️
 
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Himbeeren direkt nach dem Kauf niemals waschen 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Werden Himbeeren vor der Lagerung gewaschen, steigt die Oberflächen-Wasseraktivität ($A_w$) auf fast 1,0. Dies aktiviert die Sporen von *Botrytis cinerea* (Grauschimmel), die die Zellwände zersetzen und die Beere binnen Stunden zerstören. Erst unmittelbar vor dem Verzehr waschen.
+      Werden Himbeeren vor der Lagerung gewaschen, steigt die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf fast 1,0. Dies aktiviert die Sporen von *Botrytis cinerea* (Grauschimmel), die die Zellwände zersetzen und die Beere binnen Stunden zerstören. Erst unmittelbar vor dem Verzehr waschen.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität ($A_w$) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen.
+      Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen.
     </p>
   </details>
 

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Tutup rapat dan simpan di kulkas (0–5°C) setelah dibuka — Simpan Dingin (6–12 Bulan) ❄️"
     text: "Gochujang yang belum dibuka bisa disimpan di suhu ruang, tetapi begitu dibuka, kontak oksigen akan memulai penurunan kualitas. 💡 Tips Penyimpanan: Bersihkan pinggiran wadah, tutup rapat, dan simpan di kulkas suhu 0–5°C agar tidak fermentasi berlebih."
@@ -36,7 +36,7 @@ Meskipun merupakan makanan fermentasi tinggi garam, begitu dibuka, Gochujang ter
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & KFRI & USDA</strong>.
+      Konten ini didasarkan pada MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

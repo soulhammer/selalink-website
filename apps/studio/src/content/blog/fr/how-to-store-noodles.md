@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Sceller les nouilles sèches dans des boîtes hermétiques ou bouteilles — Barrière contre l'humidité et les insectes (1–2 ans) 📦"
     text: "Conserver les nouilles sèches dans leur sachet d'origine permet aux larves d'insectes de percer le plastique. 💡 Astuce de conservation : Transvasez les nouilles avec un sachet de silice dans un récipient hermétique ou une bouteille en plastique. Conservez au sec sous 20 °C pendant 1 à 2 ans."
@@ -38,7 +38,7 @@ Les nouilles se divisent en 'nouilles sèches' (humidité inférieure à 14 %) e
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & FDA & MFDS.
     </p>
   </div>
 </div>

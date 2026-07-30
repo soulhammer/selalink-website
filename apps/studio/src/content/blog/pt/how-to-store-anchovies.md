@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Toste levemente e porcione — Remover umidade & Odores 📦"
     text: "Se as anchovas estiverem úmidas, toste-as em uma frigideira sem óleo em fogo baixo por 1 a 2 minutos. 💡 Dica de conservação: Deixe esfriar completamente antes de embalar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>NIFS & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

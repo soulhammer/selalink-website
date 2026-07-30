@@ -8,7 +8,7 @@
             "ko": {
                 "title": "김치 신선하게 보관하는 법: 과학적 발효 보관 가이드",
                 "description": "공인된 연구 기관 및 안전 가이드라인에 따른 김치의 발효 상태별 최적 보관 온도, 흰색 군덕지(산막효모) 방지법 및 보관 기간을 확인하세요.",
-                "authority": "<strong>세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)",
                 "intro": "한국인의 밥상에서 빠질 수 없는 김치! 하지만 보관을 조금만 잘못해도 금세 너무 찌개용으로 푹 익어버리거나, 표면에 하얀 막(군덕지)이 생겨 버려야 하나 고민한 적 있으시죠? 🥬\n\n김치는 유산균이 살아 숨 쉬는 대표적인 생균 발효 식품입니다. 발효 과정에서 젖산균이 유기산을 만들어내어 깊은 맛을 내지만, 온도가 높아지면 과도하게 산패되어 시어지고, 공기와 접촉하면 산막효모가 자라 흰색 막을 형성하게 됩니다.\n\n이번 가이드에서는 세계김치연구소와 식품 전문가들이 검증한 과학적 팩트를 바탕으로, 김치의 아삭한 식감과 깊은 풍미를 오랫동안 지켜주는 3단계 최적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "발효 미생물인 젖산균과 산막효모의 생리적 특성을 이해하고 이에 맞는 올바른 환경(온도·산소 차단)을 제공하는 것이 김치의 맛과 위생 관리에 있어 핵심입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Kimchi Fresh: Scientific Fermentation Storage Guide",
                 "description": "Check the optimal storage temperature per fermentation stage, methods to prevent white yeast film, and shelf life for kimchi based on official research guidelines.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "Kimchi is an essential staple on the dining table! However, if stored improperly, it can quickly turn overly sour or develop a white film on the surface, making you wonder if it should be thrown away. 🥬\n\nKimchi is a prime living fermented food powered by beneficial lactic acid bacteria. During fermentation, these bacteria produce organic acids that create its deep, complex flavor. However, higher temperatures accelerate over-acidification, while contact with air allows film-forming yeast to grow and form a white layer.\n\nIn this guide, based on scientific facts verified by the World Institute of Kimchi (WiKim) and food safety experts, we introduce a 3-step optimal storage method to preserve kimchi's crisp texture and rich flavor over a long time. 🛡️",
                 "whyTitle": "Why Store Kimchi This Way? Scientific Facts",
                 "whyDesc": "Understanding the physiological traits of fermenting microorganisms—lactic acid bacteria and film-forming yeast—and providing the right environment (temperature control and oxygen exclusion) is key to maintaining kimchi's taste and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "キムチを新鮮に保つ保存方法：科学的発酵保管ガイド",
                 "description": "公的研究機関および安全ガイドラインに基づくキムチの発酵状態別の最適保存温度、白カビ状の膜（産膜酵母）防止法、保存期間をご確認ください。",
-                "authority": "<strong>World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)",
                 "intro": "食卓に欠かせないキムチ！しかし、少し保存方法を間違えるとすぐに酸っぱくなりすぎたり、表面に白い膜（産膜酵母）が発生して捨てようか迷った経験はありませんか？🥬\n\nキムチは乳酸菌が生きている代表的な生菌発酵食品です。発酵過程で乳酸菌が有機酸を作り出し深い味わいを生み出しますが、温度が高くなると過度に酸化して酸っぱくなり、空気と接触すると産膜酵母が繁殖して白い膜を形成します。\n\n本記事では、世界キムチ研究所や食品専門家が検証した科学的ファクトに基づき、キムチのシャキシャキした食感と深い旨味を長く守る3段階の最適保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "発酵微生物である乳酸菌と産膜酵母の生理的特性を理解し、それに合った正しい環境（温度・酸素遮断）を提供することがキムチの味と衛生管理の鍵です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持泡菜（Kimchi）新鲜：科学发酵储存指南",
                 "description": "根据官方研究机构及安全指南，了解泡菜不同发酵阶段的最佳储存温度、防止白色酵母膜（产膜酵母）的方法及保鲜时长。",
-                "authority": "<strong>世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "泡菜是餐桌上不可或缺的美食！但如果储存不当，很快就会变得过酸，或者表面长出一层白膜，让人犹豫是否该扔掉。🥬\n\n泡菜是益生乳酸菌活性的代表性发酵食品。发酵过程中乳酸菌会产生有机酸，赋予其深厚风味。然而温度过高会导致过度酸败，而接触空气则会促使产膜酵母繁殖并形成白膜。\n\n本指南基于世界泡菜研究所及食品专家验证的科学事实，为您介绍3步最佳储存秘诀，长久保持泡菜的爽脆口感与浓郁风味。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解发酵微生物（乳酸菌和产膜酵母）的生理特性，并提供适宜的环境（控制温度与隔绝氧气），是维持泡菜风味与食品卫生的核心所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el kimchi fresco: Guía científica de conservación y fermentación",
                 "description": "Descubra la temperatura de almacenamiento óptima según la etapa de fermentación, los métodos para prevenir la capa blanca de levadura y el tiempo de conservación del kimchi.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "¡El kimchi es un elemento imprescindible en la mesa! Sin embargo, si se almacena de forma incorrecta, puede volverse demasiado ácido rápidamente o desarrollar una capa blanca en la superficie, lo que hace dudar de si tirarlo. 🥬\n\nEl kimchi es un alimento fermentado vivo powered por bacterias lácticas beneficiosas. Durante la fermentación, estas bacterias producen ácidos orgánicos que crean su sabor profundo. No obstante, las temperaturas altas aceleran la acidificación excesiva, mientras que el contacto con el aire permite que las levaduras micodérmicas proliferen formando una capa blanca.\n\nEn esta guía, basada en datos científicos verificados por el Instituto Mundial del Kimchi (WiKim) y expertos en seguridad alimentaria, presentamos un método de conservación en 3 pasos para preservar la textura crujiente y el sabor del kimchi durante mucho tiempo. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender los rasgos fisiológicos de los microorganismos de la fermentación (bacterias lácticas y levaduras micodérmicas) y proporcionar el entorno adecuado (control de temperatura y exclusión de oxígeno) es clave para mantener el sabor y la higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le kimchi frais : Guide scientifique de fermentation et stockage",
                 "description": "Découvrez la température optimale de conservation selon l'état de fermentation, les méthodes anti-film blanc de levure et la durée de conservation du kimchi.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "Le kimchi est un incontournable de la table ! Cependant, s'il est mal conservé, il peut devenir trop acide rapidement ou développer une fine pellicule blanche à la surface, vous faisant hésiter à le jeter. 🥬\n\nLe kimchi est un puissant aliment fermenté vivant enrichi en bactéries lactiques. Durant la fermentation, ces bactéries produisent des acides organiques qui lui confèrent sa saveur riche. Toutefois, des températures élevées accélèrent l'acidification, tandis que le contact avec l'air permet aux levures d'altération de former un voile blanc.\n\nDans ce guide, basé sur des faits scientifiques vérifiés par l'Institut Mondial du Kimchi (WiKim) et des experts alimentaires, nous vous présentons une méthode en 3 étapes pour préserver le croquant et le goût du kimchi pendant des mois. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre la physiologie des micro-organismes de fermentation (bactéries lactiques et levures mycodermiques) et offrir un environnement adapté (contrôle de la température et exclusion de l'oxygène) est la clé de la qualité et de l'hygiène du kimchi.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kimchi richtig frisch halten: Wissenschaftlicher Fermentations- und Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur je nach Fermentationsstufe, Methoden zur Vermeidung von weißem Hefefilm und die Haltbarkeit von Kimchi.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "Kimchi ist von der Speisekarte nicht wegzudenken! Doch bei falscher Lagerung kann es schnell zu sauer werden oder einen weißen Film auf der Oberfläche bilden, sodass man sich fragt, ob man es wegwerfen muss. 🥬\n\nKimchi ist ein lebendiges, fermentiertes Lebensmittel voller wertvoller Milchsäurebakterien. Während der Fermentation produzieren diese Bakterien organische Säuren, die für den tiefen Geschmack sorgen. Hohe Temperaturen beschleunigen jedoch die Übersäuerung, während Luftkontakt Kahmhefen wachsen lässt, die eine weiße Schicht bilden.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Fakten des World Institute of Kimchi (WiKim) und von Lebensmittelexperten eine 3-Schritte-Methode vor, um die Knackigkeit und das Aroma von Kimchi monatelang zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Eigenschaften von Fermentationsmikroorganismen (Milchsäurebakterien und Kahmhefen) sowie das Schaffen der richtigen Umgebung (Temperaturkontrolle und Sauerstoffausschluss) ist der Schlüssel für Geschmack und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o kimchi fresco: Guia científico de fermentação e armazenamento",
                 "description": "Descubra a temperatura de conservação ideal para cada estágio de fermentação, métodos para prevenir a película branca de levedura e a validade do kimchi.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "O kimchi é indispensável na refeição! No entanto, se for armazenado incorretamente, pode ficar excessivamente azedo rapidamente ou desenvolver uma película branca na superfície, fazendo você duvidar se deve descartá-lo. 🥬\n\nO kimchi é um alimento fermentado vivo rico em bactérias láticas benéficas. Durante a fermentação, essas bactérias produzem ácidos orgânicos que garantem seu sabor profundo. Contudo, temperaturas elevadas aceleram a acidificação, enquanto o contato com o ar permite que leveduras micodérmicas cresçam e formem uma camada branca.\n\nNeste guia, baseado em fatos científicos verificados pelo Instituto Mundial do Kimchi (WiKim) e especialistas em alimentos, apresentamos um método em 3 etapas para preservar a crocância e o sabor do kimchi por muito tempo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas dos microrganismos da fermentação (bactérias láticas e leveduras micodérmicas) e fornecer o ambiente adequado (controle de temperatura e bloqueio de oxigênio) é a chave para a qualidade e higiene do kimchi.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Kimchi agar Tetap Segar: Panduan Fermentasi dan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal per tahap fermentasi, cara mencegah lapisan ragi putih (fungi mikoderma), dan masa simpan kimchi berdasarkan panduan penelitian resmi.",
-                "authority": "<strong>WiKim & RDA & MFDS</strong>",
+                "authority": "WiKim & RDA & MFDS",
                 "intro": "Kimchi adalah hidangan wajib di meja makan! Namun, jika disimpan dengan cara yang salah, kimchi bisa menjadi terlalu asam dengan cepat atau membentuk lapisan putih di surfaces, membuat Anda ragu apakah harus membuangnya. 🥬\n\nKimchi adalah makanan fermentasi hidup yang kaya akan bakteri asam laktat baik. Selama fermentasi, bakteri ini menghasilkan asam organik yang menciptakan rasa lezat nan mendalam. Namun, suhu tinggi mempercepat proses pembentukan asam, sementara kontak dengan udara memicu pertumbuhan ragi yang membentuk lapisan putih.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh World Institute of Kimchi (WiKim) dan pakar keamanan pangan, kami membagikan metode penyimpanan 3 langkah untuk menjaga tekstur renyah dan cita rasa kimchi dalam waktu lama. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis mikroorganisme fermentasi (bakteri asam laktat dan ragi pelapis) serta menyediakan lingkungan yang tepat (kontrol suhu dan pemblokiran oksigen) adalah kunci utama menjaga kualitas dan kebersihan kimchi.",

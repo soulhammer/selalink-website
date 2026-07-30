@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "가급적 통후추(Peppercorn) 형태로 밀폐 보관하기 — 향 보존 및 산화 차단 📦"
     text: "후추는 갈아내는 순간부터 공기와 접촉하여 향 성분이 빠르게 산화하기 시작합니다. 💡 보관 팁: 가루 후추보다는 통후추를 구매하여 밀폐력이 좋은 유리병이나 차광 용기에 보관하고, 요리 직전에 그라인더로 갈아 사용하는 것이 풍미를 보존하는 가장 과학적인 방법입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

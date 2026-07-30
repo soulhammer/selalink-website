@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper individuellement dans du papier journal ou essuie-tout, puis sceller au film étirable — Protection hydrique 📦"
     text: "L'emballage individuel au sec est la clé. 💡 Astuce de conservation : Enveloppez chaque poire non lavée dans du papier journal ou de l'essuie-tout pour réguler l'humidité, puis scellez hermétiquement avec du film plastique alimentaire. Le papier absorbe l'excès d'humidité et le film empêche l'évaporation."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation en 3 étapes basé sur de
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

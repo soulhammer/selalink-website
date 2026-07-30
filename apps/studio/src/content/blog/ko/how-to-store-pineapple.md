@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "통파인애플 크라운(잎)을 잘라내고 거꾸로 세워 보관하기 — 당도 재분배 팁 🔄"
     text: "파인애플의 당분은 아래쪽에 집중되어 있습니다. 💡 보관 팁: 위쪽의 잎(크라운)을 칼로 잘라낸 뒤, 신문지나 키친타월로 감싸 아래위가 뒤집히도록 거꾸로 세워 상온(1 ~ 2일) 또는 냉장고에 보관하세요. 밑동에 쏠려 있던 당분이 과육 전체로 골고루 퍼집니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

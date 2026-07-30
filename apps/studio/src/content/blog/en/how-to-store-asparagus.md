@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Trim the ends and stand upright in water — Jar Method 🥛"
     text: "Asparagus needs continuous moisture at its base to stay crisp. 💡 Storage Tip: Trim 1 cm off the bottoms and place spears upright in a jar filled with 1–2 cm of water, just like fresh-cut flowers."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      This content is based on RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

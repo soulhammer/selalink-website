@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 미국 농무부(USDA)</strong>"
+authority: "미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 미국 농무부(USDA)"
 steps:
   - name: "사용 후 병 입구와 뚜껑 깨끗이 닦기 — 오염 및 곰팡이 차단 🧻"
     text: "굴소스를 사용한 뒤 병 입구 주변에 묻은 잔여물은 공기 중의 습기와 결합하여 곰팡이의 온상이 됩니다. 💡 보관 팁: 사용 직후 깨끗한 키친타월로 입구를 꼼꼼히 닦아내고 뚜껑을 밀봉하세요. 내부 소스로의 균 침투를 차단하는 중요한 단계입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

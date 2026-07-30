@@ -8,7 +8,7 @@
             "ko": {
                 "title": "강황 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 강황(터머릭)의 최적 보관 온도, 커큐민 광분해 방지 및 습기 차단 가이드를 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "카레의 핵심 성분이자 우수한 항산화 효능으로 전 세계 20억 명 이상이 매일 즐겨 찾는 대표 향신료 강황(터머릭)! 하지만 제대로 보관하지 않아 특유의 선명한 노란빛이 바래거나 습기에 뭉쳐 굳어버린 경험 다들 있으시죠? 💛\n\n강황의 가장 중요한 활성 성분인 **커큐민(Curcumin)** 분자는 자외선(UV) 및 가시광선에 매우 취약하여, 빛에 노출되면 공역 구조가 파괴되는 광분해(Photodegradation) 반응이 빠르게 일어납니다. 또한 습기에 노출되면 지질 효소 및 분말 응집 작용에 의해 가루가 덩어리지고 항산화 성분이 손실되기 쉽습니다.\n\n이번 가이드에서는 식품 및 보건 기관의 공인된 지침을 바탕으로, 커큐민의 항산화 효능을 완벽히 지키고 빛과 습기를 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -34,8 +34,8 @@
                         "text": "수분 유입을 막기 위해 건조제(실리카겔)를 용기 안에 넣고 밀봉하세요. 💡 보관 팁: 가스레인지나 레인지후드 주위의 열기를 피해, 습도가 낮고 어두운 찬장(15~20℃ 이하)에 보관하세요. 커큐민 파괴 없이 1~2년 이상 강황의 선명한 색과 효능을 유지할 수 있습니다."
                     },
                     {
-                        "name": "생강황 뿌리는 키친타올로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️",
-                        "text": "가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타올로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요."
+                        "name": "생강황 뿌리는 키친타월로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️",
+                        "text": "가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타월로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요."
                     }
                 ],
                 "faqs": [
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Turmeric Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, curcumin photodegradation prevention, and moisture blocking guide for turmeric based on official safety guidelines.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Turmeric is a renowned antioxidant spice consumed daily by over 2 billion people worldwide as a key ingredient in curry! However, have you ever stored turmeric only to find its vibrant yellow color faded or the powder clumped due to moisture? 💛\n\nThe primary active compound in turmeric, **Curcumin**, is extremely sensitive to ultraviolet (UV) and visible light, undergoing rapid photodegradation that destroys its conjugated molecular structure. Additionally, exposure to moisture causes caking and leads to the loss of antioxidant potency.\n\nIn this guide, we introduce a scientifically proven 3-step turmeric storage guide based on guidelines from leading food and health authorities to block light and moisture, fully preserving curcumin's antioxidant benefits. 🛡️",
                 "whyTitle": "Why Store Turmeric This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ターメリック（ウコン・ウコン）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくターメリック（ウコン）の最適な保存温度、クルクミンの光分解防止、湿気遮断ガイドをご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "カレーのキー成分であり、優れた抗酸化作用で世界20億人以上が毎日愛用する代表的スパイスのターメリック（ウコン）！ですが、保存中に鮮やかな黄色が褪せたり、湿気で固まってしまった経験はありませんか？💛\n\nターメリックの最も重要な活性成分である**クルクミン（Curcumin）**分子は、紫外線（UV）および可視光線に非常に弱く、光に晒されると共役構造が破壊される光分解（Photodegradation）反応が急速に進みます。また、湿気に触れると粉末が固まり、抗酸化成分が失われやすくなります。\n\n本記事では、食品・保健機関の公認ガイドラインに基づき、クルクミンの抗酸化効能を完璧に守り、光と湿気を遮断する3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持姜黄（Turmeric）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解姜黄的最佳储存温度、防止姜黄素光降解及防潮防结块的科学方法。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "姜黄作为咖喱的核心成分及全球超20亿人每日食用的抗氧化超级香料，深受大众喜爱！但您是否有过因储存不当导致其鲜艳黄色褪去或受潮结块的经历？💛\n\n姜黄中最核心的活性成分**姜黄素（Curcumin）**分子对紫外线（UV）及可见光极度敏感，暴露在光线下会迅速发生光降解（Photodegradation）反应，破坏其共轭分子结构。此外，受潮会导致粉末结块并造成抗氧化成分的流失。\n\n本指南基于权威食品与卫生机构的指导方针，为您介绍3步科学姜黄保存秘诀，阻隔光线与湿气，完美保留姜黄素的抗氧化功效。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la cúrcuma fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la cúrcuma según las directrices oficiales para evitar la fotodegradación de la curcumina y la humedad.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "¡La cúrcuma es una especia antioxidante consumida diariamente por más de 2000 millones de personas en todo el mundo como ingrediente clave del curry! Sin embargo, ¿alguna vez la guardó solo para descubrir que su color amarillo vibrante se había desvanecido o que el polvo se había apelmazado por la humedad? 💛\n\nEl principal compuesto activo de la cúrcuma, la **curcumina**, es extremadamente sensible a la luz ultravioleta (UV) y visible, sufriendo una rápida fotodegradación que destruye su estructura molecular. Además, la humedad provoca apelmazamiento y pérdida de su potencia antioxidante.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades de seguridad alimentaria para bloquear la luz y la humedad, conservando intactos los beneficios de la curcumina. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le curcuma frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le curcuma selon les directives officielles afin d'éviter la photodégradation de la curcumine et l'humidité.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Le curcuma est une épice antioxydante réputée, consommée quotidiennement par plus de 2 milliards de personnes dans le monde comme ingrédient clé du curry ! Cependant, vous est-il déjà arrivé de le conserver pour retrouver sa couleur jaune décolorée ou sa poudre amalgamée par l'humidité ? 💛\n\nLe principal composé actif du curcuma, la **curcumine**, est extrêmement sensible aux rayons ultraviolets (UV) et à la lumière visible, subissant une photodégradation rapide qui détruit sa structure moléculaire. De plus, l'exposition à l'humidité provoque un mottage et la perte de ses propriétés antioxydantes.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour bloquer la lumière et l'humidité et préserver tous les bienfaits de la curcumine. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kurkuma richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kurkuma basierend auf offiziellen Sicherheitsrichtlinien zum Schutz vor Curcumin-Photodegradation und Feuchtigkeit.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Kurkuma ist ein weltweit geschätztes Gewürz mit hervorragenden antioxidativen Eigenschaften, das von über 2 Milliarden Menschen als Hauptbestandteil von Curry verzehrt wird! Doch haben Sie Kurkuma schon einmal gelagert und festgestellt, dass die gelbe Farbe verblasste oder das Pulver verklumpte? 💛\n\nDer Hauptwirkstoff **Curcumin** ist extrem empfindlich gegenüber UV- und sichtbarem Licht und unterliegt einer schnellen Photodegradation, die seine Molekularstruktur zerstört. Zudem führt Feuchtigkeit zu Verklumpungen und Verlust der antioxidativen Wirkung.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Licht und Feuchtigkeit zu blockieren und die Curcumin-Wirkung zu sichern. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar a cúrcuma fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a cúrcuma com base em diretrizes oficiais para evitar a fotodegradação da curcumina e a umidade.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "A cúrcuma é uma especiaria antioxidante consumida diariamente por mais de 2 bilhões de pessoas no mundo como ingrediente essencial do curry! No entanto, você já a guardou e percebeu que a cor amarela vibrante desbotou ou o pó empelotou com a umidade? 💛\n\nO principal composto ativo da cúrcuma, a **curcumina**, é extremamente sensível à luz ultravioleta (UV) e visível, sofrendo rápida fotodegradação que destrói sua estrutura molecular. Além disso, a umidade causa empelotamento e perda de potência antioxidante.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para bloquear a luz e a umidade, preservando os benefícios da curcumina. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Kunyit agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kunyit berdasarkan pedoman keselamatan resmi untuk mencegah fotodegradasi kurkumin dan kelembapan.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Kunyit adalah rempah antioksidan terkenal yang dikonsumsi harian oleh lebih dari 2 miliar orang di seluruh dunia sebagai bahan utama kari! Namun, pernahkah Anda menyimpannya lalu mendapati warna kuning cerahnya memudar atau bubuknya menggumpal karena lembap? 💛\n\nSenyawa aktif utama dalam kunyit, **Kurkumin**, sangat sensitif terhadap sinar ultraviolet (UV) dan cahaya tampak, mengalami fotodegradasi cepat yang merusak struktur molekulnya. Selain itu, paparan kelembapan menyebabkan penggumpalan dan hilangnya potensi antioksidan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kunyit 3 langkah berbasis ilmiah berdasarkan pedoman otoritas keamanan pangan untuk memblokir cahaya dan kelembapan. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

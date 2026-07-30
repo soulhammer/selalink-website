@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & EFSA</strong>"
+authority: "RDA & USDA & EFSA"
 steps:
   - name: "Couper le bas de la tige et l'envelopper de papier humide — Hydratation 🥦"
     text: "La tige épaisse du brocoli est le canal principal qui achemine l'eau et les nutriments vers les fleurons. 💡 Astuce de conservation : Recoupez environ 0.5 cm à la base de la tige et enveloppez-la d'une feuille d'essuie-tout humide bien essorée. Ce maintien de l'humidité empêche les fleurs de sécher."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & EFSA</strong>.
+      Ce contenu est basé sur RDA & USDA & EFSA.
     </p>
   </div>
 </div>

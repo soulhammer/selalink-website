@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver les boîtes non ouvertes dans un placard frais et sec — Stockage (2 à 5 ans) 📦"
     text: "Le thon en boîte non ouvert est stérilisé à la chaleur et se conserve des années. 💡 Astuce de conservation : Gardez-le dans un endroit frais et sec (15–20 °C) à l'abri du soleil. Après ouverture, laissez reposer le thon 5 minutes pour permettre au furane volatil de s'évaporer naturellement."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

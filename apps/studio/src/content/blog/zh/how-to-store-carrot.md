@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "彻底晾干表面水分 — 阻断湿气与霉变 📦"
     text: "胡萝卜表面的残留水分是霉菌和细菌滋生腐烂的主要原因。💡储存小贴士：带泥胡萝卜切勿清洗，保持带泥状态；清洗过的胡萝卜请用厨房纸巾吸干水分，置于阴凉通风处晾干1 ~ 2小时，确保表面干燥。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

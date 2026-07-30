@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tangerine_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "소금물 세척 후 물기 완벽히 말리기 — 곰팡이 포자 제거 & 건조 💧"
     text: "귤 표면에 묻어있는 곰팡이 포자와 이물질을 세척하면 보관 기간이 비약적으로 늘어납니다. 💡 보관 팁: 옅은 소금물(또는 베이킹소다물)에 귤을 1 ~ 2분간 씻은 뒤, 물기를 키친타월이나 마른 천으로 완벽히 닦아내고 완전히 말려주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

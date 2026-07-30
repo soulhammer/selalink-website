@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Simpan di rak bagian dalam kulkas, bukan di pintu — Simpan Dingin (7 Hari) ❄️"
     text: "Rak pintu kulkas mengalami perubahan suhu yang ekstrem setiap kali dibuka. 💡 Tips Penyimpanan: Untuk menjaga kesegaran susu, simpan di rak bagian dalam kompartemen utama yang suhunya stabil pada 0–4°C."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & USDA & FDA</strong>.
+      Konten ini didasarkan pada MFDS & USDA & FDA.
     </p>
   </div>
 </div>

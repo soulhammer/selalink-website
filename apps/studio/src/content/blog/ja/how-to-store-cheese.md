@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)"
 steps:
   - name: "プラスチックの密閉ラップ・包装を外す — 嫌気環境の回避 📦"
     text: "市販のプラスチックラップはチーズのガス交換を妨げ、湿気を閉じ込めてカビの発生を促します。💡保存のコツ：購入・開封後のチーズは、密閉されたプラスチック包装を完全に外すことが科学的保存の第一歩です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

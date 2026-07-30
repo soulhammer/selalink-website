@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Segera pindahkan ke wadah kedap udara dan simpan di kulkas — Simpan Dingin (3–5 Hari) ❄️"
     text: "Selalu keluarkan sisa daging dari kaleng logam tepat setelah dibuka. 💡 Tips Penyimpanan: Keluarkan seluruh daging dari kaleng dan masukkan ke dalam wadah kedap udara kaca/plastik, atau bungkus rapat dengan plastik wrap sebelum disimpan di kulkas (0–4°C) untuk mencegah permukaan mengering."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS & FDA</strong>.
+      Konten ini didasarkan pada USDA & MFDS & FDA.
     </p>
   </div>
 </div>

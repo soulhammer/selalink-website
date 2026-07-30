@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "開封前は常温、開封後はすぐに冷蔵保存する — 開封後冷蔵保存 (180日間) ❄️"
     text: "開封前は直射日光を避けた涼しい常温で保存できますが、開封後は酸素と触れて酸化や色の黒ずみが進みます。💡保存のコツ：開封したケチャップは必ず冷蔵庫で保存し、開封後6ヶ月（180日）以内を目安に使い切るのが最も安全で美味しく召し上がれます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

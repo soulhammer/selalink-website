@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "開封前は涼しく乾燥したパントリーで保存する — 常温保存 (2〜5年間) 📦"
     text: "未開封のツナ缶は加熱殺菌処理されているため、常温で長期間保存可能です。💡保存のコツ：コンロ周辺や直射日光の当たる場所を避け、涼しく乾燥した棚（15〜20℃）で保存してください。缶を開けてから約5分置くと、製造過程で発生するボラタイル物質のフラン（Furan）が空気中に自然揮発します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

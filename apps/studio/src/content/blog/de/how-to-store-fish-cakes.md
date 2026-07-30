@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Kurz mit kochendem Wasser überbrühen, um altes Öl zu entfernen — Entfettendes Überbrühen 🫖"
     text: "Das Frittieröl an der Oberfläche oxidiert an der Luft schnell und beschleunigt den Verderb. 💡 Lagerungstipp: Fischkuchen 10–20 Sekunden in kochendes Wasser geben oder mit kochendem Wasser übergießen. Dies entfernt oxidiertes Fett, Unreinheiten und Oberflächenkeime."
@@ -36,7 +36,7 @@ Fischkuchen enthalten viel Wasser und Protein, und ihre Oberfläche ist mit Frit
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & USDA & FDA</strong>.
+      Dieser Inhalt basiert auf MFDS & USDA & FDA.
     </p>
   </div>
 </div>

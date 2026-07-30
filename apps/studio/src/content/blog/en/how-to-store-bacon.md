@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bacon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Seal airtight and refrigerate — Opened Cold Storage (7 Days) 📦"
     text: "The key to storing opened bacon in the fridge is completely blocking oxygen exposure. 💡 Storage Tip: Wrap remaining bacon snugly with plastic wrap without air pockets, place inside an airtight Ziploc bag, and store on a deep shelf in the fridge (0–4°C / 32–39°F). Consume within 7 days of opening."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on safe
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS & RDA</strong>"
+authority: "USDA & FDA & MFDS & RDA"
 steps:
   - name: "Ratakan permukaan dengan sendok bersih — Cegah Pemisahan Air Dadih 🥄"
     text: "Meninggalkan cekungan setelah mengambil krim asam membuat cairan air dadih (whey) menggenang, menjadi sarang mikroba. 💡 Tips Penyimpanan: Ratakan permukaan dengan sendok bersih sebelum menutup kemasan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan krim asam 3 langkah berba
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS & RDA.
     </p>
   </div>
 </div>

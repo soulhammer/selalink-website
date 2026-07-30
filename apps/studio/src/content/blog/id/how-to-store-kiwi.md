@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Matangkan kiwi keras pada suhu ruang (18–22°C) — Pematangan Suhu Ruang (3–7 Hari) 🧺"
     text: "Biarkan kiwi yang keras pada suhu ruang sejuk hingga teksturnya sedikit empuk saat ditekan lembut. 💡 Tips Penyimpanan: Untuk mempercepat pematangan, bungkus kiwi keras dalam kantong kertas bersama apel atau pisang. Gas etilen yang terperangkap akan mematangkannya dalam 2–3 hari."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan pematangan dan penyimpanan 3 langkah 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Konten ini didasarkan pada RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

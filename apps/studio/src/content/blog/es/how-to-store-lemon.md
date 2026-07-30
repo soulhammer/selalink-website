@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Seque la humedad superficial por completo — Prevenga moho y pudrición 🍋"
     text: "Aunque la piel sea gruesa, el agua estancada permite que las esporas invadan la fruta. 💡 Consejo de almacenamiento: Seque cada gota de agua con toallas de papel y déjelos airear a la sombra durante 5–10 minutos antes de guardarlos."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en investigaci
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FSA & MFDS</strong>.
+      Este contenido se basa en USDA & FSA & MFDS.
     </p>
   </div>
 </div>

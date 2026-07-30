@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salmon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Éponger le gras et le jus (exsudat) en surface complètement — Bloquer bactéries et odeurs 🍣"
     text: "L'humidité et l'huile de poisson en surface sont les causes majeures de la triméthylamine (TMA) odorante et des bactéries. 💡 Astuce de conservation : Pressez fermement des serviettes en papier sur les deux faces du saumon pour tout éponger avant le stockage."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur FDA & USDA & MFDS.
     </p>
   </div>
 </div>

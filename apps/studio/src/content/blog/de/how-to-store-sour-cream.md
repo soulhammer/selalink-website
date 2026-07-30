@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS & RDA</strong>"
+authority: "USDA & FDA & MFDS & RDA"
 steps:
   - name: "Oberfläche mit sauberem Löffel glattstreichen — Molketrennung & Keime stoppen 🥄"
     text: "Befinden sich nach dem Entnehmen Vertiefungen im Sauerrahm, sammelt sich dort flüssige Molke, was Nährboden für Mikroben bietet. 💡 Lagerungstipp: Streichen Sie die Oberfläche vor dem Schließen glatt, um Wasseransammlungen zu reduzieren."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS & RDA</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS & RDA.
     </p>
   </div>
 </div>

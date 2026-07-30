@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Espalhe açúcar e papel-toalha no fundo do pote para alho descascado — Refrigeração (14–21 dias) 🪙"
     text: "O alho descascado estraga rápido em contato com a umidade. 💡 Dica de conservação: Espalhe uma camada de 1 cm de açúcar no fundo do pote hermético, cubra com 2 a 3 folhas de papel-toalha e coloque o alho descascado. O açúcar atua como dessecante natural, retendo a umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & MFDS & USDA</strong>.
+      Este conteúdo baseia-se em RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "塩水に浸し暗所で砂抜きする — 砂抜き＆汚れ排出 🌊"
     text: "海水に近い塩水（約3%：水1Lに対し塩30g）にアサリを浸し、金属のスプーンを入れて黒い袋をかぶせ、暗く涼しい場所（チルド室等）で2〜3時間砂抜きをします。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

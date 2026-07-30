@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lettuce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Regule a umidade com papel-toalha — Controle de condensação 🧻"
     text: "Manter a umidade adequada sem acúmulo de água é fundamental para evitar que murgue ou apodreça. 💡 Dica de conservação: Envolva a alface seca e sem lavar em folhas de papel-toalha ou coloque camadas entre as folhas no pote. O papel absorve o excesso de umidade."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia prático em 3 etapas recomendado por especialis
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

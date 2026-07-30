@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & USDA</strong>"
+authority: "SCA & USDA"
 steps:
   - name: "Use un recipiente opaco y hermético con válvula desgasificadora — Bloquee el oxígeno y libere CO2 📦"
     text: "El café tostado despide gas de forma natural; por ello, es indispensable contar con una bolsa o frasco con válvula desgasificadora que deje salir el dióxido de carbono sin permitir la entrada de oxígeno. 💡 Consejo de almacenamiento: Conservar en su bolsa de origen con válvula o en frascos opacos al vacío."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>SCA & USDA</strong>.
+      Este contenido se basa en SCA & USDA.
     </p>
   </div>
 </div>

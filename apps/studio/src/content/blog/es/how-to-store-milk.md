@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Guarde en los estantes interiores profundos, no en la puerta — Refrigeración (7 días) ❄️"
     text: "Los compartimentos de la puerta sufren cambios térmicos severos cada vez que se abren. 💡 Consejo de almacenamiento: Para preservar la frescura de la leche, guárdela en un estante interior profundo del compartimento principal donde la temperatura se mantenga estable entre 0 y 4 °C."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA & FDA</strong>.
+      Este contenido se basa en MFDS & USDA & FDA.
     </p>
   </div>
 </div>

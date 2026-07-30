@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>"
+authority: "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)"
 steps:
   - name: "씻지 않고 신문지나 키친타월로 감싸기 — 결로 및 습도 조절 📦"
     text: "시금치는 잎 표면에 수분이 닿으면 부패가 급격히 진행됩니다. 💡 보관 팁: 흙이 묻은 채로 물을 묻히지 말고, 신문지나 키친타월로 시금치를 폭 감싸주세요. 종이가 내부 결로나 습기를 흡수하는 완충재 역할을 하여 잎이 짓무르는 것을 방지합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

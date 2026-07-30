@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)"
 steps:
-  - name: "수분 제거 후 키친타올과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦"
-    text: "대구 어육 표면의 수분을 키친타올로 완벽히 wiping한 뒤, 식품용 흡습 지나 키친타올로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
+  - name: "수분 제거 후 키친타월과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦"
+    text: "대구 어육 표면의 수분을 키친타월로 완벽히 닦아낸 뒤, 식품용 흡습 지나 키친타월로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
   - name: "0 ~ 1℃ 얼음 접촉 냉장 보관하기 — 극저온 신선 보관 (1 ~ 2일) ❄️"
     text: "대구 어육의 부패 및 어취 발생을 막기 위한 최적 온도는 0 ~ 1℃의 극저온입니다. 💡 보관 팁: 랩으로 밀봉한 대구를 밀폐 용기에 담고, 밀폐 용기 아래위로 얼음팩을 대어 0 ~ 1℃ 환경을 만들어 냉장 보관하세요. 슈도모나스균 등 세균 증식이 정지되어 1 ~ 2일간 극상의 신선도를 유지할 수 있습니다."
   - name: "진공 포장 후 -18℃ 이하 급속 냉동 보관하기 — 단백질 변성 방지 냉동 (3개월) 🧊"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">수분 제거 후 키친타올과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">수분 제거 후 키친타월과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    대구 어육 표면의 수분을 키친타올로 완벽히 wiping한 뒤, 식품용 흡습 지나 키친타올로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다.
+    대구 어육 표면의 수분을 키친타월로 완벽히 닦아낸 뒤, 식품용 흡습 지나 키친타월로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">어육 표면의 수분(드립)을 철저히 제거하세요 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타올이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다.
+      대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타월이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다.
     </p>
   </div>
 </div>

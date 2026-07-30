@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air ($A_w < 0,60$) 📦"
-    text: "Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air ($A_w$) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba."
+  - name: "Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air (aktivitas air (Aw) < 0.60) 📦"
+    text: "Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air (aktivitas air (Aw)) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba."
   - name: "Simpan di lemari sejuk dan gelap di bawah 10–15°C — Lemari Sejuk (1–2 Tahun) 🧺"
     text: "Jauhkan jelai dari sinar matahari langsung dan panas untuk memperlambat reaksi enzim. 💡 Tips Penyimpanan: Simpan wadah di lemari gelap yang berventilasi di bawah 10–15°C jauh dari panas kompor untuk menjaga $\beta$-glukan selama 1 hingga 2 tahun."
   - name: "Simpan di kulkas saat musim lembap atau penyimpanan dalam jumlah banyak — Simpan Dingin (2+ Tahun) ❄️"
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan jelai 3 langkah berbasis 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ Dalam panduan ini, kami membagikan panduan penyimpanan jelai 3 langkah berbasis 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">LANGKAH 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air ($A_w < 0,60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air (aktivitas air (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air ($A_w$) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba.
+    Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air (aktivitas air (Aw)) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan jelai 3 langkah berbasis 
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Hindari kelembapan tinggi dan suhu hangat ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Kelembapan relatif tinggi dan suhu hangat mempercepat pemecahan pati pada jelai dan meningkatkan risiko mikotoksin. Pertahankan kadar air di bawah 12% dan aktivitas air ($A_w < 0,60$).
+      Kelembapan relatif tinggi dan suhu hangat mempercepat pemecahan pati pada jelai dan meningkatkan risiko mikotoksin. Pertahankan kadar air di bawah 12% dan aktivitas air (aktivitas air (Aw) < 0.60).
     </p>
   </div>
 </div>

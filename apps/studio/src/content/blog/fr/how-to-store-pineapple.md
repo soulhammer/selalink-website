@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pineapple_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Couper la couronne (feuilles) et conserver à l'envers — Astuce de répartition du sucre 🔄"
     text: "Les sucres naturels s'accumulent au bas du fruit. 💡 Astuce de conservation : Tranchez la couronne de feuilles, enveloppez l'ananas dans du papier essuie-tout ou du journal et posez-le à l'envers (sur la coupe) pendant 1 à 2 jours à température ambiante ou au frais. La gravité diffusera le sucre."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

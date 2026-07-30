@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Nunca guarde en la zona de refrigeración — Evite la retrogradación rápida del almidón ❌🍞"
     text: "A temperaturas de refrigeración (1-6 °C), las moléculas de almidón del pan expulsan la humedad y se reorganizan en una estructura rígida, haciendo que el endurecimiento alcance su punto máximo. 💡 Consejo de almacenamiento: El pan reseco en el refrigerador no recuperará su textura suave ni aun calentándolo. Elija la temperatura ambiente o la congelación inmediata."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FSA & MFDS</strong>.
+      Este contenido se basa en USDA & FSA & MFDS.
     </p>
   </div>
 </div>

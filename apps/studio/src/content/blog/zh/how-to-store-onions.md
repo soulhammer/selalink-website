@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA"
 steps:
   - name: "带皮悬挂在通风良好的阴凉处 — 常温保存 (30天) 🌬️"
     text: "带皮洋葱最适宜保存在无阳光直射、通风干爽的阴凉处（10 ~ 15℃）。💡储存小贴士：将洋葱逐个装入网袋或干净丝袜中，在洋葱与洋葱之间打结分隔并悬挂起来。这样能防止洋葱直接接触挤压，彻底杜绝发软腐烂。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & FSA。
     </p>
   </div>
 </div>

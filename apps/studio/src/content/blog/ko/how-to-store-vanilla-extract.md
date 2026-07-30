@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "직사광선이 닿지 않는 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (반영구적) 🏺"
     text: "미개봉 및 개봉된 순수 바닐라 익스트랙은 알코올 성분 덕분에 상온에서 거의 반영구적으로 보관할 수 있습니다. 💡 보관 팁: 직사광선과 열기가 없는 15 ~ 24℃의 서늘하고 어두운 팬트리나 찬장에 보관하세요. 수년이 지나도 깊고 풍부한 바닐라 향을 그대로 유지합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

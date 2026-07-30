@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター"
 steps:
   - name: "硬いキウイは常温（18〜22℃）で追熟させる — 常温追熟 (3〜7日間) 🧺"
     text: "優しく触って少し弾力が出るまで、硬いキウイは涼しい常温で保存します。💡保存のコツ：早く食べたい場合は、リンゴやバナナと一緒に紙袋に入れて密封すると、エチレンガスの効果で2〜3日で甘く熟します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンター</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & UCデイビス校ポストハーベストセンターに基づいています。
     </p>
   </div>
 </div>

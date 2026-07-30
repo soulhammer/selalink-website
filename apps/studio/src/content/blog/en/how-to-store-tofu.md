@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Discard original pack water and rinse thoroughly under running water — Block Microbes 🚿"
     text: "The liquid inside packaged tofu is rich in leached proteins, making it highly susceptible to bacterial bloom. 💡 Storage Tip: Completely drain the pack water and gently rinse the tofu under cold running tap water to remove surface residues and bacteria."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on hygi
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA & Mayo Clinic</strong>.
+      This content is based on MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

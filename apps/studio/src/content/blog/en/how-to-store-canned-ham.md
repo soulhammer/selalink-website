@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Transfer immediately to an airtight container and refrigerate — Refrigerated Storage (3–5 Days) ❄️"
     text: "Always remove leftover ham from the original can right after opening. 💡 Storage Tip: Remove the ham completely from the can and place it in a glass or plastic airtight container, or wrap tightly in food-grade plastic wrap before refrigerating (0–4°C / 32–39°F) to prevent surface drying and fridge odor absorption."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS & FDA</strong>.
+      This content is based on USDA & MFDS & FDA.
     </p>
   </div>
 </div>

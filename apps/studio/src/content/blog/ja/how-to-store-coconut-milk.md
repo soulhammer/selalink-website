@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "開封後すぐにガラス・プラスチック密閉容器へ移す — 金属酸化の遮断 🫙"
     text: "缶製品は開封した瞬間から空気と触れ合い金属の酸化が始まります。💡保存のコツ：残ったココナッツミルクはすぐに清潔な密閉ガラス瓶やBPAフリーの保存容器に移し替え、フタをしっかり閉めてください。これにより金属成分の溶出と冷蔵庫内のにおい移りを防げます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

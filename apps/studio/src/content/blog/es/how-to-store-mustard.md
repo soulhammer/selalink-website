@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Conserve los botes cerrados en un lugar fresco y oscuro — Almacenamiento en despensa (15–25 °C) 📦"
     text: "La mostaza cerrada se conserva perfectamente a temperatura ambiente gracias a la sal y el vinagre. 💡 Consejo de almacenamiento: Guárdela en un armario fresco alejado de la luz solar y del calor."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por a
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & MFDS & USDA</strong>.
+      Este contenido se basa en FDA & MFDS & USDA.
     </p>
   </div>
 </div>

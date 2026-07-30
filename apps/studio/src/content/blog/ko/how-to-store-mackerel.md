@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국립수산과학원(NIFS) & 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "국립수산과학원(NIFS) & 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "내장 제거 및 핏물 손질하기 — 자가분해 및 비린내 차단 🔪"
     text: "고등어 아가미와 내장을 제거하고, 척추 뼈 사이에 낀 피와 검은 막을 흐르는 물로 깨끗이 씻어내세요. 💡 보관 팁: 내장 주변은 부패가 가장 빠른 부위입니다. 손질 후 키친타월로 내부와 외부의 수분을 완벽하게 제거하는 것이 비린내와 세균 증식을 막는 첫걸음입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국립수산과학원(NIFS) & 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 국립수산과학원(NIFS) & 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "使用後は注ぎ口を綺麗に拭き取りしっかり密閉する — 酸素接触の遮断 🧻"
     text: "キャップ周辺に残ったソースは酸化の大きな原因になります。💡保存のコツ：使用直後に注ぎ口の周りを清潔なキッチンペーパーで拭き取り、フタをしっかり閉めて空気の侵入を遮断してください。"
@@ -34,7 +34,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver les pots non ouverts dans un placard frais et sombre — Stockage (1 an) 📦"
     text: "Les pots fermés sous vide se conservent à température ambiante. 💡 Astuce de conservation : Gardez les pots dans un endroit frais et sombre (15–20 °C) à l'abri du soleil et de la chaleur de la cuisinière. Ils se conservent jusqu'à 1 an non ouverts."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

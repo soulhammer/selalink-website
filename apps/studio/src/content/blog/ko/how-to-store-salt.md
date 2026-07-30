@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "부식 없는 밀폐 용기(유리·도자기·플라스틱)에 보관하기 — 밀폐 및 부식 방지 📦"
     text: "금속 재질의 용기나 뚜껑은 소금과 반응하여 녹이 슬고 염분을 오염시킬 수 있습니다. 💡 보관 팁: 유리병, 도자기, 밀폐형 플라스틱 용기에 소금을 담고 뚜껑을 완벽히 닫아 보관하세요. 외부 습기 유입을 막아 굳어짐과 녹슬음을 동시에 예방할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Guarde en un armario oscuro lejos del calor (15–20 °C) — Conservación en lugar fresco a temp. ambiente (1–2 años cerrado / 3–6 meses abierto) 🌡️"
     text: "Bloquear el calor y la luz manteniendo una temperatura ambiente de 15–20 °C es vital. 💡 Consejo de almacenamiento: Guarde los envases en una despensa inferior u oscura lejos de la cocina. El aceite cerrado dura 1–2 años, mientras que abierto debe consumirse en 3–6 meses."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por a
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & EFSA & MFDS</strong>.
+      Este contenido se basa en FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

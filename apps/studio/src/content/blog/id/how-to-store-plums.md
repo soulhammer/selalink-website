@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Matangkan plum keras pada suhu ruang sejuk (18–22°C) — Pematangan Suhu Ruang (2–4 Hari) 🧺"
     text: "Langkah pematangan ini memaksimalkan tingkat gula dan aroma. 💡 Tips Penyimpanan: Sebarkan plum yang belum dicuci dalam satu lapisan di kotak kertas/nampan di tempat sejuk terhindar dari sinar matahari. Plum matang sempurna saat area dekat tangkainya terasa agak empuk saat ditekan lembut."
@@ -38,7 +38,7 @@ Plum adalah buah klimakterik dengan kulit tipis yang sangat rentan terhadap keru
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

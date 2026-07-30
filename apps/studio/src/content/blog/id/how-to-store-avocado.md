@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Simpan di kantong kertas pada suhu ruang sebelum matang — Suhu Ruang (5 Hari) 🥑"
     text: "Alpukat yang keras dan belum matang harus disimpan pada suhu ruang 15–20°C agar dapat mematang secara normal. 💡 Tips Penyimpanan: Masukkan alpukat ke dalam kantong kertas bersama apel atau pisang. Gas etilen yang dilepaskan oleh buah-buahan ini akan terkonsentrasi di dalam kantong, mempercepat dan menstabilkan proses pematangan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>CAC & USDA & MFDS</strong>.
+      Konten ini didasarkan pada CAC & USDA & MFDS.
     </p>
   </div>
 </div>

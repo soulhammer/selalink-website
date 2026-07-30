@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & FSA"
 steps:
   - name: "皮付きのまま風通しの良い涼しい場所に吊るして保存する — 常温保存 (30日間) 🌬️"
     text: "皮付きの玉ねぎは、直射日光の当たらない日陰で風通しの良い涼しい場所（10〜15℃）が最適です。💡保存のコツ：ネットやストッキングに玉ねぎを1個ずつ入れ、玉ねぎの間に結び目を作って吊るしてください。玉ねぎ同士が直接触れ合わず、圧迫による軟化や腐敗を完璧に防止できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & FSAに基づいています。
     </p>
   </div>
 </div>

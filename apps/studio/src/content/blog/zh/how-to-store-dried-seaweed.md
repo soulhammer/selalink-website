@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/dried_seaweed_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)</strong>"
+authority: "韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)"
 steps:
   - name: "放入密封盒并加入干燥剂（硅胶） — 隔绝湿气 📦"
     text: "开封后的海苔直接置于常温下，短短数小时内就会吸潮变软。💡储存小贴士：将没吃完的海苔放入密封拉链袋或密封盒中，并放入同封的硅胶干燥剂或厨房纸巾，彻底隔绝水分侵入。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)</strong>。
+      本内容基于 韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)。
     </p>
   </div>
 </div>

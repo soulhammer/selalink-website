@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Sele em um saco Ziploc na horizontal após aberto — Barreira de umidade e prevenção de fissuras 📦"
     text: "Proteger a estrutura do amido contra variações de umidade é o primeiro passo essencial. 💡 Dica de conservação: A embalagem original deixa entrar ar após aberta. Transfira as folhas para um saco Ziploc hermético ou pote rígido na horizontal e vede bem."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de papel de arroz em 3 etapas 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & EFSA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

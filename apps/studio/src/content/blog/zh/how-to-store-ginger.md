@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ginger_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "刷掉泥土后用厨房纸巾包裹 — 控湿与短期储存 (1 ~ 2周) 📦"
     text: "控制表面湿度并防止干瘪是关键。💡储存小贴士：切勿清洗，刷掉干泥后用厨房纸巾或报纸单块紧密包裹，存放在阴凉常温（10 ~ 15℃）或冰箱蔬菜保鲜层。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

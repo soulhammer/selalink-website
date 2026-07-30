@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bacon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "密閉包装して冷蔵保存する — 開封後冷蔵 (7日間) 📦"
     text: "開封後のベーコン保存の鍵は空気との接触を完全に断つことです。💡保存のコツ：ラップでベーコン全体を隙間なくぴったり包み、チャック付き密閉袋に入れて冷蔵庫奥の棚（0〜4℃）で保存します。開封後は7日以内に使い切るのが最も安全です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

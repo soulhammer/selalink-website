@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Suspendre les bananes sur un support — Stockage à Temp. Ambiante (7 Jours) 🍌"
     text: "Laisser les bananes posées à plat écrase les fruits du dessous sous leur propre poids. Ces zones meurtries rejettent plus d'éthylène et noircissent. 💡 Astuce de conservation : Suspendez les bananes à un crochet. Cela imite leur position sur le bananier, évitant les chocs et préservant leur fermeté plus longtemps."
@@ -34,7 +34,7 @@ Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires e
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & WHO</strong>.
+      Ce contenu est basé sur USDA & WHO.
     </p>
   </div>
 </div>

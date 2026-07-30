@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde embalagens fechadas em local fresco (15–25 °C) — Armazenamento fechado (Até a validade) 📦"
     text: "Embalagens UHT fechadas podem ser mantidas em temperatura ambiente. 💡 Dica de conservação: Mantenha em local fresco e seco. Manter a temperatura abaixo de 25 °C preserva a estabilidade da emulsão."
@@ -38,7 +38,7 @@ Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um m
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "표면 물기를 완벽하게 건조하기 — 습기 차단 흙당근 건조 📦"
     text: "당근은 표면에 물기가 남아있으면 곰팡이와 미생물이 급격히 번식하여 부패가 시작됩니다. 💡 보관 팁: 흙당근은 씻지 말고 흙이 묻은 상태 그대로, 세척당근은 물기를 키친타월로 완전히 닦아낸 뒤 통풍이 잘되는 그늘에서 1 ~ 2시간 가볍게 말려 수분을 제거해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

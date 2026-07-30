@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Retire vísceras, bolsa de tinta y residuos de las ventosas — Bloquee el olor a pescado 🦑"
     text: "Las vísceras y la suciedad en las ventosas causan el mal olor y las bacterias. 💡 Consejo de almacenamiento: Abra el manto, retire las tripas, la bolsa de tinta y la pluma. Frote los tentáculos con sal gruesa o harina bajo agua corriente para eliminar los anillos quitinosos."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en directrices
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>NIFS & MFDS & USDA</strong>.
+      Este contenido se basa en NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

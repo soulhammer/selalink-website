@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/orange_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper individuellement dans du papier absorbant ou du journal — Maintien de l'humidité & Barrière anti-moisissure 📦"
     text: "Le contact direct entre les oranges accumule l'humidité et accélère le pourrissement. 💡 Astuce de conservation : Enveloppez chaque orange sèche dans du papier absorbant ou du journal. Cela préserve le jus du fruit tout en bloquant les spores."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des oranges 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Lap hingga kering dan bungkus dengan tisu dapur bersama tangkainya — Kontrol Kelembapan 📦"
     text: "Mengontrol kelembapan sekaligus mencegah kekeringan adalah kuncinya. 💡 Tips Penyimpanan: Tanpa dicuci, lap kelembapan dengan tisu dapur lalu bungkus cabai per 5–10 buah dengan tangkai tetap utuh."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan cabai 3 langkah berbasis 
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

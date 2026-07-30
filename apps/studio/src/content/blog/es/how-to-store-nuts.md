@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Selle herméticamente y mantenga en refrigeración o congelación tras abrir — Conservación (90 días en refrigerador, 180 días en congelador) ❄️"
     text: "Dejar frutos secos a temperatura ambiente cálida oxida rápidamente sus grasas, generando mal olor y riesgo de aflatoxinas. 💡 Consejo de almacenamiento: Guarde los frutos secos abiertos bien sellados en el refrigerador (0-4 °C) por 3 meses o en el congelador (-18 °C) por más de 6 meses."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA & FDA</strong>.
+      Este contenido se basa en MFDS & USDA & FDA.
     </p>
   </div>
 </div>

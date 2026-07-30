@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "서늘한 상온에서 후숙하기 — 단맛과 향 극대화 📦"
     text: "딱딱하거나 덜 익은 복숭아는 바람이 잘 통하는 서늘한 상온(15 ~ 20℃)에 1 ~ 3일간 놓아두어 자연스럽게 후숙시켜 주세요. 💡 보관 팁: 박스째 둘 경우 복숭아가 서로 닿지 않도록 포장재를 활용하고, 상온에서 말랑해지고 향이 진해질 때까지 기다리는 것이 핵심입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

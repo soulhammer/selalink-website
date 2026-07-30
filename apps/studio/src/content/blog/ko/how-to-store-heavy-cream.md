@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/heavy_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 후 즉시 입구를 집게로 밀봉하기 — 공기 차단 및 잡내 방지 📦"
     text: "생크림의 유지방은 공기 중의 산소 및 주변 음식 냄새를 강력하게 흡수합니다. 💡 보관 팁: 사용 후 팩 입구에 묻은 크림을 깨끗이 닦아낸 뒤, 밀폐 집게(밀봉 클립)로 단단히 조여 냉장고 잡내 유입과 산화를 차단해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "光を遮断する紫外線カット遮光瓶（黒・茶・緑のガラス瓶）に保存する — 光酸化およびヒドロペルオキシド遮断 🍾"
     text: "アボカドオイルは購入時から暗い茶色や緑色のガラス瓶（Dark Glass Bottle）に入った商品を選び、透明な容器の場合は遮光瓶に移し替えてください。💡保存のコツ：暗い遮光瓶は紫外線や可視光線を物理的に遮断し、葉緑素による光酸化とヒドロペルオキシドの生成を防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

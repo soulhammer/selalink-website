@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Pat dry instead of washing with water — Prevent Cross-Contamination 🧼"
     text: "Do not wash under running water. After opening the packaging, thoroughly pat the inner and outer surface dry with paper towels to remove residual blood and moisture. 💡 Storage Tip: Eliminating surface moisture deprives bacteria of a breeding ground and prevents aerosolizing pathogens."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step turkey storage guide based 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA FSIS & MFDS & RDA</strong>.
+      This content is based on USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store unopened packages at cool room temperature (15–25°C) — Unopened Storage (Until Expiration Date) 📦"
     text: "Unopened UHT aseptic soy milk packages can safely be stored at room temperature. 💡 Storage Tip: Keep in a cool place like a pantry away from direct sunlight and heat. Maintaining temperatures below 25°C (77°F) preserves emulsion stability."
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Disponha as framboesas secas em uma única camada (Single Layer) sobre papel-toalha — Absorção de umidade 🧻"
     text: "Empilhar framboesas faz com que o peso esmague as camadas inferiores, acumulando umidade e favorecendo o mofo. 💡 Dica de conservação: Forre o fundo de um pote hermético com papel-toalha e coloque as framboesas sem lavar em uma camada única sem sobrepor."
@@ -18,14 +18,14 @@ steps:
     text: "Como as framboesas frescas duram muito pouco, congelar é essencial se não for consumir em 3 dias. 💡 Dica de conservação: Lave delicadamente, seque totalmente com papel-toalha, congele em camada única numa bandeja e passe para sacos Ziploc no freezer (-18 °C) por 10 a 12 meses."
 faqs:
   - question: "Por que não devo lavar as framboesas antes de guardar?"
-    answer: "As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água ($A_w$) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas."
+    answer: "As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água (atividade de água (Aw)) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas."
   - question: "Por que as framboesas congeladas desmancham ao descongelar e como devo usá-las?"
     answer: "As framboesas têm paredes celulares frágeis que rompem no congelamento; ao descongelar, o suco vaza e elas ficam moles. O melhor é usá-las diretamente congeladas em smoothies, iogurtes ou receitas de bolo sem descongelar prévio."
 ---
 
 Você já comprou framboesas lindas e descobriu que elas estavam mofadas ou murchas poucos dias após colocá-las na geladeira? 🍓
 
-As framboesas são um fruto vermelho essencial em cafés da manhã e sobremesas em todo o mundo. Porém, por terem uma pele muito fina e centro oco, possuem uma taxa de respiração (Respiration Rate) extremamente alta e estragam rapidamente. Lavá-las eleva a atividade de água na superfície ($A_w$) para perto de 1.0, fazendo com que esporos de bolor cinzento (*Botrytis cinerea*) destruam as paredes celulares em poucas horas.
+As framboesas são um fruto vermelho essencial em cafés da manhã e sobremesas em todo o mundo. Porém, por terem uma pele muito fina e centro oco, possuem uma taxa de respiração (Respiration Rate) extremamente alta e estragam rapidamente. Lavá-las eleva a atividade de água na superfície (atividade de água (Aw)) para perto de 1.0, fazendo com que esporos de bolor cinzento (*Botrytis cinerea*) destruam as paredes celulares em poucas horas.
 
 Neste guia, apresentamos um guia de conservação de framboesas em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️
 
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de framboesas em 3 etapas reco
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Neste guia, apresentamos um guia de conservação de framboesas em 3 etapas reco
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Nunca lave as framboesas imediatamente após a compra 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Lavar as framboesas antes do armazenamento eleva a atividade de água na superfície ($A_w$) para quase 1.0. Isso ativa os esporos de *Botrytis cinerea* (bolor cinzento), que destroem as paredes celulares e estragam a fruta em poucas horas. Lave-as apenas antes de comer.
+      Lavar as framboesas antes do armazenamento eleva a atividade de água na superfície (atividade de água (Aw)) para quase 1.0. Isso ativa os esporos de *Botrytis cinerea* (bolor cinzento), que destroem as paredes celulares e estragam a fruta em poucas horas. Lave-as apenas antes de comer.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ Neste guia, apresentamos um guia de conservação de framboesas em 3 etapas reco
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água ($A_w$) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas.
+      As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água (atividade de água (Aw)) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas.
     </p>
   </details>
 

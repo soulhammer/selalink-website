@@ -8,7 +8,7 @@
             "ko": {
                 "title": "시금치 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 시금치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>",
+                "authority": "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)",
                 "intro": "시금치를 사 와서 비닐봉지째 냉장고 야채칸에 누려 두었다가, 하루이틀 만에 잎이 누렇게 뜨고 짓물러 썩어 버린 경험 있으시죠? 🌿\n\n시금치는 엽채류 중에서도 잎이 매우 연하고 수분 함량이 높아 수확 후 호흡 작용과 수분 증발이 극도로 활발합니다. 특히 눕혀서 보관하면 위로 자라려는 '굴중성(Negative Geotropism)' 생리 특성 때문에 에너지를 급격히 소모하며 시들고, 에틸렌 가스에 노출되면 엽록소가 파괴되어 순식간에 황화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 유럽식품안전청(EFSA)의 가이드를 바탕으로 시금치의 호흡 작용을 통제하고 7일 이상 아삭함과 비타민 C를 보존하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Spinach Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for spinach based on official safety guidelines.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "Have you ever bought a fresh bunch of spinach and left it lying flat in a plastic bag inside the fridge, only to find the leaves slimy, yellowed, and rotted two days later? 🌿\n\nSpinach leaves are extremely delicate and have high respiration and transpiration rates after harvest. When laid flat horizontally, spinach undergoes 'negative geotropism'—expending stored sugars and Vitamin C in a struggle to bend upward against gravity. Furthermore, exposure to ethylene gas rapidly breaks down its chlorophyll, turning leaves yellow.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the EFSA and RDA to control respiration, block ethylene, and keep your spinach crisp and green for over 7 days. 🛡️",
                 "whyTitle": "Why Store Spinach This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ほうれん草を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & EFSA & FSA</strong>",
+                "authority": "農村振興庁(RDA) & EFSA & FSA",
                 "intro": "ほうれん草を買ってきて袋のまま冷蔵庫の野菜室に横にして置いておいたら、1〜2日で葉が黄色く変色し、ぬるぬる溶けて腐ってしまった経験はありませんか？🌿\n\nほうれん草は葉が非常に柔らかく水分が多いため、収穫後の呼吸作用と蒸散が極めて活発な野菜です。特に横にして保存すると、上に向かって立ち上がろうとする「負の屈重性」の生理特性により、エネルギーやビタミンCを急激に消費してしおれます。\n\n本記事では、欧州食品安全機関（EFSA）および農村振興庁（RDA）のガイドラインに基づき、呼吸作用をコントロールし、1週間以上シャキシャキ感と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持菠菜新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解菠菜的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)",
                 "intro": "您是否曾买回一把菠菜，连同塑料袋一起平放在冰箱蔬菜室里，结果一两天后叶子就发黄、软烂成一摊？🌿\n\n菠菜是叶菜类中叶片极薄且含水量高的代表，采收后的呼吸作用与蒸腾作用极其旺盛。特别是横放储存时，菠菜会因向上生长的“负向重力性（Negative Geotropism）”而急剧消耗体内的糖分与维生素C。如果接触到乙烯气体，叶绿素还会迅速分解发黄。\n\n本指南基于欧洲食品安全局(EFSA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您精准控制呼吸作用、隔绝乙烯，保持菠菜清脆翠绿达7天以上。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener las espinacas frescas: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las espinacas según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "¿Alguna vez compró un manojo de espinacas frescas, lo dejó recostado en una bolsa de plástico dentro del refrigerador y descubrió que las hojas estaban viscosas, amarillas y podridas dos días después? 🌿\n\nLas hojas de espinaca son extremadamente delicadas y poseen elevadas tasas de respiración y transpiración tras la cosecha. Al guardarse acostadas horizontalmente, las espinacas sufren 'geotropismo negativo', consumiendo sus azúcares y vitamina C en un esfuerzo por doblarse hacia arriba contra la gravedad. Además, la exposición al gas etileno destruye su clorofila, volviéndolas amarillas.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en pautas de la EFSA y la RDA para controlar la respiración, bloquear el etileno y mantener sus espinacas crujientes y verdes por más de 7 días. 🛡️",
                 "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les épinards frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les épinards selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "Avez-vous déjà acheté une botte d'épinards frais et l'avez-vous laissée couchée dans un sachet au réfrigérateur, pour retrouver des feuilles visqueuses, jaunies et pourries deux jours plus tard ? 🌿\n\nLes feuilles d'épinard sont très délicates et présentent des taux de respiration et de transpiration élevés après la récolte. Conservés à plat, les épinards subissent un 'géotropisme négatif', épuisant leurs sucres et leur vitamine C pour essayer de se dresser contre la gravité. De plus, l'exposition à l'éthylène détruit leur chlorophylle et les fait jaunir.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de l'EFSA et de la RDA pour contrôler la respiration, bloquer l'éthylène et garder vos épinards croquants et bien verts pendant plus de 7 jours. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Spinat richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "Haben Sie schon einmal frischen Spinat gekauft und flach in einer Plastiktüte im Kühlschrank gelagert, nur um zwei Tage später festzustellen, dass die Blätter schleimig, gelb und verfault waren? 🌿\n\nSpinatblätter sind extrem empfindlich und besitzen nach der Ernte hohe Atmungs- und Transpirationsraten. Wird Spinat flach gelagert, unterliegt er dem 'negativen Geotropismus'—er verbraucht eingelagerten Zucker und Vitamin C beim Versuch, sich gegen die Schwerkraft aufzurichten. Zudem baut Ethylen das Chlorophyll rasch ab.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der EFSA und RDA basiert, um die Atmung zu steuern, Ethylen zu blockieren und Ihren Spinat über 7 Tage lang knackig und grün zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar espinafre fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para espinafre com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "Você já comprou um maço de espinafre fresco e o deixou deitado em um saco plástico na geladeira, apenas para encontrar as folhas viscosas, amareladas e podres dois dias depois? 🌿\n\nAs folhas de espinafre são extremamente delicadas e têm altas taxas de respiração e transpiração após a colheita. Quando guardado na horizontal, o espinafre sofre 'geotropismo negativo', gastando seus açúcares e vitamina C na tentativa de se curvar para cima contra a gravidade. Além disso, a exposição ao gás etileno destrói sua clorofila.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da EFSA e da RDA para controlar a respiração, bloquear o etileno e manter seu espinafre crocante e verde por mais de 7 dias. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bayam berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & EFSA & FSA</strong>",
+                "authority": "RDA & EFSA & FSA",
                 "intro": "Pernahkah Anda membeli seikat bayam segar lalu membiarkannya rebah di dalam kantong plastik di kulkas, hanya untuk mendapati daunnya menjadi berlendir, menguning, dan membusuk dua hari kemudian? 🌿\n\nDaun bayam sangat lembut dan memiliki laju respirasi serta transpirasi yang sangat tinggi setelah dipanen. Ketika diletakkan secara mendatar, bayam mengalami 'geotropisme negatif'—menghabiskan cadangan gula dan Vitamin C untuk membengkokkan batangnya ke atas melawan gravitasi. Selain itu, paparan gas etilen merusak klorofil dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman EFSA dan RDA untuk mengontrol respirasi, memblokir etilen, dan menjaga bayam Anda tetap renyah dan hijau selama lebih dari 7 hari. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

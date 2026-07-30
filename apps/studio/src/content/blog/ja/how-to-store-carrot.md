@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/carrot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "表面の水分を完全に乾かす — カビ・腐敗防止 📦"
     text: "人参の表面に水分が残っていると、カビや微小細菌が急速に繁殖して傷み始めます。💡保存のコツ：土付き人参は洗わずに土がついたまま、洗浄人参は水分をペーパータオルでしっかり拭き取り、風通しの良い日陰で1〜2時間軽く乾かして水分を除去しましょう。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Innereien, Tintenbeutel und Saugnapfringe vollständig entfernen — Fischgeruch stoppen 🦑"
     text: "Innereien und Schmutz an den Saugnäpfen verursachen Fischgeruch und Keimwachstum. 💡 Lagerungstipp: Schneiden Sie den Mantel auf, entfernen Sie Innereien, Tintenbeutel und Schulp. Reiben Sie die Fangarme mit grobem Salz oder Mehl unter fließendem Wasser ab."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NIFS & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

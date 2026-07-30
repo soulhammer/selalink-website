@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>"
+authority: "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)"
 steps:
   - name: "양배추 심지 부분을 삼각형 모양으로 파내기 — 수분 및 영양 소모 통로 차단 🔪"
     text: "양배추의 밑동 심지는 수확 후에도 겉잎의 수분과 영양분을 중심으로 공급받아 꽃을 피우려는 생장점 역할을 합니다. 💡 보관 팁: 칼끝을 이용해 심지 부분을 뾰족한 삼각형(원깔때기) 모양으로 깊숙이 오려내어 영양 소모 경로를 차단해 주세요. 부패가 가장 먼저 일어나는 원인을 뿌리째 제거하는 핵심 단계입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

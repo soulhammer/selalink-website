@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Bungkus setiap grapefruit satu per satu dengan kertas koran atau tisu dapur — Kontrol Kelembapan 🗞️"
     text: "Melindungi kulit dari kelembapan berlebih dan gesekan adalah langkah utama. 💡 Tips Penyimpanan: Bungkus grapefruit kering yang belum dicuci dengan kertas koran untuk mengatur kelembapan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan grapefruit 3 langkah berb
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

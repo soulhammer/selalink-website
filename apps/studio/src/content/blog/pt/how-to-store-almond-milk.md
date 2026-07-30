@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Agite suavemente antes de servir — Re-emulsione o sedimento natural 🥛"
     text: "O leite de amêndoas é uma suspensão de amêndoas em água, fazendo com que os sólidos decantem com o tempo. 💡 Dica de conservação: Essa separação é física e normal, não sendo sinal de deterioração. Agite suavemente a caixa antes de servir para recuperar a textura cremosa."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do leite de amêndoas em 3 eta
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

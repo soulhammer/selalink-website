@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>WiKim & RDA & MFDS</strong>"
+authority: "WiKim & RDA & MFDS"
 steps:
   - name: "Mit einer Presse (oder Folie) herunterdrücken, um Luft auszuschließen — Anaerobe Bedingungen halten 📦"
     text: "Die für die Fermentation verantwortlichen Milchsäurebakterien (Leuconostoc, Lactobacillus) gedeihen in sauerstofffreier Umgebung, während Hefen Sauerstoff benötigen. 💡 Lagerungstipp: Befüllen Sie das Gefäß nur zu 80 % und drücken Sie die Oberfläche mit einer Presse, Folie oder äußeren Kohlblättern fest nach unten, sodass das Kimchi komplett mit Sud bedeckt ist. Sauerstoffausschluss verhindert Oxidation und Hefefilme."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Fakten des Wor
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>WiKim & RDA & MFDS</strong>.
+      Dieser Inhalt basiert auf WiKim & RDA & MFDS.
     </p>
   </div>
 </div>

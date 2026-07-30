@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>국제올리브협회(IOC) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "국제올리브협회(IOC) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "냉장 보관 절대 금지 — 동결 결정화 및 향 손실 예방 ❌❄️"
     text: "올리브유를 냉장고에 넣으면 지방산이 하얗게 응고되어 버터처럼 굳어집니다. 💡 보관 팁: 녹았다 굳기를 반복하면 오일 내부의 천연 항산화 물질과 향 성분이 파괴됩니다. 올리브유가 가장 좋아하는 최적 온도는 14 ~ 18℃의 서늘한 상온입니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>국제올리브협회(IOC) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 국제올리브협회(IOC) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

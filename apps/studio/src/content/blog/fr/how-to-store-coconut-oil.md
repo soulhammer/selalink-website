@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & APCC</strong>"
+authority: "USDA & MFDS & APCC"
 steps:
   - name: "Conserver dans un placard frais et sombre à 20–24 °C — Stockage étanche (360–720 jours) 📦"
     text: "L'huile de coco ne nécessite pas obligatoirement de réfrigération et reste plus facile à utiliser à température ambiante fraîche. 💡 Astuce de conservation : Rangez-la dans un placard sombre (20–24 °C). Dans ces conditions, l'huile ouverte conserve son goût parfait pendant 1 à 2 ans."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS & APCC</strong>.
+      Ce contenu est basé sur USDA & MFDS & APCC.
     </p>
   </div>
 </div>

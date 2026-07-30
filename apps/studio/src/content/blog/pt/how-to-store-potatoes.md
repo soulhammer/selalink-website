@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & RDA & FSA</strong>"
+authority: "MFDS & RDA & FSA"
 steps:
   - name: "Embrulhe batatas com terra em jornal ou sacos de papel opacos — Bloqueio total da luz 📦"
     text: "A exposição à luz (mesmo luz artificial) ativa a produção de clorofila, esverdeando a casca e sintetizando solanina tóxica. 💡 Dica de conservação: Mantenha a terra nas batatas (funciona como regulador de umidade) e embrulhe em jornal ou sacos de papel opacos para bloquear 100% da luz."
@@ -38,7 +38,7 @@ Além disso, a exposição à luz faz a casca da batata ficar verde, sintetizand
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & RDA & FSA</strong>.
+      Este conteúdo baseia-se em MFDS & RDA & FSA.
     </p>
   </div>
 </div>

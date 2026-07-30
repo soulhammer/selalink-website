@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)"
 steps:
   - name: "절대 물로 세척하지 않기 — 천연 보호막(큐티클) 보존 및 냉장 보관 (45일) 💧"
     text: "계란 껍데기에는 7천 ~ 1만 7천 개의 미세 기공이 있습니다. 💡 보관 팁: 물에 씻으면 외벽 보호막인 큐티클이 손상되어 세균(살모넬라 등)이 기공을 통해 내부로 스며듭니다. 겉면의 오염물은 씻지 말고 마른 수건으로 가볍게 털어내어 보관하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

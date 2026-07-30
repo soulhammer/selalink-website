@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Amadureça o mamão verde à temperatura ambiente (18 a 25 °C) — Amadurecimento 🥭"
     text: "Mantenha o mamão verde em local fresco, bem ventilado e longe da luz solar (18–25 °C). 💡 Dica de conservação: O mamão está no ponto ideal quando 70–80% da casca fica amarela. Para acelerar, coloque num saco de papel com uma maçã ou banana."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & RDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & RDA & MFDS.
     </p>
   </div>
 </div>

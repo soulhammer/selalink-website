@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Lap bersih cairan dan darah (drip) pada permukaan daging — Mencegah Bau Amis & Pembusukan 🥩"
     text: "Darah dan cairan (drip) yang keluar di permukaan daging sapi menyebabkan bau amis dan menjadi media nutrisi ideal bagi bakteri pembusuk. 💡 Tips Penyimpanan: Tepat sebelum dimasak atau disimpan, tekan rapat tisu dapur pada permukaan daging untuk menyerap semua kelebihan cairan, menghentikan pertumbuhan mikroba."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & USDA</strong>.
+      Konten ini didasarkan pada MFDS & USDA.
     </p>
   </div>
 </div>

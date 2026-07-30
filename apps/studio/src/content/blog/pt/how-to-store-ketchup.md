@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Despensa antes de abrir, geladeira imediatamente depois — Refrigeração (180 dias) ❄️"
     text: "Antes de abrir pode ficar no armário fresco; mas após aberto, a exposição ao oxigênio acelera a perda de sabor e o escurecimento. 💡 Dica de conservação: Guarde o ketchup aberto sempre na geladeira e consuma em até 6 meses (180 dias)."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

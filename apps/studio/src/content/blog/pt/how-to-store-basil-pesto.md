@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/basil_pesto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Despeje uma camada de azeite de oliva extra virgem sobre a superfície — Filme de Azeite Isolante 🫒"
     text: "Transfira o pesto para um recipiente, alise a superfície com uma colher e despeje uma camada de 2 a 3 mm de azeite de oliva extra virgem. Este filme de azeite bloqueia totalmente o contato com o oxigênio, impedindo a oxidação da clorofila em feofitina."
@@ -38,7 +38,7 @@ Neste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

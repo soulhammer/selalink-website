@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Éponger soigneusement l'humidité et le sang (exsudat) en surface — Éviter les odeurs et la dégradation 🥩"
     text: "L'exsudat et le sang qui s'écoulent à la surface du bœuf provoquent des odeurs fort fortes et constituent un milieu nutritif idéal pour les bactéries. 💡 Astuce de conservation : Juste avant de cuisiner ou de conserver, pressez fermement des serviettes en papier sur la viande pour tout éponger, freinant ainsi le développement microbien."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation en 3 étapes basé sur le
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA</strong>.
+      Ce contenu est basé sur MFDS & USDA.
     </p>
   </div>
 </div>

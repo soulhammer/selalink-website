@@ -8,7 +8,7 @@
             "ko": {
                 "title": "양고기 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 양고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "특유의 풍미와 부드러운 식감으로 사랑받는 양고기를 사 왔는데, 금방 색이 변하거나 냄새가 진해져 고민해 본 적 있으시죠? 🥩\n\n양고기는 단백질과 수분 함량이 높아 세균 증식과 지방 산화에 매우 취약한 식재료입니다. 특히 잘못 보관하면 잡내가 심해지고 육즙 손실(Drip)이 발생하여 맛과 영양이 크게 저하됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 검증된 안전 가이드라인을 바탕으로, 양고기의 신선함과 육즙을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Lamb Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for lamb based on official safety guidelines.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Have you ever bought lamb for its rich flavor and tender texture, only to worry about it darkening quickly or developing a strong odor in the fridge? 🥩\n\nLamb is high in protein and moisture, making it particularly vulnerable to bacterial growth and lipid oxidation. Improper storage leads to stronger unpleasant odors and drip loss (loss of meat juices), significantly degrading its flavor and nutrition.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your lamb juicy, flavorful, and fresh for longer. 🛡️",
                 "whyTitle": "Why Store Lamb This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "ラム肉（羊肉）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくラム肉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "独特の風味と柔らかい食感で人気のラム肉を買ってきたものの、すぐに色が変色したりニオイが強くなったりして困った経験はありませんか？🥩\n\nラム肉はタンパク質と水分が多く含まれており、細菌の繁殖や脂質の酸化に非常に弱い食材です。適切に保存しないとクセや臭みが強くなり、ドリップ（旨味成分を含む肉汁）が流出して味や栄養が大きく損なわれます。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、ラム肉の鮮度と旨味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持羊肉新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解羊肉的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾因为买回家的羊肉口感鲜嫩却很快变色或散发浓重异味而感到苦恼？🥩\n\n羊肉富含蛋白质和水分，极易滋生细菌并发生脂肪氧化。如果储存不当，不仅异味会加重，还会导致肉汁（Drip）流失，严重破坏口感与营养价值。\n\n本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您锁住羊肉的鲜嫩肉汁与美味。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la carne de cordero fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la carne de cordero según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "¿Alguna vez compró carne de cordero por su sabor rico y textura tierna, solo para ver cómo se oscurecía rápidamente o desarrollaba un olor fuerte en el refrigerador? 🥩\n\nEl cordero es una carne rica en proteínas y agua, lo que la hace altamente vulnerable a la proliferación bacteriana y la oxidación de grasas. Un almacenamiento inadecuado intensifica los olores desagradables y causa la pérdida de jugos (drip loss), deteriorando su sabor y valor nutricional.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para mantener la jugosidad y frescura de su carne de cordero por más tiempo. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la viande d'agneau fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande d'agneau selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Avez-vous déjà acheté de la viande d'agneau pour sa saveur riche et sa texture tendre, pour constater qu'elle s'assombrissait rapidement ou développait une odeur fort désagréable au réfrigérateur ? 🥩\n\nL'agneau est une viande riche en protéines et en eau, ce qui la rend particulièrement vulnérable à la prolifération bactérienne et à l'oxydation des graisses. Un stockage inadéquat renforce les mauvaises odeurs et entraîne une perte de jus (exsudat), altérant ses qualités gustatives et nutritionnelles.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver la fraîcheur et la tendreté de votre viande d'agneau. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Lammfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Lammfleisch basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Haben Sie schon einmal Lammfleisch wegen seines köstlichen Geschmacks gekauft, nur um festzustellen, dass es im Kühlschrank schnell nach dunkelte oder einen strengen Geruch entwickelte? 🥩\n\nLammfleisch ist sehr eiweiß- und wasserreich, wodurch es extrem anfällig für Bakterienwachstum und Fettoxidation ist. Unsachgemäße Lagerung verstärkt unangenehme Gerüche und führt zu Fleischsaftverlust (Drip-Verlust), was Geschmack und Nährstoffe beeinträchtigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um die Saftigkeit und Frische Ihres Lammfleischs lange zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar carne de cordeiro fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de cordeiro com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Você já comprou carne de cordeiro por causa do seu sabor rico e textura macia, mas ficou preocupado ao ver a carne escurecer rapidamente ou desenvolver um odor forte na geladeira? 🥩\n\nA carne de cordeiro possui alto teor de proteínas e água, sendo muito vulnerável à proliferação bacteriana e à oxidação das gorduras. O armazenamento inadequado intensifica odores desagradáveis e causa a perda de sucos (suco da carne), prejudicando o sabor e o valor nutricional.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e do MFDS para manter a suculência e o frescor da sua carne de cordeiro por mais tempo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Daging Domba agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging domba berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Pernahkah Anda membeli daging domba karena rasanya yang gurih dan teksturnya yang lembut, tetapi khawatir karena warnanya cepat menggelap atau baunya menjadi menyengat di kulkas? 🥩\n\nDaging domba tinggi akan kandungan protein dan air, menjadikannya sangat rentan terhadap pertumbuhan bakteri dan oksidasi lemak. Penyimpanan yang tidak tepat membuat bau prengus semakin kuat dan menyebabkan hilangnya cairan daging (drip loss), yang merusak rasa dan nutrisinya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran daging domba Anda lebih lama. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

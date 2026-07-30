@@ -8,7 +8,7 @@
             "ko": {
                 "title": "아시안 국수 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 건면과 생면·우동면의 최적 보관 온도, 습기·벌레 차단법 및 냉장·냉동 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "소면, 중면, 칼국수, 생우동, 생면 등... 국수는 동서양을 막론하고 수억 명에게 주식으로 사랑받는 대중적인 식재료입니다! 🍜\n\n대용량 건면(소면)을 사왔다가 습기를 먹어 눅눅해지거나 권련벌레·화랑곡나방 애벌레가 생겨 통째로 버린 경험, 혹은 생면이나 우동면을 찬장에 두었다가 곰팡이가 피어 당황했던 경험 다들 있으시죠?\n\n국수는 수분 함량 14% 이하의 '건면'과 수분 함량 20~30% 이상의 '생면·숙면'으로 나뉘며, 수분 활성도(Water Activity)가 완전히 달라 보관 방식도 극단적으로 갈립니다. 건면은 강한 흡습성 때문에 수분과 쌀벌레 차단이 핵심이며, 생면은 미생물 증식이 빨라 저온 관리가 필수적입니다. 이번 가이드에서는 전문 기관의 검증된 가이드라인을 바탕으로 모든 종류의 국수를 맛과 식감 손실 없이 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "국수 종류별 수분 활성도(Aw)와 미생물 증식 원리, 건면의 흡습 작용 및 유충 침입 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 위생과 식감 유지를 위해 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Asian Noodles Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, moisture and pest barriers, and shelf life for refrigerating and freezing dried and fresh Asian noodles based on official safety guidelines.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Somyeon, udon, fresh ramen, kalguksu... Asian noodles are beloved staple foods consumed by hundreds of millions worldwide! 🍜\n\nHave you ever bought a large bundle of dried noodles only to find them stale from absorbing humidity or infested with pantry beetles? Or found your fresh udon molding in the pantry?\n\nAsian noodles are split into 'dried noodles' (moisture below 14%) and 'fresh/pre-cooked noodles' (moisture 20–30%+). Because their water activity differs drastically, their storage methods are completely opposite. Dried noodles require airtight barriers against humidity and pantry pests, whereas fresh noodles require cold storage to halt rapid bacterial growth. In this guide, introduces a scientifically proven 3-step storage guide based on expert food safety standards to preserve flavor and texture across all noodle types. 🛡️",
                 "whyTitle": "Why Store Asian Noodles This Way? Scientific Facts",
                 "whyDesc": "Understanding water activity (Aw), microbial growth, hygroscopic properties of dried noodles, and insect larva penetration is essential for maintaining hygiene and noodle elasticity.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "アジアン麺・素麺を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく乾麺と生麺・うどん麺の最適保存温度、湿気・害虫遮断法および冷蔵・冷凍保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "素麺、うどん、中華生麺、きしめんなど... アジアン麺は世界中で主食として愛されている代表的な食材です！🍜\n\n大容量の乾麺（素麺）を買ってきたものの湿気を吸ってシケてしまったり、シバンムシなどの害虫が発生して丸ごと捨ててしまった経験、あるいは生麺や生うどんをパントリーに置いてカビさせてしまった経験はありませんか？\n\n麺類は水分14%以下の「乾麺」と水分20〜30%以上の「生麺・ゆで麺」で水分活性度（Water Activity）が大きく異なり、保存方法も極端に分かれます。乾麺は強い吸湿性があるため湿気と害虫の遮断が最優先であり、生麺は菌の増殖が早いため低温管理が必須です。本記事では専門機関の検証済みガイドラインに基づき、あらゆる麺の美味しさと食感を保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "麺の種類ごとの水分活性度（Aw）や微生物の増殖メカニズム、乾麺の吸湿作用および幼虫の穿孔特性を理解し、正しい保存法を実践することが衛生と食感の維持に不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持亚洲面条/素面新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解干面与生面·乌冬面的最佳储存温度、防潮防虫技巧及冷藏冷冻保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "素面、中面、刀削面、鲜乌冬面、生拉面... 面条是全球数亿人日常喜爱的经典主食！🍜\n\n您是否买过大包干面条，却因吸潮受潮发霉，或长出烟草甲、螟蛾幼虫而整包扔掉？或是将鲜面条、乌冬面存放在橱柜里却发霉变质？\n\n面条按水分为水分14%以下的“干面”与水分20~30%以上的“生面·熟面”，两者的水活性（Water Activity）截然不同，因而储存方式也完全相反。干面极易吸湿，防潮防虫是核心；而生面含水量高、细菌繁殖快，必须进行低温管理。本指南基于权威机构验证的指南，为您带来3步科学保鲜法，保持所有种类面条的鲜美味觉与弹牙口感。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解不同面条的水活性（Aw）、微生物繁殖原理、干面的吸湿特性及害虫蛀蚀特点，对于食品卫生与口感保持至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los fideos asiáticos frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura de almacenamiento, técnicas de barrera antihumedad y plagas, y tiempo de conservación para refrigerar y congelar fideos secos y frescos según directrices oficiales.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Fideos somyeon, udon, ramen fresco, kalguksu... ¡Los fideos asiáticos son un alimento básico querido por cientos de millones en todo el mundo! 🍜\n\n¿Alguna vez compró un paquete grande de fideos secos solo para descubrirlos húmedos o infestados de escarabajos de la despensa? ¿O encontró sus fideos udon frescos con moho en la alacena?\n\nLos fideos se dividen en 'fideos secos' (humedad menor al 14%) y 'fideos frescos/precocidos' (humedad del 20–30%+). Debido a que su actividad de agua difiere enormemente, sus métodos de conservación son opuestos. Los fideos secos requieren sellado hermético contra la humedad y plagas, mientras que los fideos frescos exigen almacenamiento frío para frenar bacterias. En esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades sanitarias para mantener la textura y sabor de todos sus fideos. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender la actividad de agua (Aw), la proliferación microbiana, la higroscopicidad de los fideos secos y la penetración de larvas es fundamental para garantizar higiene y elasticidad.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les nouilles asiatiques fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température de stockage, les barrières contre l'humidité et les parasites, et la durée de conservation pour réfrigérer et congeler les nouilles asiatiques sèches et fraîches selon les normes officielles.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Somyeon, udon, ramen frais, kalguksu... Les nouilles asiatiques sont des aliments de base consommés par des centaines de millions de personnes ! 🍜\n\nAvez-vous déjà acheté un paquet de nouilles sèches pour le retrouver ramolli par l'humidité ou infesté d'insectes ? Ou découvert vos nouilles udon fraîches moisies dans le placard ?\n\nLes nouilles se divisent en 'nouilles sèches' (humidité inférieure à 14 %) et 'nouilles fraîches/cuites' (humidité de 20–30 %+). Leur activité de l'eau étant très différente, les méthodes de conservation sont opposées. Les nouilles sèches exigent une étanchéité totale contre l'humidité et les insectes, tandis que les nouilles fraîches imposent le froid pour stopper les bactéries. Dans ce guide, vous présente un guide de conservation en 3 étapes pour préserver texture et saveur. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre l'activité de l'eau (Aw), la prolifération microbienne, l'hygroscopicité des nouilles sèches et la pénétration des larves est essentiel pour garantir hygiène et élasticité.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Asiatische Nudeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Feuchtigkeits- und Schädlingsbarrieren sowie die Haltbarkeit beim Kühlen und Einfrieren von getrockneten und frischen asiatischen Nudeln nach offiziellen Richtlinien.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Somyeon, Udon, frische Ramen, Kalguksu... Asiatische Nudeln sind geliebte Grundnahrungsmittel für hunderte Millionen Menschen! 🍜\n\nHaben Sie schon einmal eine große Packung getrockneter Nudeln gekauft, nur um sie durch Feuchtigkeit alt oder von Vorratsschädlingen befallen vorzufinden? Oder schimmelten frische Udon-Nudeln im Schrank?\n\nNudeln unterteilen sich in 'Trockennudeln' (Feuchtigkeit unter 14 %) und 'Frischnudeln/Vorgekochte Nudeln' (Feuchtigkeit 20–30 %+). Da sich ihre Wasseraktivität stark unterscheidet, sind die Lagermethoden gegensätzlich. Trockennudeln brauchen Luft- und Schädlingsdichtheit, Frischnudeln benötigen Kälte zur Keimstoppung. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber für perfekten Nudelgenuss. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Wasseraktivität (Aw), der Keimvermehrung, der Hygroskopie von Trockennudeln und des Larvenbefalls ist entscheidend für Hygiene und Bisseigenschaften.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar macarrão e fideos asiáticos frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura de armazenamento, barreiras contra umidade e pragas, e tempo de conservação para refrigerar e congelar macarrão seco e fresco segundo diretrizes oficiais.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Massa somyeon, udon, ramen fresco, kalguksu... O macarrão asiático é um alimento básico amado por centenas de milhões de pessoas! 🍜\n\nVocê já comprou um pacote grande de macarrão seco e o encontrou murcho pela umidade ou infestado de besouros de despensa? Ou encontrou seu udon fresco com mofo no armário?\n\nO macarrão é dividido em 'massa seca' (umidade abaixo de 14%) e 'massa fresca/pré-cozida' (umidade de 20–30%+). Como a atividade de água é diferente, os métodos de conservação são opostos. A massa seca exige vedação hermética contra umidade e pragas, enquanto a massa fresca exige refrigeração para frear bactérias. Neste guia, apresentamos um guia em 3 etapas para preservar a textura e sabor do seu macarrão. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a atividade de água (Aw), a proliferação microbiana, a higroscopia da massa seca e a perfuração por larvas é essencial para manter a higiene e elasticidade.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Mi Asia agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal, pelindung kelembapan dan hama, serta masa simpan kulkas dan freezer untuk mi kering dan mi segar berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & FDA & MFDS</strong>",
+                "authority": "RDA & FDA & MFDS",
                 "intro": "Mi somyeon, udon, ramen segar, kalguksu... Mi Asia adalah makanan pokok favorit yang dikonsumsi ratusan juta orang di seluruh dunia! 🍜\n\nPernahkah Anda membeli satu kemasan mi kering lalu menemukannya melempem karena lembap atau dihinggapi kutu beras/kutu kemasan? Atau menemukan mi udon segar Anda berjamur di lemari dapur?\n\nMi terbagi menjadi 'mi kering' (kadar air di bawah 14%) dan 'mi segar/matang' (kadar air 20–30%+). Karena aktivitas airnya sangat berbeda, cara penyimpanannya pun bertolak belakang. Mi kering membutuhkan wadah kedap udara penahan lembap dan kutu, sedangkan mi segar wajib disimpan pada suhu dingin untuk menghentikan kuman. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk menjaga tekstur dan kelezatan mi Anda. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami aktivitas air (Aw), pertumbuhan mikroba, sifat higroskopis mi kering, dan penetrasi larva serangga sangat penting untuk menjaga kebersihan dan kenyalnya mi.",

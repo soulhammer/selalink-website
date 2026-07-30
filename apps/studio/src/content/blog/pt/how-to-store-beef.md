@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Seque completamente a umidade e o sangue (drip) da superfície — Evite maus odores e deterioração 🥩"
     text: "O líquido acumulado na superfície da carne gera cheiro forte e serve como meio ideal para a multiplicação de bactérias. 💡 Dica de conservação: Antes de cozinhar ou guardar, pressione firmemente toalhas de papel sobre a carne para absorver todo o excesso de umidade, contendo o crescimento microbiano."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA</strong>.
+      Este conteúdo baseia-se em MFDS & USDA.
     </p>
   </div>
 </div>

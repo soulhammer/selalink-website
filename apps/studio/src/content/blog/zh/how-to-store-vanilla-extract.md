@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)"
 steps:
   - name: "避光置于阴凉干燥的储藏柜 — 常温保存 (半永久) 🏺"
     text: "无论开封与否，得益于高酒精含量，纯香草精在常温下几乎可以半永久保存。💡储存小贴士：存放在无阳光直射和热源、温度为15 ~ 24℃的阴凉橱柜中，数年后依然能保持浓郁醇厚的香草香气。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Pemeram pepaya hijau pada suhu ruang (18–25°C) — Pemeraman 🥭"
     text: "Letakkan pepaya hijau di tempat yang sejuk, berventilasi baik, dan terhindar dari sinar matahari langsung (18–25°C). 💡 Tips Penyimpanan: Pepaya matang sempurna saat 70–80% kulitnya berwarna kuning. Untuk mempercepat pematangan, simpan dalam kantong kertas bersama apel atau pisang."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan pepaya 3 langkah berbasis
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & RDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & RDA & MFDS.
     </p>
   </div>
 </div>

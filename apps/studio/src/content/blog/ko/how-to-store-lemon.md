@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "표면의 잔여 물기 완벽하게 제거하기 — 무름병 및 곰팡이 예방 🍋"
     text: "레몬 껍질은 두껍지만 표면에 수분이 고여 있으면 곰팡이균이 껍질 입자를 타고 유입됩니다. 💡 보관 팁: 겉면에 물기가 있는 레몬은 키친타월이나 마른 수건으로 완벽하게 닦아낸 뒤, 바람이 통하는 그늘에서 5 ~ 10분간 바짝 말려 습기를 제거해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

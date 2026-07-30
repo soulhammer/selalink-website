@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/flour_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transfira para um recipiente hermético ou pote de vidro — Proteção total contra umidade e pragas 📦"
     text: "O segredo para guardar farinha é bloquear completamente o ar, a umidade e as pragas. 💡 Dica de conservação: Despeje a farinha aberta em um pote de vidro ou recipiente plástico hermético com vedação de borracha e feche bem."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas recomendado pelo U
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Seal dried noodles in airtight containers or plastic bottles — Humidity & Pest Barrier (1–2 Years) 📦"
     text: "Leaving dried noodles in thin original plastic allows cigarette beetles or Indianmeal moth larvae to bore through the film and lay eggs. 💡 Storage Tip: Unpack dried noodles and store with a silica gel desiccant in tall airtight canisters, wide-mouth plastic bottles, or heavy-duty Ziploc bags. Store in a cool, dark pantry below 20°C (68°F) for 1 to 2 years pest-free."
@@ -38,7 +38,7 @@ Asian noodles are split into 'dried noodles' (moisture below 14%) and 'fresh/pre
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & FDA & MFDS</strong>.
+      This content is based on RDA & FDA & MFDS.
     </p>
   </div>
 </div>

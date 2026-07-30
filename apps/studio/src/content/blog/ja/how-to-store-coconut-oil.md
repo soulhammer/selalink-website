@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCC</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCC"
 steps:
   - name: "20〜24℃の涼しく暗い常温で保存する — 常温密閉保存 (360〜720日間) 📦"
     text: "ココナッツオイルは必ずしも冷蔵保存する必要はなく、涼しい常温で保管するのが最も使いやすく便利です。💡保存のコツ：直射日光の当たらないパントリーや棚（20〜24℃）で保管してください。開封後もこの条件であれば1〜2年間は風味と鮮度が完璧に保たれます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCC</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCCに基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lettuce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "키친타월로 수분 조절하기 — 수분 불균형 방지 🧻"
     text: "상추의 수분 손실을 막고 결로 현상으로 인한 무름을 방지하려면 적절한 습도 유지가 필수적입니다. 💡 보관 팁: 씻지 않은 상추를 키친타월로 감싸거나 보관 용기 바닥과 층 사이에 키친타월을 깔아주세요. 키친타월이 과도한 습기를 흡수하면서도 적정 습도를 유지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

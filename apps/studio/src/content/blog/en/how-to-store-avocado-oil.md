@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store in UV-blocking dark glass bottles (amber or dark green glass) — Block Photo-Oxidation & Hydroperoxides 🍾"
     text: "Always purchase or transfer avocado oil into dark amber or green glass bottles (Dark Glass Bottle). 💡 Storage Tip: Dark glass physically filters out damaging ultraviolet and visible light wavelengths, stopping chlorophyll-mediated photo-oxidation and hydroperoxide buildup."
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

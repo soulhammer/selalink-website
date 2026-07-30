@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Sofort nach dem Kauf in luftdichte Behälter (oder PET-Flaschen) umfüllen — Sauerstoff & Feuchtigkeit blockieren 📦"
     text: "Ständiger Kontakt mit Luft lässt die Fette im Reis oxidieren, was zu ranzigem Geruch und Feuchtigkeitsverlust führt. 💡 Lagerungstipp: Füllen Sie den trockenen Reis in saubere, trockene PET-Flaschen oder Glasbehälter und verschließen Sie diese fest. Dies bewahrt den idealen Wassergehalt ( ~ 15 %) und stoppt das Eindringen von Sauerstoff."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexpe
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

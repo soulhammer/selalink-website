@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Kocok perlahan sebelum diminum — Satukan Kembali Endapan Alami 🥛"
     text: "Susu almond adalah suspensi padatan almond dalam air sehingga endapan akan terbentuk secara alami. 💡 Tips Penyimpanan: Pemisahan ini adalah proses fisik alami dan bukan tanda pembusukan. Kocok kemasan secara perlahan sebelum diminum untuk mengembalikan tekstur lembutnya."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan susu almond 3 langkah ber
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & USDA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

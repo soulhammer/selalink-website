@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & 美国农务部(USDA)</strong>"
+authority: "SCA & 美国农务部(USDA)"
 steps:
   - name: "使用带有单向排气阀的不透明密封盒 — 阻绝氧气与排放二氧化碳 📦"
     text: "新鲜烘焙豆会不断释放气体，因此必须使用能排出二氧化碳同时阻止外部氧气进入的“单向排气阀”容器。💡储存小贴士：可保留带排气阀的原包装袋密封，或转存至避光真空密封罐中。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>SCA & 美国农务部(USDA)</strong>。
+      本内容基于 SCA & 美国农务部(USDA)。
     </p>
   </div>
 </div>

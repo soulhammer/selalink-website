@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "김치 국물에 완전히 잠기도록 누름판(또는 위생 비닐)으로 공기 차단하기 — 혐기 상태 유지 📦"
     text: "김치 발효를 담당하는 젖산균(Leuconostoc, Lactobacillus)은 산소가 없는 환경에서 잘 자라는 혐기성 균이며, 흰 막을 만드는 효모는 산소를 필요로 합니다. 💡 보관 팁: 김치를 용기에 담은 후 80% 정도만 채우고, 누름판이나 위생 비닐, 우거지 등으로 상단을 꾹 눌러 김치가 국물 속에 완전히 잠기게 해주세요. 공기 접촉을 철저히 막아야 산화 및 산막효모 발생을 원천 차단할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

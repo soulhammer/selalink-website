@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/black_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Conserve en granos enteros (pimienta entera) en frascos herméticos — Retención de aroma y anti-oxidación 📦"
     text: "Al moler la pimienta, sus aceites volátiles se oxidan rápidamente al aire. 💡 Consejo de almacenamiento: Comprar pimienta en grano y molerla justo antes de cocinar es la mejor manera de conservar el sabor que comprarla ya molida."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía en 3 pasos respaldada por expertos para mant
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS</strong>.
+      Este contenido se basa en FDA & USDA & MFDS.
     </p>
   </div>
 </div>

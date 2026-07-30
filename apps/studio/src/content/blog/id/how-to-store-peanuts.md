@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Gunakan kemasan kedap udara untuk menghalau oksigen dan kelembapan — Perlindungan Kedap Udara 📦"
     text: "Membiarkan kacang tanah (kulit maupun kupas) terpapar udara akan memicu oksidasi lemak saat kontak dengan oksigen. 💡 Tips Penyimpanan: Masukkan kacang tanah ke dalam kantong Ziploc atau wadah kedap udara bersama gel silika food-grade atau penyerap oksigen. Meminimalisir kontak udara adalah pertahanan utama."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan kacang tanah 3 langkah be
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

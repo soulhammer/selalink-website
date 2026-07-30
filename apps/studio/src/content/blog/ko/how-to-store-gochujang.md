@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 한국식품연구원(KFRI)</strong>"
+authority: "식품의약품안전처(MFDS) & 한국식품연구원(KFRI)"
 steps:
   - name: "개봉 후 즉시 밀봉하여 저온 냉장(0 ~ 5℃) 보관하기 — 냉장 보관 (6 ~ 12개월) ❄️"
     text: "개봉 전 상온 보관이 가능했던 고추장도 개봉 후에는 산소 접촉으로 변질이 시작됩니다. 💡 보관 팁: 뚜껑을 닫기 전 용기 입구 주변에 묻은 고추장을 깔끔히 닦아내고, 뚜껑을 완벽히 밀봉하여 0 ~ 5℃ 냉장고에 보관하세요. 저온 환경은 미생물의 과도한 증식과 갈변 현상, 곰팡이 생성을 효과적으로 억제합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 한국식품연구원(KFRI)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 한국식품연구원(KFRI)에 기반하고 있습니다.
     </p>
   </div>
 </div>

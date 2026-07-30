@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oat_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver les briques fermées dans un endroit frais (15–25 °C) — Stockage ambiant (Jusqu'à la date de péremption) 📦"
     text: "Les briques stériles UHT non ouvertes se conservent parfaitement à température ambiante. 💡 Astuce de conservation : Placez-les dans un endroit frais et sec à l'abri de la lumière directe. Maintenir une température inférieure à 25 °C évite la dégradation de l'amidon."
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

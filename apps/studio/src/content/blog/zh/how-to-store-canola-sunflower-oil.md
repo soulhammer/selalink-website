@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "存放在无热源与紫外线的阴凉暗橱（15 ~ 20℃） — 常温避光保存 (未开封1 ~ 2年 / 开封后3 ~ 6个月) 🌡️"
     text: "阻隔热源与光线并将温度控制在 15 ~ 20℃ 是核心。💡储存小贴士：避开灶台周围，存放在下柜或食品柜深处等避光凉爽处。未开封可保存1 ~ 2年，开封后建议在3 ~ 6个月内用完。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

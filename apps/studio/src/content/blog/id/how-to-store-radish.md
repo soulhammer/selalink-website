@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/radish_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Potong bagian pangkal daun — Mencegah Kehilangan Air & Nutrisi 🪓"
     text: "Ini adalah langkah pertama yang sangat penting untuk menghentikan dehidrasi. 💡 Tips Penyimpanan: Potong bagian atas daun dekat dengan umbi untuk menghilangkan titik tumbuh. Daunnya bisa disimpan terpisah untuk dimasak."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

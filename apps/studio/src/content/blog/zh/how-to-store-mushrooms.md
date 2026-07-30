@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "储存前严禁用水冲洗 — 阻断吸水与组织塌陷 ❌💧"
     text: "蘑菇的多孔海绵结构使其吸水极快。💡储存小贴士：储存前洗水会导致细胞充水，破坏弹牙口感并使鸟苷酸等鲜味物质流失，同时加速霉菌滋生。表面的泥沙杂质请在烹饪前用干布或小刷子轻掸即可。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

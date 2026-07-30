@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Wrap individual beans tightly in wax paper or plastic wrap — Moisture & Air Barrier 📜"
     text: "Wrap each vanilla bean in wax paper or food-grade plastic wrap. This minimizes friction between pods and provides a primary barrier against moisture loss."
@@ -25,7 +25,7 @@ faqs:
 
 Natural vanilla beans add an exquisite, sweet flavor and aroma to fine desserts and pastries! 🍦✨
 
-Vanilla beans owe their iconic aroma to 'vanillin,' a delicate aromatic compound. However, due to their high cost, many people mistakenly store vanilla beans in the refrigerator. Cold refrigeration causes condensation to form on the pods upon temperature changes, drastically increasing surface water activity ($A_w$) and creating the ideal environment for mold to thrive.
+Vanilla beans owe their iconic aroma to 'vanillin,' a delicate aromatic compound. However, due to their high cost, many people mistakenly store vanilla beans in the refrigerator. Cold refrigeration causes condensation to form on the pods upon temperature changes, drastically increasing surface water activity (Aw) and creating the ideal environment for mold to thrive.
 
 In this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to preserve vanillin crystals and completely eliminate mold risks. 🛡️
 
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Never store vanilla beans in the refrigerator or freezer ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Placing vanilla beans in the fridge causes moisture condensation when exposed to ambient air upon retrieval. This spikes surface water activity ($A_w$), encouraging Aspergillus and Penicillium mold growth while breaking down the delicate vanillin crystal structure.
+      Placing vanilla beans in the fridge causes moisture condensation when exposed to ambient air upon retrieval. This spikes surface water activity (Aw), encouraging Aspergillus and Penicillium mold growth while breaking down the delicate vanillin crystal structure.
     </p>
   </div>
 </div>

@@ -8,10 +8,10 @@
             "ko": {
                 "title": "렌틸콩 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 건조 렌틸콩의 수분 함량 관리법, 해충(팥바구미) 및 곰팡이독소(아플라톡신) 차단법과 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
-                "intro": "풍부한 단백질과 식이섬유, 철분을 자랑하며 세계적인 5대 슈퍼푸드로 꼽히는 렌틸콩(Lentils)! 🫘\n\n렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분활성도($A_w$)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 렌틸콩을 해충과 독소 없이 신선하게 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+                "intro": "풍부한 단백질과 식이섬유, 철분을 자랑하며 세계적인 5대 슈퍼푸드로 꼽히는 렌틸콩(Lentils)! 🫘\n\n렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분 활성도(Aw)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 렌틸콩을 해충과 독소 없이 신선하게 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "수분활성도($A_w$)가 0.65를 넘을 때 발생하는 곰팡이 포자 발아 및 해충 생육 메커니즘을 이해하고, 밀폐·건조 환경을 유지하는 것이 렌틸콩 장기 보존의 핵심입니다.",
+                "whyDesc": "수분 활성도(Aw)가 0.65를 넘을 때 발생하는 곰팡이 포자 발아 및 해충 생육 메커니즘을 이해하고, 밀폐·건조 환경을 유지하는 것이 렌틸콩 장기 보존의 핵심입니다.",
                 "guideTitle": "과학적으로 검증된 보관 가이드",
                 "cautionTitle": "보관 시 필수 규칙 및 주의사항",
                 "cautions": [
@@ -26,7 +26,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분활성도 $A_w < 0.65$ 유지 및 해충 차단 🫙",
+                        "name": "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분 활성도(Aw) < 0.65 유지 및 해충 차단 🫙",
                         "text": "건조 렌틸콩을 구매한 즉시 밀폐력이 뛰어난 유리병이나 식품용 PET/PP 밀폐 용기에 담고, 실리카겔 등 식품용 제습제를 함께 넣어주세요. 💡 보관 팁: 렌틸콩의 수분 함량을 10 - 12% 이하로 통제하여 수분활성도를 0.65 미만으로 유지하면 미생물 생육 한계를 낮춰 곰팡이독소 생성 및 팥바구미 침입을 원천 차단합니다."
                     },
                     {
@@ -52,10 +52,10 @@
             "en": {
                 "title": "How to Keep Lentils Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods for dry and cooked lentils, moisture control techniques, pest and mycotoxin (aflatoxin) prevention, and shelf life based on official USDA & FDA safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Lentils are a globally renowned superfood packed with plant-based protein, dietary fiber, and iron! 🫘\n\nLentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity ($A_w$) below 0.65 is crucial to completely block microbial growth and insect reproduction.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your lentils safe, fresh, and free from pests and toxins. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Lentils are a globally renowned superfood packed with plant-based protein, dietary fiber, and iron! 🫘\n\nLentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity (Aw) below 0.65 is crucial to completely block microbial growth and insect reproduction.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your lentils safe, fresh, and free from pests and toxins. 🛡️",
                 "whyTitle": "Why Store Lentils This Way? Scientific Facts",
-                "whyDesc": "Understanding the mechanisms of mold spore germination and pest reproduction triggered when water activity ($A_w$) exceeds 0.65 makes airtight, dry storage the absolute cornerstone of lentil preservation.",
+                "whyDesc": "Understanding the mechanisms of mold spore germination and pest reproduction triggered when water activity (Aw) exceeds 0.65 makes airtight, dry storage the absolute cornerstone of lentil preservation.",
                 "guideTitle": "Scientifically Proven Storage Guide",
                 "cautionTitle": "Essential Storage Rules and Cautions",
                 "cautions": [
@@ -70,7 +70,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Store in airtight containers (glass/PET/PP) with desiccants — Maintain $A_w < 0.65$ & Pest Control 🫙",
+                        "name": "Store in airtight containers (glass/PET/PP) with desiccants — Maintain water activity (Aw) < 0.65 & Pest Control 🫙",
                         "text": "Immediately transfer dry lentils into glass jars or food-grade PET/PP airtight containers and add a food-safe desiccant (silica gel). 💡 Storage Tip: Controlling moisture content below 10–12% keeps water activity below 0.65, effectively suppressing microbial growth and preventing pulse beetle infestations."
                     },
                     {
@@ -96,10 +96,10 @@
             "ja": {
                 "title": "レンズ豆（Lentils）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づく乾燥レンズ豆の水分管理法、害虫（アズキゾウムシ等）およびカビ毒（アフラトキシン）遮断法と保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
-                "intro": "豊富なタンパク質と食物繊維、鉄分を誇り、世界5大スーパーフードに数えられるレンズ豆（Lentils）！ 🫘\n\nレンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（$A_w$）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、レンズ豆を害虫や毒素から守り新鮮に長く保つ3段階の科学的保存法をご紹介します。🛡️",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+                "intro": "豊富なタンパク質と食物繊維、鉄分を誇り、世界5大スーパーフードに数えられるレンズ豆（Lentils）！ 🫘\n\nレンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（水分活性 (Aw)）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、レンズ豆を害虫や毒素から守り新鮮に長く保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "水分活性度（$A_w$）が0.65を超えた際に発生するカビ胞子の発芽および害虫の発生メカニズムを理解し、密閉・乾燥環境を維持することがレンズ豆の長期保存の核心です。",
+                "whyDesc": "水分活性度（水分活性 (Aw)）が0.65を超えた際に発生するカビ胞子の発芽および害虫の発生メカニズムを理解し、密閉・乾燥環境を維持することがレンズ豆の長期保存の核心です。",
                 "guideTitle": "科学的に検証された保存ガイド",
                 "cautionTitle": "保存時の必須ルールと注意事項",
                 "cautions": [
@@ -114,7 +114,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 $A_w < 0.65$ 維持＆害虫遮断 🫙",
+                        "name": "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 水分活性 (Aw) < 0.65 維持＆害虫遮断 🫙",
                         "text": "乾燥レンズ豆を購入したらすぐに密閉性の高いガラス瓶や食品用PET/PP密閉容器に入れ、シリカゲルなどの食品用乾燥剤を一緒に入れてください。💡保存のコツ：水分含有量を10〜12%以下にコントロールして水分活性度を0.65未満に保つことで、カビ毒の発生や害虫の侵入を根本から防ぎます。"
                     },
                     {
@@ -140,10 +140,10 @@
             "zh": {
                 "title": "如何保持小扁豆（Lentils）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解干燥小扁豆的水分管理法、防虫（红豆象等）及防霉菌毒素（黄曲霉毒素）方法与保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
-                "intro": "小扁豆（Lentils）富含植物蛋白、膳食纤维和铁质，是享誉世界的五大超级食物之一！ 🫘\n\n小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（$A_w$）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护小扁豆远离害虫与毒素，长久保持新鲜。🛡️",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+                "intro": "小扁豆（Lentils）富含植物蛋白、膳食纤维和铁质，是享誉世界的五大超级食物之一！ 🫘\n\n小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（水活性 (Aw)）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护小扁豆远离害虫与毒素，长久保持新鲜。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解水分活性（$A_w$）超过0.65时引发的霉菌孢子发芽与害虫繁殖机制，保持密封干燥环境是小扁豆长期保存的核心所在。",
+                "whyDesc": "了解水分活性（水活性 (Aw)）超过0.65时引发的霉菌孢子发芽与害虫繁殖机制，保持密封干燥环境是小扁豆长期保存的核心所在。",
                 "guideTitle": "科学验证的储存指南",
                 "cautionTitle": "储存必需规则及注意事项",
                 "cautions": [
@@ -158,7 +158,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 $A_w < 0.65$ 并防虫 🫙",
+                        "name": "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 水活性 (Aw) < 0.65 并防虫 🫙",
                         "text": "购买干燥小扁豆后请立即倒入密封性极佳的玻璃瓶或食品级PET/PP密封盒中，并放入食品级硅胶干燥剂。💡储存小贴士：将水分含量控制在10 - 12%以下、水分活性控制在0.65以下，可抑制微生物生长，从源头杜绝霉菌毒素与害虫。"
                     },
                     {
@@ -184,10 +184,10 @@
             "es": {
                 "title": "Cómo mantener frescas las lentejas: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento para lentejas secas y cocidas, control de humedad, prevención de plagas y micotoxinas (aflatoxinas) según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "¡Las lentejas (lentils) son un superalimento reconocido mundialmente por su alto contenido de proteína vegetal, fibra y hierro! 🫘\n\nLas lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua ($A_w$) por debajo de 0,65 es esencial para frenar microorganismos y plagas.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus lentejas seguras, frescas y libres de toxinas. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "¡Las lentejas (lentils) son un superalimento reconocido mundialmente por su alto contenido de proteína vegetal, fibra y hierro! 🫘\n\nLas lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 es esencial para frenar microorganismos y plagas.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus lentejas seguras, frescas y libres de toxinas. 🛡️",
                 "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender los mecanismos de germinación de moho y reproducción de plagas cuando la actividad de agua ($A_w$) supera 0,65 convierte al almacenamiento hermético y seco en la regla de oro.",
+                "whyDesc": "Comprender los mecanismos de germinación de moho y reproducción de plagas cuando la actividad de agua (actividad de agua (Aw)) supera 0,65 convierte al almacenamiento hermético y seco en la regla de oro.",
                 "guideTitle": "Guía de almacenamiento científicamente probada",
                 "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
                 "cautions": [
@@ -202,7 +202,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener $A_w < 0,65$ y control de plagas 🫙",
+                        "name": "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener actividad de agua (Aw) < 0,65 y control de plagas 🫙",
                         "text": "Trasvase inmediatamente las lentejas secas a frascos de vidrio o recipientes herméticos de PET/PP con un desecante de sílice para alimentos. 💡 Consejo de almacenamiento: Controlar la humedad por debajo del 10–12% mantiene la actividad de agua en $< 0,65$, frenando toxinas y plagas."
                     },
                     {
@@ -228,10 +228,10 @@
             "fr": {
                 "title": "Comment conserver les lentilles fraîches : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales pour conserver les lentilles sèches et cuites, le contrôle de l'humidité, la prévention des parasites et des mycotoxines (aflatoxines) selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Les lentilles (lentils) sont un superaliment de renommée mondiale, gorgé de protéines végétales, de fibres et de fer ! 🫘\n\nLes lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau ($A_w$) sous 0,65 est essentiel pour bloquer les moisissures et parasites.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos lentilles fraîches, sûres et sans toxines. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Les lentilles (lentils) sont un superaliment de renommée mondiale, gorgé de protéines végétales, de fibres et de fer ! 🫘\n\nLes lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 est essentiel pour bloquer les moisissures et parasites.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos lentilles fraîches, sûres et sans toxines. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les mécanismes de germination des moisissures et de reproduction des parasites lorsque l'activité de l'eau ($A_w$) dépasse 0,65 fait du stockage étanche et sec la règle absolue.",
+                "whyDesc": "Comprendre les mécanismes de germination des moisissures et de reproduction des parasites lorsque l'activité de l'eau (activité de l'eau (Aw)) dépasse 0,65 fait du stockage étanche et sec la règle absolue.",
                 "guideTitle": "Guide de conservation scientifiquement prouvé",
                 "cautionTitle": "Règles essentielles et précautions de stockage",
                 "cautions": [
@@ -246,7 +246,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir $A_w < 0,65$ & Anti-parasites 🫙",
+                        "name": "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir activité de l'eau (Aw) < 0,65 & Anti-parasites 🫙",
                         "text": "Transférez immédiatement les lentilles sèches dans des bocaux en verre ou boîtes étanches en PET/PP avec un sachet déshydratant alimentaire (gel de silice). 💡 Astuce de conservation : Maintenir l'humidité sous 10–12 % garde l'activité de l'eau sous 0,65, éliminant tout risque de moisissure et de charançons."
                     },
                     {
@@ -272,10 +272,10 @@
             "de": {
                 "title": "Linsen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden für trockene und gekochte Linsen, Feuchtigkeitskontrolle, Schädlings- und Mykotoxin-Schutz (Aflatoxin) nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Linsen (Lentils) sind ein weltweit geschätztes Superfood voller pflanzlicher Proteine, Ballaststoffe und Eisen! 🫘\n\nLinsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität ($A_w$) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Linsen sicher, frisch und schädlingsfrei aufzubewahren. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Linsen (Lentils) sind ein weltweit geschätztes Superfood voller pflanzlicher Proteine, Ballaststoffe und Eisen! 🫘\n\nLinsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität (Wasseraktivität (Aw)) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Linsen sicher, frisch und schädlingsfrei aufzubewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Schimmelsporenkeimung und Schädlingsvermehrung ab einer Wasseraktivität ($A_w$) von über 0,65 macht die luftdichte, trockene Lagerung zur absoluten Grundregel.",
+                "whyDesc": "Das Verständnis der Schimmelsporenkeimung und Schädlingsvermehrung ab einer Wasseraktivität (Wasseraktivität (Aw)) von über 0,65 macht die luftdichte, trockene Lagerung zur absoluten Grundregel.",
                 "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
                 "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
                 "cautions": [
@@ -290,7 +290,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — $A_w < 0,65$ halten & Schädlingsschutz 🫙",
+                        "name": "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — Wasseraktivität (Aw) < 0,65 halten & Schädlingsschutz 🫙",
                         "text": "Füllen Sie trockene Linsen sofort in Glasbehälter oder PET/PP-Dosen um und legen Sie ein lebensmittelechtes Trockenmittel (Silikagel) bei. 💡 Lagerungstipp: Die Kontrolle der Feuchtigkeit unter 10–12 % hält die Wasseraktivität unter 0,65 und stoppt Gifte sowie Käferbefall."
                     },
                     {
@@ -316,10 +316,10 @@
             "pt": {
                 "title": "Como conservar lentilhas frescas: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação para lentilhas secas e cozidas, controle de umidade, prevenção de pragas e micotoxinas (aflatoxinas) segundo a USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "As lentilhas (lentils) são um superalimento mundialmente famoso, repleto de proteínas vegetais, fibras e ferro! 🫘\n\nAs lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água ($A_w$) abaixo de 0,65 é essencial para bloquear fungos e pragas.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter suas lentilhas seguras, frescas e livres de toxinas. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "As lentilhas (lentils) são um superalimento mundialmente famoso, repleto de proteínas vegetais, fibras e ferro! 🫘\n\nAs lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água (atividade de água (Aw)) abaixo de 0,65 é essencial para bloquear fungos e pragas.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter suas lentilhas seguras, frescas e livres de toxinas. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender os mecanismos de germinação de fungos e reprodução de pragas quando a atividade de água ($A_w$) ultrapassa 0,65 torna o armazenamento vedado e seco uma regra fundamental.",
+                "whyDesc": "Compreender os mecanismos de germinação de fungos e reprodução de pragas quando a atividade de água (atividade de água (Aw)) ultrapassa 0,65 torna o armazenamento vedado e seco uma regra fundamental.",
                 "guideTitle": "Guia de armazenamento comprovado cientificamente",
                 "cautionTitle": "Reglas essenciais e precauções no armazenamento",
                 "cautions": [
@@ -334,7 +334,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter $A_w < 0,65$ e controle de pragas 🫙",
+                        "name": "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter atividade de água (Aw) < 0,65 e controle de pragas 🫙",
                         "text": "Transfira imediatamente as lentilhas secas para potes de vidro ou recipientes herméticos com um sachê de sílica gel. 💡 Dica de conservação: Controlar a umidade abaixo de 10–12% mantém a atividade de água $< 0,65$, eliminando o risco de fungos e carunchos."
                     },
                     {
@@ -360,10 +360,10 @@
             "id": {
                 "title": "Cara Menyimpan Kacang Lentil (Lentils) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal untuk kacang lentil kering dan matang, kontrol kelembapan, pencegahan hama dan mikotoksin (aflatoksin) berdasarkan panduan USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
-                "intro": "Kacang lentil (Lentils) adalah superfood yang terkenal di seluruh dunia, kaya akan protein nabati, serat pangan, dan zat besi! 🫘\n\nKacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air ($A_w$) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk menjaga kacang lentil Anda tetap aman, segar, dan bebas dari racun. 🛡️",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Kacang lentil (Lentils) adalah superfood yang terkenal di seluruh dunia, kaya akan protein nabati, serat pangan, dan zat besi! 🫘\n\nKacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air (aktivitas air (Aw)) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk menjaga kacang lentil Anda tetap aman, segar, dan bebas dari racun. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami mekanisme perkecambahan spora jamur dan perkembangbiakan hama saat aktivitas air ($A_w$) melebihi 0,65 menjadikan penyimpanan kering dan kedap udara sebagai aturan utama.",
+                "whyDesc": "Memahami mekanisme perkecambahan spora jamur dan perkembangbiakan hama saat aktivitas air (aktivitas air (Aw)) melebihi 0,65 menjadikan penyimpanan kering dan kedap udara sebagai aturan utama.",
                 "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
                 "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
                 "cautions": [
@@ -378,7 +378,7 @@
                 ],
                 "steps": [
                     {
-                        "name": "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga $A_w < 0,65$ & Bebas Hama 🫙",
+                        "name": "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga aktivitas air (Aw) < 0,65 & Bebas Hama 🫙",
                         "text": "Segera pindahkan lentil kering ke dalam toples kaca atau wadah kedap udara PET/PP khusus makanan dan masukkan desikan (silica gel). 💡 Tips Penyimpanan: Mengontrol kadar air di bawah 10–12% menjaga aktivitas air di bawah 0,65, menghentikan racun dan hama."
                     },
                     {

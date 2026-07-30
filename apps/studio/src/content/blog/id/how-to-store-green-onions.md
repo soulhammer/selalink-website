@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Bungkus kering tanpa dicuci dengan koran lalu simpan tegak — Suhu Ruang (5 Hari) 🌿"
     text: "Bungkus daun bawang kering yang belum dicuci secara longgar dengan kertas koran atau kertas roti. 💡 Tips Penyimpanan: Simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk, berventilasi baik, dan teduh (10–15°C). Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga menahan stres gravitasi."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & MFDS & USDA</strong>.
+      Konten ini didasarkan pada RDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & Asosiasi Kecap Asin Jepang (JSA) & USDA</strong>"
+authority: "MFDS & Asosiasi Kecap Asin Jepang (JSA) & USDA"
 steps:
   - name: "Segera simpan di kulkas (0–5°C) setelah dibuka — Simpan Dingin (180–360 Hari) ❄️"
     text: "Sebelum dibuka dapat disimpan di rak dapur, tetapi setelah dibuka oksidasi akan berlangsung cepat. 💡 Tips Penyimpanan: Simpan kecap asin yang sudah dibuka di dalam kulkas (0–5°C). Suhu dingin menekan oksidasi secara signifikan, menjaga aroma khas dan umami hingga 6 bulan sampai lebih dari 1 tahun."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & Asosiasi Kecap Asin Jepang (JSA) & USDA</strong>.
+      Konten ini didasarkan pada MFDS & Asosiasi Kecap Asin Jepang (JSA) & USDA.
     </p>
   </div>
 </div>

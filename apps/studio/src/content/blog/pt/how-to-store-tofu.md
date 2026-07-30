@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Descarte a água da embalagem e enxágue bem em água corrente — Bloqueie micróbios 🚿"
     text: "O líquido da embalagem contém proteínas dissolvidas propenso ao crescimento de bactérias. 💡 Dica de conservação: Jogue fora a água do pacote e enxágue o tofu suavemente em água fria corrente para tirar os resíduos."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em normas 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA & Mayo Clinic</strong>.
+      Este conteúdo baseia-se em MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

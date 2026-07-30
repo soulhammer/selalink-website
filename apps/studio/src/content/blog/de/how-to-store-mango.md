@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Vor der Reifung] Bei kühler Raumtemperatur lagern (20–25 °C) — Natürliche Reifung (3–7 Tage) 🌡️"
     text: "Mangos entwickeln ihre Süße langsam bei Raumtemperatur. 💡 Lagerungstipp: Bewahren Sie sie an einem gut belüfteten Ort vor direkter Sonneneinstrahlung geschützt auf, bis die Schale glänzt, der Stielansatz süß duftet und die Frucht auf leichten Druck wie ein reifer Pfirsich etwas nachgibt."
@@ -38,7 +38,7 @@ HIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ra
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS & RDA</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS & RDA.
     </p>
   </div>
 </div>

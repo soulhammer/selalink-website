@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/duck_meat_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "핏물 수분 제거 후 진공 포장하기 — 산소 차단 밀봉 📦"
-    text: "오리고기 표면의 핏물과 수분을 키친타올로 깨끗이 wiping하고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장(Vacuum Packaging)은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다."
+    text: "오리고기 표면의 핏물과 수분을 키친타월로 깨끗이 닦아내고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다."
   - name: "0 ~ 2℃ 저온 냉장 보관하기 — 단기 냉장 보관 (1 ~ 2일) ❄️"
     text: "생 오리고기를 며칠 내로 조리할 경우 0 ~ 2℃의 극저온 환경에서 보관해야 세균 증식을 막을 수 있습니다. 💡 보관 팁: 진공 포장된 오리고기를 냉장고의 가장 차가운 신선실(0 ~ 2℃)에 보관하세요. 교차 오염을 막기 위해 다른 식재료와 분리 보관하여 1 ~ 2일 내에 조리하는 것이 좋습니다."
   - name: "-18℃ 이하 극저온 급속 냉동 보관하기 — 장기 냉동 보관 (3 ~ 6개월) 🧊"
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -53,7 +53,7 @@ faqs:
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">핏물 수분 제거 후 진공 포장하기 — 산소 차단 밀봉 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    오리고기 표면의 핏물과 수분을 키친타올로 깨끗이 wiping하고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장(Vacuum Packaging)은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다.
+    오리고기 표면의 핏물과 수분을 키친타월로 깨끗이 닦아내고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다.
   </p>
 </div>
 
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">산소 접촉을 절대 차단하고 수분을 닦아내세요 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      오리고기의 불포화 지방산은 산소와 만나는 순간 급격히 산화하여 지질 과산화물가가 상승합니다. 또한 핏물과 육즙(드립)은 세균 증식의 원인이 되므로 키친타올로 수분을 완벽히 wipe한 뒤 밀봉해야 합니다.
+      오리고기의 불포화 지방산은 산소와 만나는 순간 급격히 산화하여 지질 과산화물가가 상승합니다. 또한 핏물과 육즙(드립)은 세균 증식의 원인이 되므로 키친타월로 수분을 완벽히 닦아낸 뒤 밀봉해야 합니다.
     </p>
   </div>
 </div>

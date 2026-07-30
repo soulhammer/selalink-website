@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coffee_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>SCA & USDA</strong>"
+authority: "SCA & USDA"
 steps:
   - name: "Gunakan wadah kedap udara buram dengan katup satu arah — Tahan Oksigen & Lepaskan CO2 📦"
     text: "Biji kopi yang baru disangrai mengeluarkan gas; katup satu arah (one-way valve) sangat penting untuk mengeluarkan CO2 tanpa membiarkan oksigen masuk. 💡 Tips Penyimpanan: Simpan dalam kemasan asli berkatup atau pindahkan ke wadah kedap udara buram berkunci vakum."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>SCA & USDA</strong>.
+      Konten ini didasarkan pada SCA & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "彻底擦干表面的残留水分 — 防霉防软腐 🍋"
     text: "虽然柠檬皮厚，但表皮积水会让霉菌孢子顺着气孔侵入。💡储存小贴士：表面有水汽的柠檬请用厨房纸巾彻底擦干，并置于阴凉通风处晾干5 ~ 10分钟除去湿气。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

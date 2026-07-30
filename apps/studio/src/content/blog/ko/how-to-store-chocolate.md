@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chocolate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 용기나 은박지로 밀봉하기 — 냄새 및 습기 차단 📦"
     text: "초콜릿 보관의 핵심은 외기와 냄새를 완벽히 차단하는 것입니다. 💡 보관 팁: 개봉한 초콜릿을 은박지나 비닐 랩으로 1차 포장한 뒤, 밀폐 지퍼백이나 전용 밀폐 용기(BPA-free)에 담아 2중으로 차단해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

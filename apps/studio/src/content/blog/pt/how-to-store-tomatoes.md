@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & CDC</strong>"
+authority: "RDA & USDA & CDC"
 steps:
   - name: "Amadureça em temperatura ambiente à sombra antes de estar maduro — Temp. Ambiente (5–7 dias) 🌿"
     text: "Mantenha os tomates verdes ou rosados em temperatura ambiente fresca (15–20 °C) longe do sol direto. 💡 Dica de conservação: Retire os cabos verdes e apoie os tomates com o lado do cabo virado para baixo em uma superfície plana."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & CDC</strong>.
+      Este conteúdo baseia-se em RDA & USDA & CDC.
     </p>
   </div>
 </div>

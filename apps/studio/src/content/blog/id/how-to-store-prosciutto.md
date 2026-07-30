@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/prosciutto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & EFSA & MFDS</strong>"
+authority: "USDA & EFSA & MFDS"
 steps:
   - name: "Olesi permukaan secara tipis dengan Minyak Zaitun Extra Virgin — Pelindung Kedap Oksigen 🫒"
     text: "Mengoleskan minyak makan adalah metode paling ilmiah untuk menghalangi udara. 💡 Tips Penyimpanan: Mengoleskan sedikit minyak zaitun extra virgin pada irisan daging menciptakan lapisan alami yang mengunci kelembapan dan mencegah oksidasi."
@@ -25,7 +25,7 @@ faqs:
 
 Pernahkah Anda menikmati daging asap prosciutto atau jamón kelas atas untuk camilan, lalu menyimpan sisa irisannya di kulkas hanya untuk mendapatinya menjadi kering, keras, dan menguning beberapa hari kemudian? 🥓
 
-Prosciutto dan jamón melalui proses penggaraman dan pengeringan panjang yang menurunkan aktivitas air ($A_w < 0,85$) untuk menekan bakteri. Namun, karena kaya akan asam lemak tak jenuh, paparan oksigen dengan cepat memicu reaksi peroksidasi lipid (auto-oksidasi). Reaksi ini mengoksidasi mioglobin, menyebabkan warna kekuningan, bau tengik, dan tekstur keras.
+Prosciutto dan jamón melalui proses penggaraman dan pengeringan panjang yang menurunkan aktivitas air (aktivitas air (Aw) < 0,85) untuk menekan bakteri. Namun, karena kaya akan asam lemak tak jenuh, paparan oksigen dengan cepat memicu reaksi peroksidasi lipid (auto-oksidasi). Reaksi ini mengoksidasi mioglobin, menyebabkan warna kekuningan, bau tengik, dan tekstur keras.
 
 Dalam panduan ini, kami membagikan panduan penyimpanan daging asap 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️
 
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan daging asap 3 langkah ber
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & EFSA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & EFSA & MFDS.
     </p>
   </div>
 </div>

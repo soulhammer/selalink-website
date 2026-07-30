@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Niemals im normalen Kühlschrank lagern — Schnelle Stärkerekristallisation verhindern ❌🍞"
     text: "Bei Kühlschranktemperaturen (1–6 °C) geben die Stärkemoleküle im Brot Feuchtigkeit ab und ordnen sich zu einer starren Struktur an, was das Altbackenwerden beschleunigt. 💡 Lagerungstipp: Im Kühlschrank ausgetrocknetes Brot wird auch durch Erwärmen nicht wieder fluffig. Wählen Sie Raumtemperatur oder sofortiges Einfrieren."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FSA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FSA & MFDS.
     </p>
   </div>
 </div>

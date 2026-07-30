@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chia_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde en recipientes opacos e impermeables a la luz (frascos ámbar) — Bloquear UV y oxígeno 🫙"
     text: "Pase la chía a frascos de vidrio ámbar, recipientes opacos o bolsas con sellado hermético. 💡 Consejo de almacenamiento: Cerrar bien el envase bloquea la entrada de oxígeno y radiación UV, evitando el aumento del índice de peróxidos (PV)."
@@ -38,7 +38,7 @@ En esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, prese
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

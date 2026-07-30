@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/grapefruit_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envelopper chaque pamplemousse individuellement dans du papier — Contrôle de l'humidité 🗞️"
     text: "Protéger l'écorce de l'humidité et des frottements est la première étape. 💡 Astuce de conservation : Enveloppez les fruits secs non lavés dans du papier journal ou absorbant pour réguler l'humidité."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation du pamplemousse en 3 éta
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter $A_w < 0,65$ e controle de pragas 🫙"
+  - name: "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter atividade de água (Aw) < 0,65 e controle de pragas 🫙"
     text: "Transfira imediatamente as lentilhas secas para potes de vidro ou recipientes herméticos com um sachê de sílica gel. 💡 Dica de conservação: Controlar a umidade abaixo de 10–12% mantém a atividade de água $< 0,65$, eliminando o risco de fungos e carunchos."
   - name: "Guarde em local fresco e escuro (15–20 °C) — Armazenamento em despensa seca (1–2 anos) 🚪"
     text: "Conserve os potes herméticos em um armário de cozinha fresco e escuro. 💡 Dica de conservação: Em um ambiente seco de 15 a 20 °C, as lentilhas preservam seus nutrientes e cor sem perda de qualidade por 1 a 2 anos."
@@ -25,7 +25,7 @@ faqs:
 
 As lentilhas (lentils) são um superalimento mundialmente famoso, repleto de proteínas vegetais, fibras e ferro! 🫘
 
-As lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água ($A_w$) abaixo de 0,65 é essencial para bloquear fungos e pragas.
+As lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água (atividade de água (Aw)) abaixo de 0,65 é essencial para bloquear fungos e pragas.
 
 Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter suas lentilhas seguras, frescas e livres de toxinas. 🛡️
 
@@ -38,7 +38,7 @@ Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um m
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ Neste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um m
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter $A_w < 0,65$ e controle de pragas 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter atividade de água (Aw) < 0,65 e controle de pragas 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Transfira imediatamente as lentilhas secas para potes de vidro ou recipientes herméticos com um sachê de sílica gel. 💡 Dica de conservação: Controlar a umidade abaixo de 10–12% mantém a atividade de água $< 0,65$, eliminando o risco de fungos e carunchos.

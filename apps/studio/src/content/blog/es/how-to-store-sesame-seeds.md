@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Guarde en frascos oscuros o recipientes opacos para bloquear oxígeno — Barrera contra luz y aire 📦"
     text: "Bloquear oxígeno y luz simultáneamente es el primer paso contra el enranciamiento. 💡 Consejo de almacenamiento: Deje enfriar por completo el sésamo tostado, páselo a frascos oscuros o envases opacos con una bolsa de desecante de sílice y selle herméticamente."
@@ -38,7 +38,7 @@ El sésamo es un condimento con un alto contenido de grasa (más del 50 % de ác
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

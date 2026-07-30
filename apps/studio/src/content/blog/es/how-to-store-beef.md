@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beef_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA</strong>"
+authority: "MFDS & USDA"
 steps:
   - name: "Seque completamente el líquido y la sangre superficial — Evite malos olores y descomposición 🥩"
     text: "El líquido o jugo exudado en la superficie de la carne genera olores fuertes y sirve como cultivo ideal para bacterias de descomposición. 💡 Consejo de almacenamiento: Justo antes de cocinar o guardar, presione firmemente con toallas de papel sobre la carne para absorber todo el exceso de humedad, frenando el desarrollo microbiano."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por l
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & USDA</strong>.
+      Este contenido se basa en MFDS & USDA.
     </p>
   </div>
 </div>

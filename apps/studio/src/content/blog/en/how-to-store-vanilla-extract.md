@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_extract_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Store in a cool, dark pantry away from sunlight — Ambient Storage (Indefinite) 🏺"
     text: "Thanks to its high alcohol content, pure vanilla extract can be stored almost indefinitely at room temperature. 💡 Storage Tip: Keep it in a cool, dark pantry or cabinet away from heat and sunlight at 15–24°C (60–75°F). It preserves its deep vanilla profile for years."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step vanilla extract storage gui
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS & RDA</strong>.
+      This content is based on FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

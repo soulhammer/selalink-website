@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "소금물로 어두운 곳에서 해감하기 — 해감 & 불순물 배출 🌊"
     text: "바지락 등은 바닷물 농도(약 3%, 물 1L당 소금 30g)의 소금물에 담그고 쇠숟가락을 넣은 뒤 검은 비닐을 덮어 어둡고 서늘한 곳(냉장실)에서 2 ~ 3시간 해감해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

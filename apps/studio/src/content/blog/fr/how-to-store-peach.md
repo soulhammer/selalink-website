@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Faire mûrir à température ambiante fraîche — Maximiser la douceur et l'arôme 📦"
     text: "Laissez les pêches fermes mûrir naturellement à température ambiante fraîche (15–20 °C) à l'abri du soleil pendant 1 à 3 jours. 💡 Astuce de conservation : Évitez qu'elles ne se touchent et attendez qu'elles deviennent légèrement souples sous les doigts."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes pour préserver
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

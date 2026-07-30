@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "茶色・紫色の遮光ガラス瓶に保存する — 光酸化遮断 📦"
     text: "ターメリックパウダーや乾燥ウコンは、紫外線や可視光線を遮る茶色や紫色の遮光ガラス瓶、または不透明な密閉容器に入れて保存します。💡保存のコツ：透明な容器を使うと光によってクルクミン構造が分解されるため、光を完全に遮る遮光容器を使うことが絶対条件です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

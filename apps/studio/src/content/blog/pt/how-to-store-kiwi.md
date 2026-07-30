@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Amadureça kiwis duros em temperatura ambiente (18–22 °C) — Amadurecimento (3–7 dias) 🧺"
     text: "Mantenha os kiwis firmes em temperatura ambiente fresca até cederem levemente à pressão do polegar. 💡 Dica de conservação: Para acelerar o amadurecimento, feche os kiwis duros em um saco de papel com uma maçã ou banana. O etileno deixará as frutas doces em 2 a 3 dias."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de amadurecimento e conservação em 3 etapas r
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Este conteúdo baseia-se em RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

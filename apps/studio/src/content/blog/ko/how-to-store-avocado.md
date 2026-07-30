@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑"
     text: "단단하고 덜 익은 아보카도는 15 ~ 20℃의 상온에서 보관해야 정상적으로 후숙됩니다. 💡 보관 팁: 아보카도를 종이봉투에 넣고 사과나 바나나를 함께 넣어두면, 이들 과일에서 방출되는 에틸렌 가스가 밀집되어 아보카도의 숙성 속도를 훨씬 빠르고 안정적으로 당겨줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>CAC & USDA & MFDS</strong>에 기반하고 있습니다.
+      본 콘텐츠는 CAC & USDA & MFDS에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "장과 장 사이에 종이호일 끼우기 — 겹침 방지 구분 얇은막 📄"
     text: "토르티야가 서로 붙지 않게 만드는 핵심 비법입니다. 💡 보관 팁: 토르티야 한 장을 깔고 그 위에 토르티야 크기에 맞게 잘라둔 종이호일(유지시/유선지)을 한 장 덮은 뒤, 다시 토르티야를 올리는 방식으로 차곡차곡 쌓아주세요. 종이호일이 물리적 수분 전달을 차단하여 냉동 후에도 한 장씩 쏙쏙 잘 떨어집니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oat_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Almacene los envases cerrados en un lugar fresco a temperatura ambiente (15–25 °C) — Conservación sin abrir (Hasta fecha de caducidad) 📦"
     text: "Los envases UHT asépticos cerrados pueden guardarse a temperatura ambiente. 💡 Consejo de almacenamiento: Mantenga en un lugar fresco y seco, lejos de la luz solar directa. Mantener la temperatura por debajo de 25 °C evita la degradación del almidón."
@@ -38,7 +38,7 @@ En esta guía, basada en datos científicos de la USDA, la FDA y la MFDS, presen
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

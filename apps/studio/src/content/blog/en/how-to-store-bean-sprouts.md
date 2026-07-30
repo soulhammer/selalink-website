@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bean_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Sort damaged stems and rinse gently — Remove Decay Sources 📦"
     text: "Blackened or mushy stems accelerate decay in surrounding healthy sprouts. 💡 Storage Tip: Pick out bruised stems, gently rinse under cold running water to remove loose hulls and debris."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide recommend
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

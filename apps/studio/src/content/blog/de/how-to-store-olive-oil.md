@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>IOC & USDA & MFDS</strong>"
+authority: "IOC & USDA & MFDS"
 steps:
   - name: "Niemals im Kühlschrank lagern — Erstarrung & Aromaverlust verhindern ❌❄️"
     text: "Das Lagern von Olivenöl im Kühlschrank lässt die Fettsäuren zu einer butterartigen weißen Masse erstarren. 💡 Lagerungstipp: Wiederholtes Verflüssigen und Festwerden zerstört feine Fruchtaromen und Polyphenole. Die optimale Temperatur liegt bei kühlen 14–18 °C Raumtemperatur."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>IOC & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf IOC & USDA & MFDS.
     </p>
   </div>
 </div>

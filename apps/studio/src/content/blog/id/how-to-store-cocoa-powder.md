@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Simpan dalam wadah kedap udara yang buram — Penyegelan Sempurna 🫙"
     text: "Musuh utama bubuk kakao adalah kelembapan udara dan cahaya. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan asli ke toples kaca buram, wadah stainless steel, atau kantong Ziploc kedap cahaya, lalu tutup rapat."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan bubuk kakao berbasis ilmi
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & EFSA & MFDS</strong>.
+      Konten ini didasarkan pada FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

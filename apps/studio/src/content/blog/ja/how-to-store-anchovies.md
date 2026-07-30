@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "湿気を取り除き小分けする — 生臭さ除去＆湿気遮断 📦"
     text: "煮干しの表面に湿気を感じる場合は、油を敷かずにフライパンで弱火で1〜2分軽く乾煎りして水分を飛ばします。💡保存のコツ：熱を完全に冷ましてから、1回のお料理で使う分量ずつポリ袋やチャック付き袋に小分けします。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Étaler du sucre et de l'essuie-tout au fond de la boîte pour l'ail épluché — Réfrigération (14–21 jours) 🪙"
     text: "L'ail épluché pourrit très vite s'il reste en contact avec l'eau. 💡 Astuce de conservation : Versez 1 cm de sucre au fond d'une boîte hermétique, recouvrez de 2 à 3 feuilles d'essuie-tout et déposez l'ail épluché. Le sucre capte l'humidité et maintient la surface de l'ail bien sèche."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur RDA & MFDS & USDA.
     </p>
   </div>
 </div>

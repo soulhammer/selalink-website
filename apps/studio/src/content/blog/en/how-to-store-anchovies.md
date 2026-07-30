@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Dry-roast briefly and portion — Remove Moisture & Odors 📦"
     text: "If anchovies feel slightly damp, dry-roast them in a pan without oil over low heat for 1–2 minutes to evaporate excess moisture. 💡 Storage Tip: Allow them to cool completely before portioning into single-meal plastic bags or Ziploc pouches."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step anchovy storage guide r
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NIFS & USDA & MFDS</strong>.
+      This content is based on NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

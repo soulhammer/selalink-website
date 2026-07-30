@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Faire mûrir les kiwis durs à température ambiante (18–22 °C) — Mûrissage ambiant (3–7 jours) 🧺"
     text: "Conservez les kiwis fermes à température ambiante fraîche jusqu'à ce qu'ils cèdent sous une légère pression du pouce. 💡 Astuce de conservation : Pour accélérer le mûrissage, fermez les kiwis dans un sachet en papier avec une pomme ou une banane. L'éthylène les rendra bien sucrés en 2 à 3 jours."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de mûrissage et de conservation en 3 ét
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      Ce contenu est basé sur RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

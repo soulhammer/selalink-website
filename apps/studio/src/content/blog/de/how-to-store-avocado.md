@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Raumtemperatur (5 Tage) 🥑"
     text: "Feste, unreife Avocados müssen bei Raumtemperatur (15–20 °C) gelagert werden, um normal nachzureifen. 💡 Lagerungstipp: Legen Sie die Avocados zusammen mit einem Apfel oder einer Banane in eine Papiertüte. Das austretende Ethylengas sammelt sich in der Tüte und beschleunigt sowie stabilisiert den Reifungsprozess."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>CAC & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf CAC & USDA & MFDS.
     </p>
   </div>
 </div>

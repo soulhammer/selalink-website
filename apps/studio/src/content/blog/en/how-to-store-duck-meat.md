@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/duck_meat_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wipe dry and vacuum packaging — Oxygen-Blocking Seal 📦"
     text: "Wipe surface moisture and blood thoroughly with paper towels, then seal completely using a vacuum sealer or tight wrapping. 💡 Storage Tip: Vacuum packaging blocks oxygen ingress, fundamentally suppressing autoxidation of unsaturated fatty acids and peroxide formation."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step duck meat storage gui
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

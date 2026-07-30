@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau ($A_w < 0,60$) 📦"
-    text: "Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau ($A_w$) sous 0,60 bloque les amylases et les germes."
+  - name: "Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau (activité de l'eau (Aw) < 0.60) 📦"
+    text: "Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,60 bloque les amylases et les germes."
   - name: "Conserver dans un placard frais et sombre sous 10–15 °C — Placard Frais (1–2 ans) 🧺"
     text: "Gardez l'orge à l'abri de la lumière et de la chaleur pour ralentir les réactions enzymatiques. 💡 Astuce de conservation : Rangez les boîtes dans un placard sombre sous 10–15 °C loin de la cuisinière pour préserver le $\beta$-glucane pendant 1 à 2 ans."
   - name: "Réfrigérer lors des saisons humides ou pour le stockage à grande échelle — Conservation au Frais (2 ans et plus) ❄️"
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">ÉTAPE 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau ($A_w < 0,60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau (activité de l'eau (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau ($A_w$) sous 0,60 bloque les amylases et les germes.
+    Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,60 bloque les amylases et les germes.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Évitez la forte humidité et les températures élevées ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Une forte humidité et la chaleur accélèrent la dégradation de l'amidon de l'orge et augmentent le risque de mycotoxines. Maintenez le taux d'humidité sous 12 % et l'activité de l'eau ($A_w < 0,60$) dans un endroit sec.
+      Une forte humidité et la chaleur accélèrent la dégradation de l'amidon de l'orge et augmentent le risque de mycotoxines. Maintenez le taux d'humidité sous 12 % et l'activité de l'eau (activité de l'eau (Aw) < 0.60) dans un endroit sec.
     </p>
   </div>
 </div>

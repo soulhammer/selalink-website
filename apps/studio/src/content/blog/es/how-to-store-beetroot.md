@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Corte las hojas superiores dejando unos 2 cm de tallo — Bloqueo de pérdida de humedad y nutrientes ✂️"
     text: "Detener la transpiración de las hojas es el primer paso crucial. 💡 Consejo de almacenamiento: Cortar los tallos al ras del bulbo provoca heridas que sangran jugo de betacianina. Deje 2 cm de tallo para sellar las vías de pérdida de agua y nutrientes."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de la remolacha en 3 pasos 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

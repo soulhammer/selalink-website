@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Sisipkan kertas roti (baking paper) di antara setiap lembar tortilla — Lapisan Pembatas Anti-Lengket 📄"
     text: "Kunci utama mencegah tortilla saling menempel. 💡 Tips Penyimpanan: Letakkan satu lembar tortilla, tutupi dengan selembar kertas roti yang dipotong sesuai ukuran, lalu tumpuk tortilla berikutnya. Kertas menahan perpindahan air sehingga tortilla mudah diambil satu per satu setelah dibekukan."
@@ -38,7 +38,7 @@ Tortilla memiliki kadar air sekitar 25–35%. Begitu dibuka, paparan udara memic
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

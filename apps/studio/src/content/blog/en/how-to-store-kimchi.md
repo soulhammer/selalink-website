@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kimchi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>WiKim & RDA & MFDS</strong>"
+authority: "WiKim & RDA & MFDS"
 steps:
   - name: "Press down with a pressing plate (or plastic wrap) to block air — Maintain Anaerobic Conditions 📦"
     text: "Lactic acid bacteria (Leuconostoc, Lactobacillus) responsible for kimchi fermentation thrive in anaerobic (oxygen-free) environments, while film-forming yeasts require oxygen to grow. 💡 Storage Tip: Fill the container only up to 80% capacity, then press down firmly on the top using a presser plate, plastic wrap, or outer cabbage leaves so that the kimchi remains fully submerged under its juice. Completely blocking air prevents oxidation and white yeast film."
@@ -38,7 +38,7 @@ In this guide, based on scientific facts verified by the World Institute of Kimc
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>WiKim & RDA & MFDS</strong>.
+      This content is based on WiKim & RDA & MFDS.
     </p>
   </div>
 </div>

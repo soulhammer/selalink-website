@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/napa_cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "清理外叶并用报纸或厨房纸巾包裹 — 湿度调节与防干 📰"
     text: "剥离枯黄受损的外叶，用干燥的报纸或厨房纸巾包裹整颗白菜，防止水分蒸发并吸收多余湿气。💡储存小贴士：外层坚韧的绿色大叶可充当天然保护膜，保留内部水分与甜度。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

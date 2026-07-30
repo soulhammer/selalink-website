@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/curry_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "빛을 차단하는 불투명 밀폐 용기에 담기 — 광분해 및 향 증발 차단 🫙"
     text: "커큐민의 광분해와 휘발성 테르펜 정유의 증발을 막는 첫 번째 단계입니다. 💡 보관 팁: 개봉 후에는 투명한 유리병이나 원래 비닐 봉지째 두지 말고, 캔 용기, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담아 공기를 빼고 단단히 밀봉하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

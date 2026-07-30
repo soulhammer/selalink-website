@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Fermer hermétiquement et réfrigérer à 0–5 °C après ouverture — Stockage froid (6–12 mois) ❄️"
     text: "Si le pot fermé se garde à température ambiante, l'ouverture amorce son altération. 💡 Astuce de conservation : Nettoyez les bords du pot, fermez hermétiquement le couvercle et conservez entre 0 et 5 °C au réfrigérateur pour bloquer la surf fermentation et le noircissement."
@@ -36,7 +36,7 @@ Bien qu'il s'agisse d'un produit fermenté salé, l'ouverture l'expose à l'oxyg
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & KFRI & USDA</strong>.
+      Ce contenu est basé sur MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

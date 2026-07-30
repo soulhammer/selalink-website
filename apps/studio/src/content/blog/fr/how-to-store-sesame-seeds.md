@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Stocker dans des bocaux sombres ou boîtes opaques — Barrière air et lumière 📦"
     text: "Bloquer simultanément l'oxygène et la lumière est le premier pas contre le rancissement. 💡 Astuce de conservation : Laissez refroidir le sésame grillé, transvasez dans un bocal en verre foncé ou un récipient opaque avec un sachet de silice et fermez hermétiquement."
@@ -38,7 +38,7 @@ Le sésame est un condiment riche en graisse (plus de 50 % d'acides gras insatur
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

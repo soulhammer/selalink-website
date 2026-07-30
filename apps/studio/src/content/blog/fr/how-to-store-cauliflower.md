@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cauliflower_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envelopper la tête non lavée dans du papier absorbant — Contrôle de l'Humidité 📦"
     text: "Éliminez la poussière sans laver et enveloppez le chou-fleur dans du papier absorbant. 💡 Astuce de conservation : Laisser les feuilles extérieures aide à retenir l'humidité. Le papier absorbe l'excès d'eau et évite le dessèchement."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

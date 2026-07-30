@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ginger_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "泥を払い落としてキッチンペーパーで包む — 湿気調整と短期保存 (1〜2週間) 📦"
     text: "表面の余分な湿気を抑えつつ乾燥を防ぐことが重要です。💡保存のコツ：洗わずに泥を軽く払い落とし、1塊ずつキッチンペーパーや新聞紙で包んで涼しい常温（10〜15℃）または冷蔵庫の野菜室で保存します。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

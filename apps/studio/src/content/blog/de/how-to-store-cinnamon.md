@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cinnamon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "In lichtundurchlässige, luftdichte Behälter (Glas/Metall/PP) füllen — Verflüchtigung & Feuchtigkeit stoppen 🫙"
     text: "Füllen Sie Zimtstangen oder Zimtpulver sofort in Braungläser, Metalldosen oder opaque Zip-Beutel um. 💡 Lagerungstipp: Dichtes Verschließen verhindert das Verflüchtigen von Cinnamaldehyd und blockiert Feuchtigkeit."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien vo
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

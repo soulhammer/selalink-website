@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canola_sunflower_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Guarde em armário escuro longe do calor (15–20 °C) — Armazenamento a temp. ambiente fresca (1–2 anos fechado / 3–6 meses aberto) 🌡️"
     text: "Bloquear calor e luz mantendo a temperatura em 15–20 °C é fundamental. 💡 Dica de conservação: Guarde as garrafas em um armário inferior e escuro longe do fogão. O óleo fechado dura de 1 a 2 anos; aberto deve ser usado em 3 a 6 meses."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação de óleos de canola e girassol
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & EFSA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde as latas fechadas em local fresco e seco — Temperatura ambiente (2–5 anos) 📦"
     text: "O atum em lata fechado é esterilizado por calor e dura anos. 💡 Dica de conservação: Mantenha as latas em local fresco e seco (15-20 °C). Ao abrir a lata, espere cerca de 5 minutos antes de consumir para permitir que o gás furano volátil se dissipe no ar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretr
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Ne pas laver avant le moment de consommer — Préserver la pruine naturelle 🫐"
     text: "La poudre blanche qui recouvre les myrtilles est la 'Pruine' (Bloom), une cire naturelle sécrétée par le fruit. Elle constitue un rempart essentiel contre la déshydratation, les insectes et les moisissures. 💡 Astuce de conservation : Laver les fruits avant le stockage enlève la pruine et modifie la pression osmotique de la chair, les ramollissant vite. Les garder sec est la règle numéro un."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & RDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & RDA & MFDS.
     </p>
   </div>
 </div>

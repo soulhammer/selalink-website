@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lamb_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Lap sisa darah lalu bungkus rapat dengan plastik wrap — Keringkan Cairan & Tahan Oksigen 📦"
     text: "Cairan darah di permukaan merupakan penyebab utama bau dan pembusukan, sementara paparan oksigen mengoksidasi lemak. 💡 Tips Penyimpanan: Lap permukaan dengan tisu dapur, lalu bungkus setiap potongan daging secara rapat dengan plastik wrap tanpa ada rongga udara untuk mencegah perubahan warna dan dehidrasi."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>"
+authority: "食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)"
 steps:
   - name: "絶対に水洗いしない — 天然保護膜（クチクラ）の維持と冷蔵保存 (45日) 💧"
     text: "卵殻には7,000〜17,000個の微細な気孔が存在します。💡保存のコツ：水洗いすると外壁の保護膜であるクチクラが傷つき、浸透圧によって水分が抜け、細菌（サルモネラ菌など）が内部に侵入します。表面の汚れは水で洗わず乾いた布で軽く拭き取ってください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)に基づいています。
     </p>
   </div>
 </div>

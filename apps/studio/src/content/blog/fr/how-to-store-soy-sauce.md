@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & Association Japonaise de Sauce Soja (JSA) & USDA</strong>"
+authority: "MFDS & Association Japonaise de Sauce Soja (JSA) & USDA"
 steps:
   - name: "Réfrigérer (0–5 °C) immédiatement après ouverture — Stockage réfrigéré (180–360 jours) ❄️"
     text: "Avant ouverture, la sauce soja se conserve au placard, mais l'ouvrir accélère l'oxydation. 💡 Astuce de conservation : Placez la bouteille ouverte au réfrigérateur (0–5 °C). Le froid ralentit fortement l'oxydation, préservant son arôme riche et son umami de 6 mois à plus d'un an."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & Association Japonaise de Sauce Soja (JSA) & USDA</strong>.
+      Ce contenu est basé sur MFDS & Association Japonaise de Sauce Soja (JSA) & USDA.
     </p>
   </div>
 </div>

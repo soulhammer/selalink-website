@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>国立水産科学院(NIFS) & 農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "国立水産科学院(NIFS) & 農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "内臓除去と血合いの処理 — 自己分解と生臭さの遮断 🔪"
     text: "サバのエラと内臓を取り除き、背骨の周りにある血塊や黒い膜を流水できれいに洗い流します。💡保存のコツ：内臓周辺は最も傷みやすい部分です。処理後にキッチンペーパーで内部と外部の水分を完全に取り除くことが、生臭さと雑菌の繁殖を防ぐ第一歩です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>国立水産科学院(NIFS) & 農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、国立水産科学院(NIFS) & 農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

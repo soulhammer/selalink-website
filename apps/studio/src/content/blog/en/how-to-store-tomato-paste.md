@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tomato_paste_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Transfer to a glass container & seal with olive oil — Oxygen & Oxidation Barrier 📦"
     text: "Minimizing contact with air is key to preventing spoilage. 💡 Storage Tip: Transfer leftover paste from the can into a clean glass jar or container, smooth the top flat, and pour a thin layer of extra virgin olive oil over it. The oil acts as a natural seal against oxygen and mold."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Selle en una bolsa Ziploc en posición plana tras abrir — Barrera de humedad y prevención de grietas 📦"
     text: "Proteger la estructura del almidón de las variaciones de humedad es el primer paso vital. 💡 Consejo de almacenamiento: El envase original deja entrar aire tras abrirlo. Pase las hojas a una bolsa Ziploc hermética o recipiente rígido en posición plana y cierre bien."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación del papel de arroz en 3 pas
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & EFSA & MFDS</strong>.
+      Este contenido se basa en FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

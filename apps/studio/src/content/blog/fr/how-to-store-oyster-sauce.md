@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Nettoyer le goulot et le bouchon après usage — Éviter les moisissures 🧻"
     text: "Les résidus de sauce autour du goulot absorbent l'humidité de l'air et deviennent un nid à moisissures. 💡 Astuce de conservation : Essuyez soigneusement le goulot avec un essuie-tout propre juste après usage et fermez hermétiquement. Cela empêche les germes de pénétrer."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & MFDS & RDA & USDA</strong>.
+      Ce contenu est basé sur FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

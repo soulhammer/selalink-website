@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)"
 steps:
   - name: "带泥不洗，用报纸或纸袋单独包裹 — 100%遮光防毒 📦"
     text: "土豆暴露在光线（直射阳光或荧光灯）下会进行光合作用，表皮变绿并生成有毒的龙葵素。💡储存小贴士：保持带泥状态（泥土起天然保湿作用），用报纸或不透明的牛皮纸袋将土豆单独包裹，彻底阻断光源。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA) & 英国食品标准局(FSA)。
     </p>
   </div>
 </div>

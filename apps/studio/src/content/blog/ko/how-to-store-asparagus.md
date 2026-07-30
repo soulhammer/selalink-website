@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/asparagus_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터"
 steps:
   - name: "밑동을 잘라 물을 담은 용기에 세워 넣기 — 꽃병 방식 보관 🥛"
     text: "아스파라거스는 밑동을 통해 수분을 지속적으로 공급받아야 아삭함이 유지됩니다. 💡 보관 팁: 밑동 끝을 0.5 ~ 1cm 잘라낸 후, 물을 1 ~ 2cm 정도 채운 유리병이나 길쭉한 용기에 아스파라거스를 수직으로 세워 꽂아주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터에 기반하고 있습니다.
     </p>
   </div>
 </div>

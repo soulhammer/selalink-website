@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Lap mulut dan tutup botol hingga bersih setelah dipakai — Cegah Kontaminasi & Jamur 🧻"
     text: "Sisa saus di sekitar mulut botol menyerap kelembapan udara dan menjadi sarang jamur. 💡 Tips Penyimpanan: Lap mulut botol hingga bersih dengan tisu dapur segera setelah digunakan dan tutup rapat. Langkah ini mencegah kuman masuk ke dalam."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan saus tiram 3 langkah berb
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>FDA & MFDS & RDA & USDA</strong>.
+      Konten ini didasarkan pada FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

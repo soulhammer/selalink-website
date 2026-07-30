@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mushroom_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Never wash with water before storage — Prevent Water Absorption & Breakdown ❌💧"
     text: "Mushrooms have a porous structure that absorbs moisture instantly. 💡 Storage Tip: Washing mushrooms before storage causes cells to become waterlogged, destroying their chewy texture and guanylic acid umami flavor while accelerating mold growth. Gently wipe off dirt with a dry cloth or soft brush right before cooking."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on reco
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & MFDS & USDA</strong>.
+      This content is based on RDA & MFDS & USDA.
     </p>
   </div>
 </div>

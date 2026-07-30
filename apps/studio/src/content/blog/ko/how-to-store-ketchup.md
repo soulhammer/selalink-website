@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 전 상온, 개봉 후 즉시 냉장 보관하기 — 개봉 후 냉장 보관 (180일) ❄️"
     text: "개봉 전에는 직사광선을 피한 서늘한 상온(팬트리)에 보관 가능하지만, 개봉 후에는 산소 유입으로 갈변과 맛의 저하가 진행됩니다. 💡 보관 팁: 개봉한 케찹은 반드시 냉장 보관해야 하며, 개봉 후 6개월(180일) 이내에 소비하는 것이 가장 신선하고 맛이 좋습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

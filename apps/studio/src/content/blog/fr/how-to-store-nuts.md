@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Sceller et conserver au réfrigérateur ou au congélateur après ouverture — Stockage (90 jours au réfrigérateur, 180 jours au congélateur) ❄️"
     text: "Laisser les fruits secs à température ambiante chaude oxyde rapidement les acides gras et risque de créer de l'aflatoxine. 💡 Astuce de conservation : Rangez les sachets ouverts bien scellés au réfrigérateur (0–4 °C) jusqu'à 3 mois ou au congélateur (-18 °C) pendant plus de 6 mois."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA & FDA</strong>.
+      Ce contenu est basé sur MFDS & USDA & FDA.
     </p>
   </div>
 </div>

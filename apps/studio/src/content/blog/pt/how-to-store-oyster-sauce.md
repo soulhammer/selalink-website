@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oyster_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & RDA & USDA</strong>"
+authority: "FDA & MFDS & RDA & USDA"
 steps:
   - name: "Limpe o gargalo e a tampa após usar — Evite contaminação e mofo 🧻"
     text: "Resíduos de molho na boca do frasco reagem com a umidade do ar e viram foco de mofo. 💡 Dica de conservação: Limpe bem o gargalo com papel-toalha limpo após o uso e feche bem. Isso impede a entrada de germes no molho."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação do molho de ostra em 3 etapas 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & MFDS & RDA & USDA</strong>.
+      Este conteúdo baseia-se em FDA & MFDS & RDA & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "傷んだ外葉の除去と表面の水分拭き取り — 下処理と清潔保持 🥬"
     text: "購入後、黄色く変色したり傷んだ外葉を取り除き、乾いたキッチンペーパーで表面の水分を優しく拭き取ります。💡保存のコツ：外葉の傷みが内側に広がるのを防ぎ、水分をコントロールすることが鮮度保持の第一歩です。芯の切り口は切らずにそのままにしておく方が水分蒸発を防げます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

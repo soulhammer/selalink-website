@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Transfiera a un recipiente hermético para minimizar el contacto con el aire — Prevención de contaminación 📦"
     text: "Dejar la salsa en su lata o frasco original abierto permite la entrada de aire y aumenta el riesgo de contaminación. 💡 Consejo de almacenamiento: Pase la salsa restante a un recipiente hermético limpio y seco (de vidrio o plástico apto para alimentos) y cierre bien. Reducir la exposición al aire preserva su frescura."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>

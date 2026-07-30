@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/shrimp_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "In leichtem Salzwasser spülen und gründlich trocknen — Frischeschutz 📦"
     text: "Schwenken Sie die Garnelen vorsichtig in Salzwasser (1 EL Salz pro Liter) und tupfen Sie sie mit Küchenpapier trocken. 💡 Lagerungstipp: Die Salinität schützt vor Geschmacksverlust und verlangsamt die Oxidation."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen von Experten empfohlenen 3-Schritte-Ratgeb
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

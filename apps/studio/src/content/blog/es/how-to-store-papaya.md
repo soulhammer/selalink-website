@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/papaya_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Madure la papaya verde a temperatura ambiente (18 a 25 °C) — Maduración 🥭"
     text: "Mantenga la papaya verdosa en un lugar fresco, bien ventilado y sin luz solar directa (18–25 °C). 💡 Consejo de almacenamiento: La papaya alcanza su punto óptimo cuando el 70–80% de la piel es amarilla. Para acelerar la maduración, colóquela en una bolsa de papel con una manzana o plátano."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & RDA & MFDS</strong>.
+      Este contenido se basa en USDA & RDA & MFDS.
     </p>
   </div>
 </div>

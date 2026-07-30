@@ -8,7 +8,7 @@
             "ko": {
                 "title": "보리 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 보리의 최적 보관 온도, 베타글루칸 보존 및 수분 활성도 통제를 통한 아밀라아제 효소 불활성화 가이드를 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "밀, 쌀, 옥수수에 이어 전 세계에서 가장 많이 소비되는 4대 곡물 중 하나로, 구수한 보리밥부터 건강 음료, 차, 빵까지 다양하게 활용되는 보리! 하지만 대량으로 사두었다가 습기가 차서 눅눅해지거나 쌀벌레가 생겨 버린 경험 다들 있으시죠? 🌾\n\n보리에 풍부하게 함유된 대표 수용성 식이섬유 **베타글루칸($\\beta$-glucan)** 성분과 전분 구조는 높은 습도에 노출될 경우 자체 보유한 알파/베타-아밀라아제($\\alpha$/$\\beta$-amylase) 효소가 급격히 활성화됩니다. 이로 인해 전분의 자가 분해가 일어나 영양소가 손실되고, 수분 활성도가 높아져 곰팡이독소 발생 및 해충 번식의 원인이 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 보리의 수분 함량과 수분 활성도를 엄격히 통제하여 고소한 맛과 영양을 오래 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -21,13 +21,13 @@
                     },
                     {
                         "title": "습도가 높고 온도가 상승하는 장소를 피하세요 ☀️",
-                        "desc": "상대습도가 높거나 온도가 오르면 보리의 전분 분해 속도가 빨라지고 곰팡이독소가 생성될 위험이 커집니다. 반드시 수분 함량 12% 이하, 수분 활성도($A_w < 0.60$) 상태를 유지하도록 건조하고 서늘한 곳에 밀폐 보관해야 합니다."
+                        "desc": "상대습도가 높거나 온도가 오르면 보리의 전분 분해 속도가 빨라지고 곰팡이독소가 생성될 위험이 커집니다. 반드시 수분 함량 12% 이하, 수분 활성도(Aw< 0.60) 상태를 유지하도록 건조하고 서늘한 곳에 밀폐 보관해야 합니다."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제($A_w < 0.60$) 📦",
-                        "text": "건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도($A_w$)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다."
+                        "name": "실리카겔을 넣고 밀폐 용기에 담기 — 수분 활성도 통제(수분 활성도(Aw) < 0.60) 📦",
+                        "text": "건조된 보리 알곡은 습기와 공기의 접촉을 차단하는 것이 핵심입니다. 💡 보관 팁: 보리를 밀폐성이 뛰어난 밀폐 용기나 페트병에 담고 식품용 건조제(실리카겔)를 함께 넣어주세요. 수분 활성도(Aw)를 0.60 미만으로 통제하면 아밀라아제 효소 작용이 억제되고 미생물 발생이 근본적으로 차단됩니다."
                     },
                     {
                         "name": "10~15℃ 이하 서늘한 암소에 실온 보관하기 — 서늘한 암소 보관 (1~2년) 🧺",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Barley Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, beta-glucan preservation, and water activity control guide for barley based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Barley is one of the world's top four cereal crops alongside wheat, rice, and corn, widely used in everything from hearty grains and bread to healthy beverages and teas! However, have you ever stored barley in bulk only to find it absorbing moisture, becoming stale, or developing grain pests? 🌾\n\nBarley is rich in **$\\beta$-glucan**, a key soluble dietary fiber, alongside a dense starch structure. When exposed to high humidity, barley's intrinsic $\\alpha$- and $\\beta$-amylase enzymes become rapidly activated. This triggers auto-hydrolysis of starches, resulting in nutrient loss, elevated water activity, mycotoxin risk, and pest proliferation.\n\nIn this guide, we introduce a scientifically proven 3-step barley storage guide based on guidelines from agricultural and food safety authorities to strictly control moisture content and water activity to preserve flavor and nutrition. 🛡️",
                 "whyTitle": "Why Store Barley This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -65,13 +65,13 @@
                     },
                     {
                         "title": "Avoid high humidity and elevated temperatures ☀️",
-                        "desc": "High relative humidity and warm temperatures accelerate starch breakdown in barley and increase the risk of mycotoxin production. Maintain moisture content below 12% and water activity ($A_w < 0.60$) in a dry, cool environment."
+                        "desc": "High relative humidity and warm temperatures accelerate starch breakdown in barley and increase the risk of mycotoxin production. Maintain moisture content below 12% and water activity (Aw< 0.60) in a dry, cool environment."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Add silica gel and store in airtight containers — Water Activity Control ($A_w < 0.60$) 📦",
-                        "text": "For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity ($A_w$) below 0.60 suppresses amylase enzyme activity and blocks microbial growth."
+                        "name": "Add silica gel and store in airtight containers — Water Activity Control (water activity (Aw) < 0.60) 📦",
+                        "text": "For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity (Aw) below 0.60 suppresses amylase enzyme activity and blocks microbial growth."
                     },
                     {
                         "name": "Store in a cool, dark pantry below 10–15°C — Cool Pantry Storage (1–2 Years) 🧺",
@@ -95,8 +95,8 @@
             },
             "ja": {
                 "title": "大麦（ボリ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく大麦の最適な保存温度、β-グルカンの保持、水分活性（$A_w$）制御によるアミラーゼ酵素不活化ガイドをご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "description": "公的安全基準に基づく大麦の最適な保存温度、β-グルカンの保持、水分活性（水分活性 (Aw)）制御によるアミラーゼ酵素不活化ガイドをご確認ください。",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "小麦、米、トウモロコシに続く世界4大穀物の一つで、香ばしい麦ご飯から健康飲料、麦茶、パンまで幅広く活用される大麦！ですが、大量に購入して保存しているうちに湿気ってしまったり、コクゾウムシ（コクゾウ）が発生して捨ててしまった経験はありませんか？🌾\n\n大麦に豊富に含まれる代表的な水溶性食物繊維**β-グルカン（$\\beta$-glucan）**成分とデンプン構造は、高い湿度に晒されると自身が持つα/β-アミラーゼ（$\\alpha$/$\\beta$-amylase）酵素が急激に活性化します。これによりデンプンの自己分解が起こり栄養素が失われ、水分活性が高くなってカビ毒の発生や害虫繁殖の原因となります。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、大麦の水分含有量と水分活性を厳格に制御し、香ばしい風味と栄養を長く守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -109,13 +109,13 @@
                     },
                     {
                         "title": "湿度が高く温度が上がる場所を避けてください ☀️",
-                        "desc": "相対湿度が高かったり温度が上がると、大麦のデンプン分解速度が早くなりカビ毒が生成されるリスクが高まります。必ず水分含有量12%以下、水分活性（$A_w < 0.60$）の状態を維持できるよう乾燥した涼しい場所で密閉保存してください。"
+                        "desc": "相対湿度が高かったり温度が上がると、大麦のデンプン分解速度が早くなりカビ毒が生成されるリスクが高まります。必ず水分含有量12%以下、水分活性（水分活性 (Aw) < 0.60）の状態を維持できるよう乾燥した涼しい場所で密閉保存してください。"
                     }
                 ],
                 "steps": [
                     {
-                        "name": "シリカゲルを入れて密閉容器に保管する — 水分活性制御（$A_w < 0.60$） 📦",
-                        "text": "乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（$A_w$）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。"
+                        "name": "シリカゲルを入れて密閉容器に保管する — 水分活性制御（水分活性 (Aw) < 0.60） 📦",
+                        "text": "乾燥した大麦の粒は、湿気と空気の接触を遮断することが最優先です。💡保存のコツ：大麦を密閉性に優れた容器やペットボトルに入れ、食品用乾燥剤（シリカゲル）を一緒に入れます。水分活性（水分活性 (Aw)）を0.60未満に制御するとアミラーゼ酵素の働きが抑制され、雑菌の発生が根本的に遮断されます。"
                     },
                     {
                         "name": "10〜15℃以下の涼しい暗所に常温保存する — 冷暗所保存 (1〜2年間) 🧺",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持大麦（Barley）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解大麦的最佳储存温度、保留β-葡聚糖及通过控制水活性使淀粉酶失活的科学方法。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "大麦是继小麦、水稻、玉米之后的全四大谷物之一，从香浓的大麦饭到健康饮料、大麦茶、面包，应用极其广泛！但您是否有过大批量购买大麦后，常温下受潮变软或长米虫的经历？🌾\n\n大麦中富含的核心水溶性膳食纤维**β-葡聚糖（$\\beta$-glucan）**成分及淀粉结构，在暴露于高湿度环境时，其自身含有的α/β-淀粉酶（$\\alpha$/$\\beta$-amylase）会被迅速激活。这会导致淀粉发生水解，造成营养流失，并使水活性升高，引发霉菌毒素与害虫滋生。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学大麦保存秘诀，严格控制水分含量与水活性，长久锁住香气与营养。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -153,13 +153,13 @@
                     },
                     {
                         "title": "避开高湿及高温环境 ☀️",
-                        "desc": "相对湿度高或温度上升会加速大麦的淀粉水解速度，增加产生霉菌毒素的风险。务必维持含水量在12%以下、水活性（$A_w < 0.60$），置于干燥阴凉处密封保存。"
+                        "desc": "相对湿度高或温度上升会加速大麦的淀粉水解速度，增加产生霉菌毒素的风险。务必维持含水量在12%以下、水活性（水活性 (Aw) < 0.60），置于干燥阴凉处密封保存。"
                     }
                 ],
                 "steps": [
                     {
-                        "name": "放入硅胶干燥剂并装入密封盒 — 控制水活性（$A_w < 0.60$） 📦",
-                        "text": "对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（$A_w$）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。"
+                        "name": "放入硅胶干燥剂并装入密封盒 — 控制水活性（水活性 (Aw) < 0.60） 📦",
+                        "text": "对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（水活性 (Aw)）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。"
                     },
                     {
                         "name": "置于10~15℃以下阴凉暗处常温保存 — 阴凉暗处保存 (1~2年) 🧺",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la cebada fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la cebada según las directrices oficiales para preservar el beta-glucano y controlar la actividad de agua.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "La cebada es uno de los cuatro cereales principales del mundo junto con el trigo, el arroz y el maíz, utilizada en sopas, panes, bebidas y tés. Sin embargo, ¿alguna vez compró cebada a granel solo para descubrir que absorbió humedad, se puso rancia o atrajo plagas? 🌾\n\nLa cebada es rica en **$\\beta$-glucano**, una fibra soluble clave, y posee una densa estructura de almidón. Al exponerse a alta humedad, las enzimas $\\alpha$- y $\\beta$-amilasa intrínsecas de la cebada se activan rápidamente. Esto desencadena la autohidrólisis del almidón, provocando pérdida de nutrientes, elevada actividad de agua y riesgo de micotoxinas y plagas.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para controlar el contenido de humedad y la actividad de agua para conservar su sabor y nutrición. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -197,13 +197,13 @@
                     },
                     {
                         "title": "Evite la alta humedad y las temperaturas elevadas ☀️",
-                        "desc": "La alta humedad relativa y el calor aceleran la descomposición del almidón en la cebada y aumentan el riesgo de micotoxinas. Mantenga el contenido de humedad por debajo del 12 % y la actividad de agua ($A_w < 0,60$) en un entorno seco y fresco."
+                        "desc": "La alta humedad relativa y el calor aceleran la descomposición del almidón en la cebada y aumentan el riesgo de micotoxinas. Mantenga el contenido de humedad por debajo del 12 % y la actividad de agua (actividad de agua (Aw) < 0.60) en un entorno seco y fresco."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua ($A_w < 0,60$) 📦",
-                        "text": "Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua ($A_w$) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos."
+                        "name": "Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua (actividad de agua (Aw) < 0.60) 📦",
+                        "text": "Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos."
                     },
                     {
                         "name": "Guarde en una despensa fresca y oscura por debajo de 10–15 °C — Almacenamiento en Despensa (1 a 2 años) 🧺",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver l'orge fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'orge selon les directives officielles pour préserver le bêta-glucane et contrôler l'activité de l'eau.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "L'orge fait partie des quatre principales céréales mondiales avec le blé, le riz et le maïs, utilisée dans les soupes, les pains, les boissons et les infusions ! Cependant, vous est-il déjà arrivé d'acheter de l'orge en quantité pour constater qu'elle devenait humide, rance ou attirait les insectes ? 🌾\n\nL'orge est riche en **$\\beta$-glucane**, une fibre soluble essentielle, et possède une structure d'amidon dense. Lorsqu'elle est exposée à une forte humidité, les enzymes $\\alpha$- et $\\beta$-amylases intrinsèques de l'orge s'activent rapidement. Cela déclenche l'autohydrolyse de l'amidon, entraînant une perte de nutriments, une activité de l'eau élevée et un risque de mycotoxines.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée sur les recommandations officielles pour contrôler le taux d'humidité et l'activité de l'eau afin de préserver sa saveur et ses nutriments. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -241,13 +241,13 @@
                     },
                     {
                         "title": "Évitez la forte humidité et les températures élevées ☀️",
-                        "desc": "Une forte humidité et la chaleur accélèrent la dégradation de l'amidon de l'orge et augmentent le risque de mycotoxines. Maintenez le taux d'humidité sous 12 % et l'activité de l'eau ($A_w < 0,60$) dans un endroit sec."
+                        "desc": "Une forte humidité et la chaleur accélèrent la dégradation de l'amidon de l'orge et augmentent le risque de mycotoxines. Maintenez le taux d'humidité sous 12 % et l'activité de l'eau (activité de l'eau (Aw) < 0.60) dans un endroit sec."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau ($A_w < 0,60$) 📦",
-                        "text": "Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau ($A_w$) sous 0,60 bloque les amylases et les germes."
+                        "name": "Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau (activité de l'eau (Aw) < 0.60) 📦",
+                        "text": "Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,60 bloque les amylases et les germes."
                     },
                     {
                         "name": "Conserver dans un placard frais et sombre sous 10–15 °C — Placard Frais (1–2 ans) 🧺",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Gerste richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Gerste basierend auf offiziellen Sicherheitsrichtlinien zum Erhalt von Beta-Glucan und Kontrolle der Wasseraktivität.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Gerste gehört neben Weizen, Reis und Mais zu den vier wichtigsten Getreidesorten der Welt und wird für Eintöpfe, Brot, Getränke und Tees geschätzt! Doch haben Sie Gerste schon einmal gelagert und festgestellt, dass sie feucht, ranzig oder von Schädlingen befallen wurde? 🌾\n\nGerste ist reich an **$\\beta$-Glucan**, einem wichtigen löslichen Ballaststoff, und besitzt eine dichte Stärkestruktur. Bei hoher Luftfeuchtigkeit aktivieren sich die echten $\\alpha$- und $\\beta$-Amylase-Enzyme der Gerste rasch. Dies führt zur Autohydrolyse der Stärke, Nährstoffverlust, erhöhter Wasseraktivität und Mykotoxinrisiko.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Feuchtigkeitsgehalt und Wasseraktivität zu kontrollieren und Geschmack sowie Nährstoffe zu sichern. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -285,13 +285,13 @@
                     },
                     {
                         "title": "Hohe Luftfeuchtigkeit und warme Temperaturen meiden ☀️",
-                        "desc": "Hohe Luftfeuchtigkeit und Hitze beschleunigen den Stärkeabbau in der Gerste und erhöhen das Mykotoxinrisiko. Halten Sie den Feuchtigkeitsgehalt unter 12 % und die Wasseraktivität ($A_w < 0,60$)."
+                        "desc": "Hohe Luftfeuchtigkeit und Hitze beschleunigen den Stärkeabbau in der Gerste und erhöhen das Mykotoxinrisiko. Halten Sie den Feuchtigkeitsgehalt unter 12 % und die Wasseraktivität (Wasseraktivität (Aw) < 0.60)."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle ($A_w < 0,60$) 📦",
-                        "text": "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität ($A_w$) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
+                        "name": "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle (Wasseraktivität (Aw) < 0.60) 📦",
+                        "text": "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
                     },
                     {
                         "name": "In einer kühlen, dunklen Speisekammer unter 10–15 °C aufbewahren — Vorratskammer (1–2 Jahre) 🧺",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar a cevada fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a cevada com base em diretrizes oficiais para preservar a beta-glucana e controlar a atividade de água.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "A cevada é um dos quatro principais cereais do mundo ao lado do trigo, arroz e milho, amplamente utilizada em grãos, pães, bebidas e chás! No entanto, você já comprou cevada em quantidade e percebeu que ela ficou úmida, rançosa ou atraiu carunchos? 🌾\n\nA cevada é rica em **$\\beta$-glucana**, uma fibra solúvel fundamental, e possui uma estrutura densa de amido. Quando exposta a alta umidade, as enzimas $\\alpha$- e $\\beta$-amilase intrínsecas da cevada se ativam rapidamente. Isso desencadeia a autohidrólise do amido, causando perda de nutrientes, elevada atividade de água e risco de micotoxinas.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para controlar o teor de umidade e a atividade de água, preservando o sabor e a nutrição. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -329,13 +329,13 @@
                     },
                     {
                         "title": "Evite alta umidade e temperaturas elevadas ☀️",
-                        "desc": "A alta umidade relativa e o calor aceleram a degradação do amido na cevada e aumentam o risco de micotoxinas. Mantenha o teor de umidade abaixo de 12% e a atividade de água ($A_w < 0,60$)."
+                        "desc": "A alta umidade relativa e o calor aceleram a degradação do amido na cevada e aumentam o risco de micotoxinas. Mantenha o teor de umidade abaixo de 12% e a atividade de água (atividade de água (Aw) < 0.60)."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água ($A_w < 0,60$) 📦",
-                        "text": "Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água ($A_w$) abaixo de 0,60 inibe a amilase e previne germes."
+                        "name": "Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água (atividade de água (Aw) < 0.60) 📦",
+                        "text": "Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água (atividade de água (Aw)) abaixo de 0,60 inibe a amilase e previne germes."
                     },
                     {
                         "name": "Guarde em armário fresco e escuro abaixo de 10–15 °C — Armazenamento (1 a 2 anos) 🧺",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Jelai (Barley) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jelai berdasarkan pedoman keselamatan resmi untuk menjaga beta-glukan dan mengontrol aktivitas air.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Jelai (barley) adalah salah satu dari empat tanaman serealia utama dunia bersama gandum, beras, dan jagung, yang digunakan luas untuk bahan makanan, roti, hingga minuman sehat! Namun, pernahkah Anda menyimpannya dalam jumlah banyak lalu mendapatinya menyerap kelembapan, melempem, atau berhama? 🌾\n\nJelai kaya akan **$\\beta$-glukan**, serat larut air yang penting, serta memiliki struktur pati yang padat. Saat terpapar kelembapan tinggi, enzim $\\alpha$- dan $\\beta$-amilase intrinsik pada jelai akan aktif secara cepat. Ini memicu autohidrolisis pati, menyebabkan hilangnya nutrisi, kenaikan aktivitas air, dan risiko mikotoksin serta hama.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jelai 3 langkah berbasis ilmiah untuk mengontrol kadar air dan aktivitas air demi menjaga rasa dan nutrisinya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
@@ -373,13 +373,13 @@
                     },
                     {
                         "title": "Hindari kelembapan tinggi dan suhu hangat ☀️",
-                        "desc": "Kelembapan relatif tinggi dan suhu hangat mempercepat pemecahan pati pada jelai dan meningkatkan risiko mikotoksin. Pertahankan kadar air di bawah 12% dan aktivitas air ($A_w < 0,60$)."
+                        "desc": "Kelembapan relatif tinggi dan suhu hangat mempercepat pemecahan pati pada jelai dan meningkatkan risiko mikotoksin. Pertahankan kadar air di bawah 12% dan aktivitas air (aktivitas air (Aw) < 0.60)."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air ($A_w < 0,60$) 📦",
-                        "text": "Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air ($A_w$) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba."
+                        "name": "Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air (aktivitas air (Aw) < 0.60) 📦",
+                        "text": "Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air (aktivitas air (Aw)) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba."
                     },
                     {
                         "name": "Simpan di lemari sejuk dan gelap di bawah 10–15°C — Lemari Sejuk (1–2 Tahun) 🧺",

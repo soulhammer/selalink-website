@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "購入後すぐに密閉容器（ペットボトル等）へ小分けする — 酸素と湿気の遮断 📦"
     text: "お米が空気に触れ続けると脂質が酸化して古米臭が生じ、水分が失われます。💡保存のコツ：完全に乾いたペットボトルやガラス製の密閉容器に小分けし、フタをしっかり閉めてください。酸素と外気の湿気を遮断し、理想的な水分量（約15%）を長期間維持できます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

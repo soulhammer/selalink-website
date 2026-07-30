@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/shrimp_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Rincer à l'eau salée et sécher complètement — Maintien du goût et de la fraîcheur 📦"
     text: "Rincez délicatement les crevettes dans de l'eau salée (1 c. à soupe de sel par litre) puis séchez-les avec de l'essuie-tout. 💡 Astuce de conservation : La salinité évite la perte de sucs et ralentit l'oxydation."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des crevette
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

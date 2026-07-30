@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/plum_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ripen firm plums at cool room temperature (18–22°C) — Room Temp Ripening (2–4 Days) 🧺"
     text: "This essential ripening step maximizes sugar levels and fragrance. 💡 Storage Tip: Spread unwashed plums in a single layer in a paper box or tray away from direct sunlight in a well-ventilated, cool room. They are fully ripe when the stem end feels slightly soft to a gentle touch and gives off a sweet aroma."
@@ -38,7 +38,7 @@ Plums are climacteric fruits with thin, delicate skin that makes them highly vul
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

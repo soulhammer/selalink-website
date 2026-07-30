@@ -8,7 +8,7 @@
             "ko": {
                 "title": "오리고기 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 오리고기의 최적 보관 온도, 불포화 지방산 산패 방지 및 지질 과산화물가 상승 억제 가이드를 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "훈제, 구이, 탕 등 전 세계적으로 닭, 칠면조 다음으로 사랑받는 대표 가금류 오리고기! 하지만 사온 지 얼마 안 되어 특유의 누린내가 나거나 산패 악취(Warmed-over flavor)가 심해져 버린 경험 다들 있으시죠? 🦆\n\n오리고기는 닭고기나 소고기 등 타 육류에 비해 올레산 및 리놀레산 등 불포화 지방산 함량이 매우 높아 지질 산화(Lipid Oxidation) 반응이 매우 빠르게 일어납니다. 공기 중 산소와 결합하면 지질 과산화물가(Peroxide Value)가 급격히 상승하면서 쩐내가 발생하고 식감이 상하게 됩니다.\n\n이번 가이드에서는 축산 및 식품 안전 기관의 공인된 지침을 바탕으로, 오리고기의 지방 산패를 근본적으로 막고 신선도와 맛을 보존하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "산소 접촉을 절대 차단하고 수분을 닦아내세요 💧",
-                        "desc": "오리고기의 불포화 지방산은 산소와 만나는 순간 급격히 산화하여 지질 과산화물가가 상승합니다. 또한 핏물과 육즙(드립)은 세균 증식의 원인이 되므로 키친타올로 수분을 완벽히 wipe한 뒤 밀봉해야 합니다."
+                        "desc": "오리고기의 불포화 지방산은 산소와 만나는 순간 급격히 산화하여 지질 과산화물가가 상승합니다. 또한 핏물과 육즙(드립)은 세균 증식의 원인이 되므로 키친타월로 수분을 완벽히 닦아낸 뒤 밀봉해야 합니다."
                     },
                     {
                         "title": "해동 후 재냉동을 절대 금지하세요 ⚠️",
@@ -27,7 +27,7 @@
                 "steps": [
                     {
                         "name": "핏물 수분 제거 후 진공 포장하기 — 산소 차단 밀봉 📦",
-                        "text": "오리고기 표면의 핏물과 수분을 키친타올로 깨끗이 wiping하고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장(Vacuum Packaging)은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다."
+                        "text": "오리고기 표면의 핏물과 수분을 키친타월로 깨끗이 닦아내고, 진공 포장기나 밀착 랩핑을 이용해 공기를 완벽히 빼내어 밀봉하세요. 💡 보관 팁: 산소 유입을 차단하는 진공 포장은 불포화 지방산의 자가산화를 막아 과산화물 생성을 근본적으로 억제합니다."
                     },
                     {
                         "name": "0~2℃ 저온 냉장 보관하기 — 단기 냉장 보관 (1~2일) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Duck Meat Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, lipid oxidation prevention, and peroxide value control guide for duck meat based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Duck meat is one of the most widely consumed poultry items globally after chicken and turkey, highly prized for roasting, smoking, and stews! However, have you ever stored duck meat only to find it developing a stale odor or off-flavor (warmed-over flavor)? 🦆\n\nCompared to chicken or beef, duck meat contains a significantly higher proportion of unsaturated fatty acids such as oleic and linoleic acids, leading to extremely rapid lipid oxidation. When exposed to atmospheric oxygen, its peroxide value increases rapidly, resulting in rancid off-odors and texture degradation.\n\nIn this guide, we introduce a scientifically proven 3-step duck meat storage guide based on official guidelines from livestock and food safety authorities to prevent lipid rancidity and preserve flavor and freshness. 🛡️",
                 "whyTitle": "Why Store Duck Meat This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "鴨肉（鴨・アヒル肉）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく鴨肉の最適な保存温度、不飽和脂肪酸の酸化（変敗）防止、過酸化物価の上昇抑制ガイドをご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "ロースト、燻製、鍋料理などで、鶏肉や七面鳥に次いで世界中で愛される家禽肉の鴨肉（アヒル肉）！ですが、買ってきて間もないのに独特のクセのある臭いや、調理後の再加熱臭（Warmed-over flavor）が強くなって捨ててしまった経験はありませんか？🦆\n\n鴨肉は鶏肉や牛肉など他の肉類に比べてオレイン酸やリノール酸などの不飽和脂肪酸の割合が非常に高く、脂質酸化（Lipid Oxidation）反応が非常に早く進みます。空気中の酸素と結合すると脂質の過酸化物価（Peroxide Value）が急激に上昇し、油臭さや食感の劣化を引き起こします。\n\n本記事では、畜産・食品安全機関の公認ガイドラインに基づき、鴨肉の脂質酸化を根本から防ぎ、鮮度と美味しさを維持する3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持鸭肉新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解鸭肉的最佳储存温度、防止不饱和脂肪酸酸败及控制脂质过氧化物值的科学方法。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "鸭肉作为全球消费量仅次于鸡肉和火鸡肉的代表性家禽肉，无论做烤鸭、熏鸭还是煲汤都极受欢迎！但您是否有过刚买回来的鸭肉放了没几天就散发出怪味或再加热异味（Warmed-over flavor）的经历？🦆\n\n与鸡肉、牛肉等其他肉类相比，鸭肉中的油酸、亚油酸等不饱和脂肪酸比例极高，脂质氧化（Lipid Oxidation）速度非常快。一旦接触空气中的氧气，其脂质过氧化物值（Peroxide Value）会剧烈上升，产生哈喇味并破坏肉质口感。\n\n本指南基于权威畜产与食品安全机构的指导方针，为您介绍3步科学鸭肉保存秘诀，从根本上阻断油脂酸败，保留新鲜与美味。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la carne de pato fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la carne de pato según las directrices oficiales para evitar la oxidación lipídica.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¡La carne de pato es una de las aves más consumidas del mundo después del pollo y el pavo, muy apreciada para asar, ahumar y preparar estofados! Sin embargo, ¿alguna vez la guardó solo para descubrir que desarrollaba un olor rancio o un sabor alterado (warmed-over flavor)? 🦆\n\nEn comparación con el pollo o la res, la carne de pato contiene una proporción significativamente mayor de ácidos grasos insaturados como el oleico y el linoleico, lo que provoca una oxidación lipídica extremadamente rápida. Al exponerse al oxígeno, su índice de peróxidos aumenta drásticamente, causando olores rancios y deterioro de la textura.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades de seguridad alimentaria para evitar la rancidez de las grasas y mantener su frescura. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la viande de canard fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande de canard selon les directives officielles afin d'éviter l'oxydation des lipides.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "La viande de canard est l'une des volailles les plus consommées au monde après le poulet et la dinde, très prisée rôtie, confite ou en magret ! Cependant, vous est-il déjà arrivé de la conserver pour retrouver une odeur rance ou un goût altéré à la réchauffe (warmed-over flavor) ? 🦆\n\nPar rapport au poulet ou au bœuf, la viande de canard contient une proportion très élevée d'acides gras insaturés (acide oléique et linoléique), ce qui entraîne une oxydation lipidique extrêmement rapide. En présence d'oxygène, son indice de peroxyde augmente rapidement, provoquant un rancissement et une dégradation de la texture.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes basée sur les recommandations officielles pour bloquer le rancissement des graisses et préserver sa fraîcheur. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Entenfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Entenfleisch basierend auf offiziellen Sicherheitsrichtlinien zur Vermeidung von Lipidoxidation.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Entenfleisch gehört weltweit nach Hähnchen und Pute zu den beliebtesten Geflügelsorten und ist gebraten, geräuchert oder als Kasserolle ein Genuss! Doch haben Sie Entenfleisch schon einmal gelagert und festgestellt, dass es einen ranzigen Geruch oder Aufwärmgeschmack (Warmed-over flavor) entwickelte? 🦆\n\nIm Vergleich zu Hähnchen- oder Rindfleisch enthält Entenfleisch einen sehr hohen Anteil ungesättigter Fettsäuren wie Ölsäure und Linolsäure, was zu einer extrem schnellen Lipidoxidation führt. Bei Sauerstoffkontakt steigt die Peroxidzahl rasch an, was zu Ranzigkeit und Texturverlust führt.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Fettranzigkeit zu stoppen und Frische sowie Geschmack zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar carne de pato fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de pato com base em diretrizes oficiais para evitar a oxidação lipídica.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "A carne de pato é uma das aves mais consumidas no mundo depois do frango e do peru, muito apreciada assada, ensopada ou defumada! No entanto, você já a guardou e percebeu que ela desenvolveu um cheiro rançoso ou um sabor alterado ao reaquecer (warmed-over flavor)? 🦆\n\nEm comparação com o frango ou a carne bovina, a carne de pato contém uma proporção significativamente maior de ácidos graxos insaturados (como ácido oleico e linoleico), levando a uma oxidação lipídica extremamente rápida. Ao contato com o oxigênio, seu valor de peróxido sobe rapidamente, gerando odores rançosos e perda de textura.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais de segurança alimentar para evitar o ranço e preservar o sabor. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Daging Bebek agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging bebek berdasarkan pedoman keselamatan resmi untuk mencegah oksidasi lipid.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Daging bebek adalah salah satu unggas paling populer di dunia setelah ayam dan kalkun, sangat diminati untuk dipanggang, diasap, atau digulai! Namun, pernahkah Anda menyimpannya lalu mendapati aroma tengik atau bau tidak sedap saat dipanaskan ulang (warmed-over flavor)? 🦆\n\nDibandingkan daging ayam atau sapi, daging bebek memiliki proporsi asam lemak tak jenuh (seperti asam oleat dan linoleat) yang jauh lebih tinggi sehingga mengalami oksidasi lipid dengan sangat cepat. Saat terpapar oksigen, angka peroksidanya naik tajam, memicu bau tengik dan kerusakan tekstur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan daging bebek 3 langkah berbasis ilmiah untuk mencegah ketengikan lemak dan menjaga kesegarannya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

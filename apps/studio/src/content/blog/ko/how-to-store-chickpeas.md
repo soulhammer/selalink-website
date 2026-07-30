@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "건조 병아리콩은 습도 60% 이하 서늘한 밀폐 보관하기 — 곰팡이독소(아플라톡신) 방지 (1 - 2년) 📦"
     text: "건조 병아리콩은 수분 함량 12% 이하, 상대습도 60% 이하의 건소 보관이 필수입니다. 💡 보관 팁: 밀폐 용기나 지퍼백에 제습제(실리카겔)와 함께 담아 직사광선이 닿지 않는 서늘하고 건조한 팬트리에 보관하세요. 곰팡이 포자 발아를 원천 차단하여 1 - 2년 이상 안전하게 보관할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & CDC</strong>"
+authority: "USDA & MFDS & CDC"
 steps:
   - name: "Nunca lave el pollo crudo con agua — Evite la contaminación cruzada en el fregadero ❌💧"
     text: "Lavar el pollo salpica microgotas con bacterias de Campylobacter o Salmonella a hasta 50 cm alrededor del fregadero, contaminando platos y superficies. 💡 Consejo de almacenamiento: Nunca enjuague el pollo con agua. Seque la superficie presionando con toallas de papel o escáldelo brevemente en agua hirviendo antes de cocinar."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las pautas 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS & CDC</strong>.
+      Este contenido se basa en USDA & MFDS & CDC.
     </p>
   </div>
 </div>

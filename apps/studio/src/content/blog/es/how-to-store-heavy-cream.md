@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/heavy_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Limpie el vertedor y cierre bien con una pinza — Barrera de oxígeno u olores 📦"
     text: "La grasa láctea absorbe fuertemente los olores y el oxígeno. 💡 Consejo de almacenamiento: Limpie los restos de crema de la boquilla tras usarla y séllela firmemente con una pinza para evitar que absorba malos olores."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía en 3 pasos respaldada por expertos para cons
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

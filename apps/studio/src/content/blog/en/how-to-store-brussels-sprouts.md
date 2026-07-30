@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Trim damaged outer leaves and remove surface moisture — Prep & Clean 🥬"
     text: "Remove any yellowed, soft, or damaged outer leaves upon purchase, and gently pat the surface dry with paper towels. 💡 Storage Tip: Removing decaying outer leaves prevents spoilage from spreading inward. Leave the stem end intact to minimize moisture loss."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & RDA & MFDS</strong>.
+      This content is based on USDA & RDA & MFDS.
     </p>
   </div>
 </div>

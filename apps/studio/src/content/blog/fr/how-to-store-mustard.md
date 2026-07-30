@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mustard_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS & USDA</strong>"
+authority: "FDA & MFDS & USDA"
 steps:
   - name: "Garder les pots fermés dans un placard frais — Stockage en placard (15–25 °C) 📦"
     text: "La moutarde non ouverte reste stable à température ambiante grâce au sel et au vinaigre. 💡 Astuce de conservation : Conservez les pots fermés dans un placard sombre, à l'abri de la lumière et du soleil."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & MFDS & USDA</strong>.
+      Ce contenu est basé sur FDA & MFDS & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Gut and clean blood clot — Stop Autolysis & Fishy Odor 🔪"
     text: "Remove the gills and guts, and rinse away the blood and black belly membrane along the spine under running water. 💡 Storage Tip: Viscera spoil fastest. Patting the inside and outside completely dry with paper towels is the crucial first step to stopping bacteria and fishy odor."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step mackerel storage guide base
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NIFS & RDA & USDA & MFDS</strong>.
+      This content is based on NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

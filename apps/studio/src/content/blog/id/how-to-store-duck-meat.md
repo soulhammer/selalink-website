@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/duck_meat_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Keringkan kelembapan lalu kemas vakum — Segel Kedap Oksigen 📦"
     text: "Lap sisa darah dan cairan permukaan hingga kering dengan tisu dapur, lalu segel menggunakan mesin vakum atau plastic wrap secara rapat. 💡 Tips Penyimpanan: Kemasan vakum (Vacuum Packaging) menghalangi masuknya oksigen, menghentikan auto-oksidasi asam lemak."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan daging bebek 3 langkah be
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada RDA & USDA & MFDS.
     </p>
   </div>
 </div>

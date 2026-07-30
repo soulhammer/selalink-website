@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bok_choy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "洗わずにキッチンペーパーで包む — 水分結露＆蒸発の制御 📦"
     text: "チンゲンサイ表面の水分を拭き取り、洗わない状態でキッチンペーパーで包みます。💡保存のコツ：ペーパーが葉から染み出る余分な湿気を吸収し、水分の蒸発を防ぐため、雑菌繁殖と細胞膨張圧低下による萎れを同時に防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

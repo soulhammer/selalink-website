@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/basil_pesto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Tuangkan lapisan minyak zaitun extra virgin di atas permukaan — Lapisan Minyak Pelindung Oksigen 🫒"
     text: "Pindahkan pesto ke dalam wadah, ratakan permukaannya dengan sendok, lalu tuangkan minyak zaitun extra virgin setebal 2–3 mm di atasnya. Lapisan minyak ini memblokir kontak oksigen secara total, mencegah klorofil teroksidasi menjadi feofitin cokelat."
@@ -38,7 +38,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

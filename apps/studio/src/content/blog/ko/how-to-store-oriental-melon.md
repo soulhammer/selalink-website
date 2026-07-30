@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oriental_melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "씻지 않은 상태로 식품용 랩으로 개별 포장하기 — 수분 증발 차단 랩핑 📦"
     text: "참외의 아삭함을 유지하는 핵심 비법입니다. 💡 보관 팁: 물을 묻히지 않은 참외를 식품용 랩(또는 위생 비닐)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 랩 포장이 참외 자체의 수분 증발을 완벽히 차단하여 껍질이 쭈글해지거나 과육이 푸석해지는 것을 막아줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

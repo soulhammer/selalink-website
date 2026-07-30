@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "開封後はジッパーバッグに入れ平らに密閉する — 湿度遮断と亀裂防止 📦"
     text: "空気中の水分変動からデンプン構造を守る最初のステップです。💡保存のコツ：開封したライスペーパーは元の袋のままだと空気が入るため、密閉ジッパーバッグや専用のプラスチックケースに曲がらないよう平らに入れ、空気を抜いてしっかり密閉してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

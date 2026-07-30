@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 후 즉시 유리·플라스틱 밀폐 용기로 옮기기 — 금속 용출 및 공기 차단 📦"
     text: "개봉된 캔 내부의 산화를 막고 공기 접촉을 최소화하는 것이 핵심입니다. 💡 보관 팁: 참치캔을 연 후 남은 참치와 기름을 깨끗한 유리 밀폐 용기나 BPA-free 용기에 옮겨 담고, 뚜껑을 밀폐하여 보관하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Transfira para recipientes herméticos — Barreira contra umidade e pragas 📦"
     text: "Deixar o feijão seco na embalagem aberta expõe os grãos à umidade e insetos. 💡 Dica de conservação: Passe os feijões para potes de vidro, potes plásticos rígidos herméticos ou sacos Ziploc bem vedados. Isso evita pragas e mantém a umidade estável."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de espec
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

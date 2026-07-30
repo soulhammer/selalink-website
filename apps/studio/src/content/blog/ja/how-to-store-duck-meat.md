@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/duck_meat_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "ドリップを拭き取り真空パックする — 酸素遮断密閉 📦"
     text: "鴨肉の表面の血液や水分をペーパータオルで綺麗に拭き取り、真空パック機や密着ラップで空気を完全に抜いて密閉します。💡保存のコツ：酸素の侵入を防ぐ真空包装（Vacuum Packaging）は、不飽和脂肪酸の自動酸化を防ぎ過酸化物の生成を根本的に抑えます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

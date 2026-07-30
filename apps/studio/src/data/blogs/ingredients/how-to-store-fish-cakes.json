@@ -8,7 +8,7 @@
             "ko": {
                 "title": "어묵 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 어묵의 최적 보관 온도, 데치기 기름 제거법 및 냉장·냉동 보관 기한을 확인하세요.",
-                "authority": "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>",
+                "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)",
                 "intro": "어묵탕, 떡볶이, 어묵볶음 등 다양한 요리에서 시원하고 고소한 감칠맛을 더해주는 대표 신선 가공식품 어묵! 🍢\n\n어묵을 봉지째 사와 냉장고에 그대로 넣어두었다가 며칠 지나지 않아 표면이 미끈거리고 이상한 냄새가 나 버려본 경험 다들 있으시죠?\n\n어묵은 수분과 단백질 함량이 높고 겉면에 튀김 기름이 묻어 있어, 공기와 접촉하면 산패가 빠르게 진행되고 세균이 번식하기 매우 쉬운 조건입니다. 냉장 보관 유통기한이 3~5일로 매우 짧은 이유가 바로 이 때문입니다. 이번 가이드에서는 전문 기관의 검증된 원리를 바탕으로, 어묵의 표면 기름기를 제거하고 맛과 식감을 1~2달까지 깔끔하게 유지해 주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "어묵 표면의 유제 성분과 산패 기전, 수분 활성도 및 미생물 증식 원리를 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 위생 관리와 맛 유지를 위해 필수적입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Fish Cakes Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, oil-blanching technique, and shelf life for refrigerating and freezing fish cakes based on official safety guidelines.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Fish cakes (eomuk) are a beloved, versatile ingredient used in soups, stir-fries, braises, and tteokbokki. But have you ever placed a package of fish cakes in the fridge only to find them slimy with an off-odor just a few days later? 🍢\n\nFish cakes have high moisture and protein content, and their surfaces are coated in frying oil. When exposed to oxygen, surface lipids oxidize rapidly, creating an ideal breeding ground for spoilage bacteria. This is why their refrigerated shelf life is very short (3 to 5 days). In this guide, introduces a scientifically proven 3-step fish cake storage guide based on expert guidelines to remove surface oil and extend their fresh taste and chewy texture for up to 1 to 2 months. 🛡️",
                 "whyTitle": "Why Store Fish Cakes This Way? Scientific Facts",
                 "whyDesc": "Understanding the lipid oxidation mechanism, water activity, and microbial growth characteristics of fried surimi products is crucial for maintaining safety and flavor.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "韓国練り物（オムク）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく練り物（さつま揚げ・オムク）の最適保存温度、油抜き方法、冷蔵・冷凍保存期間をご確認ください。",
-                "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
+                "authority": "食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)",
                 "intro": "スープや炒め物、トッポッキなど多様な料理に欠かせない人気の魚肉練り製品（オムク・さつま揚げ）！🍢\n\n袋ごと冷蔵庫に入れておいたら、わずか数日で表面がぬめり、怪しい臭いがして捨ててしまった経験はありませんか？\n\n練り物は水分とタンパク質が豊富で、表面に揚げ油が残っているため、空気中の酸素に触れると油の酸化が進み、細菌が増殖しやすい環境になります。冷蔵での保存期間が3〜5日と短いのはこのためです。本記事では、専門機関の検証済み原理に基づき、表面の余分な油を取り除いて美味しさと弾力を1〜2ヶ月間長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのでしょうか？ 科学的ファクト",
                 "whyDesc": "油で揚げた練り製品の脂質酸化メカニズムや水分活性度、微生物増殖の特性を理解し、適切な保存法を実践することは衛生と風味の維持に不可欠です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持鱼饼（Surimi/Eomuk）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解鱼饼的最佳储存温度、烫水去油技巧及冷藏与冷冻保鲜时长。",
-                "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
+                "authority": "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)",
                 "intro": "无论是做鱼饼汤、炒鱼饼、炖煮还是做炒年糕，鱼饼都是深受大众喜爱的经典生鲜加工食品！🍢\n\n您是否买回一整包鱼饼放入冰箱，没过几天表面就发粘并散发出怪味，不得不丢弃？\n\n鱼饼水分与蛋白质含量高，且表面包裹着一层炸油。暴露于空气中时，表层油脂会迅速酸败，极易成为细菌滋生的温床，因此冷藏保质期极短（仅3~5天）。本指南基于权威机构验证的原理，带您掌握3步科学保鲜秘诀，去除表面油脂，将鲜美口感与弹牙食感延长至1~2个月。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解油炸鱼肉制品（Surimi）的油脂酸败机制、水活性与微生物繁殖特性，对于食品安全与美味保持至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los pasteles de pescado (Eomuk) frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura de almacenamiento, técnica de escaldado para desengrasar y tiempo de conservación para refrigerar y congelar pasteles de pescado según las directrices oficiales.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Los pasteles de pescado (eomuk/surimi) son un ingrediente muy popular en sopas, salteados, guisos y tteokbokki. Sin embargo, ¿alguna vez guardó un paquete en el refrigerador y a los pocos días los encontró viscosos y con mal olor? 🍢\n\nLos pasteles de pescado tienen un alto contenido de agua y proteína, y su superficie está cubierta de aceite de fritura. Al exponerse al oxígeno, las grasas se oxidan rápidamente, creando un entorno ideal para bacterias del deterioro. Por eso su vida útil en refrigeración es muy corta (3 a 5 días). En esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para retirar el exceso de aceite y conservar su frescura y textura elástica hasta por 1 a 2 meses. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender la oxidación de lípidos, la actividad de agua y el desarrollo microbiano en productos de surimi fritos es esencial para la seguridad y el sabor.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les gâteaux de poisson (Eomuk) frais : Guide scientifique de conservation",
                 "description": "Découvrez la température de stockage, la technique de blanchiment dégraissant et la durée de conservation au réfrigérateur et au congélateur selon les directives officielles.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Les gâteaux de poisson (eomuk/surimi) sont très appréciés dans les soupes, poêlées, mijotés et tteokbokki. Mais avez-vous déjà retrouvé un paquet entamé au réfrigérateur devenu visqueux et malodorant en quelques jours ? 🍢\n\nRiches en eau et en protéines, les gâteaux de poisson ont une surface couverte d'huile de friture. Au contact de l'oxygène, cette graisse s'oxyde vite, favorisant la multiplication bactérienne, d'où une conservation très courte au frais (3 à 5 jours). Dans ce guide, vous présente un guide de conservation en 3 étapes pour éliminer l'huile de surface et préserver leur texture ferme jusqu'à 1 à 2 mois. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre l'oxydation des lipides, l'activité de l'eau et le développement microbien dans les produits de surimi frits est primordial pour garantir sécurité et saveur.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Fischkuchen (Eomuk) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, die Entfettungsmethode durch Überbrühen und die Haltbarkeit im Kühlschrank und Gefrierfach nach offiziellen Richtlinien.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Fischkuchen (Eomuk/Surimi-Kuchen) ist eine beliebte Zutat für Suppen, Pfannengerichte, Eintöpfe und Tteokbokki. Doch haben Sie schon einmal erlebt, dass eine angebrochene Packung nach wenigen Tagen im Kühlschrank schmierig wurde und unangenehm roch? 🍢\n\nFischkuchen enthalten viel Wasser und Protein, und ihre Oberfläche ist mit Frittieröl bedeckt. Bei Sauerstoffkontakt oxidiert das Fett rasch – ein idealer Nährboden für Fäulnisbakterien. Daher ist die Haltbarkeit im Kühlschrank sehr kurz (3 bis 5 Tage). In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Oberflächenöl zu entfernen und den frischen Geschmack sowie die elastische Textur 1 bis 2 Monate lang zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der Fettoxidation, der Wasseraktivität und des mikrobiellen Wachstums bei frittierten Surimi-Produkten ist entscheidend für Sicherheit und Geschmack.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar bolinhos de peixe (Eomuk) frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura de armazenamento, técnica de branqueamento desengordurante e tempo de conservação para refrigerar e congelar bolinhos de peixe segundo diretrizes oficiais.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Os bolinhos de peixe (eomuk/surimi) são um ingrediente muito popular em ensopados, refogados e tteokbokki. Mas você já guardou um pacote na geladeira e poucos dias depois os encontrou melecados e com cheiro ruim? 🍢\n\nCom alto teor de água e proteína, os bolinhos de peixe têm a superfície coberta por óleo de fritura. Ao contato com o oxigênio, esse óleo oxida rapidamente, favorecendo bactérias da deterioração, o que torna a validade sob refrigeração muito curta (3 a 5 dias). Neste guia, apresentamos um guia de conservação em 3 etapas para remover o excesso de óleo e manter sua textura firme por até 1 a 2 meses. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender a oxidação lipídica, a atividade de água e o crescimento microbiano em produtos de surimi fritos é essencial para manter a segurança e o sabor.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Otak-otak / Fish Cake (Eomuk) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu penyimpanan optimal, teknik menyiram air panas untuk menghilangkan minyak, dan masa simpan kulkas serta freezer berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>MFDS & USDA & FDA</strong>",
+                "authority": "MFDS & USDA & FDA",
                 "intro": "Fish cake (eomuk/olahan ikan) adalah bahan populer yang digunakan dalam sup, tumisan, olahan bumbu, dan tteokbokki. Namun, pernahkah Anda menyimpan sebutir kemasan di kulkas lalu menemukan teksturnya berlendir dan berbau aneh beberapa hari kemudian? 🍢\n\nFish cake memiliki kadar air dan protein tinggi, serta permukaannya dilapisi minyak goreng. Saat terpapar oksigen, lemak permukaan teroksidasi dengan cepat dan menjadi sarang kembang biak bakteri pembusuk. Itulah mengapa masa simpan pendinginannya sangat singkat (3 hingga 5 hari). Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menghilangkan minyak permukaan dan menjaga tekstur kenyalnya hingga 1–2 bulan. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami oksidasi lipid, aktivitas air, dan pertumbuhan mikroba pada produk surimi goreng sangat penting untuk menjaga keamanan dan kelezatan.",

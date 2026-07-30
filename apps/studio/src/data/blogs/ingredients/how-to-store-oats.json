@@ -8,7 +8,7 @@
             "ko": {
                 "title": "귀리·오트밀 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 귀리 및 오트밀의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "건강을 위해 구매한 귀리나 오트밀을 종이 상자째 찬장에 오래 두었다가 시큼하고 찌린 냄새가 나거나 벌레가 생겨 버린 경험 다들 있으시죠? 🌾\n\n귀리는 불포화지방산(지방 함량 약 5~9%)과 식이섬유가 풍부한 우수한 곡물이지만, 쌀이나 밀에 비해 지방 함량이 높아 공기 중의 산소, 빛, 열에 노출되면 지방 산화(산패)가 빠르게 일어납니다. 또한 화랑곡나방이나 쌀바구미 같은 곡물 해충이 가장 좋아하는 식재료이기도 합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품 안전 당국의 안전 가이드라인을 바탕으로 귀리·오트밀의 신선도와 고소한 풍미를 최대 1년 이상 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Store Oats & Oatmeal Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for oats and oatmeal based on official safety guidelines.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Have you ever kept a cardboard box of oats in your pantry for a few months, only to find them smelling stale, rancid, or infested with grain bugs? 🌾\n\nOats are a highly nutritious grain rich in dietary fiber and healthy unsaturated fats (containing around 5–9% lipids). However, because of their higher fat content compared to rice or wheat, exposure to oxygen, light, and heat causes rapid lipid oxidation (rancidity). They are also a favorite target for common grain pests like pantry moths and weevils.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by the USDA and food safety authorities to keep your oats fresh, nutty, and safe for up to a year or more. 🛡️",
                 "whyTitle": "Why Store Oats This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "オートミール（燕麦）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくオートミール・燕麦の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "健康のために買ったオートミールを紙箱のまま戸棚に入れておいたら、古くさい油臭さがしたり虫が発生して捨ててしまった経験はありませんか？🌾\n\n燕麦（オートミール）は食物繊維と不飽和脂肪酸（脂質約5〜9%）が豊富な優れた穀物ですが、米や小麦に比べて脂質含有量が高いため、空気中の酸素や光、熱に晒されると脂質の酸化（酸敗）が急速に進みます。また、メイガやコクゾウムシなどの穀物害虫が好む食材でもあります。\n\n本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、オートミールの香ばしい風味と品質を1年以上守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持燕麦/燕麦片新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解燕麦及燕麦片的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾将买回家的燕麦片连同纸盒直接放在橱柜里，几个月后发现散发出酸腐油哈味甚至长了米虫？🌾\n\n燕麦是一种富含膳食纤维与优质不饱和脂肪酸（脂质含量约5~9%）的高营养谷物。然而，与大米或小麦相比，其较高的脂肪含量使其在接触空气中的氧气、光线和热量时极易发生油脂氧化酸败（Rancidity）。此外，它也是印度谷螟、象埠等粮害虫最喜爱的食物。\n\n本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，帮您长久锁定燕麦的浓郁麦香与营养长达1年以上。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la avena fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la avena según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "¿Alguna vez guardó una caja de cartón de avena en la alacena por unos meses solo para descubrir que olía rancia o tenía gorgojos? 🌾\n\nLa avena es un grano rico en fibra y grasas insaturadas saludables (contiene entre 5 y 9% de lípidos). Sin embargo, debido a su mayor contenido de grasa en comparación con el arroz o el trigo, la exposición al oxígeno, la luz y el calor causa una rápida oxidación de los lípidos (rancidez). Además, es uno de los alimentos favoritos de las plagas del grano.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y autoridades de seguridad alimentaria para mantener su avena fresca y deliciosa por un año o más. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver l'avoine et le flocons d'avoine frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'avoine selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Avez-vous déjà conservé une boîte en carton de flocons d'avoine dans votre placard pendant quelques mois, pour découvrir ensuite qu'ils avaient une odeur rance ou étaient infestés d'insectes ? 🌾\n\nL'avoine est une céréale très nutritive, riche en fibres et en acides gras insaturés (contient environ 5 à 9 % de lipides). Cependant, en raison de sa teneur en matières grasses plus élevée que celle du riz ou du blé, l'exposition à l'oxygène, à la lumière et à la chaleur entraîne une rapide oxidation des lipides (rancissement). C'est aussi une cible privilégiée pour les insectes des céréales comme les mites alimentaires.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et des experts en sécurité alimentaire pour préserver la fraîcheur de votre avoine pendant 1 an ou plus. 🛡️",
                 "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Haferflocken richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Haferflocken basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Haben Sie eine Schachtel Haferflocken schon einmal einige Monate im Schrank aufbewahrt, nur um festzustellen, dass sie alt und ranzig rochen oder von Schädlingen befallen waren? 🌾\n\nHafer ist ein sehr nährstoffreiches Getreide, das reich an Ballaststoffen und gesunden ungesättigten Fettsäuren ist (enthält ca. 5–9 % Fett). Aufgrund des im Vergleich zu Reis oder Weizen höheren Fettgehalts führt der Kontakt mit Sauerstoff, Licht und Wärme jedoch zu einer raschen Fettoxidation (Ranzigwerden). Zudem sind Haferflocken ein beliebtes Ziel für Vorratsschädlinge wie Lebensmittelmotten.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA und Lebensmittelsicherheitsexperten empfohlen wird, um Ihre Haferflocken über ein Jahr lang frisch zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar aveia fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a aveia com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Você já guardou uma caixa de papelão de aveia no armário por alguns meses e descobriu depois que ela estava com cheiro râncio ou com carunchos? 🌾\n\nA aveia é um cereal altamente nutritivo, rico em fibras e gorduras insaturadas saudáveis (contém cerca de 5 a 9% de lipídios). No entanto, devido ao seu maior teor de gordura em comparação ao arroz ou trigo, a exposição ao oxigênio, luz e calor causa rápida oxidação dos lipídios (rancificação). Além disso, é um dos alimentos favoritos de pragas de grãos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas do USDA para manter sua aveia fresca e saborosa por um ano ou mais. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Oat & Oatmeal agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk oat dan oatmeal berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & MFDS</strong>",
+                "authority": "USDA & MFDS",
                 "intro": "Pernahkah Anda menyimpan kotak karton oatmeal di lemari dapur selama beberapa bulan, lalu mendapatinya berbau apek, tengik, atau dihinggapi kutu beras? 🌾\n\nOat adalah biji-bijian bernutrisi tinggi yang kaya akan serat dan lemak tak jenuh sehat (mengandung sekitar 5–9% lemak). Namun, karena kandungan lemaknya lebih tinggi dibanding beras atau gandum, paparan oksigen, cahaya, dan panas menyebabkan oksidasi lemak (ketengikan) yang cepat. Oat juga menjadi makanan favorit bagi hama biji-bijian.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh USDA untuk menjaga oatmeal Anda tetap segar dan gurih hingga 1 tahun atau lebih. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

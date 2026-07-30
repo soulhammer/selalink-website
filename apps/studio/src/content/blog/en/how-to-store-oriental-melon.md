@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oriental_melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap unwashed melons individually with food-grade plastic wrap — Moisture Barrier 📦"
     text: "The key secret to maintaining signature crispness. 💡 Storage Tip: Keep dry, unwashed melons and wrap each one tightly with food-grade plastic wrap without leaving gaps. The wrap blocks moisture evaporation through the skin, preventing wrinkling or mealy texture."
@@ -38,7 +38,7 @@ Oriental melons have over 90% water content and high sugar levels. The inner see
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

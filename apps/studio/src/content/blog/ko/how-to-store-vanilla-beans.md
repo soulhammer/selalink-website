@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "왁스 페이퍼나 위생 비닐로 개별 감싸기 — 공기 접촉 및 건조 방지 📜"
     text: "바닐라 빈을 왁스 페이퍼(Wax Paper)나 식품용 비닐로 꼬옥 감싸서 빈 간의 마찰을 줄이고 수분이 증발하는 것을 1차적으로 막아주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">바닐라 빈을 절대로 냉장고나 냉동고에 넣지 마세요 ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      냉장고에 바닐라 빈을 넣으면 내부의 차가운 공기와 상온의 온도 차로 인해 표면에 수분이 맺히는 결로(Condensation) 현상이 발생합니다. 이는 수분활성도($A_w$)를 높여 아스페르길루스 등 곰팡이가 번식하기 가장 좋은 환경을 조성하고 바닐린 결정 구조를 파괴합니다.
+      냉장고에 바닐라 빈을 넣으면 내부의 차가운 공기와 상온의 온도 차로 인해 표면에 수분이 맺히는 결로(Condensation) 현상이 발생합니다. 이는 수분 활성도(Aw)를 높여 아스페르길루스 등 곰팡이가 번식하기 가장 좋은 환경을 조성하고 바닐린 결정 구조를 파괴합니다.
     </p>
   </div>
 </div>

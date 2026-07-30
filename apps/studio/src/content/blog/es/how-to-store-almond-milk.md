@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Agite suavemente antes de servir — Reemulsione los sedimentos naturales 🥛"
     text: "La leche de almendras es una suspensión de sólidos en agua, por lo que las partículas se asientan al reposar. 💡 Consejo de almacenamiento: Esta separación es un proceso físico natural y no significa descomposición. Agite suavemente el envase antes de servir para recuperar la textura cremosa."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de leche de almendras en 3 
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>FDA & USDA & MFDS & RDA</strong>.
+      Este contenido se basa en FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

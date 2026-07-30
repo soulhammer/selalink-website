@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sweet_potato_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Nach dem Kauf sofort auf Zeitungspapier ausbreiten — Feuchtigkeitsentzug 📦"
     text: "Oberflächenfeuchtigkeit ist die Hauptursache für Schimmel und Fäulnis. 💡 Lagerungstipp: Nehmen Sie die Süßkartoffeln aus dem Karton und legen Sie sie an einem kühlen, belüfteten Ort nebeneinander auf Zeitungspapier, um sie einen Tag lang komplett zu trocknen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

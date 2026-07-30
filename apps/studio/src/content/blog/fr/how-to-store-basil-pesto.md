@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/basil_pesto_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Verser une couche d'huile d'olive extra vierge à la surface — Film d'huile isolant du dioxygène 🫒"
     text: "Verser le pesto dans un récipient, lissez la surface avec une cuillère, puis verser 2 à 3 mm d'huile d'olive extra vierge. Ce film d'huile bloque totalement le contact avec l'oxygène, empêchant la chlorophylle de s'oxyder en phéophytine brune."
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "바질 페스토 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 바질 페스토의 엽록소 갈변 방지법, 올리브유 오일 필름 밀봉법 및 보관 기간을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "향긋한 바질과 고소한 잣, 올리브유가 어우러져 파스타나 샌드위치에 최고의 풍미를 더해주는 바질 페스토(Basil Pesto)! 🌿🧀\n\n바질 페스토는 바질의 선명한 초록빛과 신선한 향이 생명입니다. 하지만 개봉 후 용기에 그대로 두면 순식간에 거무튀튀하게 갈색으로 변하거나, 올리브유와 마늘, 허브의 조합으로 인해 혐기성 식중독균인 보툴리누스균(Clostridium botulinum)이 번식하기 쉬운 환경이 조성됩니다.\n\n이번 가이드에서는 미국 USDA 및 FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 엽록소 파괴(갈변)를 막고 보툴리누스균 위험을 완벽히 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "바질 엽록소가 산소에 노출되어 페오피틴으로 전환되는 화학적 갈변 원리와 기름 속 혐기성 미생물 증식 억제 메커니즘을 이해하는 것이 신선도와 식품 안전의 핵심입니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Basil Pesto Fresh: Scientific Storage Guide",
                 "description": "Check optimal storage methods to prevent chlorophyll oxidation, oil film sealing techniques, and shelf life for basil pesto based on official USDA & FDA safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Basil pesto brings a rich, fragrant flavor of fresh basil, pine nuts, garlic, and parmesan cheese to pasta and sandwiches! 🌿🧀\n\nThe vibrant green color and fresh aroma are the heart of basil pesto. However, once exposed to air, the chlorophyll in basil oxidizes rapidly into a dull brown color, and the oil-submerged herbs and garlic create an anaerobic environment where Clostridium botulinum bacteria can thrive if improperly stored.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to prevent chlorophyll breakdown (browning) and eliminate botulism risks. 🛡️",
                 "whyTitle": "Why Store Basil Pesto This Way? Scientific Facts",
                 "whyDesc": "Understanding the chemical mechanism of chlorophyll converting to brown pheophytin upon oxygen exposure and controlling anaerobic microbial growth in oil is key to preserving freshness and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "バジルペースト（Basil Pesto）を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的食品安全ガイドライン（USDA・FDA）に基づくバジルペーストの葉緑素褐変防止法、オリーブオイル膜密封法および保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "爽やかなバジル、香ばしい松の実、オリーブオイルが織りなす豊潤な風味が魅力のバジルペースト（バジルジェノベーゼ）！🌿🧀\n\nバジルペーストは鮮やかな緑色と新鮮な香りが命です。しかし、開封後に容器のまま放置するとあっという間に暗い褐色に変色したり、オリーブオイルとニンニク・ハーブの組み合わせによって厭気性食中毒菌であるボツリヌス菌（Clostridium botulinum）が繁殖しやすい環境が作られてしまいます。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、葉緑素の破壊（褐変）を防ぎボツリヌス菌のリスクを徹底遮断する3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "バジルの葉緑素が酸素に触れてフェオフィチンへ変換される化学的褐変原理と、オイル内の厭気性微生物の増殖抑制メカニズムを理解することが鮮度と食品安全の核心です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持罗勒酱（Basil Pesto）新鲜：科学储存指南",
                 "description": "根据USDA及FDA官方食品安全指南，了解罗勒酱防止叶绿素氧化变褐的方法、橄榄油油膜密封法及保质期。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "罗勒酱（Basil Pesto）由新鲜罗勒、松子、大蒜、帕玛森芝士与橄榄油调制而成，为意面和面包带来浓郁芳香！🌿🧀\n\n鲜艳的绿色和清香是罗勒酱的灵魂。然而，开封后若直接暴露在空气中，罗勒中的叶绿素会迅速氧化变成暗褐色；且浸泡在橄榄油中的生草本与大蒜会形成无氧环境，若储存不当极易滋生肉毒杆菌（Clostridium botulinum）。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，防止叶绿素破坏（变褐）并彻底杜绝肉毒杆菌风险。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解罗勒叶绿素在氧气作用下转化为脱镁叶绿素（Pheophytin）的化学变褐原理，以及抑制油中厌氧微生物滋生的机制，是保持新鲜度与食品安全的关键所在。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener fresco el pesto de albahaca: Guía científica de conservación",
                 "description": "Descubra los métodos óptimos de almacenamiento para prevenir la oxidación de la clorofila, el sellado con película de aceite y el tiempo de conservación según la USDA y la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "¡El pesto de albahaca (basil pesto) aporta un sabor fresco, aromático y rico a pastas y sándwiches gracias a la albahaca, los piñones, el ajo y el queso parmesano! 🌿🧀\n\nEl color verde brillante y el aroma fresco son la esencia del pesto de albahaca. Sin embargo, al exponerse al aire, la clorofila de la albahaca se oxida rápidamente tornándose café oscuro, mientras que las hierbas sumergidas en aceite crean un entorno anaeróbico propenso a la bacteria Clostridium botulinum si no se conserva adecuadamente.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para evitar la degradación de la clorofila (pardeamiento) y eliminar los riesgos de botulismo. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender el mecanismo químico por el cual la clorofila se convierte en feofitina marrón al contacto con el oxígeno, así como controlar el desarrollo microbiano anaeróbico en el aceite, es clave para la frescura y la seguridad alimentaria.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le pesto de basilic frais : Guide scientifique de stockage",
                 "description": "Découvrez les méthodes optimales pour éviter l'oxydation de la chlorophylle, le scellage par film d'huile et la durée de conservation du pesto de basilic selon l'USDA et la FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Le pesto de basilic (basil pesto) apporte une saveur riche et parfumée de basilic frais, pignons de pin, ail et parmesan à vos pâtes et sandwichs ! 🌿🧀\n\nSa couleur verte éclatante et son arôme frais sont le cœur du pesto. Cependant, une fois exposé à l'air, la chlorophylle du basilic s'oxyde rapidement en une couleur brune terne, tandis que les herbes baignant dans l'huile créent un milieu anaérobie propice à Clostridium botulinum si le pesto est mal conservé.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour éviter la dégradation de la chlorophylle (brunissement) et éliminer les risques de botulisme. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre le mécanisme chimique de conversion de la chlorophylle en phéophytine brune sous l'effet de l'oxygène et contrôler la prolifération microbienne anaérobie dans l'huile est la clé de la fraîcheur et de la sécurité alimentaire.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Basilikum-Pesto richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung von Chlorophyll-Oxidation, Ölfilm-Versiegelung und die Haltbarkeit von Basilikum-Pesto nach USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Basilikum-Pesto (Basil Pesto) Verleiht Nudeln und Sandwiches mit frischem Basilikum, Pinienkernen, Knoblauch und Parmesan ein herrliches Aroma! 🌿🧀\n\nDie leuchtend grüne Farbe und das frische Aroma machen das Pesto aus. Sobald es jedoch Luft ausgesetzt ist, oxidiert das Chlorophyll im Basilikum schnell zu einer braunen Farbe. Zudem schaffen in Öl eingelegte Kräuter und Knoblauch ein anaerobes Milieu, in dem sich bei falscher Lagerung Clostridium botulinum-Bakterien vermehren können.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Chlorophyllabbau (Braunwerden) zu verhindern und Botulismus-Risiken auszuschließen. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis des chemischen Mechanismus, durch den Chlorophyll bei Sauerstoffkontakt in braunes Pheophytin umgewandelt wird, sowie die Kontrolle des anaeroben Bakterienwachstums im Öl ist der Schlüssel zu Frische und Lebensmittelsicherheit.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o pesto de manjericão fresco: Guia científico de armazenamento",
                 "description": "Descubra os métodos ideais de conservação para prevenir a oxidação da clorofila, o selamento com filme de azeite e a validade do pesto de manjericão com base na USDA e FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "O pesto de manjericão (basil pesto) traz um sabor rico e aromático de manjericão fresco, pinolis, alho e queijo parmesão para massas e sanduíches! 🌿🧀\n\nA cor verde vibrante e o aroma fresco são a alma do pesto. No entanto, quando exposto ao ar, a clorofila do manjericão oxida rapidamente tornando-se castanha, enquanto ervas e alho imersos em azeite criam um ambiente anaeróbico propício à bactéria Clostridium botulinum se armazenados incorretamente.\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para evitar a degradação da clorofila (escurecimento) e eliminar os riscos de botulismo. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender o mecanismo químico de conversão da clorofila em feofitina castanha pelo contato com o oxigênio e controlar a proliferação microbiana anaeróbica no azeite é a chave para a frescura e a segurança alimentar.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Pesto Kemangi (Basil Pesto) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui metode penyimpanan optimal untuk mencegah oksidasi klorofil, penyegelan lapisan minyak zaitun, dan masa simpan pesto kemangi berdasarkan panduan USDA & FDA.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Pesto kemangi (Basil Pesto) menghadirkan cita rasa kaya nan harum dari daun kemangi (basil) segar, kacang pinus, bawang putih, dan keju parmesan untuk pasta dan roti Anda! 🌿🧀\n\nWarna hijau cerah dan aroma segar adalah keunggulan utama pesto kemangi. Namun, begitu terpapar udara, klorofil pada kemangi akan teroksidasi dengan cepat menjadi warna cokelat kusam, sementara herba dan bawang putih yang terendam minyak menciptakan lingkungan anaerobik yang memicu bakteri Clostridium botulinum jika tidak disimpan dengan benar.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk mencegah kerusakan klorofil (perubahan warna cokelat) dan memblokir risiko botulisme. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami mekanisme kimia perubahan klorofil menjadi feofitin cokelat akibat paparan oksigen serta mengendalikan pertumbuhan mikroba anaerobik dalam minyak adalah kunci utama menjaga kesegaran dan keamanan pangan.",

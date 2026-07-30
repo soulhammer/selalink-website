@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)"
 steps:
   - name: "개봉 즉시 밀폐용기나 위생 랩으로 옮겨 냉장 보관하기 — 개봉 후 냉장 보관 (3 ~ 5일) ❄️"
     text: "개봉 후 남은 햄은 오리지널 캔에서 바로 꺼내야 합니다. 💡 보관 팁: 햄을 캔에서 통째로 꺼내어 유리나 플라스틱 밀폐 용기에 담거나, 식품용 랩으로 빈틈없이 감싸서 냉장고(0 ~ 4℃)에 보관하세요. 공기 접촉을 막아 표면 수분 증발과 냉장고 잡내 흡수를 방지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

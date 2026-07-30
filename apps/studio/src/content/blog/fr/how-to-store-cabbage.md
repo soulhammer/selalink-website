@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & EFSA & FSA</strong>"
+authority: "RDA & EFSA & FSA"
 steps:
   - name: "Extirper le trognon en forme de cône — Bloquer la perte de nutriments 🔪"
     text: "Le trognon central sert de centre de croissance qui puise l'eau des feuilles après la récolte. 💡 Astuce de conservation : Utilisez la pointe d'un couteau pour évider le trognon en cône. Retirer le trognon élimine le point de départ de la dégradation du légume."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & EFSA & FSA</strong>.
+      Ce contenu est basé sur RDA & EFSA & FSA.
     </p>
   </div>
 </div>

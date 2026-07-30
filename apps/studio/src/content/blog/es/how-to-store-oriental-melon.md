@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oriental_melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envuelva los melones sin lavar individualmente con film plástico — Barrera de humedad 📦"
     text: "El secreto definitivo para conservar la textura crocante. 💡 Consejo de almacenamiento: Sin lavar, envuelva cada melón firmemente con film transparente sin dejar aberturas. Esto frena la evaporación de agua evitando que la piel se arrugue."
@@ -38,7 +38,7 @@ Los melones orientales contienen más de un 90 % de agua y un alto nivel de azú
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

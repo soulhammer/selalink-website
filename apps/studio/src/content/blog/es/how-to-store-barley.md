@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua ($A_w < 0,60$) 📦"
-    text: "Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua ($A_w$) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos."
+  - name: "Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua (actividad de agua (Aw) < 0.60) 📦"
+    text: "Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos."
   - name: "Guarde en una despensa fresca y oscura por debajo de 10–15 °C — Almacenamiento en Despensa (1 a 2 años) 🧺"
     text: "Mantenga la cebada alejada de la luz solar y el calor para ralentizar las reacciones enzimáticas. 💡 Consejo de almacenamiento: Almacene los recipientes en un armario oscuro y ventilado por debajo de 10–15 °C lejos de la cocina. Esto conserva el $\beta$-glucano de 1 a 2 años."
   - name: "Refrigere durante estaciones húmedas o almacenamiento a granel — Refrigeración (2 años o más) ❄️"
@@ -38,7 +38,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua ($A_w < 0,60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua (actividad de agua (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua ($A_w$) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos.
+    Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Evite la alta humedad y las temperaturas elevadas ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      La alta humedad relativa y el calor aceleran la descomposición del almidón en la cebada y aumentan el riesgo de micotoxinas. Mantenga el contenido de humedad por debajo del 12 % y la actividad de agua ($A_w < 0,60$) en un entorno seco y fresco.
+      La alta humedad relativa y el calor aceleran la descomposición del almidón en la cebada y aumentan el riesgo de micotoxinas. Mantenga el contenido de humedad por debajo del 12 % y la actividad de agua (actividad de agua (Aw) < 0.60) en un entorno seco y fresco.
     </p>
   </div>
 </div>

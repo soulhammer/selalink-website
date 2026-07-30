@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Não lave até o momento de consumir — Preserve a pruína natural 🫐"
     text: "A camada esbranquiçada que cobre os mirtilos é a 'Pruína' (Bloom), uma cera natural produzida pela própria fruta. Ela atua como um escudo essencial contra a desidratação, pragas e fungos. 💡 Dica de conservação: Lavar antes de guardar remove a pruína e altera a pressão osmótica da polpa, amolecendo-os rápido. Mantê-los secos é a regra principal."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & RDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & RDA & MFDS.
     </p>
   </div>
 </div>

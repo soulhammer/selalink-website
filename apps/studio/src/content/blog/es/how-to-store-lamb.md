@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lamb_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Seque los jugos y envuelva firmemente con film plástico — Eliminar jugos y bloquear oxígeno 📦"
     text: "Los jugos acumulados en la superficie provocan mal olor y descomposición, mientras que el oxígeno oxida las grasas. 💡 Consejo de almacenamiento: Seque la superficie con papel absorbente y envuelva cada pieza firmemente con film plástico sin dejar bolsas de aire para evitar la decoloración y deshidratación."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

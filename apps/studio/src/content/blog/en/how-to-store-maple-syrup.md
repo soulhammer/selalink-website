@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & CFIA & MFDS & RDA</strong>"
+authority: "USDA & CFIA & MFDS & RDA"
 steps:
   - name: "Store unopened bottles in a cool, dark place — Pantry Storage (1+ Year) 🏺"
     text: "Unopened maple syrup is hot-packed and commercially sterile, making it highly stable at room temperature. 💡 Storage Tip: Keep unopened bottles in a cool, dry pantry or cupboard away from direct sunlight (10–20°C). It preserves its original flavor and quality until the printed expiration date."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step maple syrup storage guide b
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & CFIA & MFDS & RDA</strong>.
+      This content is based on USDA & CFIA & MFDS & RDA.
     </p>
   </div>
 </div>

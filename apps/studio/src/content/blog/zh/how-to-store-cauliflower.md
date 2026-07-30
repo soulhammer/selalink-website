@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cauliflower_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "无需清洗，用厨房纸巾包裹 — 控湿防黄变 📦"
     text: "掸去花菜表面的泥土杂质，直接用厨房纸巾或报纸将整头花菜包裹好。💡储存小贴士：外层绿叶无需摘除，绿叶有助于锁住水分。厨房纸巾既能吸收多余湿气又能防止干枯，是防止黄化的第一道屏障。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

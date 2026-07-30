@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sausage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 포장으로 냉장 보관하기 — 개봉 후 냉장 (생소시지 1 ~ 2일 / 익힌 소시지 7일) 📦"
     text: "소시지 보관의 핵심은 공기 및 수분 접촉을 최소화하는 것입니다. 💡 보관 팁: 남은 소시지의 표면 수분을 키친타월로 가볍게 닦아낸 뒤, 랩으로 밀착 감싸 밀폐 지퍼백에 담아 냉장고 깊은 선반(0 ~ 4℃)에 보관하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Nach dem Öffnen dicht verschließen und bei 0–5 °C kühlen — Kühllagerung (6–12 Monate) ❄️"
     text: "Ungeöffnet hält sich Gochujang bei Raumtemperatur, doch Sauerstoff startet nach dem Öffnen den Verderb. 💡 Lagerungstipp: Wischen Sie den Rand der Dose vor dem Schließen sauber, verschließen Sie den Deckel fest und kühlen Sie die Paste bei 0–5 °C."
@@ -36,7 +36,7 @@ Obwohl Gochujang ein traditionell fermentiertes Produkt mit hohem Salzgehalt ist
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>MFDS & KFRI & USDA</strong>.
+      Dieser Inhalt basiert auf MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

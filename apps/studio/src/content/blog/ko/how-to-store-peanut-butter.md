@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "천연 땅콩버터는 거꾸로 뒤집어 보관하기 — 기름 분리 방지 🔄"
     text: "유화제가 들어가지 않은 100% 천연 땅콩버터는 보관 중 상단에 땅콩 기름이 층을 이루며 분리됩니다. 💡 보관 팁: 개별 용기 뚜껑을 꽉 닫은 후 거꾸로 뒤집어서 보관해 보세요. 위로 떠오르려는 기름이 아래로 천천히 침투하면서 고루 섞여, 매번 저어야 하는 번거로움을 줄이고 바닥이 딱딱하게 마르는 것을 막아줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & EFSA</strong>"
+authority: "RDA & USDA & EFSA"
 steps:
   - name: "Corte la base del tallo y envuélvala con papel húmedo — Hidratación del tallo 🥦"
     text: "El tallo grueso del brócoli es la vía principal que aporta agua y nutrientes a las flores superiores. 💡 Consejo de almacenamiento: Recorte unos 0.5 cm de la base del tallo y envuélvalo con una toalla de papel húmeda bien escurrida. Suministrar humedad continua evita que los capullos se sequen y florezcan."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & EFSA</strong>.
+      Este contenido se basa en RDA & USDA & EFSA.
     </p>
   </div>
 </div>

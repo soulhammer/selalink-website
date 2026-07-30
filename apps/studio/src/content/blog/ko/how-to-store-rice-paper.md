@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/rice_paper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 후 지퍼백에 넣어 평평하게 밀봉하기 — 습도 차단 및 균열 방지 📦"
     text: "공기 중 수분 변화로부터 전분 구조를 보호하는 첫 단계입니다. 💡 보관 팁: 개봉한 라이스페이퍼는 원래 포장지째 두면 공기가 들어가므로, 밀폐 지퍼백이나 전용 플라스틱 보관 용기에 휨 없이 평평하게 넣고 공기를 빼서 밀봉하세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

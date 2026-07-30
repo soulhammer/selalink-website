@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/condensed_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver les boîtes ou tubes non ouverts dans un placard frais — Stockage (jusqu'à 1 an) 📦"
     text: "Le lait concentré non ouvert en boîte ou tube est stérilisé et se conserve à température ambiante. 💡 Astuce de conservation : Gardez-le dans un placard frais et sec (15–20 °C) à l'abri du soleil jusqu'à 1 an."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique en 3 étapes basé sur les r
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

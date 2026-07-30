@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Envelopper chaque gousse dans du papier paraffiné ou du film étirable — Protection contre le dessèchement 📜"
     text: "Enveloppez individuellement chaque gousse de vanille dans du papier paraffiné (Wax Paper) ou du film étirable pour réduire les frottements et stopper l'évaporation de l'eau."
@@ -25,7 +25,7 @@ faqs:
 
 Les gousses de vanille naturelles (vanilla beans) apportent un arôme doux et élégant incomparable à la pâtisserie fine ! 🍦✨
 
-Ces gousses renferment un précieux composé aromatique : la vanilline. En raison de leur prix élevé, beaucoup commettent l'erreur de les conserver au réfrigérateur. Or, le froid provoque une condensation d'eau sur la gousse lors des variations de température, augmentant l'activité de l'eau ($A_w$) et favorisant l'apparition de moisissures.
+Ces gousses renferment un précieux composé aromatique : la vanilline. En raison de leur prix élevé, beaucoup commettent l'erreur de les conserver au réfrigérateur. Or, le froid provoque une condensation d'eau sur la gousse lors des variations de température, augmentant l'activité de l'eau (activité de l'eau (Aw)) et favorisant l'apparition de moisissures.
 
 Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour préserver la vanilline et éliminer tout risque de moisissure. 🛡️
 
@@ -38,7 +38,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Ne conservez jamais vos gousses de vanille au réfrigérateur ou au congélateur ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Le passage au frais provoque de la condensation dès que la gousse entre en contact avec l'air ambiant. Cela fait grimper l'activité de l'eau ($A_w$), offrant un terrain idéal aux moisissures (Aspergillus) et dégradant la structure de la vanilline.
+      Le passage au frais provoque de la condensation dès que la gousse entre en contact avec l'air ambiant. Cela fait grimper l'activité de l'eau (activité de l'eau (Aw)), offrant un terrain idéal aux moisissures (Aspergillus) et dégradant la structure de la vanilline.
     </p>
   </div>
 </div>

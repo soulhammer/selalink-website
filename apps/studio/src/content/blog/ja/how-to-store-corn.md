@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/corn_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "皮つきのまま低温冷蔵保存する — 短期冷蔵 (2〜3日間) 📦"
     text: "収穫直後の皮は水分蒸発を防ぐ天然の保護膜です。💡保存のコツ：薄皮を1〜2枚残した状態でポリ袋に入れて密閉し、冷蔵庫の野菜室（0〜2℃）で保存してください。酵素の反応を遅らせ、2〜3日間甘みをキープできます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

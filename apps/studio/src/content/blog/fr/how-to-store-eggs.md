@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Ne lavez jamais les œufs à l'eau — Conserver la cuticule et réfrigérer (45 jours) 💧"
     text: "La coquille d'œuf comporte entre 7 000 et 17 000 pores microscopiques. 💡 Astuce de conservation : Laver les œufs dissout la cuticule protectrice, laissant l'eau et les bactéries (Salmonelles) pénétrer par les pores. Épongez la saleté à sec avec du papier absorbant au lieu de laver."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA & FDA</strong>.
+      Ce contenu est basé sur MFDS & USDA & FDA.
     </p>
   </div>
 </div>

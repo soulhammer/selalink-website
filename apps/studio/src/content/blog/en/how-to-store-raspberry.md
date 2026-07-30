@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Arrange unwashed berries in a single layer on paper towels — Moisture Control & Cushioning 🧻"
     text: "Stacking raspberries causes the bottom layers to crush under their own weight, trapping moisture and encouraging mold. 💡 Storage Tip: Line an airtight container with a paper towel to absorb ambient humidity, and place unwashed raspberries in a single layer without overlapping before sealing."
@@ -18,14 +18,14 @@ steps:
     text: "Since fresh raspberries have a very short shelf life, freezing is essential if you cannot finish them within 3 days. 💡 Storage Tip: Gently rinse raspberries, dry them completely with paper towels, flash-freeze in a single layer on a tray, then transfer to freezer Ziploc bags (-18°C / 0°F). Great for smoothies and desserts for 10–12 months."
 faqs:
   - question: "Why shouldn't raspberries be washed before storage?"
-    answer: "Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity ($A_w$) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours."
+    answer: "Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity (Aw) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours."
   - question: "Why do frozen raspberries collapse when thawed, and how should I use them?"
     answer: "Raspberries have fragile cell walls that rupture during freezing; upon thawing, cell sap leaks out, making them mushy. It is best to use frozen raspberries directly without thawing in smoothies, yogurt toppings, or baking recipes."
 ---
 
 Have you ever bought beautiful, sweet raspberries only to find them moldy or mushy just a couple of days after putting them in the fridge? 🍓
 
-Raspberries are a staple berry for breakfasts and desserts worldwide, but because of their very thin skin and hollow core, they have an extremely high respiration rate and spoil faster than almost any other fruit. Washing them increases surface water activity ($A_w$) close to 1.0, causing latent grey mold (*Botrytis cinerea*) spores to break down cell walls and rapidly proliferate within hours.
+Raspberries are a staple berry for breakfasts and desserts worldwide, but because of their very thin skin and hollow core, they have an extremely high respiration rate and spoil faster than almost any other fruit. Washing them increases surface water activity (Aw) close to 1.0, causing latent grey mold (*Botrytis cinerea*) spores to break down cell walls and rapidly proliferate within hours.
 
 In this guide, we introduce a scientifically proven 3-step raspberry storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️
 
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step raspberry storage gui
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ In this guide, we introduce a scientifically proven 3-step raspberry storage gui
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Never wash raspberries immediately upon purchase 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Washing raspberries prior to storage pushes surface water activity ($A_w$) close to 1.0. This activates latent *Botrytis cinerea* (grey mold) spores, which break down cell walls and ruin the fruit within hours. Wash them only right before eating.
+      Washing raspberries prior to storage pushes surface water activity (Aw) close to 1.0. This activates latent *Botrytis cinerea* (grey mold) spores, which break down cell walls and ruin the fruit within hours. Wash them only right before eating.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ In this guide, we introduce a scientifically proven 3-step raspberry storage gui
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity ($A_w$) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours.
+      Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity (Aw) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours.
     </p>
   </details>
 

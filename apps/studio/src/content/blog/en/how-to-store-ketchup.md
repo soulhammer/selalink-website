@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ketchup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Pantry before opening, refrigerate immediately after — Refrigerated Storage (180 Days) ❄️"
     text: "Unopened ketchup can be stored in a cool pantry for up to 1 year, but opening it accelerates oxidation and color fading. 💡 Storage Tip: Always refrigerate ketchup once opened (0–4°C / 32–39°F) and consume within 6 months (180 days) for peak flavor and color."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step ketchup storage guide b
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

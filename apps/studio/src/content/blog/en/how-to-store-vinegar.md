@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS</strong>"
+authority: "FDA & MFDS"
 steps:
   - name: "Block direct sunlight and heat sources — Dark Pantry Storage (15–25°C) 📦"
     text: "Exposing vinegar to heat or light accelerates oxidation, degrading both color and flavor profile. 💡 Storage Tip: Store vinegar in a cool, dark cabinet or pantry (15–25°C) away from windows and hot kitchen appliances."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step storage guide based on 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & MFDS</strong>.
+      This content is based on FDA & MFDS.
     </p>
   </div>
 </div>

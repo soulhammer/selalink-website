@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Amadureça em temperatura ambiente fresca — Maximize a doçura e o aroma 📦"
     text: "Deixe os pêssegos firmes em temperatura ambiente fresca (15–20 °C) longe da luz solar direta por 1 a 3 dias para amadurecerem naturalmente. 💡 Dica de conservação: Evite que se encostem e espere até ficarem macios ao toque."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de espec
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>RDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & UC Davis Postharvest Center</strong>"
+authority: "RDA & USDA & UC Davis Postharvest Center"
 steps:
   - name: "Basil: Trim stems and store in a water jar at room temp (15–20°C) — Room Temp Bouquet Method 🌸"
     text: "Cold-sensitive basil thrives at cool room temperature. 💡 Storage Tip: Trim 1 cm off the stems, place upright in a jar filled with 1–2 cm of water, and loosely cover the leaves with a plastic bag at room temperature (15–20°C / 59–68°F) for 7–10 days."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step herb storage guide base
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & UC Davis Postharvest Center</strong>.
+      This content is based on RDA & USDA & UC Davis Postharvest Center.
     </p>
   </div>
 </div>

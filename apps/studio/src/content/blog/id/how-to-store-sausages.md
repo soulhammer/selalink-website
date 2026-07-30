@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sausage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Bungkus rapat kedap udara lalu simpan di kulkas — Simpan Dingin (Mentah 1–2 Hari / Matang 7 Hari) 📦"
     text: "Meminimalkan kontak dengan udara dan kelembapan permukaan adalah kunci utama. 💡 Tips Penyimpanan: Keringkan permukaan sosis dengan tisu dapur, bungkus rapat dengan plastik wrap, lalu simpan dalam kantong Ziploc di kulkas (0–4°C)."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

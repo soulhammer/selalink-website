@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/condensed_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde latas ou tubos fechados na despensa — Temperatura ambiente (até 1 ano) 📦"
     text: "O leite condensado fechado em lata ou bisnaga é esterilizado e durável em temperatura ambiente. 💡 Dica de conservação: Mantenha em local fresco e seco (15-20 °C) longe do sol por até 1 ano."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

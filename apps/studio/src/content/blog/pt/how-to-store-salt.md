@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Guarde em recipientes herméticos não metálicos (Vidro, Cerâmica, Plástico) — Vedação e Anticorrosão 📦"
     text: "Tampas ou potes de metal reagem com o sal, gerando ferrugem e contaminação. 💡 Dica de conservação: Use potes de vidro, cerâmica ou plástico hermético para proteger o sal da umidade do ar e evitar a corrosão."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em recomendações de espec
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

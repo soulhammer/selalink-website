@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & APCC</strong>"
+authority: "USDA & MFDS & APCC"
 steps:
   - name: "Bei 20–24 °C im kühlen, dunklen Vorratsschrank lagern — Dicht verschlossene Lagerung (360–720 Tage) 📦"
     text: "Kokosöl muss nicht zwingend im Kühlschrank gelagert werden und lässt sich bei kühler Raumtemperatur am besten verwenden. 💡 Lagerungstipp: Bewahren Sie es im dunklen Vorratsschrank (20–24 °C) auf. Unter diesen Bedingungen hält sich geöffnetes Kokosöl problemlos 1 bis 2 Jahre frisch."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS & APCC</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS & APCC.
     </p>
   </div>
 </div>

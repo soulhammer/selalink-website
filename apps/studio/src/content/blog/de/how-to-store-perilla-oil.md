@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30–60 Tage) ❄️"
     text: "Im Gegensatz zu Sesamöl fehlt Perillaöl Sesamol, und es enthält sehr viel reaktive Omega-3-Fettsäuren, weshalb es bei Raumtemperatur binnen Tagen ranzig wird. 💡 Lagerungstipp: Kühlen Sie Perillaöl direkt nach dem Kauf bei 0–4 °C, um die Fettoxidation zu stoppen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & MFDS & USDA</strong>.
+      Dieser Inhalt basiert auf RDA & MFDS & USDA.
     </p>
   </div>
 </div>

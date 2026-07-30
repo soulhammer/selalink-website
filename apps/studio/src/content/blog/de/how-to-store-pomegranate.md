@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pomegranate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Ganze Frucht in Folie wickeln bei 5–7 °C und 80–85 % LF — Schalenverdunstung stoppen (2–3 Monate) 📦"
     text: "Für ganze Granatäpfel ist die Vermeidung von Feuchtigkeitsverlust über die Schale entscheidend. 💡 Lagerungstipp: Wickeln Sie die Frucht in Frischhaltefolie bei 5–7 °C und 80–85 % Luftfeuchtigkeit (Gemüsefach). Verhindert Kälteschäden für 2–3 Monate."
@@ -38,7 +38,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
   </div>
 </div>

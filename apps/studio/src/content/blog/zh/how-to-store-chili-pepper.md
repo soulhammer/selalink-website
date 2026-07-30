@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "擦干水分并保留辣椒蒂，用厨房纸巾包裹 — 湿度调节 📦"
     text: "既要防止表皮干枯，又要吸收冷凝水汽是保鲜关键。💡储存小贴士：保持干燥不洗，擦干表面水分，保留辣椒蒂，用厨房纸巾将5 ~ 10根辣椒包裹一组。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

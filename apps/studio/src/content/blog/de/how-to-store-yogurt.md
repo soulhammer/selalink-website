@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/yogurt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Mit sauberem, trockenem Löffel entnehmen und dicht verschließen — Kontaminationsschutz 📦"
     text: "Essen Sie nicht direkt aus dem großen Becher. Entnehmen Sie die gewünschte Menge mit einem sauberen Löffel. 💡 Lagerungstipp: Wischen Sie Ränder mit Küchenpapier ab und verschließen Sie den Deckel fest, damit keine Schimmelsporen eindringen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

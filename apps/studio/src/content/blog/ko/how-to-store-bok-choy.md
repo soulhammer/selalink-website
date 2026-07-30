@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bok_choy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "씻지 않고 키친타월로 감싸기 — 수분 응축 및 증발 제어 📦"
     text: "청경채 표면의 수분을 닦아내고 세척하지 않은 상태에서 키친타월로 감싸주세요. 💡 보관 팁: 키친타월이 잎에서 배어나오는 과도한 습기(수분 응축)는 흡수하고 수분 증발은 막아주어, 미생물 부패와 세포 팽창압 손실에 의한 시듦을 동시에 방지합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

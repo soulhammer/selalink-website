@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mackerel_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & RDA & USDA & MFDS</strong>"
+authority: "NIFS & RDA & USDA & MFDS"
 steps:
   - name: "Buang isi perut dan bersihkan darah — Hentikan autolisis & bau amis 🔪"
     text: "Buang insang dan isi perut, lalu bilas sisa darah serta selaput hitam di sepanjang tulang belakang di bawah air mengalir. 💡 Tips Penyimpanan: Bagian isi perut paling cepat membusuk. Mengeringkan bagian dalam dan luar dengan tisu dapur hingga benar-benar kering adalah langkah utama mencegah bakteri dan bau amis."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NIFS & RDA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada NIFS & RDA & USDA & MFDS.
     </p>
   </div>
 </div>

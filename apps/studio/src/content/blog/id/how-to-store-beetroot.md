@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beetroot_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Potong daun atas, sisakan batang sekitar 2 cm — Hentikan Kehilangan Air & Nutrisi ✂️"
     text: "Menghentikan transpirasi dari daun adalah langkah utama. 💡 Tips Penyimpanan: Memotong batang terlalu mepet membuat luka yang mengeluarkan sari betasianin. Sisakan batang sekitar 2 cm untuk menutup jalur kehilangan air dan nutrisi."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan bit 3 langkah berbasis il
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cream_cheese_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Envolva firmemente com filme plástico após abrir — Bloquear o ar e evitar mofo 📦"
     text: "Expor a superfície do cream cheese ao ar resseca o produto e acelera a proliferação de mofo. 💡 Dica de conservação: Pressione o filme plástico diretamente sobre a superfície cortada sem deixar bolhas."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e MFD
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

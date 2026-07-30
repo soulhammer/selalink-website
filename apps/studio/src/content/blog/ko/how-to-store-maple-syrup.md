@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/maple_syrup_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "미개봉 제품은 직사광선을 피해 서늘한 곳에 보관하기 — 미개봉 실온 보관 (1년 이상) 🏺"
     text: "개봉하지 않은 메이플 시럽은 고온 가열 멸균 처리되어 상온에서 매우 안정적입니다. 💡 보관 팁: 직사광선이 비치지 않는 서늘하고 건조한 팬트리나 찬장(10 ~ 20℃)에 보관하세요. 용기에 표기된 유통기한까지 원래의 풍미와 영양을 유지할 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 캐나다 식품검사청(CFIA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>IOC & USDA & MFDS</strong>"
+authority: "IOC & USDA & MFDS"
 steps:
   - name: "Nunca guarde en el refrigerador — Evite la solidificación y pérdida de aroma ❌❄️"
     text: "Colocar aceite de oliva en el refrigerador hace que las grasas se congelen en una pasta blanca. 💡 Consejo de almacenamiento: La descongelación repetida destruye sus polifenoles y aromas frutales. La temperatura óptima para el aceite de oliva es de 14 a 18 °C a temperatura ambiente fresca."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía científica en 3 pasos basada en las directr
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>IOC & USDA & MFDS</strong>.
+      Este contenido se basa en IOC & USDA & MFDS.
     </p>
   </div>
 </div>

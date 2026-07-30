@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Always store in the refrigerator at 0–4°C — Cold Storage (30–60 Days) ❄️"
     text: "Unlike sesame oil, perilla oil lacks sesamol and contains high levels of reactive omega-3 fatty acids, causing it to oxidize rapidly at room temperature. 💡 Storage Tip: Refrigerate perilla oil at 0–4°C (32–39°F) immediately after purchase to slow down lipid oxidation significantly."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & MFDS & USDA</strong>.
+      This content is based on RDA & MFDS & USDA.
     </p>
   </div>
 </div>

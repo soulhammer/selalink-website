@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)</strong>"
+authority: "食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)"
 steps:
   - name: "パックの水を完全に捨てて流水で洗い流す — 雑菌繁殖の遮断 🚿"
     text: "豆腐パック内の水は大豆タンパク質が溶け出しており、細菌が最も繁殖しやすい状態です。💡保存のコツ：パックの水は完全に捨て、豆腐を流れる冷水で軽く洗って表面のタンパク質成分と雑菌を洗い流してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)</strong>に基づいています。
+      本コンテンツは、食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vinegar_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & MFDS</strong>"
+authority: "FDA & MFDS"
 steps:
   - name: "Vor Sonnenlicht und Hitze schützen — Vorratskammer (15–25 °C) 📦"
     text: "Licht und Wärme beschleunigen die Oxidation des Essigs. 💡 Lagerungstipp: Bewahren Sie Essig an einem dunklen, kühlen Ort (15–25 °C) fernab von Fenstern und Kochfeldern auf."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & MFDS.
     </p>
   </div>
 </div>

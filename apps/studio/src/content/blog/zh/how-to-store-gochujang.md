@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)"
 steps:
   - name: "开封后密封并置于0 ~ 5℃冷藏 — 冷藏保存 (6 ~ 12个月) ❄️"
     text: "未开封的辣酱虽可常温保存，但开封接触氧气后即开始变质。💡储存小贴士：盖上盖子前先将盒口边缘残留的辣酱擦拭干净，紧闭盖子后放入0 ~ 5℃冰箱冷藏。低温可有效抑制过度发酵、美拉德变黑及霉菌滋生。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 韩国食品研究院(KFRI)。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "In einen luftdichten Behälter umfüllen und Luftkontakt minimieren — Kontamination verhindern 📦"
     text: "Lässt man die Soße in der geöffneten Originalverpackung, kann durch den Deckel Luft eindringen und das Risiko einer Verunreinigung steigt. 💡 Lagerungstipp: Füllen Sie die restliche Soße in einen sauberen, trockenen luftdichten Behälter (Glas oder lebensmittelechter Kunststoff) um und verschließen Sie ihn fest. Weniger Luftkontakt bewahrt die Frische."
@@ -38,7 +38,7 @@ Heute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, d
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & FDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & FDA & MFDS.
     </p>
   </div>
 </div>

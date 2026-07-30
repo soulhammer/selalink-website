@@ -8,7 +8,7 @@
             "ko": {
                 "title": "소금 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 소금의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "소금 용기를 열었더니 축축하게 젖어 서로 뭉쳐있거나, 용기 입구가 녹슬어 곤란했던 적 있으시죠? 🧂\n\n소금은 수분 활성도가 거의 0에 가까워 미생물이 번식할 수 없기 때문에 유통기한이 없는 대표적인 무기질 식재료입니다. 하지만 상대습도가 높으면 공기 중의 수분을 빠르게 흡수하며, 금속을 부식시키는 강력한 화학적 특성을 지니고 있습니다. 올바르지 않은 보관법은 덩어리짐, 용기 부식, 위생 저해의 원인이 됩니다.\n\n이번 가이드에서는 식품 안전 전문가들의 안전 가이드라인을 바탕으로, 소금의 고운 입자를 변질 없이 영구적으로 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Salt Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for salt based on official safety guidelines.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Have you ever opened your salt shaker or jar only to find it damp and clumped together, or noticed the container rusted and ruined? 🧂\n\nSalt is a representative inorganic mineral ingredient without an expiration date because its near-zero water activity prevents bacteria and microbes from growing. However, it readily absorbs moisture under high relative humidity and possesses strong corrosive properties against metals. Improper storage causes clumping, container corrosion, and contamination.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert food safety guidelines to keep your salt fine, dry, and usable indefinitely. 🛡️",
                 "whyTitle": "Why Store Salt This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "塩を新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づく塩の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "塩の容器を開けたら湿気で固まっていたり、容器の金属部分が錆びて困った経験はありませんか？🧂\n\n塩は水分活性がほぼゼロに近く細菌や微生物が繁殖できないため、賞味期限が存在しない代表的な無機質食材です。しかし、相対湿度が高くなると空気中の水分を急速に吸収し、金属を腐食させる強力な化学的性質を持っています。不適切な保存方法は固まりや容器のサビ、衛生低下の原因になります。\n\n本記事では、食品安全専門家のガイドラインに基づき、塩のサラサラとした粒子を物理的変質なく永久に保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持食盐新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解食盐的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾打开盐罐发现食盐受潮结块，或是容器口因为盐分侵蚀而生锈损坏？🧂\n\n食盐的水分活性接近于零，细菌和微生物无法滋生，因此它是没有保质期的代表性无机矿物食材。然而，在相对湿度较高的环境中，食盐会迅速吸收空气中的水分，并对金属具有较强的腐蚀性。不当的储存方式会导致结块、容器生锈和卫生隐患。\n\n本指南基于食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持食盐干爽细软的品质。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la sal fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la sal según las directrices oficiales de seguridad.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "¿Alguna vez abrió su salero o tarro de sal solo para encontrarlo húmedo y apelmazado, o notó que el recipiente se había oxidado? 🧂\n\nLa sal es un mineral inorgánico sin fecha de caducidad, ya que su actividad de agua cercana a cero impide el desarrollo de bacterias o microorganismos. Sin embargo, absorbe agua rápidamente cuando la humedad relativa es alta y posee un fuerte poder corrosivo contra los metales. Un almacenamiento inadecuado provoca apelmazamiento, corrosión del envase y pérdida de higiene.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos en seguridad alimentaria para mantener su sal fina, seca y perfecta de forma indefinida. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le sel frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le sel selon les directives officielles de sécurité.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Avez-vous déjà ouvert votre salière pour constater que le sel était humide et collé en blocs, ou que le couvercle en métal était rouillé ? 🧂\n\nLe sel est un ingrédient minéral inorganique sans date de péremption, car son activité de l'eau proche de zéro empêche toute prolifération bactérienne. Cependant, il absorbe très vite l'eau lorsque l'humidité ambiante est élevée et possède une forte action corrosive sur les métaux. Un stockage inapproprié entraîne la formation de grumeaux, la rouille des récipients et une baisse d'hygiène.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour garder votre sel sec, fluide et utilisable indéfiniment. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Salz richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salz basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Haben Sie Ihren Salzstreuer oder Ihre Salzdose geöffnet und festgestellt, dass das Salz feucht und verklumpt war oder der Metalldeckel gerostet ist? 🧂\n\nSalz ist ein mineralisches Lebensmittel ohne Ablaufdatum, da seine Wasseraktivität von nahezu Null das Wachstum von Bakterien verhindert. Bei hoher Luftfeuchtigkeit zieht es jedoch extrem schnell Wasser an und wirkt stark korrosiv auf Metalle. Falsche Lagerung führt zu Verklumpung, Behälterkorrosion und Hygieneeinbußen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihr Salz dauerhaft rieselfähig, trocken und rein zu halten. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar o sal fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para o sal com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Você já abriu seu salreiro ou pote de sal e percebeu que ele estava úmido e empelotado, ou que a tampa de metal enferrujou? 🧂\n\nO sal é um ingrediente mineral inorgânico sem data de validade, pois sua atividade de água próxima de zero impede a proliferação de bactérias e microrganismos. No entanto, ele absorve umidade rapidamente sob alta umidade relativa e possui forte ação corrosiva contra metais. O armazenamento inadequado causa empelotamento, corrosão do recipiente e falta de higiene.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter seu sal fino, seco e perfeito por tempo indeterminado. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Garam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk garam berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>FDA & USDA & MFDS</strong>",
+                "authority": "FDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membuka tempat garam lalu mendapati garamnya basah dan menggumpal, atau bagian tutup logamnya berkarat? 🧂\n\nGaram adalah bahan mineral anorganik yang tidak memiliki tanggal kedaluwarsa karena kadar airnya yang mendekati nol mencegah pertumbuhan bakteri dan mikroba. Namun, garam sangat cepat menyerap air pada kelembapan tinggi dan memiliki sifat korosif yang kuat terhadap logam. Penyimpanan yang salah menyebabkan penggumpalan, karat pada wadah, dan penurunan higienitas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga garam Anda tetap halus, kering, dan dapat digunakan selamanya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

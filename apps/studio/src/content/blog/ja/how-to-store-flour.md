@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/flour_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "密閉容器やガラス瓶に移す — 湿気と害虫の完全遮断 📦"
     text: "小麦粉保存の鍵は、空気、湿気、害虫の侵入を元から断つことです。💡保存のコツ：開封した小麦粉はパッキン付きの密閉容器やガラス瓶に入れ、フタをしっかり閉めてください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

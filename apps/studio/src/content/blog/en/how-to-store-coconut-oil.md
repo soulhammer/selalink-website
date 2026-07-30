@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & APCC</strong>"
+authority: "USDA & MFDS & APCC"
 steps:
   - name: "Store in a cool, dark pantry at 20–24°C — Sealed Pantry Storage (360–720 Days) 📦"
     text: "Coconut oil does not require mandatory refrigeration and is most convenient to use at cool room temperature. 💡 Storage Tip: Store in a dark pantry or cabinet away from sunlight (20–24°C / 68–75°F). In these conditions, opened coconut oil easily maintains its flavor and freshness for 1 to 2 years."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step coconut oil storage gui
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS & APCC</strong>.
+      This content is based on USDA & MFDS & APCC.
     </p>
   </div>
 </div>

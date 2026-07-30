@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Blanchir brièvement à l'eau bouillante pour retirer l'huile rance — Blanchiment dégraissant 🫖"
     text: "L'huile de friture de surface s'oxyde vite à l'air et accélère la dégradation. 💡 Astuce de conservation : Plongez les gâteaux de poisson 10 à 20 secondes dans l'eau bouillante ou arrosez-les d'eau bouillante. Cela élimine les graisses oxydées, impuretés et germes de surface."
@@ -36,7 +36,7 @@ Riches en eau et en protéines, les gâteaux de poisson ont une surface couverte
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA & FDA</strong>.
+      Ce contenu est basé sur MFDS & USDA & FDA.
     </p>
   </div>
 </div>

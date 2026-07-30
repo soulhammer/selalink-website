@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/quinoa_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FAO & MFDS</strong>"
+authority: "USDA & FAO & MFDS"
 steps:
-  - name: "Guarde en recipientes herméticos y opacos para controlar la actividad de agua ($A_w < 0,65$) — Almacenamiento Hermético (1 a 2 años) 📦"
-    text: "Para la quinua cruda y seca, minimizar el contacto con el aire y la luz es clave. 💡 Consejo de almacenamiento: Coloque la quinua en un frasco opaco o recipiente hermético con bolsas de gel de sílice. Mantener la actividad de agua ($A_w$) por debajo de 0,65 ralentiza la autooxidación de 1 a 2 años en una despensa fresca y oscura (menos de 15–20 °C)."
+  - name: "Guarde en recipientes herméticos y opacos para controlar la actividad de agua (actividad de agua (Aw) < 0,65) — Almacenamiento Hermético (1 a 2 años) 📦"
+    text: "Para la quinua cruda y seca, minimizar el contacto con el aire y la luz es clave. 💡 Consejo de almacenamiento: Coloque la quinua en un frasco opaco o recipiente hermético con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 ralentiza la autooxidación de 1 a 2 años en una despensa fresca y oscura (menos de 15–20 °C)."
   - name: "Refrigere o congele para suprimir por completo la rancedad lipídica — Congelación/Refrigeración (2 años o más) ❄️"
     text: "Si vive en un clima húmedo o desea conservar grandes cantidades de quinua, el almacenamiento a baja temperatura es óptimo. 💡 Consejo de almacenamiento: Selle en recipientes herméticos o bolsas Ziploc y refrigere (0–4 °C) o congele (-18 °C). Las temperaturas bajo cero detienen la oxidación y conservan el sabor más de 2 años."
   - name: "Guarde la quinua cocida en recipientes herméticos en el refrigerador o congelador — Quinua Cocida (Refrigerada 5–7 días / Congelada 8–12 meses) 🧊"
@@ -25,7 +25,7 @@ faqs:
 
 Originaria de los Andes sudamericanos, la quinua es un superalimento rico en proteínas reconocido mundialmente como un sustituto saludable de los cereales. Sin embargo, ¿alguna vez compró quinua a granel solo para descubrir que con el tiempo olía rancia o se humedecía? 🌾
 
-A diferencia de otros granos, la quinua tiene un contenido relativamente alto de ácidos grasos insaturados (aprox. 6 %). Al exponerse al oxígeno del aire, se forman hidroperóxidos de lípidos, desencadenando una rápida autooxidación lipídica. Este proceso genera olores rancios y destruye valiosos nutrientes. Además, si se lava prematuramente la capa protectora natural de saponina y la actividad de agua ($A_w$) supera 0,65, se crea un entorno propicio para el moho y las plagas.
+A diferencia de otros granos, la quinua tiene un contenido relativamente alto de ácidos grasos insaturados (aprox. 6 %). Al exponerse al oxígeno del aire, se forman hidroperóxidos de lípidos, desencadenando una rápida autooxidación lipídica. Este proceso genera olores rancios y destruye valiosos nutrientes. Además, si se lava prematuramente la capa protectora natural de saponina y la actividad de agua (actividad de agua (Aw)) supera 0,65, se crea un entorno propicio para el moho y las plagas.
 
 En esta guía se presenta una guía científica en 3 pasos respaldada por autoridades internacionales para prevenir la rancedad y conservar la nutrición por más de 2 años. 🛡️
 
@@ -38,7 +38,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FAO & MFDS</strong>.
+      Este contenido se basa en USDA & FAO & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">PASO 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde en recipientes herméticos y opacos para controlar la actividad de agua ($A_w < 0,65$) — Almacenamiento Hermético (1 a 2 años) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Guarde en recipientes herméticos y opacos para controlar la actividad de agua (actividad de agua (Aw) < 0,65) — Almacenamiento Hermético (1 a 2 años) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Para la quinua cruda y seca, minimizar el contacto con el aire y la luz es clave. 💡 Consejo de almacenamiento: Coloque la quinua en un frasco opaco o recipiente hermético con bolsas de gel de sílice. Mantener la actividad de agua ($A_w$) por debajo de 0,65 ralentiza la autooxidación de 1 a 2 años en una despensa fresca y oscura (menos de 15–20 °C).
+    Para la quinua cruda y seca, minimizar el contacto con el aire y la luz es clave. 💡 Consejo de almacenamiento: Coloque la quinua en un frasco opaco o recipiente hermético con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 ralentiza la autooxidación de 1 a 2 años en una despensa fresca y oscura (menos de 15–20 °C).
   </p>
 </div>
 
@@ -86,7 +86,7 @@ En esta guía se presenta una guía científica en 3 pasos respaldada por autori
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">No lave la quinua antes de guardarla 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Lavar la capa de saponina protectora antes del almacenamiento deja humedad residual, elevando la actividad de agua ($A_w$) y acelerando el moho y la autooxidación lipídica. Lávela justo antes de cocinar.
+      Lavar la capa de saponina protectora antes del almacenamiento deja humedad residual, elevando la actividad de agua (actividad de agua (Aw)) y acelerando el moho y la autooxidación lipídica. Lávela justo antes de cocinar.
     </p>
   </div>
 </div>

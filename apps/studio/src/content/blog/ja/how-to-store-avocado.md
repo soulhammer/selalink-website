@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑"
     text: "固くて未熟なアボカドは15〜20℃の常温で保存することで正常に追熟します。💡保存のコツ：アボカドを紙袋に入れ、リンゴやバナナを一緒に入れておくと、それらの果物から放出されるエチレンガスが充満し、追熟スピードをより早く安定して早めることができます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、CAC & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mayonnaise_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "开封前常温，开封后立即冷藏 — 冷藏保存 (60 ~ 90天) ❄️"
     text: "未开封前可置于避光阴凉的常温环境中，但开封后因接触氧气和微生物会开始氧化。💡储存小贴士：开封后的美乃滋必须冷藏，并建议在2 ~ 3个月（60 ~ 90天）内食用完毕，以保证最佳品质与食品安全。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

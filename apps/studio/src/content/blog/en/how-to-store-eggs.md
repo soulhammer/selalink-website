@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Never wash eggs with water — Preserve Natural Cuticle & Refrigerate (45 Days) 💧"
     text: "Eggshells contain between 7,000 and 17,000 microscopic pores. 💡 Storage Tip: Washing eggs destroys the protective cuticle layer, allowing water and bacteria (such as Salmonella) to enter through the pores. Lightly wipe off dry dirt with a paper towel instead of washing."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>MFDS & USDA & FDA</strong>.
+      This content is based on MFDS & USDA & FDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Wipe moisture dry and wrap tightly — Absorb Moisture & Block Air 📦"
     text: "Thoroughly wipe surface moisture off the cod fillet, wrap it in absorbent paper towels or food-grade paper, and seal tightly with plastic wrap. 💡 Storage Tip: Absorbing exuded moisture and blocking air contact prevents TMAO reduction and tissue breakdown."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step cod storage guide bas
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      This content is based on NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

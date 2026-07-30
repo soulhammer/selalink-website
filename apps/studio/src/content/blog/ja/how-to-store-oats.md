@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oats_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "BPAフリーの密閉容器やガラス瓶に移す — 空気・湿気・害虫の完全遮断 📦"
     text: "オートミール保存の基本は酸素、湿気、害虫を遮断することです。💡保存のコツ：開封したオートミールはパッキン付きのガラス瓶や密閉容器に入れ、フタをしっかり閉めて保存してください。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

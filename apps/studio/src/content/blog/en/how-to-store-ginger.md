@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/ginger_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Brush off soil and wrap in paper towels — Moisture Control (1–2 Weeks) 📦"
     text: "Managing moisture while preventing dehydration is key. 💡 Storage Tip: Lightly brush off loose soil from unwashed ginger, wrap each piece tightly in paper towels or newspaper, and store at cool room temperature (10–15°C) or in the refrigerator crisper drawer."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step ginger storage guide re
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

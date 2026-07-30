@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde o grão-de-bico seco em potes herméticos com umidade abaixo de 60% — Prevenir aflatoxinas (1–2 anos) 📦"
     text: "O grão-de-bico seco deve ter menos de 12% de umidade. 💡 Dica de conservação: Guarde em pote hermético com dessecante (sílica gel) em despensa fresca e seca. Isso impede a germinação de fungos e dura de 1 a 2 anos."
@@ -40,7 +40,7 @@ Neste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

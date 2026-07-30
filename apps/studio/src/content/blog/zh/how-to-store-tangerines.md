@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tangerine_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "淡盐水清洗后彻底晾干 — 清除霉菌孢子与干燥 💧"
     text: "洗去果皮表面附着的霉菌孢子与杂质可极大延长保存期。💡储存小贴士：将柑橘浸泡在淡盐水（或小苏打水）中清洗1 ~ 2分钟，随后用厨房纸巾擦干并彻底晾干水分。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & FDA & MFDS</strong>"
+authority: "RDA & FDA & MFDS"
 steps:
   - name: "Conserver dans des pots en verre ambré ou opaques — Protection Anti-Photoxydation 📦"
     text: "Gardez le curcuma dans des pots en verre ambré ou des récipients opaques hermétiques. 💡 Astuce de conservation : Les récipients transparents laissent la lumière dégrader la curcumine ; un contenant opaque est donc indispensable."
@@ -38,7 +38,7 @@ Dans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour b
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & FDA & MFDS.
     </p>
   </div>
 </div>

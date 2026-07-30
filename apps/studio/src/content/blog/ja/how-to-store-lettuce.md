@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lettuce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "キッチンペーパーで水分調整する — 水分バランスの維持 🧻"
     text: "レタスの水分蒸発を防ぎつつ、結露による傷みを防ぐには適切な湿度管理が欠かせません。💡保存のコツ：洗っていないレタスをキッチンペーパーで包むか、保存容器の底や層の間に敷いてください。キッチンペーパーが余分な湿気を吸収しつつ、適切な湿度を保ちます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Antes de amadurecer] Armazenar em temperatura ambiente fresca (20-25 °C) — Amadurecimento natural (3 a 7 dias) 🌡️"
     text: "As mangas desenvolvem lentamente sua doçura em temperatura ambiente. 💡 Dica de conservação: Mantenha-as em um local bem ventilado, longe da luz solar direta, até que a casca desenvolva um brilho, a área do caule cheire a doce e a fruta ceda levemente a um aperto suave, como um pêssego maduro."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas comprovado cientif
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS & RDA</strong>.
+      Este conteúdo baseia-se em USDA & MFDS & RDA.
     </p>
   </div>
 </div>

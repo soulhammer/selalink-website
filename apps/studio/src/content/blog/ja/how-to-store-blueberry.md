@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/blueberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "食べる直前まで洗わない — 天然保護膜（ブルーム）の維持 🫐"
     text: "ブルーベリーの表面を覆う白い粉は、果実自ら作り出した天然のワックス層である「ブルーム（Bloom）」です。水分損失を防ぎ外部の病害虫やカビ菌の侵入を防ぐ重要な保護膜です。💡保存のコツ：保存前に水で洗うとブルームが消え、水分が果肉浸透圧に影響を与えて急激に柔らかくなります。水気をつけないまま保存することが鮮度維持の第一歩です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_ham_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & FDA</strong>"
+authority: "USDA & MFDS & FDA"
 steps:
   - name: "Transférer immédiatement dans un récipient hermétique et réfrigérer — Conservation réfrigérée (3–5 jours) ❄️"
     text: "Retirez toujours le jambon restant de la boîte métallique juste après l'avoir ouverte. 💡 Astuce de conservation : Sortez le bloc de jambon et placez-le dans une boîte hermétique en verre ou en plastique, ou enveloppez-le hermétiquement dans du film étirable avant de le réfrigérer (0–4 °C) pour éviter le dessèchement."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & MFDS & FDA</strong>.
+      Ce contenu est basé sur USDA & MFDS & FDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "새우 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 새우의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "새우를 사 와서 냉장고에 그대로 두었다가 머리와 다리가 검게 변하고(흑변 현상) 비린내가 심해져 버린 적 있으시죠? 🦐\n\n새우는 단백질과 수분 함량이 높고 자체 효소 작용이 매우 활발하여 수확 및 구매 즉시 부패와 변색이 시작되는 대표적인 신선 수산물입니다. 특히 공기 중의 산소와 반응하면 티로시나아제(Tyrosinase) 효소 작용으로 머리부터 검게 변하는 흑변 현상(Melanosis)이 발생하고, 미생물이 빠르게 번식합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 새우 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -27,7 +27,7 @@
                 "steps": [
                     {
                         "name": "옅은 소금물로 씻고 물기 제거하기 — 신선도 및 감칠맛 보존 📦",
-                        "text": "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타올로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
+                        "text": "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타월로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
                     },
                     {
                         "name": "1 ~ 2일 내 섭취 시 얼음과 함께 냉장 보관하기 — 단기 냉장 (1 ~ 2일) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Shrimp Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for shrimp based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever left fresh shrimp in the refrigerator only to find its head and legs turning black (melanosis) accompanied by a strong fishy odor? 🦐\n\nShrimp high in protein and moisture content undergoes rapid enzymatic breakdown and bacterial deterioration immediately after harvest. When exposed to atmospheric oxygen, tyrosinase enzymes trigger melanosis (black spot formation) starting from the head, while microorganisms multiply quickly.\n\nIn this guide, introduces a scientifically proven 3-step shrimp storage guide recommended by seafood safety experts to preserve maximum freshness and texture. 🛡️",
                 "whyTitle": "Why Store Shrimp This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "エビを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくエビの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "エビを買って冷蔵庫に入れておいたら、頭や足が黒く変色し（黒変現象）、生臭さが強くなって捨ててしまった経験はありませんか？🦐\n\nエビはタンパク質と水分が多く、酵素の働きが非常に活発なため、水揚げや購入直後から劣化が始まる非常に傷みやすい水産物です。特に空気中の酸素と反応するとチロシナーゼ（Tyrosinase）酵素の働きで頭部から黒く変色する黒変現象（Melanosis）が発生し、雑菌が急速に増殖します。\n\n本記事では、専門家が推奨するエビの鮮度とぷりぷり感を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持虾类新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解虾的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否曾买回新鲜鲜虾放入冰箱，结果却发现虾头和虾足变黑（黑变现象）并散发出浓烈腥味？🦐\n\n虾类富含蛋白质和水分，且自身酶活性极高，在捕捞和购买后极易迅速变质。特别是暴露于空气中时，在酪氨酸酶（Tyrosinase）的作用下会引发自头部分解的黑变现象（Melanosis），同时细菌会快速滋生。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步鲜虾保鲜秘诀，帮您最大程度锁定紧致与鲜美。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener los camarones frescos: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los camarones según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez guardó camarones frescos en el refrigerador solo para descubrir que la cabeza y las patas se ponían negras (melanosis) con un fuerte olor a pescado? 🦐\n\nEl camarón tiene un alto contenido de proteínas y agua, y su actividad enzimática es sumamente rápida tras la captura. Al exponerse al oxígeno del aire, la enzima tirosinasa desencadena la melanosis (manchas negras) desde la cabeza, mientras los microorganismos se multiplican velozmente.\n\nEn esta guía se presenta una guía de conservación de camarones en 3 pasos respaldada por expertos para garantizar su textura firme y su sabor original. 🛡️",
                 "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver les crevettes fraîches : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les crevettes selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà laissé des crevettes au réfrigérateur pour constater que leur tête et leurs pattes noircissaient (mélanose) avec une forte odeur de poisson ? 🦐\n\nRiche en protéines et en eau, la crevette subit une dégradation enzymatique très rapide dès sa pêche. Exposée à l'oxygène, l'enzyme tyrosinase provoque un noircissement (mélanose) commençant par la tête, tandis que les bactéries prolifèrent rapidement.\n\nDans ce guide, vous présente un guide scientifique de conservation des crevettes en 3 étapes recommandé par des experts pour garantir leur ferme texture. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Garnelen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Garnelen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie frische Garnelen im Kühlschrank gelagert, nur um festzustellen, dass sich Kopf und Beine schwarz verfärbten (Melanose) und ein fischiger Geruch entstand? 🦐\n\nGarnelen sind reich an Eiweiß und Wasser und unterliegen nach dem Fang einem extrem raschen enzymatischen Abbau. Bei Kontakt mit Luftsauerstoff löst das Enzym Tyrosinase eine Schwarzverfärbung (Melanose) ab dem Kopf aus, während sich Bakterien schnell vermehren.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen 3-Schritte-Ratgeber vor, um die knackige Textur und Frische Ihrer Garnelen zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar camarões frescos: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para camarões com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já guardou camarões frescos na geladeira e depois percebeu que a cabeça e as patas ficaram pretas (melanose) acompanhadas de um cheiro forte? 🦐\n\nO camarão possui alto teor de proteínas e água, e sua deterioração enzimática é extremamente rápida após a pesca. Ao entrar em contato com o oxigênio, a enzima tirosinase provoca o escurecimento (melanose) a partir da cabeça, enquanto as bactérias se multiplicam rapidamente.\n\nNeste guia, apresentamos um guia prático de conservação em 3 etapas recomendado por especialistas para manter a firmeza e o sabor do camarão pelo maior tempo possível. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Udang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk udang berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda menyimpan udang segar di kulkas lalu mendapati bagian kepala dan kakinya menghitam (melanosis) disertai bau amis yang menyengat? 🦐\n\nUdang memiliki kandungan protein dan air yang tinggi serta aktivitas enzim yang sangat cepat setelah ditangkap. Saat terpapar oksigen di udara, enzim tirosinase memicu timbulnya bercak hitam (melanosis) dimulai dari kepala, sementara bakteri berkembang biak dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan udang 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan tekstur kenyalnya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

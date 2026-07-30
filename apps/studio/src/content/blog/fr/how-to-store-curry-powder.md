@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/curry_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Conserver dans des récipients opaques et hermétiques — Bloquer la photodégradation et l'évaporation 🫙"
     text: "Éviter la photodégradation de la curcumine et l'évaporation des huiles de terpène est l'étape essentielle. 💡 Astuce de conservation : Après ouverture, transvasez la poudre des sachets d'origine ou bocaux transparents vers des boîtes métalliques ou des flacons opaques."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation du curry en poudre en 3 �
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & EFSA & MFDS</strong>.
+      Ce contenu est basé sur FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

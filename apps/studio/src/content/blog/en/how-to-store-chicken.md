@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chicken_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & CDC</strong>"
+authority: "USDA & MFDS & CDC"
 steps:
   - name: "Never wash raw poultry with water — Prevent Sink Cross-Contamination ❌💧"
     text: "Washing raw chicken splashes microscopic droplets containing Campylobacter or Salmonella up to 50 cm (20 inches) around the sink, contaminating dishes and surfaces. 💡 Storage Tip: Never rinse raw chicken with water. Instead, gently pat the surface dry with paper towels or blanch it briefly in boiling water to sanitize before cooking."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step poultry storage guide based
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS & CDC</strong>.
+      This content is based on USDA & MFDS & CDC.
     </p>
   </div>
 </div>

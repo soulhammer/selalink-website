@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tea_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Selle en una lata opaca o bolsa de aluminio multicapa — Barrera total contra luz y oxígeno 📦"
     text: "El oxígeno y la luz son los mayores enemigos de la calidad del té. 💡 Consejo de almacenamiento: Guarde el té abierto en latas metálicas opacas con doble tapa o en bolsas herméticas de aluminio extraiga el exceso de aire y cierre bien."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

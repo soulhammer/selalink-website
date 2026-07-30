@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
-  - name: "Add silica gel and store in airtight containers — Water Activity Control ($A_w < 0.60$) 📦"
-    text: "For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity ($A_w$) below 0.60 suppresses amylase enzyme activity and blocks microbial growth."
+  - name: "Add silica gel and store in airtight containers — Water Activity Control (water activity (Aw) < 0.60) 📦"
+    text: "For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity (Aw) below 0.60 suppresses amylase enzyme activity and blocks microbial growth."
   - name: "Store in a cool, dark pantry below 10–15°C — Cool Pantry Storage (1–2 Years) 🧺"
     text: "Keep barley away from direct sunlight and warmth to slow enzymatic reactions and starch staling. 💡 Storage Tip: Store containers in a well-ventilated, dark cabinet away from stove heat (below 10–15°C / 50–59°F). This preserves $\beta$-glucan and flavor for 1 to 2 years."
   - name: "Refrigerate during humid seasons or long-term bulk storage — Cold Storage (2+ Years) ❄️"
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step barley storage guide 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ In this guide, we introduce a scientifically proven 3-step barley storage guide 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Add silica gel and store in airtight containers — Water Activity Control ($A_w < 0.60$) 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Add silica gel and store in airtight containers — Water Activity Control (water activity (Aw) < 0.60) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity ($A_w$) below 0.60 suppresses amylase enzyme activity and blocks microbial growth.
+    For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity (Aw) below 0.60 suppresses amylase enzyme activity and blocks microbial growth.
   </p>
 </div>
 
@@ -96,7 +96,7 @@ In this guide, we introduce a scientifically proven 3-step barley storage guide 
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Avoid high humidity and elevated temperatures ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      High relative humidity and warm temperatures accelerate starch breakdown in barley and increase the risk of mycotoxin production. Maintain moisture content below 12% and water activity ($A_w < 0.60$) in a dry, cool environment.
+      High relative humidity and warm temperatures accelerate starch breakdown in barley and increase the risk of mycotoxin production. Maintain moisture content below 12% and water activity (Aw< 0.60) in a dry, cool environment.
     </p>
   </div>
 </div>

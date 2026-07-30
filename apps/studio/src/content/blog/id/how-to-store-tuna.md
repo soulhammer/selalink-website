@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Segera pindahkan ke wadah kedap udara dari kaca atau plastik — Cegah Peluruhan Logam & Oksigen 📦"
     text: "Mencegah oksidasi bagian dalam kaleng dan meminimalkan paparan udara adalah kunci utama. 💡 Tips Penyimpanan: Masukkan sisa tuna beserta minyak/kuahnya ke dalam wadah kaca bersih atau wadah plastik bebas BPA, lalu tutup rapat."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

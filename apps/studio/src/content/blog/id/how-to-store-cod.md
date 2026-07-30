@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & NOAA & USDA & MFDS</strong>"
+authority: "NIFS & NOAA & USDA & MFDS"
 steps:
   - name: "Keringkan cairan lalu bungkus rapat — Absorbansi Kelembapan & Kedap Udara 📦"
     text: "Lap hingga kering cairan di permukaan fillet ikan kod, bungkus dengan tisu dapur absorban, lalu lapisi dengan plastic wrap secara rapat tanpa celah. 💡 Tips Penyimpanan: Menyerap cairan dan menghalangi udara mencegah reaksi TMAO dan kerusakan jaringan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan ikan kod 3 langkah berbas
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>NIFS & NOAA & USDA & MFDS</strong>.
+      Konten ini didasarkan pada NIFS & NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

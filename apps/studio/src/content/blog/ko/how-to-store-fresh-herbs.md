@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fresh_herbs_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터"
 steps:
   - name: "바질: 줄기 끝을 잘라 물병에 꽂아 상온(15 ~ 20℃) 보관하기 — 상온 꽃병 방식 🌸"
     text: "저온에 취약한 바질은 실온 보관이 핵심입니다. 💡 보관 팁: 바질 줄기 밑동을 살짝 잘라낸 후 물이 1 ~ 2cm 담긴 유리병에 수직으로 세워 꽂고, 잎 위로 비닐봉지를 살짝 덮어 실온(15 ~ 20℃)에 두면 7 ~ 10일간 싱싱하게 유지됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & UC Davis 신선식품센터에 기반하고 있습니다.
     </p>
   </div>
 </div>

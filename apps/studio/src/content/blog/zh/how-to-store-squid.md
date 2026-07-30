@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "彻底清除内脏、墨囊及吸盘角质杂质 — 阻断腥味与腐败源头 🦑"
     text: "鱿鱼内脏与吸盘上的污垢是产生腥味和滋生细菌的主因。💡储存小贴士：剖开鱼腹去除内脏、墨囊与透明软骨，用粗盐或面粉揉搓清洗鱿鱼须，将吸盘内的角质环污垢在流水下彻底洗净。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

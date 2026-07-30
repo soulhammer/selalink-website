@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Hang Them Up to Prevent Bruising — Room Temp Storage (7 Days) 🍌"
     text: "Leaving bananas lying on a flat surface causes the bottom fruits to bruise under their own weight. Bruised spots accelerate ethylene gas release and browning. 💡 Storage Tip: Hang bananas on a banana hanger or a coat hanger to suspend them. This mimics their natural growing environment, keeping them firm and bruise-free for much longer."
@@ -34,7 +34,7 @@ Have you ever left bananas on the counter only to have fruit flies swarm them an
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & WHO</strong>.
+      This content is based on USDA & WHO.
     </p>
   </div>
 </div>

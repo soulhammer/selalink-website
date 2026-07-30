@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kiwi_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心"
 steps:
   - name: "坚硬的猕猴桃置于常温（18 ~ 22℃）催熟 — 常温催熟 (3 ~ 7天) 🧺"
     text: "用手轻压感觉微软前，坚硬的猕猴桃应存放在阴凉常温下。💡储存小贴士：如想加速催熟，可将硬猕猴桃与苹果或香蕉一起放入纸袋密封，在乙烯气体作用下2 ~ 3天即可变软变甜。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & UC戴维斯采后技术中心。
     </p>
   </div>
 </div>

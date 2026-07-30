@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pear_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap individually in newspaper or paper towels, then wrap with plastic wrap — Moisture Barrier 📦"
     text: "Individual wrapping without moisture exposure is key. 💡 Storage Tip: Wrap dry, unwashed pears first in newspaper or paper towels to absorb excess moisture, then tightly seal each pear individually with food-grade plastic wrap. The paper layer manages humidity while the plastic wrap prevents internal moisture evaporation, maintaining crispness for a long time."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step pear storage guide reco
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

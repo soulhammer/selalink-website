@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sour_cream_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "清潔なスプーンで表面を平らに整える — ホエー分離と汚染の防止 🥄"
     text: "サワークリームを使った後に表面が凹凸のままだと、くぼみにホエー（水分）が溜まり雑菌が繁殖しやすくなります。💡保存のコツ：使用後は清潔なスプーンで表面を軽く押して平らに整えてからフタを閉めてください。水分溜まりを防ぎ鮮度を保てます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

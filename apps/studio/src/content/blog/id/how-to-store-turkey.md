@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA FSIS & MFDS & RDA</strong>"
+authority: "USDA FSIS & MFDS & RDA"
 steps:
   - name: "Lap hingga kering tanpa dicuci dengan air — Cegah Kontaminasi Silang 🧼"
     text: "Jangan cuci di bawah air keran. Setelah membuka kemasan, lap bagian luar dan dalam daging hingga kering menggunakan tisu dapur bersih. 💡 Tips Penyimpanan: Menghilangkan kelembapan permukaan akan mengurangi media tumbuh bakteri dan mencegah penyebaran kuman akibat cipratan air."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA FSIS & MFDS & RDA</strong>.
+      Konten ini didasarkan pada USDA FSIS & MFDS & RDA.
     </p>
   </div>
 </div>

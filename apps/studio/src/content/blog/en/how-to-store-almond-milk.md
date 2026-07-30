@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Shake gently before drinking — Re-Emulsify Natural Sediment 🥛"
     text: "Almond milk is a suspension of finely ground almonds and water, so solids naturally settle over time. 💡 Storage Tip: This separation is a normal physical process, not spoilage. Gently shake the carton before serving to restore a smooth, creamy texture."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step almond milk storage guide b
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS & RDA</strong>.
+      This content is based on FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

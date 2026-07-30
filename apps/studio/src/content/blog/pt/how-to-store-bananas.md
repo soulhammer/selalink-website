@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/banana_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & WHO</strong>"
+authority: "USDA & WHO"
 steps:
   - name: "Pendurar as bananas em um suporte — Conservação em Temp. Ambiente (7 Dias) 🍌"
     text: "Deixar as bananas apoiadas em uma superfície amassa os frutos de baixo devido ao próprio peso. As partes machucadas liberam mais etileno e escurecem. 💡 Dicas de conservação: Pendure as bananas em um suporte. Isso simula o cacho no pé, mantendo-as firmes e sem amassados por muito mais tempo."
@@ -34,7 +34,7 @@ Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pret
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & WHO</strong>.
+      Este conteúdo baseia-se em USDA & WHO.
     </p>
   </div>
 </div>

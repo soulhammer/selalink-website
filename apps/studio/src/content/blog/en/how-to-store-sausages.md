@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sausage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Seal airtight and refrigerate — Opened Storage (Raw 1–2 Days / Cooked 7 Days) 📦"
     text: "Minimizing oxygen and excess surface moisture contact is key to preserving sausages. 💡 Storage Tip: Gently pat the surface dry with paper towels, wrap tightly with plastic wrap, and place inside an airtight Ziploc bag on a cold inner shelf (0–4°C / 32–39°F)."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step sausage storage guide b
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

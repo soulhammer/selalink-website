@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/salt_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "In korrosionsfreien, luftdichten Behältern (Glas, Keramik, Kunststoff) lagern — Luftdicht & Rostfrei 📦"
     text: "Metalledelstahldeckel oder -dosen reagieren mit Salz und bilden Rost. 💡 Lagerungstipp: Füllen Sie Salz in Glasabdeckdosen, Keramiktöpfe oder luftdichte Kunststoffdosen um, um Luftfeuchtigkeit auszusperren und Rostbildung zu verhindern."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS.
     </p>
   </div>
 </div>

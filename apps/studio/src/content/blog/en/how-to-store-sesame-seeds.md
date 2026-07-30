@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sesame_seeds_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Store in light-blocking glass jars or airtight containers — Light & Oxygen Barrier 📦"
     text: "Blocking both oxygen and light is the crucial first step to preventing rancidity. 💡 Storage Tip: Once roasted sesame seeds have cooled completely, transfer them to dark glass jars, opaque airtight containers, or light-shielding pouches with a silica gel desiccant packet to absorb residual moisture."
@@ -38,7 +38,7 @@ Sesame seeds are high-fat condiments composed of over 50% unsaturated fatty acid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chocolate_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Selle en papel de aluminio o recipientes herméticos — Bloquee olores y humedad 📦"
     text: "Bloquear completamente el aire y las moléculas de olor es clave. 💡 Consejo de almacenamiento: Envuelva el chocolate en papel de aluminio y luego colóquelo dentro de un recipiente hermético o bolsa Ziploc."
@@ -38,7 +38,7 @@ En esta guía se comparte una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS</strong>.
+      Este contenido se basa en USDA & MFDS.
     </p>
   </div>
 </div>

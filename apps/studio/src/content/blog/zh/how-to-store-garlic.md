@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/garlic_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
+authority: "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)"
 steps:
   - name: "在密封盒底部铺砂糖与厨房纸巾保存剥皮大蒜 — 冷藏保存 (14 ~ 21天) 🪙"
     text: "剥皮大蒜一旦接触水分，变软和滋生霉菌的速度极快。💡储存小贴士：在密封保鲜盒底部均匀铺上约1厘米厚的砂糖，上面覆盖2 ~ 3层厨房纸巾，然后再放入剥皮大蒜。砂糖是极佳的天然吸湿剂，能吸收盒内湿气，使大蒜表面保持干爽。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

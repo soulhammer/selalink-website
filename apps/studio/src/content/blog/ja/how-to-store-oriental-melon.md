@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oriental_melon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "洗わずに食品用ラップで個別包装する — 水分蒸発防止ラッピング 📦"
     text: "チャメのシャキシャキ感を保つ最大のポイントです。💡保存のコツ：水気をつけず、チャメを食品用ラップ（またはポリ袋）で1個ずつ隙間なくぴったり包みます。ラップ包装がチャメ自体の水分蒸発を完全に遮断し、皮のシワや果肉のパサつきを防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

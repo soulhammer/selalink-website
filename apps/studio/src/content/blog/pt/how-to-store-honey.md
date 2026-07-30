@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/honey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Guarde em potes de vidro herméticos — Bloqueie a umidade e odores 📦"
     text: "O segredo para conservar o mel é bloquear o ar e a umidade. 💡 Dica de conservação: Guarde o mel em potes de vidro ou recipientes plásticos herméticos sem BPA. O vidro é a melhor escolha."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas recomendado por es
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & MFDS.
     </p>
   </div>
 </div>

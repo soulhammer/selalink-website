@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/spinach_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)</strong>"
+authority: "韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)"
 steps:
   - name: "带泥不洗，用报纸或厨房纸巾包裹 — 控制结露与湿度 📦"
     text: "菠菜叶片表面一旦直接接触水分，腐烂速度就会急剧加快。💡储存小贴士：保持带泥干燥状态，用报纸或厨房纸巾将菠菜包裹起来。纸张能吸收内部结露与多余湿气，防止叶片烂软。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)。
     </p>
   </div>
 </div>

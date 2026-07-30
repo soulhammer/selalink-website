@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fish_cakes_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)"
 steps:
   - name: "끓는 물에 살짝 데쳐 표면 기름기 및 산패 물질 제거하기 — 겉기름 살균 데치기 🫖"
     text: "어묵 표면에 남아있는 튀김 기름은 공기와 접촉 시 빠르게 산패되며 세균 번식의 원인이 됩니다. 💡 보관 팁: 끓는 물에 어묵을 10 ~ 20초간 살짝 데치거나 뜨거운 물을 표면에 골고루 뿌려주세요. 표면의 산화된 기름과 불순물, 미생물이 1차로 제거되어 위생적이고 맛이 훨씬 깔끔해집니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

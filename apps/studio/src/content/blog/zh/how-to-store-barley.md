@@ -8,10 +8,10 @@ category: "FreshSnap"
 heroImage: "/images/blog/barley_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)"
 steps:
-  - name: "放入硅胶干燥剂并装入密封盒 — 控制水活性（$A_w < 0.60$） 📦"
-    text: "对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（$A_w$）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。"
+  - name: "放入硅胶干燥剂并装入密封盒 — 控制水活性（水活性 (Aw) < 0.60） 📦"
+    text: "对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（水活性 (Aw)）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。"
   - name: "置于10 ~ 15℃以下阴凉暗处常温保存 — 阴凉暗处保存 (1 ~ 2年) 🧺"
     text: "将大麦存放在避光阴凉处，延缓酶促反应与淀粉老化。💡储存小贴士：避开灶台或微波炉周围热源，存放在10 ~ 15℃以下的黑暗通风橱柜中。可完好保留β-葡聚糖与醇香风味1 ~ 2年。"
   - name: "潮湿季节或大批量保存时低温冷藏 — 低温冷藏 (2年以上) ❄️"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>
@@ -50,10 +50,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">步骤 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">放入硅胶干燥剂并装入密封盒 — 控制水活性（$A_w < 0.60$） 📦</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">放入硅胶干燥剂并装入密封盒 — 控制水活性（水活性 (Aw) < 0.60） 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（$A_w$）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。
+    对于干燥的大麦粒，阻断湿气与空气接触是核心。💡储存小贴士：将大麦装入密封性极佳的保鲜盒或塑料瓶中，放入食品级干燥剂（硅胶）。将水活性（水活性 (Aw)）控制在0.60以下，可抑制淀粉酶活性，从根本上阻断微生物滋生。
   </p>
 </div>
 
@@ -96,7 +96,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">避开高湿及高温环境 ☀️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      相对湿度高或温度上升会加速大麦的淀粉水解速度，增加产生霉菌毒素的风险。务必维持含水量在12%以下、水活性（$A_w < 0.60$），置于干燥阴凉处密封保存。
+      相对湿度高或温度上升会加速大麦的淀粉水解速度，增加产生霉菌毒素的风险。务必维持含水量在12%以下、水活性（水活性 (Aw) < 0.60），置于干燥阴凉处密封保存。
     </p>
   </div>
 </div>

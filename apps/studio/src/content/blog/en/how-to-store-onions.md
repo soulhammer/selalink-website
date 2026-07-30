@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & FSA</strong>"
+authority: "RDA & USDA & FSA"
 steps:
   - name: "Hang unpeeled whole onions in a cool, well-ventilated area — Room Temp Storage (30 Days) 🌬️"
     text: "Unpeeled onions thrive best in a cool, shaded, and well-ventilated space (10–15°C / 50–59°F). 💡 Storage Tip: Place onions individually into a mesh bag or clean pantyhose, tying a knot between each onion before hanging. This prevents them from touching each other, eliminating pressure bruises and soft rot."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on rese
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & FSA</strong>.
+      This content is based on RDA & USDA & FSA.
     </p>
   </div>
 </div>

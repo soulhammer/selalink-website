@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/kale_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Wrap stem ends with moist paper towels — Moisture Retention 🧻"
     text: "Transpiration causes moisture loss, lowering turgor pressure and making leaves limp. 💡 Storage Tip: Wrap the cut ends of unwashed kale stems with a damp paper towel to supply continuous hydration."
@@ -38,7 +38,7 @@ In this guide, we introduce a scientifically proven 3-step kale storage guide re
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/turkey_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省食品安全検査局(USDA FSIS) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>"
+authority: "米国農務省食品安全検査局(USDA FSIS) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)"
 steps:
   - name: "水洗いせずにドリップと水分を拭き取る — 二次汚染の防止 🧼"
     text: "流水で洗わず、包装を開けたら清潔なキッチンペーパーで表面や内部の血液・水分を丁寧に拭き取ります。💡保存のコツ：細菌が好む表面の水分を取り除き、水洗いによる細菌の飛散を防ぐことが食中毒予防の第一歩です。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省食品安全検査局(USDA FSIS) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)</strong>に基づいています。
+      本コンテンツは、米国農務省食品安全検査局(USDA FSIS) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)に基づいています。
     </p>
   </div>
 </div>

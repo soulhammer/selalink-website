@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "In ein spezielles luftdichtes Nudelgefäß umfüllen — Schutz vor Feuchtigkeit und Schädlingen 📦"
     text: "Der Schlüssel zur Lagerung von Trockennudeln ist der vollständige Schutz vor Luft und Feuchtigkeit. 💡 Lagerungstipp: Füllen Sie Nudeln in hohe Glasbehälter oder BPA-freie Kunststoffdosen um. Das verhindert das Eindringen von Feuchtigkeit und Schädlingen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

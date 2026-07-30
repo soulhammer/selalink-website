@@ -8,7 +8,7 @@
             "ko": {
                 "title": "대구 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 대구의 최적 보관 온도, 비린내(TMA) 발생 원인 차단 및 단백질 변성 방지 가이드를 확인하세요.",
-                "authority": "<strong>국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)",
                 "intro": "담백하고 부드러운 살점이 일품으로 피시앤칩스, 바칼라우, 대구탕 등 전 세계에서 가장 사랑받는 대표적인 흰살생선 대구! 하지만 신선하게 보관하지 못해 살이 수축해 부스러지거나 강한 비린내(어취)가 나서 버린 경험 다들 있으시죠? 🐟\n\n신선한 대구 어육에는 원래 냄새가 없는 **트리메틸아민 옥사이드(TMAO)**가 풍부하게 함유되어 있습니다. 하지만 포획 및 사후 시간이 지나면서 슈도모나스(Pseudomonas) 등 미생물의 효소 작용으로 인해 TMAO가 강한 어취를 유발하는 **트리메틸아민(TMA)**으로 환원됩니다. 또한 대구의 미오신 단백질은 다른 생선에 비해 냉동 시 구조가 쉽게 변성되어 결합조직이 파괴되고 식감이 푸석해지기 쉽습니다.\n\n이번 가이드에서는 수산 및 식품 안전 기관의 공인된 지침을 바탕으로, 대구의 비린내 발생을 근본적으로 억제하고 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -17,7 +17,7 @@
                 "cautions": [
                     {
                         "title": "어육 표면의 수분(드립)을 철저히 제거하세요 💧",
-                        "desc": "대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타올이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다."
+                        "desc": "대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타월이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다."
                     },
                     {
                         "title": "공기 노출과 온도 변화를 최소화하세요 ⚠️",
@@ -26,8 +26,8 @@
                 ],
                 "steps": [
                     {
-                        "name": "수분 제거 후 키친타올과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦",
-                        "text": "대구 어육 표면의 수분을 키친타올로 완벽히 wiping한 뒤, 식품용 흡습 지나 키친타올로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
+                        "name": "수분 제거 후 키친타월과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦",
+                        "text": "대구 어육 표면의 수분을 키친타월로 완벽히 닦아낸 뒤, 식품용 흡습 지나 키친타월로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
                     },
                     {
                         "name": "0~1℃ 얼음 접촉 냉장 보관하기 — 극저온 신선 보관 (1~2일) ❄️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Cod Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for cod based on official safety guidelines to prevent TMA fishy odor and protein denaturation.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Famous for its mild flavor and tender white flakes, cod is one of the world's most beloved fish, featured in Fish & Chips, Bacalhau, and savory stews! However, have you ever stored cod only to find it emitting a strong fishy odor or becoming mushy and falling apart? 🐟\n\nFresh cod flesh naturally contains odorless **trimethylamine oxide (TMAO)**. Over time after harvest, microbial enzymes (such as *Pseudomonas*) reduce TMAO into **trimethylamine (TMA)**, the primary chemical compound responsible for strong fishy off-odors. Additionally, cod's myosin proteins are particularly susceptible to rapid freeze denaturation, breaking connective tissues and making the texture dry and mealy if improperly frozen.\n\nIn this guide, we introduce a scientifically proven 3-step cod storage guide based on guidelines from leading marine and food safety authorities to suppress fishy odors and preserve its firm texture. 🛡️",
                 "whyTitle": "Why Store Cod This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "タラを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくタラの最適な保存温度、トリメチルアミン（TMA）臭の遮断、タンパク質変性防止ガイドをご確認ください。",
-                "authority": "<strong>国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)",
                 "intro": "淡白で柔らかい身が特徴で、フィッシュアンドチップスやバカリャウ（塩鱈）、鍋料理など世界中で愛される白身魚のタラ（鱈）！ですが、保存方法が良くないとすぐに身が崩れたり、強い生臭さが発生して台無しになった経験はありませんか？🐟\n\nタラの魚肉には本来無臭の**トリメチルアミンオキサイド（TMAO）**が豊富に含まれています。しかし、死後時間が経過するとシュードモナス（Pseudomonas）などの微生物の酵素作用によってTMAOが還元され、強い魚臭の原因物質である**トリメチルアミン（TMA）**に変化します。また、タラのミオシンタンパク質は冷凍時に構造変性を起こしやすく、食感がパサつきやすい特徴があります。\n\n本記事では、水産・食品安全機関のガイドラインに基づき、生臭さの発生を根本から抑え、プリッとした食感を守る3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持鳕鱼新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解鳕鱼的最佳储存温度、抑制氧化三甲胺（TMAO）降解产生的鱼腥味及防止蛋白质变性的科学方法。",
-                "authority": "<strong>韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "鳕鱼作为炸鱼薯条（Fish & Chips）、腌鳕鱼（Bacalhau）及各类鲜鱼汤的主角，是全球消费量最大的白肉鱼之一！然而，您是否有过因储存不当导致鳕鱼肉质松散或散发强烈鱼腥味的经历？🐟\n\n新鲜鳕鱼肉中含有无味的**氧化三甲胺（TMAO）**。然而捕捞后随着时间推移，在假单胞菌（Pseudomonas）等微生物的酶促作用下，TMAO会被还原为具有强烈腥味的**三甲胺（TMA）**。此外，鳕鱼中的肌球蛋白（Myosin）在冷冻时结构极易发生变性，导致解冻后肉质破坏、口感发绵发柴。\n\n本指南基于权威水产与食品安全机构的指导方针，为您介绍3步科学鳕鱼保存秘诀，从根本上抑制腥味并锁住紧实口感。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el bacalao fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bacalao según las directrices oficiales para evitar el olor a pescado (TMA) y la desnaturalización de proteínas.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Famoso por su sabor suave y jugosas lascas, el bacalao es uno de los pescados blancos más consumidos del mundo, protagonista del Fish & Chips, el bacalao salado y exquisitos guisos. Sin embargo, ¿alguna vez lo guardó solo para descubrir que emitía un fuerte olor a pescado o que se desmoronaba? 🐟\n\nLa carne de bacalao fresca contiene **óxido de trimetilamina (TMAO)**, un compuesto inodoro. Con el tiempo, la acción enzimática de microorganismos como *Pseudomonas* reduce el TMAO a **trimetilamina (TMA)**, la sustancia responsable del olor rancio a pescado. Además, las proteínas de miosina del bacalao son muy propensas a la desnaturalización por congelación, volviendo su textura harinosa si no se congela adecuadamente.\n\nEn esta guía se presenta una guía científica de conservación en 3 pasos respaldada por autoridades marítimas y de seguridad alimentaria para evitar olores y mantener una textura firme. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver la morue fraîche : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la morue (cabillaud) selon les directives officielles pour éviter l'odeur de poisson (TMA) et la dénaturation des protéines.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Réputé pour sa chair tendre et feuilletée, le cabillaud (morue) est l'un des poissons blancs les plus consommés au monde, vedette du Fish & Chips, de la bacalhau et de délicieux bouillons ! Cependant, avez-vous déjà conservé du cabillaud pour constater qu'il dégageait une forte odeur de poisson ou qu'il s'effritait ? 🐟\n\nLa chair fraîche du cabillaud contient naturellement de l'**oxyde de triméthylamine (TMAO)**, un composé inodore. Après la pêche, sous l'action enzymatique de bactéries telles que *Pseudomonas*, le TMAO est réduit en **triméthylamine (TMA)**, responsable de la forte odeur de poisson. De plus, les protéines de myosine du cabillaud subissent rapidement une dénaturation à la congélation, rendant la chair sèche s'il est mal congelé.\n\nDans ce guide, nous vous présentons une méthode scientifique en 3 étapes basée sur les recommandations des organismes de sécurité alimentaire pour supprimer les odeurs et préserver une texture ferme. 🛡️",
                 "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kabeljau richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kabeljau (Dorsch) basierend auf offiziellen Sicherheitsrichtlinien zur Vermeidung von Fischgeruch (TMA) und Proteindenaturierung.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Bekannt für sein zartes, weißes Fleisch ist der Kabeljau (Dorsch) einer der meistkonsumierten Speisefische der Welt – ob in Fish & Chips, Bacalhau oder deftigen Eintöpfen! Doch haben Sie Kabeljau schon einmal gelagert und festgestellt, dass er einen strengen Fischgeruch entwickelte oder zerfiel? 🐟\n\nKabeljaufleisch enthält von Natur aus geruchloses **Trimethylamin-N-oxid (TMAO)**. Nach dem Fang reduzieren mikrobielle Enzyme (wie *Pseudomonas*) das TMAO zu **Trimethylamin (TMA)**, das für den typischen Fischgeruch verantwortlich ist. Zudem neigen die Myosinproteine des Kabeljaus bei unsachgemäßem Einfrieren schnell zur Denaturierung, wodurch das Fleisch trocken und strohig wird.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Fischgeruch zu unterdrücken und die feste Textur zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar bacalhau fresco: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para o bacalhau fresco com base em diretrizes oficiais para evitar odor a peixe (TMA) e desnaturação de proteínas.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Famoso pela sua carne branca e tenra em lascas, o bacalhau fresco é um dos peixes mais consumidos no mundo, estrela do Fish & Chips, do bacalhau tradicional e de ensopados deliciosos! No entanto, você já guardou bacalhau e percebeu que ele desenvolveu um cheiro forte a peixe ou ficou murcho e esfarelado? 🐟\n\nA carne fresca de bacalhau contém **óxido de trimetilamina (TMAO)**, uma substância inodora. Com o tempo após a pesca, enzimas bacterianas (como *Pseudomonas*) reduzem o TMAO a **trimetilamina (TMA)**, responsável pelo forte cheiro a peixe. Além disso, as proteínas de miosina do bacalhau sofrem desnaturação rápida durante o congelamento inadequado, tornando a textura seca e quebradiça.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes marítimas e de segurança alimentar para evitar odores e manter a carne firme. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Ikan Kod agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan kod berdasarkan pedoman keselamatan resmi untuk mencegah bau amis (TMA) dan denaturasi protein.",
-                "authority": "<strong>NIFS & NOAA & USDA & MFDS</strong>",
+                "authority": "NIFS & NOAA & USDA & MFDS",
                 "intro": "Terkenal dengan daging putihnya yang lembut dan gurih, ikan kod adalah salah satu ikan paling populer di dunia, menjadi bahan utama Fish & Chips, Bacalhau, hingga sup ikan lezat! Namun, pernahkah Anda menyimpan ikan kod lalu mendapatinya berbau amis menyengat atau dagingnya hancur? 🐟\n\nDaging ikan kod segar secara alami mengandung **trimetilamina oksida (TMAO)** yang tidak berbau. Seiring waktu setelah ditangkap, enzim bakteri (seperti *Pseudomonas*) mereduksi TMAO menjadi **trimetilamina (TMA)**, senyawa utama penyebab bau amis tajam. Selain itu, protein miosin pada ikan kod sangat rentan terhadap denaturasi pembekuan jika tidak dibekukan dengan benar, membuat teksturnya menjadi kering dan hancur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ikan kod 3 langkah berbasis ilmiah berdasarkan pedoman otoritas kelautan dan keamanan pangan untuk mencegah bau amis dan menjaga tekstur daging tetap padat. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

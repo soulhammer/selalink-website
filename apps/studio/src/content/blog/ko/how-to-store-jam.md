@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "미개봉 잼은 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (1년) 📦"
     text: "미개봉 밀폐 잼은 가열 진공 포장되어 상온 보관이 가능합니다. 💡 보관 팁: 직사광선과 가스레인지 주변 열기를 피해 서늘하고 어두운 찬장(15 ~ 20℃)에 보관하세요. 개봉 전까지 1년 이상 신선도가 유지됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

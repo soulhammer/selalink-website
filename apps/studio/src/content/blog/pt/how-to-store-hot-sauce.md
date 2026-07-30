@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Limpe o bico e feche bem a tampa após o uso — Bloqueio de oxigênio 🧻"
     text: "Os resíduos no bico são a principal porta de entrada do ar. 💡 Dica de conservação: Limpe o excesso de molho do bico com papel-toalha imediatamente após usar e feche bem a tampa."
@@ -34,7 +34,7 @@ Você já abriu um frasco de molho de pimenta ou Sriracha para pizza, tacos ou r
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/avocado_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>CAC & USDA & MFDS</strong>"
+authority: "CAC & USDA & MFDS"
 steps:
   - name: "Stocker dans un sac en papier à température ambiante avant maturité — Temp. Ambiante (5 jours) 🥑"
     text: "Les avocats fermes et non mûrs doivent être conservés à température ambiante (15-20 °C) pour mûrir normalement. 💡 Astuce de conservation : Placez les avocats dans un sac en papier avec une pomme ou une banane. Le gaz éthylène libéré par ces fruits se concentre dans le sac, accélérant et stabilisant le mûrissement."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>CAC & USDA & MFDS</strong>.
+      Ce contenu est basé sur CAC & USDA & MFDS.
     </p>
   </div>
 </div>

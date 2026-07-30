@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/anchovy_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & USDA & MFDS</strong>"
+authority: "NIFS & USDA & MFDS"
 steps:
   - name: "Torréfier légèrement à sec et portionner — Éliminer l'humidité & Les odeurs 📦"
     text: "Si les anchois sont humides, faites-les revenir 1 à 2 minutes dans une poêle sans matière grasse à feu doux. 💡 Astuce de conservation : Laissez refroidir avant de diviser en sachets individuels."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>NIFS & USDA & MFDS</strong>.
+      Ce contenu est basé sur NIFS & USDA & MFDS.
     </p>
   </div>
 </div>

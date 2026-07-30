@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & APCC</strong>"
+authority: "USDA & MFDS & APCC"
 steps:
   - name: "Guarde en una despensa fresca y oscura a 20–24 °C — Almacenamiento hermético (360–720 días) 📦"
     text: "El aceite de coco no requiere refrigeración obligatoria y es más cómodo de usar a temperatura ambiente fresca. 💡 Consejo de almacenamiento: Guárdelo en una despensa o armario oscuro (20–24 °C). En estas condiciones, el aceite abierto conserva su sabor y frescura de 1 a 2 años."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & MFDS & APCC</strong>.
+      Este contenido se basa en USDA & MFDS & APCC.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "바나나 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 바나나의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "마트에서 노랗고 예쁜 바나나 한 송이를 사 왔는데, 며칠 만에 거뭇거뭇한 반점이 생기더니 순식간에 물러져 버린 경험 다들 있으시죠? 🍌\n\n바나나는 전 세계인이 가장 사랑하는 과일이지만, 상온에서 호흡 속도가 매우 빠르고 스스로 익히는 호르몬을 뿜어내기 때문에 보관 난이도가 꽤 높은 편입니다.\n\n이번 가이드에서는 공인된 식재료 안전 가이드를 기반으로, 과학적이고 확실하게 바나나 신선도를 유지하는 3단계 보관 비법을 알려드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Store Banana Fresh: Scientific Storage Guide",
                 "description": "Learn the best storage temperature, methods, and duration for Banana based on official safety guidelines.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "Have you ever left bananas on the counter only to have fruit flies swarm them and turn them black in a single day? In this guide, shares scientific storage hacks to keep bananas fresh for over 10 days without a banana stand.",
                 "whyTitle": "Why store like this? Scientific facts",
                 "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "バナナの鮮度を保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくバナナの最適な保存温度、保管方法、保存期間について解説します。",
-                "authority": "<strong>米国農務省(USDA) & 世界保健機関(WHO)</strong>",
+                "authority": "米国農務省(USDA) & 世界保健機関(WHO)",
                 "intro": "バナナを実温に置いておいたら、一日でコバエがたかり、真っ黒になってしまった経験はありませんか？バナナスタンドを使わずに10日以上鮮度を保つ科学的な保存方法をご紹介します。",
                 "whyTitle": "なぜこのように保存するのか？科学的な事実",
                 "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保鲜储存香蕉：科学储存指南",
                 "description": "根据官方食品安全指南，了解香蕉的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 世界卫生组织(WHO)</strong>",
+                "authority": "美国农务部(USDA) & 世界卫生组织(WHO)",
                 "intro": "您是否曾把香蕉放在桌上，结果仅过了一天就引来果蝇，而且表皮变得漆黑？今天，本指南将分享无需香蕉架也能让香蕉保持新鲜10天以上的科学保存法。",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo almacenar Plátano fresco: Guía científica de conservación",
                 "description": "Descubra la mejor temperatura, métodos y duración para conservar Plátano según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? En esta guía se comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver Banane frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Banane selon les directives de sécurité officielles.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Dans ce guide, vous montre comment les garder fraîches plus de 10 jours sans porte-banane.",
                 "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Wie man Banane frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
                 "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Banane basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt  Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como armazenar Banana fresco: Guia científico de conservação",
                 "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Banana com base nas diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Neste guia, ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Pisang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Pisang berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & WHO</strong>",
+                "authority": "USDA & WHO",
                 "intro": "Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Dalam panduan ini, kami membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.",
                 "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
                 "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",

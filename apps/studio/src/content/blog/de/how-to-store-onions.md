@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & FSA</strong>"
+authority: "RDA & USDA & FSA"
 steps:
   - name: "Ungeschälte ganze Zwiebeln an einem kühlen, gut belüfteten Ort aufhängen — Raumtemperatur (30 Tage) 🌬️"
     text: "Ungeschälte Zwiebeln lagern am besten an einem kühlen, schattigen und windigen Ort (10–15 °C). 💡 Lagerungstipp: Geben Sie Zwiebeln einzeln in ein Netz oder eine Strumpfhose und verknoten Sie den Zwischenraum vor dem Aufhängen. Dies verhindert Druckstellen und Weichfäule durch gegenseitigen Kontakt."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>RDA & USDA & FSA</strong>.
+      Dieser Inhalt basiert auf RDA & USDA & FSA.
     </p>
   </div>
 </div>

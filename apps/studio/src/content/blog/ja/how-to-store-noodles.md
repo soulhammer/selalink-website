@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/noodles_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "乾麺は密閉容器やペットボトルで密閉し涼しい場所で保管する — 湿気・害虫遮断 (1〜2年間) 📦"
     text: "乾麺を薄い Focus 袋のまま保存すると、タバコシバンムシやメイガの幼虫が袋を食い破って侵入します。💡保存のコツ：乾麺を袋から出し、シリカゲル（乾燥剤）と共に背の高い密閉容器や広口ペットボトル、ジッパーバッグに入れて完全に密閉します。直射日光を避け涼しい場所（20℃以下）で保管すれば1〜2年害虫なしで保てます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

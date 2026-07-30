@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/radish_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "무청(잎) 잘라내기 — 영양소 및 수분 빼앗김 차단 🪓"
     text: "무 뿌리의 수분 손실을 막는 가장 첫 번째 핵심 단계입니다. 💡 보관 팁: 무 상단의 줄기와 잎 부분을 칼로 싹둑 잘라내어 생장점을 제거해 주세요. 잘라낸 무청은 시래기나 조림용으로 따로 보관해 활용하면 좋습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)"
 steps:
   - name: "彻底倒掉原包装水并在流动清水下冲洗 — 阻断细菌滋生 🚿"
     text: "包装盒内的原水富含溶出的蛋白质，是极易滋生细菌的液体。💡储存小贴士：彻底倒净包装水，将豆腐放在流动的冷自来水下轻柔冲洗，洗去表面的蛋白质残留与杂质。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)。
     </p>
   </div>
 </div>

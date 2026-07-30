@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/perilla_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & MFDS & USDA</strong>"
+authority: "RDA & MFDS & USDA"
 steps:
   - name: "Selalu simpan di kulkas pada suhu 0–4°C — Simpan Dingin (30–60 Hari) ❄️"
     text: "Berbeda dengan minyak wijen, minyak perilla tidak memiliki sesamol dan sangat kaya akan omega-3 yang reaktif, menyebabkannya cepat tengik di suhu ruang. 💡 Tips Penyimpanan: Segera simpan minyak perilla di kulkas (0–4°C) setelah dibeli untuk memperlambat oksidasi lemak."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & MFDS & USDA</strong>.
+      Konten ini didasarkan pada RDA & MFDS & USDA.
     </p>
   </div>
 </div>

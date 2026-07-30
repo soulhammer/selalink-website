@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Nunca lave os ovos com água — Preserve a cutícula natural e refrigere (45 dias) 💧"
     text: "A casca do ovo contém entre 7.000 e 17.000 poros microscópicos. 💡 Dica de conservação: Lavar os ovos destrói a camada protetora da cutícula, permitindo a entrada de água e bactérias (como Salmonella). Limpe a sujeira a seco com papel-toalha em vez de lavar."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>MFDS & USDA & FDA</strong>.
+      Este conteúdo baseia-se em MFDS & USDA & FDA.
     </p>
   </div>
 </div>

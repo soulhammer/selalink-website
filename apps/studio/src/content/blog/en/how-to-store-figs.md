@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/fig_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Wrap each unwashed fig individually in paper towels — Moisture & Shock Protection 📦"
     text: "This step prevents both moisture exposure and physical impact. 💡 Storage Tip: Gently wipe off dirt without washing, then wrap each fig individually in paper towels or newspaper. The paper layer absorbs condensation and cushions against friction."
@@ -38,7 +38,7 @@ Figs have extremely thin skins, high moisture content (over 80%), and are rich i
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>RDA & USDA & MFDS</strong>.
+      This content is based on RDA & USDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/oysters_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Mantenha as ostras com concha cobertas com um pano úmido — Preserve o estado vivo 🦪"
     text: "Manter as ostras vivas na concha é a chave do frescor. 💡 Dica de conservação: Coloque as ostras com o lado côncavo para baixo em um recipiente fundo, cubra com um pano umedecido em água salgada e refrigere (1–4 °C). Elas duram de 2 a 3 dias."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretr
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

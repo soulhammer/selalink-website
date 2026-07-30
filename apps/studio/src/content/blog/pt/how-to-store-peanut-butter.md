@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/peanut_butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Guarde a pasta de amendoim natural de cabeça para baixo — Evite a separação de óleo 🔄"
     text: "A pasta de amendoim 100% natural sem emulsificantes separa o óleo da massa durante o armazenamento. 💡 Dica de conservação: Feche bem a tampa e guarde o pote virado de cabeça para baixo. O óleo natural subirá lentamente pela massa, misturando-se de forma homogênea."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretr
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

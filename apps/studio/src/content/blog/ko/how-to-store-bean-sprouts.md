@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bean_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>"
+authority: "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)"
 steps:
   - name: "상한 줄기 골라내고 살짝 씻기 — 부패 균주 차단 📦"
     text: "검게 변하거나 물러진 줄기는 주변의 싱싱한 나물까지 빠르게 상하게 합니다. 💡 보관 팁: 짓무른 부분을 골라내고 흐르는 찬물에 살짝 씻어 이물질과 껍질을 제거해 주세요."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

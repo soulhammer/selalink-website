@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cocoa_powder_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & EFSA & MFDS</strong>"
+authority: "FDA & EFSA & MFDS"
 steps:
   - name: "Conserver dans un récipient hermétique opaque — Étanchéité totale 🫙"
     text: "Les principaux ennemis du cacao en poudre sont l'humidité ambiante et la lumière. 💡 Astuce de conservation : Après ouverture, transférez la poudre dans un bocal opaque en verre, en inox ou dans un sachet opaque hermétique pour empêcher l'air d'entrer."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide de conservation de la poudre de cacao rec
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>FDA & EFSA & MFDS</strong>.
+      Ce contenu est basé sur FDA & EFSA & MFDS.
     </p>
   </div>
 </div>

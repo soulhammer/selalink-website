@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cereal_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "In einen luftdichten Behälter umfüllen oder mit Clip dicht verschließen — Luft- & Feuchtigkeitsschutz 📦"
     text: "Luftkontakt nach dem Öffnen zu minimieren ist der Schlüssel zum Knuspererhalt. 💡 Lagerungstipp: Falten Sie den Beutel 2–3 Mal um und verschließen Sie ihn mit einer Verschlussklammer oder füllen Sie die Céréalien in eine Vorratsdose um."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS.
     </p>
   </div>
 </div>

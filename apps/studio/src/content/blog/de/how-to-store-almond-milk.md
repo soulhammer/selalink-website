@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Vor dem Trinken sanft schütteln — Natürliche Schwebstoffe re-emulgieren 🥛"
     text: "Mandelmilch ist eine Suspension aus Mandelpartikeln und Wasser, weshalb sich Feststoffe mit der Zeit am Boden absetzen. 💡 Lagerungstipp: Dies ist kein Verderb, sondern ein normaler physikalischer Vorgang. Schütteln Sie die Packung vor dem Einschenken sanft."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>FDA & USDA & MFDS & RDA</strong>.
+      Dieser Inhalt basiert auf FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

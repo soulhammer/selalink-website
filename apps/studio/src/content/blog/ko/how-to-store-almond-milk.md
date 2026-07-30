@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/almond_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>"
+authority: "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)"
 steps:
   - name: "사용 전 가볍게 흔들어주기 — 천연 침전물 유화 🥛"
     text: "아몬드 밀크는 불포화지방산과 고형분이 수분에 서스펜션(현탁)된 형태이므로 가만히 두면 자연스럽게 층이 분리됩니다. 💡 보관 팁: 변질이 아닌 자연스러운 물리 현상이므로, 마시기 전이나 사용 전에 용기를 천천히 골고루 흔들어주면 다시 매끄러운 유화 상태가 됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

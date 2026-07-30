@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/napa_cabbage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "겉잎 정리 후 신문지나 키친타월로 감싸기 — 수분 조절 & 찌그러짐 방지 📰"
     text: "지저분하거나 무른 겉잎은 떼어내고, 마른 신문지나 키친타월로 배추를 전체적으로 감싸 수분 증발과 습기 차는 것을 동시에 막아줍니다. 💡 보관 팁: 떼어낸 겉잎은 버리지 않고 배추를 감싸는 천연 보호막으로 활용하면 배추속 수분을 훨씬 오래 지킬 수 있습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

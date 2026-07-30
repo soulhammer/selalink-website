@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/butter_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Keep the original aluminum foil wrapper — Block Light & Oxygen 📦"
     text: "The original foil wrapper of butter provides an exceptional barrier against light and UV exposure, protecting milk fats from oxidation. 💡 Storage Tip: Discarding the foil wrapper and transferring butter to plastic wrap or clear containers increases light and oxygen exposure, drastically accelerating rancidity. Keep it in its original foil."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on safe
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & MFDS</strong>.
+      This content is based on USDA & MFDS.
     </p>
   </div>
 </div>

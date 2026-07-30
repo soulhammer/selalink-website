@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 용기로 옮겨 담기 — 습기 차단 및 해충 예방 📦"
     text: "구매 후 포장 봉지째 보관하면 벌레가 생기거나 공기 중 습기를 흡수하기 쉽습니다. 💡 보관 팁: 건조 상태의 콩을 유리병, 두꺼운 플라스틱 밀폐 용기, 또는 지퍼백에 옮겨 담고 완벽히 밀봉해 주세요. 산소와 습기를 차단하여 벌레 발생을 막고 수분 함량을 일정하게 유지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

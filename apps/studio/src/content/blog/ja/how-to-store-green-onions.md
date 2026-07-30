@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/green_onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
+authority: "農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)"
 steps:
   - name: "洗わずに新聞紙で包み立てて保存する — 常温保存 (5日間) 🌿"
     text: "土がついたまま洗っていないネギは、水気をつけずに新聞紙や紙で包みます。💡保存のコツ：根を下にして、風通しの良い涼しい日陰（10〜15℃）に「立てて」保存してください。生育環境と同じく直立状態で保存することで、重力ストレスによるエネルギー消費と黄変（老化）を最小限に抑えられます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)に基づいています。
     </p>
   </div>
 </div>

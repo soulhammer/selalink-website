@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chickpeas_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Conserver les pois chiches secs sous 60 % d'humidité — Prévenir les aflatoxines (1–2 ans) 📦"
     text: "Les pois chiches secs doivent être maintenus à moins de 12 % d'humidité. 💡 Astuce de conservation : Conservez-les dans un récipient hermétique avec un sachet déshydratant (gel de silice) dans un placard frais et sec. Cela empêche la germination des moisissures pendant 1 à 2 ans."
@@ -40,7 +40,7 @@ Dans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FDA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FDA & MFDS.
     </p>
   </div>
 </div>

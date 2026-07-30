@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/nuts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)"
 steps:
   - name: "开封后务必密封冷藏或冷冻保存 — 冷藏 (90天), 冷冻 (180天) ❄️"
     text: "坚果置于高温潮湿的常温下，不饱和脂肪酸会与氧气结合产生油哈喇味并滋生黄曲霉毒素。💡储存小贴士：开封后的坚果应立即密封，放入冷藏室（0 ~ 4℃）可保存3个月，放入冷冻室（-18℃以下）可安全保存长达6个月以上。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)。
     </p>
   </div>
 </div>

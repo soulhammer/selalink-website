@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tofu_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & Mayo Clinic</strong>"
+authority: "MFDS & USDA & Mayo Clinic"
 steps:
   - name: "Jeter l'eau du paquet et rincer soigneusement sous l'eau courante — Bloquer les bactéries 🚿"
     text: "Le liquide d'emballage regorge de protéines dissoutes propices au développement bactérien. 💡 Astuce de conservation : Égouttez totalement l'eau du sachet et rincez délicatement le bloc de tofu sous l'eau froide pour éliminer les résidus en surface."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>MFDS & USDA & Mayo Clinic</strong>.
+      Ce contenu est basé sur MFDS & USDA & Mayo Clinic.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/egg_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & USDA & FDA</strong>"
+authority: "MFDS & USDA & FDA"
 steps:
   - name: "Jangan pernah mencuci telur dengan air — Jaga Lapisan Kutikula Alami & Simpan Dingin (45 Hari) 💧"
     text: "Cangkang telur memiliki antara 7.000 hingga 17.000 pori-pori mikroskopis. 💡 Tips Penyimpanan: Mencuci telur merusak lapisan pelindung kutikula, membuat air dan bakteri (seperti Salmonella) masuk. Lap kotoran kering dengan tisu dapur tanpa perlu dicuci."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>MFDS & USDA & FDA</strong>.
+      Konten ini didasarkan pada MFDS & USDA & FDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mayonnaise_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Despensa antes de abrir, geladeira imediatamente depois — Refrigeração (60–90 dias) ❄️"
     text: "Antes de abrir, o produto pode ser mantido em local fresco e escuro; porém, após aberto, fica exposto ao oxigênio e microrganismos. 💡 Dica de conservação: Guarde a maionese aberta sempre na geladeira e consuma em 2 a 3 meses (60–90 dias) para garantir qualidade e segurança."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>FDA & USDA & MFDS</strong>.
+      Este conteúdo baseia-se em FDA & USDA & MFDS.
     </p>
   </div>
 </div>

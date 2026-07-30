@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/tortilla_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Intercalar papel-manteiga entre cada tortilla — Camada separadora antiaderente 📄"
     text: "O segredo para evitar que as tortillas grudem. 💡 Dica de conservação: Coloque uma tortilla, cubra com um pedaço de papel-manteiga (papel vegetal) cortado no tamanho certo e coloque a próxima por cima. O papel bloqueia a umidade, permitindo tirar uma por uma após congelar."
@@ -38,7 +38,7 @@ As tortillas contêm cerca de 25 a 35% de umidade. Ao abrir o pacote, o contato 
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & FDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & FDA & MFDS.
     </p>
   </div>
 </div>

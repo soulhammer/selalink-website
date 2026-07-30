@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国食品医药品安全处(MFDS) & 日本酱油协会(JSA) & 美国农务部(USDA)</strong>"
+authority: "韩国食品医药品安全处(MFDS) & 日本酱油协会(JSA) & 美国农务部(USDA)"
 steps:
   - name: "开封后立即冷藏（0 ~ 5℃）保存 — 冷藏保存 (180 ~ 360天) ❄️"
     text: "未开封时可置于阴凉常温处，开封后接触氧气则会加速氧化。💡储存小贴士：开封后的酱油请务必放入冰箱（0 ~ 5℃）冷藏。低温环境可极大地减缓氧化速度，使酱油固有的香气与爽口鲜味维持6个月至1年以上。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国食品医药品安全处(MFDS) & 日本酱油协会(JSA) & 美国农务部(USDA)</strong>。
+      本内容基于 韩国食品医药品安全处(MFDS) & 日本酱油协会(JSA) & 美国农务部(USDA)。
     </p>
   </div>
 </div>

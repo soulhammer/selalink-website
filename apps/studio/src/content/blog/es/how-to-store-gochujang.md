@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/gochujang_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>MFDS & KFRI & USDA</strong>"
+authority: "MFDS & KFRI & USDA"
 steps:
   - name: "Cierre herméticamente y refrigere a 0–5 °C tras abrir — Refrigeración (6–12 meses) ❄️"
     text: "Aunque cerrado se conserva a temperatura ambiente, una vez abierto el oxígeno inicia su deterioro. 💡 Consejo de almacenamiento: Limpie el borde del contenedor antes de cerrar, selle bien la tapa y guarde en el refrigerador a 0–5 °C para evitar fermentación excesiva y mohos."
@@ -36,7 +36,7 @@ Aunque es un alimento fermentado con alto contenido de sal, al abrirlo queda exp
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>MFDS & KFRI & USDA</strong>.
+      Este contenido se basa en MFDS & KFRI & USDA.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sausage_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Luftdicht verpacken und kühlen — Nach dem Öffnen gekühlt (Rohe 1–2 Tage / Gebrühte 7 Tage) 📦"
     text: "Sauerstoffkontakt und Feuchtigkeitsstau zu vermeiden, ist entscheidend. 💡 Lagerungstipp: Tupfen Sie die Oberfläche trocken, wickeln Sie die Würstchen eng in Frischhaltefolie und lagern Sie sie im Ziploc-Beutel bei 0–4 °C im Kühlschrank."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & MFDS.
     </p>
   </div>
 </div>

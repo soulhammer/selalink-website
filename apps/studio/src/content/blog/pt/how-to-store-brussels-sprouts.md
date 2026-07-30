@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Remova folhas danificadas e seque a superfície — Limpeza prévia 🥬"
     text: "Retire as folhas amareladas ou danificadas ao comprar e seque a superfície delicadamente com papel-toalha. 💡 Dica de conservação: Remover folhas murchas impede que a deterioração avance. Mantenha o talo intacto para evitar perda de água."
@@ -38,7 +38,7 @@ Neste guia, apresentamos um guia de conservação em 3 etapas baseado em diretri
       Segurança Alimentar e Evidência Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este conteúdo baseia-se em <strong>USDA & RDA & MFDS</strong>.
+      Este conteúdo baseia-se em USDA & RDA & MFDS.
     </p>
   </div>
 </div>

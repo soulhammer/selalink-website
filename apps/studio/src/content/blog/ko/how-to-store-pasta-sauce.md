@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "밀폐 용기에 덜어 담아 공기 접촉 최소화하기 — 2차 오염 방지 📦"
     text: "유리 병이나 캔에 남은 소스를 그대로 두면 뚜껑 틈새로 공기가 유입되고 오염 위험이 커집니다. 💡 보관 팁: 깨끗하고 건조한 밀폐 용기(유리 또는 밀폐 플라스틱)에 먹을 만큼 혹은 남은 소스를 옮겨 담고 뚜껑을 꽉 닫아주세요. 공기와의 접촉을 줄여야 신선도가 오래 유지됩니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

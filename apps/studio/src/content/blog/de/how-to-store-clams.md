@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/clams_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NOAA & USDA & MFDS</strong>"
+authority: "NOAA & USDA & MFDS"
 steps:
   - name: "In Salzwasser im Dunkeln wässern — Sandentfernung & Reinigung 🌊"
     text: "Muscheln in ca. 3 %iges Salzwasser (30 g Salz pro 1 l Wasser) legen. Einen Metalllöffel dazugeben, mit einer dunklen Tüte abdecken und an einem kühlen Ort (0–4 °C) 2–3 Stunden Sand ausspucken lassen."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>NOAA & USDA & MFDS</strong>.
+      Dieser Inhalt basiert auf NOAA & USDA & MFDS.
     </p>
   </div>
 </div>

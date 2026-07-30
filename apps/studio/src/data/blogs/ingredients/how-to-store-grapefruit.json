@@ -8,7 +8,7 @@
             "ko": {
                 "title": "자몽 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 자몽의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
                 "intro": "특유의 쌉싸름함과 톡 쏘는 상큼함으로 아침 식단과 다이어트 요리에 사랑받는 자몽! 넉넉히 사 왔다가 냉장고에 오래 두었더니 껍질이 얼룩덜룩해지고 과육이 극도로 씁쓸해져 버린 적 있으시죠? 🍊\n\n자몽은 아열대성 감귤류 과일로, 10°C 이하의 일반 가정용 냉장고(0~4°C)에 장기 보관하면 세포막 지질 구조가 변형되는 **냉해(Chilling Injury)**가 발생합니다. 이로 인해 껍질 표면에 구멍이 파이는 피팅(Pitting) 현상과 함께 과육 속 쓴맛 성분인 **나린진(Naringin)**이 이상 유출되어 맛이 심하게 변질됩니다.\n\n이번 가이드에서는 국제 식품 안전 기관이 검증한 과학적이고 확실한 자몽 신선도 및 즙 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -21,13 +21,13 @@
                     },
                     {
                         "title": "비닐봉지에 밀폐하여 둔 채 상온에 두지 마세요 💧",
-                        "desc": "자몽은 자체 수분 증산 작용을 합니다. 비닐봉지 안쪽에 습도가 갇히면 표면이 짓무르고 곰팡이가 피기 쉬우므로 신문지나 키친타올로 감싸 통풍이 잘되게 보관해야 합니다."
+                        "desc": "자몽은 자체 수분 증산 작용을 합니다. 비닐봉지 안쪽에 습도가 갇히면 표면이 짓무르고 곰팡이가 피기 쉬우므로 신문지나 키친타월로 감싸 통풍이 잘되게 보관해야 합니다."
                     }
                 ],
                 "steps": [
                     {
-                        "name": "신문지나 키친타올로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️",
-                        "text": "자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타올로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요."
+                        "name": "신문지나 키친타월로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️",
+                        "text": "자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타월로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요."
                     },
                     {
                         "name": "10~12℃ 서늘한 암소 보관하기 — 적정 저온 보관 (1~2주 상온 / 3~4주 적정 저온) 🌡️",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Grapefruit Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for grapefruit based on official safety guidelines.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Beloved for its signature bittersweet flavor and invigorating citrus punch, grapefruit is a staple for breakfasts and healthy diets. But have you ever stored grapefruits in the fridge for too long, only to find pitted brown spots on the skin and an overwhelmingly bitter, dry flesh? 🍊\n\nAs a subtropical citrus fruit, storing grapefruit long-term in standard home refrigerators (0–4°C / 32–39°F) triggers **chilling injury**. Temperatures below 10°C (50°F) disrupt cell membrane lipid structures, inducing surface pitting and causing abnormal leakage of **naringin**, the natural flavonoid responsible for intense bitterness.\n\nIn this guide, we introduce a scientifically proven 3-step grapefruit storage guide recommended by food safety authorities to preserve juiciness and optimal flavor. 🛡️",
                 "whyTitle": "Why Store Grapefruit This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "グレープフルーツを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくグレープフルーツの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
                 "intro": "爽やかなほろ苦さと甘酸っぱさで、朝食やダイエット食として人気のグレープフルーツ。まとめ買いして冷蔵庫に長期間入れておいたら、皮に茶色い窪みができて果肉が極端に苦くなってしまった経験はありませんか？🍊\n\nグレープフルーツは亜熱帯性の柑橘類であり、10℃以下の一般的な家庭用冷蔵庫（0〜4℃）で長期保存すると、細胞膜の脂質構造が変形する**低温障害（Chilling Injury）**が発生します。これにより皮の表面に窪みができるピッティング（Pitting）現象と同時に、苦味成分である**ナリンギン（Naringin）**が異常流出し、味が著しく損なわれます。\n\n本記事では、専門機関が検証したグレープフルーツの果汁と美味しさを保つ3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持葡萄柚（西柚）新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解葡萄柚（西柚）的最佳储存温度、方式及保鲜时长。",
-                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "葡萄柚（西柚）凭借其招牌的酸甜微苦与浓郁汁水，成为早餐与减脂膳食中的代表性柑橘类水果。但如果买多了放在冰箱里储存太久，您是否发现表皮出现了凹陷的棕色斑点，果肉也变得干瘪且极其苦涩？🍊\n\n作为亚热带柑橘类水果，将葡萄柚长期存放在 10℃ 以下的普通家庭冰箱冷藏室（0~4℃）中会引发**冷害（Chilling Injury）**。低温会破坏细胞膜的水分脂质结构，导致表皮出现凹陷斑点（Pitting），并造成苦味成分**柚皮苷（Naringin）**异常渗入果肉，严重影响口感。\n\n本指南基于权威机构建议，为您带来3步科学葡萄柚保鲜秘诀，锁住饱满汁水与最佳风味。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener el pomelo (toronja) fresco: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el pomelo según las directrices oficiales de seguridad.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Amado por su sabor agridulce con un toque amargo distintivo, el pomelo (toronja) es un cítrico clave en desayunos y dietas saludables. Pero, ¿alguna vez ha guardado pomelos en el refrigerador demasiado tiempo y descubrió manchas marrones hundidas en la piel y una pulpa muy amarga? 🍊\n\nAl ser un cítrico subtropical, guardar el pomelo a largo plazo en refrigeradores domésticos estándar (0–4 °C) desencadena **daño por frío (Chilling Injury)**. Las temperaturas inferiores a 10 °C alteran las estructuras lipídicas de las membranas celulares, causando picaduras superficiales (pitting) y una filtración anormal de **naringina**, el flavonoide responsable de su amargor intenso.\n\nEn esta guía se presenta una guía de conservación del pomelo en 3 pasos respaldada por expertos para preservar su jugosidad y sabor. 🛡️",
                 "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
                 "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le pamplemousse frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le pamplemousse selon les directives officielles de sécurité.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Apprécié pour sa saveur douce-amère et son côté rafraîchissant, le pamplemousse (ou pomélo) est un incontournable du petit-déjeuner. Mais avez-vous déjà conservé des pamplemousses trop longtemps au réfrigérateur pour constater des taches brunes profondes sur la peau et une chair sèche et très amère ? 🍊\n\nEn tant que agrume subtropical, stocker le pamplemousse à long terme dans un réfrigérateur domestique classique (0–4 °C) provoque des **dégâts dus au froid (Chilling Injury)**. Les températures inférieures à 10 °C altèrent la structure des lipides membranaires, causant des piqûres (pitting) sur l'écorce et une fuite anormale de **naringine**, le flavonoïde responsable de son amertume intense.\n\nDans ce guide, vous présente un guide de conservation du pamplemousse en 3 étapes recommandé par des experts pour préserver son jus et sa saveur. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Pampelmuse & Grapefruit richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Grapefruits basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Beliebt für ihren feinherben, erfrischenden Geschmack ist die Grapefruit ein Klassiker im Frühstück und bei gesunder Ernährung. Haben Sie Grapefruits jedoch zu lange im Kühlschrank gelagert und danach braune Vertiefungen auf der Schale sowie ein trockenes, extrem bitteres Fruchtfleisch vorgefunden? 🍊\n\nAls subtropische Zitrusfrucht löst die Langzeitlagerung im Haushaltskühlschrank (0–4 °C) **Kälteschäden (Chilling Injury)** aus. Temperaturen unter 10 °C verändern die Lipidstruktur der Zellmembranen, erzeugen Schalenlöcher (Pitting) und führen zum ungewöhnlichen Austritt von **Naringin**, dem für die Bitterkeit verantwortlichen Flavonoid.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Grapefruits. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar toranja (grapefruit) fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a toranja com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Amada pelo seu sabor agridoce com um toque amargo marcante, a toranja (grapefruit) é uma fruta cítrica essencial no café da manhã. Mas você já guardou toranjas na geladeira por muito tempo e encontrou manchas marrons afundadas na casca e uma polpa seca e extremamente amarga? 🍊\n\nPor ser uma fruta cítrica subtropical, armazenar toranjas a longo prazo em geladeiras domésticas comuns (0–4 °C) dispara o **dano por frio (Chilling Injury)**. Temperaturas abaixo de 10 °C alteram as estruturas lipídicas das membranas celulares, causando depressões na casca (pitting) e vazamento anormal de **naringina**, o flavonoide responsável pelo amargor intenso.\n\nNeste guia, apresentamos um guia de conservação de toranja em 3 etapas recomendado por especialistas para preservar a suculência e o sabor. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Buah Lemon / Grapefruit agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk grapefruit berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "authority": "USDA & FDA & MFDS",
                 "intro": "Disukai karena rasa asam-manis dengan sentuhan pahit yang segar, grapefruit adalah buah sitrus favorit untuk sarapan dan menu diet. Namun, pernahkah Anda menyimpan grapefruit di kulkas terlalu lama dan mendapati bintik-bintik cokelat cekung pada kulitnya serta daging buah yang terasa sangat pahit dan kering? 🍊\n\nSebagai buah sitrus subtropis, menyimpan grapefruit jangka panjang di kulkas rumah biasa (0–4°C) memicu **kerusakan dingin (Chilling Injury)**. Suhu di bawah 10°C merusak struktur lipid membran sel, memicu bercak cekung pada kulit (pitting) dan kebocoran abnormal senyawa **naringin**, yaitu flavonoid penyebab rasa pahit yang kuat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan grapefruit 3 langkah berbasis ilmiah yang direkomondesikan oleh ahli keamanan pangan untuk menjaga kesegaran dan sari buahnya. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

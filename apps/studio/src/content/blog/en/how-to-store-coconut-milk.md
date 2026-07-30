@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/coconut_milk_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS & RDA</strong>"
+authority: "FDA & USDA & MFDS & RDA"
 steps:
   - name: "Transfer to an airtight glass/plastic container immediately — Block Metal Oxidation 🫙"
     text: "Once a metal can is opened, exposure to air initiates inner metal oxidation. 💡 Storage Tip: Pour unused coconut milk into a clean glass jar or BPA-free airtight container right away and seal tightly. This prevents metallic contamination and protects against fridge odor absorption."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step coconut milk storage guide 
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS & RDA</strong>.
+      This content is based on FDA & USDA & MFDS & RDA.
     </p>
   </div>
 </div>

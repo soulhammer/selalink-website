@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/squid_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>NIFS & MFDS & USDA</strong>"
+authority: "NIFS & MFDS & USDA"
 steps:
   - name: "Completely remove guts, ink sac, and suction cup ring debris — Block Fishy Odors & Rot 🦑"
     text: "Squid viscera and suction cup impurities are the primary sources of fishy odors and bacterial growth. 💡 Storage Tip: Slice the mantle open, remove entrails, ink sac, and quill (backbone). Rub the tentacles with coarse salt or flour under running water to scrub away chitinous suction rings."
@@ -38,7 +38,7 @@ In this guide, shares a scientifically proven 3-step storage guide based on guid
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>NIFS & MFDS & USDA</strong>.
+      This content is based on NIFS & MFDS & USDA.
     </p>
   </div>
 </div>

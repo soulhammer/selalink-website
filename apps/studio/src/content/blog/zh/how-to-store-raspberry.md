@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "保持干燥，在厨房纸巾上单层（Single Layer）铺开 — 吸收湿气与防压 🧻"
     text: "树莓若堆叠存放，底层的果肉会因自身重量和积聚的湿气而变软发霉。💡储存小贴士：在密封盒底部铺上厨房纸巾以吸收水分，将未清洗的树莓单层平铺、互不重叠，然后盖紧盒盖。"
@@ -18,14 +18,14 @@ steps:
     text: "鲜树莓的保鲜期极短，若无法在3天内吃完，冷冻是最佳选择。💡储存小贴士：用清水轻轻冲洗树莓后用纸巾彻底吸干水分，平铺在盘中预冻变硬，再装入拉链袋放入冷冻室（-18℃以下）。适用于制作果昔或甜点，可保存10 ~ 12个月。"
 faqs:
   - question: "为什么树莓不能提前清洗后保存？"
-    answer: "树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（$A_w$）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。"
+    answer: "树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（水活性 (Aw)）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。"
   - question: "冷冻树莓解冻时会发软变形，应该如何食用？"
     answer: "树莓细胞壁脆弱，解冻时细胞液外流会导致形态塌陷。因此无需解冻，直接将冷冻树莓用于制作果昔、酸奶配料或烘焙材料效果最佳。"
 ---
 
 您是否买回酸甜美观的树莓（覆盆子），却发现刚放入冰箱没两天就发霉变软、不得不丢弃？🍓
 
-树莓是全球早餐和甜点中不可或缺的代表性浆果，但由于其果皮（Skin）极薄且内部呈空心结构，在浆果类中呼吸率（Respiration Rate）极高，腐败速度飞快。特别是清洗时，表面水分活性（$A_w$）会接近1.0，导致潜伏的灰霉菌（Botrytis cinerea）孢子在数小时内破坏细胞壁并急速繁殖。
+树莓是全球早餐和甜点中不可或缺的代表性浆果，但由于其果皮（Skin）极薄且内部呈空心结构，在浆果类中呼吸率（Respiration Rate）极高，腐败速度飞快。特别是清洗时，表面水分活性（水活性 (Aw)）会接近1.0，导致潜伏的灰霉菌（Botrytis cinerea）孢子在数小时内破坏细胞壁并急速繁殖。
 
 本指南基于农业及食品安全专家的建议，为您带来3步科学树莓保鲜秘诀，延长这娇嫩浆果的新鲜度。🛡️
 
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ faqs:
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">购买后切勿立即用水清洗 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      在储存前清洗树莓会导致表面水分活性（$A_w$）达到1.0，使潜伏的灰霉菌孢子分解细胞壁，在数小时内破坏果肉组织。务必在食用前才进行清洗。
+      在储存前清洗树莓会导致表面水分活性（水活性 (Aw)）达到1.0，使潜伏的灰霉菌孢子分解细胞壁，在数小时内破坏果肉组织。务必在食用前才进行清洗。
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（$A_w$）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。
+      树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（水活性 (Aw)）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。
     </p>
   </details>
 

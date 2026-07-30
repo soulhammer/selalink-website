@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/mango_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS & RDA</strong>"
+authority: "USDA & MFDS & RDA"
 steps:
   - name: "[Sebelum Matang] Simpan di suhu ruangan yang sejuk (20-25°C) — Pematangan Alami (3-7 Hari) 🌡️"
     text: "Mangga perlahan mengembangkan rasa manisnya pada suhu ruangan. 💡 Tips Penyimpanan: Simpan di tempat yang berventilasi baik, jauh dari sinar matahari langsung, hingga kulitnya tampak mengilap, area batang berbau harum, dan buah sedikit empuk saat diremas lembut, seperti persik yang matang."
@@ -38,7 +38,7 @@ Dalam panduan ini, memperkenalkan panduan penyimpanan 3 langkah yang terbukti se
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS & RDA</strong>.
+      Konten ini didasarkan pada USDA & MFDS & RDA.
     </p>
   </div>
 </div>

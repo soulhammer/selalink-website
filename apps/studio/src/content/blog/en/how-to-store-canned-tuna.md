@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/canned_tuna_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Store unopened cans in a cool, dry pantry — Room Temperature (2–5 Years) 📦"
     text: "Unopened canned tuna is heat-sterilized and shelf-stable for years. 💡 Storage Tip: Keep cans in a cool, dry pantry (15–20°C / 59–68°F) away from direct sunlight and stove heat. After opening the lid, let the tuna sit for 5 minutes to allow any residual furan gas to dissipate naturally into the air."
@@ -38,7 +38,7 @@ In this guide, introduces a scientifically proven 3-step canned tuna storage gui
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/pasta_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & MFDS</strong>"
+authority: "USDA & MFDS"
 steps:
   - name: "Pindahkan ke wadah kedap udara khusus pasta — Perlindungan Total dari Kelembapan & Hama 📦"
     text: "Kunci menyimpan pasta kering adalah menutup rapat akses udara dan kelembapan. 💡 Tips Penyimpanan: Simpan pasta dalam toples kaca tinggi atau wadah plastik kedap udara bebas BPA. Langkah ini mencegah kelembapan luar dan masuknya hama."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & MFDS.
     </p>
   </div>
 </div>

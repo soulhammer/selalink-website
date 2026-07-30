@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/soy_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>식품의약품안전처(MFDS) & 일본간장협회(JSA) & 미국 농무부(USDA)</strong>"
+authority: "식품의약품안전처(MFDS) & 일본간장협회(JSA) & 미국 농무부(USDA)"
 steps:
   - name: "개봉 후 즉시 냉장(0 ~ 5℃) 보관하기 — 개봉 후 냉장 보관 (180 ~ 360일) ❄️"
     text: "개봉 전에는 서늘한 상온에 보관이 가능하지만, 개봉 후에는 산소 접촉으로 산화가 촉진됩니다. 💡 보관 팁: 개봉한 간장은 냉장고(0 ~ 5℃)에 보관하세요. 저온 환경은 산화 속도를 극도로 낮추어 간장 고유의 아로마와 깔끔한 감칠맛을 6개월 ~ 1년 이상 유지해 줍니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>식품의약품안전처(MFDS) & 일본간장협회(JSA) & 미국 농무부(USDA)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 식품의약품안전처(MFDS) & 일본간장협회(JSA) & 미국 농무부(USDA)에 기반하고 있습니다.
     </p>
   </div>
 </div>

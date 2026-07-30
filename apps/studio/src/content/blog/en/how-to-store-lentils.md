@@ -8,9 +8,9 @@ category: "FreshSnap"
 heroImage: "/images/blog/lentils_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
-  - name: "Store in airtight containers (glass/PET/PP) with desiccants — Maintain $A_w < 0.65$ & Pest Control 🫙"
+  - name: "Store in airtight containers (glass/PET/PP) with desiccants — Maintain water activity (Aw) < 0.65 & Pest Control 🫙"
     text: "Immediately transfer dry lentils into glass jars or food-grade PET/PP airtight containers and add a food-safe desiccant (silica gel). 💡 Storage Tip: Controlling moisture content below 10–12% keeps water activity below 0.65, effectively suppressing microbial growth and preventing pulse beetle infestations."
   - name: "Keep in a cool, dark place (15–20°C) away from direct sunlight — Dry Pantry Storage (1–2 Years) 🚪"
     text: "Store airtight lentil containers in a cool kitchen cabinet or dark pantry away from sunlight. 💡 Storage Tip: In a cool, dry environment at 15–20°C (59–68°F), lentils preserve their nutritional value and color without quality degradation for 1 to 2 years."
@@ -25,7 +25,7 @@ faqs:
 
 Lentils are a globally renowned superfood packed with plant-based protein, dietary fiber, and iron! 🫘
 
-Lentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity ($A_w$) below 0.65 is crucial to completely block microbial growth and insect reproduction.
+Lentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity (Aw) below 0.65 is crucial to completely block microbial growth and insect reproduction.
 
 In this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your lentils safe, fresh, and free from pests and toxins. 🛡️
 
@@ -38,7 +38,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>USDA & FDA & MFDS</strong>.
+      This content is based on USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ In this guide, based on scientifically verified guidelines from the USDA, FDA, a
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">STEP 1</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Store in airtight containers (glass/PET/PP) with desiccants — Maintain $A_w < 0.65$ & Pest Control 🫙</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">Store in airtight containers (glass/PET/PP) with desiccants — Maintain water activity (Aw) < 0.65 & Pest Control 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
     Immediately transfer dry lentils into glass jars or food-grade PET/PP airtight containers and add a food-safe desiccant (silica gel). 💡 Storage Tip: Controlling moisture content below 10–12% keeps water activity below 0.65, effectively suppressing microbial growth and preventing pulse beetle infestations.

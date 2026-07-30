@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/chili_pepper_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Essuyer et envelopper dans du papier absorbant avec la tige — Contrôle de l'humidité 📦"
     text: "Gérer l'humidité est crucial pour éviter le pourrissement. 💡 Astuce de conservation : Sans laver, essuyez l'humidité avec de l'essuie-tout et enveloppez les piments par lots de 5 à 10 avec leur tige."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation des piments 
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>RDA & USDA & MFDS</strong>.
+      Ce contenu est basé sur RDA & USDA & MFDS.
     </p>
   </div>
 </div>

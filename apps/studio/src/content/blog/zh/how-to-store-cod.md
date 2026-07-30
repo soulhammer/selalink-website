@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/cod_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)</strong>"
+authority: "韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)"
 steps:
   - name: "擦干水分后用吸水纸和保鲜膜紧密包裹 — 锁水防氧化 📦"
     text: "用厨房纸巾吸干鳕鱼切片表面的水分，用食品级吸水纸包好，再用保鲜膜无缝紧密包裹。💡储存小贴士：及时吸收渗液并阻隔空气，能从源头上阻止TMAO还原反应和蛋白质结构破坏。"
@@ -38,7 +38,7 @@ faqs:
       食品安全与科学依据
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本内容基于 <strong>韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)</strong>。
+      本内容基于 韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)。
     </p>
   </div>
 </div>

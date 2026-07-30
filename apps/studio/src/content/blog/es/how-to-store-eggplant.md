@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/eggplant_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & MFDS</strong>"
+authority: "RDA & USDA & MFDS"
 steps:
   - name: "Envuelva individualmente con papel de cocina o periódico — Retenga la humedad y amortigüe el frío 🧻"
     text: "Evitar la evaporación del agua superficial y proteger la piel del aire frío directo es vital. 💡 Consejo de almacenamiento: Envuelva cada berenjena seca y sin lavar en una hoja de papel de cocina o periódico."
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación en 3 pasos respaldada por e
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>RDA & USDA & MFDS</strong>.
+      Este contenido se basa en RDA & USDA & MFDS.
     </p>
   </div>
 </div>

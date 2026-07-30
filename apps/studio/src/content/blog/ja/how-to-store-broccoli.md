@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/broccoli_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>農村振興庁(RDA) & 米国農務省(USDA) & EFSA</strong>"
+authority: "農村振興庁(RDA) & 米国農務省(USDA) & EFSA"
 steps:
   - name: "茎の切り口を少し切り落とし濡らしたペーパーで包む — 茎からの水分補給 🥦"
     text: "ブロッコリーの固い茎は、上のつぼみへ水分と栄養を運ぶ重要なルートです。💡保存のコツ：茎の先端を0.5cmほど切り落とし、水で濡らして固く絞ったキッチンペーパーで茎の切り口を包んでください。花瓶に花を活けるように持続的に水分を与えることで、つぼみが乾燥して花が咲くのを防ぎます。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>農村振興庁(RDA) & 米国農務省(USDA) & EFSA</strong>に基づいています。
+      本コンテンツは、農村振興庁(RDA) & 米国農務省(USDA) & EFSAに基づいています。
     </p>
   </div>
 </div>

@@ -8,7 +8,7 @@
             "ko": {
                 "title": "단호박·호박 신선하게 보관하는 법: 과학적 보관 가이드",
                 "description": "공인된 안전 가이드라인에 따른 단호박 및 호박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
                 "intro": "단단하고 단맛이 깊은 단호박이나 호박을 사 왔는데, 얼마 지나지 않아 꼭지부터 곰팡이가 피거나 자른 단면이 하얗게 마르고 물러 버려본 경험 다들 있으시죠? 🎃\n\n호박류는 껍질이 단단해 장기 보관이 가능한 대표적인 구황 작물이지만, 습도와 온도에 매우 민감합니다. 자르지 않은 통호박은 습기가 차면 꼭지부터 미생물이 침입해 쉽게 부패하며, 반대로 잘라낸 호박은 내부의 씨와 속을 제거하지 않고 보관하면 수분과 씨앗 부위에서 세균성 무름병이 급격히 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 호박의 달콤한 풍미와 밤 같은 식감을 최대 3개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
                 "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
                 "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
@@ -52,7 +52,7 @@
             "en": {
                 "title": "How to Keep Pumpkin & Squash Fresh: Scientific Storage Guide",
                 "description": "Check the optimal storage temperature, method, and shelf life for pumpkin and squash based on official safety guidelines.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Have you ever bought a firm, sweet pumpkin or squash, only to find mold growing from the stem or the cut surfaces drying out and spoiling in the fridge? 🎃\n\nPumpkins and hard squashes have thick skins ideal for long-term storage, but they are highly sensitive to temperature and moisture. Whole pumpkins stored in humid or overly cold conditions develop stem rot, while cut pumpkins left with their seeds and pulpy centers deteriorate within days due to bacterial soft rot.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to preserve sweet flavor and dense texture for up to 3 months. 🛡️",
                 "whyTitle": "Why Store Pumpkin This Way? Scientific Facts",
                 "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
@@ -96,7 +96,7 @@
             "ja": {
                 "title": "カボチャを新鮮に保つ保存方法：科学的保管ガイド",
                 "description": "公的安全基準に基づくカボチャの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
                 "intro": "固く甘みのあるカボチャ（ホクホクかぼちゃ等）を買ってきたのに、しばらくするとヘタからカビが生えたり、カットした断面が干からびて傷んでしまった経験はありませんか？🎃\n\nカボチャ類は皮が硬く長期保存に向いた食材ですが、湿度と温度に非常に敏感です。丸ごとのカボチャは湿気がこもるとヘタから雑菌が侵入して腐敗しやすく、カットしたカボチャは種やワタを残したまま保存すると、その水分から傷みが急激に進みます。\n\n本記事では、農学および食品安全の専門家が推奨する、カボチャのホクホク感と甘みを最大3ヶ月間キープする3段階の科学的保存法をご紹介します。🛡️",
                 "whyTitle": "なぜこのように保存するのか？科学的ファクト",
                 "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
@@ -140,7 +140,7 @@
             "zh": {
                 "title": "如何保持南瓜/贝贝南瓜新鲜：科学储存指南",
                 "description": "根据官方食品安全指南，了解南瓜及贝贝南瓜的最佳储存温度、方式和保鲜时长。",
-                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
                 "intro": "您是否买回质地紧实、口感面甜的南瓜，放了没多久却发现蒂头发霉，或者切开后断面干枯软烂？🎃\n\n南瓜表皮坚硬，是极具代表性的耐储存食材，但它对温度和湿度非常敏感。整颗未切的南瓜若处于潮湿或过冷的环境中，蒂头极易入侵细菌发生腐烂；而切开后的南瓜如果保留内部的瓜瓤与瓜籽，积聚的水分会导致细菌性软腐病剧烈爆发。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学南瓜保鲜秘诀，帮您锁定南瓜香甜软糯的粉面口感长达3个月。🛡️",
                 "whyTitle": "为什么要这样储存？科学原理",
                 "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
@@ -184,7 +184,7 @@
             "es": {
                 "title": "Cómo mantener la calabaza fresca: Guía científica de conservación",
                 "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la calabaza según las directrices oficiales de seguridad.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "¿Alguna vez compró una calabaza firme y dulce solo para descubrir que el tallo desarrolló moho o que las partes cortadas se secaban y echaban a perder en el refrigerador? 🎃\n\nLas calabazas tienen pieles gruesas ideales para el almacenamiento prolongado, pero son muy sensibles a la temperatura y la humedad. Las calabazas enteras almacenadas en ambientes fríos y húmedos sufren pudrición del tallo, mientras que la calabaza cortada se deteriora en pocos días si no se retiran las semillas y la pulpa interior.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para conservar su sabor dulce y textura densa hasta por 3 meses. 🛡️",
                 "whyTitle": "¿Por qué almacenarla así? Datos científicos",
                 "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
@@ -228,7 +228,7 @@
             "fr": {
                 "title": "Comment conserver le potiron et la courge frais : Guide scientifique de conservation",
                 "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le potiron et la courge selon les directives officielles de sécurité.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Avez-vous déjà acheté une courge ou un potiron bien ferme pour constater que son pédoncule moisissait ou que ses tranches séchaient et pourrissaient au réfrigérateur ? 🎃\n\nLes courges et potirons possèdent une peau épaisse idéale pour une longue conservation, mais ils sont très sensibles à la température et à l'humidité. Les potirons entiers stockés dans un environnement froid et humide développent de la moisissure au niveau de la tige, tandis que les morceaux coupés laissés avec leurs graines s'altèrent en quelques jours.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la saveur douce et la texture dense de vos courges jusqu'à 3 mois. 🛡️",
                 "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
                 "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
@@ -272,7 +272,7 @@
             "de": {
                 "title": "Kürbis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
                 "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kürbis basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Haben Sie schon einmal einen festen, süßen Kürbis (z. B. Hokkaido) gekauft, nur um festzustellen, dass der Stiel schimmelte oder die Schnittflächen im Kühlschrank austrockneten? 🎃\n\nKürbisse besitzen eine dicke Schale, die ideal für die Langzeitlagerung ist, reagieren jedoch extrem sensibel auf Temperatur und Feuchtigkeit. Ganze Kürbisse, die zu kalt oder feucht gelagert werden, erleiden Stielfäule. Anschnitte verfaulen innerhalb weniger Tage, wenn Kerne und das feuchte Innenleben nicht entfernt werden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Geschmack und Textur Ihres Kürbisses bis zu 3 Monate zu bewahren. 🛡️",
                 "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
                 "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
@@ -316,7 +316,7 @@
             "pt": {
                 "title": "Como conservar abóbora fresca: Guia científico de armazenamento",
                 "description": "Descubra a temperatura, método e tempo de conservação ideais para a abóbora com base em diretrizes oficiais de segurança.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Você já comprou uma abóbora firme e adocicada e descobriu depois que o cabo mofou ou que as partes cortadas ressecaram e estragaram na geladeira? 🎃\n\nAs abóboras possuem casca espessa ideal para conservação prolongada, mas são muito sensíveis à temperatura e umidade. Abóboras inteiras guardadas no frio excessivo sofrem podridão do talo, enquanto pedaços cortados guardados com sementes e miolo estragam em poucos dias.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter o sabor adocicado e a textura da sua abóbora por até 3 meses. 🛡️",
                 "whyTitle": "Por que armazenar assim? Fatos científicos",
                 "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
@@ -360,7 +360,7 @@
             "id": {
                 "title": "Cara Menyimpan Labu Kuning / Labu Parang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
                 "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk labu kuning berdasarkan pedoman keselamatan resmi.",
-                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "authority": "RDA & USDA & MFDS",
                 "intro": "Pernahkah Anda membeli labu kuning yang padat dan manis, lalu mendapati tangkainya berjamur atau bagian potongannya mengering dan membusuk di kulkas? 🎃\n\nLabu kuning memiliki kulit tebal yang ideal untuk penyimpanan jangka panjang, namun sangat sensitif terhadap suhu dan kelembapan. Labu utuh yang disimpan di tempat yang terlalu dingin atau lembap akan mengalami pembusukan tangkai, sedangkan labu potong yang disimpan bersama bijinya akan cepat membusuk karena bakteri.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk menjaga rasa manis dan tekstur padat labu Anda hingga 3 bulan. 🛡️",
                 "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
                 "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",

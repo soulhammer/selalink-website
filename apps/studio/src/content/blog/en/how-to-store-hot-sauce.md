@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/hot_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>FDA & USDA & MFDS</strong>"
+authority: "FDA & USDA & MFDS"
 steps:
   - name: "Wipe the nozzle clean and cap tightly after use — Block Oxygen Contact 🧻"
     text: "Residual sauce on the cap is a primary path for oxygen exposure. 💡 Storage Tip: Immediately after pouring, wipe away leftover sauce from the nozzle with a clean paper towel and seal the cap tightly to block air entry."
@@ -34,7 +34,7 @@ Have you ever opened a bottle of hot sauce or Sriracha for pizza, tacos, or stir
       Food Safety & Scientific Evidence
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      This content is based on <strong>FDA & USDA & MFDS</strong>.
+      This content is based on FDA & USDA & MFDS.
     </p>
   </div>
 </div>

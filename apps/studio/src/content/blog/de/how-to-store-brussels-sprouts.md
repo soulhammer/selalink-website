@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/brussels_sprouts_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & RDA & MFDS</strong>"
+authority: "USDA & RDA & MFDS"
 steps:
   - name: "Beschädigte Außenblätter entfernen und Oberfläche trocknen — Vorbereitung 🥬"
     text: "Entfernen Sie nach dem Kauf gelbe oder beschädigte Außenblätter und tupfen Sie die Oberfläche mit Küchenpapier trocken. 💡 Lagerungstipp: Das Entfernen welker Blätter verhindert das Übergreifen von Fäulnis. Den Strunk nicht abschneiden, um Austrocknung zu vermeiden."
@@ -38,7 +38,7 @@ In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Rat
       Lebensmittelsicherheit & Wissenschaftliche Belege
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Dieser Inhalt basiert auf <strong>USDA & RDA & MFDS</strong>.
+      Dieser Inhalt basiert auf USDA & RDA & MFDS.
     </p>
   </div>
 </div>

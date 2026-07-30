@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lemon_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FSA & MFDS</strong>"
+authority: "USDA & FSA & MFDS"
 steps:
   - name: "Sécher l'humidité de surface complètement — Éviter la moisissure et la pourriture 🍋"
     text: "Même avec une peau épaisse, l'eau stagnante permet aux spores de pénétrer. 💡 Astuce de conservation : Épongez soigneusement chaque goutte d'eau avec de l'essuie-tout et laissez sécher à l'ombre 5 à 10 minutes avant de ranger."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>USDA & FSA & MFDS</strong>.
+      Ce contenu est basé sur USDA & FSA & MFDS.
     </p>
   </div>
 </div>

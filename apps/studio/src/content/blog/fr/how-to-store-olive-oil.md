@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/olive_oil_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>IOC & USDA & MFDS</strong>"
+authority: "IOC & USDA & MFDS"
 steps:
   - name: "Ne jamais conserver au réfrigérateur — Éviter la cristallisation et la perte d'arômes ❌❄️"
     text: "Mettre l'huile d'olive au frigo fige les acides gras en une pâte blanche. 💡 Astuce de conservation : Ce processus répété détruit les arômes délicats et les polyphénols. La température idéale pour l'huile d'olive est une température ambiante fraîche comprise entre 14 et 18 °C."
@@ -38,7 +38,7 @@ Dans ce guide, vous présente un guide scientifique de conservation en 3 étapes
       Sécurité Alimentaire et Preuves Scientifiques
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Ce contenu est basé sur <strong>IOC & USDA & MFDS</strong>.
+      Ce contenu est basé sur IOC & USDA & MFDS.
     </p>
   </div>
 </div>

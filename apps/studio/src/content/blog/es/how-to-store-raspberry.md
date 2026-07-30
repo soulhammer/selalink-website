@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/raspberry_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Coloque las frambuesas secas en una sola capa (Single Layer) sobre papel de cocina — Absorción de humedad y protección 🧻"
     text: "Apilar frambuesas hace que el peso aplaste las capas inferiores, atrapando humedad y favoreciendo el moho. 💡 Consejo de almacenamiento: Cubra el fondo de un recipiente hermético con papel de cocina para absorber la humedad y coloque las frambuesas sin lavar en una sola capa sin superponerlas."
@@ -18,14 +18,14 @@ steps:
     text: "Como las frambuesas frescas duran muy poco, congelarlas es imprescindible si no las va a consumir en 3 días. 💡 Consejo de almacenamiento: Lávelas suavemente, séquelas completamente con papel de cocina, congele en una sola capa sobre una bandeja y páselas a bolsas Ziploc en el congelador (-18 °C). Perfectas para batidos durante 10–12 meses."
 faqs:
   - question: "¿Por qué no se deben lavar las frambuesas antes de guardarlas?"
-    answer: "Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua ($A_w$) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas."
+    answer: "Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua (actividad de agua (Aw)) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas."
   - question: "¿Por qué las frambuesas congeladas se deshacen al descongelar y cómo debo usarlas?"
     answer: "Las frambuesas tienen paredes celulares frágiles que se rompen durante la congelación; al descongelar, el jugo se escapa y quedan pochas. Lo mejor es utilizarlas directamente congeladas en batidos, yogures o repostería sin descongelar previo."
 ---
 
 ¿Alguna vez compró hermosas frambuesas y descubrió que tenían moho o estaban pochas a los dos días de meterlas al refrigerador? 🍓
 
-Las frambuesas son un fruto rojo esencial en desayunos y postres de todo el mundo. Sin embargo, debido a su piel extremadamente fina y su estructura hueca, tienen una tasa de respiración (Respiration Rate) altísima y se deterioran más rápido que casi cualquier otra fruta. Lavarlas eleva la actividad de agua en superficie ($A_w$) cerca de 1.0, lo que hace que las esporas de moho gris (*Botrytis cinerea*) destruyan las paredes celulares y se multipliquen en horas.
+Las frambuesas son un fruto rojo esencial en desayunos y postres de todo el mundo. Sin embargo, debido a su piel extremadamente fina y su estructura hueca, tienen una tasa de respiración (Respiration Rate) altísima y se deterioran más rápido que casi cualquier otra fruta. Lavarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) cerca de 1.0, lo que hace que las esporas de moho gris (*Botrytis cinerea*) destruyan las paredes celulares y se multipliquen en horas.
 
 En esta guía se presenta una guía de conservación de frambuesas en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️
 
@@ -38,7 +38,7 @@ En esta guía se presenta una guía de conservación de frambuesas en 3 pasos re
       Seguridad Alimentaria y Evidencia Científica
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Este contenido se basa en <strong>USDA & FDA & MFDS</strong>.
+      Este contenido se basa en USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ En esta guía se presenta una guía de conservación de frambuesas en 3 pasos re
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Nunca lave las frambuesas justo después de comprarlas 💧</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Lavar las frambuesas antes de guardarlas eleva la actividad de agua en superficie ($A_w$) a casi 1.0. Esto activa las esporas de *Botrytis cinerea* (moho gris), que descomponen las paredes celulares y echan a perder el fruto en pocas horas. Lávelas solo justo antes de comer.
+      Lavar las frambuesas antes de guardarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) a casi 1.0. Esto activa las esporas de *Botrytis cinerea* (moho gris), que descomponen las paredes celulares y echan a perder el fruto en pocas horas. Lávelas solo justo antes de comer.
     </p>
   </div>
 </div>
@@ -112,7 +112,7 @@ En esta guía se presenta una guía de conservación de frambuesas en 3 pasos re
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua ($A_w$) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas.
+      Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua (actividad de agua (Aw)) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas.
     </p>
   </details>
 

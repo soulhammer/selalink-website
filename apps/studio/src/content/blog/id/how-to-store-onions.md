@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/onion_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>RDA & USDA & FSA</strong>"
+authority: "RDA & USDA & FSA"
 steps:
   - name: "Gantung bawang utuh di area sejuk dan berventilasi baik — Suhu Ruang (30 Hari) 🌬️"
     text: "Bawang bombay utuh paling baik disimpan di tempat yang sejuk, teduh, dan berventilasi baik (10–15°C). 💡 Tips Penyimpanan: Masukkan bawang satu per satu ke dalam kantong jaring atau kaus kaki nilon bersih, ikat simpul di antara setiap bawang sebelum digantung. Ini mencegah kontak langsung antar-bawang, menghilangkan memar akibat tekanan."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>RDA & USDA & FSA</strong>.
+      Konten ini didasarkan pada RDA & USDA & FSA.
     </p>
   </div>
 </div>

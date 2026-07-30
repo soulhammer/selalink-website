@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/bread_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)</strong>"
+authority: "米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)"
 steps:
   - name: "冷蔵室保存は絶対に避ける — デンプンの急激な老化（結晶化）防止 ❌🍞"
     text: "パンの中のデンプン分子は1〜6℃の冷蔵室の温度帯で水分を放出し、硬く結合する「老化」現象がピークに達します。💡保存のコツ：冷蔵室で乾燥したパンは、加熱しても元のふんわり感を完全に戻すことはできません。しっとりした食感を保つには、冷蔵室ではなく常温保存か即時冷凍を選びましょう。"
@@ -38,7 +38,7 @@ faqs:
       食品衛生＆科学的根拠
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      本コンテンツは、<strong>米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)</strong>に基づいています。
+      本コンテンツは、米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)に基づいています。
     </p>
   </div>
 </div>

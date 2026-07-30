@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/lime_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "씻지 않고 키친타월로 감싸 지퍼백에 밀봉하기 — 수분 보호 및 습도 조절 📦"
     text: "라임의 수분 증발을 막으면서도 과도한 습기가 차는 것을 방지해야 합니다. 💡 보관 팁: 씻지 않은 건조한 상태의 라임을 키친타월로 한 알씩 감싼 뒤 밀폐 지퍼백에 넣고 공기를 빼주세요. 키친타월이 맺히는 습기를 흡수하여 곰팡이를 예방하고 촉촉함을 유지합니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>

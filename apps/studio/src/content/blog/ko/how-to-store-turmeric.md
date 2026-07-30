@@ -8,14 +8,14 @@ category: "FreshSnap"
 heroImage: "/images/blog/turmeric_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)</strong>"
+authority: "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)"
 steps:
   - name: "갈색/자색 차광 유리병에 보관하기 — 광산화 차단 📦"
     text: "강황 가루나 건조 강황은 자외선과 가시광선을 차단하는 갈색, 자색 차광 유리병이나 불투명 밀폐 용기에 담아 보관하세요. 💡 보관 팁: 투명 플라스틱이나 유리병을 사용할 경우 직사광선과 전등 빛에 의해 커큐민 구조가 분해되므로, 반드시 빛을 완벽히 차단하는 차광 용기를 사용하는 것이 핵심입니다."
   - name: "실리카겔을 넣고 서늘한 암소에 실온 보관하기 — 습기 차단 및 서늘한 보관 (1 ~ 2년) 🧺"
     text: "수분 유입을 막기 위해 건조제(실리카겔)를 용기 안에 넣고 밀봉하세요. 💡 보관 팁: 가스레인지나 레인지후드 주위의 열기를 피해, 습도가 낮고 어두운 찬장(15 ~ 20℃ 이하)에 보관하세요. 커큐민 파괴 없이 1 ~ 2년 이상 강황의 선명한 색과 효능을 유지할 수 있습니다."
-  - name: "생강황 뿌리는 키친타올로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️"
-    text: "가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타올로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요."
+  - name: "생강황 뿌리는 키친타월로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️"
+    text: "가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타월로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요."
 faqs:
   - question: "색이 옅어지거나 뭉친 강황 가루는 먹어도 되나요?"
     answer: "강황 가루의 노란색이 바랜 것은 빛에 의해 커큐민 분자가 광분해되어 항산화 유효 성분이 크게 줄어든 상태를 의미합니다. 습기로 인해 약간 뭉친 경우 단단히 굳거나 곰팡이 냄새가 나지 않는다면 사용 가능하지만, 효능이 떨어졌을 가능성이 높습니다. 곰팡이나 변색이 심하다면 폐기하는 것이 좋습니다."
@@ -38,7 +38,7 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 <strong>농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)</strong>에 기반하고 있습니다.
+      본 콘텐츠는 농촌진흥청(RDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
     </p>
   </div>
 </div>
@@ -70,10 +70,10 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-gradient-to-b from-emerald-500/[0.04] to-transparent dark:border-emerald-500/20 dark:bg-emerald-950/20 shadow-sm backdrop-blur-md transition-all">
   <div class="flex flex-wrap items-center gap-3 mb-4">
     <span class="px-3.5 py-1.5 text-xs font-black tracking-wider bg-emerald-500/10 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300 rounded-full border border-emerald-500/30 shadow-xs">단계 3</span>
-    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">생강황 뿌리는 키친타올로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️</h4>
+    <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">생강황 뿌리는 키친타월로 감싸 지퍼백에 담아 냉장/냉동 보관하기 — 생강황 보관 (냉장 1개월 / 냉동 6개월) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타올로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요.
+    가공되지 않은 생강황(수분 보유 뿌리)을 단기/장기 보관할 때는 적절한 습도 조절이 필요합니다. 💡 보관 팁: 씻지 않은 생강황 표면의 흙을 털어내고 키친타월로 감싼 후 밀폐 지퍼백에 넣어 냉장 보관(1개월)하거나, 편으로 썰어 지퍼백에 담아 냉동 보관(-18℃ 이하, 6개월)하세요.
   </p>
 </div>
 

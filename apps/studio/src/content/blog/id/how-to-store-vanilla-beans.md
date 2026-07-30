@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/vanilla_beans_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Bungkus setiap polong dengan kertas lilin atau plastik wrap — Pelindung Kelembapan 📜"
     text: "Bungkus setiap polong vanili secara terpisah menggunakan kertas lilin (Wax Paper) atau plastik wrap khusus makanan untuk mengurangi gesekan dan mencegah penguapan air."
@@ -25,7 +25,7 @@ faqs:
 
 Polong vanili alami (Vanilla Beans) menghadirkan aroma dan rasa manis nan mewah yang tak tertandingi untuk hidangan penutup! 🍦✨
 
-Polong vanili mengandung senyawa aromatik berharga yang disebut 'vanilin'. Namun karena harganya yang mahal, banyak orang secara keliru menyimpannya di dalam kulkas. Mendinginkan vanili menyebabkan terbentuknya embun (kondensasi) saat dikeluarkan ke suhu ruang, melonjakkan aktivitas air ($A_w$) dan memicu tumbuhnya jamur.
+Polong vanili mengandung senyawa aromatik berharga yang disebut 'vanilin'. Namun karena harganya yang mahal, banyak orang secara keliru menyimpannya di dalam kulkas. Mendinginkan vanili menyebabkan terbentuknya embun (kondensasi) saat dikeluarkan ke suhu ruang, melonjakkan aktivitas air (aktivitas air (Aw)) dan memicu tumbuhnya jamur.
 
 Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk melindungi kristal vanilin dan memblokir risiko jamur secara total. 🛡️
 
@@ -38,7 +38,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>
@@ -86,7 +86,7 @@ Dalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, da
   <div class="flex-1 min-w-0">
     <strong class="text-slate-950 dark:text-white font-extrabold block text-base md:text-lg mb-1.5 tracking-tight">Jangan pernah menyimpan polong vanili di dalam kulkas atau freezer ⚠️</strong>
     <p class="text-slate-800 dark:text-slate-200 text-sm md:text-base m-0 leading-relaxed font-normal break-words">
-      Menyimpan vanili di kulkas memicu kondensasi embun saat terkena udara ruang. Hal ini meningkatkan aktivitas air ($A_w$) permukaan, menciptakan lingkungan ideal bagi jamur Aspergillus dan merusak struktur kristal vanilin.
+      Menyimpan vanili di kulkas memicu kondensasi embun saat terkena udara ruang. Hal ini meningkatkan aktivitas air (aktivitas air (Aw)) permukaan, menciptakan lingkungan ideal bagi jamur Aspergillus dan merusak struktur kristal vanilin.
     </p>
   </div>
 </div>

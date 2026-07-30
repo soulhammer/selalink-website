@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/jam_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "<strong>USDA & FDA & MFDS</strong>"
+authority: "USDA & FDA & MFDS"
 steps:
   - name: "Simpan toples yang belum dibuka di lemari sejuk dan gelap — Suhu Ruang (1 Tahun) 📦"
     text: "Toples kedap udara yang belum dibuka stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan toples di tempat sejuk dan gelap (15–20°C) jauh dari sinar matahari dan panas kompor. Selai bertahan hingga 1 tahun sebelum dibuka."
@@ -38,7 +38,7 @@ Dalam panduan ini, kami membagikan panduan penyimpanan selai buah 3 langkah berb
       Keamanan Pangan & Bukti Ilmiah
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      Konten ini didasarkan pada <strong>USDA & FDA & MFDS</strong>.
+      Konten ini didasarkan pada USDA & FDA & MFDS.
     </p>
   </div>
 </div>
