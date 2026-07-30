@@ -8,16 +8,16 @@ const __dirname = path.dirname(__filename);
 const studioRoot = path.join(__dirname, '../../..');
 
 const ingredientTargetsWithDates = [
-  { slug: 'how-to-store-cocoa-powder', date: '2026-01-15' },
-  { slug: 'how-to-store-raspberry', date: '2026-02-03' },
-  { slug: 'how-to-store-kale', date: '2026-02-22' },
-  { slug: 'how-to-store-beetroot', date: '2026-03-12' },
-  { slug: 'how-to-store-prosciutto', date: '2026-04-02' },
-  { slug: 'how-to-store-hot-sauce', date: '2026-04-23' },
-  { slug: 'how-to-store-canola-sunflower-oil', date: '2026-05-14' },
-  { slug: 'how-to-store-curry-powder', date: '2026-06-04' },
-  { slug: 'how-to-store-rice-paper', date: '2026-06-25' },
-  { slug: 'how-to-store-grapefruit', date: '2026-07-16' }
+  { slug: 'how-to-store-kimchi', date: '2026-01-12' },
+  { slug: 'how-to-store-oat-milk', date: '2026-02-02' },
+  { slug: 'how-to-store-basil-pesto', date: '2026-02-23' },
+  { slug: 'how-to-store-soy-milk', date: '2026-03-16' },
+  { slug: 'how-to-store-chickpeas', date: '2026-04-06' },
+  { slug: 'how-to-store-chia-seeds', date: '2026-04-27' },
+  { slug: 'how-to-store-vanilla-beans', date: '2026-05-18' },
+  { slug: 'how-to-store-avocado-oil', date: '2026-06-08' },
+  { slug: 'how-to-store-lentils', date: '2026-06-29' },
+  { slug: 'how-to-store-cinnamon', date: '2026-07-20' }
 ];
 
 console.log('🗓️ 새로 생성된 10개 식재료 블로그 날짜 분산 작업 시작 (2026년 1월 ~ 7월)...');
