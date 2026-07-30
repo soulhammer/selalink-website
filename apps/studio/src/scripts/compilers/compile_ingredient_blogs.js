@@ -107,13 +107,23 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     }
   }
 
+  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
+
+  const stepsYaml = `steps:
+  - name: "${escapeYaml(step1Title)}"
+    text: "${escapeYaml(step1Text)}"
+  - name: "${escapeYaml(step2Title)}"
+    text: "${escapeYaml(step2Text)}"
+  - name: "${escapeYaml(step3Title)}"
+    text: "${escapeYaml(step3Text)}"`;
+
   const faqItems = (locData.faqs || enData.faqs || []).map(item => ({
     question: String(item.question || item.q || ''),
     answer: safeClean(String(item.answer || item.a || '')).replace(/\\n/g, '\n')
   }));
 
   const faqsYaml = faqItems.length > 0
-    ? 'faqs:\n' + faqItems.map(f => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${f.answer.replace(/"/g, '\\"')}"`).join('\n')
+    ? 'faqs:\n' + faqItems.map(f => `  - question: "${escapeYaml(f.question)}"\n    answer: "${escapeYaml(f.answer)}"`).join('\n')
     : '';
 
   const pubDate = master.pubDate || histMeta.pubDate || "2026-06-22";
@@ -128,15 +138,15 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "${title.replace(/"/g, '\\"')}"
-description: "${desc.replace(/"/g, '\\"')}"
+title: "${escapeYaml(title)}"
+description: "${escapeYaml(desc)}"
 pubDate: "${pubDate}"
 updatedDate: "${updatedDate}"
 category: "FreshSnap"
 heroImage: "${heroImage}"
 app: "freshsnap"
 formatVersion: 4
-authority: "${auth.replace(/"/g, '\\"')}"
+authority: "${escapeYaml(auth)}"
 ${stepsYaml}
 ${faqsYaml}
 ---

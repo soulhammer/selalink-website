@@ -105,17 +105,19 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const habitSec2Title = locData?.habitSection2Title || labels.habitSection2Title[lang] || labels.habitSection2Title['en'];
 
+  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
+
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "${title.replace(/"/g, '\\"')}"
-description: "${description.replace(/"/g, '\\"')}"
+title: "${escapeYaml(title)}"
+description: "${escapeYaml(description)}"
 pubDate: "${pubDate}"
 updatedDate: "${updatedDate}"
 category: "BuildSelf"
 heroImage: "${heroImage}"
 app: "buildself"
 formatVersion: 4
-authority: "${authority.replace(/"/g, '\\"')}"
+authority: "${escapeYaml(authority)}"
 ${stepsYaml}
 ${faqsYaml}
 ---
