@@ -17,10 +17,10 @@ steps:
   - name: "NUR vollreife Bananen im Kühlschrank lagern — Kühllagerung (7 Tage) ❄️"
     text: "Viele glauben, dass Bananen niemals in den Kühlschrank gehören. Dies gilt jedoch nur für unreife Bananen. Das Kühlen grüner Bananen führt zu Kälteschäden. Reife Bananen mit Zuckerflecken können jedoch gekühlt werden. 💡 Lagerungstipp: Wickeln Sie reife Bananen einzeln ein und lagern sie im Gemüsefach (0–4 °C). Die Schale wird schwarz, das Fruchtfleisch bleibt jedoch bis zu einer Woche fest."
 faqs:
-  - question: "My banana peel turned black in the fridge, is it safe to eat?"
-    answer: "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-  - question: "Why wrap banana stems in aluminum foil?"
-    answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+  - question: "Meine Bananenschale ist im Kühlschrank schwarz geworden, kann ich sie noch essen?"
+    answer: "Ja, das Schwarzwerden ist eine Kältereaktion der Schale, aber das Fruchtfleisch im Inneren bleibt süß und essbar. Stellen Sie sicher, dass sie vollreif sind, bevor Sie sie kühlen."
+  - question: "Warum sollte man Bananenstiele in Alufolie wickeln?"
+    answer: "Die Bananenstiele geben das meiste Ethylengas ab. Ein festes Umwickeln hemmt die Gasfreisetzung und verzögert das Weichwerden der Frucht erheblich."
 ---
 
 Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie an einem Tag von Fruchtfliegen umschwärmt wurden und schwarz wurden? Heute teilt  Tipps, wie sie auch ohne Bananenständer 10 Tage frisch bleiben.
@@ -104,21 +104,21 @@ Haben Sie Bananen auf der Arbeitsplatte liegen lassen, nur um festzustellen, das
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">My banana peel turned black in the fridge, is it safe to eat?</span>
+      <span class="pr-4">Meine Bananenschale ist im Kühlschrank schwarz geworden, kann ich sie noch essen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
+      Ja, das Schwarzwerden ist eine Kältereaktion der Schale, aber das Fruchtfleisch im Inneren bleibt süß und essbar. Stellen Sie sicher, dass sie vollreif sind, bevor Sie sie kühlen.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Why wrap banana stems in aluminum foil?</span>
+      <span class="pr-4">Warum sollte man Bananenstiele in Alufolie wickeln?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
+      Die Bananenstiele geben das meiste Ethylengas ab. Ein festes Umwickeln hemmt die Gasfreisetzung und verzögert das Weichwerden der Frucht erheblich.
     </p>
   </details>
 </div>

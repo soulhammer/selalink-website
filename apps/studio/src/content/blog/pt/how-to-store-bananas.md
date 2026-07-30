@@ -17,10 +17,10 @@ steps:
   - name: "Refrigerar APENAS quando estiverem maduras — Armazenamento Refrigerado (7 Dias) ❄️"
     text: "Muitos acham que bananas nunca devem ir à geladeira, mas isso vale para as verdes. Refrigerar bananas verdes causa injúria por frio, enegrecendo a casca sem amadurecer. Bananas maduras com pintas pretas são diferentes. 💡 Dicas de conservação: Embrulhe as bananas maduras individualmente e guarde na gaveta de legumes (0-4 °C). A casca escurece, mas a polpa se mantém firme e fresca por até uma semana."
 faqs:
-  - question: "My banana peel turned black in the fridge, is it safe to eat?"
-    answer: "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-  - question: "Why wrap banana stems in aluminum foil?"
-    answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+  - question: "A casca da minha banana ficou preta na geladeira, é seguro comer?"
+    answer: "Sim, o escurecimento é uma reação ao frio da casca, mas a polpa interna permanece doce e segura para consumo. Certifique-se de que estejam totalmente maduras antes de refrigerar."
+  - question: "Por que embrulhar os talos de banana em papel alumínio?"
+    answer: "Os talos de banana liberam a maior parte do gás etileno. Embrulhá-los firmemente inibe a liberação do gás, atrasando significativamente o amolecimento da fruta."
 ---
 
 Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pretas em um dia? Neste guia, ensina como mantê-las frescas por mais de 10 dias, sem precisar de suporte.
@@ -104,21 +104,21 @@ Você já deixou bananas na bancada e elas encheram de mosquinhas e ficaram pret
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">My banana peel turned black in the fridge, is it safe to eat?</span>
+      <span class="pr-4">A casca da minha banana ficou preta na geladeira, é seguro comer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
+      Sim, o escurecimento é uma reação ao frio da casca, mas a polpa interna permanece doce e segura para consumo. Certifique-se de que estejam totalmente maduras antes de refrigerar.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Why wrap banana stems in aluminum foil?</span>
+      <span class="pr-4">Por que embrulhar os talos de banana em papel alumínio?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
+      Os talos de banana liberam a maior parte do gás etileno. Embrulhá-los firmemente inibe a liberação do gás, atrasando significativamente o amolecimento da fruta.
     </p>
   </details>
 </div>

@@ -13,7 +13,7 @@ steps:
   - name: "Añada gel de sílice y guarde en recipientes herméticos — Control de Actividad de Agua (actividad de agua (Aw) < 0.60) 📦"
     text: "Para granos de cebada secos, bloquear la humedad y el aire es esencial. 💡 Consejo de almacenamiento: Guarde la cebada en recipientes herméticos o botellas PET con bolsas de gel de sílice. Mantener la actividad de agua (actividad de agua (Aw)) por debajo de 0,60 inhibe la amilasa y bloquea microorganismos."
   - name: "Guarde en una despensa fresca y oscura por debajo de 10–15 °C — Almacenamiento en Despensa (1 a 2 años) 🧺"
-    text: "Mantenga la cebada alejada de la luz solar y el calor para ralentizar las reacciones enzimáticas. 💡 Consejo de almacenamiento: Almacene los recipientes en un armario oscuro y ventilado por debajo de 10–15 °C lejos de la cocina. Esto conserva el $\beta$-glucano de 1 a 2 años."
+    text: "Mantenga la cebada alejada de la luz solar y el calor para ralentizar las reacciones enzimáticas. 💡 Consejo de almacenamiento: Almacene los recipientes en un armario oscuro y ventilado por debajo de 10–15 °C lejos de la cocina. Esto conserva el $\\beta$-glucano de 1 a 2 años."
   - name: "Refrigere durante estaciones húmedas o almacenamiento a granel — Refrigeración (2 años o más) ❄️"
     text: "Durante veranos húmedos o al guardar grandes cantidades, la refrigeración es óptima. 💡 Consejo de almacenamiento: Guarde recipientes herméticos en el refrigerador (0–5 °C). El frío detiene la actividad enzimática y plagas, conservando la cebada fresca más de 2 años."
 faqs:

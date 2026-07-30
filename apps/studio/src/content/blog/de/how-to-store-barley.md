@@ -13,7 +13,7 @@ steps:
   - name: "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle (Wasseraktivität (Aw) < 0.60) 📦"
     text: "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
   - name: "In einer kühlen, dunklen Speisekammer unter 10–15 °C aufbewahren — Vorratskammer (1–2 Jahre) 🧺"
-    text: "Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um $\beta$-Glucan 1–2 Jahre zu erhalten."
+    text: "Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um $\\beta$-Glucan 1–2 Jahre zu erhalten."
   - name: "Bei feuchtem Wetter oder Großmengen im Kühlschrank lagern — Kühllagerung (2+ Jahre) ❄️"
     text: "In feuchten Sommern oder bei Großmengen ist die Kühlung am sichersten. 💡 Lagerungstipp: Lagern Sie dichte Behälter im Kühlschrank (0–5 °C). Die Kälte stoppt Enzymaktivität und Schädlinge vollständig für über 2 Jahre."
 faqs:

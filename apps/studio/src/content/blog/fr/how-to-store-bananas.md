@@ -17,10 +17,10 @@ steps:
   - name: "Réfrigérer UNIQUEMENT après mûrissement — Stockage Réfrigéré (7 Jours) ❄️"
     text: "On pense souvent qu'il ne faut jamais réfrigérer les bananes, mais cela ne concerne que les bananes vertes. Le froid les abîme et les fait noircir sans mûrir. En revanche, les bananes mûres tachées de noir réagissent bien. 💡 Astuce de conservation : Enveloppez les bananes mûres séparément et placez-les dans le bac à légumes (0-4 °C). La peau va noircir, mais la chair restera ferme et fraîche une semaine de plus."
 faqs:
-  - question: "My banana peel turned black in the fridge, is it safe to eat?"
-    answer: "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-  - question: "Why wrap banana stems in aluminum foil?"
-    answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+  - question: "La peau de ma banane est devenue noire au réfrigérateur, est-il sûr de la manger ?"
+    answer: "Oui, le noircissement est une réaction au froid de la peau, mais la chair à l'intérieur reste douce et propre à la consommation. Assurez-vous qu'elles soient bien mûres avant de les réfrigérer."
+  - question: "Pourquoi emballer les tiges de banane dans du papier aluminium ?"
+    answer: "Les tiges de banane libèrent le plus de gaz éthylène. Les emballer fermement ralentit la libération du gaz et retarde le ramollissement du fruit."
 ---
 
 Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires et envahies de moucherons dès le lendemain ? Dans ce guide, vous montre comment les garder fraîches plus de 10 jours sans porte-banane.
@@ -104,21 +104,21 @@ Avez-vous déjà laissé des bananes sur le comptoir pour les retrouver noires e
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">My banana peel turned black in the fridge, is it safe to eat?</span>
+      <span class="pr-4">La peau de ma banane est devenue noire au réfrigérateur, est-il sûr de la manger ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
+      Oui, le noircissement est une réaction au froid de la peau, mais la chair à l'intérieur reste douce et propre à la consommation. Assurez-vous qu'elles soient bien mûres avant de les réfrigérer.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Why wrap banana stems in aluminum foil?</span>
+      <span class="pr-4">Pourquoi emballer les tiges de banane dans du papier aluminium ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
+      Les tiges de banane libèrent le plus de gaz éthylène. Les emballer fermement ralentit la libération du gaz et retarde le ramollissement du fruit.
     </p>
   </details>
 </div>

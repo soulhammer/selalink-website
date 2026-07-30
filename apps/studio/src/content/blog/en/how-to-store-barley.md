@@ -13,7 +13,7 @@ steps:
   - name: "Add silica gel and store in airtight containers — Water Activity Control (water activity (Aw) < 0.60) 📦"
     text: "For dried barley grain, blocking air and moisture ingress is essential. 💡 Storage Tip: Place barley in high-barrier airtight containers or PET bottles along with food-grade desiccant packets (silica gel). Controlling water activity (Aw) below 0.60 suppresses amylase enzyme activity and blocks microbial growth."
   - name: "Store in a cool, dark pantry below 10–15°C — Cool Pantry Storage (1–2 Years) 🧺"
-    text: "Keep barley away from direct sunlight and warmth to slow enzymatic reactions and starch staling. 💡 Storage Tip: Store containers in a well-ventilated, dark cabinet away from stove heat (below 10–15°C / 50–59°F). This preserves $\beta$-glucan and flavor for 1 to 2 years."
+    text: "Keep barley away from direct sunlight and warmth to slow enzymatic reactions and starch staling. 💡 Storage Tip: Store containers in a well-ventilated, dark cabinet away from stove heat (below 10–15°C / 50–59°F). This preserves $\\beta$-glucan and flavor for 1 to 2 years."
   - name: "Refrigerate during humid seasons or long-term bulk storage — Cold Storage (2+ Years) ❄️"
     text: "During humid summers or when storing large quantities long-term, refrigeration is the most reliable method. 💡 Storage Tip: Store airtight containers in the refrigerator (0–5°C / 32–41°F). Low temperatures completely halt enzyme activity and pest development, keeping barley fresh for over 2 years."
 faqs:

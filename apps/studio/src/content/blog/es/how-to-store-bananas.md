@@ -17,10 +17,10 @@ steps:
   - name: "Refrigerar SOLO cuando estén maduros — Almacenamiento Refrigerado (7 Días) ❄️"
     text: "Muchos creen que los plátanos nunca deben refrigerarse, pero esto solo aplica para los verdes. El frío daña los plátanos verdes, ennegreciéndolos sin madurar. Sin embargo, los maduros con manchas oscuras son distintos. 💡 Consejos de almacenamiento: Envuelva los plátanos maduros de forma individual y guárdelos en el cajón de verduras (0-4 °C). La piel se oscurecerá por el frío, pero la pulpa se mantendrá firme por una semana."
 faqs:
-  - question: "My banana peel turned black in the fridge, is it safe to eat?"
-    answer: "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-  - question: "Why wrap banana stems in aluminum foil?"
-    answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+  - question: "¿Mi cáscara de plátano se volvió negra en el refrigerador, ¿es seguro comerla?"
+    answer: "Sí, el ennegrecimiento es una reacción al frío de la cáscara, pero la pulpa interior sigue siendo dulce y segura para comer. Asegúrese de que estén completamente maduros antes de refrigerar."
+  - question: "¿Por qué envolver los tallos de plátano con papel de aluminio?"
+    answer: "Los tallos de plátano liberan la mayor cantidad de gas etileno. Envolverlos bien inhibe la liberación de gas, retrasando significativamente el ablandamiento de la fruta."
 ---
 
 ¿Dejó plátanos en la barra y vio cómo se llenaban de mosquitas y se ponían negros en un solo día? En esta guía se comparte trucos para mantenerlos frescos más de 10 días sin un soporte para plátanos.
@@ -104,21 +104,21 @@ faqs:
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">My banana peel turned black in the fridge, is it safe to eat?</span>
+      <span class="pr-4">¿Mi cáscara de plátano se volvió negra en el refrigerador, ¿es seguro comerla?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
+      Sí, el ennegrecimiento es una reacción al frío de la cáscara, pero la pulpa interior sigue siendo dulce y segura para comer. Asegúrese de que estén completamente maduros antes de refrigerar.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Why wrap banana stems in aluminum foil?</span>
+      <span class="pr-4">¿Por qué envolver los tallos de plátano con papel de aluminio?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
+      Los tallos de plátano liberan la mayor cantidad de gas etileno. Envolverlos bien inhibe la liberación de gas, retrasando significativamente el ablandamiento de la fruta.
     </p>
   </details>
 </div>

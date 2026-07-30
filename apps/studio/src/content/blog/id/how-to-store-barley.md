@@ -13,7 +13,7 @@ steps:
   - name: "Tambahkan gel silika dan simpan dalam wadah kedap udara — Kontrol Aktivitas Air (aktivitas air (Aw) < 0.60) 📦"
     text: "Untuk biji jelai kering, menghalangi masuknya udara dan kelembapan adalah hal utama. 💡 Tips Penyimpanan: Masukkan jelai ke dalam wadah kedap udara bersama gel silika food-grade. Menjaga aktivitas air (aktivitas air (Aw)) di bawah 0,60 menekan enzim amilase dan menghentikan mikroba."
   - name: "Simpan di lemari sejuk dan gelap di bawah 10–15°C — Lemari Sejuk (1–2 Tahun) 🧺"
-    text: "Jauhkan jelai dari sinar matahari langsung dan panas untuk memperlambat reaksi enzim. 💡 Tips Penyimpanan: Simpan wadah di lemari gelap yang berventilasi di bawah 10–15°C jauh dari panas kompor untuk menjaga $\beta$-glukan selama 1 hingga 2 tahun."
+    text: "Jauhkan jelai dari sinar matahari langsung dan panas untuk memperlambat reaksi enzim. 💡 Tips Penyimpanan: Simpan wadah di lemari gelap yang berventilasi di bawah 10–15°C jauh dari panas kompor untuk menjaga $\\beta$-glukan selama 1 hingga 2 tahun."
   - name: "Simpan di kulkas saat musim lembap atau penyimpanan dalam jumlah banyak — Simpan Dingin (2+ Tahun) ❄️"
     text: "Saat musim lembap atau menyimpan dalam jumlah besar, penyimpanan dingin paling efektif. 💡 Tips Penyimpanan: Simpan wadah kedap udara di kulkas (0–5°C). Suhu dingin menghentikan enzim dan hama lebih dari 2 tahun."
 faqs:

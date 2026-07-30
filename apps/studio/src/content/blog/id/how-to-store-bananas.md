@@ -17,10 +17,10 @@ steps:
   - name: "Masukkan ke Kulkas HANYA Setelah Matang — Penyimpanan Dingin (7 Hari) ❄️"
     text: "Banyak yang percaya pisang tidak boleh dimasukkan ke kulkas. Ini hanya berlaku untuk pisang mentah (hijau). Pisang mentah yang didinginkan akan memar karena dingin dan tidak akan matang. Namun, pisang yang sudah matang (ada bintik manis) berbeda. 💡 Tips Penyimpanan: Bungkus pisang matang satu per satu dan taruh di laci sayur kulkas (0–4°C). Kulitnya akan menghitam, tetapi daging buahnya tetap segar dan kokoh selama seminggu."
 faqs:
-  - question: "My banana peel turned black in the fridge, is it safe to eat?"
-    answer: "Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating."
-  - question: "Why wrap banana stems in aluminum foil?"
-    answer: "Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit."
+  - question: "Kulit pisang saya berubah menjadi hitam di kulkas, apakah aman dimakan?"
+    answer: "Ya, perubahan warna hitam adalah reaksi dingin pada kulit, tetapi daging buah di dalamnya tetap manis dan aman dimakan. Pastikan pisang sudah matang sempurna sebelum dimasukkan ke kulkas."
+  - question: "Mengapa membungkus tangkai pisang dengan aluminium foil?"
+    answer: "Tangkai pisang melepaskan paling banyak gas etilen. Membungkusnya rapat-rapat akan menahan pelepasan gas, secara signifikan memperlambat pembusukan buah."
 ---
 
 Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah menjadi hitam dalam sehari? Dalam panduan ini, kami membagikan panduan penyimpanan pisang agar tetap segar lebih dari 10 hari.
@@ -104,21 +104,21 @@ Pernahkah Anda membiarkan pisang di meja lalu dikerubuti lalat buah dan berubah 
   
   <details class="group border-b border-slate-200/80 dark:border-slate-800/80 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="true">
-      <span class="pr-4">My banana peel turned black in the fridge, is it safe to eat?</span>
+      <span class="pr-4">Kulit pisang saya berubah menjadi hitam di kulkas, apakah aman dimakan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Yes, blackening is a chilling reaction of the peel, but the flesh inside remains sweet and safe to eat. Ensure they are fully ripe before refrigerating.
+      Ya, perubahan warna hitam adalah reaksi dingin pada kulit, tetapi daging buah di dalamnya tetap manis dan aman dimakan. Pastikan pisang sudah matang sempurna sebelum dimasukkan ke kulkas.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none text-base md:text-lg tracking-tight" role="button" aria-expanded="false">
-      <span class="pr-4">Why wrap banana stems in aluminum foil?</span>
+      <span class="pr-4">Mengapa membungkus tangkai pisang dengan aluminium foil?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400 dark:text-slate-500 flex-shrink-0">▼</span>
     </summary>
     <p class="mt-3 text-sm md:text-base text-slate-700 dark:text-slate-300 leading-relaxed pl-1 m-0 font-normal">
-      Banana stems release the most ethylene gas. Wrapping them tightly inhibits gas release, significantly delaying the softening of the fruit.
+      Tangkai pisang melepaskan paling banyak gas etilen. Membungkusnya rapat-rapat akan menahan pelepasan gas, secara signifikan memperlambat pembusukan buah.
     </p>
   </details>
 </div>

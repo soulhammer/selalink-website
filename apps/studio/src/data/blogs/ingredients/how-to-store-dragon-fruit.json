@@ -1,0 +1,406 @@
+{
+    "how-to-store-dragon-fruit": {
+        "ingId": "dragon-fruit",
+        "pubDate": "2026-06-16",
+        "updatedDate": "2026-06-16",
+        "heroImage": "/images/blog/dragon_fruit_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "용과(Pitaya) 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 용과의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)",
+                "intro": "샐러드나 디저트로 인기 높은 용과(Dragon Fruit)를 냉장고에 보관해 두었다가 껍질에 검은 반점이 생기고 과육이 흐물흐물해져 버린 경험 있으시죠? 🌵\n\n용과는 패션후르츠나 바나나와 달리 수확 후에는 당도가 더 이상 올라가지 않고 시들기만 하는 비호흡급등형(Non-climacteric) 과일입니다. 특히 붉은 항산화 색소인 베타시아닌(Betacyanin)과 높은 수분 함량을 유지하기 위한 최적 보관 온도는 7~10℃입니다. 5℃ 이하의 극저온에 오랫동안 노출되면 과육이 물러지고 표면에 검은 반점이 생기는 냉해(Chilling Injury) 손상을 입게 됩니다.\n\n이번 가이드에서는 USDA, FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 용과의 아삭한 식감과 항산화 영양을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "비호흡급등형 과일의 생리적 특성과 냉해 발현 온도를 이해하고 이에 맞는 올바른 저온 보관법을 적용하는 것은 영양소 손실 방지와 식감 유지에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "5℃ 이하 극저온 보관으로 인한 냉해(Chilling Injury)를 주의하세요 ⚠️",
+                        "desc": "용과를 5℃ 이하의 일반 냉장고 강냉구역에 오래 두면 생리학적 저온 장애를 입게 됩니다. 세포 조직이 파괴되어 과육이 흐물흐물하게 물러지고 표면에 검은 반점이 발생하는 부패가 가속화됩니다."
+                    },
+                    {
+                        "title": "상온에서 장기간 방치하여 수분이 증발하는 것을 막으세요 💧",
+                        "desc": "비호흡급등형 과일인 용과는 수확 후 상온에 두어도 당도가 올라가지 않고 수분만 빠져나가 시들어버립니다. 상온에서는 2~3일 내에 빠르게 소비하거나 적정 저온으로 옮겨야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "구입 후 단기간은 서늘한 상온 보관하기 — 상온 보관 (2~3일) 📦",
+                        "text": "수확 후 후숙되지 않는 과일이므로 구입 직후 신선할 때 빠르게 섭취하는 것이 좋습니다. 💡 보관 팁: 직사광선이 없고 통풍이 잘되는 서늘한 상온(15~20℃)에 두면 2~3일 동안 수분 손실을 최소화하며 맛볼 수 있습니다."
+                    },
+                    {
+                        "name": "적정 저온(7~10℃) 야채칸에 밀봉 보관하기 — 저온 냉장 보관 (7~14일) ❄️",
+                        "text": "1주 이상 보존하기 위해서는 냉해를 입지 않는 적정 저온 보관이 필수적입니다. 💡 보관 팁: 용과를 랩으로 개별 밀봉하거나 키친타월로 감싸 밀폐 용기에 담은 뒤, 냉장고 야채칸(7~10℃)에 보관하세요. 베타시아닌 성분과 아삭한 과육을 1~2주간 신선하게 지켜줍니다."
+                    },
+                    {
+                        "name": "장기 보관 시 껍질을 벗기고 큐브 형태로 냉동하기 — 과육 냉동 보관 (180일) 🧊",
+                        "text": "스무디나 디저트용으로 오랫동안 활용하고 싶다면 껍질을 제거한 과육만 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 껍질을 벗기고 한 입 크기 큐브 모양으로 썬 뒤, 밀폐 용기나 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 6개월 동안 영양 손실 없이 편리하게 사용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "용과를 오래 두면 더 달콤해지나요?",
+                        "answer": "아닙니다! 용과는 비호흡급등형(Non-climacteric) 과일로, 나무에서 수확한 순간부터 추가적인 당도 축적(후숙)이 일어나지 않습니다. 상온에 오래 두면 달콤해지는 것이 아니라 수분만 빠져나가 시들게 되므로, 구매 후 가급적 신선할 때 바로 드시는 것이 좋습니다."
+                    },
+                    {
+                        "question": "용과 표면에 검은 반점이 생기고 살이 물러졌는데 먹어도 되나요?",
+                        "answer": "드시지 않는 것이 좋습니다. 5℃ 이하의 너무 차가운 온도에 오랫동안 노출되어 냉해(Chilling Injury) 장애를 입었거나 세포 조직이 파괴되어 부패가 진행된 상태입니다. 과육의 아삭한 식감과 풍미가 저하되었을 뿐만 아니라 세균이 번식했을 수 있으므로 폐기하는 것을 권장합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Dragon Fruit Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for dragon fruit based on official safety guidelines.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Have you ever stored dragon fruit (Pitaya) in your refrigerator only to find its peel covered in black spots and its flesh turned soft and watery? 🌵\n\nUnlike passion fruit or bananas, dragon fruit is a non-climacteric fruit, meaning its sugar content will not increase after harvest; it simply wilts over time. The optimal storage temperature to maintain its red antioxidant pigment, betacyanin, and high moisture content is 7–10°C (45–50°F). Exposure to temperatures below 5°C (41°F) leads to physiological chilling injury, causing internal breakdown, watery flesh, and dark surface spots.\n\nIn this guide, we share a scientifically proven 3-step dragon fruit storage guide based on safety guidelines from the USDA, FDA, and MFDS to safely preserve its crisp texture and antioxidant nutrients. 🛡️",
+                "whyTitle": "Why Store Dragon Fruit This Way? Scientific Facts",
+                "whyDesc": "Understanding non-climacteric physiology and chilling injury thresholds is essential for preventing nutrient degradation and maintaining optimal texture.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Avoid chilling injury caused by storage below 5°C ⚠️",
+                        "desc": "Keeping dragon fruit in cold zones below 5°C causes severe physiological chilling injury. Cellular structures breakdown, resulting in soft, mushy flesh and dark surface spots that accelerate decay."
+                    },
+                    {
+                        "title": "Prevent moisture loss from prolonged room temperature storage 💧",
+                        "desc": "As a non-climacteric fruit, dragon fruit does not ripen or become sweeter at room temperature—it simply loses water and wilts. Consume within 2 to 3 days at room temperature or transfer to moderate refrigeration."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Store at cool room temperature for short-term consumption — Room Temp Storage (2–3 Days) 📦",
+                        "text": "Since dragon fruit does not ripen after harvest, consuming it fresh soon after purchase is ideal. 💡 Storage Tip: Keep in a well-ventilated, cool room (15–20°C / 59–68°F) away from direct sunlight to minimize water loss for 2 to 3 days."
+                    },
+                    {
+                        "name": "Seal and store in the crisper drawer at 7–10°C — Chilled Storage (7–14 Days) ❄️",
+                        "text": "To preserve dragon fruit for over a week, storing at an appropriate moderate cold temperature without chilling injury is required. 💡 Storage Tip: Wrap individually in plastic film or paper towels, place in an airtight container, and store in the crisper drawer (7–10°C / 45–50°F) to preserve betacyanin and crispness for 1 to 2 weeks."
+                    },
+                    {
+                        "name": "Peel, cube, and freeze for long-term storage — Frozen Cube Storage (180 Days) 🧊",
+                        "text": "For long-term use in smoothies or desserts, freezing the peeled flesh is the best method. 💡 Storage Tip: Peel the skin, cut the flesh into bite-sized cubes, and store in airtight containers or freezer bags below -18°C (0°F) for up to 6 months without nutrient loss."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Will dragon fruit get sweeter if I leave it out for a few days?",
+                        "answer": "No! Dragon fruit is a non-climacteric fruit. Once harvested from the vine, it ceases sugar accumulation and will not ripen further. Leaving it out at room temperature only causes moisture loss and wilting, so it is best enjoyed fresh soon after buying."
+                    },
+                    {
+                        "question": "My dragon fruit developed black spots and soft flesh. Is it still okay to eat?",
+                        "answer": "It is not recommended to eat. Black spots and mushy flesh indicate chilling injury caused by prolonged exposure to temperatures below 5°C, or breakdown due to age. The texture, flavor, and microbial safety have degraded, so discarding it is advised."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ドラゴンフルーツ（Pitaya）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくドラゴンフルーツの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+                "intro": "サラダやスイーツで人気のドラゴンフルーツ（Dragon Fruit）を冷蔵庫に入れておいたら、皮に黒い斑点ができたり果肉が水っぽく崩れたりして捨ててしまった経験はありませんか？🌵\n\nドラゴンフルーツはパッションフルーツやバナナとは異なり、収穫後には糖度が上がらず萎れていくだけの非追熟型（Non-climacteric）果実です。特に赤い抗酸化色素であるベタシアニン（Betacyanin）と高い水分量を維持するための最適保存温度は7〜10℃です。5℃以下の極低温に長く晒されると、果肉が柔らかくなり表面に黒い斑点ができる低温障害（Chilling Injury）という生理的 me 損傷を負ってしまいます。\n\n本記事では、USDA、FDA、食品医薬品安全処のガイドラインに基づき、ドラゴンフルーツのシャキシャキした食感と抗酸化 fully 栄養を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+                "whyDesc": "非追熟型果実の生理的特性や低温障害の発現温度を理解し、それに合った正しい低温保存法を実践することは、栄養素の損失防止と食感維持において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "5℃ regime 以下の極低温保存による低温障害（Chilling Injury）に注意してください ⚠️",
+                        "desc": "ドラゴンフルーツを5℃ regime 以下の通常の冷蔵庫の強冷エリアに長く置くと、生理的な低温障害を起こします。細胞組織が破壊されて果肉が軟化し、表面に黒い斑点が発生して腐敗が加速します。"
+                    },
+                    {
+                        "title": "常温で長時間放置して水分が蒸発するのを防いでください 💧",
+                        "desc": "非追熟型果実であるドラゴンフルーツは、収穫後に常温に置いても糖度が上がらず水分が抜けて萎れるだけです。常温では2〜3日以内に速やかに消費するか、適正な低温環境へ移す必要があります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "購入後短期間は涼しい常温で保存する — 常温保存 (2〜3日間) 📦",
+                        "text": "収穫後に追熟しない果物のため、購入直後の新鮮なうちに早く召し上がるのがベストです。💡保存のコツ：直射日光の当たらない風通しの良い涼しい常温（15〜20℃）に置けば、2〜3日間水分損失を最小限に抑えて味わえます。"
+                    },
+                    {
+                        "name": "適正低温（7〜10℃）の野菜室で密閉保存する — 低温冷蔵保存 (7〜14日間) ❄️",
+                        "text": "1週間以上保存するためには、低温障害を起こさない適正な低温保存が不可欠です。💡保存のコツ：ラップで1個ずつ包むかキッチンペーパーで巻いて密閉容器に入れ、冷蔵庫の野菜室（7〜10℃）で保存してください。ベタシアニン成分とシャキシャキした果肉を1〜2週間新鮮に保てます。"
+                    },
+                    {
+                        "name": "長期保存時は皮をむいてキューブ状に冷凍する — 果肉冷凍保存 (180日間) 🧊",
+                        "text": "スムージーやデザート用に長期間活用したい場合は、皮を取り除いた果肉だけを冷凍保存するのが最適です。💡保存のコツ：皮をむいて一口大のキューブ状に切り、密閉容器やジッパーバッグに入れて冷凍室（-18℃以下）で保存すれば、6ヶ月間栄養を損なわずに便利に使えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ドラゴンフルーツは長く置くと甘くなりますか？",
+                        "answer": "甘くなりません！ドラゴンフルーツは非追熟型（Non-climacteric）果実であり、木から収穫した瞬間から糖度の蓄積（追熟）は起こりません。常温に長く置いても甘くならず水分が抜けて萎れていくだけですので、購入後は新鮮なうちにすぐ召し上がるのが一番です。"
+                    },
+                    {
+                        "question": "ドラゴンフルーツの表面に黒い斑点ができて果肉が崩れてしまいましたが食べられますか？",
+                        "answer": "食べないことをおすすめします。5℃ regime 以下の冷たすぎる温度に長く晒されて低温障害（Chilling Injury）を起こしたか、細胞組織が破壊されて腐敗が進んだ状態です。果肉の食感や風味が落ちているだけでなく雑菌が繁殖している可能性があるため廃棄を推奨します。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持火龙果（Pitaya）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解火龙果的最佳储存温度、方式及保鲜时长。",
+                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+                "intro": "将火龙果买回家放入冰箱保存后，您是否遇到过其表皮长出黑斑、果肉变得稀软水嗒嗒的情况？🌵\n\n与百香果或香蕉不同，火龙果属于非后熟跃变型（Non-climacteric）水果，采摘后糖度不会继续增加，只会随着时间逐渐枯萎。为了锁住其红色的抗氧化色素甜菜红素（Betacyanin）和高水分含量，最佳储存温度为7~10℃。若长期暴露于5℃以下的极低温环境中，火龙果会遭受冷害（Chilling Injury），导致果肉变软、表皮长出黑斑等生理性损伤。\n\n本指南基于USDA、FDA及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定火龙果的清脆口感与抗氧化营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解非后熟型水果的生理特性与冷害临界温度，并采取正确的低温保存方法，对于防止营养流失与维持清脆口感至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "严防5℃以下极低温保存导致的冷害（Chilling Injury） ⚠️",
+                        "desc": "将火龙果长期存放在5℃以下的普通冰箱强冷区会导致生理性冷害。细胞组织破坏后果肉会稀软塌陷，表皮长出黑斑并加速腐败。"
+                    },
+                    {
+                        "title": "切勿在常温下久放导致水分蒸发 💧",
+                        "desc": "作为非后熟型水果，火龙果采摘后在常温久放并不会变甜，只会不断散失水分而枯萎。常温下应在2~3天内尽快食用或转入适宜的低温环境中。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "购买后短期内置于阴凉常温处 — 常温保存 (2~3天) 📦",
+                        "text": "由于采摘后不会继续后熟，购买后趁新鲜尽快食用是最佳选择。💡储存小贴士：置于无阳光直射、通风良好的阴凉常温处（15~20℃），可保鲜2~3天并最大程度减少水分流失。"
+                    },
+                    {
+                        "name": "密封后置于适宜低温（7~10℃）蔬菜抽屉 — 低温冷藏保存 (7~14天) ❄️",
+                        "text": "若需保存1周以上，必须放在不会引发冷害的适宜低温环境中。💡储存小贴士：用保鲜膜单独包裹火龙果或用厨房纸巾包裹后装入密封盒，置于冰箱蔬菜抽屉（7~10℃），可锁定甜菜红素与清脆口感1~2周。"
+                    },
+                    {
+                        "name": "长期保存请去皮切块冷冻 — 果肉冷冻保存 (180天) 🧊",
+                        "text": "若想长期用于制作冰沙或甜点，将去皮果肉切块冷冻是最佳方法。💡储存小贴士：剥去外皮，将果肉切成一口大小的方块，装入密封盒或拉链袋置于冷冻室（-18℃以下），可完好保存6个月。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "火龙果放得越久会越甜吗？",
+                        "answer": "不会！火龙果是非后熟跃变型（Non-climacteric）水果，从树上采摘下来的那一刻起，糖分积累（后熟）就停止了。常温下久放不仅不会变甜，反而会散失水分而枯萎，因此建议购买后趁新鲜尽早食用。"
+                    },
+                    {
+                        "question": "火龙果表皮长了黑斑且果肉变软塌陷，还能吃吗？",
+                        "answer": "不建议食用。这是由于长期处于5℃以下的过冷环境中遭受了冷害（Chilling Injury），或是细胞组织破裂导致变质腐败。此时果肉口感与风味已严重劣化，且可能滋生细菌，建议直接丢弃。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la fruta del dragón (pitahaya) fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la fruta del dragón según las directrices oficiales de seguridad.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "¿Alguna vez guardó pitahaya (fruta del dragón) en el refrigerador y descubrió que su cáscara se cubría de manchas negras y su pulpa se volvía blanda y acuosa? 🌵\n\nA diferencia del maracuyá o el plátano, la pitahaya es una fruta no climatérica (Non-climacteric), lo que significa que sus azúcares no aumentan tras la cosecha; simplemente se marchita con el tiempo. La temperatura óptima para preservar su pigmento antioxidante, la betacianina (Betacyanin), y su alto contenido de agua es de 7 a 10 °C. La exposición a temperaturas inferiores a 5 °C provoca daños fisiológicos por frío (Chilling Injury), ablandando la pulpa y manchando la piel.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices del USDA, la FDA y el MFDS para conservar su textura crujiente y sus antioxidantes de forma segura. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender la fisiología no climatérica y las temperaturas de daño por frío es fundamental para evitar la pérdida de nutrientes y mantener la textura crujiente.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Evite los daños por frío (Chilling Injury) provocados por temperaturas bajo 5 °C ⚠️",
+                        "desc": "Guardar pitahaya por debajo de los 5 °C en zonas de frío extremo provoca daños fisiológicos por frío. La estructura celular se destruye, dejando la pulpa aguada y la piel con manchas oscuras de descomposición."
+                    },
+                    {
+                        "title": "Evite la deshidratación por almacenar a temperatura ambiente demasiado tiempo 💧",
+                        "desc": "Como fruta no climatérica, la pitahaya no madura ni se vuelve más dulce fuera del árbol; solo pierde humedad y se marchita. Consúmala en 2 o 3 días a temperatura ambiente o trasládela a refrigeración moderada."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde a temperatura ambiente fresca para consumo rápido — Temp. Ambiente (2–3 días) 📦",
+                        "text": "Dado que no madura tras la cosecha, lo ideal es consumirla fresca poco después de comprarla. 💡 Consejo de almacenamiento: Guárdela en un lugar fresco y ventilado (15–20 °C) protegido del sol para minimizar la pérdida de agua durante 2 o 3 días."
+                    },
+                    {
+                        "name": "Selle y refrigere en el cajón de verduras a 7–10 °C — Refrigeración Moderada (7–14 días) ❄️",
+                        "text": "Para conservarla más de una semana, se requiere una refrigeración moderada que prevenga el daño por frío. 💡 Consejo de almacenamiento: Envuelva individualmente en film transparente o papel absorbente y colóquela en el cajón de verduras (7–10 °C) para mantener la betacianina y firmeza de 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Pele, corte en cubos y congele para una larga conservación — Congelación en Cubos (180 días) 🧊",
+                        "text": "Para batidos o postres a largo plazo, congelar la pulpa pelada es la mejor alternativa. 💡 Consejo de almacenamiento: Pele la cáscara, corte la pulpa en cubos y guárdelos en recipientes herméticos o bolsas por debajo de -18 °C hasta por 6 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿La pitahaya se vuelve más dulce si la dejo a temperatura ambiente unos días?",
+                        "answer": "¡No! La pitahaya es una fruta no climatérica. Una vez cosechada, detiene la acumulación de azúcar y no madurará más. Dejarla a temperatura ambiente solo provoca deshidratación y marchitamiento, por lo que es mejor disfrutarla fresca."
+                    },
+                    {
+                        "question": "Mi pitahaya tiene manchas negras y la pulpa está deshaciéndose. ¿Sigue siendo comestible?",
+                        "answer": "No se recomienda comerla. Las manchas oscuras y la pulpa blanda indican daño fisiológico por frío debido a la exposición a menos de 5 °C, o deterioro por el tiempo. La textura, sabor y seguridad microbiana se han visto comprometidos, por lo que se sugiere descartarla."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le fruit du dragon (pitaya) frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le fruit du dragon selon les directives officielles de sécurité.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Avez-vous déjà conservé un fruit du dragon (pitaya) au réfrigérateur pour constater que sa peau se meublait de taches noires et que sa chair devenait molle et aqueuse ? 🌵\n\nContrairement au fruit de la passion ou à la banane, le fruit du dragon est un fruit non-climatérique (Non-climacteric). Cela signifie que son taux de sucre n'augmente plus après la récolte ; il ne fait que se flétrir. La température idéale pour préserver son pigment antioxydant rouge, la bétacyanine (Betacyanin), et son humidité se situe entre 7 et 10 °C. Une exposition prolongée sous 5 °C entraîne un dégât dû au froid (Chilling Injury) qui ramollit la chair et tache la peau.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de l'USDA, de la FDA et du MFDS pour préserver sa texture croquante et ses nutriments antioxydants. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre la physiologie non-climatérique et le seuil des dégâts dus au froid est essentiel pour éviter la dégradation des nutriments et préserver une texture croquante.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Évitez les dégâts dus au froid (Chilling Injury) sous 5 °C ⚠️",
+                        "desc": "Conserver le pitaya sous 5 °C dans les zones très froides du réfrigérateur provoque un choc physioloqique dû au froid. Les structures cellulaires s'effondrent, rendant la chair molle et la peau couverte de taches noires."
+                    },
+                    {
+                        "title": "Évitez la déshydratation due à un stockage prolongé à température ambiante 💧",
+                        "desc": "En tant que fruit non-climatérique, le pitaya ne mûrit pas à température ambiante et ne devient pas plus sucré ; il perd seulement son eau. Consommez-le sous 2 à 3 jours ou placez-le en réfrigération modérée."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Conserver à température ambiante fraîche pour une consommation rapide — Temp. Ambiante (2–3 jours) 📦",
+                        "text": "Comme il ne mûrit plus après récolte, le consommer frais rapidement après l'achat est l'idéal. 💡 Astuce de conservation : Placez-le dans une pièce fraîche et aérée (15–20 °C) à l'abri de la lumière pour limiter la perte d'eau pendant 2 à 3 jours."
+                    },
+                    {
+                        "name": "Envelopper et conserver dans le bac à légumes à 7–10 °C — Réfrigération Modérée (7–14 jours) ❄️",
+                        "text": "Pour le conserver plus d'une semaine, un froid moderé sans choc thermique est requis. 💡 Astuce de conservation : Enveloppez chaque fruit de film étirable ou de papier absorbant, placez en boîte hermétique dans le bac à légumes (7–10 °C) pour préserver bétacyanine et croquant pendant 1 à 2 semaines."
+                    },
+                    {
+                        "name": "Peler, couper en dés et congeler pour une longue conservation — Congélation en Dés (180 jours) 🧊",
+                        "text": "Pour une utilisation longue durée en smoothies ou desserts, congeler la chair pelée est la meilleure solution. 💡 Astuce de conservation : Pelez la peau, coupez la chair en dés et congelez dans un conteneur hermétique sous -18 °C jusqu'à 6 mois."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Le fruit du dragon devient-il plus sucré si je le laisse à température ambiante ?",
+                        "answer": "Non ! Le pitaya est un fruit non-climatérique. Une fois cueilli, il cesse d'accumuler du sucre. Le laisser à température ambiante ne fait que le déshydrater et le flétrir, il est donc préférable de le consommer rapidement."
+                    },
+                    {
+                        "question": "Mon pitaya presenta des taches noires et sa chair est ramollie. Est-il toujours comestible ?",
+                        "answer": "Il n'est pas recommandé de le consommer. Les taches noires et la chair ramollie traduisent des dégâts dus au froid provoqué par un stockage sous 5 °C ou une dégradation avancée. La texture, le goût et la sécurité sanitaire étant altérés, il est préférable de le jeter."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Drachenfrucht (Pitaya) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Drachenfrüchte basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Haben Sie eine Drachenfrucht (Pitaya) im Kühlschrank gelagert und festgestellt, dass die Schale schwarze Flecken bekam und das Fruchtfleisch wässrig-weich wurde? 🌵\n\nIm Gegensatz zu Passionsfrucht oder Banane ist die Drachenfrucht eine nicht-klimakterische (Non-climacteric) Frucht. Das bedeutet, dass ihr Zuckergehalt nach der Ernte nicht mehr steigt, sondern sie lediglich welkt. Die optimale Lagertemperatur zur Erhaltung des roten Antioxidationspigments Betacyanin und des hohen Wassergehalts liegt bei 7–10 °C. Eine Lagerung unter 5 °C führt zu physiologischen Kälteschäden (Chilling Injury), bei denen das Fruchtfleisch weich wird und schwarze Flecken entstehen.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um die knackige Textur und die Nährstoffe sicher zu bewahren. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der nicht-klimakterischen Physiologie und der Kälteschadensschwellen ist entscheidend zur Vermeidung von Nährstoffverlusten und zum Erhalt der Knackigkeit.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Kälteschäden (Chilling Injury) durch Lagerung unter 5 °C vermeiden ⚠️",
+                        "desc": "Lagert man Drachenfrüchte unter 5 °C in kalten Bereichen des Kühlschranks, erleiden sie physiologische Kälteschäden. Das Gewebe bricht zusammen, was zu matschigem Fruchtfleisch und dunklen Schalenflecken führt."
+                    },
+                    {
+                        "title": "Feuchtigkeitsverlust durch zu lange Raumtemperatur lagerung verhindern 💧",
+                        "desc": "Als nicht-klimakterische Frucht reift die Drachenfrucht bei Raumtemperatur nicht nach und wird nicht süßer – sie verliert nur Wasser. Innerhalb von 2 bis 3 Tagen verbrauchen oder moderat kühlen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bei kühler Raumtemperatur für kurzfristigen Verzehr lagern — Raumtemperatur (2–3 Tage) 📦",
+                        "text": "Da Drachenfrüchte nach der Ernte nicht nachreifen, verzehrt man sie am besten frisch nach dem Kauf. 💡 Lagerungstipp: An einem gut belüfteten, kühlen Ort (15–20 °C) ohne Sonne aufbewahren, um den Wasserverlust 2 bis 3 Tage gering zu halten."
+                    },
+                    {
+                        "name": "Eingewickelt im Gemüsefach bei 7–10 °C aufbewahren — Moderate Kühllagerung (7–14 Tage) ❄️",
+                        "text": "Für eine Lagerung von mehr als einer Woche ist eine kälteschadenfreie kühle Temperatur erforderlich. 💡 Lagerungstipp: Einzeln in Folie oder Papiertücher wickeln und im Gemüsefach (7–10 °C) lagern. Hält Betacyanin und Knackigkeit 1 bis 2 Wochen frisch."
+                    },
+                    {
+                        "name": "Schälen, würfeln und für Langzeitlagerung einfrieren — Gefrierlagerung in Würfeln (180 Tage) 🧊",
+                        "text": "Für die langfristige Nutzung in Smoothies oder Desserts ist das Einfrieren des geschälten Fruchtfleischs optimal. 💡 Lagerungstipp: Schale entfernen, Fruchtfleisch würfeln und in Gefrierbeuteln unter -18 °C bis zu 6 Monate einfrieren."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Wird die Drachenfrucht süßer, wenn man sie ein paar Tage liegen lässt?",
+                        "answer": "Nein! Die Drachenfrucht ist eine nicht-klimakterische Frucht. Nach der Ernte lagert sie keinen Zucker mehr ein. Bei Raumtemperatur verliert sie lediglich Wasser und welkt, weshalb sie am besten frisch verzehrt wird."
+                    },
+                    {
+                        "question": "Meine Drachenfrucht hat schwarze Flecken und weiches Fleisch. Kann man sie noch essen?",
+                        "answer": "Es wird abgeraten. Schwarze Flecken und matschiges Fleisch deuten auf Kälteschäden durch Lagerung unter 5 °C oder altersbedingten Verfall hin. Textur, Geschmack und Mikrobiologie sind beeinträchtigt, daher sollte sie entsorgt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar pitaia (fruta do dragão) fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a pitaia com base em diretrizes oficiais de segurança.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Você já guardou pitaia (fruta do dragão) na geladeira e descobriu que a casca ficou cheia de manchas pretas e a polpa mole e aquosa? 🌵\n\nAo contrário do maracujá ou da banana, a pitaia é uma fruta não climatérica (Non-climacteric), o que significa que seu teor de açúcar não aumenta após a colheita; ela apenas murcha com o tempo. A temperatura ideal para preservar seu pigmento antioxidante vermelho, a betacianina (Betacyanin), e seu alto teor de umidade é entre 7 e 10 °C. A exposição a temperaturas abaixo de 5 °C causa danos fisiológicos pelo frio (Chilling Injury), amolecendo a polpa e manchando a casca.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da USDA, FDA e MFDS para preservar a textura crocante e os nutrientes antioxidantes da sua pitaia. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender a fisiologia não climatérica e os limites do dano pelo frio é essencial para evitar a degradação de nutrientes e manter a crocância.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Evite danos pelo frio (Chilling Injury) causados por armazenamento abaixo de 5 °C ⚠️",
+                        "desc": "Guardar pitaias em áreas frias abaixo de 5 °C provoca danos fisiológicos severos. A estrutura celular se rompe, resultando em polpa mole/aquosa e manchas escuras de deterioração na casca."
+                    },
+                    {
+                        "title": "Evite a desidratação ao armazenar em temperatura ambiente por muito tempo 💧",
+                        "desc": "Como fruta não climatérica, a pitaia não amadurece nem fica mais doce fora do pé; ela apenas perde água. Consuma em 2 a 3 dias em temperatura ambiente ou transfira para refrigeração moderada."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Guarde em temperatura ambiente fresca para consumo rápido — Temp. Ambiente (2–3 dias) 📦",
+                        "text": "Como não amadurece após colhida, o ideal é consumi-la fresca logo após a compra. 💡 Dica de conservação: Mantenha em local fresco e arejado (15–20 °C) protegido do sol para minimizar a perda de água por 2 a 3 dias."
+                    },
+                    {
+                        "name": "Embrulhe e refrigere na gaveta de legumes a 7–10 °C — Refrigeração Moderada (7–14 dias) ❄️",
+                        "text": "Para conservar por mais de uma semana, é necessária refrigeração moderada sem dano pelo frio. 💡 Dica de conservação: Embrulhe em filme plástico ou papel-toalha, coloque na gaveta de legumes (7–10 °C) para manter a betacianina e a firmeza por 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Descasque, corte em cubos e congele para longa conservação — Congelamento em Cubos (180 dias) 🧊",
+                        "text": "Para uso em smoothies ou sobremesas a longo prazo, congelar a polpa sem casca é a melhor opção. 💡 Dica de conservação: Retire a casca, corte em cubos e congele em pote hermético ou saco freezer abaixo de -18 °C por até 6 meses."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A pitaia fica mais doce se eu deixá-la descansando por alguns dias?",
+                        "answer": "Não! A pitaia é uma fruta não climatérica. Uma vez colhida, ela interrompe o acúmulo de açúcares. Deixá-la em temperatura ambiente apenas causará perda de água e murchamento, sendo melhor consumi-la bem fresca."
+                    },
+                    {
+                        "question": "Minha pitaia apresentou manchas pretas e polpa mole. Ainda dá para comer?",
+                        "answer": "Não é recomendável comer. As manchas escuras e a polpa mole indicam danos pelo frio causados por temperaturas abaixo de 5 °C ou deterioração avançada. Como a textura, o sabor e a segurança sofreram alteração, o ideal é descartar."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Naga (Pitaya) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah naga berdasarkan pedoman keselamatan resmi.",
+                "authority": "USDA & FDA & MFDS",
+                "intro": "Pernahkah Anda menyimpan buah naga (Pitaya) di dalam kulkas lalu menemukan kulitnya dipenuhi bintik-bintik hitam dan daging buahnya menjadi lembek berair? 🌵\n\nBerbeda dengan markisa atau pisang, buah naga adalah buah non-klimakterik (Non-climacteric), yang berarti kadar gulanya tidak akan bertambah setelah dipetik; buah ini hanya akan layu seiring waktu. Suhu penyimpanan optimal untuk menjaga pigmen antioksidan merahnya, betasianin (Betacyanin), serta kadar airnya yang tinggi adalah 7–10°C. Paparan suhu di bawah 5°C memicu kerusakan dingin (Chilling Injury) secara fisiologis, membuat daging buah lembek dan kulitnya berbintik hitam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar keselamatan resmi USDA, FDA, dan MFDS untuk menjaga tekstur renyah dan nutrisi antioksidannya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami fisiologi non-klimakterik dan ambang suhu kerusakan dingin sangat penting untuk mencegah kerusakan nutrisi dan menjaga tekstur renyah.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Cegah kerusakan dingin (Chilling Injury) akibat penyimpanan di bawah 5°C ⚠️",
+                        "desc": "Menyimpan buah naga di area kulkas yang terlalu dingin (di bawah 5°C) menyebabkan kerusakan fisiologis dingin. Struktur sel hancur sehingga daging buah menjadi lembek berair dan muncul bintik-bintik hitam busuk."
+                    },
+                    {
+                        "title": "Cegah kehilangan cairan akibat terlalu lama di suhu ruang 💧",
+                        "desc": "Sebagai buah non-klimakterik, buah naga tidak akan mematang atau bertambah manis di suhu ruang—ia hanya akan kehilangan air dan layu. Konsumsi dalam 2 hingga 3 hari di suhu ruang atau pindahkan ke kulkas suhu moderat."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Simpan di suhu ruang sejuk untuk konsumsi jangka pendek — Suhu Ruang (2–3 Hari) 📦",
+                        "text": "Karena tidak mematang setelah dipetik, mengonsumsi buah naga segar sesaat setelah dibeli adalah pilihan terbaik. 💡 Tips Penyimpanan: Simpan di ruangan sejuk dan terhindar dari matahari langsung (15–20°C) untuk meminimalkan kehilangan air selama 2 hingga 3 hari."
+                    },
+                    {
+                        "name": "Bungkus dan simpan di laci sayur kulkas pada suhu 7–10°C — Simpan Kulkas Moderat (7–14 Hari) ❄️",
+                        "text": "Untuk menyimpan lebih dari seminggu, diperlukan penyimpanan kulkas pada suhu moderat yang bebas dari kerusakan dingin. 💡 Tips Penyimpanan: Bungkus dengan plastik wrap atau tisu dapur, masukkan wadah kedap udara di laci sayur (7–10°C) untuk menjaga betasianin dan kerenyahannya selama 1 hingga 2 minggu."
+                    },
+                    {
+                        "name": "Kupas, potong dadu, lalu bekukan untuk jangka panjang — Simpan Beku Dadu (180 Hari) 🧊",
+                        "text": "Untuk penggunaan jangka panjang pada jus atau es buah, membekukan daging buah yang telah dikupas adalah cara terbaik. 💡 Tips Penyimpanan: Kupas kulitnya, potong dadu, lalu simpan dalam wadah kedap udara di freezer di bawah -18°C hingga 6 bulan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah buah naga akan bertambah manis jika didiamkan beberapa hari?",
+                        "answer": "Tidak! Buah naga adalah buah non-klimakterik. Begitu dipetik dari pohonnya, akumulasi gula terhenti. Membiarkannya di suhu ruang hanya membuat cairan berkurang dan buah menjadi layu, sehingga paling nikmat dikonsumsi dalam keadaan segar."
+                    },
+                    {
+                        "question": "Buah naga saya berbintik hitam dan dagingnya sangat lembek. Apakah masih layak dimakan?",
+                        "answer": "Tidak disarankan untuk dimakan. Bintik hitam dan daging lembek menandakan kerusakan dingin (Chilling Injury) akibat paparan suhu di bawah 5°C atau pembusukan. Tekstur, rasa, dan keamanannya sudah menurun, sehingga sebaiknya dibuang."
+                    }
+                ]
+            }
+        }
+    }
+}

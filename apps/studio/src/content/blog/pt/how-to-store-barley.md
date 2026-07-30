@@ -13,7 +13,7 @@ steps:
   - name: "Adicione sílica gel e guarde em potes herméticos — Controle da Atividade de Água (atividade de água (Aw) < 0.60) 📦"
     text: "Para grãos de cevada secos, bloquear o ar e a umidade é fundamental. 💡 Dica de conservação: Guarde a cevada em potes herméticos com sachês de sílica gel. Manter a atividade de água (atividade de água (Aw)) abaixo de 0,60 inibe a amilase e previne germes."
   - name: "Guarde em armário fresco e escuro abaixo de 10–15 °C — Armazenamento (1 a 2 anos) 🧺"
-    text: "Mantenha a cevada longe da luz solar e do calor para desacelerar as reações enzimáticas. 💡 Dica de conservação: Armazene os potes em um armário escuro e ventilado abaixo de 10–15 °C, longe do fogão. Isso preserva a $\beta$-glucana por 1 a 2 anos."
+    text: "Mantenha a cevada longe da luz solar e do calor para desacelerar as reações enzimáticas. 💡 Dica de conservação: Armazene os potes em um armário escuro e ventilado abaixo de 10–15 °C, longe do fogão. Isso preserva a $\\beta$-glucana por 1 a 2 anos."
   - name: "Refrigere em estações úmidas ou armazenamento a granel — Refrigeração (2 anos ou mais) ❄️"
     text: "Durante verões úmidos ou ao guardar grandes quantidades, a refrigeração é ideal. 💡 Dica de conservação: Guarde os potes herméticos na geladeira (0–5 °C). O frio bloqueia as enzimas e insetos por mais de 2 anos."
 faqs:

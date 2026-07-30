@@ -48,6 +48,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const intro = locData.intro || enData.intro || '';
 
   const safeClean = (txt) => typeof txt === 'string' ? cleanMarkdown(txt) : (txt ? cleanMarkdown(String(txt)) : '');
+  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
   const stepLabelText = labels.stepLabel[lang] || labels.stepLabel['en'];
 
   const steps = locData.steps || enData.steps || [];
@@ -62,8 +63,8 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     }).join('\n\n');
 
     stepsYaml = 'steps:\n' + steps.map(st => {
-      const name = (st.name || st.title || '').replace(/"/g, '\\"');
-      const text = safeClean(st.text || st.desc || st.content || '').replace(/"/g, '\\"');
+      const name = escapeYaml(st.name || st.title || '');
+      const text = escapeYaml(safeClean(st.text || st.desc || st.content || ''));
       return `  - name: "${name}"\n    text: "${text}"`;
     }).join('\n');
   } else {
@@ -81,12 +82,12 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     ].join('\n\n');
 
     stepsYaml = `steps:
-  - name: "${step1Title.replace(/"/g, '\\"')}"
-    text: "${step1Text.replace(/"/g, '\\"')}"
-  - name: "${step2Title.replace(/"/g, '\\"')}"
-    text: "${step2Text.replace(/"/g, '\\"')}"
-  - name: "${step3Title.replace(/"/g, '\\"')}"
-    text: "${step3Text.replace(/"/g, '\\"')}"`;
+  - name: "${escapeYaml(step1Title)}"
+    text: "${escapeYaml(step1Text)}"
+  - name: "${escapeYaml(step2Title)}"
+    text: "${escapeYaml(step2Text)}"
+  - name: "${escapeYaml(step3Title)}"
+    text: "${escapeYaml(step3Text)}"`;
   }
 
   const cautionTitle = locData.cautionTitle || enData.cautionTitle || labels.ingredientCautionTitle[lang] || labels.ingredientCautionTitle['en'];
@@ -106,8 +107,6 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
       cautionBoxHtml = renderCautionBox('border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10', '⚠️', cautionTitle, cautionText);
     }
   }
-
-  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
 
   const faqItems = (locData.faqs || enData.faqs || []).map(item => ({
     question: String(item.question || item.q || ''),

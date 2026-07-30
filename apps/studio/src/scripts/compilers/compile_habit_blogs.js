@@ -80,8 +80,10 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     });
   }
 
+  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
+
   const stepsYaml = steps.length > 0
-    ? 'steps:\n' + steps.map(s => `  - name: "${s.name.replace(/"/g, '\\"')}"\n    text: "${s.text.replace(/"/g, '\\"')}"`).join('\n')
+    ? 'steps:\n' + steps.map(s => `  - name: "${escapeYaml(s.name)}"\n    text: "${escapeYaml(s.text)}"`).join('\n')
     : 'steps: []';
 
   const faqItems = [];
@@ -97,15 +99,13 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   }
 
   const faqsYaml = faqItems.length > 0
-    ? 'faqs:\n' + faqItems.map(f => `  - question: "${(f.question || '').replace(/"/g, '\\"')}"\n    answer: "${(f.answer || '').replace(/"/g, '\\"')}"`).join('\n')
+    ? 'faqs:\n' + faqItems.map(f => `  - question: "${escapeYaml(f.question)}"\n    answer: "${escapeYaml(f.answer)}"`).join('\n')
     : '';
 
   const evidenceBoxHtml = renderEvidenceBox(lang, authority, 'habits');
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
   const habitSec2Title = locData?.habitSection2Title || labels.habitSection2Title[lang] || labels.habitSection2Title['en'];
-
-  const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
 
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"

@@ -13,7 +13,7 @@ steps:
   - name: "Ajouter du gel de silice et stocker en boîte hermétique — Contrôle de l'Activité de l'Eau (activité de l'eau (Aw) < 0.60) 📦"
     text: "Pour les grains d'orge séchés, réduire l'infiltration d'air et d'humidité est essentiel. 💡 Astuce de conservation : Placez l'orge dans des boîtes hermétiques avec un sachet de gel de silice. Maintenir l'activité de l'eau (activité de l'eau (Aw)) sous 0,60 bloque les amylases et les germes."
   - name: "Conserver dans un placard frais et sombre sous 10–15 °C — Placard Frais (1–2 ans) 🧺"
-    text: "Gardez l'orge à l'abri de la lumière et de la chaleur pour ralentir les réactions enzymatiques. 💡 Astuce de conservation : Rangez les boîtes dans un placard sombre sous 10–15 °C loin de la cuisinière pour préserver le $\beta$-glucane pendant 1 à 2 ans."
+    text: "Gardez l'orge à l'abri de la lumière et de la chaleur pour ralentir les réactions enzymatiques. 💡 Astuce de conservation : Rangez les boîtes dans un placard sombre sous 10–15 °C loin de la cuisinière pour préserver le $\\beta$-glucane pendant 1 à 2 ans."
   - name: "Réfrigérer lors des saisons humides ou pour le stockage à grande échelle — Conservation au Frais (2 ans et plus) ❄️"
     text: "Pendant les étés humides ou pour conserver de grandes quantités, le froid est idéal. 💡 Astuce de conservation : Gardez les boîtes hermétiques au réfrigérateur (0–5 °C). Le grand froid stoppe les enzymes et insectes pendant plus de 2 ans."
 faqs:
