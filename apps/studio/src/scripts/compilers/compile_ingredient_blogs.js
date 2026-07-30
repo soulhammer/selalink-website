@@ -109,14 +109,6 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
 
   const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
 
-  const stepsYaml = `steps:
-  - name: "${escapeYaml(step1Title)}"
-    text: "${escapeYaml(step1Text)}"
-  - name: "${escapeYaml(step2Title)}"
-    text: "${escapeYaml(step2Text)}"
-  - name: "${escapeYaml(step3Title)}"
-    text: "${escapeYaml(step3Text)}"`;
-
   const faqItems = (locData.faqs || enData.faqs || []).map(item => ({
     question: String(item.question || item.q || ''),
     answer: safeClean(String(item.answer || item.a || '')).replace(/\\n/g, '\n')

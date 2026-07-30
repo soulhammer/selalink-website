@@ -1,0 +1,406 @@
+{
+    "how-to-store-garlic-chives": {
+        "ingId": "garlic-chives",
+        "pubDate": "2026-02-05",
+        "updatedDate": "2026-02-05",
+        "heroImage": "/images/blog/garlic_chives_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "부추 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 부추의 최적 보관 온도, 수분 관리 방식 및 냉장·냉동 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "전, 찌개, 볶음, 만두 속재료 등 다양한 요리에 향긋한 풍미를 더해주는 부추! 한 단 사오면 금세 잎 끝이 노랗게 변하고 수분에 짓물러 버린 경험 다들 있으시죠? 🌿\n\n부추는 잎이 얇고 표피 보호층이 발달하지 않아 수분 변화에 극도로 민감한 채소입니다. 수분이 부족하면 금방 시들고, 반대로 여분의 물기가 잎에 닿아 갇히면 부패균이 급격히 번식하여 2~3일 만에 악취와 함께 미끄덩하게 짓물러버리게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문 기관의 검증된 가이드라인을 바탕으로, 부추의 신선함과 향을 냉장 보관으로 최대 2주, 냉동 보관으로 수개월간 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "냉장 보관 전에는 절대 물로 씻지 마세요 💧",
+                        "desc": "부추는 물이 닿는 순간 표피 조직이 무르기 시작하며 곰팡이와 세균이 번식하기 매우 좋은 상태가 됩니다. 냉장 보관할 부추는 물을 묻히지 말고, 찌꺼기와 시든 잎만 제거한 뒤 씻지 않은 상태로 보관해야 합니다."
+                    },
+                    {
+                        "title": "짓눌리거나 시든 잎은 즉시 골라내세요 ⚠️",
+                        "desc": "상처 입거나 짓눌린 부추 잎에서는 에틸렌 가스와 무름병을 유발하는 세균이 많이 방출되어 주변의 멀쩡한 부추까지 함께 무르게 만듭니다. 보관 전 상한 부추를 미리 정리하는 것이 신선도 유지의 핵심입니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "세척 없이 키친타월로 감싸 수분 조절하기 — 수분 통제 📦",
+                        "text": "부추 보관의 핵심은 잎 표면에 수분이 맺히지 않도록 통제하는 것입니다. 💡 보관 팁: 씻지 않은 부추의 시든 잎과 이물질을 털어낸 후, 뿌리부터 잎 끝까지 키친타월이나 신문지로 줄기 전체를 감싸주세요. 종이가 내부 습기를 흡수하여 과도한 수분으로 인한 부패를 방지해 줍니다."
+                    },
+                    {
+                        "name": "비닐 밀봉 후 뿌리를 아래로 세워 냉장 보관하기 — 냉장 보관 (10~14일) ❄️",
+                        "text": "부추를 눕혀서 보관하면 중력 반대 방향으로 서하려는 작용(중력 반응)이 일어나 에너지를 소모하고 쉽게 시듭니다. 💡 보관 팁: 키친타월로 감싼 부추를 긴 비닐봉지나 페트병, 밀폐 용기에 넣고, 뿌리가 아래로 향하도록 세워서 냉장고 야채실(1~4℃)에 보관하세요. 최대 2주간 아삭함을 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "세척 후 완전 건조하여 송송 썰어 냉동 보관하기 — 냉동 보관 (90일) 🧊",
+                        "text": "오랫동안 두고 먹고 싶다면 씻어서 잘라 냉동하는 방식이 가장 효과적입니다. 💡 보관 팁: 부추를 깨끗이 씻은 후 체와 키친타월을 이용해 물기를 완전히 제거해 주세요. 1~2cm 크기로 송송 썰어 밀폐 용기나 지퍼백에 얇게 편 뒤 냉동실(-18℃ 이하)에 보관하세요. 요리할 때 해동 없이 바로 찌개나 전, 볶음 등에 넣어 사용하면 됩니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "부추가 물러져서 미끄덩거리고 냄새가 나는데 씻어서 먹어도 되나요?",
+                        "answer": "절대 드시면 안 됩니다! 부추가 미끄덩하게 짓물렀다는 것은 혐기성 부패 세균(무름병균 등)이 증식하여 조직이 붕괴된 상태입니다. 세균 독소가 퍼졌을 위험이 크므로 아까워하지 말고 즉시 폐기해야 합니다."
+                    },
+                    {
+                        "question": "냉동 보관한 부추는 해동해서 사용해야 하나요?",
+                        "answer": "아닙니다! 냉동된 부추를 해동하면 세포벽 조직이 파괴되어 수분이 한꺼번에 흘러나오고 흐물거리게 됩니다. 국, 찌개, 전, 볶음 요리 직전에 해동 과정 없이 냉동 상태 그대로 가열 요리에 투입하는 것이 바람직합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Garlic Chives Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, moisture control method, and shelf life for refrigerating and freezing garlic chives based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Garlic chives add a fragrant, savory flavor to pancakes, stews, stir-fries, and dumpling fillings. But have you ever bought a bunch only to see the tips turn yellow and rot into a slimy mess within days? 🌿\n\nGarlic chives have thin leaves and a delicate cuticle layer, making them extremely sensitive to moisture changes. Insufficient moisture causes them to wilt quickly, while excess trapped moisture allows decay bacteria to proliferate rapidly, turning them slimy and foul-smelling in just 2 to 3 days.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert agricultural guidelines to preserve garlic chives' freshness and aroma for up to 2 weeks in the fridge and several months in the freezer. 🛡️",
+                "whyTitle": "Why Store Garlic Chives This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never wash garlic chives before refrigerating 💧",
+                        "desc": "The moment garlic chives come into contact with water, their tissue begins to soften, creating an ideal environment for mold and bacteria to thrive. Unwashed garlic chives should only have debris and wilted leaves removed before dry refrigeration."
+                    },
+                    {
+                        "title": "Immediately remove bruised or decaying leaves ⚠️",
+                        "desc": "Damaged or crushed garlic chives emit ethylene gas and soft-rot bacteria that rapidly spoil surrounding healthy leaves. Sorting out damaged stems before storage is essential for longevity."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap unwashed chives in paper towels — Moisture Control 📦",
+                        "text": "Controlling moisture on the leaf surfaces is the key to preserving garlic chives. 💡 Storage Tip: Shake off dirt and remove wilted leaves without washing. Wrap the entire bundle from roots to leaf tips in paper towels or newspaper. The paper layer absorbs moisture and prevents rot caused by trapped condensation."
+                    },
+                    {
+                        "name": "Seal in plastic and store upright with roots facing down — Cold Storage (10–14 Days) ❄️",
+                        "text": "Storing garlic chives horizontally forces them to expend energy trying to bend upward against gravity (gravitropism), leading to rapid wilting. 💡 Storage Tip: Place paper-wrapped chives upright in a tall plastic bag, bottle, or container with roots pointing down, and refrigerate in the crisper drawer (1–4°C). Keeps crisp for up to 2 weeks."
+                    },
+                    {
+                        "name": "Wash, dry completely, chop, and freeze — Freezer Storage (90 Days) 🧊",
+                        "text": "For long-term storage, washing, chopping, and freezing is the most effective approach. 💡 Storage Tip: Wash chives thoroughly, then dry completely with a strainer and paper towels. Chop into 1–2 cm pieces, layer thinly in an airtight container or Ziploc bag, and freeze (-18°C or lower). Add directly to soups, stir-fries, or batters without thawing."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "If garlic chives become slimy and foul-smelling, can I wash and eat them?",
+                        "answer": "No, absolutely not! A slimy texture indicates that anaerobic decay bacteria (such as Pectobacterium soft rot) have multiplied and broken down the plant tissues. Because bacterial toxins spread quickly, throw them away immediately."
+                    },
+                    {
+                        "question": "Should frozen garlic chives be thawed before cooking?",
+                        "answer": "No! Thawing frozen garlic chives damages their cell wall structure, releasing all internal moisture and making them mushy. Add them directly from the freezer to hot soups, stews, batters, or stir-fries without defrosting."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ニラを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくニラの最適な保存温度、水分管理方法、冷蔵・冷凍保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "チヂミ、スープ、炒め物、餃子の餡など、多様な料理に豊かな風味を添えるニラ！一束買ってきたものの、すぐに葉先が黄色くなり水分でドロドロに傷んでしまった経験はありませんか？🌿\n\nニラは葉が薄く表皮の保護層が発達していないため、水分の変化に極めて敏感な野菜です。水分が不足するとすぐに萎れ、逆に余分な水気が葉についてこもると腐敗菌が急激に繁殖し、わずか2〜3日で悪臭とともにドロドロに溶けてしまいます。\n\n本記事では、専門機関の検証済みガイドラインに基づき、ニラの鮮度と香りを冷蔵で最大2週間、冷凍で数ヶ月間守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "冷蔵保存する前は絶対に水で洗わないでください 💧",
+                        "desc": "ニラは水に濡れた瞬間から組織が柔らかくなり始め、カビや細菌が繁殖しやすい状態になります。冷蔵保存するニラは水気をつけず、ゴミや萎れた葉だけを取り除いて洗わずに保管してください。"
+                    },
+                    {
+                        "title": "つぶれた葉や傷んだ葉はすぐに取り除いてください ⚠️",
+                        "desc": "傷ついたニラの葉からはエチレンガスや軟腐病を引き起こす細菌が多く放出され、周囲の健全なニラまで一緒に傷ませてしまいます。保存前に傷んだ部分を整理することが長持ちの鍵です。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "洗わずにキッチンペーパーで包んで水分を調節する — 水分コントロール 📦",
+                        "text": "ニラ保存のポイントは葉の表面に水気を溜めないことです。💡保存のコツ：水洗いせず、黄色くなった葉や汚れを払い落とした後、根元から葉先まで束全体をキッチンペーパーや新聞紙で包みます。紙が余分な湿気を吸収し、蒸れによる腐敗を防ぎます。"
+                    },
+                    {
+                        "name": "ポリ袋で密閉し根を下にして立てて冷蔵保存する — 冷蔵保存 (10〜14日間) ❄️",
+                        "text": "ニラを横にして保存すると、重力に逆らって立ち上がろうとする作用（屈重性）が働き、エネルギーを消費して急速に萎れてしまいます。💡保存のコツ：ペーパーで包んだニラを背の高いポリ袋やペットボトルに入れ、根を下にして立てた状態で冷蔵庫の野菜室（1〜4℃）に保管してください。最大2週間シャキシャキ感を保てます。"
+                    },
+                    {
+                        "name": "洗って完全に乾かし、小口切りにして冷凍保存する — 冷凍保存 (90日間) 🧊",
+                        "text": "長期間保存したい場合は、洗ってカットしてから冷凍するのが最も効果的です。💡保存のコツ：ニラを綺麗に洗った後、ザルとキッチンペーパーで水気を完全に拭き取ります。1〜2cmの長さに切り、密閉容器やジッパーバッグに平らに入れて冷凍室（-18℃以下）で保存します。調理時は解凍せずそのままスープや炒め物に使えます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "ニラが傷んでドロドロになり臭いがしますが、洗えば食べられますか？",
+                        "answer": "絶対に食べないでください！ニラがドロドロに溶けているのは、無酸素状態で腐敗細菌（軟腐病菌など）が増殖し組織が崩壊したサインです。細菌の毒素が広がっている危険性が高いため、迷わず廃棄してください。"
+                    },
+                    {
+                        "question": "冷凍したニラは解凍してから料理に使いますか？",
+                        "answer": "いいえ！冷凍ニラを解凍すると細胞壁が破壊され、水分が一気に流れ出してべたついてしまいます。スープ、チヂミ、炒め物などの加熱調理の直前に、冷凍状態のまま鍋やフライパンに投入するのが正解です。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持韭菜新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解韭菜的最佳储存温度、控水方式及冷藏与冷冻保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "无论是包饺子、煎饼、做汤还是炒菜，韭菜都能为料理增添浓郁香气！但买回一大把韭菜，常常没过几天叶尖就发黄烂叶、烂成一滩软泥？🌿\n\n韭菜叶片纤薄且缺乏厚的角质层保护，对水分变化极度敏感。水分不足会导致迅速萎蔫，而如果多余的水分积聚在叶片表面，腐败菌会急剧滋生，仅需2~3天就会产生异味并腐烂发粘。\n\n本指南基于农业及食品安全权威机构的验证指南，为您介绍3步科学保鲜秘诀，帮您将韭菜的新鲜度与香气在冷藏下延长至2周，冷冻下保存数月。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "冷藏储存前切勿用水清洗 💧",
+                        "desc": "韭菜沾水后表皮组织会迅速软化，极易滋生霉菌和细菌。准备冷藏的韭菜切勿洗水，只需拣去杂质和黄叶，在干燥状态下直接储存。"
+                    },
+                    {
+                        "title": "请立即挑出受压或烂叶 ⚠️",
+                        "desc": "破损或受挤压的韭菜叶会释放大量乙烯气体和致腐细菌，加速周围健康韭菜的腐烂。储存前整理挑拣是延长时间的关键。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "无需清洗，用厨房纸巾包裹控水 — 湿度调节 📦",
+                        "text": "韭菜保鲜的核心在于防止叶片表面积水。💡储存小贴士：不清洗，抖落泥土并摘除黄叶后，用厨房纸巾或报纸将整把韭菜从根部到叶尖完整包裹。纸张可吸收多余湿气，防止因水汽积聚导致腐烂。"
+                    },
+                    {
+                        "name": "装袋密封并根部朝下竖立冷藏 — 冷藏储存 (10~14天) ❄️",
+                        "text": "平放韭菜时，韭菜会消耗能量向重力反方向弯曲生长（背重性），从而加速萎蔫。💡储存小贴士：将纸巾包裹好的韭菜放入长形保鲜袋或塑料瓶中，根部朝下竖直放入冰箱蔬菜抽屉（1~4℃）冷藏，可保持爽脆长达2周。"
+                    },
+                    {
+                        "name": "清洗后彻底擦干，切段冷冻 — 冷冻储存 (90天) 🧊",
+                        "text": "如需长期保存，清洗切段后冷冻是最有效的方法。💡储存小贴士：彻底洗净韭菜，用滤网和厨房纸巾完全擦干水分。切成1~2厘米的小段，平摊装入密封盒或拉链袋中冷冻（-18℃以下）。做汤、炒菜或做馅时无须解冻，直接下锅即可。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "韭菜变软发粘且发臭，洗洗还能吃吗？",
+                        "answer": "绝对不能食用！韭菜发粘腐烂意味着厌氧腐败菌（如软腐病菌）已大量繁殖并破坏了组织结构。由于细菌毒素可能已扩散，请务必立即丢弃。"
+                    },
+                    {
+                        "question": "冷冻保存的韭菜需要解冻后再用吗？",
+                        "answer": "不需要！解冻冷冻韭菜会破坏其细胞壁组织，导致水分大量流失并变软发烂。在做汤、煎饼或炒菜前，直接将冷冻韭菜投入热锅中加热烹饪才是正确做法。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los cebollines de ajo frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura de almacenamiento, el control de humedad y el tiempo de conservación para refrigerar y congelar cebollines de ajo según las directrices oficiales.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¡Los cebollines de ajo (nirá) aportan un aroma y sabor exquisito a empanadas, sopas, salteados y rellenos! Pero ¿alguna vez compró un manojo y vio cómo en pocos días las puntas se ponían amarillas y se descomponían en una masa pegajosa? 🌿\n\nLos cebollines de ajo tienen hojas delgadas y una fina capa protectora, lo que los hace extremadamente sensibles a las variaciones de humedad. La falta de humedad hace que se marchiten, mientras que el exceso de agua atrapada permite que las bacterias del deterioro se multipliquen rápidamente, volviéndolos viscosos y con mal olor en solo 2 a 3 días.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas para conservar la frescura y aroma de los cebollines de ajo hasta por 2 semanas en el refrigerador y varios meses en el congelador. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca lave los cebollines de ajo antes de refrigerarlos 💧",
+                        "desc": "En cuanto el agua entra en contacto con las hojas, el tejido comienza a ablandarse, creando el ambiente perfecto para bacterias y hongos. Retire la tierra y hojas secas, y guárdelos secos sin lavar."
+                    },
+                    {
+                        "title": "Retire de inmediato las hojas aplastadas o marchitas ⚠️",
+                        "desc": "Las hojas dañadas emiten gas etileno y bacterias de podredumbre blanda que deterioran las hojas sanas circundantes. Descartar las partes dañadas antes de guardar es esencial."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva los cebollines sin lavar en papel de cocina — Control de humedad 📦",
+                        "text": "Controlar la humedad en la superficie de las hojas es el secreto para conservarlos. 💡 Consejo de almacenamiento: Sin lavar, retire la tierra y hojas amarillas. Envuelva el manojo completo de la raíz a las puntas con papel de cocina o periódico. El papel absorbe la humedad sobrante evitando la descomposición."
+                    },
+                    {
+                        "name": "Guarde en bolsa plástica en posición vertical con las raíces hacia abajo — Refrigeración (10–14 días) ❄️",
+                        "text": "Si los guarda de forma horizontal, los cebollines gastan energía intentando erguirse contra la gravedad (gravitropismo), marchitándose rápido. 💡 Consejo de almacenamiento: Coloque el manojo envuelto en papel dentro de una bolsa plástica alta, en posición vertical con la raíz abajo, en el cajón de verduras (1–4 °C). Se mantendrán crujientes hasta por 2 semanas."
+                    },
+                    {
+                        "name": "Lave, seque por completo, pique y congele — Congelación (90 días) 🧊",
+                        "text": "Para conservarlos a largo plazo, lavarlos, picarlos y congelarlos es lo más eficiente. 💡 Consejo de almacenamiento: Lave bien los cebollines y séquelos completamente con papel absorbente. Píquelos en trozos de 1 a 2 cm, colóquelos en una bolsa hermética en capa fina y congélelos (-18 °C). Agréguelos directamente a guisos o salteados sin descongelar."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Si los cebollines están viscosos y huelen mal, ¿puedo lavarlos y comerlos?",
+                        "answer": "¡Jamás debe comerlos! La textura viscosa indica que bacterias de descomposición anaeróbica se han multiplicado y destruido el tejido. Debido al riesgo de toxinas bacterianas, deséchelos de inmediato."
+                    },
+                    {
+                        "question": "¿Debo descongelar los cebollines de ajo congelados antes de cocinar?",
+                        "answer": "¡No! Descongelar los cebollines rompe las paredes celulares, liberando el agua y dejándolos aguados. Incorpórelos congelados directamente a la sartén o sopa durante la cocción."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la ciboulette chinoise fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température de stockage, le contrôle de l'humidité et la durée de conservation pour réfrigérer et me congeler la ciboulette chinoise selon les directives officielles.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "La ciboulette chinoise (ail ciboulette) apporte une saveur parfumée et relevée aux poêlées, bouillons, crêpes et farces de raviolis. Mais avez-vous déjà vu un bouquet jaunir et se transformer en masse gluante en quelques jours ? 🌿\n\nSes feuilles fines possèdent une pellicule protectrice très faible, la rendant extrêmement vulnérable aux variations d'humidité. Un manque d'eau la flétrit, tandis qu'un excès d'eau piégée entraîne une prolifération bactérienne rapide, la rendant visqueuse et malodorante en 2 à 3 jours.\n\nDans ce guide, vous présente un guide de conservation en 3 étapes validé par des experts pour préserver la fraîcheur de la ciboulette chinoise jusqu'à 2 semaines au réfrigérateur et plusieurs mois au congélateur. 🛡️",
+                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne lavez jamais la ciboulette chinoise avant de la réfrigérer 💧",
+                        "desc": "Au contact de l'eau, les tissus de la ciboulette s'amollissent, favorisant le développement de bactéries et moisissures. Retirez simplement la terre et les feuilles fanées, puis conservez à dry."
+                    },
+                    {
+                        "title": "Retirez immédiatement les feuilles écrasées ou abîmées ⚠️",
+                        "desc": "Les tiges endommagées dégagent de l'éthylène et des bactéries de pourriture molle qui détruisent les tiges saines environnantes. Un tri préalable est primordial."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper la ciboulette non lavée dans du papier absorbant — Contrôle de l'humidité 📦",
+                        "text": "Éviter l'accumulation d'eau sur les feuilles est la clé de la conservation. 💡 Astuce de conservation : Sans laver, retirez la terre. Enveloppez la botte entière des racines aux pointes dans du papier essuie-tout ou du papier journal. Le papier absorbe l'humidité résiduelle."
+                    },
+                    {
+                        "name": "Placer en sachet et stocker à la verticale, racines vers le bas — Stockage réfrigéré (10–14 jours) ❄️",
+                        "text": "Stockée à plat, la ciboulette épuise son énergie en tentant de se redresser (gravitropisme), ce qui la flétrit vite. 💡 Astuce de conservation : Placez la botte enveloppée debout dans un sachet plastique haut dans le bac à légumes (1–4 °C). Elle reste croquante jusqu'à 2 semaines."
+                    },
+                    {
+                        "name": "Laver, sécher complètement, ciseler et congeler — Congélation (90 jours) 🧊",
+                        "text": "Pour un stockage longue durée, le lavage, le ciselage et la congélation sont idéaux. 💡 Astuce de conservation : Lavez soigneusement puis séchez complètement la ciboulette. Ciselez-en morceaux de 1 à 2 cm, étalez en couche fine dans un sachet congélation et congelez (-18 °C). Ajoutez directement aux plats sans décongeler."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Si la ciboulette chinoise devient visqueuse et sent mauvais, peut-on la laver et la consommer ?",
+                        "answer": "Surtout pas ! L'aspect gluant indique une décomposition bactérienne anaérobie avancée. Les toxines s'étant propagées, jetez-la immédiatement."
+                    },
+                    {
+                        "question": "Faut-il décongeler la ciboulette chinoise avant de la cuisiner ?",
+                        "answer": "Non ! Décongeler la ciboulette détruit ses parois cellulaires, la rendant molle et gorgée d'eau. Incorporez-la directement congelée dans vos poêlées, soupes ou friture."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Knoblauchschnittlauch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Feuchtigkeitsregulierung und Haltbarkeit für das Kühlen und Einfrieren von Knoblauchschnittlauch basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Knoblauchschnittlauch verleiht Suppen, Puffer-Gerichten, Pfannengerichten und Dumpling-Füllungen ein wunderbares Aroma. Doch haben Sie schon erlebt, dass die Blätter nach wenigen Tagen gelb und matschig wurden? 🌿\n\nKnoblauchschnittlauch hat sehr dūnne Blätter und eine schwache Schutzschicht, was ihn extrem anfällig für Feuchtigkeitsschwankungen macht. Zu wenig Feuchtigkeit lässt ihn welken, während zu viel eingeschlossenes Wasser Fäulnisbakterien vermehrt, die ihn in 2–3 Tagen matschig und stinkend machen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Knoblauchschnittlauch im Kühlschrank bis zu 2 Wochen und im Gefrierfach mehrere Monate frisch zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Knoblauchschnittlauch vor dem Kühlen niemals waschen 💧",
+                        "desc": "Sobald Wasser an die Blätter gelangt, weicht das Gewebe auf – ein idealer Nährboden für Bakterien. Entfernen Sie vor dem Kühlen nur Erdreste und welke Blätter und lagern Sie ihn trocken."
+                    },
+                    {
+                        "title": "Beschädigte oder welke Blätter sofort aussortieren ⚠️",
+                        "desc": "Quetschungen setzen Ethylengas und Weichfäule-Bakterien frei, die gesunde Blätter anstecken. Das Aussortieren vor der Lagerung ist essenziell."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ungewaschen in Küchenpapier einwickeln — Feuchtigkeitskontrolle 📦",
+                        "text": "Die Kontrolle der Blattoberflächenfeuchte ist der Schlüssel. 💡 Lagerungstipp: Ungewaschen von Schmutz befreien. Wickeln Sie den gesamten Bund von den Wurzeln bis zu den Spitzen in Küchenpapier oder Zeitungspapier. Das Papier saugt überschüssige Feuchtigkeit auf."
+                    },
+                    {
+                        "name": "In Plastiktüte aufrecht mit den Wurzeln nach unten kühlen — Kühllagerung (10–14 Tage) ❄️",
+                        "text": "Liegend verbraucht Knoblauchschnittlauch Energie, um sich gegen die Schwerkraft aufzurichten (Gravitropismus), wodurch er schneller welkt. 💡 Lagerungstipp: Den eingewickelten Bund aufrecht in eine hohe Tüte stellen und im Gemüsefach (1–4 °C) lagern. Hält bis zu 2 Wochen knackig."
+                    },
+                    {
+                        "name": "Waschen, gründlich trocknen, schneiden und einfrieren — Gefrierlagerung (90 Tage) 🧊",
+                        "text": "Für die Langzeitlagerung ist Waschen, Schneiden und Einfrieren ideal. 💡 Lagerungstipp: Gründlich waschen und mit Küchenpapier komplett trocknen. In 1–2 cm lange Stücke schneiden, flach in Beutel füllen und einfrieren (-18 °C). Ohne Auftauen direkt zum Kochen verwenden."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man fauligen, matschigen Knoblauchschnittlauch noch abwaschen und essen?",
+                        "answer": "Auf keinen Fall! Eine schmierige Textur zeigt, dass sich Fäulnisbakterien vermehrt und das Gewebe zersetzt haben. Wegen der Toxinbildung sofort entsorgen."
+                    },
+                    {
+                        "question": "Muss gefrorener Knoblauchschnittlauch vor dem Kochen aufgetaut werden?",
+                        "answer": "Nein! Beim Auftauen brechen die Zellwände auf, wodurch der Schnittlauch wässrig und matschig wird. Geben Sie ihn gefroren direkt in kochende Suppen oder die heiße Pfanne."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar nirá (cebolinha verde alho) fresco: Guia científico de armazenamento",
+                "description": "Descubra a temperatura de armazenamento, controle de umidade e tempo de conservação para refrigerar e congelar nirá com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "O nirá (cebolinha-alho) traz um aroma marcante e sabor especial para panquecas, ensopados, refogados e recheios! Mas você já comprou um maço e viu as pontas amarelarem e virarem uma massa melada em poucos dias? 🌿\n\nO nirá possui folhas finas e uma camada protetora frágil, sendo extremamente sensível às mudanças de umidade. A falta de água o faz murchar, enquanto o excesso de umidade presa permite que bactérias da deterioração se multipliquem rapidamente, deixando-o pegajoso e com mau cheiro em 2 a 3 dias.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas para manter o frescor do nirá por até 2 semanas na geladeira e vários meses no freezer. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca lave o nirá antes de refrigerar 💧",
+                        "desc": "Assim que entra em contato com a água, o tecido do nirá começa a amolecer, favorecendo a proliferação de fungos e bactérias. Retire a terra e guarde-o seco."
+                    },
+                    {
+                        "title": "Retire imediatamente as folhas amassadas ou murchas ⚠️",
+                        "desc": "Folhas danificadas liberam etileno e bactérias que apodrecem as folhas sadias ao redor. Fazer uma triagem antes de guardar é fundamental."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolver o nirá sem lavar em papel-toalha — Controle de umidade 📦",
+                        "text": "Controlar a umidade nas folhas é a chave para a conservação. 💡 Dica de conservação: Sem lavar, remova a terra e folhas amarelas. Envolva todo o maço, das raízes às pontas, em papel-toalha ou jornal. O papel absorve o excesso de umidade."
+                    },
+                    {
+                        "name": "Colocar num saco e guardar na vertical com as raízes para baixo — Refrigeração (10–14 dias) ❄️",
+                        "text": "Guardado na horizontal, o nirá gasta energia tentando se erguer contra a gravidade (gravitropismo), murchando rápido. 💡 Dica de conservação: Coloque o maço embrulhado em pé dentro de um saco plástico alto na gaveta de legumes (1–4 °C). Mantém-se firme por até 2 semanas."
+                    },
+                    {
+                        "name": "Lavar, secar bem, picar e congelar — Congelamento (90 dias) 🧊",
+                        "text": "Para guardar por longo prazo, lavar, picar e congelar é a melhor opção. 💡 Dica de conservação: Lave bem o nirá e seque completamente com papel-toalha. Pique em pedaços de 1 a 2 cm, espalhe em camada fina num saco hermético e congele (-18 °C). Use direto no fogo sem descongelar."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Se o nirá estiver melado e com cheiro ruim, posso lavar e comer?",
+                        "answer": "Jamais coma! O aspecto melado e viscoso indica proliferação de bactérias de decomposição. Como há risco de toxinas, descarte imediatamente."
+                    },
+                    {
+                        "question": "Preciso descongelar o nirá congelado antes de usar na receita?",
+                        "answer": "Não! Descongelar o nirá destrói sua estrutura celular, deixando-o aguado e mole. Adicione-o ainda congelado diretamente na panela ou frigideira durante o preparo."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kucai agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu penyimpanan, metode kontrol kelembapan, dan masa simpan pendinginan serta pembekuan kucai berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Daun kucai memberikan aroma dan cita rasa harum yang khas pada bakwan, sup, tumisan, hingga isian dimsum! Namun, pernahkah Anda membeli seikat kucai lalu menemukan ujung daunya menguning dan membusuk lembek dalam beberapa hari? 🌿\n\nDaun kucai memiliki daun yang tipis dan lapisan pelindung yang tipis, membuatnya sangat sensitif terhadap perubahan kelembapan. Kekurangan air membuatnya cepat layu, sedangkan kelebihan air yang terperangkap memicu bakteri pembusuk berkembang biak dengan cepat, membuatnya berlendir dan berbau menyengat dalam 2 hingga 3 hari.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kucai 3 langkah berbasis ilmiah untuk menjaga kesegaran dan aroma kucai hingga 2 minggu di kulkas dan beberapa bulan di freezer. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah mencuci kucai sebelum disimpan di kulkas 💧",
+                        "desc": "Saat terkena air, jaringan daun kucai mulai melunak, menciptakan kondisi ideal bagi jamur dan bakteri untuk tumbuh. Bersihkan tanah tanpa membasahinya saat akan disimpan di kulkas."
+                    },
+                    {
+                        "title": "Segera buang daun kucai yang memar atau layu ⚠️",
+                        "desc": "Daun kucai yang rusak mengeluarkan gas etilen dan bakteri pembusuk yang dapat merusak daun kucai sehat di sekitarnya. Memilah daun kucai sebelum disimpan sangatlah penting."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus kucai kering dengan tisu dapur — Kontrol Kelembapan 📦",
+                        "text": "Mengontrol kelembapan pada permukaan daun adalah kunci utama menyimpan kucai. 💡 Tips Penyimpanan: Tanpa dicuci, bersihkan tanah dan buang daun yang menguning. Bungkus seikat kucai dari akar hingga ujung daun menggunakan tisu dapur atau kertas koran. Kertas akan menyerap kelebihan kelembapan."
+                    },
+                    {
+                        "name": "Simpan dalam kantong plastik secara tegak dengan akar di bawah — Simpan Dingin (10–14 Hari) ❄️",
+                        "text": "Jika disimpan mendatar, kucai akan menghabiskan energi untuk tumbuh berdiri melawan gravitasi (gravitropisme), menjadikannya cepat layu. 💡 Tips Penyimpanan: Masukkan ikatan kucai yang sudah dibungkus kertas ke dalam plastik tinggi secara tegak (akar di bawah) di laci sayur (1–4°C). Bertahan segar hingga 2 minggu."
+                    },
+                    {
+                        "name": "Cuci, keringkan total, potong-potong, lalu bekukan — Simpan Freezer (90 Hari) 🧊",
+                        "text": "Untuk penyimpanan jangka panjang, mencuci, memotong, dan membekukannya adalah metode paling efektif. 💡 Tips Penyimpanan: Cuci bersih kucai lalu keringkan hingga benar-benar bebas air dengan tisu dapur. Potong ukuran 1–2 cm, ratakan dalam kantong ziploc, lalu bekukan (-18°C). Gunakan langsung saat memasak tanpa perlu dicairkan."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Jika kucai menjadi berlendir dan berbau busuk, apakah masih boleh dicuci dan dimakan?",
+                        "answer": "Sangat tidak boleh! Tekstur berlendir menandakan bakteri pembusuk anaerob telah berkembang biak dan merusak jaringan tanaman. Karena berisiko racun bakteri, segera buang kucai tersebut."
+                    },
+                    {
+                        "question": "Apakah kucai beku harus dicairkan dulu sebelum dimasak?",
+                        "answer": "Tidak! Mencairkan kucai beku akan merusak dinding selnya, membuatnya mengeluarkan banyak air dan menjadi lembek. Masukkan kucai beku secara langsung ke dalam kuah sup, adonan bakwan, atau tumisan panas."
+                    }
+                ]
+            }
+        }
+    }
+}

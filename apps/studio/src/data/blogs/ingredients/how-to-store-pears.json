@@ -1,0 +1,406 @@
+{
+    "how-to-store-pears": {
+        "ingId": "pear",
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "heroImage": "/images/blog/pear_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "배 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 배의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "아삭하고 시원한 즙이 가득한 배를 구매한 뒤 냉장고에 그대로 두었다가 금세 바람이 들거나 수분이 날아가 푸석해진 경험이 있으신가요? 🍐\n\n배는 수분 함량이 85% 이상으로 높아 상온이나 건조한 환경에 노출되면 빠르게 수분을 잃고 식감이 변하는 과일입니다. 특히 사과나 바나나처럼 에틸렌 가스를 많이 방출하는 식재료와 함께 두면 순식간에 물러지고 무를 수 있어 특별한 주의가 필요합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문 기관의 검증된 연구 결과를 바탕으로, 배의 시원하고 아삭한 식감과 단맛을 1~2개월 동안 오랫동안 유지할 수 있는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "사과, 바나나 등 에틸렌 방출 과일과 절대 함께 두지 마세요 🚫",
+                        "desc": "배는 에틸렌 가스에 매우 민감하게 반응하는 대표적인 과일입니다. 사과, 바나나, 토마토 등 에틸렌 방출량이 많은 과일과 한 공간에 보관하면 배의 노화와 조직 붕괴가 급격히 진행되어 금세 무르고 부패하게 됩니다."
+                    },
+                    {
+                        "title": "보관하기 전 물로 씻지 마세요 💧",
+                        "desc": "배 껍질의 마른 표면은 미생물 침입을 막는 보호막 역할을 합니다. 미리 물로 씻어서 보관하면 잔여 수분으로 인해 곰팡이나 세균이 증식하기 쉬우므로, 마른 천으로 겉면의 먼지만 가볍게 털어내고 먹기 직전에 씻어야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "신문지나 키친타월로 낱개 감싸고 랩 포장하기 — 수분 증발 차단 📦",
+                        "text": "배를 수분 노출 없이 낱개로 포장하는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 배를 신문지나 키친타월로 먼저 1차로 감싸 습기를 조절한 뒤, 식품용 비닐이나 랩으로 한 알씩 빈틈없이 꽁꽁 밀봉해 주세요. 신문지가 과도한 습기를 흡수하고, 랩은 배 내부의 수분이 외부로 증발하는 것을 차단해 오래도록 아삭함을 유지해 줍니다."
+                    },
+                    {
+                        "name": "0~2℃ 저온 냉장(야채실) 보관하기 — 냉장 보관 (30~60일) ❄️",
+                        "text": "배는 얼지 않는 저온에서 호흡 작용이 억제되어 신선도가 가장 오래 유지됩니다. 💡 보관 팁: 낱개 포장한 배를 냉장고 야채칸(신선실)이나 김치냉장고(표준/과일 보관 모드)에 보관하세요. 최적 보관 온도는 0~2℃이며, 이 환경에서는 1~2개월 동안 수분과 단맛을 그대로 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "꼭지 부분이 위로 향하게 보관하기 — 신선도 유지 🔝",
+                        "text": "배의 물리적 보관 자세도 신선도에 영향을 줍니다. 💡 보관 팁: 배의 꼭지 부분을 위로, 아랫부분(배꼽)을 바닥으로 향하게 놓아주세요. 꼭지 부위는 상대적으로 단단하여 하중을 잘 견디며 과육이 짓눌려 상하는 것을 방지해 줍니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "바람이 든 배는 왜 생기며 먹어도 되나요?",
+                        "answer": "바람이 든 배는 보관 중 수분이 증발하거나 저온 장시간 노출로 인해 과육 내부 세포가 건조해지고 구멍이 뚫리는 현상입니다. 섭취 자체는 해롭지 않으나 식감과 단맛이 현저히 떨어지므로, 생과로 먹기보다는 찌개, 불고기 양념 재료나 갈아서 주스로 활용하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "자르고 남은 배는 어떻게 보관해야 하나요?",
+                        "answer": "자른 배는 공기 접촉 시 산화되어 갈변하고 세균이 번식하기 쉽습니다. 자른 면에 묽은 설탕물이나 레몬즙을 살짝 바른 후 밀폐 용기에 담아 냉장 보관해야 하며, 2~3일 이내에 빠르게 소비하는 것이 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Pears Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for pears based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Have you ever bought juicy, crisp pears only to find them dry and mealy inside after storing them in the fridge? 🍐\n\nPears consist of over 85% water, making them highly susceptible to moisture loss and texture changes when exposed to ambient room air or dry environments. Furthermore, because pears are exceptionally sensitive to ethylene gas emitted by fruits like apples and bananas, improper storage leads to rapid softening and decay.\n\nIn this guide, introduces a scientifically proven 3-step pear storage guide recommended by agriculture and food safety experts to keep your pears crisp, sweet, and juicy for 1 to 2 months. 🛡️",
+                "whyTitle": "Why Store Pears This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never store pears with ethylene-producing fruits like apples or bananas 🚫",
+                        "desc": "Pears are highly sensitive to ethylene gas. Storing them in the same compartment as high-ethylene emitters like apples, bananas, or tomatoes accelerates tissue breakdown, causing them to turn mushy and rot rapidly."
+                    },
+                    {
+                        "title": "Do not wash pears before storing 💧",
+                        "desc": "The dry surface of the pear skin acts as a protective barrier against microorganisms. Washing them prior to storage traps residual moisture, creating an ideal environment for mold and bacteria to grow. Lightly wipe off dust with a dry cloth and wash right before eating."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap individually in newspaper or paper towels, then wrap with plastic wrap — Moisture Barrier 📦",
+                        "text": "Individual wrapping without moisture exposure is key. 💡 Storage Tip: Wrap dry, unwashed pears first in newspaper or paper towels to absorb excess moisture, then tightly seal each pear individually with food-grade plastic wrap. The paper layer manages humidity while the plastic wrap prevents internal moisture evaporation, maintaining crispness for a long time."
+                    },
+                    {
+                        "name": "Store at low temperature (0–2°C) in the crisper drawer — Cold Storage (30–60 Days) ❄️",
+                        "text": "Low temperatures above freezing slow down pear respiration and maximize shelf life. 💡 Storage Tip: Place individually wrapped pears in the vegetable crisper drawer or kimchi refrigerator (fruit mode). The optimal storage temperature is 0–2°C (32–36°F), keeping them sweet and juicy for 1 to 2 months."
+                    },
+                    {
+                        "name": "Store with the stem pointing upward — Preserve Physical Quality 🔝",
+                        "text": "The physical orientation of the pear affects its longevity. 💡 Storage Tip: Store pears with the stem side facing up and the bottom (calyx) facing down. The stem area is structurally firmer and better able to support weight without bruising the delicate flesh."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Why do pears become dry and mealy ('pithy'), and are they safe to eat?",
+                        "answer": "Mealy or spongy texture in pears occurs when moisture evaporates during long storage or from exposure to improper cold temperatures, causing cells to collapse. While safe to consume, their raw flavor and crunch are diminished. They are best used in cooked dishes, meat marinades, or blended into juices."
+                    },
+                    {
+                        "question": "How should leftover cut pear be stored?",
+                        "answer": "Cut pears oxidize and brown quickly upon air contact and are susceptible to bacterial growth. Lightly brush the cut surface with mild sugar water or lemon juice, place in an airtight container, and refrigerate. Consume within 2 to 3 days."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "梨を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づく梨の最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "ジューシーでシャキシャキとした梨を買ってきたものの、冷蔵庫に入れておいたらすぐに水分が抜けてパサパサになってしまった経験はありませんか？🍐\n\n梨は水分含有量が85%以上と非常に高いため、常温や乾燥した環境にさらされると急速に水分を失い、食感が変化してしまいます。特にリンゴやバナナのようにエチレンガスを多く放出する食材と一緒に保存すると、あっという間に柔らかくなり傷んでしまうため特別な注意が必要です。\n\n本記事では、農学および食品安全機関の研究に基づき、梨のシャキシャキとした食感と甘みを1〜2ヶ月間長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "リンゴやバナナなどエチレンを放出する果物と一緒にしないでください 🚫",
+                        "desc": "梨はエチレンガスに対して非常に敏感な果物です。リンゴやバナナ、トマトなどエチレン放出量の多い果物と同じ空間で保存すると、梨の組織破壊が急速に進み、すぐに柔らかくなって傷んでしまいます。"
+                    },
+                    {
+                        "title": "保存する前に水で洗わないでください 💧",
+                        "desc": "梨の皮の乾燥した表面は微生物の侵入を防ぐ保護膜の役割を果たしています。あらかじめ水洗いをすると水分が残り、カビや雑菌が繁殖しやすくなります。乾いた布で表面の汚れを軽く拭き取る程度にとどめ、洗うのは食べる直前にしてください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "新聞紙やキッチンペーパーで1個ずつ包み、ラップで密閉する — 水分蒸発防止 📦",
+                        "text": "梨を水分にさらさず1個ずつ個別包装することがポイントです。💡保存のコツ：洗っていない梨をまず新聞紙やキッチンペーパーで包んで余分な湿気を調節し、その上から食品用ラップで隙間なくぴったり包みます。紙が余分な湿気を吸収し、ラップが梨内部の水分蒸発を防ぐため、長期間シャキシャキ感が持続します。"
+                    },
+                    {
+                        "name": "0〜2℃の低温で冷蔵（野菜室）保存する — 冷蔵保存 (30〜60日間) ❄️",
+                        "text": "梨は凍らないギリギリの低温で保存することで呼吸作用が抑えられ、鮮度が最も長持ちします。💡保存のコツ：個別包装した梨を冷蔵庫の野菜室やチルド室（果物モード）に入れます。最適な保存温度は0〜2℃で、この環境であれば1〜2ヶ月間水分と甘みを維持できます。"
+                    },
+                    {
+                        "name": "軸（ヘタ）を上にして立てて保存する — 鮮度維持 🔝",
+                        "text": "梨を置く向きも鮮度に影響を与えます。💡保存のコツ：梨の軸（ヘタ）の部分を上に、底の部分を下に向けた状態で保存してください。軸側は相対的に硬いため重みに耐えやすく、果肉が潰れて傷むのを防ぐことができます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "水分が抜けてパサついた梨（すが入った状態）は食べられますか？",
+                        "answer": "長期間の保存や不適切な低温露出により水分が蒸発し、果肉細胞が乾燥してパサついた状態になります。体に害はありませんが、生のまま食べると食感や甘みが落ちているため、煮込み料理や肉の下味付け用、ジュースなどに活用するのがおすすめです。"
+                    },
+                    {
+                        "question": "カットした梨の残りはどのように保存すればよいですか？",
+                        "answer": "カットした梨は空気中の酸素と反応して変色しやすく、雑菌が繁殖しやすい状態になります。切り口に薄い砂糖水やレモン汁を軽く塗り、密閉容器に入れて冷蔵保存し、2〜3日以内に早く消費してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持梨新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解梨的最佳储存温度、方式及保鲜时长。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "您是否买过鲜嫩多汁、口感爽脆的梨，但放入冰箱一段时间后却发现水分流失、果肉变干变绵？🍐\n\n梨的水分含量高达85%以上，暴露在常温或干燥环境中会迅速失去水分，导致口感变差。特别是梨对苹果、香蕉等水果释放的乙烯气体极其敏感，如果混放储存会导致梨迅速变软腐烂。\n\n本指南基于农业及食品安全权威机构的研究成果，为您带来3步科学保鲜秘诀，帮您将梨的清甜爽脆口感延长至1~2个月。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿与苹果、香蕉等释放乙烯的水果同箱储存 🚫",
+                        "desc": "梨是对乙烯气体极其敏感的代表性水果。若与苹果、香蕉、番茄等高乙烯释放量的水果存放在同一空间，会加速梨的细胞组织破坏，导致迅速变软腐烂。"
+                    },
+                    {
+                        "title": "储存前请勿用水清洗 💧",
+                        "desc": "梨皮干燥的表面是抵御微生物入侵的天然屏障。若提前用水清洗，残留的水分极易导致霉菌和细菌滋生。只需用干布轻轻擦去表面灰尘，食用前再进行清洗。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "用报纸或厨房纸巾单颗包裹，再用保鲜膜密封 — 锁水防干包裹 📦",
+                        "text": "不沾水逐个包裹是延长保鲜期的核心。💡储存小贴士：将未清洗的梨先用报纸或厨房纸巾包裹一层以调节湿度，再用食品级保鲜膜将每颗梨紧密无缝包裹。纸张吸收多余湿气，保鲜膜阻断水分蒸发，可长久保持爽脆。"
+                    },
+                    {
+                        "name": "0~2℃ 低温冷藏（蔬菜保鲜抽屉）保存 — 冷藏储存 (30~60天) ❄️",
+                        "text": "在不结冻的低温下，梨的呼吸作用被极大抑制，保鲜时间最长。💡储存小贴士：将包裹好的梨放入冰箱蔬菜保鲜抽屉或保鲜冷藏室（水果模式）。最佳储存温度为0~2℃，在此环境下可完好保存1~2个月。"
+                    },
+                    {
+                        "name": "果蒂朝上放置 — 保护果肉结构 🔝",
+                        "text": "梨的摆放姿势也会影响保鲜效果。💡储存小贴士：请将梨的果蒂部分朝上，底部朝下摆放。果蒂部位结构相对坚硬，能更好地承受重量，防止底端果肉受压挤伤变质。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "果肉变绵、失去水分的梨还能吃吗？",
+                        "answer": "梨在长时间储存或受冷害后，水分蒸发导致细胞坍塌变干。虽然食用对人体无害，但口感和甜度已大幅下降，不建议生吃，可用于炖煮、制作烤肉腌料或打成果汁使用。"
+                    },
+                    {
+                        "question": "切开后剩下的梨该如何保存？",
+                        "answer": "切开的梨接触空气容易氧化变黑，且极易滋生细菌。可在切面上涂抹少量淡糖水或柠檬汁，装入密封保鲜盒冷藏保存，并在2~3天内尽快食用。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las peras frescas: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las peras según las directrices oficiales de seguridad.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¿Alguna vez compró peras jugosas y crujientes, solo para descubrir que tras unos días en el refrigerador se volvieron secas y harinosas? 🍐\n\nLas peras contienen más de un 85 % de agua, lo que las hace muy susceptibles a la pérdida de humedad y a cambios de textura si se exponen al aire ambiente o a entornos secos. Además, al ser extremadamente sensibles al gas etileno que emiten frutas como manzanas o plátanos, un almacenamiento inadecuado provoca un ablandamiento y deterioro acelerados.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener sus peras crujientes, dulces y jugosas de 1 a 2 meses. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde las peras junto a frutas que emitan etileno como manzanas o plátanos 🚫",
+                        "desc": "Las peras son frutas sumamente sensibles al gas etileno. Almacenarlas en el mismo espacio que manzanas, plátanos o tomates acelera la descomposición de sus tejidos, haciendo que se ablanden y pudran rápidamente."
+                    },
+                    {
+                        "title": "No lave las peras antes de guardarlas 💧",
+                        "desc": "La superficie seca de la piel de la pera actúa como barrera protectora contra microorganismos. Lavarlas antes de almacenarlas atrapa la humedad, creando un entorno ideal para mohos y bacterias. Limpie el polvo con un paño seco y lávelas justo antes de comer."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva individualmente en papel de periódico o papel de cocina y luego en film plástico — Barrera de humedad 📦",
+                        "text": "Envolver cada pieza individualmente sin agua es la clave. 💡 Consejo de almacenamiento: Envuelva las peras secas y sin lavar primero en papel de periódico o papel de cocina para controlar la humedad, y luego séllelas firmemente con film plástico transparente. El papel absorbe el exceso de humedad y el film evita la evaporación interior."
+                    },
+                    {
+                        "name": "Conserve a baja temperatura (0 a 2 °C) en el cajón de verduras — Almacenamiento refrigerado (30–60 días) ❄️",
+                        "text": "Una baja temperatura por encima del punto de congelación ralentiza la respiración de la pera y maximiza su frescura. 💡 Consejo de almacenamiento: Coloque las peras envueltas en el cajón de verduras del refrigerador. La temperatura óptima es de 0 a 2 °C, conservando su dulzura y jugosidad entre 1 y 2 meses."
+                    },
+                    {
+                        "name": "Coloque las peras con el pedúnculo (tallo) hacia arriba — Conservación física 🔝",
+                        "text": "La posición de la pera influye en su durabilidad. 💡 Consejo de almacenamiento: Guarde las peras con el tallo hacia arriba y la base hacia abajo. La zona del tallo es más firme y soporta mejor el peso sin golpear ni magullar la pulpa inferior."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Por qué las peras se vuelven harinosas y secas, y es seguro comerlas?",
+                        "answer": "La textura harinosa ocurre cuando el agua se evapora durante un almacenamiento prolongado o por exposición al frío inadecuado. Aunque es seguro consumirlas, pierden su sabor fresco y crujiente, por lo que son ideales para guisos, marinados de carne o batidos."
+                    },
+                    {
+                        "question": "¿Cómo se debe guardar la pera cortada sobrante?",
+                        "answer": "La pera cortada se oxida rápidamente al contacto con el aire y es propensa a bacterias. Aplique una capa ligera de agua con azúcar o jugo de limón sobre el corte, guárdela en un recipiente hermético en el refrigerador y consúmala en 2 a 3 días."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les poires fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les poires selon les directives officielles de sécurité.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Avez-vous déjà acheté des poires bien juteuses et croquantes, pour constater après quelques jours au réfrigérateur qu'elles étaient devenues sèches et cotonneuses ? 🍐\n\nLes poires contiennent plus de 85 % d'eau, ce qui les rend particulièrement vulnérables à la déshydratation et aux altérations de texture. De plus, les poires étant extrêmement sensibles au gaz éthylène libéré par les pommes ou les bananes, une mauvaise conservation entraîne un ramollissement et un pourrissement très rapides.\n\nDans ce guide, vous présente un guide de conservation en 3 étapes basé sur des travaux scientifiques pour préserver le croquant, la douceur et le jus de vos poires pendant 1 à 2 mois. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne stockez jamais les poires avec des fruits émetteurs d'éthylène comme les pommes ou bananes 🚫",
+                        "desc": "La poire est un fruit extrêmement sensible à l'éthylène. La conserver au même endroit que des pommes, bananes ou tomates accélère la dégradation des tissus et provoque un pourrissement rapide."
+                    },
+                    {
+                        "title": "Ne lavez pas les poires avant de les stocker 💧",
+                        "desc": "La peau sèche de la poire forme une barrière naturelle contre les micro-organismes. Laver les poires avant le stockage piège l'humidité et favorise le développement de moisissures. Essuyez la poussière avec un chiffon sec et ne lavez qu'au moment de déguster."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper individuellement dans du papier journal ou essuie-tout, puis sceller au film étirable — Protection hydrique 📦",
+                        "text": "L'emballage individuel au sec est la clé. 💡 Astuce de conservation : Enveloppez chaque poire non lavée dans du papier journal ou de l'essuie-tout pour réguler l'humidité, puis scellez hermétiquement avec du film plastique alimentaire. Le papier absorbe l'excès d'humidité et le film empêche l'évaporation."
+                    },
+                    {
+                        "name": "Conserver à basse température (0 à 2 °C) dans le bac à légumes — Stockage réfrigéré (30–60 jours) ❄️",
+                        "text": "Une température froide sans gel ralentit la respiration de la poire et prolonge sa fraîcheur. 💡 Astuce de conservation : Placez les poires emballées dans le bac à légumes du réfrigérateur. La température idéale est de 0 à 2 °C pour préserver leur jus et leur sucre pendant 1 à 2 mois."
+                    },
+                    {
+                        "name": "Placer la tige (pédoncule) vers le haut — Maintien physique 🔝",
+                        "text": "La position de stockage de la poire influence sa conservation. 💡 Astuce de conservation : Disposez les poires avec le pédoncule orienté vers le haut et la base vers le bas. La zone du pédoncule est plus solide et supporte mieux le poids sans abîmer la chair."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Pourquoi la chair de la poire devient-elle cotonneuse ou déshydratée, et peut-on la consommer ?",
+                        "answer": "La texture cotonneuse survient lorsque l'eau s'évapore durant un stockage prolongé. Bien qu'elle reste propre à la consommation, sa valeur gustative baisse. Il est préférable de l'utiliser cuite, dans des marinades de viande ou mixée en jus."
+                    },
+                    {
+                        "question": "Comment conserver un morceau de poire entamé ?",
+                        "answer": "La poire coupée s'oxyde vite à l'air et attire les bactéries. Badigeonnez la surface d'un peu d'eau sucrée ou de jus de citron, placez-la dans une boîte hermétique au réfrigérateur et consommez-la sous 2 à 3 jours."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Birnen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Birnen basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Haben Sie schon einmal saftige, knackige Birnen gekauft, nur um festzustellen, dass sie im Kühlschrank nach einigen Tagen mehlig und trocken wurden? 🍐\n\nBirnen bestehen zu über 85 % aus Wasser und verlieren an Raumluft oder in trockener Umgebung schnell Feuchtigkeit und Struktur. Da Birnen extrem empfindlich auf Ethylengas reagieren, das von Äpfeln oder Bananen abgegeben wird, führt eine falsche Lagerung zu raschem Weichwerden und Verderb.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Ihre Birnen 1 bis 2 Monate lang knackig, süß und saftig zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Birnen niemals zusammen mit ethylenabgebenden Früchten wie Äpfeln oder Bananen lagern 🚫",
+                        "desc": "Birnen reagieren äußerst empfindlich auf Ethylengas. Die gemeinsame Lagerung mit Äpfeln, Bananen oder Tomaten beschleunigt den Zellabbau, sodass die Birnen schnell weich werden und faulen."
+                    },
+                    {
+                        "title": "Birnen vor der Lagerung nicht waschen 💧",
+                        "desc": "Die trockene Schale der Birne dient als natürliche Schutzbarriere gegen Mikroorganismen. Vorzeitiges Waschen schließt Feuchtigkeit ein und fördert Schimmel- sowie Bakterienwachstum. Wischen Sie Staub mit einem trockenen Tuch ab und waschen Sie die Früchte erst direkt vor dem Verzehr."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Einzeln in Zeitungspapier oder Küchenpapier einwickeln und mit Folie verschließen — Feuchtigkeitsschutz 📦",
+                        "text": "Einzelverpackung ohne Feuchtigkeitsstau ist der Schlüssel. 💡 Lagerungstipp: Wickeln Sie die ungewaschenen Birnen zuerst in Zeitungspapier oder Küchenpapier ein, um Feuchtigkeit zu regulieren, und versiegeln Sie jede Frucht lückenlos mit Frischhaltefolie. Das Papier nimmt Feuchtigkeit auf, die Folie verhindert das Verdampfen."
+                    },
+                    {
+                        "name": "Bei 0–2 °C im Gemüsefach lagern — Kühllagerung (30–60 Tage) ❄️",
+                        "text": "Niedrige Temperaturen über dem Gefrierpunkt verlangsamen die Atmung der Birne und verlängern die Frische. 💡 Lagerungstipp: Legen Sie die verpackten Birnen in das Gemüsefach des Kühlschranks. Die optimale Temperatur liegt bei 0–2 °C; so bleiben sie 1 bis 2 Monate knackig und süß."
+                    },
+                    {
+                        "name": "Mit dem Stiel nach oben lagern — Mechanische Schonung 🔝",
+                        "text": "Auch die Lagerposition beeinflusst die Haltbarkeit. 💡 Lagerungstipp: Platzieren Sie die Birnen so, dass der Stiel nach oben und die Unterseite nach unten zeigt. Der Stielbereich ist stabiler und hält dem Druck besser stand, ohne das Fruchtfleisch zu quetschen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Warum werden Birnen trocken und mehlig, und kann man sie noch essen?",
+                        "answer": "Mehlige Birnen entstehen durch Wasserverdunstung bei langer oder falscher Kältelagerung. Sie sind zwar essbar, verlieren aber ihren frischen Geschmack. Sie eignen sich hervorragend zum Kochen, Dünsten, für Fleischmarinaden oder Smoothies."
+                    },
+                    {
+                        "question": "Wie sollte eine angeschnittene Birne aufbewahrt werden?",
+                        "answer": "Angeschnittene Birnen oxidieren schnell an der Luft. Bestreichen Sie die Schnittfläche leicht mit Zitronenwasser oder verdünntem Zuckerwasser, legen Sie sie in eine luftdichte Dose in den Kühlschrank und verbrauchen Sie sie innerhalb von 2–3 Tagen."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar peras frescas: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para peras com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Você já comprou peras suculentas e crocantes e percebeu que, após alguns dias na geladeira, elas ficaram secas e farinhentas? 🍐\n\nAs peras são compostas por mais de 85% de água, o que as torna muito suscetíveis à perda de umidade e alterações na textura. Além disso, por serem extremamente sensíveis ao gás etileno liberado por frutas como maçãs e bananas, o armazenamento incorreto acelera a deterioração e o amolecimento.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas científicas para manter suas peras crocantes, doces e suculentas por 1 a 2 meses. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca guarde peras junto com frutas que liberam etileno, como maçãs ou bananas 🚫",
+                        "desc": "As peras são altamente sensíveis ao gás etileno. Armazená-las no mesmo compartimento que maçãs, bananas ou tomates acelera a quebra dos tecidos, fazendo com que fiquem moles e estraguem rapidamente."
+                    },
+                    {
+                        "title": "Não lave as peras antes de guardar 💧",
+                        "desc": "A casca seca da pera funciona como uma barreira protetora contra microorganismos. Lavá-las antes de guardar retém umidade, criando o ambiente perfeito para o crescimento de mofo e bactérias. Limpe o pó com um pano seco e lave apenas no momento do consumo."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Embrulhar individualmente em jornal ou papel-toalha e selar com filme plástico — Barreira de umidade 📦",
+                        "text": "O segredo é embrulhar cada fruta individualmente mantendo-a seca. 💡 Dica de conservação: Embrulhe as peras secas primeiro em papel-toalha ou jornal para regular a umidade e sele-as firmemente com filme plástico transparente. O papel absorve o excesso de umidade e o filme impede a evaporação interna."
+                    },
+                    {
+                        "name": "Armazenar a baixa temperatura (0 a 2 °C) na gaveta de legumes — Refrigeração (30–60 dias) ❄️",
+                        "text": "Temperaturas baixas acima do ponto de congelamento reduzem a respiração da pera e maximizam sua durabilidade. 💡 Dica de conservação: Coloque as peras embaladas na gaveta de legumes da geladeira. A temperatura ideal é de 0 a 2 °C, mantendo o sabor doce e a suculência por 1 a 2 meses."
+                    },
+                    {
+                        "name": "Armazenar com o cabinho (pedúnculo) voltado para cima — Preservação física 🔝",
+                        "text": "A posição em que a pera é guardada afeta sua longevidade. 💡 Dica de conservação: Guarde a pera com o cabinho virado para cima e a base para baixo. A área do cabinho é estruturalmente mais firme e suporta o peso sem machucar a polpa."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Por que a pera fica farinhenta e seca, e ainda é seguro comê-la?",
+                        "answer": "A textura farinhenta ocorre devido à evaporação de água durante um armazenamento longo ou inadequado. Embora seja seguro consumi-la, a crocância e o sabor diminuem. É ideal usá-la em pratos cozinhados, marinadas de carne ou sucos."
+                    },
+                    {
+                        "question": "Como guardar uma pera cortada que sobrou?",
+                        "answer": "A pera cortada oxida rapidamente em contato com o ar. Passe uma camada leve de água com açúcar ou suco de limão na superfície cortada, guarde em um pote hermético na geladeira e consuma em 2 a 3 dias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Pir agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah pir berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pernahkah Anda membeli buah pir yang manis dan renyah, tetapi setelah disimpan di kulkas beberapa hari daging buahnya menjadi kering dan empuk bertepung? 🍐\n\nBuah pir memiliki kadar air lebih dari 85%, menjadikannya sangat rentan terhadap kehilangan kelembapan dan perubahan tekstur jika terpapar udara luar atau lingkungan kering. Selain itu, buah pir sangat sensitif terhadap gas etilen yang dipancarkan oleh buah seperti apel dan pisang, sehingga penyimpanan yang salah dapat mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan buah pir 3 langkah berbasis ilmiah untuk menjaga tekstur renyah, manis, dan kesegarannya hingga 1–2 bulan. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan pernah menyimpan pir bersama buah penghasil etilen seperti apel atau pisang 🚫",
+                        "desc": "Pir sangat sensitif terhadap gas etilen. Menyimpannya di wadah yang sama dengan apel, pisang, atau tomat akan mempercepat kerusakan jaringan buah, membuat pir cepat melunak dan membusuk."
+                    },
+                    {
+                        "title": "Jangan mencuci pir sebelum disimpan 💧",
+                        "desc": "Kulit pir yang kering berfungsi sebagai pelindung alami dari mikroorganisme. Mencuci pir sebelum disimpan akan mengunci kelembapan, menciptakan lingkungan ideal bagi jamur dan bakteri. Lap debu dengan kain kering dan cucilah pir tepat sebelum dimakan."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus satu per satu dengan koran atau tisu dapur, lalu lapisi plastik wrap — Perlindungan Kelembapan 📦",
+                        "text": "Membungkus buah pir secara individual tanpa paparan air adalah kuncinya. 💡 Tips Penyimpanan: Bungkus pir kering dengan kertas koran atau tisu dapur untuk mengatur kelembapan, lalu bungkus rapat satu per satu dengan plastik wrap bening. Kertas menyerap kelembapan berlebih dan plastik wrap mencegah penguapan air internal."
+                    },
+                    {
+                        "name": "Simpan pada suhu rendah (0–2°C) di laci sayuran — Penyimpanan Dingin (30–60 Hari) ❄️",
+                        "text": "Suhu dingin di atas titik beku memperlambat respirasi pir dan memperpanjang masa simpan. 💡 Tips Penyimpanan: Masukkan pir yang sudah dibungkus ke laci sayuran kulkas. Suhu penyimpanan optimal adalah 0–2°C, menjaga rasa manis dan kesegarannya selama 1 hingga 2 bulan."
+                    },
+                    {
+                        "name": "Simpan dengan tangkai menghadap ke atas — Menjaga Kualitas Fisik 🔝",
+                        "text": "Posisi meletakkan pir memengaruhi daya simpannya. 💡 Tips Penyimpanan: Simpan pir dengan posisi tangkai menghadap ke atas dan bagian bawah di bawah. Bagian tangkai lebih kokoh sehingga mampu menopang beban tanpa merusak daging buah di bawahnya."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Mengapa tekstur pir menjadi bertepung dan kering, serta apakah masih aman dimakan?",
+                        "answer": "Tekstur bertepung terjadi karena penguapan air selama penyimpanan lama atau paparan suhu yang kurang tepat. Meski aman dikonsumsi, rasa renyah dan kesegarannya sudah berkurang. Pir ini cocok diolah menjadi hidangan masak, bumbu marinasi daging, atau jus."
+                    },
+                    {
+                        "question": "Bagaimana cara menyimpan sisa buah pir yang sudah dipotong?",
+                        "answer": "Pir potong mudah mengalami oksidasi dan pencokelatan saat terpapar udara. Oleskan tipis-tipis air gula encer atau perasan jeruk lemon pada permukaan potong, simpan dalam wadah kedap udara di kulkas, dan habiskan dalam 2–3 hari."
+                    }
+                ]
+            }
+        }
+    }
+}

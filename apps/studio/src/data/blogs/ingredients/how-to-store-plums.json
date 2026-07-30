@@ -1,0 +1,406 @@
+{
+    "how-to-store-plums": {
+        "ingId": "plum",
+        "pubDate": "2026-05-20",
+        "updatedDate": "2026-05-20",
+        "heroImage": "/images/blog/plum_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "자두 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 자두의 상온 후숙법, 최적 냉장 보관 온도 및 과육 보호 방식을 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "여름철 특유의 새콤달콤함과 풍부한 즙으로 전 세계인에게 사랑받는 대표 핵과류 과일, 자두! 🍑\n\n자두 한 상자를 사왔다가 찬장에 그대로 두어 한순간에 물러지거나 곰팡이가 피어 버린 경험, 혹은 단딴하고 신 자두를 곧바로 냉장고에 넣었다가 단맛도 오르지 않고 무처럼 푸석해진 경험 다들 있으시죠?\n\n자두는 대표적인 클라이맥터릭(후숙형) 과일이자 피부 표피가 얇고 충격에 취약한 핵과류입니다. 후숙 전 상온 보관과 후숙 완료 후 냉장 보관으로 전환하는 정확한 '타이밍'이 자두의 맛과 신선도를 결정짓는 핵심 요소입니다. 이번 가이드에서는 전문 기관의 검증된 가이드라인을 바탕으로, 자두의 당도를 극대화하고 무름 없이 2~3주간 싱싱하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "자두의 후숙 호흡 급상 작용(Climacteric Rise), 저온 장애(Chilling Injury) 기전 및 과육 마찰에 의한 미생물 감염 특성을 이해하고 올바른 보관법을 적용하는 것은 맛과 위생 관리에 필수적입니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "덜 익은 자두를 즉시 냉장 보관하지 마세요 ⚠️",
+                        "desc": "단단하고 덜 익은 자두를 5℃ 이하의 냉장실에 곧바로 넣으면 저온 장애(Chilling Injury)가 발생합니다. 호흡 작용과 후숙이 정지되어 과즙이 마르고 과육이 푸석푸석해지며 단맛이 올라오지 않으므로, 반드시 상온에서 부드럽게 익힌 뒤 냉장으로 전환해야 합니다."
+                    },
+                    {
+                        "title": "자두끼리 서로 닿아 눌리지 않도록 완충 보관하세요 🍑",
+                        "desc": "자두는 껍질이 얇고 과육이 약해 과일끼리 포개어져 눌리면 접촉 부위부터 수분이 차오르고 짓물러집니다. 눌린 상처 부위는 곰팡이 포자(잿빛무늬병 등)가 침투하기 가장 좋은 표적이 되므로 서로 간격을 두어 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "단단한 자두는 서늘한 상온(18~22℃)에서 후숙하기 — 상온 후숙 (2~4일) 🧺",
+                        "text": "자두의 당도와 향을 극대화하는 후숙 단계입니다. 💡 보관 팁: 씻지 않은 자두를 직사광선이 들지 않고 통풍이 잘되는 서늘한 상온에 종이 상자나 쟁반에 펼쳐 두세요. 자두 꼭지 주변이 살짝 말랑해지고 달콤한 향이 풍기면 후숙이 완료된 상태입니다."
+                    },
+                    {
+                        "name": "키친타월로 감싸 과육을 보호하고 밀폐 용기에 담기 — 완충 개별 포장 📦",
+                        "text": "후숙된 자두는 습기와 물리적 충격에 매우 약해집니다. 💡 보관 팁: 후숙이 완료된 자두를 씻지 않은 상태로 키친타월이나 신문지로 한 알씩 감싸 수분을 조절하고 과육 충격을 방지하세요. 그 후 밀폐 용기에 담아 완충 공간을 확보해 줍니다."
+                    },
+                    {
+                        "name": "0~2℃ 저온 냉장 보관하기 — 저온 냉장 보관 (7~14일) ❄️",
+                        "text": "알맞게 익은 자두의 신선도를 오랫동안 멈춰두는 냉장 단계입니다. 💡 보관 팁: 개별 포장한 자두 밀폐 용기를 냉장고 야채실(0~2℃)에 보관하세요. 후숙이 완성된 자두는 저온 보관 시 부패가 억제되어 1~2주 이상 아삭하고 달콤한 즙을 그대로 유지합니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "자두 표면에 묻어있는 흰색 가루는 씻어내야 하나요?",
+                        "answer": "아닙니다! 자두 표면의 흰 가루는 인체에 무해한 천연 과분(과일 왁스층)입니다. 과분은 자두 내부의 수분 증발을 막고 병해충이나 미생물 침입을 차단하는 자두 자체의 보호막이므로, 보관 시에는 절대 씻어내지 말고 드시기 직전에 씻는 것이 좋습니다."
+                    },
+                    {
+                        "question": "자두 과육 일부가 물러지거나 과즙이 새어 나오는데 먹어도 되나요?",
+                        "answer": "자두가 짓물러 과즙이 새어 나오기 시작하면 잿빛무늬병균이나 세균에 감염되었을 가능성이 높습니다. 짓물린 부위 주변으로 곰팡이 독소가 빠르게 퍼지므로, 물러짐이 심하거나 상처가 난 자두는 미련 없이 폐기하고 주변의 멀쩡한 자두와 즉시 격리해야 합니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Plums Fresh: Scientific Storage Guide",
+                "description": "Check the optimal room temperature ripening, cold storage conditions, and flesh protection techniques for plums based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Plums are beloved worldwide during the summer for their sweet, tangy flavor and rich, juicy flesh! 🍑\n\nHave you ever bought a box of plums, left them in the pantry only for them to turn mushy and moldy overnight? Or put hard, sour plums straight into the fridge only to find them tasteless and mealy?\n\nPlums are climacteric fruits with thin, delicate skin that makes them highly vulnerable to mechanical damage. Knowing the exact timing to transition plums from room-temperature ripening to cold refrigeration is the key secret to maximizing sweetness and freshness. In this guide, introduces a scientifically proven 3-step plum storage guide based on expert agricultural guidelines to boost sweetness and keep your plums crisp and juicy for 2 to 3 weeks. 🛡️",
+                "whyTitle": "Why Store Plums This Way? Scientific Facts",
+                "whyDesc": "Understanding the climacteric respiration rise, chilling injury mechanism, and micro-organism vulnerability from fruit friction is essential for maintaining safety and optimal taste.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not refrigerate hard, unripened plums immediately ⚠️",
+                        "desc": "Placing firm, unripened plums below 5°C (41°F) triggers chilling injury. Respiratory ripening stops, internal moisture dries up, the flesh turns mealy, and sugars fail to develop. Always ripen at room temperature before chilling."
+                    },
+                    {
+                        "title": "Prevent plums from touching and pressing against each other 🍑",
+                        "desc": "Plums have delicate skins and soft flesh. When stacked together, the contact pressure causes bruising and moisture breakdown. These bruised spots become primary targets for mold spores (such as brown rot), so keep them cushioned and spaced apart."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ripen firm plums at cool room temperature (18–22°C) — Room Temp Ripening (2–4 Days) 🧺",
+                        "text": "This essential ripening step maximizes sugar levels and fragrance. 💡 Storage Tip: Spread unwashed plums in a single layer in a paper box or tray away from direct sunlight in a well-ventilated, cool room. They are fully ripe when the stem end feels slightly soft to a gentle touch and gives off a sweet aroma."
+                    },
+                    {
+                        "name": "Wrap individually in paper towels and place in airtight containers — Cushioned Packaging 📦",
+                        "text": "Ripe plums become highly sensitive to moisture and physical impact. 💡 Storage Tip: Wrap each ripe, unwashed plum individually in a paper towel or newspaper sheet to absorb excess condensation and prevent friction. Place them gently in a sturdy airtight container."
+                    },
+                    {
+                        "name": "Store at low refrigeration temperature (0–2°C) — Cold Storage (7–14 Days) ❄️",
+                        "text": "This refrigeration step locks in the peak freshness of fully ripened plums. 💡 Storage Tip: Place the container of individually wrapped plums in the refrigerator crisper drawer (0–2°C / 32–36°F). Low temperatures halt over-ripening and decay, preserving sweet juiciness for 1 to 2 weeks."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Should I wash off the white powdery coating on plum skins before storing?",
+                        "answer": "No, absolutely not! The white powder on plums is natural bloom (epicuticular wax), which is harmless and non-toxic. Bloom is the plum's natural protective shield that prevents moisture evaporation and wards off pests and microbes. Keep it intact during storage and wash right before eating."
+                    },
+                    {
+                        "question": "My plum has turned soft, mushy, and is leaking juice. Is it still safe to eat?",
+                        "answer": "If a plum becomes soft and leaks juice, fungal spores (such as Monilinia brown rot) or bacteria have likely invaded the damaged tissue. Microscopic toxins spread quickly through soft fruit flesh, so discard damaged plums immediately and isolate them from healthy ones."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "すもも（プラム）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくすもも（プラム）の常温追熟法、最適冷蔵温度、果肉保護テクニックをご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘酸っぱい味わいと豊かな果汁で夏の味覚として大人気のすもも（プラム）！🍑\n\n一箱買ってきたものの棚に放置して一晩でドロドロに傷んでしまったり、逆に硬く酸っぱいすももをすぐに冷蔵庫に入れて甘くならずパサパサにしてしまった経験はありませんか？\n\nすももは代表的なクライマクテリック型（追熟型）果物であり、皮が薄く衝撃にとても弱い核果類です。追熟前の常温保存と追熟完了後の冷蔵保存へと切り替える正確な「タイミング」が、すももの美味しさと鮮度を決定づけます。本記事では専門機関の検証済みガイドラインに基づき、甘みを極大化して2〜3週間みずみずしく保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "すももの追熟呼吸急増作用（Climacteric Rise）や低温障害（Chilling Injury）のメカニズム、果実同士の摩擦による病原菌感染の特性を理解し、正しい保存法を実践することが衛生と味の維持に不可欠です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "硬く未熟なすももをすぐに冷蔵庫に入れないでください ⚠️",
+                        "desc": "硬いすももを5℃以下の冷蔵室にすぐ入れると低温障害（Chilling Injury）を起こします。呼吸と追熟が停止して果汁が抜け、果肉がパサパサになり甘みが上がらないため、必ず常温で追熟させてから冷蔵に移行してください。"
+                    },
+                    {
+                        "title": "すもも同士が当たって潰れないよう緩衝して保管してください 🍑",
+                        "desc": "すももは皮が薄く果肉が柔らかいため、重なって圧力がかかると接触部から傷み始めます。傷ついた部分は灰星病などのカビ胞子が侵入しやすいため、隙間を空けて保管する必要があります。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "硬いすももは涼しい常温（18〜22℃）で追熟させる — 常温追熟 (2〜4日間) 🧺",
+                        "text": "甘みと香りを引き出す大切な追熟ステップです。💡保存のコツ：洗っていないすももを直射日光の当たらない風通しの良い涼しい常温で、紙箱やトレイに広げて置きます。ヘタの周りが少し柔らかくなり甘い香りがしてきたら追熟完了です。"
+                    },
+                    {
+                        "name": "キッチンペーパーで包んで果肉を保護し密閉容器に入れる — 緩衝個別包装 📦",
+                        "text": "追熟したすももは湿気と衝撃に非常に弱くなります。💡保存のコツ：追熟したすももを水洗いせず、キッチンペーパーや新聞紙で1個ずつ包んで結露と摩擦を防ぎます。その後、丈夫な密閉容器に入れます。"
+                    },
+                    {
+                        "name": "0〜2℃の低温で冷蔵保存する — 低温冷蔵保存 (7〜14日間) ❄️",
+                        "text": "食べ頃になったすももの鮮度をキープする冷蔵ステップです。💡保存のコツ：個別包装したすももの容器を冷蔵庫の野菜室（0〜2℃）に保管します。低温により過熟や腐敗が抑えられ、1〜2週間ジューシーな甘さを維持できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "すももの表面についている白い粉は洗い流すべきですか？",
+                        "answer": "いいえ！表面の白い粉は無害な天然のブルーム（果粉）です。ブルームは果実内部の水分蒸発を防ぎ、 pathogen や雑菌の侵入を防ぐすもも自身の保護膜ですので、保存時には洗わず食べる直前に洗い流すのが正解です。"
+                    },
+                    {
+                        "question": "すももの果肉が潰れて汁が出ていますが食べられますか？",
+                        "answer": "果肉が潰れて汁が漏れている場合は、灰星病菌などのカビや細菌が繁殖している可能性が高いです。カビ毒が果肉全体に広がっている危険性があるため、潰れたすももはすぐに廃棄し、他の健全なすももと隔離してください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持李子（Plums）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解李子的常温催熟法、最佳冷藏温度及果肉防压技巧。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "酸甜多汁、口感清爽的李子是深受全球喜爱的代表性夏日核果! 🍑\n\n您是否买了一箱李子放在橱柜里，一转眼就发软变烂长霉，或者把硬邦邦酸溜溜的李子直接放进冰箱，结果不仅不甜反而变得像萝卜一样干绵无味？\n\n李子是典型的后熟型（Climacteric）水果，且表皮薄、果肉娇嫩。掌握从“常温催熟”到“冷藏保鲜”的精准转换“时机”，是决定李子甜度与新鲜度的核心秘诀。本指南基于权威机构验证的指南，带您掌握3步科学保鲜秘诀，最大程度锁住甜度与汁水，保持 2~3 周鲜嫩多汁。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解李子的后熟呼吸跃变（Climacteric Rise）、冷害（Chilling Injury）机制及果实摩擦导致的病菌感染特性，对于保持最佳风味与食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将坚硬未熟的李子直接冷藏 ⚠️",
+                        "desc": "将硬实未熟的李子直接放入5℃以下的冰箱会导致冷害（Chilling Injury）。李子的呼吸作用与催熟中断，水分干涸，果肉变绵且无法聚糖变甜。务必先在常温下催熟后再转入冷藏。"
+                    },
+                    {
+                        "title": "防止李子互相挤压与碰撞 🍑",
+                        "desc": "李皮薄肉嫩，互相重叠挤压时，受压部位会迅速渗水发软。破损处极易被灰霉病菌等真菌孢子侵入，因此储存时必须保持间距并加垫缓冲。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "硬李子置于阴凉常温（18~22℃）催熟 — 常温催熟 (2~4天) 🧺",
+                        "text": "这是聚糖增香的关键催熟步骤。💡储存小贴士：将未清洗的李子平铺在纸箱或托盘上，放在避光、通风良好的阴凉常温处。当果蒂周围微微发软并散发甜香时，即表示催熟完成。"
+                    },
+                    {
+                        "name": "用厨房纸巾单颗包裹保护果肉并装盒 — 缓冲单颗包裹 📦",
+                        "text": "催熟后的李子对湿气与物理碰撞极度敏感。💡储存小贴士：将熟透的李子在未清洗状态下，用厨房纸巾或报纸逐颗包裹以吸湿防磕碰，随后放入坚固的保鲜盒中。"
+                    },
+                    {
+                        "name": "0~2℃ 低温冷藏保存 — 低温冷藏 (7~14天) ❄️",
+                        "text": "此冷藏步骤可锁住已熟透李子的最佳新鲜度。💡储存小贴士：将单颗包裹好的李子保鲜盒放入冰箱蔬菜保鲜抽屉（0~2℃）。低温可有效抑制过度熟化与腐败，保持1~2周酸甜多汁。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "李子表面的白色粉末需要洗掉吗？",
+                        "answer": "不需要！李子表面的白粉是无害的天然果粉（Wax Layer）。果粉是李子自身形成的保护膜，能防止水分蒸发并抵御病虫害与细菌入侵，因此储存时切勿洗掉，食用前清洗即可。"
+                    },
+                    {
+                        "question": "李子果肉局部发软渗汁，还能吃吗？",
+                        "answer": "若李子发软渗汁，很可能已感染灰霉病菌或腐败细菌。真菌毒素会迅速在多汁的果肉中扩散，发现发软流汁的李子请立即丢弃，并与健康李子隔离。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener las ciruelas frescas: Guía científica de conservación",
+                "description": "Descubra la maduración a temperatura ambiente, las condiciones óptimas de refrigeración y técnicas de protección para ciruelas según directrices oficiales.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¡Las ciruelas son muy apreciadas en verano en todo el mundo por su sabor dulce, ácido y su pulpa jugosa! 🍑\n\n¿Alguna vez compró una caja de ciruelas, las dejó en la despensa y al día siguiente estaban blandas y mohosas? ¿O metió ciruelas duras y ácidas directo al refrigerador y se quedaron sin sabor y con textura harinosa?\n\nLa ciruela es una fruta climatérica con una piel delgada y delicada. Conocer el momento exacto para pasar de la maduración a temperatura ambiente a la refrigeración es el secreto principal para maximizar su dulzura. En esta guía se presenta una guía en 3 pasos respaldada por expertos agrícolas para conservar sus ciruelas jugosas y firmes de 2 a 3 semanas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+                "whyDesc": "Comprender la respiración climatérica, los daños por frío (chilling injury) y la susceptibilidad del fruto al roce es fundamental para mantener la seguridad y el sabor.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No refrigere ciruelas duras y verdes de inmediato ⚠️",
+                        "desc": "Guardar ciruelas duras por debajo de 5 °C causa daño por frío (chilling injury). Se interrumpe la maduración, la pulpa se seca y queda harinosa sin desarrollar azúcar. Madúrelas a temperatura ambiente antes de enfriar."
+                    },
+                    {
+                        "title": "Evite que las ciruelas se rocen o se aplasten entre sí 🍑",
+                        "desc": "Las ciruelas tienen piel fina. Al amontonarse, la presión genera magulladuras por donde penetran esporas de moho (como la podredumbre parda). Manténgalas amortiguadas y separadas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Madure ciruelas firmes a temperatura ambiente fresca (18–22 °C) — Maduración (2–4 días) 🧺",
+                        "text": "Paso clave para elevar azúcares y aroma. 💡 Consejo de almacenamiento: Coloque ciruelas sin lavar en una sola capa sobre una caja de papel o bandeja en un lugar fresco y sin luz solar directa. Estarán maduras cuando ceda ligeramente la zona del pedúnculo."
+                    },
+                    {
+                        "name": "Envuelva individualmente en papel de cocina y guarde en contenedor hermético — Empaque acolchado 📦",
+                        "text": "Las ciruelas maduras son sensibles a la humedad y los golpes. 💡 Consejo de almacenamiento: Envuelva cada ciruela seca sin lavar en papel de cocina o periódico para absorber la condensación. Colóquelas suavemente en un recipiente hermético firme."
+                    },
+                    {
+                        "name": "Conserve a baja temperatura (0 a 2 °C) en el refrigerador — Refrigeración (7–14 días) ❄️",
+                        "text": "Conserva el punto óptimo de madurez. 💡 Consejo de almacenamiento: Coloque el contenedor en el cajón de verduras del refrigerador (0–2 °C). Las bajas temperaturas frenan la descomposición, manteniendo la jugosidad dulce de 1 a 2 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Debo lavar la Capa blanca en la piel de la ciruela antes de guardarla?",
+                        "answer": "¡No, en absoluto! Esa capa blanca es pruina natural (cera epicuticular), inofensiva y no tóxica. Es la barrera natural de la ciruela contra la evaporación de agua y microbios. Déjela intacta durante el almacenamiento y lávela justo antes de comer."
+                    },
+                    {
+                        "question": "Mi ciruela está blanda y gotea jugo. ¿Puedo comerla?",
+                        "answer": "Si la ciruela se ablanda y gotea, es señal de invasión por hongos (como Monilinia) o bacterias. Como las toxinas se difunden rápido en pulpas blandas, descarte las ciruelas dañadas inmediatamente."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les prunes fraîches : Guide scientifique de conservation",
+                "description": "Découvrez le mûrissage à température ambiante, la température de réfrigération optimale et la protection des prunes selon les directives officielles.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Les prunes sont plébiscitées en été pour leur goût doux, acidulé et leur chair très juteuse ! 🍑\n\nAvez-vous déjà laissé une cagette de prunes dans le cellier pour les retrouver molles et moisies le lendemain ? Ou mis des prunes très dures direct au frais pour les retrouver farineuses et sans goût ?\n\nLa prune est un fruit climatérique à la peau très fine et fragile. Connaître le bon moment para passer du mûrissage ambiant au stockage réfrigéré est le secret pour révéler tout son sucre. Dans ce guide, vous présente un guide de conservation en 3 étapes pour garder vos prunes juteuses et fermes pendant 2 à 3 semaines. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre la crise respiratoire climatérique, les dégâts dus au froid (chilling injury) et la vulnérabilité aux frottements est essentiel pour garantir sécurité et saveur.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne réfrigérez pas immédiatement des prunes dures et vertes ⚠️",
+                        "desc": "Placer des prunes dures sous 5 °C stoppe le mûrissage (chilling injury). La chair s'assèche, devient farineuse et ne développe aucun sucre. Faites-les mûrir à température ambiante avant de les réfrigérer."
+                    },
+                    {
+                        "title": "Évitez que les prunes ne se touchent ou s'écrasent 🍑",
+                        "desc": "La peau des prunes est fragile. L'amancellement provoque des meurtrissures par où pénètrent les moisissures (comme la pourriture brune). Gardez-les espacées et protégées."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Faire mûrir les prunes dures à température ambiante fraîche (18–22 °C) — Mûrissage (2–4 jours) 🧺",
+                        "text": "Étape indispensable pour développer le sucre et l'arôme. 💡 Astuce de conservation : Étalez les prunes non lavées sur une seule couche dans un carton ou un plateau, à l'abri du soleil. Elles sont mûres quand la zone du pédoncule cède sous une pression légère."
+                    },
+                    {
+                        "name": "Envelopper individuellement dans du papier absorbant et placer en boîte hermétique — Protection 📦",
+                        "text": "Les prunes mûres deviennent très sensibles à l'humidité et aux chocs. 💡 Astuce de conservation : Enveloppez chaque prune mûre non lavée dans du papier essuie-tout pour absorber la condensation, puis rangez dans une boîte hermétique rigide."
+                    },
+                    {
+                        "name": "Conserver à basse température (0 à 2 °C) au réfrigérateur — Stockage froid (7–14 jours) ❄️",
+                        "text": "Maintient le pic de fraîcheur des fruits mûrs. 💡 Astuce de conservation : Placez la boîte dans le bac à légumes du réfrigérateur (0–2 °C). Le froid stoppe la dégradation, préservant le jus sucré pendant 1 à 2 semaines."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Faut-il nettoyer le voile blanc sur la peau des prunes avant stockage ?",
+                        "answer": "Surtout pas ! Ce voile blanc est de la pruine naturelle, totalement inoffensive. C'est la protection naturelle du fruit contre l'évaporation et les germes. Laissez-la intacte et ne lavez les prunes qu'au moment de les consommer."
+                    },
+                    {
+                        "question": "Ma prune est devenue molle et laisse couler du jus. Puis-je la consommer ?",
+                        "answer": "Si la prune s'amollit et coule, des moisissures (comme Monilinia) s'y sont développées. Les mycotoxines se diffusant très vite dans la chair souple, jetez immédiatement les fruits abîmés."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Pflaumen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie das Nachreifen bei Raumtemperatur, die optimale Kühltemperatur und Schutztechniken für Pflaumen nach offiziellen Richtlinien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pflaumen und Zwetschgen sind im Sommer weltweit wegen ihres süß-säuerlichen Geschmacks und saftigen Fruchtfleischs beliebt! 🍑\n\nHaben Sie schon einmal eine Kiste Pflaumen gekauft und im Schrank gelagert, wo sie über Nacht matschig wurden? Oder haben Sie harte Pflaumen direkt in den Kühlschrank gelegt, woraufhin sie geschmacklos und mehlig blieben?\n\nPflaumen sind klimakterische Früchte mit einer sehr dünnen, empfindlichen Schale. Der exakte Zeitpunkt für den Wechsel vom Nachreifen bei Raumtemperatur zur Kühllagerung ist das Geheimnis für maximale Süße. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um Ihre Pflaumen 2 bis 3 Wochen knackig und saftig zu halten. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis des klimakterischen Reifungsschubs, der Kälteschäden (Chilling Injury) und der Empfindlichkeit gegenüber Reibung ist entscheidend für Sicherheit und Geschmack.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Harte, unreife Pflaumen niemals sofort kühlen ⚠️",
+                        "desc": "Lagert man harte Pflaumen unter 5 °C, erleiden sie Kälteschäden. Der Reifeprozess stoppt, das Fleisch wird trocken und mehlig, und es bildet sich kein Zucker. Reifen Sie sie erst bei Raumtemperatur nach."
+                    },
+                    {
+                        "title": "Druckstellen und Gegeneinanderreiben der Pflaumen verhindern 🍑",
+                        "desc": "Pflaumen haben eine dünne Schale. Beim Stapeln erzeugt der Druck Quetschungen, durch die Schimmelsporen (z. B. Monilinia-Fäule) leicht eindringen. Lagern Sie sie gepolstert und auf Abstand."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Harte Pflaumen bei kühler Raumtemperatur (18–22 °C) nachreifen lassen — Nachreifen (2–4 Tage) 🧺",
+                        "text": "Der Reifeschritt für beste Süße und Aroma. 💡 Lagerungstipp: Ungewaschene Pflaumen einlagig in einem Karton oder einer Schale an einem schattigen, kühlen Ort auslegen. Sie sind reif, wenn der Stielansatz auf sanften Druck leicht nachgibt."
+                    },
+                    {
+                        "name": "Einzeln in Küchenpapier wickeln und in luftdichte Dose legen — Gepolsterte Verpackung 📦",
+                        "text": "Reife Pflaumen reagieren extrem empfindlich auf Feuchte und Stöße. 💡 Lagerungstipp: Jede reife, ungewaschene Pflaume einzeln in Küchenpapier wickeln, um Kondenswasser aufzusaugen, und vorsichtig in eine feste Dose legen."
+                    },
+                    {
+                        "name": "Bei niedriger Temperatur (0–2 °C) im Kühlschrank lagern — Kühllagerung (7–14 Tage) ❄️",
+                        "text": "Stoppt den Reifeprozess auf dem Höhepunkt der Frische. 💡 Lagerungstipp: Die Dose im Gemüsefach des Kühlschranks (0–2 °C) lagern. Niedrige Temperaturen verhindern Verderb und halten die Früchte 1 bis 2 Wochen saftig."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Sollte man den weißen Belag auf der Pflaumenschale vor dem Lagern abwaschen?",
+                        "answer": "Auf keinen Fall! Der weiße Belag ist natürlicher Duftwachs (Reif), vollkommen harmlos. Er dient der Pflaume als Schutzschild gegen Austrocknung und Keime. Lassen Sie ihn intakt und waschen Sie die Früchte erst direkt vor dem Verzehr."
+                    },
+                    {
+                        "question": "Meine Pflaume ist matschig geworden und verliert Saft. Kann ich sie noch essen?",
+                        "answer": "Wenn eine Pflaume matschig wird und Saft verliert, sind Fäulnispilze (wie Monilinia) eingedrungen. Da sich Pilztoxine im weichen Fleisch schnell ausbreiten, entsorgen Sie beschädigte Pflaumen sofort."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar ameixas frescas: Guia científico de armazenamento",
+                "description": "Descubra o amadurecimento em temperatura ambiente, condições ideais de refrigeração e técnicas de proteção para ameixas segundo diretrizes oficiais.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "As ameixas são queridinhas no verão no mundo todo pelo sabor agridoce e polpa suculenta! 🍑\n\nVocê já comprou uma caixa de ameixas, deixou na dispensa e no dia seguinte elas estavam moles e mofadas? Ou colocou ameixas duras e azedas direto na geladeira e elas ficaram sem gosto e farinhentas?\n\nA ameixa é uma fruta climatérica de casca muito fina e delicada. Saber o momento exato de passar do amadurecimento em temperatura ambiente para a refrigeração é o grande segredo para maximizar o doçor. Neste guia, apresentamos um guia de conservação em 3 etapas para manter suas ameixas suculentas e firmes por 2 a 3 semanas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender a respiração climatérica, os danos por frio (chilling injury) e a vulnerabilidade ao atrito é essencial para manter a segurança e o sabor.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não refrigere ameixas duras e verdes imediatamente ⚠️",
+                        "desc": "Guardar ameixas duras abaixo de 5 °C causa danos por frio (chilling injury). O amadurecimento para, a polpa seca e fica farinhenta sem formar açúcar. Amadureça em temperatura ambiente antes de resfriar."
+                    },
+                    {
+                        "title": "Evite que as ameixas se encostem ou se esmaguem 🍑",
+                        "desc": "A casca das ameixas é fina. Quando empilhadas, a pressão gera machucados por onde entram esporos de mofo (como podridão parda). Mantenha-as protegidas e espaçadas."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Amadurecer ameixas duras em temperatura ambiente fresca (18–22 °C) — Amadurecimento (2–4 dias) 🧺",
+                        "text": "Passo essencial para elevar o doçor e o aroma. 💡 Dica de conservação: Espalhe as ameixas não lavadas em uma única camada numa caixa de papelão em local fresco e sem luz direta. Estão maduras quando a base cede levemente ao toque."
+                    },
+                    {
+                        "name": "Envolver individualmente em papel-toalha e guardar em pote hermético — Embalagem acolchoad 📦",
+                        "text": "Ameixas maduras ficam muito sensíveis à umidade e impactos. 💡 Dica de conservação: Envolva cada ameixa madura não lavada em papel-toalha para absorver a condensação e coloque delicadamente num pote hermético rígido."
+                    },
+                    {
+                        "name": "Armazenar a baixa temperatura (0 a 2 °C) na geladeira — Refrigeração (7–14 dias) ❄️",
+                        "text": "Mantém o ápice do frescor das frutas maduras. 💡 Dica de conservação: Coloque o pote na gaveta de legumes da geladeira (0–2 °C). O frio interrompe a deterioração, mantendo a suculência doce de 1 a 2 semanas."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Devo lavar a camada branca da casca da ameixa antes de guardar?",
+                        "answer": "Não, de forma alguma! A camada branca é pruína natural, totalmente inofensiva. É a proteção natural da fruta contra a evaporação e micróbios. Mantenha intacta e lave apenas na hora de comer."
+                    },
+                    {
+                        "question": "Minha ameixa ficou mole e está vazando suco. Posso comer?",
+                        "answer": "Se a ameixa amolecer e vazar suco, houve contaminação por fungos (como Monilinia) ou bactérias. Como as toxinas se espalham rápido pela polpa macia, descarte as frutas danificadas imediatamente."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Plum agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui pematangan suhu ruang, kondisi pendinginan optimal, dan teknik perlindungan buah plum berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Buah plum sangat disukai di seluruh dunia saat musim panas karena rasanya yang manis, asam segar, dan daging buahnya yang sangat berair! 🍑\n\nPernahkah Anda membeli kotak buah plum, meninggalkannya di lemari lalu menemukannya membusuk lembek dalam semalam? Atau langsung memasukkan plum yang keras dan asam ke kulkas hingga teksturnya menjadi tawar dan gabus/bertepung?\n\nPlum adalah buah klimakterik dengan kulit tipis yang sangat rentan terhadap kerusakan fisik. Mengetahui waktu yang tepat untuk beralih dari pematangan suhu ruang ke pendinginan kulkas adalah kunci utama memaksimalkan kemanisan dan kesegarannya. Dalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga buah plum tetap manis, renyah, dan berair selama 2 hingga 3 minggu. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami peningkatan respirasi klimakterik, mekanisme kerusakan dingin (chilling injury), dan kerentanan gesekan buah sangat penting untuk menjaga keselamatan dan cita rasa.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan langsung mendinginkan buah plum yang keras dan belum matang ⚠️",
+                        "desc": "Menyimpan plum keras di bawah suhu 5°C memicu kerusakan dingin (chilling injury). Pematangan terhenti, daging buah mengering dan bertepung tanpa menghasilkan rasa manis. Selalu matangkan di suhu ruang sebelum mendinginkannya."
+                    },
+                    {
+                        "title": "Cegah buah plum dari saling bersentuhan dan tertekan satu sama lain 🍑",
+                        "desc": "Plum memiliki kulit tipis dan daging lembut. Saat ditumpuk, tekanan kontak menyebabkan memar dan kerusakan cairan. Bintik memar ini menjadi sasaran utama spora jamur (seperti busuk cokelat), jadi berilah pelindung ganjalan dan jarak."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Matangkan plum keras pada suhu ruang sejuk (18–22°C) — Pematangan Suhu Ruang (2–4 Hari) 🧺",
+                        "text": "Langkah pematangan ini memaksimalkan tingkat gula dan aroma. 💡 Tips Penyimpanan: Sebarkan plum yang belum dicuci dalam satu lapisan di kotak kertas/nampan di tempat sejuk terhindar dari sinar matahari. Plum matang sempurna saat area dekat tangkainya terasa agak empuk saat ditekan lembut."
+                    },
+                    {
+                        "name": "Bungkus satu per satu dengan tisu dapur dan masukkan ke wadah kedap udara — Kemasan Pelindung 📦",
+                        "text": "Plum yang matang sangat sensitif terhadap kelembapan dan benturan fisik. 💡 Tips Penyimpanan: Bungkus setiap plum matang mentah dengan tisu dapur untuk menyerap kondensasi dan mencegah gesekan, lalu susun perlahan di wadah kedap udara yang kokoh."
+                    },
+                    {
+                        "name": "Simpan pada suhu rendah (0–2°C) di kulkas — Simpan Dingin (7–14 Hari) ❄️",
+                        "text": "Mengkunci puncak kesegaran buah plum yang sudah matang sempurna. 💡 Tips Penyimpanan: Masukkan wadah berisi plum ke laci sayur kulkas (0–2°C). Suhu rendah menghentikan pembusukan, menjaga kesegaran manisnya selama 1 hingga 2 minggu."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah lapisan putih seperti bedak pada kulit plum harus dicuci sebelum disimpan?",
+                        "answer": "Sangat tidak boleh! Bedak putih pada plum adalah lapisan lilin alami (bloom) yang tidak berbahaya. Bloom adalah pelindung alami plum untuk mencegah penguapan air dan masuknya mikroba. Biarkan tetap utuh saat disimpan dan cucilah tepat sebelum dimakan."
+                    },
+                    {
+                        "question": "Plum saya melunak, membusuk, dan mengeluarkan cairan. Apakah masih aman dimakan?",
+                        "answer": "Jika plum melunak dan bocor cairan, spora jamur (seperti busuk cokelat Monilinia) telah menginvasi jaringan. Racun jamur menyebar cepat di daging buah yang lembut, jadi segera buang plum yang rusak."
+                    }
+                ]
+            }
+        }
+    }
+}
