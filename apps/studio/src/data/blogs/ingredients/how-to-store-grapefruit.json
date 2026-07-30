@@ -1,0 +1,406 @@
+{
+    "how-to-store-grapefruit": {
+        "ingId": "grapefruit",
+        "pubDate": "2026-07-16",
+        "updatedDate": "2026-07-16",
+        "heroImage": "/images/blog/grapefruit_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "자몽 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 자몽의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+                "authority": "<strong>미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)</strong>",
+                "intro": "특유의 쌉싸름함과 톡 쏘는 상큼함으로 아침 식단과 다이어트 요리에 사랑받는 자몽! 넉넉히 사 왔다가 냉장고에 오래 두었더니 껍질이 얼룩덜룩해지고 과육이 극도로 씁쓸해져 버린 적 있으시죠? 🍊\n\n자몽은 아열대성 감귤류 과일로, 10°C 이하의 일반 가정용 냉장고(0~4°C)에 장기 보관하면 세포막 지질 구조가 변형되는 **냉해(Chilling Injury)**가 발생합니다. 이로 인해 껍질 표면에 구멍이 파이는 피팅(Pitting) 현상과 함께 과육 속 쓴맛 성분인 **나린진(Naringin)**이 이상 유출되어 맛이 심하게 변질됩니다.\n\n이번 가이드에서는 국제 식품 안전 기관이 검증한 과학적이고 확실한 자몽 신선도 및 즙 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "0~4℃ 가정용 냉장고에 장기 보관하지 마세요 ⚠️",
+                        "desc": "자몽은 아열대 과일 특성상 10℃ 이하 저온에 장기간 노출되면 냉해(Chilling Injury)가 발생합니다. 껍질 표면이 오목하게 파이는 피팅(Pitting) 현상이 일어나고 쓴맛 성분인 나린진(Naringin)이 과육으로 유출되어 맛이 극도로 씁쓸해집니다."
+                    },
+                    {
+                        "title": "비닐봉지에 밀폐하여 둔 채 상온에 두지 마세요 💧",
+                        "desc": "자몽은 자체 수분 증산 작용을 합니다. 비닐봉지 안쪽에 습도가 갇히면 표면이 짓무르고 곰팡이가 피기 쉬우므로 신문지나 키친타올로 감싸 통풍이 잘되게 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "신문지나 키친타올로 한 알씩 감싸기 — 습도 조절 및 표면 보호 🗞️",
+                        "text": "자몽 표면의 수분 손실을 막고 외부 습기로 인한 곰팡이를 방지하는 첫 단계입니다. 💡 보관 팁: 씻지 않은 자몽을 신문지나 키친타올로 한 알씩 개별 포장하여 수분을 유지하고 상호 마찰을 줄여주세요."
+                    },
+                    {
+                        "name": "10~12℃ 서늘한 암소 보관하기 — 적정 저온 보관 (1~2주 상온 / 3~4주 적정 저온) 🌡️",
+                        "text": "냉해를 방지하면서 신선도를 극대화하는 최적의 온도입니다. 💡 보관 팁: 베란다, 다용도실, 와인 셀러 등 10~12℃의 서늘하고 통풍이 잘되는 어두운 장소에 보관하세요. 이 환경에서는 3~4주간 아삭함과 즙을 유지할 수 있습니다."
+                    },
+                    {
+                        "name": "가정용 냉장고(0~4℃) 보관 시 10일 이내 단기 소비하기 — 냉해 방지 ❄️",
+                        "text": "일반 냉장고 야채칸에 넣을 때는 기간 통제가 필수적입니다. 💡 보관 팁: 서늘한 공간이 없어 일반 냉장고(0~4℃)에 보관할 경우, 냉해 발생을 최소화하기 위해 신문지로 감싼 뒤 야채칸에 두고 10일 이내에 빠르게 소비하세요."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "자몽 껍질 표면에 갈색으로 오목하게 구멍이 파였습니다. 먹어도 되나요?",
+                        "answer": "네, 드셔도 안전합니다! 껍질 표면에 구멍이 파이는 피팅(Pitting) 현상은 10°C 이하의 너무 낮은 온도에서 보관했을 때 일어나는 대표적인 냉해(Chilling Injury) 증상입니다. 세균 변질은 아니므로 식용에는 문제가 없으나, 과육 내 나린진(Naringin) 성분이 유출되어 평소보다 쓴맛이 훨씬 강하고 즙이 줄어들었을 수 있습니다."
+                    },
+                    {
+                        "question": "자몽을 잘라둔 남은 조각은 어떻게 보관해야 하나요?",
+                        "answer": "단면이 잘린 자몽은 산소와 접촉하면 과육의 수분이 날아가고 산화가 급격히 진행됩니다. 잘라낸 단면을 식품용 랩으로 밀착 감싸고 밀폐 용기에 담아 0~4°C 냉장실에 보관한 뒤 2~3일 이내에 드시는 것이 가장 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Grapefruit Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for grapefruit based on official safety guidelines.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Beloved for its signature bittersweet flavor and invigorating citrus punch, grapefruit is a staple for breakfasts and healthy diets. But have you ever stored grapefruits in the fridge for too long, only to find pitted brown spots on the skin and an overwhelmingly bitter, dry flesh? 🍊\n\nAs a subtropical citrus fruit, storing grapefruit long-term in standard home refrigerators (0–4°C / 32–39°F) triggers **chilling injury**. Temperatures below 10°C (50°F) disrupt cell membrane lipid structures, inducing surface pitting and causing abnormal leakage of **naringin**, the natural flavonoid responsible for intense bitterness.\n\nIn this guide, we introduce a scientifically proven 3-step grapefruit storage guide recommended by food safety authorities to preserve juiciness and optimal flavor. 🛡️",
+                "whyTitle": "Why Store Grapefruit This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Avoid long-term storage in home fridges at 0–4°C ⚠️",
+                        "desc": "Because grapefruit is a subtropical fruit, long-term exposure to temperatures below 10°C causes chilling injury. This results in sunken surface pitting and leakage of bitter naringin into the pulp."
+                    },
+                    {
+                        "title": "Never seal in plastic bags at room temperature 💧",
+                        "desc": "Grapefruit continuously transpires moisture. Sealing it in plastic traps ambient humidity, softening the rind and encouraging mold growth. Wrap individually in newspaper or paper towels instead."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap each grapefruit individually in paper or paper towels — Moisture Control 🗞️",
+                        "text": "Protecting the peel from humidity build-up and friction is the essential first step. 💡 Storage Tip: Wrap dry, unwashed grapefruits individually in newspaper or paper towels to absorb excess moisture and prevent rind damage."
+                    },
+                    {
+                        "name": "Store in a cool dark space at 10–12°C — Optimal Storage (1–2 Weeks Room Temp / 3–4 Weeks at 10–12°C) 🌡️",
+                        "text": "This temperature range prevents chilling injury while keeping juiciness intact. 💡 Storage Tip: Keep grapefruits in a well-ventilated, cool dark space (such as a cellar, pantry, or wine fridge) at 10–12°C (50–54°F) for up to 3–4 weeks."
+                    },
+                    {
+                        "name": "Consume within 10 days if using a standard home fridge (0–4°C) — Prevent Chilling Injury ❄️",
+                        "text": "If cool storage is unavailable and you must use a regular fridge, time control is critical. 💡 Storage Tip: Wrap in newspaper, place in the crisper drawer, and consume within 10 days before chilling injury sets in."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "The skin of my grapefruit developed brown, sunken pits. Is it still safe to eat?",
+                        "answer": "Yes, it is completely safe to eat! Sunken spots on the rind are a classic symptom of chilling injury caused by temperatures below 10°C (50°F). While not caused by bacterial decay, the leakage of naringin into the pulp makes the fruit noticeably more bitter and less juicy."
+                    },
+                    {
+                        "question": "How should I store leftover cut grapefruit?",
+                        "answer": "Once cut, the exposed flesh loses moisture rapidly and oxidizes. Wrap the cut side tightly with plastic cling film, seal inside an airtight container, refrigerate at 0–4°C (32–39°F), and consume within 2–3 days."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "グレープフルーツを新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくグレープフルーツの最適な保存温度、保管方法、保存期間をご確認ください。",
+                "authority": "<strong>米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "爽やかなほろ苦さと甘酸っぱさで、朝食やダイエット食として人気のグレープフルーツ。まとめ買いして冷蔵庫に長期間入れておいたら、皮に茶色い窪みができて果肉が極端に苦くなってしまった経験はありませんか？🍊\n\nグレープフルーツは亜熱帯性の柑橘類であり、10℃以下の一般的な家庭用冷蔵庫（0〜4℃）で長期保存すると、細胞膜の脂質構造が変形する**低温障害（Chilling Injury）**が発生します。これにより皮の表面に窪みができるピッティング（Pitting）現象と同時に、苦味成分である**ナリンギン（Naringin）**が異常流出し、味が著しく損なわれます。\n\n本記事では、専門機関が検証したグレープフルーツの果汁と美味しさを保つ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "0〜4℃の家庭用冷蔵庫で長期保管しないでください ⚠️",
+                        "desc": "亜熱帯果物のため10℃以下の低温に長く晒されると低温障害が起こります。皮に窪みができるピッティング現象が生じ、苦味成分のナリンギンが果肉に流出して味が極端に苦くなります。"
+                    },
+                    {
+                        "title": "ポリ袋に密封したまま常温放置しないでください 💧",
+                        "desc": "グレープフルーツは水分を蒸散します。袋の中に湿気がこもると皮が傷んでカビが発生しやすいため、新聞紙等で包み通気性を良くして保管してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "新聞紙やペーパータオルで1個ずつ包む — 湿度調節と表面保護 🗞️",
+                        "text": "表面の水分損失とカビを防ぐ最初のステップです。💡保存のコツ：洗っていないグレープフルーツを新聞紙やキッチンペーパーで1個ずつ個別包装し、水分を保ち摩擦を防ぎます。"
+                    },
+                    {
+                        "name": "10〜12℃の涼しい暗所で保存する — 適正低温保存 (常温1〜2週間 / 適正低温3〜4週間) 🌡️",
+                        "text": "低温障害を防ぎながら鮮度を維持する最適温度です。💡保存のコツ：パントリーやワインセラーなど10〜12℃の涼しく通気性の良い暗所で保管すると、3〜4週間ジューシーさを保てます。"
+                    },
+                    {
+                        "name": "家庭用冷蔵庫（0〜4℃）では10日以内に消費する — 低温障害の防止 ❄️",
+                        "text": "一般の冷蔵庫で保管する場合は期間管理が不可欠です。💡保存のコツ：10〜12℃の環境がない場合は、新聞紙で包んで野菜室（0〜4℃）に入れ、低温障害が出る前の10日以内に消費してください。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "皮の表面に茶色い窪みができましたが、食べられますか？",
+                        "answer": "はい、安全にお召し上がりいただけます！窪みができるピッティング（Pitting）現象は10℃以下の低温で保管した際に起こる低温障害の症状です。腐敗ではないため食べても問題ありませんが、ナリンギンが流出しているため苦味が強く果汁が減っている場合があります。"
+                    },
+                    {
+                        "question": "カットしたグレープフルーツの残りはどう保存すればよいですか？",
+                        "answer": "断面が空気に触れると水分が抜けて酸化します。断面にぴったりラップを密着させ、密閉容器に入れて冷蔵庫（0〜4℃）で保管し、2〜3日以内に召し上がってください。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持葡萄柚（西柚）新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解葡萄柚（西柚）的最佳储存温度、方式及保鲜时长。",
+                "authority": "<strong>美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "葡萄柚（西柚）凭借其招牌的酸甜微苦与浓郁汁水，成为早餐与减脂膳食中的代表性柑橘类水果。但如果买多了放在冰箱里储存太久，您是否发现表皮出现了凹陷的棕色斑点，果肉也变得干瘪且极其苦涩？🍊\n\n作为亚热带柑橘类水果，将葡萄柚长期存放在 10℃ 以下的普通家庭冰箱冷藏室（0~4℃）中会引发**冷害（Chilling Injury）**。低温会破坏细胞膜的水分脂质结构，导致表皮出现凹陷斑点（Pitting），并造成苦味成分**柚皮苷（Naringin）**异常渗入果肉，严重影响口感。\n\n本指南基于权威机构建议，为您带来3步科学葡萄柚保鲜秘诀，锁住饱满汁水与最佳风味。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿在 0~4℃ 家庭冰箱中长期冷藏 ⚠️",
+                        "desc": "葡萄柚属于亚热带水果，长期处于 10℃ 以下低温会发生冷害（Chilling Injury），导致表皮出现凹陷坑洼（Pitting），且苦味成分柚皮苷（Naringin）外溢至果肉，使口感异常苦涩。"
+                    },
+                    {
+                        "title": "切勿用塑料袋密封后存放在常温下 💧",
+                        "desc": "葡萄柚会持续进行蒸腾作用。用塑料袋密封会将湿气困在内部，使表皮发软腐烂并滋生霉菌。请用报纸包裹并保持通风。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "用报纸或厨房纸巾逐个包裹 — 调节湿度与保护表皮 🗞️",
+                        "text": "防止表皮水分流失和外湿发霉是第一步。💡储存小贴士：将未清洗的干燥葡萄柚用报纸或纸巾单颗包裹，可保持适宜湿度并减少摩擦。"
+                    },
+                    {
+                        "name": "存放在 10~12℃ 阴凉暗处 — 适宜低温保存 (常温1~2周 / 适宜低温3~4周) 🌡️",
+                        "text": "此温度区间既能防止冷害发生，又能最大程度保鲜。💡储存小贴士：存放在地窖、阴凉储藏室或红酒柜等 10~12℃ 通风阴凉处，可保鲜 3~4 周并维持汁水饱满。"
+                    },
+                    {
+                        "name": "若存入家庭冰箱（0~4℃）请在 10 天内食用 — 预防冷害 ❄️",
+                        "text": "在普通冰箱中储存时控制时间至关重要。💡储存小贴士：若无适宜低温环境，请用报纸包裹后放入冰箱保鲜抽屉，并在 10 天内尽快吃完，以免发生冷害。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "葡萄柚表皮出现了凹陷的褐色坑洼，还能吃吗？",
+                        "answer": "可以安全食用！表皮凹陷的坑洼（Pitting）是存放在 10℃ 以下低温环境引起的典型冷害（Chilling Injury）现象。这并非细菌变质，因此食用是安全的，但由于柚皮苷（Naringin）渗入果肉，口感会明显变苦且汁水减少。"
+                    },
+                    {
+                        "question": "切开剩下的葡萄柚该如何保存？",
+                        "answer": "切开后果肉暴露在空气中会迅速流失水分并氧化。用保鲜膜紧密贴合切面包裹，放入密封盒中存入 0~4℃ 冰箱冷藏，并在 2~3 天内食用完毕。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener el pomelo (toronja) fresco: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el pomelo según las directrices oficiales de seguridad.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Amado por su sabor agridulce con un toque amargo distintivo, el pomelo (toronja) es un cítrico clave en desayunos y dietas saludables. Pero, ¿alguna vez ha guardado pomelos en el refrigerador demasiado tiempo y descubrió manchas marrones hundidas en la piel y una pulpa muy amarga? 🍊\n\nAl ser un cítrico subtropical, guardar el pomelo a largo plazo en refrigeradores domésticos estándar (0–4 °C) desencadena **daño por frío (Chilling Injury)**. Las temperaturas inferiores a 10 °C alteran las estructuras lipídicas de las membranas celulares, causando picaduras superficiales (pitting) y una filtración anormal de **naringina**, el flavonoide responsable de su amargor intenso.\n\nEn esta guía se presenta una guía de conservación del pomelo en 3 pasos respaldada por expertos para preservar su jugosidad y sabor. 🛡️",
+                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+                "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Evite el almacenamiento prolongado en refrigeradores domésticos a 0–4 °C ⚠️",
+                        "desc": "Como fruto subtropical, la exposición prolongada a menos de 10 °C causa daño por frío (Chilling Injury). Esto produce picaduras hundidas (pitting) en la cáscara y filtración de naringina amarga hacia la pulpa."
+                    },
+                    {
+                        "title": "Nunca selle en bolsas de plástico a temperatura ambiente 💧",
+                        "desc": "El pomelo transpira humedad de forma continua. Sellarlo en plástico atrapa la humedad, ablandando la cáscara y favoreciendo el moho. Envuelva individualmente en papel de periódico."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva cada pomelo individualmente en papel o papel de cocina — Control de humedad 🗞️",
+                        "text": "Proteger la cáscara de la humedad ambiental y la fricción es el primer paso clave. 💡 Consejo de almacenamiento: Envuelva los pomelos secos individualmente en papel periódico o de cocina para regular la humedad."
+                    },
+                    {
+                        "name": "Conserve en un espacio fresco y oscuro a 10–12 °C — Almacenamiento óptimo (1–2 semanas a temp. ambiente / 3–4 semanas a 10–12 °C) 🌡️",
+                        "text": "Este rango de temperatura previene el daño por frío y mantiene la jugosidad. 💡 Consejo de almacenamiento: Guarde en un lugar fresco y bien ventilado (despensa, bodega o nevera de vinos) a 10–12 °C hasta por 3–4 semanas."
+                    },
+                    {
+                        "name": "Consuma en un plazo de 10 días si usa el refrigerador estándar (0–4 °C) — Prevenir el daño por frío ❄️",
+                        "text": "Si no dispone de almacenamiento fresco y usa el refrigerador normal, el tiempo es vital. 💡 Consejo de almacenamiento: Envuelva en papel, colóquelo en el cajón de verduras y consuma en 10 días antes de que aparezca el daño por frío."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "La cáscara de mi pomelo tiene marcas marrones hundidas. ¿Sigue siendo seguro comerlo?",
+                        "answer": "¡Sí, es completamente seguro! Las picaduras hundidas (pitting) son un síntoma clásico de daño por frío debido a temperaturas inferiores a 10 °C. No es moho ni pudrición, pero la liberación de naringina hace que la pulpa sea más amarga y menos jugosa."
+                    },
+                    {
+                        "question": "¿Cómo debo guardar un pomelo ya cortado?",
+                        "answer": "Una vez cortada, la pulpa expuesta pierde agua rápidamente y se oxida. Cubra el corte firmemente con film plástico, colóquelo en un recipiente hermético en el refrigerador (0–4 °C) y consuma en 2–3 días."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver le pamplemousse frais : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le pamplemousse selon les directives officielles de sécurité.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Apprécié pour sa saveur douce-amère et son côté rafraîchissant, le pamplemousse (ou pomélo) est un incontournable du petit-déjeuner. Mais avez-vous déjà conservé des pamplemousses trop longtemps au réfrigérateur pour constater des taches brunes profondes sur la peau et une chair sèche et très amère ? 🍊\n\nEn tant que agrume subtropical, stocker le pamplemousse à long terme dans un réfrigérateur domestique classique (0–4 °C) provoque des **dégâts dus au froid (Chilling Injury)**. Les températures inférieures à 10 °C altèrent la structure des lipides membranaires, causant des piqûres (pitting) sur l'écorce et une fuite anormale de **naringine**, le flavonoïde responsable de son amertume intense.\n\nDans ce guide, vous présente un guide de conservation du pamplemousse en 3 étapes recommandé par des experts pour préserver son jus et sa saveur. 🛡️",
+                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Évitez le stockage prolongé au réfrigérateur domestique (0–4 °C) ⚠️",
+                        "desc": "Agrume subtropical, une exposition prolongée sous 10 °C provoque des dégâts dus au froid. Cela entraîne des piqûres (pitting) sur l'écorce et une diffusion de la naringine amère dans la chair."
+                    },
+                    {
+                        "title": "Ne le scellez jamais dans un sac en plastique à température ambiante 💧",
+                        "desc": "Le pamplemousse transpire de l'humidité. Le sceller dans du plastique piège la condensation, ramollissant l'écorce et favorisant les moisissures. Enveloppez-le plutôt dans du papier journal."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper chaque pamplemousse individuellement dans du papier — Contrôle de l'humidité 🗞️",
+                        "text": "Protéger l'écorce de l'humidité et des frottements est la première étape. 💡 Astuce de conservation : Enveloppez les fruits secs non lavés dans du papier journal ou absorbant pour réguler l'humidité."
+                    },
+                    {
+                        "name": "Conserver dans un endroit frais et sombre à 10–12 °C — Stockage optimal (1–2 sem. à temp. ambiante / 3–4 sem. à 10–12 °C) 🌡️",
+                        "text": "Cette plage de température évite les dégâts du froid tout en maintenant la quantité de jus. 💡 Astuce de conservation : Gardez dans une pièce fraîche et aérée (cellier, cave à vin) à 10–12 °C pendant 3 à 4 semaines."
+                    },
+                    {
+                        "name": "Consommer sous 10 jours si vous utilisez un réfrigérateur classique (0–4 °C) — Prévenir le coup de froid ❄️",
+                        "text": "Si vous n'avez pas de local frais et devez utiliser le réfrigérateur, le temps est compté. 💡 Astuce de conservation : Enveloppez dans du papier, placez dans le bac à légumes et consommez sous 10 jours."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "L'écorce de mon pamplemousse présente des petites piqûres brunes. Est-il encore consommable ?",
+                        "answer": "Oui, il est totalement propre à la consommation ! Ces piqûres (pitting) sont un symptôme classique de dégâts dus au froid sous 10 °C. Il ne s'agit pas de moisissure, mais la diffusion de naringine rend la chair plus amère et moins juteuse."
+                    },
+                    {
+                        "question": "Comment conserver un demi-pamplemousse entamé ?",
+                        "answer": "Une fois coupé, le fruit perd son eau et s'oxyde. Recouvrez la tranche entamée de film étirable, placez-la dans une boîte hermétique au réfrigérateur (0–4 °C) et consommez sous 2 à 3 jours."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Pampelmuse & Grapefruit richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Grapefruits basierend auf offiziellen Sicherheitsrichtlinien.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Beliebt für ihren feinherben, erfrischenden Geschmack ist die Grapefruit ein Klassiker im Frühstück und bei gesunder Ernährung. Haben Sie Grapefruits jedoch zu lange im Kühlschrank gelagert und danach braune Vertiefungen auf der Schale sowie ein trockenes, extrem bitteres Fruchtfleisch vorgefunden? 🍊\n\nAls subtropische Zitrusfrucht löst die Langzeitlagerung im Haushaltskühlschrank (0–4 °C) **Kälteschäden (Chilling Injury)** aus. Temperaturen unter 10 °C verändern die Lipidstruktur der Zellmembranen, erzeugen Schalenlöcher (Pitting) und führen zum ungewöhnlichen Austritt von **Naringin**, dem für die Bitterkeit verantwortlichen Flavonoid.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Grapefruits. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Langzeitlagerung im Haushaltskühlschrank bei 0–4 °C meiden ⚠️",
+                        "desc": "Als subtropische Frucht führt eine dauerhafte Lagerung unter 10 °C zu Kälteschäden (Chilling Injury). Dies erzeugt Vertiefungen (Pitting) auf der Schale und lässt bitteres Naringin ins Fruchtfleisch austreten."
+                    },
+                    {
+                        "title": "Niemals in Plastiktüten bei Raumtemperatur verschließen 💧",
+                        "desc": "Grapefruits geben kontinuierlich Feuchtigkeit ab. Plastik schließt Feuchtigkeit ein, macht die Schale weich und fördert Schimmel. Einzeln in Zeitungspapier wickeln."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Jede Grapefruit einzeln in Zeitungspapier wickeln — Feuchtigkeitsregulierung 🗞️",
+                        "text": "Schutz der Schale vor Feuchtigkeitsstau und Reibung ist der wichtigste erste Schritt. 💡 Lagerungstipp: Ungewaschene Grapefruits einzeln in Zeitung oder Küchenpapier wickeln."
+                    },
+                    {
+                        "name": "An einem kühlen, dunklen Ort bei 10–12 °C lagern — Optimale Lagerung (1–2 Wochen Raumtemp. / 3–4 Wochen bei 10–12 °C) 🌡️",
+                        "text": "Dieser Temperaturbereich verhindert Kälteschäden und bewahrt die Saftigkeit. 💡 Lagerungstipp: An einem gut belüfteten kühlen Ort (Keller, Speisekammer oder Weinkühlschrank) bei 10–12 °C für 3–4 Wochen lagern."
+                    },
+                    {
+                        "name": "Im normalen Kühlschrank (0–4 °C) innerhalb von 10 Tagen verbrauchen — Kälteschäden vorbeugen ❄️",
+                        "text": "Steht kein kühler Raum zur Verfügung, ist Zeitmanagement entscheidend. 💡 Lagerungstipp: In Papier gewickelt ins Gemüsefach legen und binnen 10 Tagen verbrauchen."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Auf der Schale meiner Grapefruit sind braune Vertiefungen entstanden. Ist sie noch essbar?",
+                        "answer": "Ja, sie ist völlig unbedenklich genießbar! Die Vertiefungen (Pitting) sind Symptome von Kälteschäden bei unter 10 °C. Es handelt sich nicht um Schimmel, allerdings lässt das ausgetretene Naringin das Fruchtfleisch bitterer und trockener werden."
+                    },
+                    {
+                        "question": "Wie bewahre ich eine angeschnittene Grapefruit am besten auf?",
+                        "answer": "Angebrochenes Fruchtfleisch verliert schnell Wasser und oxidiert. Die Schnittfläche stramm mit Frischhaltefolie abdecken, in eine Dose geben, bei 0–4 °C kühlen und binnen 2–3 Tagen verzehren."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar toranja (grapefruit) fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a toranja com base em diretrizes oficiais de segurança.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Amada pelo seu sabor agridoce com um toque amargo marcante, a toranja (grapefruit) é uma fruta cítrica essencial no café da manhã. Mas você já guardou toranjas na geladeira por muito tempo e encontrou manchas marrons afundadas na casca e uma polpa seca e extremamente amarga? 🍊\n\nPor ser uma fruta cítrica subtropical, armazenar toranjas a longo prazo em geladeiras domésticas comuns (0–4 °C) dispara o **dano por frio (Chilling Injury)**. Temperaturas abaixo de 10 °C alteram as estruturas lipídicas das membranas celulares, causando depressões na casca (pitting) e vazamento anormal de **naringina**, o flavonoide responsável pelo amargor intenso.\n\nNeste guia, apresentamos um guia de conservação de toranja em 3 etapas recomendado por especialistas para preservar a suculência e o sabor. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Evite armazenamento prolongado em geladeiras domésticas a 0–4 °C ⚠️",
+                        "desc": "Por ser fruto subtropical, a exposição contínua abaixo de 10 °C causa dano por frio (Chilling Injury), gerando marcas afundadas (pitting) na casca e vazamento de naringina amarga para a polpa."
+                    },
+                    {
+                        "title": "Nunca sele em sacos plásticos em temperatura ambiente 💧",
+                        "desc": "A toranja transpira umidade continuamente. Selar em plástico acumula umidade, amolecendo a casca e atraindo mofo. Envolva individualmente em jornal."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolva cada toranja individualmente em jornal ou papel-toalha — Controle de umidade 🗞️",
+                        "text": "Proteger a casca do acúmulo de umidade e atrito é o primeiro passo essencial. 💡 Dica de conservação: Envolva as toranjas secas em jornal ou papel-toalha para regular a umidade."
+                    },
+                    {
+                        "name": "Guarde em local fresco e escuro a 10–12 °C — Armazenamento ideal (1–2 semanas a temp. ambiente / 3–4 semanas a 10–12 °C) 🌡️",
+                        "text": "Essa faixa de temperatura evita o dano por frio e mantém a suculência. 💡 Dica de conservação: Guarde em local fresco e ventilado (despensa, adega) a 10–12 °C por até 3 a 4 semanas."
+                    },
+                    {
+                        "name": "Consuma em até 10 dias se usar geladeira comum (0–4 °C) — Prevenir dano por frio ❄️",
+                        "text": "Se não tiver local fresco e usar a geladeira normal, o tempo é crucial. 💡 Dica de conservação: Envolva em papel, coloque na gaveta de legumes e consuma em 10 dias antes que o dano por frio apareça."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "A casca da minha toranja ficou com marcas marrons afundadas. Ainda posso comer?",
+                        "answer": "Sim, é totalmente seguro! As marcas afundadas (pitting) são sintomas clássicos de dano por frio devido a temperaturas abaixo de 10 °C. Não é mofo, mas o vazamento de naringina deixa a polpa mais amarga e menos suculenta."
+                    },
+                    {
+                        "question": "Como devo guardar uma toranja cortada?",
+                        "answer": "Uma vez cortada, a polpa exposta perde água rapidamente e oxida. Cubra o corte com plástico-filme, coloque em pote hermético na geladeira (0–4 °C) e consuma em 2 a 3 dias."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Buah Lemon / Grapefruit agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk grapefruit berdasarkan pedoman keselamatan resmi.",
+                "authority": "<strong>USDA & FDA & MFDS</strong>",
+                "intro": "Disukai karena rasa asam-manis dengan sentuhan pahit yang segar, grapefruit adalah buah sitrus favorit untuk sarapan dan menu diet. Namun, pernahkah Anda menyimpan grapefruit di kulkas terlalu lama dan mendapati bintik-bintik cokelat cekung pada kulitnya serta daging buah yang terasa sangat pahit dan kering? 🍊\n\nSebagai buah sitrus subtropis, menyimpan grapefruit jangka panjang di kulkas rumah biasa (0–4°C) memicu **kerusakan dingin (Chilling Injury)**. Suhu di bawah 10°C merusak struktur lipid membran sel, memicu bercak cekung pada kulit (pitting) dan kebocoran abnormal senyawa **naringin**, yaitu flavonoid penyebab rasa pahit yang kuat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan grapefruit 3 langkah berbasis ilmiah yang direkomondesikan oleh ahli keamanan pangan untuk menjaga kesegaran dan sari buahnya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Hindari penyimpanan jangka panjang di kulkas rumah pada suhu 0–4°C ⚠️",
+                        "desc": "Sebagai buah subtropis, paparan suhu di bawah 10°C dalam waktu lama menyebabkan kerusakan dingin (Chilling Injury). Ini menghasilkan bercak cekung (pitting) pada kulit dan kebocoran naringin yang membuat daging buah sangat pahit."
+                    },
+                    {
+                        "title": "Jangan pernah menutup rapat dalam kantong plastik di suhu ruang 💧",
+                        "desc": "Grapefruit terus menguapkan kelembapan. Menutupnya dalam plastik merangkap kelembapan, melembekkan kulit dan memicu jamur. Bungkus satu per satu dengan koran."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus setiap grapefruit satu per satu dengan kertas koran atau tisu dapur — Kontrol Kelembapan 🗞️",
+                        "text": "Melindungi kulit dari kelembapan berlebih dan gesekan adalah langkah utama. 💡 Tips Penyimpanan: Bungkus grapefruit kering yang belum dicuci dengan kertas koran untuk mengatur kelembapan."
+                    },
+                    {
+                        "name": "Simpan di tempat sejuk dan gelap pada suhu 10–12°C — Penyimpanan Optimal (1–2 Minggu Suhu Ruang / 3–4 Minggu pada 10–12°C) 🌡️",
+                        "text": "Rentang suhu ini mencegah kerusakan dingin sekaligus menjaga sari buah. 💡 Tips Penyimpanan: Simpan di tempat sejuk dengan sirkulasi udara baik (seperti rak bawah/lemari pendingin) pada suhu 10–12°C hingga 3–4 minggu."
+                    },
+                    {
+                        "name": "Habiskan dalam 10 hari jika menggunakan kulkas biasa (0–4°C) — Cegah Kerusakan Dingin ❄️",
+                        "text": "Jika tidak ada tempat sejuk 10–12°C dan harus menggunakan kulkas biasa, kontrol waktu adalah kunci. 💡 Tips Penyimpanan: Bungkus dengan koran, letakkan di laci sayur, dan habiskan dalam 10 hari sebelum kerusakan dingin terjadi."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kulit grapefruit saya memiliki bintik-bintik cokelat yang cekung. Apakah masih aman dimakan?",
+                        "answer": "Ya, sangat aman dimakan! Bercak cekung (pitting) adalah gejala klasik kerusakan dingin akibat suhu di bawah 10°C. Ini bukan disebabkan oleh pembusukan jamur/bakteri, tetapi kebocoran naringin membuat daging buah terasa lebih pahit dan kurang berair."
+                    },
+                    {
+                        "question": "Bagaimana cara menyimpan sisa grapefruit yang sudah dipotong?",
+                        "answer": "Setelah dipotong, daging buah kehilangan air dengan cepat dan teroksidasi. Bungkus bagian potong secara rapat dengan plastik wrap, masukkan ke wadah kedap udara di kulkas (0–4°C), dan habiskan dalam 2–3 hari."
+                    }
+                ]
+            }
+        }
+    }
+}

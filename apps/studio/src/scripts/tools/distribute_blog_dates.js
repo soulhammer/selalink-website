@@ -7,33 +7,20 @@ const __dirname = path.dirname(__filename);
 
 const studioRoot = path.join(__dirname, '../../..');
 
-const petTargetsWithDates = [
-  { slug: 'english-cocker-spaniel-care', date: '2026-01-20' },
-  { slug: 'english-bulldog-care', date: '2026-02-10' },
-  { slug: 'ragamuffin-cat-care', date: '2026-03-02' },
-  { slug: 'egyptian-mau-care', date: '2026-03-23' },
-  { slug: 'sulphur-crested-cockatoo-care', date: '2026-04-14' },
-  { slug: 'eclectus-parrot-care', date: '2026-05-05' },
-  { slug: 'california-kingsnake-care', date: '2026-05-26' },
-  { slug: 'bristlenose-pleco-care', date: '2026-06-16' },
-  { slug: 'hermit-crab-care', date: '2026-07-07' },
-  { slug: 'vampire-crab-care', date: '2026-07-28' }
-];
-
 const ingredientTargetsWithDates = [
-  { slug: 'how-to-store-pears', date: '2026-01-15' },
-  { slug: 'how-to-store-garlic-chives', date: '2026-02-05' },
-  { slug: 'how-to-store-gochujang', date: '2026-02-25' },
-  { slug: 'how-to-store-fish-cakes', date: '2026-03-18' },
-  { slug: 'how-to-store-noodles', date: '2026-04-08' },
-  { slug: 'how-to-store-tortillas', date: '2026-04-29' },
-  { slug: 'how-to-store-plums', date: '2026-05-20' },
-  { slug: 'how-to-store-sesame-seeds', date: '2026-06-10' },
-  { slug: 'how-to-store-figs', date: '2026-07-01' },
-  { slug: 'how-to-store-oriental-melon', date: '2026-07-22' }
+  { slug: 'how-to-store-cocoa-powder', date: '2026-01-15' },
+  { slug: 'how-to-store-raspberry', date: '2026-02-03' },
+  { slug: 'how-to-store-kale', date: '2026-02-22' },
+  { slug: 'how-to-store-beetroot', date: '2026-03-12' },
+  { slug: 'how-to-store-prosciutto', date: '2026-04-02' },
+  { slug: 'how-to-store-hot-sauce', date: '2026-04-23' },
+  { slug: 'how-to-store-canola-sunflower-oil', date: '2026-05-14' },
+  { slug: 'how-to-store-curry-powder', date: '2026-06-04' },
+  { slug: 'how-to-store-rice-paper', date: '2026-06-25' },
+  { slug: 'how-to-store-grapefruit', date: '2026-07-16' }
 ];
 
-console.log('🗓️ 신규 10개 식재료 및 반려동물 블로그 날짜 분산 작업 시작...');
+console.log('🗓️ 새로 생성된 10개 식재료 블로그 날짜 분산 작업 시작 (2026년 1월 ~ 7월)...');
 
 ingredientTargetsWithDates.forEach(({ slug, date }) => {
   const jsonPath = path.join(studioRoot, `src/data/blogs/ingredients/${slug}.json`);
@@ -52,23 +39,4 @@ ingredientTargetsWithDates.forEach(({ slug, date }) => {
   }
 });
 
-petTargetsWithDates.forEach(({ slug, date }) => {
-  const jsonPath = path.join(studioRoot, `src/data/blogs/pets/${slug}.json`);
-  if (fs.existsSync(jsonPath)) {
-    let raw = fs.readFileSync(jsonPath, 'utf-8');
-    let data = JSON.parse(raw);
-    const topKey = Object.keys(data)[0];
-    if (topKey && data[topKey]) {
-      data[topKey].pubDate = date;
-      data[topKey].updatedDate = date;
-      fs.writeFileSync(jsonPath, JSON.stringify(data, null, 4), 'utf-8');
-      console.log(`[JSON 완료] [pets] ${slug}.json -> ${date}`);
-    }
-  } else {
-    console.error(`❌ JSON 파일 없음: ${jsonPath}`);
-  }
-});
-
-console.log('✨ 신규 마스터 JSON 날짜 분산 업데이트 완료!');
-
-
+console.log('✨ 10개 식재료 마스터 JSON 날짜 분산 업데이트 완료!');
