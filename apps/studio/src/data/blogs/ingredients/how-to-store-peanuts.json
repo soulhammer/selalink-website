@@ -1,0 +1,406 @@
+{
+    "how-to-store-peanuts": {
+        "ingId": "peanuts",
+        "pubDate": "2026-01-15",
+        "updatedDate": "2026-01-15",
+        "heroImage": "/images/blog/peanut_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "땅콩 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 땅콩의 최적 보관 온도, 아플라톡신 곰팡이독소 차단 및 산패 방지 가이드를 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "고소하고 풍부한 영양으로 전 세계에서 가장 많이 소비되는 견과류인 땅콩! 하지만 상온에 오래 두었다가 눅눅해지거나 쩐내가 나서 버린 경험 다들 있으시죠? 🥜\n\n땅콩은 불포화지방산 함량이 높아 공기 중 산소와 결합하면 리폭시게나아제(Lipoxygenase) 효소 작용으로 인해 산패가 매우 빠르게 진행됩니다. 또한 습도 65% 이상, 수분 활성도(Aw) 0.70 이상의 환경에서는 1급 발암물질인 '아플라톡신 B1(Aflatoxin B1)'을 생성하는 아스페르길루스 플라부스(Aspergillus flavus) 곰팡이가 손쉽게 증식합니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 땅콩의 고소함과 신선도를 유지하고 치명적인 곰팡이독소를 근본적으로 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "곰팡이가 피거나 쩐내가 나는 땅콩은 절대 드시지 마세요 ⚠️",
+                        "desc": "땅콩에 발생하는 아플라톡신 B1(Aflatoxin B1)은 간암을 유발하는 강력한 1급 발암물질로, 260~300℃의 높은 열로 가열해도 파괴되지 않습니다. 겉보기에 곰팡이가 보이거나 눅눅하고 쩐내가 나는 땅콩은 씻거나 볶아도 독소가 남으므로 미련 없이 즉시 폐기해야 합니다."
+                    },
+                    {
+                        "title": "습기 찬 환경 및 직사광선을 완벽히 차단하세요 💧",
+                        "desc": "상대 습도가 65%를 넘어가면 곰팡이 포자가 발아하고, 빛과 열은 불포화지방산의 지방 산화(Lipid Oxidation) 반응을 가속화합니다. 땅콩은 반드시 수분 활성도(Aw) 0.70 미만 상태를 유지하도록 건조하고 어두운 환경에서 밀폐 보관해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "산소와 습기를 차단하는 밀폐 포장하기 — 수분·산소 차단 📦",
+                        "text": "알땅콩이나 피땅콩 모두 공기 중에 그대로 노출되면 산소와 결합하여 산패가 시작됩니다. 💡 보관 팁: 땅콩을 지퍼백이나 밀폐 용기에 담고, 시중에 판매하는 식품용 건조제(실리카겔)나 산소흡수제를 함께 넣어 봉하세요. 공기 접촉을 최소화하고 수분 활성도를 낮추는 것이 신선도 유지를 위한 1차 방어선입니다."
+                    },
+                    {
+                        "name": "0~4℃ 저온 냉장 보관하기 — 단기/중기 냉장 보관 (3~6개월) ❄️",
+                        "text": "실온에서는 온도가 높을수록 지방 분해 효소의 활성도가 높아져 아삭함이 사라지고 기분 나쁜 쩐내가 발생합니다. 💡 보관 팁: 밀폐 포장한 땅콩을 0~4℃의 냉장고 신선실에 보관하세요. 저온 환경에서는 리폭시게나아제 효소 반응과 곰팡이 균사의 증식이 크게 억제되어 3~6개월간 신선하게 즐기실 수 있습니다."
+                    },
+                    {
+                        "name": "-18℃ 이하 장기 냉동 보관하기 — 장기 냉동 보관 (1년 이상) 🧊",
+                        "text": "대량의 땅콩을 구입했거나 6개월 이상 오랫동안 두고 먹어야 한다면 냉동 보관이 필수입니다. 💡 보관 팁: 한 번 먹을 만큼씩 소분하여 지퍼백에 밀봉한 후 냉동실(-18℃ 이하)에 보관하세요. 수분과 산소가 차단된 상태로 극저온 동결시키면 지방 산화가 정지되어 1년 이상 지나도 처음의 고소한 맛과 영양을 그대로 유지할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "눅눅해진 땅콩을 전자레인지나 프라이팬에 다시 볶으면 안전한가요?",
+                        "answer": "눅눅해진 원인이 단순 수분 흡수라면 살짝 볶아 수분을 날려 먹을 수 있지만, 만약 곰팡이가 생겨 독소가 생성된 상태라면 열을 가해도 아플라톡신 독소가 사라지지 않습니다. 냄새를 맡아보아 산패취나 쩐내가 나거나 표면 색상이 변했다면 절대 볶지 말고 버려야 합니다."
+                    },
+                    {
+                        "question": "껍질이 있는 피땅콩과 까놓은 알땅콩 중 어느 쪽이 보관에 유리한가요?",
+                        "answer": "껍질이 있는 피땅콩이 내부 과육을 빛, 산소, 습기로부터 1차적으로 보호해주기 때문에 보관 기간이 훨씬 깁니다. 알땅콩은 표면적이 넓어 산화 속도가 빠르므로 구매 즉시 밀폐 용기에 담아 냉장 또는 냉동 보관하는 것이 좋습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Peanuts Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, method, and shelf life for peanuts based on official safety guidelines to prevent aflatoxin mold toxins and rancidity.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Peanuts are one of the most widely consumed legumes and nuts worldwide, packed with rich flavor and essential nutrients! However, have you ever stored them at room temperature only to find them stale or rancid? 🥜\n\nPeanuts are high in unsaturated fatty acids, making them prone to rapid oxidation caused by the lipoxygenase enzyme when exposed to oxygen. Furthermore, in environments with humidity above 65% and water activity (Aw) above 0.70, Aspergillus flavus mold rapidly thrives, producing Aflatoxin B1—a potent Class 1 carcinogen.\n\nIn this guide, we introduce a scientifically proven 3-step peanut storage guide based on guidelines from leading agricultural and food safety authorities to preserve crispness and prevent deadly mold toxins. 🛡️",
+                "whyTitle": "Why Store Peanuts This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Never consume moldy or rancid peanuts ⚠️",
+                        "desc": "Aflatoxin B1 produced in peanuts is a potent Class 1 carcinogen that causes liver cancer and is extremely heat-stable, remaining intact even at temperatures between 260–300°C (500–572°F). If peanuts show visible mold, smell rancid, or taste bitter, washing or roasting will not destroy the toxins—discard them immediately."
+                    },
+                    {
+                        "title": "Completely block moisture and direct sunlight 💧",
+                        "desc": "Relative humidity above 65% triggers mold spore germination, while light and heat accelerate lipid oxidation of unsaturated fatty acids. Always store peanuts in airtight containers in a cool, dark environment to keep water activity (Aw) below 0.70."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Airtight packaging to seal out oxygen and moisture — Moisture & Air Blocking 📦",
+                        "text": "Exposing shelled or in-shell peanuts to ambient air triggers lipid oxidation upon contact with oxygen. 💡 Storage Tip: Place peanuts in Ziploc bags or airtight containers with food-grade desiccant packets (silica gel) or oxygen absorbers. Minimizing air exposure and reducing water activity is your first line of defense."
+                    },
+                    {
+                        "name": "Refrigerate at low temperatures (0–4°C) — Cold Storage (3–6 Months) ❄️",
+                        "text": "Higher room temperatures activate lipolytic enzymes, causing loss of crunch and unpleasant off-odors. 💡 Storage Tip: Store sealed peanuts in the refrigerator crisper drawer at 0–4°C (32–39°F). Low temperatures suppress lipoxygenase activity and fungal growth, keeping peanuts fresh for 3 to 6 months."
+                    },
+                    {
+                        "name": "Freeze long-term at -18°C or below — Freezer Storage (1+ Year) 🧊",
+                        "text": "If you buy peanuts in bulk or need to store them for more than 6 months, freezing is essential. 💡 Storage Tip: Portion peanuts into individual Ziploc bags, seal tightly, and place in the freezer (-18°C / 0°F or colder). Sub-zero freezing in an airtight environment halts lipid oxidation, preserving flavor and nutrients for over a year."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is it safe to microwaving or re-roasting stale peanuts?",
+                        "answer": "If peanuts are merely stale due to moisture absorption, light roasting can restore crunch. However, if mold growth has generated aflatoxins, heat will NOT destroy the toxins. If peanuts smell sour, off, or show discoloration, discard them immediately rather than roasting."
+                    },
+                    {
+                        "question": "Are in-shell peanuts better for storage than shelled peanuts?",
+                        "answer": "Yes. In-shell peanuts have a natural barrier against light, oxygen, and humidity, significantly extending their shelf life. Shelled peanuts have a larger surface area exposed to oxygen, accelerating oxidation, so they should be placed in airtight containers and refrigerated or frozen immediately."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ピーナッツ（落花生）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくピーナッツの最適な保存温度、アフラトキシン（カビ毒）予防、酸化防止のガイドをご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "香ばしく栄養豊富なナッツとして世界中で愛されるピーナッツ（落花生）！ですが、常温で長期間保存していて湿気ったり、油臭くなって捨ててしまった経験はありませんか？🥜\n\nピーナッツは不飽和脂肪酸を多く含むため、空気中の酸素に触れるとリポキシゲナーゼ（Lipoxygenase）酵素の働きによって急速に酸化が進みます。また、湿度65%以上、水分活性（Aw）0.70以上の環境では、1級発癌物質である「アフラトキシンB1（Aflatoxin B1）」を産生するアスペルギルス・フラバス（Aspergillus flavus）カビが繁殖しやすくなります。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、ピーナッツの香ばしさと鮮度を守り、有害なカビ毒を根本から防ぐ3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "カビが生えたり油臭くなったピーナッツは絶対に食べないでください ⚠️",
+                        "desc": "ピーナッツに発生するアフラトキシンB1は、肝臓がんを引き起こす強力な1級発癌物質で、260〜300℃の高温加熱を行っても破壊されません。見た目にカビが生えていたり、湿気って酸化臭（油臭さ）がするものは、洗ったり炒めたりしても毒素が残るため、迷わずすぐに廃棄してください。"
+                    },
+                    {
+                        "title": "湿気と直射日光を完全に遮断してください 💧",
+                        "desc": "相対湿度が65%を超えるとカビの胞子が芽胞を形成し、光や熱は不飽和脂肪酸の酸化を加速させます。ピーナッツは必ず水分活性（Aw）0.70未満の状態を維持できるよう、涼しく暗い場所で密閉保存してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "酸素と湿気を遮断する密閉包装をする — 水分・酸素遮断 📦",
+                        "text": "むき実でも殻付きでも、空気に触れると酸素と結合して脂質の酸化が始まります。💡保存のコツ：ピーナッツをジッパー付き保存袋や密閉容器に入れ、食品用乾燥剤（シリカゲル）や脱酸素剤を一緒に入れて密閉してください。空気との接触を最小限に抑え、水分活性を下げるのが鮮度保持の第一防衛線です。"
+                    },
+                    {
+                        "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (3〜6ヶ月) ❄️",
+                        "text": "常温では温度が高くなるほど脂質分解酵素の活性が高まり、カリッとした食感が失われ不快な酸化臭が発生します。💡保存のコツ：密閉したピーナッツを冷蔵庫の野菜室やチルド室（0〜4℃）で保存します。低温環境ではリポキシゲナーゼ酵素の反応やカビの増殖が大幅に抑えられ、3〜6ヶ月間新鮮さを保てます。"
+                    },
+                    {
+                        "name": "-18℃以下の極低温で冷凍保存する — 冷冷凍保存 (1年以上) 🧊",
+                        "text": "大量に購入した場合や6ヶ月以上の長期保存をする場合は冷凍保存が必須です。💡保存のコツ：1回分ずつ小分けにしてジッパー袋で密閉し、冷凍室（-18℃以下）で保管します。水分と酸素を遮断した極低温冷凍により脂質酸化が停止し、1年後でも煎りたてのような香ばしさと栄養を維持できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "湿気ったピーナッツを電子レンジやフライパンで再加熱すれば安全ですか？",
+                        "answer": "単に湿気っただけであれば、軽く炒ることで食感が戻ります。しかし、カビが生えてアフラトキシン毒素が発生している場合、加熱しても毒素は分解されません。異臭や酸っぱい匂いがしたり、表面が変色している場合は絶対に炒めず廃棄してください。"
+                    },
+                    {
+                        "question": "殻付きピーナッツとむき実のピーナッツ、どちらが保存に有利ですか？",
+                        "answer": "殻付きのピーナッツは、殻が光・酸素・湿気から果肉を保護するため保存期間が圧倒的に長くなります。むき実のピーナッツは表面積が広く酸化が進みやすいため、購入後すぐに密閉容器に入れて冷蔵または冷凍保存することをお勧めします。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持花生新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解花生的最佳储存温度、防范黄曲霉毒素及防止油脂酸败的科学方法。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "花生作为全球消费量最大的坚果豆类之一，香脆可口且营养丰富！但您是否有过常温放置太久导致花生受潮变软或产生油哈味的经历？🥜\n\n花生富含不饱和脂肪酸，暴露在空气中时，在脂氧合酶（Lipoxygenase）的作用下极易发生脂肪酸败。此外，在湿度超过65%、水活性（Aw）高于0.70的环境中，极易滋生产生1级致癌物黄曲霉毒素B1（Aflatoxin B1）的黄曲霉菌（Aspergillus flavus）。\n\n本指南将基于权威农业与食品安全机构的指导方针，为您介绍3步科学花生保存秘诀，锁住香脆口感的同时彻底阻断危险的霉菌毒素。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "发霉或有油哈味的花生切勿食用 ⚠️",
+                        "desc": "花生中产生的黄曲霉毒素B1是强效1级致癌物，可诱发肝癌，且具有极高的热稳定性，即使在260~300℃的高温下也无法被破坏。若花生表面发霉、变质或散发油哈味，清洗或炒制均无法去除毒素，请务必直接丢弃。"
+                    },
+                    {
+                        "title": "严禁湿气与阳光直射 💧",
+                        "desc": "当相对湿度超过65%时，霉菌孢子会萌发；而光照和高热会加速不饱和脂肪酸的油脂氧化。花生必须存放在干燥阴凉的环境中，保持水活性（Aw）低于0.70并密封保存。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "密封包装阻绝氧气与湿气 — 锁水防氧化密封 📦",
+                        "text": "无论是带壳花生还是花生仁，直接暴露在空气中都会因接触氧气而开始酸败。💡储存小贴士：将花生放入拉链袋或密封盒中，并放入食品级干燥剂（硅胶）或脱氧剂。减少空气接触并降低水活性是保鲜的第一道防线。"
+                    },
+                    {
+                        "name": "0~4℃低温冷藏保存 — 短中期冷藏 (3~6个月) ❄️",
+                        "text": "常温下温度越高，脂肪分解酶活性越强，会导致花生失去酥脆口感并产生异味。💡储存小贴士：将密封好的花生放入冰箱冷藏室（0~4℃）。低温能有效抑制脂氧合酶活性与霉菌滋生，保持3~6个月的新鲜度。"
+                    },
+                    {
+                        "name": "-18℃以下极低温冷冻 — 长期冷冻保存 (1年以上) 🧊",
+                        "text": "如果购买了大量花生或需要保存6个月以上，冷冻是必不可少的。💡储存小贴士：按单次食用量分装入拉链袋并排尽空气，放入冷冻室（-18℃以下）。在无氧干燥的极低温环境下，油脂氧化彻底停止，存放1年以上依然能保持原有的香脆与营养。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "受潮的花生用微波炉或平底锅重新炒一下还能吃吗？",
+                        "answer": "如果仅仅是吸收空气水分而受潮，轻微炒干可以恢复酥脆。但如果已经发霉并产生了黄曲霉毒素，加热无法消除毒素！若闻到异味、苦味或发现变色，切勿炒制，必须直接丢弃。"
+                    },
+                    {
+                        "question": "带壳花生和花生仁哪种更耐储存？",
+                        "answer": "带壳花生由于外壳能天然阻挡光线、氧气和湿气，保质期明显更长。花生仁因接触空气的表面积大，氧化速度更快，建议购买后立即装入密封盒冷藏或冷冻保存。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener los cacahuates frescos: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los cacahuates (maní) según las directrices oficiales para prevenir la aflatoxina y la rancidez.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¡Los cacahuates (maní) son uno de los frutos secos y legumbres más consumidos en todo el mundo, gracias a su delicioso sabor y alto valor nutritivo! Sin embargo, ¿alguna vez los guardó a temperatura ambiente solo para descubrirlos rancios o blandos? 🥜\n\nLos cacahuates son ricos en ácidos grasos insaturados, lo que los hace propensos a una rápida oxidación por la enzima lipoxigenasa al entrar en contacto con el oxígeno. Además, en ambientes con una humedad relativa superior al 65 % y una actividad de agua (Aw) superior a 0,70, el hongo Aspergillus flavus prospera rápidamente, produciendo Aflatoxina B1, un potente carcinógeno de Clase 1.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas y de seguridad alimentaria para mantener la frescura y prevenir toxinas fúngicas peligrosas. 🛡️",
+                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "Nunca consuma cacahuates con moho o con olor rancio ⚠️",
+                        "desc": "La aflatoxina B1 producida en los cacahuates es un potente carcinógeno de Clase 1 que causa cáncer de hígado y es termoestable, resistiendo temperaturas de 260 a 300 °C. Si los cacahuates presentan moho visible, olor rancio o sabor amargo, lavarlos o tostarlos NO eliminará la toxina; deséchelos de inmediato."
+                    },
+                    {
+                        "title": "Bloquee por completo la humedad y la luz solar directa 💧",
+                        "desc": "Una humedad relativa superior al 65 % activa las esporas de moho, mientras que la luz y el calor aceleran la oxidación lipídica de los ácidos grasos. Guarde siempre los cacahuates en recipientes herméticos para mantener la actividad de agua (Aw) por debajo de 0,70."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Empaque hermético para aislar oxígeno y humedad — Protección Hermética 📦",
+                        "text": "Exponer los cacahuates (con o sin cáscara) al aire libre desencadena la oxidación al contacto con el oxígeno. 💡 Consejo de almacenamiento: Coloque los cacahuates en bolsas tipo Ziploc o recipientes herméticos junto con sobres de gel de sílice o absorbedores de oxígeno. Reducir la exposición al aire es la primera línea de defensa."
+                    },
+                    {
+                        "name": "Refrigere a bajas temperaturas (0 a 4 °C) — Almacenamiento Refrigerado (3 a 6 meses) ❄️",
+                        "text": "Las temperaturas altas activan las enzimas lipolíticas, perdiendo la textura crujiente y generando olores desagradables. 💡 Consejo de almacenamiento: Guarde los cacahuates sellados en el cajón de verduras del refrigerador a 0–4 °C. Las bajas temperaturas reducen la actividad de la lipoxigenasa y el desarrollo de hongos."
+                    },
+                    {
+                        "name": "Congele a largo plazo a -18 °C o menos — Congelación (1 año o más) 🧊",
+                        "text": "Si compra cacahuates a granel o necesita guardarlos por más de 6 meses, la congelación es imprescindible. 💡 Consejo de almacenamiento: Porcione los cacahuates en bolsas Ziploc herméticas y colóquelos en el congelador (-18 °C o más frío). Congelar a temperaturas bajo cero frena la oxidación lipídica, conservando su sabor por más de un año."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es seguro tostarlos de nuevo si están humedecidos o blandos?",
+                        "answer": "Si solo han absorbido humedad ambiental, un tostado ligero puede devolverles su textura crujiente. Sin embargo, si hay moho y se ha producido aflatoxina, el calor NO destruirá la toxina. Si huelen mal, agrio o están decolorados, deséchelos inmediatamente."
+                    },
+                    {
+                        "question": "¿Son mejores los cacahuates con cáscara que los pelados para el almacenamiento?",
+                        "answer": "Sí. La cáscara actúa como una barrera natural contra la luz, el oxígeno y la humedad, prolongando considerablemente su vida útil. Los cacahuates pelados tienen mayor superficie expuesta a la oxidación, por lo que deben guardarse herméticamente en refrigeración o congelación."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver les arachides fraîches : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les arachides (cacahuètes) selon les directives officielles afin d'éviter l'aflatoxine et le rancissement.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Les arachides (cacahuètes) sont l'une des légumineuses et oléagineux les plus consommés au monde, appréciées pour leur croquant et leurs bienfaits nutritionnels ! Cependant, vous est-il déjà arrivé de les conserver à température ambiante et de les retrouver rances ou ramollies ? 🥜\n\nLes arachides sont riches en acides gras insaturés, ce qui les rend très vulnérables à l'oxydation rapide sous l'action de l'enzyme lipoxygénase lors du contact avec l'oxygène. De plus, dans un environnement où l'humidité dépasse 65 % et l'activité de l'eau (Aw) est supérieure à 0,70, la moisissure Aspergillus flavus se développe rapidement, produisant l'Aflatoxine B1, un cancérigène de classe 1 très dangereux.\n\nDans ce guide, nous vous proposons un guide scientifique de conservation en 3 étapes recommandé par les autorités agricoles et de sécurité sanitaire pour préserver le croquant et éliminer les toxines. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne consommez jamais d'arachides moisies ou rances ⚠️",
+                        "desc": "L'aflatoxine B1 produite dans les cacahuètes est un puissant cancérigène de classe 1 responsable du cancer du foie. Elle est extrêmement thermostable et résiste à des températures de 260 à 300 °C. Si les arachides présentent de la moisissure ou une odeur rance, les laver ou les torréfier NE détruira PAS la toxine : jetez-les immédiatement."
+                    },
+                    {
+                        "title": "Isolez complètement de l'humidité et de la lumière directe 💧",
+                        "desc": "Une humidité relative supérieure à 65 % active la germination des spores de moisissure, tandis que la lumière et la chaleur accélèrent l'oxydation des lipides. Conservez toujours les arachides dans un récipient hermétique pour maintenir l'activité de l'eau (Aw) en dessous de 0,70."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Emballage hermétique pour bloquer l'oxygène et l'humidité — Isolation Hermétique 📦",
+                        "text": "Exposer les arachides (en coque ou décortiquées) à l'air libre déclenche l'oxydation des lipides. 💡 Astuce de conservation : Placez les cacahuètes dans des sachets Ziploc ou des boîtes hermétiques avec des sachets de gel de silice ou des absorbeurs d'oxygène. Réduire l'exposition à l'air est la première règle de protection."
+                    },
+                    {
+                        "name": "Réfrigérer à basse température (0 à 4 °C) — Stockage Réfrigéré (3 à 6 mois) ❄️",
+                        "text": "Une température ambiante élevée active les enzymes lipolytiques, provoquant la perte du croquant et l'apparition de mauvaises odeurs. 💡 Astuce de conservation : Conservez les cacahuètes hermétiquement fermées dans le bac à légumes du réfrigérateur (0–4 °C). Le froid ralentit l'action de la lipoxygénase et le développement des moisissures."
+                    },
+                    {
+                        "name": "Congeler à long terme à -18 °C ou moins — Congélation (1 an et plus) 🧊",
+                        "text": "Si vous achetez des arachides en grande quantité ou devez les conserver plus de 6 mois, la congélation est indispensable. 💡 Astuce de conservation : Répartissez les cacahuètes dans des sachets congélation hermétiques et placez-les au congélateur (-18 °C). La congélation sous zéro stoppe l'oxydation des lipides et préserve leur goût pendant plus d'un an."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Est-il possible de torréfier à nouveau des cacahuètes ramollies ?",
+                        "answer": "Si les cacahuètes ont simplement absorbé de l'humidité, une légère torréfaction peut leur rendre leur croquant. En revanche, si de la moisissure est apparue avec développement d'aflatoxines, la chaleur NE détruira PAS la toxine. En cas d'odeur rance ou de décoloration, jetez-les impérativement."
+                    },
+                    {
+                        "question": "Les cacahuètes en coque se conservent-elles mieux que les cacahuètes décortiquées ?",
+                        "answer": "Oui. La coque agit comme un bouclier naturel contre la lumière, l'oxygène et l'humidité. Les cacahuètes décortiquées ont une surface exposée plus grande qui accélère l'oxydation : conservez-les impérativement au frais en boîte hermétique."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Erdnüsse richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Erdnüsse basierend auf offiziellen Sicherheitsrichtlinien zur Vermeidung von Aflatoxin und Ranzigkeit.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Erdnüsse gehören weltweit zu den beliebtesten Hülsenfrüchten und Nüssen – geschätzt für ihren knackigen Geschmack und Nährstoffreichtum! Doch haben Sie Erdnüsse schon einmal bei Raumtemperatur gelagert und festgestellt, dass sie ranzig oder alt schmeckten? 🥜\n\nErdnüsse enthalten viele ungesättigte Fettsäuren und neigen bei Sauerstoffkontakt durch das Enzym Lipoxygenase zu einer schnellen Fettoxidation. Zudem gedeiht bei einer Luftfeuchtigkeit von über 65 % und einer Wasseraktivität (Aw) über 0,70 der Schimmelpilz Aspergillus flavus, der das hochgefährliche Krebserreger-Toxin Aflatoxin B1 produziert.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um die Frische Ihrer Erdnüsse zu sichern und giftige Schimmelpilze zu verhindern. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Niemals schimmelige oder ranzige Erdnüsse verzehren ⚠️",
+                        "desc": "Das in Erdnüssen entstehende Aflatoxin B1 ist ein starkes Krebserreger-Toxin (Klasse 1), das Leberkrebs verursachen kann und extrem hitzebeständig ist – selbst Temperaturen von 260 bis 300 °C zerstören es nicht. Bei sichtbarem Schimmel, ranzigem Geruch oder bitterem Geschmack hilft kein Waschen oder Rösten: Entsorgen Sie sie sofort."
+                    },
+                    {
+                        "title": "Feuchtigkeit und direktes Sonnenlicht vollständig blockieren 💧",
+                        "desc": "Eine relative Luftfeuchtigkeit von über 65 % lässt Schimmelsporen keimen, während Licht und Hitze die Oxidation der ungesättigten Fettsäuren beschleunigen. Lagern Sie Erdnüsse stets in luftdichten Behältern, um die Wasseraktivität (Aw) unter 0,70 zu halten."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Luftdichte Verpackung zum Schutz vor Sauerstoff und Feuchtigkeit — Luftdichte Isolation 📦",
+                        "text": "Werden Erdnüsse (mit oder ohne Schale) der Raumluft ausgesetzt, beginnt sofort die Fettoxidation. 💡 Lagerungstipp: Geben Sie die Erdnüsse in Ziploc-Beutel oder luftdichte Behälter mit Silikagel-Trockenbeuteln oder Sauerstoffabsorbern. Die Minimierung von Sauerstoff ist die erste Schutzmauer."
+                    },
+                    {
+                        "name": "Bei niedrigen Temperaturen (0–4 °C) kühlen — Kühllagerung (3–6 Monate) ❄️",
+                        "text": "Hohe Raumtemperaturen aktivieren fettspaltende Enzyme, was zu Geschmacksverlust und Ranzigkeit führt. 💡 Lagerungstipp: Lagern Sie die verschlossenen Erdnüsse im Gemüsefach des Kühlschranks bei 0–4 °C. Die Kälte hemmt die Lipoxygenase-Aktivität und das Pilzwachstum."
+                    },
+                    {
+                        "name": "Langfristig bei -18 °C oder kälter einfrieren — Gefrierlagerung (über 1 Jahr) 🧊",
+                        "text": "Müssen Erdnüsse in großen Mengen oder länger als 6 Monate gelagert werden, ist das Einfrieren ideal. 💡 Lagerungstipp: Portionieren Sie die Erdnüsse in luftdichte Gefrierbeutel und legen Sie sie ins Gefrierfach (-18 °C). Das Einfrieren stoppt die Fettoxidation vollständig und erhält den Geschmack über ein Jahr lang."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man alt oder feucht gewordene Erdnüsse durch erneutes Rösten retten?",
+                        "answer": "Wenn Erdnüsse nur Luftfeuchtigkeit aufgenommen haben, kann leichtes Anrösten die Knackigkeit wiederherstellen. Hat sich jedoch Schimmel gebildet und Aflatoxin gebildet, zerstört Hitze das Toxin NICHT. Werfen Sie Erdnüsse bei schlechtem Geruch oder Verfärbungen sofort weg."
+                    },
+                    {
+                        "question": "Sind Erdnüsse in der Schale haltbarer als geschälte Erdnüsse?",
+                        "answer": "Ja. Die Schale schützt das Innere natürlich vor Licht, Sauerstoff und Feuchtigkeit. Geschälte Erdnüsse haben eine größere Oberfläche für Oxidation und sollten direkt luftdicht im Kühlschrank oder Gefrierfach aufbewahrt werden."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar amendoins frescos: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para amendoins com base em diretrizes oficiais para evitar aflatoxinas e rancificação.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "O amendoim é uma das leguminosas e oleaginosas mais consumidas no mundo, adorado pelo seu sabor crocante e alto valor nutritivo! No entanto, você já os guardou em temperatura ambiente e percebeu que ficaram murchos ou rançosos? 🥜\n\nO amendoim é rico em ácidos graxos insaturados, tornando-se suscetível à rápida oxidação pela enzima lipoxigenase ao entrar em contato com o oxigênio. Além disso, em ambientes com umidade acima de 65% e atividade de água (Aw) superior a 0,70, o fungo Aspergillus flavus multiplica-se rapidamente, produzindo a Aflatoxina B1, um potente carcinógeno de Classe 1.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes agrícolas e de segurança alimentar para manter a crocância e evitar toxinas fúngicas perigosas. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Regras essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Nunca consuma amendoins mofados ou com cheiro rançoso ⚠️",
+                        "desc": "A aflatoxina B1 produzida no amendoim é um potente carcinógeno de Classe 1 associado ao câncer de fígado e é extremamente resistente ao calor, suportando temperaturas entre 260 e 300 °C. Se o amendoim apresentar mofo, cheiro rançoso ou gosto amargo, lavar ou torrar NÃO eliminará a toxina: descarte-o imediatamente."
+                    },
+                    {
+                        "title": "Bloqueie totalmente a umidade e a luz solar direta 💧",
+                        "desc": "Uma umidade relativa acima de 65% ativa os esporos de mofo, enquanto a luz e o calor aceleram a oxidação dos lipídios. Guarde sempre os amendoins em potes herméticos em local fresco e escuro para manter a atividade de água (Aw) abaixo de 0,70."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Embalagem hermética para bloquear oxigênio e umidade — Proteção Hermética 📦",
+                        "text": "Expor os amendoins (com ou sem casca) ao ar livre acelera a oxidação dos lipídios ao contato com o oxigênio. 💡 Dica de conservação: Coloque os amendoins em sacos Ziploc ou potes herméticos com sachês de sílica gel ou absorvedores de oxigênio. Reduzir a exposição ao ar é a primeira linha de defesa."
+                    },
+                    {
+                        "name": "Refrigerar a baixas temperaturas (0 a 4 °C) — Refrigeração (3 a 6 meses) ❄️",
+                        "text": "Temperaturas altas ativam enzimas lipolíticas, resultando em perda de crocância e odores desagradáveis. 💡 Dica de conservação: Guarde os amendoins selados na gaveta de legumes da geladeira (0–4 °C). O frio desacelera a lipoxigenase e previne o crescimento de fungos."
+                    },
+                    {
+                        "name": "Congelar a longo prazo a -18 °C ou menos — Congelamento (1 ano ou mais) 🧊",
+                        "text": "Se você compra amendoins em grande quantidade ou precisa guardá-los por mais de 6 meses, o congelamento é fundamental. 💡 Dica de conservação: Divida em porções em sacos Ziploc herméticos e coloque no freezer (-18 °C ou mais frio). A congelamento previne a oxidação dos lipídios, mantendo o sabor por mais de um ano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "É seguro torrar novamente o amendoim que ficou murcho?",
+                        "answer": "Se o amendoim apenas absorveu umidade do ar, uma leve torra pode devolver a crocância. Porém, se houver mofo e produção de aflatoxinas, o calor NÃO destruirá a toxina. Caso sinta cheiro rançoso ou note alteração na cor, descarte imediatamente."
+                    },
+                    {
+                        "question": "Amendoins com casca duram mais do que amendoins descascados?",
+                        "answer": "Sim. A casca funciona como uma barreira natural contra luz, oxigênio e umidade, aumentando significativamente a validade. O amendoim descascado tem maior superfície exposta à oxidação e deve ser mantido em pote hermético na geladeira ou freezer."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Kacang Tanah agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang tanah berdasarkan pedoman keselamatan resmi untuk mencegah racun jamur aflatoksin dan ketengikan.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Kacang tanah adalah salah satu komoditas kacang-kacangan paling populer di dunia yang kaya akan nutrisi dan rasa gurih renyah! Namun, pernahkah Anda menyimpannya di suhu ruang lalu mendapati kacang menjadi melempem atau tengik? 🥜\n\nKacang tanah kaya akan asam lemak tak jenuh, menjadikannya sangat mudah mengalami oksidasi lemak oleh enzim lipoksigenase saat terpapar oksigen. Selain itu, pada lingkungan dengan kelembapan di atas 65% dan aktivitas air (Aw) di atas 0,70, jamur Aspergillus flavus dapat tumbuh pesat dan menghasilkan Aflatoksin B1—senyawa karsinogenik Golongan 1 yang sangat berbahaya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kacang tanah 3 langkah berbasis ilmiah yang direkomendasikan oleh otoritas pertanian dan keamanan pangan untuk menjaga kegurihan sekaligus mencegah racun jamur berbahaya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan sekali-kali mengonsumsi kacang tanah yang berjamur atau berbau tengik ⚠️",
+                        "desc": "Aflatoksin B1 yang dihasilkan pada kacang tanah adalah zat karsinogenik Golongan 1 penyebab kanker hati yang sangat tahan panas, bahkan tidak hancur pada suhu 260–300°C. Jika kacang tampak berjamur, berbau tengik, atau terasa pahit, mencuci atau menyangrai TIDAK akan menghilangkan racun tersebut—segera buang!"
+                    },
+                    {
+                        "title": "Cegah kelembapan dan paparan sinar matahari langsung secara total 💧",
+                        "desc": "Kelembapan relatif di atas 65% memicu spora jamur berkecambah, sedangkan cahaya dan panas mempercepat oksidasi asam lemak tak jenuh. Selalu simpan kacang tanah dalam wadah kedap udara di tempat sejuk dan gelap agar aktivitas air (Aw) tetap di bawah 0,70."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Gunakan kemasan kedap udara untuk menghalau oksigen dan kelembapan — Perlindungan Kedap Udara 📦",
+                        "text": "Membiarkan kacang tanah (kulit maupun kupas) terpapar udara akan memicu oksidasi lemak saat kontak dengan oksigen. 💡 Tips Penyimpanan: Masukkan kacang tanah ke dalam kantong Ziploc atau wadah kedap udara bersama gel silika food-grade atau penyerap oksigen. Meminimalisir kontak udara adalah pertahanan utama."
+                    },
+                    {
+                        "name": "Simpan di kulkas pada suhu rendah (0–4°C) — Penyimpanan Dingin (3–6 Bulan) ❄️",
+                        "text": "Suhu ruang yang tinggi meningkatkan aktivitas enzim pemecah lemak, menyebabkan kacang kehilangan kerenyahan dan berbau tidak sedap. 💡 Tips Penyimpanan: Simpan wadah kacang tanah di laci kulkas (0–4°C). Suhu dingin menekan aktivitas enzim lipoksigenase dan mencegah pertumbuhan jamur."
+                    },
+                    {
+                        "name": "Bekukan jangka panjang pada suhu -18°C atau lebih rendah — Pembekuan Freezer (1+ Tahun) 🧊",
+                        "text": "Jika Anda membeli kacang tanah dalam jumlah banyak atau ingin menyimpannya lebih dari 6 bulan, membekukannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Bagi kacang ke dalam kantong Ziploc kedap udara per porsi makan, lalu simpan di freezer (-18°C). Pembekuan di bawah nol menghentikan oksidasi lemak sehingga rasa gurihnya bertahan lebih dari satu tahun."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah aman menyangrai atau memanggang kembali kacang tanah yang melempem?",
+                        "answer": "Jika kacang hanya melempem karena menyerap kelembapan udara, menyangrainya sebentar dapat mengembalikan kerenyahan. Namun, jika jamur telah tumbuh dan menghasilkan aflatoksin, proses pemanasan TIDAK akan menghancurkan racun tersebut. Jika berbau tengik atau berubah warna, segera buang."
+                    },
+                    {
+                        "question": "Apakah kacang tanah kulit lebih awet disimpan daripada kacang tanah kupas?",
+                        "answer": "Ya. Kulit kacang bertindak sebagai pelindung alami dari cahaya, oksigen, dan kelembapan. Kacang kupas memiliki luas permukaan lebih besar yang terpapar udara sehingga lebih cepat teroksidasi; segera simpan dalam wadah kedap udara di kulkas atau freezer."
+                    }
+                ]
+            }
+        }
+    }
+}

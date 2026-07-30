@@ -1,0 +1,406 @@
+{
+    "how-to-store-pomegranate": {
+        "ingId": "pomegranate",
+        "pubDate": "2026-06-10",
+        "updatedDate": "2026-06-10",
+        "heroImage": "/images/blog/pomegranate_storage_hack.webp",
+        "locales": {
+            "ko": {
+                "title": "석류 신선하게 보관하는 법: 과학적 보관 가이드",
+                "description": "공인된 안전 가이드라인에 따른 석류의 최적 보관 온도, 폴리페놀 산화효소(PPO) 활성 억제 및 안토시아닌·엘라그산 영양소 보존 가이드를 확인하세요.",
+                "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "새콤달콤한 맛과 풍부한 여성호르몬 유사업성분, 강력한 항산화 성분으로 전 세계에서 사랑받는 대표적인 건강 과일 석류! 하지만 사온 지 얼마 안 되어 껍질이 마르고 쭈글쭈글해지거나, 알맹이를 까두었더니 갈색으로 변해 버린 경험 다들 있으시죠? 붉은 보석 같은 석류 💎\n\n석류 알맹이(과육)는 공기와 접촉하는 순간 **폴리페놀 산화효소(PPO, Polyphenol Oxidase)**가 활성화되어 항산화 물질인 안토시아닌과 엘라그산(Ellagic Acid)이 빠르게 산화 갈변하며 영양소가 소실됩니다. 또한 자르지 않은 통석류는 껍질(과피)을 통한 증산 작용으로 인해 내부 수분이 마르고 과육이 탄력을 잃기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 석류의 수분 증발을 막고 PPO 활성을 낮추어 항산화 성분을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+                "guideTitle": "과학적으로 검증된 보관 가이드",
+                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+                "cautions": [
+                    {
+                        "title": "통석류를 5℃ 이하 너무 낮은 온도로 보관하지 마세요 ⚠️",
+                        "desc": "통석류를 5℃ 이하의 극저온에 너무 오랫동안 노출시키면 표면에 반점이 생기고 과피가 움푹 들어가는 저온 장애(Chilling Injury)가 발생하여 내부 알맹이의 품질이 저하됩니다. 통석류 보관의 최적 온도는 5~7℃입니다."
+                    },
+                    {
+                        "title": "분리한 석류 알맹이는 공기 노출을 완벽히 차단하세요 💧",
+                        "desc": "알맹이를 분리한 후 공기 중의 산소와 접촉하면 폴리페놀 산화효소(PPO)가 촉매 작용을 하여 안토시아닌과 엘라그산이 산화 갈변합니다. 수분이 있는 상태로 방치하면 곰팡이가 생기므로 반드시 완벽히 밀봉해야 합니다."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "통석류는 랩으로 감싸 5~7℃ 및 상대습도 80~85% 보관하기 — 과피 증산 차단 (2~3개월) 📦",
+                        "text": "자르지 않은 통석류는 껍질을 통한 수분 증발을 막는 것이 핵심입니다. 💡 보관 팁: 통석류를 식품용 랩으로 감싸거나 구멍이 뚫린 비닐봉지에 담아 5~7℃ 및 상대습도 80~85% 환경(냉장고 신선실)에 보관하세요. 저온 장애 없이 수분 손실을 막아 2~3개월 동안 신선하게 보관할 수 있습니다."
+                    },
+                    {
+                        "name": "알맹이 분리 후 수분 제거하여 밀폐 용기 냉장 보관하기 — PPO 산화 억제 (1~2주) ❄️",
+                        "text": "석류 알맹이의 산화 갈변을 막으려면 산소 접촉과 효소 활성을 최소화해야 합니다. 💡 보관 팁: 분리한 석류 알맹이의 물기를 키친타올로 완벽히 wiping한 뒤, 밀폐 용기나 산소 흡착 밀폐 용기에 담아 냉장 보관(0~4℃)하세요. PPO 효소 활성이 억제되어 1~2주간 붉은 빛깔과 영양소를 유지합니다."
+                    },
+                    {
+                        "name": "알맹이를 쟁반에 펼쳐 급속 동결 후 냉동 보관하기 — 장기 냉동 보관 (1년) 🧊",
+                        "text": "석류 알맹이를 오랫동안 두고 드시고 싶다면 1차 급속 동결 후 밀봉 보관하는 것이 좋습니다. 💡 보관 팁: 물기를 제거한 석류 알맹이를 쟁반에 서로 닿지 않게 펼쳐 1차 냉동한 뒤, 단단해지면 지퍼백이나 밀폐 용기에 담아 냉동실(-18℃ 이하)에 보관하세요. 1년 동안 샐러드나 디저트용으로 유용하게 활용할 수 있습니다."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "분리해둔 석류 알맹이가 갈색으로 변했는데 먹어도 되나요?",
+                        "answer": "석류 알맹이가 갈색으로 변한 것은 공기 중 산소와 폴리페놀 산화효소(PPO)가 반응하여 안토시아닌과 엘라그산 등 주요 항산화 물질이 산화된 현상입니다. 부패나 곰팡이 냄새가 없다면 드셔도 무방하지만, 항산화 영양소가 많이 소실된 상태이므로 신선할 때 빠르게 소비하는 것이 좋습니다."
+                    },
+                    {
+                        "question": "석류 알맹이를 손쉽게 분리하는 방법이 있나요?",
+                        "answer": "석류의 상단 칼집을 내어 뚜껑을 열듯 제거한 후, 하얀 속막을 따라 결대로 칼집을 내어 손으로 벌려줍니다. 그 후 물을 담은 큰 볼에 석류를 넣고 물속에서 알맹이를 떼어내면, 과육은 아래로 가라앉고 흰 속막은 위로 떠올라 아주 깔끔하고 손쉽게 알맹이만 분리할 수 있습니다."
+                    }
+                ]
+            },
+            "en": {
+                "title": "How to Keep Pomegranates Fresh: Scientific Storage Guide",
+                "description": "Check the optimal storage temperature, PPO enzyme inhibition, and antioxidant preservation guide for pomegranates based on official safety guidelines.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Pomegranates are a beloved health fruit worldwide, prized for their sweet-tart flavor, rich phytoestrogens, and powerful antioxidants! However, have you ever stored pomegranates only to find their rind drying and shriveling, or their extracted arils turning brown? Ruby-red gems of nature 💎\n\nThe moment extracted pomegranate arils come into contact with air, **polyphenol oxidase (PPO)** becomes activated, rapidly oxidizing antioxidants like anthocyanins and ellagic acid, resulting in browning and nutrient loss. Furthermore, whole pomegranates lose internal moisture through rind transpiration if left unmanaged.\n\nIn this guide, we introduce a scientifically proven 3-step pomegranate storage guide based on guidelines from agricultural and food safety authorities to prevent moisture loss and suppress PPO activity to preserve antioxidants. 🛡️",
+                "whyTitle": "Why Store Pomegranates This Way? Scientific Facts",
+                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+                "guideTitle": "Scientifically Proven Storage Guide",
+                "cautionTitle": "Essential Storage Rules and Cautions",
+                "cautions": [
+                    {
+                        "title": "Do not store whole pomegranates below 5°C ⚠️",
+                        "desc": "Exposing whole pomegranates to ultra-cold temperatures below 5°C for extended periods causes chilling injury, resulting in surface pitting, skin decay, and internal aril quality breakdown. The optimal storage temperature for whole fruit is 5–7°C."
+                    },
+                    {
+                        "title": "Completely block oxygen exposure for extracted arils 💧",
+                        "desc": "When extracted arils are exposed to atmospheric oxygen, polyphenol oxidase (PPO) catalyzes the oxidative browning of anthocyanins and ellagic acid. Always wipe moisture dry and seal tightly to prevent mold."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Wrap whole fruit in plastic wrap at 5–7°C and 80–85% RH — Prevent Rind Transpiration (2–3 Months) 📦",
+                        "text": "For whole, uncut pomegranates, preventing water loss through the skin is paramount. 💡 Storage Tip: Wrap whole pomegranates in plastic wrap or place in perforated plastic bags at 5–7°C (41–45°F) with 80–85% relative humidity (crisper drawer). This prevents chilling injury and moisture loss for 2 to 3 months."
+                    },
+                    {
+                        "name": "Dry extracted arils and store in airtight containers in the fridge — Suppress PPO Oxidation (1–2 Weeks) ❄️",
+                        "text": "To prevent oxidative browning of extracted arils, oxygen contact and enzyme activity must be minimized. 💡 Storage Tip: Thoroughly wipe moisture off extracted arils with paper towels, then seal in an airtight container in the fridge (0–4°C / 32–39°F). Inhibiting PPO keeps arils vibrant and nutritious for 1 to 2 weeks."
+                    },
+                    {
+                        "name": "Flash freeze arils on a tray then seal for long-term storage — Freezer Storage (1 Year) 🧊",
+                        "text": "For long-term preservation, flash freezing arils individually prevents clumping and maintains quality. 💡 Storage Tip: Spread dried arils on a tray so they do not touch and freeze until firm. Transfer to Ziploc freezer bags or airtight containers (-18°C / 0°F) to use in salads or smoothies for up to 1 year."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Is it safe to eat pomegranate arils that have turned brown?",
+                        "answer": "Arils turning brown is a result of polyphenol oxidase (PPO) reacting with oxygen, oxidizing key antioxidants like anthocyanins and ellagic acid. If there is no foul odor or mold, they are safe to consume, though antioxidant potency will be reduced. It is best to consume them while fresh."
+                    },
+                    {
+                        "question": "What is the easiest way to seed a pomegranate?",
+                        "answer": "Cut off the top crown of the pomegranate, then make shallow vertical score marks along the white membrane ridges. Gently pull the sections apart over a large bowl of water. Submerge the sections and pop the arils out underwater—the heavy arils sink to the bottom while the white pith floats to the top for easy separation."
+                    }
+                ]
+            },
+            "ja": {
+                "title": "ザクロ（石榴）を新鮮に保つ保存方法：科学的保管ガイド",
+                "description": "公的安全基準に基づくザクロの最適な保存温度、ポリフェノール酸化酵素（PPO）活性抑制、アントシアニン・エラグ酸の栄養保持ガイドをご確認ください。",
+                "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+                "intro": "甘酸っぱい味と豊富な植物性エストロゲン、強力な抗酸化成分で世界中で愛される健康果物のザクロ！ですが、買ってきて間もないのに皮が乾燥してシワシワになったり、実（果粒）を取り出しておいたら褐色に変色してしまった経験はありませんか？赤い宝石のような果実 💎\n\nザクロの実（果粒）は空気と接触した瞬間、**ポリフェノール酸化酵素（PPO, Polyphenol Oxidase）**が活性化し、抗酸化物質であるアントシアニンやエラグ酸（Ellagic Acid）が急速に酸化褐変して栄養素が失われます。また、丸ごとのザクロは果皮からの蒸散作用によって内部の水分が抜けやすくなります。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、ザクロの水分蒸発を防ぎPPO活性を抑えて抗酸化成分を守る3段階の科学的保存法をご紹介します。🛡️",
+                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+                "guideTitle": "科学的に検証された保存ガイド",
+                "cautionTitle": "保存時の必須ルールと注意事項",
+                "cautions": [
+                    {
+                        "title": "丸ごとのザクロを5℃以下の極低温で保存しないでください ⚠️",
+                        "desc": "丸ごとのザクロを5℃以下の低温に長期間晒すと、表面に斑点ができ皮が凹む低温障害（Chilling Injury）が発生し、内部の実の品質が低下します。玉ザクロの最適保存温度は5〜7℃です。"
+                    },
+                    {
+                        "title": "取り出した実（果粒）は空気との接触を完全に遮断してください 💧",
+                        "desc": "取り出した実が空気中の酸素に触れると、ポリフェノール酸化酵素（PPO）が働いてアントシアニンやエラグ酸が酸化褐変します。水気が残ったまま放置するとカビの原因になるため、完全に拭き取って密閉してください。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "丸ごとのザクロはラップで包み5〜7℃＆相対湿度80〜85%で保存する — 果皮蒸散遮断 (2〜3ヶ月) 📦",
+                        "text": "カットしていない玉ザクロは、皮からの水分蒸発を防ぐことが最優先です。💡保存のコツ：玉ザクロをラップで包むか穴あきポリ袋に入れ、5〜7℃・相対湿度80〜85%の環境（野菜室）で保存します。低温障害を防ぎつつ水分を保持し、2〜3ヶ月間新鮮さを保てます。"
+                    },
+                    {
+                        "name": "実を取り出し水分を拭き取って密閉容器で冷蔵保存する — PPO酸化抑制 (1〜2週間) ❄️",
+                        "text": "ザクロの実の酸化褐変を防ぐには、酸素との接触と酵素活性を最小限に抑える必要があります。💡保存のコツ：取り出した実の水分をペーパータオルで完全に拭き取り、密閉容器に入れて冷蔵保存（0〜4℃）します。PPO活性が抑えられ、1〜2週間鮮やかな赤色と栄養を維持できます。"
+                    },
+                    {
+                        "name": "実をトレイに広げて急速冷凍後チャック袋で保存する — 長期冷凍保存 (1年間) 🧊",
+                        "text": "ザクロの実を長期保存したい場合は、トレイでの1次急速冷凍後に密閉保存するのが最適です。💡保存のコツ：水気を拭き取った実をトレイに重ならないよう広げて冷凍し、固まったらジッパー袋や密閉容器に移して冷凍室（-18℃以下）で保管します。1年間サラダやスイーツ用に活用できます。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "取り出しておいたザクロの実が褐色に変色しましたが食べられますか？",
+                        "answer": "実が褐色に変色したのは、空気中の酸素とポリフェノール酸化酵素（PPO）が反応し、アントシアニンやエラグ酸などの抗酸化物質が酸化したためです。腐敗臭やカビがなければ召し上がっていただけますが、栄養価が低下しているため、鮮やかなうちに早く消費するのが望ましいです。"
+                    },
+                    {
+                        "question": "ザクロの実を簡単に取り出す方法はありますか？",
+                        "answer": "ザクロの上の部分に切り込みを入れて蓋のように取り外し、白い房の膜に沿って縦に切り込みを入れて手で開きます。その後、水の入った大きめのボウルの中で身をほぐすと、重い果粒は下に沈み、軽い白い皮膜は上に浮くため、とても簡単に実だけをきれいに分離できます。"
+                    }
+                ]
+            },
+            "zh": {
+                "title": "如何保持石榴新鲜：科学储存指南",
+                "description": "根据官方食品安全指南，了解石榴的最佳储存温度、抑制多酚氧化酶（PPO）活性及保留花青素和鞣花酸营养的科学方法。",
+                "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+                "intro": "石榴凭借其酸甜可口的口感、丰富的天然植物雌激素及强效抗氧化成分，是深受全球喜爱的代表性健康水果！但您是否有过整石榴买回家没几天果皮就干瘪起褶，或是剥出的石榴籽变褐色的经历？如红宝石般的果实 💎\n\n剥出的石榴籽（果肉）一旦接触空气，**多酚氧化酶（PPO, Polyphenol Oxidase）**会被迅速激活，导致抗氧化成分花青素与鞣花酸（Ellagic Acid）快速氧化褐变，造成营养流失。此外，未切开的整石榴会通过果皮蒸腾作用流失水分，导致果肉失去弹性。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学石榴保存秘诀，防止水分蒸发并降低PPO活性，锁住抗氧化营养。🛡️",
+                "whyTitle": "为什么要这样储存？科学原理",
+                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+                "guideTitle": "科学验证的储存指南",
+                "cautionTitle": "储存必需规则及注意事项",
+                "cautions": [
+                    {
+                        "title": "切勿将整石榴置于5℃以下的极低温环境中 ⚠️",
+                        "desc": "将整石榴长时间暴露于5℃以下的极低温中，会导致果皮出现斑点、下陷等冷害（Chilling Injury）现象，破坏内部石榴籽的品质。整石榴的最佳储存温度为5~7℃。"
+                    },
+                    {
+                        "title": "剥出的石榴籽务必彻底阻隔空气 💧",
+                        "desc": "剥出的石榴籽接触空气中的氧气后，多酚氧化酶（PPO）会催化花青素与鞣花酸发生氧化褐变。带水滞留易引发霉变，务必擦干水分并密封保存。"
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "整石榴用保鲜膜包裹置于5~7℃及80~85%湿度下 — 防果皮蒸发 (2~3个月) 📦",
+                        "text": "未切开的整石榴核心在于防止果皮水分蒸发。💡储存小贴士：用保鲜膜包裹整石榴或装入带孔保鲜袋，置于5~7℃及80~85%相对湿度的环境（冰箱冷藏保鲜抽屉）。这能防止冷害与水分流失，保鲜2~3个月。"
+                    },
+                    {
+                        "name": "剥出石榴籽吸干水分后装密封盒冷藏 — 抑制PPO氧化 (1~2周) ❄️",
+                        "text": "要防止石榴籽氧化褐变，必须最大限度地减少氧气接触与酶活性。💡储存小贴士：用厨房纸巾吸干剥出的石榴籽表面的水分，装入密封盒放入冰箱冷藏（0~4℃）。抑制PPO活性可维持1~2周的鲜红果肉与营养。"
+                    },
+                    {
+                        "name": "石榴籽平铺预冻变硬后装袋冷冻 — 长期冷冻保存 (1年) 🧊",
+                        "text": "若要长期保存石榴籽，单粒预冻后再行密封冷冻是最佳选择。💡储存小贴士：将擦干水分的石榴籽平铺在盘中预冻，变硬后装入拉链袋或密封盒放入冷冻室（-18℃以下）。可保存1年，方便随时用于沙拉或甜品。"
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "剥好的石榴籽变褐色了还能吃吗？",
+                        "answer": "石榴籽变褐色是由于空气中的氧气与多酚氧化酶（PPO）发生反应，导致花青素和鞣花酸等核心抗氧化物质发生氧化的结果。若无腐烂或霉味仍可食用，但营养成分已有较多流失，建议趁新鲜时尽快食用。"
+                    },
+                    {
+                        "question": "有什么快速轻松剥石榴籽的小窍门吗？",
+                        "answer": "切去石榴顶部花蒂部分，沿着白膜分布的纹理在果皮上划几道浅刀口，顺着刀口用手掰开。然后准备一大碗水，将石榴放入水面下剥籽——沉入水底的是果籽，漂浮在水面的是白膜，这样可以非常干净快捷地分离石榴籽。"
+                    }
+                ]
+            },
+            "es": {
+                "title": "Cómo mantener la granada fresca: Guía científica de conservación",
+                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la granada según las directrices oficiales para inhibir la enzima PPO y preservar antioxidantes.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "¡La granada es una fruta saludable amada en todo el mundo por su sabor agridulce, fitoestrógenos y potentes antioxidantes! Sin embargo, ¿alguna vez guardó granadas solo para ver cómo su cáscara se secaba o sus arilos extraídos se volvían marrones? Gemas de color rojo rubí 💎\n\nAl extraer los arilos de granada, el contacto con el aire activa la **polifenol oxidasa (PPO)**, oxidando rápidamente antioxidantes como antocianinas y ácido elágico, lo que genera oscurecimiento y pérdida de nutrientes. Además, la fruta entera pierde humedad por la cáscara si no se cuida.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades de seguridad alimentaria para evitar la pérdida de agua e inhibir la enzima PPO. 🛡️",
+                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+                "guideTitle": "Guía de almacenamiento científicamente probada",
+                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+                "cautions": [
+                    {
+                        "title": "No guarde la granada entera por debajo de 5 °C ⚠️",
+                        "desc": "Exponer la fruta entera a temperaturas por debajo de 5 °C causa daño por frío (chilling injury), lo que genera hundimientos en la piel y deterioro de los arilos. La temperatura óptima para la fruta entera es de 5 a 7 °C."
+                    },
+                    {
+                        "title": "Bloquee por completo la exposición al oxígeno en los arilos 💧",
+                        "desc": "Al exponer los arilos al oxígeno, la enzima PPO cataliza el pardeamiento oxidativo de antocianinas y ácido elágico. Seque siempre la humedad y selle herméticamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envuelva la fruta entera en film plástico a 5–7 °C y 80–85 % HR — Evite la Transpiración (2 a 3 meses) 📦",
+                        "text": "Para granadas enteras, evitar la pérdida de agua a través de la piel es esencial. 💡 Consejo de almacenamiento: Envuelva la fruta en film transparente a 5–7 °C y 80–85 % de humedad relativa (cajón de verduras). Esto evita el daño por frío y la pérdida de agua durante 2 a 3 meses."
+                    },
+                    {
+                        "name": "Seque los arilos y refrigere en recipientes herméticos — Inhiba la PPO (1 a 2 semanas) ❄️",
+                        "text": "Para evitar el pardeamiento oxidativo de los arilos, reduzca el contacto con el oxígeno. 💡 Consejo de almacenamiento: Seque completamente los arilos con papel absorbente y gárdelos en un recipiente hermético en el refrigerador (0–4 °C). Esto detiene la PPO por 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Congele los arilos en una bandeja y luego selle — Congelación (1 año) 🧊",
+                        "text": "Para conservar a largo plazo, congelar los arilos de forma individual evita que se peguen. 💡 Consejo de almacenamiento: Extienda los arilos secos en una bandeja, congele y luego páselos a bolsas Ziploc o contenedores herméticos (-18 °C) para usar en ensaladas hasta por 1 año."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "¿Es seguro comer arilos de granada que se han vuelto marrones?",
+                        "answer": "El pardeamiento ocurre cuando la enzima polifenol oxidasa (PPO) reacciona con el oxígeno, oxidando antioxidantes como antocianinas y ácido elágico. Si no hay mal olor ni moho, son seguros de comer, aunque con menor poder antioxidante. Es mejor consumirlos frescos."
+                    },
+                    {
+                        "question": "¿Cuál es la forma más fácil de desgranar una granada?",
+                        "answer": "Corte la corona superior de la granada y haga cortes superficiales a lo largo de las membranas blancas. Separe las secciones suavemente sobre un tazón grande con agua. Sumerja las secciones y saque los arilos bajo el agua: los arilos pesados se hundirán y las membranas flotarán para separarlos fácilmente."
+                    }
+                ]
+            },
+            "fr": {
+                "title": "Comment conserver la grenade fraîche : Guide scientifique de conservation",
+                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la grenade selon les directives officielles pour inhiber l'enzyme PPO et préserver les antioxydants.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "La grenade est un fruit santé apprécié dans le monde entier pour sa saveur douce-acide, ses phytoestrogènes et ses puissants antioxydants ! Cependant, vous est-il déjà arrivé de la conserver pour retrouver sa peau desséchée ou ses arilles devenues brunes ? Véritables rubis de la nature 💎\n\nDès que les arilles (grains) de grenade sont extraites, le contact avec l'air active la **polyphénol oxydase (PPO)**, ce qui oxyde rapidement les antioxydants comme les anthocyanes et l'acide éllagique, provoquant un brunissement. De plus, le fruit entier perd son eau par transpiration de l'écorce.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour éviter la perte d'eau et limiter l'activité de la PPO afin de préserver ses antioxydants. 🛡️",
+                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+                "guideTitle": "Guide de conservation scientifiquement prouvé",
+                "cautionTitle": "Règles essentielles et précautions de stockage",
+                "cautions": [
+                    {
+                        "title": "Ne conservez pas les grenades entières sous 5 °C ⚠️",
+                        "desc": "Exposer le fruit entier à des températures inférieures à 5 °C provoque des dégâts dus au froid (chilling injury), altérant la peau et la qualité des arilles. La température idéale pour le fruit entier est de 5 à 7 °C."
+                    },
+                    {
+                        "title": "Bloquez complètement l'exposition à l'oxygène pour les arilles 💧",
+                        "desc": "Lorsque les arilles sont exposées à l'oxygène, la PPO catalyse le brunissement oxydatif des anthocyanes. Épongez toujours l'humidité et scellez hermétiquement."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envelopper le fruit entier dans du film étirable à 5–7 °C et 80–85 % d'HR — Éviter la Transpiration (2–3 mois) 📦",
+                        "text": "Pour les grenades entières, éviter la perte d'eau par l'écorce est essentiel. 💡 Astuce de conservation : Enveloppez la grenade dans du film étirable à 5–7 °C et 80–85 % d'humidité relative (bac à légumes). Cela préserve l'humidité pendant 2 à 3 mois."
+                    },
+                    {
+                        "name": "Sécher les arilles et réfrigérer en boîte hermétique — Stopper la PPO (1–2 semaines) ❄️",
+                        "text": "Pour éviter le brunissement des arilles, réduisez le contact avec l'air. 💡 Astuce de conservation : Épongez les arilles avec du papier absorbant, puis scellez-les dans une boîte hermétique au réfrigérateur (0–4 °C). La PPO est freinée pendant 1 à 2 semaines."
+                    },
+                    {
+                        "name": "Congeler les arilles à plat sur une plaque puis sceller — Congélation (1 an) 🧊",
+                        "text": "Pour une conservation longue durée, congeler les arilles individuellement évite qu'elles ne collent. 💡 Astuce de conservation : Étalez les arilles sèches sur une plaque, congelez-les puis mettez-les en sachets Ziploc (-18 °C) jusqu'à 1 an."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Peut-on consommer des arilles de grenade devenues brunes ?",
+                        "answer": "Le brunissement est dû à la réaction de la polyphénol oxydase (PPO) avec l'oxygène, ce qui détruit une partie des antioxydants. En l'absence de moisissure ou de mauvaise odeur, elles sont consommables, mais leur valeur nutritionnelle est réduite. Il est préférable de les consommer fraîches."
+                    },
+                    {
+                        "question": "Quelle est la méthode la plus simple pour égrener une grenade ?",
+                        "answer": "Coupez le chapeau supérieur de la grenade et incisez légèrement la peau le long des membranes blanches. Ouvrez le fruit délicatement au-dessus d'un grand bol d'eau. Égrenez sous l'eau : les grains lourds coulent au fond tandis que les membranes blanches flottent à la surface."
+                    }
+                ]
+            },
+            "de": {
+                "title": "Granatapfel richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Granatäpfel basierend auf offiziellen Sicherheitsrichtlinien zur Hemmung von PPO-Enzymen und Erhalt von Antioxidantien.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Der Granatapfel ist ein weltweit geschätztes Superfood – bekannt für seinen süß-säuerlichen Geschmack, Phytoöstrogene und wertvolle Antioxidantien! Doch haben Sie Granatäpfel schon einmal gelagert und festgestellt, dass die Schale vertrocknete oder die ausgelösten Kerne braun wurden? Rubine der Natur 💎\n\nSobald Granatapfelkerne (Arili) mit Luft in Kontakt kommen, wird die **Polyphenoloxidase (PPO)** aktiviert. Sie oxidiert Antioxidantien wie Anthocyane und Ellagsäure, was zu Bräunung und Nährstoffverlust führt. Ungeschnittene Früchte verlieren zudem Feuchtigkeit über die Schale.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Feuchtigkeitsverlust zu verhindern und PPO-Aktivität zu stoppen. 🛡️",
+                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+                "cautions": [
+                    {
+                        "title": "Ganze Granatäpfel nicht unter 5 °C lagern ⚠️",
+                        "desc": "Werden ganze Granatäpfel längere Zeit Temperaturen unter 5 °C ausgesetzt, erleiden sie Kälteschäden (Chilling Injury), was Flecken auf der Schale und Qualitätsverlust der Kerne verursacht. Optimal sind 5–7 °C."
+                    },
+                    {
+                        "title": "Sauerstoffkontakt bei ausgelösten Kernen strikt meiden 💧",
+                        "desc": "Kommen Kerne mit Sauerstoff in Berührung, führt die PPO zu oxidativer Bräunung von Anthocyanen und Ellagsäure. Vor dem Verschließen Feuchtigkeit gründlich abtrocknen."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Ganze Frucht in Folie wickeln bei 5–7 °C und 80–85 % LF — Schalenverdunstung stoppen (2–3 Monate) 📦",
+                        "text": "Für ganze Granatäpfel ist die Vermeidung von Feuchtigkeitsverlust über die Schale entscheidend. 💡 Lagerungstipp: Wickeln Sie die Frucht in Frischhaltefolie bei 5–7 °C und 80–85 % Luftfeuchtigkeit (Gemüsefach). Verhindert Kälteschäden für 2–3 Monate."
+                    },
+                    {
+                        "name": "Kerne abtrocknen und luftdicht im Kühlschrank lagern — PPO-Oxidation hemmen (1–2 Wochen) ❄️",
+                        "text": "Um die Bräunung ausgelöster Kerne zu verhindern, muss Sauerstoffkontakt minimiert werden. 💡 Lagerungstipp: Kerne mit Küchenpapier abtrocknen und luftdicht im Kühlschrank (0–4 °C) lagern. Hält Farbe und Nährstoffe 1–2 Wochen frisch."
+                    },
+                    {
+                        "name": "Kerne vorgefrieren und verschlossen einfrieren — Gefrierlagerung (1 Jahr) 🧊",
+                        "text": "Für die Langzeitlagerung verhindert das einzelne Vorgefrieren der Kerne ein Verklumpen. 💡 Lagerungstipp: Kerne auf einem Blech vorgefrieren und dann in Ziploc-Beutel (-18 °C) umfüllen. So bleiben sie 1 Jahr lang perfekt für Salate."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Kann man braun gewordene Granatapfelkerne noch essen?",
+                        "answer": "Die Bräunung ist eine Reaktion der Polyphenoloxidase (PPO) mit Sauerstoff, wodurch Antioxidantien abgebaut werden. Ohne Schimmel oder Fäulnis sind sie essbar, haben aber weniger Nährstoffe. Am besten frisch verzehren."
+                    },
+                    {
+                        "question": "Wie entkernt man einen Granatapfel am einfachsten?",
+                        "answer": "Schneiden Sie den oberen Deckel der Frucht ab und ritzen Sie die Schale entlang der weißen Trennhäute ein. Brechen Sie die Frucht über einer Schüssel Wasser auseinander. Lösen Sie die Kerne unter Wasser: Die schweren Kerne sinken nach unten, die Häute schwimmen oben."
+                    }
+                ]
+            },
+            "pt": {
+                "title": "Como conservar a romã fresca: Guia científico de armazenamento",
+                "description": "Descubra a temperatura, método e tempo de conservação ideais para a romã com base em diretrizes oficiais para inibir a enzima PPO e preservar antioxidantes.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "A romã é uma fruta saudável amada no mundo todo pelo seu sabor agridoce, fitoestrógenos e potentes antioxidantes! No entanto, você já a guardou e percebeu que a casca secou ou que as sementes (arilos) ficaram marrons depois de retiradas? Joias vermelho-rubi da natureza 💎\n\nNo momento em que as sementes da romã entram em contato com o ar, a **polifenol oxidase (PPO)** é ativada, oxidando rapidamente antioxidantes como antocianinas e ácido elágico, causando escurecimento e perda de nutrientes. Além disso, a fruta inteira perde umidade pela casca.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para evitar a perda de água e inibir a enzima PPO. 🛡️",
+                "whyTitle": "Por que armazenar assim? Fatos científicos",
+                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+                "guideTitle": "Guia de armazenamento comprovado cientificamente",
+                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+                "cautions": [
+                    {
+                        "title": "Não guarde a romã inteira abaixo de 5 °C ⚠️",
+                        "desc": "Expor a fruta inteira a temperaturas abaixo de 5 °C causa Danos por Frio (chilling injury), gerando manchas na casca e perda de qualidade das sementes. A temperatura ideal para a fruta inteira é de 5 a 7 °C."
+                    },
+                    {
+                        "title": "Bloqueie totalmente a exposição ao oxigênio nas sementes 💧",
+                        "desc": "Ao expor as sementes ao oxigênio, a PPO catalisa o escurecimento oxidativo das antocianinas. Seque bem a umidade antes de selar hermeticamente."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Envolva a fruta inteira em filme plástico a 5–7 °C e 80–85 % de UR — Evite a Transpiração (2 a 3 meses) 📦",
+                        "text": "Para romãs inteiras, evitar a perda de água pela casca é fundamental. 💡 Dica de conservação: Envolva a fruta em filme plástico a 5–7 °C e 80–85 % de umidade relativa (gaveta de legumes) para manter a umidade por 2 a 3 meses."
+                    },
+                    {
+                        "name": "Seque as sementes e refrigere em potes herméticos — Iniba a PPO (1 a 2 semanas) ❄️",
+                        "text": "Para evitar o escurecimento das sementes, reduza o contato com o ar. 💡 Dica de conservação: Seque as sementes com papel toalha e guarde em pote hermético na geladeira (0–4 °C). Isso inibe a PPO por 1 a 2 semanas."
+                    },
+                    {
+                        "name": "Congele as sementes em uma bandeja e depois sele — Congelamento (1 ano) 🧊",
+                        "text": "Para conservar a longo prazo, congelar as sementes individualmente evita que fiquem grudadas. 💡 Dica de conservação: Espalhe as sementes secas em uma bandeja, congele e passe para sacos Ziploc (-18 °C) por até 1 ano."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "É seguro comer sementes de romã que ficaram marrons?",
+                        "answer": "O escurecimento ocorre quando a polifenol oxidase (PPO) reage com o oxigênio, oxidando antioxidantes como antocianinas e ácido elágico. Se não houver mofo nem mau cheiro, podem ser consumidas, embora com menor valor nutricional. É melhor consumir frescas."
+                    },
+                    {
+                        "question": "Qual é a maneira mais fácil de retirar as sementes da romã?",
+                        "answer": "Corte a coroa superior da romã e faça cortes superficiais na casca ao longo das membranas brancas. Abra a fruta com cuidado sobre uma tigela grande com água. Retire as sementes debaixo d'água: as sementes afundam e as membranas flutuam, facilitando a separação."
+                    }
+                ]
+            },
+            "id": {
+                "title": "Cara Menyimpan Delima agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah delima berdasarkan pedoman keselamatan resmi untuk menekan enzim PPO dan menjaga antioksidan.",
+                "authority": "<strong>RDA & USDA & MFDS</strong>",
+                "intro": "Delima adalah buah kesehatan populer di seluruh dunia yang kaya akan fitoestrogen dan antioksidan tinggi! Namun, pernahkah Anda menyimpannya lalu mendapati kulitnya mengering atau bijinya berubah menjadi cokelat setelah dikeluarkan? Permata merah alami 💎\n\nSaat biji (bulir) delima terpapar udara, **polifenol oksidase (PPO)** langsung aktif, mengoksidasi antioksidan seperti antosianin dan asam elagat dengan cepat sehingga warnanya kecokelatan dan nutrisi hilang. Selain itu, buah delima utuh kehilangan air melalui kulitnya jika tidak disimpan dengan benar.\n\nDalam panduan ini, kami membagikan panduan penyimpanan delima 3 langkah berbasis ilmiah untuk mencegah kehilangan air dan menekan aktivitas PPO demi menjaga kandungan antioksidannya. 🛡️",
+                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+                "cautions": [
+                    {
+                        "title": "Jangan menyimpan delima utuh di bawah suhu 5°C ⚠️",
+                        "desc": "Mengeposkan delima utuh pada suhu dingin di bawah 5°C dalam waktu lama memicu kerusakan dingin (chilling injury), menyebabkan bercak pada kulit dan merusak kualitas bulir di dalamnya. Suhu terbaik untuk buah utuh adalah 5–7°C."
+                    },
+                    {
+                        "title": "Blokir paparan oksigen secara ketat pada bulir yang sudah dikeluarkan 💧",
+                        "desc": "Saat bulir delima terpapar oksigen, enzim PPO mengkatalisis kecokelatan oksidatif pada antosianin. Selalu keringkan kelembapan dan segel rapat untuk mencegah jamur."
+                    }
+                ],
+                "steps": [
+                    {
+                        "name": "Bungkus buah utuh dengan plastic wrap pada suhu 5–7°C & kelembapan 80–85% — Cegah Pengeringan Kulit (2–3 Bulan) 📦",
+                        "text": "Untuk delima utuh, mencegah kehilangan air melalui kulit adalah hal utama. 💡 Tips Penyimpanan: Bungkus buah utuh dengan plastic wrap pada suhu 5–7°C dan kelembapan 80–85% (laci sayur). Ini mencegah kerusakan dingin dan kehilangan air selama 2–3 bulan."
+                    },
+                    {
+                        "name": "Keringkan bulir lalu simpan dalam wadah kedap udara di kulkas — Tekan Oksidasi PPO (1–2 Minggu) ❄️",
+                        "text": "Untuk mencegah kecokelatan oksidatif bulir delima, kontak dengan oksigen harus diminimalkan. 💡 Tips Penyimpanan: Lap kering bulir delima dengan tisu dapur lalu segel dalam wadah kedap udara di kulkas (0–4°C). Ini menahan enzim PPO selama 1–2 minggu."
+                    },
+                    {
+                        "name": "Bekukan bulir di atas nampan lalu segel dalam kantong — Pembekuan Freezer (1 Tahun) 🧊",
+                        "text": "Untuk penyimpanan jangka panjang, membekukan bulir secara terpisah mencegahnya menggumpal. 💡 Tips Penyimpanan: Sebarkan bulir kering di nampan, bekukan, lalu pindahkan ke kantong Ziploc (-18°C) hingga 1 tahun."
+                    }
+                ],
+                "faqs": [
+                    {
+                        "question": "Apakah bulir delima yang sudah berubah warna menjadi kecokelatan masih aman dimakan?",
+                        "answer": "Perubahan warna menjadi kecokelatan terjadi saat enzim polifenol oksidase (PPO) bereaksi dengan oksigen, merusak antioksidan seperti antosianin. Jika tidak ada bau busuk atau jamur, masih aman dikonsumsi meskipun nutrisi antioksidannya sudah berkurang. Sebaiknya habiskan saat masih segar."
+                    },
+                    {
+                        "question": "Bagaimana cara paling mudah mengeluarkan bulir delima?",
+                        "answer": "Potong mahkota atas delima lalu buat irisan dangkal searah serat kulitnya. Buka bagian buah dengan lembut di atas mangkuk besar berisi air. Keluarkan bulir di dalam air: bulir yang berat akan tenggelam ke dasar sedangkan sekat putih akan mengapung ke atas sehingga sangat mudah dipisahkan."
+                    }
+                ]
+            }
+        }
+    }
+}
