@@ -28,32 +28,70 @@ const { headings, t, app, isFreshCategory, cleanMiniCtaTitle, targetCtaApp, lang
     <!-- Desktop Sticky TOC Mini Widget -->
     <div id="desktop-toc-mini-widget" class="mt-6 pt-5 border-t border-slate-200/50 dark:border-white/10">
       <div class="p-3.5 rounded-xl bg-white/70 dark:bg-slate-900/50 border border-slate-200/80 dark:border-white/10 shadow-sm flex flex-col gap-2.5">
-        <div class="flex items-center gap-2.5">
-          <img 
-            src={
-              isFreshCategory ? `${import.meta.env.BASE_URL}freshself/invite/icon.png` :
-              app === 'buildself' ? `${import.meta.env.BASE_URL}images/buildself/icon.webp` :
-              `${import.meta.env.BASE_URL}favicon.png`
-            } 
-            alt={app} 
-            class="w-7 h-7 rounded-md object-contain shrink-0 border border-slate-200/50 dark:border-white/5" 
-          />
-          <span class="text-xs font-extrabold text-slate-900 dark:text-white truncate">
-            {isFreshCategory ? 'FreshSelf' : app === 'buildself' ? 'BuildSelf' : 'SelaLink'}
-          </span>
-        </div>
-        <p class="text-[11px] font-medium text-slate-600 dark:text-slate-300 leading-snug line-clamp-2">
-          {cleanMiniCtaTitle}
-        </p>
+        {app === 'buildself' ? (
+          <div class="space-y-2">
+            <div class="flex items-center justify-between">
+              <span class="text-[10px] font-black tracking-wider uppercase text-sky-600 dark:text-sky-400 bg-sky-100/80 dark:bg-sky-500/20 px-2 py-0.5 rounded-full">
+                BuildSelf
+              </span>
+              <!-- 3D Mentor Avatars -->
+              <div class="flex items-center -space-x-2 shrink-0">
+                <img 
+                  src={`${import.meta.env.BASE_URL}images/buildself/mentors/einstein.webp`} 
+                  alt="Einstein" 
+                  class="w-6 h-6 rounded-full border border-white dark:border-slate-800 object-cover shadow-sm z-20" 
+                />
+                <img 
+                  src={`${import.meta.env.BASE_URL}images/buildself/mentors/kingsejong.webp`} 
+                  alt="King Sejong" 
+                  class="w-6 h-6 rounded-full border border-white dark:border-slate-800 object-cover shadow-sm z-10" 
+                />
+                <img 
+                  src={`${import.meta.env.BASE_URL}images/buildself/mentors/nikola_tesla.webp`} 
+                  alt="Nikola Tesla" 
+                  class="w-6 h-6 rounded-full border border-white dark:border-slate-800 object-cover shadow-sm z-0" 
+                />
+              </div>
+            </div>
+            <p class="text-[11px] font-bold text-slate-800 dark:text-slate-200 leading-snug line-clamp-2">
+              {t('cta.buildself.tag') || cleanMiniCtaTitle}
+            </p>
+          </div>
+        ) : (
+          <>
+            <div class="flex items-center gap-2.5">
+              <img 
+                src={
+                  isFreshCategory ? `${import.meta.env.BASE_URL}freshself/invite/icon.png` :
+                  `${import.meta.env.BASE_URL}favicon.png`
+                } 
+                alt={app} 
+                class="w-7 h-7 rounded-md object-contain shrink-0 border border-slate-200/50 dark:border-white/5" 
+              />
+              <span class="text-xs font-extrabold text-slate-900 dark:text-white truncate">
+                {isFreshCategory ? 'FreshSelf' : 'SelaLink'}
+              </span>
+            </div>
+            <p class="text-[11px] font-medium text-slate-600 dark:text-slate-300 leading-snug line-clamp-2">
+              {cleanMiniCtaTitle}
+            </p>
+          </>
+        )}
         <a 
           href={`https://play.google.com/store/apps/details?id=com.selalink.${targetCtaApp === 'petself' ? 'freshself' : targetCtaApp}&hl=${lang}`}
           target="_blank"
           rel="noopener noreferrer"
-          class={`inline-flex justify-center items-center px-3 py-1.5 rounded-lg text-xs font-bold text-white transition-colors shadow-sm text-center ${
+          class={`inline-flex justify-center items-center gap-1.5 px-3 py-2 rounded-lg text-xs font-bold text-white transition-colors shadow-sm text-center ${
             isFreshCategory ? (app === 'petself' ? 'bg-rose-600 hover:bg-rose-700 dark:bg-rose-500 dark:hover:bg-rose-600' : 'bg-purple-600 hover:bg-purple-700 dark:bg-purple-500 dark:hover:bg-purple-600') : 'bg-sky-600 hover:bg-sky-700 dark:bg-sky-500 dark:hover:bg-sky-600'
           }`}
         >
-          {t('cta.general.btn') || 'Install App →'}
+          <!-- Official Cropped 4-Color Google Play Store Icon Image -->
+          <img 
+            src={`${import.meta.env.BASE_URL}images/google_play_icon.webp`} 
+            alt="Google Play Icon" 
+            class="w-4 h-4 shrink-0 object-contain drop-shadow-sm" 
+          />
+          <span class="whitespace-nowrap">{t('cta.action.download_free')}</span>
         </a>
       </div>
     </div>

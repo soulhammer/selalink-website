@@ -39,25 +39,22 @@ const allowedEnglishKeys = new Set([
 ]);
 
 describe('정적 번역 파일 (locales/*.json) 무결성 및 고유명사 검증 테스트', () => {
-  const enKeys = Object.keys(en);
+  const allLocaleEntries = Object.entries({ en, ...locales });
+  // 모든 9개 언어 파일의 키 집합 통합 (Union of all keys across all 9 locales)
+  const allUniqueKeys = Array.from(
+    new Set(allLocaleEntries.flatMap(([_, data]) => Object.keys(data)))
+  );
 
-  // 1. 번역 키 대칭성 검증 (Symmetry Check)
-  Object.entries(locales).forEach(([lang, data]) => {
-    it(`[${lang.toUpperCase()}] 파일이 영어(en) 기준과 동일한 번역 키 대칭성을 가져야 한다`, () => {
-      const currentKeys = Object.keys(data);
+  // 1. 9개 국어 대칭성 검증 (Complete 9-Language Union Key Parity Check)
+  allLocaleEntries.forEach(([lang, data]) => {
+    it(`[${lang.toUpperCase()}] 파일이 9개 언어 전체 키 집합(총 ${allUniqueKeys.length}개)과 100% 동일한 대칭성을 가져야 한다`, () => {
+      const currentKeys = new Set(Object.keys(data));
 
-      // 누락된 키 분석
-      const missingKeys = enKeys.filter(k => !currentKeys.includes(k));
+      // 9개 언어 전체 키 집합 대비 누락된 키 분석
+      const missingKeys = allUniqueKeys.filter(k => !currentKeys.has(k));
       expect(
         missingKeys,
         `오류: ${lang}.json 에 다음 번역 키가 누락되었습니다: \n${missingKeys.join('\n')}`
-      ).toEqual([]);
-
-      // 타겟 언어 사전에만 있는 불필요한 키 분석
-      const extraKeys = currentKeys.filter(k => !enKeys.includes(k));
-      expect(
-        extraKeys,
-        `오류: ${lang}.json 에 정의된 다음 키는 en.json 에 없는 유령 키입니다: \n${extraKeys.join('\n')}`
       ).toEqual([]);
     });
   });
