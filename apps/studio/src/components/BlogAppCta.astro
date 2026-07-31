@@ -106,14 +106,22 @@ const styleVars = app === 'freshsnap'
   class={`relative overflow-hidden rounded-3xl border p-6 md:p-8 bg-gradient-to-br ${activeDetails.bgColor} backdrop-blur-md transition-all duration-300 hover:shadow-lg app-card-interactive`}
   style={styleVars}
 >
-  {app === 'buildself' ? (
+  {app === 'buildself' || app === 'freshself' || app === 'freshsnap' || app === 'petself' ? (
     <div class="flex flex-col lg:flex-row items-center justify-between gap-6 md:gap-8 relative z-10">
       <!-- Left Content Area (Speech Tag + Title + Description: Fully Centered & Isolated) -->
       <div class="space-y-3.5 flex-1 min-w-0 max-w-xl w-full flex flex-col items-center text-center">
         <!-- Speech Bubble Tag -->
-        <div class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold bg-sky-100 dark:bg-sky-500/20 text-sky-800 dark:text-sky-300 border border-sky-200 dark:border-sky-500/30 shadow-xs max-w-full mx-auto">
+        <div class={`inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold border shadow-xs max-w-full mx-auto ${
+          app === 'buildself' ? 'bg-sky-100 dark:bg-sky-500/20 text-sky-800 dark:text-sky-300 border-sky-200 dark:border-sky-500/30' :
+          app === 'petself' ? 'bg-rose-100 dark:bg-rose-500/20 text-rose-800 dark:text-rose-300 border-rose-200 dark:border-rose-500/30' :
+          'bg-purple-100 dark:bg-purple-500/20 text-purple-800 dark:text-purple-300 border-purple-200 dark:border-purple-500/30'
+        }`}>
           <span>💬</span>
-          <span class="truncate">{t('cta.buildself.tag')}</span>
+          <span class="truncate">
+            {app === 'buildself' ? t('cta.buildself.tag') :
+             app === 'petself' ? (t('cta.petself.tag') || t('cta.freshself.tag')) :
+             (t('cta.freshself.tag') || t('cta.freshsnap.desc'))}
+          </span>
         </div>
 
         <!-- Title & Description Block -->
@@ -128,65 +136,102 @@ const styleVars = app === 'freshsnap'
       </div>
       
       <!-- Right Action Group (Fixed Width 340px to Guarantee Zero Overflow) -->
-      <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-sky-200/40 dark:border-sky-500/10">
-        <!-- 3D Mentor Avatar Ensemble Stack (Centered above buttons, Enlarged 44px/48px) -->
-        <div class="flex items-center justify-center -space-x-3 py-1" title="38명의 역사 속 위인 멘토들과 함께하세요">
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/einstein.webp`} 
-            alt="Einstein Mentor" 
-            class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform" 
-          />
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/kingsejong.webp`} 
-            alt="King Sejong Mentor" 
-            class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform" 
-          />
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/nikola_tesla.webp`} 
-            alt="Nikola Tesla Mentor" 
-            class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform" 
-          />
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/abraham_lincoln.webp`} 
-            alt="Lincoln Mentor" 
-            class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-          />
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/yisunsin.webp`} 
-            alt="Yi Sun-sin Mentor" 
-            class="hidden sm:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-          />
-          <img 
-            src={`${import.meta.env.BASE_URL}images/buildself/mentors/shin_saimdang.webp`} 
-            alt="Shin Saimdang Mentor" 
-            class="hidden md:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-          />
-          <span class="inline-flex items-center justify-center w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 bg-sky-500 text-white font-extrabold text-xs md:text-sm shadow-md z-0 hover:scale-110 transition-transform cursor-pointer" title="38명의 역사 속 위인 멘토 보유">
-            +32
-          </span>
-        </div>
+      <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
+        <!-- 3D Mentor Avatar Ensemble Stack (BuildSelf) vs 3D Fruit Buddy Ensemble Stack (FreshSelf / PetSelf) -->
+        {app === 'buildself' ? (
+          <div class="flex items-center justify-center -space-x-3 py-1" title="38명의 역사 속 위인 멘토들과 함께하세요">
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/einstein.webp`} 
+              alt="Einstein Mentor" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/kingsejong.webp`} 
+              alt="King Sejong Mentor" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/nikola_tesla.webp`} 
+              alt="Nikola Tesla Mentor" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/abraham_lincoln.webp`} 
+              alt="Lincoln Mentor" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/yisunsin.webp`} 
+              alt="Yi Sun-sin Mentor" 
+              class="hidden sm:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/buildself/mentors/shin_saimdang.webp`} 
+              alt="Shin Saimdang Mentor" 
+              class="hidden md:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
+            />
+            <span class="inline-flex items-center justify-center w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 bg-sky-500 text-white font-extrabold text-xs md:text-sm shadow-md z-0 hover:scale-110 transition-transform cursor-pointer" title="38명의 역사 속 위인 멘토 보유">
+              +32
+            </span>
+          </div>
+        ) : (
+          <div class="flex items-center justify-center -space-x-2.5 py-1" title="귀여운 3D 신선 과일/식재료 캐릭터들과 함께하세요">
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/apple.webp`} 
+              alt="Apple Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform bg-rose-50 dark:bg-rose-950/40" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/avocado.webp`} 
+              alt="Avocado Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform bg-emerald-50 dark:bg-emerald-950/40" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/banana.webp`} 
+              alt="Banana Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform bg-amber-50 dark:bg-amber-950/40" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/strawberry.webp`} 
+              alt="Strawberry Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-red-50 dark:bg-red-950/40" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/orange.webp`} 
+              alt="Orange Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-orange-50 dark:bg-orange-950/40" 
+            />
+            <img 
+              src={`${import.meta.env.BASE_URL}images/freshself/fruits/broccoli.webp`} 
+              alt="Broccoli Buddy" 
+              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-green-50 dark:bg-green-950/40" 
+            />
+          </div>
+        )}
 
         <!-- Download & Learn More Buttons (Flex Wrap & Compact Padding) -->
         <div class="flex flex-col sm:flex-row gap-2.5 items-stretch sm:items-center justify-center w-full">
-          <a 
-            href={`https://play.google.com/store/apps/details?id=${activeDetails.playStoreId}&hl=${currentLang}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class={`inline-flex items-center justify-center gap-2 px-4 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center whitespace-nowrap shrink-0 ${activeDetails.btnBg}`}
-          >
-            <!-- Official Cropped 4-Color Google Play Store Icon Image -->
-            <img 
-              src={`${import.meta.env.BASE_URL}images/google_play_icon.webp`} 
-              alt="Google Play Icon" 
-              class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm" 
-            />
-            <span class="whitespace-nowrap">{t('cta.action.download_free')}</span>
-          </a>
+          {activeDetails.playStoreId ? (
+            <a 
+              href={`https://play.google.com/store/apps/details?id=${activeDetails.playStoreId}&hl=${currentLang}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class={`inline-flex items-center justify-center gap-2 px-4 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center whitespace-nowrap shrink-0 ${activeDetails.btnBg}`}
+            >
+              <!-- Official Cropped 4-Color Google Play Store Icon Image -->
+              <img 
+                src={`${import.meta.env.BASE_URL}images/google_play_icon.webp`} 
+                alt="Google Play Icon" 
+                class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm" 
+              />
+              <span class="whitespace-nowrap">{t('cta.action.download_free')}</span>
+            </a>
+          ) : null}
           <a 
             href={activeDetails.link}
             class="inline-flex items-center justify-center px-4 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 border border-slate-300 dark:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/50 text-slate-800 dark:text-slate-200 text-center bg-white/60 dark:bg-slate-800/40 whitespace-nowrap shrink-0"
           >
-            {t('cta.action.learn_more')}
+            {activeDetails.btnText || t('cta.action.learn_more')}
           </a>
         </div>
 
@@ -236,21 +281,13 @@ const styleVars = app === 'freshsnap'
               />
               <span class="whitespace-nowrap">{t('cta.action.download_free')}</span>
             </a>
-            <a 
-              href={activeDetails.link}
-              class="inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 border border-slate-350 dark:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/50 text-slate-800 dark:text-slate-200 text-center"
-            >
-              {t('cta.action.learn_more')}
-            </a>
-          ) : (
-            <!-- 웹 서비스/스튜디오인 경우: 기존 단일 이동 버튼 제공 -->
-            <a 
-              href={activeDetails.link}
-              class={`inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center w-full sm:w-auto ${activeDetails.btnBg}`}
-            >
-              {activeDetails.btnText}
-            </a>
-          )}
+          ) : null}
+          <a 
+            href={activeDetails.link}
+            class="inline-flex items-center justify-center px-6 py-3.5 rounded-2xl font-semibold text-sm transition-all duration-200 border border-slate-350 dark:border-slate-700 hover:bg-slate-100/50 dark:hover:bg-slate-800/50 text-slate-800 dark:text-slate-200 text-center"
+          >
+            {activeDetails.btnText || t('cta.action.learn_more')}
+          </a>
         </div>
         {activeDetails.playStoreId && (
           <p class="text-[11px] font-medium text-slate-500 dark:text-slate-400 text-center lg:text-right mt-0.5">

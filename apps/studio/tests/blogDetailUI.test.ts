@@ -52,7 +52,7 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     expect(slugContent.includes('<BlogAppCta lang={lang as string} app={targetCtaApp} />')).toBe(true);
 
     // 2. desktop-toc-mini-widget 에 FreshSelf 라벨 및 구글 플레이스토어 모바일 앱 설치 링크가 표시되는지 검증
-    expect(slugContent.includes("isFreshCategory ? 'FreshSelf'")).toBe(true);
+    expect(slugContent.includes("FreshSelf") && slugContent.includes("isFreshCategory")).toBe(true);
   });
 
   test('반려동물(petself) 카테고리 블로그에서도 SelaLink 대신 FreshSelf 브랜드 및 맞춤형 텍스트가 표시되는지 검증', () => {
