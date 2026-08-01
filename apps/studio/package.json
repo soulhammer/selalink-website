@@ -7,7 +7,7 @@
   },
   "scripts": {
     "predev": "lsof -t -i:4321 | xargs kill -9 2>/dev/null || true",
-    "dev": "astro dev",
+    "dev": "NODE_OPTIONS=\"--max-old-space-size=4096\" astro dev",
     "build": "node src/scripts/compilers/compile_all_blogs.js && astro build && node src/scripts/tools/generate_sitemap.js && node src/scripts/tools/submit_google_indexing.js",
     "preview": "astro preview",
     "astro": "astro",

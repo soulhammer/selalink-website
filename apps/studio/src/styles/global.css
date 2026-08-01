@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
+@source "../**/*.{astro,html,js,jsx,mdx,ts,tsx}";
 
 /* ==========================================
    Self-Hosted Font Declarations (WOFF2)

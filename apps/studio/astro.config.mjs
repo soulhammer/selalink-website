@@ -16,7 +16,11 @@ export default defineConfig({
     plugins: [tailwindcss()],
     server: {
       watch: {
-        ignored: ['**/src/content/blog/**', '**/dist/**']
+        ignored: ['**/dist/**', '**/.git/**'],
+        awaitWriteFinish: {
+          stabilityThreshold: 200,
+          pollInterval: 100
+        }
       }
     },
     build: {
