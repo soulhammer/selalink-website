@@ -5,7 +5,9 @@ import ShortsGallery from '../../../../components/ShortsGallery.astro';
 
 // New Sub-components
 import FreshSelfHero from '../../../../components/freshself/FreshSelfHero.astro';
+import FreshSelfMarquee from '../../../../components/freshself/FreshSelfMarquee.astro';
 import FreshSelfFeatures from '../../../../components/freshself/FreshSelfFeatures.astro';
+import FreshSelfScanner from '../../../../components/freshself/FreshSelfScanner.astro';
 import FreshSelfBento from '../../../../components/freshself/FreshSelfBento.astro';
 import FreshSelfImpact from '../../../../components/freshself/FreshSelfImpact.astro';
 import FreshSelfPush from '../../../../components/freshself/FreshSelfPush.astro';
@@ -39,8 +41,14 @@ const t = useTranslations(lang as keyof typeof languages);
     <!-- Hero Section -->
     <FreshSelfHero lang={lang} />
 
-    <!-- Features Section -->
+    <!-- 115+ Ingredient Storage Knowledge Marquee Section -->
+    <FreshSelfMarquee lang={lang} />
+
+    <!-- Features Section (Space Sharing & Timeline) -->
     <FreshSelfFeatures lang={lang} />
+
+    <!-- AI Barcode & Camera Scanner Feature Section -->
+    <FreshSelfScanner lang={lang} />
 
     <!-- Bento Section -->
     <FreshSelfBento lang={lang} />

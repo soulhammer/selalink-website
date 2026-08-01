@@ -1,0 +1,244 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const currentLang = (lang && languages[lang as keyof typeof languages]) ? lang : 'en';
+
+const textMap: Record<string, {
+  badge: string;
+  title: string;
+  desc: string;
+  ocrTitle: string;
+  ocrDesc: string;
+  bcTitle: string;
+  bcDesc: string;
+  item1: string;
+  item2: string;
+  item3: string;
+}> = {
+  ko: {
+    badge: '⚡ 1초 스마트 스캔 시스템',
+    title: '타이핑은 0번!\n바코드와 영수증 찰칵 한 번으로',
+    desc: '마트에서 사 온 가공식품, 우유, 통조림 유통기한을 손으로 치지 마세요. 바코드 스캔 한 번으로 식재료 이름, 카테고리, 소비기한이 자동으로 등록되고 Push 알림까지 설정됩니다.',
+    ocrTitle: '카메라 날짜 OCR',
+    ocrDesc: '인쇄된 날짜 자동 인식',
+    bcTitle: '국내외 바코드 DB',
+    bcDesc: '식재료명 자동 바인딩',
+    item1: '서울우유 1000ml',
+    item2: '체다 슬라이스 치즈',
+    item3: '한우 1등급 등심'
+  },
+  en: {
+    badge: '⚡ 1-Second Smart Scanning System',
+    title: 'Zero Typing Needed.\nScan Barcodes & Receipts Instantly',
+    desc: 'Never manually type expiration dates for groceries or canned food. One quick barcode scan automatically logs ingredient names, categories, and D-day alerts.',
+    ocrTitle: 'Camera Date OCR',
+    ocrDesc: 'Auto-reads printed dates',
+    bcTitle: 'Global Barcode DB',
+    bcDesc: 'Auto-binds food names',
+    item1: 'Fresh Milk 1000ml',
+    item2: 'Cheddar Sliced Cheese',
+    item3: 'Premium Beef Sirloin'
+  },
+  ja: {
+    badge: '⚡ 1秒スマートスキャンシステム',
+    title: '手入力はゼロ！\nバーコードとレシートをパシャッと1回',
+    desc: '購入した食品の賞味期限を手入力する必要はありません。バーコードスキャン1回で食材名、カテゴリー、賞味期限が自動登録され、プッシュ通知まで設定されます。',
+    ocrTitle: 'カメラ日付 OCR',
+    ocrDesc: '印字された日付を自動認識',
+    bcTitle: 'バーコード DB',
+    bcDesc: '食材名を自動バインディング',
+    item1: '新鮮な牛乳 1000ml',
+    item2: 'チェダースライスチーズ',
+    item3: '和牛1等級サーロイン'
+  },
+  zh: {
+    badge: '⚡ 1秒智能扫码系统',
+    title: '零手动输入！\n条形码与小票一键拍照即刻录入',
+    desc: '无需手动打字输入食材保质期。只需扫描条形码，食材名称、分类及保质期将自动录入，并同步设置提醒推送。',
+    ocrTitle: '相机日期 OCR',
+    ocrDesc: '自动识别打印日期',
+    bcTitle: '条形码数据库',
+    bcDesc: '自动匹配食材名称',
+    item1: '鲜牛奶 1000ml',
+    item2: '切片切达干酪',
+    item3: '特级西冷牛肉'
+  },
+  es: {
+    badge: '⚡ Sistema de Escaneo Inteligente en 1 Segundo',
+    title: 'Cero Escritura Manual.\nEscanea Códigos de Barras al Instante',
+    desc: 'No ingreses manualmente las fechas de caducidad. Un escaneo de código de barras registra automáticamente nombres de alimentos, categorías y alertas D-Day.',
+    ocrTitle: 'OCR de Fechas por Cámara',
+    ocrDesc: 'Lee fechas impresas',
+    bcTitle: 'Base de Datos de Códigos',
+    bcDesc: 'Asigna nombres de alimentos',
+    item1: 'Leche Fresca 1000ml',
+    item2: 'Queso Cheddar en Lonchas',
+    item3: 'Lomo de Ternera Premium'
+  },
+  fr: {
+    badge: '⚡ Système de Scan Intelligent en 1 Seconde',
+    title: 'Zéro Saisie Manuelle.\nScannez Codes-barres et Reçus',
+    desc: 'Ne tapez plus les dates de péremption à la main. Un simple scan enregistre automatiquement les noms, catégories et alertes de péremption.',
+    ocrTitle: 'OCR Date par Caméra',
+    ocrDesc: 'Détecte les dates imprimées',
+    bcTitle: 'Base Codes-barres Globale',
+    bcDesc: 'Lie les noms d’aliments',
+    item1: 'Lait Frais 1000ml',
+    item2: 'Fromage Cheddar Fondu',
+    item3: 'Faux-filet de Bœuf Premium'
+  },
+  de: {
+    badge: '⚡ 1-Sekunden-Smart-Scan-System',
+    title: 'Kein Manuelles Tippen.\nBarcode & Beleg Sofort Scannen',
+    desc: 'Geben Sie Mindesthaltbarkeitsdaten nie wieder manuell ein. Ein Barcode-Scan erfasst automatisch Lebensmittelnamen, Kategorien und MHD-Benachrichtigungen.',
+    ocrTitle: 'Kamera-Datum-OCR',
+    ocrDesc: 'Erkennt gedruckte Daten',
+    bcTitle: 'Barcode-Datenbank',
+    bcDesc: 'Verknüpft Lebensmittelnamen',
+    item1: 'Frische Milch 1000ml',
+    item2: 'Cheddar-Scheibenkäse',
+    item3: 'Premium-Rinderlende'
+  },
+  pt: {
+    badge: '⚡ Sistema de Escaneamento Inteligente em 1 Segundo',
+    title: 'Zero Digitação Manual.\nEscaneie Códigos de Barras Instantaneamente',
+    desc: 'Não digite manualmente datas de validade. Um escaneamento de código de barras registra automaticamente nomes, categorias e alertas de validade.',
+    ocrTitle: 'OCR de Data por Câmera',
+    ocrDesc: 'Reconhece datas impressas',
+    bcTitle: 'Banco de Códigos de Barras',
+    bcDesc: 'Vincula nomes de alimentos',
+    item1: 'Leite Fresco 1000ml',
+    item2: 'Queijo Cheddar Fatiado',
+    item3: 'Lomo de Novilho Premium'
+  },
+  id: {
+    badge: '⚡ Sistem Pemindaian Pintar 1 Detik',
+    title: 'Tanpa Ketik Manual.\nPindai Barcode & Struk Seketika',
+    desc: 'Jangan ketik tanggal kedaluwarsa secara manual. Satu pemindaian barcode otomatis mencatat nama bahan makanan, kategori, dan pengingat D-Day.',
+    ocrTitle: 'OCR Tanggal Kamera',
+    ocrDesc: 'Membaca tanggal cetak',
+    bcTitle: 'Database Barcode Global',
+    bcDesc: 'Menghubungkan nama makanan',
+    item1: 'Susu Segar 1000ml',
+    item2: 'Keju Cheddar Lembaran',
+    item3: 'Daging Sapi Sirloin Premium'
+  }
+};
+
+const texts = textMap[currentLang] || textMap['en'];
+---
+
+<section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-12 md:py-20 border-t border-slate-200/50 dark:border-slate-800/40">
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+    
+    <!-- Left Copy -->
+    <div class="lg:col-span-6 space-y-6">
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 text-xs font-bold">
+        <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+        <span>{texts.badge}</span>
+      </div>
+
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight text-slate-900 dark:text-white leading-[1.15] whitespace-pre-line">
+        {texts.title}
+      </h2>
+
+      <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 font-medium leading-relaxed">
+        {texts.desc}
+      </p>
+
+      <div class="grid grid-cols-2 gap-4 pt-2">
+        <div class="p-4 rounded-2xl bg-white dark:bg-slate-900/60 border border-slate-200/80 dark:border-slate-800 space-y-1 shadow-sm">
+          <span class="text-xl">📸</span>
+          <h4 class="text-sm font-extrabold text-slate-900 dark:text-white">{texts.ocrTitle}</h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400">{texts.ocrDesc}</p>
+        </div>
+
+        <div class="p-4 rounded-2xl bg-white dark:bg-slate-900/60 border border-slate-200/80 dark:border-slate-800 space-y-1 shadow-sm">
+          <span class="text-xl">🏷️</span>
+          <h4 class="text-sm font-extrabold text-slate-900 dark:text-white">{texts.bcTitle}</h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400">{texts.bcDesc}</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Graphic: Interactive Laser Scan Simulation Box -->
+    <div class="lg:col-span-6 relative flex justify-center">
+      <div class="relative w-full max-w-[420px] p-6 rounded-[2.5rem] bg-gradient-to-b from-slate-900 via-slate-950 to-slate-900 border border-emerald-500/30 shadow-2xl overflow-hidden group">
+        <!-- Laser Scan Line Effect -->
+        <div class="absolute inset-x-0 h-1 bg-gradient-to-r from-transparent via-emerald-400 to-transparent shadow-[0_0_15px_#34d399] laser-scan z-30 pointer-events-none"></div>
+
+        <!-- Header Status Mockup -->
+        <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-4">
+          <div class="flex items-center gap-2">
+            <span class="w-3 h-3 rounded-full bg-emerald-500"></span>
+            <span class="text-xs font-bold text-slate-300 font-outfit">AI SCANNER READY</span>
+          </div>
+          <span class="text-[10px] font-mono text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded border border-emerald-500/30">100% AUTO MATCH</span>
+        </div>
+
+        <!-- Scanned Item Receipt Card Demo -->
+        <div class="space-y-3 relative z-10">
+          <div class="p-4 rounded-2xl bg-slate-800/80 border border-emerald-500/20 flex items-center justify-between transform transition-transform duration-300 group-hover:scale-[1.02]">
+            <div class="flex items-center gap-3">
+              <span class="text-3xl">🥛</span>
+              <div>
+                <h5 class="text-sm font-bold text-white">{texts.item1}</h5>
+                <span class="text-[10px] text-emerald-400 font-mono">BC: 8801115011012</span>
+              </div>
+            </div>
+            <div class="text-right">
+              <span class="text-xs font-black text-rose-400 block font-outfit">D-5</span>
+              <span class="text-[10px] text-slate-400">2026.08.06</span>
+            </div>
+          </div>
+
+          <div class="p-4 rounded-2xl bg-slate-800/80 border border-slate-700/60 flex items-center justify-between opacity-85">
+            <div class="flex items-center gap-3">
+              <span class="text-3xl">🧀</span>
+              <div>
+                <h5 class="text-sm font-bold text-white">{texts.item2}</h5>
+                <span class="text-[10px] text-teal-400 font-mono">BC: 8801047120345</span>
+              </div>
+            </div>
+            <div class="text-right">
+              <span class="text-xs font-black text-teal-400 block font-outfit">D-45</span>
+              <span class="text-[10px] text-slate-400">2026.09.15</span>
+            </div>
+          </div>
+
+          <div class="p-4 rounded-2xl bg-slate-800/80 border border-slate-700/60 flex items-center justify-between opacity-70">
+            <div class="flex items-center gap-3">
+              <span class="text-3xl">🥩</span>
+              <div>
+                <h5 class="text-sm font-bold text-white">{texts.item3}</h5>
+                <span class="text-[10px] text-amber-400 font-mono">BC: 8801999201923</span>
+              </div>
+            </div>
+            <div class="text-right">
+              <span class="text-xs font-black text-amber-400 block font-outfit">D-2</span>
+              <span class="text-[10px] text-slate-400">2026.08.03</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<style>
+  .laser-scan {
+    animation: scan-move 3s ease-in-out infinite alternate;
+  }
+
+  @keyframes scan-move {
+    0% { top: 10%; opacity: 0.3; }
+    50% { opacity: 1; }
+    100% { top: 90%; opacity: 0.3; }
+  }
+</style>

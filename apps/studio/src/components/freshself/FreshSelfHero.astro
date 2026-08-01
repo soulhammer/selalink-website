@@ -36,18 +36,39 @@ const imgBase = '/assets/images/apps/freshself/en';
 
   <!-- Shelf-Inspired 3D 3-Column Display (lg:col-span-7) -->
   <div class="lg:col-span-7 relative w-full h-auto min-h-[480px] flex items-center justify-center mt-12 lg:mt-0">
+    <!-- Ambient Background Glows -->
+    <div class="absolute -top-10 -left-10 w-64 h-64 bg-emerald-500/15 dark:bg-emerald-500/20 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute -bottom-10 -right-10 w-64 h-64 bg-purple-500/15 dark:bg-purple-500/20 rounded-full blur-3xl pointer-events-none"></div>
+
 	<!-- Leaf Floating Logo Background -->
 	<div class="absolute top-0 right-1/4 w-32 h-32 opacity-15 dark:opacity-25 leaf-logo pointer-events-none">
 	  <img src={`${import.meta.env.BASE_URL}freshself/invite/icon.webp`} alt="FreshSelf Leaf Symbol" class="w-full h-full object-contain" />
 	</div>
 
 	<!-- Shelf Container -->
-	<div class="shelf-container w-full max-w-[680px]">
+	<div class="shelf-container w-full max-w-[680px] relative z-10">
 	  <!-- Shelf Item 1: Login/Setup (Left) -->
 	  <div 
-	  	class="shelf-item-left app-card-interactive rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg"
+	  	class="shelf-item-left app-card-interactive rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg relative"
 	  >
 		<img src={`${imgBase}/3.webp`} alt="FreshSelf Customized Spaces" class="w-full h-auto rounded-[1.8rem] object-cover" loading="eager" />
+		<!-- Floating Glass Badge 1 (Left: D-3 Alert) -->
+		<div class="absolute left-2 sm:-left-4 top-3 sm:top-12 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-2xl border border-emerald-500/30 shadow-xl flex items-center gap-1.5 sm:gap-2 transform -rotate-3 sm:-rotate-6 z-30 scale-95 sm:scale-100">
+		  <span class="text-base sm:text-lg">🥬</span>
+		  <div class="flex flex-col">
+		    <span class="text-[9px] sm:text-[10px] font-bold text-slate-800 dark:text-slate-200">
+		      {lang === 'ko' ? '대파 보관중' :
+		       lang === 'ja' ? '長ネギ保存中' :
+		       lang === 'zh' ? '大葱保存中' :
+		       lang === 'es' ? 'Cebolleta' :
+		       lang === 'fr' ? 'Ciboule' :
+		       lang === 'de' ? 'Lauchzwiebel' :
+		       lang === 'pt' ? 'Cebolinha' :
+		       lang === 'id' ? 'Daun Bawang' : 'Green Onion'}
+		    </span>
+		    <span class="text-[8px] sm:text-[9px] font-black text-emerald-600 dark:text-emerald-400 font-outfit">D-3 PUSH READY</span>
+		  </div>
+		</div>
 	  </div>
 
 	  <!-- Shelf Item 2: Main Shelf (Center - Prominent) -->
@@ -55,18 +76,35 @@ const imgBase = '/assets/images/apps/freshself/en';
 	  	class="shelf-item-center relative app-card-interactive rounded-[2.2rem] p-1.5 bg-white/80 dark:bg-slate-800/80 backdrop-blur-2xl border border-white/80 dark:border-white/20 shadow-2xl"
 	  >
 		<img src={`${imgBase}/1.webp`} alt="FreshSelf Storage List" class="w-full h-auto rounded-[2rem] object-cover" loading="eager" />
-		<!-- Floating Status Glass Badge -->
-		<div class="absolute -right-2 top-16 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3 py-2 rounded-xl border border-slate-100 dark:border-slate-800 shadow-xl flex items-center gap-1.5 transform rotate-6 z-20">
-		  <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-		  <span class="text-[10px] font-bold text-slate-800 dark:text-slate-200">{floatingBadge}</span>
+		<!-- Floating Status Glass Badge 2 (Center: Main Badge) -->
+		<div class="absolute right-2 sm:-right-3 top-4 sm:top-16 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-3 sm:px-3.5 py-2 sm:py-2.5 rounded-2xl border border-purple-500/30 shadow-2xl flex items-center gap-1.5 sm:gap-2 transform rotate-3 sm:rotate-6 z-30 scale-95 sm:scale-100">
+		  <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+		  <span class="text-[11px] sm:text-xs font-black text-slate-800 dark:text-slate-100">{floatingBadge}</span>
 		</div>
 	  </div>
 
 	  <!-- Shelf Item 3: Analytics/Report (Right) -->
 	  <div 
-	  	class="shelf-item-right app-card-interactive rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg"
+	  	class="shelf-item-right app-card-interactive rounded-[2rem] p-1 bg-white/40 dark:bg-slate-800/30 backdrop-blur-xl border border-white/50 dark:border-white/10 shadow-lg relative"
 	  >
 		<img src={`${imgBase}/5.webp`} alt="FreshSelf Rescue Reports" class="w-full h-auto rounded-[1.8rem] object-cover" loading="eager" />
+		<!-- Floating Glass Badge 3 (Right: D-1 Urgency Badge) -->
+		<div class="absolute right-2 sm:-right-4 bottom-3 sm:bottom-12 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md px-2.5 sm:px-3 py-1.5 sm:py-2 rounded-2xl border border-rose-500/30 shadow-xl flex items-center gap-1.5 sm:gap-2 transform rotate-3 z-30 scale-95 sm:scale-100">
+		  <span class="text-base sm:text-lg">🥩</span>
+		  <div class="flex flex-col">
+		    <span class="text-[9px] sm:text-[10px] font-bold text-slate-800 dark:text-slate-200">
+		      {lang === 'ko' ? '한우 등심' :
+		       lang === 'ja' ? '和牛サーロイン' :
+		       lang === 'zh' ? '西冷牛肉' :
+		       lang === 'es' ? 'Ternera' :
+		       lang === 'fr' ? 'Bœuf' :
+		       lang === 'de' ? 'Rinderlende' :
+		       lang === 'pt' ? 'Novilho' :
+		       lang === 'id' ? 'Daging Sapi' : 'Beef Sirloin'}
+		    </span>
+		    <span class="text-[8px] sm:text-[9px] font-black text-rose-500 font-outfit">D-1 URGENT!</span>
+		  </div>
+		</div>
 	  </div>
 	</div>
   </div>
@@ -84,29 +122,42 @@ const imgBase = '/assets/images/apps/freshself/en';
 	  .shelf-container {
 		grid-template-columns: 1fr;
 		gap: 2rem;
+		perspective: none;
+	  }
+	  .shelf-item-left,
+	  .shelf-item-center,
+	  .shelf-item-right {
+		transform: none !important;
+	  }
+	  .shelf-item-left:hover,
+	  .shelf-item-center:hover,
+	  .shelf-item-right:hover {
+		transform: translateY(-4px) !important;
 	  }
 	}
-	.shelf-item-left {
-	  transform: rotateY(12deg) rotateX(4deg) translateZ(0);
-	  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-	}
-	.shelf-item-center {
-	  transform: translateZ(25px) scale(1.04);
-	  z-index: 20;
-	  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-	}
-	.shelf-item-right {
-	  transform: rotateY(-12deg) rotateX(4deg) translateZ(0);
-	  transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-	}
-	.shelf-item-left:hover {
-	  transform: rotateY(3deg) scale(1.02) translateY(-5px);
-	}
-	.shelf-item-center:hover {
-	  transform: translateZ(40px) scale(1.07) translateY(-8px);
-	}
-	.shelf-item-right:hover {
-	  transform: rotateY(-3deg) scale(1.02) translateY(-5px);
+	@media (min-width: 769px) {
+	  .shelf-item-left {
+		transform: rotateY(12deg) rotateX(4deg) translateZ(0);
+		transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+	  }
+	  .shelf-item-center {
+		transform: translateZ(25px) scale(1.04);
+		z-index: 20;
+		transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+	  }
+	  .shelf-item-right {
+		transform: rotateY(-12deg) rotateX(4deg) translateZ(0);
+		transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+	  }
+	  .shelf-item-left:hover {
+		transform: rotateY(3deg) scale(1.02) translateY(-5px);
+	  }
+	  .shelf-item-center:hover {
+		transform: translateZ(40px) scale(1.07) translateY(-8px);
+	  }
+	  .shelf-item-right:hover {
+		transform: rotateY(-3deg) scale(1.02) translateY(-5px);
+	  }
 	}
 
 	.leaf-logo {

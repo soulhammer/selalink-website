@@ -1,0 +1,219 @@
+---
+import { useTranslations, languages } from '../../i18n/ui';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const currentLang = (lang && languages[lang as keyof typeof languages]) ? lang : 'en';
+
+const titleMap: Record<string, { badge: string; main: string }> = {
+  ko: { badge: '❄️ FreshSelf 스마트 냉장고 D-Day 트래커', main: '우리 집 냉장고 속 식재료 D-Day와 보관 장소를 실시간 트래킹' },
+  en: { badge: '❄️ FreshSelf Smart Refrigerator D-Day Tracker', main: 'Real-Time D-Day & Storage Location Tracking for Your Kitchen' },
+  ja: { badge: '❄️ FreshSelf スマート冷蔵庫 D-Day トラッカー', main: 'ご自宅の食材の賞味期限と保存場所をリアルタイム追跡' },
+  zh: { badge: '❄️ FreshSelf 智能冰箱 D-Day 追踪器', main: '实时追踪家中食材保质期与存放位置' },
+  es: { badge: '❄️ Rastreador D-Day de Nevera Inteligente FreshSelf', main: 'Seguimiento en tiempo real de caducidad y ubicación en tu cocina' },
+  fr: { badge: '❄️ Suivi D-Day Frigo Intelligent FreshSelf', main: 'Suivez en temps réel la péremption et l’emplacement de vos aliments' },
+  de: { badge: '❄️ FreshSelf Smarter Kühlschrank D-Day-Tracker', main: 'Echtzeit-MHD & Lagerort-Tracking für Ihre Lebensmittel' },
+  pt: { badge: '❄️ Rastreador D-Day de Geladeira Inteligente FreshSelf', main: 'Rastreamento em tempo real da validade e local dos alimentos' },
+  id: { badge: '❄️ Pelacak D-Day Kulkas Pintar FreshSelf', main: 'Lacak masa kedaluwarsa & lokasi penyimpanan bahan makanan secara real-time' }
+};
+
+const labels = titleMap[currentLang] || titleMap['en'];
+
+const rawItemsRow1 = [
+  {
+    emoji: '🥬',
+    status: 'D-3 ⚠️',
+    name: { ko: '대파', en: 'Green Onion', ja: '長ネギ', zh: '大葱', es: 'Cebolleta', fr: 'Ciboule', de: 'Lauchzwiebel', pt: 'Cebolinha', id: 'Daun Bawang' },
+    location: { ko: '냉장 야채칸', en: 'Veggie Drawer', ja: '野菜室', zh: '蔬菜保鲜盒', es: 'Cajón Verduras', fr: 'Bac à légumes', de: 'Gemüsefach', pt: 'Gaveta de Legumes', id: 'Laci Sayur' }
+  },
+  {
+    emoji: '🥩',
+    status: 'D-1 🚨',
+    name: { ko: '한우 등심', en: 'Beef Sirloin', ja: '和牛サーロイン', zh: '优质西冷牛肉', es: 'Lomo de Ternera', fr: 'Faux-filet de Bœuf', de: 'Rinderlende', pt: 'Lombo de Novilho', id: 'Daging Sapi Sirloin' },
+    location: { ko: '신선 신선실', en: 'Fresh Zone', ja: 'チルド室', zh: '保鲜冷藏室', es: 'Zona Fresca', fr: 'Zone Fraîcheur', de: 'Frischefach', pt: 'Zona Fresca', id: 'Zona Segar' }
+  },
+  {
+    emoji: '🥛',
+    status: 'D-Day 🔔',
+    name: { ko: '서울우유', en: 'Fresh Milk', ja: '新鮮な牛乳', zh: '鲜牛奶', es: 'Leche Fresca', fr: 'Lait Frais', de: 'Frische Milch', pt: 'Leite Fresco', id: 'Susu Segar' },
+    location: { ko: '도어 트레이', en: 'Door Tray', ja: 'ドアポケット', zh: '门边侧架', es: 'Estante Puerta', fr: 'Balconnet de Porte', de: 'Türablage', pt: 'Prateleira da Porta', id: 'Rak Pintu' }
+  },
+  {
+    emoji: '🥚',
+    status: 'D-14',
+    name: { ko: '무항생제 계란', en: 'Fresh Eggs', ja: '無抗生物質卵', zh: '无抗生素鲜蛋', es: 'Huevos Frescos', fr: 'Œufs Frais', de: 'Frische Eier', pt: 'Ovos Frescos', id: 'Telur Segar' },
+    location: { ko: '계란 에그트레이', en: 'Egg Tray', ja: '卵トレイ', zh: '蛋架', es: 'Huevares', fr: 'Support à œufs', de: 'Eiereinsatz', pt: 'Suporte de Ovos', id: 'Nampan Telur' }
+  },
+  {
+    emoji: '🍎',
+    status: 'D-5',
+    name: { ko: '부사 사과', en: 'Fresh Apple', ja: '富士リンゴ', zh: '红富士苹果', es: 'Manzana Fresca', fr: 'Pomme Fraîche', de: 'Frischer Apfel', pt: 'Maçã Fresca', id: 'Apel Segar' },
+    location: { ko: '신선 서랍', en: 'Fruit Drawer', ja: '果物室', zh: '水果保鲜盒', es: 'Cajón Fruta', fr: 'Bac à fruits', de: 'Obstfach', pt: 'Gaveta de Frutas', id: 'Laci Buah' }
+  },
+  {
+    emoji: '🥑',
+    status: 'D-2 ⚠️',
+    name: { ko: '아보카도', en: 'Avocado', ja: 'アボカド', zh: '牛油果', es: 'Aguacate', fr: 'Avocat', de: 'Avocado', pt: 'Abacate', id: 'Alpukat' },
+    location: { ko: '실온 팬트리', en: 'Pantry', ja: '常温パントリー', zh: '常温食品柜', es: 'Despensa', fr: 'Garde-manger', de: 'Vorratskammer', pt: 'Despensa', id: 'Pantry' }
+  },
+  {
+    emoji: '🫐',
+    status: 'D-60',
+    name: { ko: '냉동 블루베리', en: 'Frozen Blueberries', ja: '冷凍ブルーベリー', zh: '冻蓝莓', es: 'Arándanos Congelados', fr: 'Myrtilles Surgelées', de: 'Gefrorene Blaubeeren', pt: 'Mirtilos Congelados', id: 'Blueberry Beku' },
+    location: { ko: '서랍형 냉동실', en: 'Freezer 1', ja: '冷凍室引き出し', zh: '冷冻室抽屉', es: 'Congelador 1', fr: 'Congélateur 1', de: 'Gefrierschrank 1', pt: 'Congelador 1', id: 'Freezer 1' }
+  },
+  {
+    emoji: '🧀',
+    status: 'D-25',
+    name: { ko: '체다 치즈', en: 'Cheddar Cheese', ja: 'チェダーチーズ', zh: '切达干酪', es: 'Queso Cheddar', fr: 'Fromage Cheddar', de: 'Cheddar-Käse', pt: 'Queijo Cheddar', id: 'Keju Cheddar' },
+    location: { ko: '냉장 2번 선반', en: 'Shelf 2', ja: '冷蔵棚2', zh: '冷藏第2层', es: 'Estante 2', fr: 'Étagère 2', de: 'Regal 2', pt: 'Prateleira 2', id: 'Rak 2' }
+  }
+];
+
+const rawItemsRow2 = [
+  {
+    emoji: '🧅',
+    status: 'D-8',
+    name: { ko: '햇양파', en: 'Fresh Onion', ja: '新玉ねぎ', zh: '鲜洋葱', es: 'Cebolla Fresca', fr: 'Oignon Frais', de: 'Frische Zwiebel', pt: 'Cebola Fresca', id: 'Bawang Bomba' },
+    location: { ko: '야채 수납함', en: 'Pantry Box', ja: '野菜収納', zh: '蔬菜收纳盒', es: 'Caja Verduras', fr: 'Boîte à légumes', de: 'Gemüsekiste', pt: 'Caixa de Legumes', id: 'Kotak Sayur' }
+  },
+  {
+    emoji: '🍌',
+    status: 'D-1 🚨',
+    name: { ko: '바나나', en: 'Banana', ja: 'バナナ', zh: '香蕉', es: 'Plátano', fr: 'Banane', de: 'Banane', pt: 'Banana', id: 'Pisang' },
+    location: { ko: '실온 거치대', en: 'Countertop', ja: '常温スタンド', zh: '台面放置', es: 'Encimera', fr: 'Plan de travail', de: 'Arbeitsplatte', pt: 'Bancada', id: 'Meja Dapur' }
+  },
+  {
+    emoji: '🐟',
+    status: 'D-2 ⚠️',
+    name: { ko: '생연어 필렛', en: 'Salmon Fillet', ja: '生サーモン切身', zh: '鲜三文鱼切片', es: 'Filete de Salmón', fr: 'Pavé de Saumon', de: 'Lachsfilet', pt: 'Filete de Salmão', id: 'Fillet Lemon' },
+    location: { ko: '특선 신선실', en: 'Chill Zone', ja: '特選チルド', zh: '特选保鲜区', es: 'Zona Frío Base', fr: 'Zone ultra-fraîche', de: 'Kühlzone', pt: 'Zona de Refrigeração', id: 'Zona Dingin' }
+  },
+  {
+    emoji: '🍞',
+    status: 'D-1 🚨',
+    name: { ko: '우유 식빵', en: 'White Bread', ja: '食パン', zh: '牛奶吐司', es: 'Pan de Molde', fr: 'Pain de Mie', de: 'Toastbrot', pt: 'Pão de Forma', id: 'Roti Tawar' },
+    location: { ko: '주방 트레이', en: 'Kitchen Tray', ja: 'キッチントレイ', zh: '厨房托盘', es: 'Bandeja Cocina', fr: 'Plateau Cuisine', de: 'Küchentablett', pt: 'Bandeja da Cozinha', id: 'Nampan Dapur' }
+  },
+  {
+    emoji: '🥔',
+    status: 'D-18',
+    name: { ko: '강원도 감자', en: 'Potatoes', ja: 'じゃがいも', zh: '马铃薯', es: 'Patatas', fr: 'Pommes de terre', de: 'Kartoffeln', pt: 'Batatas', id: 'Kentang' },
+    location: { ko: '차광 서랍', en: 'Dark Drawer', ja: '遮光引き出し', zh: '避光抽屉', es: 'Cajón Oscuro', fr: 'Tiroir sombre', de: 'Dunkle Schublade', pt: 'Gaveta Escura', id: 'Laci Gelap' }
+  },
+  {
+    emoji: '🍄',
+    status: 'D-4',
+    name: { ko: '팽이버섯', en: 'Enoki Mushroom', ja: 'えのき茸', zh: '金针菇', es: 'Setas Enoki', fr: 'Enoki', de: 'Enoki-Pilze', pt: 'Cogumelos Enoki', id: 'Jamur Enoki' },
+    location: { ko: '냉장 1번 선반', en: 'Shelf 1', ja: '冷蔵棚1', zh: '冷藏第1层', es: 'Estante 1', fr: 'Étagère 1', de: 'Regal 1', pt: 'Prateleira 1', id: 'Rak 1' }
+  },
+  {
+    emoji: '🍤',
+    status: 'D-45',
+    name: { ko: '손질 새우', en: 'Frozen Shrimp', ja: 'むきエビ', zh: '冻虾仁', es: 'Gambas Congeladas', fr: 'Crevettes Surgelées', de: 'Garnelen', pt: 'Camarões Congelados', id: 'Udang Beku' },
+    location: { ko: '하단 냉동실', en: 'Freezer 2', ja: '冷凍室下段', zh: '冷冻室下层', es: 'Congelador 2', fr: 'Congélateur 2', de: 'Gefrierschrank 2', pt: 'Congelador 2', id: 'Freezer 2' }
+  },
+  {
+    emoji: '🥫',
+    status: 'D-180',
+    name: { ko: '참치 통조림', en: 'Canned Tuna', ja: 'ツナ缶', zh: '金枪鱼罐头', es: 'Atún en Lata', fr: 'Thon en Boîte', de: 'Thunfischdose', pt: 'Atum em Lata', id: 'Tuna Kaleng' },
+    location: { ko: '상부 팬트리', en: 'Upper Cabinet', ja: '上段パントリー', zh: '上层食品柜', es: 'Armario Superior', fr: 'Placard haut', de: 'Oberschrank', pt: 'Armário Superior', id: 'Lemari Atas' }
+  }
+];
+
+const itemsRow1 = rawItemsRow1.map(item => ({
+  emoji: item.emoji,
+  status: item.status,
+  name: item.name[currentLang as keyof typeof item.name] || item.name['en'],
+  location: item.location[currentLang as keyof typeof item.location] || item.location['en']
+}));
+
+const itemsRow2 = rawItemsRow2.map(item => ({
+  emoji: item.emoji,
+  status: item.status,
+  name: item.name[currentLang as keyof typeof item.name] || item.name['en'],
+  location: item.location[currentLang as keyof typeof item.location] || item.location['en']
+}));
+---
+
+<section class="relative z-10 w-full py-8 md:py-12 overflow-hidden border-y border-slate-200/60 dark:border-slate-800/60 bg-slate-100/50 dark:bg-slate-950/40 backdrop-blur-md">
+  {/* Side Gradients for Seamless Fading */}
+  <div class="absolute left-0 top-0 bottom-0 w-24 md:w-40 bg-gradient-to-r from-slate-50 dark:from-[#0B0F19] to-transparent z-20 pointer-events-none"></div>
+  <div class="absolute right-0 top-0 bottom-0 w-24 md:w-40 bg-gradient-to-l from-slate-50 dark:from-[#0B0F19] to-transparent z-20 pointer-events-none"></div>
+
+  <div class="max-w-7xl mx-auto px-6 mb-6 text-center space-y-2">
+    <div class="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-purple-500/10 text-purple-600 dark:text-purple-400 text-xs font-extrabold border border-purple-500/20">
+      <span class="w-2 h-2 rounded-full bg-purple-500 animate-ping"></span>
+      <span>{labels.badge}</span>
+    </div>
+    <h3 class="text-lg sm:text-2xl font-black text-slate-900 dark:text-slate-100 tracking-tight">
+      {labels.main}
+    </h3>
+  </div>
+
+  <!-- Marquee Row 1 (Left to Right) -->
+  <div class="flex gap-4 w-max marquee-track hover:[animation-play-state:paused]">
+    {[...itemsRow1, ...itemsRow1, ...itemsRow1].map((item) => (
+      <div class="flex items-center gap-3 px-4 py-3 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-sm backdrop-blur-md shrink-0 cursor-default transition-all duration-300 hover:scale-105">
+        <span class="text-2xl">{item.emoji}</span>
+        <div class="flex flex-col">
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-extrabold text-slate-900 dark:text-slate-100">{item.name}</span>
+            <span class={`text-[10px] font-black font-outfit px-2 py-0.5 rounded-full ${
+              item.status.includes('🚨') ? 'bg-rose-500/10 text-rose-500 border border-rose-500/20' :
+              item.status.includes('⚠️') ? 'bg-amber-500/10 text-amber-500 border border-amber-500/20' :
+              'bg-emerald-500/10 text-emerald-500 border border-emerald-500/20'
+            }`}>
+              {item.status}
+            </span>
+          </div>
+          <span class="text-[10px] text-slate-500 dark:text-slate-400 font-medium">📍 {item.location}</span>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <!-- Marquee Row 2 (Right to Left) -->
+  <div class="flex gap-4 w-max marquee-track-reverse hover:[animation-play-state:paused] mt-4">
+    {[...itemsRow2, ...itemsRow2, ...itemsRow2].map((item) => (
+      <div class="flex items-center gap-3 px-4 py-3 rounded-2xl bg-white dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-sm backdrop-blur-md shrink-0 cursor-default transition-all duration-300 hover:scale-105">
+        <span class="text-2xl">{item.emoji}</span>
+        <div class="flex flex-col">
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-extrabold text-slate-900 dark:text-slate-100">{item.name}</span>
+            <span class={`text-[10px] font-black font-outfit px-2 py-0.5 rounded-full ${
+              item.status.includes('🚨') ? 'bg-rose-500/10 text-rose-500 border border-rose-500/20' :
+              item.status.includes('⚠️') ? 'bg-amber-500/10 text-amber-500 border border-amber-500/20' :
+              'bg-emerald-500/10 text-emerald-500 border border-emerald-500/20'
+            }`}>
+              {item.status}
+            </span>
+          </div>
+          <span class="text-[10px] text-slate-500 dark:text-slate-400 font-medium">📍 {item.location}</span>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<style>
+  .marquee-track {
+    animation: marquee-left 35s linear infinite;
+  }
+  .marquee-track-reverse {
+    animation: marquee-right 35s linear infinite;
+  }
+
+  @keyframes marquee-left {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-33.333%); }
+  }
+
+  @keyframes marquee-right {
+    0% { transform: translateX(-33.333%); }
+    100% { transform: translateX(0); }
+  }
+</style>
