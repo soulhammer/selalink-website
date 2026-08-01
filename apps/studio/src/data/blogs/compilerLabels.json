@@ -154,5 +154,73 @@
     "de": "Wichtige Regeln & Vorsichtsmaßnahmen zur Aufbewahrung",
     "pt": "Regras Essenciais e Precauções para Armazenamento",
     "id": "Aturan Penting & Tindakan Pencegahan untuk Penyimpanan"
+  },
+  "buildselfCta": {
+    "tag": {
+      "ko": "위인 멘토와 함께하는 데일리 성장",
+      "en": "Daily growth with historical mentors",
+      "ja": "偉人メンターと共に毎日成長",
+      "zh": "与历史导师共同每日成长",
+      "es": "Crecimiento diario con mentores históricos",
+      "fr": "Croissance quotidienne avec des mentors historiques",
+      "de": "Tägliches Wachstum mit historischen Mentoren",
+      "pt": "Crescimento diário com mentores históricos",
+      "id": "Pertumbuhan harian bersama mentor sejarah"
+    },
+    "title": {
+      "ko": "BuildSelf - 위인의 삶을 읽었다면, 이제 당신의 습관으로!",
+      "en": "BuildSelf - Inspired by historical greats? Make it your daily habit!",
+      "ja": "BuildSelf - 偉人の習慣を読んだなら、次はあなたの日常へ！",
+      "zh": "BuildSelf - 读完伟人的日常，是时候成为你的习惯了！",
+      "es": "BuildSelf - ¿Inspirado en los grandes históricos? ¡Hazlo tu hábito diario!",
+      "fr": "BuildSelf - Inspiré par les grands noms? Faites-en votre habitude!",
+      "de": "BuildSelf - Inspiriert von historischen Größen? Machen Sie es zu Ihrer Gewohnheit!",
+      "pt": "BuildSelf - Inspirado nos grandes históricos? Faça disso seu hábito diário!",
+      "id": "BuildSelf - Terinspirasi oleh tokoh sejarah? Jadikan kebiasaan harian Anda!"
+    },
+    "desc": {
+      "ko": "",
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "de": "",
+      "pt": "",
+      "id": ""
+    },
+    "btn": {
+      "ko": "",
+      "en": "",
+      "ja": "",
+      "zh": "",
+      "es": "",
+      "fr": "",
+      "de": "",
+      "pt": "",
+      "id": ""
+    },
+    "download": {
+      "ko": "Google Play에서 다운로드",
+      "en": "Download on Google Play",
+      "ja": "Google Playでダウンロード",
+      "zh": "在 Google Play 下载",
+      "es": "Descargar en Google Play",
+      "fr": "Télécharger sur Google Play",
+      "de": "Bei Google Play herunterladen",
+      "pt": "Baixar no Google Play",
+      "id": "Download di Google Play"
+    },
+    "subtext": {
+      "ko": "✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장",
+      "en": "✨ 100% Free · No Sign-up · No Ads · Offline Storage",
+      "ja": "✨ 100%無料 · 登録不要 · 広告なし · ローカル保存",
+      "zh": "✨ 100% 免费 · 免注册 · 无广告 · 离线存储",
+      "es": "✨ 100% Gratis · Sin Registro · Sin Anuncios · Offline",
+      "fr": "✨ 100% Gratuit · Sans Inscription · Sans Publicité · Hors Ligne",
+      "de": "✨ 100% Kostenlos · Keine Registrierung · Keine Werbung · Offline",
+      "pt": "✨ 100% Grátis · Sem Cadastro · Sem Anúncios · Offline",
+      "id": "✨ 100% Gratis · Tanpa Daftar · Tanpa Iklan · Penyimpanan Offline"
+    }
   }
 }

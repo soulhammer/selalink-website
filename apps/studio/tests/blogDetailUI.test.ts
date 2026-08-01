@@ -31,8 +31,8 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     expect(blogDetailTsContent.includes('close-sticky-cta')).toBe(false);
   });
 
-  test('PC 우측 사이드바 목차(Desktop TOC) 하단에 desktop-toc-mini-widget 영역이 추가되었는지 검증', () => {
-    expect(slugContent.includes('id="desktop-toc-mini-widget"')).toBe(true);
+  test('PC 우측 사이드바 목차(Desktop TOC) 하단에 desktop-toc-mini-widget 영역이 제거되었는지 검증', () => {
+    expect(slugContent.includes('id="desktop-toc-mini-widget"')).toBe(false);
   });
 
   test('본문 종료 직후(Post-Article) 영역에 post-article-cta 컨테이너가 ShareToolkit 보다 1순위로 배치되었는지 검증', () => {
@@ -51,8 +51,8 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     // 1. post-article-cta 에서 동적 targetCtaApp 변수가 전달되는지 검증
     expect(slugContent.includes('<BlogAppCta lang={lang as string} app={targetCtaApp} />')).toBe(true);
 
-    // 2. desktop-toc-mini-widget 에 FreshSelf 라벨 및 구글 플레이스토어 모바일 앱 설치 링크가 표시되는지 검증
-    expect(slugContent.includes("FreshSelf") && slugContent.includes("isFreshCategory")).toBe(true);
+    // 2. targetCtaApp 및 isFreshCategory 변수가 바인딩되어 있는지 검증
+    expect(slugContent.includes("isFreshCategory")).toBe(true);
   });
 
   test('반려동물(petself) 카테고리 블로그에서도 SelaLink 대신 FreshSelf 브랜드 및 맞춤형 텍스트가 표시되는지 검증', () => {
@@ -61,7 +61,7 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     expect(slugContent.includes("isFreshCategory")).toBe(true);
   });
 
-  test('일본어를 포함한 다국어 환경에서 미니 위젯 서브 타이틀 정제 시 유니코드 문자가 지워지지 않고 정상 보존되는지 검증', () => {
+  test('일본어를 포함한 다국어 환경에서 서브 타이틀 정제 시 유니코드 문자가 지워지지 않고 정상 보존되는지 검증', () => {
     // 일본어 사원의 cta.freshself.title 테스트
     const jaTitle = '🍏 FreshSelf - スマートな冷蔵庫・保管スペース管理パートナー';
     
@@ -82,8 +82,5 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     const result = cleanFn(jaTitle);
     expect(result).toBe('スマートな冷蔵庫・保管スペース管理パートナー');
     expect(result.length).toBeGreaterThan(0);
-
-    // [slug].astro 파일에도 유니코드 안전 정규식(\p{Emoji} 등)이 적용되었는지 검증
-    expect(slugContent.includes('\\p{Emoji}') || slugContent.includes('cleanCtaTitle')).toBe(true);
   });
 });

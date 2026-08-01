@@ -67,26 +67,8 @@ const categoryKey = themeConfig.categoryKey;
 const categoryLabel = t(`blog.filter.${categoryKey}` as any) || 'SelaLink';
 const categoryColorClass = themeConfig.categoryColorClass;
 
-// PC 미니 위젯 및 CTA용 브랜드 매핑 및 유니코드 안전 중복 제거 서브타이틀 추출
 const isFreshCategory = ['freshsnap', 'freshself', 'petself'].includes(app);
 const targetCtaApp = isFreshCategory ? (app === 'petself' ? 'petself' : 'freshself') : app;
-const rawMiniCtaTitle = t(`cta.${targetCtaApp}.title` as any) || t('cta.general.title');
-
-// 전 세계 모든 언어(일본어/중국어/유럽어 등) 유니코드 보존 브랜드 중복 정제
-const cleanCtaTitle = (raw: string) => {
-  if (!raw) return '';
-  const brands = ['FreshSelf', 'BuildSelf', 'FreshSnap', 'logSelf', 'SelaLink'];
-  let cleaned = raw.replace(/^[\p{Emoji}\p{Symbol}\p{Punctuation}\s]+/u, '');
-  for (const brand of brands) {
-    const regex = new RegExp(`^${brand}\\s*[-–:]?\\s*`, 'i');
-    if (regex.test(cleaned)) {
-      cleaned = cleaned.replace(regex, '');
-      break;
-    }
-  }
-  return cleaned.replace(/^[-–:]\s*/, '').trim() || raw;
-};
-const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
 ---
 
 <Layout 
@@ -230,8 +212,10 @@ const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
         </article>
         
         <!-- Post-Article CTA Container (App CTA 1st Priority) -->
-        <div id="post-article-cta" class="mt-10 pt-8 border-t border-slate-200/60 dark:border-white/10">
-          <BlogAppCta lang={lang as string} app={targetCtaApp} />
+        <div id="post-article-cta" class={targetCtaApp !== 'buildself' ? "mt-10 pt-8 border-t border-slate-200/60 dark:border-white/10" : "hidden"}>
+          {targetCtaApp !== 'buildself' && (
+            <BlogAppCta lang={lang as string} app={targetCtaApp} />
+          )}
         </div>
 
         <!-- Share Toolkit (2nd Priority) -->
@@ -240,15 +224,10 @@ const cleanMiniCtaTitle = cleanCtaTitle(rawMiniCtaTitle);
         </div>
       </div>
 
-      <!-- Desktop Table of Contents (TOC) & Mini Sticky Widget -->
+      <!-- Desktop Table of Contents (TOC) -->
       <BlogTocAside 
         headings={headings}
         t={t}
-        app={app}
-        isFreshCategory={isFreshCategory}
-        cleanMiniCtaTitle={cleanMiniCtaTitle}
-        targetCtaApp={targetCtaApp}
-        lang={lang as string}
       />
     </div>
 

@@ -2,7 +2,7 @@ import fs from 'fs';
 import pathModule from 'path';
 import { fileURLToPath } from 'url';
 import { cleanMarkdown } from '../../utils/compilerHelper.js';
-import { renderEvidenceBox, renderFaqSection } from '../../utils/blogTemplates.js';
+import { renderEvidenceBox, renderFaqSection, renderBuildSelfCtaBox } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -103,6 +103,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     : '';
 
   const evidenceBoxHtml = renderEvidenceBox(lang, authority, 'habits');
+  const appCtaHtml = renderBuildSelfCtaBox(lang);
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
   const habitSec2Title = locData?.habitSection2Title || labels.habitSection2Title[lang] || labels.habitSection2Title['en'];
@@ -125,6 +126,8 @@ ${faqsYaml}
 ${intro}
 
 ${evidenceBoxHtml}
+
+${appCtaHtml}
 
 ---
 
