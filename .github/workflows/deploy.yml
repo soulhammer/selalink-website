@@ -26,7 +26,7 @@ jobs:
       - name: 📦 저장소(레포지토리) 체크아웃
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 이전 커밋들과의 Diff 분석을 통한 증분 테스트가 가능하도록 조치
+          fetch-depth: 1 # 최신 커밋 초고속 체크아웃
 
       - name: 🟢 Node.js 22버전 환경 셋팅
         uses: actions/setup-node@v4
@@ -40,10 +40,13 @@ jobs:
           mkdir -p apps/studio/secrets
           echo '${{ secrets.GOOGLE_SERVICE_KEY }}' > apps/studio/secrets/google-service-key.json
 
-      - name: ⚡ Astro 빌드 에셋 캐싱 복원 및 저장 (node_modules/.astro)
+      - name: ⚡ Astro 빌드 에셋 캐싱 복원 및 저장 (.astro 및 node_modules)
         uses: actions/cache@v4
         with:
-          path: ./apps/studio/node_modules/.astro
+          path: |
+            ./apps/studio/.astro
+            ./apps/studio/node_modules/.astro
+            ./apps/studio/node_modules/.cache
           key: ${{ runner.os }}-astro-${{ hashFiles('apps/studio/package-lock.json', 'apps/studio/src/content/**') }}
           restore-keys: |
             ${{ runner.os }}-astro-
