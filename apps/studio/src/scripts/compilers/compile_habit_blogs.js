@@ -18,7 +18,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const updatedDate = data.updatedDate || histMeta.updatedDate || pubDate;
 
   const relWebpPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.webp`;
-  const relPngPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.png`;
+  const relPngPath = `/images/blog/${blogSlug.replace(/-/g, '_')}.webp`;
   const absWebpPath = pathModule.join(__dirname, '../../../public', relWebpPath);
   
   let heroImage = data.heroImage || histMeta.heroImage;

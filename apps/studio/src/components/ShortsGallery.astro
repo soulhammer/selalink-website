@@ -55,10 +55,11 @@ const theme = appType === 'buildself'
       >
         <div class="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse z-0"></div>
         <img 
-          src={`https://img.youtube.com/vi/${short.id}/maxresdefault.jpg`} 
+          src={`https://i.ytimg.com/vi/${short.id}/hqdefault.jpg`} 
           alt={`${appType} Highlight`} 
+          referrerpolicy="no-referrer"
+          onerror="this.onerror=null; this.src='https://i.ytimg.com/vi/${short.id}/mqdefault.jpg';"
           class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700 relative z-10"
-          onerror={`this.onerror=null; this.src='https://img.youtube.com/vi/${short.id}/hqdefault.jpg';`}
         />
         <!-- 그라데이션 오버레이 및 플레이 버튼 -->
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-transparent flex flex-col justify-end p-6 z-20 transition-all duration-500">

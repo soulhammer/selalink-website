@@ -71,14 +71,15 @@ const isProd = import.meta.env.PROD;
 			<>
 				<!-- Resource Hints for faster third-party connection -->
 				<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+				<link rel="dns-prefetch" href="https://i.ytimg.com" />
 				<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous" />
+				<link rel="preconnect" href="https://i.ytimg.com" crossorigin="anonymous" />
 				<!-- Google tag (gtag.js) -->
 				<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-F045X42F26"></script>
 				<script is:inline>
 				  window.dataLayer = window.dataLayer || [];
 				  function gtag(){dataLayer.push(arguments);}
 				  gtag('js', new Date());
-
 				  gtag('config', 'G-F045X42F26');
 				</script>
 			</>
@@ -99,7 +100,7 @@ const isProd = import.meta.env.PROD;
 		<meta name="naver-site-verification" content="1060c1abc665f9d239ecdc584674b5fbac97f34d" />
 
 		<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
-		<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+		<link rel="apple-touch-icon" href="/images/apple-touch-icon.webp" />
 		<!-- Local Font Preloads -->
 		<link rel="preload" href="/fonts/SpaceGrotesk-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
 		<link rel="preload" href="/fonts/Pretendard-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
@@ -348,10 +349,9 @@ const isProd = import.meta.env.PROD;
 				updateProgressBar();
 			}
 
-			// Interactive Radial Glow logic
+			// Interactive Radial Glow logic (Optimized with rAF & BoundingBox Caching to eliminate Layout Thrashing)
 			if (window.matchMedia('(hover: hover)').matches) {
 				document.querySelectorAll('.bento-card').forEach((card) => {
-					// Create glow element inside if not present (Astro hydration safeguard)
 					let glow = card.querySelector('.bento-glow');
 					if (!glow) {
 						glow = document.createElement('div');
@@ -359,13 +359,29 @@ const isProd = import.meta.env.PROD;
 						card.prepend(glow);
 					}
 					
+					let rect: DOMRect | null = null;
+					let animationFrameId: number | null = null;
+
+					const updateRect = () => {
+						rect = card.getBoundingClientRect();
+					};
+
+					card.addEventListener('mouseenter', updateRect, { passive: true });
+					window.addEventListener('resize', updateRect, { passive: true });
+					
 					card.addEventListener('mousemove', (e: any) => {
-						const rect = card.getBoundingClientRect();
-						const x = e.clientX - rect.left;
-						const y = e.clientY - rect.top;
-						(glow as HTMLElement).style.setProperty('--mouse-x', `${x}px`);
-						(glow as HTMLElement).style.setProperty('--mouse-y', `${y}px`);
-					});
+						if (!rect) updateRect();
+						if (animationFrameId !== null) return;
+
+						const mouseX = e.clientX - (rect?.left || 0);
+						const mouseY = e.clientY - (rect?.top || 0);
+
+						animationFrameId = requestAnimationFrame(() => {
+							(glow as HTMLElement).style.setProperty('--mouse-x', `${mouseX}px`);
+							(glow as HTMLElement).style.setProperty('--mouse-y', `${mouseY}px`);
+							animationFrameId = null;
+						});
+					}, { passive: true });
 				});
 			}
 		</script>

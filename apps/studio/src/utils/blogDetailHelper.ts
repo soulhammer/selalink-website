@@ -75,7 +75,7 @@ export function generateStructuredData({
         "name": "SelaLink Studio",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://selalink.net/favicon.png"
+          "url": "https://selalink.net/favicon.webp"
         }
       },
       "mainEntityOfPage": {

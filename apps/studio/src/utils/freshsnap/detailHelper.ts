@@ -203,7 +203,7 @@ export function getFreshSnapDetailData(currentItem: any, currentLang: string): F
     "description": dynamicDescription,
     "image": currentItem.iconImage 
       ? (currentItem.iconImage.startsWith('http') ? currentItem.iconImage : `https://selalink.net${currentItem.iconImage}`)
-      : "https://selalink.net/assets/images/og/freshself.png",
+      : "https://selalink.net/assets/images/og/freshself.webp",
     "step": steps
   };
 

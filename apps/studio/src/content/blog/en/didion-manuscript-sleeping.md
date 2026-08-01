@@ -55,7 +55,7 @@ In today's post, we analyze the brain science underlying Joan Didion's 'manuscri
       <div class="space-y-1.5 w-full text-center">
         <h3 class="text-xl md:text-2xl font-black text-slate-900 dark:text-white tracking-tight leading-snug text-center m-0 flex flex-col items-center">
           <span class="inline-flex items-center gap-2 text-sky-600 dark:text-sky-400 font-black text-base md:text-lg tracking-wider uppercase">
-            <img src="/images/buildself/icon.png" alt="BuildSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-sky-200 dark:border-sky-500/30 m-0" />
+            <img src="/images/buildself/icon.webp" alt="BuildSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-sky-200 dark:border-sky-500/30 m-0" />
             <span>BuildSelf</span>
           </span>
           <span class="block text-base md:text-xl font-extrabold text-slate-900 dark:text-white leading-snug mt-0.5">Inspired by historical greats? Make it your daily habit!</span>

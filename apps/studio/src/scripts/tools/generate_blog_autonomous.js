@@ -271,7 +271,7 @@ updatedDate: "${todayStr}"
         dislikes: [],
         bodyLanguage: [],
         dailyRoutine: { step1: "", step2: "", step3: "" },
-        heroImage: `/assets/images/blogs/pets/${slug}.png`,
+        heroImage: `/assets/images/blogs/pets/${slug}.webp`,
         sources: []
       };
       fs.mkdirSync(path.dirname(itemsPath), { recursive: true });

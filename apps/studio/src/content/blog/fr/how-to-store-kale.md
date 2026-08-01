@@ -53,7 +53,7 @@ Dans ce guide, vous présente un guide de conservation du kale en 3 étapes reco
       <div class="space-y-1.5 w-full text-center">
         <h3 class="text-xl md:text-2xl font-black text-slate-900 dark:text-white tracking-tight leading-snug text-center m-0 flex flex-col items-center">
           <span class="inline-flex items-center gap-2 text-purple-600 dark:text-purple-400 font-black text-base md:text-lg tracking-wider uppercase">
-            <img src="/images/freshself/icon.png" alt="FreshSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-purple-200 dark:border-purple-500/30 m-0" />
+            <img src="/images/freshself/icon.webp" alt="FreshSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-purple-200 dark:border-purple-500/30 m-0" />
             <span>FreshSelf</span>
           </span>
           <span class="block text-base md:text-xl font-extrabold text-slate-900 dark:text-white leading-snug mt-0.5">Zéro gaspillage! Votre assistant de stockage intelligent</span>

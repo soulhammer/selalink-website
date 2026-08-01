@@ -8,6 +8,7 @@ const defaultConcurrency = process.env.CI ? 2 : Math.min(os.cpus().length, 4);
 // https://astro.build/config
 export default defineConfig({
   site: 'https://selalink.net',
+  compressHTML: true,
   build: {
     concurrency: defaultConcurrency
   },

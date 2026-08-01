@@ -13,7 +13,7 @@ const t = useTranslations(currentLang);
 // 앱별 브랜드 컬러 및 안내 텍스트 분기
 const appDetails = {
   freshsnap: {
-    icon: '/favicon.png',
+    icon: '/favicon.webp',
     title: t('cta.freshsnap.title'),
     desc: t('cta.freshsnap.desc'),
     btnText: t('cta.freshsnap.btn'),
@@ -25,7 +25,7 @@ const appDetails = {
     playStoreId: null
   },
   freshself: {
-    icon: '/images/freshself/icon.png',
+    icon: '/images/freshself/icon.webp',
     title: t('cta.freshself.title'),
     desc: t('cta.freshself.desc'),
     btnText: t('cta.freshself.btn'),
@@ -37,7 +37,7 @@ const appDetails = {
     playStoreId: 'com.selalink.freshself'
   },
   buildself: {
-    icon: '/images/buildself/icon.png',
+    icon: '/images/buildself/icon.webp',
     title: t('cta.buildself.title'),
     desc: t('cta.buildself.desc'),
     btnText: t('cta.buildself.btn'),
@@ -49,7 +49,7 @@ const appDetails = {
     playStoreId: 'com.selalink.buildself'
   },
   logself: {
-    icon: '/images/logself/icon.png',
+    icon: '/images/logself/icon.webp',
     title: t('app.logself.title') || 'logSelf',
     desc: t('app.logself.desc') || 'The safest way to log yourself.',
     btnText: t('cta.general.btn') || 'Learn More',
@@ -61,7 +61,7 @@ const appDetails = {
     playStoreId: 'com.selalink.logself'
   },
   general: {
-    icon: '/favicon.png',
+    icon: '/favicon.webp',
     title: t('cta.general.title'),
     desc: t('cta.general.desc'),
     btnText: t('cta.general.btn'),
@@ -73,7 +73,7 @@ const appDetails = {
     playStoreId: null
   },
   petself: {
-    icon: '/images/freshself/icon.png',
+    icon: '/images/freshself/icon.webp',
     title: t('cta.petself.title'),
     desc: t('cta.petself.desc'),
     btnText: t('cta.petself.btn'),
@@ -130,7 +130,7 @@ const styleVars = app === 'freshsnap'
             <h3 class="text-xl md:text-2xl font-black text-slate-900 dark:text-white tracking-tight leading-snug text-center flex flex-col items-center">
               <span class="inline-flex items-center gap-2 text-sky-600 dark:text-sky-400 font-black text-base md:text-lg tracking-wider uppercase">
                 <img 
-                  src={`${import.meta.env.BASE_URL}images/buildself/icon.png`} 
+                  src={`${import.meta.env.BASE_URL}images/buildself/icon.webp`} 
                   alt="BuildSelf App Icon" 
                   class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-sky-200 dark:border-sky-500/30" 
                 />

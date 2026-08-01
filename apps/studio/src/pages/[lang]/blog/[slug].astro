@@ -138,6 +138,9 @@ const categoryColorClass = themeConfig.categoryColorClass;
           <img 
             src={safeHeroImage} 
             alt={title}
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
             class="relative z-10 max-h-[240px] sm:max-h-[360px] md:max-h-[480px] w-auto object-contain mx-auto pointer-events-none"
           />
         </div>

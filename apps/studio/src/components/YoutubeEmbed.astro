@@ -8,10 +8,10 @@ interface Props {
 
 const { id, title = "YouTube Video", isShorts = true, app = 'freshsnap' } = Astro.props;
 
-// 고화질 썸네일 URL 추출
+// 고화질 썸네일 URL 추출 (i.ytimg.com 표준 CDN 사용)
 const thumbnailUrls = [
-  `https://img.youtube.com/vi/${id}/maxresdefault.jpg`,
-  `https://img.youtube.com/vi/${id}/hqdefault.jpg`
+  `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+  `https://i.ytimg.com/vi/${id}/mqdefault.jpg`
 ];
 const mediaType = isShorts ? 'shorts' : 'watch';
 ---
@@ -26,6 +26,7 @@ const mediaType = isShorts ? 'shorts' : 'watch';
     <img 
       src={thumbnailUrls[0]} 
       alt={title}
+      referrerpolicy="no-referrer"
       onerror={`this.onerror=null; this.src='${thumbnailUrls[1]}';`}
       class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
       loading="lazy"

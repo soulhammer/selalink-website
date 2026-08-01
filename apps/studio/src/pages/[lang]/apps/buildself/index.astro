@@ -19,7 +19,7 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 const t = useTranslations(lang as keyof typeof languages);
 ---
-<Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.png" appId="buildself">
+<Layout title={t('app.buildself.meta.title')} lang={lang} description={t('app.buildself.desc')} ogType="software" image="/assets/images/og/buildself.webp" appId="buildself">
 	<div class="bg-slate-50 dark:bg-slate-900 min-h-screen pt-4 md:pt-10 pb-20 overflow-hidden relative">
 		<!-- Background decorative elements -->
 		<AppBackgroundBlurs appId="buildself" />
